@@ -1,5 +1,7 @@
 # Rakumei Majo to Toki wo Kakeru Dannasama no Shinanai Konyakuin
 
+![rakumei-majo-to-toki-wo-kakeru-dannasama-no-shinanai-konyakuin](https://cdn.myanimelist.net/images/manga/1/235075.jpg)
+
 -   **type**: manga
 -   **original-name**: 落命魔女と時をかける旦那様の死なない婚約印
 -   **start-date**: 2019-12-20

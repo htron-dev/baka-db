@@ -1,5 +1,7 @@
 # Roba
 
+![roba](https://cdn.myanimelist.net/images/anime/12/84482.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 驢馬

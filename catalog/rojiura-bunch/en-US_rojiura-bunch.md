@@ -1,5 +1,7 @@
 # Rojiura Bunch
 
+![rojiura-bunch](https://cdn.myanimelist.net/images/manga/1/204366.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

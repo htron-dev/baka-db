@@ -1,5 +1,7 @@
 # Route 20
 
+![route-20](https://cdn.myanimelist.net/images/manga/3/1846.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

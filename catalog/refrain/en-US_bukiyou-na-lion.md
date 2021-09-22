@@ -1,5 +1,7 @@
 # Bukiyou na Lion
 
+![bukiyou-na-lion](https://cdn.myanimelist.net/images/manga/1/236428.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

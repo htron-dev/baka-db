@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu: Dai-4 Shou - Seiiki to Gouyoku no Majo
 
+![re-zero-kara-hajimeru-isekai-seikatsu-dai-4-shou-seiiki-to-gouyoku-no-majo](https://cdn.myanimelist.net/images/manga/2/227408.jpg)
+
 -   **type**: manga
 -   **original-name**: Re:ゼロから始める異世界生活 第四章 聖域と強欲の魔女
 -   **start-date**: 2019-09-27

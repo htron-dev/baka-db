@@ -1,5 +1,7 @@
 # Rensa no Carneades
 
+![rensa-no-carneades](https://cdn.myanimelist.net/images/manga/3/152001.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 連鎖のカルネアデス

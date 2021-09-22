@@ -1,5 +1,7 @@
 # Nintama Rantarou no Jishin Youjin Hi no Youjin
 
+![nintama-rantarou-no-jishin-youjin-hi-no-youjin](https://cdn.myanimelist.net/images/anime/10/68961.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 忍たま乱太郎の 地震用心 火の用心

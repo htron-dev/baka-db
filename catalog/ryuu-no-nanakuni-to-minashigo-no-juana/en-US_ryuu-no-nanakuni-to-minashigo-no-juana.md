@@ -1,5 +1,7 @@
 # Ryuu no Nanakuni to Minashigo no Juana
 
+![ryuu-no-nanakuni-to-minashigo-no-juana](https://cdn.myanimelist.net/images/manga/1/193585.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

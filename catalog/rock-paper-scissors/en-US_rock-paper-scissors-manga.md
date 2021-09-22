@@ -1,5 +1,7 @@
 # Rock Paper Scissors
 
+![rock-paper-scissors](https://cdn.myanimelist.net/images/manga/2/170096.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

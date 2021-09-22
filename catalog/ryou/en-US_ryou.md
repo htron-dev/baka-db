@@ -1,5 +1,7 @@
 # Ryou
 
+![ryou](https://cdn.myanimelist.net/images/manga/1/32566.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 91

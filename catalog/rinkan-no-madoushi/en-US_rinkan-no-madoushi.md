@@ -1,5 +1,7 @@
 # Rinkan no Madoushi
 
+![rinkan-no-madoushi](https://cdn.myanimelist.net/images/manga/2/115135.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: 輪環の魔導師

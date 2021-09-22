@@ -1,5 +1,7 @@
 # Reincarnation no Kanata
 
+![reincarnation-no-kanata](https://cdn.myanimelist.net/images/manga/3/163861.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

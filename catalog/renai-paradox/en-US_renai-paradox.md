@@ -1,5 +1,7 @@
 # Renai Paradox
 
+![renai-paradox](https://cdn.myanimelist.net/images/manga/2/207276.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

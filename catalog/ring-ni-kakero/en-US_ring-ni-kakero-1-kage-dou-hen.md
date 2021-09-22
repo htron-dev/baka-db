@@ -1,5 +1,7 @@
 # Ring ni Kakero 1: Kage Dou-hen
 
+![ring-ni-kakero-1-kage-dou-hen](https://cdn.myanimelist.net/images/anime/9/18864.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: リングにかけろ 1 影道編

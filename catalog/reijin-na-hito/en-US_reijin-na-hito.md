@@ -1,5 +1,7 @@
 # Reijin na Hito
 
+![reijin-na-hito](https://cdn.myanimelist.net/images/manga/1/35362.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 麗人な女性

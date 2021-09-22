@@ -1,5 +1,7 @@
 # Renai Shimasen ka?
 
+![renai-shimasen-ka](https://cdn.myanimelist.net/images/manga/2/100777.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

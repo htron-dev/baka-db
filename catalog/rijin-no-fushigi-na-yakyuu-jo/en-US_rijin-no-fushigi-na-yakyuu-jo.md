@@ -1,5 +1,7 @@
 # Rijin no Fushigi na Yakyuu (Jo)
 
+![rijin-no-fushigi-na-yakyuu-jo](https://cdn.myanimelist.net/images/manga/3/129335.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

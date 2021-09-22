@@ -1,5 +1,7 @@
 # Robot Girls Z Episode 0
 
+![robot-girls-z-episode-0](https://cdn.myanimelist.net/images/anime/12/74382.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ロボットガールズ Z 0

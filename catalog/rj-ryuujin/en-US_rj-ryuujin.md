@@ -1,5 +1,7 @@
 # RJ - Ryuujin
 
+![rj-ryuujin](https://cdn.myanimelist.net/images/manga/3/60139.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

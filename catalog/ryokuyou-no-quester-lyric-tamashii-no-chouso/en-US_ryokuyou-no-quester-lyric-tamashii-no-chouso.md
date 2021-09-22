@@ -1,5 +1,7 @@
 # Ryokuyou no Quester Lyric: Tamashii no Chouso
 
+![ryokuyou-no-quester-lyric-tamashii-no-chouso](https://cdn.myanimelist.net/images/manga/3/165205.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

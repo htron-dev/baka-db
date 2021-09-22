@@ -1,5 +1,7 @@
 # Rin-chan Now
 
+![rin-chan-now](https://cdn.myanimelist.net/images/manga/1/194943.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: リンちゃんなう

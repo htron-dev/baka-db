@@ -1,5 +1,7 @@
 # Renai Joshi File
 
+![renai-joshi-file](https://cdn.myanimelist.net/images/manga/1/88633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

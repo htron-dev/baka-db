@@ -1,5 +1,7 @@
 # Ren'ai Shiokinin!
 
+![renai-shiokinin](https://cdn.myanimelist.net/images/manga/2/11073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛・仕置人！

@@ -1,5 +1,7 @@
 # Ryuuhou no Fumoto ni Bokura wa Sundeimasu
 
+![ryuuhou-no-fumoto-ni-bokura-wa-sundeimasu](https://cdn.myanimelist.net/images/manga/1/171422.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 竜峰の麓に僕らは住んでいます
 -   **start-date**: 2016-01-30

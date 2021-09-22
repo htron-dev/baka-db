@@ -1,5 +1,7 @@
 # Ranobe-bu
 
+![ranobe-bu](https://cdn.myanimelist.net/images/manga/2/90209.jpg)
+
 -   **type**: manga
 -   **original-name**: ラノベ部
 -   **start-date**: 2010-10-26

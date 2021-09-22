@@ -1,5 +1,7 @@
 # Ryuugajou Nanana no Maizoukin
 
+![ryuugajou-nanana-no-maizoukin](https://cdn.myanimelist.net/images/anime/11/47725.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 龍ヶ嬢七々々の埋蔵金

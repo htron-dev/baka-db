@@ -1,5 +1,7 @@
 # Robotics;Notes: Senomiya Misaki no Mihappyou Shuki
 
+![robotics-notes-senomiya-misaki-no-mihappyou-shuki](https://cdn.myanimelist.net/images/manga/2/153561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

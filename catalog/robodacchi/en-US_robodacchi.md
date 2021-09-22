@@ -1,5 +1,7 @@
 # Robodacchi
 
+![robodacchi](https://cdn.myanimelist.net/images/manga/2/237238.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ロボダッチ

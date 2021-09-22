@@ -1,5 +1,7 @@
 # R.O.D Rehabilitation
 
+![r-o-d-rehabilitation](https://cdn.myanimelist.net/images/manga/3/116735.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

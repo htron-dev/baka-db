@@ -1,5 +1,7 @@
 # Reajuu na Kanojo
 
+![reajuu-na-kanojo](https://cdn.myanimelist.net/images/manga/2/222688.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

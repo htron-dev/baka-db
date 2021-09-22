@@ -1,5 +1,7 @@
 # Rugby-bu Joshi Manager Kakumei: Nazuna no Onegai!!
 
+![rugby-bu-joshi-manager-kakumei-nazuna-no-onegai](https://cdn.myanimelist.net/images/manga/2/144741.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

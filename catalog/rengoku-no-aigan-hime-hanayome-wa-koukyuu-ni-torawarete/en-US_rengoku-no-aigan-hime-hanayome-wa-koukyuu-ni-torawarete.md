@@ -1,5 +1,7 @@
 # Rengoku no Aigan-hime: Hanayome wa Koukyuu ni Torawarete
 
+![rengoku-no-aigan-hime-hanayome-wa-koukyuu-ni-torawarete](https://cdn.myanimelist.net/images/manga/3/183791.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

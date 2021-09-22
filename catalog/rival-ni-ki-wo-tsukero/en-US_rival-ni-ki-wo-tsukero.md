@@ -1,5 +1,7 @@
 # Rival ni Ki wo Tsukero
 
+![rival-ni-ki-wo-tsukero](https://cdn.myanimelist.net/images/manga/3/2198.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

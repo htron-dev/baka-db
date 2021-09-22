@@ -1,5 +1,7 @@
 # Rakudai Ninja Rantarou
 
+![rakudai-ninja-rantarou](https://cdn.myanimelist.net/images/manga/2/46903.jpg)
+
 -   **type**: manga
 -   **volumes**: 65
 -   **chapters**: 366

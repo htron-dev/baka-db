@@ -1,5 +1,7 @@
 # Rozen Maiden (2008)
 
+![rozen-maiden-2008](https://cdn.myanimelist.net/images/manga/2/113855.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 68

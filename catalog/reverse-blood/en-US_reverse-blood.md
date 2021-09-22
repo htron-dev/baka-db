@@ -1,5 +1,7 @@
 # Reverse Blood
 
+![reverse-blood](https://cdn.myanimelist.net/images/manga/2/183552.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 44

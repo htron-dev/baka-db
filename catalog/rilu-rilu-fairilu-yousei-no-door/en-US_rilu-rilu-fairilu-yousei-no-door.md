@@ -1,5 +1,7 @@
 # Rilu Rilu Fairilu: Yousei no Door
 
+![rilu-rilu-fairilu-yousei-no-door](https://cdn.myanimelist.net/images/anime/7/83790.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 59
 -   **original-name**: リルリルフェアリル～妖精のドア～

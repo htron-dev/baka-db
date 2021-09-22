@@ -1,5 +1,7 @@
 # Rival mo Raku ja nai
 
+![rival-mo-raku-ja-nai](https://cdn.myanimelist.net/images/manga/2/38918.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ライバルも楽じゃない

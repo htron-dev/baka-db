@@ -1,5 +1,7 @@
 # Ringo, Ki kara Ochiru
 
+![ringo-ki-kara-ochiru](https://cdn.myanimelist.net/images/manga/3/191472.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

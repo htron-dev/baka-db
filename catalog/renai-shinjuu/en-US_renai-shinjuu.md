@@ -1,5 +1,7 @@
 # Renai Shinjuu
 
+![renai-shinjuu](https://cdn.myanimelist.net/images/manga/2/63593.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 8

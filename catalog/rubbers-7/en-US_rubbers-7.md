@@ -1,5 +1,7 @@
 # Rubbers 7
 
+![rubbers-7](https://cdn.myanimelist.net/images/manga/3/3353.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 54

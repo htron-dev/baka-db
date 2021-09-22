@@ -1,5 +1,7 @@
 # R.O.D: Read or Die
 
+![r-o-d-read-or-die](https://cdn.myanimelist.net/images/anime/1/208.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: R.O.D リード・オア・ダイ

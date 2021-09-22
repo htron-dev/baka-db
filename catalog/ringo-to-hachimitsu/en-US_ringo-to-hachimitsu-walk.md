@@ -1,5 +1,7 @@
 # Ringo to Hachimitsu Walk
 
+![ringo-to-hachimitsu-walk](https://cdn.myanimelist.net/images/manga/1/177106.jpg)
+
 -   **type**: manga
 -   **original-name**: 林檎と蜂蜜 walk
 -   **start-date**: 2009-04-25

@@ -1,5 +1,7 @@
 # Ruby Blood
 
+![ruby-blood](https://cdn.myanimelist.net/images/manga/2/21057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

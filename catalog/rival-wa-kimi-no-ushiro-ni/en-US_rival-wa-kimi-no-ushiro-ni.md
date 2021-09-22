@@ -1,5 +1,7 @@
 # Rival wa Kimi no Ushiro ni
 
+![rival-wa-kimi-no-ushiro-ni](https://cdn.myanimelist.net/images/manga/1/225812.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 恋敵〈ライバル〉は君のうしろに

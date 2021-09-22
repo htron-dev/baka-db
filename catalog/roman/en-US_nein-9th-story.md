@@ -1,5 +1,7 @@
 # Nein: 9th Story
 
+![nein-9th-story](https://cdn.myanimelist.net/images/manga/3/190236.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

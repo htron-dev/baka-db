@@ -1,5 +1,7 @@
 # Ronin Kairo
 
+![ronin-kairo](https://cdn.myanimelist.net/images/manga/1/23894.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

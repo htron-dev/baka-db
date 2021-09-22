@@ -1,5 +1,7 @@
 # Ramen Ikaga!?
 
+![ramen-ikaga](https://cdn.myanimelist.net/images/manga/2/7643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

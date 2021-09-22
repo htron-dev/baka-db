@@ -1,5 +1,7 @@
 # Rorikura☆Hold!
 
+![rorikura☆-hold](https://cdn.myanimelist.net/images/manga/1/173798.jpg)
+
 -   **type**: manga
 -   **original-name**: ロリクラ ☆ ほーるど！
 -   **start-date**: 2014-09-05

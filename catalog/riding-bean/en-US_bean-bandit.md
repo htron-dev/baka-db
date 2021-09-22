@@ -1,5 +1,7 @@
 # Bean Bandit
 
+![bean-bandit](https://cdn.myanimelist.net/images/anime/1651/93298.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: BEAN BANDIT

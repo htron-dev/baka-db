@@ -1,5 +1,7 @@
 # Rune Factory 4
 
+![rune-factory-4](https://cdn.myanimelist.net/images/manga/2/235181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

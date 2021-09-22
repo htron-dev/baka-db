@@ -1,5 +1,7 @@
 # Rascal
 
+![rascal](https://cdn.myanimelist.net/images/manga/3/167946.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

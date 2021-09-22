@@ -1,5 +1,7 @@
 # Riku wa Yowakunai
 
+![riku-wa-yowakunai](https://cdn.myanimelist.net/images/anime/1647/117700.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: リクはよわくない

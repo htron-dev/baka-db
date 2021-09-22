@@ -1,5 +1,7 @@
 # Rui no Masaiban
 
+![rui-no-masaiban](https://cdn.myanimelist.net/images/anime/10/37867.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ルイの魔裁判

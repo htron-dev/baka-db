@@ -1,5 +1,7 @@
 # Reide Fusai ni Naresome
 
+![reide-fusai-ni-naresome](https://cdn.myanimelist.net/images/manga/2/235465.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 37

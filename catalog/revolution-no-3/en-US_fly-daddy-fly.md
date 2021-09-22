@@ -1,5 +1,7 @@
 # Fly, Daddy, Fly
 
+![fly-daddy-fly](https://cdn.myanimelist.net/images/manga/2/169236.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

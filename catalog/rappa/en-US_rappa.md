@@ -1,5 +1,7 @@
 # RAPPA
 
+![rappa](https://cdn.myanimelist.net/images/manga/3/27059.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

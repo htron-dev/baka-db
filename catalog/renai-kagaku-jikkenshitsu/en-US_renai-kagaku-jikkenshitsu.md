@@ -1,5 +1,7 @@
 # Renai Kagaku Jikkenshitsu
 
+![renai-kagaku-jikkenshitsu](https://cdn.myanimelist.net/images/manga/2/79747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Radiant
 
+![radiant](https://cdn.myanimelist.net/images/anime/1318/95345.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: ラディアン

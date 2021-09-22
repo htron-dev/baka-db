@@ -1,5 +1,7 @@
 # Rakuen no Ori
 
+![rakuen-no-ori](https://cdn.myanimelist.net/images/manga/1/158207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

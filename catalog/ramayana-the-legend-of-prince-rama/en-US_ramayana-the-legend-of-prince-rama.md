@@ -1,5 +1,7 @@
 # Ramayana: The Legend of Prince Rama
 
+![ramayana-the-legend-of-prince-rama](https://cdn.myanimelist.net/images/anime/1070/104671.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ラーマヤーナ ラーマ王子伝説

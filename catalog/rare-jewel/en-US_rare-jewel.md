@@ -1,5 +1,7 @@
 # Rare Jewel
 
+![rare-jewel](https://cdn.myanimelist.net/images/manga/2/158784.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 42

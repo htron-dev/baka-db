@@ -1,5 +1,7 @@
 # Rekkoku Rikugun
 
+![rekkoku-rikugun](https://cdn.myanimelist.net/images/anime/5/86972.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 漫画の列国陸軍

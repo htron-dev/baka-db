@@ -1,5 +1,7 @@
 # Rokka no Yuusha
 
+![rokka-no-yuusha](https://cdn.myanimelist.net/images/anime/9/74374.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 六花の勇者

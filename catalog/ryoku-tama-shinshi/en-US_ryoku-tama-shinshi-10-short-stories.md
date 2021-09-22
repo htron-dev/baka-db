@@ -1,5 +1,7 @@
 # Ryoku Tama Shinshi: 10 Short Stories
 
+![ryoku-tama-shinshi-10-short-stories](https://cdn.myanimelist.net/images/anime/1847/102886.jpg)
+
 -   **type**: special
 -   **episodes**: 10
 -   **original-name**: 緑玉紳士 10 Short Stories

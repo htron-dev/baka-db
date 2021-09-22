@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Break Time 2nd Season
 
+![re-zero-kara-hajimeru-break-time-2nd-season](https://cdn.myanimelist.net/images/anime/1586/108326.jpg)
+
 -   **type**: special
 -   **episodes**: 25
 -   **original-name**: Re:ゼロから始める休憩時間（ブレイクタイム）2nd season

@@ -1,5 +1,7 @@
 # Robot Taekwon V: Wooju Jakjeon
 
+![robot-taekwon-v-wooju-jakjeon](https://cdn.myanimelist.net/images/anime/4/44666.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 로보트 태권V 우주작전

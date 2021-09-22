@@ -1,5 +1,7 @@
 # Ranker's High
 
+![rankers-high](https://cdn.myanimelist.net/images/manga/1/196015.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 52

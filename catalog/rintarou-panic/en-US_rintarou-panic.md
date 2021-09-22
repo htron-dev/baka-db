@@ -1,5 +1,7 @@
 # Rintarou Panic!
 
+![rintarou-panic](https://cdn.myanimelist.net/images/manga/1/170019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 35

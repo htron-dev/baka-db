@@ -1,5 +1,7 @@
 # Rescue Academia
 
+![rescue-academia](https://cdn.myanimelist.net/images/anime/9/89810.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: レスキューアカデミア
 -   **rating**: G - All Ages

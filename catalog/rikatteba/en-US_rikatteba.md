@@ -1,5 +1,7 @@
 # Rikatteba!
 
+![rikatteba](https://cdn.myanimelist.net/images/manga/3/19724.jpg)
+
 -   **type**: manga
 -   **original-name**: リカってば!
 

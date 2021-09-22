@@ -1,5 +1,7 @@
 # Rinjin wo Mai seyo!
 
+![rinjin-wo-mai-seyo](https://cdn.myanimelist.net/images/manga/3/192124.jpg)
+
 -   **type**: manga
 -   **original-name**: 隣人を妹せよ！
 -   **start-date**: 2012-04-21

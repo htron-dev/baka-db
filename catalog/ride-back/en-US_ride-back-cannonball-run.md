@@ -1,5 +1,7 @@
 # RideBack: Cannonball Run
 
+![ride-back-cannonball-run](https://cdn.myanimelist.net/images/manga/2/172041.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

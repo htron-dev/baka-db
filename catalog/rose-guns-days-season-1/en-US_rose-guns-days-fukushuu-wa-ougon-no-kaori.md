@@ -1,5 +1,7 @@
 # Rose Guns Days: Fukushuu wa Ougon no Kaori
 
+![rose-guns-days-fukushuu-wa-ougon-no-kaori](https://cdn.myanimelist.net/images/manga/1/115979.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # RPG: Role Playing Gangster - Aruiwa Boka ga Lupin ni Natta Riyuu
 
+![rpg-role-playing-gangster-aruiwa-boka-ga-lupin-ni-natta-riyuu](https://cdn.myanimelist.net/images/manga/2/169615.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

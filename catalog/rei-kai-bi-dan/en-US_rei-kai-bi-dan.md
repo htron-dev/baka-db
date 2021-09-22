@@ -1,5 +1,7 @@
 # Rei Kai Bi Dan
 
+![rei-kai-bi-dan](https://cdn.myanimelist.net/images/manga/2/5704.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

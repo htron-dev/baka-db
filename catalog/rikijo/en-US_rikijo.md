@@ -1,5 +1,7 @@
 # Rikijo
 
+![rikijo](https://cdn.myanimelist.net/images/manga/1/174045.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

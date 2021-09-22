@@ -1,5 +1,7 @@
 # Robot no Momo-chan
 
+![robot-no-momo-chan](https://cdn.myanimelist.net/images/manga/2/167815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

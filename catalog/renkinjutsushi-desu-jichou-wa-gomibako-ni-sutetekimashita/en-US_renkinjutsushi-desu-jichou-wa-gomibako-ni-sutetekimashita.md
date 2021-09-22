@@ -1,5 +1,7 @@
 # Renkinjutsushi desu. Jichou wa Gomibako ni Sutetekimashita.
 
+![renkinjutsushi-desu-jichou-wa-gomibako-ni-sutetekimashita](https://cdn.myanimelist.net/images/manga/3/238890.jpg)
+
 -   **type**: manga
 -   **original-name**: 錬金術師です。自重はゴミ箱に捨ててきました。
 -   **start-date**: 2019-07-09

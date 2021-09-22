@@ -1,5 +1,7 @@
 # Renai Joujou↑↑
 
+![renai-joujou↑↑](https://cdn.myanimelist.net/images/manga/2/161950.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

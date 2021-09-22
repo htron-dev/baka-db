@@ -1,5 +1,7 @@
 # Rekken Gorou
 
+![rekken-gorou](https://cdn.myanimelist.net/images/manga/1/228916.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 烈剣五郎

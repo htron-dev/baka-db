@@ -1,5 +1,7 @@
 # Ro-Kyu-Bu!
 
+![ro-kyu-bu](https://cdn.myanimelist.net/images/manga/2/161611.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **chapters**: 95

@@ -1,5 +1,7 @@
 # Red Garden
 
+![red-garden](https://cdn.myanimelist.net/images/anime/5/25411.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: レッド ガーデン

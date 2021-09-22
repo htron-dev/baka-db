@@ -1,5 +1,7 @@
 # ReCollection
 
+![re-collection](https://cdn.myanimelist.net/images/manga/2/169613.jpg)
+
 -   **type**: manga
 -   **original-name**: ReCollection
 -   **start-date**: 2013-10-25

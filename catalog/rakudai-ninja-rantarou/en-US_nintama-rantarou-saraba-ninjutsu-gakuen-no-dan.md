@@ -1,5 +1,7 @@
 # Nintama Rantarou: Saraba Ninjutsu Gakuen no Dan
 
+![nintama-rantarou-saraba-ninjutsu-gakuen-no-dan](https://cdn.myanimelist.net/images/anime/10/88492.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 忍たま乱太郎 さらば 忍術学園 の段

@@ -1,5 +1,7 @@
 # Rokudenashi Blues
 
+![rokudenashi-blues](https://cdn.myanimelist.net/images/anime/13/25146.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ろくでなし BLUES

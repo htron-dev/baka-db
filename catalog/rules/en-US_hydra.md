@@ -1,5 +1,7 @@
 # Hydra
 
+![hydra](https://cdn.myanimelist.net/images/manga/5/26130.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

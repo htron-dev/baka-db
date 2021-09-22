@@ -1,5 +1,7 @@
 # Rensou no Aria
 
+![rensou-no-aria](https://cdn.myanimelist.net/images/manga/1/21870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

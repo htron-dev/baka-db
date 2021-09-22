@@ -1,5 +1,7 @@
 # Rang Wo Men Shao Ba
 
+![rang-wo-men-shao-ba](https://cdn.myanimelist.net/images/anime/1744/112321.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 让我们烧吧

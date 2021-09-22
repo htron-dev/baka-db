@@ -1,5 +1,7 @@
 # Rude 39
 
+![rude-39](https://cdn.myanimelist.net/images/manga/3/63839.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

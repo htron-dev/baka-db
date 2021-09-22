@@ -1,5 +1,7 @@
 # Red Sprite
 
+![red-sprite](https://cdn.myanimelist.net/images/manga/2/189739.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

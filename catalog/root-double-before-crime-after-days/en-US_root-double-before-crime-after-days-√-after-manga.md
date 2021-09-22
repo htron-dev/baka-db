@@ -1,5 +1,7 @@
 # Root Double: Before Crime\*After Days - √After
 
+![root-double-before-crime-after-days-√-after](https://cdn.myanimelist.net/images/manga/1/125671.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Renbaku: Anata to Tsunagaru Akaiito
 
+![renbaku-anata-to-tsunagaru-akaiito](https://cdn.myanimelist.net/images/manga/1/200223.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

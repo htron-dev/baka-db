@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu Tanpenshuu
 
+![re-zero-kara-hajimeru-isekai-seikatsu-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/179393.jpg)
+
 -   **type**: light-novel
 -   **original-name**: Re：ゼロから始める異世界生活 短編集
 -   **start-date**: 2014-04-26

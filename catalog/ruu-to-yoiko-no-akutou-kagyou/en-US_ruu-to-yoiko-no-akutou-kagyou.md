@@ -1,5 +1,7 @@
 # Ruu to Yoiko no Akutou Kagyou
 
+![ruu-to-yoiko-no-akutou-kagyou](https://cdn.myanimelist.net/images/manga/2/161865.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 25

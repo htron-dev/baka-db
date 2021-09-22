@@ -1,5 +1,7 @@
 # Risutora Host
 
+![risutora-host](https://cdn.myanimelist.net/images/manga/3/39484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: リストラホスト

@@ -1,5 +1,7 @@
 # ReRe Hello
 
+![re-re-hello](https://cdn.myanimelist.net/images/manga/1/183754.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 47

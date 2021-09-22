@@ -1,5 +1,7 @@
 # Riot of the World
 
+![riot-of-the-world](https://cdn.myanimelist.net/images/manga/3/31905.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ライオットオブザワールド

@@ -1,5 +1,7 @@
 # Please
 
+![please](https://cdn.myanimelist.net/images/manga/4/26100.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

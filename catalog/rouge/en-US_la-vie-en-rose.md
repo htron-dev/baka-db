@@ -1,5 +1,7 @@
 # La Vie en Rose
 
+![la-vie-en-rose](https://cdn.myanimelist.net/images/manga/3/224296.jpg)
+
 -   **type**: manga
 -   **original-name**: ラヴィアンローズ
 -   **start-date**: 2018-06-07

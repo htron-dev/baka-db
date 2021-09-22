@@ -1,5 +1,7 @@
 # Ral Meshi: Ramba Ral no Haitoku Gohan
 
+![ral-meshi-ramba-ral-no-haitoku-gohan](https://cdn.myanimelist.net/images/manga/3/239388.jpg)
+
 -   **type**: manga
 -   **original-name**: ラル飯～ランバ・ラルの背徳ごはん～
 -   **start-date**: 2020-11-26

@@ -1,5 +1,7 @@
 # Rokkashaku to Neji no Teikoku
 
+![rokkashaku-to-neji-no-teikoku](https://cdn.myanimelist.net/images/manga/1/152782.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 六花爵と螺子の帝国

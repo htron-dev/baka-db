@@ -1,5 +1,7 @@
 # Ringo to Bara to Kyuuketsuki (Kari)
 
+![ringo-to-bara-to-kyuuketsuki-kari](https://cdn.myanimelist.net/images/manga/2/234145.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

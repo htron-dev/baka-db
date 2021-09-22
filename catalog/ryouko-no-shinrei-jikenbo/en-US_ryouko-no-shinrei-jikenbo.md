@@ -1,5 +1,7 @@
 # Ryouko no Shinrei Jikenbo
 
+![ryouko-no-shinrei-jikenbo](https://cdn.myanimelist.net/images/manga/3/5587.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

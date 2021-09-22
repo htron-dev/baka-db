@@ -1,5 +1,7 @@
 # Ribbon no Kishi
 
+![ribbon-no-kishi](https://cdn.myanimelist.net/images/manga/2/130953.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Ren Ai Cupid
 
+![ren-ai-cupid](https://cdn.myanimelist.net/images/manga/1/4054.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

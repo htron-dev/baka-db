@@ -1,5 +1,7 @@
 # Ryakudatsu Ouji no Hanayome Kyouiku: Nessa no Mai ni Midasarete
 
+![ryakudatsu-ouji-no-hanayome-kyouiku-nessa-no-mai-ni-midasarete](https://cdn.myanimelist.net/images/manga/1/164457.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 略奪王子の花嫁教育 熱砂の舞に乱されて

@@ -1,5 +1,7 @@
 # Ryuusei Kachou
 
+![ryuusei-kachou](https://cdn.myanimelist.net/images/manga/1/161226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

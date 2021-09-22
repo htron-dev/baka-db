@@ -1,5 +1,7 @@
 # Rule Sono Ichi
 
+![rule-sono-ichi](https://cdn.myanimelist.net/images/manga/2/20552.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

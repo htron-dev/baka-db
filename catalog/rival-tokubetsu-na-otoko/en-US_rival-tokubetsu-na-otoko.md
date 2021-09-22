@@ -1,5 +1,7 @@
 # Rival: Tokubetsu na Otoko
 
+![rival-tokubetsu-na-otoko](https://cdn.myanimelist.net/images/manga/3/223933.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

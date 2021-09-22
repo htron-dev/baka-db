@@ -1,5 +1,7 @@
 # Ro-Kyu-Bu!: Half Time
 
+![ro-kyu-bu-half-time](https://cdn.myanimelist.net/images/manga/1/165924.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

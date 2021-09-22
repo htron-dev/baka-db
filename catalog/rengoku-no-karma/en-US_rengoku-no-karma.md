@@ -1,5 +1,7 @@
 # Rengoku no Karma
 
+![rengoku-no-karma](https://cdn.myanimelist.net/images/manga/3/148993.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

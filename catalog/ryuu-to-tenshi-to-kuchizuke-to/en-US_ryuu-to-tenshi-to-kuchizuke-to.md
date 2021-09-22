@@ -1,5 +1,7 @@
 # Ryuu to Tenshi to Kuchizuke to
 
+![ryuu-to-tenshi-to-kuchizuke-to](https://cdn.myanimelist.net/images/manga/2/162132.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 竜と天使と口付けと

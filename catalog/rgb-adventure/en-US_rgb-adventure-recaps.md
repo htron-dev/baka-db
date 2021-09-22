@@ -1,5 +1,7 @@
 # RGB Adventure Recaps
 
+![rgb-adventure-recaps](https://cdn.myanimelist.net/images/anime/1759/107951.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: RGB アドベンチャー『Another Adventure』

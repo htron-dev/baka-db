@@ -1,5 +1,7 @@
 # Rilakkuma to Kaoru-san
 
+![rilakkuma-to-kaoru-san](https://cdn.myanimelist.net/images/anime/1582/100702.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: リラックマとカオルさん

@@ -1,5 +1,7 @@
 # Romantic Risk
 
+![romantic-risk](https://cdn.myanimelist.net/images/manga/1/130599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

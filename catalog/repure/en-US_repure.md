@@ -1,5 +1,7 @@
 # Repure
 
+![repure](https://cdn.myanimelist.net/images/manga/2/11830.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

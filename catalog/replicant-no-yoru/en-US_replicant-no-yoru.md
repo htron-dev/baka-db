@@ -1,5 +1,7 @@
 # Replicant no Yoru
 
+![replicant-no-yoru](https://cdn.myanimelist.net/images/manga/2/30953.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

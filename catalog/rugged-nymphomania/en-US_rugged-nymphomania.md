@@ -1,5 +1,7 @@
 # Rugged Nymphomania
 
+![rugged-nymphomania](https://cdn.myanimelist.net/images/manga/2/63491.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

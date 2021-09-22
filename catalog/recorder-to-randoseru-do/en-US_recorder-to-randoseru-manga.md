@@ -1,5 +1,7 @@
 # Recorder to Randoseru
 
+![recorder-to-randoseru](https://cdn.myanimelist.net/images/manga/1/46681.jpg)
+
 -   **type**: manga
 -   **original-name**: リコーダーとランドセル
 

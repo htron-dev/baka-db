@@ -1,5 +1,7 @@
 # Rival Position demo Watakushi wa
 
+![rival-position-demo-watakushi-wa](https://cdn.myanimelist.net/images/manga/3/225507.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: ライバルポジでもわたくしは

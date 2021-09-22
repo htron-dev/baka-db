@@ -1,5 +1,7 @@
 # Renai Meiro de Kiken na Kaori
 
+![renai-meiro-de-kiken-na-kaori](https://cdn.myanimelist.net/images/manga/3/195936.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋愛迷路で危険な香り

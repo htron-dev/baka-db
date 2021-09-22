@@ -1,5 +1,7 @@
 # Raise Kamika
 
+![raise-kamika](https://cdn.myanimelist.net/images/manga/3/201003.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

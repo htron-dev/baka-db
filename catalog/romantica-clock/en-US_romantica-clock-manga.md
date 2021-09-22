@@ -1,5 +1,7 @@
 # Romantica Clock
 
+![romantica-clock](https://cdn.myanimelist.net/images/manga/1/179832.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 53

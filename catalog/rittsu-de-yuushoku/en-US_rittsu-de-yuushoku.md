@@ -1,5 +1,7 @@
 # Rittsu de Yuushoku
 
+![rittsu-de-yuushoku](https://cdn.myanimelist.net/images/manga/2/166759.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: リッツで夕食

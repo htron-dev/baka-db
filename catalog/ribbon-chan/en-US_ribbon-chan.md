@@ -1,5 +1,7 @@
 # Ribbon-chan
 
+![ribbon-chan](https://cdn.myanimelist.net/images/anime/13/48753.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: リボンちゃん

@@ -1,5 +1,7 @@
 # Rebirth Moon Divergence
 
+![rebirth-moon-divergence](https://cdn.myanimelist.net/images/anime/7/6829.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: リバース ムーン ディバージェンス

@@ -1,5 +1,7 @@
 # Romantist Egoist
 
+![romantist-egoist](https://cdn.myanimelist.net/images/manga/2/5916.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ロマンチスト　エゴイスト

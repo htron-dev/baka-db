@@ -1,5 +1,7 @@
 # Ryuu to Mahou no Kuusenki
 
+![ryuu-to-mahou-no-kuusenki](https://cdn.myanimelist.net/images/manga/2/194292.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 竜と魔法の空戦記
 -   **start-date**: 2017-05-30

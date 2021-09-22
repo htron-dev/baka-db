@@ -1,5 +1,7 @@
 # Ryuu no Hihou wo Daku Otome
 
+![ryuu-no-hihou-wo-daku-otome](https://cdn.myanimelist.net/images/manga/2/229610.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 竜の秘宝を抱く乙女

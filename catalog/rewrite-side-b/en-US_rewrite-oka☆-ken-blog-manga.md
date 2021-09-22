@@ -1,5 +1,7 @@
 # Rewrite: Oka☆Ken Blog
 
+![rewrite-oka☆-ken-blog](https://cdn.myanimelist.net/images/manga/2/128623.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

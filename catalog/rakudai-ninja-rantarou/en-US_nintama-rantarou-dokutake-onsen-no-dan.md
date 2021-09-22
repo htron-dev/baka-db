@@ -1,5 +1,7 @@
 # Nintama Rantarou: Dokutake Onsen no Dan
 
+![nintama-rantarou-dokutake-onsen-no-dan](https://cdn.myanimelist.net/images/anime/10/74596.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 忍たま乱太郎 ドクタケ温泉の段

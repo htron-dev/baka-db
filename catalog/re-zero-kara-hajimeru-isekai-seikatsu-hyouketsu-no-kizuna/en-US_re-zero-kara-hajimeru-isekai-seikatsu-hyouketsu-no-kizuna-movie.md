@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna
 
+![re-zero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna](https://cdn.myanimelist.net/images/anime/1238/104023.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Re：ゼロから始める異世界生活『氷結の絆』

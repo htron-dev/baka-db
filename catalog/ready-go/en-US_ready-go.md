@@ -1,5 +1,7 @@
 # Ready, Go!
 
+![ready-go](https://cdn.myanimelist.net/images/manga/2/13336.jpg)
+
 -   **type**: manga
 -   **original-name**: レディー・ゴー！
 

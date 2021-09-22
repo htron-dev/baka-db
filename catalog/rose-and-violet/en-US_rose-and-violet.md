@@ -1,5 +1,7 @@
 # Rose and Violet
 
+![rose-and-violet](https://cdn.myanimelist.net/images/manga/2/26172.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

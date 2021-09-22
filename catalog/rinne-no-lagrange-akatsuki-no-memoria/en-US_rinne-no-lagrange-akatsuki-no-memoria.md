@@ -1,5 +1,7 @@
 # Rinne no Lagrange: Akatsuki no Memoria
 
+![rinne-no-lagrange-akatsuki-no-memoria](https://cdn.myanimelist.net/images/manga/1/166594.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

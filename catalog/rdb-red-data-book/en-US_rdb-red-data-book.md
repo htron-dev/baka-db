@@ -1,5 +1,7 @@
 # RDB: Red Data Book
 
+![rdb-red-data-book](https://cdn.myanimelist.net/images/manga/1/199914.jpg)
+
 -   **type**: manga
 -   **original-name**: RDB－レッドデータブック－
 -   **start-date**: 2016-11-04

@@ -1,5 +1,7 @@
 # Rojiura Brothers
 
+![rojiura-brothers](https://cdn.myanimelist.net/images/manga/3/165570.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

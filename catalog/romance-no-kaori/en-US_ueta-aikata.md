@@ -1,5 +1,7 @@
 # Ueta Aikata
 
+![ueta-aikata](https://cdn.myanimelist.net/images/manga/1/42660.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

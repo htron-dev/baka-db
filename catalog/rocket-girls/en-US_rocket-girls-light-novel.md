@@ -1,5 +1,7 @@
 # Rocket Girls
 
+![rocket-girls](https://cdn.myanimelist.net/images/manga/3/37812.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: ロケットガール

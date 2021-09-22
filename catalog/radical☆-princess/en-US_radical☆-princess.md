@@ -1,5 +1,7 @@
 # Radical☆Princess
 
+![radical☆-princess](https://cdn.myanimelist.net/images/manga/1/164377.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: らでぃかる ☆ ぷりんせす

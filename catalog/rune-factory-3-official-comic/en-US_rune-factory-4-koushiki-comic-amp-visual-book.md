@@ -1,5 +1,7 @@
 # Rune Factory 4: Koushiki Comic &amp; Visual Book
 
+![rune-factory-4-koushiki-comic-amp-visual-book](https://cdn.myanimelist.net/images/manga/2/169850.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Random Walk
 
+![random-walk](https://cdn.myanimelist.net/images/manga/3/173656.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

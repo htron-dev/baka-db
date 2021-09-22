@@ -1,5 +1,7 @@
 # Rakuen made Ato Mou Chotto
 
+![rakuen-made-ato-mou-chotto](https://cdn.myanimelist.net/images/manga/3/32539.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

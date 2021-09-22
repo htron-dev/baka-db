@@ -1,5 +1,7 @@
 # Raku Mote
 
+![raku-mote](https://cdn.myanimelist.net/images/manga/3/5456.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ラク ♥ モテ (ラクしてモテる恋愛術)

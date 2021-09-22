@@ -1,5 +1,7 @@
 # GunSmith Cats Burst
 
+![gun-smith-cats-burst](https://cdn.myanimelist.net/images/manga/1/186045.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 54

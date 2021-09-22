@@ -1,5 +1,7 @@
 # Ring ni Kakero 1 Pilot
 
+![ring-ni-kakero-1-pilot](https://cdn.myanimelist.net/images/anime/10/85551.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: リングにかけろ１ パイロットフィルム

@@ -1,5 +1,7 @@
 # Nintama Rantarou no Koutsuu Anzen
 
+![nintama-rantarou-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1190/99403.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 忍たま乱太郎の交通安全

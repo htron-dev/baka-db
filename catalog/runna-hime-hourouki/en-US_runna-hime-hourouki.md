@@ -1,5 +1,7 @@
 # Runna-hime Hourouki
 
+![runna-hime-hourouki](https://cdn.myanimelist.net/images/manga/1/177786.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ルンナ姫放浪記

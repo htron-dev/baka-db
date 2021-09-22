@@ -1,5 +1,7 @@
 # Rewrite:Side-Terra
 
+![rewrite-side-terra](https://cdn.myanimelist.net/images/manga/2/184004.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

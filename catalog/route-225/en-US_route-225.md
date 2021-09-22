@@ -1,5 +1,7 @@
 # Route 225
 
+![route-225](https://cdn.myanimelist.net/images/manga/5/40367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

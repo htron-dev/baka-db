@@ -1,5 +1,7 @@
 # RG Veda
 
+![rg-veda](https://cdn.myanimelist.net/images/manga/4/1483.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 16

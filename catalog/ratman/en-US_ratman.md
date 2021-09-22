@@ -1,5 +1,7 @@
 # Ratman
 
+![ratman](https://cdn.myanimelist.net/images/manga/1/147451.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 65

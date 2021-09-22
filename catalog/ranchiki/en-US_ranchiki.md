@@ -1,5 +1,7 @@
 # Ranchiki
 
+![ranchiki](https://cdn.myanimelist.net/images/manga/1/87455.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ランチキ

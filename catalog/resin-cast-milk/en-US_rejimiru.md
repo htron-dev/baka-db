@@ -1,5 +1,7 @@
 # Rejimiru.
 
+![rejimiru](https://cdn.myanimelist.net/images/manga/1/164668.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: れじみる。

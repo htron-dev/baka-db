@@ -1,5 +1,7 @@
 # Renai Secret
 
+![renai-secret](https://cdn.myanimelist.net/images/manga/2/31280.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛・SECRET

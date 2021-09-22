@@ -1,5 +1,7 @@
 # Risou no Musume nara Sekai Saikyou demo Kawaigatte Kuremasu ka?
 
+![risou-no-musume-nara-sekai-saikyou-demo-kawaigatte-kuremasu-ka](https://cdn.myanimelist.net/images/manga/1/223037.jpg)
+
 -   **type**: manga
 -   **original-name**: 理想の娘なら世界最強でも可愛がってくれますか?
 -   **start-date**: 2019-03-20

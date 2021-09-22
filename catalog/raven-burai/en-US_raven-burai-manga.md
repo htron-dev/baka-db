@@ -1,5 +1,7 @@
 # Raven Burai
 
+![raven-burai](https://cdn.myanimelist.net/images/manga/1/227653.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: レイブン無頼

@@ -1,5 +1,7 @@
 # Room No.1301
 
+![room-no-1301](https://cdn.myanimelist.net/images/manga/2/162509.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 41

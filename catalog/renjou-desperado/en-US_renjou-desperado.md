@@ -1,5 +1,7 @@
 # Renjou Desperado
 
+![renjou-desperado](https://cdn.myanimelist.net/images/manga/1/196096.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

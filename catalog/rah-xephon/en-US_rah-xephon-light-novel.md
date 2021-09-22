@@ -1,5 +1,7 @@
 # RahXephon
 
+![rah-xephon](https://cdn.myanimelist.net/images/manga/3/76539.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: ラーゼフォン

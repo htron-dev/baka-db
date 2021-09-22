@@ -1,5 +1,7 @@
 # Right x Light
 
+![right-x-light](https://cdn.myanimelist.net/images/manga/3/134599.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 74

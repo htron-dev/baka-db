@@ -1,5 +1,7 @@
 # Revelation
 
+![revelation](https://cdn.myanimelist.net/images/manga/2/244888.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: レベレーション（啓示）

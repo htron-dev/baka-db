@@ -1,5 +1,7 @@
 # Re:Creators
 
+![re-creators](https://cdn.myanimelist.net/images/manga/2/199589.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

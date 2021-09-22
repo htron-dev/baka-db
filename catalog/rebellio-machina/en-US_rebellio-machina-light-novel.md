@@ -1,5 +1,7 @@
 # Rebellio Machina
 
+![rebellio-machina](https://cdn.myanimelist.net/images/manga/1/234609.jpg)
+
 -   **type**: light-novel
 -   **original-name**: リベリオ・マキナ
 -   **start-date**: 2019-02-09

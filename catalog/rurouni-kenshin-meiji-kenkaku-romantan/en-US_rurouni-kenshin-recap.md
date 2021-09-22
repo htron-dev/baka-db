@@ -1,5 +1,7 @@
 # Rurouni Kenshin Recap
 
+![rurouni-kenshin-recap](https://cdn.myanimelist.net/images/anime/13/28413.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: るろうに剣心

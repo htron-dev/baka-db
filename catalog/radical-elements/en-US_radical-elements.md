@@ -1,5 +1,7 @@
 # Radical Elements
 
+![radical-elements](https://cdn.myanimelist.net/images/manga/1/163401.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

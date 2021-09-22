@@ -1,5 +1,7 @@
 # Rakuen no Torikago
 
+![rakuen-no-torikago](https://cdn.myanimelist.net/images/manga/1/130199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 楽園の鳥篭

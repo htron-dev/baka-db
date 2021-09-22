@@ -1,5 +1,7 @@
 # Ryou Omoi no Kakuritsu Ron
 
+![ryou-omoi-no-kakuritsu-ron](https://cdn.myanimelist.net/images/manga/2/3000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

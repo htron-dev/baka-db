@@ -1,5 +1,7 @@
 # Rockman Megamix
 
+![rockman-megamix](https://cdn.myanimelist.net/images/manga/2/204033.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Renai Anagram
 
+![renai-anagram](https://cdn.myanimelist.net/images/manga/2/26392.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

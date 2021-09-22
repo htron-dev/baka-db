@@ -1,5 +1,7 @@
 # Rebellio Machina
 
+![rebellio-machina](https://cdn.myanimelist.net/images/manga/1/234607.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Roommates
 
+![roommates](https://cdn.myanimelist.net/images/manga/1/225357.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 고백을 못하고
 -   **start-date**: 2015-07-03

@@ -1,5 +1,7 @@
 # Renai Shitakunai Wake ja Nai kedo
 
+![renai-shitakunai-wake-ja-nai-kedo](https://cdn.myanimelist.net/images/manga/3/199958.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋愛したくないわけじゃないけど
 -   **start-date**: 2016-08-21

@@ -1,5 +1,7 @@
 # RPG Fudousan
 
+![rpg-fudousan](https://cdn.myanimelist.net/images/manga/2/241668.jpg)
+
 -   **type**: manga
 -   **original-name**: RPG 不動産
 -   **start-date**: 2018-04-28

@@ -1,5 +1,7 @@
 # Ruriiro no Yaiba to Shuiro no Kizuna
 
+![ruriiro-no-yaiba-to-shuiro-no-kizuna](https://cdn.myanimelist.net/images/manga/2/132171.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 瑠璃色の刃と朱色の絆

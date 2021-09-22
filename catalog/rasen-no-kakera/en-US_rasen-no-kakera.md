@@ -1,5 +1,7 @@
 # Rasen no Kakera
 
+![rasen-no-kakera](https://cdn.myanimelist.net/images/manga/1/5006.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 螺旋のかけら

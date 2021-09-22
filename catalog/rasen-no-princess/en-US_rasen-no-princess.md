@@ -1,5 +1,7 @@
 # Rasen no Princess
 
+![rasen-no-princess](https://cdn.myanimelist.net/images/manga/1/161367.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

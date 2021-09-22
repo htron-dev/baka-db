@@ -1,5 +1,7 @@
 # RE:Map
 
+![re-map](https://cdn.myanimelist.net/images/anime/10/82092.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: RE:Map（リマップ）

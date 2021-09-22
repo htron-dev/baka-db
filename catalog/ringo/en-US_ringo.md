@@ -1,5 +1,7 @@
 # Ringo
 
+![ringo](https://cdn.myanimelist.net/images/manga/3/219411.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: RINGO

@@ -1,5 +1,7 @@
 # World Trigger 3rd Season
 
+![world-trigger-3rd-season](https://cdn.myanimelist.net/images/anime/1617/117474.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ワールドトリガー
 -   **start-date**: 2021-10-20

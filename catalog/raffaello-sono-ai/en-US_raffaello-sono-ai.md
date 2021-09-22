@@ -1,5 +1,7 @@
 # Raffaello: Sono Ai
 
+![raffaello-sono-ai](https://cdn.myanimelist.net/images/manga/3/236842.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

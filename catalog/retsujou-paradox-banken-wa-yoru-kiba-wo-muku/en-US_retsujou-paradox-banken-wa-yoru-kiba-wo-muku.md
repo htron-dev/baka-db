@@ -1,5 +1,7 @@
 # Retsujou Paradox: Banken wa Yoru, Kiba wo Muku
 
+![retsujou-paradox-banken-wa-yoru-kiba-wo-muku](https://cdn.myanimelist.net/images/manga/3/246514.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

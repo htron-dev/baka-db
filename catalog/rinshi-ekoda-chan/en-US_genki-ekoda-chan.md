@@ -1,5 +1,7 @@
 # Genki!! Ekoda-chan
 
+![genki-ekoda-chan](https://cdn.myanimelist.net/images/anime/6/28950.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 元気!!江古田ちゃん

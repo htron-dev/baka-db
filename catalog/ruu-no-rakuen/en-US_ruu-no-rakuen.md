@@ -1,5 +1,7 @@
 # Ruu no Rakuen
 
+![ruu-no-rakuen](https://cdn.myanimelist.net/images/manga/1/69825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

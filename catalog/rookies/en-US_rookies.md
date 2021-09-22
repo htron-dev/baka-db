@@ -1,5 +1,7 @@
 # Rookies
 
+![rookies](https://cdn.myanimelist.net/images/manga/1/153289.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 233

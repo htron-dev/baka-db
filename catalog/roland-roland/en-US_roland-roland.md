@@ -1,5 +1,7 @@
 # Roland Roland
 
+![roland-roland](https://cdn.myanimelist.net/images/manga/3/242112.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 롤랑롤랑
 -   **start-date**: 2018-09-06

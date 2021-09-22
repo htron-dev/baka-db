@@ -1,5 +1,7 @@
 # Shin Rape
 
+![shin-rape](https://cdn.myanimelist.net/images/manga/2/71335.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

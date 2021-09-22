@@ -1,5 +1,7 @@
 # Isshiki-san wa Koi wo Shiritai.
 
+![isshiki-san-wa-koi-wo-shiritai](https://cdn.myanimelist.net/images/manga/1/245817.jpg)
+
 -   **type**: manga
 -   **original-name**: 一式さんは恋を知りたい。
 -   **start-date**: 2020-06-26

@@ -1,5 +1,7 @@
 # Ryuusei no Rockman
 
+![ryuusei-no-rockman](https://cdn.myanimelist.net/images/anime/3/26600.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 55
 -   **original-name**: 流星のロックマン

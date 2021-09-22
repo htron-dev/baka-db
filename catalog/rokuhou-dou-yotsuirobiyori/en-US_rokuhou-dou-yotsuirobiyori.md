@@ -1,5 +1,7 @@
 # Rokuhou-dou Yotsuirobiyori
 
+![rokuhou-dou-yotsuirobiyori](https://cdn.myanimelist.net/images/manga/1/205529.jpg)
+
 -   **type**: manga
 -   **original-name**: 鹿楓堂よついろ日和
 -   **start-date**: 2013-10-09

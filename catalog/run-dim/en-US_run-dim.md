@@ -1,5 +1,7 @@
 # Run=Dim
 
+![run-dim](https://cdn.myanimelist.net/images/anime/13/5469.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: RUN=DIM (ランディム)

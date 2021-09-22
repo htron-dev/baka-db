@@ -1,5 +1,7 @@
 # Renaissance Eve
 
+![renaissance-eve](https://cdn.myanimelist.net/images/manga/2/94421.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

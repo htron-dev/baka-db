@@ -1,5 +1,7 @@
 # Rainbow Sentai Robin
 
+![rainbow-sentai-robin](https://cdn.myanimelist.net/images/anime/8/46831.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: レインボー戦隊ロビン

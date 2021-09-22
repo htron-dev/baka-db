@@ -1,5 +1,7 @@
 # Ranma ½: 1994 Music Calendar
 
+![ranma-1994-music-calendar](https://cdn.myanimelist.net/images/anime/6/29891.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: らんま 1/2 1994 年ミュージックカレンダー

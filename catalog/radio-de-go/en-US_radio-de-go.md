@@ -1,5 +1,7 @@
 # Radio de Go!
 
+![radio-de-go](https://cdn.myanimelist.net/images/manga/1/43577.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Rifujin na Futari
 
+![rifujin-na-futari](https://cdn.myanimelist.net/images/manga/3/216307.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 72

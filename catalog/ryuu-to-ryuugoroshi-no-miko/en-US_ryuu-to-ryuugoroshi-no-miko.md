@@ -1,5 +1,7 @@
 # Ryuu to Ryuugoroshi no Miko
 
+![ryuu-to-ryuugoroshi-no-miko](https://cdn.myanimelist.net/images/manga/3/221733.jpg)
+
 -   **type**: manga
 -   **original-name**: 龍と龍殺しの巫女
 -   **start-date**: 2018-01-29

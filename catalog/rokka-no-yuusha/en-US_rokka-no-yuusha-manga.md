@@ -1,5 +1,7 @@
 # Rokka no Yuusha
 
+![rokka-no-yuusha](https://cdn.myanimelist.net/images/manga/2/161314.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

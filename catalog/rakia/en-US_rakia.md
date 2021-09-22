@@ -1,5 +1,7 @@
 # Rakia
 
+![rakia](https://cdn.myanimelist.net/images/manga/2/164508.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ラキア

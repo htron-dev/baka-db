@@ -1,5 +1,7 @@
 # Riko to Haru to Onsen to Iruka
 
+![riko-to-haru-to-onsen-to-iruka](https://cdn.myanimelist.net/images/manga/4/69447.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

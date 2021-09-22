@@ -1,5 +1,7 @@
 # Renzu-sou no Sankaku
 
+![renzu-sou-no-sankaku](https://cdn.myanimelist.net/images/manga/1/196301.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

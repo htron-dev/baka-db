@@ -1,5 +1,7 @@
 # Renchi na Himoto
 
+![renchi-na-himoto](https://cdn.myanimelist.net/images/manga/1/159765.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

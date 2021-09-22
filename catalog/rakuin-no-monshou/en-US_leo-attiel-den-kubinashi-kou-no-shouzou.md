@@ -1,5 +1,7 @@
 # Leo Attiel Den: Kubinashi-kou no Shouzou
 
+![leo-attiel-den-kubinashi-kou-no-shouzou](https://cdn.myanimelist.net/images/manga/2/176974.jpg)
+
 -   **type**: light-novel
 -   **original-name**: レオ・アッティール伝 首なし公の肖像
 -   **start-date**: 2015-06-10

@@ -1,5 +1,7 @@
 # Ramiel no Densetsu
 
+![ramiel-no-densetsu](https://cdn.myanimelist.net/images/manga/1/164484.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: レミエルの伝説

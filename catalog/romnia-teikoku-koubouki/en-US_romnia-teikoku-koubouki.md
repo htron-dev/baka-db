@@ -1,5 +1,7 @@
 # Romnia Teikoku Koubouki
 
+![romnia-teikoku-koubouki](https://cdn.myanimelist.net/images/manga/1/177316.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ロムニア帝国興亡記
 -   **start-date**: 2013-09-20

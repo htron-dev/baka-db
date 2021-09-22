@@ -1,5 +1,7 @@
 # Re Set
 
+![re-set](https://cdn.myanimelist.net/images/manga/2/79427.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

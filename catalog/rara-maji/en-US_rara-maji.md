@@ -1,5 +1,7 @@
 # Rara Maji
 
+![rara-maji](https://cdn.myanimelist.net/images/anime/11/85884.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ららマジ

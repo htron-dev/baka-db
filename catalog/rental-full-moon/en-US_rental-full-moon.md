@@ -1,5 +1,7 @@
 # Rental Full Moon
 
+![rental-full-moon](https://cdn.myanimelist.net/images/manga/3/164314.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: レンタル・フルムーン

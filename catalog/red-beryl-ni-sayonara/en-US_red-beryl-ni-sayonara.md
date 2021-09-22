@@ -1,5 +1,7 @@
 # Red Beryl ni Sayonara
 
+![red-beryl-ni-sayonara](https://cdn.myanimelist.net/images/manga/3/201188.jpg)
+
 -   **type**: manga
 -   **original-name**: レッドベリルにさよなら
 -   **start-date**: 2016-08-22

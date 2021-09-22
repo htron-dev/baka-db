@@ -1,5 +1,7 @@
 # Ryuugajou Nanana no Maizoukin: The Animation
 
+![ryuugajou-nanana-no-maizoukin-the-animation](https://cdn.myanimelist.net/images/manga/2/125487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

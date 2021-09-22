@@ -1,5 +1,7 @@
 # Speed
 
+![speed](https://cdn.myanimelist.net/images/manga/3/76109.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: スピード

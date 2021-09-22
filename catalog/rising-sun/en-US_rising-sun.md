@@ -1,5 +1,7 @@
 # Rising Sun
 
+![rising-sun](https://cdn.myanimelist.net/images/manga/1/98119.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 121

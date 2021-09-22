@@ -1,5 +1,7 @@
 # Realize
 
+![realize](https://cdn.myanimelist.net/images/manga/2/173082.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

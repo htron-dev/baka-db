@@ -1,5 +1,7 @@
 # Shinyaku Märchen
 
+![shinyaku-marchen](https://cdn.myanimelist.net/images/manga/3/177838.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

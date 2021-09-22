@@ -1,5 +1,7 @@
 # Running Boy: Star Soldier no Himitsu
 
+![running-boy-star-soldier-no-himitsu](https://cdn.myanimelist.net/images/anime/9/29332.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: RUNNING Boy スターソルジャーの秘密

@@ -1,5 +1,7 @@
 # Rail Wars! Nihon Kokuyuu Tetsudou Kouantai
 
+![rail-wars-nihon-kokuyuu-tetsudou-kouantai](https://cdn.myanimelist.net/images/manga/1/110071.jpg)
+
 -   **type**: light-novel
 -   **original-name**: RAIL WARS! -日本國有鉄道公安隊-
 -   **start-date**: 2012-01-16

@@ -1,5 +1,7 @@
 # Ruri to Ryouri no Ousama to
 
+![ruri-to-ryouri-no-ousama-to](https://cdn.myanimelist.net/images/manga/2/210661.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 117

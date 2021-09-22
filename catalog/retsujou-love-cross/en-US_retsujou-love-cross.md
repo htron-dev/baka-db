@@ -1,5 +1,7 @@
 # Retsujou Love Cross
 
+![retsujou-love-cross](https://cdn.myanimelist.net/images/manga/4/207999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

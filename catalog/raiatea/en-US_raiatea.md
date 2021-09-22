@@ -1,5 +1,7 @@
 # Raiatea
 
+![raiatea](https://cdn.myanimelist.net/images/manga/2/190898.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

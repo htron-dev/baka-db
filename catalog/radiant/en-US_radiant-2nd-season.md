@@ -1,5 +1,7 @@
 # Radiant 2nd Season
 
+![radiant-2nd-season](https://cdn.myanimelist.net/images/anime/1974/108398.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: ラディアン 第 2 シリーズ

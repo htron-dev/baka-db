@@ -1,5 +1,7 @@
 # Rough
 
+![rough](https://cdn.myanimelist.net/images/manga/4/84859.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 119

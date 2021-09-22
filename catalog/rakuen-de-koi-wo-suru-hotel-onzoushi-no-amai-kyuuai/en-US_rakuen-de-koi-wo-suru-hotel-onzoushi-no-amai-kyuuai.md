@@ -1,5 +1,7 @@
 # Rakuen de Koi wo Suru: Hotel Onzoushi no Amai Kyuuai
 
+![rakuen-de-koi-wo-suru-hotel-onzoushi-no-amai-kyuuai](https://cdn.myanimelist.net/images/manga/2/192669.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

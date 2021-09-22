@@ -1,5 +1,7 @@
 # Recorder to Randoseru Do♪
 
+![recorder-to-randoseru-do♪](https://cdn.myanimelist.net/images/anime/13/33003.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: リコーダーとランドセル　ド ♪

@@ -1,5 +1,7 @@
 # Royal Cinderella Mama: Tensei shitara Binbou Reijou Datta kedo Reitetsu Koutei ni Dekiai sarechaimashita!?
 
+![royal-cinderella-mama-tensei-shitara-binbou-reijou-datta-kedo-reitetsu-koutei-ni-dekiai-sarechaimashita](https://cdn.myanimelist.net/images/manga/3/234917.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ロイヤル・シンデレラ・ママ　転生したら貧乏令嬢だったけど冷徹皇帝に溺愛されちゃいました!?

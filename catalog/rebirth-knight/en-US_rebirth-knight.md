@@ -1,5 +1,7 @@
 # Rebirth Knight
 
+![rebirth-knight](https://cdn.myanimelist.net/images/manga/4/124355.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 리버스 나이트
 -   **start-date**: 2013-07-12

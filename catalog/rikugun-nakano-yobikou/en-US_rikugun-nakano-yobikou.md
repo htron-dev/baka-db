@@ -1,5 +1,7 @@
 # Rikugun Nakano Yobikou
 
+![rikugun-nakano-yobikou](https://cdn.myanimelist.net/images/manga/2/24677.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 陸軍中野予備校

@@ -1,5 +1,7 @@
 # Rules Booklet - Another Day on the Planet
 
+![rules-booklet-another-day-on-the-planet](https://cdn.myanimelist.net/images/manga/1/6712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

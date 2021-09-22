@@ -1,5 +1,7 @@
 # 3D Kanojo: Real Girl
 
+![3-d-kanojo-real-girl](https://cdn.myanimelist.net/images/anime/1327/93616.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ３Ｄ彼女　リアルガール

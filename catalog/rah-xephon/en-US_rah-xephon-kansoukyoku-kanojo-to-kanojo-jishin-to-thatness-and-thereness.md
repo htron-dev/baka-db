@@ -1,5 +1,7 @@
 # RahXephon: Kansoukyoku/Kanojo to Kanojo Jishin to - Thatness and Thereness
 
+![rah-xephon-kansoukyoku-kanojo-to-kanojo-jishin-to-thatness-and-thereness](https://cdn.myanimelist.net/images/anime/7/75739.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ラーゼフォン 間奏曲 / 彼女と彼女自身と 「Thatness And Thereness」

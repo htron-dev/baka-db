@@ -1,5 +1,7 @@
 # Retsujou
 
+![retsujou](https://cdn.myanimelist.net/images/manga/1/31924.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

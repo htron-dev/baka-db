@@ -1,5 +1,7 @@
 # Rūnin: The Ronin in the Ruined City
 
+![runin-the-ronin-in-the-ruined-city](https://cdn.myanimelist.net/images/manga/2/157720.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

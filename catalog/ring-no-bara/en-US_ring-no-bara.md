@@ -1,5 +1,7 @@
 # Ring no Bara
 
+![ring-no-bara](https://cdn.myanimelist.net/images/manga/2/127085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

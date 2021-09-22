@@ -1,5 +1,7 @@
 # Rasen no Vamp
 
+![rasen-no-vamp](https://cdn.myanimelist.net/images/manga/2/126793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

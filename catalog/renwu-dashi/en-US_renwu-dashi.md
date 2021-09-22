@@ -1,5 +1,7 @@
 # Renwu Dashi
 
+![renwu-dashi](https://cdn.myanimelist.net/images/anime/1726/109274.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 任务大师

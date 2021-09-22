@@ -1,5 +1,7 @@
 # Reinouryokusha Odagiri Kyouko no Uso
 
+![reinouryokusha-odagiri-kyouko-no-uso](https://cdn.myanimelist.net/images/manga/2/16163.jpg)
+
 -   **type**: manga
 -   **original-name**: 霊能力者小田霧響子の嘘
 

@@ -1,5 +1,7 @@
 # Retsujou no Meikyuu
 
+![retsujou-no-meikyuu](https://cdn.myanimelist.net/images/manga/2/7104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

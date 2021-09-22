@@ -1,5 +1,7 @@
 # Rockman 4
 
+![rockman-4](https://cdn.myanimelist.net/images/manga/1/115951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

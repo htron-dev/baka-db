@@ -1,5 +1,7 @@
 # He Wei Dao x Re:Cong Ling Kaishi de Yi Shijie Shenghuo
 
+![he-wei-dao-x-re-cong-ling-kaishi-de-yi-shijie-shenghuo](https://cdn.myanimelist.net/images/anime/1629/94819.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 合味道 X《Re：从零开始的异世界生活》

@@ -1,5 +1,7 @@
 # Rosen Garten Saga
 
+![rosen-garten-saga](https://cdn.myanimelist.net/images/manga/3/240421.jpg)
+
 -   **type**: manga
 -   **original-name**: ローゼンガーテン・サーガ
 -   **start-date**: 2020-08-21

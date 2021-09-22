@@ -1,5 +1,7 @@
 # Rex: Kyouryuu Monogatari
 
+![rex-kyouryuu-monogatari](https://cdn.myanimelist.net/images/manga/1/185327.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: REX 恐竜物語

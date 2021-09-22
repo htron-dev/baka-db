@@ -1,5 +1,7 @@
 # Ryokuou no Tate to Mafuyu no Kuni
 
+![ryokuou-no-tate-to-mafuyu-no-kuni](https://cdn.myanimelist.net/images/manga/1/246951.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

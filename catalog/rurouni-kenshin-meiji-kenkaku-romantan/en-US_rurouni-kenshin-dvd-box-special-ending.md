@@ -1,5 +1,7 @@
 # Rurouni Kenshin DVD-BOX Special Ending
 
+![rurouni-kenshin-dvd-box-special-ending](https://cdn.myanimelist.net/images/anime/4/25808.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: るろうに剣心

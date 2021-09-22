@@ -1,5 +1,7 @@
 # Romantic Beauty
 
+![romantic-beauty](https://cdn.myanimelist.net/images/manga/5/10381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

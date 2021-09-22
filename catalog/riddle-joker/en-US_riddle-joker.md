@@ -1,5 +1,7 @@
 # Riddle Joker
 
+![riddle-joker](https://cdn.myanimelist.net/images/manga/1/222112.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

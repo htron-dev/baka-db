@@ -1,5 +1,7 @@
 # Rasha to Rasha: Koji Butai no Sekai Eikyuu Sensou
 
+![rasha-to-rasha-koji-butai-no-sekai-eikyuu-sensou](https://cdn.myanimelist.net/images/manga/3/164001.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

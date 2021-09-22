@@ -1,5 +1,7 @@
 # Rokka no Yuusha Picture Drama
 
+![rokka-no-yuusha-picture-drama](https://cdn.myanimelist.net/images/anime/11/76240.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 六花の勇者　ピクチャードラマ

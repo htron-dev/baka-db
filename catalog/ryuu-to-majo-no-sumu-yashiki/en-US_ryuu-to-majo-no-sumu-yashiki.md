@@ -1,5 +1,7 @@
 # Ryuu to Majo no Sumu Yashiki
 
+![ryuu-to-majo-no-sumu-yashiki](https://cdn.myanimelist.net/images/manga/2/162723.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

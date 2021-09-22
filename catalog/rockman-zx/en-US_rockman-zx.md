@@ -1,5 +1,7 @@
 # Rockman ZX
 
+![rockman-zx](https://cdn.myanimelist.net/images/manga/1/207091.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

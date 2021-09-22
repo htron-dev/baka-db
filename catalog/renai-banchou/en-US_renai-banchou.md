@@ -1,5 +1,7 @@
 # Renai Banchou
 
+![renai-banchou](https://cdn.myanimelist.net/images/manga/1/31434.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋愛番長
 

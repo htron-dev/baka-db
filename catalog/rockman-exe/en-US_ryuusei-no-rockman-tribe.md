@@ -1,5 +1,7 @@
 # Ryuusei no Rockman Tribe
 
+![ryuusei-no-rockman-tribe](https://cdn.myanimelist.net/images/anime/1256/94652.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: 流星のロックマン トライブ

@@ -1,5 +1,7 @@
 # Renkin 3-kyuu Magical? Poka~n
 
+![renkin-3-kyuu-magical-poka-n](https://cdn.myanimelist.net/images/manga/3/161200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 錬金 3 級 まじかる?ぽか〜ん

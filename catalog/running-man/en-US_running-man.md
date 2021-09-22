@@ -1,5 +1,7 @@
 # Running Man
 
+![running-man](https://cdn.myanimelist.net/images/anime/1325/98783.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 런닝맨

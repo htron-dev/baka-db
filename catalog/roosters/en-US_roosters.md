@@ -1,5 +1,7 @@
 # Roosters
 
+![roosters](https://cdn.myanimelist.net/images/manga/1/162494.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

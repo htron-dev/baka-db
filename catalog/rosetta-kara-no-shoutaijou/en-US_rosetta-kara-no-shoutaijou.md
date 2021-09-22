@@ -1,5 +1,7 @@
 # Rosetta kara no Shoutaijou
 
+![rosetta-kara-no-shoutaijou](https://cdn.myanimelist.net/images/manga/1/41788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

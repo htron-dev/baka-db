@@ -1,5 +1,7 @@
 # Renai Shijou Shugi
 
+![renai-shijou-shugi](https://cdn.myanimelist.net/images/manga/2/143905.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

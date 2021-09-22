@@ -1,5 +1,7 @@
 # Ryuu no Tsubasa ni Kimi wo Nosete!
 
+![ryuu-no-tsubasa-ni-kimi-wo-nosete](https://cdn.myanimelist.net/images/manga/2/128911.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

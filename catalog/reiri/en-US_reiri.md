@@ -1,5 +1,7 @@
 # Reiri
 
+![reiri](https://cdn.myanimelist.net/images/manga/3/185926.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

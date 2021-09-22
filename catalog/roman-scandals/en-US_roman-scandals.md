@@ -1,5 +1,7 @@
 # Roman Scandals
 
+![roman-scandals](https://cdn.myanimelist.net/images/manga/4/61393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

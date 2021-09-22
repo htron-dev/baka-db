@@ -1,5 +1,7 @@
 # Rinne no Lagrange Specials
 
+![rinne-no-lagrange-specials](https://cdn.myanimelist.net/images/anime/13/39747.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 輪廻のラグランジェ

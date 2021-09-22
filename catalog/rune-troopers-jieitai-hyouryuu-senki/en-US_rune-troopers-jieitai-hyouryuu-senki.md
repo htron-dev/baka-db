@@ -1,5 +1,7 @@
 # Rune Troopers: Jieitai Hyouryuu Senki
 
+![rune-troopers-jieitai-hyouryuu-senki](https://cdn.myanimelist.net/images/manga/1/204838.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 93

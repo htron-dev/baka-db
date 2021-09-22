@@ -1,5 +1,7 @@
 # Rental Magica
 
+![rental-magica](https://cdn.myanimelist.net/images/manga/3/191055.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

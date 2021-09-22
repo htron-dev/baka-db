@@ -1,5 +1,7 @@
 # Round About Midnight
 
+![round-about-midnight](https://cdn.myanimelist.net/images/manga/1/32792.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラウンドアバウトミッドナイト

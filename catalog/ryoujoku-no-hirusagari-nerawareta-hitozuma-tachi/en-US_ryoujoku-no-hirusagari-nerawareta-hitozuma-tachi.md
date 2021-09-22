@@ -1,5 +1,7 @@
 # Ryoujoku no Hirusagari: Nerawareta Hitozuma-tachi
 
+![ryoujoku-no-hirusagari-nerawareta-hitozuma-tachi](https://cdn.myanimelist.net/images/manga/2/195938.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 陵辱の昼下がり　狙われた人妻たち

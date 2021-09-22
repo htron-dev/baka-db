@@ -1,5 +1,7 @@
 # Renai Shikou Seitokai
 
+![renai-shikou-seitokai](https://cdn.myanimelist.net/images/manga/2/225194.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋愛志向生徒会
 -   **start-date**: 2017-08-01

@@ -1,5 +1,7 @@
 # Rising!
 
+![rising](https://cdn.myanimelist.net/images/manga/1/12996.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: ライジング!

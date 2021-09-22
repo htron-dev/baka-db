@@ -1,5 +1,7 @@
 # Rock'n Roll Sentou
 
+![rockn-roll-sentou](https://cdn.myanimelist.net/images/anime/1351/115407.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ロックンロール銭湯

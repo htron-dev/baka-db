@@ -1,5 +1,7 @@
 # Reincarnation no Kaben
 
+![reincarnation-no-kaben](https://cdn.myanimelist.net/images/manga/1/157791.jpg)
+
 -   **type**: manga
 -   **original-name**: リィンカーネーションの花弁
 -   **start-date**: 2014-05-30

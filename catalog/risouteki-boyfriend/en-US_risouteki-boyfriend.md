@@ -1,5 +1,7 @@
 # Risouteki Boyfriend
 
+![risouteki-boyfriend](https://cdn.myanimelist.net/images/manga/2/200091.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 29

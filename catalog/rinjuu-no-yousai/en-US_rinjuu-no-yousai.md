@@ -1,5 +1,7 @@
 # Rinjuu no Yousai
 
+![rinjuu-no-yousai](https://cdn.myanimelist.net/images/manga/1/216611.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

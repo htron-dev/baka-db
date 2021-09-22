@@ -1,5 +1,7 @@
 # Revery Earth
 
+![revery-earth](https://cdn.myanimelist.net/images/manga/5/68509.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

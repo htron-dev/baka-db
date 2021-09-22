@@ -1,5 +1,7 @@
 # RahXephon Specials
 
+![rah-xephon-specials](https://cdn.myanimelist.net/images/anime/9/13594.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ラーゼフォン

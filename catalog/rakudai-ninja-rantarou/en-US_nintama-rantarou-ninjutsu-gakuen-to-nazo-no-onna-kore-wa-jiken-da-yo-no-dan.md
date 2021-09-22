@@ -1,5 +1,7 @@
 # Nintama Rantarou: Ninjutsu Gakuen to Nazo no Onna - Kore wa Jiken Da yo! no Dan
 
+![nintama-rantarou-ninjutsu-gakuen-to-nazo-no-onna-kore-wa-jiken-da-yo-no-dan](https://cdn.myanimelist.net/images/anime/5/74597.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 忍たま乱太郎 忍術学園と謎の女 これは事件だよ〜！の段

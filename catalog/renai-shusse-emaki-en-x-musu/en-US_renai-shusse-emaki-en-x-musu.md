@@ -1,5 +1,7 @@
 # Renai Shusse Emaki En x Musu
 
+![renai-shusse-emaki-en-x-musu](https://cdn.myanimelist.net/images/manga/1/240144.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 55

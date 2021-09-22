@@ -1,5 +1,7 @@
 # Rakuen Shima kara no Dasshutsu
 
+![rakuen-shima-kara-no-dasshutsu](https://cdn.myanimelist.net/images/manga/1/164650.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 楽園島からの脱出

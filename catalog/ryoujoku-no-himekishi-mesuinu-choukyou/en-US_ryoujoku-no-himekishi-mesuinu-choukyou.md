@@ -1,5 +1,7 @@
 # Ryoujoku no Himekishi: Mesuinu Choukyou
 
+![ryoujoku-no-himekishi-mesuinu-choukyou](https://cdn.myanimelist.net/images/manga/2/197401.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 陵辱の姫騎士　雌犬調教

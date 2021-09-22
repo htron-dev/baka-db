@@ -1,5 +1,7 @@
 # Revolution No.3
 
+![revolution-no-3](https://cdn.myanimelist.net/images/manga/1/76107.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

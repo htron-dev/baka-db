@@ -1,5 +1,7 @@
 # Ringo to Shoujo
 
+![ringo-to-shoujo](https://cdn.myanimelist.net/images/anime/1920/108058.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: リンゴと少女

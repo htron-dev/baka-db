@@ -1,5 +1,7 @@
 # Rokudenashi Majutsu Koushi to Akashic Records
 
+![rokudenashi-majutsu-koushi-to-akashic-records](https://cdn.myanimelist.net/images/anime/8/85593.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ロクでなし魔術講師と禁忌教典

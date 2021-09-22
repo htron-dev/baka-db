@@ -1,5 +1,7 @@
 # Ranma ½
 
+![ranma](https://cdn.myanimelist.net/images/manga/1/156534.jpg)
+
 -   **type**: manga
 -   **volumes**: 38
 -   **chapters**: 407

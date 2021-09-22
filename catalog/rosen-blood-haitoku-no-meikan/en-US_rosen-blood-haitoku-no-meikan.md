@@ -1,5 +1,7 @@
 # Rosen Blood: Haitoku no Meikan
 
+![rosen-blood-haitoku-no-meikan](https://cdn.myanimelist.net/images/manga/1/211996.jpg)
+
 -   **type**: manga
 -   **original-name**: Rosen Blood ～背徳の冥館～
 -   **start-date**: 2017-09-06

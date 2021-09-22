@@ -1,5 +1,7 @@
 # Roppongi Black Cross
 
+![roppongi-black-cross](https://cdn.myanimelist.net/images/manga/1/179158.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 70

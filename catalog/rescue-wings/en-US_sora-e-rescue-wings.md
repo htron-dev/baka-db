@@ -1,5 +1,7 @@
 # Sora e: Rescue Wings
 
+![sora-e-rescue-wings](https://cdn.myanimelist.net/images/manga/2/34269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 空へ レスキューウイングス

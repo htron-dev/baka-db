@@ -1,5 +1,7 @@
 # Rensai Shuuryou! Shounen Jump Ougon-ki no Butaiura
 
+![rensai-shuuryou-shounen-jump-ougon-ki-no-butaiura](https://cdn.myanimelist.net/images/manga/3/225200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

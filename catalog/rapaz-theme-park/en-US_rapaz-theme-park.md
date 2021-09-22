@@ -1,5 +1,7 @@
 # Rapaz Theme Park
 
+![rapaz-theme-park](https://cdn.myanimelist.net/images/manga/2/228236.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

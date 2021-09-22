@@ -1,5 +1,7 @@
 # Rio: Rainbow Gate!
 
+![rio-rainbow-gate](https://cdn.myanimelist.net/images/anime/6/27707.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: リオ レインボーゲート!

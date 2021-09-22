@@ -1,5 +1,7 @@
 # Renai no Kamisama ni Ie
 
+![renai-no-kamisama-ni-ie](https://cdn.myanimelist.net/images/manga/2/153710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

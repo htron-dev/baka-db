@@ -1,5 +1,7 @@
 # Ryouri Danshi no Kakushi Aji
 
+![ryouri-danshi-no-kakushi-aji](https://cdn.myanimelist.net/images/manga/3/74359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

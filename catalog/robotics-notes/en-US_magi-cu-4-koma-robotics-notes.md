@@ -1,5 +1,7 @@
 # Magi-Cu 4-koma: Robotics;Notes
 
+![magi-cu-4-koma-robotics-notes](https://cdn.myanimelist.net/images/manga/1/97519.jpg)
+
 -   **type**: manga
 -   **original-name**: マジキュー 4 コマ ROBOTICS;NOTES
 

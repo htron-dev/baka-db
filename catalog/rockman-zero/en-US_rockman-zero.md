@@ -1,5 +1,7 @@
 # Rockman Zero
 
+![rockman-zero](https://cdn.myanimelist.net/images/manga/4/43079.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

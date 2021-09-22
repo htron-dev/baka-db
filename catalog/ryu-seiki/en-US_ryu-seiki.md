@@ -1,5 +1,7 @@
 # Ryu Seiki
 
+![ryu-seiki](https://cdn.myanimelist.net/images/manga/1/9641.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 竜世紀 ドラゴンセンチュリー

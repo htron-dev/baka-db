@@ -1,5 +1,7 @@
 # Ragouden
 
+![ragouden](https://cdn.myanimelist.net/images/manga/4/75583.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 羅【ゴウ】伝

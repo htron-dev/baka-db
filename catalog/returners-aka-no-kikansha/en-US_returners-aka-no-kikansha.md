@@ -1,5 +1,7 @@
 # Returners: Aka no Kikansha
 
+![returners-aka-no-kikansha](https://cdn.myanimelist.net/images/manga/3/112629.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

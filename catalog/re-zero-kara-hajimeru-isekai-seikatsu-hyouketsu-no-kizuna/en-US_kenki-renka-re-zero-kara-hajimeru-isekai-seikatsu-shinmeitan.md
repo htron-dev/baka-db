@@ -1,5 +1,7 @@
 # Kenki Renka: Re:Zero kara Hajimeru Isekai Seikatsu†Shinmeitan
 
+![kenki-renka-re-zero-kara-hajimeru-isekai-seikatsu-shinmeitan](https://cdn.myanimelist.net/images/manga/1/219338.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

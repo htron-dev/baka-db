@@ -1,5 +1,7 @@
 # RideBack
 
+![ride-back](https://cdn.myanimelist.net/images/manga/3/55443.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 62

@@ -1,5 +1,7 @@
 # Rakuen no Bijo to Yajuu
 
+![rakuen-no-bijo-to-yajuu](https://cdn.myanimelist.net/images/manga/2/226952.jpg)
+
 -   **type**: manga
 -   **original-name**: 落園の美女と野獣
 -   **start-date**: 2019-10-17

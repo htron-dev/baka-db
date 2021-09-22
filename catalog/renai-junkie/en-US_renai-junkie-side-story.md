@@ -1,5 +1,7 @@
 # Renai Junkie Side Story
 
+![renai-junkie-side-story](https://cdn.myanimelist.net/images/manga/2/193600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

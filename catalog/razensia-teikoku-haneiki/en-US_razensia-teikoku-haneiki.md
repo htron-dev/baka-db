@@ -1,5 +1,7 @@
 # Razensia Teikoku Haneiki
 
+![razensia-teikoku-haneiki](https://cdn.myanimelist.net/images/manga/2/193737.jpg)
+
 -   **type**: light-novel
 -   **original-name**: レーゼンシア帝国繁栄紀
 -   **start-date**: 2017-04-15

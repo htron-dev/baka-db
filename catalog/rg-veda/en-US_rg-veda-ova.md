@@ -1,5 +1,7 @@
 # RG Veda
 
+![rg-veda](https://cdn.myanimelist.net/images/anime/1487/112102.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 聖伝

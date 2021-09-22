@@ -1,5 +1,7 @@
 # Rojiura Daiikku
 
+![rojiura-daiikku](https://cdn.myanimelist.net/images/manga/3/161629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

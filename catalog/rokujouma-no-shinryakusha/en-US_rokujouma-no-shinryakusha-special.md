@@ -1,5 +1,7 @@
 # Rokujouma no Shinryakusha!?
 
+![rokujouma-no-shinryakusha](https://cdn.myanimelist.net/images/anime/6/65859.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 六畳間の侵略者!?

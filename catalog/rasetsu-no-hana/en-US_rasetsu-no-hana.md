@@ -1,5 +1,7 @@
 # Rasetsu no Hana
 
+![rasetsu-no-hana](https://cdn.myanimelist.net/images/manga/2/158188.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

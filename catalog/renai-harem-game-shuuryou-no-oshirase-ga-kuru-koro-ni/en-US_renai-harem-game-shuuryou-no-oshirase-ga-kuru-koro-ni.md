@@ -1,5 +1,7 @@
 # Renai Harem Game Shuuryou no Oshirase ga Kuru Koro ni
 
+![renai-harem-game-shuuryou-no-oshirase-ga-kuru-koro-ni](https://cdn.myanimelist.net/images/manga/3/194467.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Rokuhoudou Yotsuiro Biyori
 
+![rokuhoudou-yotsuiro-biyori](https://cdn.myanimelist.net/images/anime/1015/90727.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 鹿楓堂よついろ日和

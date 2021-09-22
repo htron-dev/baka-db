@@ -1,5 +1,7 @@
 # Royal Scandal
 
+![royal-scandal](https://cdn.myanimelist.net/images/manga/3/227687.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ロイヤル・スキャンダル

@@ -1,5 +1,7 @@
 # Recorder to Randoseru Mi☆ Special
 
+![recorder-to-randoseru-mi☆-special](https://cdn.myanimelist.net/images/anime/12/63955.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: リコーダーとランドセル ミ ☆ リコーダーとアカランドセル

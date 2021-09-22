@@ -1,5 +1,7 @@
 # Raijin to Ryman
 
+![raijin-to-ryman](https://cdn.myanimelist.net/images/manga/2/165571.jpg)
+
 -   **type**: manga
 -   **original-name**: 雷神とリーマン
 -   **start-date**: 2015-01-29

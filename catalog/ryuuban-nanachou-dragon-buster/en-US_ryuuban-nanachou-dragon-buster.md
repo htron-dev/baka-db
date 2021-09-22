@@ -1,5 +1,7 @@
 # Ryuuban Nanachou: Dragon Buster
 
+![ryuuban-nanachou-dragon-buster](https://cdn.myanimelist.net/images/manga/2/164720.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 龍盤七朝　 DRAGONBUSTER

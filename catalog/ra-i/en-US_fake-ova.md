@@ -1,5 +1,7 @@
 # Fake
 
+![fake](https://cdn.myanimelist.net/images/anime/4/25196.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: FAKE

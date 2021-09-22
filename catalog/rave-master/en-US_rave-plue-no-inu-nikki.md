@@ -1,5 +1,7 @@
 # Rave: Plue no Inu Nikki
 
+![rave-plue-no-inu-nikki](https://cdn.myanimelist.net/images/manga/3/23215.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: RAVE プルの犬日記

@@ -1,5 +1,7 @@
 # Rising Impact
 
+![rising-impact](https://cdn.myanimelist.net/images/manga/3/186584.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 170

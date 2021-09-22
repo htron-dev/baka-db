@@ -1,5 +1,7 @@
 # Rica tte Kanji!?
 
+![rica-tte-kanji](https://cdn.myanimelist.net/images/manga/2/155228.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

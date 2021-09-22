@@ -1,5 +1,7 @@
 # Ryuuji
 
+![ryuuji](https://cdn.myanimelist.net/images/manga/1/19262.jpg)
+
 -   **type**: manga
 -   **original-name**: 龍時
 -   **start-date**: 2005-03-17

@@ -1,5 +1,7 @@
 # Ryuu to Aitsu to Kawaige no Nai Watashi
 
+![ryuu-to-aitsu-to-kawaige-no-nai-watashi](https://cdn.myanimelist.net/images/manga/3/164483.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: 竜と勇者と可愛げのない私

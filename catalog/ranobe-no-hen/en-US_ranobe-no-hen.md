@@ -1,5 +1,7 @@
 # Ranobe no Hen!
 
+![ranobe-no-hen](https://cdn.myanimelist.net/images/manga/1/40843.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Ruten no Terma
 
+![ruten-no-terma](https://cdn.myanimelist.net/images/manga/2/138829.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

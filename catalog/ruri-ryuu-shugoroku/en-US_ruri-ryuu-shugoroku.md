@@ -1,5 +1,7 @@
 # Ruri Ryuu Shugoroku
 
+![ruri-ryuu-shugoroku](https://cdn.myanimelist.net/images/manga/3/141155.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 瑠璃龍守護録
 -   **start-date**: 2012-02-15

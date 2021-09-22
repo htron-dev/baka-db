@@ -1,5 +1,7 @@
 # Ranma ½: Battle ga Ippai 29-nin no Korinai Yatsura
 
+![ranma-battle-ga-ippai-29-nin-no-korinai-yatsura](https://cdn.myanimelist.net/images/anime/12/29888.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: らんま 1/2 スペシャルビデオ バトルがいっぱい 29 人の懲りないやつら

@@ -1,5 +1,7 @@
 # Rewrite
 
+![rewrite](https://cdn.myanimelist.net/images/anime/1827/92122.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: リライト

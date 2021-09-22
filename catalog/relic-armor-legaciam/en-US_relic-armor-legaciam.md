@@ -1,5 +1,7 @@
 # Relic Armor Legaciam
 
+![relic-armor-legaciam](https://cdn.myanimelist.net/images/anime/1364/92792.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: レリック・アーマー レガシアム

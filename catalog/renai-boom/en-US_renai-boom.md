@@ -1,5 +1,7 @@
 # Renai Boom!
 
+![renai-boom](https://cdn.myanimelist.net/images/manga/1/152215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛ブーム!

@@ -1,5 +1,7 @@
 # Ryuuzou to Shichinin no Kobun-tachi x Frogman
 
+![ryuuzou-to-shichinin-no-kobun-tachi-x-frogman](https://cdn.myanimelist.net/images/anime/4/78158.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 龍三と七人の子分たち ×FROGMAN

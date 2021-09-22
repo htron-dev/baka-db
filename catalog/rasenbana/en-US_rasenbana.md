@@ -1,5 +1,7 @@
 # Rasenbana
 
+![rasenbana](https://cdn.myanimelist.net/images/manga/3/25153.jpg)
+
 -   **type**: manga
 -   **original-name**: ラセンバナ～螺旋花～
 

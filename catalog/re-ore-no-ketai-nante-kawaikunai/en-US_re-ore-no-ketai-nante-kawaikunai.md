@@ -1,5 +1,7 @@
 # Re:Ore no Ketai Nante Kawaikunai!
 
+![re-ore-no-ketai-nante-kawaikunai](https://cdn.myanimelist.net/images/manga/1/163980.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: Re：俺のケータイなんてかわいくない！

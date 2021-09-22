@@ -1,5 +1,7 @@
 # Rinjin 13-gou
 
+![rinjin-13-gou](https://cdn.myanimelist.net/images/manga/2/37311.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Reikan Shouhou Kabushikigaisha
 
+![reikan-shouhou-kabushikigaisha](https://cdn.myanimelist.net/images/manga/2/7196.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: 霊感商法株式会社

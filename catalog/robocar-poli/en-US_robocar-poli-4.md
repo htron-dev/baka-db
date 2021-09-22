@@ -1,5 +1,7 @@
 # Robocar Poli 4
 
+![robocar-poli-4](https://cdn.myanimelist.net/images/anime/1881/108833.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 로보카 폴리

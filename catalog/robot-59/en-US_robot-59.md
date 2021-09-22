@@ -1,5 +1,7 @@
 # Robot 59
 
+![robot-59](https://cdn.myanimelist.net/images/manga/1/237422.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

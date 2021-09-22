@@ -1,5 +1,7 @@
 # Roku no Sekai
 
+![roku-no-sekai](https://cdn.myanimelist.net/images/anime/1975/93240.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ロクの世界

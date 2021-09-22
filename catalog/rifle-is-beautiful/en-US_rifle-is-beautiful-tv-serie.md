@@ -1,5 +1,7 @@
 # Rifle Is Beautiful
 
+![rifle-is-beautiful](https://cdn.myanimelist.net/images/anime/1874/100747.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ライフル・イズ・ビューティフル

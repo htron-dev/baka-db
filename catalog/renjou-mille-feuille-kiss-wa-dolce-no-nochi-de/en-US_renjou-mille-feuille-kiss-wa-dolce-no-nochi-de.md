@@ -1,5 +1,7 @@
 # Renjou Mille Feuille: Kiss wa Dolce no Nochi de
 
+![renjou-mille-feuille-kiss-wa-dolce-no-nochi-de](https://cdn.myanimelist.net/images/manga/3/193148.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Rokushin Gattai GodMars: Juunana-sai no Densetsu
 
+![rokushin-gattai-god-mars-juunana-sai-no-densetsu](https://cdn.myanimelist.net/images/anime/3/58745.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 六神合体ゴッドマーズ 十七歳の伝説

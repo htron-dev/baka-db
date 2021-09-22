@@ -1,5 +1,7 @@
 # Revolt Revolver: Shachiku Danshi no Henshin
 
+![revolt-revolver-shachiku-danshi-no-henshin](https://cdn.myanimelist.net/images/manga/1/228731.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

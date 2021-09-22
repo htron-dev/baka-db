@@ -1,5 +1,7 @@
 # Rumspringa no Joukei
 
+![rumspringa-no-joukei](https://cdn.myanimelist.net/images/manga/3/220589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

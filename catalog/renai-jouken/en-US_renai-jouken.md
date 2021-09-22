@@ -1,5 +1,7 @@
 # Renai Jouken
 
+![renai-jouken](https://cdn.myanimelist.net/images/manga/3/6018.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛条件。

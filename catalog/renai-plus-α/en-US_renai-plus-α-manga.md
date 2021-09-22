@@ -1,5 +1,7 @@
 # Ren'ai Plus α
 
+![renai-plus-α](https://cdn.myanimelist.net/images/manga/2/14491.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 恋愛プラス α ; フェロモン過多注意報

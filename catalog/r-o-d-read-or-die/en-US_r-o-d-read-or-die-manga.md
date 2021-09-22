@@ -1,5 +1,7 @@
 # R.O.D: Read or Die
 
+![r-o-d-read-or-die](https://cdn.myanimelist.net/images/manga/2/178269.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

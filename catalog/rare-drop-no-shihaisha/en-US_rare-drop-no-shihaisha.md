@@ -1,5 +1,7 @@
 # Rare Drop no Shihaisha
 
+![rare-drop-no-shihaisha](https://cdn.myanimelist.net/images/manga/2/160926.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 2

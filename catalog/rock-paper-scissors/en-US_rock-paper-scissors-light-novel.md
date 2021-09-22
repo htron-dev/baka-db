@@ -1,5 +1,7 @@
 # Rock Paper Scissors
 
+![rock-paper-scissors](https://cdn.myanimelist.net/images/manga/1/118271.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ロック・ペーパー・シザーズ

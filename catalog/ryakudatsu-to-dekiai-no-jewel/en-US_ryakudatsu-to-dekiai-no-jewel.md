@@ -1,5 +1,7 @@
 # Ryakudatsu to Dekiai no Jewel
 
+![ryakudatsu-to-dekiai-no-jewel](https://cdn.myanimelist.net/images/manga/2/183110.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

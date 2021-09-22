@@ -1,5 +1,7 @@
 # Renai Dokusenyoku
 
+![renai-dokusenyoku](https://cdn.myanimelist.net/images/manga/2/20422.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

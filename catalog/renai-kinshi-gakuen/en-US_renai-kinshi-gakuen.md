@@ -1,5 +1,7 @@
 # Renai Kinshi Gakuen
 
+![renai-kinshi-gakuen](https://cdn.myanimelist.net/images/manga/3/215063.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

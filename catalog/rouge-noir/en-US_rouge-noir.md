@@ -1,5 +1,7 @@
 # Rouge Noir
 
+![rouge-noir](https://cdn.myanimelist.net/images/manga/1/14574.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

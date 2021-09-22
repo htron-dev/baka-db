@@ -1,5 +1,7 @@
 # Risky Crime
 
+![risky-crime](https://cdn.myanimelist.net/images/manga/5/88575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

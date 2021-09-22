@@ -1,5 +1,7 @@
 # Usotsuki wa Dareda
 
+![usotsuki-wa-dareda](https://cdn.myanimelist.net/images/manga/3/155931.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

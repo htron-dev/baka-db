@@ -1,5 +1,7 @@
 # Reinbou
 
+![reinbou](https://cdn.myanimelist.net/images/anime/1678/106458.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: REINBOU

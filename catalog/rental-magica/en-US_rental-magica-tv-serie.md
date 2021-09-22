@@ -1,5 +1,7 @@
 # Rental Magica
 
+![rental-magica](https://cdn.myanimelist.net/images/anime/5/73999.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: レンタルマギカ

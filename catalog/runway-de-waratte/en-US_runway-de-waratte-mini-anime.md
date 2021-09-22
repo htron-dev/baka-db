@@ -1,5 +1,7 @@
 # Runway de Waratte Mini Anime
 
+![runway-de-waratte-mini-anime](https://cdn.myanimelist.net/images/anime/1750/108555.jpg)
+
 -   **type**: ona
 -   **episodes**: 42
 -   **original-name**: ランウェイで笑って ミニアニメ

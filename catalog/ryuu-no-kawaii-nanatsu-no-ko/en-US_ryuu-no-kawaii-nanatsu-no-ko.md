@@ -1,5 +1,7 @@
 # Ryuu no Kawaii Nanatsu no Ko
 
+![ryuu-no-kawaii-nanatsu-no-ko](https://cdn.myanimelist.net/images/manga/1/148545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

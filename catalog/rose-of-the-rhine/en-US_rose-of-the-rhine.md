@@ -1,5 +1,7 @@
 # Rose of the Rhine
 
+![rose-of-the-rhine](https://cdn.myanimelist.net/images/manga/1/5914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

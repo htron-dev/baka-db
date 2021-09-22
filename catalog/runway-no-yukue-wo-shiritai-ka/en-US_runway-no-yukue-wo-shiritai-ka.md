@@ -1,5 +1,7 @@
 # Runway no Yukue wo Shiritai ka
 
+![runway-no-yukue-wo-shiritai-ka](https://cdn.myanimelist.net/images/manga/2/247851.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

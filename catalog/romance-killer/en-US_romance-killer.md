@@ -1,5 +1,7 @@
 # Romance Killer
 
+![romance-killer](https://cdn.myanimelist.net/images/manga/2/179247.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 52

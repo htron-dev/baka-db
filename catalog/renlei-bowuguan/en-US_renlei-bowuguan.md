@@ -1,5 +1,7 @@
 # Renlei Bowuguan
 
+![renlei-bowuguan](https://cdn.myanimelist.net/images/anime/1604/108296.jpg)
+
 -   **type**: ona
 -   **episodes**: 36
 -   **original-name**: 人类博物馆

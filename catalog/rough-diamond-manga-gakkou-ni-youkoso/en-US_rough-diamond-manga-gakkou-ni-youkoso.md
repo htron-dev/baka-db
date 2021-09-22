@@ -1,5 +1,7 @@
 # Rough Diamond: Manga Gakkou ni Youkoso
 
+![rough-diamond-manga-gakkou-ni-youkoso](https://cdn.myanimelist.net/images/manga/2/142533.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

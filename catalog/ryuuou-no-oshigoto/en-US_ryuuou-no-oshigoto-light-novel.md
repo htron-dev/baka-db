@@ -1,5 +1,7 @@
 # Ryuuou no Oshigoto!
 
+![ryuuou-no-oshigoto](https://cdn.myanimelist.net/images/manga/3/201836.jpg)
+
 -   **type**: light-novel
 -   **original-name**: りゅうおうのおしごと！
 -   **start-date**: 2015-09-15

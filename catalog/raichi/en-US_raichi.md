@@ -1,5 +1,7 @@
 # Raichi!!
 
+![raichi](https://cdn.myanimelist.net/images/manga/1/180428.jpg)
+
 -   **type**: manga
 -   **original-name**: らいち!!
 -   **start-date**: 2015-11-25

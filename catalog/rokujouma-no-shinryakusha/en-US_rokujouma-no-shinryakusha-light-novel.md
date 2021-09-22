@@ -1,5 +1,7 @@
 # Rokujouma no Shinryakusha!?
 
+![rokujouma-no-shinryakusha](https://cdn.myanimelist.net/images/manga/2/158004.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 六畳間の侵略者!?
 -   **start-date**: 2009-03-01

@@ -1,5 +1,7 @@
 # Re:Marina
 
+![re-marina](https://cdn.myanimelist.net/images/manga/3/113773.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 49

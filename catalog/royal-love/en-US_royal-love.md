@@ -1,5 +1,7 @@
 # Royal Love
 
+![royal-love](https://cdn.myanimelist.net/images/manga/1/30343.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 로열 러브
 

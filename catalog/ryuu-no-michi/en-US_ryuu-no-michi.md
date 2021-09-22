@@ -1,5 +1,7 @@
 # Ryuu no Michi
 
+![ryuu-no-michi](https://cdn.myanimelist.net/images/manga/3/178069.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 28

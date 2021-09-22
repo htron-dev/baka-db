@@ -1,5 +1,7 @@
 # Runway de Waratte
 
+![runway-de-waratte](https://cdn.myanimelist.net/images/anime/1544/104540.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ランウェイで笑って

@@ -1,5 +1,7 @@
 # Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!
 
+![ranma-kessen-tougenkyou-hanayome-wo-torimodose](https://cdn.myanimelist.net/images/anime/1855/95323.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: らんま 1/2 決戦桃幻郷! 花嫁を奪りもどせ!!

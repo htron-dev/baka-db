@@ -1,5 +1,7 @@
 # Race Eizou-hen
 
+![race-eizou-hen](https://cdn.myanimelist.net/images/anime/1988/97161.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: レース映像篇

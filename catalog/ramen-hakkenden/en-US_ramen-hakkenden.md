@@ -1,5 +1,7 @@
 # Ramen Hakkenden
 
+![ramen-hakkenden](https://cdn.myanimelist.net/images/manga/3/165955.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 237

@@ -1,5 +1,7 @@
 # Rail Romanesque 2nd Season
 
+![rail-romanesque-2nd-season](https://cdn.myanimelist.net/images/anime/1365/112204.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: レヱル・ロマネスク
 -   **rating**: None

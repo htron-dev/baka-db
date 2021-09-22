@@ -1,5 +1,7 @@
 # Ringo wa Koi Zuppai
 
+![ringo-wa-koi-zuppai](https://cdn.myanimelist.net/images/manga/2/86025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

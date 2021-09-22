@@ -1,5 +1,7 @@
 # Revenant Garden: Gusha-tachi no Odoru Sekai
 
+![revenant-garden-gusha-tachi-no-odoru-sekai](https://cdn.myanimelist.net/images/manga/3/160935.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

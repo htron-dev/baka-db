@@ -1,5 +1,7 @@
 # Rui wa Tomo wo Yobu Plus: Majo-tachi to Taiheiyou no Hoshi
 
+![rui-wa-tomo-wo-yobu-plus-majo-tachi-to-taiheiyou-no-hoshi](https://cdn.myanimelist.net/images/manga/2/178447.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Robby to Kerobby
 
+![robby-to-kerobby](https://cdn.myanimelist.net/images/anime/4/67973.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ロビーとケロビー

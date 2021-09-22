@@ -1,5 +1,7 @@
 # Rouman no Okuni de Aimashou
 
+![rouman-no-okuni-de-aimashou](https://cdn.myanimelist.net/images/manga/1/114845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

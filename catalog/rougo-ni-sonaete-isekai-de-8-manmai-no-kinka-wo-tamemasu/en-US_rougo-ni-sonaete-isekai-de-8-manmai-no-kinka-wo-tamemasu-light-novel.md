@@ -1,5 +1,7 @@
 # Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu
 
+![rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu](https://cdn.myanimelist.net/images/manga/3/197853.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 老後に備えて異世界で 8 万枚の金貨を貯めます
 -   **start-date**: 2017-06-30

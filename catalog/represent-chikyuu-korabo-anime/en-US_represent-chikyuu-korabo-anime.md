@@ -1,5 +1,7 @@
 # Represent Chikyuu Korabo Anime
 
+![represent-chikyuu-korabo-anime](https://cdn.myanimelist.net/images/anime/1482/108265.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: レペゼン地球コラボアニメ

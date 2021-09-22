@@ -1,5 +1,7 @@
 # Rutta to Kodama
 
+![rutta-to-kodama](https://cdn.myanimelist.net/images/manga/3/34226.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

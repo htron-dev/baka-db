@@ -1,5 +1,7 @@
 # Rozen Maiden: Ouvertüre
 
+![rozen-maiden-ouverture](https://cdn.myanimelist.net/images/anime/1/1719.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ローゼンメイデン・オーベルテュー

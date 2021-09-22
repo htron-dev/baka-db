@@ -1,5 +1,7 @@
 # Ryuusei Gakuen no Lost Knight
 
+![ryuusei-gakuen-no-lost-knight](https://cdn.myanimelist.net/images/manga/2/160946.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 22

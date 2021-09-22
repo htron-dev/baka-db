@@ -1,5 +1,7 @@
 # Rasenjin Douji Jouei
 
+![rasenjin-douji-jouei](https://cdn.myanimelist.net/images/manga/3/170166.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

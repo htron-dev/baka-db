@@ -1,5 +1,7 @@
 # Rose Guns Days: Season 1
 
+![rose-guns-days-season-1](https://cdn.myanimelist.net/images/manga/1/132305.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ローズガンズデイズ season1

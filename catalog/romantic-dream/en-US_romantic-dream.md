@@ -1,5 +1,7 @@
 # Romantic Dream
 
+![romantic-dream](https://cdn.myanimelist.net/images/manga/2/61645.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 낭만 로맨스1945
 

@@ -1,5 +1,7 @@
 # ReLIFE
 
+![re-life](https://cdn.myanimelist.net/images/manga/2/171573.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 238

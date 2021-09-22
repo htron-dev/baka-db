@@ -1,5 +1,7 @@
 # Ranpo Another: Akechi Kogorou Kyoushikyoku
 
+![ranpo-another-akechi-kogorou-kyoushikyoku](https://cdn.myanimelist.net/images/manga/1/179090.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

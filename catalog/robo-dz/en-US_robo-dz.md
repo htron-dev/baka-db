@@ -1,5 +1,7 @@
 # RoboDz
 
+![robo-dz](https://cdn.myanimelist.net/images/anime/9/8715.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ロボディーズ-RoboDz-風雲篇

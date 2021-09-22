@@ -1,5 +1,7 @@
 # Ransetsuki
 
+![ransetsuki](https://cdn.myanimelist.net/images/manga/1/15645.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 嵐雪記

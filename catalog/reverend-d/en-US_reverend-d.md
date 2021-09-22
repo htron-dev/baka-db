@@ -1,5 +1,7 @@
 # Reverend D
 
+![reverend-d](https://cdn.myanimelist.net/images/manga/3/37860.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

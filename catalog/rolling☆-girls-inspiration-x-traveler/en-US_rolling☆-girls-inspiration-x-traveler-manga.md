@@ -1,5 +1,7 @@
 # Rolling☆Girls: Inspiration x Traveler
 
+![rolling☆-girls-inspiration-x-traveler](https://cdn.myanimelist.net/images/manga/3/157792.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

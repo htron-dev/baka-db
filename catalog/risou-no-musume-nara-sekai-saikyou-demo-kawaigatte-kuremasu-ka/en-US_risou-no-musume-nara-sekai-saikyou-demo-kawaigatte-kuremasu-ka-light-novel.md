@@ -1,5 +1,7 @@
 # Risou no Musume nara Sekai Saikyou demo Kawaigatte Kuremasu ka?
 
+![risou-no-musume-nara-sekai-saikyou-demo-kawaigatte-kuremasu-ka](https://cdn.myanimelist.net/images/manga/3/241438.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 58

@@ -1,5 +1,7 @@
 # Real Lies
 
+![real-lies](https://cdn.myanimelist.net/images/manga/2/7734.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Renai Distortion
 
+![renai-distortion](https://cdn.myanimelist.net/images/manga/5/28341.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋愛ディストーション
 -   **start-date**: 1998-05-30

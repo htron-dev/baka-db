@@ -1,5 +1,7 @@
 # Renai Kyoufushou no Boku no Mawari ni, Koibito Kouho Shika Inain desu kedo!
 
+![renai-kyoufushou-no-boku-no-mawari-ni-koibito-kouho-shika-inain-desu-kedo](https://cdn.myanimelist.net/images/manga/2/137849.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋愛恐怖症の僕のまわりに、恋人候補しかいないんですけど!

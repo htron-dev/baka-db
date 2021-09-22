@@ -1,5 +1,7 @@
 # Ruriiro Princess
 
+![ruriiro-princess](https://cdn.myanimelist.net/images/manga/3/33523.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: るり色プリンセス

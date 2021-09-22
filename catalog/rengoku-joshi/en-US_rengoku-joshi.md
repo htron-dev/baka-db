@@ -1,5 +1,7 @@
 # Rengoku Joshi
 
+![rengoku-joshi](https://cdn.myanimelist.net/images/manga/2/211806.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

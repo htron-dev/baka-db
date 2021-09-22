@@ -1,5 +1,7 @@
 # Ryuunen! Todome-senpai
 
+![ryuunen-todome-senpai](https://cdn.myanimelist.net/images/manga/2/227951.jpg)
+
 -   **type**: manga
 -   **original-name**: 留年! とどめ先輩
 -   **start-date**: 2019-10-21

@@ -1,5 +1,7 @@
 # Reijou wa Mattari wo Goshomou.
 
+![reijou-wa-mattari-wo-goshomou](https://cdn.myanimelist.net/images/manga/3/230018.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 令嬢はまったりをご所望。
 -   **start-date**: 2018-03-29

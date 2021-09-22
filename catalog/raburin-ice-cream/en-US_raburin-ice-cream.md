@@ -1,5 +1,7 @@
 # Raburin Ice Cream
 
+![raburin-ice-cream](https://cdn.myanimelist.net/images/manga/2/81764.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

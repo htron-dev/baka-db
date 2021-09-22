@@ -1,5 +1,7 @@
 # Rin-chan wa Suezen Shitai
 
+![rin-chan-wa-suezen-shitai](https://cdn.myanimelist.net/images/manga/2/248391.jpg)
+
 -   **type**: manga
 -   **original-name**: りんちゃんは据え膳したい
 -   **start-date**: 2020-08-07

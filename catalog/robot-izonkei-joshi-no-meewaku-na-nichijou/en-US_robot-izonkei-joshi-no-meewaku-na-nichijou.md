@@ -1,5 +1,7 @@
 # Robot Izonkei Joshi no Meewaku na Nichijou
 
+![robot-izonkei-joshi-no-meewaku-na-nichijou](https://cdn.myanimelist.net/images/manga/3/217431.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

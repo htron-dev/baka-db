@@ -1,5 +1,7 @@
 # Reiroukan Kenzainariya
 
+![reiroukan-kenzainariya](https://cdn.myanimelist.net/images/manga/1/165895.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

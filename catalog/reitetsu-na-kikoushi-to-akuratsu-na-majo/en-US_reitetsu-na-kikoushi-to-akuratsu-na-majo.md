@@ -1,5 +1,7 @@
 # Reitetsu na Kikoushi to Akuratsu na Majo
 
+![reitetsu-na-kikoushi-to-akuratsu-na-majo](https://cdn.myanimelist.net/images/manga/1/194484.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

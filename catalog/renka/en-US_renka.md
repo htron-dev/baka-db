@@ -1,5 +1,7 @@
 # Renka
 
+![renka](https://cdn.myanimelist.net/images/manga/1/3352.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

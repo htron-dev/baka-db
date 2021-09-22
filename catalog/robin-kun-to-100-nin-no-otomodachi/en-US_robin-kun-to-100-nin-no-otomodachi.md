@@ -1,5 +1,7 @@
 # Robin-kun to 100 nin no Otomodachi
 
+![robin-kun-to-100-nin-no-otomodachi](https://cdn.myanimelist.net/images/anime/6/26413.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ロビンくんと 100 人のお友達

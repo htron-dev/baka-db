@@ -1,5 +1,7 @@
 # Renai Oukoku
 
+![renai-oukoku](https://cdn.myanimelist.net/images/manga/3/127599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 霸王硬上弓

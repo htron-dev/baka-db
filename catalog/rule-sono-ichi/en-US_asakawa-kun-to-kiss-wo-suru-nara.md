@@ -1,5 +1,7 @@
 # Asakawa-kun to Kiss wo Suru Nara
 
+![asakawa-kun-to-kiss-wo-suru-nara](https://cdn.myanimelist.net/images/manga/2/209454.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

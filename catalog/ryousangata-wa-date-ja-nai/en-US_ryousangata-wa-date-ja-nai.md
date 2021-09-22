@@ -1,5 +1,7 @@
 # Ryousangata wa Date ja Nai!
 
+![ryousangata-wa-date-ja-nai](https://cdn.myanimelist.net/images/manga/1/162492.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 40

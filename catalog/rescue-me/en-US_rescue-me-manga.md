@@ -1,5 +1,7 @@
 # Rescue Me!
 
+![rescue-me](https://cdn.myanimelist.net/images/manga/2/96095.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

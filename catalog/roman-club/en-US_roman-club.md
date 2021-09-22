@@ -1,5 +1,7 @@
 # Roman Club
 
+![roman-club](https://cdn.myanimelist.net/images/manga/2/227744.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

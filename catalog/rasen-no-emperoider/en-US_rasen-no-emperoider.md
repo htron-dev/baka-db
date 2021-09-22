@@ -1,5 +1,7 @@
 # Rasen no Emperoider
 
+![rasen-no-emperoider](https://cdn.myanimelist.net/images/manga/2/189590.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 螺旋のエンペロイダー

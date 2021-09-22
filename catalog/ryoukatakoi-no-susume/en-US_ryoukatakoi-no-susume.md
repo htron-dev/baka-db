@@ -1,5 +1,7 @@
 # Ryoukatakoi no Susume
 
+![ryoukatakoi-no-susume](https://cdn.myanimelist.net/images/manga/2/247965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

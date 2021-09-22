@@ -1,5 +1,7 @@
 # Battle Story Rockman.EXE
 
+![battle-story-rockman-exe](https://cdn.myanimelist.net/images/manga/2/184999.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 71

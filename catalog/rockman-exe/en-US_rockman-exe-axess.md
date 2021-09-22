@@ -1,5 +1,7 @@
 # Rockman.EXE Axess
 
+![rockman-exe-axess](https://cdn.myanimelist.net/images/anime/1/2200.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ロックマンエグゼ Axess

@@ -1,5 +1,7 @@
 # Robokko Beeton
 
+![robokko-beeton](https://cdn.myanimelist.net/images/anime/6/53671.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ろぼっ子ビートン

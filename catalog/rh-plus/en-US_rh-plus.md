@@ -1,5 +1,7 @@
 # RH Plus
 
+![rh-plus](https://cdn.myanimelist.net/images/manga/1/169708.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

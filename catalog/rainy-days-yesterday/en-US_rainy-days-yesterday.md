@@ -1,5 +1,7 @@
 # Rainy Days, Yesterday
 
+![rainy-days-yesterday](https://cdn.myanimelist.net/images/manga/3/159642.jpg)
+
 -   **type**: manga
 -   **original-name**: レイニーデイズ、イエスタデイ
 -   **start-date**: 2015-06-27

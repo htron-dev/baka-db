@@ -1,5 +1,7 @@
 # Romeo x Juliet
 
+![romeo-x-juliet](https://cdn.myanimelist.net/images/anime/12/75159.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ロミオ × ジュリエット

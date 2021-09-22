@@ -1,5 +1,7 @@
 # Renai Allergy
 
+![renai-allergy](https://cdn.myanimelist.net/images/manga/1/235118.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋愛アレルギー
 -   **start-date**: 2017-03-01

@@ -1,5 +1,7 @@
 # Ranma ½: Totteoki Talk - Best of Memories
 
+![ranma-totteoki-talk-best-of-memories](https://cdn.myanimelist.net/images/anime/3/29885.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: らんま 1/2 とっておきトーク ベスト・オブ・メモリーズ

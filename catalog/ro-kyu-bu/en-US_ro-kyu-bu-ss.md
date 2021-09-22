@@ -1,5 +1,7 @@
 # Ro-Kyu-Bu! SS
 
+![ro-kyu-bu-ss](https://cdn.myanimelist.net/images/anime/8/50697.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ロウきゅーぶ! SS

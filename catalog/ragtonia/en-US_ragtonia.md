@@ -1,5 +1,7 @@
 # Ragtonia
 
+![ragtonia](https://cdn.myanimelist.net/images/manga/3/118169.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

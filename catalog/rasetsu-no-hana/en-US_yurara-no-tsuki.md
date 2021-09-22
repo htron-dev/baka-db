@@ -1,5 +1,7 @@
 # Yurara no Tsuki
 
+![yurara-no-tsuki](https://cdn.myanimelist.net/images/manga/3/160616.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

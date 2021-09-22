@@ -1,5 +1,7 @@
 # Renai Semi
 
+![renai-semi](https://cdn.myanimelist.net/images/manga/1/16423.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

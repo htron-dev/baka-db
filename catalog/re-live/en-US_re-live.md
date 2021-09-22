@@ -1,5 +1,7 @@
 # Re:LIVE
 
+![re-live](https://cdn.myanimelist.net/images/manga/1/85593.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: リ：ライブ

@@ -1,5 +1,7 @@
 # Ranma ½
 
+![ranma](https://cdn.myanimelist.net/images/anime/13/6441.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 161
 -   **original-name**: らんま 1/2

@@ -1,5 +1,7 @@
 # Rokumon Tengai Mon Colle Knights
 
+![rokumon-tengai-mon-colle-knights](https://cdn.myanimelist.net/images/anime/3/17055.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 六門天外モンコレナイト

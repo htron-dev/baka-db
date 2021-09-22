@@ -1,5 +1,7 @@
 # Rinshi!! Ekoda-chan
 
+![rinshi-ekoda-chan](https://cdn.myanimelist.net/images/anime/1165/113391.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 臨死!!江古田ちゃん

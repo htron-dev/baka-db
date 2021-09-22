@@ -1,5 +1,7 @@
 # Reimei no Arcana: Hajimari no Toki
 
+![reimei-no-arcana-hajimari-no-toki](https://cdn.myanimelist.net/images/manga/4/161801.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 黎明のアルカナ －始まりの刻－

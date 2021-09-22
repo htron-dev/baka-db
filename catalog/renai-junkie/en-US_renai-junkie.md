@@ -1,5 +1,7 @@
 # Renai Junkie
 
+![renai-junkie](https://cdn.myanimelist.net/images/manga/3/198223.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 231

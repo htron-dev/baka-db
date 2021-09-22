@@ -1,5 +1,7 @@
 # Ranma ½: DoCo Music Video
 
+![ranma-do-co-music-video](https://cdn.myanimelist.net/images/anime/10/29887.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: らんま 1/2 DoCo ミュージックビデオ

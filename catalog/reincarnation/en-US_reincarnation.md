@@ -1,5 +1,7 @@
 # Reincarnation
 
+![reincarnation](https://cdn.myanimelist.net/images/manga/1/230732.jpg)
+
 -   **type**: manga
 -   **original-name**: リーインカーネーション
 -   **start-date**: 2018-06-22

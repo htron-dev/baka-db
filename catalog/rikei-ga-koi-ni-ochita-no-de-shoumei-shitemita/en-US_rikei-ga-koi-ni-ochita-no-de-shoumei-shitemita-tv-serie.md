@@ -1,5 +1,7 @@
 # Rikei ga Koi ni Ochita no de Shoumei shitemita.
 
+![rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita](https://cdn.myanimelist.net/images/anime/1432/103533.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 理系が恋に落ちたので証明してみた。

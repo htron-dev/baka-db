@@ -1,5 +1,7 @@
 # Rakudai Kishi no Cavalry
 
+![rakudai-kishi-no-cavalry](https://cdn.myanimelist.net/images/manga/2/145153.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 47

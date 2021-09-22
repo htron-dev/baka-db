@@ -1,5 +1,7 @@
 # RWBY
 
+![rwby](https://cdn.myanimelist.net/images/manga/2/196046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

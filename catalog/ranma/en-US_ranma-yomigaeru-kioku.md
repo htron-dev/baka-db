@@ -1,5 +1,7 @@
 # Ranma ½: Yomigaeru Kioku
 
+![ranma-yomigaeru-kioku](https://cdn.myanimelist.net/images/anime/11/63453.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: らんま 1/2 SPECIAL よみがえる記憶

@@ -1,5 +1,7 @@
 # Rikei ga Koi ni Ochita no de Shoumei shitemita.
 
+![rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita](https://cdn.myanimelist.net/images/manga/2/185347.jpg)
+
 -   **type**: manga
 -   **original-name**: 理系が恋に落ちたので証明してみた。
 -   **start-date**: 2016-03-16

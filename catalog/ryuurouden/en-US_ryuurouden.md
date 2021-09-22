@@ -1,5 +1,7 @@
 # Ryuurouden
 
+![ryuurouden](https://cdn.myanimelist.net/images/manga/1/2016.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 158

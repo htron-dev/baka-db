@@ -1,5 +1,7 @@
 # Rakushou! Hyper Doll
 
+![rakushou-hyper-doll](https://cdn.myanimelist.net/images/anime/3/29206.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 楽勝! ハイパードール

@@ -1,5 +1,7 @@
 # Rokugatsu no Oka no Hanageshi
 
+![rokugatsu-no-oka-no-hanageshi](https://cdn.myanimelist.net/images/manga/2/114585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

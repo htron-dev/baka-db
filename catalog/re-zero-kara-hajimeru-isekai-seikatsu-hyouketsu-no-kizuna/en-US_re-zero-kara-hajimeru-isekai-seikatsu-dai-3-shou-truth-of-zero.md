@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu: Dai-3 Shou - Truth of Zero
 
+![re-zero-kara-hajimeru-isekai-seikatsu-dai-3-shou-truth-of-zero](https://cdn.myanimelist.net/images/manga/3/188948.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 55

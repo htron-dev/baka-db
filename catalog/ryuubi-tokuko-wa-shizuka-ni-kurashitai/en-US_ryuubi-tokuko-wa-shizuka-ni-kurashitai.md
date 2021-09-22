@@ -1,5 +1,7 @@
 # Ryuubi Tokuko wa Shizuka ni Kurashitai
 
+![ryuubi-tokuko-wa-shizuka-ni-kurashitai](https://cdn.myanimelist.net/images/manga/3/191415.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

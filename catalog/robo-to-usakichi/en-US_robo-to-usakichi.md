@@ -1,5 +1,7 @@
 # Robo to Usakichi
 
+![robo-to-usakichi](https://cdn.myanimelist.net/images/manga/2/190014.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 16

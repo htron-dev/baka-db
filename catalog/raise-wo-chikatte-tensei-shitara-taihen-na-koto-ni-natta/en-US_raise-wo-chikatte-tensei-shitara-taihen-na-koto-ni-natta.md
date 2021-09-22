@@ -1,5 +1,7 @@
 # Raise wo Chikatte Tensei shitara Taihen na Koto ni Natta
 
+![raise-wo-chikatte-tensei-shitara-taihen-na-koto-ni-natta](https://cdn.myanimelist.net/images/manga/2/235688.jpg)
+
 -   **type**: manga
 -   **original-name**: 来世を誓って転生したら大変なことになった
 -   **start-date**: 2019-06-25

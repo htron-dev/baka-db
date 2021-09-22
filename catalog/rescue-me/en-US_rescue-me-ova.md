@@ -1,5 +1,7 @@
 # Rescue Me!
 
+![rescue-me](https://cdn.myanimelist.net/images/anime/12/52033.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: れすきゅー ME!

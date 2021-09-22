@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Yahiko's Battle
 
+![rurouni-kenshin-yahikos-battle](https://cdn.myanimelist.net/images/manga/3/48927.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 22

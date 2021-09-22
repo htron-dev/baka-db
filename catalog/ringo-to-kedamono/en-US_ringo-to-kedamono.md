@@ -1,5 +1,7 @@
 # Ringo to Kedamono
 
+![ringo-to-kedamono](https://cdn.myanimelist.net/images/manga/3/10900.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: りんごとケダモノ

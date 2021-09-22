@@ -1,5 +1,7 @@
 # Royal Affair
 
+![royal-affair](https://cdn.myanimelist.net/images/manga/3/227654.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ロイヤル・アフェア

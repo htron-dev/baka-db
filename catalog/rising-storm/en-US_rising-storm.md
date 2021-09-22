@@ -1,5 +1,7 @@
 # Rising Storm
 
+![rising-storm](https://cdn.myanimelist.net/images/manga/3/5474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

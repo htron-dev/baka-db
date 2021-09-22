@@ -1,5 +1,7 @@
 # R.O.D: Read or Dream
 
+![r-o-d-read-or-dream](https://cdn.myanimelist.net/images/manga/2/178270.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

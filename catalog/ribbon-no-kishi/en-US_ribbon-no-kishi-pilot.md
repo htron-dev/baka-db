@@ -1,5 +1,7 @@
 # Ribbon no Kishi Pilot
 
+![ribbon-no-kishi-pilot](https://cdn.myanimelist.net/images/anime/12/58317.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: リボンの騎士（パイロット）

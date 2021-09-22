@@ -1,5 +1,7 @@
 # Rakka Ryuusui no Hoshi
 
+![rakka-ryuusui-no-hoshi](https://cdn.myanimelist.net/images/manga/1/224006.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

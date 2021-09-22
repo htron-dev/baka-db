@@ -1,5 +1,7 @@
 # Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku
 
+![rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku](https://cdn.myanimelist.net/images/manga/3/226186.jpg)
+
 -   **type**: manga
 -   **original-name**: 落第賢者の学院無双 ～二度目の転生、Ｓランクチート魔術師冒険録～
 -   **start-date**: 2019-09-26

@@ -1,5 +1,7 @@
 # Rosario to Vampire: Season II
 
+![rosario-to-vampire-season-ii](https://cdn.myanimelist.net/images/manga/2/54789.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 67

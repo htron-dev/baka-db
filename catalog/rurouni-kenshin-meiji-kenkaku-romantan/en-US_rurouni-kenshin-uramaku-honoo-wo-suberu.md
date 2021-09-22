@@ -1,5 +1,7 @@
 # Rurouni Kenshin Uramaku: Honoo wo Suberu
 
+![rurouni-kenshin-uramaku-honoo-wo-suberu](https://cdn.myanimelist.net/images/manga/1/201970.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

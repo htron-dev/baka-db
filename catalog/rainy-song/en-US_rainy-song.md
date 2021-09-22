@@ -1,5 +1,7 @@
 # Rainy Song
 
+![rainy-song](https://cdn.myanimelist.net/images/manga/3/123149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

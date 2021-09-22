@@ -1,5 +1,7 @@
 # Rokushin Gattai GodMars
 
+![rokushin-gattai-god-mars](https://cdn.myanimelist.net/images/anime/4/21725.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 64
 -   **original-name**: 六神合体ゴッドマーズ

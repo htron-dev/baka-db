@@ -1,5 +1,7 @@
 # Response
 
+![response](https://cdn.myanimelist.net/images/manga/2/11584.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

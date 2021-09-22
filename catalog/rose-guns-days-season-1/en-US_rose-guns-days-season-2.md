@@ -1,5 +1,7 @@
 # Rose Guns Days: Season 2
 
+![rose-guns-days-season-2](https://cdn.myanimelist.net/images/manga/1/115989.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

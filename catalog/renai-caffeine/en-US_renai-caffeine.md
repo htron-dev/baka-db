@@ -1,5 +1,7 @@
 # Renai Caffeine
 
+![renai-caffeine](https://cdn.myanimelist.net/images/manga/2/171254.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

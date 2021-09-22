@@ -1,5 +1,7 @@
 # Rune Factory Frontier: Sora to Daichi no Boukenou
 
+![rune-factory-frontier-sora-to-daichi-no-boukenou](https://cdn.myanimelist.net/images/manga/1/35804.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: ルーンファクトリー フロンティア　空と大地の冒険王

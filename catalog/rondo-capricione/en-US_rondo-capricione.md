@@ -1,5 +1,7 @@
 # Rondo Capricione
 
+![rondo-capricione](https://cdn.myanimelist.net/images/manga/2/12789.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ロンドカプリチオーソ

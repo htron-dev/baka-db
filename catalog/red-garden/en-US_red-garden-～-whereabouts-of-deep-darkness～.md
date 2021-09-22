@@ -1,5 +1,7 @@
 # Red Garden ～ Whereabouts of Deep Darkness ～
 
+![red-garden-～-whereabouts-of-deep-darkness-～](https://cdn.myanimelist.net/images/manga/2/37879.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

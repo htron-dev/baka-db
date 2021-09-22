@@ -1,5 +1,7 @@
 # Red Shoes
 
+![red-shoes](https://cdn.myanimelist.net/images/anime/1403/112558.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 레드슈즈

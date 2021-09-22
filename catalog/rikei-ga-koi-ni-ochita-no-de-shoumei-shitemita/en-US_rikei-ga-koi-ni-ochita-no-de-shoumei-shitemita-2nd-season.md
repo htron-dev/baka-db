@@ -1,5 +1,7 @@
 # Rikei ga Koi ni Ochita no de Shoumei shitemita. 2nd Season
 
+![rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita-2nd-season](https://cdn.myanimelist.net/images/anime/1895/109805.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 理系が恋に落ちたので証明してみた。
 -   **rating**: PG-13 - Teens 13 or older

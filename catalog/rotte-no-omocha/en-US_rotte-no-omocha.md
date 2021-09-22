@@ -1,5 +1,7 @@
 # Rotte no Omocha!
 
+![rotte-no-omocha](https://cdn.myanimelist.net/images/manga/1/158386.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 70

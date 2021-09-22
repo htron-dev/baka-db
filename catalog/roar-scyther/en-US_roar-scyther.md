@@ -1,5 +1,7 @@
 # Roar Scyther
 
+![roar-scyther](https://cdn.myanimelist.net/images/manga/1/15506.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 로어사이더

@@ -1,5 +1,7 @@
 # Rokushou!
 
+![rokushou](https://cdn.myanimelist.net/images/manga/3/218653.jpg)
+
 -   **type**: manga
 -   **original-name**: ロクショウ!
 -   **start-date**: 2018-11-12

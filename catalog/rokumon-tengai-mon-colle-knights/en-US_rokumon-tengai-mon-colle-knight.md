@@ -1,5 +1,7 @@
 # Rokumon Tengai Mon Colle Knight
 
+![rokumon-tengai-mon-colle-knight](https://cdn.myanimelist.net/images/manga/2/3221.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

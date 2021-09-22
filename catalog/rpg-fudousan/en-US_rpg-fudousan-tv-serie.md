@@ -1,5 +1,7 @@
 # RPG Fudousan
 
+![rpg-fudousan](https://cdn.myanimelist.net/images/anime/1209/116786.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: RPG 不動産
 -   **rating**: None

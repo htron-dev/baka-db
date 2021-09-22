@@ -1,5 +1,7 @@
 # Rain
 
+![rain](https://cdn.myanimelist.net/images/manga/1/92013.jpg)
+
 -   **type**: light-novel
 -   **original-name**: レイン
 -   **start-date**: 2005-10-15

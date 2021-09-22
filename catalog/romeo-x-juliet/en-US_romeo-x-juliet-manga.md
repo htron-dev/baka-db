@@ -1,5 +1,7 @@
 # Romeo x Juliet
 
+![romeo-x-juliet](https://cdn.myanimelist.net/images/manga/3/21748.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

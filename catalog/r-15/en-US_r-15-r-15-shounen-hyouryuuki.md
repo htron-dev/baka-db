@@ -1,5 +1,7 @@
 # R-15: R15 Shounen Hyouryuuki
 
+![r-15-r-15-shounen-hyouryuuki](https://cdn.myanimelist.net/images/anime/5/30175.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あーるじゅうご R15 少年漂流記

@@ -1,5 +1,7 @@
 # Re:Alive
 
+![re-alive](https://cdn.myanimelist.net/images/manga/2/179151.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Renai Bus Stop
 
+![renai-bus-stop](https://cdn.myanimelist.net/images/manga/2/31094.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

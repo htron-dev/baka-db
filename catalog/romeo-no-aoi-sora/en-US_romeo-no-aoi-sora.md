@@ -1,5 +1,7 @@
 # Romeo no Aoi Sora
 
+![romeo-no-aoi-sora](https://cdn.myanimelist.net/images/anime/4/17979.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 33
 -   **original-name**: ロミオの青い空

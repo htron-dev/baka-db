@@ -1,5 +1,7 @@
 # Revolt
 
+![revolt](https://cdn.myanimelist.net/images/manga/1/157715.jpg)
+
 -   **type**: manga
 -   **original-name**: REVOLT
 -   **start-date**: 2014-11-30

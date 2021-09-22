@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu: Dai-1 Shou - Outo no Ichinichi-hen
 
+![re-zero-kara-hajimeru-isekai-seikatsu-dai-1-shou-outo-no-ichinichi-hen](https://cdn.myanimelist.net/images/manga/3/188949.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

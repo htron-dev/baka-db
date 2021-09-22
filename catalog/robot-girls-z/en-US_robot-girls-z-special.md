@@ -1,5 +1,7 @@
 # Robot Girls Z
 
+![robot-girls-z](https://cdn.myanimelist.net/images/anime/4/53141.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ロボットガールズＺ

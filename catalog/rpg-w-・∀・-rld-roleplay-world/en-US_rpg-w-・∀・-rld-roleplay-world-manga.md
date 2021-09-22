@@ -1,5 +1,7 @@
 # RPG W(・∀・)RLD - Roleplay World
 
+![rpg-w-・∀・-rld-roleplay-world](https://cdn.myanimelist.net/images/manga/1/158159.jpg)
+
 -   **type**: manga
 -   **original-name**: RPG W(・∀・)RLD ‐ろーぷれ・わーるど‐
 

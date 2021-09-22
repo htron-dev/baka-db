@@ -1,5 +1,7 @@
 # Robot Trains
 
+![robot-trains](https://cdn.myanimelist.net/images/anime/1146/100482.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **start-date**: 2015-01-20

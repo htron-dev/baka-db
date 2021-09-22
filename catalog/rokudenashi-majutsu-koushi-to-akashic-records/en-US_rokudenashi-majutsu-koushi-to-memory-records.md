@@ -1,5 +1,7 @@
 # Rokudenashi Majutsu Koushi to Memory Records
 
+![rokudenashi-majutsu-koushi-to-memory-records](https://cdn.myanimelist.net/images/manga/1/174492.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ロクでなし魔術講師と追想日誌〈メモリーレコード〉
 -   **start-date**: 2016-03-19

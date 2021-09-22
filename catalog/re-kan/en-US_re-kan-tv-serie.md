@@ -1,5 +1,7 @@
 # Re-Kan!
 
+![re-kan](https://cdn.myanimelist.net/images/anime/11/72544.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: レーカン！

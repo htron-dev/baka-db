@@ -1,5 +1,7 @@
 # Rinjin wa Mayonaka ni Piano wo Hiku
 
+![rinjin-wa-mayonaka-ni-piano-wo-hiku](https://cdn.myanimelist.net/images/manga/2/178095.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

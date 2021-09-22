@@ -1,5 +1,7 @@
 # Nintama Rantarou
 
+![nintama-rantarou](https://cdn.myanimelist.net/images/anime/6/74028.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 忍たま乱太郎
 -   **start-date**: 1993-04-10

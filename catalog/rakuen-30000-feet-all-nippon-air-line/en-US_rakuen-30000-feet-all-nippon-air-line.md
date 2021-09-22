@@ -1,5 +1,7 @@
 # Rakuen 30000 Feet - All Nippon Air Line
 
+![rakuen-30000-feet-all-nippon-air-line](https://cdn.myanimelist.net/images/manga/2/6249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

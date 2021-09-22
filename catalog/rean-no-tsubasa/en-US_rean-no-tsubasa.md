@@ -1,5 +1,7 @@
 # Rean no Tsubasa
 
+![rean-no-tsubasa](https://cdn.myanimelist.net/images/manga/4/81582.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

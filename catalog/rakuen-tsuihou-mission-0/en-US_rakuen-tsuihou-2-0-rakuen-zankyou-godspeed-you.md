@@ -1,5 +1,7 @@
 # Rakuen Tsuihou 2.0: Rakuen Zankyou - Godspeed You
 
+![rakuen-tsuihou-2-0-rakuen-zankyou-godspeed-you](https://cdn.myanimelist.net/images/manga/3/169877.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 楽園追放 2.0：楽園残響 -Godspeed You-

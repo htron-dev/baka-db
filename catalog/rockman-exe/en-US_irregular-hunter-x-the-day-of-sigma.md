@@ -1,5 +1,7 @@
 # Irregular Hunter X: The Day of Sigma
 
+![irregular-hunter-x-the-day-of-sigma](https://cdn.myanimelist.net/images/anime/3/9131.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: イレギュラーハンターＸ

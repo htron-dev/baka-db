@@ -1,5 +1,7 @@
 # ReLIFE: Kanketsu-hen
 
+![re-life-kanketsu-hen](https://cdn.myanimelist.net/images/anime/1566/91061.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ReLIFE 完結編

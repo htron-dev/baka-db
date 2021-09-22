@@ -1,5 +1,7 @@
 # Rurouni Kenshin Special
 
+![rurouni-kenshin-special](https://cdn.myanimelist.net/images/anime/1581/104187.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: るろうに剣心 -明治剣客浪漫譚- 流浪の最果て- 緋と瑠璃の絆は潮騒の中に

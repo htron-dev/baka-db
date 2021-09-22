@@ -1,5 +1,7 @@
 # Ryouomoi nante Joudan ja Nai!!
 
+![ryouomoi-nante-joudan-ja-nai](https://cdn.myanimelist.net/images/manga/1/226973.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

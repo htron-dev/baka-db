@@ -1,5 +1,7 @@
 # Real Rode
 
+![real-rode](https://cdn.myanimelist.net/images/manga/3/43793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: リアルロデ

@@ -1,5 +1,7 @@
 # Ranpo Kitan: Game of Laplace
 
+![ranpo-kitan-game-of-laplace](https://cdn.myanimelist.net/images/anime/5/79565.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 乱歩奇譚 Game of Laplace

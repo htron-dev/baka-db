@@ -1,5 +1,7 @@
 # Rave
 
+![rave](https://cdn.myanimelist.net/images/manga/5/986.jpg)
+
 -   **type**: manga
 -   **volumes**: 35
 -   **chapters**: 298

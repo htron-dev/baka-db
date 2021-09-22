@@ -1,5 +1,7 @@
 # Rental Magica
 
+![rental-magica](https://cdn.myanimelist.net/images/manga/1/191051.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 23
 -   **original-name**: レンタルマギカ

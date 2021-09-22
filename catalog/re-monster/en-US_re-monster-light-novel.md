@@ -1,5 +1,7 @@
 # Re:Monster
 
+![re-monster](https://cdn.myanimelist.net/images/manga/2/207585.jpg)
+
 -   **type**: light-novel
 -   **original-name**: Re:Monster
 -   **start-date**: 2012-07-24

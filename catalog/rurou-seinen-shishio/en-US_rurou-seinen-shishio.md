@@ -1,5 +1,7 @@
 # Rurou Seinen Shishio
 
+![rurou-seinen-shishio](https://cdn.myanimelist.net/images/manga/2/173572.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 流浪青年シシオ

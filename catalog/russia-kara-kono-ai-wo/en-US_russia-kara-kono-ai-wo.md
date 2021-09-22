@@ -1,5 +1,7 @@
 # Russia kara Kono Ai wo
 
+![russia-kara-kono-ai-wo](https://cdn.myanimelist.net/images/manga/2/227303.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ロシアからこの愛を

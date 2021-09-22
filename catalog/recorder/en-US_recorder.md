@@ -1,5 +1,7 @@
 # Recorder
 
+![recorder](https://cdn.myanimelist.net/images/anime/5/71617.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: RECORDER

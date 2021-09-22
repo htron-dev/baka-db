@@ -1,5 +1,7 @@
 # Romancing Teacher
 
+![romancing-teacher](https://cdn.myanimelist.net/images/manga/3/153376.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ロマンシング・ティーチャー

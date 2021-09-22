@@ -1,5 +1,7 @@
 # Rokumonsen Rock
 
+![rokumonsen-rock](https://cdn.myanimelist.net/images/manga/2/166212.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

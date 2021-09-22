@@ -1,5 +1,7 @@
 # Rack: 13-gakari no Zankoku Kikai
 
+![rack-13-gakari-no-zankoku-kikai](https://cdn.myanimelist.net/images/manga/2/219623.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 66

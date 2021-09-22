@@ -1,5 +1,7 @@
 # Rorona no Atelier: Watashi no Takaramono
 
+![rorona-no-atelier-watashi-no-takaramono](https://cdn.myanimelist.net/images/manga/2/33471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ロロナのアトリエ わたしのたからもの

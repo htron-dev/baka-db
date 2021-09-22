@@ -1,5 +1,7 @@
 # Redrum 327
 
+![redrum-327](https://cdn.myanimelist.net/images/manga/3/30456.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 18

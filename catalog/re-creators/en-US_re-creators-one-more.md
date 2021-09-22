@@ -1,5 +1,7 @@
 # Re:Creators: One More!
 
+![re-creators-one-more](https://cdn.myanimelist.net/images/manga/2/221882.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

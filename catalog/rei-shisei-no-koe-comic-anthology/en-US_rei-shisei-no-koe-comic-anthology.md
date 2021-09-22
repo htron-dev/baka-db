@@ -1,5 +1,7 @@
 # Rei: Shisei no Koe - Comic Anthology
 
+![rei-shisei-no-koe-comic-anthology](https://cdn.myanimelist.net/images/manga/1/33007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

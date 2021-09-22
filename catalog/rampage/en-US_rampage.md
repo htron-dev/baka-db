@@ -1,5 +1,7 @@
 # Rampage
 
+![rampage](https://cdn.myanimelist.net/images/manga/3/33927.jpg)
+
 -   **type**: manga
 -   **original-name**: ランペイジ
 

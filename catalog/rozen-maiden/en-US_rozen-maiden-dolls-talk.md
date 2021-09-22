@@ -1,5 +1,7 @@
 # Rozen Maiden: Dolls Talk
 
+![rozen-maiden-dolls-talk](https://cdn.myanimelist.net/images/manga/2/119911.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ローゼンメイデン dolls talk

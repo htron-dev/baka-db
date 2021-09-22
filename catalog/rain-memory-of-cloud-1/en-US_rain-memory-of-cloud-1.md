@@ -1,5 +1,7 @@
 # Rain: Memory of Cloud. 1
 
+![rain-memory-of-cloud-1](https://cdn.myanimelist.net/images/anime/1235/108143.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: RAIN―MEMORY OF CLOUD. 1

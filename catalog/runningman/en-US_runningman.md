@@ -1,5 +1,7 @@
 # Runningman
 
+![runningman](https://cdn.myanimelist.net/images/anime/2/80667.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「RUNNINGMAN」ランニングマン>

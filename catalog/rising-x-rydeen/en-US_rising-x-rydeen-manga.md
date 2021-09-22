@@ -1,5 +1,7 @@
 # Rising x Rydeen
 
+![rising-x-rydeen](https://cdn.myanimelist.net/images/manga/2/179586.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

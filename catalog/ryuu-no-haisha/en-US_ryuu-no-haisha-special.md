@@ -1,5 +1,7 @@
 # Ryuu no Haisha
 
+![ryuu-no-haisha](https://cdn.myanimelist.net/images/anime/13/83336.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 龍の歯医者

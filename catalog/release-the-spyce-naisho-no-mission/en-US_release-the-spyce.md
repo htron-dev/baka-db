@@ -1,5 +1,7 @@
 # Release the Spyce
 
+![release-the-spyce](https://cdn.myanimelist.net/images/anime/1623/95617.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: RELEASE THE SPYCE

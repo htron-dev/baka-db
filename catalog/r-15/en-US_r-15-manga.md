@@ -1,5 +1,7 @@
 # R-15
 
+![r-15](https://cdn.myanimelist.net/images/manga/3/38010.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: R-15

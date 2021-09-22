@@ -1,5 +1,7 @@
 # Rinjin ni Ai no Te wo
 
+![rinjin-ni-ai-no-te-wo](https://cdn.myanimelist.net/images/manga/3/237739.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

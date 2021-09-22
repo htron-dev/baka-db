@@ -1,5 +1,7 @@
 # Rocket Girls
 
+![rocket-girls](https://cdn.myanimelist.net/images/anime/2/79894.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ロケットガール

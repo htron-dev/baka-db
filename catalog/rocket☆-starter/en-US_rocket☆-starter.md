@@ -1,5 +1,7 @@
 # Rocket☆Starter
 
+![rocket☆-starter](https://cdn.myanimelist.net/images/manga/2/97711.jpg)
+
 -   **type**: manga
 -   **original-name**: ロケットスターター
 -   **start-date**: 2009-01-19

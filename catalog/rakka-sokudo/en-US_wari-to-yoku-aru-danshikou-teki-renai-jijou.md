@@ -1,5 +1,7 @@
 # Wari to Yoku Aru Danshikou-teki Renai Jijou
 
+![wari-to-yoku-aru-danshikou-teki-renai-jijou](https://cdn.myanimelist.net/images/manga/3/31258.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

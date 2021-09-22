@@ -1,5 +1,7 @@
 # Runway no Koibito
 
+![runway-no-koibito](https://cdn.myanimelist.net/images/manga/1/99341.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

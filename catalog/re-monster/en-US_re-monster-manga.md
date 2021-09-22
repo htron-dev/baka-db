@@ -1,5 +1,7 @@
 # Re:Monster
 
+![re-monster](https://cdn.myanimelist.net/images/manga/1/151618.jpg)
+
 -   **type**: manga
 -   **original-name**: Re:Monster
 -   **start-date**: 2014-03-27

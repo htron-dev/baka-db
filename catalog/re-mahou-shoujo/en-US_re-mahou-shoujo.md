@@ -1,5 +1,7 @@
 # Re:Mahou Shoujo
 
+![re-mahou-shoujo](https://cdn.myanimelist.net/images/manga/2/119979.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

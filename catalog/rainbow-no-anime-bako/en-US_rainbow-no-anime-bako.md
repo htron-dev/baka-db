@@ -1,5 +1,7 @@
 # Rainbow no Anime Bako
 
+![rainbow-no-anime-bako](https://cdn.myanimelist.net/images/anime/10/70843.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: レイン坊のアニメ箱

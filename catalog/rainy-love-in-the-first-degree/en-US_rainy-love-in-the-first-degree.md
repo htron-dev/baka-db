@@ -1,5 +1,7 @@
 # Rainy Love In the First Degree
 
+![rainy-love-in-the-first-degree](https://cdn.myanimelist.net/images/manga/2/30091.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 第一級潤愛罪

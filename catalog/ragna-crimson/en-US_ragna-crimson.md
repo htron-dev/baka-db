@@ -1,5 +1,7 @@
 # Ragna Crimson
 
+![ragna-crimson](https://cdn.myanimelist.net/images/manga/3/202075.jpg)
+
 -   **type**: manga
 -   **original-name**: ラグナクリムゾン
 -   **start-date**: 2017-03-22

@@ -1,5 +1,7 @@
 # Renai: Crown
 
+![renai-crown](https://cdn.myanimelist.net/images/manga/2/155809.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

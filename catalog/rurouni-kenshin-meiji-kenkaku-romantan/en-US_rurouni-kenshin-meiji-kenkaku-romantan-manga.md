@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Meiji Kenkaku Romantan
 
+![rurouni-kenshin-meiji-kenkaku-romantan](https://cdn.myanimelist.net/images/manga/2/127583.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 259

@@ -1,5 +1,7 @@
 # Rojiura Kurashi
 
+![rojiura-kurashi](https://cdn.myanimelist.net/images/manga/3/189399.jpg)
+
 -   **type**: manga
 -   **original-name**: ロヂウラくらし
 -   **start-date**: 2015-06-23

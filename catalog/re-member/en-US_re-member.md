@@ -1,5 +1,7 @@
 # ReMember
 
+![re-member](https://cdn.myanimelist.net/images/manga/2/77259.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 91

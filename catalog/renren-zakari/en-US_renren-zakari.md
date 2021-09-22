@@ -1,5 +1,7 @@
 # Renren Zakari
 
+![renren-zakari](https://cdn.myanimelist.net/images/manga/1/109257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

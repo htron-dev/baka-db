@@ -1,5 +1,7 @@
 # RahXephon
 
+![rah-xephon](https://cdn.myanimelist.net/images/anime/13/75168.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ラーゼフォン

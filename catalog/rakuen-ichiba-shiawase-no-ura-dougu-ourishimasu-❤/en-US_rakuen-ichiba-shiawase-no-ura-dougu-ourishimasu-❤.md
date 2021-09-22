@@ -1,5 +1,7 @@
 # Rakuen Ichiba: Shiawase no Ura Dougu, Ourishimasu❤
 
+![rakuen-ichiba-shiawase-no-ura-dougu-ourishimasu-❤](https://cdn.myanimelist.net/images/manga/3/247469.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

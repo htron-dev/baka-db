@@ -1,5 +1,7 @@
 # Rinse no Bouken Taihenki
 
+![rinse-no-bouken-taihenki](https://cdn.myanimelist.net/images/manga/1/148243.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

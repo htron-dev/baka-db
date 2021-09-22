@@ -1,5 +1,7 @@
 # Regatta: Kimi to Ita Eien
 
+![regatta-kimi-to-ita-eien](https://cdn.myanimelist.net/images/manga/1/166202.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 63

@@ -1,5 +1,7 @@
 # Reversible!
 
+![reversible](https://cdn.myanimelist.net/images/manga/1/62059.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

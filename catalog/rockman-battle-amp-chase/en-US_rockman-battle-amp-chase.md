@@ -1,5 +1,7 @@
 # Rockman Battle &amp; Chase
 
+![rockman-battle-amp-chase](https://cdn.myanimelist.net/images/manga/2/35089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 洛克人大賽車

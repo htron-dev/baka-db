@@ -1,5 +1,7 @@
 # Rose Hip Zero
 
+![rose-hip-zero](https://cdn.myanimelist.net/images/manga/1/177217.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

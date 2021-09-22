@@ -1,5 +1,7 @@
 # Rouchou wa Ai ni Naku
 
+![rouchou-wa-ai-ni-naku](https://cdn.myanimelist.net/images/manga/1/64627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

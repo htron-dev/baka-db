@@ -1,5 +1,7 @@
 # Ryle to Louis
 
+![ryle-to-louis](https://cdn.myanimelist.net/images/manga/3/189514.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

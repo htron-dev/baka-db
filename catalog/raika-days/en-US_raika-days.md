@@ -1,5 +1,7 @@
 # Raika Days
 
+![raika-days](https://cdn.myanimelist.net/images/manga/3/41442.jpg)
+
 -   **type**: manga
 -   **original-name**: らいか・デイズ
 -   **start-date**: 2003-08-07

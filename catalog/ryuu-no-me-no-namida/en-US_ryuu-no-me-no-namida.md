@@ -1,5 +1,7 @@
 # Ryuu no Me no Namida
 
+![ryuu-no-me-no-namida](https://cdn.myanimelist.net/images/anime/12/82357.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: りゅうの目のなみだ

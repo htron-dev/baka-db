@@ -1,5 +1,7 @@
 # Ring Ring Busters!
 
+![ring-ring-busters](https://cdn.myanimelist.net/images/manga/3/113173.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: RING RING BUSTERS! 葉乃はるか リトルバスターズ! 作品集

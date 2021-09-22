@@ -1,5 +1,7 @@
 # Robotics;Notes: Revival Legacy
 
+![robotics-notes-revival-legacy](https://cdn.myanimelist.net/images/manga/3/152515.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

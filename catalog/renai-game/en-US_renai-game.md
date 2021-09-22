@@ -1,5 +1,7 @@
 # Renai Game
 
+![renai-game](https://cdn.myanimelist.net/images/manga/2/171569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ryuu no Musume to Onna Yuusha to Dungeon ga Ore no Nichijou ni Najinderu!
 
+![ryuu-no-musume-to-onna-yuusha-to-dungeon-ga-ore-no-nichijou-ni-najinderu](https://cdn.myanimelist.net/images/manga/1/203531.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

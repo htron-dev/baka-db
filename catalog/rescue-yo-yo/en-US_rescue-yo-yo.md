@@ -1,5 +1,7 @@
 # Rescue YoYo
 
+![rescue-yo-yo](https://cdn.myanimelist.net/images/anime/13/70837.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: レスキュー YoYo

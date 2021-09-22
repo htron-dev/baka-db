@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow
 
+![re-zero-kara-hajimeru-isekai-seikatsu-memory-snow](https://cdn.myanimelist.net/images/anime/1081/95707.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Re:ゼロから始める異世界生活 Memory Snow

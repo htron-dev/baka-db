@@ -1,5 +1,7 @@
 # Riki-Oh
 
+![riki-oh](https://cdn.myanimelist.net/images/manga/3/194112.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 75

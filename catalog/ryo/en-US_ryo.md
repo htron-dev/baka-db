@@ -1,5 +1,7 @@
 # Ryo
 
+![ryo](https://cdn.myanimelist.net/images/anime/1459/116393.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 龍-RYO-

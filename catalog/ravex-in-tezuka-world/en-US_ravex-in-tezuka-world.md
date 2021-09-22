@@ -1,5 +1,7 @@
 # Ravex in Tezuka World
 
+![ravex-in-tezuka-world](https://cdn.myanimelist.net/images/anime/13/14865.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ravex in Tezuka World

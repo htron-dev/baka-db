@@ -1,5 +1,7 @@
 # Roumantei no Juunin: Shinonome
 
+![roumantei-no-juunin-shinonome](https://cdn.myanimelist.net/images/manga/2/10831.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

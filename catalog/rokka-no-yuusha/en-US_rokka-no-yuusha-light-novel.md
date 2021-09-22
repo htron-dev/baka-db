@@ -1,5 +1,7 @@
 # Rokka no Yuusha
 
+![rokka-no-yuusha](https://cdn.myanimelist.net/images/manga/1/163592.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 六花の勇者
 -   **start-date**: 2011-08-25

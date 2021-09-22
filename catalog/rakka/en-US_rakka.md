@@ -1,5 +1,7 @@
 # Rakka
 
+![rakka](https://cdn.myanimelist.net/images/manga/3/222513.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

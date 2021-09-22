@@ -1,5 +1,7 @@
 # Rachel Dial
 
+![rachel-dial](https://cdn.myanimelist.net/images/manga/1/235426.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

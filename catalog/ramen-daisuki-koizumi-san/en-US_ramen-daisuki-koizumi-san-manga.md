@@ -1,5 +1,7 @@
 # Ramen Daisuki Koizumi-san
 
+![ramen-daisuki-koizumi-san](https://cdn.myanimelist.net/images/manga/2/193985.jpg)
+
 -   **type**: manga
 -   **original-name**: ラーメン大好き小泉さん
 -   **start-date**: 2013-09-30

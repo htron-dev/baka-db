@@ -1,5 +1,7 @@
 # Rose Guns Days: Season 1
 
+![rose-guns-days-season-1](https://cdn.myanimelist.net/images/manga/2/115985.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

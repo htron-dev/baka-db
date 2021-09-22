@@ -1,5 +1,7 @@
 # The Ring 2
 
+![the-ring-2](https://cdn.myanimelist.net/images/manga/1/3420.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

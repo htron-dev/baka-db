@@ -1,5 +1,7 @@
 # Romance wa Tsurugi no Kagayaki II Plus
 
+![romance-wa-tsurugi-no-kagayaki-ii-plus](https://cdn.myanimelist.net/images/manga/2/36751.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ロマンスは剣の輝き IIPLUS

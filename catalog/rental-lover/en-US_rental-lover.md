@@ -1,5 +1,7 @@
 # Rental Lover
 
+![rental-lover](https://cdn.myanimelist.net/images/manga/3/30125.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

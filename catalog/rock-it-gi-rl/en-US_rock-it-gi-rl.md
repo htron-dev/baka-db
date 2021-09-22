@@ -1,5 +1,7 @@
 # Rock it, GiRL!!
 
+![rock-it-gi-rl](https://cdn.myanimelist.net/images/manga/2/125675.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

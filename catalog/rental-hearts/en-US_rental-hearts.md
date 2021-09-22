@@ -1,5 +1,7 @@
 # Rental Hearts
 
+![rental-hearts](https://cdn.myanimelist.net/images/manga/2/135081.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Revbahaf Wang-gug Jaegeon-soelgi
 
+![revbahaf-wang-gug-jaegeon-soelgi](https://cdn.myanimelist.net/images/anime/4/52259.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ルブバハフ王国再建設記

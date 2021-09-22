@@ -1,5 +1,7 @@
 # Nintama Rantarou Movie
 
+![nintama-rantarou-movie](https://cdn.myanimelist.net/images/anime/10/3649.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画　忍たま乱太郎

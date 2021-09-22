@@ -1,5 +1,7 @@
 # Radiation House
 
+![radiation-house](https://cdn.myanimelist.net/images/manga/3/180240.jpg)
+
 -   **type**: manga
 -   **original-name**: ラジエーションハウス
 -   **start-date**: 2015-10-21

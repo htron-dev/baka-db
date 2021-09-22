@@ -1,5 +1,7 @@
 # Renai 0 Kilometer: Moshimo no wo Hanashi
 
+![renai-0-kilometer-moshimo-no-wo-hanashi](https://cdn.myanimelist.net/images/manga/1/178448.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋愛 0 キロメートル 〜もしものおはなし〜

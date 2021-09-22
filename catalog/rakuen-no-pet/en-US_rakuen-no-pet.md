@@ -1,5 +1,7 @@
 # Rakuen no Pet
 
+![rakuen-no-pet](https://cdn.myanimelist.net/images/manga/2/16096.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

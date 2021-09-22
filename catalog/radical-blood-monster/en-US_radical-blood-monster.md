@@ -1,5 +1,7 @@
 # Radical Blood Monster
 
+![radical-blood-monster](https://cdn.myanimelist.net/images/manga/3/80753.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

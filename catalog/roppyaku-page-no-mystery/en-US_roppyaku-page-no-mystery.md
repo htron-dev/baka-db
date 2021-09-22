@@ -1,5 +1,7 @@
 # Roppyaku Page no Mystery
 
+![roppyaku-page-no-mystery](https://cdn.myanimelist.net/images/manga/1/48001.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

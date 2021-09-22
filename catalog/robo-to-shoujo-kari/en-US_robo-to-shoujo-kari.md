@@ -1,5 +1,7 @@
 # Robo to Shoujo (Kari)
 
+![robo-to-shoujo-kari](https://cdn.myanimelist.net/images/anime/3/34269.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: ロボと少女（仮）

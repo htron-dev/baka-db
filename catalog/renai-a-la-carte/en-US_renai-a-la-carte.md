@@ -1,5 +1,7 @@
 # Renai à la Carte!
 
+![renai-a-la-carte](https://cdn.myanimelist.net/images/manga/1/30158.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

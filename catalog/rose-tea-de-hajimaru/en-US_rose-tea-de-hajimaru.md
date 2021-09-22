@@ -1,5 +1,7 @@
 # Rose Tea de Hajimaru
 
+![rose-tea-de-hajimaru](https://cdn.myanimelist.net/images/manga/3/183071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

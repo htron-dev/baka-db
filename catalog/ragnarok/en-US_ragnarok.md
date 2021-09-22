@@ -1,5 +1,7 @@
 # Ragnarok
 
+![ragnarok](https://cdn.myanimelist.net/images/manga/3/153737.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

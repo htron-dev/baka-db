@@ -1,5 +1,7 @@
 # Rolling
 
+![rolling](https://cdn.myanimelist.net/images/manga/1/12149.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 롤링

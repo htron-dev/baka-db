@@ -1,5 +1,7 @@
 # Rental Oniichan
 
+![rental-oniichan](https://cdn.myanimelist.net/images/manga/2/211528.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

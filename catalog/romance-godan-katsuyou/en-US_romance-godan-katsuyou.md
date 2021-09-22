@@ -1,5 +1,7 @@
 # Romance Godan Katsuyou
 
+![romance-godan-katsuyou](https://cdn.myanimelist.net/images/manga/3/179030.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ろまんす五段活用

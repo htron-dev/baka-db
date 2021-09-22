@@ -1,5 +1,7 @@
 # Romantic Porno
 
+![romantic-porno](https://cdn.myanimelist.net/images/manga/1/223400.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

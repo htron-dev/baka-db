@@ -1,5 +1,7 @@
 # Rewrite: Side-R
 
+![rewrite-side-r](https://cdn.myanimelist.net/images/manga/1/121335.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

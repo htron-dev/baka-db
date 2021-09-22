@@ -1,5 +1,7 @@
 # Rokudenashi Majutsu Koushi to Akashic Records
 
+![rokudenashi-majutsu-koushi-to-akashic-records](https://cdn.myanimelist.net/images/manga/2/175186.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ロクでなし魔術講師と禁忌教典〈アカシックレコード〉
 -   **start-date**: 2014-07-19

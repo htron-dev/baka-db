@@ -1,5 +1,7 @@
 # Rokudenashi Blues 1993
 
+![rokudenashi-blues-1993](https://cdn.myanimelist.net/images/anime/3/25147.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ろくでなし BLUES 1993

@@ -1,5 +1,7 @@
 # Ring ni Kakero 1: Nichibei Kessen-hen
 
+![ring-ni-kakero-1-nichibei-kessen-hen](https://cdn.myanimelist.net/images/anime/1/1771.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: リングにかけろ 1 日米決戦編

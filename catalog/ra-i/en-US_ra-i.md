@@ -1,5 +1,7 @@
 # Ra-i
 
+![ra-i](https://cdn.myanimelist.net/images/manga/3/5597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

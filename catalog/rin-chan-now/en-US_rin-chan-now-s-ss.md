@@ -1,5 +1,7 @@
 # Rin-chan Now! SSs
 
+![rin-chan-now-s-ss](https://cdn.myanimelist.net/images/manga/2/111317.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: リンちゃんなう! SSs

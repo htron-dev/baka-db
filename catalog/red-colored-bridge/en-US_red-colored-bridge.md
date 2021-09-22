@@ -1,5 +1,7 @@
 # Red Colored Bridge
 
+![red-colored-bridge](https://cdn.myanimelist.net/images/anime/11/69171.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 赤い太鼓橋

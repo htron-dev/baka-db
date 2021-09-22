@@ -1,5 +1,7 @@
 # Rettoujin no Makentsukai: Skill Board wo Kushi shite Saikyou ni Itaru
 
+![rettoujin-no-makentsukai-skill-board-wo-kushi-shite-saikyou-ni-itaru](https://cdn.myanimelist.net/images/manga/2/238263.jpg)
+
 -   **type**: manga
 -   **original-name**: 劣等人の魔剣使い　スキルボードを駆使して最強に至る
 -   **start-date**: 2020-06-25

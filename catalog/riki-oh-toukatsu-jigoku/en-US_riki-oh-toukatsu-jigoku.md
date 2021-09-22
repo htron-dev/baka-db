@@ -1,5 +1,7 @@
 # Riki-Oh: Toukatsu Jigoku
 
+![riki-oh-toukatsu-jigoku](https://cdn.myanimelist.net/images/anime/1366/99209.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 力王 等括地獄

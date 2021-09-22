@@ -1,5 +1,7 @@
 # Royal Straight Flush
 
+![royal-straight-flush](https://cdn.myanimelist.net/images/manga/3/30856.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

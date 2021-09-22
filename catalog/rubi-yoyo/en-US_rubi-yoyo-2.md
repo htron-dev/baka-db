@@ -1,5 +1,7 @@
 # Rubi Yoyo 2
 
+![rubi-yoyo-2](https://cdn.myanimelist.net/images/anime/1970/115312.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 乐比悠悠 2

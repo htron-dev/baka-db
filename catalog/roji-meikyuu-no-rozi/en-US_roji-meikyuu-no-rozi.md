@@ -1,5 +1,7 @@
 # Roji Meikyuu no Rozi
 
+![roji-meikyuu-no-rozi](https://cdn.myanimelist.net/images/manga/3/243329.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 路地迷宮のロージー

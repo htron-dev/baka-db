@@ -1,5 +1,7 @@
 # Risou no Himo Seikatsu
 
+![risou-no-himo-seikatsu](https://cdn.myanimelist.net/images/manga/1/191391.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 理想のヒモ生活
 -   **start-date**: 2012-09-28

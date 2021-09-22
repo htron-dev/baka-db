@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu: Hyouketsu no Kizuna
 
+![re-zero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna](https://cdn.myanimelist.net/images/manga/3/240385.jpg)
+
 -   **type**: manga
 -   **original-name**: Re:ゼロから始める異世界生活 氷結の絆
 -   **start-date**: 2020-04-26

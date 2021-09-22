@@ -1,5 +1,7 @@
 # Ryuuou no Chouka
 
+![ryuuou-no-chouka](https://cdn.myanimelist.net/images/manga/3/184919.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

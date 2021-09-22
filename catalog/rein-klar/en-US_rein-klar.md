@@ -1,5 +1,7 @@
 # Rein Klar
 
+![rein-klar](https://cdn.myanimelist.net/images/manga/2/14370.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

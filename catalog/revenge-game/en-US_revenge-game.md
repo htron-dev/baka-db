@@ -1,5 +1,7 @@
 # Revenge Game
 
+![revenge-game](https://cdn.myanimelist.net/images/manga/1/152055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

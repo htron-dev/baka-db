@@ -1,5 +1,7 @@
 # The Ring 0: Birthday
 
+![the-ring-0-birthday](https://cdn.myanimelist.net/images/manga/2/3422.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

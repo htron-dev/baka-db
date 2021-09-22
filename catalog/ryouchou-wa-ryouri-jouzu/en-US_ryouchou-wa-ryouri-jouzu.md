@@ -1,5 +1,7 @@
 # Ryouchou wa Ryouri Jouzu
 
+![ryouchou-wa-ryouri-jouzu](https://cdn.myanimelist.net/images/manga/3/234334.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

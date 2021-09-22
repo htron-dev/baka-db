@@ -1,5 +1,7 @@
 # Restart wa Tadaima no Ato de
 
+![restart-wa-tadaima-no-ato-de](https://cdn.myanimelist.net/images/manga/2/232579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

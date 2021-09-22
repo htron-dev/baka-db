@@ -1,5 +1,7 @@
 # Nintama Rantarou no Jitensha Anzen Kyoushitsu
 
+![nintama-rantarou-no-jitensha-anzen-kyoushitsu](https://cdn.myanimelist.net/images/anime/1995/99402.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 忍たま乱太郎の自転車安全教室

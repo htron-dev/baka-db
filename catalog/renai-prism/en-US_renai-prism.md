@@ -1,5 +1,7 @@
 # Renai Prism
 
+![renai-prism](https://cdn.myanimelist.net/images/manga/1/186053.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

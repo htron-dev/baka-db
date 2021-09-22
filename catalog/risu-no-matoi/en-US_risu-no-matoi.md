@@ -1,5 +1,7 @@
 # Risu no Matoi
 
+![risu-no-matoi](https://cdn.myanimelist.net/images/anime/1242/98673.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: リスのまとい
