@@ -1,5 +1,7 @@
 # Genki Bakuhatsu Ganbaruger
 
+![genki-bakuhatsu-ganbaruger](https://cdn.myanimelist.net/images/anime/7/89881.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 元気爆発ガンバルガー

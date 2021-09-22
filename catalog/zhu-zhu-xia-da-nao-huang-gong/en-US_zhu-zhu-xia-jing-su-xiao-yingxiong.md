@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Jing Su Xiao Yingxiong
 
+![zhu-zhu-xia-jing-su-xiao-yingxiong](https://cdn.myanimelist.net/images/anime/1653/106924.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 猪猪侠 竞速小英雄

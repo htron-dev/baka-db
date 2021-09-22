@@ -1,5 +1,7 @@
 # Zetsubou Shuuraku
 
+![zetsubou-shuuraku](https://cdn.myanimelist.net/images/manga/2/246374.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

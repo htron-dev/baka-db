@@ -1,5 +1,7 @@
 # Zettai Toudo
 
+![zettai-toudo](https://cdn.myanimelist.net/images/manga/1/168028.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

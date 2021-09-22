@@ -1,5 +1,7 @@
 # Zettai Muteki Raijin-Oh (1992)
 
+![zettai-muteki-raijin-oh-1992](https://cdn.myanimelist.net/images/anime/1781/94499.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 絶対無敵ライジンオー (1992)

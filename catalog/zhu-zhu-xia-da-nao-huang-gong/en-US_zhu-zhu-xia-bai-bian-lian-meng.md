@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Bai Bian Lian Meng
 
+![zhu-zhu-xia-bai-bian-lian-meng](https://cdn.myanimelist.net/images/anime/1580/93353.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 猪猪侠 百变联盟

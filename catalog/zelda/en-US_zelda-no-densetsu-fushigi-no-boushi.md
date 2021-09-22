@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Fushigi no Boushi
 
+![zelda-no-densetsu-fushigi-no-boushi](https://cdn.myanimelist.net/images/manga/2/126017.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

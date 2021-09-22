@@ -1,5 +1,7 @@
 # Zai x 10
 
+![zai-x-10](https://cdn.myanimelist.net/images/manga/3/122803.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

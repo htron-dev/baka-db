@@ -1,5 +1,7 @@
 # Zero no Tsukaima: Princesses no Rondo Picture Drama
 
+![zero-no-tsukaima-princesses-no-rondo-picture-drama](https://cdn.myanimelist.net/images/anime/12/22142.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ゼロの使い魔～三美姫の輪舞～ ピクチャードラマ

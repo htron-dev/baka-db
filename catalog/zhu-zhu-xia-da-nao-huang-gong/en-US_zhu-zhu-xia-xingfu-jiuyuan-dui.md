@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Xingfu Jiuyuan Dui
 
+![zhu-zhu-xia-xingfu-jiuyuan-dui](https://cdn.myanimelist.net/images/anime/1678/93350.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 猪猪侠 幸福救援队

@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Kaze no Tact - Link no 4-koma Koukaiki
 
+![zelda-no-densetsu-kaze-no-tact-link-no-4-koma-koukaiki](https://cdn.myanimelist.net/images/manga/1/95641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

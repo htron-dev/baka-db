@@ -1,5 +1,7 @@
 # Zombie Hide Sex
 
+![zombie-hide-sex](https://cdn.myanimelist.net/images/manga/3/225592.jpg)
+
 -   **type**: manga
 -   **original-name**: ゾンビ・ハイド・セックス
 -   **start-date**: 2018-08-24

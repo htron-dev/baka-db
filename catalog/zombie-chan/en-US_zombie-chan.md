@@ -1,5 +1,7 @@
 # Zombie-chan
 
+![zombie-chan](https://cdn.myanimelist.net/images/manga/1/231245.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

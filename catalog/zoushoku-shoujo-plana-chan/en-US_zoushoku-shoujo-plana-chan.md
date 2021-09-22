@@ -1,5 +1,7 @@
 # Zoushoku Shoujo Plana-chan!
 
+![zoushoku-shoujo-plana-chan](https://cdn.myanimelist.net/images/manga/3/219743.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

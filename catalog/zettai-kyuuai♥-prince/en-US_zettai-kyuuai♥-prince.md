@@ -1,5 +1,7 @@
 # Zettai Kyuuai♥Prince
 
+![zettai-kyuuai♥-prince](https://cdn.myanimelist.net/images/manga/2/246728.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

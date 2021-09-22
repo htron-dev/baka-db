@@ -1,5 +1,7 @@
 # Bronze: Kouji Nanjo Cathexis
 
+![bronze-kouji-nanjo-cathexis](https://cdn.myanimelist.net/images/anime/13/73228.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: BRONZE KoJI NANJo cathexis

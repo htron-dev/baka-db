@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Wu Ling Shou Wei Zhe
 
+![zhu-zhu-xia-wu-ling-shou-wei-zhe](https://cdn.myanimelist.net/images/anime/1775/93354.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 猪猪侠 五灵守卫者

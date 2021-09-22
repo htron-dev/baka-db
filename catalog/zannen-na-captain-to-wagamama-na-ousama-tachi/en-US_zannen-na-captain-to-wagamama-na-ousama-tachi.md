@@ -1,5 +1,7 @@
 # Zannen na Captain to Wagamama na Ousama-tachi
 
+![zannen-na-captain-to-wagamama-na-ousama-tachi](https://cdn.myanimelist.net/images/manga/2/187132.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

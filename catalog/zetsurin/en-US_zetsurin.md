@@ -1,5 +1,7 @@
 # Zetsurin!
 
+![zetsurin](https://cdn.myanimelist.net/images/manga/3/179841.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

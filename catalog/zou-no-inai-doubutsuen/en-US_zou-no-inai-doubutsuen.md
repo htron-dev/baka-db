@@ -1,5 +1,7 @@
 # Zou no Inai Doubutsuen
 
+![zou-no-inai-doubutsuen](https://cdn.myanimelist.net/images/anime/10/30721.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 象のいない動物園

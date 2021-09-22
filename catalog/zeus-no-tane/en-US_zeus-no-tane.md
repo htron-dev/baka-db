@@ -1,5 +1,7 @@
 # Zeus no Tane
 
+![zeus-no-tane](https://cdn.myanimelist.net/images/manga/1/114005.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ゼウスの種

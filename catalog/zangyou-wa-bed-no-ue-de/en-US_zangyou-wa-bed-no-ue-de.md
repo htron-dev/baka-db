@@ -1,5 +1,7 @@
 # Zangyou wa Bed no Ue de
 
+![zangyou-wa-bed-no-ue-de](https://cdn.myanimelist.net/images/manga/3/194069.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 残業はベッドの上で

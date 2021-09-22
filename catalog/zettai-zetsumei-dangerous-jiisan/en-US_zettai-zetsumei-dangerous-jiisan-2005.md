@@ -1,5 +1,7 @@
 # Zettai Zetsumei Dangerous Jiisan (2005)
 
+![zettai-zetsumei-dangerous-jiisan-2005](https://cdn.myanimelist.net/images/anime/3/59077.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 19
 -   **original-name**: 絶体絶命でんぢゃらすじーさん

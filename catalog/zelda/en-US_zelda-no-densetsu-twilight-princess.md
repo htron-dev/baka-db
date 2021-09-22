@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Twilight Princess
 
+![zelda-no-densetsu-twilight-princess](https://cdn.myanimelist.net/images/manga/3/180659.jpg)
+
 -   **type**: manga
 -   **original-name**: ゼルダの伝説 トワイライトプリンセス
 -   **start-date**: 2016-02-08

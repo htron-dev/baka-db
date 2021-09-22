@@ -1,5 +1,7 @@
 # Zannen Onna Kanbu Black General-san
 
+![zannen-onna-kanbu-black-general-san](https://cdn.myanimelist.net/images/manga/1/184654.jpg)
+
 -   **type**: manga
 -   **original-name**: 残念女幹部ブラックジェネラルさん
 -   **start-date**: 2015-05-09

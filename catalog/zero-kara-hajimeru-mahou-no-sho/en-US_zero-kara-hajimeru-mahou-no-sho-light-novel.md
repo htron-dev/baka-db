@@ -1,5 +1,7 @@
 # Zero kara Hajimeru Mahou no Sho
 
+![zero-kara-hajimeru-mahou-no-sho](https://cdn.myanimelist.net/images/manga/3/115585.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **original-name**: ゼロから始める魔法の書

@@ -1,5 +1,7 @@
 # The Unlimited: Hyoubu Kyousuke
 
+![the-unlimited-hyoubu-kyousuke](https://cdn.myanimelist.net/images/manga/2/157876.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Fan Wai - Zhi Huanqiu Riji
 
+![zhu-zhu-xia-fan-wai-zhi-huanqiu-riji](https://cdn.myanimelist.net/images/anime/1474/93366.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 猪猪侠番外 环球日记

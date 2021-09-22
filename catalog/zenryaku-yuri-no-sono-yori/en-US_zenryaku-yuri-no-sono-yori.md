@@ -1,5 +1,7 @@
 # Zenryaku, Yuri no Sono yori
 
+![zenryaku-yuri-no-sono-yori](https://cdn.myanimelist.net/images/manga/4/88221.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

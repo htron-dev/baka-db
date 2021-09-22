@@ -1,5 +1,7 @@
 # Zero: Circle of Flow
 
+![zero-circle-of-flow](https://cdn.myanimelist.net/images/manga/2/36515.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 제로-흐름의 원
 

@@ -1,5 +1,7 @@
 # Zhandou Wang Zhi Jufeng Zhan Hun 3
 
+![zhandou-wang-zhi-jufeng-zhan-hun-3](https://cdn.myanimelist.net/images/anime/1234/109500.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 战斗王之飓风战魂 3

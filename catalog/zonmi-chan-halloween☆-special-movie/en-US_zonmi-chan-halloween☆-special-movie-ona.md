@@ -1,5 +1,7 @@
 # Zonmi-chan: Halloween☆Special Movie!
 
+![zonmi-chan-halloween☆-special-movie](https://cdn.myanimelist.net/images/anime/12/79267.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 【ゾンミちゃん】ハロウィン ☆ スペシャルムービー！

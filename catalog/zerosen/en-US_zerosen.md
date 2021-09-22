@@ -1,5 +1,7 @@
 # Zerosen
 
+![zerosen](https://cdn.myanimelist.net/images/manga/3/75575.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 77

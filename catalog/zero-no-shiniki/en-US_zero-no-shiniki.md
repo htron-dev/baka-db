@@ -1,5 +1,7 @@
 # Zero no Shiniki
 
+![zero-no-shiniki](https://cdn.myanimelist.net/images/manga/3/133285.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

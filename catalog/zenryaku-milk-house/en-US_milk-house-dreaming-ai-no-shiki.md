@@ -1,5 +1,7 @@
 # Milk House Dreaming: Ai no Shiki
 
+![milk-house-dreaming-ai-no-shiki](https://cdn.myanimelist.net/images/anime/1594/112338.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ミルクハウス・ドリーミング 愛の四季

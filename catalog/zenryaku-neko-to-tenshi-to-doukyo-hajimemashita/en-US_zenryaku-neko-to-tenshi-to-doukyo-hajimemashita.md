@@ -1,5 +1,7 @@
 # Zenryaku. Neko to Tenshi to Doukyo Hajimemashita.
 
+![zenryaku-neko-to-tenshi-to-doukyo-hajimemashita](https://cdn.myanimelist.net/images/manga/1/163582.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # Zitadelle Sakusen
 
+![zitadelle-sakusen](https://cdn.myanimelist.net/images/manga/2/131919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ツィタデル作戦

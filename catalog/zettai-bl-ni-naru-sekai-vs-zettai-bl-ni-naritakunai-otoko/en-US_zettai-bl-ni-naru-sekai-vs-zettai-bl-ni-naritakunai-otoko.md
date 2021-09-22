@@ -1,5 +1,7 @@
 # Zettai BL ni Naru Sekai vs Zettai BL ni Naritakunai Otoko
 
+![zettai-bl-ni-naru-sekai-vs-zettai-bl-ni-naritakunai-otoko](https://cdn.myanimelist.net/images/manga/3/227950.jpg)
+
 -   **type**: manga
 -   **original-name**: 絶対 BL になる世界 VS 絶対 BL になりたくない男
 -   **start-date**: 2018-11-07

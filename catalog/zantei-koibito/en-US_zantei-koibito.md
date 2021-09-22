@@ -1,5 +1,7 @@
 # Zantei, Koibito
 
+![zantei-koibito](https://cdn.myanimelist.net/images/manga/1/27565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

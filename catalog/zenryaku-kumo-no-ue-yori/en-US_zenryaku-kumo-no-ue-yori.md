@@ -1,5 +1,7 @@
 # Zenryaku: Kumo no Ue yori
 
+![zenryaku-kumo-no-ue-yori](https://cdn.myanimelist.net/images/manga/2/236253.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 53

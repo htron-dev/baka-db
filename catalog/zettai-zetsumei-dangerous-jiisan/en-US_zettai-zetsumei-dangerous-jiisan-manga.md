@@ -1,5 +1,7 @@
 # Zettai Zetsumei Dangerous Jiisan
 
+![zettai-zetsumei-dangerous-jiisan](https://cdn.myanimelist.net/images/manga/1/190074.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **original-name**: 絶体絶命でんぢゃらすじーさん

@@ -1,5 +1,7 @@
 # Zense to Gense to Kimi to Ore
 
+![zense-to-gense-to-kimi-to-ore](https://cdn.myanimelist.net/images/manga/1/2974.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

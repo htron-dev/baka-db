@@ -1,5 +1,7 @@
 # Kishin Houkou Demonbane (TV)
 
+![kishin-houkou-demonbane-tv](https://cdn.myanimelist.net/images/anime/1/1067.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 機神咆吼デモンベイン

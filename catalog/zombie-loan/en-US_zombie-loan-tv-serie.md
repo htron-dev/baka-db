@@ -1,5 +1,7 @@
 # Zombie-Loan
 
+![zombie-loan](https://cdn.myanimelist.net/images/anime/2/21539.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ZOMBIE-LOAN ゾンビローン

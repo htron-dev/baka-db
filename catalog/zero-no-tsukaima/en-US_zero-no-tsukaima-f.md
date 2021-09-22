@@ -1,5 +1,7 @@
 # Zero no Tsukaima F
 
+![zero-no-tsukaima-f](https://cdn.myanimelist.net/images/anime/2/75559.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゼロの使い魔 F

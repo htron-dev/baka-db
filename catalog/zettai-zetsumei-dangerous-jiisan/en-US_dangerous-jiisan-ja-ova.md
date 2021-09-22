@@ -1,5 +1,7 @@
 # Dangerous Jiisan Ja
 
+![dangerous-jiisan-ja](https://cdn.myanimelist.net/images/anime/2/39817.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: でんぢゃらすじーさん邪

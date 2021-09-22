@@ -1,5 +1,7 @@
 # Zenmaijikake no Tina
 
+![zenmaijikake-no-tina](https://cdn.myanimelist.net/images/manga/3/2777.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ぜんまいじかけのティナ

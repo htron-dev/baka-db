@@ -1,5 +1,7 @@
 # Zenbu Ore no Mono!
 
+![zenbu-ore-no-mono](https://cdn.myanimelist.net/images/manga/2/135839.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Saikyou Series
 
+![saikyou-series](https://cdn.myanimelist.net/images/manga/2/152085.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 最強シリーズ
 -   **start-date**: 2014-04-03

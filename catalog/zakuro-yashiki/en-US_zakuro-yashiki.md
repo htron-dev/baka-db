@@ -1,5 +1,7 @@
 # Zakuro Yashiki
 
+![zakuro-yashiki](https://cdn.myanimelist.net/images/anime/10/14022.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ざくろ屋敷

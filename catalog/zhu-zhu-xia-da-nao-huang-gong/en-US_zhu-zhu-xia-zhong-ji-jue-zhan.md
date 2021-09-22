@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Zhong Ji Jue Zhan
 
+![zhu-zhu-xia-zhong-ji-jue-zhan](https://cdn.myanimelist.net/images/anime/1304/93364.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 猪猪侠 终极决战

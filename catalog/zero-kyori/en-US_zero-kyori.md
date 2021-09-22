@@ -1,5 +1,7 @@
 # Zero Kyori
 
+![zero-kyori](https://cdn.myanimelist.net/images/manga/1/189497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

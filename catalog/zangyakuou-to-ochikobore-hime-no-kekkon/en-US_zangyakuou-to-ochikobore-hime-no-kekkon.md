@@ -1,5 +1,7 @@
 # Zangyakuou to Ochikobore Hime no Kekkon
 
+![zangyakuou-to-ochikobore-hime-no-kekkon](https://cdn.myanimelist.net/images/manga/3/195015.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 残虐王とおちこぼれ姫の結婚

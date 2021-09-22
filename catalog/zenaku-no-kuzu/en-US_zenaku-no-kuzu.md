@@ -1,5 +1,7 @@
 # Zenaku no Kuzu
 
+![zenaku-no-kuzu](https://cdn.myanimelist.net/images/manga/2/216887.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 37

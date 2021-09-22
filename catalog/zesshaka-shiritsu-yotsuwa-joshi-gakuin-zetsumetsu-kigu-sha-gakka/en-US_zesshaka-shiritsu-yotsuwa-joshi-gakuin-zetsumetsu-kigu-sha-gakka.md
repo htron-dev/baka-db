@@ -1,5 +1,7 @@
 # Zesshaka! Shiritsu Yotsuwa Joshi Gakuin Zetsumetsu Kigu-sha Gakka
 
+![zesshaka-shiritsu-yotsuwa-joshi-gakuin-zetsumetsu-kigu-sha-gakka](https://cdn.myanimelist.net/images/manga/2/220425.jpg)
+
 -   **type**: manga
 -   **original-name**: ぜっしゃか！‐私立四ツ輪女子学院絶滅危惧車学科‐
 -   **start-date**: 2017-05-26

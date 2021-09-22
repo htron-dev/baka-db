@@ -1,5 +1,7 @@
 # Zhen Dao Ge
 
+![zhen-dao-ge](https://cdn.myanimelist.net/images/anime/1920/114433.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 枕刀歌

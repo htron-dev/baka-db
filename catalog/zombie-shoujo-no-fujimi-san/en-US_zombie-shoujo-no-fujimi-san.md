@@ -1,5 +1,7 @@
 # Zombie Shoujo no Fujimi-san
 
+![zombie-shoujo-no-fujimi-san](https://cdn.myanimelist.net/images/manga/1/237888.jpg)
+
 -   **type**: manga
 -   **original-name**: ゾン美少女の藤美さん
 -   **start-date**: 2020-04-16

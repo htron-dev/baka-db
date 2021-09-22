@@ -1,5 +1,7 @@
 # Zombieya Reiko
 
+![zombieya-reiko](https://cdn.myanimelist.net/images/manga/1/4672.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 58

@@ -1,5 +1,7 @@
 # Zarigani Kachou
 
+![zarigani-kachou](https://cdn.myanimelist.net/images/manga/1/10996.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

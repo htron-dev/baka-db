@@ -1,5 +1,7 @@
 # Ze Tian Ji 5th Season
 
+![ze-tian-ji-5th-season](https://cdn.myanimelist.net/images/anime/1705/107205.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 择天记 第五季

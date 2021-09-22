@@ -1,5 +1,7 @@
 # Zetsumetsu Kigu-shun. (2020)
 
+![zetsumetsu-kigu-shun-2020](https://cdn.myanimelist.net/images/anime/1059/110482.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: ぜつめつきぐしゅんっ。

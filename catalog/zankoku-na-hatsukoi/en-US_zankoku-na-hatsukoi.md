@@ -1,5 +1,7 @@
 # Zankoku na Hatsukoi
 
+![zankoku-na-hatsukoi](https://cdn.myanimelist.net/images/manga/2/227299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 残酷な初恋

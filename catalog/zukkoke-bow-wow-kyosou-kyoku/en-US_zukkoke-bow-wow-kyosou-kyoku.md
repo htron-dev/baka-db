@@ -1,5 +1,7 @@
 # Zukkoke Bow Wow Kyosou Kyoku
 
+![zukkoke-bow-wow-kyosou-kyoku](https://cdn.myanimelist.net/images/manga/3/29949.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

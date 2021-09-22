@@ -1,5 +1,7 @@
 # Zarathustra e no Kaidan
 
+![zarathustra-e-no-kaidan](https://cdn.myanimelist.net/images/manga/2/159504.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

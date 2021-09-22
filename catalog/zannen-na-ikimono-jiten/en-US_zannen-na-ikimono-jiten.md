@@ -1,5 +1,7 @@
 # Zannen na Ikimono Jiten
 
+![zannen-na-ikimono-jiten](https://cdn.myanimelist.net/images/anime/1201/93208.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ざんねんないきもの事典

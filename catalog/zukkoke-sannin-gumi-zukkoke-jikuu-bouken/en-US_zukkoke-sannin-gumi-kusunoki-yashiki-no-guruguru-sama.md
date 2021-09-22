@@ -1,5 +1,7 @@
 # Zukkoke Sannin-gumi: Kusunoki Yashiki no Guruguru-sama
 
+![zukkoke-sannin-gumi-kusunoki-yashiki-no-guruguru-sama](https://cdn.myanimelist.net/images/anime/13/88358.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ズッコケ三人組 楠屋敷のグルグル様

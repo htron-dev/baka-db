@@ -1,5 +1,7 @@
 # Zutto Zutto.
 
+![zutto-zutto](https://cdn.myanimelist.net/images/manga/2/79359.jpg)
+
 -   **type**: manga
 -   **original-name**: ずっとずっと
 

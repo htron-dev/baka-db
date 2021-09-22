@@ -1,5 +1,7 @@
 # Zero no Tsukaima
 
+![zero-no-tsukaima](https://cdn.myanimelist.net/images/manga/3/173403.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 45

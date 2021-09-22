@@ -1,5 +1,7 @@
 # Zhen Hun Jie Recaps
 
+![zhen-hun-jie-recaps](https://cdn.myanimelist.net/images/anime/1000/95943.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 镇魂街

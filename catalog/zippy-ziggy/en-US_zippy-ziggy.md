@@ -1,5 +1,7 @@
 # Zippy Ziggy
 
+![zippy-ziggy](https://cdn.myanimelist.net/images/manga/1/11365.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **chapters**: 86

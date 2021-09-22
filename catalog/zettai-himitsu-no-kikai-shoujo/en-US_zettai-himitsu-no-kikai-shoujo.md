@@ -1,5 +1,7 @@
 # Zettai Himitsu no Kikai Shoujo
 
+![zettai-himitsu-no-kikai-shoujo](https://cdn.myanimelist.net/images/manga/3/215550.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

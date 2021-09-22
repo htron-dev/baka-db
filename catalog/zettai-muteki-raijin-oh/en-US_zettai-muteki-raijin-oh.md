@@ -1,5 +1,7 @@
 # Zettai Muteki Raijin-Oh
 
+![zettai-muteki-raijin-oh](https://cdn.myanimelist.net/images/anime/1152/91073.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 絶対無敵ライジンオー

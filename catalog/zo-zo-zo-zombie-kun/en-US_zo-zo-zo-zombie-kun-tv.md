@@ -1,5 +1,7 @@
 # Zo Zo Zo Zombie-kun (TV)
 
+![zo-zo-zo-zombie-kun-tv](https://cdn.myanimelist.net/images/anime/1054/107129.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 102
 -   **original-name**: ゾゾゾ ゾンビーくん

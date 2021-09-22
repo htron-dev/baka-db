@@ -1,5 +1,7 @@
 # Zumomo to Nupepe
 
+![zumomo-to-nupepe](https://cdn.myanimelist.net/images/anime/7/46983.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: ズモモとヌペペ

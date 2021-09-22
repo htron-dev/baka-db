@@ -1,5 +1,7 @@
 # Zense Coupling
 
+![zense-coupling](https://cdn.myanimelist.net/images/manga/1/233278.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 61

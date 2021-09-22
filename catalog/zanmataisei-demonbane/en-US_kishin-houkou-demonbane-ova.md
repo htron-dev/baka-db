@@ -1,5 +1,7 @@
 # Kishin Houkou Demonbane
 
+![kishin-houkou-demonbane](https://cdn.myanimelist.net/images/anime/1/766.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 機神咆吼デモンベイン

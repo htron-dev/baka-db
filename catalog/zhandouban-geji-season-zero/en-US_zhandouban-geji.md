@@ -1,5 +1,7 @@
 # Zhandouban Geji!
 
+![zhandouban-geji](https://cdn.myanimelist.net/images/anime/1553/108589.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 战斗吧歌姬！ 第一季

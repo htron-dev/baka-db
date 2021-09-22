@@ -1,5 +1,7 @@
 # Zettai☆Reiiki
 
+![zettai☆-reiiki](https://cdn.myanimelist.net/images/manga/2/133275.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 72

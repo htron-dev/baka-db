@@ -1,5 +1,7 @@
 # Zombie no Hoshi
 
+![zombie-no-hoshi](https://cdn.myanimelist.net/images/manga/2/226947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

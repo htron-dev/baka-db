@@ -1,5 +1,7 @@
 # Zurui Otoko
 
+![zurui-otoko](https://cdn.myanimelist.net/images/manga/5/1347.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

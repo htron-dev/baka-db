@@ -1,5 +1,7 @@
 # Zoobles!
 
+![zoobles](https://cdn.myanimelist.net/images/anime/4/36875.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ズーブルズ！

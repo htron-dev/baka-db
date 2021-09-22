@@ -1,5 +1,7 @@
 # Zankoku Yuugi
 
+![zankoku-yuugi](https://cdn.myanimelist.net/images/manga/2/207596.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Zingnize
 
+![zingnize](https://cdn.myanimelist.net/images/manga/2/223886.jpg)
+
 -   **type**: manga
 -   **original-name**: ZINGNIZE
 -   **start-date**: 2018-03-19

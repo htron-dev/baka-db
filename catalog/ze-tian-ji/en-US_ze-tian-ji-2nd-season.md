@@ -1,5 +1,7 @@
 # Ze Tian Ji 2nd Season
 
+![ze-tian-ji-2nd-season](https://cdn.myanimelist.net/images/anime/1592/90238.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 择天记 第二季

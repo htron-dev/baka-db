@@ -1,5 +1,7 @@
 # Zettai Karen Children
 
+![zettai-karen-children](https://cdn.myanimelist.net/images/anime/5/75581.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 絶対可憐チルドレン

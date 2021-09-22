@@ -1,5 +1,7 @@
 # Zeno: Kagirinaki Ai ni
 
+![zeno-kagirinaki-ai-ni](https://cdn.myanimelist.net/images/anime/1246/93600.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゼノ かぎりなき愛に

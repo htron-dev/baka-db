@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Fushigi no Kinomi - Daichi no Shou
 
+![zelda-no-densetsu-fushigi-no-kinomi-daichi-no-shou](https://cdn.myanimelist.net/images/manga/4/126019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

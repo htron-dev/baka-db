@@ -1,5 +1,7 @@
 # Zettai Junpaku♡Mahou Shoujo
 
+![zettai-junpaku♡-mahou-shoujo](https://cdn.myanimelist.net/images/anime/9/65213.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 絶対純白 ♡ 魔法少女

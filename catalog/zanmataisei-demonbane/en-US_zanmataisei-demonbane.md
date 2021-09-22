@@ -1,5 +1,7 @@
 # Zanmataisei Demonbane
 
+![zanmataisei-demonbane](https://cdn.myanimelist.net/images/manga/1/162864.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 38

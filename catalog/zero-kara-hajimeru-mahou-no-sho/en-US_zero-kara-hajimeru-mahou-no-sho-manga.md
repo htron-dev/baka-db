@@ -1,5 +1,7 @@
 # Zero kara Hajimeru Mahou no Sho
 
+![zero-kara-hajimeru-mahou-no-sho](https://cdn.myanimelist.net/images/manga/1/156050.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

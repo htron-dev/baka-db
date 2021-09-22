@@ -1,5 +1,7 @@
 # Zennin Ossan, Umarekawattara SSS-Rank Jinsei ga Kakutei shita
 
+![zennin-ossan-umarekawattara-sss-rank-jinsei-ga-kakutei-shita](https://cdn.myanimelist.net/images/manga/3/229046.jpg)
+
 -   **type**: manga
 -   **original-name**: 善人おっさん、生まれ変わったら SSS ランク人生が確定した
 -   **start-date**: 2019-04-24

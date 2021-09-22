@@ -1,5 +1,7 @@
 # Ziggy: Soreyuke! R&amp;R Band
 
+![ziggy-soreyuke-r-amp-r-band](https://cdn.myanimelist.net/images/anime/4/30717.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ZIGGY それゆけ!R&R BAND

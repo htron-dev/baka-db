@@ -1,5 +1,7 @@
 # Bai Bian Zhu Zhu Xia
 
+![bai-bian-zhu-zhu-xia](https://cdn.myanimelist.net/images/anime/1490/93348.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 80
 -   **original-name**: 百变猪猪侠

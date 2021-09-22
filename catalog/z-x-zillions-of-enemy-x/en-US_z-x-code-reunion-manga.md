@@ -1,5 +1,7 @@
 # Z/X: Code Reunion
 
+![z-x-code-reunion](https://cdn.myanimelist.net/images/manga/1/215191.jpg)
+
 -   **type**: manga
 -   **original-name**: Z/X Code Reunion
 -   **start-date**: 2017-09-21

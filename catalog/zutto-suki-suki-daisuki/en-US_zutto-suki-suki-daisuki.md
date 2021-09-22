@@ -1,5 +1,7 @@
 # Zutto Suki Suki Daisuki
 
+![zutto-suki-suki-daisuki](https://cdn.myanimelist.net/images/manga/3/26695.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ず～っとすき・すき・だいすきっ

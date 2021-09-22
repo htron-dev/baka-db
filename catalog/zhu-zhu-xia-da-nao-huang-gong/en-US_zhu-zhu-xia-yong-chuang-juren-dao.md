@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Yong Chuang Juren Dao
 
+![zhu-zhu-xia-yong-chuang-juren-dao](https://cdn.myanimelist.net/images/anime/1784/93360.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 豬豬俠 勇闖巨人島

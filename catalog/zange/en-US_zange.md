@@ -1,5 +1,7 @@
 # Zange
 
+![zange](https://cdn.myanimelist.net/images/manga/2/242245.jpg)
+
 -   **type**: manga
 -   **original-name**: 惨家〈ざんげ〉
 -   **start-date**: 2021-03-09

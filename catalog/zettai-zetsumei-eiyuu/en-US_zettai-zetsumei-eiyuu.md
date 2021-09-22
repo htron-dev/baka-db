@@ -1,5 +1,7 @@
 # Zettai Zetsumei Eiyuu
 
+![zettai-zetsumei-eiyuu](https://cdn.myanimelist.net/images/manga/1/170287.jpg)
+
 -   **type**: manga
 -   **original-name**: 絶体絶命英雄
 -   **start-date**: 2011-07-06

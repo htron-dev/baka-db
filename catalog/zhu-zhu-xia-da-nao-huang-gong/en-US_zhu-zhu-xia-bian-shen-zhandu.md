@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Bian Shen Zhandu
 
+![zhu-zhu-xia-bian-shen-zhandu](https://cdn.myanimelist.net/images/anime/1119/93352.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 猪猪侠 变身战队

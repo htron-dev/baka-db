@@ -1,5 +1,7 @@
 # Zanzou
 
+![zanzou](https://cdn.myanimelist.net/images/manga/2/42704.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 残像

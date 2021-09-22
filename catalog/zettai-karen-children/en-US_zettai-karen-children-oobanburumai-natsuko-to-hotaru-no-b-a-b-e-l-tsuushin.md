@@ -1,5 +1,7 @@
 # Zettai Karen Children: Oobanburumai! Natsuko to Hotaru no B.A.B.E.L. Tsuushin
 
+![zettai-karen-children-oobanburumai-natsuko-to-hotaru-no-b-a-b-e-l-tsuushin](https://cdn.myanimelist.net/images/anime/2/23158.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 絶対可憐チルドレン

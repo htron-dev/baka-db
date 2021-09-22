@@ -1,5 +1,7 @@
 # Zipang
 
+![zipang](https://cdn.myanimelist.net/images/manga/1/209661.jpg)
+
 -   **type**: manga
 -   **volumes**: 43
 -   **chapters**: 422

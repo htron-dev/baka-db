@@ -1,5 +1,7 @@
 # Zattou ni Asobu Sakana
 
+![zattou-ni-asobu-sakana](https://cdn.myanimelist.net/images/manga/3/182332.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

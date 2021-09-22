@@ -1,5 +1,7 @@
 # Zutto Saki no Hanashi
 
+![zutto-saki-no-hanashi](https://cdn.myanimelist.net/images/manga/2/27982.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ずっと先の話

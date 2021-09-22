@@ -1,5 +1,7 @@
 # Zoahunter
 
+![zoahunter](https://cdn.myanimelist.net/images/manga/2/123607.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 41

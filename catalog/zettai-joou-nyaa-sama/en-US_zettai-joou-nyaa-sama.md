@@ -1,5 +1,7 @@
 # Zettai Joou Nyaa-sama
 
+![zettai-joou-nyaa-sama](https://cdn.myanimelist.net/images/manga/2/171818.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

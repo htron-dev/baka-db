@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Chao Xing Meng Chong
 
+![zhu-zhu-xia-chao-xing-meng-chong](https://cdn.myanimelist.net/images/anime/1127/93358.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 124
 -   **original-name**: 猪猪侠 超星萌宠

@@ -1,5 +1,7 @@
 # Zen Zen
 
+![zen-zen](https://cdn.myanimelist.net/images/manga/1/66423.jpg)
+
 -   **type**: manga
 -   **original-name**: zen zen ゼン ゼン
 -   **start-date**: 2010-10-14

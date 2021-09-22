@@ -1,5 +1,7 @@
 # Zone-00
 
+![zone-00](https://cdn.myanimelist.net/images/manga/1/191154.jpg)
+
 -   **type**: manga
 -   **original-name**: ZONE-00
 

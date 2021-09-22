@@ -1,5 +1,7 @@
 # ZZZ no Z: Nemuri-chan to Oyasumi
 
+![zzz-no-z-nemuri-chan-to-oyasumi](https://cdn.myanimelist.net/images/manga/2/185705.jpg)
+
 -   **type**: manga
 -   **original-name**: ZZZ の Z~ねむりちゃんとおやすみ~
 -   **start-date**: 2016-05-18

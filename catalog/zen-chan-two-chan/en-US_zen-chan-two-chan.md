@@ -1,5 +1,7 @@
 # Zen-chan Two-chan
 
+![zen-chan-two-chan](https://cdn.myanimelist.net/images/anime/1442/99551.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 78
 -   **original-name**: ゼンちゃんツーちゃん

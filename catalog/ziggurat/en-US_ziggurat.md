@@ -1,5 +1,7 @@
 # Ziggurat
 
+![ziggurat](https://cdn.myanimelist.net/images/manga/3/40394.jpg)
+
 -   **type**: manga
 -   **original-name**: Ziggurat
 -   **start-date**: 2009-05-27

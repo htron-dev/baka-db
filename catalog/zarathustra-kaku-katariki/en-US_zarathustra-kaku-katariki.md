@@ -1,5 +1,7 @@
 # Zarathustra Kaku Katariki
 
+![zarathustra-kaku-katariki](https://cdn.myanimelist.net/images/manga/2/149319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

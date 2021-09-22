@@ -1,5 +1,7 @@
 # Zero no Tsukaima: Princesses no Rondo
 
+![zero-no-tsukaima-princesses-no-rondo](https://cdn.myanimelist.net/images/anime/6/10256.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゼロの使い魔 ～三美姫（プリンセッセ）の輪舞（ロンド）～

@@ -1,5 +1,7 @@
 # Zettai ni Hatarakitakunai Dungeon Master ga Damin wo Musaboru made
 
+![zettai-ni-hatarakitakunai-dungeon-master-ga-damin-wo-musaboru-made](https://cdn.myanimelist.net/images/manga/3/175277.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 絶対に働きたくないダンジョンマスターが惰眠をむさぼるまで
 -   **start-date**: 2016-04-25

@@ -1,5 +1,7 @@
 # Zankoku na Kami ga Shihai suru
 
+![zankoku-na-kami-ga-shihai-suru](https://cdn.myanimelist.net/images/manga/2/155732.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 55

@@ -1,5 +1,7 @@
 # Zombie-Loan Specials
 
+![zombie-loan-specials](https://cdn.myanimelist.net/images/anime/7/25890.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ZOMBIE-LOAN ゾンビローン

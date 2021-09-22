@@ -1,5 +1,7 @@
 # Zettai Karen Children the Novels ~ B.A.B.E.L. Houkai
 
+![zettai-karen-children-the-novels-b-a-b-e-l-houkai](https://cdn.myanimelist.net/images/manga/1/71189.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

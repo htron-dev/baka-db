@@ -1,5 +1,7 @@
 # Alphas: Zetman Another Story
 
+![alphas-zetman-another-story](https://cdn.myanimelist.net/images/manga/3/105189.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ALPHAS ZETMAN ANOTHER STORY

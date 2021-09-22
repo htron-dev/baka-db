@@ -1,5 +1,7 @@
 # Zhen Hun Jie: Bei Luo Shi Men Pian Part 2
 
+![zhen-hun-jie-bei-luo-shi-men-pian-part-2](https://cdn.myanimelist.net/images/anime/1537/113755.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 镇魂街 北落师门篇 下

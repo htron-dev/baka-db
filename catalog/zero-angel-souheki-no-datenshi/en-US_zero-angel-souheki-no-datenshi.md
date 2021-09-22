@@ -1,5 +1,7 @@
 # Zero Angel: Souheki no Datenshi
 
+![zero-angel-souheki-no-datenshi](https://cdn.myanimelist.net/images/manga/2/181338.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Zannen datta na, Unmei da!
 
+![zannen-datta-na-unmei-da](https://cdn.myanimelist.net/images/manga/3/241827.jpg)
+
 -   **type**: manga
 -   **original-name**: 残念だったな、運命だ！
 -   **start-date**: 2017-04-10

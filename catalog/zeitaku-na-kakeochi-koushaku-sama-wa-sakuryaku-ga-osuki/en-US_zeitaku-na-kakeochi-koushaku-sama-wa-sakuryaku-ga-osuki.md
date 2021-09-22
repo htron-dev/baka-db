@@ -1,5 +1,7 @@
 # Zeitaku na Kakeochi: Koushaku-sama wa Sakuryaku ga Osuki
 
+![zeitaku-na-kakeochi-koushaku-sama-wa-sakuryaku-ga-osuki](https://cdn.myanimelist.net/images/manga/2/171925.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

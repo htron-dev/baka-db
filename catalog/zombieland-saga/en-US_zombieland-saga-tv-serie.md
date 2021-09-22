@@ -1,5 +1,7 @@
 # Zombieland Saga
 
+![zombieland-saga](https://cdn.myanimelist.net/images/anime/1094/95453.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゾンビランドサガ

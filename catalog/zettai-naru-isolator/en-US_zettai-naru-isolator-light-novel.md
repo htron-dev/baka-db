@@ -1,5 +1,7 @@
 # Zettai naru Isolator
 
+![zettai-naru-isolator](https://cdn.myanimelist.net/images/manga/1/175191.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 絶対ナル孤独者 ≪ アイソレータ ≫
 -   **start-date**: 2014-06-10

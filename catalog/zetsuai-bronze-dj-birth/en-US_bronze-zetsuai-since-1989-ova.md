@@ -1,5 +1,7 @@
 # Bronze: Zetsuai Since 1989
 
+![bronze-zetsuai-since-1989](https://cdn.myanimelist.net/images/anime/5/73227.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: BRONZE zetsuai since 1989

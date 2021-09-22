@@ -1,5 +1,7 @@
 # Zhihao Beipan Diqiule
 
+![zhihao-beipan-diqiule](https://cdn.myanimelist.net/images/anime/1930/115538.jpg)
+
 -   **type**: ona
 -   **original-name**: 只好背叛地球了
 -   **start-date**: 2021-06-11

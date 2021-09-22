@@ -1,5 +1,7 @@
 # Zeus no Te
 
+![zeus-no-te](https://cdn.myanimelist.net/images/manga/3/234298.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

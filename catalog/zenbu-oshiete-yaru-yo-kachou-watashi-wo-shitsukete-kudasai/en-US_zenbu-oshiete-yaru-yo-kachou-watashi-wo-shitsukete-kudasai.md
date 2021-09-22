@@ -1,5 +1,7 @@
 # Zenbu Oshiete Yaru yo: Kachou, Watashi wo Shitsukete Kudasai
 
+![zenbu-oshiete-yaru-yo-kachou-watashi-wo-shitsukete-kudasai](https://cdn.myanimelist.net/images/manga/2/233512.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

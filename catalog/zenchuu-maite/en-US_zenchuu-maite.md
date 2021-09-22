@@ -1,5 +1,7 @@
 # Zenchuu Maite
 
+![zenchuu-maite](https://cdn.myanimelist.net/images/anime/10/72281.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蠕虫舞手

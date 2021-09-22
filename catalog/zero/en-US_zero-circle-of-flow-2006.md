@@ -1,5 +1,7 @@
 # Zero: Circle of Flow (2006)
 
+![zero-circle-of-flow-2006](https://cdn.myanimelist.net/images/manga/5/101019.jpg)
+
 -   **type**: manhwa
 -   **original-name**: ZERO - 제로 - 흐름의 원
 

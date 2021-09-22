@@ -1,5 +1,7 @@
 # Zomviguarna
 
+![zomviguarna](https://cdn.myanimelist.net/images/manga/1/210485.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

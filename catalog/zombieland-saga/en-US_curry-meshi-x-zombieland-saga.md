@@ -1,5 +1,7 @@
 # Curry Meshi x Zombieland Saga
 
+![curry-meshi-x-zombieland-saga](https://cdn.myanimelist.net/images/anime/1265/103356.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: カレーメシ × ゾンビランドサガ

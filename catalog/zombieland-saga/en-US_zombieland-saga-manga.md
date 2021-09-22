@@ -1,5 +1,7 @@
 # Zombieland Saga
 
+![zombieland-saga](https://cdn.myanimelist.net/images/manga/2/224965.jpg)
+
 -   **type**: manga
 -   **original-name**: ゾンビランドサガ
 -   **start-date**: 2018-10-08

@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Toki no Ocarina
 
+![zelda-no-densetsu-toki-no-ocarina](https://cdn.myanimelist.net/images/manga/4/126027.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

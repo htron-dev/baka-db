@@ -1,5 +1,7 @@
 # Zettai Kunshu Shoukougun
 
+![zettai-kunshu-shoukougun](https://cdn.myanimelist.net/images/manga/3/209455.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

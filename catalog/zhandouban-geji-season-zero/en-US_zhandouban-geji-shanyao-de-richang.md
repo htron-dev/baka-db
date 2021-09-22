@@ -1,5 +1,7 @@
 # Zhandouban Geji! Shanyao De Richang
 
+![zhandouban-geji-shanyao-de-richang](https://cdn.myanimelist.net/images/anime/1720/114640.jpg)
+
 -   **type**: ona
 -   **episodes**: 86
 -   **original-name**: 战斗吧歌姬！闪耀的日常

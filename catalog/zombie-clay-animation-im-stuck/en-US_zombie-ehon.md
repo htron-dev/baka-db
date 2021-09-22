@@ -1,5 +1,7 @@
 # Zombie Ehon
 
+![zombie-ehon](https://cdn.myanimelist.net/images/anime/3/72089.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ゾンビ絵本

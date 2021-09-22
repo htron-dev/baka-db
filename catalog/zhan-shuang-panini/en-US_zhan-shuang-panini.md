@@ -1,5 +1,7 @@
 # Zhan Shuang Panini
 
+![zhan-shuang-panini](https://cdn.myanimelist.net/images/anime/1045/109449.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 战双帕尼尼

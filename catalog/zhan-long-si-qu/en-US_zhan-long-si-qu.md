@@ -1,5 +1,7 @@
 # Zhan Long Si Qu
 
+![zhan-long-si-qu](https://cdn.myanimelist.net/images/anime/4/76386.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 64
 -   **original-name**: 战龙四驱

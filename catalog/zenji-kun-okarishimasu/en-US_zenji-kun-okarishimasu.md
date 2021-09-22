@@ -1,5 +1,7 @@
 # Zenji-kun Okarishimasu
 
+![zenji-kun-okarishimasu](https://cdn.myanimelist.net/images/manga/2/226111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

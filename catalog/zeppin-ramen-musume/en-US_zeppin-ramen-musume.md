@@ -1,5 +1,7 @@
 # Zeppin! Ramen Musume
 
+![zeppin-ramen-musume](https://cdn.myanimelist.net/images/manga/1/240493.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 51

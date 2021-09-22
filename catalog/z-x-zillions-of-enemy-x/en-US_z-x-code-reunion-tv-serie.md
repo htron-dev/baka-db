@@ -1,5 +1,7 @@
 # Z/X: Code Reunion
 
+![z-x-code-reunion](https://cdn.myanimelist.net/images/anime/1271/104188.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Z/X Code Reunion

@@ -1,5 +1,7 @@
 # Zero Count
 
+![zero-count](https://cdn.myanimelist.net/images/manga/3/155059.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

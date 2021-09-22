@@ -1,5 +1,7 @@
 # Zutto, Futari de, Koishiteru.
 
+![zutto-futari-de-koishiteru](https://cdn.myanimelist.net/images/manga/2/193051.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

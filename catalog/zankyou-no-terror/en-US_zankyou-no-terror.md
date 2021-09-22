@@ -1,5 +1,7 @@
 # Zankyou no Terror
 
+![zankyou-no-terror](https://cdn.myanimelist.net/images/anime/1417/117422.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 残響のテロル

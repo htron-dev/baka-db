@@ -1,5 +1,7 @@
 # Zig
 
+![zig](https://cdn.myanimelist.net/images/manga/3/203461.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

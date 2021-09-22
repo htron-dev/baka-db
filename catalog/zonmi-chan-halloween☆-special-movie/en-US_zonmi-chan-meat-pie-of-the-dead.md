@@ -1,5 +1,7 @@
 # Zonmi-chan: Meat Pie of the Dead
 
+![zonmi-chan-meat-pie-of-the-dead](https://cdn.myanimelist.net/images/anime/8/79602.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 【ゾンミちゃん】 - ミートパイ オブ ザ デッド -

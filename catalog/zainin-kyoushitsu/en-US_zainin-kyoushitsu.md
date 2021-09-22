@@ -1,5 +1,7 @@
 # Zainin Kyoushitsu
 
+![zainin-kyoushitsu](https://cdn.myanimelist.net/images/manga/2/191224.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 罪人教室
 -   **start-date**: 2016-04-04

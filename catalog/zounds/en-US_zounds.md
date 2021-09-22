@@ -1,5 +1,7 @@
 # Zounds
 
+![zounds](https://cdn.myanimelist.net/images/anime/1947/99267.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ZOUNDS

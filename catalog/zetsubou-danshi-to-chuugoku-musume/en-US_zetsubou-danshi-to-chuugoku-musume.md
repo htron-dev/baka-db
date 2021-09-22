@@ -1,5 +1,7 @@
 # Zetsubou Danshi to Chuugoku Musume
 
+![zetsubou-danshi-to-chuugoku-musume](https://cdn.myanimelist.net/images/manga/1/154587.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 77

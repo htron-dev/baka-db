@@ -1,5 +1,7 @@
 # Zhandou Wang Zhi Jufeng Zhan Hun 2
 
+![zhandou-wang-zhi-jufeng-zhan-hun-2](https://cdn.myanimelist.net/images/anime/2/87893.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 战斗王之飓风战魂 2

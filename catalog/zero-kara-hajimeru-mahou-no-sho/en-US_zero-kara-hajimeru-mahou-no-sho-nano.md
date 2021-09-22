@@ -1,5 +1,7 @@
 # Zero kara Hajimeru Mahou no Sho Nano!
 
+![zero-kara-hajimeru-mahou-no-sho-nano](https://cdn.myanimelist.net/images/manga/3/184353.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

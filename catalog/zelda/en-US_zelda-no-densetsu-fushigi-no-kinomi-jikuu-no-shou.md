@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Fushigi no Kinomi - Jikuu no Shou
 
+![zelda-no-densetsu-fushigi-no-kinomi-jikuu-no-shou](https://cdn.myanimelist.net/images/manga/4/126021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

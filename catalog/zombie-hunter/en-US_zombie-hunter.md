@@ -1,5 +1,7 @@
 # Zombie Hunter
 
+![zombie-hunter](https://cdn.myanimelist.net/images/manga/2/12307.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

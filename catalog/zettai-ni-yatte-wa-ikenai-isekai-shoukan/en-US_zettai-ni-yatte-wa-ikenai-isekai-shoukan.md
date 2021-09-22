@@ -1,5 +1,7 @@
 # Zettai ni Yatte wa Ikenai Isekai Shoukan
 
+![zettai-ni-yatte-wa-ikenai-isekai-shoukan](https://cdn.myanimelist.net/images/manga/2/223525.jpg)
+
 -   **type**: manga
 -   **original-name**: 絶対にヤッてはいけない異世界召喚
 -   **start-date**: 2018-06-24

@@ -1,5 +1,7 @@
 # Ze Tian Ji 4th Season
 
+![ze-tian-ji-4th-season](https://cdn.myanimelist.net/images/anime/1918/93515.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 择天记 第四季

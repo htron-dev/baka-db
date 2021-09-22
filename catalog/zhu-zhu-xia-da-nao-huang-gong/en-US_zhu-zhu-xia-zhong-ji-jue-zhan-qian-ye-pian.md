@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Zhong Ji Jue Zhan - Qian Ye Pian
 
+![zhu-zhu-xia-zhong-ji-jue-zhan-qian-ye-pian](https://cdn.myanimelist.net/images/anime/1480/93363.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 豬豬俠 終極決戰前夜篇

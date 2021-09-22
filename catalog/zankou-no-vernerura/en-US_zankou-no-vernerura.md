@@ -1,5 +1,7 @@
 # Zankou no Vernerura
 
+![zankou-no-vernerura](https://cdn.myanimelist.net/images/manga/1/162000.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 18

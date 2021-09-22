@@ -1,5 +1,7 @@
 # Zombieland Saga: Revenge
 
+![zombieland-saga-revenge](https://cdn.myanimelist.net/images/anime/1118/115156.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゾンビランドサガ リベンジ

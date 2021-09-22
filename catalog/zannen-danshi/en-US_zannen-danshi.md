@@ -1,5 +1,7 @@
 # Zannen Danshi.
 
+![zannen-danshi](https://cdn.myanimelist.net/images/manga/3/205472.jpg)
+
 -   **type**: manga
 -   **original-name**: 残念男子。
 -   **start-date**: 2015-11-06

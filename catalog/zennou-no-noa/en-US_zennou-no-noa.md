@@ -1,5 +1,7 @@
 # Zennou no Noa
 
+![zennou-no-noa](https://cdn.myanimelist.net/images/manga/3/169229.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

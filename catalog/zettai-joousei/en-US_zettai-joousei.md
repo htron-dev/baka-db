@@ -1,5 +1,7 @@
 # Zettai†Joousei
 
+![zettai-joousei](https://cdn.myanimelist.net/images/manga/3/187412.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

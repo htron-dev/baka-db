@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Da Nao Huang Gong
 
+![zhu-zhu-xia-da-nao-huang-gong](https://cdn.myanimelist.net/images/anime/1136/93344.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 猪猪侠 大闹皇宫

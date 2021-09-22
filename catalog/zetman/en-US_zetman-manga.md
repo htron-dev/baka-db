@@ -1,5 +1,7 @@
 # Zetman
 
+![zetman](https://cdn.myanimelist.net/images/manga/2/188924.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 226

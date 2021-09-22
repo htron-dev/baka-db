@@ -1,5 +1,7 @@
 # Zenryaku Yome Atarimashita.
 
+![zenryaku-yome-atarimashita](https://cdn.myanimelist.net/images/manga/1/164030.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

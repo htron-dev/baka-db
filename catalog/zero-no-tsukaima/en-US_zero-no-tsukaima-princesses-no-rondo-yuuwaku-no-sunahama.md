@@ -1,5 +1,7 @@
 # Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama
 
+![zero-no-tsukaima-princesses-no-rondo-yuuwaku-no-sunahama](https://cdn.myanimelist.net/images/anime/6/12370.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ゼロの使い魔 ～三美姫（プリンセッセ）の輪舞（ロンド）～ 誘惑の砂浜

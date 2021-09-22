@@ -1,5 +1,7 @@
 # Zombie Romanticism
 
+![zombie-romanticism](https://cdn.myanimelist.net/images/manga/1/29699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

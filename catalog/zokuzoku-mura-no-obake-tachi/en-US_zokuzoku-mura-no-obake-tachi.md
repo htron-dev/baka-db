@@ -1,5 +1,7 @@
 # Zokuzoku Mura no Obake-tachi
 
+![zokuzoku-mura-no-obake-tachi](https://cdn.myanimelist.net/images/anime/6/35845.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: ぞくぞく村のオバケたち

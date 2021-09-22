@@ -1,5 +1,7 @@
 # Zombie Anthology Comic
 
+![zombie-anthology-comic](https://cdn.myanimelist.net/images/manga/1/110287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ゾンビアンソロジーコミック

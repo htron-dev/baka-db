@@ -1,5 +1,7 @@
 # Zettai Kareshi.
 
+![zettai-kareshi](https://cdn.myanimelist.net/images/manga/1/185981.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

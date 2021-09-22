@@ -1,5 +1,7 @@
 # Zero no Tsukaima: Futatsuki no Kishi
 
+![zero-no-tsukaima-futatsuki-no-kishi](https://cdn.myanimelist.net/images/anime/2/22740.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゼロの使い魔 ～双月の騎士～

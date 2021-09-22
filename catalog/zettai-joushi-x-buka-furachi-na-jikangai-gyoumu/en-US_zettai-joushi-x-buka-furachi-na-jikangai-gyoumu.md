@@ -1,5 +1,7 @@
 # Zettai Joushi x Buka: Furachi na Jikangai Gyoumu
 
+![zettai-joushi-x-buka-furachi-na-jikangai-gyoumu](https://cdn.myanimelist.net/images/manga/3/156693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

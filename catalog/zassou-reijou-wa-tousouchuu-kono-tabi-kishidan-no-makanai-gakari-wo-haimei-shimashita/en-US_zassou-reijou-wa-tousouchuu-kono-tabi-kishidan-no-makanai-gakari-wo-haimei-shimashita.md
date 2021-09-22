@@ -1,5 +1,7 @@
 # Zassou Reijou wa Tousouchuu!: Kono Tabi, Kishidan no Makanai-gakari wo Haimei shimashita
 
+![zassou-reijou-wa-tousouchuu-kono-tabi-kishidan-no-makanai-gakari-wo-haimei-shimashita](https://cdn.myanimelist.net/images/manga/2/239119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

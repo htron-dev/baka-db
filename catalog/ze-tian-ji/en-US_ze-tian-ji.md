@@ -1,5 +1,7 @@
 # Ze Tian Ji
 
+![ze-tian-ji](https://cdn.myanimelist.net/images/anime/3/79002.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 择天记

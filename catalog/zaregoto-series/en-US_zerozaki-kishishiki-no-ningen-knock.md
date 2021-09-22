@@ -1,5 +1,7 @@
 # Zerozaki Kishishiki no Ningen Knock
 
+![zerozaki-kishishiki-no-ningen-knock](https://cdn.myanimelist.net/images/manga/2/149161.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

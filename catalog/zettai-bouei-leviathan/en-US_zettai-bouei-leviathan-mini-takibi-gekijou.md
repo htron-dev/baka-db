@@ -1,5 +1,7 @@
 # Zettai Bouei Leviathan: Mini Takibi Gekijou
 
+![zettai-bouei-leviathan-mini-takibi-gekijou](https://cdn.myanimelist.net/images/anime/11/52413.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: 絶対防衛レヴィアタン ミニ焚き火劇場

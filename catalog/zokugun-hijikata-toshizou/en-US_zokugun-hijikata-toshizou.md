@@ -1,5 +1,7 @@
 # Zokugun Hijikata Toshizou
 
+![zokugun-hijikata-toshizou](https://cdn.myanimelist.net/images/manga/1/235007.jpg)
+
 -   **type**: manga
 -   **original-name**: 賊軍 土方歳三
 -   **start-date**: 2019-12-10

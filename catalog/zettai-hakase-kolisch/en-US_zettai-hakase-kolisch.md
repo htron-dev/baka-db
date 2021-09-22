@@ -1,5 +1,7 @@
 # Zettai Hakase Kolisch
 
+![zettai-hakase-kolisch](https://cdn.myanimelist.net/images/manga/2/101341.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

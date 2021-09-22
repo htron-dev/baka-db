@@ -1,5 +1,7 @@
 # Zutto Issho ni Kurashimashou
 
+![zutto-issho-ni-kurashimashou](https://cdn.myanimelist.net/images/manga/2/170041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

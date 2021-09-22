@@ -1,5 +1,7 @@
 # Zelda no Densetsu
 
+![zelda-no-densetsu](https://cdn.myanimelist.net/images/manga/2/33350.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ゼルダの伝説

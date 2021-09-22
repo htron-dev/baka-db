@@ -1,5 +1,7 @@
 # Zenryaku Milk House
 
+![zenryaku-milk-house](https://cdn.myanimelist.net/images/manga/1/192368.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 39

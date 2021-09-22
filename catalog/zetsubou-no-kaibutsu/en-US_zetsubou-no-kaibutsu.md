@@ -1,5 +1,7 @@
 # Zetsubou no Kaibutsu
 
+![zetsubou-no-kaibutsu](https://cdn.myanimelist.net/images/anime/1356/109248.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 絶望の怪物

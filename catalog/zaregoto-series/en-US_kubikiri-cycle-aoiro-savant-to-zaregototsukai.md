@@ -1,5 +1,7 @@
 # Kubikiri Cycle: Aoiro Savant to Zaregototsukai
 
+![kubikiri-cycle-aoiro-savant-to-zaregototsukai](https://cdn.myanimelist.net/images/anime/12/81588.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: クビキリサイクル 青色サヴァンと戯言遣い

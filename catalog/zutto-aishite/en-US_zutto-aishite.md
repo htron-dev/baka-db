@@ -1,5 +1,7 @@
 # Zutto Aishite
 
+![zutto-aishite](https://cdn.myanimelist.net/images/manga/3/29279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

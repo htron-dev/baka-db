@@ -1,5 +1,7 @@
 # Zwart Closet
 
+![zwart-closet](https://cdn.myanimelist.net/images/manga/1/108453.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

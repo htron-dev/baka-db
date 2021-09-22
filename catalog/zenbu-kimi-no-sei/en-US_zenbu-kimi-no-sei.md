@@ -1,5 +1,7 @@
 # Zenbu Kimi no Sei
 
+![zenbu-kimi-no-sei](https://cdn.myanimelist.net/images/manga/3/234800.jpg)
+
 -   **type**: manga
 -   **original-name**: ぜんぶきみの性
 -   **start-date**: 2019-11-27

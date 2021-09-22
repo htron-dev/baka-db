@@ -1,5 +1,7 @@
 # Zombie Dumb
 
+![zombie-dumb](https://cdn.myanimelist.net/images/anime/1188/114504.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: 좀비덤

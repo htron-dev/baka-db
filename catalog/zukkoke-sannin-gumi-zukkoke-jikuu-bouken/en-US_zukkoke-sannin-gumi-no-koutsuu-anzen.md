@@ -1,5 +1,7 @@
 # Zukkoke Sannin-gumi no Koutsuu Anzen
 
+![zukkoke-sannin-gumi-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/5/84758.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ズッコケ三人組のこうつうあんぜん

@@ -1,5 +1,7 @@
 # Kishin Houkou Demonbane
 
+![kishin-houkou-demonbane](https://cdn.myanimelist.net/images/manga/2/75567.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

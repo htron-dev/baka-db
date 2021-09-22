@@ -1,5 +1,7 @@
 # Zoo: Hidamari no Shi
 
+![zoo-hidamari-no-shi](https://cdn.myanimelist.net/images/anime/1190/93698.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ZOO 「陽だまりの詩（シ）」

@@ -1,5 +1,7 @@
 # Jii Coro Comic
 
+![jii-coro-comic](https://cdn.myanimelist.net/images/anime/5/85459.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: じーコロコミック

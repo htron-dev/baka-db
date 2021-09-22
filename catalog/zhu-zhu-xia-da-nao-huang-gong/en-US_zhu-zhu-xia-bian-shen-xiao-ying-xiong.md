@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Bian Shen Xiao Ying Xiong
 
+![zhu-zhu-xia-bian-shen-xiao-ying-xiong](https://cdn.myanimelist.net/images/anime/1655/93351.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 猪猪侠 变身小英雄

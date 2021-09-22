@@ -1,5 +1,7 @@
 # Zip-Up Boy
 
+![zip-up-boy](https://cdn.myanimelist.net/images/manga/2/152301.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

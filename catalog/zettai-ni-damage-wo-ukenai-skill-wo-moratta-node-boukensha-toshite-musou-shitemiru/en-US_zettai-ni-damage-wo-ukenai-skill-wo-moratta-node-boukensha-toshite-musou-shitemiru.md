@@ -1,5 +1,7 @@
 # Zettai ni Damage wo Ukenai Skill wo Moratta node, Boukensha toshite Musou shitemiru
 
+![zettai-ni-damage-wo-ukenai-skill-wo-moratta-node-boukensha-toshite-musou-shitemiru](https://cdn.myanimelist.net/images/manga/3/243263.jpg)
+
 -   **type**: manga
 -   **original-name**: 絶対にダメージを受けないスキルをもらったので、冒険者として無双してみる
 -   **start-date**: 2020-06-26

@@ -1,5 +1,7 @@
 # Zombie ga Deta node Gakkou Yasumi.
 
+![zombie-ga-deta-node-gakkou-yasumi](https://cdn.myanimelist.net/images/manga/3/157947.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 35

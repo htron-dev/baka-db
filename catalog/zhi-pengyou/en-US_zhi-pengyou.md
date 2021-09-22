@@ -1,5 +1,7 @@
 # Zhi Pengyou
 
+![zhi-pengyou](https://cdn.myanimelist.net/images/anime/1707/115237.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 纸朋友

@@ -1,5 +1,7 @@
 # Zero: The Man of the Creation
 
+![zero-the-man-of-the-creation](https://cdn.myanimelist.net/images/manga/2/62325.jpg)
+
 -   **type**: manga
 -   **volumes**: 78
 -   **chapters**: 488

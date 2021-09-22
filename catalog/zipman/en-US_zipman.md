@@ -1,5 +1,7 @@
 # Zipman!!
 
+![zipman](https://cdn.myanimelist.net/images/manga/2/228640.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

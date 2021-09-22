@@ -1,5 +1,7 @@
 # Zipangu Night
 
+![zipangu-night](https://cdn.myanimelist.net/images/manga/1/72931.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

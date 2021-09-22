@@ -1,5 +1,7 @@
 # Zero no Tsukaima Chevalier
 
+![zero-no-tsukaima-chevalier](https://cdn.myanimelist.net/images/manga/2/173857.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

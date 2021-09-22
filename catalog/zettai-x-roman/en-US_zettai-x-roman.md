@@ -1,5 +1,7 @@
 # Zettai x Roman
 
+![zettai-x-roman](https://cdn.myanimelist.net/images/manga/1/167026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

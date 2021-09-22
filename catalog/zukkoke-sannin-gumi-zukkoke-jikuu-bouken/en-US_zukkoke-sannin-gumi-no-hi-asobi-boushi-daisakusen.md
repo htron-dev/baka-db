@@ -1,5 +1,7 @@
 # Zukkoke Sannin-gumi no Hi Asobi Boushi Daisakusen
 
+![zukkoke-sannin-gumi-no-hi-asobi-boushi-daisakusen](https://cdn.myanimelist.net/images/anime/13/68923.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ズッコケ三人組の火あそび防止大作戦

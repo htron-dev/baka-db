@@ -1,5 +1,7 @@
 # Zero no Chukaima: Youchien nano!
 
+![zero-no-chukaima-youchien-nano](https://cdn.myanimelist.net/images/manga/3/173858.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 63

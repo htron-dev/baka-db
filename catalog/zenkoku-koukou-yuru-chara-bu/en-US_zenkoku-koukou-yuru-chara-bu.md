@@ -1,5 +1,7 @@
 # Zenkoku Koukou! Yuru Chara-bu
 
+![zenkoku-koukou-yuru-chara-bu](https://cdn.myanimelist.net/images/manga/3/247744.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

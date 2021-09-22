@@ -1,5 +1,7 @@
 # Shadow Lady
 
+![shadow-lady](https://cdn.myanimelist.net/images/manga/2/166887.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

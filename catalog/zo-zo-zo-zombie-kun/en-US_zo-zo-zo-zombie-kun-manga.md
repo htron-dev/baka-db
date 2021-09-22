@@ -1,5 +1,7 @@
 # Zo Zo Zo Zombie-kun
 
+![zo-zo-zo-zombie-kun](https://cdn.myanimelist.net/images/manga/2/190480.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 98

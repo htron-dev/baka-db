@@ -1,5 +1,7 @@
 # Zettai Yuiitsu Kairakuen
 
+![zettai-yuiitsu-kairakuen](https://cdn.myanimelist.net/images/manga/2/27622.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 絶対唯一快楽園

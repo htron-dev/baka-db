@@ -1,5 +1,7 @@
 # Zetsurin Ouji to Konyakusha: Royal Baby Daisakusen
 
+![zetsurin-ouji-to-konyakusha-royal-baby-daisakusen](https://cdn.myanimelist.net/images/manga/3/183060.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

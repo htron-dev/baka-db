@@ -1,5 +1,7 @@
 # Zenonzard The Animation
 
+![zenonzard-the-animation](https://cdn.myanimelist.net/images/anime/1035/106164.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: ゼノンザード THE ANIMATION

@@ -1,5 +1,7 @@
 # Zeichou!: Nouzei-ka Daisan Shuunou-gakari
 
+![zeichou-nouzei-ka-daisan-shuunou-gakari](https://cdn.myanimelist.net/images/manga/2/225823.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

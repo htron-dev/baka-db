@@ -1,5 +1,7 @@
 # Zecchou-jima no Hime
 
+![zecchou-jima-no-hime](https://cdn.myanimelist.net/images/manga/3/227252.jpg)
+
 -   **type**: manga
 -   **original-name**: 絶頂島の姫
 -   **start-date**: 2017-11-12

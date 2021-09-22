@@ -1,5 +1,7 @@
 # Zzim!
 
+![zzim](https://cdn.myanimelist.net/images/manga/1/205621.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 18

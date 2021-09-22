@@ -1,5 +1,7 @@
 # Zense wa Ryuu no Tsugai Datta you desu.
 
+![zense-wa-ryuu-no-tsugai-datta-you-desu](https://cdn.myanimelist.net/images/manga/1/173893.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 前世は龍のツガイだったようです。

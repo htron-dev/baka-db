@@ -1,5 +1,7 @@
 # Zokusei
 
+![zokusei](https://cdn.myanimelist.net/images/manga/3/16529.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 84

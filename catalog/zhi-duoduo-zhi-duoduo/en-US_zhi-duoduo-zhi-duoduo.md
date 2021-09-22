@@ -1,5 +1,7 @@
 # Zhi Duoduo Zhi Duoduo
 
+![zhi-duoduo-zhi-duoduo](https://cdn.myanimelist.net/images/anime/11/27390.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: 智多多知多多

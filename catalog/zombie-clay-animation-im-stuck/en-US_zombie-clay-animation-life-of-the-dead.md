@@ -1,5 +1,7 @@
 # Zombie Clay Animation: Life of the Dead
 
+![zombie-clay-animation-life-of-the-dead](https://cdn.myanimelist.net/images/anime/2/72085.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ゾンビクレイアニメ「LIFE OF THE DEAD」

@@ -1,5 +1,7 @@
 # Zankoku na Douwatachi
 
+![zankoku-na-douwatachi](https://cdn.myanimelist.net/images/manga/2/73879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

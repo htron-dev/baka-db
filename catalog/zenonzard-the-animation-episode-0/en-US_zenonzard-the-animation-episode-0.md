@@ -1,5 +1,7 @@
 # Zenonzard The Animation Episode 0
 
+![zenonzard-the-animation-episode-0](https://cdn.myanimelist.net/images/anime/1478/103070.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ゼノンザード THE ANIMATION

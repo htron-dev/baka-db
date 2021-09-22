@@ -1,5 +1,7 @@
 # Majin Sentai Death Ranger: Ubawareta Pudding!
 
+![majin-sentai-death-ranger-ubawareta-pudding](https://cdn.myanimelist.net/images/anime/8/72096.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 魔人戦隊　デスレンジャー「奪われたプリン！」

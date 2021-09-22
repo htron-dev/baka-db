@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Jing Qiu Xiao Yingxiong
 
+![zhu-zhu-xia-jing-qiu-xiao-yingxiong](https://cdn.myanimelist.net/images/anime/1773/93369.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 猪猪侠 竞球小英雄

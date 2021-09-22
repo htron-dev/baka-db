@@ -1,5 +1,7 @@
 # Zero no Tsukaima
 
+![zero-no-tsukaima](https://cdn.myanimelist.net/images/anime/8/20680.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ゼロの使い魔

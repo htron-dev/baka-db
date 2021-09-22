@@ -1,5 +1,7 @@
 # Zenra Otoko to Shibainu Otoko: Keishichou Seikatsu Anzenbu Yuugeki Sousahan
 
+![zenra-otoko-to-shibainu-otoko-keishichou-seikatsu-anzenbu-yuugeki-sousahan](https://cdn.myanimelist.net/images/manga/1/220588.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

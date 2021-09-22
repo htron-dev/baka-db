@@ -1,5 +1,7 @@
 # Zipang
 
+![zipang](https://cdn.myanimelist.net/images/anime/13/75740.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ジパング

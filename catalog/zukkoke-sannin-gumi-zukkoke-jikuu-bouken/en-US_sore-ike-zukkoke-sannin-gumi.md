@@ -1,5 +1,7 @@
 # Sore Ike! Zukkoke Sannin-gumi
 
+![sore-ike-zukkoke-sannin-gumi](https://cdn.myanimelist.net/images/anime/3/32083.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: それいけ! ズッコケ三人組

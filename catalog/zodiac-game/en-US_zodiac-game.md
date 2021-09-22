@@ -1,5 +1,7 @@
 # Zodiac Game
 
+![zodiac-game](https://cdn.myanimelist.net/images/manga/2/10562.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

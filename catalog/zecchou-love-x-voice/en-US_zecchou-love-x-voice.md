@@ -1,5 +1,7 @@
 # Zecchou Love x Voice
 
+![zecchou-love-x-voice](https://cdn.myanimelist.net/images/manga/1/231509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8
