@@ -20,12 +20,17 @@ const command = {
 
         const items = catalog.findFilenames(filePattern || '*', projectPattern)
 
-        const queue = fastq.promise(worker, 10)
+        const queue = fastq.promise(
+            worker,
+            Number(parameters.options.concurrency) || 1
+        )
 
         items.forEach((item) => {
             queue
                 .push(item)
-                .catch((err) => print.error(err.message))
+                .catch((err) => {
+                    print.error(`${err.message} | ${item}`)
+                })
                 .then(() => {
                     const remaining = items.length - queue.length()
 
@@ -34,7 +39,7 @@ const command = {
                     )
 
                     print.info(
-                        `updated ${remaining}/${items.length} | ${percentage}%`
+                        `updated ${remaining}/${items.length} | ${percentage}% | ${item}`
                     )
                 })
         })
@@ -44,7 +49,10 @@ const command = {
 
             const { link } = item.links[0]
 
-            const page = await mal.get(link)
+            const page = await mal.get(
+                link,
+                Number(parameters.options.interval) || 1
+            )
 
             const $ = cheerio.load(page)
 

@@ -5,22 +5,39 @@ import { kebabCase } from 'lodash'
 
 const cacheDir = resolve(__dirname, '..', '..', '.cache')
 
-export async function get(url: string) {
+let lastStart = Date.now()
+
+export async function get(url: string, interval = 500) {
     const filename = resolve(cacheDir, 'mal', `${kebabCase(url)}.html`)
 
     if (existsSync(filename)) {
         return readFileSync(filename, 'utf-8')
     }
 
-    const { data } = await axios.get(encodeURI(url))
+    await new Promise<void>((resolve) => {
+        let delay = Date.now() + interval - lastStart
 
-    mkdirSync(dirname(filename), { recursive: true })
+        if (delay < 0 && lastStart > Date.now()) {
+            delay *= -1
+        }
 
-    writeFileSync(filename, data)
+        setTimeout(resolve, Math.max(500, delay))
+    })
 
-    await new Promise((resolve) => setTimeout(resolve, 1.5 * 1000))
+    try {
+        const { data } = await axios.get(encodeURI(url))
 
-    return data
+        mkdirSync(dirname(filename), { recursive: true })
+
+        writeFileSync(filename, data)
+
+        lastStart = Date.now()
+
+        return data
+    } catch (error) {
+        lastStart = Date.now() + 60000 * 6
+        throw new Error('request failed starting timeout...')
+    }
 }
 
 export const mal = {
