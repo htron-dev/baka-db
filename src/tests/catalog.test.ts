@@ -1,12 +1,11 @@
 import test from 'japa'
 import moment from 'moment'
-import path from 'path'
 import { createMarkdown, createCatalog, CatalogItem } from '@baka-db/cli'
 
 import validTypes from '../valid-types.json'
 import validTags from '../valid-tags.json'
 
-const catalog = createCatalog(path.resolve(__dirname, '..', '..', 'catalog'))
+const catalog = createCatalog()
 const markdown = createMarkdown()
 
 const args = process.argv.slice(2)

@@ -47,29 +47,31 @@ const command = {
         async function worker(filename: string) {
             const item = await markdown.mountItem(filename)
 
-            const { link } = item.links[0]
+            console.log(await item.toString())
 
-            const page = await mal.get(
-                link,
-                Number(parameters.options.interval) || 1
-            )
+            // const { link } = item.links[0]
 
-            const $ = cheerio.load(page)
+            // const page = await mal.get(
+            //     link,
+            //     Number(parameters.options.interval) || 1
+            // )
 
-            const image = $('#content img').first()
+            // const $ = cheerio.load(page)
 
-            const src = image.attr('data-src')
+            // const image = $('#content img').first()
 
-            if (!src) {
-                return Promise.resolve()
-            }
+            // const src = image.attr('data-src')
 
-            item.thumbnail = {
-                src,
-                alt: kebabCase(item.title)
-            }
+            // if (!src) {
+            //     return Promise.resolve()
+            // }
 
-            await item.save()
+            // item.thumbnail = {
+            //     src,
+            //     alt: kebabCase(item.title)
+            // }
+
+            // await item.save()
         }
 
         await new Promise((resolve) => {
