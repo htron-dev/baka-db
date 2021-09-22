@@ -1,5 +1,7 @@
 # Poputepipikku Kinen
 
+![poputepipikku-kinen](https://cdn.myanimelist.net/images/anime/1782/93260.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ポプテピ記念

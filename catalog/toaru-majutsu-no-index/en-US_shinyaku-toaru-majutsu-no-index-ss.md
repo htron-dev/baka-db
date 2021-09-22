@@ -1,5 +1,7 @@
 # Shinyaku Toaru Majutsu no Index SS
 
+![shinyaku-toaru-majutsu-no-index-ss](https://cdn.myanimelist.net/images/manga/1/138297.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

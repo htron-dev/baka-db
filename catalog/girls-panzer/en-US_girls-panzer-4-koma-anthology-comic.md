@@ -1,5 +1,7 @@
 # Girls & Panzer: 4-koma Anthology Comic
 
+![girls-panzer-4-koma-anthology-comic](https://cdn.myanimelist.net/images/manga/2/168916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

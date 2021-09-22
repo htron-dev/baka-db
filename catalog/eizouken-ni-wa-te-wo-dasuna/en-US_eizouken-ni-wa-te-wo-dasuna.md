@@ -1,5 +1,7 @@
 # Eizouken ni wa Te wo Dasuna!
 
+![eizouken-ni-wa-te-wo-dasuna](https://cdn.myanimelist.net/images/manga/2/219792.jpg)
+
 -   **type**: manga
 -   **original-name**: 映像研には手を出すな！
 -   **start-date**: 2016-07-27

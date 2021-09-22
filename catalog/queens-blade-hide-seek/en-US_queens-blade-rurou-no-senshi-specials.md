@@ -1,5 +1,7 @@
 # Queen's Blade: Rurou no Senshi Specials
 
+![queens-blade-rurou-no-senshi-specials](https://cdn.myanimelist.net/images/anime/13/22751.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: クイーンズブレイド 流浪の戦士

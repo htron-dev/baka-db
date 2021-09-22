@@ -1,5 +1,7 @@
 # Kenja no Mago
 
+![kenja-no-mago](https://cdn.myanimelist.net/images/anime/1261/100452.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 賢者の孫

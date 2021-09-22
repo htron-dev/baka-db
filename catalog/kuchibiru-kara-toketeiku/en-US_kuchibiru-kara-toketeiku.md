@@ -1,5 +1,7 @@
 # Kuchibiru kara Toketeiku
 
+![kuchibiru-kara-toketeiku](https://cdn.myanimelist.net/images/manga/2/87981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

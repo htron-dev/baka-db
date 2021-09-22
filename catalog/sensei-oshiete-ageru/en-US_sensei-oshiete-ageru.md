@@ -1,5 +1,7 @@
 # Sensei, Oshiete Ageru
 
+![sensei-oshiete-ageru](https://cdn.myanimelist.net/images/manga/2/20634.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

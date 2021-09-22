@@ -1,5 +1,7 @@
 # Tensei shitara Slime Datta Ken: Mamono no Kuni no Arukikata
 
+![tensei-shitara-slime-datta-ken-mamono-no-kuni-no-arukikata](https://cdn.myanimelist.net/images/manga/3/194325.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生したらスライムだった件～魔物の国の歩き方～
 -   **start-date**: 2016-07-28

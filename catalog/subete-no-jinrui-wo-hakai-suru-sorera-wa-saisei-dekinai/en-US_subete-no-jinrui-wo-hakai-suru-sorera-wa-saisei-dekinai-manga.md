@@ -1,5 +1,7 @@
 # Subete no Jinrui wo Hakai suru. Sorera wa Saisei Dekinai.
 
+![subete-no-jinrui-wo-hakai-suru-sorera-wa-saisei-dekinai](https://cdn.myanimelist.net/images/manga/3/220187.jpg)
+
 -   **type**: manga
 -   **original-name**: すべての人類を破壊する。それらは再生できない。
 -   **start-date**: 2018-11-26

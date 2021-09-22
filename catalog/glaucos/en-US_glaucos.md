@@ -1,5 +1,7 @@
 # Glaucos
 
+![glaucos](https://cdn.myanimelist.net/images/manga/3/212670.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

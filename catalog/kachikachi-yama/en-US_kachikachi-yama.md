@@ -1,5 +1,7 @@
 # Kachikachi Yama
 
+![kachikachi-yama](https://cdn.myanimelist.net/images/anime/1889/101187.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カチカチ山

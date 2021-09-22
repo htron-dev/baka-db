@@ -1,5 +1,7 @@
 # Romance
 
+![romance](https://cdn.myanimelist.net/images/manga/2/243563.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 70

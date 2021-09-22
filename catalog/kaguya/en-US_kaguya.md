@@ -1,5 +1,7 @@
 # Kaguya
 
+![kaguya](https://cdn.myanimelist.net/images/manga/1/170065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

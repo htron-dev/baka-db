@@ -1,5 +1,7 @@
 # Sore de wa Minasan
 
+![sore-de-wa-minasan](https://cdn.myanimelist.net/images/manga/3/20216.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: それではみなさん。

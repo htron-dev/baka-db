@@ -1,5 +1,7 @@
 # Mahou Shoujo Nante Mou Ii Desukara.
 
+![mahou-shoujo-nante-mou-ii-desukara](https://cdn.myanimelist.net/images/anime/9/77841.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法少女なんてもういいですから。

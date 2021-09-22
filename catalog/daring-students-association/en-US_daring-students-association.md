@@ -1,5 +1,7 @@
 # Daring Students' Association
 
+![daring-students-association](https://cdn.myanimelist.net/images/manga/3/16123.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 위태위태 학생회

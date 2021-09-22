@@ -1,5 +1,7 @@
 # The iDOLM@STER Cinderella Girls: Special Program
 
+![the-i-dolm-ster-cinderella-girls-special-program](https://cdn.myanimelist.net/images/anime/10/72340.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アイドルマスター シンデレラガールズ Special Program

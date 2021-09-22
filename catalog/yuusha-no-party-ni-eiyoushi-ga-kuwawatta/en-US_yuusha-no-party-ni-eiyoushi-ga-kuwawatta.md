@@ -1,5 +1,7 @@
 # Yuusha no Party ni Eiyoushi ga Kuwawatta!
 
+![yuusha-no-party-ni-eiyoushi-ga-kuwawatta](https://cdn.myanimelist.net/images/manga/1/216412.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者のパーティーに栄養士が加わった!
 -   **start-date**: 2017-09-25

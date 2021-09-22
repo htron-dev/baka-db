@@ -1,5 +1,7 @@
 # Pikotarou no Lullaby Lullaby
 
+![pikotarou-no-lullaby-lullaby](https://cdn.myanimelist.net/images/anime/5/88197.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ピコ太郎のララバイラーラバイ

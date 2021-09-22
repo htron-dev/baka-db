@@ -1,5 +1,7 @@
 # Yuuki no Hana ga Hiraku Toki: Yanase Takashi to Anpanman no Monogatari
 
+![yuuki-no-hana-ga-hiraku-toki-yanase-takashi-to-anpanman-no-monogatari](https://cdn.myanimelist.net/images/anime/1432/98577.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 勇気の花がひらくとき やなせたかしとアンパンマンの物語

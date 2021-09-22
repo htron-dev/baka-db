@@ -1,5 +1,7 @@
 # Okuru Kotoba
 
+![okuru-kotoba](https://cdn.myanimelist.net/images/manga/1/202996.jpg)
+
 -   **type**: manga
 -   **original-name**: おくることば
 -   **start-date**: 2017-04-26

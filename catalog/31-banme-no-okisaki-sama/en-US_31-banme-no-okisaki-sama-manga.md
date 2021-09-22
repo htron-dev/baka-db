@@ -1,5 +1,7 @@
 # 31-banme no Okisaki-sama
 
+![31-banme-no-okisaki-sama](https://cdn.myanimelist.net/images/manga/1/224857.jpg)
+
 -   **type**: manga
 -   **original-name**: 31 番目のお妃様
 -   **start-date**: 2018-10-05

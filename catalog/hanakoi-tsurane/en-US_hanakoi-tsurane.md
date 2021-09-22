@@ -1,5 +1,7 @@
 # Hanakoi Tsurane
 
+![hanakoi-tsurane](https://cdn.myanimelist.net/images/manga/3/179134.jpg)
+
 -   **type**: manga
 -   **original-name**: 花恋つらね
 -   **start-date**: 2015-11-14

@@ -1,5 +1,7 @@
 # Tonari no Erotica-chan
 
+![tonari-no-erotica-chan](https://cdn.myanimelist.net/images/manga/1/187187.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 50

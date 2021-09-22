@@ -1,5 +1,7 @@
 # Take Over Zone
 
+![take-over-zone](https://cdn.myanimelist.net/images/manga/2/201069.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

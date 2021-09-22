@@ -1,9 +1,10 @@
 # Chilingchiling Sikeulis Jyujyu
 
+![chilingchiling-sikeulis-jyujyu](https://cdn.myanimelist.net/images/anime/1154/114495.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 182
 -   **original-name**: 치링치링 시크릿 쥬쥬
-
 -   **rating**: PG - Children
 
 ## Tags

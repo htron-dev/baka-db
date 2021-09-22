@@ -1,5 +1,7 @@
 # Masuda Kousuke Gekijou Gag Manga Biyori +
 
+![masuda-kousuke-gekijou-gag-manga-biyori](https://cdn.myanimelist.net/images/anime/13/18805.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 増田こうすけ劇場 ギャグマンガ日和+

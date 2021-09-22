@@ -1,5 +1,7 @@
 # Gion no Tsugai
 
+![gion-no-tsugai](https://cdn.myanimelist.net/images/manga/1/167985.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

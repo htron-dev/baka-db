@@ -1,5 +1,7 @@
 # Ghost Write
 
+![ghost-write](https://cdn.myanimelist.net/images/manga/2/196360.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ゴースト・ライト

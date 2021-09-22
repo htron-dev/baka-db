@@ -1,5 +1,7 @@
 # Tamahagane
 
+![tamahagane](https://cdn.myanimelist.net/images/manga/3/196754.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

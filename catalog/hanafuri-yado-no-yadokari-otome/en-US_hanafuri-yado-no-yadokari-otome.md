@@ -1,5 +1,7 @@
 # Hanafuri Yado no Yadokari Otome
 
+![hanafuri-yado-no-yadokari-otome](https://cdn.myanimelist.net/images/manga/3/206089.jpg)
+
 -   **type**: manga
 -   **original-name**: 花降り宿のやどかり乙女
 -   **start-date**: 2016-12-28

@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes Movie: Gyakushuu no Milky Holmes
 
+![tantei-opera-milky-holmes-movie-gyakushuu-no-milky-holmes](https://cdn.myanimelist.net/images/anime/7/77175.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 探偵オペラ ミルキィホームズ〜逆襲のミルキィホームズ〜

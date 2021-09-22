@@ -1,5 +1,7 @@
 # Nobunaga no Shinobi: Ise Kanegasaki-hen
 
+![nobunaga-no-shinobi-ise-kanegasaki-hen](https://cdn.myanimelist.net/images/anime/3/84890.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 信長の忍び~伊勢・金ヶ崎篇~

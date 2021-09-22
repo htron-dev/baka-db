@@ -1,5 +1,7 @@
 # Ryuu to Ichigo
 
+![ryuu-to-ichigo](https://cdn.myanimelist.net/images/manga/2/232490.jpg)
+
 -   **type**: manga
 -   **original-name**: 龍と苺
 -   **start-date**: 2020-05-20

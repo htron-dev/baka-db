@@ -1,5 +1,7 @@
 # Twinkle Twinkle Idol Star
 
+![twinkle-twinkle-idol-star](https://cdn.myanimelist.net/images/manga/3/38275.jpg)
+
 -   **type**: manga
 
 ## Tags

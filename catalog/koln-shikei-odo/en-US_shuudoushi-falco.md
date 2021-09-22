@@ -1,5 +1,7 @@
 # Shuudoushi Falco
 
+![shuudoushi-falco](https://cdn.myanimelist.net/images/manga/2/31578.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 修道士ファルコ

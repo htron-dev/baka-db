@@ -1,5 +1,7 @@
 # Butsuriteki ni Koritsu shiteiru Ore no Koukou Seikatsu
 
+![butsuriteki-ni-koritsu-shiteiru-ore-no-koukou-seikatsu](https://cdn.myanimelist.net/images/manga/1/191528.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 70

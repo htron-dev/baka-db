@@ -1,5 +1,7 @@
 # Wasurenagumo
 
+![wasurenagumo](https://cdn.myanimelist.net/images/anime/11/38877.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: わすれなぐも

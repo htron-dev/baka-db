@@ -1,5 +1,7 @@
 # Atama wa Tsukaiyou. Card mo Tsukaiyou.
 
+![atama-wa-tsukaiyou-card-mo-tsukaiyou](https://cdn.myanimelist.net/images/anime/11/70487.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 頭は使いよう。カードも使いよう。

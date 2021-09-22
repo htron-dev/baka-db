@@ -1,5 +1,7 @@
 # Scarlet Nexus
 
+![scarlet-nexus](https://cdn.myanimelist.net/images/anime/1314/116004.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: SCARLET NEXUS
 -   **start-date**: 2021-07-01

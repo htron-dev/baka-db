@@ -1,5 +1,7 @@
 # Yakumotatsu
 
+![yakumotatsu](https://cdn.myanimelist.net/images/anime/5/17266.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 八雲立つ

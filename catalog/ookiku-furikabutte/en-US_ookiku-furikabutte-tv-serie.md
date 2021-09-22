@@ -1,5 +1,7 @@
 # Ookiku Furikabutte
 
+![ookiku-furikabutte](https://cdn.myanimelist.net/images/anime/2/20751.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: おおきく振りかぶって

@@ -1,5 +1,7 @@
 # Tomodachi no Imouto ga Ore ni dake Uzai
 
+![tomodachi-no-imouto-ga-ore-ni-dake-uzai](https://cdn.myanimelist.net/images/anime/1113/111438.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 友達の妹が俺にだけウザい
 -   **rating**: None

@@ -1,5 +1,7 @@
 # Yuri de Naru♥Espoir
 
+![yuri-de-naru♥-espoir](https://cdn.myanimelist.net/images/manga/1/230344.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆりでなる ♥ えすぽわーる
 -   **start-date**: 2019-03-20

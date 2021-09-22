@@ -1,5 +1,7 @@
 # Uchuu Show e Youkoso
 
+![uchuu-show-e-youkoso](https://cdn.myanimelist.net/images/anime/8/20085.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙ショーへようこそ

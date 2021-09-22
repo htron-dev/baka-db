@@ -1,5 +1,7 @@
 # Tenka wo Mezashita Sannin no Bushou
 
+![tenka-wo-mezashita-sannin-no-bushou](https://cdn.myanimelist.net/images/anime/10/66211.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 天下をめざした３人の武将
@@ -10,7 +12,6 @@
 
 -   drama
 -   historical
-
 -   samurai
 
 ## Sinopse

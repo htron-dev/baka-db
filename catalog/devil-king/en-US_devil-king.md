@@ -1,5 +1,7 @@
 # Devil King
 
+![devil-king](https://cdn.myanimelist.net/images/manga/1/45375.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: デビルキング

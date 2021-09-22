@@ -1,5 +1,7 @@
 # Fire Emblem
 
+![fire-emblem](https://cdn.myanimelist.net/images/anime/1586/96256.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ファイアーエムブレム

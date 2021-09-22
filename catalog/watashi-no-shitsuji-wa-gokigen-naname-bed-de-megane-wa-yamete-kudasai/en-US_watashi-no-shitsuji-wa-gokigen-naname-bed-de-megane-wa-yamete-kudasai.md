@@ -1,5 +1,7 @@
 # Watashi no Shitsuji wa Gokigen Naname: Bed de Megane wa Yamete Kudasai!
 
+![watashi-no-shitsuji-wa-gokigen-naname-bed-de-megane-wa-yamete-kudasai](https://cdn.myanimelist.net/images/manga/2/192092.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

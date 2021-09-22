@@ -1,5 +1,7 @@
 # Cinderella ni Kutsu wo
 
+![cinderella-ni-kutsu-wo](https://cdn.myanimelist.net/images/manga/2/182891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

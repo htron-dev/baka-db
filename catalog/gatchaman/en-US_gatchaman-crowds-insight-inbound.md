@@ -1,5 +1,7 @@
 # Gatchaman Crowds Insight: Inbound
 
+![gatchaman-crowds-insight-inbound](https://cdn.myanimelist.net/images/anime/2/74427.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: GATCHAMAN CROWDS insight（インサイト）「#0 inbound」

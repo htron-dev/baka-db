@@ -1,5 +1,7 @@
 # Date A Live Fragments: Date A Bullet
 
+![date-a-live-fragments-date-a-bullet](https://cdn.myanimelist.net/images/manga/1/193018.jpg)
+
 -   **type**: light-novel
 -   **original-name**: デート・ア・ライブ フラグメント デート・ア・バレット
 -   **start-date**: 2017-03-18

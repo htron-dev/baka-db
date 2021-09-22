@@ -1,5 +1,7 @@
 # Spiral Alive
 
+![spiral-alive](https://cdn.myanimelist.net/images/manga/3/4757.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Aimane: Akuma na Kanojo wo Produce
 
+![aimane-akuma-na-kanojo-wo-produce](https://cdn.myanimelist.net/images/manga/1/111939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

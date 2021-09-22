@@ -1,5 +1,7 @@
 # Yuuto: Rachi kara Hajimaru Isekai Gunshi
 
+![yuuto-rachi-kara-hajimaru-isekai-gunshi](https://cdn.myanimelist.net/images/manga/1/161107.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ユート 拉致から始まる異世界軍師

@@ -1,5 +1,7 @@
 # Begin
 
+![begin](https://cdn.myanimelist.net/images/manga/1/199335.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 73

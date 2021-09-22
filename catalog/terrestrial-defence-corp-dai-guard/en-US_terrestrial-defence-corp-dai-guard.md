@@ -1,5 +1,7 @@
 # Terrestrial Defence Corp. Dai Guard
 
+![terrestrial-defence-corp-dai-guard](https://cdn.myanimelist.net/images/manga/2/29895.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 地球防衛企業ダイ・ガード

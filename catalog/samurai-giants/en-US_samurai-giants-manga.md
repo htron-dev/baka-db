@@ -1,5 +1,7 @@
 # Samurai Giants
 
+![samurai-giants](https://cdn.myanimelist.net/images/manga/1/223909.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 150

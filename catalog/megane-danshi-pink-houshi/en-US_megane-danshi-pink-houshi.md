@@ -1,5 +1,7 @@
 # Megane Danshi Pink Houshi
 
+![megane-danshi-pink-houshi](https://cdn.myanimelist.net/images/manga/1/85371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

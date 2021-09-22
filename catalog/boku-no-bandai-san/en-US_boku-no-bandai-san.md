@@ -1,5 +1,7 @@
 # Boku no Bandai-san
 
+![boku-no-bandai-san](https://cdn.myanimelist.net/images/manga/3/53737.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

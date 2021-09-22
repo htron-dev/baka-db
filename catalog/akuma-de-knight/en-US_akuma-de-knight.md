@@ -1,5 +1,7 @@
 # Akuma de Knight
 
+![akuma-de-knight](https://cdn.myanimelist.net/images/manga/2/151956.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悪魔で騎士〈ナイト〉
 -   **start-date**: 2014-12-15

@@ -1,5 +1,7 @@
 # SS
 
+![ss](https://cdn.myanimelist.net/images/manga/2/122989.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 84

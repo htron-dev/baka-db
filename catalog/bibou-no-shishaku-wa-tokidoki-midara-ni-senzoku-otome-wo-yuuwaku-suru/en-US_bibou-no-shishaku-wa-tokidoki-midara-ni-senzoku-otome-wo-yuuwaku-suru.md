@@ -1,5 +1,7 @@
 # Bibou no Shishaku wa Tokidoki Midara ni Senzoku Otome wo Yuuwaku suru
 
+![bibou-no-shishaku-wa-tokidoki-midara-ni-senzoku-otome-wo-yuuwaku-suru](https://cdn.myanimelist.net/images/manga/3/195840.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 美貌の子爵はときどき淫らに専属乙女を誘惑する

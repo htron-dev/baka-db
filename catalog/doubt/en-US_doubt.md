@@ -1,5 +1,7 @@
 # Doubt!!
 
+![doubt](https://cdn.myanimelist.net/images/manga/2/6330.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

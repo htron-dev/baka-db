@@ -1,5 +1,7 @@
 # Irokoi Comedy
 
+![irokoi-comedy](https://cdn.myanimelist.net/images/manga/1/3600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

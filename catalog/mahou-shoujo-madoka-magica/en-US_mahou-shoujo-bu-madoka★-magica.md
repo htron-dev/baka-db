@@ -1,5 +1,7 @@
 # Mahou Shoujo-bu Madoka★Magica
 
+![mahou-shoujo-bu-madoka★-magica](https://cdn.myanimelist.net/images/manga/3/108457.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Kremlin
 
+![kremlin](https://cdn.myanimelist.net/images/anime/5/42271.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: クレムリン
@@ -25,4 +27,4 @@ The anime shorts are inspired by Kaoru Curry-zawa's "Kremlin" cat gag comedy man
 
 -   [My Anime list](https://myanimelist.net/anime/15389/Kremlin)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9382)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%A0%E3%83%AA%E3%83%B3_(%E6%BC%AB%E7%94%BB)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%A0%E3%83%AA%E3%83%B3_%28%E6%BC%AB%E7%94%BB%29)

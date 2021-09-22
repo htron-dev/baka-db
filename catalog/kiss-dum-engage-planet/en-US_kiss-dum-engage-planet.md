@@ -1,5 +1,7 @@
 # Kiss Dum: Engage Planet
 
+![kiss-dum-engage-planet](https://cdn.myanimelist.net/images/anime/8/21586.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: キスダム -ENGAGE planet-

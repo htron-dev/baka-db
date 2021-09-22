@@ -1,5 +1,7 @@
 # Crash!
 
+![crash](https://cdn.myanimelist.net/images/manga/2/115205.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 73

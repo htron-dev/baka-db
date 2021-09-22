@@ -1,5 +1,7 @@
 # Gosenfu Nante Kazari desu!
 
+![gosenfu-nante-kazari-desu](https://cdn.myanimelist.net/images/manga/1/126149.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 五線譜なんて飾りですっ!

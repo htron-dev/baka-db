@@ -1,5 +1,7 @@
 # Hanaukyou Maid-tai
 
+![hanaukyou-maid-tai](https://cdn.myanimelist.net/images/manga/3/92517.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 94

@@ -1,5 +1,7 @@
 # Itan no Shingen Tsukai: Oretachi wa Power Word de Isekai wo Kakumei suru
 
+![itan-no-shingen-tsukai-oretachi-wa-power-word-de-isekai-wo-kakumei-suru](https://cdn.myanimelist.net/images/manga/1/190160.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異端の神言遣い 俺たちはパワーワードで異世界を革命する
 -   **start-date**: 2017-01-30

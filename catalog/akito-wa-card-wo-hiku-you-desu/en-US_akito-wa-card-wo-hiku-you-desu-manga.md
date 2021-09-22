@@ -1,5 +1,7 @@
 # Akito wa Card wo Hiku you desu
 
+![akito-wa-card-wo-hiku-you-desu](https://cdn.myanimelist.net/images/manga/2/241621.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

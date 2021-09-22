@@ -1,5 +1,7 @@
 # Nigenai. - Atashitachi no Kakusa Life
 
+![nigenai-atashitachi-no-kakusa-life](https://cdn.myanimelist.net/images/manga/1/31233.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: にげない。-あたしたちの格差ライフ-

@@ -1,5 +1,7 @@
 # Sarazanmai
 
+![sarazanmai](https://cdn.myanimelist.net/images/anime/1159/100455.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: さらざんまい

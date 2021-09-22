@@ -1,5 +1,7 @@
 # Zettai Tenshoku Shitai ndesu!!
 
+![zettai-tenshoku-shitai-ndesu](https://cdn.myanimelist.net/images/manga/2/190044.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ぜったい転職したいんです!!
 -   **start-date**: 2017-02-15

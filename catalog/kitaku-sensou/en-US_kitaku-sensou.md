@@ -1,5 +1,7 @@
 # Kitaku Sensou
 
+![kitaku-sensou](https://cdn.myanimelist.net/images/manga/1/171416.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 帰宅戦争
 -   **start-date**: 2016-01-20

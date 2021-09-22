@@ -1,5 +1,7 @@
 # Aquaman
 
+![aquaman](https://cdn.myanimelist.net/images/manga/1/228244.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 아쿠아맨
 -   **start-date**: 2016-07-09

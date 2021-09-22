@@ -1,5 +1,7 @@
 # Gokupuri: Gokudou no Ouji-sama
 
+![gokupuri-gokudou-no-ouji-sama](https://cdn.myanimelist.net/images/manga/1/41261.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

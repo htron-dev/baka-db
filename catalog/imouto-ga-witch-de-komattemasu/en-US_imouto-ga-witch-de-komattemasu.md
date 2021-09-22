@@ -1,5 +1,7 @@
 # Imouto ga Witch de Komattemasu.
 
+![imouto-ga-witch-de-komattemasu](https://cdn.myanimelist.net/images/manga/1/163289.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Kemono no Souja Erin Recaps
 
+![kemono-no-souja-erin-recaps](https://cdn.myanimelist.net/images/anime/11/19317.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 獣の奏者 エリン 総集編

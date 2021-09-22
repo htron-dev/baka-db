@@ -1,5 +1,7 @@
 # Stand by Me Love Letter
 
+![stand-by-me-love-letter](https://cdn.myanimelist.net/images/manga/1/190848.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

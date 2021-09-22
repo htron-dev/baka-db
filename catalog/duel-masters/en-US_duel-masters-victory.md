@@ -1,5 +1,7 @@
 # Duel Masters Victory
 
+![duel-masters-victory](https://cdn.myanimelist.net/images/anime/9/71913.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: デュエル・マスターズ ビクトリー
@@ -14,7 +16,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie](https://cdn.myanimelist.net/images/anime/8/58875.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: こちら葛飾区亀有公園前派出所　ＴＨＥ　ＭＯＶＩＥ

@@ -1,5 +1,7 @@
 # Usagi ga Nihiki
 
+![usagi-ga-nihiki](https://cdn.myanimelist.net/images/manga/1/233434.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

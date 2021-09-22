@@ -1,5 +1,7 @@
 # Monogatari Series Heroine Hon
 
+![monogatari-series-heroine-hon](https://cdn.myanimelist.net/images/manga/2/150485.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 7
 -   **original-name**: アニメ＜物語＞シリーズヒロイン本

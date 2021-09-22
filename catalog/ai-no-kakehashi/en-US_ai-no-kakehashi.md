@@ -1,5 +1,7 @@
 # Ai no Kakehashi
 
+![ai-no-kakehashi](https://cdn.myanimelist.net/images/manga/3/46877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛のかけ橋

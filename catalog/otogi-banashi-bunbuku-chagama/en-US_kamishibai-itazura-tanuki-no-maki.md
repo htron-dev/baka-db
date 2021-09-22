@@ -1,5 +1,7 @@
 # Kamishibai Itazura Tanuki no Maki
 
+![kamishibai-itazura-tanuki-no-maki](https://cdn.myanimelist.net/images/anime/10/85261.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 紙芝居 いたづら狸の卷

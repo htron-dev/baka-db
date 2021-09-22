@@ -1,5 +1,7 @@
 # Ichido wa Kanojo ni Nattemitai!
 
+![ichido-wa-kanojo-ni-nattemitai](https://cdn.myanimelist.net/images/manga/1/221768.jpg)
+
 -   **type**: manga
 -   **original-name**: 一度は彼女になってみたい！
 -   **start-date**: 2018-09-22

@@ -1,5 +1,7 @@
 # Parlor
 
+![parlor](https://cdn.myanimelist.net/images/manga/2/152863.jpg)
+
 -   **type**: manga
 -   **original-name**: parlor
 -   **start-date**: 2011-08-25

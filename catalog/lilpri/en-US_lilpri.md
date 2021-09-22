@@ -1,5 +1,7 @@
 # Lilpri
 
+![lilpri](https://cdn.myanimelist.net/images/manga/1/81866.jpg)
+
 -   **type**: manga
 -   **original-name**: リルぷりっ
 -   **start-date**: 2010-04-03

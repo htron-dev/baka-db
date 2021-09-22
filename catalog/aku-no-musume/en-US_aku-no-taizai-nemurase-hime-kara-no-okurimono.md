@@ -1,5 +1,7 @@
 # Aku no Taizai: Nemurase Hime kara no Okurimono
 
+![aku-no-taizai-nemurase-hime-kara-no-okurimono](https://cdn.myanimelist.net/images/manga/2/161451.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

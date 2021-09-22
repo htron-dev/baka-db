@@ -1,5 +1,7 @@
 # Au Tabi ni, Atarashii
 
+![au-tabi-ni-atarashii](https://cdn.myanimelist.net/images/anime/1253/115390.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あうたびに、あたらしい

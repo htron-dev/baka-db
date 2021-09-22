@@ -1,5 +1,7 @@
 # Bleach Movie 4: Jigoku-hen
 
+![bleach-movie-4-jigoku-hen](https://cdn.myanimelist.net/images/anime/9/26792.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 BLEACH 地獄篇
@@ -30,4 +32,4 @@ Note: Episode 299 of Bleach serves as a prologue to this movie.
 -   [Official Site](http://www.tv-tokyo.co.jp/bleach/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7666)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11723)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Bleach_(manga)#Films>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Bleach_%28manga%29#Films)

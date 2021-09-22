@@ -1,5 +1,7 @@
 # Slam Dunk Movie
 
+![slam-dunk-movie](https://cdn.myanimelist.net/images/anime/5/31927.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: SLAM DUNK
@@ -16,13 +18,6 @@
 ## Sinopse
 
 No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
-
-## Links
-
--   [My Anime list](https://myanimelist.net/anime/45649/Slam_Dunk_Movie)
--   [Official Site](https://slamdunk-movie.jp/)
--   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15974)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Slam_Dunk_(manga)#Films>)
 
 ## Links
 

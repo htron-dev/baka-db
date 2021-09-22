@@ -1,5 +1,7 @@
 # Tousatsu Chikan de Nanpitomo ni Ikasarete: Fukusuu Shikan Nonstop 24-jikan Namachuukei
 
+![tousatsu-chikan-de-nanpitomo-ni-ikasarete-fukusuu-shikan-nonstop-24-jikan-namachuukei](https://cdn.myanimelist.net/images/manga/1/194636.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 盗撮痴漢で何人もにイカされて～複数視姦ノンストップ 24 時間生中継～

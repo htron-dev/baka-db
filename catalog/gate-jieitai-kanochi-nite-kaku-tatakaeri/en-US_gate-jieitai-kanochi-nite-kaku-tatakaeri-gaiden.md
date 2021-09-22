@@ -1,5 +1,7 @@
 # Gate: Jieitai Kanochi nite, Kaku Tatakaeri Gaiden
 
+![gate-jieitai-kanochi-nite-kaku-tatakaeri-gaiden](https://cdn.myanimelist.net/images/manga/2/177444.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: ゲート 自衛隊 彼の地にて、斯く戦えり 外伝

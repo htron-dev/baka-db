@@ -1,5 +1,7 @@
 # Ano Natsu.
 
+![ano-natsu](https://cdn.myanimelist.net/images/manga/1/208357.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

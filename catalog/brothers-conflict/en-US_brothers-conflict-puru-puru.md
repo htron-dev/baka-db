@@ -1,5 +1,7 @@
 # Brothers Conflict: Puru Puru
 
+![brothers-conflict-puru-puru](https://cdn.myanimelist.net/images/manga/1/98973.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ぶらざーず こんふりくと ぷるぷる

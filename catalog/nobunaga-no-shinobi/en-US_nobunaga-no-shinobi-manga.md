@@ -1,5 +1,7 @@
 # Nobunaga no Shinobi
 
+![nobunaga-no-shinobi](https://cdn.myanimelist.net/images/manga/1/161881.jpg)
+
 -   **type**: manga
 -   **original-name**: 信長の忍び
 -   **start-date**: 2008-06-13

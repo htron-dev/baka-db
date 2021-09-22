@@ -1,5 +1,7 @@
 # Oyayubisagashi
 
+![oyayubisagashi](https://cdn.myanimelist.net/images/manga/3/173687.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 親指さがし

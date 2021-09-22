@@ -1,5 +1,7 @@
 # Kimi no Gin no Ashi
 
+![kimi-no-gin-no-ashi](https://cdn.myanimelist.net/images/manga/1/237742.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

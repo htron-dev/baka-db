@@ -1,5 +1,7 @@
 # Otonari ni Ginga
 
+![otonari-ni-ginga](https://cdn.myanimelist.net/images/manga/1/236056.jpg)
+
 -   **type**: manga
 -   **original-name**: おとなりに銀河
 -   **start-date**: 2020-04-07

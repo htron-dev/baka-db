@@ -1,5 +1,7 @@
 # Onegai☆Twins: Natsu wa Owaranai
 
+![onegai☆-twins-natsu-wa-owaranai](https://cdn.myanimelist.net/images/anime/6/67017.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おねがい ☆ ツインズ 夏は終わらない

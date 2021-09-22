@@ -1,5 +1,7 @@
 # 21 Emon Uchuu ike! Hadashi no Princess
 
+![21-emon-uchuu-ike-hadashi-no-princess](https://cdn.myanimelist.net/images/anime/13/13278.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ２１エモン 宇宙いけ！裸足のプリンセス

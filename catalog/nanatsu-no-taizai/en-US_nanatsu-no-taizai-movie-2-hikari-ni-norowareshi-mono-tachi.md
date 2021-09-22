@@ -1,5 +1,7 @@
 # Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi
 
+![nanatsu-no-taizai-movie-2-hikari-ni-norowareshi-mono-tachi](https://cdn.myanimelist.net/images/anime/1096/113360.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 七つの大罪 光に呪われし者たち
@@ -26,4 +28,4 @@ No synopsis information has been added to this title. Help improve our database 
 -   [Official Site](https://eiga.7-taizai.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15997)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23948)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29#Anime)

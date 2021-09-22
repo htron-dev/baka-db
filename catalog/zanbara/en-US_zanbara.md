@@ -1,5 +1,7 @@
 # Zanbara!
 
+![zanbara](https://cdn.myanimelist.net/images/manga/2/21413.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

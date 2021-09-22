@@ -1,5 +1,7 @@
 # Mousou Shounen Kansoku Shoujo
 
+![mousou-shounen-kansoku-shoujo](https://cdn.myanimelist.net/images/manga/1/134811.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

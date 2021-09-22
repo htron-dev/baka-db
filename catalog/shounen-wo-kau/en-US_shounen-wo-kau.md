@@ -1,5 +1,7 @@
 # Shounen wo Kau
 
+![shounen-wo-kau](https://cdn.myanimelist.net/images/manga/2/243390.jpg)
+
 -   **type**: manga
 -   **original-name**: 少年を飼う
 -   **start-date**: 2020-08-21

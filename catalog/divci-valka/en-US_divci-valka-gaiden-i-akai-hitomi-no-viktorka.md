@@ -1,5 +1,7 @@
 # Dívčí Válka Gaiden I: Akai Hitomi no Viktorka
 
+![divci-valka-gaiden-i-akai-hitomi-no-viktorka](https://cdn.myanimelist.net/images/manga/1/238899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

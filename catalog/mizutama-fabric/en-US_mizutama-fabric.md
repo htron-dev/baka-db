@@ -1,5 +1,7 @@
 # Mizutama Fabric
 
+![mizutama-fabric](https://cdn.myanimelist.net/images/manga/2/5345.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

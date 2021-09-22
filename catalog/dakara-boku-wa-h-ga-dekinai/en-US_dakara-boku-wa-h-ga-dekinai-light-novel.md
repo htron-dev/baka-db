@@ -1,5 +1,7 @@
 # Dakara Boku wa, H ga Dekinai.
 
+![dakara-boku-wa-h-ga-dekinai](https://cdn.myanimelist.net/images/manga/3/148499.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 72

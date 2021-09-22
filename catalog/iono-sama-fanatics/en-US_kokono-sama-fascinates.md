@@ -1,5 +1,7 @@
 # Kokono-sama Fascinates
 
+![kokono-sama-fascinates](https://cdn.myanimelist.net/images/manga/3/164013.jpg)
+
 -   **type**: manga
 -   **original-name**: ここの様ファシネイツ
 -   **start-date**: 2015-03-18

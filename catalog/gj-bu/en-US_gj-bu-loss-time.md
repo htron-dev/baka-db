@@ -1,5 +1,7 @@
 # GJ-bu Loss Time
 
+![gj-bu-loss-time](https://cdn.myanimelist.net/images/manga/1/240847.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 36

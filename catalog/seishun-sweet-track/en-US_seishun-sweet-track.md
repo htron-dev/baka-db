@@ -1,5 +1,7 @@
 # Seishun Sweet Track
 
+![seishun-sweet-track](https://cdn.myanimelist.net/images/manga/3/194260.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

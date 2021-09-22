@@ -1,5 +1,7 @@
 # Saiaku Saiai no Fiancée
 
+![saiaku-saiai-no-fiancee](https://cdn.myanimelist.net/images/manga/2/215356.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

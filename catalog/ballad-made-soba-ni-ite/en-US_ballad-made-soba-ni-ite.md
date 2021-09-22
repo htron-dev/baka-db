@@ -1,5 +1,7 @@
 # Ballad made Soba ni Ite
 
+![ballad-made-soba-ni-ite](https://cdn.myanimelist.net/images/manga/1/169037.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

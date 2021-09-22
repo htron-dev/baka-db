@@ -1,5 +1,7 @@
 # Sekai no Owari to Majo no Koi
 
+![sekai-no-owari-to-majo-no-koi](https://cdn.myanimelist.net/images/manga/3/226437.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

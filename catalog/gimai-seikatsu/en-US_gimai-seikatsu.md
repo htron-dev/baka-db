@@ -1,5 +1,7 @@
 # Gimai Seikatsu
 
+![gimai-seikatsu](https://cdn.myanimelist.net/images/manga/2/240697.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 義妹生活
 -   **start-date**: 2021-01-25

@@ -1,5 +1,7 @@
 # Starmyu 2nd Season Special
 
+![starmyu-2nd-season-special](https://cdn.myanimelist.net/images/anime/7/86366.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 特別編 高校星歌劇［スタミュ］

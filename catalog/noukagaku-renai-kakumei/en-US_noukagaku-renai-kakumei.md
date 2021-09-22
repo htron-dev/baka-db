@@ -1,5 +1,7 @@
 # Noukagaku Renai Kakumei
 
+![noukagaku-renai-kakumei](https://cdn.myanimelist.net/images/manga/3/182457.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

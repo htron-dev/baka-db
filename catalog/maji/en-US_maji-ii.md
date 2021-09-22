@@ -1,5 +1,7 @@
 # Maji! II
 
+![maji-ii](https://cdn.myanimelist.net/images/manga/3/231361.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

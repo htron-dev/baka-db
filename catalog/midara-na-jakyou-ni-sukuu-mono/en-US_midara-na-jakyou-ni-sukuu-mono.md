@@ -1,5 +1,7 @@
 # Midara na Jakyou ni Sukuu Mono
 
+![midara-na-jakyou-ni-sukuu-mono](https://cdn.myanimelist.net/images/manga/1/222265.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

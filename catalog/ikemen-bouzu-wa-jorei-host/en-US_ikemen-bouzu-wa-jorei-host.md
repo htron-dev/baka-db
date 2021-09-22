@@ -1,5 +1,7 @@
 # Ikemen Bouzu wa Jorei Host
 
+![ikemen-bouzu-wa-jorei-host](https://cdn.myanimelist.net/images/manga/1/197490.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: イケメン坊主は除霊ホスト

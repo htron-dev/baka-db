@@ -1,5 +1,7 @@
 # Shinshi to Norainu
 
+![shinshi-to-norainu](https://cdn.myanimelist.net/images/manga/2/66921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

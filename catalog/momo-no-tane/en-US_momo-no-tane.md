@@ -1,5 +1,7 @@
 # Momo no Tane
 
+![momo-no-tane](https://cdn.myanimelist.net/images/manga/1/26625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: PEACH-PIT 初期作品集 もものたね

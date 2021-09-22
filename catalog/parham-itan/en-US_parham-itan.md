@@ -1,5 +1,7 @@
 # Parham Itan
 
+![parham-itan](https://cdn.myanimelist.net/images/manga/3/210289.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼岸〈パーラム〉異譚
 -   **start-date**: 2017-10-15

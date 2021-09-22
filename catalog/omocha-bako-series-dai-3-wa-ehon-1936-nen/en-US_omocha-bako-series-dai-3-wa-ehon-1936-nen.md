@@ -1,5 +1,7 @@
 # Omocha Bako Series Dai 3 Wa: Ehon 1936-nen
 
+![omocha-bako-series-dai-3-wa-ehon-1936-nen](https://cdn.myanimelist.net/images/anime/6/15933.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: オモチャ箱シリーズ第 3 話 絵本 1936 年

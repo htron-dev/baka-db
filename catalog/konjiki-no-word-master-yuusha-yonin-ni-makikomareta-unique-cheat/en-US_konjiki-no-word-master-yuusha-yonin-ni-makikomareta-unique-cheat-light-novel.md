@@ -1,5 +1,7 @@
 # Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat
 
+![konjiki-no-word-master-yuusha-yonin-ni-makikomareta-unique-cheat](https://cdn.myanimelist.net/images/manga/2/154447.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 90

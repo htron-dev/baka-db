@@ -1,5 +1,7 @@
 # Doubutsu Mura no Daisodou
 
+![doubutsu-mura-no-daisodou](https://cdn.myanimelist.net/images/anime/10/15852.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 動物村の大騒動

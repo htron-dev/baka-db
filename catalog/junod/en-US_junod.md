@@ -1,5 +1,7 @@
 # Junod
 
+![junod](https://cdn.myanimelist.net/images/anime/9/26355.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジュノー
@@ -27,4 +29,4 @@ Dr. Junod's work takes him from Ethiopia to Spain and across the European battle
 -   [Official Site](http://www.junod.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7882)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12095)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/ジュノー_(アニメ映画)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/ジュノー_%28アニメ映画%29)

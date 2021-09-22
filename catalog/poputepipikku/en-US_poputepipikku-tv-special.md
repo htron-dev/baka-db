@@ -1,5 +1,7 @@
 # Poputepipikku TV Special
 
+![poputepipikku-tv-special](https://cdn.myanimelist.net/images/anime/1091/100387.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ポプテピピック　ＴＶスペシャル

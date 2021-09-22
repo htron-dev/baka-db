@@ -1,5 +1,7 @@
 # Kannagi
 
+![kannagi](https://cdn.myanimelist.net/images/manga/2/188972.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 84

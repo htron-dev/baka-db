@@ -1,5 +1,7 @@
 # Hanayamata Anthology Comic
 
+![hanayamata-anthology-comic](https://cdn.myanimelist.net/images/manga/2/140021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Hidoi Otoko.
 
+![hidoi-otoko](https://cdn.myanimelist.net/images/manga/2/150732.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

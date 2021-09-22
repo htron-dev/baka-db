@@ -1,5 +1,7 @@
 # GS Mikami Gokuraku Daisakusen!! Suimeikyuu no Shoujo!!
 
+![gs-mikami-gokuraku-daisakusen-suimeikyuu-no-shoujo](https://cdn.myanimelist.net/images/manga/2/172081.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

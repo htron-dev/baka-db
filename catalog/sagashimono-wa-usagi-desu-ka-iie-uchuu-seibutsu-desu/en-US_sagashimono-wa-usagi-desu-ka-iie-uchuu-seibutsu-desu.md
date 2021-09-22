@@ -1,5 +1,7 @@
 # Sagashimono wa Usagi desu ka? Iie, Uchuu Seibutsu desu
 
+![sagashimono-wa-usagi-desu-ka-iie-uchuu-seibutsu-desu](https://cdn.myanimelist.net/images/manga/3/140373.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 探し物はウサギですか? いいえ、宇宙生物です

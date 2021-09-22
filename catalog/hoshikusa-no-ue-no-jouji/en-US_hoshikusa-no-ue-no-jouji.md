@@ -1,5 +1,7 @@
 # Hoshikusa no Ue no Jouji
 
+![hoshikusa-no-ue-no-jouji](https://cdn.myanimelist.net/images/manga/3/245630.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

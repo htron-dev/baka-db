@@ -1,5 +1,7 @@
 # Berserk
 
+![berserk](https://cdn.myanimelist.net/images/anime/10/79352.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ベルセルク

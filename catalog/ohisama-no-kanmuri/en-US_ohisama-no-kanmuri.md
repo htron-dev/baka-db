@@ -1,5 +1,7 @@
 # Ohisama no Kanmuri
 
+![ohisama-no-kanmuri](https://cdn.myanimelist.net/images/manga/3/8824.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

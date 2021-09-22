@@ -1,5 +1,7 @@
 # White Album
 
+![white-album](https://cdn.myanimelist.net/images/anime/12/43537.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ホワイトアルバム
@@ -30,4 +32,4 @@ While it may seem exciting to watch your girlfriend on television, how does Touy
 -   [Official Site](http://www.whitealbum-tv.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6026)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10134)
--   [Wikipedia](<http://en.wikipedia.org/wiki/White_Album_(visual_novel)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/White_Album_%28visual_novel%29#Anime)

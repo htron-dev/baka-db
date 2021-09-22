@@ -1,5 +1,7 @@
 # Full Metal Panic! Another
 
+![full-metal-panic-another](https://cdn.myanimelist.net/images/manga/2/166127.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 54

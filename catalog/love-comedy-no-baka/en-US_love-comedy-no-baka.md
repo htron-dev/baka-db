@@ -1,5 +1,7 @@
 # Love Comedy no Baka
 
+![love-comedy-no-baka](https://cdn.myanimelist.net/images/manga/2/167023.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

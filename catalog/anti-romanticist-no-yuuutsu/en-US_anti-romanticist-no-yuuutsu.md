@@ -1,5 +1,7 @@
 # Anti-Romanticist no Yuuutsu
 
+![anti-romanticist-no-yuuutsu](https://cdn.myanimelist.net/images/manga/1/80671.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

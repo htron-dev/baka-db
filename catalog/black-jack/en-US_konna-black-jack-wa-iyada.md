@@ -1,5 +1,7 @@
 # #Konna Black Jack wa Iyada
 
+![konna-black-jack-wa-iyada](https://cdn.myanimelist.net/images/manga/3/239206.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: #こんなブラック・ジャックはイヤだ

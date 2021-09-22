@@ -1,5 +1,7 @@
 # Maid in Prince
 
+![maid-in-prince](https://cdn.myanimelist.net/images/manga/1/7756.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

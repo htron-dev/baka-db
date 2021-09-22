@@ -1,5 +1,7 @@
 # Hoshi yo Oka yo Fuyu no Ao yo
 
+![hoshi-yo-oka-yo-fuyu-no-ao-yo](https://cdn.myanimelist.net/images/manga/2/18667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Boku to Majo no Jikan
 
+![boku-to-majo-no-jikan](https://cdn.myanimelist.net/images/manga/4/47895.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

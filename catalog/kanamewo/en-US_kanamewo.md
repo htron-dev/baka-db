@@ -1,5 +1,7 @@
 # Kanamewo
 
+![kanamewo](https://cdn.myanimelist.net/images/anime/7/83455.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: カナメヲ

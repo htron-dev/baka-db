@@ -1,5 +1,7 @@
 # Hime no Dameshi
 
+![hime-no-dameshi](https://cdn.myanimelist.net/images/manga/3/188801.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Unbalance x2
 
+![unbalance-x-2](https://cdn.myanimelist.net/images/manga/1/159439.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **chapters**: 82

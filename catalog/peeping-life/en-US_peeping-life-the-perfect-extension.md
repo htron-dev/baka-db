@@ -1,5 +1,7 @@
 # Peeping Life: The Perfect Extension
 
+![peeping-life-the-perfect-extension](https://cdn.myanimelist.net/images/anime/6/44191.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: Peeping Life（ピーピング・ライフ）‐The Perfect Extension‐

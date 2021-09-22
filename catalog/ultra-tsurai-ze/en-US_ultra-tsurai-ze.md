@@ -1,5 +1,7 @@
 # Ultra Tsurai ze
 
+![ultra-tsurai-ze](https://cdn.myanimelist.net/images/manga/1/186936.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

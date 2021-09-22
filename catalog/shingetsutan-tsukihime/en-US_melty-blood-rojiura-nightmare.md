@@ -1,5 +1,7 @@
 # Melty Blood: Rojiura Nightmare
 
+![melty-blood-rojiura-nightmare](https://cdn.myanimelist.net/images/manga/1/190248.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

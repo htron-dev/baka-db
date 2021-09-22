@@ -1,5 +1,7 @@
 # Soukoku no Garou - Hokuto no Ken Rei Gaiden
 
+![soukoku-no-garou-hokuto-no-ken-rei-gaiden](https://cdn.myanimelist.net/images/manga/3/130531.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 54

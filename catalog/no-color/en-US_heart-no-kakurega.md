@@ -1,5 +1,7 @@
 # Heart no Kakurega
 
+![heart-no-kakurega](https://cdn.myanimelist.net/images/manga/3/164689.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Zhen
 
+![zhen](https://cdn.myanimelist.net/images/manga/2/229569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

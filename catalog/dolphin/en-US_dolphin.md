@@ -1,5 +1,7 @@
 # Dolphin
 
+![dolphin](https://cdn.myanimelist.net/images/manga/2/227815.jpg)
+
 -   **type**: manga
 -   **original-name**: ドルフィン
 -   **start-date**: 2014-10-28

@@ -1,5 +1,7 @@
 # Rakka Ryuusui
 
+![rakka-ryuusui](https://cdn.myanimelist.net/images/manga/2/117453.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 落花流水

@@ -1,5 +1,7 @@
 # Koisuru Cosmos
 
+![koisuru-cosmos](https://cdn.myanimelist.net/images/manga/1/175298.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 恋する宇宙〈コスモ〉

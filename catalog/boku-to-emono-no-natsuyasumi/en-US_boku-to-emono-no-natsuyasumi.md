@@ -1,5 +1,7 @@
 # Boku to Emono no Natsuyasumi
 
+![boku-to-emono-no-natsuyasumi](https://cdn.myanimelist.net/images/manga/2/236108.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

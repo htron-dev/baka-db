@@ -1,5 +1,7 @@
 # Ingi no Hate
 
+![ingi-no-hate](https://cdn.myanimelist.net/images/manga/1/169399.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

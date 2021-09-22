@@ -1,5 +1,7 @@
 # Zannen na Ikimono Jiten (2019)
 
+![zannen-na-ikimono-jiten-2019](https://cdn.myanimelist.net/images/anime/1957/110202.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: ざんねんないきもの事典 (2019)

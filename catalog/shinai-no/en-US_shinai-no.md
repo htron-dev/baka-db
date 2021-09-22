@@ -1,5 +1,7 @@
 # Shinai no.
 
+![shinai-no](https://cdn.myanimelist.net/images/manga/1/163567.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

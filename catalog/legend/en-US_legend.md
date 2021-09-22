@@ -1,5 +1,7 @@
 # Legend
 
+![legend](https://cdn.myanimelist.net/images/manga/2/1628.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 리젠드

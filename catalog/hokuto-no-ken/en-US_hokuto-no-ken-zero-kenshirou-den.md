@@ -1,5 +1,7 @@
 # Hokuto no Ken Zero: Kenshirou Den
 
+![hokuto-no-ken-zero-kenshirou-den](https://cdn.myanimelist.net/images/anime/5/76902.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 真救世主伝説 北斗の拳 ZERO ケンシロウ伝

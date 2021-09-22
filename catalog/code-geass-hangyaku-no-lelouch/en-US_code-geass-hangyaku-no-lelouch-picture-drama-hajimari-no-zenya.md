@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch Picture Drama - Hajimari no Zenya
 
+![code-geass-hangyaku-no-lelouch-picture-drama-hajimari-no-zenya](https://cdn.myanimelist.net/images/anime/7/88061.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ ピクチャードラマ STAGE 0.97 はじまりの前夜

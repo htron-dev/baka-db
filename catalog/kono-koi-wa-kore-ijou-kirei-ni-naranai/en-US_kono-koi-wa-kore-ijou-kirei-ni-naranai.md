@@ -1,5 +1,7 @@
 # Kono Koi wa Kore Ijou Kirei ni Naranai.
 
+![kono-koi-wa-kore-ijou-kirei-ni-naranai](https://cdn.myanimelist.net/images/manga/3/217677.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

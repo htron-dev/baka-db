@@ -1,5 +1,7 @@
 # Tsubame to Umi to Dolce
 
+![tsubame-to-umi-to-dolce](https://cdn.myanimelist.net/images/manga/1/227623.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # MM! Specials
 
+![mm-specials](https://cdn.myanimelist.net/images/anime/7/26547.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: えむえむっ! えすえすっ！

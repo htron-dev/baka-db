@@ -1,5 +1,7 @@
 # Nanohana
 
+![nanohana](https://cdn.myanimelist.net/images/manga/2/81858.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

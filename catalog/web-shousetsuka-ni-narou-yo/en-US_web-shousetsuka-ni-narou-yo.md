@@ -1,5 +1,7 @@
 # Web Shousetsuka ni Narou yo.
 
+![web-shousetsuka-ni-narou-yo](https://cdn.myanimelist.net/images/manga/3/164458.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

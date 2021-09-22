@@ -1,5 +1,7 @@
 # Ai (ONA)
 
+![ai-ona](https://cdn.myanimelist.net/images/anime/3/77494.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 愛

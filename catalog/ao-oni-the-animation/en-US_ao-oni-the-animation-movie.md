@@ -1,5 +1,7 @@
 # Ao Oni The Animation (Movie)
 
+![ao-oni-the-animation-movie](https://cdn.myanimelist.net/images/anime/6/81440.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 青鬼 THE ANIMATION

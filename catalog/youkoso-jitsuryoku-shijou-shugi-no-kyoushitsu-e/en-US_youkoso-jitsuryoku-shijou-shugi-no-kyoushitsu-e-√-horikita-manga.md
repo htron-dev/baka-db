@@ -1,5 +1,7 @@
 # Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: √Horikita
 
+![youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-√-horikita](https://cdn.myanimelist.net/images/manga/1/203312.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

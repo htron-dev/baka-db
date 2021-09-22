@@ -1,5 +1,7 @@
 # My Dear Sweetheart
 
+![my-dear-sweetheart](https://cdn.myanimelist.net/images/manga/2/5967.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

@@ -1,5 +1,7 @@
 # Karasuma Kyouko no Jikenbo
 
+![karasuma-kyouko-no-jikenbo](https://cdn.myanimelist.net/images/manga/1/168516.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 86

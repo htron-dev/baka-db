@@ -1,5 +1,7 @@
 # Youkoso Aoki Hagane e!
 
+![youkoso-aoki-hagane-e](https://cdn.myanimelist.net/images/manga/2/203465.jpg)
+
 -   **type**: manga
 -   **original-name**: ようこそ蒼き鋼へ！
 -   **start-date**: 2017-11-16

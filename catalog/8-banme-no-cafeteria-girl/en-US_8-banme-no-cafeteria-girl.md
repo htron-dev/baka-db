@@ -1,5 +1,7 @@
 # 8-banme no Cafeteria Girl
 
+![8-banme-no-cafeteria-girl](https://cdn.myanimelist.net/images/manga/3/161622.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

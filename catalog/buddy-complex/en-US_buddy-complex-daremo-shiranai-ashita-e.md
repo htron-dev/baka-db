@@ -1,5 +1,7 @@
 # Buddy Complex: Daremo Shiranai Ashita e
 
+![buddy-complex-daremo-shiranai-ashita-e](https://cdn.myanimelist.net/images/anime/4/75763.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: バディ・コンプレックス 特別編集版「―誰も知らない明日へ―」

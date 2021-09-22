@@ -1,5 +1,7 @@
 # Yin Cha: Guan Ai Shengming
 
+![yin-cha-guan-ai-shengming](https://cdn.myanimelist.net/images/anime/1571/115517.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 饮茶之关爱生命

@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Hiya Hiya Hiyariko to Bafu Bafu Baikinman
 
+![sore-ike-anpanman-hiya-hiya-hiyariko-to-bafu-bafu-baikinman](https://cdn.myanimelist.net/images/anime/6/57703.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン ヒヤヒヤヒヤリコとばぶ・ばぶばいきんまん

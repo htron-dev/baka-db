@@ -1,5 +1,7 @@
 # Kimi Shi ni Tamau Koto Nakare
 
+![kimi-shi-ni-tamau-koto-nakare](https://cdn.myanimelist.net/images/manga/3/166041.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 61

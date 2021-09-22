@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Yuuki no Hana ga Hiraku Toki
 
+![sore-ike-anpanman-yuuki-no-hana-ga-hiraku-toki](https://cdn.myanimelist.net/images/anime/2/57721.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン 勇気の花がひらくとき

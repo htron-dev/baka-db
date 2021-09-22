@@ -1,5 +1,7 @@
 # Wazaguu! vs. Dangerous Jiisan Ja: Houfukuzettou! Anime Quiz
 
+![wazaguu-vs-dangerous-jiisan-ja-houfukuzettou-anime-quiz](https://cdn.myanimelist.net/images/anime/3/59079.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: わざぐぅ!VS でんぢゃらすじーさん邪 抱腹絶倒!アニメクイズ

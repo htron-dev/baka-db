@@ -1,5 +1,7 @@
 # Maou no Jinji
 
+![maou-no-jinji](https://cdn.myanimelist.net/images/manga/3/239079.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王の人事
 -   **start-date**: 2019-07-01

@@ -1,5 +1,7 @@
 # Chicha Koi Nikki
 
+![chicha-koi-nikki](https://cdn.myanimelist.net/images/manga/1/188826.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

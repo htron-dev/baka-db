@@ -1,5 +1,7 @@
 # Final Fantasy XV: Episode Ardyn - Prologue
 
+![final-fantasy-xv-episode-ardyn-prologue](https://cdn.myanimelist.net/images/anime/1770/103474.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: FINAL FANTASY XV EPISODE ARDYN - PROLOGUE

@@ -1,5 +1,7 @@
 # Yuyushiki
 
+![yuyushiki](https://cdn.myanimelist.net/images/anime/12/48747.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゆゆ式

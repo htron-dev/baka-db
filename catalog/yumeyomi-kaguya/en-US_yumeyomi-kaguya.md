@@ -1,5 +1,7 @@
 # Yumeyomi Kaguya
 
+![yumeyomi-kaguya](https://cdn.myanimelist.net/images/manga/1/177603.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

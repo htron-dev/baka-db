@@ -1,5 +1,7 @@
 # Saki-chan wa Konya mo Pekopeko
 
+![saki-chan-wa-konya-mo-pekopeko](https://cdn.myanimelist.net/images/manga/3/217668.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

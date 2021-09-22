@@ -1,5 +1,7 @@
 # Hajime no Ippo: Boxer no Kobushi
 
+![hajime-no-ippo-boxer-no-kobushi](https://cdn.myanimelist.net/images/anime/2/84664.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: はじめの一歩 THE FIGHTING! ボクサーの拳

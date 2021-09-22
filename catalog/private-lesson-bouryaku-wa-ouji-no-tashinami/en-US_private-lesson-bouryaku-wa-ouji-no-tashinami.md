@@ -1,5 +1,7 @@
 # Private Lesson: Bouryaku wa Ouji no Tashinami
 
+![private-lesson-bouryaku-wa-ouji-no-tashinami](https://cdn.myanimelist.net/images/manga/1/182568.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

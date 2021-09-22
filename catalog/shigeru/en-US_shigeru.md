@@ -1,5 +1,7 @@
 # Shigeru
 
+![shigeru](https://cdn.myanimelist.net/images/anime/13/76371.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: しげる

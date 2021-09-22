@@ -1,5 +1,7 @@
 # Fate/stay night
 
+![fate-stay-night](https://cdn.myanimelist.net/images/anime/4/30327.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: Fate/stay night

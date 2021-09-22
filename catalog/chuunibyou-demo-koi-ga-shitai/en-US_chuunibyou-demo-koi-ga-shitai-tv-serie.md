@@ -1,5 +1,7 @@
 # Chuunibyou demo Koi ga Shitai!
 
+![chuunibyou-demo-koi-ga-shitai](https://cdn.myanimelist.net/images/anime/12/46931.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 中二病でも恋がしたい!

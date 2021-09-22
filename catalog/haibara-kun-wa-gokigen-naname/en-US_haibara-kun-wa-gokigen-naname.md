@@ -1,5 +1,7 @@
 # Haibara-kun wa Gokigen Naname
 
+![haibara-kun-wa-gokigen-naname](https://cdn.myanimelist.net/images/manga/2/223569.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

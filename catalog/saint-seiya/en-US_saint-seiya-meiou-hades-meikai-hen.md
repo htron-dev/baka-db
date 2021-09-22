@@ -1,5 +1,7 @@
 # Saint Seiya: Meiou Hades Meikai-hen
 
+![saint-seiya-meiou-hades-meikai-hen](https://cdn.myanimelist.net/images/anime/12/75732.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 聖闘士星矢 冥王ハーデス冥界編

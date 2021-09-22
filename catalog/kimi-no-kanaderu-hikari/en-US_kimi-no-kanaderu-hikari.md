@@ -1,5 +1,7 @@
 # Kimi no Kanaderu Hikari
 
+![kimi-no-kanaderu-hikari](https://cdn.myanimelist.net/images/manga/1/96035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: きみの奏でる光

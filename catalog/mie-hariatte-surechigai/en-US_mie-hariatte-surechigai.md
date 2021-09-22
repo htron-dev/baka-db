@@ -1,5 +1,7 @@
 # Mie Hariatte Surechigai
 
+![mie-hariatte-surechigai](https://cdn.myanimelist.net/images/manga/1/155036.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

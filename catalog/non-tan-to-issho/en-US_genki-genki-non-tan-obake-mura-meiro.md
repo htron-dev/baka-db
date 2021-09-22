@@ -1,5 +1,7 @@
 # Genki Genki Non-tan: Obake Mura Meiro
 
+![genki-genki-non-tan-obake-mura-meiro](https://cdn.myanimelist.net/images/anime/1456/90421.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: げんきげんきノンタン　おばけむらめいろ

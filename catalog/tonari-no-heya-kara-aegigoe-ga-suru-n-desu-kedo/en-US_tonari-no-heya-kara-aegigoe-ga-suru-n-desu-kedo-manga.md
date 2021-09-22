@@ -1,5 +1,7 @@
 # Tonari no Heya kara Aegigoe ga Suru n desu kedo...
 
+![tonari-no-heya-kara-aegigoe-ga-suru-n-desu-kedo](https://cdn.myanimelist.net/images/manga/1/235885.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 35

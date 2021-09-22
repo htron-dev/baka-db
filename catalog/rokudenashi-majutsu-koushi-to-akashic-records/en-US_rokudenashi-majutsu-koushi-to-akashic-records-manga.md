@@ -1,5 +1,7 @@
 # Rokudenashi Majutsu Koushi to Akashic Records
 
+![rokudenashi-majutsu-koushi-to-akashic-records](https://cdn.myanimelist.net/images/manga/1/167611.jpg)
+
 -   **type**: manga
 -   **original-name**: ロクでなし魔術講師と禁忌教典〈アカシックレーコド〉
 -   **start-date**: 2015-03-26

@@ -1,5 +1,7 @@
 # Houkago Melancholy
 
+![houkago-melancholy](https://cdn.myanimelist.net/images/manga/2/220716.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

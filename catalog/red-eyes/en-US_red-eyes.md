@@ -1,5 +1,7 @@
 # Red Eyes
 
+![red-eyes](https://cdn.myanimelist.net/images/manga/3/168119.jpg)
+
 -   **type**: manga
 -   **original-name**: redEyes
 -   **start-date**: 1999-12-19

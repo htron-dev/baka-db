@@ -1,5 +1,7 @@
 # Slop Mansion ni Okaeri
 
+![slop-mansion-ni-okaeri](https://cdn.myanimelist.net/images/manga/3/193017.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

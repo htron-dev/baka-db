@@ -1,5 +1,7 @@
 # Kemono no Oukoku
 
+![kemono-no-oukoku](https://cdn.myanimelist.net/images/manga/3/42922.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

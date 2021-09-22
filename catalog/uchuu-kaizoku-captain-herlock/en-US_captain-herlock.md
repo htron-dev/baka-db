@@ -1,5 +1,7 @@
 # Captain Herlock
 
+![captain-herlock](https://cdn.myanimelist.net/images/anime/5/62619.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャプテンハーロック
@@ -28,4 +30,4 @@ One hundred years have passed, and the legendary Captain Herlock is still at lar
 -   [Official Site](http://harlock-movie.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9687)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15170)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Space_Pirate_Captain_Harlock_(film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Space_Pirate_Captain_Harlock_%28film%29)

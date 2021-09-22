@@ -1,5 +1,7 @@
 # Femme Fatale: Unmei no Onna
 
+![femme-fatale-unmei-no-onna](https://cdn.myanimelist.net/images/manga/2/100371.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

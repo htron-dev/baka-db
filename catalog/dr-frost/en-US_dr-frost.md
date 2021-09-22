@@ -1,5 +1,7 @@
 # Dr. Frost
 
+![dr-frost](https://cdn.myanimelist.net/images/manga/4/86765.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 닥터 프로스트
 -   **start-date**: 2011-02-02

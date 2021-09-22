@@ -1,5 +1,7 @@
 # Kyou ga Saigo no Hito da toshitemo
 
+![kyou-ga-saigo-no-hito-da-toshitemo](https://cdn.myanimelist.net/images/manga/3/185996.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

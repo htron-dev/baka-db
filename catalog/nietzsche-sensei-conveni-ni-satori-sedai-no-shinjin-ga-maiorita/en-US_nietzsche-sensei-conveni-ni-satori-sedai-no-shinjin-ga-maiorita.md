@@ -1,5 +1,7 @@
 # Nietzsche-sensei: Conveni ni, Satori Sedai no Shinjin ga Maiorita
 
+![nietzsche-sensei-conveni-ni-satori-sedai-no-shinjin-ga-maiorita](https://cdn.myanimelist.net/images/manga/3/115091.jpg)
+
 -   **type**: manga
 -   **original-name**: ニーチェ先生 ～コンビニに、さとり世代の新人が舞い降りた～
 -   **start-date**: 2013-08-12

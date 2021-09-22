@@ -1,5 +1,7 @@
 # Konna Ore ni Dare ga Shita!
 
+![konna-ore-ni-dare-ga-shita](https://cdn.myanimelist.net/images/manga/2/158256.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: こんな俺に誰がした!

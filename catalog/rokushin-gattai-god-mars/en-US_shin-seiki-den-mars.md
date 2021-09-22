@@ -1,5 +1,7 @@
 # Shin Seiki Den Mars
 
+![shin-seiki-den-mars](https://cdn.myanimelist.net/images/anime/1/1712.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 神世紀伝　マーズ

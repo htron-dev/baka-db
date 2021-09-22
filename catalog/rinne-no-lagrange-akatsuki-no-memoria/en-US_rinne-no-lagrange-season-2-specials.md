@@ -1,5 +1,7 @@
 # Rinne no Lagrange Season 2 Specials
 
+![rinne-no-lagrange-season-2-specials](https://cdn.myanimelist.net/images/anime/6/60967.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 輪廻のラグランジェ season 2 ピクチャードラマ

@@ -1,5 +1,7 @@
 # Kurenai
 
+![kurenai](https://cdn.myanimelist.net/images/manga/1/32483.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 紅

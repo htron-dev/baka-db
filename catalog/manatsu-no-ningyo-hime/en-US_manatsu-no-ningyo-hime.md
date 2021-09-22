@@ -1,5 +1,7 @@
 # Manatsu no Ningyo-hime
 
+![manatsu-no-ningyo-hime](https://cdn.myanimelist.net/images/manga/1/38361.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

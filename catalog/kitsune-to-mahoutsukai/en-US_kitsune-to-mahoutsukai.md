@@ -1,5 +1,7 @@
 # Kitsune to Mahoutsukai
 
+![kitsune-to-mahoutsukai](https://cdn.myanimelist.net/images/manga/2/30625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: きつねとまほうつかい

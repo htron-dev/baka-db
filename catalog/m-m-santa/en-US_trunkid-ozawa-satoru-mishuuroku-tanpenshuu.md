@@ -1,5 +1,7 @@
 # Trunkid: Ozawa Satoru Mishuuroku Tanpenshuu
 
+![trunkid-ozawa-satoru-mishuuroku-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/238844.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

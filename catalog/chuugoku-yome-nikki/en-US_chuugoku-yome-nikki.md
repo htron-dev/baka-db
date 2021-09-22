@@ -1,5 +1,7 @@
 # Chuugoku Yome Nikki
 
+![chuugoku-yome-nikki](https://cdn.myanimelist.net/images/manga/3/116387.jpg)
+
 -   **type**: manga
 -   **original-name**: 中国嫁日記
 

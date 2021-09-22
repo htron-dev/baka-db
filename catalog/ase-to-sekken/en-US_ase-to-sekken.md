@@ -1,5 +1,7 @@
 # Ase to Sekken
 
+![ase-to-sekken](https://cdn.myanimelist.net/images/manga/2/215276.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 104

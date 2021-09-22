@@ -1,5 +1,7 @@
 # Baby I Love You Daze
 
+![baby-i-love-you-daze](https://cdn.myanimelist.net/images/anime/1985/97357.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ベイビーアイラブユーだぜ

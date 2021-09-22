@@ -1,5 +1,7 @@
 # Shisen no Saki ni
 
+![shisen-no-saki-ni](https://cdn.myanimelist.net/images/manga/3/74283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

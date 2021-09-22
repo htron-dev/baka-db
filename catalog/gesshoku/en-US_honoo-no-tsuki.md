@@ -1,5 +1,7 @@
 # Honoo no Tsuki
 
+![honoo-no-tsuki](https://cdn.myanimelist.net/images/manga/1/38963.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 炎の月　ジェニー・シリーズ 11

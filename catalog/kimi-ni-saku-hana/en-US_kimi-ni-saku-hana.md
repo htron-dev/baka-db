@@ -1,5 +1,7 @@
 # Kimi ni Saku Hana
 
+![kimi-ni-saku-hana](https://cdn.myanimelist.net/images/manga/2/63045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

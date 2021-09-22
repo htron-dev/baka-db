@@ -1,5 +1,7 @@
 # Dirty Pair Strikes Again
 
+![dirty-pair-strikes-again](https://cdn.myanimelist.net/images/manga/1/32532.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ダーティペアの大逆転

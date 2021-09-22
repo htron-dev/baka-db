@@ -1,5 +1,7 @@
 # Boruto: Naruto the Movie
 
+![boruto-naruto-the-movie](https://cdn.myanimelist.net/images/manga/1/164766.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

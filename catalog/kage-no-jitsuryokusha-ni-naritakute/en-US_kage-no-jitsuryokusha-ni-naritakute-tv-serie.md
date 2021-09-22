@@ -1,5 +1,7 @@
 # Kage no Jitsuryokusha ni Naritakute!
 
+![kage-no-jitsuryokusha-ni-naritakute](https://cdn.myanimelist.net/images/anime/1084/117313.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 陰の実力者になりたくて！
 -   **rating**: None

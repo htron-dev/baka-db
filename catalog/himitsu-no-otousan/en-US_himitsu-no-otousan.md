@@ -1,5 +1,7 @@
 # Himitsu no Otousan
 
+![himitsu-no-otousan](https://cdn.myanimelist.net/images/manga/2/21152.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

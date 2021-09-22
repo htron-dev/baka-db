@@ -1,5 +1,7 @@
 # Magical Nyan Nyan Taruto
 
+![magical-nyan-nyan-taruto](https://cdn.myanimelist.net/images/anime/1/952.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法少女猫[まじかる にゃん にゃん]たると

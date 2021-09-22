@@ -1,5 +1,7 @@
 # Seijo no Kaifuku Mahou ga Dou Mitemo Ore no Rekkaban na Ken ni Tsuite.
 
+![seijo-no-kaifuku-mahou-ga-dou-mitemo-ore-no-rekkaban-na-ken-ni-tsuite](https://cdn.myanimelist.net/images/manga/3/178492.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 聖女の回復魔法がどう見ても俺の劣化版な件について。
 -   **start-date**: 2016-06-25

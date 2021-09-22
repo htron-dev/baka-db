@@ -1,5 +1,7 @@
 # Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu
 
+![fairy-ranmaru-anata-no-kokoro-otasuke-shimasu](https://cdn.myanimelist.net/images/anime/1476/114026.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Fairy 蘭丸~あなたの心お助けします~

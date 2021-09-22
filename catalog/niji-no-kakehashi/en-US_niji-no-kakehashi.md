@@ -1,5 +1,7 @@
 # Niji no Kakehashi
 
+![niji-no-kakehashi](https://cdn.myanimelist.net/images/anime/1031/109820.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 虹のかけ橋

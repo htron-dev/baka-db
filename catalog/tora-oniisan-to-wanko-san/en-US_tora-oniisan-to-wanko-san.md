@@ -1,5 +1,7 @@
 # Tora Oniisan to Wanko-san
 
+![tora-oniisan-to-wanko-san](https://cdn.myanimelist.net/images/manga/2/87481.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トラ兄さんとワンコさん

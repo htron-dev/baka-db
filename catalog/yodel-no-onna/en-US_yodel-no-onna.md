@@ -1,5 +1,7 @@
 # Yodel no Onna
 
+![yodel-no-onna](https://cdn.myanimelist.net/images/anime/11/87843.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: ヨーデルの女

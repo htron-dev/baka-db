@@ -1,5 +1,7 @@
 # One Piece: Romance Dawn Story
 
+![one-piece-romance-dawn-story](https://cdn.myanimelist.net/images/anime/6/11300.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ワンピース ロマンスドーンストーリー

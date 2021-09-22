@@ -1,5 +1,7 @@
 # Mobile Suit Gundam II: Soldiers of Sorrow
 
+![mobile-suit-gundam-ii-soldiers-of-sorrow](https://cdn.myanimelist.net/images/anime/4/75773.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム Ⅱ 　哀・戦士編

@@ -1,5 +1,7 @@
 # Atashi no!
 
+![atashi-no](https://cdn.myanimelist.net/images/manga/2/206062.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

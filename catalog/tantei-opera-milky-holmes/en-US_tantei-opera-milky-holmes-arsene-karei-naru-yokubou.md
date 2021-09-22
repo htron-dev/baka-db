@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes: Arsene Karei naru Yokubou
 
+![tantei-opera-milky-holmes-arsene-karei-naru-yokubou](https://cdn.myanimelist.net/images/anime/11/89382.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 探偵オペラミルキィホームズ アルセーヌ 華麗なる欲望

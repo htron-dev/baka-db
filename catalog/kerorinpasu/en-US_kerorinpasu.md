@@ -1,5 +1,7 @@
 # Kerorinpasu
 
+![kerorinpasu](https://cdn.myanimelist.net/images/anime/6/77493.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ケロリンパス

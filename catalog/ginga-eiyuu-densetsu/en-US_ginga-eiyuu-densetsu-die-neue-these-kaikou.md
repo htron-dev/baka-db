@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu: Die Neue These - Kaikou
 
+![ginga-eiyuu-densetsu-die-neue-these-kaikou](https://cdn.myanimelist.net/images/anime/1104/91793.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 銀河英雄伝説 Die Neue These 邂逅

@@ -1,5 +1,7 @@
 # Noroware Yuusha to Hoshibami no Drakaina
 
+![noroware-yuusha-to-hoshibami-no-drakaina](https://cdn.myanimelist.net/images/manga/2/164032.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 呪われ勇者と星蝕みの竜姫〈ドラグニーナ〉

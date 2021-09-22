@@ -1,5 +1,7 @@
 # Ai to Mogumogu
 
+![ai-to-mogumogu](https://cdn.myanimelist.net/images/manga/3/211853.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

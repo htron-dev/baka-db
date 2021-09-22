@@ -1,5 +1,7 @@
 # 37°C
 
+![37-c](https://cdn.myanimelist.net/images/manga/3/171931.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

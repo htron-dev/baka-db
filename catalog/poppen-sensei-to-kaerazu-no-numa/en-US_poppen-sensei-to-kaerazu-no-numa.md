@@ -1,5 +1,7 @@
 # Poppen-sensei to Kaerazu no Numa
 
+![poppen-sensei-to-kaerazu-no-numa](https://cdn.myanimelist.net/images/anime/10/72657.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぽっぺん先生と帰らずの沼

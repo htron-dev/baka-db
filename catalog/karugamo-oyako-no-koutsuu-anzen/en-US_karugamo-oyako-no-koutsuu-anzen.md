@@ -1,5 +1,7 @@
 # Karugamo Oyako no Koutsuu Anzen
 
+![karugamo-oyako-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/13/84780.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カルガモ親子の交通安全

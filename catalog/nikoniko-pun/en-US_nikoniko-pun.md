@@ -1,5 +1,7 @@
 # Nikoniko, Pun
 
+![nikoniko-pun](https://cdn.myanimelist.net/images/anime/9/64121.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: にこにこ、ぷん

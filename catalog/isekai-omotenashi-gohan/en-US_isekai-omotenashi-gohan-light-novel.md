@@ -1,5 +1,7 @@
 # Isekai Omotenashi Gohan
 
+![isekai-omotenashi-gohan](https://cdn.myanimelist.net/images/manga/2/202887.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界おもてなしご飯
 -   **start-date**: 2017-09-08

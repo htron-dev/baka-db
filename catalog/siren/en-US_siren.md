@@ -1,5 +1,7 @@
 # Siren
 
+![siren](https://cdn.myanimelist.net/images/manga/3/126153.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 74

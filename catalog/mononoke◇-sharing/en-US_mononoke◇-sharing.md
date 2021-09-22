@@ -1,5 +1,7 @@
 # Mononoke◇Sharing
 
+![mononoke◇-sharing](https://cdn.myanimelist.net/images/manga/1/165503.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

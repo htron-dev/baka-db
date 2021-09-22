@@ -1,5 +1,7 @@
 # Murabito Tensei: Saikyou no Slow Life
 
+![murabito-tensei-saikyou-no-slow-life](https://cdn.myanimelist.net/images/manga/1/212211.jpg)
+
 -   **type**: manga
 -   **original-name**: 村人転生 最強のスローライフ
 -   **start-date**: 2017-09-26

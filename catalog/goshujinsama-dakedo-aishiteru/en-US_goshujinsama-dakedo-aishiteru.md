@@ -1,5 +1,7 @@
 # Goshujinsama, dakedo Aishiteru
 
+![goshujinsama-dakedo-aishiteru](https://cdn.myanimelist.net/images/manga/3/193511.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

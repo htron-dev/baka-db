@@ -1,5 +1,7 @@
 # Ultimate Gachinko: Ishu Kakutougi Oudensetsu
 
+![ultimate-gachinko-ishu-kakutougi-oudensetsu](https://cdn.myanimelist.net/images/manga/1/20250.jpg)
+
 -   **type**: manga
 -   **original-name**: アルティメットガチンコ
 

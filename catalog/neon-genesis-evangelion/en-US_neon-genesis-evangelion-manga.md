@@ -1,5 +1,7 @@
 # Neon Genesis Evangelion
 
+![neon-genesis-evangelion](https://cdn.myanimelist.net/images/manga/1/145061.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 97

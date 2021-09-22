@@ -1,5 +1,7 @@
 # Teni Muhou: Musashibou Benkei
 
+![teni-muhou-musashibou-benkei](https://cdn.myanimelist.net/images/manga/3/202109.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 50

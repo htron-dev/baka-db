@@ -1,5 +1,7 @@
 # Vampire Miyu: Saku
 
+![vampire-miyu-saku](https://cdn.myanimelist.net/images/manga/3/210486.jpg)
+
 -   **type**: manga
 -   **original-name**: 吸血姫美夕 朔
 -   **start-date**: 2017-12-05

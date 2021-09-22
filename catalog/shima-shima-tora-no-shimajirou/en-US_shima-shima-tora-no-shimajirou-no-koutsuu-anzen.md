@@ -1,5 +1,7 @@
 # Shima Shima Tora no Shimajirou no Koutsuu Anzen
 
+![shima-shima-tora-no-shimajirou-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1419/98678.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: しましまとらのしまじろうの交通安全

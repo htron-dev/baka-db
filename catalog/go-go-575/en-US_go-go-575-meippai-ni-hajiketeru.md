@@ -1,5 +1,7 @@
 # Go! Go! 575: Meippai ni, Hajiketeru?
 
+![go-go-575-meippai-ni-hajiketeru](https://cdn.myanimelist.net/images/anime/11/68433.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: GO! GO! 575 「めいっぱいに、はじけてる？」

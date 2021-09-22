@@ -1,5 +1,7 @@
 # Wangan Midnight
 
+![wangan-midnight](https://cdn.myanimelist.net/images/manga/2/213693.jpg)
+
 -   **type**: manga
 -   **volumes**: 42
 -   **original-name**: 湾岸ミッドナイト

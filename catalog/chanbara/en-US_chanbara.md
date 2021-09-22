@@ -1,5 +1,7 @@
 # Chanbara
 
+![chanbara](https://cdn.myanimelist.net/images/manga/2/66195.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: チャンバラ 一撃小僧隼十

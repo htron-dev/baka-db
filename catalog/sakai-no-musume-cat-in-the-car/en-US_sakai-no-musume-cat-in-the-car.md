@@ -1,5 +1,7 @@
 # Sakai no Musume: Cat in the Car
 
+![sakai-no-musume-cat-in-the-car](https://cdn.myanimelist.net/images/manga/2/164074.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 砂海の娘 -CAT IN THE CAR-

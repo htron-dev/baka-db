@@ -1,5 +1,7 @@
 # Kouen no Asuka
 
+![kouen-no-asuka](https://cdn.myanimelist.net/images/manga/2/123649.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

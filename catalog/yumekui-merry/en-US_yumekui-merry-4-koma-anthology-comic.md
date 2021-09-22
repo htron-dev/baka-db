@@ -1,5 +1,7 @@
 # Yumekui Merry 4-koma Anthology Comic
 
+![yumekui-merry-4-koma-anthology-comic](https://cdn.myanimelist.net/images/manga/3/159077.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 夢喰いメリー 4 コマアンソロジーコミック

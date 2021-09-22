@@ -1,5 +1,7 @@
 # Uta no☆Prince-sama♪: Maji Love Revolutions
 
+![uta-no☆-prince-sama♪-maji-love-revolutions](https://cdn.myanimelist.net/images/anime/2/73328.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うたの ☆ プリンスさまっ ♪ マジ LOVE レボリューションズ

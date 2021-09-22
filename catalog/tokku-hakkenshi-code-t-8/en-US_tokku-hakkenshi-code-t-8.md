@@ -1,5 +1,7 @@
 # Tokku Hakkenshi [code:T-8]
 
+![tokku-hakkenshi-code-t-8](https://cdn.myanimelist.net/images/manga/1/159059.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 80

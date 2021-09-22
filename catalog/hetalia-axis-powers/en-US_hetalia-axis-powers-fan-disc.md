@@ -1,5 +1,7 @@
 # Hetalia Axis Powers Fan Disc
 
+![hetalia-axis-powers-fan-disc](https://cdn.myanimelist.net/images/anime/7/27300.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヘタリア Axis Powers ファンディスク

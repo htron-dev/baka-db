@@ -1,5 +1,7 @@
 # Black Kigyou no Shain ga Neko ni Natte Jinsei ga Kawatta Hanashi
 
+![black-kigyou-no-shain-ga-neko-ni-natte-jinsei-ga-kawatta-hanashi](https://cdn.myanimelist.net/images/manga/1/242995.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

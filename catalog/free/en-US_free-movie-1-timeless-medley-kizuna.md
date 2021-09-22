@@ -1,5 +1,7 @@
 # Free! Movie 1: Timeless Medley - Kizuna
 
+![free-movie-1-timeless-medley-kizuna](https://cdn.myanimelist.net/images/anime/5/87930.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 Free!-Timeless Medley- 絆

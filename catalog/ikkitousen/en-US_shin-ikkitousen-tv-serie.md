@@ -1,5 +1,7 @@
 # Shin Ikkitousen
 
+![shin-ikkitousen](https://cdn.myanimelist.net/images/anime/1677/116286.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 真・一騎当千
 -   **rating**: R+ - Mild Nudity

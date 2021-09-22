@@ -1,5 +1,7 @@
 # Hayabusa: Sanada Dengekichou
 
+![hayabusa-sanada-dengekichou](https://cdn.myanimelist.net/images/manga/3/42193.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

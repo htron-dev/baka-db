@@ -1,5 +1,7 @@
 # Submarine 707R
 
+![submarine-707-r](https://cdn.myanimelist.net/images/anime/5/24891.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: サブマリン 707R

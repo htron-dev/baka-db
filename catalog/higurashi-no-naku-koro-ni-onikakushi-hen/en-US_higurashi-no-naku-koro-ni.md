@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni
 
+![higurashi-no-naku-koro-ni](https://cdn.myanimelist.net/images/anime/12/19634.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ひぐらしのなく頃に

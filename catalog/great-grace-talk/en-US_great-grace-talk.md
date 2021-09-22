@@ -1,5 +1,7 @@
 # Great Grace Talk!
 
+![great-grace-talk](https://cdn.myanimelist.net/images/manga/2/18394.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ginga Sengoku Gunyuuden Rai
 
+![ginga-sengoku-gunyuuden-rai](https://cdn.myanimelist.net/images/anime/6/30829.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 銀河戦国群雄伝ライ

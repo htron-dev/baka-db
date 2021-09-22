@@ -1,5 +1,7 @@
 # Maetel Legend
 
+![maetel-legend](https://cdn.myanimelist.net/images/anime/1/2396.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: メーテルレジェンド

@@ -1,5 +1,7 @@
 # Hataage! Kemono Michi
 
+![hataage-kemono-michi](https://cdn.myanimelist.net/images/anime/1736/103512.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 旗揚! けものみち

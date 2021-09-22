@@ -1,5 +1,7 @@
 # Kai to Kaijuu no Tane
 
+![kai-to-kaijuu-no-tane](https://cdn.myanimelist.net/images/manga/3/213051.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai: Utsutsukowashi-hen
 
+![higurashi-no-naku-koro-ni-kai-utsutsukowashi-hen](https://cdn.myanimelist.net/images/manga/2/116527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

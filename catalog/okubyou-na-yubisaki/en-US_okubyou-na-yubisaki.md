@@ -1,5 +1,7 @@
 # Okubyou na Yubisaki
 
+![okubyou-na-yubisaki](https://cdn.myanimelist.net/images/manga/3/207752.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

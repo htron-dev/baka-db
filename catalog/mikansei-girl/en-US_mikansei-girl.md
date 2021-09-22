@@ -1,5 +1,7 @@
 # Mikansei Girl
 
+![mikansei-girl](https://cdn.myanimelist.net/images/manga/1/151724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # A Love in 100 Days
 
+![a-love-in-100-days](https://cdn.myanimelist.net/images/manga/2/18737.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 -   **original-name**: 100일 사랑

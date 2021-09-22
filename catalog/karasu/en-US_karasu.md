@@ -1,5 +1,7 @@
 # Karasu
 
+![karasu](https://cdn.myanimelist.net/images/manga/2/64747.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 鴉

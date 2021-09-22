@@ -1,5 +1,7 @@
 # NEET Onna to Shougaku Ninensei
 
+![neet-onna-to-shougaku-ninensei](https://cdn.myanimelist.net/images/manga/2/63909.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

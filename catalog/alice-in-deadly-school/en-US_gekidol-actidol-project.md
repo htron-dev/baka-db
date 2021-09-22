@@ -1,5 +1,7 @@
 # Gekidol: Actidol Project
 
+![gekidol-actidol-project](https://cdn.myanimelist.net/images/anime/1195/111544.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゲキドル

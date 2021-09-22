@@ -1,5 +1,7 @@
 # Boku no Kawaii Hito Dakara
 
+![boku-no-kawaii-hito-dakara](https://cdn.myanimelist.net/images/manga/1/3425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

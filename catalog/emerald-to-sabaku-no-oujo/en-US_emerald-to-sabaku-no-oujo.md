@@ -1,5 +1,7 @@
 # Emerald to Sabaku no Oujo
 
+![emerald-to-sabaku-no-oujo](https://cdn.myanimelist.net/images/manga/1/196427.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: エメラルドと砂漠の王女

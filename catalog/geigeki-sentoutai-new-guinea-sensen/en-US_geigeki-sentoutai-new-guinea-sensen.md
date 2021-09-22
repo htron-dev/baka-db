@@ -1,5 +1,7 @@
 # Geigeki Sentoutai: New Guinea Sensen
 
+![geigeki-sentoutai-new-guinea-sensen](https://cdn.myanimelist.net/images/manga/2/231048.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 迎撃戦闘隊 ニューギニア戦線

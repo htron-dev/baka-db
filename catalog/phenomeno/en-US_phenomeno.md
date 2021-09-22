@@ -1,5 +1,7 @@
 # Phenomeno
 
+![phenomeno](https://cdn.myanimelist.net/images/manga/3/80101.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 25

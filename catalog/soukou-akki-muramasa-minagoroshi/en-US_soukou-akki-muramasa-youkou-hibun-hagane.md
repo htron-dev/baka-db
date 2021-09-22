@@ -1,5 +1,7 @@
 # Soukou Akki Muramasa: Youkou Hibun Hagane
 
+![soukou-akki-muramasa-youkou-hibun-hagane](https://cdn.myanimelist.net/images/manga/2/157046.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 装甲悪鬼村正 妖甲秘聞 鋼

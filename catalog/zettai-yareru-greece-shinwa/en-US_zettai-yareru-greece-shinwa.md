@@ -1,5 +1,7 @@
 # Zettai Yareru Greece Shinwa
 
+![zettai-yareru-greece-shinwa](https://cdn.myanimelist.net/images/anime/3/53619.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 絶対やれるギリシャ神話

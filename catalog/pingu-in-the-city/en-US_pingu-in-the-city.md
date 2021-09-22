@@ -1,5 +1,7 @@
 # Pingu in the City
 
+![pingu-in-the-city](https://cdn.myanimelist.net/images/anime/1140/95174.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ピングー in ザ・シティ
@@ -12,7 +14,6 @@
 ## Tags
 
 -   comedy
-
 -   slice-of-life
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Shin Sangoku Shimai
 
+![shin-sangoku-shimai](https://cdn.myanimelist.net/images/manga/2/232361.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 32

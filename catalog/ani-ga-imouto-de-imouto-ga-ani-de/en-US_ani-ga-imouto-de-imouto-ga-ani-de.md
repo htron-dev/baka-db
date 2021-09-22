@@ -1,5 +1,7 @@
 # Ani ga Imouto de Imouto ga Ani de.
 
+![ani-ga-imouto-de-imouto-ga-ani-de](https://cdn.myanimelist.net/images/manga/2/102693.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 29

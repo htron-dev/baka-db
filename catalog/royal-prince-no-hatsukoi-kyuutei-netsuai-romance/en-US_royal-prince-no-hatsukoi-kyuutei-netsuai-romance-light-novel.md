@@ -1,5 +1,7 @@
 # Royal Prince no Hatsukoi: Kyuutei Netsuai Romance
 
+![royal-prince-no-hatsukoi-kyuutei-netsuai-romance](https://cdn.myanimelist.net/images/manga/1/182728.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

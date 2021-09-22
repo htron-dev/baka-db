@@ -1,5 +1,7 @@
 # Pan to Boku no Momo-chan
 
+![pan-to-boku-no-momo-chan](https://cdn.myanimelist.net/images/manga/1/223493.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

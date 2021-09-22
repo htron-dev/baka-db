@@ -1,5 +1,7 @@
 # Shin Kimagure Orange Road
 
+![shin-kimagure-orange-road](https://cdn.myanimelist.net/images/manga/2/79771.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 新きまぐれオレンジ ☆ ロード

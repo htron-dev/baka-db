@@ -1,5 +1,7 @@
 # Anime Tenchou
 
+![anime-tenchou](https://cdn.myanimelist.net/images/manga/3/5357.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: アニメ店長

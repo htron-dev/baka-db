@@ -1,5 +1,7 @@
 # Cutting
 
+![cutting](https://cdn.myanimelist.net/images/manga/1/128939.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 31

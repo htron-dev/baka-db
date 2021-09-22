@@ -1,5 +1,7 @@
 # Fuuma no Kojirou: Yasha-hen
 
+![fuuma-no-kojirou-yasha-hen](https://cdn.myanimelist.net/images/anime/10/30871.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 風魔の小次郎 夜叉篇

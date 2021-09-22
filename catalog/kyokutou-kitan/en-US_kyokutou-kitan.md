@@ -1,5 +1,7 @@
 # Kyokutou Kitan
 
+![kyokutou-kitan](https://cdn.myanimelist.net/images/manga/1/67309.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

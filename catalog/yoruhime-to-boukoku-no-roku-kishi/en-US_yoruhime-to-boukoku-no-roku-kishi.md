@@ -1,5 +1,7 @@
 # Yoruhime to Boukoku no Roku Kishi
 
+![yoruhime-to-boukoku-no-roku-kishi](https://cdn.myanimelist.net/images/manga/1/161098.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 36

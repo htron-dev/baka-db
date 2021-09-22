@@ -1,5 +1,7 @@
 # Ginyuu Mokushiroku Meine Liebe Wieder
 
+![ginyuu-mokushiroku-meine-liebe-wieder](https://cdn.myanimelist.net/images/anime/5/75548.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 吟遊黙示録マイネリーベ ヴィーダー

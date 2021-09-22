@@ -1,5 +1,7 @@
 # Shiawase no Katachi
 
+![shiawase-no-katachi](https://cdn.myanimelist.net/images/manga/1/166827.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 228

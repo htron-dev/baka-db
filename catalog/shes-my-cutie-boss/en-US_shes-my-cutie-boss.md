@@ -1,5 +1,7 @@
 # She's My Cutie Boss!
 
+![shes-my-cutie-boss](https://cdn.myanimelist.net/images/manga/3/16900.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 僕のかわいい上司さま

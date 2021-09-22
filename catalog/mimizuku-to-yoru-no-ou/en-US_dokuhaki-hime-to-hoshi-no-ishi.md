@@ -1,5 +1,7 @@
 # Dokuhaki Hime to Hoshi no Ishi
 
+![dokuhaki-hime-to-hoshi-no-ishi](https://cdn.myanimelist.net/images/manga/2/120515.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

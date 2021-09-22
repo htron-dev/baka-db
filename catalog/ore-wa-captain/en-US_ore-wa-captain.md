@@ -1,5 +1,7 @@
 # Ore wa Captain
 
+![ore-wa-captain](https://cdn.myanimelist.net/images/manga/3/122527.jpg)
+
 -   **type**: manga
 -   **volumes**: 35
 -   **chapters**: 140

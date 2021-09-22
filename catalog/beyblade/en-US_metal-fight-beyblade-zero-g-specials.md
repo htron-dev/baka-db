@@ -1,5 +1,7 @@
 # Metal Fight Beyblade Zero G Specials
 
+![metal-fight-beyblade-zero-g-specials](https://cdn.myanimelist.net/images/anime/7/56677.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: メタルファイト ベイブレード ZEROG

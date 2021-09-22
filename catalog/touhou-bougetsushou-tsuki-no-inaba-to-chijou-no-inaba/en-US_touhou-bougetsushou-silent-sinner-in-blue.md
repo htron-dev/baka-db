@@ -1,5 +1,7 @@
 # Touhou Bougetsushou: Silent Sinner in Blue.
 
+![touhou-bougetsushou-silent-sinner-in-blue](https://cdn.myanimelist.net/images/manga/5/16299.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

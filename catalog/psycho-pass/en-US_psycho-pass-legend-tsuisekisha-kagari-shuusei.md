@@ -1,5 +1,7 @@
 # Psycho-Pass Legend: Tsuisekisha Kagari Shuusei
 
+![psycho-pass-legend-tsuisekisha-kagari-shuusei](https://cdn.myanimelist.net/images/manga/1/140943.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

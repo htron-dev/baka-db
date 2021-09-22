@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni Specials
 
+![umineko-no-naku-koro-ni-specials](https://cdn.myanimelist.net/images/anime/10/18234.jpg)
+
 -   **type**: special
 -   **episodes**: 26
 -   **original-name**: うみねこのなく頃に

@@ -1,5 +1,7 @@
 # Babel Nisei
 
+![babel-nisei](https://cdn.myanimelist.net/images/manga/5/179686.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 63

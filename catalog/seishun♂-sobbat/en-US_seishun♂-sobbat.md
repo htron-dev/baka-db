@@ -1,5 +1,7 @@
 # Seishun♂Sobbat
 
+![seishun♂-sobbat](https://cdn.myanimelist.net/images/manga/2/167531.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

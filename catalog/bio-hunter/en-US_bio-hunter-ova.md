@@ -1,5 +1,7 @@
 # Bio Hunter
 
+![bio-hunter](https://cdn.myanimelist.net/images/anime/11/17896.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バイオ・ハンター

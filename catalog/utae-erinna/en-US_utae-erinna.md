@@ -1,5 +1,7 @@
 # Utae! Erinna
 
+![utae-erinna](https://cdn.myanimelist.net/images/manga/2/221464.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

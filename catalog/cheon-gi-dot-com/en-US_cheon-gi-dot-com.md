@@ -1,5 +1,7 @@
 # Cheon Gi dot com
 
+![cheon-gi-dot-com](https://cdn.myanimelist.net/images/manga/1/10555.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 

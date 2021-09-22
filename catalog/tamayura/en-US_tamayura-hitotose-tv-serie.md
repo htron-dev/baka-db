@@ -1,5 +1,7 @@
 # Tamayura: Hitotose
 
+![tamayura-hitotose](https://cdn.myanimelist.net/images/anime/13/45368.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: たまゆら～ hitotose ～

@@ -1,5 +1,7 @@
 # Suzuki-san wa Tada Shizuka ni Kurashitai
 
+![suzuki-san-wa-tada-shizuka-ni-kurashitai](https://cdn.myanimelist.net/images/manga/2/167470.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

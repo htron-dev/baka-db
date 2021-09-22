@@ -1,5 +1,7 @@
 # Anata ni Sasageru Akai Bara
 
+![anata-ni-sasageru-akai-bara](https://cdn.myanimelist.net/images/manga/2/217234.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: あなたに捧げる赤い薔薇

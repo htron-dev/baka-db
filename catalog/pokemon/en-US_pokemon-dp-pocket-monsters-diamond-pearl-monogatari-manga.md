@@ -1,5 +1,7 @@
 # Pokémon DP: Pocket Monsters Diamond Pearl Monogatari
 
+![pokemon-dp-pocket-monsters-diamond-pearl-monogatari](https://cdn.myanimelist.net/images/manga/3/118031.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 37

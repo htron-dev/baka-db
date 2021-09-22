@@ -1,5 +1,7 @@
 # Nonnonbaa to Ore
 
+![nonnonbaa-to-ore](https://cdn.myanimelist.net/images/manga/1/185712.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

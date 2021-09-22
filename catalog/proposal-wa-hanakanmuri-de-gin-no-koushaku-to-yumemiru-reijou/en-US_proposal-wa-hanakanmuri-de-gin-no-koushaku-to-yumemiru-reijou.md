@@ -1,5 +1,7 @@
 # Proposal wa Hanakanmuri de: Gin no Koushaku to Yumemiru Reijou
 
+![proposal-wa-hanakanmuri-de-gin-no-koushaku-to-yumemiru-reijou](https://cdn.myanimelist.net/images/manga/1/184121.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

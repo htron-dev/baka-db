@@ -1,5 +1,7 @@
 # Nyanpara no Nakama-tachi
 
+![nyanpara-no-nakama-tachi](https://cdn.myanimelist.net/images/anime/12/87714.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ニャンパラの仲間たち

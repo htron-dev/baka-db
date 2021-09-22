@@ -1,5 +1,7 @@
 # Himitsu Kichi
 
+![himitsu-kichi](https://cdn.myanimelist.net/images/manga/1/5092.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

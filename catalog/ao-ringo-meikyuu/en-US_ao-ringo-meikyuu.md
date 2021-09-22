@@ -1,5 +1,7 @@
 # Ao Ringo Meikyuu
 
+![ao-ringo-meikyuu](https://cdn.myanimelist.net/images/manga/3/13141.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 青りんご迷宮

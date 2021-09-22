@@ -1,5 +1,7 @@
 # Mahouhime no Kekkon: Honoo no Ou to Amethyst no Hanayome
 
+![mahouhime-no-kekkon-honoo-no-ou-to-amethyst-no-hanayome](https://cdn.myanimelist.net/images/manga/1/182118.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

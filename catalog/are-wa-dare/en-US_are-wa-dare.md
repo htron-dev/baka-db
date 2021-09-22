@@ -1,5 +1,7 @@
 # Are wa Dare?
 
+![are-wa-dare](https://cdn.myanimelist.net/images/anime/9/71578.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あれはだれ?

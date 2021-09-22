@@ -1,5 +1,7 @@
 # Tenjou no Shita ni Koi
 
+![tenjou-no-shita-ni-koi](https://cdn.myanimelist.net/images/manga/3/221609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

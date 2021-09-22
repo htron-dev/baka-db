@@ -1,5 +1,7 @@
 # Điện Biên Phủ
 
+![diện-bien-phủ](https://cdn.myanimelist.net/images/manga/3/176816.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 73

@@ -1,5 +1,7 @@
 # Rengoku Hime
 
+![rengoku-hime](https://cdn.myanimelist.net/images/manga/2/155825.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 60

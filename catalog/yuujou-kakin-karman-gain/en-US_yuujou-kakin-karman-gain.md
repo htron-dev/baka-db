@@ -1,5 +1,7 @@
 # Yuujou Kakin Karman Gain
 
+![yuujou-kakin-karman-gain](https://cdn.myanimelist.net/images/manga/1/115685.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

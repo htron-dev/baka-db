@@ -1,5 +1,7 @@
 # Shiroi Veil wa Itsuwari no Iro
 
+![shiroi-veil-wa-itsuwari-no-iro](https://cdn.myanimelist.net/images/manga/3/57693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 白いベールは偽りの色

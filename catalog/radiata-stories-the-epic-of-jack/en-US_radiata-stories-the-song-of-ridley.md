@@ -1,5 +1,7 @@
 # Radiata Stories: The Song of Ridley
 
+![radiata-stories-the-song-of-ridley](https://cdn.myanimelist.net/images/manga/2/37234.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

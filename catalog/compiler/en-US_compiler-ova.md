@@ -1,5 +1,7 @@
 # Compiler
 
+![compiler](https://cdn.myanimelist.net/images/anime/1989/94225.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: COMPILER

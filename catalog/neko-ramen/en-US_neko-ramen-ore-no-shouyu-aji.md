@@ -1,5 +1,7 @@
 # Neko Ramen: Ore no Shouyu Aji
 
+![neko-ramen-ore-no-shouyu-aji](https://cdn.myanimelist.net/images/anime/13/72681.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 猫ラーメン　～俺の醤油味～

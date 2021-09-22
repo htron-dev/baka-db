@@ -1,5 +1,7 @@
 # Blue Sky Complex
 
+![blue-sky-complex](https://cdn.myanimelist.net/images/manga/2/141127.jpg)
+
 -   **type**: manga
 -   **original-name**: ブルースカイコンプレックス
 -   **start-date**: 2013-09-25

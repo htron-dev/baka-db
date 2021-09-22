@@ -1,5 +1,7 @@
 # K.O.K: King of Kuzu
 
+![k-o-k-king-of-kuzu](https://cdn.myanimelist.net/images/manga/2/193972.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

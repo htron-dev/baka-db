@@ -1,5 +1,7 @@
 # Douchuushi
 
+![douchuushi](https://cdn.myanimelist.net/images/manga/3/190076.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 11

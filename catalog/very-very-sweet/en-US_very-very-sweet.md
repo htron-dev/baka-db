@@ -1,5 +1,7 @@
 # Very! Very! Sweet
 
+![very-very-sweet](https://cdn.myanimelist.net/images/manga/3/6649.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 40

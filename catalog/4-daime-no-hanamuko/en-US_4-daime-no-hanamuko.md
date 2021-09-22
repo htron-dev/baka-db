@@ -1,5 +1,7 @@
 # 4-daime no Hanamuko
 
+![4-daime-no-hanamuko](https://cdn.myanimelist.net/images/manga/1/204605.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

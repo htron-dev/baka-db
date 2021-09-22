@@ -1,5 +1,7 @@
 # The SoulTaker: Tamashii-gari - Komugi Daisakusen
 
+![the-soul-taker-tamashii-gari-komugi-daisakusen](https://cdn.myanimelist.net/images/anime/7/6871.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: The SoulTaker 〜魂狩〜 小麦大作戦

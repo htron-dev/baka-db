@@ -1,5 +1,7 @@
 # Matsurowanu Mono: Oni no Wataru Furumichi
 
+![matsurowanu-mono-oni-no-wataru-furumichi](https://cdn.myanimelist.net/images/manga/2/134981.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 52

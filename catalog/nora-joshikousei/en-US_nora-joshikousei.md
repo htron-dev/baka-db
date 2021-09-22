@@ -1,5 +1,7 @@
 # Nora Joshikousei
 
+![nora-joshikousei](https://cdn.myanimelist.net/images/manga/1/170297.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

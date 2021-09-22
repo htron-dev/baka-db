@@ -1,5 +1,7 @@
 # Houma Hunter Lime
 
+![houma-hunter-lime](https://cdn.myanimelist.net/images/anime/1936/93963.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 宝魔ハンターライム

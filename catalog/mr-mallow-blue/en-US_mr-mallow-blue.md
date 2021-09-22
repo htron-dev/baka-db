@@ -1,5 +1,7 @@
 # Mr. Mallow Blue
 
+![mr-mallow-blue](https://cdn.myanimelist.net/images/manga/3/238180.jpg)
+
 -   **type**: manga
 -   **original-name**: Mr.マロウブルー
 -   **start-date**: 2019-11-22

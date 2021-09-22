@@ -1,5 +1,7 @@
 # Otona Keikenchi
 
+![otona-keikenchi](https://cdn.myanimelist.net/images/manga/1/15851.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

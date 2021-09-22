@@ -1,5 +1,7 @@
 # Danouryoku JK Narumogawa-san
 
+![danouryoku-jk-narumogawa-san](https://cdn.myanimelist.net/images/manga/1/182417.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

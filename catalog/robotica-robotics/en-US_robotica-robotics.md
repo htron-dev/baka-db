@@ -1,5 +1,7 @@
 # Robotica\*Robotics
 
+![robotica-robotics](https://cdn.myanimelist.net/images/anime/7/89081.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ロボティカ＊ロボティクス

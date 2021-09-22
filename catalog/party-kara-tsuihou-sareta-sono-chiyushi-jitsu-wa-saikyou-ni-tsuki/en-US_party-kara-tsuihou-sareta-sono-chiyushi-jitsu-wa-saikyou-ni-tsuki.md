@@ -1,5 +1,7 @@
 # Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
 
+![party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki](https://cdn.myanimelist.net/images/manga/1/238371.jpg)
+
 -   **type**: manga
 -   **original-name**: パーティーから追放されたその治癒師、実は最強につき
 -   **start-date**: 2020-02-28

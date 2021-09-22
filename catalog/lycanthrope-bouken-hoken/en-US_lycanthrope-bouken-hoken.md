@@ -1,5 +1,7 @@
 # Lycanthrope Bouken Hoken
 
+![lycanthrope-bouken-hoken](https://cdn.myanimelist.net/images/manga/3/195988.jpg)
+
 -   **type**: manga
 -   **original-name**: ライカンスロープ冒険保険
 -   **start-date**: 2016-10-27

@@ -1,5 +1,7 @@
 # Tokyo Shitamachi Yuyabanashi
 
+![tokyo-shitamachi-yuyabanashi](https://cdn.myanimelist.net/images/manga/1/217300.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 東京下町湯屋話

@@ -1,5 +1,7 @@
 # Mujihi na Ou ga Kanadeshi wa Toraware no Utahime
 
+![mujihi-na-ou-ga-kanadeshi-wa-toraware-no-utahime](https://cdn.myanimelist.net/images/manga/1/181238.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

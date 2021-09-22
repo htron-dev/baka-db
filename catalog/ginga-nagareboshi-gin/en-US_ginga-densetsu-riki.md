@@ -1,5 +1,7 @@
 # Ginga Densetsu Riki
 
+![ginga-densetsu-riki](https://cdn.myanimelist.net/images/manga/3/229456.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

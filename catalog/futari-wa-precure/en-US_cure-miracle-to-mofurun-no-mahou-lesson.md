@@ -1,5 +1,7 @@
 # Cure Miracle to Mofurun no Mahou Lesson
 
+![cure-miracle-to-mofurun-no-mahou-lesson](https://cdn.myanimelist.net/images/anime/4/80943.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キュアミラクルとモフルンの魔法レッスン

@@ -1,5 +1,7 @@
 # Furimukuna Kimi wa
 
+![furimukuna-kimi-wa](https://cdn.myanimelist.net/images/manga/2/196952.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

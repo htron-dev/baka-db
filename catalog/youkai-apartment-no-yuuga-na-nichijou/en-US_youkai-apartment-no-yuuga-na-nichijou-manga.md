@@ -1,5 +1,7 @@
 # Youkai Apartment no Yuuga na Nichijou
 
+![youkai-apartment-no-yuuga-na-nichijou](https://cdn.myanimelist.net/images/manga/3/57981.jpg)
+
 -   **type**: manga
 -   **original-name**: 妖怪アパートの幽雅な日常
 -   **start-date**: 2011-05-26

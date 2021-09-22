@@ -1,5 +1,7 @@
 # Otome Game Tensou, Ore ga Heroine de Kyuuseishu!?
 
+![otome-game-tensou-ore-ga-heroine-de-kyuuseishu](https://cdn.myanimelist.net/images/manga/3/239492.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女ゲー転送、俺がヒロインで救世主!?
 -   **start-date**: 2020-01-11

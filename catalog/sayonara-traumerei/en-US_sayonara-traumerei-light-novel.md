@@ -1,5 +1,7 @@
 # Sayonara Träumerei
 
+![sayonara-traumerei](https://cdn.myanimelist.net/images/manga/3/162480.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 84

@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato 2199: Tsuioku no Koukai
 
+![uchuu-senkan-yamato-2199-tsuioku-no-koukai](https://cdn.myanimelist.net/images/anime/11/62689.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 宇宙戦艦ヤマト 2199 追憶の航海

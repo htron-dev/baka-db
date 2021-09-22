@@ -1,5 +1,7 @@
 # Osananajimi ga Zettai ni Makenai Love Comedy: Otonari no Yonshimai ga Zettai ni Honobono suru Nichijou
 
+![osananajimi-ga-zettai-ni-makenai-love-comedy-otonari-no-yonshimai-ga-zettai-ni-honobono-suru-nichijou](https://cdn.myanimelist.net/images/manga/2/249733.jpg)
+
 -   **type**: manga
 -   **original-name**: 幼なじみが絶対に負けないラブコメ お隣の四姉妹が絶対にほのぼのする日常
 -   **start-date**: 2021-01-27

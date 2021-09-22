@@ -1,5 +1,7 @@
 # Licca-chan no Nichiyoubi
 
+![licca-chan-no-nichiyoubi](https://cdn.myanimelist.net/images/anime/1089/113402.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: リカちゃんの日曜日

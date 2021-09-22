@@ -1,5 +1,7 @@
 # Sankagetsu Mae ni Wakareta Senpai Kouhai no Hanashi
 
+![sankagetsu-mae-ni-wakareta-senpai-kouhai-no-hanashi](https://cdn.myanimelist.net/images/manga/1/236977.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Geboku to Hime no Ikenai Asobi
 
+![geboku-to-hime-no-ikenai-asobi](https://cdn.myanimelist.net/images/manga/3/10893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 下僕と姫のいけない遊び

@@ -1,5 +1,7 @@
 # SE-X File: Youkoso, Saijou Higashi Koukou "Choujou Genshou☆Tankyuu-bu" e!
 
+![se-x-file-youkoso-saijou-higashi-koukou-choujou-genshou☆-tankyuu-bu-e](https://cdn.myanimelist.net/images/manga/1/169327.jpg)
+
 -   **type**: light-novel
 -   **original-name**: SE-X ふぁいる ようこそ、斎条東高校「超常現象 ☆ 探求部」へ!
 -   **start-date**: 2015-12-10

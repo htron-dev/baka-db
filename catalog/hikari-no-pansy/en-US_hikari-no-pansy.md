@@ -1,5 +1,7 @@
 # Hikari no Pansy
 
+![hikari-no-pansy](https://cdn.myanimelist.net/images/manga/3/66813.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 54

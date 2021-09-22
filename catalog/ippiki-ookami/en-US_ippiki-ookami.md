@@ -1,5 +1,7 @@
 # Ippiki Ookami!
 
+![ippiki-ookami](https://cdn.myanimelist.net/images/manga/2/180419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

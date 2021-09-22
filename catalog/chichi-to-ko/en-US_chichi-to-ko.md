@@ -1,5 +1,7 @@
 # Chichi to Ko
 
+![chichi-to-ko](https://cdn.myanimelist.net/images/manga/2/132857.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 123

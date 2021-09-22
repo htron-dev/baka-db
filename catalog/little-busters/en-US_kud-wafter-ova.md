@@ -1,5 +1,7 @@
 # Kud Wafter
 
+![kud-wafter](https://cdn.myanimelist.net/images/anime/1575/113371.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: クドわふたー

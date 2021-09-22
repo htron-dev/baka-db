@@ -1,5 +1,7 @@
 # Majutsushi Orphen Hagure Tabi: Tennin no Isan
 
+![majutsushi-orphen-hagure-tabi-tennin-no-isan](https://cdn.myanimelist.net/images/anime/1319/106804.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魔術士オーフェンはぐれ旅 天人の遺産

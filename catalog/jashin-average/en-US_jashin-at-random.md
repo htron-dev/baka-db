@@ -1,5 +1,7 @@
 # Jashin At Random
 
+![jashin-at-random](https://cdn.myanimelist.net/images/manga/3/191050.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 邪神アトランダム
 -   **start-date**: 2016-10-24

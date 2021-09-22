@@ -1,5 +1,7 @@
 # Choushuu Five
 
+![choushuu-five](https://cdn.myanimelist.net/images/manga/3/29903.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 長州ファイブ

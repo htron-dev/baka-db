@@ -1,5 +1,7 @@
 # Tongari Boushi no Kitchen
 
+![tongari-boushi-no-kitchen](https://cdn.myanimelist.net/images/manga/3/230220.jpg)
+
 -   **type**: manga
 -   **original-name**: とんがり帽子のキッチン
 -   **start-date**: 2019-11-22

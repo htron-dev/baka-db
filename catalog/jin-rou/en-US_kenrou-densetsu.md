@@ -1,5 +1,7 @@
 # Kenrou Densetsu
 
+![kenrou-densetsu](https://cdn.myanimelist.net/images/manga/4/33376.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

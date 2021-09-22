@@ -1,5 +1,7 @@
 # Ai wo Tsumugu Kizuato
 
+![ai-wo-tsumugu-kizuato](https://cdn.myanimelist.net/images/manga/1/194848.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

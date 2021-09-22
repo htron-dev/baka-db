@@ -1,5 +1,7 @@
 # Waga Seishun no Arcadia
 
+![waga-seishun-no-arcadia](https://cdn.myanimelist.net/images/anime/3/52037.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: わが青春のアルカディア

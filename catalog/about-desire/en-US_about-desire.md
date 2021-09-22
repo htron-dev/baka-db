@@ -1,5 +1,7 @@
 # About Desire
 
+![about-desire](https://cdn.myanimelist.net/images/manga/2/244547.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 욕망이라는 것에 대하여
 -   **start-date**: 2016-08-17

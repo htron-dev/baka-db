@@ -1,5 +1,7 @@
 # Tamayura
 
+![tamayura](https://cdn.myanimelist.net/images/anime/4/28362.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: たまゆら

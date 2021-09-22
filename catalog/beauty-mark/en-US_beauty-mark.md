@@ -1,5 +1,7 @@
 # Beauty Mark
 
+![beauty-mark](https://cdn.myanimelist.net/images/manga/2/243962.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Durarara!! Specials
 
+![durarara-specials](https://cdn.myanimelist.net/images/anime/4/28684.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: デュラララ!!

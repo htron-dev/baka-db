@@ -1,5 +1,7 @@
 # Cheon Gwan Nyeo
 
+![cheon-gwan-nyeo](https://cdn.myanimelist.net/images/manga/1/44711.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 천관녀

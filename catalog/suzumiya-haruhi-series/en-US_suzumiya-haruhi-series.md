@@ -1,5 +1,7 @@
 # Suzumiya Haruhi Series
 
+![suzumiya-haruhi-series](https://cdn.myanimelist.net/images/manga/1/186142.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 涼宮ハルヒシリーズ
 -   **start-date**: 2003-06-06

@@ -1,5 +1,7 @@
 # Kuroi Hitsuji wa Mayowanai
 
+![kuroi-hitsuji-wa-mayowanai](https://cdn.myanimelist.net/images/manga/2/35557.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 黒い羊は迷わない

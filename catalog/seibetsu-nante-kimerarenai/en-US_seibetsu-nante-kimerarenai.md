@@ -1,5 +1,7 @@
 # Seibetsu nante Kimerarenai!
 
+![seibetsu-nante-kimerarenai](https://cdn.myanimelist.net/images/manga/3/244247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

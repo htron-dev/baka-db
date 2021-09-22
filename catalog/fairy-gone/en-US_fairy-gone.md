@@ -1,5 +1,7 @@
 # Fairy Gone
 
+![fairy-gone](https://cdn.myanimelist.net/images/anime/1562/100460.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Fairy gone フェアリーゴーン

@@ -1,5 +1,7 @@
 # Saenai Heroine no Sodatekata ♭
 
+![saenai-heroine-no-sodatekata-♭](https://cdn.myanimelist.net/images/anime/2/84797.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 冴えない彼女〈ヒロイン〉の育てかた ♭

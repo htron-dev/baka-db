@@ -1,5 +1,7 @@
 # Dansou shite Ouji-sama to Kekkon shitara Naze ka Betabore Saremashita?
 
+![dansou-shite-ouji-sama-to-kekkon-shitara-naze-ka-betabore-saremashita](https://cdn.myanimelist.net/images/manga/3/183657.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

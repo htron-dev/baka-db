@@ -1,5 +1,7 @@
 # Jiisan Baasan Wakagaeru
 
+![jiisan-baasan-wakagaeru](https://cdn.myanimelist.net/images/manga/1/232329.jpg)
+
 -   **type**: manga
 -   **original-name**: じいさんばあさん若返る
 -   **start-date**: 2020-06-22

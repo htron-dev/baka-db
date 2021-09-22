@@ -1,5 +1,7 @@
 # Yamato yo Towa ni
 
+![yamato-yo-towa-ni](https://cdn.myanimelist.net/images/anime/13/83042.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヤマトよ永遠に

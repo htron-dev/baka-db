@@ -1,5 +1,7 @@
 # Noise
 
+![noise](https://cdn.myanimelist.net/images/manga/2/215430.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Shin Garouden
 
+![shin-garouden](https://cdn.myanimelist.net/images/manga/3/205860.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 56

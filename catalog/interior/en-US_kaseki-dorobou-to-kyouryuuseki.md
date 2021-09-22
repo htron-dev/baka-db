@@ -1,5 +1,7 @@
 # Kaseki Dorobou to Kyouryuuseki
 
+![kaseki-dorobou-to-kyouryuuseki](https://cdn.myanimelist.net/images/anime/11/62729.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 化石ドロボウと恐竜石

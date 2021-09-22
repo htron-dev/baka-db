@@ -1,5 +1,7 @@
 # Let's Do It The Cool Way!
 
+![lets-do-it-the-cool-way](https://cdn.myanimelist.net/images/manga/2/13424.jpg)
+
 -   **type**: manga
 
 ## Tags

@@ -1,5 +1,7 @@
 # Aieki Gokkun Inma Ouji♥
 
+![aieki-gokkun-inma-ouji♥](https://cdn.myanimelist.net/images/manga/1/136475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛液ごっくん淫魔王子 ♥

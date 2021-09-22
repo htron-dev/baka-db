@@ -1,5 +1,7 @@
 # Hailuo Wan
 
+![hailuo-wan](https://cdn.myanimelist.net/images/anime/1230/115349.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 130
 -   **original-name**: 海螺湾

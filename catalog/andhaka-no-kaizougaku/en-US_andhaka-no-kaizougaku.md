@@ -1,5 +1,7 @@
 # Andhaka no Kaizougaku
 
+![andhaka-no-kaizougaku](https://cdn.myanimelist.net/images/manga/2/162873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 93

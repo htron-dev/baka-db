@@ -1,5 +1,7 @@
 # Nekomata Manma
 
+![nekomata-manma](https://cdn.myanimelist.net/images/manga/1/222519.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫又まんま
 -   **start-date**: 2018-05-22

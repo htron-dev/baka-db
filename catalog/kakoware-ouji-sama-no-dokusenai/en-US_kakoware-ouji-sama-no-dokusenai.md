@@ -1,5 +1,7 @@
 # Kakoware: Ouji-sama no Dokusenai
 
+![kakoware-ouji-sama-no-dokusenai](https://cdn.myanimelist.net/images/manga/3/182869.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

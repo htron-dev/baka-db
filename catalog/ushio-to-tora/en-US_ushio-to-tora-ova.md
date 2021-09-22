@@ -1,5 +1,7 @@
 # Ushio to Tora
 
+![ushio-to-tora](https://cdn.myanimelist.net/images/anime/1443/97136.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: うしおととら

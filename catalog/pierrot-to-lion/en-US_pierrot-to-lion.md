@@ -1,5 +1,7 @@
 # Pierrot to Lion
 
+![pierrot-to-lion](https://cdn.myanimelist.net/images/manga/3/211651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

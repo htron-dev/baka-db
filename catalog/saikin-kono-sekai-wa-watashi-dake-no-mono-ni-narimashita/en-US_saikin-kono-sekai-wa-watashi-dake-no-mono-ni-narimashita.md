@@ -1,5 +1,7 @@
 # Saikin Kono Sekai wa Watashi dake no Mono ni Narimashita......
 
+![saikin-kono-sekai-wa-watashi-dake-no-mono-ni-narimashita](https://cdn.myanimelist.net/images/manga/2/175167.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 85

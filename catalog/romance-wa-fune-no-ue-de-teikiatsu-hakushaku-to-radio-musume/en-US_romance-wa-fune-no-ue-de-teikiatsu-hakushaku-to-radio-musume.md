@@ -1,5 +1,7 @@
 # Romance wa Fune no Ue de: Teikiatsu Hakushaku to Radio Musume
 
+![romance-wa-fune-no-ue-de-teikiatsu-hakushaku-to-radio-musume](https://cdn.myanimelist.net/images/manga/2/191631.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

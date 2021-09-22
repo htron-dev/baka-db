@@ -1,5 +1,7 @@
 # Taiho Shichau zo: Full Throttle - Watashitachi no Iru Basho
 
+![taiho-shichau-zo-full-throttle-watashitachi-no-iru-basho](https://cdn.myanimelist.net/images/anime/9/22541.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 逮捕しちゃうぞ フルスロットル わたしたちの居る場所

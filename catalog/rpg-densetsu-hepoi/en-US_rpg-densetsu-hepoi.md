@@ -1,5 +1,7 @@
 # RPG Densetsu Hepoi
 
+![rpg-densetsu-hepoi](https://cdn.myanimelist.net/images/anime/11/25075.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: RPG 伝説ヘポイ

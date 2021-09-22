@@ -1,5 +1,7 @@
 # H na Koakuma-kun wa Nugase Jouzu de, Yajuu Sugi!
 
+![h-na-koakuma-kun-wa-nugase-jouzu-de-yajuu-sugi](https://cdn.myanimelist.net/images/manga/2/208385.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

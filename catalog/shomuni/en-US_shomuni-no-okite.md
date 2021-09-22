@@ -1,5 +1,7 @@
 # Shomuni no Okite
 
+![shomuni-no-okite](https://cdn.myanimelist.net/images/manga/1/127091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

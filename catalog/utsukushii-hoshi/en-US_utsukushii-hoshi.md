@@ -1,5 +1,7 @@
 # Utsukushii Hoshi
 
+![utsukushii-hoshi](https://cdn.myanimelist.net/images/anime/5/72727.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 美しい星

@@ -1,5 +1,7 @@
 # Otoko no Ko-tachi no Naka
 
+![otoko-no-ko-tachi-no-naka](https://cdn.myanimelist.net/images/manga/1/162268.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

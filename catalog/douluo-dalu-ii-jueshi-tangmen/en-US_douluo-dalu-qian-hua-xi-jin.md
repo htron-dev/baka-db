@@ -1,5 +1,7 @@
 # Douluo Dalu: Qian Hua Xi Jin
 
+![douluo-dalu-qian-hua-xi-jin](https://cdn.myanimelist.net/images/anime/1595/113994.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 斗罗大陆 铅华洗尽

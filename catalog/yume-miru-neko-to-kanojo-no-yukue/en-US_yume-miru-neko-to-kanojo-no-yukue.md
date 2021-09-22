@@ -1,5 +1,7 @@
 # Yume Miru Neko to Kanojo no Yukue
 
+![yume-miru-neko-to-kanojo-no-yukue](https://cdn.myanimelist.net/images/manga/1/164526.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ユメ視る猫とカノジョの行方

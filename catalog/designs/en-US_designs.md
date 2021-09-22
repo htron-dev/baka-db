@@ -1,5 +1,7 @@
 # Designs
 
+![designs](https://cdn.myanimelist.net/images/manga/1/173083.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

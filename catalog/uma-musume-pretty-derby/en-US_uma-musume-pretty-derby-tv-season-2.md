@@ -1,5 +1,7 @@
 # Uma Musume: Pretty Derby (TV) Season 2
 
+![uma-musume-pretty-derby-tv-season-2](https://cdn.myanimelist.net/images/anime/1447/114282.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ウマ娘 プリティーダービー Season 2

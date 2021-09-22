@@ -1,5 +1,7 @@
 # Venus Versus Virus
 
+![venus-versus-virus](https://cdn.myanimelist.net/images/anime/4/18842.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヴィーナス ヴァーサス ヴァイアラス

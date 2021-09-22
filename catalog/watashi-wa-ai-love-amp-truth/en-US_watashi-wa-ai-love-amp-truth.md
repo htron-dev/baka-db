@@ -1,5 +1,7 @@
 # Watashi wa Ai - Love &amp; Truth
 
+![watashi-wa-ai-love-amp-truth](https://cdn.myanimelist.net/images/manga/1/115231.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

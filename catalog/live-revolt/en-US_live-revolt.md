@@ -1,5 +1,7 @@
 # LiveRevolt
 
+![live-revolt](https://cdn.myanimelist.net/images/manga/2/220965.jpg)
+
 -   **type**: manga
 -   **original-name**: ライブレボルト
 -   **start-date**: 2017-04-29

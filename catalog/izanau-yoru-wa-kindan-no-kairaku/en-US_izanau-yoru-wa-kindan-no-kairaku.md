@@ -1,5 +1,7 @@
 # Izanau Yoru wa Kindan no Kairaku
 
+![izanau-yoru-wa-kindan-no-kairaku](https://cdn.myanimelist.net/images/manga/1/107217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

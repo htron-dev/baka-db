@@ -1,5 +1,7 @@
 # Mikazuki Mao wa ♂♀ wo Erabenai
 
+![mikazuki-mao-wa-♂♀-wo-erabenai](https://cdn.myanimelist.net/images/manga/3/246013.jpg)
+
 -   **type**: manga
 -   **original-name**: 三日月まおは ♂♀ をえらべない
 -   **start-date**: 2020-04-24

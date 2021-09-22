@@ -1,5 +1,7 @@
 # Hitori no Shita: The Outcast Recap
 
+![hitori-no-shita-the-outcast-recap](https://cdn.myanimelist.net/images/anime/1155/92922.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 羅天大醮篇 放送直前スペシャル

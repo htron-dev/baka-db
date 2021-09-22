@@ -1,5 +1,7 @@
 # meth-e-meth
 
+![meth-e-meth](https://cdn.myanimelist.net/images/manga/3/126859.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: meth・e・meth -メス・メス-

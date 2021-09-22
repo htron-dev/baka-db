@@ -1,5 +1,7 @@
 # Momoiro Five
 
+![momoiro-five](https://cdn.myanimelist.net/images/manga/3/27778.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ももいろふぁいぶ

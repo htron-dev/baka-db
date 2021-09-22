@@ -1,5 +1,7 @@
 # Ookami no Hitomi
 
+![ookami-no-hitomi](https://cdn.myanimelist.net/images/manga/1/27428.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

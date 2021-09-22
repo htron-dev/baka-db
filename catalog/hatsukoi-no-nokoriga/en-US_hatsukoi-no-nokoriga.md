@@ -1,5 +1,7 @@
 # Hatsukoi no Nokoriga
 
+![hatsukoi-no-nokoriga](https://cdn.myanimelist.net/images/manga/1/227555.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 初恋の残り香

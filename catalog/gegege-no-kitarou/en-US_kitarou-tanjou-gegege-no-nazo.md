@@ -1,5 +1,7 @@
 # Kitarou Tanjou: Gegege no Nazo
 
+![kitarou-tanjou-gegege-no-nazo](https://cdn.myanimelist.net/images/anime/1271/113322.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鬼太郎誕生 ゲゲゲの謎

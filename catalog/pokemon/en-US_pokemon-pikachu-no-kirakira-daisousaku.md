@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Kirakira Daisousaku!
 
+![pokemon-pikachu-no-kirakira-daisousaku](https://cdn.myanimelist.net/images/anime/11/25970.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ピカチュウのキラキラだいそうさく！

@@ -1,5 +1,7 @@
 # SiNNa 1905
 
+![si-n-na-1905](https://cdn.myanimelist.net/images/manga/1/9279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

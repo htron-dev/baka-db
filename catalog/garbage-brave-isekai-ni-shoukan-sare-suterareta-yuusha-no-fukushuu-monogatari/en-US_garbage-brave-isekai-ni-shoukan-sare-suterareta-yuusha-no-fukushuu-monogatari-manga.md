@@ -1,5 +1,7 @@
 # Garbage Brave: Isekai ni Shoukan sare Suterareta Yuusha no Fukushuu Monogatari
 
+![garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari](https://cdn.myanimelist.net/images/manga/1/237999.jpg)
+
 -   **type**: manga
 -   **original-name**: ガベージブレイブ 異世界に召喚され捨てられた勇者の復讐物語
 -   **start-date**: 2019-11-10

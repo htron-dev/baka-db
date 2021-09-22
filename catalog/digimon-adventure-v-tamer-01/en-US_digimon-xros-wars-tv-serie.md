@@ -1,5 +1,7 @@
 # Digimon Xros Wars
 
+![digimon-xros-wars](https://cdn.myanimelist.net/images/anime/7/24495.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: デジモンクロスウォーズ

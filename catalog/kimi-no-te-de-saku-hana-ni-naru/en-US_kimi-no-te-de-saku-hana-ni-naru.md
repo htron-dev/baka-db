@@ -1,5 +1,7 @@
 # Kimi no Te de Saku Hana ni Naru
 
+![kimi-no-te-de-saku-hana-ni-naru](https://cdn.myanimelist.net/images/manga/1/194062.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: きみの手で咲く花になる

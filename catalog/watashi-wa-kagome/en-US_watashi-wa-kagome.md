@@ -1,5 +1,7 @@
 # Watashi wa Kagome
 
+![watashi-wa-kagome](https://cdn.myanimelist.net/images/manga/1/23840.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 私は加護女

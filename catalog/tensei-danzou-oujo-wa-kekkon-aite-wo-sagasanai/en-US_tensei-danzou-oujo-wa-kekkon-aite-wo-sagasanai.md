@@ -1,5 +1,7 @@
 # Tensei Danzou Oujo wa Kekkon Aite wo Sagasanai
 
+![tensei-danzou-oujo-wa-kekkon-aite-wo-sagasanai](https://cdn.myanimelist.net/images/manga/1/241863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

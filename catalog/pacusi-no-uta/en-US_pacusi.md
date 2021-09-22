@@ -1,5 +1,7 @@
 # Pacusi
 
+![pacusi](https://cdn.myanimelist.net/images/anime/10/17804.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 18
 -   **original-name**: パ ク シ

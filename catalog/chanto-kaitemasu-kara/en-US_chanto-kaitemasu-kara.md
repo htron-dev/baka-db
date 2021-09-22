@@ -1,5 +1,7 @@
 # Chanto Kaitemasu kara!
 
+![chanto-kaitemasu-kara](https://cdn.myanimelist.net/images/manga/2/45302.jpg)
+
 -   **type**: manga
 -   **original-name**: ちゃんと描いてますからっ！
 

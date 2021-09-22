@@ -1,5 +1,7 @@
 # Deep Throat: Karei na Kaizoku-tachi
 
+![deep-throat-karei-na-kaizoku-tachi](https://cdn.myanimelist.net/images/manga/3/142209.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

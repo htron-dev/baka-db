@@ -1,5 +1,7 @@
 # Omedetou Jesus-sama
 
+![omedetou-jesus-sama](https://cdn.myanimelist.net/images/anime/9/66123.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おめでとうイエスさま

@@ -1,5 +1,7 @@
 # Rokushin Gattai GodMars (1982)
 
+![rokushin-gattai-god-mars-1982](https://cdn.myanimelist.net/images/anime/2/88344.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 六神合体ゴッドマーズ (1982)

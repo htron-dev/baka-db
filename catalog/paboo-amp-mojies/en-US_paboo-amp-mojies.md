@@ -1,5 +1,7 @@
 # Paboo &amp; Mojies
 
+![paboo-amp-mojies](https://cdn.myanimelist.net/images/anime/11/36873.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: パブー＆モジーズ

@@ -1,5 +1,7 @@
 # Hikikomori-tachi ni Ore no Seishun ga Honrou Sareteiru
 
+![hikikomori-tachi-ni-ore-no-seishun-ga-honrou-sareteiru](https://cdn.myanimelist.net/images/manga/1/160556.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

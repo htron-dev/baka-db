@@ -1,5 +1,7 @@
 # Sahoutsukai no Shishou-chan
 
+![sahoutsukai-no-shishou-chan](https://cdn.myanimelist.net/images/manga/2/197770.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

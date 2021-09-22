@@ -1,5 +1,7 @@
 # Gunjou Gakusha
 
+![gunjou-gakusha](https://cdn.myanimelist.net/images/manga/1/123257.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Ijime wa Zettai Warui!
 
+![ijime-wa-zettai-warui](https://cdn.myanimelist.net/images/anime/11/68767.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いじめはゼッタイわるい!

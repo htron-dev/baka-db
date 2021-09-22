@@ -1,5 +1,7 @@
 # Atataka na Hari
 
+![atataka-na-hari](https://cdn.myanimelist.net/images/manga/3/167941.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

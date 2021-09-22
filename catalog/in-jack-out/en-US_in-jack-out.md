@@ -1,5 +1,7 @@
 # In Jack Out
 
+![in-jack-out](https://cdn.myanimelist.net/images/manga/2/170697.jpg)
+
 -   **type**: manga
 -   **original-name**: in JACK out
 -   **start-date**: 2010-12-25

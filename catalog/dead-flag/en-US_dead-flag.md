@@ -1,5 +1,7 @@
 # Dead Flag
 
+![dead-flag](https://cdn.myanimelist.net/images/manga/2/238695.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

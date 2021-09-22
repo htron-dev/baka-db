@@ -1,5 +1,7 @@
 # Apartmate
 
+![apartmate](https://cdn.myanimelist.net/images/manga/2/127927.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Diamond no Hanayome: Otto wa Midara na Kateikyoushi
 
+![diamond-no-hanayome-otto-wa-midara-na-kateikyoushi](https://cdn.myanimelist.net/images/manga/2/184768.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tsukipro The Animation 2
 
+![tsukipro-the-animation-2](https://cdn.myanimelist.net/images/anime/1651/116291.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: TSUKIPRO THE ANIMATION 2

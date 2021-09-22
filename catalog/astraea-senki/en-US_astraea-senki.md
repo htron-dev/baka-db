@@ -1,5 +1,7 @@
 # Astraea Senki
 
+![astraea-senki](https://cdn.myanimelist.net/images/manga/3/179070.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アストレア戦記
 -   **start-date**: 2016-07-01

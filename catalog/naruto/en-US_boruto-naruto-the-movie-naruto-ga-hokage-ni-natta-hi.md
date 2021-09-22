@@ -1,5 +1,7 @@
 # Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi
 
+![boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi](https://cdn.myanimelist.net/images/anime/6/77678.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: BORUTO -NARUTO THE MOVIE- ナルトが火影になった日

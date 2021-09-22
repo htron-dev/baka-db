@@ -1,5 +1,7 @@
 # Guignol Kyuutei Gakudan
 
+![guignol-kyuutei-gakudan](https://cdn.myanimelist.net/images/manga/1/32677.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

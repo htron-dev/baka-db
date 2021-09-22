@@ -1,5 +1,7 @@
 # Shuumatsu no Walküre: Lu Bu Housen Hishouden
 
+![shuumatsu-no-walkure-lu-bu-housen-hishouden](https://cdn.myanimelist.net/images/manga/1/228927.jpg)
+
 -   **type**: manga
 -   **original-name**: 終末のワルキューレ異聞 呂布奉先飛将伝
 -   **start-date**: 2019-10-25

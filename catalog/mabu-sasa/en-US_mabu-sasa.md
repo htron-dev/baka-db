@@ -1,5 +1,7 @@
 # MabuSasa
 
+![mabu-sasa](https://cdn.myanimelist.net/images/manga/3/225652.jpg)
+
 -   **type**: manga
 -   **original-name**: まぶささ
 -   **start-date**: 2018-05-02

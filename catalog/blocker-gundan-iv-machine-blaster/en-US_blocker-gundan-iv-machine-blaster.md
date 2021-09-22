@@ -1,5 +1,7 @@
 # Blocker Gundan IV Machine Blaster
 
+![blocker-gundan-iv-machine-blaster](https://cdn.myanimelist.net/images/anime/8/72561.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: ブロッカー軍団 Ⅳ マシーンブラスター

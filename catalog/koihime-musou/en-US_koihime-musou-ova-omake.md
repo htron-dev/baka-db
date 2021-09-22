@@ -1,5 +1,7 @@
 # Koihime†Musou OVA Omake
 
+![koihime-musou-ova-omake](https://cdn.myanimelist.net/images/anime/6/40927.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちびちび演技 恋姫ふらっしゅ～張飛、おっぱいをもとめんとするのこと～

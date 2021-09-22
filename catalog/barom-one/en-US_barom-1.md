@@ -1,5 +1,7 @@
 # Barom 1
 
+![barom-1](https://cdn.myanimelist.net/images/manga/2/64911.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

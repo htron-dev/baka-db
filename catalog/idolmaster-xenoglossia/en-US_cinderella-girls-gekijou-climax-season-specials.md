@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou: Climax Season Specials
 
+![cinderella-girls-gekijou-climax-season-specials](https://cdn.myanimelist.net/images/anime/1225/104453.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: シンデレラガールズ劇場 CLIMAX SEASON

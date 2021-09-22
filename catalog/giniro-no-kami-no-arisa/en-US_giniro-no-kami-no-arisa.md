@@ -1,5 +1,7 @@
 # Giniro no Kami no Arisa
 
+![giniro-no-kami-no-arisa](https://cdn.myanimelist.net/images/manga/4/27172.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

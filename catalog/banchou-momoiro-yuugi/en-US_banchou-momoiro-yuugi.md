@@ -1,5 +1,7 @@
 # Banchou Momoiro Yuugi
 
+![banchou-momoiro-yuugi](https://cdn.myanimelist.net/images/manga/2/189824.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

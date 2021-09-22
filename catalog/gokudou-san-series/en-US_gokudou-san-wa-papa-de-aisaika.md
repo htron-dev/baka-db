@@ -1,5 +1,7 @@
 # Gokudou-san wa Papa de Aisaika
 
+![gokudou-san-wa-papa-de-aisaika](https://cdn.myanimelist.net/images/manga/1/226655.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

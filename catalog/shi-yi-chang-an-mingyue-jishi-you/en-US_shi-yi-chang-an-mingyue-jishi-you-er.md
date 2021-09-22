@@ -1,5 +1,7 @@
 # Shi Yi Chang An: Mingyue Jishi You Er
 
+![shi-yi-chang-an-mingyue-jishi-you-er](https://cdn.myanimelist.net/images/anime/1805/113688.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 拾忆长安·明月几时有 貳

@@ -1,5 +1,7 @@
 # The King of Fighters: Destiny
 
+![the-king-of-fighters-destiny](https://cdn.myanimelist.net/images/anime/1238/110960.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 拳皇命运

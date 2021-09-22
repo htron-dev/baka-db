@@ -1,5 +1,7 @@
 # Rikugun Renai Shikan Gakkou
 
+![rikugun-renai-shikan-gakkou](https://cdn.myanimelist.net/images/manga/3/36411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

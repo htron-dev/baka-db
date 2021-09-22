@@ -1,5 +1,7 @@
 # Kinjishitei no Osanazuma
 
+![kinjishitei-no-osanazuma](https://cdn.myanimelist.net/images/manga/3/183105.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

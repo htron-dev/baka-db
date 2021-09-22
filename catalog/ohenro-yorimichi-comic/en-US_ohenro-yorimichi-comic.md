@@ -1,5 +1,7 @@
 # Ohenro.: Yorimichi Comic!
 
+![ohenro-yorimichi-comic](https://cdn.myanimelist.net/images/manga/2/200713.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront
 
+![mobile-suit-gundam-ms-igloo-2-gravity-of-the-battlefront](https://cdn.myanimelist.net/images/anime/9/7880.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 機動戦士ガンダム　ＭＳ ＩＧＬＯＯ ２　重力戦線

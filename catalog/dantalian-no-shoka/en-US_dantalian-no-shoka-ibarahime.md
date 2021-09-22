@@ -1,5 +1,7 @@
 # Dantalian no Shoka: Ibarahime
 
+![dantalian-no-shoka-ibarahime](https://cdn.myanimelist.net/images/anime/13/46959.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ダンタリアンの書架 荊姫

@@ -1,5 +1,7 @@
 # Otoko Oidon
 
+![otoko-oidon](https://cdn.myanimelist.net/images/manga/2/62865.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 124

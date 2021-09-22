@@ -1,5 +1,7 @@
 # Gakuen Babysitters
 
+![gakuen-babysitters](https://cdn.myanimelist.net/images/manga/1/161858.jpg)
+
 -   **type**: manga
 -   **original-name**: 学園ベビーシッターズ
 -   **start-date**: 2009-09-24

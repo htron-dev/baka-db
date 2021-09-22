@@ -1,5 +1,7 @@
 # Marionette Generation
 
+![marionette-generation](https://cdn.myanimelist.net/images/manga/5/652.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: マリオネットジェネレーション

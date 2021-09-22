@@ -1,5 +1,7 @@
 # Michi Hate no Mukou no Hikari
 
+![michi-hate-no-mukou-no-hikari](https://cdn.myanimelist.net/images/manga/1/191307.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 道果ての向こうの光

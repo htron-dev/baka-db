@@ -1,5 +1,7 @@
 # Super Seisyun Brothers
 
+![super-seisyun-brothers](https://cdn.myanimelist.net/images/anime/2/53807.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: Super Seisyun Brothers -超青春姉弟 s-

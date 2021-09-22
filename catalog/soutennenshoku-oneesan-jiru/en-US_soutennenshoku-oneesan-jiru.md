@@ -1,5 +1,7 @@
 # Soutennenshoku Oneesan-jiru
 
+![soutennenshoku-oneesan-jiru](https://cdn.myanimelist.net/images/manga/1/158870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

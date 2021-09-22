@@ -1,5 +1,7 @@
 # Inugami-hime no Shimobe
 
+![inugami-hime-no-shimobe](https://cdn.myanimelist.net/images/manga/3/144417.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

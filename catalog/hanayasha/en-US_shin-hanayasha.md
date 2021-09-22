@@ -1,5 +1,7 @@
 # Shin Hanayasha
 
+![shin-hanayasha](https://cdn.myanimelist.net/images/manga/1/229478.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

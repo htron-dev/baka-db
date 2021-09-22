@@ -1,5 +1,7 @@
 # Wittmann Senki 1943
 
+![wittmann-senki-1943](https://cdn.myanimelist.net/images/manga/3/131889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヴィットマン戦記 1943

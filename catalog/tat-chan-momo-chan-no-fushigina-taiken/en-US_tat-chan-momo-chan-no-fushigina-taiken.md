@@ -1,5 +1,7 @@
 # Tat-chan - Momo-chan no Fushigina Taiken
 
+![tat-chan-momo-chan-no-fushigina-taiken](https://cdn.myanimelist.net/images/anime/10/84726.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: たっちゃん・ももちゃんのふしぎなたいけん

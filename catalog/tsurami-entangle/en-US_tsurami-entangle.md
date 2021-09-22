@@ -1,5 +1,7 @@
 # Tsurami Entangle
 
+![tsurami-entangle](https://cdn.myanimelist.net/images/manga/2/133279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

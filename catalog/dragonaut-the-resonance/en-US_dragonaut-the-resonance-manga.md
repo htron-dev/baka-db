@@ -1,5 +1,7 @@
 # Dragonaut: The Resonance
 
+![dragonaut-the-resonance](https://cdn.myanimelist.net/images/manga/3/45373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

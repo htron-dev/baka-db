@@ -1,5 +1,7 @@
 # Utsurowazarumono: Breath of Fire IV
 
+![utsurowazarumono-breath-of-fire-iv](https://cdn.myanimelist.net/images/manga/2/195998.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

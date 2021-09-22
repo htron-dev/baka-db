@@ -1,5 +1,7 @@
 # Bonobono (TV) Specials
 
+![bonobono-tv-specials](https://cdn.myanimelist.net/images/anime/4/22164.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: ぼのぼの

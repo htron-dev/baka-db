@@ -1,5 +1,7 @@
 # Monogatari Series: Second Season
 
+![monogatari-series-second-season](https://cdn.myanimelist.net/images/manga/2/181553.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 199

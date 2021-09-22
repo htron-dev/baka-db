@@ -1,5 +1,7 @@
 # Choppiri Toshiue demo Kanojo ni Shite Kuremasu ka?
 
+![choppiri-toshiue-demo-kanojo-ni-shite-kuremasu-ka](https://cdn.myanimelist.net/images/manga/1/227281.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ちょっぴり年上でも彼女にしてくれますか？
 -   **start-date**: 2018-05-15

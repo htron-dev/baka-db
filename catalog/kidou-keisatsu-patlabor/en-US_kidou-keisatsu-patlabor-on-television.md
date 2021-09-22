@@ -1,5 +1,7 @@
 # Kidou Keisatsu Patlabor: On Television
 
+![kidou-keisatsu-patlabor-on-television](https://cdn.myanimelist.net/images/anime/7/59293.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 機動警察パトレイバー ON TELEVISION

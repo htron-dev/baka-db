@@ -1,5 +1,7 @@
 # Bokura wa Minna Kawai-sou Specials
 
+![bokura-wa-minna-kawai-sou-specials](https://cdn.myanimelist.net/images/anime/8/70065.jpg)
+
 -   **type**: special
 -   **episodes**: 14
 -   **original-name**: 僕らはみんな河合荘 映像特典

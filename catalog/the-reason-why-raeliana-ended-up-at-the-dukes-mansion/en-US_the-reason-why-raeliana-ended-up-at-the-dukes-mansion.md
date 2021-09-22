@@ -1,5 +1,7 @@
 # The Reason Why Raeliana Ended up at the Duke's Mansion
 
+![the-reason-why-raeliana-ended-up-at-the-dukes-mansion](https://cdn.myanimelist.net/images/manga/2/222263.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 그녀가 공작저로 가야 했던 사정
 -   **start-date**: 2017-09-03

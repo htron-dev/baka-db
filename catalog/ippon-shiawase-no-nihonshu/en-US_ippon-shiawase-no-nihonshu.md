@@ -1,5 +1,7 @@
 # Ippon!!: Shiawase no Nihonshu
 
+![ippon-shiawase-no-nihonshu](https://cdn.myanimelist.net/images/manga/3/244135.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # 1/3 Romantica
 
+![1-3-romantica](https://cdn.myanimelist.net/images/manga/2/29757.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

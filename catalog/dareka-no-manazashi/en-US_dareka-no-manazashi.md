@@ -1,5 +1,7 @@
 # Dareka no Manazashi
 
+![dareka-no-manazashi](https://cdn.myanimelist.net/images/anime/9/46741.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: だれかのまなざし

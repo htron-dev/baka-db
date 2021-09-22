@@ -1,5 +1,7 @@
 # Chuuka Ichiban!
 
+![chuuka-ichiban](https://cdn.myanimelist.net/images/anime/6/75283.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 中華一番

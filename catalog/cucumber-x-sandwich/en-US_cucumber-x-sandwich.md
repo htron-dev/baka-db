@@ -1,5 +1,7 @@
 # Cucumber x Sandwich
 
+![cucumber-x-sandwich](https://cdn.myanimelist.net/images/manga/2/26581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

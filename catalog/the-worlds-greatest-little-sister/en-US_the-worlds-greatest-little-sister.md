@@ -1,5 +1,7 @@
 # The World's Greatest Little Sister
 
+![the-worlds-greatest-little-sister](https://cdn.myanimelist.net/images/manga/1/150613.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 36

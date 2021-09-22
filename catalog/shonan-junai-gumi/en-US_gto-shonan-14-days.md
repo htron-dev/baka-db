@@ -1,5 +1,7 @@
 # GTO: Shonan 14 Days
 
+![gto-shonan-14-days](https://cdn.myanimelist.net/images/manga/1/56109.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 77

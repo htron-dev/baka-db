@@ -1,5 +1,7 @@
 # Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita
 
+![hiatari-ryoukou-yume-no-naka-ni-kimi-ga-ita](https://cdn.myanimelist.net/images/anime/7/74265.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 陽あたり良好！ KA・SU・MI 夢の中に君がいた

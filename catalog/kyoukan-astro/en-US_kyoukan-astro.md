@@ -1,5 +1,7 @@
 # Kyoukan Astro
 
+![kyoukan-astro](https://cdn.myanimelist.net/images/manga/2/19607.jpg)
+
 -   **type**: manga
 -   **original-name**: 教艦 ASTRO
 -   **start-date**: 2005-02-24

@@ -1,5 +1,7 @@
 # Menhera-chan
 
+![menhera-chan](https://cdn.myanimelist.net/images/manga/1/233369.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: メンヘラちゃん

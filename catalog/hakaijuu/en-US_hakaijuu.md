@@ -1,5 +1,7 @@
 # Hakaijuu
 
+![hakaijuu](https://cdn.myanimelist.net/images/manga/2/43301.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 82

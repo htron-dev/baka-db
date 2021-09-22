@@ -1,5 +1,7 @@
 # King Kong: 001/7 Tom Thumb
 
+![king-kong-001-7-tom-thumb](https://cdn.myanimelist.net/images/anime/7/53395.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: キングコング・001/7 親指トム

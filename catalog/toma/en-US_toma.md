@@ -1,5 +1,7 @@
 # Toma
 
+![toma](https://cdn.myanimelist.net/images/manga/1/21755.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

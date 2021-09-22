@@ -1,5 +1,7 @@
 # Aiyoku no Eustia
 
+![aiyoku-no-eustia](https://cdn.myanimelist.net/images/manga/3/188981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

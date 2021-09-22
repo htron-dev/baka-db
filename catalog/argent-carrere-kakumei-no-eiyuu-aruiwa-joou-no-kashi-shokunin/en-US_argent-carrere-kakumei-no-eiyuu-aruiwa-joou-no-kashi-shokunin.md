@@ -1,5 +1,7 @@
 # Argent Carrère: Kakumei no Eiyuu Aruiwa Joou no Kashi Shokunin
 
+![argent-carrere-kakumei-no-eiyuu-aruiwa-joou-no-kashi-shokunin](https://cdn.myanimelist.net/images/manga/1/159873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

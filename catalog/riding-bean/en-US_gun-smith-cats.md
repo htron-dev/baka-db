@@ -1,5 +1,7 @@
 # GunSmith Cats
 
+![gun-smith-cats](https://cdn.myanimelist.net/images/manga/1/186048.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 75

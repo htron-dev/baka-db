@@ -1,5 +1,7 @@
 # Kare no Iru Seikatsu
 
+![kare-no-iru-seikatsu](https://cdn.myanimelist.net/images/manga/2/221513.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Samurai Usagi
 
+![samurai-usagi](https://cdn.myanimelist.net/images/manga/1/117635.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 69

@@ -1,5 +1,7 @@
 # Colors!
 
+![colors](https://cdn.myanimelist.net/images/manga/1/237992.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

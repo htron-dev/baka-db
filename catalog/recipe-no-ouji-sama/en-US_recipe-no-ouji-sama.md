@@ -1,5 +1,7 @@
 # Recipe no Ouji-sama
 
+![recipe-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/95491.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

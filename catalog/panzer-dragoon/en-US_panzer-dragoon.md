@@ -1,5 +1,7 @@
 # Panzer Dragoon
 
+![panzer-dragoon](https://cdn.myanimelist.net/images/anime/1698/94566.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: パンツァードラグーン

@@ -1,5 +1,7 @@
 # Koi no Tsumeato
 
+![koi-no-tsumeato](https://cdn.myanimelist.net/images/manga/3/2882.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

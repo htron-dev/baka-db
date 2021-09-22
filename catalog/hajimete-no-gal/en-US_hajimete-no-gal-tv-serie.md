@@ -1,5 +1,7 @@
 # Hajimete no Gal
 
+![hajimete-no-gal](https://cdn.myanimelist.net/images/anime/9/86826.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: はじめてのギャル

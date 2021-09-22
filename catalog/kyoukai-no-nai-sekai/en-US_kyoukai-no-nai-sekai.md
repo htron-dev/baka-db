@@ -1,5 +1,7 @@
 # Kyoukai no Nai Sekai
 
+![kyoukai-no-nai-sekai](https://cdn.myanimelist.net/images/manga/2/155672.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

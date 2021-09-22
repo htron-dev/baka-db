@@ -1,5 +1,7 @@
 # Yume Kakeru Kougen: Kiyosato no Chichi Paul Rusch
 
+![yume-kakeru-kougen-kiyosato-no-chichi-paul-rusch](https://cdn.myanimelist.net/images/anime/3/81447.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夢かける高原 清里の父 ポール・ラッシュ

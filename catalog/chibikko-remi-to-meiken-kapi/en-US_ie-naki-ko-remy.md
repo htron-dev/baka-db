@@ -1,5 +1,7 @@
 # Ie Naki Ko Remy
 
+![ie-naki-ko-remy](https://cdn.myanimelist.net/images/anime/12/26250.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 家なき子レミ

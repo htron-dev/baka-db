@@ -1,5 +1,7 @@
 # Shuyaku no Isu wa Ore no Isu
 
+![shuyaku-no-isu-wa-ore-no-isu](https://cdn.myanimelist.net/images/manga/3/242378.jpg)
+
 -   **type**: manga
 -   **original-name**: 主役の椅子はオレの椅子
 -   **start-date**: 2021-03-13

@@ -1,5 +1,7 @@
 # Moetan Specials
 
+![moetan-specials](https://cdn.myanimelist.net/images/anime/9/15066.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: もえたん

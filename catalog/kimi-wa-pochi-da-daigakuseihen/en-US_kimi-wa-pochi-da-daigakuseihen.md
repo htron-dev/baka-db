@@ -1,5 +1,7 @@
 # Kimi wa Pochi Da! ~Daigakuseihen~
 
+![kimi-wa-pochi-da-daigakuseihen](https://cdn.myanimelist.net/images/manga/2/18940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

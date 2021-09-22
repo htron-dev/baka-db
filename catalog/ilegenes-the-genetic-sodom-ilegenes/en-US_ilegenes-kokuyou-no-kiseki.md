@@ -1,5 +1,7 @@
 # Ilegenes: Kokuyou no Kiseki
 
+![ilegenes-kokuyou-no-kiseki](https://cdn.myanimelist.net/images/manga/1/14440.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

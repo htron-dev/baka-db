@@ -1,5 +1,7 @@
 # Minami no Shima no Dera-chan
 
+![minami-no-shima-no-dera-chan](https://cdn.myanimelist.net/images/anime/6/60437.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 南の島のデラちゃん

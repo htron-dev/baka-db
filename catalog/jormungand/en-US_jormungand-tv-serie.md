@@ -1,5 +1,7 @@
 # Jormungand
 
+![jormungand](https://cdn.myanimelist.net/images/anime/11/73280.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヨルムンガンド
@@ -29,4 +31,4 @@ Jormungand follows Koko, Jonah, and the rest of crew as they travel the world se
 -   [Official Site](http://www.jormungand.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8842)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13888)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Jormungand_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Jormungand_%28manga%29)

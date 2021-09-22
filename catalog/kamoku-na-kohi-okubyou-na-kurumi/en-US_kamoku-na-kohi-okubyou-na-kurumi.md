@@ -1,5 +1,7 @@
 # Kamoku na Kohi Okubyou na Kurumi
 
+![kamoku-na-kohi-okubyou-na-kurumi](https://cdn.myanimelist.net/images/manga/3/56399.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

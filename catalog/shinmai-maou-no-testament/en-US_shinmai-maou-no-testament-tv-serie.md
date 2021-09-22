@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament
 
+![shinmai-maou-no-testament](https://cdn.myanimelist.net/images/anime/1654/112033.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 新妹魔王の契約者〈テスタメント〉

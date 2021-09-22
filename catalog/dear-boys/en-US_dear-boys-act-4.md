@@ -1,5 +1,7 @@
 # Dear Boys Act 4
 
+![dear-boys-act-4](https://cdn.myanimelist.net/images/manga/3/216913.jpg)
+
 -   **type**: manga
 -   **original-name**: DEAR BOYS ACT4
 -   **start-date**: 2018-10-06

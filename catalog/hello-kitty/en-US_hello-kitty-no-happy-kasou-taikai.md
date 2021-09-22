@@ -1,5 +1,7 @@
 # Hello Kitty no Happy! Kasou Taikai
 
+![hello-kitty-no-happy-kasou-taikai](https://cdn.myanimelist.net/images/anime/11/47927.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのハッピー!仮装大会

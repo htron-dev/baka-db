@@ -1,5 +1,7 @@
 # Skull Killer Jaki-ou
 
+![skull-killer-jaki-ou](https://cdn.myanimelist.net/images/manga/3/104813.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: スカルキラー邪鬼王

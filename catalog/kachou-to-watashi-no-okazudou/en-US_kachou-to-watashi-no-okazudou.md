@@ -1,5 +1,7 @@
 # Kachou to Watashi no Okazudou
 
+![kachou-to-watashi-no-okazudou](https://cdn.myanimelist.net/images/manga/3/215788.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 42

@@ -1,5 +1,7 @@
 # Rose Trinity
 
+![rose-trinity](https://cdn.myanimelist.net/images/manga/1/181727.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

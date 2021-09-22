@@ -1,5 +1,7 @@
 # Seishaku no Isanatori
 
+![seishaku-no-isanatori](https://cdn.myanimelist.net/images/manga/1/164116.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

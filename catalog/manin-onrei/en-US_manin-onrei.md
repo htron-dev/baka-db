@@ -1,5 +1,7 @@
 # Manin Onrei
 
+![manin-onrei](https://cdn.myanimelist.net/images/manga/2/37799.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 満員御礼

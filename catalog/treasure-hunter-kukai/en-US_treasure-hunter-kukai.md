@@ -1,5 +1,7 @@
 # Treasure Hunter Kukai
 
+![treasure-hunter-kukai](https://cdn.myanimelist.net/images/manga/1/80223.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: トレジャーハンター KUKAI

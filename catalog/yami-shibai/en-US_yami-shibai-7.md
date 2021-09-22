@@ -1,5 +1,7 @@
 # Yami Shibai 7
 
+![yami-shibai-7](https://cdn.myanimelist.net/images/anime/1154/101895.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 闇芝居 7 期

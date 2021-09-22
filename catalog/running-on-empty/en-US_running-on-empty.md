@@ -1,5 +1,7 @@
 # Running on Empty
 
+![running-on-empty](https://cdn.myanimelist.net/images/manga/4/26899.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 12

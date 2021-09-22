@@ -1,5 +1,7 @@
 # Closers: Side Blacklambs
 
+![closers-side-blacklambs](https://cdn.myanimelist.net/images/anime/11/78304.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 클로저스 : SIDE BLACKLAMBS
@@ -31,4 +33,4 @@ And that's when the dimensional gates all over the world started shaking again -
 -   [My Anime list](https://myanimelist.net/anime/32152/Closers__Side_Blacklambs)
 -   [Official Site](http://closers.nexon.com/events/2015/animation/SideBlacklambs.aspx)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12922)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Closers_(video_game)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Closers_%28video_game%29)

@@ -1,5 +1,7 @@
 # Houjin Exaxxion
 
+![houjin-exaxxion](https://cdn.myanimelist.net/images/manga/3/134657.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 81

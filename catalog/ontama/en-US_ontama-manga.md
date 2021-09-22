@@ -1,5 +1,7 @@
 # Ontama!
 
+![ontama](https://cdn.myanimelist.net/images/manga/1/157839.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

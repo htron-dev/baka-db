@@ -1,5 +1,7 @@
 # Sei no Gekiyaku
 
+![sei-no-gekiyaku](https://cdn.myanimelist.net/images/manga/1/236560.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

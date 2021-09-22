@@ -1,5 +1,7 @@
 # Heroine to Flag wo Tateru 100 no Houhou
 
+![heroine-to-flag-wo-tateru-100-no-houhou](https://cdn.myanimelist.net/images/manga/1/160555.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

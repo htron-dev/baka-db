@@ -1,5 +1,7 @@
 # Cyber Blue: Lost Number Children
 
+![cyber-blue-lost-number-children](https://cdn.myanimelist.net/images/manga/3/101315.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

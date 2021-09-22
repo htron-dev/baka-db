@@ -1,5 +1,7 @@
 # Lupin the IIIrd: Chikemuri no Ishikawa Goemon
 
+![lupin-the-ii-ird-chikemuri-no-ishikawa-goemon](https://cdn.myanimelist.net/images/anime/8/83091.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: LUPIN THE IIIRD 血煙の石川五ェ門

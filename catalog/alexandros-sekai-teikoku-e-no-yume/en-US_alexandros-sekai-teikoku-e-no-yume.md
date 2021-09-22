@@ -1,5 +1,7 @@
 # Alexandros: Sekai Teikoku e no Yume
 
+![alexandros-sekai-teikoku-e-no-yume](https://cdn.myanimelist.net/images/manga/2/177352.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アレクサンドロス～世界帝国への夢～

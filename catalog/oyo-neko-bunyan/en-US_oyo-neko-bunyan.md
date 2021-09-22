@@ -1,5 +1,7 @@
 # Oyo Neko Bunyan
 
+![oyo-neko-bunyan](https://cdn.myanimelist.net/images/anime/11/67981.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: オヨネコ ぶーにゃん

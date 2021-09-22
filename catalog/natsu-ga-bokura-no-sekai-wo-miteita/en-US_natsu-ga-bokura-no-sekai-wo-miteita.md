@@ -1,5 +1,7 @@
 # Natsu ga, Bokura no Sekai wo Miteita
 
+![natsu-ga-bokura-no-sekai-wo-miteita](https://cdn.myanimelist.net/images/manga/1/168293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

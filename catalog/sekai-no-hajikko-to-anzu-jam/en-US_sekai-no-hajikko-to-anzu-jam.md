@@ -1,5 +1,7 @@
 # Sekai no Hajikko to Anzu Jam
 
+![sekai-no-hajikko-to-anzu-jam](https://cdn.myanimelist.net/images/manga/1/174538.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

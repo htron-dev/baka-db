@@ -1,5 +1,7 @@
 # Gokusen Kanketsu-hen
 
+![gokusen-kanketsu-hen](https://cdn.myanimelist.net/images/manga/3/171662.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

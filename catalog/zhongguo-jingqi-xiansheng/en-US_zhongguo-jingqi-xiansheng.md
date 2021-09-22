@@ -1,5 +1,7 @@
 # Zhongguo Jingqi Xiansheng
 
+![zhongguo-jingqi-xiansheng](https://cdn.myanimelist.net/images/anime/6/80096.jpg)
+
 -   **type**: ona
 -   **episodes**: 63
 -   **original-name**: 中国惊奇先生

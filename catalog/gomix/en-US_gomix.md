@@ -1,5 +1,7 @@
 # Gomix
 
+![gomix](https://cdn.myanimelist.net/images/manga/1/190079.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: GOMIX

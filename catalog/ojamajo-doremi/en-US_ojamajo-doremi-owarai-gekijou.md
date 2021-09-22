@@ -1,5 +1,7 @@
 # Ojamajo Doremi: Owarai Gekijou
 
+![ojamajo-doremi-owarai-gekijou](https://cdn.myanimelist.net/images/anime/1257/99982.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: おジャ魔女どれみ お笑い劇場

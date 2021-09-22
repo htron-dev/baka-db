@@ -1,5 +1,7 @@
 # Mayoiga: Tsumi to Batsu
 
+![mayoiga-tsumi-to-batsu](https://cdn.myanimelist.net/images/manga/1/179201.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

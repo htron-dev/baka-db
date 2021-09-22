@@ -1,5 +1,7 @@
 # Sakura, Sakimashita.: Last Springtime of Life
 
+![sakura-sakimashita-last-springtime-of-life](https://cdn.myanimelist.net/images/manga/1/178449.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

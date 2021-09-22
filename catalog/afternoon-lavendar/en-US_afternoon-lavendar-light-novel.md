@@ -1,5 +1,7 @@
 # Afternoon Lavendar
 
+![afternoon-lavendar](https://cdn.myanimelist.net/images/manga/2/118179.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

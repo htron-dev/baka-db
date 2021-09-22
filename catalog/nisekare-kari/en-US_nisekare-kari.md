@@ -1,5 +1,7 @@
 # Nisekare (Kari)
 
+![nisekare-kari](https://cdn.myanimelist.net/images/manga/2/232545.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

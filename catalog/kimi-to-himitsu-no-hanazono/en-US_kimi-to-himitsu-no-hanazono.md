@@ -1,5 +1,7 @@
 # Kimi to Himitsu no Hanazono
 
+![kimi-to-himitsu-no-hanazono](https://cdn.myanimelist.net/images/manga/1/10915.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Soubiwaku Zero no Saikyou Kenshi: demo, Noroi no Soubi (Kawaii) nara 9999-ko Tsuke Houdai
 
+![soubiwaku-zero-no-saikyou-kenshi-demo-noroi-no-soubi-kawaii-nara-9999-ko-tsuke-houdai](https://cdn.myanimelist.net/images/manga/1/244962.jpg)
+
 -   **type**: manga
 -   **original-name**: 装備枠ゼロの最強剣士 でも、呪いの装備(可愛い)なら 9999 個つけ放題
 -   **start-date**: 2019-05-22

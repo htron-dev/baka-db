@@ -1,5 +1,7 @@
 # Shin Naniwa Kinyuudou Gaiden
 
+![shin-naniwa-kinyuudou-gaiden](https://cdn.myanimelist.net/images/manga/2/226762.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

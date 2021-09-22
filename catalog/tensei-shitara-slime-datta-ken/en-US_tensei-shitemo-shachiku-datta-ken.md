@@ -1,5 +1,7 @@
 # Tensei shitemo Shachiku Datta Ken
 
+![tensei-shitemo-shachiku-datta-ken](https://cdn.myanimelist.net/images/manga/2/221903.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生しても社畜だった件
 -   **start-date**: 2018-09-26

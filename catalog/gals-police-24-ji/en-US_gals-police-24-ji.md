@@ -1,5 +1,7 @@
 # Gals Police 24-ji
 
+![gals-police-24-ji](https://cdn.myanimelist.net/images/manga/3/139197.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

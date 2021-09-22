@@ -1,5 +1,7 @@
 # Ansatsu Kyoushitsu
 
+![ansatsu-kyoushitsu](https://cdn.myanimelist.net/images/anime/5/75639.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 暗殺教室

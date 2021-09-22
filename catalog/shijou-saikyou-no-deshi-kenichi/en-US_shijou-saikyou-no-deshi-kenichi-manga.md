@@ -1,5 +1,7 @@
 # Shijou Saikyou no Deshi Kenichi
 
+![shijou-saikyou-no-deshi-kenichi](https://cdn.myanimelist.net/images/manga/2/169883.jpg)
+
 -   **type**: manga
 -   **volumes**: 61
 -   **chapters**: 584

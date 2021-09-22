@@ -1,5 +1,7 @@
 # Cybersix
 
+![cybersix](https://cdn.myanimelist.net/images/anime/5/74732.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: サイバーシックス

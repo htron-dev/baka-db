@@ -1,5 +1,7 @@
 # Yao Shen Ji 2nd Season
 
+![yao-shen-ji-2nd-season](https://cdn.myanimelist.net/images/anime/1643/101532.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 妖神记 第 2 季

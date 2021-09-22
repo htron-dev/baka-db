@@ -1,5 +1,7 @@
 # Kenrantaru Aijin Keiyaku: Toshiue Koushaku-sama no Itoshi no Ballerina
 
+![kenrantaru-aijin-keiyaku-toshiue-koushaku-sama-no-itoshi-no-ballerina](https://cdn.myanimelist.net/images/manga/2/218098.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

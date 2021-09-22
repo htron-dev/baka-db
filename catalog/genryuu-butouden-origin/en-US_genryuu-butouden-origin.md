@@ -1,5 +1,7 @@
 # Genryuu Butouden: Origin
 
+![genryuu-butouden-origin](https://cdn.myanimelist.net/images/manga/2/101429.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

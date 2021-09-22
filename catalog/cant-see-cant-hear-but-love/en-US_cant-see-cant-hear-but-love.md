@@ -1,5 +1,7 @@
 # Can't See Can't Hear But Love
 
+![cant-see-cant-hear-but-love](https://cdn.myanimelist.net/images/manga/2/104251.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 83

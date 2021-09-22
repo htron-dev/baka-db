@@ -1,5 +1,7 @@
 # Aoi no Shima to Neko Ippiki
 
+![aoi-no-shima-to-neko-ippiki](https://cdn.myanimelist.net/images/manga/1/219496.jpg)
+
 -   **type**: manga
 -   **original-name**: 青の島とねこ一匹
 -   **start-date**: 2018-07-17

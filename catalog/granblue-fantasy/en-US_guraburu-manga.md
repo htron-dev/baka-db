@@ -1,5 +1,7 @@
 # Guraburu!
 
+![guraburu](https://cdn.myanimelist.net/images/manga/3/229014.jpg)
+
 -   **type**: manga
 -   **original-name**: ぐらぶるっ！
 -   **start-date**: 2014-03-10

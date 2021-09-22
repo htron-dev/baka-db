@@ -1,5 +1,7 @@
 # Miseinen Lovers
 
+![miseinen-lovers](https://cdn.myanimelist.net/images/manga/3/83106.jpg)
+
 -   **type**: manga
 -   **original-name**: 未成年ｌｏｖｅｒｓ
 

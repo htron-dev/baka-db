@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Fire Emblem - Thracia 776
 
+![super-comic-gekijou-fire-emblem-thracia-776](https://cdn.myanimelist.net/images/manga/3/151600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパーコミック劇場 ファイアーエムブレム トラキア 776

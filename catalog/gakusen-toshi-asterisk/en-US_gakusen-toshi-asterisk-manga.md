@@ -1,5 +1,7 @@
 # Gakusen Toshi Asterisk
 
+![gakusen-toshi-asterisk](https://cdn.myanimelist.net/images/manga/1/183816.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 37

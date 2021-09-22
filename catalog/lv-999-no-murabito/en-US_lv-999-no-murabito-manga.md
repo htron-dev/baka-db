@@ -1,5 +1,7 @@
 # Lv999 no Murabito
 
+![lv-999-no-murabito](https://cdn.myanimelist.net/images/manga/1/204864.jpg)
+
 -   **type**: manga
 -   **original-name**: LV999 の村人
 -   **start-date**: 2017-05-26

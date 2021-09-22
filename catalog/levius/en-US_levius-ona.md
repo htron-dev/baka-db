@@ -1,5 +1,7 @@
 # Levius
 
+![levius](https://cdn.myanimelist.net/images/anime/1329/116479.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: Levius -レビウス-

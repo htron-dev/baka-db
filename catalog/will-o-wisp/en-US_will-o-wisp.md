@@ -1,5 +1,7 @@
 # Will o' Wisp
 
+![will-o-wisp](https://cdn.myanimelist.net/images/manga/3/21682.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

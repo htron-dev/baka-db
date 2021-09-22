@@ -1,5 +1,7 @@
 # Yaritsukai to, Kuroneko.
 
+![yaritsukai-to-kuroneko](https://cdn.myanimelist.net/images/manga/1/192390.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 槍使いと、黒猫。
 -   **start-date**: 2017-02-22

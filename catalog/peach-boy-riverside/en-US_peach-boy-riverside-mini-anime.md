@@ -1,5 +1,7 @@
 # Peach Boy Riverside Mini Anime
 
+![peach-boy-riverside-mini-anime](https://cdn.myanimelist.net/images/anime/1494/116545.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ピーチボーイリバーサイド ミニアニメ

@@ -1,5 +1,7 @@
 # Pokemon Movie 04: Celebi Toki wo Koeta Deai
 
+![pokemon-movie-04-celebi-toki-wo-koeta-deai](https://cdn.myanimelist.net/images/anime/2/41799.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター セレビィ 時を越えた遭遇（であい）
@@ -10,7 +12,6 @@
 
 -   adventure
 -   comedy
-
 -   drama
 -   fantasy
 

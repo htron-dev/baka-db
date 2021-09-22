@@ -1,5 +1,7 @@
 # Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.
 
+![koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita](https://cdn.myanimelist.net/images/manga/1/238602.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。
 -   **start-date**: 2019-02-15

@@ -1,5 +1,7 @@
 # Cardcaptor Sakura: Clear Card-hen
 
+![cardcaptor-sakura-clear-card-hen](https://cdn.myanimelist.net/images/anime/1467/90338.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: カードキャプターさくら クリアカード編

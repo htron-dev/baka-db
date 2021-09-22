@@ -1,5 +1,7 @@
 # Gintama': Enchousen
 
+![gintama-enchousen](https://cdn.myanimelist.net/images/anime/6/75172.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 銀魂' 延長戦
@@ -35,4 +37,4 @@ Gintama': Enchousen includes moments of action-packed intensity along with their
 -   [Official Site](http://www.sunrise-inc.co.jp/gintama/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9427)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15223)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E9%8A%80%E9%AD%82_(%E3%82%A2%E3%83%8B%E3%83%A1)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E9%8A%80%E9%AD%82_%28%E3%82%A2%E3%83%8B%E3%83%A1%29)

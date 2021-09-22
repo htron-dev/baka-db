@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Tomodachi wa Mahoutsukai
 
+![kero-kero-keroppi-no-tomodachi-wa-mahoutsukai](https://cdn.myanimelist.net/images/anime/8/58979.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴの友だちは魔法使い

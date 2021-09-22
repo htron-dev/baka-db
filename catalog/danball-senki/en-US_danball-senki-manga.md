@@ -1,5 +1,7 @@
 # Danball Senki
 
+![danball-senki](https://cdn.myanimelist.net/images/manga/2/109525.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28
@@ -10,7 +12,6 @@
 ## Tags
 
 -   action
-
 -   mecha
 
 ## Authors

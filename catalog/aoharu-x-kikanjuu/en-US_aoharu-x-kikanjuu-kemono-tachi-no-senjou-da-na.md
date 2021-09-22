@@ -1,5 +1,7 @@
 # Aoharu x Kikanjuu: Kemono-tachi no Senjou da na!
 
+![aoharu-x-kikanjuu-kemono-tachi-no-senjou-da-na](https://cdn.myanimelist.net/images/anime/8/76478.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 青春 × 機関銃 獣たちの戦場だなっ！

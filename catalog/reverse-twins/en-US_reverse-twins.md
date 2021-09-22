@@ -1,5 +1,7 @@
 # Reverse Twins
 
+![reverse-twins](https://cdn.myanimelist.net/images/manga/1/160934.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: リバースツインズ

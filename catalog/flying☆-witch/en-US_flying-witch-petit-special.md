@@ -1,5 +1,7 @@
 # Flying Witch Petit Special
 
+![flying-witch-petit-special](https://cdn.myanimelist.net/images/anime/12/81005.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ふらいんぐうぃっち ぷち BD&DVD Vol.1 発売記念編

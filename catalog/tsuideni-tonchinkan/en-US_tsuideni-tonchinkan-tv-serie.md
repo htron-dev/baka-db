@@ -1,5 +1,7 @@
 # Tsuideni Tonchinkan
 
+![tsuideni-tonchinkan](https://cdn.myanimelist.net/images/anime/2/16045.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: ついでにとんちんかん

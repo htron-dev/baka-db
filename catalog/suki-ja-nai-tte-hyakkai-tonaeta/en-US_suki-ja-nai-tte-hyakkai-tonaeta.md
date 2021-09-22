@@ -1,5 +1,7 @@
 # Suki ja Nai tte Hyakkai Tonaeta
 
+![suki-ja-nai-tte-hyakkai-tonaeta](https://cdn.myanimelist.net/images/manga/3/190573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

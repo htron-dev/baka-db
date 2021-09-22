@@ -1,5 +1,7 @@
 # Seijo no Maryoku wa Bannou desu: Mou Hitori no Seijo
 
+![seijo-no-maryoku-wa-bannou-desu-mou-hitori-no-seijo](https://cdn.myanimelist.net/images/manga/3/247684.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖女の魔力は万能です ～もう一人の聖女～
 -   **start-date**: 2020-10-05

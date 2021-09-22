@@ -1,5 +1,7 @@
 # Tensei no Kafka Tsukai
 
+![tensei-no-kafka-tsukai](https://cdn.myanimelist.net/images/manga/3/161058.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

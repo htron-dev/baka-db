@@ -1,5 +1,7 @@
 # Senobi no Housoku
 
+![senobi-no-housoku](https://cdn.myanimelist.net/images/manga/2/85095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

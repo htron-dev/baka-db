@@ -1,5 +1,7 @@
 # Anime Kapibara-san
 
+![anime-kapibara-san](https://cdn.myanimelist.net/images/anime/1819/109679.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: アニメ カピバラさん

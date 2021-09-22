@@ -1,5 +1,7 @@
 # Magic Adventures: The Crystal of Dark
 
+![magic-adventures-the-crystal-of-dark](https://cdn.myanimelist.net/images/anime/1898/115326.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 매직 어드벤처-더 크리스탈 오브 다크

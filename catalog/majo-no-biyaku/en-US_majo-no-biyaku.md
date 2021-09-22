@@ -1,5 +1,7 @@
 # Majo no Biyaku
 
+![majo-no-biyaku](https://cdn.myanimelist.net/images/manga/1/85789.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

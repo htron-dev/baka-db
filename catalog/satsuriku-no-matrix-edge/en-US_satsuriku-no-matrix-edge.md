@@ -1,5 +1,7 @@
 # Satsuriku no Matrix Edge
 
+![satsuriku-no-matrix-edge](https://cdn.myanimelist.net/images/manga/2/177470.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

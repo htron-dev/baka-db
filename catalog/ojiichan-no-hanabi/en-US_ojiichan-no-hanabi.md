@@ -1,5 +1,7 @@
 # Ojiichan no Hanabi
 
+![ojiichan-no-hanabi](https://cdn.myanimelist.net/images/anime/3/74524.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おじいちゃんの花火

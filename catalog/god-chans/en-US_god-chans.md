@@ -1,5 +1,7 @@
 # God-chans
 
+![god-chans](https://cdn.myanimelist.net/images/manga/1/210323.jpg)
+
 -   **type**: manga
 -   **original-name**: ごっどちゃんず
 -   **start-date**: 2017-08-26

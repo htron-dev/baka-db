@@ -1,5 +1,7 @@
 # Boo Boo Boy
 
+![boo-boo-boy](https://cdn.myanimelist.net/images/anime/5/79707.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ブーブーボーイ

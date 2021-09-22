@@ -1,5 +1,7 @@
 # Pokemon + Nobunaga no Yabou: Ranse Iroemaki
 
+![pokemon-nobunaga-no-yabou-ranse-iroemaki](https://cdn.myanimelist.net/images/manga/1/239854.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: ポケモン+ノブナガの野望～ランセ彩絵巻～

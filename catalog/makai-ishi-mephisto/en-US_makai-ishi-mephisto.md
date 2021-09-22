@@ -1,5 +1,7 @@
 # Makai Ishi Mephisto
 
+![makai-ishi-mephisto](https://cdn.myanimelist.net/images/manga/3/68195.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

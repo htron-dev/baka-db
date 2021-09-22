@@ -1,5 +1,7 @@
 # Nayameru Josai no Midori no Kisetsu
 
+![nayameru-josai-no-midori-no-kisetsu](https://cdn.myanimelist.net/images/manga/3/241076.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Momoiro Dogubako
 
+![momoiro-dogubako](https://cdn.myanimelist.net/images/manga/1/81584.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 百いろどうぐばこ

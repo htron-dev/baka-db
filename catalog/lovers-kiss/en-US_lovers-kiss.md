@@ -1,5 +1,7 @@
 # Lovers' Kiss
 
+![lovers-kiss](https://cdn.myanimelist.net/images/manga/2/73029.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ラヴァーズ・キス

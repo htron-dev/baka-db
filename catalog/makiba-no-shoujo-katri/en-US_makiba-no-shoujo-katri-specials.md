@@ -1,5 +1,7 @@
 # Makiba no Shoujo Katri Specials
 
+![makiba-no-shoujo-katri-specials](https://cdn.myanimelist.net/images/anime/11/64133.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 牧場の少女カトリ

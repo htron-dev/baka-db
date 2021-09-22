@@ -1,5 +1,7 @@
 # Gou: Hime-tachi no Sengoku
 
+![gou-hime-tachi-no-sengoku](https://cdn.myanimelist.net/images/manga/3/115143.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 17

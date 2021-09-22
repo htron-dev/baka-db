@@ -1,5 +1,7 @@
 # Toumei Ningen↑↓Kyoutei
 
+![toumei-ningen↑↓-kyoutei](https://cdn.myanimelist.net/images/manga/1/160284.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

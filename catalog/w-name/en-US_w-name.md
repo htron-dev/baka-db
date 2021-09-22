@@ -1,5 +1,7 @@
 # W Name
 
+![w-name](https://cdn.myanimelist.net/images/manga/3/35241.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: Ｗネーム

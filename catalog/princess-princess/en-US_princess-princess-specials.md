@@ -1,5 +1,7 @@
 # Princess Princess Specials
 
+![princess-princess-specials](https://cdn.myanimelist.net/images/anime/2/73602.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: プリンセス・プリンセス

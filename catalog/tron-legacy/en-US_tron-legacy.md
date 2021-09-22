@@ -1,5 +1,7 @@
 # Tron: Legacy
 
+![tron-legacy](https://cdn.myanimelist.net/images/manga/1/60347.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Rousoku-hime
 
+![rousoku-hime](https://cdn.myanimelist.net/images/manga/2/162925.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

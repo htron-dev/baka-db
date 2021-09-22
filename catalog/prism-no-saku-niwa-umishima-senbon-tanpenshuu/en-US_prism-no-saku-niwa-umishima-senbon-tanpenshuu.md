@@ -1,5 +1,7 @@
 # Prism no Saku Niwa: Umishima Senbon Tanpenshuu
 
+![prism-no-saku-niwa-umishima-senbon-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/233726.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kamisama Dolls Specials
 
+![kamisama-dolls-specials](https://cdn.myanimelist.net/images/anime/8/32717.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 神様ドォルズ

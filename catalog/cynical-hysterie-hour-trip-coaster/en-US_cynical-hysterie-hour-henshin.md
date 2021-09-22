@@ -1,5 +1,7 @@
 # Cynical Hysterie Hour: Henshin!
 
+![cynical-hysterie-hour-henshin](https://cdn.myanimelist.net/images/anime/8/27149.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シニカル・ヒステリー・アワー へんしん！

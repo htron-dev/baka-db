@@ -1,5 +1,7 @@
 # Liar x Liar
 
+![liar-x-liar](https://cdn.myanimelist.net/images/manga/2/197565.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 70

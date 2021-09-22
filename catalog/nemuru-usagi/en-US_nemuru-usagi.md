@@ -1,5 +1,7 @@
 # Nemuru Usagi
 
+![nemuru-usagi](https://cdn.myanimelist.net/images/manga/2/27877.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 眠る兎

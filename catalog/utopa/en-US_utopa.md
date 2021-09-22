@@ -1,5 +1,7 @@
 # Utopa
 
+![utopa](https://cdn.myanimelist.net/images/anime/9/76579.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: UTOPA

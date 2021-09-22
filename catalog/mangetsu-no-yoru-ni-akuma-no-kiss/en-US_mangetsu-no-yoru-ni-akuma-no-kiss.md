@@ -1,5 +1,7 @@
 # Mangetsu no Yoru ni Akuma no Kiss
 
+![mangetsu-no-yoru-ni-akuma-no-kiss](https://cdn.myanimelist.net/images/manga/1/101715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

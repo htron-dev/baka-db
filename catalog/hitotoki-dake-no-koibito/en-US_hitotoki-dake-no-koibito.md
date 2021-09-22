@@ -1,5 +1,7 @@
 # Hitotoki dake no Koibito
 
+![hitotoki-dake-no-koibito](https://cdn.myanimelist.net/images/manga/3/172239.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ひとときだけの恋人

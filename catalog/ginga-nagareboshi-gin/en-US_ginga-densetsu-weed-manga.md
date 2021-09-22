@@ -1,5 +1,7 @@
 # Ginga Densetsu Weed
 
+![ginga-densetsu-weed](https://cdn.myanimelist.net/images/manga/5/180197.jpg)
+
 -   **type**: manga
 -   **volumes**: 60
 -   **chapters**: 500

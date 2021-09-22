@@ -1,5 +1,7 @@
 # Kimi to Itsumademo
 
+![kimi-to-itsumademo](https://cdn.myanimelist.net/images/manga/4/104409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

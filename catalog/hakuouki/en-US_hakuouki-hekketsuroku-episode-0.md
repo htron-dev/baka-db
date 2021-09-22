@@ -1,5 +1,7 @@
 # Hakuouki Hekketsuroku Episode 0
 
+![hakuouki-hekketsuroku-episode-0](https://cdn.myanimelist.net/images/anime/9/26949.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 薄桜鬼 特別編 京都回想録

@@ -1,5 +1,7 @@
 # Revenge H
 
+![revenge-h](https://cdn.myanimelist.net/images/manga/3/155068.jpg)
+
 -   **type**: manga
 -   **original-name**: リベンジ H
 -   **start-date**: 2014-06-03

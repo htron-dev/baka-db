@@ -1,5 +1,7 @@
 # Shigatsu wa Kimi no Uso
 
+![shigatsu-wa-kimi-no-uso](https://cdn.myanimelist.net/images/anime/3/67177.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 四月は君の嘘

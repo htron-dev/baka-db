@@ -1,5 +1,7 @@
 # Tokyo Daigaku Monogatari
 
+![tokyo-daigaku-monogatari](https://cdn.myanimelist.net/images/anime/1762/112262.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 東京大学物語

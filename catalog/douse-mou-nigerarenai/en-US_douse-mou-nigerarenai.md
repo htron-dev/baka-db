@@ -1,5 +1,7 @@
 # Douse Mou Nigerarenai
 
+![douse-mou-nigerarenai](https://cdn.myanimelist.net/images/manga/2/227864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

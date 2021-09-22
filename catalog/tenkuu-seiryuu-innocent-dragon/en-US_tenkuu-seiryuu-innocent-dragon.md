@@ -1,5 +1,7 @@
 # Tenkuu Seiryuu - Innocent Dragon
 
+![tenkuu-seiryuu-innocent-dragon](https://cdn.myanimelist.net/images/manga/1/6703.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 天空聖龍～イノセント・ドラゴン～

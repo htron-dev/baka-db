@@ -1,5 +1,7 @@
 # The Third: Sabaku no Hoshi no Apprentice Girl
 
+![the-third-sabaku-no-hoshi-no-apprentice-girl](https://cdn.myanimelist.net/images/manga/2/5053.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ザ・サード 〜砂漠の星のアプレンティスガール〜

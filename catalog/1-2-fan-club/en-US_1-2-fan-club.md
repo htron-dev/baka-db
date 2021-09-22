@@ -1,5 +1,7 @@
 # 1-2 Fan Club
 
+![1-2-fan-club](https://cdn.myanimelist.net/images/manga/1/157787.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: いーあるふぁんくらぶ

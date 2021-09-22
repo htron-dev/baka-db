@@ -1,5 +1,7 @@
 # Otokomae! Beads Club
 
+![otokomae-beads-club](https://cdn.myanimelist.net/images/manga/1/9817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

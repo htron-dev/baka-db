@@ -1,5 +1,7 @@
 # Kuro no Straika
 
+![kuro-no-straika](https://cdn.myanimelist.net/images/manga/3/163000.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 22

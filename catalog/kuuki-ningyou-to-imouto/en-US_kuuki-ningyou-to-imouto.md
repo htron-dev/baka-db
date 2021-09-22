@@ -1,5 +1,7 @@
 # Kuuki Ningyou to Imouto
 
+![kuuki-ningyou-to-imouto](https://cdn.myanimelist.net/images/manga/3/199694.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 44

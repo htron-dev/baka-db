@@ -1,5 +1,7 @@
 # Endless Vide
 
+![endless-vide](https://cdn.myanimelist.net/images/anime/1684/115560.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: フラタニティ「エンドレスヴィーデ」 あんさんぶるスターズ！！ Music ゲームサイズ MV

@@ -1,5 +1,7 @@
 # Itatani-san to Ushiyama-san
 
+![itatani-san-to-ushiyama-san](https://cdn.myanimelist.net/images/manga/3/165461.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

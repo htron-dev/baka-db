@@ -1,5 +1,7 @@
 # Watashi wa Gegege - Shinpika Mizuki Shigeru Den
 
+![watashi-wa-gegege-shinpika-mizuki-shigeru-den](https://cdn.myanimelist.net/images/manga/2/35921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

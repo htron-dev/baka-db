@@ -1,5 +1,7 @@
 # Code Geass: Soubou no Oz Picture Drama
 
+![code-geass-soubou-no-oz-picture-drama](https://cdn.myanimelist.net/images/anime/9/61133.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: コードギアス 双貌のオズ ピクチャードマラ

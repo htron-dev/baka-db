@@ -1,5 +1,7 @@
 # Rambo Sensei
 
+![rambo-sensei](https://cdn.myanimelist.net/images/manga/2/11630.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ランボーセンセー

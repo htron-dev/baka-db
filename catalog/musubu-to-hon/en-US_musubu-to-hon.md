@@ -1,5 +1,7 @@
 # Musubu to Hon.
 
+![musubu-to-hon](https://cdn.myanimelist.net/images/manga/3/246827.jpg)
+
 -   **type**: light-novel
 -   **original-name**: むすぶと本。
 -   **start-date**: 2020-06-26

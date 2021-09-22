@@ -1,5 +1,7 @@
 # Ieneko Nora wa Oogataken ga Nigate
 
+![ieneko-nora-wa-oogataken-ga-nigate](https://cdn.myanimelist.net/images/manga/2/238170.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

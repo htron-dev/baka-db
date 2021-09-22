@@ -1,5 +1,7 @@
 # Tokkou Tennyo
 
+![tokkou-tennyo](https://cdn.myanimelist.net/images/manga/1/32161.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **original-name**: 特攻天女

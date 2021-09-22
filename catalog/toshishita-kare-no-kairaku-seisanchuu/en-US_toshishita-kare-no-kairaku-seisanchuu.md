@@ -1,5 +1,7 @@
 # Toshishita Kare no Kairaku Seisanchuu
 
+![toshishita-kare-no-kairaku-seisanchuu](https://cdn.myanimelist.net/images/manga/1/193504.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

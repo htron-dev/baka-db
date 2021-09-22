@@ -1,5 +1,7 @@
 # Made in Heaven
 
+![made-in-heaven](https://cdn.myanimelist.net/images/manga/2/174834.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

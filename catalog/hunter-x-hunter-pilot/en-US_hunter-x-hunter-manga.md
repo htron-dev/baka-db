@@ -1,5 +1,7 @@
 # Hunter x Hunter
 
+![hunter-x-hunter](https://cdn.myanimelist.net/images/manga/2/192445.jpg)
+
 -   **type**: manga
 -   **original-name**: HUNTER×HUNTER
 -   **start-date**: 1998-03-03

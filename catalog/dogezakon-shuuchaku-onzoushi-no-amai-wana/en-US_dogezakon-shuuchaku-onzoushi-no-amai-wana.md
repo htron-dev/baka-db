@@ -1,5 +1,7 @@
 # Dogezakon!!: Shuuchaku Onzoushi no Amai Wana
 
+![dogezakon-shuuchaku-onzoushi-no-amai-wana](https://cdn.myanimelist.net/images/manga/2/192128.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

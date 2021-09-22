@@ -1,5 +1,7 @@
 # Tensai Bakavon: Yomigaeru Flanders no Inu
 
+![tensai-bakavon-yomigaeru-flanders-no-inu](https://cdn.myanimelist.net/images/anime/11/76904.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天才バカヴォン ～蘇るフランダースの犬～

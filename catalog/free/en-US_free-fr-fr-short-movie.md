@@ -1,5 +1,7 @@
 # Free!: FrFr - Short Movie
 
+![free-fr-fr-short-movie](https://cdn.myanimelist.net/images/anime/3/55083.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: FrFr!～ Free! short movie ～

@@ -1,5 +1,7 @@
 # Bad Badtz-Maru no Ore wa Yuutousei
 
+![bad-badtz-maru-no-ore-wa-yuutousei](https://cdn.myanimelist.net/images/anime/10/72132.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バッドばつ丸のオレは優等生

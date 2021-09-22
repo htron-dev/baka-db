@@ -1,5 +1,7 @@
 # Ani no Yuujin
 
+![ani-no-yuujin](https://cdn.myanimelist.net/images/manga/1/245802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

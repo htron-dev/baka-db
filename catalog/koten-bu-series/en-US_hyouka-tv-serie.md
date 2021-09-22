@@ -1,5 +1,7 @@
 # Hyouka
 
+![hyouka](https://cdn.myanimelist.net/images/anime/13/50521.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 氷菓

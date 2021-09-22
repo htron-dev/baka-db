@@ -1,5 +1,7 @@
 # Hibino Kyoudai
 
+![hibino-kyoudai](https://cdn.myanimelist.net/images/manga/1/187202.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # SAI:Taker: Futari no Artemis
 
+![sai-taker-futari-no-artemis](https://cdn.myanimelist.net/images/manga/2/87435.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

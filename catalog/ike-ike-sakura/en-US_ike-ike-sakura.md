@@ -1,5 +1,7 @@
 # Ike Ike! Sakura
 
+![ike-ike-sakura](https://cdn.myanimelist.net/images/manga/1/5770.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: いけいけ！さくら

@@ -1,5 +1,7 @@
 # Gakusei Shoujo
 
+![gakusei-shoujo](https://cdn.myanimelist.net/images/manga/3/160494.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 楽聖少女

@@ -1,5 +1,7 @@
 # Umi Da! Funade Da! Nikoniko, Pun
 
+![umi-da-funade-da-nikoniko-pun](https://cdn.myanimelist.net/images/anime/3/43743.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海だ! 船出だ! にこにこ, ぷん

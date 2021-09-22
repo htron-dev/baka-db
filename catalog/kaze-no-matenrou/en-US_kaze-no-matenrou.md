@@ -1,5 +1,7 @@
 # Kaze no Matenrou
 
+![kaze-no-matenrou](https://cdn.myanimelist.net/images/manga/1/196563.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

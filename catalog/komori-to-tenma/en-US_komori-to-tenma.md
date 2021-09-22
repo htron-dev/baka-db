@@ -1,5 +1,7 @@
 # Komori to Tenma
 
+![komori-to-tenma](https://cdn.myanimelist.net/images/manga/3/196399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

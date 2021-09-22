@@ -1,5 +1,7 @@
 # Sonic and the Black Knight
 
+![sonic-and-the-black-knight](https://cdn.myanimelist.net/images/manga/2/18004.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: ソニックと暗黒の騎士

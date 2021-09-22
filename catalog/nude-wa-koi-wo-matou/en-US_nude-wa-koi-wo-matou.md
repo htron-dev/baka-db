@@ -1,5 +1,7 @@
 # Nude wa Koi wo Matou
 
+![nude-wa-koi-wo-matou](https://cdn.myanimelist.net/images/manga/2/31278.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヌードは恋を纏う

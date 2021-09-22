@@ -1,5 +1,7 @@
 # Saenai Heroine no Sodatekata: Girls Side
 
+![saenai-heroine-no-sodatekata-girls-side](https://cdn.myanimelist.net/images/manga/1/194299.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Wotaku ni Koi wa Muzukashii
 
+![wotaku-ni-koi-wa-muzukashii](https://cdn.myanimelist.net/images/manga/3/155740.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: ヲタクに恋は難しい

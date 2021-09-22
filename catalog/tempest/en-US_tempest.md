@@ -1,5 +1,7 @@
 # Tempest
 
+![tempest](https://cdn.myanimelist.net/images/manga/1/143451.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

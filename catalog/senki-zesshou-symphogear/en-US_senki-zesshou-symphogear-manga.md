@@ -1,5 +1,7 @@
 # Senki Zesshou Symphogear
 
+![senki-zesshou-symphogear](https://cdn.myanimelist.net/images/manga/1/96399.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

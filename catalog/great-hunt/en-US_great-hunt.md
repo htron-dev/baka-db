@@ -1,5 +1,7 @@
 # Great Hunt
 
+![great-hunt](https://cdn.myanimelist.net/images/anime/5/73514.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 19
 -   **original-name**: Great Hunt (グレートハント)

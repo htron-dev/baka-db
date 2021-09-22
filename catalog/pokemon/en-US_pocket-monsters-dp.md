@@ -1,5 +1,7 @@
 # Pocket Monsters DP
 
+![pocket-monsters-dp](https://cdn.myanimelist.net/images/manga/2/36635.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 58

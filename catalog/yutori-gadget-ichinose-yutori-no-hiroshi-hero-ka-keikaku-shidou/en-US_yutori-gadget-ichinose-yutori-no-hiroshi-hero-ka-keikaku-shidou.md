@@ -1,5 +1,7 @@
 # Yutori Gadget: Ichinose Yutori no Hiroshi Hero-ka Keikaku Shidou!
 
+![yutori-gadget-ichinose-yutori-no-hiroshi-hero-ka-keikaku-shidou](https://cdn.myanimelist.net/images/manga/1/163911.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Sooyojeon
 
+![sooyojeon](https://cdn.myanimelist.net/images/manga/1/14482.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 20
 -   **original-name**: 수요전

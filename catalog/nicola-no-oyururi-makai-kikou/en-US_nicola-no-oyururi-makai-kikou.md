@@ -1,5 +1,7 @@
 # Nicola no Oyururi Makai Kikou
 
+![nicola-no-oyururi-makai-kikou](https://cdn.myanimelist.net/images/manga/3/205670.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Kamen no Kyuuai
 
+![kamen-no-kyuuai](https://cdn.myanimelist.net/images/manga/1/185679.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Haishin Yuusha
 
+![haishin-yuusha](https://cdn.myanimelist.net/images/anime/1070/104956.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 配信勇者

@@ -1,5 +1,7 @@
 # Onna Senshi tte Motenai n desu!
 
+![onna-senshi-tte-motenai-n-desu](https://cdn.myanimelist.net/images/manga/1/237890.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

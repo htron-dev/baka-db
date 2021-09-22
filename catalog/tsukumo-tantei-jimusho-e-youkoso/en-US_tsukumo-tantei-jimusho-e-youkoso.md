@@ -1,5 +1,7 @@
 # Tsukumo Tantei Jimusho e Youkoso
 
+![tsukumo-tantei-jimusho-e-youkoso](https://cdn.myanimelist.net/images/manga/3/9576.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

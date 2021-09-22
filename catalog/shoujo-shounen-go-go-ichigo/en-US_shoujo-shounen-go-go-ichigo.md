@@ -1,5 +1,7 @@
 # Shoujo Shounen - Go! Go! Ichigo
 
+![shoujo-shounen-go-go-ichigo](https://cdn.myanimelist.net/images/manga/3/11405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

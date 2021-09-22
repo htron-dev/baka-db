@@ -1,5 +1,7 @@
 # Huo Xing Wa: Yi Zhi Bao
 
+![huo-xing-wa-yi-zhi-bao](https://cdn.myanimelist.net/images/anime/1512/115376.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 火星娃之益智煲

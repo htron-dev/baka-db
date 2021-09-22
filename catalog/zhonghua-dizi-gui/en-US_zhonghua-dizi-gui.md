@@ -1,5 +1,7 @@
 # Zhonghua Dizi Gui
 
+![zhonghua-dizi-gui](https://cdn.myanimelist.net/images/anime/1085/115348.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 中华弟子规

@@ -1,5 +1,7 @@
 # Osaka Battle Royale
 
+![osaka-battle-royale](https://cdn.myanimelist.net/images/manga/3/235224.jpg)
+
 -   **type**: manga
 -   **original-name**: 大阪バトルロイヤル
 -   **start-date**: 2019-06-30

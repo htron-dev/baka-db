@@ -1,5 +1,7 @@
 # Alien 9
 
+![alien-9](https://cdn.myanimelist.net/images/manga/1/143951.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

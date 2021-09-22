@@ -1,5 +1,7 @@
 # Hametsu no Madouou to Golem no Banhi
 
+![hametsu-no-madouou-to-golem-no-banhi](https://cdn.myanimelist.net/images/manga/1/229477.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 破滅の魔導王とゴーレムの蛮妃
 -   **start-date**: 2018-07-05

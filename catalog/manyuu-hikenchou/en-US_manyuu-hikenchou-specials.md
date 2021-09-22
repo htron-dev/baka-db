@@ -1,5 +1,7 @@
 # Manyuu Hikenchou Specials
 
+![manyuu-hikenchou-specials](https://cdn.myanimelist.net/images/anime/3/29932.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: 魔乳秘剣帖 美乳鍛錬法・乳研ぎ

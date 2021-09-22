@@ -1,5 +1,7 @@
 # Sousoukyoku Nightmare
 
+![sousoukyoku-nightmare](https://cdn.myanimelist.net/images/manga/1/20940.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

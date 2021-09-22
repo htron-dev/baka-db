@@ -1,5 +1,7 @@
 # Iimon Warumon
 
+![iimon-warumon](https://cdn.myanimelist.net/images/manga/3/190460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

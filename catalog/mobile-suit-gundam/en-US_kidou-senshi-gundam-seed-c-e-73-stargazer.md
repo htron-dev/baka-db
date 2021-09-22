@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam SEED C.E.73 Stargazer
 
+![kidou-senshi-gundam-seed-c-e-73-stargazer](https://cdn.myanimelist.net/images/manga/2/36021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

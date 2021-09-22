@@ -1,5 +1,7 @@
 # Eyeshield 21: Maboroshi no Golden Bowl
 
+![eyeshield-21-maboroshi-no-golden-bowl](https://cdn.myanimelist.net/images/anime/6/6087.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アイシールド 21 幻のゴールデンボウル

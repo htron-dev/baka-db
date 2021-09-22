@@ -1,5 +1,7 @@
 # Jashin no Hanayome
 
+![jashin-no-hanayome](https://cdn.myanimelist.net/images/manga/3/243115.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 47

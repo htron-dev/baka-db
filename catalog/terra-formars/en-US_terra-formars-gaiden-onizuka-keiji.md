@@ -1,5 +1,7 @@
 # Terra Formars Gaiden: Onizuka Keiji
 
+![terra-formars-gaiden-onizuka-keiji](https://cdn.myanimelist.net/images/manga/2/178115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

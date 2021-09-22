@@ -1,5 +1,7 @@
 # Sundome!! Milky Way
 
+![sundome-milky-way](https://cdn.myanimelist.net/images/manga/2/198371.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 62

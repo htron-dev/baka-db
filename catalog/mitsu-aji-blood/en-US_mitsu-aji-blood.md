@@ -1,5 +1,7 @@
 # Mitsu-aji Blood
 
+![mitsu-aji-blood](https://cdn.myanimelist.net/images/manga/3/125559.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

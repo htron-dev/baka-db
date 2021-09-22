@@ -1,5 +1,7 @@
 # Hot Shout!!
 
+![hot-shout](https://cdn.myanimelist.net/images/manga/2/49521.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: HOT SHOUT！！

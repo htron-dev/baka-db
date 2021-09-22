@@ -1,5 +1,7 @@
 # Yume de Mita Ano Ko no Tame ni
 
+![yume-de-mita-ano-ko-no-tame-ni](https://cdn.myanimelist.net/images/manga/3/204306.jpg)
+
 -   **type**: manga
 -   **original-name**: 夢で見たあの子のために
 -   **start-date**: 2017-07-04

@@ -1,5 +1,7 @@
 # Tsubaki Knight Club
 
+![tsubaki-knight-club](https://cdn.myanimelist.net/images/manga/3/156149.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 63

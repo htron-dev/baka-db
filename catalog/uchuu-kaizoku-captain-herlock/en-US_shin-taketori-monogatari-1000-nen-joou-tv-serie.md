@@ -1,5 +1,7 @@
 # Shin Taketori Monogatari: 1000-nen Joou
 
+![shin-taketori-monogatari-1000-nen-joou](https://cdn.myanimelist.net/images/anime/11/66489.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: 新竹取物語１０００年女王

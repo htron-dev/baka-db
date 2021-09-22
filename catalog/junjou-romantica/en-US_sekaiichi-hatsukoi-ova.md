@@ -1,5 +1,7 @@
 # Sekaiichi Hatsukoi OVA
 
+![sekaiichi-hatsukoi-ova](https://cdn.myanimelist.net/images/anime/11/35863.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 世界一初恋 OVA

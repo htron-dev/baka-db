@@ -1,5 +1,7 @@
 # Working!!!: Lord of the Takanashi
 
+![working-lord-of-the-takanashi](https://cdn.myanimelist.net/images/anime/10/79375.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: WORKING!!! 第 14 話「ロード・オブ・ザ・小鳥遊」

@@ -1,5 +1,7 @@
 # Mori no Yonkenshi
 
+![mori-no-yonkenshi](https://cdn.myanimelist.net/images/manga/1/179577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 森の四剣士

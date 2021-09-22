@@ -1,5 +1,7 @@
 # Kiseichuu no Ichiya
 
+![kiseichuu-no-ichiya](https://cdn.myanimelist.net/images/anime/3/64693.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 寄生虫の一夜

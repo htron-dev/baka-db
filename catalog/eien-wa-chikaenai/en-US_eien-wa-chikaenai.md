@@ -1,5 +1,7 @@
 # Eien wa Chikaenai
 
+![eien-wa-chikaenai](https://cdn.myanimelist.net/images/manga/3/194552.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 永遠は誓えない

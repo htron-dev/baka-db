@@ -1,5 +1,7 @@
 # Yuushibu. - Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.
 
+![yuushibu-yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita](https://cdn.myanimelist.net/images/manga/2/113675.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 勇しぶ。～勇者になれなかった俺はしぶしぶ就職を決意しました。～

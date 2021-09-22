@@ -1,5 +1,7 @@
 # Bara to Ookami
 
+![bara-to-ookami](https://cdn.myanimelist.net/images/manga/1/229511.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 薔薇と狼

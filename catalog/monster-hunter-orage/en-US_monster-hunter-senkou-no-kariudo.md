@@ -1,5 +1,7 @@
 # Monster Hunter: Senkou no Kariudo
 
+![monster-hunter-senkou-no-kariudo](https://cdn.myanimelist.net/images/manga/3/149654.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 90

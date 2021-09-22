@@ -1,5 +1,7 @@
 # Sarasoujuu no Hana no Iro
 
+![sarasoujuu-no-hana-no-iro](https://cdn.myanimelist.net/images/anime/7/71333.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 娑羅双樹の花の色

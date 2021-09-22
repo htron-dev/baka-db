@@ -1,5 +1,7 @@
 # Amazing Grace: What Color Is Your Attribute?
 
+![amazing-grace-what-color-is-your-attribute](https://cdn.myanimelist.net/images/manga/1/226047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

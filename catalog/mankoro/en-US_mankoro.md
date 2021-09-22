@@ -1,5 +1,7 @@
 # Mankoro
 
+![mankoro](https://cdn.myanimelist.net/images/manga/1/200274.jpg)
+
 -   **type**: manga
 -   **chapters**: 20
 -   **original-name**: 漫殺-マンコロ-

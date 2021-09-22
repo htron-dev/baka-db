@@ -1,5 +1,7 @@
 # 5-ji kara 9-ji made
 
+![5-ji-kara-9-ji-made](https://cdn.myanimelist.net/images/manga/3/162958.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 106

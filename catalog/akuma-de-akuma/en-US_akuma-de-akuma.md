@@ -1,5 +1,7 @@
 # Akuma de Akuma!
 
+![akuma-de-akuma](https://cdn.myanimelist.net/images/manga/3/152332.jpg)
+
 -   **type**: light-novel
 -   **original-name**: あくまで悪魔!
 -   **start-date**: 2014-08-30

@@ -1,5 +1,7 @@
 # Yukemuri Mermaid
 
+![yukemuri-mermaid](https://cdn.myanimelist.net/images/manga/2/131747.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

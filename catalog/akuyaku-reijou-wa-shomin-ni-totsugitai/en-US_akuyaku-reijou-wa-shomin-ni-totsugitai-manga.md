@@ -1,5 +1,7 @@
 # Akuyaku Reijou wa, Shomin ni Totsugitai!!
 
+![akuyaku-reijou-wa-shomin-ni-totsugitai](https://cdn.myanimelist.net/images/manga/2/217288.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢は、庶民に嫁ぎたい!!
 -   **start-date**: 2018-03-06

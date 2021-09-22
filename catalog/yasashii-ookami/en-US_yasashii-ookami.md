@@ -1,5 +1,7 @@
 # Yasashii Ookami
 
+![yasashii-ookami](https://cdn.myanimelist.net/images/anime/6/74511.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: やさしいオオカミ

@@ -1,5 +1,7 @@
 # Prince of Stride: Galaxy Rush
 
+![prince-of-stride-galaxy-rush](https://cdn.myanimelist.net/images/manga/3/170901.jpg)
+
 -   **type**: manga
 -   **original-name**: プリンス・オブ・ストライド GALAXY RUSH
 -   **start-date**: 2015-11-27

@@ -1,5 +1,7 @@
 # Maoujou
 
+![maoujou](https://cdn.myanimelist.net/images/manga/2/156095.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 魔王城

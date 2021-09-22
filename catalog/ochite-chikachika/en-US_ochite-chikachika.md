@@ -1,5 +1,7 @@
 # Ochite Chikachika
 
+![ochite-chikachika](https://cdn.myanimelist.net/images/manga/3/129769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

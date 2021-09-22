@@ -1,5 +1,7 @@
 # Highschool Aurabuster: Hikari no Mezame
 
+![highschool-aurabuster-hikari-no-mezame](https://cdn.myanimelist.net/images/anime/10/3690.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ハイスクール・オーラバスター　光の誕生[めざめ]

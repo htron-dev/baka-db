@@ -1,5 +1,7 @@
 # Cossette no Shouzou
 
+![cossette-no-shouzou](https://cdn.myanimelist.net/images/manga/1/5512.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kujakuou: Sengoku Tensei
 
+![kujakuou-sengoku-tensei](https://cdn.myanimelist.net/images/anime/9/68111.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 孔雀王　～戦国転生～

@@ -1,5 +1,7 @@
 # Mofuku no Himegimi: Karisome no Hatsukoi wa Shitone wo Nurasu
 
+![mofuku-no-himegimi-karisome-no-hatsukoi-wa-shitone-wo-nurasu](https://cdn.myanimelist.net/images/manga/2/184725.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Wotajuu
 
+![wotajuu](https://cdn.myanimelist.net/images/manga/1/242287.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Tobe! Kujira no Peek
 
+![tobe-kujira-no-peek](https://cdn.myanimelist.net/images/anime/1761/103241.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: とべ! くじらのピーク
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   drama
 
 ## Sinopse

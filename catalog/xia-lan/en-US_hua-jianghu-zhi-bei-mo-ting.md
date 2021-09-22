@@ -1,5 +1,7 @@
 # Hua Jianghu Zhi Bei Mo Ting
 
+![hua-jianghu-zhi-bei-mo-ting](https://cdn.myanimelist.net/images/anime/10/85984.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 画江湖之杯莫停

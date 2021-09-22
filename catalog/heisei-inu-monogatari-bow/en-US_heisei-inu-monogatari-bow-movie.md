@@ -1,5 +1,7 @@
 # Heisei Inu Monogatari Bow Movie
 
+![heisei-inu-monogatari-bow-movie](https://cdn.myanimelist.net/images/anime/11/28735.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 平成イヌ物語バウ

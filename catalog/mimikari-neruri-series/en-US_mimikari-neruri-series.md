@@ -1,5 +1,7 @@
 # Mimikari Neruri Series
 
+![mimikari-neruri-series](https://cdn.myanimelist.net/images/manga/3/163879.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Ginrou Blood Bone
 
+![ginrou-blood-bone](https://cdn.myanimelist.net/images/manga/2/163836.jpg)
+
 -   **type**: manga
 -   **original-name**: 銀狼ブラッドボーン
 -   **start-date**: 2015-04-29

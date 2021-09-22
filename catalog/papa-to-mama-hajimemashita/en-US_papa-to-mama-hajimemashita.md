@@ -1,5 +1,7 @@
 # Papa to Mama Hajimemashita.
 
+![papa-to-mama-hajimemashita](https://cdn.myanimelist.net/images/manga/2/88803.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

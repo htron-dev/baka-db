@@ -1,5 +1,7 @@
 # Come Home Come
 
+![come-home-come](https://cdn.myanimelist.net/images/manga/2/11466.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カムホームカム

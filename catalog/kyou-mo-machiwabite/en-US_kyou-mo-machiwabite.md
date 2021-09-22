@@ -1,5 +1,7 @@
 # Kyou mo Machiwabite
 
+![kyou-mo-machiwabite](https://cdn.myanimelist.net/images/manga/2/27070.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 39

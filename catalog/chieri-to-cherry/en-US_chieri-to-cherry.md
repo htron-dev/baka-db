@@ -1,5 +1,7 @@
 # Chieri to Cherry
 
+![chieri-to-cherry](https://cdn.myanimelist.net/images/anime/5/78815.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちえりとチェリー

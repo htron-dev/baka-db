@@ -1,5 +1,7 @@
 # Datenshi Gakuen Devil Paradise
 
+![datenshi-gakuen-devil-paradise](https://cdn.myanimelist.net/images/manga/2/105523.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

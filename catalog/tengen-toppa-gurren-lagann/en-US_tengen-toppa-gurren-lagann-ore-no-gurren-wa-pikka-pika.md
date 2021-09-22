@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!
 
+![tengen-toppa-gurren-lagann-ore-no-gurren-wa-pikka-pika](https://cdn.myanimelist.net/images/anime/10/29189.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 天元突破 グレンラガン 俺のグレンはピッカピカ!!

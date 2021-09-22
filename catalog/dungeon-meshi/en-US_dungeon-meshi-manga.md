@@ -1,5 +1,7 @@
 # Dungeon Meshi
 
+![dungeon-meshi](https://cdn.myanimelist.net/images/manga/3/148949.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンジョン飯
 -   **start-date**: 2014-02-15

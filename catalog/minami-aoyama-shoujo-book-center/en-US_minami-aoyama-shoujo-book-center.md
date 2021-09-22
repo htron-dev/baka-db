@@ -1,5 +1,7 @@
 # Minami Aoyama Shoujo Book Center
 
+![minami-aoyama-shoujo-book-center](https://cdn.myanimelist.net/images/manga/2/162353.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

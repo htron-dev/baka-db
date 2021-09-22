@@ -1,5 +1,7 @@
 # BlazBlue: Alter Memory
 
+![blaz-blue-alter-memory](https://cdn.myanimelist.net/images/anime/10/56137.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ブレイブルー オルターメモリー

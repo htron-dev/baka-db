@@ -1,5 +1,7 @@
 # Black City
 
+![black-city](https://cdn.myanimelist.net/images/manga/2/66491.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

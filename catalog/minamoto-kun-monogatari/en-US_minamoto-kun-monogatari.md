@@ -1,5 +1,7 @@
 # Minamoto-kun Monogatari
 
+![minamoto-kun-monogatari](https://cdn.myanimelist.net/images/manga/2/124721.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 360

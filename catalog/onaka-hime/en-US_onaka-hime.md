@@ -1,5 +1,7 @@
 # Onaka Hime
 
+![onaka-hime](https://cdn.myanimelist.net/images/anime/9/74638.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: おなか姫

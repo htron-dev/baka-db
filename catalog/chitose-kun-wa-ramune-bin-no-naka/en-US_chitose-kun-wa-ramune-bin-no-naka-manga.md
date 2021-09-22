@@ -1,5 +1,7 @@
 # Chitose-kun wa Ramune Bin no Naka
 
+![chitose-kun-wa-ramune-bin-no-naka](https://cdn.myanimelist.net/images/manga/1/235705.jpg)
+
 -   **type**: manga
 -   **original-name**: 千歳くんはラムネ瓶のなか
 -   **start-date**: 2020-04-11

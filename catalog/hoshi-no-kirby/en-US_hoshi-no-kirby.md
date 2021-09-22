@@ -1,5 +1,7 @@
 # Hoshi no Kirby
 
+![hoshi-no-kirby](https://cdn.myanimelist.net/images/manga/1/91651.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 星のカービィ

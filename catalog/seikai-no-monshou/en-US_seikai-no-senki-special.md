@@ -1,5 +1,7 @@
 # Seikai no Senki Special
 
+![seikai-no-senki-special](https://cdn.myanimelist.net/images/anime/3/2754.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 星界の戦旗 特別編

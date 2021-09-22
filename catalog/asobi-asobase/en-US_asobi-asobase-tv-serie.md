@@ -1,5 +1,7 @@
 # Asobi Asobase
 
+![asobi-asobase](https://cdn.myanimelist.net/images/anime/1139/95077.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あそびあそばせ

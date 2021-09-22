@@ -1,5 +1,7 @@
 # Hanayome Shuugyou wa, Togi de no Dannasama no Yorokobasekata
 
+![hanayome-shuugyou-wa-togi-de-no-dannasama-no-yorokobasekata](https://cdn.myanimelist.net/images/manga/3/195058.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 花嫁修業は、伽での旦那様の喜ばせ方

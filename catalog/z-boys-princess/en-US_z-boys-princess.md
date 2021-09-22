@@ -1,5 +1,7 @@
 # Z Boys / Princess
 
+![z-boys-princess](https://cdn.myanimelist.net/images/manga/3/131683.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: Z ぼーいず／ぷりんせす

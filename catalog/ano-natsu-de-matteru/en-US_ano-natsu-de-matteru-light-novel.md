@@ -1,5 +1,7 @@
 # Ano Natsu de Matteru
 
+![ano-natsu-de-matteru](https://cdn.myanimelist.net/images/manga/1/122595.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 30

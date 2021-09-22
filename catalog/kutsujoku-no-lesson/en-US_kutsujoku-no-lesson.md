@@ -1,5 +1,7 @@
 # Kutsujoku no Lesson
 
+![kutsujoku-no-lesson](https://cdn.myanimelist.net/images/manga/2/247275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 屈辱のレッスン

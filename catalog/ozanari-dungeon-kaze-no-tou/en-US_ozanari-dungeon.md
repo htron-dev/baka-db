@@ -1,5 +1,7 @@
 # Ozanari Dungeon
 
+![ozanari-dungeon](https://cdn.myanimelist.net/images/manga/1/35479.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: おざなりダンジョン

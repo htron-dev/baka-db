@@ -1,5 +1,7 @@
 # Tamayomi
 
+![tamayomi](https://cdn.myanimelist.net/images/anime/1126/113909.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 球詠

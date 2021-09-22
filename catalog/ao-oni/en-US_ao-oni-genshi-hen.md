@@ -1,5 +1,7 @@
 # Ao Oni: Genshi-hen
 
+![ao-oni-genshi-hen](https://cdn.myanimelist.net/images/manga/3/230704.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

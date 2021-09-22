@@ -1,5 +1,7 @@
 # The New Gate
 
+![the-new-gate](https://cdn.myanimelist.net/images/manga/3/183226.jpg)
+
 -   **type**: manga
 -   **original-name**: THE NEW GATE
 -   **start-date**: 2014-11-11

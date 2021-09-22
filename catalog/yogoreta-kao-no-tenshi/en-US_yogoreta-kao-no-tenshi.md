@@ -1,5 +1,7 @@
 # Yogoreta Kao no Tenshi
 
+![yogoreta-kao-no-tenshi](https://cdn.myanimelist.net/images/manga/3/155155.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 汚れた顔の天使

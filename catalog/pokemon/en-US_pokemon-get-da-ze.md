@@ -1,5 +1,7 @@
 # Pokémon Get da ze!
 
+![pokemon-get-da-ze](https://cdn.myanimelist.net/images/manga/1/185592.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 79

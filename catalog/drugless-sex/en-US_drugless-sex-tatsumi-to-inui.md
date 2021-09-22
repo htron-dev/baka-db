@@ -1,5 +1,7 @@
 # Drugless Sex: Tatsumi to Inui
 
+![drugless-sex-tatsumi-to-inui](https://cdn.myanimelist.net/images/manga/2/226776.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

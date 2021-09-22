@@ -1,5 +1,7 @@
 # Suki, dakara Furetai.
 
+![suki-dakara-furetai](https://cdn.myanimelist.net/images/manga/3/245923.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

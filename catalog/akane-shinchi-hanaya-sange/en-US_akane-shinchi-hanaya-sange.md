@@ -1,5 +1,7 @@
 # Akane Shinchi Hanaya Sange
 
+![akane-shinchi-hanaya-sange](https://cdn.myanimelist.net/images/manga/3/28526.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

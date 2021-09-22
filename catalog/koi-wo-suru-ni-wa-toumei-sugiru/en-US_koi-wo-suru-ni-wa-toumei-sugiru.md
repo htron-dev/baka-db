@@ -1,5 +1,7 @@
 # Koi wo Suru ni wa Toumei Sugiru
 
+![koi-wo-suru-ni-wa-toumei-sugiru](https://cdn.myanimelist.net/images/manga/1/246785.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

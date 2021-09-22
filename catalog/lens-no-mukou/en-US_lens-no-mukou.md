@@ -1,5 +1,7 @@
 # Lens no Mukou
 
+![lens-no-mukou](https://cdn.myanimelist.net/images/manga/3/158108.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

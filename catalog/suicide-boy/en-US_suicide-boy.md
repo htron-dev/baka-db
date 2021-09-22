@@ -1,5 +1,7 @@
 # Suicide Boy
 
+![suicide-boy](https://cdn.myanimelist.net/images/manga/2/226686.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 자살 소년
 -   **start-date**: 2017-08-12

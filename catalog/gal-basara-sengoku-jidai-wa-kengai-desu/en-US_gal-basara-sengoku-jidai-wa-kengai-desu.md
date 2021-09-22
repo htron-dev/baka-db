@@ -1,5 +1,7 @@
 # Gal Basara: Sengoku Jidai wa Kengai desu!?
 
+![gal-basara-sengoku-jidai-wa-kengai-desu](https://cdn.myanimelist.net/images/manga/2/152424.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ギャルバサラ 戦国時代は圏外です!?

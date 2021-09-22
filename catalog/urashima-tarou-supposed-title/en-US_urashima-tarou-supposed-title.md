@@ -1,5 +1,7 @@
 # Urashima Tarou (supposed title)
 
+![urashima-tarou-supposed-title](https://cdn.myanimelist.net/images/anime/13/17969.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 浦島太郎

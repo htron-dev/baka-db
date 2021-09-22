@@ -1,5 +1,7 @@
 # Arisubyeon-ui Kkumnamu
 
+![arisubyeon-ui-kkumnamu](https://cdn.myanimelist.net/images/anime/11/29304.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 아리수변의 꿈나무

@@ -1,5 +1,7 @@
 # Dokonjou Gaeru
 
+![dokonjou-gaeru](https://cdn.myanimelist.net/images/anime/11/31175.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 103
 -   **original-name**: ど根性ガエル

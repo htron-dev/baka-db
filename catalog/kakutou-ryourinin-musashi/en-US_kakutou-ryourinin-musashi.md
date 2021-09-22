@@ -1,5 +1,7 @@
 # Kakutou Ryourinin Musashi
 
+![kakutou-ryourinin-musashi](https://cdn.myanimelist.net/images/manga/1/152349.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 格闘料理人ムサシ

@@ -1,5 +1,7 @@
 # 888
 
+![888](https://cdn.myanimelist.net/images/manga/3/164431.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 888

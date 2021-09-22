@@ -1,5 +1,7 @@
 # Haou Taikei Ryuu Knight
 
+![haou-taikei-ryuu-knight](https://cdn.myanimelist.net/images/anime/1626/92213.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 覇王大系リューナイト

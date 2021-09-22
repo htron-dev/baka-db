@@ -1,5 +1,7 @@
 # Ninja Batman
 
+![ninja-batman](https://cdn.myanimelist.net/images/manga/1/226817.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

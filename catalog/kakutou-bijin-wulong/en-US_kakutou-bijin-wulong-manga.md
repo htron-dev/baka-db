@@ -1,5 +1,7 @@
 # Kakutou Bijin Wulong
 
+![kakutou-bijin-wulong](https://cdn.myanimelist.net/images/manga/3/31331.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **original-name**: 格闘美神武龍

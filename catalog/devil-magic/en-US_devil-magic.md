@@ -1,5 +1,7 @@
 # Devil Magic
 
+![devil-magic](https://cdn.myanimelist.net/images/manga/3/7270.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

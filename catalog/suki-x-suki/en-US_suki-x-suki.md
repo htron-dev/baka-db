@@ -1,5 +1,7 @@
 # Suki x Suki
 
+![suki-x-suki](https://cdn.myanimelist.net/images/manga/2/193277.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

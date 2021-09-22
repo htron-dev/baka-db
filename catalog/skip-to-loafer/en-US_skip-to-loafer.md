@@ -1,5 +1,7 @@
 # Skip to Loafer
 
+![skip-to-loafer](https://cdn.myanimelist.net/images/manga/3/220669.jpg)
+
 -   **type**: manga
 -   **original-name**: スキップとローファー
 -   **start-date**: 2018-08-25

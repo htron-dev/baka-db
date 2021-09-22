@@ -1,5 +1,7 @@
 # Otome no Hozoshita
 
+![otome-no-hozoshita](https://cdn.myanimelist.net/images/manga/2/233082.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

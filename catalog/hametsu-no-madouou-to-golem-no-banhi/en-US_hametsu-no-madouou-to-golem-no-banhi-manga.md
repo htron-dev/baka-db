@@ -1,5 +1,7 @@
 # Hametsu no Madouou to Golem no Banhi
 
+![hametsu-no-madouou-to-golem-no-banhi](https://cdn.myanimelist.net/images/manga/2/221065.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

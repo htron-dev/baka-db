@@ -1,5 +1,7 @@
 # Koi to Karada no Goshidou wa, Futari dake no Misshitsu de
 
+![koi-to-karada-no-goshidou-wa-futari-dake-no-misshitsu-de](https://cdn.myanimelist.net/images/manga/3/193648.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

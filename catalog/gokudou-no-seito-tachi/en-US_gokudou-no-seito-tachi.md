@@ -1,5 +1,7 @@
 # Gokudou no Seito-tachi
 
+![gokudou-no-seito-tachi](https://cdn.myanimelist.net/images/manga/1/136921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 極道の生徒たち

@@ -1,5 +1,7 @@
 # Adachi to Shimamura
 
+![adachi-to-shimamura](https://cdn.myanimelist.net/images/manga/2/232193.jpg)
+
 -   **type**: manga
 -   **original-name**: 安達としまむら
 -   **start-date**: 2019-05-27

@@ -1,5 +1,7 @@
 # Tabisuru Nuigurumi: Traveling Daru
 
+![tabisuru-nuigurumi-traveling-daru](https://cdn.myanimelist.net/images/anime/1962/112790.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 旅するぬいぐるみ ~Traveling Daru~

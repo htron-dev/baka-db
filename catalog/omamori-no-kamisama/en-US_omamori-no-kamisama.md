@@ -1,5 +1,7 @@
 # Omamori no Kamisama
 
+![omamori-no-kamisama](https://cdn.myanimelist.net/images/manga/2/21606.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

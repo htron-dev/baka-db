@@ -1,5 +1,7 @@
 # Katappashi kara Zenbu Koi
 
+![katappashi-kara-zenbu-koi](https://cdn.myanimelist.net/images/manga/2/172097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

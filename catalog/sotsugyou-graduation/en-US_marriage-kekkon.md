@@ -1,5 +1,7 @@
 # Marriage: Kekkon
 
+![marriage-kekkon](https://cdn.myanimelist.net/images/anime/2/25672.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: Marriage ～結婚～

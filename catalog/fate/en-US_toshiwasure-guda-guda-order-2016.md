@@ -1,5 +1,7 @@
 # Toshiwasure Guda Guda Order 2016
 
+![toshiwasure-guda-guda-order-2016](https://cdn.myanimelist.net/images/anime/1343/109067.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 年忘れぐだぐだオーダー 2016

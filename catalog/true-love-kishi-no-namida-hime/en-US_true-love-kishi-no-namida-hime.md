@@ -1,5 +1,7 @@
 # True Love: Kishi no Namida-hime
 
+![true-love-kishi-no-namida-hime](https://cdn.myanimelist.net/images/manga/3/182805.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

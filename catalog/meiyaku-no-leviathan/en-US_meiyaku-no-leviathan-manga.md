@@ -1,5 +1,7 @@
 # Meiyaku no Leviathan
 
+![meiyaku-no-leviathan](https://cdn.myanimelist.net/images/manga/3/158018.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

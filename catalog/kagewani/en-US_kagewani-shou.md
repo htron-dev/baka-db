@@ -1,5 +1,7 @@
 # Kagewani: Shou
 
+![kagewani-shou](https://cdn.myanimelist.net/images/anime/3/78601.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 影鰐-KAGEWANI-承

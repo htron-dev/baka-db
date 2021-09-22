@@ -1,5 +1,7 @@
 # Himote House: Dai Panic! Minna de Gokiburi Taiji
 
+![himote-house-dai-panic-minna-de-gokiburi-taiji](https://cdn.myanimelist.net/images/anime/1467/100601.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ひもてはうす大パニック！みんなでゴキブリ退治

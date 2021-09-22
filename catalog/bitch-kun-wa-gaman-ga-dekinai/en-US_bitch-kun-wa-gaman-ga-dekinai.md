@@ -1,5 +1,7 @@
 # Bitch-kun wa Gaman ga Dekinai
 
+![bitch-kun-wa-gaman-ga-dekinai](https://cdn.myanimelist.net/images/manga/1/182280.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

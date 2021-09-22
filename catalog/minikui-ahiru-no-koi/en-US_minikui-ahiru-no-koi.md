@@ -1,5 +1,7 @@
 # Minikui Ahiru no Koi
 
+![minikui-ahiru-no-koi](https://cdn.myanimelist.net/images/manga/3/159509.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 50

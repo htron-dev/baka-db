@@ -1,5 +1,7 @@
 # Romeo ga Rival
 
+![romeo-ga-rival](https://cdn.myanimelist.net/images/manga/2/207326.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Hoshikuzu to Hatsukoi: Hyakunen-sou Monogatari
 
+![hoshikuzu-to-hatsukoi-hyakunen-sou-monogatari](https://cdn.myanimelist.net/images/manga/3/212144.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

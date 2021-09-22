@@ -1,5 +1,7 @@
 # Sekkou Boys: Kamigami to Eiyuu no Idol Group
 
+![sekkou-boys-kamigami-to-eiyuu-no-idol-group](https://cdn.myanimelist.net/images/manga/1/173987.jpg)
+
 -   **type**: manga
 -   **original-name**: 石膏ボーイズ ～神々と英雄のアイドルグループ～
 -   **start-date**: 2016-01-12

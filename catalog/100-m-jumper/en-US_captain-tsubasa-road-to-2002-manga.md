@@ -1,5 +1,7 @@
 # Captain Tsubasa: Road to 2002
 
+![captain-tsubasa-road-to-2002](https://cdn.myanimelist.net/images/manga/2/175810.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 145

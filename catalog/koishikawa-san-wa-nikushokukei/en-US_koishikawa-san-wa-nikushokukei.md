@@ -1,5 +1,7 @@
 # Koishikawa-san wa Nikushokukei
 
+![koishikawa-san-wa-nikushokukei](https://cdn.myanimelist.net/images/manga/3/228601.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋屍川さんは肉食系
 -   **start-date**: 2019-03-29

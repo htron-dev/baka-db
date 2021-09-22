@@ -1,5 +1,7 @@
 # Through the Windows
 
+![through-the-windows](https://cdn.myanimelist.net/images/anime/1641/107618.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Through the Windows

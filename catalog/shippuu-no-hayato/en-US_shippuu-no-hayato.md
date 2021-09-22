@@ -1,5 +1,7 @@
 # Shippuu no Hayato
 
+![shippuu-no-hayato](https://cdn.myanimelist.net/images/manga/1/178156.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 63

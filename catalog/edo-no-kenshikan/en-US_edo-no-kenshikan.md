@@ -1,5 +1,7 @@
 # Edo no Kenshikan
 
+![edo-no-kenshikan](https://cdn.myanimelist.net/images/manga/3/225090.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 56

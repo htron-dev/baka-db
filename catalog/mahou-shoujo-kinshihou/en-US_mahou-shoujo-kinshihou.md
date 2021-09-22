@@ -1,5 +1,7 @@
 # Mahou Shoujo Kinshihou
 
+![mahou-shoujo-kinshihou](https://cdn.myanimelist.net/images/manga/1/177011.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 27

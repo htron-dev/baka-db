@@ -1,5 +1,7 @@
 # Maou Dante (2002)
 
+![maou-dante-2002](https://cdn.myanimelist.net/images/manga/3/186145.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 魔王ダンテ

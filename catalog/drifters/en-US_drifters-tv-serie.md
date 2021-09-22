@@ -1,5 +1,7 @@
 # Drifters
 
+![drifters](https://cdn.myanimelist.net/images/anime/10/80271.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: DRIFTERS
@@ -33,4 +35,4 @@ The strange land is populated by all manner of fantastical creatures, as well as
 -   [Official Site](http://www.nbcuni.co.jp/rondorobe/anime/drifters/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11164)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18181)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Drifters_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Drifters_%28manga%29)

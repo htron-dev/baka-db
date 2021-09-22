@@ -1,5 +1,7 @@
 # Asobi ni Iku yo!: Asobi ni Oide - Owari
 
+![asobi-ni-iku-yo-asobi-ni-oide-owari](https://cdn.myanimelist.net/images/anime/6/71912.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あそびにいくヨ! あそびにおいで おわり

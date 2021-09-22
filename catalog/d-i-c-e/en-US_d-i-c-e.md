@@ -1,5 +1,7 @@
 # D.I.C.E.
 
+![d-i-c-e](https://cdn.myanimelist.net/images/anime/1/2523.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: ディノブレイカー
@@ -11,7 +13,6 @@
 
 -   action
 -   adventure
-
 -   mecha
 -   sci-fi
 -   shounen

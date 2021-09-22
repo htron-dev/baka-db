@@ -1,5 +1,7 @@
 # Sword Art Online: Kirito no Aincrad Night
 
+![sword-art-online-kirito-no-aincrad-night](https://cdn.myanimelist.net/images/manga/2/192597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

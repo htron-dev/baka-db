@@ -1,5 +1,7 @@
 # Adam no Junjou
 
+![adam-no-junjou](https://cdn.myanimelist.net/images/manga/5/135841.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

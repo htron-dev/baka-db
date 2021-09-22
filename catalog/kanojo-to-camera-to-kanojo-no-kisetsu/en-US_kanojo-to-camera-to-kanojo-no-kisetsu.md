@@ -1,5 +1,7 @@
 # Kanojo to Camera to Kanojo no Kisetsu
 
+![kanojo-to-camera-to-kanojo-no-kisetsu](https://cdn.myanimelist.net/images/manga/1/106569.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

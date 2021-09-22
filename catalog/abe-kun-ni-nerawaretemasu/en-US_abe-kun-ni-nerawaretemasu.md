@@ -1,5 +1,7 @@
 # Abe-kun ni Nerawaretemasu
 
+![abe-kun-ni-nerawaretemasu](https://cdn.myanimelist.net/images/manga/3/233805.jpg)
+
 -   **type**: manga
 -   **original-name**: 阿部くんに狙われてます
 -   **start-date**: 2018-07-30

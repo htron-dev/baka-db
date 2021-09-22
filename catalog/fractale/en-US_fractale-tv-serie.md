@@ -1,5 +1,7 @@
 # Fractale
 
+![fractale](https://cdn.myanimelist.net/images/anime/2/28197.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: フラクタル

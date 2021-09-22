@@ -1,5 +1,7 @@
 # Angel Cop
 
+![angel-cop](https://cdn.myanimelist.net/images/anime/1377/110296.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: エンジェルコップ

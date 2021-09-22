@@ -1,5 +1,7 @@
 # Gamba to Kawauso no Bouken
 
+![gamba-to-kawauso-no-bouken](https://cdn.myanimelist.net/images/anime/6/69821.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガンバとカワウソの冒険

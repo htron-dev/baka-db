@@ -1,5 +1,7 @@
 # Detatoko Princess
 
+![detatoko-princess](https://cdn.myanimelist.net/images/anime/10/62217.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: でたとこプリンセス

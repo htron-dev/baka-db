@@ -1,5 +1,7 @@
 # Marriage Purple
 
+![marriage-purple](https://cdn.myanimelist.net/images/manga/3/222437.jpg)
+
 -   **type**: manga
 -   **original-name**: マリッジパープル
 -   **start-date**: 2018-07-24

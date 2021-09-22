@@ -1,5 +1,7 @@
 # Boukenyarou Densetsu: Aventurier
 
+![boukenyarou-densetsu-aventurier](https://cdn.myanimelist.net/images/manga/1/40293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

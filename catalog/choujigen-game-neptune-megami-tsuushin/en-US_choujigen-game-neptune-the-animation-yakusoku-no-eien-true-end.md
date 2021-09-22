@@ -1,5 +1,7 @@
 # Choujigen Game Neptune The Animation: Yakusoku no Eien - True End
 
+![choujigen-game-neptune-the-animation-yakusoku-no-eien-true-end](https://cdn.myanimelist.net/images/anime/7/54393.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 超次元ゲイム ネプテューヌ THE ANIMATION 約束の永遠（トゥルーエンド）

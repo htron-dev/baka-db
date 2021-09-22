@@ -1,5 +1,7 @@
 # Soul Messenger
 
+![soul-messenger](https://cdn.myanimelist.net/images/manga/1/55295.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

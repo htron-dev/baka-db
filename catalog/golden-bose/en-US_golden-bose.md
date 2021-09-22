@@ -1,5 +1,7 @@
 # Golden Bose
 
+![golden-bose](https://cdn.myanimelist.net/images/manga/3/235676.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴールデンボーズ
 -   **start-date**: 2019-10-04

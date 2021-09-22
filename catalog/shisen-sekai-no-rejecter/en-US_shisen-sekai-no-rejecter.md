@@ -1,5 +1,7 @@
 # Shisen Sekai no Rejecter
 
+![shisen-sekai-no-rejecter](https://cdn.myanimelist.net/images/manga/1/159292.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

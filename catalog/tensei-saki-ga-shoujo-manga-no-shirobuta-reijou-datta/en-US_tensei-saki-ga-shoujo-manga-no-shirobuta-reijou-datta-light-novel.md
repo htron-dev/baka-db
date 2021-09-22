@@ -1,5 +1,7 @@
 # Tensei-saki ga Shoujo Manga no Shirobuta Reijou datta
 
+![tensei-saki-ga-shoujo-manga-no-shirobuta-reijou-datta](https://cdn.myanimelist.net/images/manga/1/221158.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生先が少女漫画の白豚令嬢だった
 -   **start-date**: 2018-04-13

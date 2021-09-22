@@ -1,5 +1,7 @@
 # Tian You Fan Tong
 
+![tian-you-fan-tong](https://cdn.myanimelist.net/images/anime/1855/115341.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 天有凡童

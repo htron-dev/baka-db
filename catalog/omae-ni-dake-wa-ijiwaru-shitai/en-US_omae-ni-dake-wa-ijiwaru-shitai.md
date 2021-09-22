@@ -1,5 +1,7 @@
 # Omae ni dake wa Ijiwaru shitai
 
+![omae-ni-dake-wa-ijiwaru-shitai](https://cdn.myanimelist.net/images/manga/1/237676.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

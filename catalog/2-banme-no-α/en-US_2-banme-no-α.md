@@ -1,5 +1,7 @@
 # 2-banme no α
 
+![2-banme-no-α](https://cdn.myanimelist.net/images/manga/1/232416.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

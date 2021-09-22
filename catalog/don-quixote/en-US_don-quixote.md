@@ -1,5 +1,7 @@
 # Don Quixote
 
+![don-quixote](https://cdn.myanimelist.net/images/manga/1/121197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

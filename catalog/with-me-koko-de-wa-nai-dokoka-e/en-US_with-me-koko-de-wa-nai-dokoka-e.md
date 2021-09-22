@@ -1,5 +1,7 @@
 # With Me?: Koko de wa Nai Dokoka e
 
+![with-me-koko-de-wa-nai-dokoka-e](https://cdn.myanimelist.net/images/manga/2/197971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

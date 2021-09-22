@@ -1,5 +1,7 @@
 # Oidon to
 
+![oidon-to](https://cdn.myanimelist.net/images/anime/13/86114.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: おいどんと
 -   **start-date**: 2015-12-02

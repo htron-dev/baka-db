@@ -1,5 +1,7 @@
 # Leviathan no Sekai
 
+![leviathan-no-sekai](https://cdn.myanimelist.net/images/manga/1/113607.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: リヴァイアサンのセカイ

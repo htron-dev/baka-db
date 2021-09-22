@@ -1,5 +1,7 @@
 # Mizu ni Sumu Oni
 
+![mizu-ni-sumu-oni](https://cdn.myanimelist.net/images/manga/2/147307.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

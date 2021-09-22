@@ -1,5 +1,7 @@
 # Dumbbell Nan Kilo Moteru?
 
+![dumbbell-nan-kilo-moteru](https://cdn.myanimelist.net/images/anime/1385/101060.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ダンベル何キロ持てる？

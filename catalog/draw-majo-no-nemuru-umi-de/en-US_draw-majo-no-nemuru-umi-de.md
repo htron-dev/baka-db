@@ -1,5 +1,7 @@
 # Draw: Majo no Nemuru Umi de
 
+![draw-majo-no-nemuru-umi-de](https://cdn.myanimelist.net/images/manga/1/162617.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

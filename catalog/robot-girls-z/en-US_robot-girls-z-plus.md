@@ -1,5 +1,7 @@
 # Robot Girls Z Plus
 
+![robot-girls-z-plus](https://cdn.myanimelist.net/images/anime/9/73636.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: ロボットガールズ Z プラス

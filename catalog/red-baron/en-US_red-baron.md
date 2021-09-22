@@ -1,5 +1,7 @@
 # Red Baron
 
+![red-baron](https://cdn.myanimelist.net/images/anime/1596/103314.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: レッドバロン

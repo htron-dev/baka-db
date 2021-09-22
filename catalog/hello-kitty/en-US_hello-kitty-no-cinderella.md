@@ -1,5 +1,7 @@
 # Hello Kitty no Cinderella
 
+![hello-kitty-no-cinderella](https://cdn.myanimelist.net/images/anime/9/72447.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハローキティのシンデレラ

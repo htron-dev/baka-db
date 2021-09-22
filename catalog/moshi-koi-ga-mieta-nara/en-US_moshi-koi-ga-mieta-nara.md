@@ -1,5 +1,7 @@
 # Moshi, Koi ga Mieta nara
 
+![moshi-koi-ga-mieta-nara](https://cdn.myanimelist.net/images/manga/3/238954.jpg)
+
 -   **type**: manga
 -   **original-name**: もし、恋が見えたなら
 -   **start-date**: 2020-06-05

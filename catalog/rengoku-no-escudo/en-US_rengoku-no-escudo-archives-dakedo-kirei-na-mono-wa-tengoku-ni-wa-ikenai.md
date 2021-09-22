@@ -1,5 +1,7 @@
 # Rengoku no Escudo Archives: Dakedo Kirei na Mono wa Tengoku ni wa Ikenai
 
+![rengoku-no-escudo-archives-dakedo-kirei-na-mono-wa-tengoku-ni-wa-ikenai](https://cdn.myanimelist.net/images/manga/3/162624.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

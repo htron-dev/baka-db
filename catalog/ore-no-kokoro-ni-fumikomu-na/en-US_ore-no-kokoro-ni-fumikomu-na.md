@@ -1,5 +1,7 @@
 # Ore no Kokoro ni Fumikomu na!
 
+![ore-no-kokoro-ni-fumikomu-na](https://cdn.myanimelist.net/images/manga/3/72577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

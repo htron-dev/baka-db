@@ -1,5 +1,7 @@
 # Fenrir
 
+![fenrir](https://cdn.myanimelist.net/images/manga/3/234877.jpg)
+
 -   **type**: manga
 -   **original-name**: フェンリル
 -   **start-date**: 2018-08-25

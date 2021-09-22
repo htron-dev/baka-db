@@ -1,5 +1,7 @@
 # Ayane-chan High Kick!
 
+![ayane-chan-high-kick](https://cdn.myanimelist.net/images/anime/7/73296.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 綾音ちゃんハイキック!

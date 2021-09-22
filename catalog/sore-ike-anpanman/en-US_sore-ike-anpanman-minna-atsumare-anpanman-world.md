@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Minna Atsumare! Anpanman World
 
+![sore-ike-anpanman-minna-atsumare-anpanman-world](https://cdn.myanimelist.net/images/anime/8/57713.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン みんな集まれ!アンパンマンワールド

@@ -1,5 +1,7 @@
 # Makehen de! Roku-nen San-kumi no Hanshin Daishinsai
 
+![makehen-de-roku-nen-san-kumi-no-hanshin-daishinsai](https://cdn.myanimelist.net/images/anime/11/68957.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 負けへんで！ ６年３組の阪神大震災

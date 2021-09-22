@@ -1,5 +1,7 @@
 # Vatican Kiseki Chousakan: Majo no Soup
 
+![vatican-kiseki-chousakan-majo-no-soup](https://cdn.myanimelist.net/images/anime/1272/98077.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バチカン奇跡調査官 魔女のスープ

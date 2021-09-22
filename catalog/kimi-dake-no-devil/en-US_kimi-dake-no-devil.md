@@ -1,5 +1,7 @@
 # Kimi dake no Devil
 
+![kimi-dake-no-devil](https://cdn.myanimelist.net/images/manga/3/9485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

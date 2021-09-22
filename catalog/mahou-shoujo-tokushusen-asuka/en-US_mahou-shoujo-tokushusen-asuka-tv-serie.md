@@ -1,5 +1,7 @@
 # Mahou Shoujo Tokushusen Asuka
 
+![mahou-shoujo-tokushusen-asuka](https://cdn.myanimelist.net/images/anime/1514/100469.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法少女特殊戦あすか

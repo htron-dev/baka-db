@@ -1,5 +1,7 @@
 # Kaiki Kurabu
 
+![kaiki-kurabu](https://cdn.myanimelist.net/images/manga/1/57439.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

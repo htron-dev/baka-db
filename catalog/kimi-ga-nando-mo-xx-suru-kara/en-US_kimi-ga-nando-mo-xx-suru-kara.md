@@ -1,5 +1,7 @@
 # Kimi ga Nando mo xx Suru kara
 
+![kimi-ga-nando-mo-xx-suru-kara](https://cdn.myanimelist.net/images/manga/5/194282.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Yoshinaga-san Chi no Gargoyle
 
+![yoshinaga-san-chi-no-gargoyle](https://cdn.myanimelist.net/images/manga/5/207149.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 吉永さん家のガーゴイル

@@ -1,5 +1,7 @@
 # Kanojo wo Mamoru 51 no Houhou
 
+![kanojo-wo-mamoru-51-no-houhou](https://cdn.myanimelist.net/images/manga/3/219800.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

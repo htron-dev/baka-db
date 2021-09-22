@@ -1,5 +1,7 @@
 # Fortune Arterial
 
+![fortune-arterial](https://cdn.myanimelist.net/images/manga/3/188883.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 43

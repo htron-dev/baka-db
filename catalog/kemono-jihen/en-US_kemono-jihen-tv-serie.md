@@ -1,5 +1,7 @@
 # Kemono Jihen
 
+![kemono-jihen](https://cdn.myanimelist.net/images/anime/1258/108331.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 怪物事変

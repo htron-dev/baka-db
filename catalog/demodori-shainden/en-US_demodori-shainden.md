@@ -1,5 +1,7 @@
 # Demodori Shainden
 
+![demodori-shainden](https://cdn.myanimelist.net/images/manga/2/60449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 出戻社員伝

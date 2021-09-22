@@ -1,5 +1,7 @@
 # Monwres: Ishu Kakutou Monster Musume
 
+![monwres-ishu-kakutou-monster-musume](https://cdn.myanimelist.net/images/manga/1/215850.jpg)
+
 -   **type**: manga
 -   **original-name**: もんれす -異種格闘モンスター娘-
 -   **start-date**: 2017-10-30

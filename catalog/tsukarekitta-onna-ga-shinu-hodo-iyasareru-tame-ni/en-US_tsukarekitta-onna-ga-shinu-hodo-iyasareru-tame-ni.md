@@ -1,5 +1,7 @@
 # Tsukarekitta Onna ga Shinu hodo Iyasareru Tame ni.
 
+![tsukarekitta-onna-ga-shinu-hodo-iyasareru-tame-ni](https://cdn.myanimelist.net/images/manga/2/232994.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

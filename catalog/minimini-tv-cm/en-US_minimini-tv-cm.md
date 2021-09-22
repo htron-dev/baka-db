@@ -1,5 +1,7 @@
 # Minimini TV CM
 
+![minimini-tv-cm](https://cdn.myanimelist.net/images/anime/1573/96416.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ミニミニ TVCM

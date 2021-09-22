@@ -1,5 +1,7 @@
 # Mononoke-zoushi
 
+![mononoke-zoushi](https://cdn.myanimelist.net/images/manga/1/144453.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Köln Shikei Odo
 
+![koln-shikei-odo](https://cdn.myanimelist.net/images/manga/1/234294.jpg)
+
 -   **type**: manga
 -   **original-name**: ケルン市警オド
 -   **start-date**: 2015-12-16

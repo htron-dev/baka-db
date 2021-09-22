@@ -1,5 +1,7 @@
 # Shuujin Riku
 
+![shuujin-riku](https://cdn.myanimelist.net/images/manga/2/166789.jpg)
+
 -   **type**: manga
 -   **volumes**: 38
 -   **chapters**: 338

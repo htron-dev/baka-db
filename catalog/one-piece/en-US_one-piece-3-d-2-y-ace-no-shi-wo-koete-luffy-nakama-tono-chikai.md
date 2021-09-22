@@ -1,5 +1,7 @@
 # One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai
 
+![one-piece-3-d-2-y-ace-no-shi-wo-koete-luffy-nakama-tono-chikai](https://cdn.myanimelist.net/images/anime/3/64755.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース〝3D2Y〟 エースの死を越えて！　ルフィ仲間との誓い

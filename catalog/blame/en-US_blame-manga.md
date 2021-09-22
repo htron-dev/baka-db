@@ -1,5 +1,7 @@
 # Blame!
 
+![blame](https://cdn.myanimelist.net/images/manga/1/174389.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 66

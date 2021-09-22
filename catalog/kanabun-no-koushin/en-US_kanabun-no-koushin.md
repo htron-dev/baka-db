@@ -1,5 +1,7 @@
 # Kanabun no Koushin
 
+![kanabun-no-koushin](https://cdn.myanimelist.net/images/anime/1429/95533.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: カナブンの行進

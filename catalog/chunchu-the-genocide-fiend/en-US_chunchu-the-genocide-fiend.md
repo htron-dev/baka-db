@@ -1,5 +1,7 @@
 # Chunchu: The Genocide Fiend
 
+![chunchu-the-genocide-fiend](https://cdn.myanimelist.net/images/manga/3/3516.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **original-name**: 천추

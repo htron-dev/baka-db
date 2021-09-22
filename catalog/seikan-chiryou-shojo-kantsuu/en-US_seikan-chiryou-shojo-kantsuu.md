@@ -1,5 +1,7 @@
 # Seikan Chiryou: Shojo Kantsuu
 
+![seikan-chiryou-shojo-kantsuu](https://cdn.myanimelist.net/images/manga/1/196090.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 性感治療　処女貫通

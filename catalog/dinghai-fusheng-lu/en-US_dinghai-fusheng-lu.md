@@ -1,5 +1,7 @@
 # Dinghai Fusheng Lu
 
+![dinghai-fusheng-lu](https://cdn.myanimelist.net/images/anime/1943/115892.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 定海浮生录

@@ -1,5 +1,7 @@
 # Otome Danshi ni Koisuru Otome
 
+![otome-danshi-ni-koisuru-otome](https://cdn.myanimelist.net/images/manga/1/211094.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 乙女男子に恋する乙女

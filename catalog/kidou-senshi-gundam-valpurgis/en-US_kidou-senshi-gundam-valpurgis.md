@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Valpurgis
 
+![kidou-senshi-gundam-valpurgis](https://cdn.myanimelist.net/images/manga/2/208352.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム ヴァルプルギス
 -   **start-date**: 2017-08-26

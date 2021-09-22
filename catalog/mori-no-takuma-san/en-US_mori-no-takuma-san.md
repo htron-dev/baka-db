@@ -1,5 +1,7 @@
 # Mori no Takuma-san
 
+![mori-no-takuma-san](https://cdn.myanimelist.net/images/manga/2/178244.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

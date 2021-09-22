@@ -1,5 +1,7 @@
 # Instant Vision: 3-punkan no Miraishi Senkoku
 
+![instant-vision-3-punkan-no-miraishi-senkoku](https://cdn.myanimelist.net/images/manga/1/198704.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

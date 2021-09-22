@@ -1,5 +1,7 @@
 # Sidooh
 
+![sidooh](https://cdn.myanimelist.net/images/manga/3/52363.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 266

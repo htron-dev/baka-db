@@ -1,5 +1,7 @@
 # Competent Chairman
 
+![competent-chairman](https://cdn.myanimelist.net/images/manga/3/6630.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

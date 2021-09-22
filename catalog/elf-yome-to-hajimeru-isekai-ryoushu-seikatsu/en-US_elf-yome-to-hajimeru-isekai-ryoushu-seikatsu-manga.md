@@ -1,5 +1,7 @@
 # Elf Yome to Hajimeru Isekai Ryoushu Seikatsu
 
+![elf-yome-to-hajimeru-isekai-ryoushu-seikatsu](https://cdn.myanimelist.net/images/manga/2/195048.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

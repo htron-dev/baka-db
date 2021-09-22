@@ -1,5 +1,7 @@
 # Oli-Oli Soup
 
+![oli-oli-soup](https://cdn.myanimelist.net/images/manga/2/205423.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 72

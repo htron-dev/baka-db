@@ -1,5 +1,7 @@
 # Boku no Hero Academia: Training of the Dead
 
+![boku-no-hero-academia-training-of-the-dead](https://cdn.myanimelist.net/images/anime/1624/111683.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 僕のヒーローアカデミア トレーニング・オブ・ザ・デッド

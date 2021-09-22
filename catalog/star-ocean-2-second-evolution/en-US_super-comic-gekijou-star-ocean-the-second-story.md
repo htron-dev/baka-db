@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Star Ocean - The Second Story
 
+![super-comic-gekijou-star-ocean-the-second-story](https://cdn.myanimelist.net/images/manga/3/151585.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: スターオーシャン セカンドストーリー

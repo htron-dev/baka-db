@@ -1,5 +1,7 @@
 # Proposal no Riyuu
 
+![proposal-no-riyuu](https://cdn.myanimelist.net/images/manga/5/83533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

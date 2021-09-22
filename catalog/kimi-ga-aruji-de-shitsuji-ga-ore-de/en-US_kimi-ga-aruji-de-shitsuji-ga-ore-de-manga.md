@@ -1,5 +1,7 @@
 # Kimi ga Aruji de Shitsuji ga Ore de
 
+![kimi-ga-aruji-de-shitsuji-ga-ore-de](https://cdn.myanimelist.net/images/manga/1/11101.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

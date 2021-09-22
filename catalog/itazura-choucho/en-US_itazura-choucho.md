@@ -1,5 +1,7 @@
 # Itazura Choucho
 
+![itazura-choucho](https://cdn.myanimelist.net/images/manga/1/129025.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

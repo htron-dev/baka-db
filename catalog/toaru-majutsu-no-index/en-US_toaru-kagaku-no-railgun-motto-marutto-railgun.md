@@ -1,5 +1,7 @@
 # Toaru Kagaku no Railgun: Motto Marutto Railgun
 
+![toaru-kagaku-no-railgun-motto-marutto-railgun](https://cdn.myanimelist.net/images/anime/11/21780.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: もっとまるっと超電磁砲

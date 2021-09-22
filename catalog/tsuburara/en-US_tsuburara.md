@@ -1,5 +1,7 @@
 # Tsuburara
 
+![tsuburara](https://cdn.myanimelist.net/images/manga/2/49633.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Joshikousei: Girls-High
 
+![joshikousei-girls-high](https://cdn.myanimelist.net/images/manga/3/152461.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 106

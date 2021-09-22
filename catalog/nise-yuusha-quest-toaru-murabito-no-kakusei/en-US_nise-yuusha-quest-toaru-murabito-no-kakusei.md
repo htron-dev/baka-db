@@ -1,5 +1,7 @@
 # Nise Yuusha Quest: Toaru Murabito no Kakusei
 
+![nise-yuusha-quest-toaru-murabito-no-kakusei](https://cdn.myanimelist.net/images/manga/2/163616.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

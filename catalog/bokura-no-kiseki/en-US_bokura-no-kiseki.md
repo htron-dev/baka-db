@@ -1,5 +1,7 @@
 # Bokura no Kiseki
 
+![bokura-no-kiseki](https://cdn.myanimelist.net/images/manga/3/157890.jpg)
+
 -   **type**: manga
 -   **original-name**: ボクラノキセキ
 -   **start-date**: 2007-11-16

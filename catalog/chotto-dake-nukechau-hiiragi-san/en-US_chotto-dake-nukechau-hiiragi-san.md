@@ -1,5 +1,7 @@
 # Chotto dake Nukechau Hiiragi-san
 
+![chotto-dake-nukechau-hiiragi-san](https://cdn.myanimelist.net/images/manga/3/250094.jpg)
+
 -   **type**: manga
 -   **original-name**: ちょっとだけ抜けちゃう柊さん
 -   **start-date**: 2021-06-24

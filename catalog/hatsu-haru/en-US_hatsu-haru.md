@@ -1,5 +1,7 @@
 # Hatsu\*Haru
 
+![hatsu-haru](https://cdn.myanimelist.net/images/manga/3/187137.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 53

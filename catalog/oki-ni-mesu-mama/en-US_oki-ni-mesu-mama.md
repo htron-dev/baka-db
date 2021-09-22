@@ -1,5 +1,7 @@
 # Oki ni Mesu Mama
 
+![oki-ni-mesu-mama](https://cdn.myanimelist.net/images/manga/3/2747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

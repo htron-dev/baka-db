@@ -1,5 +1,7 @@
 # Traumeister
 
+![traumeister](https://cdn.myanimelist.net/images/manga/5/75551.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

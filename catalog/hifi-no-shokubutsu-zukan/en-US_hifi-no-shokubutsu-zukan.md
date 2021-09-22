@@ -1,5 +1,7 @@
 # Hifi no Shokubutsu Zukan
 
+![hifi-no-shokubutsu-zukan](https://cdn.myanimelist.net/images/manga/2/202387.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 33

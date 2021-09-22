@@ -1,5 +1,7 @@
 # Shigofumi: Sore kara
 
+![shigofumi-sore-kara](https://cdn.myanimelist.net/images/anime/11/9064.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: シゴフミ ソレカラ

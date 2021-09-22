@@ -1,5 +1,7 @@
 # Ran to Haiiro no Sekai
 
+![ran-to-haiiro-no-sekai](https://cdn.myanimelist.net/images/manga/3/152107.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 51

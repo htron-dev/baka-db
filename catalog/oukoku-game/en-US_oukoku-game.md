@@ -1,5 +1,7 @@
 # Oukoku Game
 
+![oukoku-game](https://cdn.myanimelist.net/images/manga/2/188951.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

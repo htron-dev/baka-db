@@ -1,5 +1,7 @@
 # Shijou Saikyou no Mahou Kenshi, F-Rank Boukensha ni Tensei suru: Kensei to Matei, Futatsu no Zense wo Motta Otoko no Eiyuutan
 
+![shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru-kensei-to-matei-futatsu-no-zense-wo-motta-otoko-no-eiyuutan](https://cdn.myanimelist.net/images/manga/1/228848.jpg)
+
 -   **type**: manga
 -   **original-name**: 史上最強の魔法剣士、F ランク冒険者に転生する ～剣聖と魔帝、2 つの前世を持った男の英雄譚～
 -   **start-date**: 2019-09-23

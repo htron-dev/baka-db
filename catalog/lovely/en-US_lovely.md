@@ -1,5 +1,7 @@
 # Lovely
 
+![lovely](https://cdn.myanimelist.net/images/manga/2/6709.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 러블리
 

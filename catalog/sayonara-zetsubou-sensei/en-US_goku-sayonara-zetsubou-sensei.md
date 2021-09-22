@@ -1,5 +1,7 @@
 # Goku Sayonara Zetsubou Sensei
 
+![goku-sayonara-zetsubou-sensei](https://cdn.myanimelist.net/images/anime/10/14336.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 獄・さよなら絶望先生

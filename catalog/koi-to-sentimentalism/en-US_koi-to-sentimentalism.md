@@ -1,5 +1,7 @@
 # Koi to Sentimentalism
 
+![koi-to-sentimentalism](https://cdn.myanimelist.net/images/manga/3/90817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋とセンチメンタリズム

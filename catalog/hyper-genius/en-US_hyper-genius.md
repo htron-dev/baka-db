@@ -1,5 +1,7 @@
 # Hyper Genius
 
+![hyper-genius](https://cdn.myanimelist.net/images/manga/2/23715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハイパージーナス

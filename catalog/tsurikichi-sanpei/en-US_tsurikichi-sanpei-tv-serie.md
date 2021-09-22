@@ -1,5 +1,7 @@
 # Tsurikichi Sanpei
 
+![tsurikichi-sanpei](https://cdn.myanimelist.net/images/anime/12/26896.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 109
 -   **original-name**: 釣りキチ三平

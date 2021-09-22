@@ -1,5 +1,7 @@
 # Final Approach
 
+![final-approach](https://cdn.myanimelist.net/images/anime/11/14607.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: φ なる・あぷろーち

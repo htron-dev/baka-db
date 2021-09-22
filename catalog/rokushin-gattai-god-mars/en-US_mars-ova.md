@@ -1,5 +1,7 @@
 # Mars
 
+![mars](https://cdn.myanimelist.net/images/anime/10/29308.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: マーズ

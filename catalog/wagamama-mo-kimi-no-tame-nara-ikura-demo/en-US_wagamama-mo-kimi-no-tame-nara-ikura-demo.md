@@ -1,5 +1,7 @@
 # Wagamama mo Kimi no Tame Nara Ikura demo
 
+![wagamama-mo-kimi-no-tame-nara-ikura-demo](https://cdn.myanimelist.net/images/manga/1/208342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

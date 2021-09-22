@@ -1,5 +1,7 @@
 # Dungeon-gurashi no Motoyuusha
 
+![dungeon-gurashi-no-motoyuusha](https://cdn.myanimelist.net/images/manga/3/219030.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 52

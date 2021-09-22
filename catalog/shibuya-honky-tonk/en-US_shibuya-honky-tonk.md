@@ -1,5 +1,7 @@
 # Shibuya Honky Tonk
 
+![shibuya-honky-tonk](https://cdn.myanimelist.net/images/manga/1/179708.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 渋谷ホンキィトンク

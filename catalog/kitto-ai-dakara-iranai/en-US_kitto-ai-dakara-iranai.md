@@ -1,5 +1,7 @@
 # Kitto Ai dakara, Iranai
 
+![kitto-ai-dakara-iranai](https://cdn.myanimelist.net/images/manga/2/209452.jpg)
+
 -   **type**: manga
 -   **original-name**: きっと愛だから、いらない
 -   **start-date**: 2017-11-20

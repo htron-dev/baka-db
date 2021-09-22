@@ -1,5 +1,7 @@
 # Koisuru Yankee Girl
 
+![koisuru-yankee-girl](https://cdn.myanimelist.net/images/manga/2/179766.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 恋するヤンキーガール

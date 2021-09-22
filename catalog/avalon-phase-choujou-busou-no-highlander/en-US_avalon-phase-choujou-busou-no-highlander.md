@@ -1,5 +1,7 @@
 # Avalon Phase: Choujou Busou no Highlander
 
+![avalon-phase-choujou-busou-no-highlander](https://cdn.myanimelist.net/images/manga/1/237535.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

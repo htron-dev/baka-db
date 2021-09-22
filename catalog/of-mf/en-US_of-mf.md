@@ -1,5 +1,7 @@
 # Of Mf
 
+![of-mf](https://cdn.myanimelist.net/images/manga/2/19019.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

@@ -1,5 +1,7 @@
 # Kyoukaisenjou no Horako-san
 
+![kyoukaisenjou-no-horako-san](https://cdn.myanimelist.net/images/manga/5/89047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

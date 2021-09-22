@@ -1,5 +1,7 @@
 # Lilly, the Frogs, and the Cool Lil' Brother
 
+![lilly-the-frogs-and-the-cool-lil-brother](https://cdn.myanimelist.net/images/manga/2/12351.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

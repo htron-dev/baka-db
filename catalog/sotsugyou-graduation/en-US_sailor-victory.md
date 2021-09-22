@@ -1,5 +1,7 @@
 # Sailor Victory
 
+![sailor-victory](https://cdn.myanimelist.net/images/anime/5/20063.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 聖羅ヴィクトリー

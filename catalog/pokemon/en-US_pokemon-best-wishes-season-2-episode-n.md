@@ -1,5 +1,7 @@
 # Pokemon Best Wishes! Season 2: Episode N
 
+![pokemon-best-wishes-season-2-episode-n](https://cdn.myanimelist.net/images/anime/7/45749.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: ポケットモンスター ベストウイッシュ シーズン 2 エピソード N
@@ -14,7 +16,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Kenja no Mago: Extra Story
 
+![kenja-no-mago-extra-story](https://cdn.myanimelist.net/images/manga/3/243699.jpg)
+
 -   **type**: manga
 -   **original-name**: 賢者の孫 Extra Story
 -   **start-date**: 2018-07-25

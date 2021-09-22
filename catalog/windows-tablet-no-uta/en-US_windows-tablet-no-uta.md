@@ -1,5 +1,7 @@
 # Windows Tablet no Uta
 
+![windows-tablet-no-uta](https://cdn.myanimelist.net/images/anime/1842/106761.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Windows タブレットのうた

@@ -1,5 +1,7 @@
 # Real Purple
 
+![real-purple](https://cdn.myanimelist.net/images/manga/2/152756.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 15

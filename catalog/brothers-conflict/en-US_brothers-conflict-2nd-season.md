@@ -1,5 +1,7 @@
 # Brothers Conflict 2nd Season
 
+![brothers-conflict-2nd-season](https://cdn.myanimelist.net/images/manga/1/118617.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: BROTHERS CONFLICT 2nd SEASON

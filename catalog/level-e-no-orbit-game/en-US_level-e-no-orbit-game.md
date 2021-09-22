@@ -1,5 +1,7 @@
 # Level E no Orbit Game
 
+![level-e-no-orbit-game](https://cdn.myanimelist.net/images/manga/2/176981.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

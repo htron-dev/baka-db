@@ -1,5 +1,7 @@
 # The Gentleman and the Lady
 
+![the-gentleman-and-the-lady](https://cdn.myanimelist.net/images/manga/2/22834.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

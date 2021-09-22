@@ -1,5 +1,7 @@
 # Toriko
 
+![toriko](https://cdn.myanimelist.net/images/manga/2/25993.jpg)
+
 -   **type**: manga
 -   **volumes**: 43
 -   **chapters**: 396

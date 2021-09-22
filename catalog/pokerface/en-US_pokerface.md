@@ -1,5 +1,7 @@
 # Pokerface
 
+![pokerface](https://cdn.myanimelist.net/images/manga/1/28942.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 코커페이스

@@ -1,5 +1,7 @@
 # Persona 4: The Ultimax Ultra Suplex Hold
 
+![persona-4-the-ultimax-ultra-suplex-hold](https://cdn.myanimelist.net/images/manga/2/211092.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

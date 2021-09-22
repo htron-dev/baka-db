@@ -1,5 +1,7 @@
 # Bakkyuu HIT! Crash B-daman
 
+![bakkyuu-hit-crash-b-daman](https://cdn.myanimelist.net/images/manga/4/32900.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

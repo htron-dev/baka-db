@@ -1,5 +1,7 @@
 # Gokuraku Smile
 
+![gokuraku-smile](https://cdn.myanimelist.net/images/manga/1/10917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 極楽スマイル

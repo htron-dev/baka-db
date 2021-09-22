@@ -1,5 +1,7 @@
 # Zettai Fukujuu Kanojo.
 
+![zettai-fukujuu-kanojo](https://cdn.myanimelist.net/images/manga/3/162589.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 38

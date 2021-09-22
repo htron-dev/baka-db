@@ -1,5 +1,7 @@
 # Sweet Poolside
 
+![sweet-poolside](https://cdn.myanimelist.net/images/manga/2/72979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

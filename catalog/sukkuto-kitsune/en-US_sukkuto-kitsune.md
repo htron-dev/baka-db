@@ -1,5 +1,7 @@
 # Sukkuto Kitsune
 
+![sukkuto-kitsune](https://cdn.myanimelist.net/images/manga/2/20703.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: すっくと狐

@@ -1,5 +1,7 @@
 # Hige wo Soru. Soshite Joshikousei wo Hirou.
 
+![hige-wo-soru-soshite-joshikousei-wo-hirou](https://cdn.myanimelist.net/images/manga/1/219340.jpg)
+
 -   **type**: manga
 -   **original-name**: ひげを剃る。そして女子高生を拾う。
 -   **start-date**: 2018-11-26

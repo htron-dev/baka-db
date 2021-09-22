@@ -1,5 +1,7 @@
 # Servamp
 
+![servamp](https://cdn.myanimelist.net/images/manga/1/151037.jpg)
+
 -   **type**: manga
 -   **original-name**: SERVAMP -サーヴァンプ-
 -   **start-date**: 2011-06-15

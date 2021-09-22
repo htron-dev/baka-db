@@ -1,5 +1,7 @@
 # Hajimete no Hito wa, Kareshi no Otouto.
 
+![hajimete-no-hito-wa-kareshi-no-otouto](https://cdn.myanimelist.net/images/manga/1/241755.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

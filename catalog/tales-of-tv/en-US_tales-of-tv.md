@@ -1,5 +1,7 @@
 # Tales of TV
 
+![tales-of-tv](https://cdn.myanimelist.net/images/manga/2/228011.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 77

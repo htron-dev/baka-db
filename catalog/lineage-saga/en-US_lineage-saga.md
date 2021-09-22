@@ -1,5 +1,7 @@
 # Lineage Saga
 
+![lineage-saga](https://cdn.myanimelist.net/images/manga/3/15117.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Wan Sheng Jie
 
+![wan-sheng-jie](https://cdn.myanimelist.net/images/anime/1854/106930.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 万圣街

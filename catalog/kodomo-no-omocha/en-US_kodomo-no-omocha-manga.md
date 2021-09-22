@@ -1,5 +1,7 @@
 # Kodomo no Omocha
 
+![kodomo-no-omocha](https://cdn.myanimelist.net/images/manga/1/159410.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 54

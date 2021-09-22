@@ -1,5 +1,7 @@
 # Hoshikuzu Gakuen C Course
 
+![hoshikuzu-gakuen-c-course](https://cdn.myanimelist.net/images/manga/1/174438.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

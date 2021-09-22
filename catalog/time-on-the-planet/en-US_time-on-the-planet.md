@@ -1,5 +1,7 @@
 # Time on the Planet
 
+![time-on-the-planet](https://cdn.myanimelist.net/images/anime/1532/90975.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: TIME ON THE PLANET

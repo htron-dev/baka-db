@@ -1,5 +1,7 @@
 # Pretty
 
+![pretty](https://cdn.myanimelist.net/images/manga/1/2344.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 

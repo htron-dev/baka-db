@@ -1,5 +1,7 @@
 # Karan
 
+![karan](https://cdn.myanimelist.net/images/manga/1/137555.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: からん

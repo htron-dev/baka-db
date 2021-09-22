@@ -1,5 +1,7 @@
 # Watashi no Uchi wa Futsuu
 
+![watashi-no-uchi-wa-futsuu](https://cdn.myanimelist.net/images/manga/3/242421.jpg)
+
 -   **type**: manga
 -   **original-name**: わたしの家はフツー
 -   **start-date**: 2020-09-23

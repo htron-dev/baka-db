@@ -1,5 +1,7 @@
 # Kakute Horobita Dystopia
 
+![kakute-horobita-dystopia](https://cdn.myanimelist.net/images/manga/2/162673.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

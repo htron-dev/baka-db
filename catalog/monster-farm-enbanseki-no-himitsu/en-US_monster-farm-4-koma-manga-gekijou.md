@@ -1,5 +1,7 @@
 # Monster Farm: 4-koma Manga Gekijou
 
+![monster-farm-4-koma-manga-gekijou](https://cdn.myanimelist.net/images/manga/4/152207.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: モンスターファーム 4 コママンガ劇場

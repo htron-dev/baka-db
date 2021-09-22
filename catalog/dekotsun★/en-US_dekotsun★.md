@@ -1,5 +1,7 @@
 # Dekotsun★
 
+![dekotsun★](https://cdn.myanimelist.net/images/manga/1/159371.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 60

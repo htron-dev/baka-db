@@ -1,5 +1,7 @@
 # Ano Natsu, Kimi to Aruita Umi
 
+![ano-natsu-kimi-to-aruita-umi](https://cdn.myanimelist.net/images/manga/1/18391.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

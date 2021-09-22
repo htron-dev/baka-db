@@ -1,5 +1,7 @@
 # Fujitsu Na Koibito
 
+![fujitsu-na-koibito](https://cdn.myanimelist.net/images/manga/1/42478.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

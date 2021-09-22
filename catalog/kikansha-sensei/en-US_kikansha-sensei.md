@@ -1,5 +1,7 @@
 # Kikansha Sensei
 
+![kikansha-sensei](https://cdn.myanimelist.net/images/anime/8/59801.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機関車先生

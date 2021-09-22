@@ -1,5 +1,7 @@
 # Oshioki yo!
 
+![oshioki-yo](https://cdn.myanimelist.net/images/manga/2/169347.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

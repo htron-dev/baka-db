@@ -1,5 +1,7 @@
 # Yogosasete yo, Megane-san
 
+![yogosasete-yo-megane-san](https://cdn.myanimelist.net/images/manga/3/246862.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

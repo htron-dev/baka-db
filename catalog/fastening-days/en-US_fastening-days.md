@@ -1,5 +1,7 @@
 # Fastening Days
 
+![fastening-days](https://cdn.myanimelist.net/images/anime/10/68209.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: FASTENING DAYS

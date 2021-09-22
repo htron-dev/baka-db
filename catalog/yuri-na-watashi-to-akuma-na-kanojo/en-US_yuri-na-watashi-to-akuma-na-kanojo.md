@@ -1,5 +1,7 @@
 # Yuri na Watashi to Akuma na Kanojo(?)
 
+![yuri-na-watashi-to-akuma-na-kanojo](https://cdn.myanimelist.net/images/manga/1/166915.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

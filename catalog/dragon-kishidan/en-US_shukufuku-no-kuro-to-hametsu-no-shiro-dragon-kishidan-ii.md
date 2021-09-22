@@ -1,5 +1,7 @@
 # Shukufuku no Kuro to Hametsu no Shiro - Dragon Kishidan II
 
+![shukufuku-no-kuro-to-hametsu-no-shiro-dragon-kishidan-ii](https://cdn.myanimelist.net/images/manga/3/149511.jpg)
+
 -   **type**: manga
 -   **original-name**: 祝福の黒と破滅の白 ドラゴン騎士団 Ⅱ
 -   **start-date**: 2013-12-28

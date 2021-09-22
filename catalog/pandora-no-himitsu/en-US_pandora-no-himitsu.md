@@ -1,5 +1,7 @@
 # Pandora no Himitsu
 
+![pandora-no-himitsu](https://cdn.myanimelist.net/images/manga/2/26273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パンドラの秘密

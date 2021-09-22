@@ -1,5 +1,7 @@
 # Jane and Harlequin
 
+![jane-and-harlequin](https://cdn.myanimelist.net/images/manga/3/164078.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 제인과 할리퀸

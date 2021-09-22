@@ -1,5 +1,7 @@
 # Hoshi no Ko Poron
 
+![hoshi-no-ko-poron](https://cdn.myanimelist.net/images/anime/13/31037.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 260
 -   **original-name**: 星の子ポロン

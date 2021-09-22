@@ -1,5 +1,7 @@
 # Uryuudou Yumebanashi
 
+![uryuudou-yumebanashi](https://cdn.myanimelist.net/images/manga/3/124729.jpg)
+
 -   **type**: manga
 -   **original-name**: 雨柳堂夢咄
 

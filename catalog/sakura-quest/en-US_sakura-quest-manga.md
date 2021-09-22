@@ -1,5 +1,7 @@
 # Sakura Quest
 
+![sakura-quest](https://cdn.myanimelist.net/images/manga/1/195933.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: サクラクエスト

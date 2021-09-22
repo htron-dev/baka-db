@@ -1,5 +1,7 @@
 # Tatsu no Otoshigo
 
+![tatsu-no-otoshigo](https://cdn.myanimelist.net/images/manga/2/98065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

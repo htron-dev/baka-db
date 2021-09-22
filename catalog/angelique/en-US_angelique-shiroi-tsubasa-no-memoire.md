@@ -1,5 +1,7 @@
 # Angelique: Shiroi Tsubasa no Memoire
 
+![angelique-shiroi-tsubasa-no-memoire](https://cdn.myanimelist.net/images/anime/5/17872.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: アンジェリーク　～白い翼のメモワール～

@@ -1,5 +1,7 @@
 # Sabakareshi Mono
 
+![sabakareshi-mono](https://cdn.myanimelist.net/images/manga/2/25402.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

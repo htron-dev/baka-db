@@ -1,5 +1,7 @@
 # Soitogete, Ryuujin-san
 
+![soitogete-ryuujin-san](https://cdn.myanimelist.net/images/manga/3/234784.jpg)
+
 -   **type**: manga
 -   **original-name**: 添い遂げて、竜人さん
 -   **start-date**: 2019-02-14

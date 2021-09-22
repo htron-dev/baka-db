@@ -1,5 +1,7 @@
 # Minato Machi Neko Machi
 
+![minato-machi-neko-machi](https://cdn.myanimelist.net/images/manga/2/35917.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 港町猫町

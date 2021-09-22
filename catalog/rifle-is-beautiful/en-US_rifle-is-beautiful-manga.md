@@ -1,5 +1,7 @@
 # Rifle Is Beautiful
 
+![rifle-is-beautiful](https://cdn.myanimelist.net/images/manga/2/201996.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 180

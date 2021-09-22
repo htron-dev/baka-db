@@ -1,5 +1,7 @@
 # Tsuki no Yoru Hoshi no Asa
 
+![tsuki-no-yoru-hoshi-no-asa](https://cdn.myanimelist.net/images/manga/1/28770.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 月の夜 星の朝

@@ -1,5 +1,7 @@
 # Zoku Naniwa Yuukyouden
 
+![zoku-naniwa-yuukyouden](https://cdn.myanimelist.net/images/anime/10/52719.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 続なにわ遊侠伝

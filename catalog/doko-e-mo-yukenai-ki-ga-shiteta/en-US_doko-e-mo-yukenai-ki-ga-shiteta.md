@@ -1,5 +1,7 @@
 # Doko e mo Yukenai Ki ga Shiteta
 
+![doko-e-mo-yukenai-ki-ga-shiteta](https://cdn.myanimelist.net/images/manga/3/70461.jpg)
+
 -   **type**: manga
 -   **original-name**: どこへも ゆけない気がしてた
 

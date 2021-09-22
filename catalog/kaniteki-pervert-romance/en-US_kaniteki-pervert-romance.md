@@ -1,5 +1,7 @@
 # Kaniteki Pervert Romance
 
+![kaniteki-pervert-romance](https://cdn.myanimelist.net/images/manga/2/232582.jpg)
+
 -   **type**: manga
 -   **original-name**: 簡易的パーバートロマンス
 -   **start-date**: 2016-03-25

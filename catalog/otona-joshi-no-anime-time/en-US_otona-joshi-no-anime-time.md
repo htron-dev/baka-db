@@ -1,5 +1,7 @@
 # Otona Joshi no Anime Time
 
+![otona-joshi-no-anime-time](https://cdn.myanimelist.net/images/anime/11/28531.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 大人女子のアニメタイム

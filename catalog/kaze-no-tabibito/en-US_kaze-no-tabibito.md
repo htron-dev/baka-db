@@ -1,5 +1,7 @@
 # Kaze no Tabibito
 
+![kaze-no-tabibito](https://cdn.myanimelist.net/images/anime/4/66159.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 風の旅人

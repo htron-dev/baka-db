@@ -1,5 +1,7 @@
 # Godspeed
 
+![godspeed](https://cdn.myanimelist.net/images/manga/1/154140.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

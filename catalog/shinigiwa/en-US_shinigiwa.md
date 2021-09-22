@@ -1,5 +1,7 @@
 # Shinigiwa
 
+![shinigiwa](https://cdn.myanimelist.net/images/manga/3/186431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

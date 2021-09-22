@@ -1,5 +1,7 @@
 # Tamagotchi! Yume Kira Dream
 
+![tamagotchi-yume-kira-dream](https://cdn.myanimelist.net/images/anime/13/42957.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: たまごっち! ゆめキラドリーム

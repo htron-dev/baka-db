@@ -1,5 +1,7 @@
 # 3D Material
 
+![3-d-material](https://cdn.myanimelist.net/images/manga/2/20734.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

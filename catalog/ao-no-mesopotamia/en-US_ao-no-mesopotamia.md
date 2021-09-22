@@ -1,5 +1,7 @@
 # Ao no Mesopotamia
 
+![ao-no-mesopotamia](https://cdn.myanimelist.net/images/manga/3/168294.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 青のメソポタミア

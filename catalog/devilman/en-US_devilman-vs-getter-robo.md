@@ -1,5 +1,7 @@
 # Devilman vs Getter Robo
 
+![devilman-vs-getter-robo](https://cdn.myanimelist.net/images/manga/2/183220.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Sore wa Totsuzen, Unmei no Aite ga
 
+![sore-wa-totsuzen-unmei-no-aite-ga](https://cdn.myanimelist.net/images/manga/1/109607.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

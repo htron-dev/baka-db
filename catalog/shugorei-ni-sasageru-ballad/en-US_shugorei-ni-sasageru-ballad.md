@@ -1,5 +1,7 @@
 # Shugorei ni Sasageru Ballad
 
+![shugorei-ni-sasageru-ballad](https://cdn.myanimelist.net/images/manga/3/153898.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

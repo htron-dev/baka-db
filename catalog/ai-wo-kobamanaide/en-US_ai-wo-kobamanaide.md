@@ -1,5 +1,7 @@
 # Ai wo Kobamanaide
 
+![ai-wo-kobamanaide](https://cdn.myanimelist.net/images/manga/3/227509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛を拒まないで

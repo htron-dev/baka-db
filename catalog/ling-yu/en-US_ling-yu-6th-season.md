@@ -1,5 +1,7 @@
 # Ling Yu 6th Season
 
+![ling-yu-6th-season](https://cdn.myanimelist.net/images/anime/1623/92960.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 灵域 追忆篇

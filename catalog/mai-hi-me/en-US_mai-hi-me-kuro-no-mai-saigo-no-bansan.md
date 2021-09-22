@@ -1,5 +1,7 @@
 # Mai-HiME: Kuro no Mai/Saigo no Bansan
 
+![mai-hi-me-kuro-no-mai-saigo-no-bansan](https://cdn.myanimelist.net/images/anime/11/19697.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 舞-HiME: 黒の舞／最後の晩餐

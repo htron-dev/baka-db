@@ -1,5 +1,7 @@
 # Hanazakari no Kimitachi e: After School
 
+![hanazakari-no-kimitachi-e-after-school](https://cdn.myanimelist.net/images/manga/3/35850.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

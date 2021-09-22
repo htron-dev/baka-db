@@ -1,5 +1,7 @@
 # Koori no Hakushaku: Muku naru Otome wa Ai ni Madou
 
+![koori-no-hakushaku-muku-naru-otome-wa-ai-ni-madou](https://cdn.myanimelist.net/images/manga/3/191888.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

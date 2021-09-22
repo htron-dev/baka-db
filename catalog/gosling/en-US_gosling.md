@@ -1,5 +1,7 @@
 # Gosling
 
+![gosling](https://cdn.myanimelist.net/images/manga/1/163655.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

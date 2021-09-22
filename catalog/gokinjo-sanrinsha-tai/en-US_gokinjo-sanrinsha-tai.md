@@ -1,5 +1,7 @@
 # Gokinjo Sanrinsha-tai
 
+![gokinjo-sanrinsha-tai](https://cdn.myanimelist.net/images/manga/2/227566.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

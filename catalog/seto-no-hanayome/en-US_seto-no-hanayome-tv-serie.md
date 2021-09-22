@@ -1,5 +1,7 @@
 # Seto no Hanayome
 
+![seto-no-hanayome](https://cdn.myanimelist.net/images/anime/13/58383.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 瀬戸の花嫁

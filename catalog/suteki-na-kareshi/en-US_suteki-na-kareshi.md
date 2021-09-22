@@ -1,5 +1,7 @@
 # Suteki na Kareshi
 
+![suteki-na-kareshi](https://cdn.myanimelist.net/images/manga/2/179111.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 59

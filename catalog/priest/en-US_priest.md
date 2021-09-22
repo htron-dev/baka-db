@@ -1,5 +1,7 @@
 # Priest
 
+![priest](https://cdn.myanimelist.net/images/manga/2/558.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 16
 -   **chapters**: 160

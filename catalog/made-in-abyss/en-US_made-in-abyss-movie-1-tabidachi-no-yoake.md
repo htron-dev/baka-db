@@ -1,5 +1,7 @@
 # Made in Abyss Movie 1: Tabidachi no Yoake
 
+![made-in-abyss-movie-1-tabidachi-no-yoake](https://cdn.myanimelist.net/images/anime/1173/95167.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版総集編【前編】メイドインアビス 旅立ちの夜明け

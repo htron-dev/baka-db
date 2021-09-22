@@ -1,5 +1,7 @@
 # Neon-Bana
 
+![neon-bana](https://cdn.myanimelist.net/images/manga/2/37803.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ネオン華

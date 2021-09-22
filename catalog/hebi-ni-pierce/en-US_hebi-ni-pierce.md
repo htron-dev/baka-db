@@ -1,5 +1,7 @@
 # Hebi ni Pierce
 
+![hebi-ni-pierce](https://cdn.myanimelist.net/images/manga/2/150743.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 蛇にピアス

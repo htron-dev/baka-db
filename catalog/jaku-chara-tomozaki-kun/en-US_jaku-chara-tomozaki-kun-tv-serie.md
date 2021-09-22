@@ -1,5 +1,7 @@
 # Jaku-Chara Tomozaki-kun
 
+![jaku-chara-tomozaki-kun](https://cdn.myanimelist.net/images/anime/1120/109232.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 弱キャラ友崎くん

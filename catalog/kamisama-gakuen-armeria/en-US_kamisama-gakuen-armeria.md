@@ -1,5 +1,7 @@
 # Kamisama Gakuen@Armeria
 
+![kamisama-gakuen-armeria](https://cdn.myanimelist.net/images/manga/3/162672.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 36

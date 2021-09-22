@@ -1,5 +1,7 @@
 # Rune Masquer
 
+![rune-masquer](https://cdn.myanimelist.net/images/manga/3/57091.jpg)
+
 -   **type**: manga
 -   **original-name**: 機神幻想ルーンマスカー
 

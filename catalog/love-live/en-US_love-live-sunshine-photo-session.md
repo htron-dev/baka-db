@@ -1,5 +1,7 @@
 # Love Live! Sunshine!! Photo Session
 
+![love-live-sunshine-photo-session](https://cdn.myanimelist.net/images/anime/1402/105711.jpg)
+
 -   **type**: movie
 -   **episodes**: 10
 -   **original-name**: ラブライブ！サンシャイン!!フォトセッション

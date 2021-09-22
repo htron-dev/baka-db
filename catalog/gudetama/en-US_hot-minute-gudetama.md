@@ -1,5 +1,7 @@
 # Hot Minute: Gudetama
 
+![hot-minute-gudetama](https://cdn.myanimelist.net/images/anime/4/77725.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぐでたま

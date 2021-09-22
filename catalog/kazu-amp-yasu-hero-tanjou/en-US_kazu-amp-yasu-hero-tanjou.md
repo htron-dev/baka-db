@@ -1,5 +1,7 @@
 # Kazu &amp; Yasu Hero Tanjou
 
+![kazu-amp-yasu-hero-tanjou](https://cdn.myanimelist.net/images/anime/9/53667.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: KAZU&YASU ヒーロー誕生

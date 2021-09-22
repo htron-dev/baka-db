@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00I 2314
 
+![mobile-suit-gundam-00-i-2314](https://cdn.myanimelist.net/images/manga/2/39908.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

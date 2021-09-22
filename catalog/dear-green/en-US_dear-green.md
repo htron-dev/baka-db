@@ -1,5 +1,7 @@
 # Dear Green
 
+![dear-green](https://cdn.myanimelist.net/images/manga/1/5937.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

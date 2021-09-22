@@ -1,5 +1,7 @@
 # Itsuwari no Miko: Seinaru Chikara wa Otoko-tachi no Me de Migakareru
 
+![itsuwari-no-miko-seinaru-chikara-wa-otoko-tachi-no-me-de-migakareru](https://cdn.myanimelist.net/images/manga/3/194686.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 偽りの巫女～聖なる力は男達の愛で磨かれる～

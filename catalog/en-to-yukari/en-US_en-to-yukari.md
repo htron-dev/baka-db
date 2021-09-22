@@ -1,5 +1,7 @@
 # En to Yukari
 
+![en-to-yukari](https://cdn.myanimelist.net/images/manga/1/235888.jpg)
+
 -   **type**: manga
 -   **original-name**: エンとゆかり
 -   **start-date**: 2018-11-19

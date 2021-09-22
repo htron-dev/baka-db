@@ -1,5 +1,7 @@
 # Pucca 2
 
+![pucca-2](https://cdn.myanimelist.net/images/anime/13/29860.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 짜장소녀 뿌까

@@ -1,5 +1,7 @@
 # Ryuurouden: Chuugen Ryouran-hen
 
+![ryuurouden-chuugen-ryouran-hen](https://cdn.myanimelist.net/images/manga/1/193331.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 106

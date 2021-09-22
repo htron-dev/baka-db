@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's
 
+![yu☆-gi☆-oh-5-ds-shinkasuru-kettou-stardust-vs-red-demons](https://cdn.myanimelist.net/images/anime/8/10786.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 遊 ☆ 戯 ☆ 王 5D's 進化する決闘! スターダスト VS レッド・デーモンズ

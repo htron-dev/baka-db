@@ -1,5 +1,7 @@
 # Venus Kiss
 
+![venus-kiss](https://cdn.myanimelist.net/images/manga/2/2499.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

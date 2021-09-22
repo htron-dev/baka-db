@@ -1,5 +1,7 @@
 # Dr. Slump N-cha! Arale no Oshioki! Idea Dorobou wo Yattsuke-cha e
 
+![dr-slump-n-cha-arale-no-oshioki-idea-dorobou-wo-yattsuke-cha-e](https://cdn.myanimelist.net/images/anime/1463/99398.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ドクタースランプ んちゃ!アラレのおしおき!アイデア泥棒をやっつけちゃえ

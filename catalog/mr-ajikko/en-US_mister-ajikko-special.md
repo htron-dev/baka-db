@@ -1,5 +1,7 @@
 # Mister Ajikko Special
 
+![mister-ajikko-special](https://cdn.myanimelist.net/images/anime/7/64113.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 味将軍七包丁人だよ! 全員集合

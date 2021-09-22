@@ -1,5 +1,7 @@
 # Love Phantom
 
+![love-phantom](https://cdn.myanimelist.net/images/manga/3/161180.jpg)
+
 -   **type**: manga
 -   **original-name**: ラブファントム
 -   **start-date**: 2014-12-08

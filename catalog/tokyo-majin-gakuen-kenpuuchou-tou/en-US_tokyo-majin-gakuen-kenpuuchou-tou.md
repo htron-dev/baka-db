@@ -1,5 +1,7 @@
 # Tokyo Majin Gakuen Kenpuuchou: Tou
 
+![tokyo-majin-gakuen-kenpuuchou-tou](https://cdn.myanimelist.net/images/manga/1/18539.jpg)
+
 -   **type**: manga
 -   **original-name**: 東京魔人学園剣風帖 龍龍（龖）
 

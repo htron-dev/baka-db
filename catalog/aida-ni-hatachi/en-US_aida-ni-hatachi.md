@@ -1,5 +1,7 @@
 # Aida ni Hatachi
 
+![aida-ni-hatachi](https://cdn.myanimelist.net/images/manga/3/226241.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

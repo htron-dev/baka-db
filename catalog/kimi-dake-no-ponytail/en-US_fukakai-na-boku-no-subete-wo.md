@@ -1,5 +1,7 @@
 # Fukakai na Boku no Subete wo
 
+![fukakai-na-boku-no-subete-wo](https://cdn.myanimelist.net/images/manga/3/216480.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 不可解なぼくのすべてを

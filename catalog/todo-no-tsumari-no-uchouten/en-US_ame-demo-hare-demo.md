@@ -1,5 +1,7 @@
 # Ame demo Hare demo
 
+![ame-demo-hare-demo](https://cdn.myanimelist.net/images/manga/2/235586.jpg)
+
 -   **type**: manga
 -   **original-name**: 雨でも晴れでも
 -   **start-date**: 2019-12-26

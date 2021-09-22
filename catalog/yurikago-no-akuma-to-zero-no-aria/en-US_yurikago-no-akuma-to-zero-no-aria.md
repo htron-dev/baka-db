@@ -1,5 +1,7 @@
 # Yurikago no Akuma to Zero no Aria
 
+![yurikago-no-akuma-to-zero-no-aria](https://cdn.myanimelist.net/images/manga/2/161099.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Phi Brain: Kami no Puzzle - Orpheus Order-hen
 
+![phi-brain-kami-no-puzzle-orpheus-order-hen](https://cdn.myanimelist.net/images/anime/11/39033.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ファイ・ブレイン ～神のパズル オルペウス・オーダー編

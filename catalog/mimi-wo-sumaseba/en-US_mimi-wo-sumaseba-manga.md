@@ -1,5 +1,7 @@
 # Mimi wo Sumaseba
 
+![mimi-wo-sumaseba](https://cdn.myanimelist.net/images/manga/2/176055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

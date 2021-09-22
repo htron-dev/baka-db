@@ -1,5 +1,7 @@
 # Zoids Wild 2
 
+![zoids-wild-2](https://cdn.myanimelist.net/images/manga/2/227570.jpg)
+
 -   **type**: manga
 -   **original-name**: ゾイドワイルド 2
 -   **start-date**: 2019-08-10
@@ -9,7 +11,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   mecha
 -   sci-fi
 

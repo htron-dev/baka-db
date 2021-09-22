@@ -1,5 +1,7 @@
 # Lupin III: Pilot Film (1978)
 
+![lupin-iii-pilot-film-1978](https://cdn.myanimelist.net/images/anime/8/50931.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ルパン三世 シークレットファイル

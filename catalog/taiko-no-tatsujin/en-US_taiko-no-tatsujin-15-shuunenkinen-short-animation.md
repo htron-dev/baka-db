@@ -1,5 +1,7 @@
 # Taiko no Tatsujin: 15 Shuunenkinen Short Animation
 
+![taiko-no-tatsujin-15-shuunenkinen-short-animation](https://cdn.myanimelist.net/images/anime/10/74714.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 太鼓の達人 15 周年記念ショートアニメーション

@@ -1,5 +1,7 @@
 # Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu
 
+![youkai-watch-jam-youkai-gakuen-y-n-to-no-souguu](https://cdn.myanimelist.net/images/anime/1276/104362.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 63
 -   **original-name**: 妖怪ウォッチ Jam 妖怪学園 Y N との遭遇
@@ -13,11 +15,8 @@
 
 -   comedy
 -   demons
-
 -   supernatural
 -   school
-
-## Sinopse
 
 ## Links
 

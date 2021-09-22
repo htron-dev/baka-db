@@ -1,5 +1,7 @@
 # Shichinin no Nana
 
+![shichinin-no-nana](https://cdn.myanimelist.net/images/manga/2/4065.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

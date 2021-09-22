@@ -1,5 +1,7 @@
 # TANK S.W.A.T. 01
 
+![tank-s-w-a-t-01](https://cdn.myanimelist.net/images/anime/2/34555.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 警察戦車隊

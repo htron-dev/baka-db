@@ -1,5 +1,7 @@
 # Sketchbook: Full Color's
 
+![sketchbook-full-colors](https://cdn.myanimelist.net/images/anime/6/14706.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: スケッチブック ～ full color's ～
@@ -27,4 +29,4 @@ Just like herself, all of Sora's fellow art club members have their own vivid im
 -   [My Anime list](https://myanimelist.net/anime/2942/Sketchbook__Full_Colors)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5186)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8031)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Sketchbook_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Sketchbook_%28manga%29)

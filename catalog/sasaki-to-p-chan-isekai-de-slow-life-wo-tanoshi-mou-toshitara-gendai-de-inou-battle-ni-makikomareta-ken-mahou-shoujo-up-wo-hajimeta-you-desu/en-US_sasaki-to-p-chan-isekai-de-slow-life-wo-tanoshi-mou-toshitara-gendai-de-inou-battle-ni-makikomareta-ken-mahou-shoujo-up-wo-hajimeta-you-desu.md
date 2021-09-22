@@ -1,5 +1,7 @@
 # Sasaki to P-chan: Isekai de Slow Life wo Tanoshi Mou toshitara, Gendai de Inou Battle ni Makikomareta Ken - Mahou Shoujo Up wo Hajimeta you desu
 
+![sasaki-to-p-chan-isekai-de-slow-life-wo-tanoshi-mou-toshitara-gendai-de-inou-battle-ni-makikomareta-ken-mahou-shoujo-up-wo-hajimeta-you-desu](https://cdn.myanimelist.net/images/manga/1/247866.jpg)
+
 -   **type**: manga
 -   **original-name**: 佐々木とピーちゃん 異世界でスローライフを楽しもうとしたら、現代で異能バトルに巻き込まれた件 ～魔法少女がアップを始めたようです～
 -   **start-date**: 2021-01-22

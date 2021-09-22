@@ -1,5 +1,7 @@
 # Gekkou SS
 
+![gekkou-ss](https://cdn.myanimelist.net/images/manga/3/106921.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 2
 -   **original-name**: 月光 SS

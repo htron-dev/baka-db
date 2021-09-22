@@ -1,5 +1,7 @@
 # Juuza no Ulna
 
+![juuza-no-ulna](https://cdn.myanimelist.net/images/manga/2/173946.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 38

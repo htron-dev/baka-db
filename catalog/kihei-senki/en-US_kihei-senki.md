@@ -1,5 +1,7 @@
 # Kihei Senki
 
+![kihei-senki](https://cdn.myanimelist.net/images/manga/2/226697.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

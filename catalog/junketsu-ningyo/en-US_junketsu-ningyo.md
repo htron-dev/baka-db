@@ -1,5 +1,7 @@
 # Junketsu Ningyo
 
+![junketsu-ningyo](https://cdn.myanimelist.net/images/manga/1/19444.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

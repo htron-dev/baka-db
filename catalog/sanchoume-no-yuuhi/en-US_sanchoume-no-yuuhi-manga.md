@@ -1,5 +1,7 @@
 # Sanchoume no Yuuhi
 
+![sanchoume-no-yuuhi](https://cdn.myanimelist.net/images/manga/3/36185.jpg)
+
 -   **type**: manga
 -   **original-name**: 三丁目の夕日
 

@@ -1,5 +1,7 @@
 # Fujimi no Meinichi
 
+![fujimi-no-meinichi](https://cdn.myanimelist.net/images/manga/1/239403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

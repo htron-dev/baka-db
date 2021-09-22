@@ -1,5 +1,7 @@
 # Dancing Policeman
 
+![dancing-policeman](https://cdn.myanimelist.net/images/manga/1/87159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

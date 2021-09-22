@@ -1,5 +1,7 @@
 # Watashitachi no Shiawase na Jikan
 
+![watashitachi-no-shiawase-na-jikan](https://cdn.myanimelist.net/images/manga/3/66993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

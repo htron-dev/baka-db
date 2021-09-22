@@ -1,5 +1,7 @@
 # Kimi to Kamihikooki to. Meguri
 
+![kimi-to-kamihikooki-to-meguri](https://cdn.myanimelist.net/images/manga/3/154780.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

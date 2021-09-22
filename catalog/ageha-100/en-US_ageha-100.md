@@ -1,5 +1,7 @@
 # Ageha 100%
 
+![ageha-100](https://cdn.myanimelist.net/images/manga/1/144327.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

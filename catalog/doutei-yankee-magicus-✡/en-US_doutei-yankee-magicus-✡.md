@@ -1,5 +1,7 @@
 # Doutei Yankee Magicus✡
 
+![doutei-yankee-magicus-✡](https://cdn.myanimelist.net/images/manga/2/232486.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

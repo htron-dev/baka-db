@@ -1,5 +1,7 @@
 # Manga Nihon Keizai Nyuumon
 
+![manga-nihon-keizai-nyuumon](https://cdn.myanimelist.net/images/anime/9/29513.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: マンガ日本経済入門

@@ -1,5 +1,7 @@
 # Hito ni Ienai Aidagara
 
+![hito-ni-ienai-aidagara](https://cdn.myanimelist.net/images/manga/1/36588.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

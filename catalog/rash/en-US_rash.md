@@ -1,5 +1,7 @@
 # Rash!!
 
+![rash](https://cdn.myanimelist.net/images/manga/3/6783.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

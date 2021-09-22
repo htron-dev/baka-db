@@ -1,5 +1,7 @@
 # Himitsu no Kare
 
+![himitsu-no-kare](https://cdn.myanimelist.net/images/manga/2/153509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

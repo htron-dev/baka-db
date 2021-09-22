@@ -1,5 +1,7 @@
 # Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
 
+![itai-no-wa-iya-nanode-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu](https://cdn.myanimelist.net/images/manga/1/217780.jpg)
+
 -   **type**: manga
 -   **original-name**: 痛いのは嫌なので防御力に極振りしたいと思います。
 -   **start-date**: 2018-05-26

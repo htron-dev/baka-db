@@ -1,5 +1,7 @@
 # Xiao Huli Faming Ji
 
+![xiao-huli-faming-ji](https://cdn.myanimelist.net/images/anime/1664/115501.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 小狐狸发明记

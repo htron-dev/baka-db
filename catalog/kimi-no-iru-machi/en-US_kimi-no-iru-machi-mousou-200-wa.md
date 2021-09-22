@@ -1,5 +1,7 @@
 # Kimi no Iru Machi: Mousou 200-wa
 
+![kimi-no-iru-machi-mousou-200-wa](https://cdn.myanimelist.net/images/manga/3/212732.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

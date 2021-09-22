@@ -1,5 +1,7 @@
 # Claymore
 
+![claymore](https://cdn.myanimelist.net/images/manga/5/25982.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 159

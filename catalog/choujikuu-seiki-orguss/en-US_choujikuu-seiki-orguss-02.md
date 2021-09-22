@@ -1,5 +1,7 @@
 # Choujikuu Seiki Orguss 02
 
+![choujikuu-seiki-orguss-02](https://cdn.myanimelist.net/images/anime/7/13797.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 超時空世紀オーガス 02

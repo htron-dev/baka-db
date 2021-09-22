@@ -1,5 +1,7 @@
 # Wolf's Rain OVA
 
+![wolfs-rain-ova](https://cdn.myanimelist.net/images/anime/3/22397.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ウルフズ・レイン

@@ -1,5 +1,7 @@
 # Ore no Osanazuma ga Mukusugite Kawaisugite Shinbou Tamaran! Otona na Heika ni Torotoro ni Amayakasaremakuri
 
+![ore-no-osanazuma-ga-mukusugite-kawaisugite-shinbou-tamaran-otona-na-heika-ni-torotoro-ni-amayakasaremakuri](https://cdn.myanimelist.net/images/manga/3/200062.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

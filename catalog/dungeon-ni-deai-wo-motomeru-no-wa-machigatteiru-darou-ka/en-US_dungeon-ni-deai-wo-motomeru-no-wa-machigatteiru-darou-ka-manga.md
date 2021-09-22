@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka](https://cdn.myanimelist.net/images/manga/2/121555.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 89

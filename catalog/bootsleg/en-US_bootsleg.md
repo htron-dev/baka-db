@@ -1,5 +1,7 @@
 # Bootsleg
 
+![bootsleg](https://cdn.myanimelist.net/images/manga/2/235004.jpg)
+
 -   **type**: manga
 -   **original-name**: ブーツレグ
 -   **start-date**: 2019-03-26

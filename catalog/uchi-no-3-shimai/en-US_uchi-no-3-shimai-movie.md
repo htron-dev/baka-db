@@ -1,5 +1,7 @@
 # Uchi no 3 Shimai Movie
 
+![uchi-no-3-shimai-movie](https://cdn.myanimelist.net/images/anime/1969/99522.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: えいが うちの 3 姉妹

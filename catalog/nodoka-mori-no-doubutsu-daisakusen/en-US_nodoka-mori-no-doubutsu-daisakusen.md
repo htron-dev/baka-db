@@ -1,5 +1,7 @@
 # Nodoka Mori no Doubutsu Daisakusen
 
+![nodoka-mori-no-doubutsu-daisakusen](https://cdn.myanimelist.net/images/anime/9/26508.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: のどか森の動物大作戦

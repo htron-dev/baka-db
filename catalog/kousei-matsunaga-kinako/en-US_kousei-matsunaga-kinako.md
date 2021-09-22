@@ -1,5 +1,7 @@
 # Kousei/Matsunaga Kinako
 
+![kousei-matsunaga-kinako](https://cdn.myanimelist.net/images/manga/3/247560.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

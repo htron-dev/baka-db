@@ -1,5 +1,7 @@
 # Sangoku Yuugi Tao-ten
 
+![sangoku-yuugi-tao-ten](https://cdn.myanimelist.net/images/manga/3/36073.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13
@@ -15,8 +17,6 @@
 
 -   Tashiro
 -   Takuya (Story & Art)
-
-## Sinopse
 
 ## Links
 

@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Flesh-Colored Horror
 
+![ito-junji-kyoufu-manga-collection-flesh-colored-horror](https://cdn.myanimelist.net/images/manga/3/79113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Anime-ban Little★Nicky: Henachoko Akuma Nicky no NY Taikenki
 
+![anime-ban-little★-nicky-henachoko-akuma-nicky-no-ny-taikenki](https://cdn.myanimelist.net/images/anime/1375/93755.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: アニメ版リトル ★ ニッキー〜へなちょこ悪魔ニッキーのＮＹ体験記〜

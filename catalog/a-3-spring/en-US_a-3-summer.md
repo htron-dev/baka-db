@@ -1,5 +1,7 @@
 # A3! Summer
 
+![a-3-summer](https://cdn.myanimelist.net/images/manga/1/235794.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

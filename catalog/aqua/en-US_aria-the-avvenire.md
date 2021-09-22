@@ -1,5 +1,7 @@
 # Aria the Avvenire
 
+![aria-the-avvenire](https://cdn.myanimelist.net/images/anime/10/74338.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ARIA The AVVENIRE
@@ -27,4 +29,4 @@ Now that Akari Mizunashi is a Prima Undine and head of the Aria Company with her
 -   [Official Site](http://www.ariacompany.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11059)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16769)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Aria_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Aria_%28manga%29)

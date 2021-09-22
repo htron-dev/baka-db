@@ -1,5 +1,7 @@
 # Kaibutsu Oujo
 
+![kaibutsu-oujo](https://cdn.myanimelist.net/images/anime/2/20946.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 怪物王女

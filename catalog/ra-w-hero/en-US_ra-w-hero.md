@@ -1,5 +1,7 @@
 # RaW Hero
 
+![ra-w-hero](https://cdn.myanimelist.net/images/manga/3/215834.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 41

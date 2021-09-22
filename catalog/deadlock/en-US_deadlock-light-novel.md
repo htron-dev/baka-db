@@ -1,5 +1,7 @@
 # Deadlock
 
+![deadlock](https://cdn.myanimelist.net/images/manga/3/34262.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: デッドロック

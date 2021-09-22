@@ -1,5 +1,7 @@
 # Hasu no Yousei: Bonyo Bonyo
 
+![hasu-no-yousei-bonyo-bonyo](https://cdn.myanimelist.net/images/anime/11/86122.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ハスの妖精 ぼにょぼにょ

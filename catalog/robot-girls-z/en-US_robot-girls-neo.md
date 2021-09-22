@@ -1,5 +1,7 @@
 # Robot Girls Neo
 
+![robot-girls-neo](https://cdn.myanimelist.net/images/anime/1806/93449.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ロボットガールズ NEO

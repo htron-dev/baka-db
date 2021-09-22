@@ -1,5 +1,7 @@
 # Bartender à Paris
 
+![bartender-a-paris](https://cdn.myanimelist.net/images/manga/3/215960.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 42

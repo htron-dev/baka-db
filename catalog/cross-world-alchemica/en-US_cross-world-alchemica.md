@@ -1,5 +1,7 @@
 # Cross World Alchemica
 
+![cross-world-alchemica](https://cdn.myanimelist.net/images/manga/1/176240.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

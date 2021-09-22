@@ -1,5 +1,7 @@
 # Arifureta Shokugyou de Sekai Saikyou Specials
 
+![arifureta-shokugyou-de-sekai-saikyou-specials](https://cdn.myanimelist.net/images/anime/1634/102577.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ありふれた職業で世界最強

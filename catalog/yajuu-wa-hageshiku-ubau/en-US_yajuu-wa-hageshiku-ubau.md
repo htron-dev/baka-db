@@ -1,5 +1,7 @@
 # Yajuu wa Hageshiku Ubau
 
+![yajuu-wa-hageshiku-ubau](https://cdn.myanimelist.net/images/manga/3/201208.jpg)
+
 -   **type**: manga
 -   **original-name**: 野獣は激しく奪う
 -   **start-date**: 2014-07-25

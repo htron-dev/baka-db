@@ -1,5 +1,7 @@
 # Harmony
 
+![harmony](https://cdn.myanimelist.net/images/manga/3/174755.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Ore no Pantsu ga Nerawareteita.
 
+![ore-no-pantsu-ga-nerawareteita](https://cdn.myanimelist.net/images/manga/1/173223.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

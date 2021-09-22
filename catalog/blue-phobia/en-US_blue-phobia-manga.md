@@ -1,5 +1,7 @@
 # Blue Phobia
 
+![blue-phobia](https://cdn.myanimelist.net/images/manga/1/208992.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

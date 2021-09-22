@@ -1,5 +1,7 @@
 # Hiyama Kentarou no Ninshin
 
+![hiyama-kentarou-no-ninshin](https://cdn.myanimelist.net/images/manga/1/246273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Koi-iro Byoutou
 
+![koi-iro-byoutou](https://cdn.myanimelist.net/images/manga/3/128857.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋色病棟
 -   **start-date**: 2013-12-25

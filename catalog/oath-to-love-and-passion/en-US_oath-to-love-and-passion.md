@@ -1,5 +1,7 @@
 # Oath to Love and Passion
 
+![oath-to-love-and-passion](https://cdn.myanimelist.net/images/manga/2/10560.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 

@@ -1,5 +1,7 @@
 # Kemono to Chat
 
+![kemono-to-chat](https://cdn.myanimelist.net/images/manga/3/39572.jpg)
+
 -   **type**: manga
 -   **original-name**: けものとチャット
 

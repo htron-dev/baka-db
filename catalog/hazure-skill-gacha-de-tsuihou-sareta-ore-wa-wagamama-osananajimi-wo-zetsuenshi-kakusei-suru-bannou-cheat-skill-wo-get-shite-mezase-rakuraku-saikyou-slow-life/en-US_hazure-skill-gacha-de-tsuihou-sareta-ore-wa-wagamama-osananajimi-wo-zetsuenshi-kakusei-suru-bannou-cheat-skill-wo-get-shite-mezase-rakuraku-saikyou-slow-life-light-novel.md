@@ -1,5 +1,7 @@
 # Hazure Skill "Gacha" de Tsuihou Sareta Ore wa, Wagamama Osananajimi wo Zetsuenshi Kakusei suru: Bannou Cheat Skill wo Get shite, Mezase Rakuraku Saikyou Slow Life!
 
+![hazure-skill-gacha-de-tsuihou-sareta-ore-wa-wagamama-osananajimi-wo-zetsuenshi-kakusei-suru-bannou-cheat-skill-wo-get-shite-mezase-rakuraku-saikyou-slow-life](https://cdn.myanimelist.net/images/manga/2/245293.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ハズレスキル『ガチャ』で追放された俺は、わがまま幼馴染を絶縁し覚醒する　～万能チートスキルをゲットして、目指せ楽々最強スローライフ!～
 -   **start-date**: 2020-10-30

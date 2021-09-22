@@ -1,5 +1,7 @@
 # Shounen yo Tambi wo Idake
 
+![shounen-yo-tambi-wo-idake](https://cdn.myanimelist.net/images/manga/1/22542.jpg)
+
 -   **type**: manga
 -   **original-name**: 少年よ耽美を描け
 

@@ -1,5 +1,7 @@
 # Togainu no Chi Anthology - Shiki Maniax
 
+![togainu-no-chi-anthology-shiki-maniax](https://cdn.myanimelist.net/images/manga/2/31433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

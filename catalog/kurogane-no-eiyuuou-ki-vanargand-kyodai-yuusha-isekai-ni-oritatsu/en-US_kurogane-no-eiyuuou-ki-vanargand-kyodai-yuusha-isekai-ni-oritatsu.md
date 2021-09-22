@@ -1,5 +1,7 @@
 # Kurogane no Eiyuuou-ki Vanargand: Kyodai Yuusha, Isekai ni Oritatsu
 
+![kurogane-no-eiyuuou-ki-vanargand-kyodai-yuusha-isekai-ni-oritatsu](https://cdn.myanimelist.net/images/manga/2/199864.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

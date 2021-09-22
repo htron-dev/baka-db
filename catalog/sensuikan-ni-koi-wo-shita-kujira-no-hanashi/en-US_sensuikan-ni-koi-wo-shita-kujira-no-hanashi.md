@@ -1,5 +1,7 @@
 # Sensuikan ni Koi wo Shita Kujira no Hanashi
 
+![sensuikan-ni-koi-wo-shita-kujira-no-hanashi](https://cdn.myanimelist.net/images/anime/2/64719.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: せんすい艦に恋をしたクジラの話

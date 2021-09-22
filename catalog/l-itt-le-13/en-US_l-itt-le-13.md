@@ -1,5 +1,7 @@
 # LIttLE 13
 
+![l-itt-le-13](https://cdn.myanimelist.net/images/manga/1/171489.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: LIttLE13

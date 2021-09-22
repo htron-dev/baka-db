@@ -1,5 +1,7 @@
 # Hikaru no Go Recaps
 
+![hikaru-no-go-recaps](https://cdn.myanimelist.net/images/anime/1651/105739.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ヒカルの碁 ダイジェスト

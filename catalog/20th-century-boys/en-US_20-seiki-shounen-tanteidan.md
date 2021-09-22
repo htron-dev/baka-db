@@ -1,5 +1,7 @@
 # 20 Seiki Shounen Tanteidan
 
+![20-seiki-shounen-tanteidan](https://cdn.myanimelist.net/images/manga/1/159298.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

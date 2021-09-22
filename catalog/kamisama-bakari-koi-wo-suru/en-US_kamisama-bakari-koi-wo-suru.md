@@ -1,5 +1,7 @@
 # Kamisama bakari Koi wo Suru
 
+![kamisama-bakari-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/103935.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Transformers Superlink Special
 
+![transformers-superlink-special](https://cdn.myanimelist.net/images/anime/5/26361.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: トランスフォーマー スーパーリンク
@@ -10,7 +12,6 @@
 
 -   sci-fi
 -   adventure
-
 -   mecha
 -   shounen
 

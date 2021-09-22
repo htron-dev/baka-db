@@ -1,5 +1,7 @@
 # Unbalance na Netsu
 
+![unbalance-na-netsu](https://cdn.myanimelist.net/images/manga/5/12434.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Rockabye Dear
 
+![rockabye-dear](https://cdn.myanimelist.net/images/manga/2/238038.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

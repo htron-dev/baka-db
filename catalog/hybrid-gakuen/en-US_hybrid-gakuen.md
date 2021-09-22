@@ -1,5 +1,7 @@
 # Hybrid Gakuen
 
+![hybrid-gakuen](https://cdn.myanimelist.net/images/manga/3/163264.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 28

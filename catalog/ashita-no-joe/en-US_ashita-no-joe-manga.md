@@ -1,5 +1,7 @@
 # Ashita no Joe
 
+![ashita-no-joe](https://cdn.myanimelist.net/images/manga/4/75029.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 171

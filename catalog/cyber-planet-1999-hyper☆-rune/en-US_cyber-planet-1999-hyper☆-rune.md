@@ -1,5 +1,7 @@
 # Cyber Planet 1999: HYPER☆Rune
 
+![cyber-planet-1999-hyper☆-rune](https://cdn.myanimelist.net/images/manga/2/1105.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: サイバー・プラネット 1999HYPER☆ ルン

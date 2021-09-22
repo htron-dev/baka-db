@@ -1,5 +1,7 @@
 # Non Non Biyori Koushiki Anthology
 
+![non-non-biyori-koushiki-anthology](https://cdn.myanimelist.net/images/manga/3/119241.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 72

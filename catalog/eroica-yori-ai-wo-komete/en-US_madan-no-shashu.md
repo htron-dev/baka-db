@@ -1,5 +1,7 @@
 # Madan no Shashu
 
+![madan-no-shashu](https://cdn.myanimelist.net/images/manga/1/7628.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 魔弾の射手

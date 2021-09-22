@@ -1,5 +1,7 @@
 # Moto Sekai 1-i no Sub-Chara Ikusei Nikki: Hai Player, Isekai wo Kouryakuchuu!
 
+![moto-sekai-1-i-no-sub-chara-ikusei-nikki-hai-player-isekai-wo-kouryakuchuu](https://cdn.myanimelist.net/images/manga/1/224430.jpg)
+
 -   **type**: manga
 -   **original-name**: 元・世界１位のサブキャラ育成日記 ～廃プレイヤー、異世界を攻略中!～
 -   **start-date**: 2018-12-26

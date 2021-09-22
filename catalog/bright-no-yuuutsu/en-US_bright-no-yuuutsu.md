@@ -1,5 +1,7 @@
 # Bright no Yuuutsu
 
+![bright-no-yuuutsu](https://cdn.myanimelist.net/images/manga/1/23146.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

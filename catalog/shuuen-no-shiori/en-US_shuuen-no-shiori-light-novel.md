@@ -1,5 +1,7 @@
 # Shuuen no Shiori
 
+![shuuen-no-shiori](https://cdn.myanimelist.net/images/manga/3/87555.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 23

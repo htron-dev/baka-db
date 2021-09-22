@@ -1,5 +1,7 @@
 # Super Lovers OVA
 
+![super-lovers-ova](https://cdn.myanimelist.net/images/anime/9/87516.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: SUPER LOVERS（スーパーラヴァーズ）

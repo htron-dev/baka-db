@@ -1,5 +1,7 @@
 # Takane no Hana wa, Midasaretai
 
+![takane-no-hana-wa-midasaretai](https://cdn.myanimelist.net/images/manga/2/248319.jpg)
+
 -   **type**: manga
 -   **original-name**: 高嶺の花は、乱されたい
 -   **start-date**: 2021-06-14

@@ -1,5 +1,7 @@
 # So I Married an Anti-Fan
 
+![so-i-married-an-anti-fan](https://cdn.myanimelist.net/images/manga/1/88357.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 22

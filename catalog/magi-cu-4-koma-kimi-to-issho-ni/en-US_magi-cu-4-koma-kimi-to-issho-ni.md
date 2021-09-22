@@ -1,5 +1,7 @@
 # Magi-Cu 4-koma: Kimi to Issho ni
 
+![magi-cu-4-koma-kimi-to-issho-ni](https://cdn.myanimelist.net/images/manga/2/104523.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 24

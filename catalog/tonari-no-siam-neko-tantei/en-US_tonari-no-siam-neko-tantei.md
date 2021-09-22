@@ -1,5 +1,7 @@
 # Tonari no Siam-neko Tantei
 
+![tonari-no-siam-neko-tantei](https://cdn.myanimelist.net/images/manga/1/211108.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

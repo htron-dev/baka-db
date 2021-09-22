@@ -1,5 +1,7 @@
 # Erabenakatta Kimi wo Erabu
 
+![erabenakatta-kimi-wo-erabu](https://cdn.myanimelist.net/images/manga/2/232930.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

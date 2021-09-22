@@ -1,5 +1,7 @@
 # Boruto: Naruto Next Generations
 
+![boruto-naruto-next-generations](https://cdn.myanimelist.net/images/manga/3/181968.jpg)
+
 -   **type**: manga
 -   **original-name**: BORUTO-NARUTO NEXT GENERATIONS-
 -   **start-date**: 2016-05-09

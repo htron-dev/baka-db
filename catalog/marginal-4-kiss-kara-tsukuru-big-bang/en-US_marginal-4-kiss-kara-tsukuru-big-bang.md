@@ -1,5 +1,7 @@
 # Marginal#4: Kiss kara Tsukuru Big Bang
 
+![marginal-4-kiss-kara-tsukuru-big-bang](https://cdn.myanimelist.net/images/anime/10/83799.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: MARGINAL#4 KISS から創造る Big Bang

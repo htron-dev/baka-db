@@ -1,5 +1,7 @@
 # Fujilog 2nd Season
 
+![fujilog-2nd-season](https://cdn.myanimelist.net/images/anime/4/30525.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: フジログ 第 2 シーズン

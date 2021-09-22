@@ -1,5 +1,7 @@
 # Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life
 
+![lv-2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life](https://cdn.myanimelist.net/images/manga/1/221664.jpg)
+
 -   **type**: manga
 -   **original-name**: Lv2 からチートだった元勇者候補のまったり異世界ライフ
 -   **start-date**: 2019-01-10

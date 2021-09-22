@@ -1,5 +1,7 @@
 # Kaname étoile
 
+![kaname-etoile](https://cdn.myanimelist.net/images/manga/2/62407.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

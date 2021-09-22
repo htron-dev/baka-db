@@ -1,5 +1,7 @@
 # Tough
 
+![tough](https://cdn.myanimelist.net/images/manga/1/75357.jpg)
+
 -   **type**: manga
 -   **volumes**: 39
 -   **chapters**: 426

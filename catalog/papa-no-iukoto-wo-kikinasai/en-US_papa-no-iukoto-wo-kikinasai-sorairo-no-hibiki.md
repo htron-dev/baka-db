@@ -1,5 +1,7 @@
 # Papa no Iukoto wo Kikinasai!: Sorairo no Hibiki
 
+![papa-no-iukoto-wo-kikinasai-sorairo-no-hibiki](https://cdn.myanimelist.net/images/manga/1/171411.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

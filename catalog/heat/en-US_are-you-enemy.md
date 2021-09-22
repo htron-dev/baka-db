@@ -1,5 +1,7 @@
 # Are You Enemy?
 
+![are-you-enemy](https://cdn.myanimelist.net/images/manga/1/6716.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

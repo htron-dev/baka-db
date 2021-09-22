@@ -1,5 +1,7 @@
 # Seishounen no Tame no Yuuryou Tosho
 
+![seishounen-no-tame-no-yuuryou-tosho](https://cdn.myanimelist.net/images/manga/2/235947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

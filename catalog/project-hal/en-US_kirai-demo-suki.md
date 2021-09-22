@@ -1,5 +1,7 @@
 # Kirai, Demo, Suki
 
+![kirai-demo-suki](https://cdn.myanimelist.net/images/anime/13/81647.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 嫌い、でも、好き

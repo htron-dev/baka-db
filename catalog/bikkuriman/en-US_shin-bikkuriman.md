@@ -1,5 +1,7 @@
 # Shin Bikkuriman
 
+![shin-bikkuriman](https://cdn.myanimelist.net/images/anime/1727/93730.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 72
 -   **original-name**: 新ビックリマン

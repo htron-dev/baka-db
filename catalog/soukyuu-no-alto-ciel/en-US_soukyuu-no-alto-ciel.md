@@ -1,5 +1,7 @@
 # Soukyuu no Alto Ciel
 
+![soukyuu-no-alto-ciel](https://cdn.myanimelist.net/images/manga/2/199737.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

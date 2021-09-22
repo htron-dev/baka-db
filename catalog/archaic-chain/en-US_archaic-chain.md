@@ -1,5 +1,7 @@
 # Archaic Chain
 
+![archaic-chain](https://cdn.myanimelist.net/images/manga/3/206845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

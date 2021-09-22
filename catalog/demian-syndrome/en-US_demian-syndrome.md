@@ -1,5 +1,7 @@
 # Demian Syndrome
 
+![demian-syndrome](https://cdn.myanimelist.net/images/manga/2/203007.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 24

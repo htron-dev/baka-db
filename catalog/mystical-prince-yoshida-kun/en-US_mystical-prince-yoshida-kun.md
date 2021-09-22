@@ -1,5 +1,7 @@
 # Mystical Prince Yoshida-kun!
 
+![mystical-prince-yoshida-kun](https://cdn.myanimelist.net/images/manga/3/6640.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: それじゃあ吉田くん!

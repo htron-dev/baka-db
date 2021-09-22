@@ -1,5 +1,7 @@
 # Namakura Gatana: Kunoichi-hen
 
+![namakura-gatana-kunoichi-hen](https://cdn.myanimelist.net/images/anime/1788/93248.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: なまくら刀・くノ一編

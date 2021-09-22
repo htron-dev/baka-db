@@ -1,5 +1,7 @@
 # 30th Gundam Perfect Mission
 
+![30th-gundam-perfect-mission](https://cdn.myanimelist.net/images/anime/9/63385.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 30th GUNDAM PERFECT MISSION

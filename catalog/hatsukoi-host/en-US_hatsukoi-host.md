@@ -1,5 +1,7 @@
 # Hatsukoi - Host
 
+![hatsukoi-host](https://cdn.myanimelist.net/images/manga/2/12522.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

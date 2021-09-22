@@ -1,5 +1,7 @@
 # Girls &amp; Panzer: Kore ga Hontou no Anzio-sen Desu!
 
+![girls-amp-panzer-kore-ga-hontou-no-anzio-sen-desu](https://cdn.myanimelist.net/images/anime/1959/92804.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ガールズ&パンツァー　これが本当のアンツィオ戦です！

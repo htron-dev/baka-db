@@ -1,5 +1,7 @@
 # Taberarechaina yo!
 
+![taberarechaina-yo](https://cdn.myanimelist.net/images/manga/2/237787.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

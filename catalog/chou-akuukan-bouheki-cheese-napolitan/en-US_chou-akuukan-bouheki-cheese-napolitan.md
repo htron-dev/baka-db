@@ -1,5 +1,7 @@
 # Chou Akuukan Bouheki Cheese Napolitan
 
+![chou-akuukan-bouheki-cheese-napolitan](https://cdn.myanimelist.net/images/anime/5/58105.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 超亜空間防壁チーズ・ナポリタン

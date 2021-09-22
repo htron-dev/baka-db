@@ -1,5 +1,7 @@
 # Burakonzu! - Niichan, Kareshi ga Dekimashita
 
+![burakonzu-niichan-kareshi-ga-dekimashita](https://cdn.myanimelist.net/images/manga/2/41786.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

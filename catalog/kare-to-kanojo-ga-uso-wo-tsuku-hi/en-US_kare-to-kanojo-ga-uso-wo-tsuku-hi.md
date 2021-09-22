@@ -1,5 +1,7 @@
 # Kare to Kanojo ga Uso wo Tsuku Hi
 
+![kare-to-kanojo-ga-uso-wo-tsuku-hi](https://cdn.myanimelist.net/images/manga/3/86823.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

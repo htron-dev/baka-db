@@ -1,5 +1,7 @@
 # Korogashi Ryouta
 
+![korogashi-ryouta](https://cdn.myanimelist.net/images/manga/2/47975.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **original-name**: ころがし涼太

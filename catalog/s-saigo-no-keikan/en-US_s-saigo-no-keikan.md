@@ -1,5 +1,7 @@
 # S: Saigo no Keikan
 
+![s-saigo-no-keikan](https://cdn.myanimelist.net/images/manga/2/174547.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 161

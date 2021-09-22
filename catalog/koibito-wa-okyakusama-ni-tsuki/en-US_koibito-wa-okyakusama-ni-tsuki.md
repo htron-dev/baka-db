@@ -1,5 +1,7 @@
 # Koibito wa Okyakusama ni Tsuki!
 
+![koibito-wa-okyakusama-ni-tsuki](https://cdn.myanimelist.net/images/manga/2/42659.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

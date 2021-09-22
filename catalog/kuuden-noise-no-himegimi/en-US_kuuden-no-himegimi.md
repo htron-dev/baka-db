@@ -1,5 +1,7 @@
 # Kuuden no Himegimi
 
+![kuuden-no-himegimi](https://cdn.myanimelist.net/images/manga/2/230350.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

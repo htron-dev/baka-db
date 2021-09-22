@@ -1,5 +1,7 @@
 # 86
 
+![86](https://cdn.myanimelist.net/images/manga/3/212358.jpg)
+
 -   **type**: manga
 -   **original-name**: 86―エイティシックス―
 -   **start-date**: 2018-02-16

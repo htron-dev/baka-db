@@ -1,5 +1,7 @@
 # Ikebukuro PR Anime
 
+![ikebukuro-pr-anime](https://cdn.myanimelist.net/images/anime/1280/97009.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 池袋 PR アニメ
@@ -20,4 +22,4 @@ The anime's story takes place in the year 2020, near the Hareza Tower building p
 
 -   [My Anime list](https://myanimelist.net/anime/38783/Ikebukuro_PR_Anime)
 -   [Official Site](https://www.city.toshima.lg.jp/424/1712071707.html)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%95%E3%83%88_(%E3%82%A2%E3%83%8B%E3%83%A1%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%95%E3%83%88_%28%E3%82%A2%E3%83%8B%E3%83%A1%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE%29)

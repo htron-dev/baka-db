@@ -1,5 +1,7 @@
 # Futsuu no Kimochi
 
+![futsuu-no-kimochi](https://cdn.myanimelist.net/images/manga/2/206402.jpg)
+
 -   **type**: manga
 -   **original-name**: ふつうのきもち
 -   **start-date**: 2018-01-26

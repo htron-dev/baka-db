@@ -1,5 +1,7 @@
 # Semi-Retire shita Boukensha wa Nonbiri Kurashitai
 
+![semi-retire-shita-boukensha-wa-nonbiri-kurashitai](https://cdn.myanimelist.net/images/manga/3/247205.jpg)
+
 -   **type**: manga
 -   **original-name**: セミリタイアした冒険者はのんびり暮らしたい
 -   **start-date**: 2020-11-27

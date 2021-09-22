@@ -1,5 +1,7 @@
 # Goukaku no Tame no! Yasashii Sankaku Kankei Nyuumon
 
+![goukaku-no-tame-no-yasashii-sankaku-kankei-nyuumon](https://cdn.myanimelist.net/images/manga/3/234275.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Watashi wa Shingo
 
+![watashi-wa-shingo](https://cdn.myanimelist.net/images/manga/5/39878.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 114

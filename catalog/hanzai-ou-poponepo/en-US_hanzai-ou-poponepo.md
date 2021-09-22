@@ -1,5 +1,7 @@
 # Hanzai-ou Poponepo
 
+![hanzai-ou-poponepo](https://cdn.myanimelist.net/images/manga/3/162261.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

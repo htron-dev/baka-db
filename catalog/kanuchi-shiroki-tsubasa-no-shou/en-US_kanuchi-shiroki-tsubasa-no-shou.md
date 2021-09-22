@@ -1,5 +1,7 @@
 # Kanuchi - Shiroki Tsubasa no Shou
 
+![kanuchi-shiroki-tsubasa-no-shou](https://cdn.myanimelist.net/images/manga/1/26243.jpg)
+
 -   **type**: manga
 -   **original-name**: カヌチ 白き翼の章
 -   **start-date**: 2009-02-20

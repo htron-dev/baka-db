@@ -1,5 +1,7 @@
 # Kenkou Zenrakei Suieibu Umishou
 
+![kenkou-zenrakei-suieibu-umishou](https://cdn.myanimelist.net/images/anime/7/73477.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ケンコー全裸系水泳部 ウミショー

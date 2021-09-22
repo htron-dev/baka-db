@@ -1,5 +1,7 @@
 # Duel Love: Koi Suru Otome wa Shouri no Megami
 
+![duel-love-koi-suru-otome-wa-shouri-no-megami](https://cdn.myanimelist.net/images/manga/3/19326.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: DUEL LOVE―恋する乙女は勝利の女神―

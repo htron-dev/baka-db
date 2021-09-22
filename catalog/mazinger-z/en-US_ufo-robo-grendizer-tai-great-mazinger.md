@@ -1,5 +1,7 @@
 # UFO Robo Grendizer tai Great Mazinger
 
+![ufo-robo-grendizer-tai-great-mazinger](https://cdn.myanimelist.net/images/anime/1592/99764.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: UFO ロボ グレンダイザー対グレートマジンガー

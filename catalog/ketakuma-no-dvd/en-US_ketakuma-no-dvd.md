@@ -1,5 +1,7 @@
 # Ketakuma no DVD
 
+![ketakuma-no-dvd](https://cdn.myanimelist.net/images/anime/1077/97399.jpg)
+
 -   **type**: ova
 -   **episodes**: 21
 -   **original-name**: けたくまの DVD

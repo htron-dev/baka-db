@@ -1,5 +1,7 @@
 # Fate/Extra: Last Encore
 
+![fate-extra-last-encore](https://cdn.myanimelist.net/images/anime/1122/90836.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: Fate/EXTRA Last Encore

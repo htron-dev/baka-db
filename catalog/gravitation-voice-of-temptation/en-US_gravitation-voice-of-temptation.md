@@ -1,5 +1,7 @@
 # Gravitation: Voice of Temptation
 
+![gravitation-voice-of-temptation](https://cdn.myanimelist.net/images/manga/1/4975.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

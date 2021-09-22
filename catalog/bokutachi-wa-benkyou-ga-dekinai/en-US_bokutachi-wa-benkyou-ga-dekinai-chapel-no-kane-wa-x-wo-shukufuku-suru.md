@@ -1,5 +1,7 @@
 # Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] wo Shukufuku Suru
 
+![bokutachi-wa-benkyou-ga-dekinai-chapel-no-kane-wa-x-wo-shukufuku-suru](https://cdn.myanimelist.net/images/anime/1917/108615.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぼくたちは勉強ができない！「チャペルの鐘は[X]を祝福する」

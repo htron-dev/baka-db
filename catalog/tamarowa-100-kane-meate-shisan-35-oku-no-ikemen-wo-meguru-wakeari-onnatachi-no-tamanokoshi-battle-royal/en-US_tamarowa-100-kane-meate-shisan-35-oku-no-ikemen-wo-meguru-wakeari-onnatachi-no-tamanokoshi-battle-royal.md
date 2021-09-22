@@ -1,5 +1,7 @@
 # Tamarowa: 100% Kane Meate - Shisan 35-oku no Ikemen wo Meguru Wakeari Onnatachi no Tamanokoshi Battle Royal
 
+![tamarowa-100-kane-meate-shisan-35-oku-no-ikemen-wo-meguru-wakeari-onnatachi-no-tamanokoshi-battle-royal](https://cdn.myanimelist.net/images/manga/3/232868.jpg)
+
 -   **type**: manga
 -   **original-name**: タマロワ ～ 100％金目当て 資産 35 億のイケメンを巡る訳アリ女達の玉の輿バトルロワイヤル～
 -   **start-date**: 2019-06-28

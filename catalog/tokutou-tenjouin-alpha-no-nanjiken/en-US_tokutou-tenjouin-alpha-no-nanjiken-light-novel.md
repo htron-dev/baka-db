@@ -1,5 +1,7 @@
 # Tokutou Tenjouin Alpha no Nanjiken
 
+![tokutou-tenjouin-alpha-no-nanjiken](https://cdn.myanimelist.net/images/manga/3/165772.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 160

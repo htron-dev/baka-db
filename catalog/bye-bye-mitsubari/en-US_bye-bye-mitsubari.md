@@ -1,5 +1,7 @@
 # Bye-bye Mitsubari
 
+![bye-bye-mitsubari](https://cdn.myanimelist.net/images/manga/2/140671.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: バイバイ蜜針

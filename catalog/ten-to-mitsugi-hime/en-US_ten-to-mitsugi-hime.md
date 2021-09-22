@@ -1,5 +1,7 @@
 # Ten to Mitsugi-hime
 
+![ten-to-mitsugi-hime](https://cdn.myanimelist.net/images/manga/2/201942.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 30

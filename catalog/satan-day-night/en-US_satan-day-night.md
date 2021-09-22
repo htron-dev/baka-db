@@ -1,5 +1,7 @@
 # SatanDay Night
 
+![satan-day-night](https://cdn.myanimelist.net/images/manga/1/126177.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: SatanDay Night

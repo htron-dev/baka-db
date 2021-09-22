@@ -1,5 +1,7 @@
 # Shiro no Koukoku Monogatari
 
+![shiro-no-koukoku-monogatari](https://cdn.myanimelist.net/images/manga/1/186493.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 64

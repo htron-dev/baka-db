@@ -1,5 +1,7 @@
 # Nobunaga no Yabou: Rinne Tenshou
 
+![nobunaga-no-yabou-rinne-tenshou](https://cdn.myanimelist.net/images/manga/3/138295.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

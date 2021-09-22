@@ -1,5 +1,7 @@
 # Trouble Click!!
 
+![trouble-click](https://cdn.myanimelist.net/images/manga/2/151629.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: とらぶるクリック!!

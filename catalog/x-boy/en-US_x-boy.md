@@ -1,5 +1,7 @@
 # X Boy
 
+![x-boy](https://cdn.myanimelist.net/images/manga/3/136051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: X ボーイ

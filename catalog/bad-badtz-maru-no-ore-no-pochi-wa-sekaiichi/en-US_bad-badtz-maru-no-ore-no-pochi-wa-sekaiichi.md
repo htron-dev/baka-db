@@ -1,5 +1,7 @@
 # Bad Badtz-Maru no Ore no Pochi wa Sekaiichi
 
+![bad-badtz-maru-no-ore-no-pochi-wa-sekaiichi](https://cdn.myanimelist.net/images/anime/12/46703.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バッドばつ丸のオレのポチは世界一

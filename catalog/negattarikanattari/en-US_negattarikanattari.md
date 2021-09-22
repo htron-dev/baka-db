@@ -1,5 +1,7 @@
 # Negattarikanattari
 
+![negattarikanattari](https://cdn.myanimelist.net/images/manga/3/34583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Yancharu Moncha
 
+![yancharu-moncha](https://cdn.myanimelist.net/images/anime/13/72124.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 80
 -   **original-name**: やんちゃるモンちゃ

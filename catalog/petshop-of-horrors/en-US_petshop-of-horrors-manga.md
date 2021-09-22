@@ -1,5 +1,7 @@
 # Petshop of Horrors
 
+![petshop-of-horrors](https://cdn.myanimelist.net/images/manga/5/212566.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 41

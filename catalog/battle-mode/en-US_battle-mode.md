@@ -1,5 +1,7 @@
 # Battle Mode
 
+![battle-mode](https://cdn.myanimelist.net/images/anime/1028/111033.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アニメショップパロディ／BATTLE MODE

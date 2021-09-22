@@ -1,5 +1,7 @@
 # Awake
 
+![awake](https://cdn.myanimelist.net/images/anime/8/30685.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: AWAKE

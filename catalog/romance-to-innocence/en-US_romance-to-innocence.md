@@ -1,5 +1,7 @@
 # Romance to Innocence
 
+![romance-to-innocence](https://cdn.myanimelist.net/images/manga/3/16152.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ロマンスとイノセンス

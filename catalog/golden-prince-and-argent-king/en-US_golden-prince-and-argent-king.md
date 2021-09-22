@@ -1,5 +1,7 @@
 # Golden Prince and Argent King
 
+![golden-prince-and-argent-king](https://cdn.myanimelist.net/images/manga/3/6009.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

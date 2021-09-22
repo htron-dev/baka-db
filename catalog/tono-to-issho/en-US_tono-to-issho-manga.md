@@ -1,5 +1,7 @@
 # Tono to Issho
 
+![tono-to-issho](https://cdn.myanimelist.net/images/manga/2/192319.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 殿といっしょ

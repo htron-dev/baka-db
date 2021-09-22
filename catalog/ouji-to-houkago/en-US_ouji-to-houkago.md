@@ -1,5 +1,7 @@
 # Ouji to Houkago
 
+![ouji-to-houkago](https://cdn.myanimelist.net/images/manga/1/68213.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

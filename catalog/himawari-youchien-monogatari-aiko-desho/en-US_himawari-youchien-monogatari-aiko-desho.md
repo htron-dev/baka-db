@@ -1,5 +1,7 @@
 # Himawari Youchien Monogatari: Aiko desho!
 
+![himawari-youchien-monogatari-aiko-desho](https://cdn.myanimelist.net/images/manga/1/192514.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 55

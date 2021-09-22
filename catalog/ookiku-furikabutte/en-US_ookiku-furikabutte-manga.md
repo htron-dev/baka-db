@@ -1,5 +1,7 @@
 # Ookiku Furikabutte
 
+![ookiku-furikabutte](https://cdn.myanimelist.net/images/manga/2/27786.jpg)
+
 -   **type**: manga
 -   **original-name**: おおきく振りかぶって
 -   **start-date**: 2003-09-25

@@ -1,5 +1,7 @@
 # Bleach KaraBuri!: Gotei Juusan Yatai Daisakusen!
 
+![bleach-kara-buri-gotei-juusan-yatai-daisakusen](https://cdn.myanimelist.net/images/anime/3/84864.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: BLEACH カラブリ！護廷十三屋台大作戦！

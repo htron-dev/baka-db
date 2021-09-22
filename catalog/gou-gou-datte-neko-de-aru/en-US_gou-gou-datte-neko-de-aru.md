@@ -1,5 +1,7 @@
 # Gou Gou datte Neko de Aru
 
+![gou-gou-datte-neko-de-aru](https://cdn.myanimelist.net/images/manga/1/176537.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 177

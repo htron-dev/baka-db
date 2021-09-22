@@ -1,5 +1,7 @@
 # Aoi Hitomi no Onnanoko no Ohanashi
 
+![aoi-hitomi-no-onnanoko-no-ohanashi](https://cdn.myanimelist.net/images/anime/5/30086.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 青い瞳の女の子のお話

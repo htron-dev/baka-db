@@ -1,5 +1,7 @@
 # Kurumi no Naka
 
+![kurumi-no-naka](https://cdn.myanimelist.net/images/manga/1/6148.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 胡桃の中

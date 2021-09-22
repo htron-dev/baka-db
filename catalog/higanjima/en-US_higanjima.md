@@ -1,5 +1,7 @@
 # Higanjima
 
+![higanjima](https://cdn.myanimelist.net/images/manga/3/184564.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 330

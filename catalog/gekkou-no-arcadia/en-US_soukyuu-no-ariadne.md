@@ -1,5 +1,7 @@
 # Soukyuu no Ariadne
 
+![soukyuu-no-ariadne](https://cdn.myanimelist.net/images/manga/2/209182.jpg)
+
 -   **type**: manga
 -   **original-name**: 蒼穹のアリアドネ
 -   **start-date**: 2017-12-06

@@ -1,5 +1,7 @@
 # Thermae Romae Specials
 
+![thermae-romae-specials](https://cdn.myanimelist.net/images/anime/2/35741.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: テルマエ・ロマエ

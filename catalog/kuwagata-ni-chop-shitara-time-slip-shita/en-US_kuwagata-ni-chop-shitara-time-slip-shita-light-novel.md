@@ -1,5 +1,7 @@
 # Kuwagata ni Chop shitara Time Slip shita
 
+![kuwagata-ni-chop-shitara-time-slip-shita](https://cdn.myanimelist.net/images/manga/1/125801.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: クワガタにチョップしたらタイムスリップした

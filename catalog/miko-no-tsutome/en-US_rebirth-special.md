@@ -1,5 +1,7 @@
 # Rebirth Special
 
+![rebirth-special](https://cdn.myanimelist.net/images/anime/1757/109072.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: りばあす 特別編

@@ -1,5 +1,7 @@
 # Ganbare!! Nattou-san
 
+![ganbare-nattou-san](https://cdn.myanimelist.net/images/anime/9/74469.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 頑張れ!!納父さん

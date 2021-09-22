@@ -1,5 +1,7 @@
 # Okusama wa Mahou Shoujo
 
+![okusama-wa-mahou-shoujo](https://cdn.myanimelist.net/images/anime/9/19126.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 奥さまは魔法少女

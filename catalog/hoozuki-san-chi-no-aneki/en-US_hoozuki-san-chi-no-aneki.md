@@ -1,5 +1,7 @@
 # Hoozuki-san Chi no Aneki
 
+![hoozuki-san-chi-no-aneki](https://cdn.myanimelist.net/images/manga/1/119937.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

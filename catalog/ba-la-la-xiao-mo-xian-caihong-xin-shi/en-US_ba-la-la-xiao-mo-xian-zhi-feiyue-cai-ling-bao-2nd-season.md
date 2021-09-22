@@ -1,5 +1,7 @@
 # Ba La La Xiao Mo Xian Zhi: Feiyue Cai Ling Bao 2nd Season
 
+![ba-la-la-xiao-mo-xian-zhi-feiyue-cai-ling-bao-2nd-season](https://cdn.myanimelist.net/images/anime/3/83630.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 巴啦啦小魔仙之飞越彩灵堡 第 2 季

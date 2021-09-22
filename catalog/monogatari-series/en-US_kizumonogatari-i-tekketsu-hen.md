@@ -1,5 +1,7 @@
 # Kizumonogatari I: Tekketsu-hen
 
+![kizumonogatari-i-tekketsu-hen](https://cdn.myanimelist.net/images/anime/11/80621.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 傷物語〈Ⅰ 鉄血篇〉
@@ -26,4 +28,4 @@ When he arrives at the source of the blood, he is terrified by what he sees—th
 -   [Official Site](http://www.kizumonogatari-movie.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8357)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11789)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Monogatari_(series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Monogatari_%28series%29)

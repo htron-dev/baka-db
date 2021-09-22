@@ -1,5 +1,7 @@
 # Durarara!!x2 Ten
 
+![durarara-x-2-ten](https://cdn.myanimelist.net/images/anime/8/74981.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: デュラララ!!× ２ 転

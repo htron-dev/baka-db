@@ -1,5 +1,7 @@
 # Sengoku!? - Yuukyuu Ransei Renge Tan
 
+![sengoku-yuukyuu-ransei-renge-tan](https://cdn.myanimelist.net/images/manga/3/37542.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

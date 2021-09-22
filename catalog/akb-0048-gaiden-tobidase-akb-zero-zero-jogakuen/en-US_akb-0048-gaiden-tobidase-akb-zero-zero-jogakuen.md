@@ -1,5 +1,7 @@
 # AKB0048 Gaiden: Tobidase! AKB Zero Zero Jogakuen
 
+![akb-0048-gaiden-tobidase-akb-zero-zero-jogakuen](https://cdn.myanimelist.net/images/manga/1/228872.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

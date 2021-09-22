@@ -1,5 +1,7 @@
 # Ore wa Koi no Haousama
 
+![ore-wa-koi-no-haousama](https://cdn.myanimelist.net/images/manga/3/152827.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

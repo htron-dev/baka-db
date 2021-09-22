@@ -1,5 +1,7 @@
 # 9-banme no Musashi: Mission Blue
 
+![9-banme-no-musashi-mission-blue](https://cdn.myanimelist.net/images/manga/1/147773.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 37

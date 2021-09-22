@@ -1,5 +1,7 @@
 # Korokoro Soushi: Ooedo Muzan Juusanku
 
+![korokoro-soushi-ooedo-muzan-juusanku](https://cdn.myanimelist.net/images/manga/2/151338.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

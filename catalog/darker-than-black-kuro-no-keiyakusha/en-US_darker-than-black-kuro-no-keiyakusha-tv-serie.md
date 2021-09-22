@@ -1,5 +1,7 @@
 # Darker than Black: Kuro no Keiyakusha
 
+![darker-than-black-kuro-no-keiyakusha](https://cdn.myanimelist.net/images/anime/5/19570.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: Darker than BLACK -黒の契約者-

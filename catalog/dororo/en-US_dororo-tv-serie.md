@@ -1,5 +1,7 @@
 # Dororo
 
+![dororo](https://cdn.myanimelist.net/images/anime/1879/100467.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: どろろ

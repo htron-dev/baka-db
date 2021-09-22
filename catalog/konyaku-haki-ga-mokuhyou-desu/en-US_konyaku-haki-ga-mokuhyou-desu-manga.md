@@ -1,5 +1,7 @@
 # Konyaku Haki ga Mokuhyou desu!
 
+![konyaku-haki-ga-mokuhyou-desu](https://cdn.myanimelist.net/images/manga/1/245970.jpg)
+
 -   **type**: manga
 -   **original-name**: 婚約破棄が目標です！
 -   **start-date**: 2020-01-10

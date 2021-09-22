@@ -1,5 +1,7 @@
 # Blame! Special
 
+![blame-special](https://cdn.myanimelist.net/images/anime/5/10569.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Blame! Extra Log: Collapsed Data

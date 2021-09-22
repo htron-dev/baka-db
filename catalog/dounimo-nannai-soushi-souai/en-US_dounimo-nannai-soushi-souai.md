@@ -1,5 +1,7 @@
 # Dounimo Nannai Soushi Souai
 
+![dounimo-nannai-soushi-souai](https://cdn.myanimelist.net/images/manga/3/77895.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

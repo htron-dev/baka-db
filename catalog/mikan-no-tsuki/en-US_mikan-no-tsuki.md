@@ -1,5 +1,7 @@
 # Mikan no Tsuki
 
+![mikan-no-tsuki](https://cdn.myanimelist.net/images/manga/2/138527.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 25

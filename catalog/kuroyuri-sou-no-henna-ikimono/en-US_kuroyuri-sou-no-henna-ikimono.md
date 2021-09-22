@@ -1,5 +1,7 @@
 # Kuroyuri-sou no Henna Ikimono.
 
+![kuroyuri-sou-no-henna-ikimono](https://cdn.myanimelist.net/images/manga/2/203503.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

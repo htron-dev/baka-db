@@ -1,5 +1,7 @@
 # Anoyo de Omae ni Suki da to Ieru
 
+![anoyo-de-omae-ni-suki-da-to-ieru](https://cdn.myanimelist.net/images/manga/3/245811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

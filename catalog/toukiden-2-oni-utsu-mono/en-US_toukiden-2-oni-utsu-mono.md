@@ -1,5 +1,7 @@
 # Toukiden 2: "Oni" Utsu Mono
 
+![toukiden-2-oni-utsu-mono](https://cdn.myanimelist.net/images/manga/3/186634.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

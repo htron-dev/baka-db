@@ -1,5 +1,7 @@
 # Battle Spirits: Shounen Gekiha Dan
 
+![battle-spirits-shounen-gekiha-dan](https://cdn.myanimelist.net/images/manga/2/151553.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

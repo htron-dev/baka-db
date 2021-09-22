@@ -1,5 +1,7 @@
 # High Spec da yo! Iona-chan
 
+![high-spec-da-yo-iona-chan](https://cdn.myanimelist.net/images/manga/2/226162.jpg)
+
 -   **type**: manga
 -   **original-name**: ハイスペックだよ! イオナちゃん
 -   **start-date**: 2018-02-11

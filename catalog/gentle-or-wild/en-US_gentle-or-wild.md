@@ -1,5 +1,7 @@
 # Gentle? or Wild?
 
+![gentle-or-wild](https://cdn.myanimelist.net/images/manga/1/10864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 2005-01-20

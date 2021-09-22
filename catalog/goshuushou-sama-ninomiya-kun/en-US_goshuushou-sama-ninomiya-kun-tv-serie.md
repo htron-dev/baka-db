@@ -1,5 +1,7 @@
 # Goshuushou-sama Ninomiya-kun
 
+![goshuushou-sama-ninomiya-kun](https://cdn.myanimelist.net/images/anime/6/75603.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ご愁傷さま二ノ宮くん

@@ -1,5 +1,7 @@
 # Rolling Combat!: Ochikobore Jieikan, Isekai no Chuushin de Fujun na Ai wo Sakebu
 
+![rolling-combat-ochikobore-jieikan-isekai-no-chuushin-de-fujun-na-ai-wo-sakebu](https://cdn.myanimelist.net/images/manga/1/167602.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

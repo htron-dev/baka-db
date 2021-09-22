@@ -1,5 +1,7 @@
 # Motto Furimuke yo Baby
 
+![motto-furimuke-yo-baby](https://cdn.myanimelist.net/images/manga/3/33878.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Hard Triangle
 
+![hard-triangle](https://cdn.myanimelist.net/images/manga/2/23734.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

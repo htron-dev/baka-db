@@ -1,5 +1,7 @@
 # Apocripha/0: Infinite Fortune
 
+![apocripha-0-infinite-fortune](https://cdn.myanimelist.net/images/manga/2/134279.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

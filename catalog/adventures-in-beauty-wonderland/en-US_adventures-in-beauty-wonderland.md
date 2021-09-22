@@ -1,5 +1,7 @@
 # Adventures in Beauty Wonderland
 
+![adventures-in-beauty-wonderland](https://cdn.myanimelist.net/images/anime/2/71884.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Adventures in Beauty Wonderland

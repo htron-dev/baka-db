@@ -1,5 +1,7 @@
 # Food Court de, Mata Ashita.
 
+![food-court-de-mata-ashita](https://cdn.myanimelist.net/images/manga/1/245136.jpg)
+
 -   **type**: manga
 -   **original-name**: フードコートで、また明日。
 -   **start-date**: 2020-03-10

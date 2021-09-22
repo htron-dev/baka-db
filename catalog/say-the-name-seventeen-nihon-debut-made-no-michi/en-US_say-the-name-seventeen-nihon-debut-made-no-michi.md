@@ -1,5 +1,7 @@
 # Say The Name!: SEVENTEEN - Nihon Debut made no Michi
 
+![say-the-name-seventeen-nihon-debut-made-no-michi](https://cdn.myanimelist.net/images/manga/2/222776.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: Say the name! SEVENTEEN ～日本デビューまでの道～

@@ -1,5 +1,7 @@
 # Dragon Ball
 
+![dragon-ball](https://cdn.myanimelist.net/images/manga/2/54545.jpg)
+
 -   **type**: manga
 -   **volumes**: 42
 -   **chapters**: 520

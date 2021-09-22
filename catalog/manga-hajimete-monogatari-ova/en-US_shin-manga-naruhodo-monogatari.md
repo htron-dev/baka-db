@@ -1,5 +1,7 @@
 # Shin Manga Naruhodo Monogatari
 
+![shin-manga-naruhodo-monogatari](https://cdn.myanimelist.net/images/anime/1129/91822.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 新まんがなるほど物語

@@ -1,5 +1,7 @@
 # Carole &amp; Tuesday: Gus to Roddy no Kaisouroku
 
+![carole-amp-tuesday-gus-to-roddy-no-kaisouroku](https://cdn.myanimelist.net/images/anime/1992/101941.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 「キャロル＆チューズデイ」特別編 ~ガスとロディの回想録~

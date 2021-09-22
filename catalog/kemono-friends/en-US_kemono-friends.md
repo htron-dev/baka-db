@@ -1,5 +1,7 @@
 # Kemono Friends
 
+![kemono-friends](https://cdn.myanimelist.net/images/anime/2/83518.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: けものフレンズ

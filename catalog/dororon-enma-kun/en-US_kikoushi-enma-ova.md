@@ -1,5 +1,7 @@
 # Kikoushi Enma
 
+![kikoushi-enma](https://cdn.myanimelist.net/images/anime/8/50391.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 鬼公子　炎魔

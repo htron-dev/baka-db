@@ -1,5 +1,7 @@
 # Noroma na Jiji
 
+![noroma-na-jiji](https://cdn.myanimelist.net/images/anime/13/69259.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: のろまな爺

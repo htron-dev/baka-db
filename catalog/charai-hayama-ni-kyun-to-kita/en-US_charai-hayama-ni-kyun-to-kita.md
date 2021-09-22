@@ -1,5 +1,7 @@
 # Charai Hayama ni Kyun to Kita
 
+![charai-hayama-ni-kyun-to-kita](https://cdn.myanimelist.net/images/manga/3/174283.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Hanebado!
 
+![hanebado](https://cdn.myanimelist.net/images/anime/1288/93432.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: はねバド！

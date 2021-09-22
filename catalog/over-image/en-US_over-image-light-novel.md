@@ -1,5 +1,7 @@
 # Over Image
 
+![over-image](https://cdn.myanimelist.net/images/manga/3/163377.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 24

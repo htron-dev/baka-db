@@ -1,5 +1,7 @@
 # Yami no shinario
 
+![yami-no-shinario](https://cdn.myanimelist.net/images/manga/3/49075.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

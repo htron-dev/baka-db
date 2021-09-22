@@ -1,5 +1,7 @@
 # Daisuki! Hello Kitty
 
+![daisuki-hello-kitty](https://cdn.myanimelist.net/images/anime/1439/114479.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 大好き！ハローキティ

@@ -1,5 +1,7 @@
 # Anpanman to Hajime yo! Iro, Kazu, Katachi Wakarukana Iro, Katachi
 
+![anpanman-to-hajime-yo-iro-kazu-katachi-wakarukana-iro-katachi](https://cdn.myanimelist.net/images/anime/13/52397.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アンパンマンとはじめよう! いろ・かず・かたち わかるかな いろ・かたち

@@ -1,5 +1,7 @@
 # Insert Cut: Hitozuma no Hatenaki Gekijou
 
+![insert-cut-hitozuma-no-hatenaki-gekijou](https://cdn.myanimelist.net/images/manga/2/196416.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: インサートカット　人妻の果て無き激情

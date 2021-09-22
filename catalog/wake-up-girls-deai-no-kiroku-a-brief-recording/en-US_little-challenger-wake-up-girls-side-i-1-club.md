@@ -1,5 +1,7 @@
 # Little Challenger: Wake Up, Girls! - Side I-1 Club
 
+![little-challenger-wake-up-girls-side-i-1-club](https://cdn.myanimelist.net/images/manga/1/160109.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: リトルチャレンジャー Wake Up,Girls! -side I-1 club-

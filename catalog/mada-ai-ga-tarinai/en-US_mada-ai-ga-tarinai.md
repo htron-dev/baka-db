@@ -1,5 +1,7 @@
 # Mada Ai ga Tarinai
 
+![mada-ai-ga-tarinai](https://cdn.myanimelist.net/images/manga/1/82556.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

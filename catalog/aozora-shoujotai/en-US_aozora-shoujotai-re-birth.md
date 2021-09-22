@@ -1,5 +1,7 @@
 # Aozora Shoujotai ReBirth
 
+![aozora-shoujotai-re-birth](https://cdn.myanimelist.net/images/manga/2/32925.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

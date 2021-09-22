@@ -1,5 +1,7 @@
 # Taiyou no Mokushiroku
 
+![taiyou-no-mokushiroku](https://cdn.myanimelist.net/images/manga/3/132455.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 124

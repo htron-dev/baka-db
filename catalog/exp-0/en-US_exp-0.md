@@ -1,5 +1,7 @@
 # EXP:0
 
+![exp-0](https://cdn.myanimelist.net/images/manga/1/167464.jpg)
+
 -   **type**: manga
 -   **original-name**: EXP：0
 -   **start-date**: 2014-09-22

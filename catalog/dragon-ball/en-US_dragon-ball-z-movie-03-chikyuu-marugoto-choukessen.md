@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen
 
+![dragon-ball-z-movie-03-chikyuu-marugoto-choukessen](https://cdn.myanimelist.net/images/anime/1956/90345.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 地球まるごと超決戦

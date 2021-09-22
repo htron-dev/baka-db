@@ -1,5 +1,7 @@
 # Golosseum
 
+![golosseum](https://cdn.myanimelist.net/images/manga/3/203499.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 39

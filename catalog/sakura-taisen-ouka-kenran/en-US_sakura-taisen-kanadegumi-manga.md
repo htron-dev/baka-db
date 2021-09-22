@@ -1,5 +1,7 @@
 # Sakura Taisen: Kanadegumi
 
+![sakura-taisen-kanadegumi](https://cdn.myanimelist.net/images/manga/1/207507.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Joshidaisei Kateikyoushi Hamanaka Ai
 
+![joshidaisei-kateikyoushi-hamanaka-ai](https://cdn.myanimelist.net/images/manga/1/195654.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 130

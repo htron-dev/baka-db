@@ -1,5 +1,7 @@
 # Baresuta: Never Give Up!
 
+![baresuta-never-give-up](https://cdn.myanimelist.net/images/manga/3/39025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

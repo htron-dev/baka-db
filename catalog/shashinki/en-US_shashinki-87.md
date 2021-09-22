@@ -1,5 +1,7 @@
 # Shashinki '87
 
+![shashinki-87](https://cdn.myanimelist.net/images/anime/4/75692.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 写真記 '87

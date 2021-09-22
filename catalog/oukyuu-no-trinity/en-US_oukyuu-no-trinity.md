@@ -1,5 +1,7 @@
 # Oukyuu no Trinity
 
+![oukyuu-no-trinity](https://cdn.myanimelist.net/images/manga/1/209890.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 39

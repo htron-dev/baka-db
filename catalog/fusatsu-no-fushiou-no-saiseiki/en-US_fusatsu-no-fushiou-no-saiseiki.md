@@ -1,5 +1,7 @@
 # Fusatsu no Fushiou no Saiseiki
 
+![fusatsu-no-fushiou-no-saiseiki](https://cdn.myanimelist.net/images/manga/2/241560.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 不殺の不死王の済世記
 -   **start-date**: 2020-05-29

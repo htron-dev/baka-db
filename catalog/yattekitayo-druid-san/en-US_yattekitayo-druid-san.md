@@ -1,5 +1,7 @@
 # Yattekitayo, Druid-san!
 
+![yattekitayo-druid-san](https://cdn.myanimelist.net/images/manga/2/163077.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

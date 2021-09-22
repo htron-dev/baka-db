@@ -1,5 +1,7 @@
 # Renai Rookie
 
+![renai-rookie](https://cdn.myanimelist.net/images/manga/3/20533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

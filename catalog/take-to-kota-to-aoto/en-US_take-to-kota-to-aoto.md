@@ -1,5 +1,7 @@
 # Take to Kota to Aoto
 
+![take-to-kota-to-aoto](https://cdn.myanimelist.net/images/manga/2/246133.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tetsunagi Oni
 
+![tetsunagi-oni](https://cdn.myanimelist.net/images/manga/2/208113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

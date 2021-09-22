@@ -1,5 +1,7 @@
 # Restol: Teugsu Gujo Dae
 
+![restol-teugsu-gujo-dae](https://cdn.myanimelist.net/images/anime/1379/97015.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 레스톨 특수 구조대

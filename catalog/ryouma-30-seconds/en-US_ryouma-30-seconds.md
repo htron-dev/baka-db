@@ -1,5 +1,7 @@
 # Ryouma 30 Seconds
 
+![ryouma-30-seconds](https://cdn.myanimelist.net/images/anime/11/76307.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: 龍馬 30 Seconds

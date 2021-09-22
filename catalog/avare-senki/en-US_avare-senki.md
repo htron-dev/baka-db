@@ -1,5 +1,7 @@
 # Avare Senki
 
+![avare-senki](https://cdn.myanimelist.net/images/manga/5/151377.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アヴァール戦記

@@ -1,5 +1,7 @@
 # Kagerou Daze Koushiki Anthology Comic: Winter
 
+![kagerou-daze-koushiki-anthology-comic-winter](https://cdn.myanimelist.net/images/manga/2/140081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Akuyaku Reijou Koukyuu Monogatari
 
+![akuyaku-reijou-koukyuu-monogatari](https://cdn.myanimelist.net/images/manga/3/248040.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

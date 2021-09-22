@@ -1,5 +1,7 @@
 # Kusemono Darling
 
+![kusemono-darling](https://cdn.myanimelist.net/images/manga/2/132667.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Xiao Yeyou
 
+![xiao-yeyou](https://cdn.myanimelist.net/images/anime/12/79020.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 小夜游

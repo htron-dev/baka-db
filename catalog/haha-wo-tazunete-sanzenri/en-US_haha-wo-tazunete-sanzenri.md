@@ -1,5 +1,7 @@
 # Haha wo Tazunete Sanzenri
 
+![haha-wo-tazunete-sanzenri](https://cdn.myanimelist.net/images/anime/9/80523.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 母をたずねて三千里

@@ -1,5 +1,7 @@
 # S Master☆Holic
 
+![s-master☆-holic](https://cdn.myanimelist.net/images/manga/1/159846.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

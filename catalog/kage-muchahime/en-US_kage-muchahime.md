@@ -1,5 +1,7 @@
 # Kage Muchahime
 
+![kage-muchahime](https://cdn.myanimelist.net/images/manga/3/46977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 影ムチャ姫

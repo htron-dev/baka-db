@@ -1,5 +1,7 @@
 # Denpa no Hito yo
 
+![denpa-no-hito-yo](https://cdn.myanimelist.net/images/manga/2/58725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

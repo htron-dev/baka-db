@@ -1,5 +1,7 @@
 # Bakuman.: Deraman.
 
+![bakuman-deraman](https://cdn.myanimelist.net/images/anime/10/60857.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: バクマン。 スペシャル「デラマン。」

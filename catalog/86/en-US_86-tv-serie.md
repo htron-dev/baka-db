@@ -1,5 +1,7 @@
 # 86
 
+![86](https://cdn.myanimelist.net/images/anime/1987/117507.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 86―エイティシックス―
@@ -31,4 +33,4 @@ Vladilena Milizé is assigned to the Spearhead squadron to replace their previou
 -   [Official Site](https://anime-86.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15441)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23089)
--   [Wikipedia](<https://en.wikipedia.org/wiki/86_(novel_series)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/86_%28novel_series%29#Anime)

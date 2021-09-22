@@ -1,5 +1,7 @@
 # ACCA: 13-ku Kansatsu-ka P.S.
 
+![acca-13-ku-kansatsu-ka-p-s](https://cdn.myanimelist.net/images/manga/3/196366.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

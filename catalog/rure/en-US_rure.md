@@ -1,5 +1,7 @@
 # Rure
 
+![rure](https://cdn.myanimelist.net/images/manga/3/41554.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 루어
 

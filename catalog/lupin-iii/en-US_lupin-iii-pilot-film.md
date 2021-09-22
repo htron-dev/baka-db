@@ -1,5 +1,7 @@
 # Lupin III: Pilot Film
 
+![lupin-iii-pilot-film](https://cdn.myanimelist.net/images/anime/4/50927.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルパン三世 Pilot Film

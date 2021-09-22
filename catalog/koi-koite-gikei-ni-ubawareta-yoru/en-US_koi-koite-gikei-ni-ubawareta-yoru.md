@@ -1,5 +1,7 @@
 # Koi Koite: Gikei ni Ubawareta Yoru
 
+![koi-koite-gikei-ni-ubawareta-yoru](https://cdn.myanimelist.net/images/manga/2/184239.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

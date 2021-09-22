@@ -1,5 +1,7 @@
 # Kouyasai
 
+![kouyasai](https://cdn.myanimelist.net/images/manga/1/127953.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

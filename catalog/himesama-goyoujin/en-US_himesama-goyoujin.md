@@ -1,5 +1,7 @@
 # Himesama Goyoujin
 
+![himesama-goyoujin](https://cdn.myanimelist.net/images/anime/13/9520.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 姫様ご用心

@@ -1,5 +1,7 @@
 # Ryoukan-san
 
+![ryoukan-san](https://cdn.myanimelist.net/images/anime/13/72271.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 良寛さん

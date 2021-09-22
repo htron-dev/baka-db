@@ -1,5 +1,7 @@
 # Canary
 
+![canary](https://cdn.myanimelist.net/images/anime/1511/112367.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カナリア
@@ -24,4 +26,4 @@ Mika Katagiri wants her band to perform at the upcoming local festival. However,
 -   [My Anime list](https://myanimelist.net/anime/2146/Canary)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=744)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2103)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Canary_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Canary_%28anime%29)

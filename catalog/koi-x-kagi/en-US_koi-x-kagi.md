@@ -1,5 +1,7 @@
 # Koi x Kagi
 
+![koi-x-kagi](https://cdn.myanimelist.net/images/manga/2/165575.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

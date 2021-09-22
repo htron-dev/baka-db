@@ -1,5 +1,7 @@
 # Gal Tensei: Isekai Seikatsu Maji Darui
 
+![gal-tensei-isekai-seikatsu-maji-darui](https://cdn.myanimelist.net/images/manga/2/212472.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

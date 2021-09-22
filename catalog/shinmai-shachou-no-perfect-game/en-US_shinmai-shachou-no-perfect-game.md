@@ -1,5 +1,7 @@
 # Shinmai Shachou no Perfect Game
 
+![shinmai-shachou-no-perfect-game](https://cdn.myanimelist.net/images/manga/2/177625.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

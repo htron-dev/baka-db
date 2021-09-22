@@ -1,5 +1,7 @@
 # Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki
 
+![fushigi-dagashiya-zenitendou-movie-tsuri-taiyaki](https://cdn.myanimelist.net/images/anime/1524/108656.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ふしぎ駄菓子屋 銭天堂 つりたい焼き

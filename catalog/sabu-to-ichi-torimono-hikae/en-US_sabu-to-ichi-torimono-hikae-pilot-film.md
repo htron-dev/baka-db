@@ -1,5 +1,7 @@
 # Sabu to Ichi Torimono Hikae Pilot Film
 
+![sabu-to-ichi-torimono-hikae-pilot-film](https://cdn.myanimelist.net/images/anime/1157/107748.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 佐武と市捕物控 パイロットフィルム

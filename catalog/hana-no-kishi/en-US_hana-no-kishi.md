@@ -1,5 +1,7 @@
 # Hana no Kishi
 
+![hana-no-kishi](https://cdn.myanimelist.net/images/manga/2/34361.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

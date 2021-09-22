@@ -1,5 +1,7 @@
 # Naga Hamaraja
 
+![naga-hamaraja](https://cdn.myanimelist.net/images/anime/4/88653.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナガハマラジャ

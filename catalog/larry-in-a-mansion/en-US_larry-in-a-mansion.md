@@ -1,5 +1,7 @@
 # Larry in a Mansion
 
+![larry-in-a-mansion](https://cdn.myanimelist.net/images/manga/1/155105.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: LARRY IN A MANSION

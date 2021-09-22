@@ -1,5 +1,7 @@
 # Mix
 
+![mix](https://cdn.myanimelist.net/images/anime/1353/104238.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: MIX（ミックス）
@@ -35,4 +37,4 @@ Once the two enter high school, they pair as a battery and aim to enter the Nati
 -   [Official Site](https://www.ytv.co.jp/mix/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14245)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21648)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Mix_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Mix_%28manga%29)

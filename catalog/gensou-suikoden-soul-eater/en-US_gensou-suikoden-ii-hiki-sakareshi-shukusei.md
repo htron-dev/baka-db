@@ -1,5 +1,7 @@
 # Gensou Suikoden II: Hiki Sakareshi Shukusei
 
+![gensou-suikoden-ii-hiki-sakareshi-shukusei](https://cdn.myanimelist.net/images/manga/3/30043.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 幻想水滸伝 II‐引き裂かれし宿星‐

@@ -1,5 +1,7 @@
 # Miyawaki Yukino no Kessakushuu
 
+![miyawaki-yukino-no-kessakushuu](https://cdn.myanimelist.net/images/manga/2/26689.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: きみはフィールドの風

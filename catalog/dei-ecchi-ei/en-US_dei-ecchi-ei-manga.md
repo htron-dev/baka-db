@@ -1,5 +1,7 @@
 # Dei Ecchi Ei
 
+![dei-ecchi-ei](https://cdn.myanimelist.net/images/manga/1/55157.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

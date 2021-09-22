@@ -1,5 +1,7 @@
 # Smells Like Green Spirit
 
+![smells-like-green-spirit](https://cdn.myanimelist.net/images/manga/3/109555.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

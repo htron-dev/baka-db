@@ -1,5 +1,7 @@
 # Ore ga Suki nano wa Imouto dakedo Imouto ja Nai
 
+![ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai](https://cdn.myanimelist.net/images/anime/1359/96152.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 俺が好きなのは妹だけど妹じゃない

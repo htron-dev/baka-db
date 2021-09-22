@@ -1,5 +1,7 @@
 # Sayonara Koibito Mata Kite Tomodachi
 
+![sayonara-koibito-mata-kite-tomodachi](https://cdn.myanimelist.net/images/manga/2/201078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

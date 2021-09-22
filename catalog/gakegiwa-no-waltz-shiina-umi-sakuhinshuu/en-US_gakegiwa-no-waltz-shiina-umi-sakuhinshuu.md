@@ -1,5 +1,7 @@
 # Gakegiwa no Waltz: Shiina Umi Sakuhinshuu
 
+![gakegiwa-no-waltz-shiina-umi-sakuhinshuu](https://cdn.myanimelist.net/images/manga/1/232359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

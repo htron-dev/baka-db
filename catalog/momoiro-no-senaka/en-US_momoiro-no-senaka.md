@@ -1,5 +1,7 @@
 # Momoiro no Senaka
 
+![momoiro-no-senaka](https://cdn.myanimelist.net/images/manga/2/61465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

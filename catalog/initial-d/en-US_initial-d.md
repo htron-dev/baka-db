@@ -1,5 +1,7 @@
 # Initial D
 
+![initial-d](https://cdn.myanimelist.net/images/manga/2/186990.jpg)
+
 -   **type**: manga
 -   **volumes**: 48
 -   **chapters**: 724

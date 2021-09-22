@@ -1,5 +1,7 @@
 # Offline Game
 
+![offline-game](https://cdn.myanimelist.net/images/manga/1/164290.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 64

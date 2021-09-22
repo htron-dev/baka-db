@@ -1,5 +1,7 @@
 # Tokubetsuhou Dai-001-jou: Dust
 
+![tokubetsuhou-dai-001-jou-dust](https://cdn.myanimelist.net/images/manga/2/171738.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 特別法第 001 条 DUST

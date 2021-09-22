@@ -1,5 +1,7 @@
 # Juuyoku Porno
 
+![juuyoku-porno](https://cdn.myanimelist.net/images/manga/1/195729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

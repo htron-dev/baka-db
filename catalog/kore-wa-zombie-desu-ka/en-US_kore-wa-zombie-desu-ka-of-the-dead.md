@@ -1,5 +1,7 @@
 # Kore wa Zombie Desu ka? of the Dead
 
+![kore-wa-zombie-desu-ka-of-the-dead](https://cdn.myanimelist.net/images/anime/4/37451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: これはゾンビですか? OF THE DEAD

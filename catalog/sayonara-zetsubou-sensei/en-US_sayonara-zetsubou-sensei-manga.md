@@ -1,5 +1,7 @@
 # Sayonara Zetsubou Sensei
 
+![sayonara-zetsubou-sensei](https://cdn.myanimelist.net/images/manga/3/156519.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **chapters**: 301

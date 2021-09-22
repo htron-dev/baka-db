@@ -1,5 +1,7 @@
 # Milk Closet
 
+![milk-closet](https://cdn.myanimelist.net/images/manga/3/140993.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

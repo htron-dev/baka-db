@@ -1,5 +1,7 @@
 # Shiawase Sou no Okojo-san
 
+![shiawase-sou-no-okojo-san](https://cdn.myanimelist.net/images/anime/6/26602.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: しあわせソウのオコジョさん

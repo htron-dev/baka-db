@@ -1,5 +1,7 @@
 # Shirobako
 
+![shirobako](https://cdn.myanimelist.net/images/anime/1918/93511.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: SHIROBAKO

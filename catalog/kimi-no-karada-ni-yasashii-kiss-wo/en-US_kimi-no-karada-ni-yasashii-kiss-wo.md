@@ -1,5 +1,7 @@
 # Kimi no Karada ni Yasashii Kiss wo
 
+![kimi-no-karada-ni-yasashii-kiss-wo](https://cdn.myanimelist.net/images/manga/2/136957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君の体に優しいキスを

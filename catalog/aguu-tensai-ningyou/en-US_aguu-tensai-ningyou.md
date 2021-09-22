@@ -1,5 +1,7 @@
 # Aguu: Tensai Ningyou
 
+![aguu-tensai-ningyou](https://cdn.myanimelist.net/images/anime/1208/92825.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 悪偶 ‐天才人形‐

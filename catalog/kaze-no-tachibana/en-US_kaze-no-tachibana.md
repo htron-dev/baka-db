@@ -1,5 +1,7 @@
 # Kaze no Tachibana
 
+![kaze-no-tachibana](https://cdn.myanimelist.net/images/manga/2/186256.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

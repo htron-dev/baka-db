@@ -1,5 +1,7 @@
 # Houkago wa, Isekai Kissa de Coffee wo
 
+![houkago-wa-isekai-kissa-de-coffee-wo](https://cdn.myanimelist.net/images/manga/2/236343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

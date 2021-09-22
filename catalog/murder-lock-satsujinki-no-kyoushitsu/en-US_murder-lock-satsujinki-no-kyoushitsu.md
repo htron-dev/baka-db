@@ -1,5 +1,7 @@
 # Murder Lock: Satsujinki no Kyoushitsu
 
+![murder-lock-satsujinki-no-kyoushitsu](https://cdn.myanimelist.net/images/manga/3/243824.jpg)
+
 -   **type**: manga
 -   **original-name**: マーダーロック-殺人鬼の凶室-
 -   **start-date**: 2020-10-16

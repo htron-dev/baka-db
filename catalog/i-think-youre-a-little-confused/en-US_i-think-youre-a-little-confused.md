@@ -1,5 +1,7 @@
 # I Think You're a Little Confused
 
+![i-think-youre-a-little-confused](https://cdn.myanimelist.net/images/anime/1050/110748.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: I Think You're a Little Confused

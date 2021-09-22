@@ -1,5 +1,7 @@
 # Never Let Go
 
+![never-let-go](https://cdn.myanimelist.net/images/manga/2/94401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

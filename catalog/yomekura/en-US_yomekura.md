@@ -1,5 +1,7 @@
 # Yomekura
 
+![yomekura](https://cdn.myanimelist.net/images/manga/2/176085.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 44

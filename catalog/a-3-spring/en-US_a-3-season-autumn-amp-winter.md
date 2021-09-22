@@ -1,5 +1,7 @@
 # A3! Season Autumn &amp; Winter
 
+![a-3-season-autumn-amp-winter](https://cdn.myanimelist.net/images/anime/1049/108197.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: A3! SEASON AUTUMN & WINTER

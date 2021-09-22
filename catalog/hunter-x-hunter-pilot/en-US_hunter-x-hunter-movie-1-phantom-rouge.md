@@ -1,5 +1,7 @@
 # Hunter x Hunter Movie 1: Phantom Rouge
 
+![hunter-x-hunter-movie-1-phantom-rouge](https://cdn.myanimelist.net/images/anime/6/53073.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 HUNTER×HUNTER 緋色の幻影（ファントム・ルージュ）

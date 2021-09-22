@@ -1,5 +1,7 @@
 # Shoujo-tachi wa Kouya wo Mezasu
 
+![shoujo-tachi-wa-kouya-wo-mezasu](https://cdn.myanimelist.net/images/anime/4/77837.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 少女たちは荒野を目指す

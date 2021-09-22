@@ -1,5 +1,7 @@
 # Ryuu ga Gotoku Online x Taka no Tsume
 
+![ryuu-ga-gotoku-online-x-taka-no-tsume](https://cdn.myanimelist.net/images/anime/1821/96234.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 『龍が如く ONLINE』×「鷹の爪」
@@ -24,4 +26,4 @@ In the second episode, Ichiban Kasuga comes to visit The Eagle Talon cast in the
 
 -   [My Anime list](https://myanimelist.net/anime/38683/Ryuu_ga_Gotoku_Online_x_Taka_no_Tsume)
 -   [Official Site](https://ryu-ga-gotoku-online.jp/news/19/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Yakuza_(series)#Ryu_ga_Gotoku_Online>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Yakuza_%28series%29#Ryu_ga_Gotoku_Online)

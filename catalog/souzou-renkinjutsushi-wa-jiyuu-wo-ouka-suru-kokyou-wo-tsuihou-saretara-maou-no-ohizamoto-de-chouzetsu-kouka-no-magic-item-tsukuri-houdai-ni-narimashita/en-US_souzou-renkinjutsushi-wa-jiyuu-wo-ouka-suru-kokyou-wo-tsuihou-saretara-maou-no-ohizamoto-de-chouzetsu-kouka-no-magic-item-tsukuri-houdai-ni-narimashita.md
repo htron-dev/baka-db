@@ -1,5 +1,7 @@
 # Souzou Renkinjutsushi wa Jiyuu wo Ouka suru: Kokyou wo Tsuihou saretara, Maou no Ohizamoto de Chouzetsu Kouka no Magic Item Tsukuri-houdai ni Narimashita
 
+![souzou-renkinjutsushi-wa-jiyuu-wo-ouka-suru-kokyou-wo-tsuihou-saretara-maou-no-ohizamoto-de-chouzetsu-kouka-no-magic-item-tsukuri-houdai-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/247592.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 創造錬金術師は自由を謳歌する 故郷を追放されたら、魔王のお膝元で超絶効果のマジックアイテム作り放題になりました
 -   **start-date**: 2021-05-08

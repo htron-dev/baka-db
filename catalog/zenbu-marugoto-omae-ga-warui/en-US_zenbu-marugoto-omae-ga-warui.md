@@ -1,5 +1,7 @@
 # Zenbu Marugoto Omae ga Warui
 
+![zenbu-marugoto-omae-ga-warui](https://cdn.myanimelist.net/images/manga/1/227897.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

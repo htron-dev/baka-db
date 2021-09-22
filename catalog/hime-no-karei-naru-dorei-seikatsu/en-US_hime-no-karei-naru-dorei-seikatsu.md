@@ -1,5 +1,7 @@
 # Hime no Karei naru Dorei Seikatsu
 
+![hime-no-karei-naru-dorei-seikatsu](https://cdn.myanimelist.net/images/manga/2/167552.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

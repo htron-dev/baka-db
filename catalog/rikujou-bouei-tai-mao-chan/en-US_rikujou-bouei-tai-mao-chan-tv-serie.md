@@ -1,5 +1,7 @@
 # Rikujou Bouei-tai Mao-chan
 
+![rikujou-bouei-tai-mao-chan](https://cdn.myanimelist.net/images/anime/10/75213.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 陸上防衛隊まおちゃん
@@ -12,7 +14,6 @@
 ## Tags
 
 -   comedy
-
 -   magic
 -   military
 -   sci-fi

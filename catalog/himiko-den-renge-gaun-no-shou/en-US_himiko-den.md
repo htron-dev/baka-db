@@ -1,5 +1,7 @@
 # Himiko-den
 
+![himiko-den](https://cdn.myanimelist.net/images/anime/8/80544.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 火魅子伝

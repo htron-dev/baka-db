@@ -1,5 +1,7 @@
 # Akuma de Junai
 
+![akuma-de-junai](https://cdn.myanimelist.net/images/manga/3/156345.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

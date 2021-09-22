@@ -1,5 +1,7 @@
 # Megumi to Taiyou III: Kajuu Gummi Tweet Fantasy - Timeline World
 
+![megumi-to-taiyou-iii-kajuu-gummi-tweet-fantasy-timeline-world](https://cdn.myanimelist.net/images/anime/4/64917.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: メグミとタイヨウ III 果汁グミ Tweet Fantasy タイムラインワールド

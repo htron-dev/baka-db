@@ -1,5 +1,7 @@
 # Sarision
 
+![sarision](https://cdn.myanimelist.net/images/manga/1/34387.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

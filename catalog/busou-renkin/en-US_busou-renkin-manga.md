@@ -1,5 +1,7 @@
 # Busou Renkin
 
+![busou-renkin](https://cdn.myanimelist.net/images/manga/2/149583.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 83

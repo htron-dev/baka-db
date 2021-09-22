@@ -1,5 +1,7 @@
 # Tsuki no Hikari Hoshi no Michi
 
+![tsuki-no-hikari-hoshi-no-michi](https://cdn.myanimelist.net/images/manga/3/8632.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

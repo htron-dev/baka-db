@@ -1,5 +1,7 @@
 # Towazugatari
 
+![towazugatari](https://cdn.myanimelist.net/images/manga/2/41698.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: とはずがたり

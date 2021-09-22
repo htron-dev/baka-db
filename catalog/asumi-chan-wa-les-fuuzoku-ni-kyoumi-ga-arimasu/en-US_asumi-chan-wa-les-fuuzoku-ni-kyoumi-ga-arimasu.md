@@ -1,5 +1,7 @@
 # Asumi-chan wa Les Fuuzoku ni Kyoumi ga Arimasu!
 
+![asumi-chan-wa-les-fuuzoku-ni-kyoumi-ga-arimasu](https://cdn.myanimelist.net/images/manga/3/244919.jpg)
+
 -   **type**: manga
 -   **original-name**: 彩純ちゃんはレズ風俗に興味があります！
 -   **start-date**: 2020-07-18

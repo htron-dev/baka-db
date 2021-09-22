@@ -1,5 +1,7 @@
 # Hoshi no Yuuenchi
 
+![hoshi-no-yuuenchi](https://cdn.myanimelist.net/images/anime/5/61967.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ほしのゆうえんち

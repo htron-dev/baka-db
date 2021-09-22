@@ -1,5 +1,7 @@
 # Comic Anthology Ouji
 
+![comic-anthology-ouji](https://cdn.myanimelist.net/images/manga/1/22056.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

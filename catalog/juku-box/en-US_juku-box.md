@@ -1,5 +1,7 @@
 # Juku Box
 
+![juku-box](https://cdn.myanimelist.net/images/manga/2/172531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジュクボックス

@@ -1,5 +1,7 @@
 # Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai
 
+![shingeki-no-eroko-san-hen-na-oneesan-wa-danshikousei-to-nakayoku-naritai](https://cdn.myanimelist.net/images/manga/2/226577.jpg)
+
 -   **type**: manga
 -   **original-name**: 進撃のえろ子さん～変なお姉さんは男子高生と仲良くなりたい～
 -   **start-date**: 2019-07-26

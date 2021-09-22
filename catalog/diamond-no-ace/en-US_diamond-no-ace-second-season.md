@@ -1,5 +1,7 @@
 # Diamond no Ace: Second Season
 
+![diamond-no-ace-second-season](https://cdn.myanimelist.net/images/anime/9/74398.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ダイヤの A[エース]～ Second Season ～

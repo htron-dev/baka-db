@@ -1,5 +1,7 @@
 # Tales of Symphonia The Animation: Sekai Tougou-hen
 
+![tales-of-symphonia-the-animation-sekai-tougou-hen](https://cdn.myanimelist.net/images/anime/6/35809.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: テイルズ オブ シンフォニア THE ANIMATION 世界統合編

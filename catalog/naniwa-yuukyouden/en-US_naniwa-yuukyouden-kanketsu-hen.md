@@ -1,5 +1,7 @@
 # Naniwa Yuukyouden: Kanketsu-hen
 
+![naniwa-yuukyouden-kanketsu-hen](https://cdn.myanimelist.net/images/anime/2/52769.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: なにわ遊侠伝: 完結篇

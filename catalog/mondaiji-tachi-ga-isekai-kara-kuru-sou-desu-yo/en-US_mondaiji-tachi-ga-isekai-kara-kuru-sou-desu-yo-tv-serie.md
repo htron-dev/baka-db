@@ -1,5 +1,7 @@
 # Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?
 
+![mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo](https://cdn.myanimelist.net/images/anime/12/43369.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 問題児たちが異世界から来るそうですよ?

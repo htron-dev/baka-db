@@ -1,5 +1,7 @@
 # Shinken Seminar Koukou Kouza
 
+![shinken-seminar-koukou-kouza](https://cdn.myanimelist.net/images/anime/13/66049.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 進研ゼミ高校講座

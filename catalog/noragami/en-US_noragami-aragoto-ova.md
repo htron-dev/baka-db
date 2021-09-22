@@ -1,5 +1,7 @@
 # Noragami Aragoto OVA
 
+![noragami-aragoto-ova](https://cdn.myanimelist.net/images/anime/11/77510.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ノラガミ OAD

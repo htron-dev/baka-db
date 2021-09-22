@@ -1,5 +1,7 @@
 # Cherry ni Kuchizuke
 
+![cherry-ni-kuchizuke](https://cdn.myanimelist.net/images/manga/1/28425.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: チェリーにくちづけ

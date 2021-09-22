@@ -1,5 +1,7 @@
 # Dantalian no Shoka: Dalian Days
 
+![dantalian-no-shoka-dalian-days](https://cdn.myanimelist.net/images/manga/1/128327.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Dragoon
 
+![dragoon](https://cdn.myanimelist.net/images/anime/1168/112113.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 竜機伝承

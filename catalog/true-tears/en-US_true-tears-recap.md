@@ -1,5 +1,7 @@
 # True Tears Recap
 
+![true-tears-recap](https://cdn.myanimelist.net/images/anime/1956/98464.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: true tears 第 01 話~第 10 話 ダイジェスト

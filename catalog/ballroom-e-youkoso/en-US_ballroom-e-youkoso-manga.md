@@ -1,5 +1,7 @@
 # Ballroom e Youkoso
 
+![ballroom-e-youkoso](https://cdn.myanimelist.net/images/manga/1/186664.jpg)
+
 -   **type**: manga
 -   **original-name**: ボールルームへようこそ
 -   **start-date**: 2011-11-05

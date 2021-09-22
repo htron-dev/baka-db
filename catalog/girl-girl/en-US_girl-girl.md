@@ -1,5 +1,7 @@
 # Girl@Girl
 
+![girl-girl](https://cdn.myanimelist.net/images/manga/1/248305.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

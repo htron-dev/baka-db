@@ -1,5 +1,7 @@
 # Happy Jozy
 
+![happy-jozy](https://cdn.myanimelist.net/images/anime/13/72785.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ハッピージョージ

@@ -1,5 +1,7 @@
 # Argonavis from BanG Dream!
 
+![argonavis-from-ban-g-dream](https://cdn.myanimelist.net/images/anime/1484/109428.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アルゴナビス from BanG Dream!

@@ -1,5 +1,7 @@
 # Re:Kore ga Isekai no Oyakusoku desu!
 
+![re-kore-ga-isekai-no-oyakusoku-desu](https://cdn.myanimelist.net/images/manga/1/196947.jpg)
+
 -   **type**: light-novel
 -   **original-name**: RE:これが異世界のお約束です!
 -   **start-date**: 2017-07-17

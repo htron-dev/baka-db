@@ -1,5 +1,7 @@
 # Dynamite na Honey
 
+![dynamite-na-honey](https://cdn.myanimelist.net/images/manga/1/5763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ダイナマイトなハニー

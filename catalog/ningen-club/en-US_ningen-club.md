@@ -1,5 +1,7 @@
 # Ningen Club
 
+![ningen-club](https://cdn.myanimelist.net/images/manga/3/10472.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: 人間倶楽部

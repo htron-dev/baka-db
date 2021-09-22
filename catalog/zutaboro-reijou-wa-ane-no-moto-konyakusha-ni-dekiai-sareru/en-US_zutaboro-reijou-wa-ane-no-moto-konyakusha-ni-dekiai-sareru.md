@@ -1,5 +1,7 @@
 # Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru
 
+![zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru](https://cdn.myanimelist.net/images/manga/2/241427.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ずたぼろ令嬢は姉の元婚約者に溺愛される
 -   **start-date**: 2020-04-15

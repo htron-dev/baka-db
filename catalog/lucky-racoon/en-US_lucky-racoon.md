@@ -1,5 +1,7 @@
 # Lucky Racoon
 
+![lucky-racoon](https://cdn.myanimelist.net/images/manga/2/204521.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

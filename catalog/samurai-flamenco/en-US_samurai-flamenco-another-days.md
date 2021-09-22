@@ -1,5 +1,7 @@
 # Samurai Flamenco: Another Days
 
+![samurai-flamenco-another-days](https://cdn.myanimelist.net/images/manga/3/132977.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

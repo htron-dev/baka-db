@@ -1,5 +1,7 @@
 # One Room Angel
 
+![one-room-angel](https://cdn.myanimelist.net/images/manga/2/226252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

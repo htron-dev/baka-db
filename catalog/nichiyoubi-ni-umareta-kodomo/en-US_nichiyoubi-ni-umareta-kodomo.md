@@ -1,5 +1,7 @@
 # Nichiyoubi ni Umareta Kodomo
 
+![nichiyoubi-ni-umareta-kodomo](https://cdn.myanimelist.net/images/manga/2/159356.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

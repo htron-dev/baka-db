@@ -1,5 +1,7 @@
 # Skyhigh
 
+![skyhigh](https://cdn.myanimelist.net/images/manga/1/133013.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

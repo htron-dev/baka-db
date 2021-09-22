@@ -1,5 +1,7 @@
 # Mujihi na Otoko
 
+![mujihi-na-otoko](https://cdn.myanimelist.net/images/manga/5/108411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

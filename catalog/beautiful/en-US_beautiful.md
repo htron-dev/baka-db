@@ -1,5 +1,7 @@
 # Beautiful
 
+![beautiful](https://cdn.myanimelist.net/images/manga/1/130251.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 12

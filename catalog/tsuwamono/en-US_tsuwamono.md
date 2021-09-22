@@ -1,5 +1,7 @@
 # Tsuwamono!!
 
+![tsuwamono](https://cdn.myanimelist.net/images/manga/2/200868.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

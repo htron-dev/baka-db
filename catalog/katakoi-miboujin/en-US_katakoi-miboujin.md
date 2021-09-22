@@ -1,5 +1,7 @@
 # Katakoi Miboujin
 
+![katakoi-miboujin](https://cdn.myanimelist.net/images/manga/3/172242.jpg)
+
 -   **type**: manga
 -   **original-name**: 片恋未亡人
 -   **start-date**: 2015-07-22

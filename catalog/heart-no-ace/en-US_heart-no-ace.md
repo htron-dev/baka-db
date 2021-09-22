@@ -1,5 +1,7 @@
 # Heart no Ace
 
+![heart-no-ace](https://cdn.myanimelist.net/images/manga/3/70333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

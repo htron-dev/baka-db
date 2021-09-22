@@ -1,5 +1,7 @@
 # Shinsen no Mikohime
 
+![shinsen-no-mikohime](https://cdn.myanimelist.net/images/manga/3/152808.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 神泉の巫女姫

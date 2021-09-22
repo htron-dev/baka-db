@@ -1,5 +1,7 @@
 # 40 Shuunen Da yo!! CoroCoro All-Star Shougakkou
 
+![40-shuunen-da-yo-coro-coro-all-star-shougakkou](https://cdn.myanimelist.net/images/anime/13/86277.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 40 周年だよ!! コロコロオールスター小学校

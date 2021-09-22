@@ -1,5 +1,7 @@
 # Otona no Okusuri
 
+![otona-no-okusuri](https://cdn.myanimelist.net/images/manga/1/134039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

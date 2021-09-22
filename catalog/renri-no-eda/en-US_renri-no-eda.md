@@ -1,5 +1,7 @@
 # Renri no Eda
 
+![renri-no-eda](https://cdn.myanimelist.net/images/manga/2/5632.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

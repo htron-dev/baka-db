@@ -1,5 +1,7 @@
 # Great Mazinger
 
+![great-mazinger](https://cdn.myanimelist.net/images/anime/3/51991.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 56
 -   **original-name**: グレートマジンガー

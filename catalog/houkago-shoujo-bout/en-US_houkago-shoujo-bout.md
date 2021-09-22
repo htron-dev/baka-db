@@ -1,5 +1,7 @@
 # Houkago Shoujo Bout
 
+![houkago-shoujo-bout](https://cdn.myanimelist.net/images/manga/3/202870.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

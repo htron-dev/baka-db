@@ -1,5 +1,7 @@
 # Nemuru Baka
 
+![nemuru-baka](https://cdn.myanimelist.net/images/manga/3/170727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Nanbo no Monjai! Yankee Gurentai
 
+![nanbo-no-monjai-yankee-gurentai](https://cdn.myanimelist.net/images/anime/9/52799.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: なんぼのもんじゃい! ヤンキー愚連隊

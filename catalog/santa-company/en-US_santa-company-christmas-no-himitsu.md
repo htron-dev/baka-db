@@ -1,5 +1,7 @@
 # Santa Company: Christmas no Himitsu
 
+![santa-company-christmas-no-himitsu](https://cdn.myanimelist.net/images/anime/1985/102720.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サンタ・カンパニー ～クリスマスの秘密～

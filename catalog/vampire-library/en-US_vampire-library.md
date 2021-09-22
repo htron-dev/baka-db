@@ -1,5 +1,7 @@
 # Vampire Library
 
+![vampire-library](https://cdn.myanimelist.net/images/manga/3/165626.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 뱀파이어 도서관
 -   **start-date**: 2014-05-02

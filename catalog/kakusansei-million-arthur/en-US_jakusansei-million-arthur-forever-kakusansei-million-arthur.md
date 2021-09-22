@@ -1,5 +1,7 @@
 # Jakusansei Million Arthur: Forever Kakusansei Million Arthur
 
+![jakusansei-million-arthur-forever-kakusansei-million-arthur](https://cdn.myanimelist.net/images/anime/12/88104.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 弱酸性ミリオンアーサー: フォーエバー拡散性 MA

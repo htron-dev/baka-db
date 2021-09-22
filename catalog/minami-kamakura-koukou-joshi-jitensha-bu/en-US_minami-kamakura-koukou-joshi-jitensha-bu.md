@@ -1,5 +1,7 @@
 # Minami Kamakura Koukou Joshi Jitensha-bu
 
+![minami-kamakura-koukou-joshi-jitensha-bu](https://cdn.myanimelist.net/images/manga/1/162196.jpg)
+
 -   **type**: manga
 -   **original-name**: 南鎌倉高校女子自転車部
 -   **start-date**: 2011-06-30

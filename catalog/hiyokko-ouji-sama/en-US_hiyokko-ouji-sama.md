@@ -1,5 +1,7 @@
 # Hiyokko Ouji-sama
 
+![hiyokko-ouji-sama](https://cdn.myanimelist.net/images/manga/2/164767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

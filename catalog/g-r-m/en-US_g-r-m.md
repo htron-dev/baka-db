@@ -1,5 +1,7 @@
 # G.R.M.
 
+![g-r-m](https://cdn.myanimelist.net/images/anime/1475/115169.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: G.R.M.

@@ -1,5 +1,7 @@
 # Neo Satomi Hakkenden: Satomi-chanchi no Hachi Danshi
 
+![neo-satomi-hakkenden-satomi-chanchi-no-hachi-danshi](https://cdn.myanimelist.net/images/anime/11/37861.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ネオ里見八犬伝 サトミちゃんちの 8 男子

@@ -1,5 +1,7 @@
 # Kanojo wa Uso wo Aishisugiteru
 
+![kanojo-wa-uso-wo-aishisugiteru](https://cdn.myanimelist.net/images/manga/2/161523.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 94

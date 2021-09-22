@@ -1,5 +1,7 @@
 # Pop Japan Travel
 
+![pop-japan-travel](https://cdn.myanimelist.net/images/manga/2/12260.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

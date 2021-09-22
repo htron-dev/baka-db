@@ -1,5 +1,7 @@
 # Fire Candy
 
+![fire-candy](https://cdn.myanimelist.net/images/manga/1/3292.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

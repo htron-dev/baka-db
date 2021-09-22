@@ -1,5 +1,7 @@
 # Avengers Confidential: Black Widow to Punisher
 
+![avengers-confidential-black-widow-to-punisher](https://cdn.myanimelist.net/images/anime/10/66947.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アベンジャーズ コンフィデンシャル: ブラックウィドウとパニッシャー

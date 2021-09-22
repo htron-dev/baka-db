@@ -1,5 +1,7 @@
 # Denki-gai no Honya-san
 
+![denki-gai-no-honya-san](https://cdn.myanimelist.net/images/anime/2/65339.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: デンキ街の本屋さん

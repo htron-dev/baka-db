@@ -1,5 +1,7 @@
 # Battle Spirits: Saga Brave
 
+![battle-spirits-saga-brave](https://cdn.myanimelist.net/images/anime/1275/102211.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: バトルスピリッツ サーガブレイヴ

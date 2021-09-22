@@ -1,5 +1,7 @@
 # Miboujin to Nessa no Kyuuai
 
+![miboujin-to-nessa-no-kyuuai](https://cdn.myanimelist.net/images/manga/1/194787.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 未亡人と熱砂の求愛

@@ -1,5 +1,7 @@
 # Arab Kaizoku to Toraware no Oujo
 
+![arab-kaizoku-to-toraware-no-oujo](https://cdn.myanimelist.net/images/manga/2/182043.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 16

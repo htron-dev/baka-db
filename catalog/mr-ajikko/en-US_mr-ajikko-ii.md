@@ -1,5 +1,7 @@
 # Mr Ajikko II
 
+![mr-ajikko-ii](https://cdn.myanimelist.net/images/manga/1/160913.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 117

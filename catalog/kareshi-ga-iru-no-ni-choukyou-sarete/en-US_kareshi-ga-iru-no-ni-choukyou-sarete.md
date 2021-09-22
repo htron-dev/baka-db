@@ -1,5 +1,7 @@
 # Kareshi ga Iru no ni Choukyou Sarete
 
+![kareshi-ga-iru-no-ni-choukyou-sarete](https://cdn.myanimelist.net/images/manga/1/193498.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

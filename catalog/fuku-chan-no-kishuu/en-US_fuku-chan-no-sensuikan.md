@@ -1,5 +1,7 @@
 # Fuku-chan no Sensuikan
 
+![fuku-chan-no-sensuikan](https://cdn.myanimelist.net/images/anime/4/18230.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フクちゃんの潜水艦

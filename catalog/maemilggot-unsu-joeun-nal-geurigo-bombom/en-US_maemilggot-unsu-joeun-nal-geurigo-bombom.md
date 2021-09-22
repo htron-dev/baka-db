@@ -1,5 +1,7 @@
 # Maemilggot, Unsu Joeun Nal, Geurigo Bombom
 
+![maemilggot-unsu-joeun-nal-geurigo-bombom](https://cdn.myanimelist.net/images/anime/11/79709.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 메밀꽃, 운수 좋은 날, 그리고 봄봄

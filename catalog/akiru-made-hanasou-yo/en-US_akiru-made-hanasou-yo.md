@@ -1,5 +1,7 @@
 # Akiru made Hanasou yo
 
+![akiru-made-hanasou-yo](https://cdn.myanimelist.net/images/manga/2/86193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あきるまで話そうよ

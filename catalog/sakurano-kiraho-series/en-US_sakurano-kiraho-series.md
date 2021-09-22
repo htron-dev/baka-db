@@ -1,5 +1,7 @@
 # Sakurano Kiraho Series
 
+![sakurano-kiraho-series](https://cdn.myanimelist.net/images/manga/2/162323.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 8

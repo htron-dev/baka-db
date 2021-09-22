@@ -1,5 +1,7 @@
 # Cherry na Teacher
 
+![cherry-na-teacher](https://cdn.myanimelist.net/images/manga/1/34474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

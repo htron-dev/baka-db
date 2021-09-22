@@ -1,5 +1,7 @@
 # Asahi Ojousama to Kashima-kun
 
+![asahi-ojousama-to-kashima-kun](https://cdn.myanimelist.net/images/manga/1/165146.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

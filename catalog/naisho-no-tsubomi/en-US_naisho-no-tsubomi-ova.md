@@ -1,5 +1,7 @@
 # Naisho no Tsubomi
 
+![naisho-no-tsubomi](https://cdn.myanimelist.net/images/anime/3/19981.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ないしょのつぼみ

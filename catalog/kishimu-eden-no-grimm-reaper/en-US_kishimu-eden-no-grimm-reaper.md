@@ -1,5 +1,7 @@
 # Kishimu Eden no Grimm Reaper
 
+![kishimu-eden-no-grimm-reaper](https://cdn.myanimelist.net/images/manga/1/176777.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 27

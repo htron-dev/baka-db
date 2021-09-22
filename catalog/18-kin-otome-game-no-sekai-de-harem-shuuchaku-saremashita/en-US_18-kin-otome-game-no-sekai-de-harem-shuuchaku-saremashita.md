@@ -1,5 +1,7 @@
 # 18-kin Otome Game no Sekai de Harem Shuuchaku Saremashita
 
+![18-kin-otome-game-no-sekai-de-harem-shuuchaku-saremashita](https://cdn.myanimelist.net/images/manga/1/182086.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

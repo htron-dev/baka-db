@@ -1,5 +1,7 @@
 # Ajuutan
 
+![ajuutan](https://cdn.myanimelist.net/images/manga/2/198725.jpg)
+
 -   **type**: manga
 -   **original-name**: 亜獣譚
 -   **start-date**: 2016-12-11

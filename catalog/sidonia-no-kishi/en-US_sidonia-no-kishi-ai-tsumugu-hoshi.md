@@ -1,5 +1,7 @@
 # Sidonia no Kishi: Ai Tsumugu Hoshi
 
+![sidonia-no-kishi-ai-tsumugu-hoshi](https://cdn.myanimelist.net/images/anime/1222/108354.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シドニアの騎士 あいつむぐほし

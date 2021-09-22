@@ -1,5 +1,7 @@
 # Enkinhou no Hako: Hakase no Sagashimono
 
+![enkinhou-no-hako-hakase-no-sagashimono](https://cdn.myanimelist.net/images/anime/4/16122.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 遠近法の箱-博士のさがしもの

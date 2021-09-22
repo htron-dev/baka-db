@@ -1,5 +1,7 @@
 # Piace: Watashi no Italian
 
+![piace-watashi-no-italian](https://cdn.myanimelist.net/images/anime/8/83098.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ピアシェ～私のイタリアン～

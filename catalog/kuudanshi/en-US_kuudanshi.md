@@ -1,5 +1,7 @@
 # Kuudanshi
 
+![kuudanshi](https://cdn.myanimelist.net/images/manga/4/138059.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

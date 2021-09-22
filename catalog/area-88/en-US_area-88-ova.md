@@ -1,5 +1,7 @@
 # Area 88
 
+![area-88](https://cdn.myanimelist.net/images/anime/11/2856.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: エリア 88

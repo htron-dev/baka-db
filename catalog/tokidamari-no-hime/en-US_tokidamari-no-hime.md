@@ -1,5 +1,7 @@
 # Tokidamari no Hime
 
+![tokidamari-no-hime](https://cdn.myanimelist.net/images/manga/2/78065.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ときだまりの姫

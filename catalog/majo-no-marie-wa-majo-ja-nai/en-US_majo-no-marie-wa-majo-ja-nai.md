@@ -1,5 +1,7 @@
 # Majo no Marie wa Majo ja Nai
 
+![majo-no-marie-wa-majo-ja-nai](https://cdn.myanimelist.net/images/manga/2/232404.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔女のマリーは魔女じゃない
 -   **start-date**: 2019-06-05

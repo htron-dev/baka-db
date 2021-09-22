@@ -1,5 +1,7 @@
 # Imouto no Hou ga Oneechan yori Kawaii desu yo, Senpai?
 
+![imouto-no-hou-ga-oneechan-yori-kawaii-desu-yo-senpai](https://cdn.myanimelist.net/images/manga/1/241905.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 妹のほうがお姉ちゃんより可愛いですよ、先輩？
 -   **start-date**: 2020-07-17

@@ -1,5 +1,7 @@
 # Crows Respect
 
+![crows-respect](https://cdn.myanimelist.net/images/manga/2/227065.jpg)
+
 -   **type**: manga
 -   **original-name**: クローズ リスペクト
 -   **start-date**: 2015-11-26

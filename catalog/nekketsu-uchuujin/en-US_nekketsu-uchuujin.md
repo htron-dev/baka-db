@@ -1,5 +1,7 @@
 # Nekketsu Uchuujin
 
+![nekketsu-uchuujin](https://cdn.myanimelist.net/images/anime/1655/113432.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 熱血宇宙人

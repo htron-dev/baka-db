@@ -1,5 +1,7 @@
 # Rumi-chan no Jishou
 
+![rumi-chan-no-jishou](https://cdn.myanimelist.net/images/manga/1/172493.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 181

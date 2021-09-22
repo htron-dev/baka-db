@@ -1,5 +1,7 @@
 # Uragiri wa Boku no Namae wo Shitteiru
 
+![uragiri-wa-boku-no-namae-wo-shitteiru](https://cdn.myanimelist.net/images/anime/4/26525.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 裏切りは僕の名前を知っている

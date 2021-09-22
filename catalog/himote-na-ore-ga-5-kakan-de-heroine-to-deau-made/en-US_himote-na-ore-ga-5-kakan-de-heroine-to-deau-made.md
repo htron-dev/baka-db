@@ -1,5 +1,7 @@
 # Himote na Ore ga 5-kakan de Heroine to Deau made
 
+![himote-na-ore-ga-5-kakan-de-heroine-to-deau-made](https://cdn.myanimelist.net/images/manga/3/198115.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

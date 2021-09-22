@@ -1,5 +1,7 @@
 # To Heart 2 Adnext
 
+![to-heart-2-adnext](https://cdn.myanimelist.net/images/anime/8/75477.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ToHeart2 adnext

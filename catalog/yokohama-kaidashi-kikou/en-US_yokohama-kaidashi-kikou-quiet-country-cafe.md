@@ -1,5 +1,7 @@
 # Yokohama Kaidashi Kikou: Quiet Country Cafe
 
+![yokohama-kaidashi-kikou-quiet-country-cafe](https://cdn.myanimelist.net/images/anime/6/23055.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ヨコハマ買い出し紀行 Quiet Country Cafe

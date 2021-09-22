@@ -1,5 +1,7 @@
 # Butten Monogatari
 
+![butten-monogatari](https://cdn.myanimelist.net/images/anime/11/84283.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 仏典物語

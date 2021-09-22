@@ -1,5 +1,7 @@
 # Kikasete yo, Koigokoro.
 
+![kikasete-yo-koigokoro](https://cdn.myanimelist.net/images/manga/3/10876.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 聞かせてよ、恋心。

@@ -1,5 +1,7 @@
 # Seiken no Blacksmith
 
+![seiken-no-blacksmith](https://cdn.myanimelist.net/images/anime/12/15940.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 聖剣の刀鍛冶（ブラックスミス）

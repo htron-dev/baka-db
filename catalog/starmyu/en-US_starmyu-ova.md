@@ -1,5 +1,7 @@
 # Starmyu OVA
 
+![starmyu-ova](https://cdn.myanimelist.net/images/anime/8/80195.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 高校星歌劇［スタミュ］OVA

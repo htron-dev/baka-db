@@ -1,5 +1,7 @@
 # Power Battle Watch Car: Watch Gamyeon-ui Yeogseub
 
+![power-battle-watch-car-watch-gamyeon-ui-yeogseub](https://cdn.myanimelist.net/images/anime/1669/95956.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 파워배틀 와치카: 와치가면의 역습

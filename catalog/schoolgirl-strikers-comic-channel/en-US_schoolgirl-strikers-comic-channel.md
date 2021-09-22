@@ -1,5 +1,7 @@
 # Schoolgirl Strikers: Comic Channel
 
+![schoolgirl-strikers-comic-channel](https://cdn.myanimelist.net/images/manga/1/155209.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Bakugan: Battle Planet
 
+![bakugan-battle-planet](https://cdn.myanimelist.net/images/anime/1477/100243.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 爆丸バトルプラネット

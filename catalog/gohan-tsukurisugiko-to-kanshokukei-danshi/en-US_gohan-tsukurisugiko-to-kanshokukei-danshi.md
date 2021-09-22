@@ -1,5 +1,7 @@
 # Gohan Tsukurisugiko to Kanshokukei Danshi
 
+![gohan-tsukurisugiko-to-kanshokukei-danshi](https://cdn.myanimelist.net/images/manga/1/243149.jpg)
+
 -   **type**: manga
 -   **original-name**: ご飯つくりすぎ子と完食系男子
 -   **start-date**: 2016-05-20

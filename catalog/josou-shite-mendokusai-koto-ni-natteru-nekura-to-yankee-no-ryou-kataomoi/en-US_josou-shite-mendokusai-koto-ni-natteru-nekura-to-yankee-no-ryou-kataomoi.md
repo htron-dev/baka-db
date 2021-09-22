@@ -1,5 +1,7 @@
 # Josou shite Mendokusai Koto ni Natteru Nekura to Yankee no Ryou Kataomoi
 
+![josou-shite-mendokusai-koto-ni-natteru-nekura-to-yankee-no-ryou-kataomoi](https://cdn.myanimelist.net/images/manga/3/221159.jpg)
+
 -   **type**: manga
 -   **original-name**: 女装してめんどくさい事になってるネクラとヤンキーの両片想い
 -   **start-date**: 2018-09-10

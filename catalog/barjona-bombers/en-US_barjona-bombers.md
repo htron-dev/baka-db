@@ -1,5 +1,7 @@
 # Barjona Bombers
 
+![barjona-bombers](https://cdn.myanimelist.net/images/manga/1/38738.jpg)
+
 -   **type**: manga
 -   **original-name**: バルヨナボンバーズ
 -   **start-date**: 2004-07-20

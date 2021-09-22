@@ -1,5 +1,7 @@
 # Kurokuro: Black Chronicle
 
+![kurokuro-black-chronicle](https://cdn.myanimelist.net/images/manga/3/128645.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

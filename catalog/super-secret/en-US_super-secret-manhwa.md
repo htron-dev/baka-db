@@ -1,5 +1,7 @@
 # Super Secret
 
+![super-secret](https://cdn.myanimelist.net/images/manga/1/209393.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 143
 -   **original-name**: 슈퍼 시크릿

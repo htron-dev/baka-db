@@ -1,5 +1,7 @@
 # Mainichi ga H Youbi
 
+![mainichi-ga-h-youbi](https://cdn.myanimelist.net/images/manga/2/12551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Detective Conan: The Lost Ship in the Sky
 
+![detective-conan-the-lost-ship-in-the-sky](https://cdn.myanimelist.net/images/manga/2/240561.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

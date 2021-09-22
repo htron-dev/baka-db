@@ -1,5 +1,7 @@
 # Bokura no Ashita: Freeter no Genjou ni Kansuru Wakamono e no Shuuchi Kouhou Jigyou
 
+![bokura-no-ashita-freeter-no-genjou-ni-kansuru-wakamono-e-no-shuuchi-kouhou-jigyou](https://cdn.myanimelist.net/images/anime/4/87946.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 僕らの明日～フリーターの現状に関する若者への周知・広報事業～

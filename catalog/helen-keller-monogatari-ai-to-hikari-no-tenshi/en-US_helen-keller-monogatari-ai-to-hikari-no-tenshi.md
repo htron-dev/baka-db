@@ -1,5 +1,7 @@
 # Helen Keller Monogatari: Ai to Hikari no Tenshi
 
+![helen-keller-monogatari-ai-to-hikari-no-tenshi](https://cdn.myanimelist.net/images/anime/9/15467.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヘレン・ケラー物語　愛と光の天使

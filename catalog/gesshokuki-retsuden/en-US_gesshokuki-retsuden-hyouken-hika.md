@@ -1,5 +1,7 @@
 # Gesshokuki Retsuden: Hyouken Hika
 
+![gesshokuki-retsuden-hyouken-hika](https://cdn.myanimelist.net/images/manga/3/157725.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

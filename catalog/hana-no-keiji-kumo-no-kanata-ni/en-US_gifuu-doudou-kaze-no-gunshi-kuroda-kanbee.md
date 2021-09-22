@@ -1,5 +1,7 @@
 # Gifuu Doudou!!: Kaze no Gunshi Kuroda Kanbee
 
+![gifuu-doudou-kaze-no-gunshi-kuroda-kanbee](https://cdn.myanimelist.net/images/manga/1/188578.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 39

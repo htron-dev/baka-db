@@ -1,5 +1,7 @@
 # Cyclops Shoujo Saipuu
 
+![cyclops-shoujo-saipuu](https://cdn.myanimelist.net/images/anime/8/47377.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: サイクロプス少女さいぷ～

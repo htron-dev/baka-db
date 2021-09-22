@@ -1,5 +1,7 @@
 # Gyokou no Nikuko-chan
 
+![gyokou-no-nikuko-chan](https://cdn.myanimelist.net/images/manga/1/240503.jpg)
+
 -   **type**: manga
 -   **original-name**: 漁港の肉子ちゃん
 -   **start-date**: 2021-01-29

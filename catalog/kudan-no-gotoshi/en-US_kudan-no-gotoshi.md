@@ -1,5 +1,7 @@
 # Kudan no Gotoshi
 
+![kudan-no-gotoshi](https://cdn.myanimelist.net/images/manga/2/168681.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 57

@@ -1,5 +1,7 @@
 # Yuusha to Kenja no Sakagura
 
+![yuusha-to-kenja-no-sakagura](https://cdn.myanimelist.net/images/manga/3/186421.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者と賢者の酒蔵
 -   **start-date**: 2016-12-22

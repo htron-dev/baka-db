@@ -1,5 +1,7 @@
 # Pan to Boku no Momo-chan
 
+![pan-to-boku-no-momo-chan](https://cdn.myanimelist.net/images/anime/1689/95958.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: パンと僕のモモちゃん

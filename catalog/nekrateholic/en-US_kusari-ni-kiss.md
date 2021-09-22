@@ -1,5 +1,7 @@
 # Kusari ni Kiss
 
+![kusari-ni-kiss](https://cdn.myanimelist.net/images/manga/1/67597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

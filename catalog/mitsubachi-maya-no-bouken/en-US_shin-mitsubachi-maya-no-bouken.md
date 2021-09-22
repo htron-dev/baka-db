@@ -1,5 +1,7 @@
 # Shin Mitsubachi Maya no Bouken
 
+![shin-mitsubachi-maya-no-bouken](https://cdn.myanimelist.net/images/anime/10/22043.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 新みつばちマーヤの冒険

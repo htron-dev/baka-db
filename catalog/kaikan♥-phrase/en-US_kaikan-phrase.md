@@ -1,5 +1,7 @@
 # Kaikan Phrase
 
+![kaikan-phrase](https://cdn.myanimelist.net/images/anime/2/13955.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: 快感 フレーズ

@@ -1,5 +1,7 @@
 # Sekai de Ichiban Tsuyoku Naritai!
 
+![sekai-de-ichiban-tsuyoku-naritai](https://cdn.myanimelist.net/images/manga/2/173110.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

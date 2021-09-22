@@ -1,5 +1,7 @@
 # BWH
 
+![bwh](https://cdn.myanimelist.net/images/manga/2/21136.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Flowering Heart 2
 
+![flowering-heart-2](https://cdn.myanimelist.net/images/anime/12/88483.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 플라워링 하트 2

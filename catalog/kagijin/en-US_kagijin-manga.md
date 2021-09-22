@@ -1,5 +1,7 @@
 # Kagijin
 
+![kagijin](https://cdn.myanimelist.net/images/manga/1/21830.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # 11eyes Picture Drama
 
+![11-eyes-picture-drama](https://cdn.myanimelist.net/images/anime/6/54569.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: 11eyes 映像特典

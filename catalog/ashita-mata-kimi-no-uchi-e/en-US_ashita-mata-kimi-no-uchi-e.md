@@ -1,5 +1,7 @@
 # Ashita Mata Kimi no Uchi e
 
+![ashita-mata-kimi-no-uchi-e](https://cdn.myanimelist.net/images/manga/2/149759.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Sayokyoku
 
+![sayokyoku](https://cdn.myanimelist.net/images/anime/1041/107680.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 小夜曲

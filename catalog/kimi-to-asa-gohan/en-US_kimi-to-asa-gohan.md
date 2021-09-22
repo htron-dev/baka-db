@@ -1,5 +1,7 @@
 # Kimi to Asa Gohan!
 
+![kimi-to-asa-gohan](https://cdn.myanimelist.net/images/manga/1/83190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

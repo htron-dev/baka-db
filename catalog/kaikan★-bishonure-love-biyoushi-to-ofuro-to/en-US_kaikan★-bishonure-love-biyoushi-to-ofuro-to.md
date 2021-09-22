@@ -1,5 +1,7 @@
 # Kaikan★Bishonure Love: Biyoushi to Ofuro to
 
+![kaikan★-bishonure-love-biyoushi-to-ofuro-to](https://cdn.myanimelist.net/images/manga/3/194143.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

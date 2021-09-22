@@ -1,5 +1,7 @@
 # Ookami Shoujo to Kuro Ouji: Gishinanki – Happening Kiss
 
+![ookami-shoujo-to-kuro-ouji-gishinanki-happening-kiss](https://cdn.myanimelist.net/images/anime/7/70461.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: オオカミ少女と黒王子「疑心暗鬼 -Happening kiss-」

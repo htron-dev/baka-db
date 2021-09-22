@@ -1,5 +1,7 @@
 # Koisuru Asteroid
 
+![koisuru-asteroid](https://cdn.myanimelist.net/images/anime/1142/111693.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 恋する小惑星〈アストロイド〉

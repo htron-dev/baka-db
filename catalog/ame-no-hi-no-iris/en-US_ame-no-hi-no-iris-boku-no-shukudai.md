@@ -1,5 +1,7 @@
 # Ame no Hi no Iris: Boku no Shukudai
 
+![ame-no-hi-no-iris-boku-no-shukudai](https://cdn.myanimelist.net/images/manga/3/144987.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: 雨の日のアイリス『僕の宿題』

@@ -1,5 +1,7 @@
 # Gaikotsu Shotenin Honda-san OVA
 
+![gaikotsu-shotenin-honda-san-ova](https://cdn.myanimelist.net/images/anime/1428/95664.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ガイコツ書店員本田さん OVA

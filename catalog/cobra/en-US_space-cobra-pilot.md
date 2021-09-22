@@ -1,5 +1,7 @@
 # Space Cobra Pilot
 
+![space-cobra-pilot](https://cdn.myanimelist.net/images/anime/11/12000.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: スペースコブラ

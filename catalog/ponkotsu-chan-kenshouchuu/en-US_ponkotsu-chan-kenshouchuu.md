@@ -1,5 +1,7 @@
 # Ponkotsu-chan Kenshouchuu
 
+![ponkotsu-chan-kenshouchuu](https://cdn.myanimelist.net/images/manga/2/222545.jpg)
+
 -   **type**: manga
 -   **original-name**: ポンコツちゃん検証中
 -   **start-date**: 2019-04-24

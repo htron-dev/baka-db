@@ -1,5 +1,7 @@
 # Taki Anna no Honshou wa S nano ka M nano ka Ore dake ga Shitteiru.
 
+![taki-anna-no-honshou-wa-s-nano-ka-m-nano-ka-ore-dake-ga-shitteiru](https://cdn.myanimelist.net/images/manga/3/180452.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

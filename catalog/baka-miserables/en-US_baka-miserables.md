@@ -1,5 +1,7 @@
 # Baka Misérables
 
+![baka-miserables](https://cdn.myanimelist.net/images/anime/11/54813.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: バカ・ミゼラブル

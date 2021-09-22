@@ -1,5 +1,7 @@
 # 1/365 no Koibito
 
+![1-365-no-koibito](https://cdn.myanimelist.net/images/manga/3/220420.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

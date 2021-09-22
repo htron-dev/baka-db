@@ -1,5 +1,7 @@
 # Zet Ranger
 
+![zet-ranger](https://cdn.myanimelist.net/images/anime/1808/93286.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 제트레인저
@@ -9,7 +11,6 @@
 ## Tags
 
 -   action
-
 -   sci-fi
 -   super-power
 

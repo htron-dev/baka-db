@@ -1,5 +1,7 @@
 # Dai Koushien
 
+![dai-koushien](https://cdn.myanimelist.net/images/manga/2/136959.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 225

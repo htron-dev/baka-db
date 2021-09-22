@@ -1,5 +1,7 @@
 # Sono Shitsuji, Tsuyoki ni Tsuki
 
+![sono-shitsuji-tsuyoki-ni-tsuki](https://cdn.myanimelist.net/images/manga/3/31308.jpg)
+
 -   **type**: manga
 -   **original-name**: その執事、強気につき
 

@@ -1,5 +1,7 @@
 # Aoi Tori yori
 
+![aoi-tori-yori](https://cdn.myanimelist.net/images/manga/1/212988.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

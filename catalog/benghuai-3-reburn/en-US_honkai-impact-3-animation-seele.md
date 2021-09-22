@@ -1,5 +1,7 @@
 # Honkai Impact 3 Animation: Seele
 
+![honkai-impact-3-animation-seele](https://cdn.myanimelist.net/images/anime/1601/108639.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **start-date**: 2019-10-12

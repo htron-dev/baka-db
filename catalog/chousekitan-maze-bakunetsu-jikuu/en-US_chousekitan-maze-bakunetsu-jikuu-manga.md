@@ -1,5 +1,7 @@
 # Chousekitan Maze☆Bakunetsu Jikuu
 
+![chousekitan-maze☆-bakunetsu-jikuu](https://cdn.myanimelist.net/images/manga/2/190669.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Wing: Battlefield of Pacifists
 
+![mobile-suit-gundam-wing-battlefield-of-pacifists](https://cdn.myanimelist.net/images/manga/3/3529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

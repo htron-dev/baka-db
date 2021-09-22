@@ -1,5 +1,7 @@
 # Kimagure Engage
 
+![kimagure-engage](https://cdn.myanimelist.net/images/manga/2/8054.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 気まぐれエンゲージ

@@ -1,5 +1,7 @@
 # Ore no Yome wa Aitsu no Tsuma
 
+![ore-no-yome-wa-aitsu-no-tsuma](https://cdn.myanimelist.net/images/manga/1/176890.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

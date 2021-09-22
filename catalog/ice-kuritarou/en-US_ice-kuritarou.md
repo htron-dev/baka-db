@@ -1,5 +1,7 @@
 # Ice Kuritarou
 
+![ice-kuritarou](https://cdn.myanimelist.net/images/anime/1875/93756.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: アイスくりたろう

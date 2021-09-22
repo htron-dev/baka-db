@@ -1,5 +1,7 @@
 # Yurufuwa Nouka no Mojibake Skill: Isekai de Catalog Tsuuhan Yattemasu
 
+![yurufuwa-nouka-no-mojibake-skill-isekai-de-catalog-tsuuhan-yattemasu](https://cdn.myanimelist.net/images/manga/1/248429.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆるふわ農家の文字化けスキル　～異世界でカタログ通販やってます～
 -   **start-date**: 2019-10-18

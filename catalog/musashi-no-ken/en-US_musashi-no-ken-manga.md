@@ -1,5 +1,7 @@
 # Musashi no Ken
 
+![musashi-no-ken](https://cdn.myanimelist.net/images/manga/3/31359.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **original-name**: 六三四の剣

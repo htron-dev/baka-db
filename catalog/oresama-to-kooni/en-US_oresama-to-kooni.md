@@ -1,5 +1,7 @@
 # Oresama to Kooni
 
+![oresama-to-kooni](https://cdn.myanimelist.net/images/manga/3/141401.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

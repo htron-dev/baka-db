@@ -1,5 +1,7 @@
 # Ryakudatsukon: Kedamonoou kara Koko made Midara ni Aisarete!?
 
+![ryakudatsukon-kedamonoou-kara-koko-made-midara-ni-aisarete](https://cdn.myanimelist.net/images/manga/3/183006.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

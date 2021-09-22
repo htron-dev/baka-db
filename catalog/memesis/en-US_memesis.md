@@ -1,5 +1,7 @@
 # Memesis
 
+![memesis](https://cdn.myanimelist.net/images/manga/2/209960.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 45

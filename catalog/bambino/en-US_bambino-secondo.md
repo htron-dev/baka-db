@@ -1,5 +1,7 @@
 # Bambino! Secondo
 
+![bambino-secondo](https://cdn.myanimelist.net/images/manga/5/74875.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 149

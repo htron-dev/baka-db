@@ -1,5 +1,7 @@
 # Madoromi no Vevara
 
+![madoromi-no-vevara](https://cdn.myanimelist.net/images/anime/1664/101938.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 微睡みのヴェヴァラ

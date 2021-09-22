@@ -1,5 +1,7 @@
 # Chou no You ni Hana no You ni!
 
+![chou-no-you-ni-hana-no-you-ni](https://cdn.myanimelist.net/images/manga/1/152492.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 蝶のように花のように!

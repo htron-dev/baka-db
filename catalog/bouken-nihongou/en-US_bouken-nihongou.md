@@ -1,5 +1,7 @@
 # Bouken Nihongou
 
+![bouken-nihongou](https://cdn.myanimelist.net/images/manga/3/228834.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 冒険日本号
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   sci-fi
 -   military
 

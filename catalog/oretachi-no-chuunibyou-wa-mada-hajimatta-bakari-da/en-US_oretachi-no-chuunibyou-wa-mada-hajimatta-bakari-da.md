@@ -1,5 +1,7 @@
 # Oretachi no Chuunibyou wa Mada Hajimatta Bakari da!
 
+![oretachi-no-chuunibyou-wa-mada-hajimatta-bakari-da](https://cdn.myanimelist.net/images/manga/3/160896.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 俺達の中二病はまだ始まったばかりだ!

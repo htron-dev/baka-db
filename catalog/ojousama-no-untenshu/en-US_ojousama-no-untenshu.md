@@ -1,5 +1,7 @@
 # Ojousama no Untenshu
 
+![ojousama-no-untenshu](https://cdn.myanimelist.net/images/manga/1/42017.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

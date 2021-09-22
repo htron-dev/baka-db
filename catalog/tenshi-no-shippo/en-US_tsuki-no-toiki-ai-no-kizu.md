@@ -1,5 +1,7 @@
 # Tsuki no Toiki Ai no Kizu
 
+![tsuki-no-toiki-ai-no-kizu](https://cdn.myanimelist.net/images/manga/3/10208.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

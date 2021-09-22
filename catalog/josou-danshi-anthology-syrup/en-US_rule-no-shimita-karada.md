@@ -1,5 +1,7 @@
 # Rule no Shimita Karada
 
+![rule-no-shimita-karada](https://cdn.myanimelist.net/images/manga/2/89485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

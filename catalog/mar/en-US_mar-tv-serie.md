@@ -1,5 +1,7 @@
 # MÄR
 
+![mar](https://cdn.myanimelist.net/images/anime/8/38383.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 102
 -   **original-name**: メル

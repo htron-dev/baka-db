@@ -1,5 +1,7 @@
 # Tantei wa Yume wo Miru ka
 
+![tantei-wa-yume-wo-miru-ka](https://cdn.myanimelist.net/images/manga/1/14009.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 探偵は夢を見るか

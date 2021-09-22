@@ -1,5 +1,7 @@
 # Love Maniacs!
 
+![love-maniacs](https://cdn.myanimelist.net/images/manga/3/20191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

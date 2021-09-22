@@ -1,5 +1,7 @@
 # 100-nin no Eiyuu wo Sodateta Saikyou Yogensha wa, Boukensha ni Natte mo Sekaijuu no Deshi kara Shitawaretemasu @comic
 
+![100-nin-no-eiyuu-wo-sodateta-saikyou-yogensha-wa-boukensha-ni-natte-mo-sekaijuu-no-deshi-kara-shitawaretemasu-comic](https://cdn.myanimelist.net/images/manga/2/235073.jpg)
+
 -   **type**: manga
 -   **original-name**: 100 人の英雄を育てた最強預言者は、冒険者になっても世界中の弟子から慕われてます＠comic
 -   **start-date**: 2019-06-26

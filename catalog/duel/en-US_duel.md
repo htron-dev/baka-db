@@ -1,5 +1,7 @@
 # Duel!
 
+![duel](https://cdn.myanimelist.net/images/manga/3/159650.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 52

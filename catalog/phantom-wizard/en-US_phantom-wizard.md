@@ -1,5 +1,7 @@
 # Phantom Wizard
 
+![phantom-wizard](https://cdn.myanimelist.net/images/manga/1/55987.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

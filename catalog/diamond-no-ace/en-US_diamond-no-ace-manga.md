@@ -1,5 +1,7 @@
 # Diamond no Ace
 
+![diamond-no-ace](https://cdn.myanimelist.net/images/manga/1/14653.jpg)
+
 -   **type**: manga
 -   **volumes**: 47
 -   **chapters**: 418

@@ -1,5 +1,7 @@
 # Kyuuketsuki no Yuigon
 
+![kyuuketsuki-no-yuigon](https://cdn.myanimelist.net/images/manga/3/24820.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 吸血鬼の遺言

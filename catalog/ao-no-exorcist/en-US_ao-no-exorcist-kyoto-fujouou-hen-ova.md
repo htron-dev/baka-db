@@ -1,5 +1,7 @@
 # Ao no Exorcist: Kyoto Fujouou-hen OVA
 
+![ao-no-exorcist-kyoto-fujouou-hen-ova](https://cdn.myanimelist.net/images/anime/1031/96313.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 青の祓魔師 OVA

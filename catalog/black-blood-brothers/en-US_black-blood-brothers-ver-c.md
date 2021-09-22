@@ -1,5 +1,7 @@
 # Black Blood Brothers ver.C
 
+![black-blood-brothers-ver-c](https://cdn.myanimelist.net/images/manga/3/4838.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

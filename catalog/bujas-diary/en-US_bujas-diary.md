@@ -1,5 +1,7 @@
 # Buja's Diary
 
+![bujas-diary](https://cdn.myanimelist.net/images/manga/1/7510.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 13

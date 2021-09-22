@@ -1,5 +1,7 @@
 # Tsuma, Shougakusei ni Naru.
 
+![tsuma-shougakusei-ni-naru](https://cdn.myanimelist.net/images/manga/1/221433.jpg)
+
 -   **type**: manga
 -   **original-name**: 妻、小学生になる。
 -   **start-date**: 2018-07-27

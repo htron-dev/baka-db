@@ -1,5 +1,7 @@
 # Macross Δ: Ginga wo Michibiku Utahime
 
+![macross-δ-ginga-wo-michibiku-utahime](https://cdn.myanimelist.net/images/manga/3/185131.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

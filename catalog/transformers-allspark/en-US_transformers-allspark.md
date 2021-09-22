@@ -1,5 +1,7 @@
 # Transformers: Allspark
 
+![transformers-allspark](https://cdn.myanimelist.net/images/manga/2/244582.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

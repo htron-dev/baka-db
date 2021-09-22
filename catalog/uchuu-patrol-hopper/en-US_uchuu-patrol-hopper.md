@@ -1,5 +1,7 @@
 # Uchuu Patrol Hopper
 
+![uchuu-patrol-hopper](https://cdn.myanimelist.net/images/anime/1113/102522.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: 宇宙パトロールホッパ

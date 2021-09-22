@@ -1,5 +1,7 @@
 # Love Live! x Watering KissMint Collaboration CM
 
+![love-live-x-watering-kiss-mint-collaboration-cm](https://cdn.myanimelist.net/images/anime/7/78535.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ラブライブ！ × ウォータリングキスミント　コラボ CM

@@ -1,5 +1,7 @@
 # Sakana no Iu Koto wo Kiku
 
+![sakana-no-iu-koto-wo-kiku](https://cdn.myanimelist.net/images/anime/9/83554.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魚のいうことを聞く

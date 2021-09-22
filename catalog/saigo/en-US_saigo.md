@@ -1,5 +1,7 @@
 # SAIGO
 
+![saigo](https://cdn.myanimelist.net/images/anime/4/82922.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: SAIGO

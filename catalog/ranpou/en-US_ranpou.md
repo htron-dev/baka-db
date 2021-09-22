@@ -1,5 +1,7 @@
 # Ranpou
 
+![ranpou](https://cdn.myanimelist.net/images/anime/9/44612.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: らんぽう

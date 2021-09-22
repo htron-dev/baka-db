@@ -1,5 +1,7 @@
 # Mou Tamago wa Korosanai
 
+![mou-tamago-wa-korosanai](https://cdn.myanimelist.net/images/manga/2/71621.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

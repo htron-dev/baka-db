@@ -1,5 +1,7 @@
 # Souryuuden
 
+![souryuuden](https://cdn.myanimelist.net/images/manga/2/41411.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 創竜伝
 -   **start-date**: 1987-08-05

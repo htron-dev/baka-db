@@ -1,5 +1,7 @@
 # Kemono Kingdom: Zoo
 
+![kemono-kingdom-zoo](https://cdn.myanimelist.net/images/manga/2/88453.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

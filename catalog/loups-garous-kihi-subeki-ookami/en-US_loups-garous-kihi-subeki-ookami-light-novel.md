@@ -1,5 +1,7 @@
 # Loups=Garous: Kihi Subeki Ookami
 
+![loups-garous-kihi-subeki-ookami](https://cdn.myanimelist.net/images/manga/2/125409.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ルー=ガルー 忌避すべき狼

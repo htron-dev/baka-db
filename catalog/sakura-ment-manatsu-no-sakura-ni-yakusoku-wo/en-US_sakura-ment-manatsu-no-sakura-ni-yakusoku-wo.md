@@ -1,5 +1,7 @@
 # Sakura-ment: Manatsu no Sakura ni Yakusoku wo
 
+![sakura-ment-manatsu-no-sakura-ni-yakusoku-wo](https://cdn.myanimelist.net/images/manga/2/162775.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # EG Maker
 
+![eg-maker](https://cdn.myanimelist.net/images/manga/3/188782.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

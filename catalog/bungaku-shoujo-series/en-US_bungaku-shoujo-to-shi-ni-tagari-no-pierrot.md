@@ -1,5 +1,7 @@
 # "Bungaku Shoujo" to Shi ni Tagari no Pierrot
 
+![bungaku-shoujo-to-shi-ni-tagari-no-pierrot](https://cdn.myanimelist.net/images/manga/2/87569.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

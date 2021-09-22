@@ -1,5 +1,7 @@
 # Seimaden
 
+![seimaden](https://cdn.myanimelist.net/images/manga/5/1400.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 52

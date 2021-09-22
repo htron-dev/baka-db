@@ -1,5 +1,7 @@
 # Iincho wa ♂
 
+![iincho-wa-♂](https://cdn.myanimelist.net/images/manga/5/111161.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: いいんちょは ♂

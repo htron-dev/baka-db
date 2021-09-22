@@ -1,5 +1,7 @@
 # Koi to Yobu ni wa Hayasugiru
 
+![koi-to-yobu-ni-wa-hayasugiru](https://cdn.myanimelist.net/images/manga/2/170520.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋と呼ぶには早すぎる
 -   **start-date**: 2015-10-23

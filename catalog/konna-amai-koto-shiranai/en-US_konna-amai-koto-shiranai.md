@@ -1,5 +1,7 @@
 # Konna Amai Koto, Shiranai....
 
+![konna-amai-koto-shiranai](https://cdn.myanimelist.net/images/manga/1/197112.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

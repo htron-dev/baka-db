@@ -1,5 +1,7 @@
 # Genez
 
+![genez](https://cdn.myanimelist.net/images/manga/2/159299.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 70

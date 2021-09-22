@@ -1,5 +1,7 @@
 # Perfect Crime
 
+![perfect-crime](https://cdn.myanimelist.net/images/manga/2/237025.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: Perfect Crime

@@ -1,5 +1,7 @@
 # Kouzuka Kottouya no Akujiki
 
+![kouzuka-kottouya-no-akujiki](https://cdn.myanimelist.net/images/manga/2/225119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

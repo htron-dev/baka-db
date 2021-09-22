@@ -1,5 +1,7 @@
 # Sei Dragon Girl Miracle
 
+![sei-dragon-girl-miracle](https://cdn.myanimelist.net/images/manga/3/14535.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

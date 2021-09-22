@@ -1,5 +1,7 @@
 # Sensou: Kodomo-tachi no Yuigon
 
+![sensou-kodomo-tachi-no-yuigon](https://cdn.myanimelist.net/images/anime/10/81579.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 戦争－子どもたちの遺言

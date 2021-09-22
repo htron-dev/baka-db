@@ -1,5 +1,7 @@
 # Silent Möbius 2
 
+![silent-mobius-2](https://cdn.myanimelist.net/images/anime/13/46951.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サイレントメビウス 2

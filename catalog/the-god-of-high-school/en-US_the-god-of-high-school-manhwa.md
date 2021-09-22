@@ -1,5 +1,7 @@
 # The God of High School
 
+![the-god-of-high-school](https://cdn.myanimelist.net/images/manga/1/205814.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 갓 오브 하이스쿨
 -   **start-date**: 2011-04-08

@@ -1,5 +1,7 @@
 # Innai Kansen
 
+![innai-kansen](https://cdn.myanimelist.net/images/manga/4/33915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

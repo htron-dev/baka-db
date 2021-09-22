@@ -1,5 +1,7 @@
 # Nanado Nado Nado
 
+![nanado-nado-nado](https://cdn.myanimelist.net/images/manga/3/235209.jpg)
+
 -   **type**: manga
 -   **original-name**: ななどなどなど
 -   **start-date**: 2019-04-19

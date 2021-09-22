@@ -1,5 +1,7 @@
 # Yuhuwa Chingudeul
 
+![yuhuwa-chingudeul](https://cdn.myanimelist.net/images/anime/1472/97018.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 유후와 친구들
@@ -19,4 +21,4 @@ The characters are species at risk of extinction who take a journey together to 
 
 -   [My Anime list](https://myanimelist.net/anime/36167/Yuhuwa_Chingudeul)
 -   [Official Site](http://www.kbs.co.kr/2tv/enter/yoohoo/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/YooHoo_%26_Friends_(2009_TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/YooHoo_%26_Friends_%282009_TV_series%29)

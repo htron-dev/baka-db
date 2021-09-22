@@ -1,5 +1,7 @@
 # Kimi wo Dare nimo Watasanai
 
+![kimi-wo-dare-nimo-watasanai](https://cdn.myanimelist.net/images/manga/2/63013.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

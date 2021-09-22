@@ -1,5 +1,7 @@
 # Full House Kiss
 
+![full-house-kiss](https://cdn.myanimelist.net/images/manga/2/10625.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

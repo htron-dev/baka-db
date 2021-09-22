@@ -1,5 +1,7 @@
 # Hatsukoi Double Edge
 
+![hatsukoi-double-edge](https://cdn.myanimelist.net/images/manga/2/203194.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 42

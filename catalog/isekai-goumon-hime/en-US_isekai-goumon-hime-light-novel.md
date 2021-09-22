@@ -1,5 +1,7 @@
 # Isekai Goumon-hime
 
+![isekai-goumon-hime](https://cdn.myanimelist.net/images/manga/1/175275.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 115

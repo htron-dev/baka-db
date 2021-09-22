@@ -1,5 +1,7 @@
 # Takane no Hana wa, Chirasaretai
 
+![takane-no-hana-wa-chirasaretai](https://cdn.myanimelist.net/images/manga/1/238054.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

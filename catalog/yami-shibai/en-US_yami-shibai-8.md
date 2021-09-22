@@ -1,5 +1,7 @@
 # Yami Shibai 8
 
+![yami-shibai-8](https://cdn.myanimelist.net/images/anime/1311/110392.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 闇芝居 8 期

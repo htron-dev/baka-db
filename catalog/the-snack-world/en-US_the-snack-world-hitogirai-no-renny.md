@@ -1,5 +1,7 @@
 # The Snack World: Hitogirai no Renny
 
+![the-snack-world-hitogirai-no-renny](https://cdn.myanimelist.net/images/anime/1074/107815.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: The SNACK WORLD 人嫌いのレニー

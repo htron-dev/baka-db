@@ -1,5 +1,7 @@
 # J Wota Danshi☆Asahina-kun
 
+![j-wota-danshi☆-asahina-kun](https://cdn.myanimelist.net/images/manga/2/236648.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

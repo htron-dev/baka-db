@@ -1,5 +1,7 @@
 # Mob wa Ouji ni Kouryaku saremashita.
 
+![mob-wa-ouji-ni-kouryaku-saremashita](https://cdn.myanimelist.net/images/manga/3/241710.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: モブは王子に攻略されました。

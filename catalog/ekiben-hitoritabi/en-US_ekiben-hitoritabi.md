@@ -1,5 +1,7 @@
 # Ekiben Hitoritabi
 
+![ekiben-hitoritabi](https://cdn.myanimelist.net/images/manga/1/45423.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 151

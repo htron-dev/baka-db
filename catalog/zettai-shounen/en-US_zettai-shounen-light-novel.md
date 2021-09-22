@@ -1,5 +1,7 @@
 # Zettai Shounen
 
+![zettai-shounen](https://cdn.myanimelist.net/images/manga/3/97873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 絶対少年

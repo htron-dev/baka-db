@@ -1,5 +1,7 @@
 # Baby Princess
 
+![baby-princess](https://cdn.myanimelist.net/images/manga/3/140705.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: Baby Princess ベイビー・プリンセス

@@ -1,5 +1,7 @@
 # Kamisama Dolls
 
+![kamisama-dolls](https://cdn.myanimelist.net/images/manga/1/52325.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 72

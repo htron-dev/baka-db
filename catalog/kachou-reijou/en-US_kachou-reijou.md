@@ -1,5 +1,7 @@
 # Kachou Reijou
 
+![kachou-reijou](https://cdn.myanimelist.net/images/manga/5/35980.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 課長令嬢

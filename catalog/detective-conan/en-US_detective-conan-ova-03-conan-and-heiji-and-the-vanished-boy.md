@@ -1,5 +1,7 @@
 # Detective Conan OVA 03: Conan and Heiji and the Vanished Boy
 
+![detective-conan-ova-03-conan-and-heiji-and-the-vanished-boy](https://cdn.myanimelist.net/images/anime/13/72319.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン: コナンと平次と消えた少年

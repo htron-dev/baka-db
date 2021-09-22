@@ -1,5 +1,7 @@
 # Fuuryuu Edo Suzume
 
+![fuuryuu-edo-suzume](https://cdn.myanimelist.net/images/manga/2/122813.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 風流江戸雀

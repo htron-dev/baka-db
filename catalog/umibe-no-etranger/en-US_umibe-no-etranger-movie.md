@@ -1,5 +1,7 @@
 # Umibe no Étranger
 
+![umibe-no-etranger](https://cdn.myanimelist.net/images/anime/1668/108792.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海辺のエトランゼ

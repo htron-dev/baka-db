@@ -1,5 +1,7 @@
 # Noa no Uchuusen
 
+![noa-no-uchuusen](https://cdn.myanimelist.net/images/manga/2/20316.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

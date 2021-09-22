@@ -1,5 +1,7 @@
 # Kuroobi! Hayata
 
+![kuroobi-hayata](https://cdn.myanimelist.net/images/manga/3/176370.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

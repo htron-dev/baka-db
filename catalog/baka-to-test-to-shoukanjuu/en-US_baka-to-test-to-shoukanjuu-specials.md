@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu Specials
 
+![baka-to-test-to-shoukanjuu-specials](https://cdn.myanimelist.net/images/anime/8/67315.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: バカとテストと召喚獣 映像特典

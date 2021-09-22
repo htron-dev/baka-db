@@ -1,5 +1,7 @@
 # Houseki-hime wa Mitsu ni Nurete: Aishite Jewel Star
 
+![houseki-hime-wa-mitsu-ni-nurete-aishite-jewel-star](https://cdn.myanimelist.net/images/manga/2/152284.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 宝石姫は蜜に濡れて 愛して JEWELSTAR

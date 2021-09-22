@@ -1,5 +1,7 @@
 # Punch Line Max
 
+![punch-line-max](https://cdn.myanimelist.net/images/manga/1/194340.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

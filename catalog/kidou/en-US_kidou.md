@@ -1,5 +1,7 @@
 # Kidou
 
+![kidou](https://cdn.myanimelist.net/images/anime/1908/108140.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 気動

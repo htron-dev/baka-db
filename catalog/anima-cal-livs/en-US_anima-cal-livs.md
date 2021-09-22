@@ -1,5 +1,7 @@
 # Anima Cal Livs
 
+![anima-cal-livs](https://cdn.myanimelist.net/images/manga/3/53717.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: アニマ・カル・リブス

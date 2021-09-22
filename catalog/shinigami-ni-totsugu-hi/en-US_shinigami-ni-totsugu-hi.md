@@ -1,5 +1,7 @@
 # Shinigami ni Totsugu Hi
 
+![shinigami-ni-totsugu-hi](https://cdn.myanimelist.net/images/manga/1/205024.jpg)
+
 -   **type**: manga
 -   **original-name**: 死神に嫁ぐ日
 -   **start-date**: 2017-03-22

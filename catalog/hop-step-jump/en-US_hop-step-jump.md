@@ -1,5 +1,7 @@
 # Hop Step Jump!
 
+![hop-step-jump](https://cdn.myanimelist.net/images/manga/1/33662.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ほっぷすてっぷじゃんぷッ!

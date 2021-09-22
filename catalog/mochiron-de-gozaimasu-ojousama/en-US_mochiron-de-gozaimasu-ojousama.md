@@ -1,5 +1,7 @@
 # Mochiron de Gozaimasu, Ojousama
 
+![mochiron-de-gozaimasu-ojousama](https://cdn.myanimelist.net/images/manga/3/162530.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

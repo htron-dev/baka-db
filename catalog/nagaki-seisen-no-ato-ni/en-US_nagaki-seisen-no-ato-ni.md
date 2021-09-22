@@ -1,5 +1,7 @@
 # Nagaki Seisen no Ato ni
 
+![nagaki-seisen-no-ato-ni](https://cdn.myanimelist.net/images/manga/2/184220.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 永き聖戦の後に
 -   **start-date**: 2016-11-01

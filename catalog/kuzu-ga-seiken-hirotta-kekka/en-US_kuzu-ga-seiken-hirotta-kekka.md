@@ -1,5 +1,7 @@
 # Kuzu ga Seiken Hirotta Kekka
 
+![kuzu-ga-seiken-hirotta-kekka](https://cdn.myanimelist.net/images/manga/2/132083.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Kreuz
 
+![kreuz](https://cdn.myanimelist.net/images/manga/1/33459.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

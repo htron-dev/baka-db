@@ -1,5 +1,7 @@
 # Eien no Filena
 
+![eien-no-filena](https://cdn.myanimelist.net/images/anime/12/11803.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 永遠のフィレーナ

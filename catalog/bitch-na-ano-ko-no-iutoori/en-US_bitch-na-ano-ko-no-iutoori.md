@@ -1,5 +1,7 @@
 # Bitch na Ano Ko no Iutoori!
 
+![bitch-na-ano-ko-no-iutoori](https://cdn.myanimelist.net/images/manga/3/227873.jpg)
+
 -   **type**: manga
 -   **original-name**: ビッチなあの子の言うとおり!
 -   **start-date**: 2015-06-11

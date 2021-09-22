@@ -1,5 +1,7 @@
 # Sunu Sumu Muriku no Koibito
 
+![sunu-sumu-muriku-no-koibito](https://cdn.myanimelist.net/images/manga/3/44319.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

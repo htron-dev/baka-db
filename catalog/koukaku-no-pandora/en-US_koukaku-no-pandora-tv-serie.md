@@ -1,5 +1,7 @@
 # Koukaku no Pandora
 
+![koukaku-no-pandora](https://cdn.myanimelist.net/images/anime/10/78805.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 紅殻のパンドラ

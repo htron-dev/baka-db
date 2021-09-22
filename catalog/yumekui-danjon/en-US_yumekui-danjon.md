@@ -1,5 +1,7 @@
 # Yumekui Danjon
 
+![yumekui-danjon](https://cdn.myanimelist.net/images/manga/3/11465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ゆめくいダンジョン

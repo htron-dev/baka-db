@@ -1,5 +1,7 @@
 # Shippuu Tengoku: Kaze no Klonoa
 
+![shippuu-tengoku-kaze-no-klonoa](https://cdn.myanimelist.net/images/manga/2/22307.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

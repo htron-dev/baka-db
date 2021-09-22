@@ -1,5 +1,7 @@
 # Attacker You!
 
+![attacker-you](https://cdn.myanimelist.net/images/manga/2/1724.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

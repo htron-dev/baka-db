@@ -1,5 +1,7 @@
 # Imouto no Suki na Vtuber ga Jitsu wa Ore da nante Ienai
 
+![imouto-no-suki-na-vtuber-ga-jitsu-wa-ore-da-nante-ienai](https://cdn.myanimelist.net/images/manga/3/243383.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 妹の好きな Vtuber が実は俺だなんて言えない
 -   **start-date**: 2020-11-10

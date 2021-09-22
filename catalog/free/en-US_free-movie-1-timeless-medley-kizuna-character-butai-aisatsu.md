@@ -1,5 +1,7 @@
 # Free! Movie 1: Timeless Medley - Kizuna - Character Butai Aisatsu
 
+![free-movie-1-timeless-medley-kizuna-character-butai-aisatsu](https://cdn.myanimelist.net/images/anime/1970/92777.jpg)
+
 -   **type**: movie
 -   **episodes**: 4
 -   **original-name**: 劇場版 Free!-Timeless Medley- 絆 キャラクター舞台挨拶

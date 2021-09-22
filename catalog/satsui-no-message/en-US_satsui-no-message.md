@@ -1,5 +1,7 @@
 # Satsui no Message
 
+![satsui-no-message](https://cdn.myanimelist.net/images/manga/2/24810.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 殺意のメッセージ

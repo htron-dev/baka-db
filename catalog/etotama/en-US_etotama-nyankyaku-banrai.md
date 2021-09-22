@@ -1,5 +1,7 @@
 # Etotama: Nyankyaku Banrai
 
+![etotama-nyankyaku-banrai](https://cdn.myanimelist.net/images/anime/1559/110932.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: えとたま 干支魂 猫客万来

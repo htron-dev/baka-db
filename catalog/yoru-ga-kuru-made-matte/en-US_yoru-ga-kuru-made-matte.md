@@ -1,5 +1,7 @@
 # Yoru ga Kuru Made Matte
 
+![yoru-ga-kuru-made-matte](https://cdn.myanimelist.net/images/manga/1/118597.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 夜が来るまで待って

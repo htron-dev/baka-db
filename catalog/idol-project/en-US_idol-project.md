@@ -1,5 +1,7 @@
 # Idol Project
 
+![idol-project](https://cdn.myanimelist.net/images/anime/11/2736.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: アイドルプロジェクト

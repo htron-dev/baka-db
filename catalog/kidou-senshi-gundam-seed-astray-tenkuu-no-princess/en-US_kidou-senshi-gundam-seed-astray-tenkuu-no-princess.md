@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Seed Astray: Tenkuu no Princess
 
+![kidou-senshi-gundam-seed-astray-tenkuu-no-princess](https://cdn.myanimelist.net/images/manga/1/186923.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

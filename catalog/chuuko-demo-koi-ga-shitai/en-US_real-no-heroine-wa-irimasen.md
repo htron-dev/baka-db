@@ -1,5 +1,7 @@
 # Real no Heroine wa Irimasen!
 
+![real-no-heroine-wa-irimasen](https://cdn.myanimelist.net/images/manga/1/197238.jpg)
+
 -   **type**: manga
 -   **original-name**: 現実〈リアル〉の彼女〈ヒロイン〉はいりません！
 -   **start-date**: 2016-12-02

@@ -1,5 +1,7 @@
 # Shoot!: Atsuki Chousen
 
+![shoot-atsuki-chousen](https://cdn.myanimelist.net/images/manga/2/38319.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: シュート! ～熱き挑戦～

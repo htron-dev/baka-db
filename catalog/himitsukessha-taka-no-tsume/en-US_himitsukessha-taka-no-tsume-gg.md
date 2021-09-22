@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume GG
 
+![himitsukessha-taka-no-tsume-gg](https://cdn.myanimelist.net/images/anime/1227/93216.jpg)
+
 -   **type**: ona
 -   **original-name**: 秘密結社 鷹の爪 GG
 -   **start-date**: 2018-07-19

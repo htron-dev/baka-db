@@ -1,5 +1,7 @@
 # Ojamajo Doremi
 
+![ojamajo-doremi](https://cdn.myanimelist.net/images/anime/1719/103416.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: おジャ魔女どれみ

@@ -1,5 +1,7 @@
 # Maneuver! ride AT
 
+![maneuver-ride-at](https://cdn.myanimelist.net/images/manga/2/130355.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Mitsuai Celeb
 
+![mitsuai-celeb](https://cdn.myanimelist.net/images/manga/4/101057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # One Fine Day
 
+![one-fine-day](https://cdn.myanimelist.net/images/manga/2/31137.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 28

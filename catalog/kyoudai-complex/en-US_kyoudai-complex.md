@@ -1,5 +1,7 @@
 # Kyoudai Complex
 
+![kyoudai-complex](https://cdn.myanimelist.net/images/manga/3/227195.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

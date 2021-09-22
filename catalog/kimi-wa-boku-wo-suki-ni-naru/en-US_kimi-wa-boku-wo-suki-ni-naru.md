@@ -1,5 +1,7 @@
 # Kimi wa Boku wo Suki ni Naru
 
+![kimi-wa-boku-wo-suki-ni-naru](https://cdn.myanimelist.net/images/manga/2/150861.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

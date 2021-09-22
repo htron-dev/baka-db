@@ -1,5 +1,7 @@
 # Life x 01
 
+![life-x-01](https://cdn.myanimelist.net/images/manga/2/222024.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

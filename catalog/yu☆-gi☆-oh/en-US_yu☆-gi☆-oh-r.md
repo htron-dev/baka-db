@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! R
 
+![yu☆-gi☆-oh-r](https://cdn.myanimelist.net/images/manga/3/192727.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

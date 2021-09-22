@@ -1,5 +1,7 @@
 # Moteasobaretemo Kamawanai
 
+![moteasobaretemo-kamawanai](https://cdn.myanimelist.net/images/manga/2/167311.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

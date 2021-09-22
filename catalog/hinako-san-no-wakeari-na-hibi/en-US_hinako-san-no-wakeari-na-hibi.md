@@ -1,5 +1,7 @@
 # Hinako-san no Wakeari na Hibi
 
+![hinako-san-no-wakeari-na-hibi](https://cdn.myanimelist.net/images/manga/2/230155.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 31

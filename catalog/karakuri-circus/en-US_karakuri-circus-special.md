@@ -1,5 +1,7 @@
 # Karakuri Circus
 
+![karakuri-circus](https://cdn.myanimelist.net/images/anime/1533/102851.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: CM 少年サンデー「からくりサーカス」編

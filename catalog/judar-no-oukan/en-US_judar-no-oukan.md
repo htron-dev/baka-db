@@ -1,5 +1,7 @@
 # Judar no Oukan
 
+![judar-no-oukan](https://cdn.myanimelist.net/images/manga/4/73901.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

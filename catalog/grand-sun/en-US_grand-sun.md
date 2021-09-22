@@ -1,5 +1,7 @@
 # Grand Sun
 
+![grand-sun](https://cdn.myanimelist.net/images/manga/3/6269.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

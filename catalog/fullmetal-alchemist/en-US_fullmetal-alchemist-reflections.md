@@ -1,5 +1,7 @@
 # Fullmetal Alchemist: Reflections
 
+![fullmetal-alchemist-reflections](https://cdn.myanimelist.net/images/anime/2/18690.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 鋼の錬金術師

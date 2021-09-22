@@ -1,5 +1,7 @@
 # Hitori no Shita: The Outcast
 
+![hitori-no-shita-the-outcast](https://cdn.myanimelist.net/images/anime/12/80346.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 一人之下 THE OUTCAST

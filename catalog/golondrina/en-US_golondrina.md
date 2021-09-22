@@ -1,5 +1,7 @@
 # Golondrina
 
+![golondrina](https://cdn.myanimelist.net/images/manga/2/66615.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴロンドリーナ
 

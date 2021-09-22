@@ -1,5 +1,7 @@
 # Neko Kan ga Hirotta no desu ga
 
+![neko-kan-ga-hirotta-no-desu-ga](https://cdn.myanimelist.net/images/manga/1/157400.jpg)
+
 -   **type**: manga
 -   **original-name**: ネコ缶ひろったのですが
 -   **start-date**: 2013-09-27

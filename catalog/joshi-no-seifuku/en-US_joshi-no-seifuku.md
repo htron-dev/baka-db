@@ -1,5 +1,7 @@
 # Joshi no Seifuku
 
+![joshi-no-seifuku](https://cdn.myanimelist.net/images/manga/2/131359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

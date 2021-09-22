@@ -1,5 +1,7 @@
 # Boku to Kimi no Midori to Drill
 
+![boku-to-kimi-no-midori-to-drill](https://cdn.myanimelist.net/images/manga/1/135477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕と君のミドリとドリル

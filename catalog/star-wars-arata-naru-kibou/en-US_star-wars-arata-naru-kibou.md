@@ -1,5 +1,7 @@
 # Star Wars: Arata naru Kibou
 
+![star-wars-arata-naru-kibou](https://cdn.myanimelist.net/images/manga/1/179217.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: STAR WARS 新たなる希望

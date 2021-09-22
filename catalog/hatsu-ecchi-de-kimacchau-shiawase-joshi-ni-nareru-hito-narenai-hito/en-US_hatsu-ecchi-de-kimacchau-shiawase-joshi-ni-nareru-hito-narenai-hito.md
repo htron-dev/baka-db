@@ -1,5 +1,7 @@
 # Hatsu Ecchi de Kimacchau!? Shiawase Joshi ni Nareru Hito, Narenai Hito
 
+![hatsu-ecchi-de-kimacchau-shiawase-joshi-ni-nareru-hito-narenai-hito](https://cdn.myanimelist.net/images/manga/1/193786.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 17

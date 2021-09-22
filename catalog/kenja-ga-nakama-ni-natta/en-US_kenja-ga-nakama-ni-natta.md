@@ -1,5 +1,7 @@
 # Kenja ga Nakama ni Natta!
 
+![kenja-ga-nakama-ni-natta](https://cdn.myanimelist.net/images/manga/1/247810.jpg)
+
 -   **type**: manga
 -   **original-name**: 賢者が仲間になった！
 -   **start-date**: 2021-03-24

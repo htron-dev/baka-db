@@ -1,5 +1,7 @@
 # VitaminX Addiction
 
+![vitamin-x-addiction](https://cdn.myanimelist.net/images/anime/10/29481.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: VitaminX Addiction

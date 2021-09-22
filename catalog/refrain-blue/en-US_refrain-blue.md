@@ -1,5 +1,7 @@
 # Refrain Blue
 
+![refrain-blue](https://cdn.myanimelist.net/images/anime/10/75869.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: Refrain Blue

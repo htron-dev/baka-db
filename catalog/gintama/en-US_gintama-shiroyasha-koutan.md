@@ -1,5 +1,7 @@
 # Gintama: Shiroyasha Koutan
 
+![gintama-shiroyasha-koutan](https://cdn.myanimelist.net/images/anime/6/16161.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ジャンプアニメツアー 2008 白夜叉降誕

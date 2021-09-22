@@ -1,5 +1,7 @@
 # 9 Carat
 
+![9-carat](https://cdn.myanimelist.net/images/manga/1/72839.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

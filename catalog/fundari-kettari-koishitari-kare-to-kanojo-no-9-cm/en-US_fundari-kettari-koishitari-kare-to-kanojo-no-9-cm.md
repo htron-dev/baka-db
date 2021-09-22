@@ -1,5 +1,7 @@
 # Fundari Kettari Koishitari: Kare to Kanojo no 9 cm
 
+![fundari-kettari-koishitari-kare-to-kanojo-no-9-cm](https://cdn.myanimelist.net/images/manga/3/182631.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

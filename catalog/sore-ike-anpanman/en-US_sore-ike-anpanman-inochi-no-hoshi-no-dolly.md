@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Inochi no Hoshi no Dolly
 
+![sore-ike-anpanman-inochi-no-hoshi-no-dolly](https://cdn.myanimelist.net/images/anime/6/49667.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン いのちの星のドーリィ
@@ -9,7 +11,6 @@
 ## Tags
 
 -   fantasy
-
 -   magic
 
 ## Sinopse

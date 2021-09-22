@@ -1,5 +1,7 @@
 # Akunin wo Nakaseru Houhou
 
+![akunin-wo-nakaseru-houhou](https://cdn.myanimelist.net/images/manga/2/61731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

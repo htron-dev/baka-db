@@ -1,5 +1,7 @@
 # Dr. Slump: Arale-chan
 
+![dr-slump-arale-chan](https://cdn.myanimelist.net/images/anime/9/38381.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 243
 -   **original-name**: Dr.スランプ・アラレちゃん

@@ -1,5 +1,7 @@
 # Aquarion Evol
 
+![aquarion-evol](https://cdn.myanimelist.net/images/manga/3/147529.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

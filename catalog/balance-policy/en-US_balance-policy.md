@@ -1,5 +1,7 @@
 # Balance Policy
 
+![balance-policy](https://cdn.myanimelist.net/images/manga/5/83981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

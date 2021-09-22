@@ -1,5 +1,7 @@
 # Mobu Koi
 
+![mobu-koi](https://cdn.myanimelist.net/images/manga/1/160822.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: モブ恋

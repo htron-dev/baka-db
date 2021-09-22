@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai
 
+![higurashi-no-naku-koro-ni-kai](https://cdn.myanimelist.net/images/anime/12/14114.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ひぐらしのなく頃に解

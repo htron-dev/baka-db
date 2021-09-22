@@ -1,5 +1,7 @@
 # .hack//Tasogare no Udewa Densetsu: Offline de Aimashou
 
+![hack-tasogare-no-udewa-densetsu-offline-de-aimashou](https://cdn.myanimelist.net/images/anime/2/44554.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: .hack//黄昏の腕輪伝説 オフラインで会いましょう

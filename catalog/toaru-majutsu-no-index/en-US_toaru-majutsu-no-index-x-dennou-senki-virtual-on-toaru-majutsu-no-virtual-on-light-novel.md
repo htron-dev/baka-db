@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index x Dennou Senki Virtual-On: Toaru Majutsu no Virtual-On
 
+![toaru-majutsu-no-index-x-dennou-senki-virtual-on-toaru-majutsu-no-virtual-on](https://cdn.myanimelist.net/images/manga/2/177896.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

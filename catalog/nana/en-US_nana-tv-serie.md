@@ -1,5 +1,7 @@
 # Nana
 
+![nana](https://cdn.myanimelist.net/images/anime/2/11232.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: NANA [ナナ]

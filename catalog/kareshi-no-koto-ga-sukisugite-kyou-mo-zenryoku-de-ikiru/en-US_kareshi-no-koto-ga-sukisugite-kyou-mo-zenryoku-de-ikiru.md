@@ -1,5 +1,7 @@
 # Kareshi no Koto ga Sukisugite Kyou mo Zenryoku de Ikiru!!!
 
+![kareshi-no-koto-ga-sukisugite-kyou-mo-zenryoku-de-ikiru](https://cdn.myanimelist.net/images/manga/1/236711.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼氏のことが好きすぎて今日も全力で生きる!!!
 -   **start-date**: 2019-05-16

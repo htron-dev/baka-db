@@ -1,5 +1,7 @@
 # Yakusoku no Neverland 2nd Season: Michishirube
 
+![yakusoku-no-neverland-2nd-season-michishirube](https://cdn.myanimelist.net/images/anime/1097/111813.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 約束のネバーランド 特別編「道標」

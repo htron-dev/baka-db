@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru
 
+![dragon-ball-z-movie-13-ryuuken-bakuhatsu-gokuu-ga-yaraneba-dare-ga-yaru](https://cdn.myanimelist.net/images/anime/1704/93676.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 龍拳爆発!!悟空がやらねば誰がやる

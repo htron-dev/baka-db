@@ -1,5 +1,7 @@
 # Kuso-game Online (Kari): Unei wa Zenin Nigeta kedo Nanno Monadai mo Nai wa!
 
+![kuso-game-online-kari-unei-wa-zenin-nigeta-kedo-nanno-monadai-mo-nai-wa](https://cdn.myanimelist.net/images/manga/2/179674.jpg)
+
 -   **type**: light-novel
 -   **original-name**: クソゲー・オンライン（仮） 「運営は全員逃げたけどなんの問題もないわ!」
 -   **start-date**: 2016-06-24

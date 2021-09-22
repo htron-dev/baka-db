@@ -1,5 +1,7 @@
 # Ai☆Love☆Doctor
 
+![ai☆-love☆-doctor](https://cdn.myanimelist.net/images/manga/3/152280.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

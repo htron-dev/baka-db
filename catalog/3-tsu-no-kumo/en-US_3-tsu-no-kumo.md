@@ -1,5 +1,7 @@
 # 3-tsu no Kumo
 
+![3-tsu-no-kumo](https://cdn.myanimelist.net/images/anime/10/18948.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: ３つの雲

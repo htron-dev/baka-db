@@ -1,5 +1,7 @@
 # Ikenai Onmyouji
 
+![ikenai-onmyouji](https://cdn.myanimelist.net/images/manga/3/23606.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: いけない陰陽師

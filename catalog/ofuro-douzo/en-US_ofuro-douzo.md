@@ -1,5 +1,7 @@
 # Ofuro Douzo
 
+![ofuro-douzo](https://cdn.myanimelist.net/images/manga/2/198697.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

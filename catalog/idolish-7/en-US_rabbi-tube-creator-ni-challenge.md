@@ -1,5 +1,7 @@
 # RabbiTube: Creator ni Challenge!
 
+![rabbi-tube-creator-ni-challenge](https://cdn.myanimelist.net/images/anime/1101/115601.jpg)
+
 -   **type**: ona
 -   **original-name**: 『RabbiTube』クリエイターにチャレンジ！
 -   **start-date**: 2020-01-24

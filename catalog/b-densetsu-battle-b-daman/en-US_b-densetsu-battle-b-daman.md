@@ -1,5 +1,7 @@
 # B-Densetsu! Battle B-Daman
 
+![b-densetsu-battle-b-daman](https://cdn.myanimelist.net/images/manga/3/31522.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

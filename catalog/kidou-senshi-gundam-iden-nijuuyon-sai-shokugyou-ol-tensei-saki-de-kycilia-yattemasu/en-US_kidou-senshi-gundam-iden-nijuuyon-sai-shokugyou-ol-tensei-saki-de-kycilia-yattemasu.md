@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Iden Nijuuyon-sai Shokugyou OL, Tensei-saki de Kycilia Yattemasu
 
+![kidou-senshi-gundam-iden-nijuuyon-sai-shokugyou-ol-tensei-saki-de-kycilia-yattemasu](https://cdn.myanimelist.net/images/manga/1/239396.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 機動戦士ガンダム異伝 二十四歳職業 OL、転生先でキシリアやってます
 -   **start-date**: 2020-11-26

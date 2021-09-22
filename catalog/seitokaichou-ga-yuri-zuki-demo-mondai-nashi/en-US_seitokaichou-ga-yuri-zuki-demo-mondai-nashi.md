@@ -1,5 +1,7 @@
 # Seitokaichou ga Yuri-zuki demo Mondai Nashi!?
 
+![seitokaichou-ga-yuri-zuki-demo-mondai-nashi](https://cdn.myanimelist.net/images/manga/1/149703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 生徒会長が百合好きでも問題ナシ!?

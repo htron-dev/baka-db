@@ -1,5 +1,7 @@
 # Tabi to Gohan to Shuumatsu Sekai
 
+![tabi-to-gohan-to-shuumatsu-sekai](https://cdn.myanimelist.net/images/manga/1/219452.jpg)
+
 -   **type**: manga
 -   **original-name**: 旅とごはんと終末世界
 -   **start-date**: 2017-12-12

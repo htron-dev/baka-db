@@ -1,5 +1,7 @@
 # Victory: Ai wa Katsu
 
+![victory-ai-wa-katsu](https://cdn.myanimelist.net/images/manga/2/125497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Koumei no Yome.
 
+![koumei-no-yome](https://cdn.myanimelist.net/images/manga/1/115621.jpg)
+
 -   **type**: manga
 -   **original-name**: 孔明のヨメ。
 -   **start-date**: 2010-12-02

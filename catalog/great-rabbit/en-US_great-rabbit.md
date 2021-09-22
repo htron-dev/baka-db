@@ -1,5 +1,7 @@
 # Great Rabbit
 
+![great-rabbit](https://cdn.myanimelist.net/images/anime/1995/112629.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: グレートラビット

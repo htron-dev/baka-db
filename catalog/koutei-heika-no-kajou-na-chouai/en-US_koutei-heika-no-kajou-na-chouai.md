@@ -1,5 +1,7 @@
 # Koutei Heika no Kajou na Chouai
 
+![koutei-heika-no-kajou-na-chouai](https://cdn.myanimelist.net/images/manga/2/194048.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

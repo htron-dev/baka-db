@@ -1,5 +1,7 @@
 # Made in Japan
 
+![made-in-japan](https://cdn.myanimelist.net/images/anime/6/89031.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: MADE IN JAPAN

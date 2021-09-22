@@ -1,5 +1,7 @@
 # Omae to Dynamite!!
 
+![omae-to-dynamite](https://cdn.myanimelist.net/images/manga/2/66809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

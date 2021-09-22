@@ -1,5 +1,7 @@
 # Warau Oni ni wa Fuku Kitaru
 
+![warau-oni-ni-wa-fuku-kitaru](https://cdn.myanimelist.net/images/manga/1/213780.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

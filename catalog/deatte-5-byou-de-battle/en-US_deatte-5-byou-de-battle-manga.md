@@ -1,5 +1,7 @@
 # Deatte 5-byou de Battle
 
+![deatte-5-byou-de-battle](https://cdn.myanimelist.net/images/manga/2/185911.jpg)
+
 -   **type**: manga
 -   **original-name**: 出会って 5 秒でバトル
 -   **start-date**: 2015-08-11

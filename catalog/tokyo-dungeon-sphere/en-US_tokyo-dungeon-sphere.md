@@ -1,5 +1,7 @@
 # Tokyo Dungeon Sphere
 
+![tokyo-dungeon-sphere](https://cdn.myanimelist.net/images/manga/1/189383.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 東京ダンジョンスフィア

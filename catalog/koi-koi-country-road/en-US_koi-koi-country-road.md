@@ -1,5 +1,7 @@
 # Koi Koi Country Road
 
+![koi-koi-country-road](https://cdn.myanimelist.net/images/manga/1/13991.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

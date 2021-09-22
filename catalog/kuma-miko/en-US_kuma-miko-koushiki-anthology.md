@@ -1,5 +1,7 @@
 # Kuma Miko Koushiki Anthology
 
+![kuma-miko-koushiki-anthology](https://cdn.myanimelist.net/images/manga/1/192305.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

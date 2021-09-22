@@ -1,5 +1,7 @@
 # Koi wa Ameagari no You ni
 
+![koi-wa-ameagari-no-you-ni](https://cdn.myanimelist.net/images/anime/1271/90136.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 恋は雨上がりのように

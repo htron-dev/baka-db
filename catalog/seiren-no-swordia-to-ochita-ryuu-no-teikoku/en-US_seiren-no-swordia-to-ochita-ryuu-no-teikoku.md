@@ -1,5 +1,7 @@
 # Seiren no Swordia to Ochita Ryuu no Teikoku
 
+![seiren-no-swordia-to-ochita-ryuu-no-teikoku](https://cdn.myanimelist.net/images/manga/2/160962.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 聖煉の剣姫〈ソーディア〉と墜ちた竜の帝国

@@ -1,5 +1,7 @@
 # Tsubakikan no Utsukushi Sugiru Garçon
 
+![tsubakikan-no-utsukushi-sugiru-garcon](https://cdn.myanimelist.net/images/manga/1/63889.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Bukiyou na Senpai.
 
+![bukiyou-na-senpai](https://cdn.myanimelist.net/images/manga/2/228416.jpg)
+
 -   **type**: manga
 -   **original-name**: 不器用な先輩。
 -   **start-date**: 2019-12-06

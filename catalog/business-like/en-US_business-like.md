@@ -1,5 +1,7 @@
 # Business Like
 
+![business-like](https://cdn.myanimelist.net/images/manga/2/246559.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

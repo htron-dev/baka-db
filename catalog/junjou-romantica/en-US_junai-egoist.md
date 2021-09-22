@@ -1,5 +1,7 @@
 # Junai Egoist
 
+![junai-egoist](https://cdn.myanimelist.net/images/manga/1/154815.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 61

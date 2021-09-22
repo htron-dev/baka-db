@@ -1,5 +1,7 @@
 # Kimi, Iro, Toumei
 
+![kimi-iro-toumei](https://cdn.myanimelist.net/images/manga/2/160736.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: キミ、色、トウメイ

@@ -1,5 +1,7 @@
 # Nineteen, Twenty-One
 
+![nineteen-twenty-one](https://cdn.myanimelist.net/images/manga/3/40772.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 21

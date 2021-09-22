@@ -1,5 +1,7 @@
 # Majimoji Rurumo: Makai-hen
 
+![majimoji-rurumo-makai-hen](https://cdn.myanimelist.net/images/manga/2/122557.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

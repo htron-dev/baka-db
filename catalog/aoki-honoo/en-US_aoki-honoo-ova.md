@@ -1,5 +1,7 @@
 # Aoki Honoo
 
+![aoki-honoo](https://cdn.myanimelist.net/images/anime/8/25644.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 青き炎

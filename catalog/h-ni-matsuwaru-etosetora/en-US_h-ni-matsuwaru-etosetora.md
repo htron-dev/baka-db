@@ -1,5 +1,7 @@
 # H ni Matsuwaru Etosetora
 
+![h-ni-matsuwaru-etosetora](https://cdn.myanimelist.net/images/manga/1/11060.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: H にまつわるエトセトラ

@@ -1,5 +1,7 @@
 # Chronic Love - Tsuioku
 
+![chronic-love-tsuioku](https://cdn.myanimelist.net/images/manga/3/22550.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

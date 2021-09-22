@@ -1,5 +1,7 @@
 # Argento Soma Special
 
+![argento-soma-special](https://cdn.myanimelist.net/images/anime/6/3194.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アルジェントソーマ

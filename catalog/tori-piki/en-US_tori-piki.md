@@ -1,5 +1,7 @@
 # ToriPiki
 
+![tori-piki](https://cdn.myanimelist.net/images/manga/2/193989.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Musubiya Nanako
 
+![musubiya-nanako](https://cdn.myanimelist.net/images/manga/3/10139.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Kaichou wa Maid-sama!: Marriage
 
+![kaichou-wa-maid-sama-marriage](https://cdn.myanimelist.net/images/manga/2/210825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

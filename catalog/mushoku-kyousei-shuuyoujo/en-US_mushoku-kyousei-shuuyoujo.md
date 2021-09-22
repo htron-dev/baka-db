@@ -1,5 +1,7 @@
 # Mushoku Kyousei Shuuyoujo
 
+![mushoku-kyousei-shuuyoujo](https://cdn.myanimelist.net/images/manga/3/187089.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

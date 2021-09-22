@@ -1,5 +1,7 @@
 # Torikago no Kyoushikyoku
 
+![torikago-no-kyoushikyoku](https://cdn.myanimelist.net/images/manga/2/230086.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

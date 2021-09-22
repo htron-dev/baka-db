@@ -1,5 +1,7 @@
 # Suki Yanen kedo Dou Yaro ka
 
+![suki-yanen-kedo-dou-yaro-ka](https://cdn.myanimelist.net/images/manga/2/247147.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Shiroi Heya no Futari
 
+![shiroi-heya-no-futari](https://cdn.myanimelist.net/images/manga/2/12864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

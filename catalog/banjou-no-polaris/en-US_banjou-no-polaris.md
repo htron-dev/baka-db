@@ -1,5 +1,7 @@
 # Banjou no Polaris
 
+![banjou-no-polaris](https://cdn.myanimelist.net/images/manga/3/173469.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

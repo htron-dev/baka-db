@@ -1,5 +1,7 @@
 # Legend Hustle
 
+![legend-hustle](https://cdn.myanimelist.net/images/manga/3/57921.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 레전드 허슬

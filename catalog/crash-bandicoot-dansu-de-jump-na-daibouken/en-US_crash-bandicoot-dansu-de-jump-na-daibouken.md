@@ -1,5 +1,7 @@
 # Crash Bandicoot Dansu! de Jump! na Daibouken
 
+![crash-bandicoot-dansu-de-jump-na-daibouken](https://cdn.myanimelist.net/images/manga/3/41105.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

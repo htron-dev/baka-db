@@ -1,5 +1,7 @@
 # Senran Kagura: Shoujo-tachi no Shinei
 
+![senran-kagura-shoujo-tachi-no-shinei](https://cdn.myanimelist.net/images/manga/2/86251.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Chrome Shelled Regios
 
+![chrome-shelled-regios](https://cdn.myanimelist.net/images/manga/3/19196.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 25
 -   **chapters**: 157

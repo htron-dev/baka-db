@@ -1,5 +1,7 @@
 # Akatsuki!! Otokojuku: Seishen yo, Taishi no dake
 
+![akatsuki-otokojuku-seishen-yo-taishi-no-dake](https://cdn.myanimelist.net/images/manga/2/37965.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 200

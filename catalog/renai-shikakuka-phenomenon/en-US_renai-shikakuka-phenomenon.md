@@ -1,5 +1,7 @@
 # Renai Shikakuka Phenomenon
 
+![renai-shikakuka-phenomenon](https://cdn.myanimelist.net/images/manga/1/152603.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

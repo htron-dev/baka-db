@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: The Final Season
 
+![shingeki-no-kyojin-the-final-season](https://cdn.myanimelist.net/images/anime/1000/110531.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: 進撃の巨人 The Final Season
@@ -35,4 +37,4 @@ In Shingeki no Kyojin: The Final Season, two utterly different worlds collide as
 -   [Official Site](https://shingeki.tv/final/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14977)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22277)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Attack_on_Titan_(TV_series)#2020%E2%80%932021_final_season>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Titan_%28TV_series%29#2020%E2%80%932021_final_season)

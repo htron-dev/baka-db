@@ -1,5 +1,7 @@
 # Roji Koibana
 
+![roji-koibana](https://cdn.myanimelist.net/images/manga/2/196091.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

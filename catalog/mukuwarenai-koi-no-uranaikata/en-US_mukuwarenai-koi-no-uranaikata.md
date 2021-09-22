@@ -1,5 +1,7 @@
 # Mukuwarenai Koi no Uranaikata
 
+![mukuwarenai-koi-no-uranaikata](https://cdn.myanimelist.net/images/manga/1/245702.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

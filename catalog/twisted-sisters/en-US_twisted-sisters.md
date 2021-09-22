@@ -1,5 +1,7 @@
 # Twisted Sisters
 
+![twisted-sisters](https://cdn.myanimelist.net/images/manga/3/246987.jpg)
+
 -   **type**: manga
 -   **original-name**: ツイステッド・シスターズ
 -   **start-date**: 2021-06-17

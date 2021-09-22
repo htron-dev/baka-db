@@ -1,5 +1,7 @@
 # Himitsu no Vampire: Dekiai Hakushaku ni Tsunagarete
 
+![himitsu-no-vampire-dekiai-hakushaku-ni-tsunagarete](https://cdn.myanimelist.net/images/manga/2/219329.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 秘蜜のヴァンパイア　～溺愛伯爵に繋がれて～

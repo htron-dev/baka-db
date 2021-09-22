@@ -1,5 +1,7 @@
 # Boku wa ne.
 
+![boku-wa-ne](https://cdn.myanimelist.net/images/manga/2/178061.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

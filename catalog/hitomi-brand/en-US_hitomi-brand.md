@@ -1,5 +1,7 @@
 # Hitomi Brand
 
+![hitomi-brand](https://cdn.myanimelist.net/images/manga/1/11063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ひとみ BRAND

@@ -1,5 +1,7 @@
 # Noir
 
+![noir](https://cdn.myanimelist.net/images/anime/1054/96577.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ノワール
@@ -31,4 +33,4 @@ Sensing shared history between them, Mireille agrees to team up with Kirika, and
 -   [Official Site](http://www.jvcmusic.co.jp/m-serve/tv/noir/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=407)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Noir_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Noir_%28anime%29)

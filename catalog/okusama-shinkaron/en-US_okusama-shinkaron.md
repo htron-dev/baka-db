@@ -1,5 +1,7 @@
 # Okusama Shinkaron
 
+![okusama-shinkaron](https://cdn.myanimelist.net/images/manga/1/37712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 奥さま進化論

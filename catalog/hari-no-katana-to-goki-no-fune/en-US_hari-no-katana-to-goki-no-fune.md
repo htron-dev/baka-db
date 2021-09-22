@@ -1,5 +1,7 @@
 # Hari no Katana to Goki no Fune
 
+![hari-no-katana-to-goki-no-fune](https://cdn.myanimelist.net/images/manga/3/17876.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 針のかたなと御器のふね

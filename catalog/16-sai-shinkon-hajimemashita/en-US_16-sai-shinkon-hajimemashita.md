@@ -1,5 +1,7 @@
 # 16-sai, Shinkon Hajimemashita.
 
+![16-sai-shinkon-hajimemashita](https://cdn.myanimelist.net/images/manga/2/135185.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

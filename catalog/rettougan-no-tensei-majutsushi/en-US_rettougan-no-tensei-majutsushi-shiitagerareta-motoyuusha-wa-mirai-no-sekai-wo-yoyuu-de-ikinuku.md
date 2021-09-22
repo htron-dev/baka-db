@@ -1,5 +1,7 @@
 # Rettougan no Tensei Majutsushi: Shiitagerareta Motoyuusha wa Mirai no Sekai wo Yoyuu de Ikinuku
 
+![rettougan-no-tensei-majutsushi-shiitagerareta-motoyuusha-wa-mirai-no-sekai-wo-yoyuu-de-ikinuku](https://cdn.myanimelist.net/images/manga/1/218540.jpg)
+
 -   **type**: manga
 -   **original-name**: 劣等眼の転生魔術師 ～虐げられた元勇者は未来の世界を余裕で生き抜く～
 -   **start-date**: 2018-11-04

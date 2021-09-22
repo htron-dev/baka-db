@@ -1,5 +1,7 @@
 # A-Channel: Nabe wo Tabeyou
 
+![a-channel-nabe-wo-tabeyou](https://cdn.myanimelist.net/images/anime/9/84989.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: A チャンネル 鍋を食べよう
@@ -25,4 +27,4 @@ A new episode included with the complete Blu-ray box collection of A-Channel.
 -   [Official Site](http://www.a-ch.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8107)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19411)
--   [Wikipedia](<https://en.wikipedia.org/wiki/A_Channel_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/A_Channel_%28manga%29)

@@ -1,5 +1,7 @@
 # Hisuiiro no Kaze
 
+![hisuiiro-no-kaze](https://cdn.myanimelist.net/images/manga/1/16246.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

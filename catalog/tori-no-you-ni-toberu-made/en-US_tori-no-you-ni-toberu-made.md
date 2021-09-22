@@ -1,5 +1,7 @@
 # Tori no You ni Toberu Made
 
+![tori-no-you-ni-toberu-made](https://cdn.myanimelist.net/images/manga/3/233058.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

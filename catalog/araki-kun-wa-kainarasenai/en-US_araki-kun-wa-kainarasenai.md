@@ -1,5 +1,7 @@
 # Araki-kun wa Kainarasenai
 
+![araki-kun-wa-kainarasenai](https://cdn.myanimelist.net/images/manga/3/236596.jpg)
+
 -   **type**: manga
 -   **original-name**: あらきくんは飼いならせない
 -   **start-date**: 2020-02-22

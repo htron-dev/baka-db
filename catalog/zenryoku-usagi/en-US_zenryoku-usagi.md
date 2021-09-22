@@ -1,5 +1,7 @@
 # Zenryoku Usagi
 
+![zenryoku-usagi](https://cdn.myanimelist.net/images/anime/12/51631.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 全力ウサギ

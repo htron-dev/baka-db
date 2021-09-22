@@ -1,5 +1,7 @@
 # Uchuu Taitei God Sigma
 
+![uchuu-taitei-god-sigma](https://cdn.myanimelist.net/images/anime/4/52303.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 宇宙大帝ゴッドシグマ

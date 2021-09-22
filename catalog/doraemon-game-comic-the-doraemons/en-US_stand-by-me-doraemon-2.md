@@ -1,5 +1,7 @@
 # Stand By Me Doraemon 2
 
+![stand-by-me-doraemon-2](https://cdn.myanimelist.net/images/anime/1842/109657.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: STAND BY ME ドラえもん ２
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   sci-fi
 -   seinen
 

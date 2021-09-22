@@ -1,5 +1,7 @@
 # Shion no Ou: The Flowers of Hard Blood.
 
+![shion-no-ou-the-flowers-of-hard-blood](https://cdn.myanimelist.net/images/manga/2/139069.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Young Alive!: iPS Saibou Ga Hiraku Mirai
 
+![young-alive-i-ps-saibou-ga-hiraku-mirai](https://cdn.myanimelist.net/images/anime/1492/113985.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Young Alive! ~iPS 細胞がひらく未来~

@@ -1,5 +1,7 @@
 # Renkin San-kyuu Magical? Pokaan Specials
 
+![renkin-san-kyuu-magical-pokaan-specials](https://cdn.myanimelist.net/images/anime/11/74299.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 錬金 3 級 まじかる?ぽか〜ん

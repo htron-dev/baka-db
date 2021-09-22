@@ -1,5 +1,7 @@
 # Ubau Mono Ubawareru Mono
 
+![ubau-mono-ubawareru-mono](https://cdn.myanimelist.net/images/manga/1/167732.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 奪う者 奪われる者
 -   **start-date**: 2015-02-28

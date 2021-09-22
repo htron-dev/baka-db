@@ -1,5 +1,7 @@
 # Shouwa Fanfare
 
+![shouwa-fanfare](https://cdn.myanimelist.net/images/manga/2/205489.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 36

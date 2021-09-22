@@ -1,5 +1,7 @@
 # Gosick
 
+![gosick](https://cdn.myanimelist.net/images/manga/2/108085.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: GOSICK -ゴシック-

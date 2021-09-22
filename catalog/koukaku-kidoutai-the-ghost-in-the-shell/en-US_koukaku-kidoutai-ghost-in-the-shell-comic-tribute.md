@@ -1,5 +1,7 @@
 # Koukaku Kidoutai - Ghost in the Shell - Comic Tribute
 
+![koukaku-kidoutai-ghost-in-the-shell-comic-tribute](https://cdn.myanimelist.net/images/manga/1/224621.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

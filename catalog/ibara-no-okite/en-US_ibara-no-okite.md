@@ -1,5 +1,7 @@
 # Ibara no Okite
 
+![ibara-no-okite](https://cdn.myanimelist.net/images/manga/2/22760.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

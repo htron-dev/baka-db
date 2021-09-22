@@ -1,5 +1,7 @@
 # J. Boy
 
+![j-boy](https://cdn.myanimelist.net/images/manga/1/228827.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Hana Yan!
 
+![hana-yan](https://cdn.myanimelist.net/images/manga/3/174818.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

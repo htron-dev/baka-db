@@ -1,5 +1,7 @@
 # Unlimited Over Skill
 
+![unlimited-over-skill](https://cdn.myanimelist.net/images/manga/2/124799.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

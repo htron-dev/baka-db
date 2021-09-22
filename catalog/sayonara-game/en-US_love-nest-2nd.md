@@ -1,5 +1,7 @@
 # Love Nest 2nd
 
+![love-nest-2nd](https://cdn.myanimelist.net/images/manga/4/244693.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

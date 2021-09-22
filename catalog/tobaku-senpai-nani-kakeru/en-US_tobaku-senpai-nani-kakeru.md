@@ -1,5 +1,7 @@
 # Tobaku-senpai Nani Kakeru?
 
+![tobaku-senpai-nani-kakeru](https://cdn.myanimelist.net/images/manga/3/198691.jpg)
+
 -   **type**: manga
 -   **original-name**: 鳥獏先輩なに賭ける？
 -   **start-date**: 2017-02-07

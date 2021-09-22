@@ -1,5 +1,7 @@
 # Junk!
 
+![junk](https://cdn.myanimelist.net/images/manga/1/2484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

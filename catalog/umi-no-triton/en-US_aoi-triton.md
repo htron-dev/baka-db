@@ -1,5 +1,7 @@
 # Aoi Triton
 
+![aoi-triton](https://cdn.myanimelist.net/images/anime/2/87373.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 青いトリトン

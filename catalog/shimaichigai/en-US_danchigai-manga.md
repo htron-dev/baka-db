@@ -1,5 +1,7 @@
 # Danchigai
 
+![danchigai](https://cdn.myanimelist.net/images/manga/3/189054.jpg)
+
 -   **type**: manga
 -   **original-name**: だんちがい
 -   **start-date**: 2011-06-22

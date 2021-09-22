@@ -1,5 +1,7 @@
 # Hajimari no Boukensha-tachi: Legend of Crystania
 
+![hajimari-no-boukensha-tachi-legend-of-crystania](https://cdn.myanimelist.net/images/anime/1520/94671.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: はじまりの冒険者たち レジェンド・オブ・クリスタニア

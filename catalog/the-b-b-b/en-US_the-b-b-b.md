@@ -1,5 +1,7 @@
 # The B.B.B.
 
+![the-b-b-b](https://cdn.myanimelist.net/images/manga/2/234375.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: THE B.B.B

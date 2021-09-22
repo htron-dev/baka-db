@@ -1,5 +1,7 @@
 # Mokusei Shoujo Ryuuseigun
 
+![mokusei-shoujo-ryuuseigun](https://cdn.myanimelist.net/images/manga/2/242898.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Oshare Kozou wa Hanamaru
 
+![oshare-kozou-wa-hanamaru](https://cdn.myanimelist.net/images/anime/5/16642.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: お洒落小僧は花マルッ

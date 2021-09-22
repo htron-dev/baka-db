@@ -1,5 +1,7 @@
 # Samehada-Otoko to Momojiri-Onna
 
+![samehada-otoko-to-momojiri-onna](https://cdn.myanimelist.net/images/manga/2/62879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

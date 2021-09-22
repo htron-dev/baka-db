@@ -1,5 +1,7 @@
 # Bloodlink Series
 
+![bloodlink-series](https://cdn.myanimelist.net/images/manga/2/133297.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: BLOODLINK シリーズ

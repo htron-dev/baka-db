@@ -1,5 +1,7 @@
 # Eulen Spiegel
 
+![eulen-spiegel](https://cdn.myanimelist.net/images/manga/2/34419.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 36

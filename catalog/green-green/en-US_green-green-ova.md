@@ -1,5 +1,7 @@
 # Green Green OVA
 
+![green-green-ova](https://cdn.myanimelist.net/images/anime/12/20157.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: グリーングリーン

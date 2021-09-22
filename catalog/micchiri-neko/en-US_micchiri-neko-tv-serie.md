@@ -1,5 +1,7 @@
 # Micchiri Neko
 
+![micchiri-neko](https://cdn.myanimelist.net/images/anime/7/89947.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: みっちりねこ

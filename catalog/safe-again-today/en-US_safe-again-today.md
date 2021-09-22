@@ -1,5 +1,7 @@
 # Safe Again Today
 
+![safe-again-today](https://cdn.myanimelist.net/images/manga/3/6806.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 14

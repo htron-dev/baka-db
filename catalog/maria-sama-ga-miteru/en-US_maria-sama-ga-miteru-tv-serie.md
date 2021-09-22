@@ -1,5 +1,7 @@
 # Maria-sama ga Miteru
 
+![maria-sama-ga-miteru](https://cdn.myanimelist.net/images/anime/1994/114208.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マリア様がみてる

@@ -1,5 +1,7 @@
 # Kare ga Kanojo wo Tsukuranai Riyuu
 
+![kare-ga-kanojo-wo-tsukuranai-riyuu](https://cdn.myanimelist.net/images/manga/3/113431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

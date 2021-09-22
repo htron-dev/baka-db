@@ -1,5 +1,7 @@
 # Slayers Try
 
+![slayers-try](https://cdn.myanimelist.net/images/anime/10/50875.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: スレイヤーズ TRY

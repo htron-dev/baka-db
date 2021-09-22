@@ -1,5 +1,7 @@
 # Meoto Safari
 
+![meoto-safari](https://cdn.myanimelist.net/images/manga/2/133777.jpg)
+
 -   **type**: manga
 -   **original-name**: 夫婦サファリ
 -   **start-date**: 2012-07-06

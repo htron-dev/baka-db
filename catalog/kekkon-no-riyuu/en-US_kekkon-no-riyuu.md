@@ -1,5 +1,7 @@
 # Kekkon no Riyuu
 
+![kekkon-no-riyuu](https://cdn.myanimelist.net/images/manga/1/227544.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 結婚の理由

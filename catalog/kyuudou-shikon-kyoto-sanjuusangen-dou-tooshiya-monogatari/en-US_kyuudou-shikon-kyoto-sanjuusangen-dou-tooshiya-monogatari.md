@@ -1,5 +1,7 @@
 # Kyuudou Shikon: Kyoto Sanjuusangen-dou Tooshiya Monogatari
 
+![kyuudou-shikon-kyoto-sanjuusangen-dou-tooshiya-monogatari](https://cdn.myanimelist.net/images/manga/2/173033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

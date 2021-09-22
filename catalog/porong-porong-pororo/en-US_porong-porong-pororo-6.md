@@ -1,5 +1,7 @@
 # Porong Porong Pororo 6
 
+![porong-porong-pororo-6](https://cdn.myanimelist.net/images/anime/10/88262.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 뽀롱뽀롱 뽀로로 6

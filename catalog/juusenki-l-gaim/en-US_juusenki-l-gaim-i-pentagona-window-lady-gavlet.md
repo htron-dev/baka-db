@@ -1,5 +1,7 @@
 # Juusenki L-Gaim I: Pentagona Window + Lady Gavlet
 
+![juusenki-l-gaim-i-pentagona-window-lady-gavlet](https://cdn.myanimelist.net/images/anime/2/3503.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 重戦機エルガイム I ペンタゴナ ウインドゥ+レディ ギャブレー

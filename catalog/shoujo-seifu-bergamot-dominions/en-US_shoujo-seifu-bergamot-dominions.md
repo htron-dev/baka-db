@@ -1,5 +1,7 @@
 # Shoujo Seifu Bergamot Dominions
 
+![shoujo-seifu-bergamot-dominions](https://cdn.myanimelist.net/images/manga/1/147871.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

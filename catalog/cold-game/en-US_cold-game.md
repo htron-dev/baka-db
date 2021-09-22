@@ -1,5 +1,7 @@
 # Cold Game
 
+![cold-game](https://cdn.myanimelist.net/images/manga/3/209893.jpg)
+
 -   **type**: manga
 -   **original-name**: コールドゲーム
 -   **start-date**: 2017-07-13

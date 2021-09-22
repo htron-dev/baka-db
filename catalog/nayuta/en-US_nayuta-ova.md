@@ -1,5 +1,7 @@
 # Nayuta
 
+![nayuta](https://cdn.myanimelist.net/images/anime/8/5787.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 那由他

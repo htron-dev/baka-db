@@ -1,5 +1,7 @@
 # Isekai no Akuma ga Guutara sugiru node Ore ga Oshiro wo Tsukurimasu.
 
+![isekai-no-akuma-ga-guutara-sugiru-node-ore-ga-oshiro-wo-tsukurimasu](https://cdn.myanimelist.net/images/manga/1/180043.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界の悪魔がぐーたらすぎるので俺がお城を作ります。
 -   **start-date**: 2016-07-25

@@ -1,5 +1,7 @@
 # Star Wars: Phantom Menace
 
+![star-wars-phantom-menace](https://cdn.myanimelist.net/images/manga/1/22872.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: STAR WARS ﻿﻿ ファントム・メナス

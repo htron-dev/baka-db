@@ -1,5 +1,7 @@
 # Yakyuu no Hoshi Metman
 
+![yakyuu-no-hoshi-metman](https://cdn.myanimelist.net/images/manga/1/214542.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Darkside Blues
 
+![darkside-blues](https://cdn.myanimelist.net/images/manga/5/840.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ダークサイド・ブルース

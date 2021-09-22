@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament Departures: Maria no Hizou Eizou
 
+![shinmai-maou-no-testament-departures-maria-no-hizou-eizou](https://cdn.myanimelist.net/images/anime/1846/99644.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 新妹魔王の契約者 DEPARTURES 万理亜の秘蔵映像

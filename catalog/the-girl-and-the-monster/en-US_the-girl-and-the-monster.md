@@ -1,5 +1,7 @@
 # The Girl and the Monster
 
+![the-girl-and-the-monster](https://cdn.myanimelist.net/images/anime/1537/107336.jpg)
+
 -   **type**: ona
 -   **original-name**: The Girl and the Monster
 -   **start-date**: 2019-07-26

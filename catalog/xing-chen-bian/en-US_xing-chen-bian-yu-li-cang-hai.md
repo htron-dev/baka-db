@@ -1,5 +1,7 @@
 # Xing Chen Bian: Yu Li Cang Hai
 
+![xing-chen-bian-yu-li-cang-hai](https://cdn.myanimelist.net/images/anime/1548/107365.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 星辰变 羽立沧海

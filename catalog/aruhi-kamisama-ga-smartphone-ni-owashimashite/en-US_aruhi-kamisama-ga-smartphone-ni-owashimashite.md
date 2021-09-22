@@ -1,5 +1,7 @@
 # Aruhi, Kamisama ga Smartphone ni Owashimashite
 
+![aruhi-kamisama-ga-smartphone-ni-owashimashite](https://cdn.myanimelist.net/images/manga/2/163466.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ある日、神様がスマホにおわしまして

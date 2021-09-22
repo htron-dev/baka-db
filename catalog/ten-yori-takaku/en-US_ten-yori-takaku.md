@@ -1,5 +1,7 @@
 # Ten yori Takaku
 
+![ten-yori-takaku](https://cdn.myanimelist.net/images/manga/2/29542.jpg)
+
 -   **type**: manga
 -   **original-name**: 天より高く
 

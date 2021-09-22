@@ -1,5 +1,7 @@
 # Hoshi ni Negai wo
 
+![hoshi-ni-negai-wo](https://cdn.myanimelist.net/images/manga/3/134061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

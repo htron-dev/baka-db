@@ -1,5 +1,7 @@
 # Ano Hi no Kanojo-tachi
 
+![ano-hi-no-kanojo-tachi](https://cdn.myanimelist.net/images/anime/1263/93685.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: あの日の彼女たち

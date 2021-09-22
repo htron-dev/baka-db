@@ -1,5 +1,7 @@
 # Dibetagurashi
 
+![dibetagurashi](https://cdn.myanimelist.net/images/manga/4/174576.jpg)
+
 -   **type**: manga
 -   **original-name**: ぢべたぐらし
 

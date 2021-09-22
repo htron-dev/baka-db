@@ -1,5 +1,7 @@
 # Heat East
 
+![heat-east](https://cdn.myanimelist.net/images/manga/3/38976.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヒート・イースト

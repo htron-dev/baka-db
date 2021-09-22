@@ -1,5 +1,7 @@
 # Xenosaga The Animation
 
+![xenosaga-the-animation](https://cdn.myanimelist.net/images/anime/3/75162.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゼノサーガ THE ANIMATION

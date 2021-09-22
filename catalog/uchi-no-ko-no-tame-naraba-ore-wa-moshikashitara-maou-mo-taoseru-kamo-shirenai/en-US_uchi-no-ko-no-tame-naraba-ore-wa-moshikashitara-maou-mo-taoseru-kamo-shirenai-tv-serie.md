@@ -1,5 +1,7 @@
 # Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.
 
+![uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai](https://cdn.myanimelist.net/images/anime/1568/101203.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。

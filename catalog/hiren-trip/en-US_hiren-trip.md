@@ -1,5 +1,7 @@
 # Hiren Trip
 
+![hiren-trip](https://cdn.myanimelist.net/images/manga/3/99411.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Uchuu Sensou
 
+![uchuu-sensou](https://cdn.myanimelist.net/images/manga/2/238186.jpg)
+
 -   **type**: manga
 -   **original-name**: 宇宙戦争
 -   **start-date**: 2018-10-05

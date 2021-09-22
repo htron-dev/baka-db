@@ -1,5 +1,7 @@
 # Mamarian Puru
 
+![mamarian-puru](https://cdn.myanimelist.net/images/manga/2/32144.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

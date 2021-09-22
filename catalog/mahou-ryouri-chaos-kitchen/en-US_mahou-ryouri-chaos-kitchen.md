@@ -1,5 +1,7 @@
 # Mahou Ryouri Chaos Kitchen
 
+![mahou-ryouri-chaos-kitchen](https://cdn.myanimelist.net/images/manga/2/23565.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

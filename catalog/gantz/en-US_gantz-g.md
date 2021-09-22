@@ -1,5 +1,7 @@
 # Gantz:G
 
+![gantz-g](https://cdn.myanimelist.net/images/manga/3/192968.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

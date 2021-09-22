@@ -1,5 +1,7 @@
 # Yuuhi yo Nobore!!
 
+![yuuhi-yo-nobore](https://cdn.myanimelist.net/images/manga/1/183308.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

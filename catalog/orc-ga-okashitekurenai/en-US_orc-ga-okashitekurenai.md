@@ -1,5 +1,7 @@
 # Orc ga Okashitekurenai!
 
+![orc-ga-okashitekurenai](https://cdn.myanimelist.net/images/manga/1/213714.jpg)
+
 -   **type**: manga
 -   **original-name**: オークが犯してくれない！
 -   **start-date**: 2017-11-14

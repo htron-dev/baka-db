@@ -1,5 +1,7 @@
 # Usotsuki Tenshi wa Shinimashita!
 
+![usotsuki-tenshi-wa-shinimashita](https://cdn.myanimelist.net/images/manga/1/98277.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: 嘘つき天使は死にました!

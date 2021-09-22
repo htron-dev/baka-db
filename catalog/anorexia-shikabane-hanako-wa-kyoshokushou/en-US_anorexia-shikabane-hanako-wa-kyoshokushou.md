@@ -1,5 +1,7 @@
 # Anorexia: Shikabane Hanako wa Kyoshokushou
 
+![anorexia-shikabane-hanako-wa-kyoshokushou](https://cdn.myanimelist.net/images/manga/1/134177.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

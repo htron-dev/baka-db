@@ -1,5 +1,7 @@
 # Granblue Fantasy
 
+![granblue-fantasy](https://cdn.myanimelist.net/images/manga/1/198694.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 44

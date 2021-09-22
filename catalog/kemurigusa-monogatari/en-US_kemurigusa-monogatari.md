@@ -1,5 +1,7 @@
 # Kemurigusa Monogatari
 
+![kemurigusa-monogatari](https://cdn.myanimelist.net/images/anime/1926/107619.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 煙り草物語

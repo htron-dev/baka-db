@@ -1,5 +1,7 @@
 # Shimanami Tasogare
 
+![shimanami-tasogare](https://cdn.myanimelist.net/images/manga/2/174018.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

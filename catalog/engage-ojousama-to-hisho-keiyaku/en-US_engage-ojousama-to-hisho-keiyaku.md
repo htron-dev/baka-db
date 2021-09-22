@@ -1,5 +1,7 @@
 # Engage: Ojousama to Hisho Keiyaku
 
+![engage-ojousama-to-hisho-keiyaku](https://cdn.myanimelist.net/images/manga/3/160139.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: エンゲージ　お嬢様と秘書契約

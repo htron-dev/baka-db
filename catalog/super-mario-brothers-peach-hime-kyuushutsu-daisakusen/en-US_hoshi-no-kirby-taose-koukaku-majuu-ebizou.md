@@ -1,5 +1,7 @@
 # Hoshi no Kirby: Taose!! Koukaku Majuu Ebizou
 
+![hoshi-no-kirby-taose-koukaku-majuu-ebizou](https://cdn.myanimelist.net/images/anime/13/72186.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 星のカービィ～特別編～ 倒せ!!甲殻魔獣エビゾウ

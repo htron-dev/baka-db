@@ -1,5 +1,7 @@
 # Armitage III: Dual-Matrix
 
+![armitage-iii-dual-matrix](https://cdn.myanimelist.net/images/anime/6/2858.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アミテージ・ザ・サード DUAL-MATRIX

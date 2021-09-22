@@ -1,5 +1,7 @@
 # Oyasumi☆Darling
 
+![oyasumi☆-darling](https://cdn.myanimelist.net/images/manga/2/7280.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

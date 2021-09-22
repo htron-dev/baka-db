@@ -1,5 +1,7 @@
 # Reiryuu Gakuen Seitokai: Heibon Nande, Mote Flag wa Irimasen!
 
+![reiryuu-gakuen-seitokai-heibon-nande-mote-flag-wa-irimasen](https://cdn.myanimelist.net/images/manga/1/245028.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Baku Tech! Bakugan
 
+![baku-tech-bakugan](https://cdn.myanimelist.net/images/manga/3/207463.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 36

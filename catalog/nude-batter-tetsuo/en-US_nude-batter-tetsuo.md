@@ -1,5 +1,7 @@
 # Nude Batter Tetsuo
 
+![nude-batter-tetsuo](https://cdn.myanimelist.net/images/anime/11/79970.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ヌードバッター鉄雄

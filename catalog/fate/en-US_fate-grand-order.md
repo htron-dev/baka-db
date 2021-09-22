@@ -1,5 +1,7 @@
 # Fate/Grand Order
 
+![fate-grand-order](https://cdn.myanimelist.net/images/anime/1405/107244.jpg)
+
 -   **type**: special
 -   **original-name**: Fate/Grand Order
 -   **start-date**: 2014-12-27

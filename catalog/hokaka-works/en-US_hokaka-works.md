@@ -1,5 +1,7 @@
 # Hokaka Works
 
+![hokaka-works](https://cdn.myanimelist.net/images/manga/2/133317.jpg)
+
 -   **type**: manga
 -   **original-name**: ほかかわーくす
 -   **start-date**: 2013-06-07

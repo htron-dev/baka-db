@@ -1,5 +1,7 @@
 # Radio Heads
 
+![radio-heads](https://cdn.myanimelist.net/images/manga/1/62239.jpg)
+
 -   **type**: manga
 -   **original-name**: ラジオヘッズ
 

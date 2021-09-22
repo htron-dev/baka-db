@@ -1,5 +1,7 @@
 # Ashita no Joe (Movie)
 
+![ashita-no-joe-movie](https://cdn.myanimelist.net/images/anime/7/51837.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あしたのジョー (1980)

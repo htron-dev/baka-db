@@ -1,5 +1,7 @@
 # Appare! Momotarou no Koutsuu Anzen
 
+![appare-momotarou-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/11/84783.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あっぱれ！桃太郎の交通安全

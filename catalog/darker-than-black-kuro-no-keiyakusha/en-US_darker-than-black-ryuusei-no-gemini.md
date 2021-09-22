@@ -1,5 +1,7 @@
 # Darker than Black: Ryuusei no Gemini
 
+![darker-than-black-ryuusei-no-gemini](https://cdn.myanimelist.net/images/anime/11/50373.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: DARKER THAN BLACK 流星の双子

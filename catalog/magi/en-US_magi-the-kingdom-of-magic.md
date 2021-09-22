@@ -1,5 +1,7 @@
 # Magi: The Kingdom of Magic
 
+![magi-the-kingdom-of-magic](https://cdn.myanimelist.net/images/anime/13/55039.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: マギ The kingdom of magic

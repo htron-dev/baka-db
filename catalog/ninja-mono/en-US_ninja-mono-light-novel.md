@@ -1,5 +1,7 @@
 # Ninja Mono
 
+![ninja-mono](https://cdn.myanimelist.net/images/manga/1/162797.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

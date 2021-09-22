@@ -1,5 +1,7 @@
 # Love &amp; Tears
 
+![love-amp-tears](https://cdn.myanimelist.net/images/manga/2/17202.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

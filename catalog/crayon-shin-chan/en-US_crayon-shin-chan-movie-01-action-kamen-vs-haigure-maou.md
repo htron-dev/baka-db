@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou
 
+![crayon-shin-chan-movie-01-action-kamen-vs-haigure-maou](https://cdn.myanimelist.net/images/anime/12/22017.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん　アクション仮面ＶＳハイグレ魔王

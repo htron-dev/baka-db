@@ -1,5 +1,7 @@
 # Kodama no Tani: Ouritsu Daigaku Sourangeki
 
+![kodama-no-tani-ouritsu-daigaku-sourangeki](https://cdn.myanimelist.net/images/manga/2/37236.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

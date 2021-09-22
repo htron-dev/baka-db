@@ -1,5 +1,7 @@
 # Ouji no Honmei wa Akuyaku Reijou
 
+![ouji-no-honmei-wa-akuyaku-reijou](https://cdn.myanimelist.net/images/anime/1741/115906.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 王子の本命は悪役令嬢
 -   **rating**: R+ - Mild Nudity

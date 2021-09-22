@@ -1,5 +1,7 @@
 # Onsen Yousei Hakone-chan
 
+![onsen-yousei-hakone-chan](https://cdn.myanimelist.net/images/anime/12/77820.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 温泉幼精ハコネちゃん

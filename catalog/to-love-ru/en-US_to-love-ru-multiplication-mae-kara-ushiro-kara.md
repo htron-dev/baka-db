@@ -1,5 +1,7 @@
 # To LOVE-Ru: Multiplication - Mae kara Ushiro kara
 
+![to-love-ru-multiplication-mae-kara-ushiro-kara](https://cdn.myanimelist.net/images/anime/3/87158.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: To LOVE る -とらぶる- Multiplication ~前から後ろから~

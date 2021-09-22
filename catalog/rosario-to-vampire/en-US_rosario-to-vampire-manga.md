@@ -1,5 +1,7 @@
 # Rosario to Vampire
 
+![rosario-to-vampire](https://cdn.myanimelist.net/images/manga/3/54787.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

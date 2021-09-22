@@ -1,5 +1,7 @@
 # Himitsugoto
 
+![himitsugoto](https://cdn.myanimelist.net/images/manga/1/64201.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

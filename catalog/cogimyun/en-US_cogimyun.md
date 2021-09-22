@@ -1,5 +1,7 @@
 # Cogimyun
 
+![cogimyun](https://cdn.myanimelist.net/images/anime/4/87036.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: こぎみゅん

@@ -1,5 +1,7 @@
 # Joou-sama no Wagamama
 
+![joou-sama-no-wagamama](https://cdn.myanimelist.net/images/manga/3/144035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 女王様のワガママ

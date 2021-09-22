@@ -1,5 +1,7 @@
 # Sono Koi ni wa Wake ga Aru
 
+![sono-koi-ni-wa-wake-ga-aru](https://cdn.myanimelist.net/images/manga/3/33252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

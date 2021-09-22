@@ -1,5 +1,7 @@
 # Fate/stay night: Comic Anthology
 
+![fate-stay-night-comic-anthology](https://cdn.myanimelist.net/images/manga/1/113151.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **original-name**: Fate/stay night コミックアンソロジー

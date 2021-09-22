@@ -1,5 +1,7 @@
 # Made in Harem
 
+![made-in-harem](https://cdn.myanimelist.net/images/manga/1/16803.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: メイドインハーレム

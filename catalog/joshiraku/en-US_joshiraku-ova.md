@@ -1,5 +1,7 @@
 # Joshiraku OVA
 
+![joshiraku-ova](https://cdn.myanimelist.net/images/anime/8/50549.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: じょしらく

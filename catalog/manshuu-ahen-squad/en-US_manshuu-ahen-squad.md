@@ -1,5 +1,7 @@
 # Manshuu Ahen Squad
 
+![manshuu-ahen-squad](https://cdn.myanimelist.net/images/manga/3/235098.jpg)
+
 -   **type**: manga
 -   **original-name**: 満州アヘンスクワッド
 -   **start-date**: 2020-04-09

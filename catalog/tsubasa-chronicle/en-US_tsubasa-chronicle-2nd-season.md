@@ -1,5 +1,7 @@
 # Tsubasa Chronicle 2nd Season
 
+![tsubasa-chronicle-2nd-season](https://cdn.myanimelist.net/images/anime/4/6554.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ツバサ・クロニクル 第 2 シリーズ

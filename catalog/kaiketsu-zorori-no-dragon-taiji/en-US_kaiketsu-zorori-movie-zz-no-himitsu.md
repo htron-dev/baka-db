@@ -1,5 +1,7 @@
 # Kaiketsu Zorori Movie: ZZ no Himitsu
 
+![kaiketsu-zorori-movie-zz-no-himitsu](https://cdn.myanimelist.net/images/anime/1241/105180.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画かいけつゾロリ ZZ のひみつ

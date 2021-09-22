@@ -1,5 +1,7 @@
 # Teihen Tuber ga Uchuu Sensou wo Tottemita
 
+![teihen-tuber-ga-uchuu-sensou-wo-tottemita](https://cdn.myanimelist.net/images/manga/2/235269.jpg)
+
 -   **type**: manga
 -   **original-name**: 底辺チューバーが宇宙戦争を撮ってみた
 -   **start-date**: 2020-01-29

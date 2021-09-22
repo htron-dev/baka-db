@@ -1,5 +1,7 @@
 # Summertime Render
 
+![summertime-render](https://cdn.myanimelist.net/images/anime/1900/116692.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: サマータイムレンダ
 -   **rating**: None

@@ -1,5 +1,7 @@
 # Sakura-gari
 
+![sakura-gari](https://cdn.myanimelist.net/images/manga/1/19314.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

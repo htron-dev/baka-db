@@ -1,5 +1,7 @@
 # Ayamachi, Hajimemashite.
 
+![ayamachi-hajimemashite](https://cdn.myanimelist.net/images/manga/2/125309.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

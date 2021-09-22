@@ -1,5 +1,7 @@
 # Linden Hall no Aria
 
+![linden-hall-no-aria](https://cdn.myanimelist.net/images/manga/4/73829.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

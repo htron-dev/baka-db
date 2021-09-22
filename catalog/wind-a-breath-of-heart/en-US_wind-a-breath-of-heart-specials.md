@@ -1,5 +1,7 @@
 # Wind: A Breath of Heart Specials
 
+![wind-a-breath-of-heart-specials](https://cdn.myanimelist.net/images/anime/10/24393.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: Wind -a breath of heart-

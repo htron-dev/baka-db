@@ -1,5 +1,7 @@
 # Hoshi no Ame Tsuki no Geboku
 
+![hoshi-no-ame-tsuki-no-geboku](https://cdn.myanimelist.net/images/manga/1/146735.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

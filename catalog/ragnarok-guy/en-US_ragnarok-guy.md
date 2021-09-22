@@ -1,5 +1,7 @@
 # Ragnarok Guy
 
+![ragnarok-guy](https://cdn.myanimelist.net/images/manga/2/233431.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 62

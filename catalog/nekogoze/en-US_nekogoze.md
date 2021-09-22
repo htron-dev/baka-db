@@ -1,5 +1,7 @@
 # Nekogoze
 
+![nekogoze](https://cdn.myanimelist.net/images/manga/1/152444.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

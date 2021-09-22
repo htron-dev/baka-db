@@ -1,5 +1,7 @@
 # Shigofumi Picture Drama
 
+![shigofumi-picture-drama](https://cdn.myanimelist.net/images/anime/3/14417.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: シゴフミ

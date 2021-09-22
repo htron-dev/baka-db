@@ -1,5 +1,7 @@
 # Infinite Dendrogram
 
+![infinite-dendrogram](https://cdn.myanimelist.net/images/manga/3/195958.jpg)
+
 -   **type**: manga
 -   **original-name**: <Infinite Dendrogram>-インフィニット・デンドログラム-
 -   **start-date**: 2016-12-22

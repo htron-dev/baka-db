@@ -1,5 +1,7 @@
 # Sequence Meditation
 
+![sequence-meditation](https://cdn.myanimelist.net/images/manga/2/27409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

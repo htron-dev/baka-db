@@ -1,5 +1,7 @@
 # Outlaw x Raven
 
+![outlaw-x-raven](https://cdn.myanimelist.net/images/manga/1/178273.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: アウトロー × レイヴン

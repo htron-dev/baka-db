@@ -1,5 +1,7 @@
 # S-kei Henshuuchou no Amai Batsu
 
+![s-kei-henshuuchou-no-amai-batsu](https://cdn.myanimelist.net/images/manga/2/197790.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

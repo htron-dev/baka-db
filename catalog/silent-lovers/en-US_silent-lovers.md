@@ -1,5 +1,7 @@
 # Silent Lovers
 
+![silent-lovers](https://cdn.myanimelist.net/images/manga/2/162714.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 24

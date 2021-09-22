@@ -1,5 +1,7 @@
 # Age!
 
+![age](https://cdn.myanimelist.net/images/manga/1/17572.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 

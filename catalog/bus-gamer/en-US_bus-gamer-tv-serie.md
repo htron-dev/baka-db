@@ -1,5 +1,7 @@
 # Bus Gamer
 
+![bus-gamer](https://cdn.myanimelist.net/images/anime/10/75210.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3
 -   **original-name**: BUS GAMER

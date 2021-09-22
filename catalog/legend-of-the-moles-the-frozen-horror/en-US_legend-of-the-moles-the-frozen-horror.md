@@ -1,5 +1,7 @@
 # Legend of the Moles: The Frozen Horror
 
+![legend-of-the-moles-the-frozen-horror](https://cdn.myanimelist.net/images/anime/2/72612.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 摩爾莊園冰世紀

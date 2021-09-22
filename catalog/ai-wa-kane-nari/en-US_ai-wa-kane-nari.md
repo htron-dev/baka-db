@@ -1,5 +1,7 @@
 # Ai wa Kane Nari
 
+![ai-wa-kane-nari](https://cdn.myanimelist.net/images/manga/1/224486.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Starship Troopers: Red Planet
 
+![starship-troopers-red-planet](https://cdn.myanimelist.net/images/anime/10/89860.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スターシップ・トゥルーパーズ レッドプラネット

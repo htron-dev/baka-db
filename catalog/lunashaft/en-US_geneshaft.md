@@ -1,5 +1,7 @@
 # Geneshaft
 
+![geneshaft](https://cdn.myanimelist.net/images/anime/8/76287.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ジーンシャフト

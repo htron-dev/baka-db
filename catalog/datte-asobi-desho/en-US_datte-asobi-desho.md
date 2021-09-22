@@ -1,5 +1,7 @@
 # Datte Asobi desho?
 
+![datte-asobi-desho](https://cdn.myanimelist.net/images/manga/1/149211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

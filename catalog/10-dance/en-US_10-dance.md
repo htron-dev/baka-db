@@ -1,5 +1,7 @@
 # 10 Dance
 
+![10-dance](https://cdn.myanimelist.net/images/manga/1/84969.jpg)
+
 -   **type**: manga
 -   **original-name**: 10DANCE
 -   **start-date**: 2011-12-20

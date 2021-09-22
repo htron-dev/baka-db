@@ -1,5 +1,7 @@
 # Fw:Hamatora
 
+![fw-hamatora](https://cdn.myanimelist.net/images/anime/12/76832.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Fw：ハマトラ

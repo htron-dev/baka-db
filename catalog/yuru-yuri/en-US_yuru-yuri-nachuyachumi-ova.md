@@ -1,5 +1,7 @@
 # Yuru Yuri Nachuyachumi!
 
+![yuru-yuri-nachuyachumi](https://cdn.myanimelist.net/images/anime/2/73281.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゆるゆり なちゅやちゅみ！

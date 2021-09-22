@@ -1,5 +1,7 @@
 # Shutsujin★Konchuu Bushou Chousokabe!
 
+![shutsujin★-konchuu-bushou-chousokabe](https://cdn.myanimelist.net/images/manga/3/207491.jpg)
+
 -   **type**: manga
 -   **original-name**: 出陣 ★ 昆虫武将チョウソカベ！
 -   **start-date**: 2017-07-27

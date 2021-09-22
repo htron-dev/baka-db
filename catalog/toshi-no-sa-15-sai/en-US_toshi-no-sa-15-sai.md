@@ -1,5 +1,7 @@
 # Toshi no Sa 15-sai.
 
+![toshi-no-sa-15-sai](https://cdn.myanimelist.net/images/manga/3/158258.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 年の差 15 歳。

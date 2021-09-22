@@ -1,5 +1,7 @@
 # Koutsuu Anzen Da yo Doraemon
 
+![koutsuu-anzen-da-yo-doraemon](https://cdn.myanimelist.net/images/anime/1639/99400.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 交通安全だよ ドラえもん
@@ -24,4 +26,4 @@ The second episode was discovered through an auction website, the seller provide
 -   [Official Site](http://contents.manabi.pref.gunma.jp/gnkg01/pub/sheet.php?id=399949)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1078)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1318)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Doraemon_(1979_TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Doraemon_%281979_TV_series%29)

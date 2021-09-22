@@ -1,5 +1,7 @@
 # Shobo-nyan
 
+![shobo-nyan](https://cdn.myanimelist.net/images/manga/1/167153.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: しょぼにゃん

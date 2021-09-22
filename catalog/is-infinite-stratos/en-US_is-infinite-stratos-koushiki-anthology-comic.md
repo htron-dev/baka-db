@@ -1,5 +1,7 @@
 # IS: Infinite Stratos - Koushiki Anthology Comic
 
+![is-infinite-stratos-koushiki-anthology-comic](https://cdn.myanimelist.net/images/manga/1/143165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

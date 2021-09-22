@@ -1,5 +1,7 @@
 # Buddy Complex
 
+![buddy-complex](https://cdn.myanimelist.net/images/anime/12/57303.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: バディ・コンプレックス

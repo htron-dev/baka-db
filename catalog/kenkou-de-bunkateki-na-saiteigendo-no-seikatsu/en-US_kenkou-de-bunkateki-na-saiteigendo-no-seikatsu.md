@@ -1,5 +1,7 @@
 # Kenkou de Bunkateki na Saiteigendo no Seikatsu
 
+![kenkou-de-bunkateki-na-saiteigendo-no-seikatsu](https://cdn.myanimelist.net/images/manga/3/144819.jpg)
+
 -   **type**: manga
 -   **original-name**: 健康で文化的な最低限度の生活
 -   **start-date**: 2014-03-31

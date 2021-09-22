@@ -1,5 +1,7 @@
 # Ojousan to Yobanaide
 
+![ojousan-to-yobanaide](https://cdn.myanimelist.net/images/manga/3/203199.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

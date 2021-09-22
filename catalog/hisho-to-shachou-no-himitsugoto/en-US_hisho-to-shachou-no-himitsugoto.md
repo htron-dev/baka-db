@@ -1,5 +1,7 @@
 # Hisho to Shachou no Himitsugoto
 
+![hisho-to-shachou-no-himitsugoto](https://cdn.myanimelist.net/images/manga/1/97419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

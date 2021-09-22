@@ -1,5 +1,7 @@
 # Card no Ousama
 
+![card-no-ousama](https://cdn.myanimelist.net/images/manga/2/3459.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 31

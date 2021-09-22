@@ -1,5 +1,7 @@
 # Painter in the Wind
 
+![painter-in-the-wind](https://cdn.myanimelist.net/images/manga/2/155157.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 바람의 화원

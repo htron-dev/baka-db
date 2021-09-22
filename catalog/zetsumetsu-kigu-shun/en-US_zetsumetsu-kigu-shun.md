@@ -1,5 +1,7 @@
 # Zetsumetsu Kigu-shun.
 
+![zetsumetsu-kigu-shun](https://cdn.myanimelist.net/images/anime/1173/98280.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ぜつめつきぐしゅんっ。

@@ -1,5 +1,7 @@
 # Steins;Gate: Onshuu no Brownian Motion
 
+![steins-gate-onshuu-no-brownian-motion](https://cdn.myanimelist.net/images/manga/1/149165.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

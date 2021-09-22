@@ -1,5 +1,7 @@
 # F-Zero: Falcon Densetsu
 
+![f-zero-falcon-densetsu](https://cdn.myanimelist.net/images/anime/1569/95419.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: F-ZERO ファルコン伝説

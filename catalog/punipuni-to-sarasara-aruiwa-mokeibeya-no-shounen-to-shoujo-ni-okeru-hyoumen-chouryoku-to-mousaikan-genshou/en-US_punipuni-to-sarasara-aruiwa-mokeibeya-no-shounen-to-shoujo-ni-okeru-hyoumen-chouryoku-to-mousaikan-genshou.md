@@ -1,5 +1,7 @@
 # Punipuni to Sarasara: Aruiwa Mokeibeya no Shounen to Shoujo ni Okeru Hyoumen Chouryoku to Mousaikan Genshou
 
+![punipuni-to-sarasara-aruiwa-mokeibeya-no-shounen-to-shoujo-ni-okeru-hyoumen-chouryoku-to-mousaikan-genshou](https://cdn.myanimelist.net/images/manga/3/211378.jpg)
+
 -   **type**: manga
 -   **original-name**: プニプニとサラサラ あるいは模型部屋の少年と少女における表面張力と毛細管現象
 -   **start-date**: 2017-12-16

@@ -1,5 +1,7 @@
 # βl@ck★OUT
 
+![βl-ck★-out](https://cdn.myanimelist.net/images/manga/2/158085.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 47

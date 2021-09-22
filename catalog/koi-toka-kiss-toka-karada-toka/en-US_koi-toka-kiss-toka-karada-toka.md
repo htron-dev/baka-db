@@ -1,5 +1,7 @@
 # Koi toka, Kiss toka, Karada toka.
 
+![koi-toka-kiss-toka-karada-toka](https://cdn.myanimelist.net/images/manga/3/198161.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Tensai Eri-chan Kingyo wo Tabeta
 
+![tensai-eri-chan-kingyo-wo-tabeta](https://cdn.myanimelist.net/images/anime/11/50635.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天才えりちゃん金魚を食べた

@@ -1,5 +1,7 @@
 # Strike the Blood II
 
+![strike-the-blood-ii](https://cdn.myanimelist.net/images/anime/1600/111675.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: ストライク・ザ・ブラッド Ⅱ

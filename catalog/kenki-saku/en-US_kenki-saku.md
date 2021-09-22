@@ -1,5 +1,7 @@
 # Kenki, Saku
 
+![kenki-saku](https://cdn.myanimelist.net/images/manga/2/193613.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

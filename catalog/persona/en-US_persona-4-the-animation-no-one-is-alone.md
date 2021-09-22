@@ -1,5 +1,7 @@
 # Persona 4 the Animation: No One is Alone
 
+![persona-4-the-animation-no-one-is-alone](https://cdn.myanimelist.net/images/anime/5/37787.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ペルソナ 4 アニメーション

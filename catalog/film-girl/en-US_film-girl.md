@@ -1,5 +1,7 @@
 # Film Girl
 
+![film-girl](https://cdn.myanimelist.net/images/manga/2/184338.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

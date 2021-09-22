@@ -1,5 +1,7 @@
 # Biaku no Hana
 
+![biaku-no-hana](https://cdn.myanimelist.net/images/manga/1/203680.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 179

@@ -1,5 +1,7 @@
 # Shiroi Pilot
 
+![shiroi-pilot](https://cdn.myanimelist.net/images/manga/3/237738.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 44

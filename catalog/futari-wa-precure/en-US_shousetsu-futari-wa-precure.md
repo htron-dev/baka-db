@@ -1,5 +1,7 @@
 # Shousetsu Futari wa Precure
 
+![shousetsu-futari-wa-precure](https://cdn.myanimelist.net/images/manga/2/180944.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

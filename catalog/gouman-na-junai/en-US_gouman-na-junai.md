@@ -1,5 +1,7 @@
 # Gouman na Junai
 
+![gouman-na-junai](https://cdn.myanimelist.net/images/manga/1/10600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ookami no Ketsuzoku
 
+![ookami-no-ketsuzoku](https://cdn.myanimelist.net/images/manga/3/35057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

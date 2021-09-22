@@ -1,5 +1,7 @@
 # Otona Hatsukoi
 
+![otona-hatsukoi](https://cdn.myanimelist.net/images/manga/2/43375.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

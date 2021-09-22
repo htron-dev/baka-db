@@ -1,5 +1,7 @@
 # Akanesasu Shoujo
 
+![akanesasu-shoujo](https://cdn.myanimelist.net/images/anime/1210/95781.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あかねさす少女

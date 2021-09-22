@@ -1,5 +1,7 @@
 # Baobao Yue Xuetang: Binfen Kuaile Hao
 
+![baobao-yue-xuetang-binfen-kuaile-hao](https://cdn.myanimelist.net/images/anime/1318/115199.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 180
 -   **original-name**: 宝宝乐学堂之缤纷快乐号

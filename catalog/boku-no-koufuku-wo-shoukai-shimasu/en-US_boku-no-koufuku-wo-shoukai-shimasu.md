@@ -1,5 +1,7 @@
 # Boku no Koufuku wo Shoukai shimasu
 
+![boku-no-koufuku-wo-shoukai-shimasu](https://cdn.myanimelist.net/images/manga/3/222657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

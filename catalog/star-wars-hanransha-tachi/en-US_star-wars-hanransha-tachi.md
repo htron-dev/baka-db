@@ -1,5 +1,7 @@
 # Star Wars: Hanransha-tachi
 
+![star-wars-hanransha-tachi](https://cdn.myanimelist.net/images/manga/1/236499.jpg)
+
 -   **type**: manga
 -   **original-name**: STAR WARS／反乱者たち
 -   **start-date**: 2019-12-06

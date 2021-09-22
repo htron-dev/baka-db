@@ -1,5 +1,7 @@
 # Lost Song
 
+![lost-song](https://cdn.myanimelist.net/images/anime/1494/91963.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: LOST SONG
@@ -30,4 +32,4 @@ Finis finds herself falling in love with Henry and, knowing that the greedy and 
 -   [Official Site](http://lost-song.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12523)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19988)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Lost_Song_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Lost_Song_%28anime%29)

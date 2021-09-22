@@ -1,5 +1,7 @@
 # Anime de Wakaru Shinryounaika
 
+![anime-de-wakaru-shinryounaika](https://cdn.myanimelist.net/images/anime/4/69621.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: アニメで分かる心療内科

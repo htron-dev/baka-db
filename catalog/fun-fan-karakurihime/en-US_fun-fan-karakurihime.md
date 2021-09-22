@@ -1,5 +1,7 @@
 # Fun Fan Karakurihime
 
+![fun-fan-karakurihime](https://cdn.myanimelist.net/images/manga/2/23289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Fun☆Fan☆ からくり姫

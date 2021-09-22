@@ -1,5 +1,7 @@
 # Koteki
 
+![koteki](https://cdn.myanimelist.net/images/manga/3/168934.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

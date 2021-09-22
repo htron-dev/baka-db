@@ -1,5 +1,7 @@
 # Aoharu x Kikanjuu
 
+![aoharu-x-kikanjuu](https://cdn.myanimelist.net/images/manga/1/106519.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 84

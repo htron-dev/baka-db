@@ -1,5 +1,7 @@
 # Aldnoah.Zero Gaiden: Twin Gemini
 
+![aldnoah-zero-gaiden-twin-gemini](https://cdn.myanimelist.net/images/manga/2/145365.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Uchi no Majo Shirimasen ka?
 
+![uchi-no-majo-shirimasen-ka](https://cdn.myanimelist.net/images/manga/3/171720.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

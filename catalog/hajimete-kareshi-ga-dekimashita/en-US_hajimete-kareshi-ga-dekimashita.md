@@ -1,5 +1,7 @@
 # Hajimete Kareshi ga, Dekimashita.
 
+![hajimete-kareshi-ga-dekimashita](https://cdn.myanimelist.net/images/manga/2/239727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

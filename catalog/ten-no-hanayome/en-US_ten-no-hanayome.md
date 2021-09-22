@@ -1,5 +1,7 @@
 # Ten no Hanayome
 
+![ten-no-hanayome](https://cdn.myanimelist.net/images/manga/3/110707.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

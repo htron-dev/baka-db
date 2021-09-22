@@ -1,5 +1,7 @@
 # Family!
 
+![family](https://cdn.myanimelist.net/images/manga/2/27344.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: ファミリー!

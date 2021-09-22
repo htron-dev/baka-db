@@ -1,5 +1,7 @@
 # Nekomimi &amp; Shippo Hyoujun Soubi no Kare to Doukyo Hajimemashita
 
+![nekomimi-amp-shippo-hyoujun-soubi-no-kare-to-doukyo-hajimemashita](https://cdn.myanimelist.net/images/manga/3/195566.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

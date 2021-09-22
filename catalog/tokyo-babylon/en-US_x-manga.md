@@ -1,5 +1,7 @@
 # X
 
+![x](https://cdn.myanimelist.net/images/manga/3/10698.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 158

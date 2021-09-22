@@ -1,5 +1,7 @@
 # Oni
 
+![oni](https://cdn.myanimelist.net/images/manga/2/18435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 鬼

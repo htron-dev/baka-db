@@ -1,5 +1,7 @@
 # Shan He She Ji Tu
 
+![shan-he-she-ji-tu](https://cdn.myanimelist.net/images/anime/1129/97935.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 山河社稷图

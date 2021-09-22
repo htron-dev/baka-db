@@ -1,5 +1,7 @@
 # Yoshichirou no Keirei
 
+![yoshichirou-no-keirei](https://cdn.myanimelist.net/images/anime/1766/92230.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 與七郎の敬禮

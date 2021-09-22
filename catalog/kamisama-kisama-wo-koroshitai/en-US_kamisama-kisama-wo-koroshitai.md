@@ -1,5 +1,7 @@
 # Kamisama, Kisama wo Koroshitai.
 
+![kamisama-kisama-wo-koroshitai](https://cdn.myanimelist.net/images/manga/3/132589.jpg)
+
 -   **type**: manga
 -   **original-name**: 神様、キサマを殺したい。
 -   **start-date**: 2013-09-10

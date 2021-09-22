@@ -1,5 +1,7 @@
 # Kimi, Kawaii ne.
 
+![kimi-kawaii-ne](https://cdn.myanimelist.net/images/manga/3/124129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

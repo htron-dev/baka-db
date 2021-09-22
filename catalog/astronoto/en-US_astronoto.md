@@ -1,5 +1,7 @@
 # Astronoto!
 
+![astronoto](https://cdn.myanimelist.net/images/manga/3/163286.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

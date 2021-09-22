@@ -1,5 +1,7 @@
 # Hajimete no Sense.
 
+![hajimete-no-sense](https://cdn.myanimelist.net/images/manga/2/241028.jpg)
+
 -   **type**: manga
 -   **original-name**: 初めてのセンセ。
 -   **start-date**: 2019-11-19

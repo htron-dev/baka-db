@@ -1,5 +1,7 @@
 # Towa-kan
 
+![towa-kan](https://cdn.myanimelist.net/images/manga/2/150100.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

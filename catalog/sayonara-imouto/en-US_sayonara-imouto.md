@@ -1,5 +1,7 @@
 # Sayonara, Imouto.
 
+![sayonara-imouto](https://cdn.myanimelist.net/images/manga/2/123983.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

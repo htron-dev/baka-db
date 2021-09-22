@@ -1,5 +1,7 @@
 # Genbanojou
 
+![genbanojou](https://cdn.myanimelist.net/images/anime/2/84200.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: げんばのじょう-玄蕃之丞-

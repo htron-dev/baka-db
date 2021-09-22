@@ -1,5 +1,7 @@
 # Gravity Eyes
 
+![gravity-eyes](https://cdn.myanimelist.net/images/manga/3/17732.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

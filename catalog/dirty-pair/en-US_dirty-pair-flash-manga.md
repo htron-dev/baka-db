@@ -1,5 +1,7 @@
 # Dirty Pair Flash
 
+![dirty-pair-flash](https://cdn.myanimelist.net/images/manga/2/32018.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

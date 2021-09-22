@@ -1,5 +1,7 @@
 # Noroware Lady Thor
 
+![noroware-lady-thor](https://cdn.myanimelist.net/images/manga/1/163875.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

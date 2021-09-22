@@ -1,5 +1,7 @@
 # Ai wo Meijita Yuigon
 
+![ai-wo-meijita-yuigon](https://cdn.myanimelist.net/images/manga/2/227546.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛を命じた遺言

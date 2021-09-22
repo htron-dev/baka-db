@@ -1,5 +1,7 @@
 # Hokkaidou no Geneki Hunter ga Isekai ni Hourikomaretemita
 
+![hokkaidou-no-geneki-hunter-ga-isekai-ni-hourikomaretemita](https://cdn.myanimelist.net/images/manga/3/247231.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 北海道の現役ハンターが異世界に放り込まれてみた
 -   **start-date**: 2018-12-19

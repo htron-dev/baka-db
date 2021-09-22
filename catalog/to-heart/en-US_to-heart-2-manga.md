@@ -1,5 +1,7 @@
 # To Heart 2
 
+![to-heart-2](https://cdn.myanimelist.net/images/manga/3/34304.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: トゥハート 2

@@ -1,5 +1,7 @@
 # Penguin no Mondai+
 
+![penguin-no-mondai](https://cdn.myanimelist.net/images/manga/2/148995.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ペンギンの問題+

@@ -1,5 +1,7 @@
 # Chiisana Eiyuu: Kani to Tamago to Toumei Ningen
 
+![chiisana-eiyuu-kani-to-tamago-to-toumei-ningen](https://cdn.myanimelist.net/images/anime/1881/93496.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: ちいさな英雄－カニとタマゴと透明人間－

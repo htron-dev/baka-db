@@ -1,5 +1,7 @@
 # Hanikami Triangle
 
+![hanikami-triangle](https://cdn.myanimelist.net/images/manga/2/126403.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: はにかみトライアングル

@@ -1,5 +1,7 @@
 # Hakuginhi
 
+![hakuginhi](https://cdn.myanimelist.net/images/manga/3/134911.jpg)
+
 -   **type**: manga
 -   **original-name**: 白銀妃
 -   **start-date**: 2013-10-15

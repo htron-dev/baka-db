@@ -1,5 +1,7 @@
 # Croa Chimera
 
+![croa-chimera](https://cdn.myanimelist.net/images/manga/2/157877.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

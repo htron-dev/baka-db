@@ -1,5 +1,7 @@
 # Mecha☆Afro-kun
 
+![mecha☆-afro-kun](https://cdn.myanimelist.net/images/manga/3/34373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: メカ ☆ アフロくん

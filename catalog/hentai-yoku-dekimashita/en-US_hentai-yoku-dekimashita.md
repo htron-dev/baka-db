@@ -1,5 +1,7 @@
 # Hentai Yoku Dekimashita
 
+![hentai-yoku-dekimashita](https://cdn.myanimelist.net/images/manga/2/235017.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

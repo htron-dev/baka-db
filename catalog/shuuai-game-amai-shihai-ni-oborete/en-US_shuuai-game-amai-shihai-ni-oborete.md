@@ -1,5 +1,7 @@
 # Shuuai Game: Amai Shihai ni Oborete
 
+![shuuai-game-amai-shihai-ni-oborete](https://cdn.myanimelist.net/images/manga/2/181444.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

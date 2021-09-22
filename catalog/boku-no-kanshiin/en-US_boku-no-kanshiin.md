@@ -1,5 +1,7 @@
 # Boku no Kanshiin
 
+![boku-no-kanshiin](https://cdn.myanimelist.net/images/manga/2/85623.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

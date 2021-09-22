@@ -1,5 +1,7 @@
 # Jooubachi: Vampire Queen Bee
 
+![jooubachi-vampire-queen-bee](https://cdn.myanimelist.net/images/manga/2/199622.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

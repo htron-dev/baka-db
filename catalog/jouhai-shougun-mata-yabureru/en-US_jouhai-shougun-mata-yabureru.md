@@ -1,5 +1,7 @@
 # Jouhai Shougun, Mata Yabureru
 
+![jouhai-shougun-mata-yabureru](https://cdn.myanimelist.net/images/manga/2/234847.jpg)
+
 -   **type**: manga
 -   **original-name**: 常敗将軍、また敗れる
 -   **start-date**: 2018-10-26

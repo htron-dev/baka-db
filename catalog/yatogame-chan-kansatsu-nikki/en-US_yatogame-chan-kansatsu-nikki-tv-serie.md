@@ -1,5 +1,7 @@
 # Yatogame-chan Kansatsu Nikki
 
+![yatogame-chan-kansatsu-nikki](https://cdn.myanimelist.net/images/anime/1594/108633.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 八十亀ちゃんかんさつにっき

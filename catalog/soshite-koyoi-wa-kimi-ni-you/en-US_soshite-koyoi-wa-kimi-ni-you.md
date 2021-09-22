@@ -1,5 +1,7 @@
 # Soshite Koyoi wa Kimi ni You
 
+![soshite-koyoi-wa-kimi-ni-you](https://cdn.myanimelist.net/images/manga/1/109253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

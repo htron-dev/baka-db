@@ -1,5 +1,7 @@
 # Kingdom Hearts III
 
+![kingdom-hearts-iii](https://cdn.myanimelist.net/images/manga/3/222147.jpg)
+
 -   **type**: light-novel
 -   **original-name**: キングダム ハーツ III
 -   **start-date**: 2019-03-28

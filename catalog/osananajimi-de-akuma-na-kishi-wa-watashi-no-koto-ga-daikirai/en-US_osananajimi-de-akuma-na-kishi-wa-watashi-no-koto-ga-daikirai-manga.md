@@ -1,5 +1,7 @@
 # Osananajimi de Akuma na Kishi wa, Watashi no Koto ga Daikirai
 
+![osananajimi-de-akuma-na-kishi-wa-watashi-no-koto-ga-daikirai](https://cdn.myanimelist.net/images/manga/2/241791.jpg)
+
 -   **type**: manga
 -   **original-name**: 幼馴染みで悪魔な騎士は、私のことが大嫌い
 -   **start-date**: 2020-03-05

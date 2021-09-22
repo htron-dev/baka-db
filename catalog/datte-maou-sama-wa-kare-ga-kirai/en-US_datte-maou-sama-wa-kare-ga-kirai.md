@@ -1,5 +1,7 @@
 # Datte Maou-sama wa Kare ga Kirai
 
+![datte-maou-sama-wa-kare-ga-kirai](https://cdn.myanimelist.net/images/manga/3/133045.jpg)
+
 -   **type**: manga
 -   **original-name**: だってまおうさまは彼が嫌い
 -   **start-date**: 2012-06-30

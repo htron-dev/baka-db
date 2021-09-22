@@ -1,5 +1,7 @@
 # Ao no Maharaja
 
+![ao-no-maharaja](https://cdn.myanimelist.net/images/manga/1/241250.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 蒼のマハラジャ

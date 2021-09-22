@@ -1,5 +1,7 @@
 # Usagi no Tsuno
 
+![usagi-no-tsuno](https://cdn.myanimelist.net/images/manga/1/134513.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

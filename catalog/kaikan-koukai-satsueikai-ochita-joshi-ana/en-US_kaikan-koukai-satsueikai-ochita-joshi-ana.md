@@ -1,5 +1,7 @@
 # Kaikan Koukai Satsueikai: Ochita Joshi Ana
 
+![kaikan-koukai-satsueikai-ochita-joshi-ana](https://cdn.myanimelist.net/images/manga/3/193658.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

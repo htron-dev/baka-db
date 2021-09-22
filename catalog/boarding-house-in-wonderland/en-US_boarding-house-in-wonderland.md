@@ -1,5 +1,7 @@
 # Boarding House in Wonderland
 
+![boarding-house-in-wonderland](https://cdn.myanimelist.net/images/manga/3/161693.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 이상한 나라의 하숙집

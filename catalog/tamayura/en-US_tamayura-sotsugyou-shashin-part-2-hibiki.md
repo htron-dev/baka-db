@@ -1,5 +1,7 @@
 # Tamayura: Sotsugyou Shashin Part 2 - Hibiki
 
+![tamayura-sotsugyou-shashin-part-2-hibiki](https://cdn.myanimelist.net/images/anime/12/76028.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たまゆら～卒業写真～ 第 2 部 響-ひびき-

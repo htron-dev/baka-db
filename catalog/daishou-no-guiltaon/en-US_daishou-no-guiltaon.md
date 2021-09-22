@@ -1,5 +1,7 @@
 # Daishou no Guiltaon
 
+![daishou-no-guiltaon](https://cdn.myanimelist.net/images/manga/1/161663.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 34

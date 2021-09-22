@@ -1,5 +1,7 @@
 # Kyouran Kazoku Nikki
 
+![kyouran-kazoku-nikki](https://cdn.myanimelist.net/images/manga/1/125383.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

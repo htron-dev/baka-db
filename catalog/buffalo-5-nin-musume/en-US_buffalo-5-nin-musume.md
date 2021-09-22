@@ -1,5 +1,7 @@
 # Buffalo 5-nin Musume
 
+![buffalo-5-nin-musume](https://cdn.myanimelist.net/images/manga/2/107201.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

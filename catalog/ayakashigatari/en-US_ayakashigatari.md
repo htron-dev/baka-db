@@ -1,5 +1,7 @@
 # Ayakashigatari
 
+![ayakashigatari](https://cdn.myanimelist.net/images/manga/1/171721.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 35

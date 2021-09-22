@@ -1,5 +1,7 @@
 # Yuuyami no Ouritsu Toshokan: Gouin Ouji no Kyuuai Koudou
 
+![yuuyami-no-ouritsu-toshokan-gouin-ouji-no-kyuuai-koudou](https://cdn.myanimelist.net/images/manga/2/195765.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 夕闇の王立図書館～強引王子の求愛行動～

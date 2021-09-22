@@ -1,5 +1,7 @@
 # Paros no Ken
 
+![paros-no-ken](https://cdn.myanimelist.net/images/manga/2/33108.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

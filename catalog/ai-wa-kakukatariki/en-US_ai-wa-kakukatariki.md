@@ -1,5 +1,7 @@
 # Ai wa Kakukatariki
 
+![ai-wa-kakukatariki](https://cdn.myanimelist.net/images/manga/2/181341.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 愛はかく語りき

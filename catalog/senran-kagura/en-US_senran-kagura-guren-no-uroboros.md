@@ -1,5 +1,7 @@
 # Senran Kagura: Guren no Uroboros
 
+![senran-kagura-guren-no-uroboros](https://cdn.myanimelist.net/images/manga/1/75647.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

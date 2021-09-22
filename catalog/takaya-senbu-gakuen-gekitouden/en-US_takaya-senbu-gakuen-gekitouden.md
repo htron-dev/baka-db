@@ -1,5 +1,7 @@
 # Takaya: Senbu Gakuen Gekitouden
 
+![takaya-senbu-gakuen-gekitouden](https://cdn.myanimelist.net/images/manga/2/115275.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

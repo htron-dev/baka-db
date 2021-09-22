@@ -1,5 +1,7 @@
 # Akuma demo I Love You
 
+![akuma-demo-i-love-you](https://cdn.myanimelist.net/images/manga/2/9237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

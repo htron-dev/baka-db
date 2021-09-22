@@ -1,5 +1,7 @@
 # Newton no Tsubomi
 
+![newton-no-tsubomi](https://cdn.myanimelist.net/images/manga/2/241543.jpg)
+
 -   **type**: manga
 -   **chapters**: 30
 -   **original-name**: ニュートンの蕾

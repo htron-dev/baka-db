@@ -1,5 +1,7 @@
 # Changjiang Qi Hao Ai Diqiu
 
+![changjiang-qi-hao-ai-diqiu](https://cdn.myanimelist.net/images/anime/2/26460.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 长江 7 号爱地球

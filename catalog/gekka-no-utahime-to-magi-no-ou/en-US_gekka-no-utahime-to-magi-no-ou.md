@@ -1,5 +1,7 @@
 # Gekka no Utahime to Magi no Ou
 
+![gekka-no-utahime-to-magi-no-ou](https://cdn.myanimelist.net/images/manga/1/158756.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Angel Cup
 
+![angel-cup](https://cdn.myanimelist.net/images/manga/2/5434.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Kuroha to Nijisuke: Kuroki Majo no Divertimento
 
+![kuroha-to-nijisuke-kuroki-majo-no-divertimento](https://cdn.myanimelist.net/images/manga/1/224376.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

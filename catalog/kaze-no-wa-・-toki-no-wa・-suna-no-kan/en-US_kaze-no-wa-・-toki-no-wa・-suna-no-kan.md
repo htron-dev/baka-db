@@ -1,5 +1,7 @@
 # Kaze no Wa ・Toki no Wa・ Suna no Kan
 
+![kaze-no-wa-・-toki-no-wa・-suna-no-kan](https://cdn.myanimelist.net/images/manga/1/39396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 風の輪・時の和・砂の環

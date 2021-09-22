@@ -1,5 +1,7 @@
 # Ganbare! Goshujinsama
 
+![ganbare-goshujinsama](https://cdn.myanimelist.net/images/manga/3/28433.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: がんばれ！ご主人様

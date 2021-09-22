@@ -1,5 +1,7 @@
 # Tayo-ui Gonglyong Adventure
 
+![tayo-ui-gonglyong-adventure](https://cdn.myanimelist.net/images/anime/1895/103411.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 타요의 공룡 어드벤처

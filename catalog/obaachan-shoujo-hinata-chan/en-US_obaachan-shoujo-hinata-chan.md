@@ -1,5 +1,7 @@
 # Obaachan Shoujo Hinata-chan
 
+![obaachan-shoujo-hinata-chan](https://cdn.myanimelist.net/images/manga/2/162654.jpg)
+
 -   **type**: manga
 -   **original-name**: 老女的少女ひなたちゃん
 -   **start-date**: 2014-10-25

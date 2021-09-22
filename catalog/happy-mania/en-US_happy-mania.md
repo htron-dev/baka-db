@@ -1,5 +1,7 @@
 # Happy Mania
 
+![happy-mania](https://cdn.myanimelist.net/images/manga/4/1003.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 62

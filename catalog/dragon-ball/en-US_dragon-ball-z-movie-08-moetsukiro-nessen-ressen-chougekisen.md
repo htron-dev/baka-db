@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen
 
+![dragon-ball-z-movie-08-moetsukiro-nessen-ressen-chougekisen](https://cdn.myanimelist.net/images/anime/1180/93671.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 燃えつきろ!!熱戦・烈戦・超激戦

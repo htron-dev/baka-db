@@ -1,5 +1,7 @@
 # Kutsujoku no Chouai: Koutei ni Ubawareta Oujo no Junketsu
 
+![kutsujoku-no-chouai-koutei-ni-ubawareta-oujo-no-junketsu](https://cdn.myanimelist.net/images/manga/2/181502.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

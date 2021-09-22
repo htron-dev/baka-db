@@ -1,5 +1,7 @@
 # Senten no Sephirot City
 
+![senten-no-sephirot-city](https://cdn.myanimelist.net/images/manga/1/180898.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 穿天のセフィロト・シティ

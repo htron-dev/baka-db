@@ -1,5 +1,7 @@
 # Meisaku 4-koma Hakurankai
 
+![meisaku-4-koma-hakurankai](https://cdn.myanimelist.net/images/manga/3/152359.jpg)
+
 -   **type**: manga
 -   **chapters**: 32
 -   **original-name**: 名作 4 コマ博覧会

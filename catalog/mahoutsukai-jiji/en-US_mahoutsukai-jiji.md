@@ -1,5 +1,7 @@
 # Mahoutsukai Jiji
 
+![mahoutsukai-jiji](https://cdn.myanimelist.net/images/anime/9/35793.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: まほうつかいじじぃ

@@ -1,5 +1,7 @@
 # Fusuma Land 4.5
 
+![fusuma-land-4-5](https://cdn.myanimelist.net/images/manga/2/24987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

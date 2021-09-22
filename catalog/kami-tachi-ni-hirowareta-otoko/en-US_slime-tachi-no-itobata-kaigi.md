@@ -1,5 +1,7 @@
 # Slime-tachi no Itobata Kaigi
 
+![slime-tachi-no-itobata-kaigi](https://cdn.myanimelist.net/images/anime/1860/113887.jpg)
+
 -   **type**: ona
 -   **episodes**: 25
 -   **original-name**: スライムたちの井戸端会議

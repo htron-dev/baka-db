@@ -1,5 +1,7 @@
 # McDull: Boluo You Wang Zi
 
+![mc-dull-boluo-you-wang-zi](https://cdn.myanimelist.net/images/anime/1200/112734.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 麥兜菠蘿油王子

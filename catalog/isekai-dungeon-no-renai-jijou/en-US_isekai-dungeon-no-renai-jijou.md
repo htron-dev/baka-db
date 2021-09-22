@@ -1,5 +1,7 @@
 # Isekai Dungeon no Renai Jijou
 
+![isekai-dungeon-no-renai-jijou](https://cdn.myanimelist.net/images/manga/2/236436.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33

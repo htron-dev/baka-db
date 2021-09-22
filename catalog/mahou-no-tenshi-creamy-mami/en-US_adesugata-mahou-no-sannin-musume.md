@@ -1,5 +1,7 @@
 # Adesugata Mahou no Sannin Musume
 
+![adesugata-mahou-no-sannin-musume](https://cdn.myanimelist.net/images/anime/1477/104687.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 艶姿魔法の三人娘 [マミ·ペルシャ·エミ]

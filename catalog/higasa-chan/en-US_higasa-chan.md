@@ -1,5 +1,7 @@
 # Higasa-chan
 
+![higasa-chan](https://cdn.myanimelist.net/images/manga/2/224393.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

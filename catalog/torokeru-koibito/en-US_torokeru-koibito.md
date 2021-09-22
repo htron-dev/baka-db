@@ -1,5 +1,7 @@
 # Torokeru Koibito
 
+![torokeru-koibito](https://cdn.myanimelist.net/images/manga/2/229301.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

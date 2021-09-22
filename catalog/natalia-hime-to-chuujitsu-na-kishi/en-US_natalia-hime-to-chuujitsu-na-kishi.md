@@ -1,5 +1,7 @@
 # Natalia-hime to Chuujitsu na Kishi
 
+![natalia-hime-to-chuujitsu-na-kishi](https://cdn.myanimelist.net/images/manga/3/247248.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ナタリア姫と忠実な騎士

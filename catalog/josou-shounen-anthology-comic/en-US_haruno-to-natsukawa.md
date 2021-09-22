@@ -1,5 +1,7 @@
 # Haruno to Natsukawa.
 
+![haruno-to-natsukawa](https://cdn.myanimelist.net/images/manga/1/87743.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

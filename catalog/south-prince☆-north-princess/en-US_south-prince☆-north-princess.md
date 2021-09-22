@@ -1,5 +1,7 @@
 # South Prince☆North Princess
 
+![south-prince☆-north-princess](https://cdn.myanimelist.net/images/manga/1/62289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

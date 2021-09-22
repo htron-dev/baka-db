@@ -1,5 +1,7 @@
 # Hataraku Saibou Baby
 
+![hataraku-saibou-baby](https://cdn.myanimelist.net/images/manga/3/225974.jpg)
+
 -   **type**: manga
 -   **original-name**: はたらく細胞 BABY
 -   **start-date**: 2019-10-17

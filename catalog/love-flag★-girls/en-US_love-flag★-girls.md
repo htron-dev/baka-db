@@ -1,5 +1,7 @@
 # Love Flag★Girls!!
 
+![love-flag★-girls](https://cdn.myanimelist.net/images/manga/2/33520.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

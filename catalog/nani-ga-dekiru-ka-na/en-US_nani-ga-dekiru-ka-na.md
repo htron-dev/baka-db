@@ -1,5 +1,7 @@
 # Nani ga Dekiru ka na
 
+![nani-ga-dekiru-ka-na](https://cdn.myanimelist.net/images/anime/12/72931.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: なにができるかな

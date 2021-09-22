@@ -1,5 +1,7 @@
 # Aoi Gakuen Orgel
 
+![aoi-gakuen-orgel](https://cdn.myanimelist.net/images/manga/2/14972.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 葵学園オルゴール

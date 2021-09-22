@@ -1,5 +1,7 @@
 # Hatsukoi wa Gunjou ni Tokeru
 
+![hatsukoi-wa-gunjou-ni-tokeru](https://cdn.myanimelist.net/images/manga/2/165505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

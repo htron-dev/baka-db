@@ -1,5 +1,7 @@
 # Be Takuto!!: Yaban nare
 
+![be-takuto-yaban-nare](https://cdn.myanimelist.net/images/manga/4/207668.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

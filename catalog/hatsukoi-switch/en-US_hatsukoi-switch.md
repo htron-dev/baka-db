@@ -1,5 +1,7 @@
 # Hatsukoi Switch
 
+![hatsukoi-switch](https://cdn.myanimelist.net/images/manga/1/42676.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

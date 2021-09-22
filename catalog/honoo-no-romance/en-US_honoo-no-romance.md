@@ -1,5 +1,7 @@
 # Honoo no Romance
 
+![honoo-no-romance](https://cdn.myanimelist.net/images/manga/3/20045.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 炎のロマンス

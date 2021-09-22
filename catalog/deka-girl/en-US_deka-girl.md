@@ -1,5 +1,7 @@
 # Deka Girl
 
+![deka-girl](https://cdn.myanimelist.net/images/manga/1/174303.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

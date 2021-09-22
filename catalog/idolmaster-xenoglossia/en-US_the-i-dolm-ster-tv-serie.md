@@ -1,5 +1,7 @@
 # The iDOLM@STER
 
+![the-i-dolm-ster](https://cdn.myanimelist.net/images/anime/9/41085.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: アイドルマスター

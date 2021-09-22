@@ -1,5 +1,7 @@
 # Hikitate Yaku no Koi
 
+![hikitate-yaku-no-koi](https://cdn.myanimelist.net/images/manga/3/15016.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

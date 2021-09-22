@@ -1,5 +1,7 @@
 # Yasha Gozen
 
+![yasha-gozen](https://cdn.myanimelist.net/images/manga/3/18100.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 夜叉御前

@@ -1,5 +1,7 @@
 # Yamaoka-kun no Himitsu no Koibana
 
+![yamaoka-kun-no-himitsu-no-koibana](https://cdn.myanimelist.net/images/manga/3/159315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru Recap
 
+![shinchou-yuusha-kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-recap](https://cdn.myanimelist.net/images/anime/1384/111966.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 慎重勇者~この勇者が俺 TUEEE くせに慎重すぎる~ 総集編

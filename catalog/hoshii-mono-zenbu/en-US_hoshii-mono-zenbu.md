@@ -1,5 +1,7 @@
 # Hoshii Mono Zenbu
 
+![hoshii-mono-zenbu](https://cdn.myanimelist.net/images/manga/3/57721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

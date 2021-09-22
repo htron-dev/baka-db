@@ -1,5 +1,7 @@
 # Ippatsu Kanta-kun
 
+![ippatsu-kanta-kun](https://cdn.myanimelist.net/images/anime/9/60909.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: 一発貫太くん
@@ -12,7 +14,6 @@
 ## Tags
 
 -   action
-
 -   adventure
 -   sports
 -   comedy

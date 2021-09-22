@@ -1,5 +1,7 @@
 # Zettai Karen Children
 
+![zettai-karen-children](https://cdn.myanimelist.net/images/manga/1/231867.jpg)
+
 -   **type**: manga
 -   **original-name**: 絶対可憐チルドレン
 -   **start-date**: 2005-08-25

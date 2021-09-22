@@ -1,5 +1,7 @@
 # Detective Conan OVA 12: The Miracle of Excalibur
 
+![detective-conan-ova-12-the-miracle-of-excalibur](https://cdn.myanimelist.net/images/anime/5/59513.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン　えくすかりばあの奇跡

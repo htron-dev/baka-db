@@ -1,5 +1,7 @@
 # Skin
 
+![skin](https://cdn.myanimelist.net/images/manga/2/181587.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: SKIN

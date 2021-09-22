@@ -1,5 +1,7 @@
 # Hitokui Dungeon e Youkoso!
 
+![hitokui-dungeon-e-youkoso](https://cdn.myanimelist.net/images/manga/1/213273.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 40

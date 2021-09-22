@@ -1,5 +1,7 @@
 # 15-byou dake: I Know I'm falling
 
+![15-byou-dake-i-know-im-falling](https://cdn.myanimelist.net/images/manga/2/135485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

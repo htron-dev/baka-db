@@ -1,5 +1,7 @@
 # Taiyou ga Miteiru (kamo Shirenai kara)
 
+![taiyou-ga-miteiru-kamo-shirenai-kara](https://cdn.myanimelist.net/images/manga/2/187402.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 太陽が見ている（かもしれないから）

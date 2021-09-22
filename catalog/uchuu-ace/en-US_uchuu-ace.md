@@ -1,5 +1,7 @@
 # Uchuu Ace
 
+![uchuu-ace](https://cdn.myanimelist.net/images/anime/2/83908.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 宇宙エース
@@ -24,4 +26,4 @@ Dr. Tatsunoko of Tatsunoko Research Center goes undersea accompanied by his daug
 -   [Official Site](http://www.tatsunoko.co.jp/works/space_ace/space_ace.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3101)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1505)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Space_Ace_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Space_Ace_%28anime%29)

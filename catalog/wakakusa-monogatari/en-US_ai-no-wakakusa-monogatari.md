@@ -1,5 +1,7 @@
 # Ai no Wakakusa Monogatari
 
+![ai-no-wakakusa-monogatari](https://cdn.myanimelist.net/images/anime/2/3210.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 愛の若草物語

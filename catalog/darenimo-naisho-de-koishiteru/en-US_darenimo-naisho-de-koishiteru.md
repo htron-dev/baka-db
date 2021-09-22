@@ -1,5 +1,7 @@
 # Darenimo, Naisho de, Koishiteru.
 
+![darenimo-naisho-de-koishiteru](https://cdn.myanimelist.net/images/manga/2/192882.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

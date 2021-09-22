@@ -1,5 +1,7 @@
 # Oshiete Katekyo♥
 
+![oshiete-katekyo♥](https://cdn.myanimelist.net/images/manga/2/192629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

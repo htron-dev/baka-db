@@ -1,5 +1,7 @@
 # Isekai C-Mart Hanjouki
 
+![isekai-c-mart-hanjouki](https://cdn.myanimelist.net/images/manga/2/169596.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界 C マート繁盛記
 -   **start-date**: 2015-12-22

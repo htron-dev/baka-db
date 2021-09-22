@@ -1,5 +1,7 @@
 # Bokura no Platonic Love
 
+![bokura-no-platonic-love](https://cdn.myanimelist.net/images/manga/3/98219.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

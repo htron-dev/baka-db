@@ -1,5 +1,7 @@
 # Psychic Force Comic Anthology
 
+![psychic-force-comic-anthology](https://cdn.myanimelist.net/images/manga/1/43887.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: サイキックフォースコミックアンソロジー

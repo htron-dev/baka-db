@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!
 
+![crayon-shin-chan-movie-15-arashi-wo-yobu-utau-ketsu-dake-bakudan](https://cdn.myanimelist.net/images/anime/1/2332.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん 嵐を呼ぶ歌うケツだけ爆弾

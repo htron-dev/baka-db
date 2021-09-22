@@ -1,5 +1,7 @@
 # Hoshi no Witch
 
+![hoshi-no-witch](https://cdn.myanimelist.net/images/manga/2/132269.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

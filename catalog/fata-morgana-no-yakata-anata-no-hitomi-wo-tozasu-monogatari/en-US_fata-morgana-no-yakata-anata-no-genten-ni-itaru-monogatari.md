@@ -1,5 +1,7 @@
 # Fata Morgana no Yakata: Anata no Genten ni Itaru Monogatari
 
+![fata-morgana-no-yakata-anata-no-genten-ni-itaru-monogatari](https://cdn.myanimelist.net/images/manga/2/193634.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 21

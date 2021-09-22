@@ -1,5 +1,7 @@
 # Kaijuu Step Wandabada
 
+![kaijuu-step-wandabada](https://cdn.myanimelist.net/images/anime/1132/102644.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: かいじゅうステップ ワンダバダ

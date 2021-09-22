@@ -1,5 +1,7 @@
 # Orc Henshuu to Onna Kishi Mangaka-san
 
+![orc-henshuu-to-onna-kishi-mangaka-san](https://cdn.myanimelist.net/images/manga/2/220674.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

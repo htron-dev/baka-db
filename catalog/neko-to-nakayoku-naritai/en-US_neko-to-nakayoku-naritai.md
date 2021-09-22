@@ -1,5 +1,7 @@
 # Neko to Nakayoku Naritai
 
+![neko-to-nakayoku-naritai](https://cdn.myanimelist.net/images/manga/2/206056.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Ouke no Monshou
 
+![ouke-no-monshou](https://cdn.myanimelist.net/images/manga/3/195439.jpg)
+
 -   **type**: manga
 -   **original-name**: 王家の紋章
 -   **start-date**: 1976-07-19

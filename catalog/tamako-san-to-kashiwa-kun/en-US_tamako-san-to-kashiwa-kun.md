@@ -1,5 +1,7 @@
 # Tamako-san to Kashiwa-kun
 
+![tamako-san-to-kashiwa-kun](https://cdn.myanimelist.net/images/manga/3/164648.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

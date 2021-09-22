@@ -1,5 +1,7 @@
 # Dumbbell Nan Kilo Moteru?: Silverman-Gym Oni Tore Kouza
 
+![dumbbell-nan-kilo-moteru-silverman-gym-oni-tore-kouza](https://cdn.myanimelist.net/images/anime/1848/115946.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: シルバーマンジム鬼トレ講座

@@ -1,5 +1,7 @@
 # Mary Bell no Koutsuu Anzen
 
+![mary-bell-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1448/98676.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マリーベルの交通安全

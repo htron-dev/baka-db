@@ -1,5 +1,7 @@
 # Huang Feihong Yong Chuang Tianxia
 
+![huang-feihong-yong-chuang-tianxia](https://cdn.myanimelist.net/images/anime/6/72441.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 黃飛鴻勇闖天下

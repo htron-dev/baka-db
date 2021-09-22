@@ -1,5 +1,7 @@
 # Angelic Syndrome
 
+![angelic-syndrome](https://cdn.myanimelist.net/images/manga/2/236354.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

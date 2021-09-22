@@ -1,5 +1,7 @@
 # Cosplay★Animal
 
+![cosplay★-animal](https://cdn.myanimelist.net/images/manga/3/119499.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 59

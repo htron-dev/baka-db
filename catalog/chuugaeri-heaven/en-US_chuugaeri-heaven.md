@@ -1,5 +1,7 @@
 # Chuugaeri Heaven
 
+![chuugaeri-heaven](https://cdn.myanimelist.net/images/manga/1/41610.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

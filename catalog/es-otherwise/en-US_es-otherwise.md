@@ -1,5 +1,7 @@
 # E's Otherwise
 
+![es-otherwise](https://cdn.myanimelist.net/images/anime/2/6260.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: エスアザーワイズ

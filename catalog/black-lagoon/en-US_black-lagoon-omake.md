@@ -1,5 +1,7 @@
 # Black Lagoon Omake
 
+![black-lagoon-omake](https://cdn.myanimelist.net/images/anime/13/22266.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ブラック・ラグーン オマケ

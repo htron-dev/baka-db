@@ -1,5 +1,7 @@
 # Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru
 
+![akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru](https://cdn.myanimelist.net/images/manga/1/221282.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢は隣国の王太子に溺愛される
 -   **start-date**: 2017-12-05

@@ -1,5 +1,7 @@
 # Otoko no Ko wa Maid Fuku ga Osuki!?
 
+![otoko-no-ko-wa-maid-fuku-ga-osuki](https://cdn.myanimelist.net/images/manga/1/39395.jpg)
+
 -   **type**: light-novel
 -   **original-name**: オトコのコはメイド服がお好き！？
 -   **start-date**: 2008-05-12

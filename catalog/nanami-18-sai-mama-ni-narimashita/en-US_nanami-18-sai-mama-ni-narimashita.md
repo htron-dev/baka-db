@@ -1,5 +1,7 @@
 # Nanami 18-sai Mama ni Narimashita
 
+![nanami-18-sai-mama-ni-narimashita](https://cdn.myanimelist.net/images/manga/3/89713.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

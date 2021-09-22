@@ -1,5 +1,7 @@
 # Minmin Mint
 
+![minmin-mint](https://cdn.myanimelist.net/images/manga/2/149208.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Raid on Tokyo
 
+![raid-on-tokyo](https://cdn.myanimelist.net/images/manga/2/132421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: レイド・オン・トーキョー

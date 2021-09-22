@@ -1,5 +1,7 @@
 # Senki Zesshou Symphogear GX
 
+![senki-zesshou-symphogear-gx](https://cdn.myanimelist.net/images/anime/9/86681.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 戦姫絶唱シンフォギア GX

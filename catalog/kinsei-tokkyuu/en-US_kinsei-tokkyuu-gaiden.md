@@ -1,5 +1,7 @@
 # Kinsei Tokkyuu Gaiden
 
+![kinsei-tokkyuu-gaiden](https://cdn.myanimelist.net/images/manga/2/240233.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

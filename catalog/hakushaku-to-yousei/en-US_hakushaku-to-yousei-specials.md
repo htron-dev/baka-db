@@ -1,5 +1,7 @@
 # Hakushaku to Yousei Specials
 
+![hakushaku-to-yousei-specials](https://cdn.myanimelist.net/images/anime/3/59963.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 伯爵と妖精

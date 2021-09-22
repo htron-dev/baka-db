@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo](https://cdn.myanimelist.net/images/manga/1/183577.jpg)
+
 -   **type**: manga
 -   **volumes**: 200
 -   **chapters**: 1957

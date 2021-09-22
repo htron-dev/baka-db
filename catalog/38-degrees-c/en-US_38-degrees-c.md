@@ -1,5 +1,7 @@
 # 38 Degrees C
 
+![38-degrees-c](https://cdn.myanimelist.net/images/manga/3/3313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

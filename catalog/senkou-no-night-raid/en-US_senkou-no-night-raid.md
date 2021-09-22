@@ -1,5 +1,7 @@
 # Senkou no Night Raid
 
+![senkou-no-night-raid](https://cdn.myanimelist.net/images/anime/7/24229.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 閃光のナイトレイド

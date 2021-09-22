@@ -1,5 +1,7 @@
 # Detective Conan OVA 09: The Stranger in 10 Years...
 
+![detective-conan-ova-09-the-stranger-in-10-years](https://cdn.myanimelist.net/images/anime/5/14746.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン～ 10 年後の異邦人[ストレンジャー]～

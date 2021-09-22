@@ -1,5 +1,7 @@
 # nacuN
 
+![nacu-n](https://cdn.myanimelist.net/images/manga/3/161084.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 44

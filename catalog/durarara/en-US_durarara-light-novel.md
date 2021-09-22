@@ -1,5 +1,7 @@
 # Durarara!!
 
+![durarara](https://cdn.myanimelist.net/images/manga/2/28766.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 89

@@ -1,5 +1,7 @@
 # Agatha Christie no Meitantei Poirot to Marple
 
+![agatha-christie-no-meitantei-poirot-to-marple](https://cdn.myanimelist.net/images/anime/6/3149.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: アガサ・クリスティーの名探偵ポワロとマープル

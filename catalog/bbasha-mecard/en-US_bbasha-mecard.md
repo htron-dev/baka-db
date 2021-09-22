@@ -1,5 +1,7 @@
 # Bbasha Mecard
 
+![bbasha-mecard](https://cdn.myanimelist.net/images/anime/1509/114450.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 빠샤메카드
@@ -10,7 +12,6 @@
 ## Tags
 
 -   game
-
 -   mecha
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Taiho Shichau zo in America
 
+![taiho-shichau-zo-in-america](https://cdn.myanimelist.net/images/anime/11/75565.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 逮捕しちゃうぞ イン アメリカ

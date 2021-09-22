@@ -1,5 +1,7 @@
 # Tsumetai Kemono ni Kawarete
 
+![tsumetai-kemono-ni-kawarete](https://cdn.myanimelist.net/images/manga/1/3416.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sarasupa!
 
+![sarasupa](https://cdn.myanimelist.net/images/manga/2/28811.jpg)
+
 -   **type**: manga
 -   **original-name**: サラすぱ!
 -   **start-date**: 2009-07-20

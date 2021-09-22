@@ -1,5 +1,7 @@
 # Pochi Gunsou.
 
+![pochi-gunsou](https://cdn.myanimelist.net/images/manga/2/225448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

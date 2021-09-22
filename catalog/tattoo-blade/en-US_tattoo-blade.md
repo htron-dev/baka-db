@@ -1,5 +1,7 @@
 # Tattoo Blade
 
+![tattoo-blade](https://cdn.myanimelist.net/images/manga/3/184656.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: TATTOO BLADE

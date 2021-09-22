@@ -1,5 +1,7 @@
 # Kageyukouji-kun No Jijou
 
+![kageyukouji-kun-no-jijou](https://cdn.myanimelist.net/images/manga/2/20589.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

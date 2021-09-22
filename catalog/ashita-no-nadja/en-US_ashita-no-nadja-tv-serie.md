@@ -1,5 +1,7 @@
 # Ashita no Nadja
 
+![ashita-no-nadja](https://cdn.myanimelist.net/images/anime/7/75381.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 明日のナージャ

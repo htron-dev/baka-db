@@ -1,5 +1,7 @@
 # Kanojo to Himitsu to Koi Moyou
 
+![kanojo-to-himitsu-to-koi-moyou](https://cdn.myanimelist.net/images/manga/3/240539.jpg)
+
 -   **type**: manga
 -   **original-name**: カノジョと秘密と恋もよう
 -   **start-date**: 2019-11-22

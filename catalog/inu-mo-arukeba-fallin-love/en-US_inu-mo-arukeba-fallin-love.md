@@ -1,5 +1,7 @@
 # Inu mo Arukeba Fallin' Love
 
+![inu-mo-arukeba-fallin-love](https://cdn.myanimelist.net/images/manga/2/26773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Magma Taishi
 
+![magma-taishi](https://cdn.myanimelist.net/images/anime/13/21135.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: マグマ大使

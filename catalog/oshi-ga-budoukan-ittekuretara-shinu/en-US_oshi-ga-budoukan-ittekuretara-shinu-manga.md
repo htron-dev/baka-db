@@ -1,5 +1,7 @@
 # Oshi ga Budoukan Ittekuretara Shinu
 
+![oshi-ga-budoukan-ittekuretara-shinu](https://cdn.myanimelist.net/images/manga/3/172133.jpg)
+
 -   **type**: manga
 -   **original-name**: 推しが武道館いってくれたら死ぬ
 -   **start-date**: 2015-06-19

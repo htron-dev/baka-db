@@ -1,5 +1,7 @@
 # Minna no Himitsu
 
+![minna-no-himitsu](https://cdn.myanimelist.net/images/manga/1/117987.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: みんなのヒ・ミ・ツ

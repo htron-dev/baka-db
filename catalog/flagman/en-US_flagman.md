@@ -1,5 +1,7 @@
 # Flagman
 
+![flagman](https://cdn.myanimelist.net/images/manga/2/159863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

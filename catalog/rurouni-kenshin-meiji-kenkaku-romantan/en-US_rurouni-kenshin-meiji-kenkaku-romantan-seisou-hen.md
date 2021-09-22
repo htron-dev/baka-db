@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
 
+![rurouni-kenshin-meiji-kenkaku-romantan-seisou-hen](https://cdn.myanimelist.net/images/anime/1971/90877.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: るろうに剣心 -明治剣客浪漫譚- 星霜編

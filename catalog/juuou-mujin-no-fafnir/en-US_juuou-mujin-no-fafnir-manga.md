@@ -1,5 +1,7 @@
 # Juuou Mujin no Fafnir
 
+![juuou-mujin-no-fafnir](https://cdn.myanimelist.net/images/manga/3/139885.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

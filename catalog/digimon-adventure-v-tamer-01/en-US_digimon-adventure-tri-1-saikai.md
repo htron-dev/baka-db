@@ -1,5 +1,7 @@
 # Digimon Adventure tri. 1: Saikai
 
+![digimon-adventure-tri-1-saikai](https://cdn.myanimelist.net/images/anime/9/75493.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー tri.（トライ）第１章「再会」

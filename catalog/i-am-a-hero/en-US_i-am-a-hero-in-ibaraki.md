@@ -1,5 +1,7 @@
 # I Am a Hero in Ibaraki
 
+![i-am-a-hero-in-ibaraki](https://cdn.myanimelist.net/images/manga/1/193594.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

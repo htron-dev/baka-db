@@ -1,5 +1,7 @@
 # More than Words
 
+![more-than-words](https://cdn.myanimelist.net/images/manga/3/203805.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

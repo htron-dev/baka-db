@@ -1,5 +1,7 @@
 # Anata to Ecchi
 
+![anata-to-ecchi](https://cdn.myanimelist.net/images/manga/3/32354.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あなたとエッチ

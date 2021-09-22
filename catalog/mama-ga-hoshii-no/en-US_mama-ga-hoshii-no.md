@@ -1,5 +1,7 @@
 # Mama ga Hoshii no
 
+![mama-ga-hoshii-no](https://cdn.myanimelist.net/images/manga/1/247164.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ママがほしいの

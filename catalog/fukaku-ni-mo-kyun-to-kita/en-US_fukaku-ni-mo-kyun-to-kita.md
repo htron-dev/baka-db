@@ -1,5 +1,7 @@
 # Fukaku ni mo Kyun to Kita
 
+![fukaku-ni-mo-kyun-to-kita](https://cdn.myanimelist.net/images/manga/1/211058.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

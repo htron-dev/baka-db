@@ -1,5 +1,7 @@
 # Boku ga Watashi ni Naru Tame ni
 
+![boku-ga-watashi-ni-naru-tame-ni](https://cdn.myanimelist.net/images/manga/1/180699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

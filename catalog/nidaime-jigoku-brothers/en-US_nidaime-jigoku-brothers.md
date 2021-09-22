@@ -1,5 +1,7 @@
 # Nidaime!: Jigoku Brothers
 
+![nidaime-jigoku-brothers](https://cdn.myanimelist.net/images/manga/1/248028.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

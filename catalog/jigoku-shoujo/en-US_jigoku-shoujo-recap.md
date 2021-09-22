@@ -1,5 +1,7 @@
 # Jigoku Shoujo Recap
 
+![jigoku-shoujo-recap](https://cdn.myanimelist.net/images/anime/1930/105760.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 地獄少女 14.5

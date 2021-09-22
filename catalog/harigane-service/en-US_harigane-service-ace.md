@@ -1,5 +1,7 @@
 # Harigane Service Ace
 
+![harigane-service-ace](https://cdn.myanimelist.net/images/manga/2/234218.jpg)
+
 -   **type**: manga
 -   **original-name**: ハリガネサービス ACE
 -   **start-date**: 2018-11-08

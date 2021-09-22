@@ -1,5 +1,7 @@
 # Kamen no Hanayome
 
+![kamen-no-hanayome](https://cdn.myanimelist.net/images/manga/2/30099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 仮面の花嫁

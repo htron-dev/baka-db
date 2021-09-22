@@ -1,5 +1,7 @@
 # Sensei to Boku: Natsume Souseki wo Kakomu Hitobito
 
+![sensei-to-boku-natsume-souseki-wo-kakomu-hitobito](https://cdn.myanimelist.net/images/manga/3/192287.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

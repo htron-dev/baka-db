@@ -1,5 +1,7 @@
 # Hayaku Shitai Futari
 
+![hayaku-shitai-futari](https://cdn.myanimelist.net/images/manga/1/235171.jpg)
+
 -   **type**: manga
 -   **original-name**: はやくしたいふたり
 -   **start-date**: 2020-05-20

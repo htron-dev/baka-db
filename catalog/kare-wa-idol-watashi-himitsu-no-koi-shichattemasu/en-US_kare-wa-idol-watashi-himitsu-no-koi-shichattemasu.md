@@ -1,5 +1,7 @@
 # Kare wa Idol: Watashi "Himitsu no Koi" Shichattemasu
 
+![kare-wa-idol-watashi-himitsu-no-koi-shichattemasu](https://cdn.myanimelist.net/images/manga/1/197491.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 彼はアイドル　わたし「秘密の恋」しちゃってます

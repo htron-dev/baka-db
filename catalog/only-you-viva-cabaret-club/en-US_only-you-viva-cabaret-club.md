@@ -1,5 +1,7 @@
 # Only You: Viva! Cabaret Club
 
+![only-you-viva-cabaret-club](https://cdn.myanimelist.net/images/anime/6/53529.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: Only You ビバ! キャバクラ

@@ -1,5 +1,7 @@
 # Micro Teukgongdae Diatron 5
 
+![micro-teukgongdae-diatron-5](https://cdn.myanimelist.net/images/anime/11/31731.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 마이크로 특공대 다이야트론 5

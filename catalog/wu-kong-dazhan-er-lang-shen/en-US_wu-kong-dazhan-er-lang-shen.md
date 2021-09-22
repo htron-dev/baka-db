@@ -1,5 +1,7 @@
 # Wu Kong Dazhan Er Lang Shen
 
+![wu-kong-dazhan-er-lang-shen](https://cdn.myanimelist.net/images/anime/7/82403.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 孙悟空大战二郎神

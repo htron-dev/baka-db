@@ -1,5 +1,7 @@
 # Hoshikuzu Paradise
 
+![hoshikuzu-paradise](https://cdn.myanimelist.net/images/anime/6/34833.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 星屑パラダイス

@@ -1,5 +1,7 @@
 # Soredemo Yappari Koi wo Suru.
 
+![soredemo-yappari-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/153920.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

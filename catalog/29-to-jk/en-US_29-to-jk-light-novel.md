@@ -1,5 +1,7 @@
 # 29 to JK
 
+![29-to-jk](https://cdn.myanimelist.net/images/manga/2/178489.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 29 と JK
 -   **start-date**: 2016-06-15

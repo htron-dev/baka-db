@@ -1,5 +1,7 @@
 # Ryuuguuden
 
+![ryuuguuden](https://cdn.myanimelist.net/images/manga/5/13658.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

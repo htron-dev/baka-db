@@ -1,5 +1,7 @@
 # Ro-Kyu-Bu! SS Recap
 
+![ro-kyu-bu-ss-recap](https://cdn.myanimelist.net/images/anime/7/53689.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 「ロウきゅーぶ！SS」番外編

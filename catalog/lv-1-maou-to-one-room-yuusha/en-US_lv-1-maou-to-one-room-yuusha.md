@@ -1,5 +1,7 @@
 # Lv1 Maou to One Room Yuusha
 
+![lv-1-maou-to-one-room-yuusha](https://cdn.myanimelist.net/images/manga/2/245458.jpg)
+
 -   **type**: manga
 -   **original-name**: Lv1 魔王とワンルーム勇者
 -   **start-date**: 2019-03-01

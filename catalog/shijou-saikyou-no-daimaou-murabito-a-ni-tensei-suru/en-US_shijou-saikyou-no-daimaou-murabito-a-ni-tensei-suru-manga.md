@@ -1,5 +1,7 @@
 # Shijou Saikyou no Daimaou, Murabito A ni Tensei suru
 
+![shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru](https://cdn.myanimelist.net/images/manga/2/235283.jpg)
+
 -   **type**: manga
 -   **original-name**: 史上最強の大魔王、村人 A に転生する
 -   **start-date**: 2019-02-25

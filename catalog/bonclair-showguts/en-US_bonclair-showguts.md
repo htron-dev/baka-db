@@ -1,5 +1,7 @@
 # Bonclair Showguts
 
+![bonclair-showguts](https://cdn.myanimelist.net/images/manga/1/34271.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ボンクレー ☆ ショーガッツ

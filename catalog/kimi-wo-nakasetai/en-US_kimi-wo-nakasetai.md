@@ -1,5 +1,7 @@
 # Kimi wo Nakasetai
 
+![kimi-wo-nakasetai](https://cdn.myanimelist.net/images/manga/4/161505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

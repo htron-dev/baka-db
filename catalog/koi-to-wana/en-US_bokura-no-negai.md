@@ -1,5 +1,7 @@
 # Bokura no Negai
 
+![bokura-no-negai](https://cdn.myanimelist.net/images/manga/2/190413.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Kita e.: Diamond Dust Drops Special
 
+![kita-e-diamond-dust-drops-special](https://cdn.myanimelist.net/images/anime/9/18144.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 北へ。 ～ Diamond Dust Drops ～ Special

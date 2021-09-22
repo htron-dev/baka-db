@@ -1,5 +1,7 @@
 # The Sock Monster Season 2
 
+![the-sock-monster-season-2](https://cdn.myanimelist.net/images/manga/3/196393.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 31

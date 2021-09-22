@@ -1,5 +1,7 @@
 # Alan-kun no Koutsuu Rule wo Mamorou ne!
 
+![alan-kun-no-koutsuu-rule-wo-mamorou-ne](https://cdn.myanimelist.net/images/anime/13/84759.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アランくんの こうつうルールをまもろうね！

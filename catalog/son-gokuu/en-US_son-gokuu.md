@@ -1,5 +1,7 @@
 # Son Gokuu
 
+![son-gokuu](https://cdn.myanimelist.net/images/manga/2/167456.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 孫悟空

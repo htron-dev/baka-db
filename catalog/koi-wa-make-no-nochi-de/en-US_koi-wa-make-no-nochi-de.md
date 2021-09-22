@@ -1,5 +1,7 @@
 # Koi wa Make no Nochi de
 
+![koi-wa-make-no-nochi-de](https://cdn.myanimelist.net/images/manga/1/192955.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

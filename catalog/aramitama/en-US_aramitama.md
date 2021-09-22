@@ -1,5 +1,7 @@
 # Aramitama
 
+![aramitama](https://cdn.myanimelist.net/images/manga/3/175774.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

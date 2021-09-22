@@ -1,5 +1,7 @@
 # Pokemon: Yadoking no Ichinichi
 
+![pokemon-yadoking-no-ichinichi](https://cdn.myanimelist.net/images/anime/4/26239.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター ヤドキングのいちにち

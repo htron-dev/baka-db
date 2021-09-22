@@ -1,5 +1,7 @@
 # Dream Hunter Rem
 
+![dream-hunter-rem](https://cdn.myanimelist.net/images/anime/1538/94531.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: DREAM HUNTER 麗夢

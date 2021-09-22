@@ -1,5 +1,7 @@
 # Future GPX Cyber Formula Sin
 
+![future-gpx-cyber-formula-sin](https://cdn.myanimelist.net/images/anime/6/29342.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 新世紀ＧＰＸサイバーフォーミュラＳＩＮ

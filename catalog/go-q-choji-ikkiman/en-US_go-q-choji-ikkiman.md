@@ -1,5 +1,7 @@
 # Go-Q-Choji Ikkiman
 
+![go-q-choji-ikkiman](https://cdn.myanimelist.net/images/anime/9/63019.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: 剛 Q 超児イッキマン

@@ -1,5 +1,7 @@
 # Afuresou na Pool
 
+![afuresou-na-pool](https://cdn.myanimelist.net/images/manga/2/26055.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Ippon!
 
+![ippon](https://cdn.myanimelist.net/images/manga/1/214598.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 124

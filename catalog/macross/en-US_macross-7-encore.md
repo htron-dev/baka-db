@@ -1,5 +1,7 @@
 # Macross 7 Encore
 
+![macross-7-encore](https://cdn.myanimelist.net/images/anime/1514/96093.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: マクロス 7 アンコール

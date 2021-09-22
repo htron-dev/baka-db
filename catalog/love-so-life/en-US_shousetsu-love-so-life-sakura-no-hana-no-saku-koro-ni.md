@@ -1,5 +1,7 @@
 # Shousetsu Love So Life: Sakura no Hana no Saku Koro ni
 
+![shousetsu-love-so-life-sakura-no-hana-no-saku-koro-ni](https://cdn.myanimelist.net/images/manga/1/229549.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 小説・LOVE SO LIFE 　桜の花の咲く頃に

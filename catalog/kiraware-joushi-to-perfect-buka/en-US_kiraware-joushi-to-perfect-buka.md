@@ -1,5 +1,7 @@
 # Kiraware Joushi to Perfect Buka
 
+![kiraware-joushi-to-perfect-buka](https://cdn.myanimelist.net/images/manga/1/229380.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

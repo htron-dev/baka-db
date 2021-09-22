@@ -1,5 +1,7 @@
 # 30-sai, Shojo OL
 
+![30-sai-shojo-ol](https://cdn.myanimelist.net/images/manga/2/118389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

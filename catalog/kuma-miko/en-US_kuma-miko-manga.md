@@ -1,5 +1,7 @@
 # Kuma Miko
 
+![kuma-miko](https://cdn.myanimelist.net/images/manga/3/108399.jpg)
+
 -   **type**: manga
 -   **original-name**: くまみこ
 -   **start-date**: 2013-04-05

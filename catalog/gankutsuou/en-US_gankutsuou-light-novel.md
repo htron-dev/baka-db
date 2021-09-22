@@ -1,5 +1,7 @@
 # Gankutsuou
 
+![gankutsuou](https://cdn.myanimelist.net/images/manga/2/101605.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 巌窟王

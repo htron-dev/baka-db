@@ -1,5 +1,7 @@
 # 37°C no Boyfriend
 
+![37-c-no-boyfriend](https://cdn.myanimelist.net/images/manga/2/15129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru
 
+![boukensha-license-wo-hakudatsu-sareta-ossan-dakedo-manamusume-ga-dekita-node-nonbiri-jinsei-wo-ouka-suru](https://cdn.myanimelist.net/images/manga/3/219504.jpg)
+
 -   **type**: manga
 -   **original-name**: 冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する
 -   **start-date**: 2018-11-30

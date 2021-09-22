@@ -1,5 +1,7 @@
 # Akatsuki no Ageha
 
+![akatsuki-no-ageha](https://cdn.myanimelist.net/images/manga/2/76665.jpg)
+
 -   **type**: manga
 -   **original-name**: 朱月のアゲハ
 -   **start-date**: 2011-04-26

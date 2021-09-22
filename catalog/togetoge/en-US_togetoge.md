@@ -1,5 +1,7 @@
 # Togetoge
 
+![togetoge](https://cdn.myanimelist.net/images/manga/3/241847.jpg)
+
 -   **type**: manga
 -   **original-name**: とげとげ
 -   **start-date**: 2020-12-21

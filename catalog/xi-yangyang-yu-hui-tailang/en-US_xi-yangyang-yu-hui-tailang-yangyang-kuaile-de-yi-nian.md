@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Yangyang Kuaile De Yi Nian
 
+![xi-yangyang-yu-hui-tailang-yangyang-kuaile-de-yi-nian](https://cdn.myanimelist.net/images/anime/1617/115269.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: 喜羊羊與灰太狼之羊羊快樂的一年

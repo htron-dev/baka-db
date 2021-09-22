@@ -1,5 +1,7 @@
 # Tokiwa Kitareri!!
 
+![tokiwa-kitareri](https://cdn.myanimelist.net/images/anime/13/79284.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: トキワ来たれり!!

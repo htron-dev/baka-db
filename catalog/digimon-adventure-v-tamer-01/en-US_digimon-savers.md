@@ -1,5 +1,7 @@
 # Digimon Savers
 
+![digimon-savers](https://cdn.myanimelist.net/images/anime/3/20365.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: デジモンセイバーズ

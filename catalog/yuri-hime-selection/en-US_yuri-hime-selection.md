@@ -1,5 +1,7 @@
 # Yuri Hime Selection
 
+![yuri-hime-selection](https://cdn.myanimelist.net/images/manga/2/146105.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Rebuild World
 
+![rebuild-world](https://cdn.myanimelist.net/images/manga/3/240196.jpg)
+
 -   **type**: light-novel
 -   **original-name**: リビルドワールド
 -   **start-date**: 2019-05-17

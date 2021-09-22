@@ -1,5 +1,7 @@
 # Fudajo!: Otome Shoukan Datsui Taisen
 
+![fudajo-otome-shoukan-datsui-taisen](https://cdn.myanimelist.net/images/manga/2/157880.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 59

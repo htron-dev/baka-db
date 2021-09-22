@@ -1,5 +1,7 @@
 # Kondo wa Zettai ni Jama Shimasen!
 
+![kondo-wa-zettai-ni-jama-shimasen](https://cdn.myanimelist.net/images/manga/3/219176.jpg)
+
 -   **type**: manga
 -   **original-name**: 今度は絶対に邪魔しませんっ！
 -   **start-date**: 2018-10-19

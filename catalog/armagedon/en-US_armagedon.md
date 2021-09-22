@@ -1,5 +1,7 @@
 # Armagedon
 
+![armagedon](https://cdn.myanimelist.net/images/manga/1/17569.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: Armageddon

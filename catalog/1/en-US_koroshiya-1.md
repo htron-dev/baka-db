@@ -1,5 +1,7 @@
 # Koroshiya 1
 
+![koroshiya-1](https://cdn.myanimelist.net/images/manga/3/174206.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 114

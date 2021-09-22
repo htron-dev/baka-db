@@ -1,5 +1,7 @@
 # Shiawase Gohan
 
+![shiawase-gohan](https://cdn.myanimelist.net/images/manga/2/158980.jpg)
+
 -   **type**: manga
 -   **original-name**: しあわせゴハン
 -   **start-date**: 2014-04-23

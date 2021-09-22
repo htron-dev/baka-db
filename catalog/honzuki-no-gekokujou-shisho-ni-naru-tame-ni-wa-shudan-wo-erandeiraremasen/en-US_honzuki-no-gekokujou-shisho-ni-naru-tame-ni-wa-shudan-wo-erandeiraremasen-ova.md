@@ -1,5 +1,7 @@
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA
 
+![honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ova](https://cdn.myanimelist.net/images/anime/1931/114311.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 本好きの下剋上 ～司書になるためには手段を選んでいられません～ OVA

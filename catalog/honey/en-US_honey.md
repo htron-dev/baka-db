@@ -1,5 +1,7 @@
 # Honey
 
+![honey](https://cdn.myanimelist.net/images/manga/1/165641.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 41

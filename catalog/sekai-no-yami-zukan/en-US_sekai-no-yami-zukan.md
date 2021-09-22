@@ -1,5 +1,7 @@
 # Sekai no Yami Zukan
 
+![sekai-no-yami-zukan](https://cdn.myanimelist.net/images/anime/5/84611.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 世界の闇図鑑

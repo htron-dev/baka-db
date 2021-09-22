@@ -1,5 +1,7 @@
 # Happy Ending
 
+![happy-ending](https://cdn.myanimelist.net/images/manga/3/149667.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Trace
 
+![trace](https://cdn.myanimelist.net/images/manga/3/144971.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 177
 -   **original-name**: 트레이스

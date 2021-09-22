@@ -1,5 +1,7 @@
 # Piano no Ue no Tenshi
 
+![piano-no-ue-no-tenshi](https://cdn.myanimelist.net/images/manga/1/99759.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

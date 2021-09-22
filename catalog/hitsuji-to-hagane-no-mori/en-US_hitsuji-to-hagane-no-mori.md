@@ -1,5 +1,7 @@
 # Hitsuji to Hagane no Mori
 
+![hitsuji-to-hagane-no-mori](https://cdn.myanimelist.net/images/manga/1/210837.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

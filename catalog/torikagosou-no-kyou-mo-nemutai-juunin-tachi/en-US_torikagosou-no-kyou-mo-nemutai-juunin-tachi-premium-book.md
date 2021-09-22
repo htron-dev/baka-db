@@ -1,5 +1,7 @@
 # Torikagosou no Kyou mo Nemutai Juunin-tachi: Premium Book
 
+![torikagosou-no-kyou-mo-nemutai-juunin-tachi-premium-book](https://cdn.myanimelist.net/images/manga/1/142267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 鳥籠荘の今日も眠たい住人たち PREMIUM BOOK

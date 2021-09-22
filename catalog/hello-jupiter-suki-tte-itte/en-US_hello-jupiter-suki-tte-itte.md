@@ -1,5 +1,7 @@
 # Hello Jupiter Suki tte Itte.
 
+![hello-jupiter-suki-tte-itte](https://cdn.myanimelist.net/images/manga/1/223396.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

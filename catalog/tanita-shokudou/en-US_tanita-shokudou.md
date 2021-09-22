@@ -1,5 +1,7 @@
 # Tanita Shokudou
 
+![tanita-shokudou](https://cdn.myanimelist.net/images/anime/8/74513.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: タニタ食堂

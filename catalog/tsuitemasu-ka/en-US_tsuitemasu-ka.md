@@ -1,5 +1,7 @@
 # Tsuitemasu ka
 
+![tsuitemasu-ka](https://cdn.myanimelist.net/images/manga/2/9377.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 憑いてますか

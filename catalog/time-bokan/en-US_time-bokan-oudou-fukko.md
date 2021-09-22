@@ -1,5 +1,7 @@
 # Time Bokan Oudou Fukko
 
+![time-bokan-oudou-fukko](https://cdn.myanimelist.net/images/anime/3/8760.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: タイムボカン王道復古

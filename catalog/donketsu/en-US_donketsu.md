@@ -1,5 +1,7 @@
 # Donketsu
 
+![donketsu](https://cdn.myanimelist.net/images/manga/1/234190.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 182

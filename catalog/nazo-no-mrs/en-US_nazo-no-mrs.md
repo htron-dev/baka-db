@@ -1,5 +1,7 @@
 # Nazo no Mrs.
 
+![nazo-no-mrs](https://cdn.myanimelist.net/images/manga/3/227565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 謎のミセス

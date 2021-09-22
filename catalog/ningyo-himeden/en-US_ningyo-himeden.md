@@ -1,5 +1,7 @@
 # Ningyo Himeden
 
+![ningyo-himeden](https://cdn.myanimelist.net/images/manga/3/1170.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 人魚姫殿

@@ -1,5 +1,7 @@
 # Mai-Otome Specials
 
+![mai-otome-specials](https://cdn.myanimelist.net/images/anime/3/27410.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 舞-乙 HiME

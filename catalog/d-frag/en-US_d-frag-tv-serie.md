@@ -1,5 +1,7 @@
 # D-Frag!
 
+![d-frag](https://cdn.myanimelist.net/images/anime/1662/112108.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ディーふらぐ！

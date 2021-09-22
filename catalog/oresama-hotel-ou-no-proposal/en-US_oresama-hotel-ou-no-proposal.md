@@ -1,5 +1,7 @@
 # Oresama Hotel-ou no Proposal
 
+![oresama-hotel-ou-no-proposal](https://cdn.myanimelist.net/images/manga/1/184613.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 俺様ホテル王のプロポーズ

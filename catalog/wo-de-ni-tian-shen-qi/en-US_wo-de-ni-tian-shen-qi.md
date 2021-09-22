@@ -1,5 +1,7 @@
 # Wo de Ni Tian Shen Qi
 
+![wo-de-ni-tian-shen-qi](https://cdn.myanimelist.net/images/anime/1989/91325.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 我的逆天神器

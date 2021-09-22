@@ -1,5 +1,7 @@
 # Anne no Seishun
 
+![anne-no-seishun](https://cdn.myanimelist.net/images/manga/2/29999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

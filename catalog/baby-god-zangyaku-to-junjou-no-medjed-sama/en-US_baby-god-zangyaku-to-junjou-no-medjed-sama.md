@@ -1,5 +1,7 @@
 # Baby God: Zangyaku to Junjou no Medjed-sama
 
+![baby-god-zangyaku-to-junjou-no-medjed-sama](https://cdn.myanimelist.net/images/manga/2/194790.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 48

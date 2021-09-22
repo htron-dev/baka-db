@@ -1,5 +1,7 @@
 # Yume kara Sametemo
 
+![yume-kara-sametemo](https://cdn.myanimelist.net/images/manga/2/202092.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 49

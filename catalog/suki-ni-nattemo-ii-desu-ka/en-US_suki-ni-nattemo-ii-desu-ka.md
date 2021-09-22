@@ -1,5 +1,7 @@
 # Suki ni Nattemo Ii desu ka
 
+![suki-ni-nattemo-ii-desu-ka](https://cdn.myanimelist.net/images/manga/3/176110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

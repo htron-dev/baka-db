@@ -1,5 +1,7 @@
 # Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru
 
+![fukushuu-wo-koinegau-saikyou-yuusha-wa-yami-no-chikara-de-senmetsu-musou-suru](https://cdn.myanimelist.net/images/manga/3/227733.jpg)
+
 -   **type**: manga
 -   **original-name**: 復讐を希う最強勇者は、闇の力で殲滅無双する
 -   **start-date**: 2019-02-04

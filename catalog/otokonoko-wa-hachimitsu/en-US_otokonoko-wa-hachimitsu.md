@@ -1,5 +1,7 @@
 # Otokonoko wa Hachimitsu
 
+![otokonoko-wa-hachimitsu](https://cdn.myanimelist.net/images/manga/5/28767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

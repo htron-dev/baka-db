@@ -1,5 +1,7 @@
 # Wu Geng Ji 4th Season
 
+![wu-geng-ji-4th-season](https://cdn.myanimelist.net/images/anime/1875/116414.jpg)
+
 -   **type**: ona
 -   **episodes**: 42
 -   **original-name**: 武庚纪

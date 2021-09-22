@@ -1,5 +1,7 @@
 # Little Little
 
+![little-little](https://cdn.myanimelist.net/images/manga/3/122523.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Otomeza Spica Shinjuboshi
 
+![otomeza-spica-shinjuboshi](https://cdn.myanimelist.net/images/manga/2/148833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

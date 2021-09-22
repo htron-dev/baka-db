@@ -1,5 +1,7 @@
 # Taishou Romanesque: Shindemo Ii hodo, Aishiteru
 
+![taishou-romanesque-shindemo-ii-hodo-aishiteru](https://cdn.myanimelist.net/images/manga/1/182151.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

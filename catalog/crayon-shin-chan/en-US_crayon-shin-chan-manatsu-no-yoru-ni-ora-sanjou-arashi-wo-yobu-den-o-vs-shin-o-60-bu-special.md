@@ -1,5 +1,7 @@
 # Crayon Shin-chan Manatsu no Yoru ni Ora Sanjou! Arashi wo Yobu Den-O vs. Shin-O 60-bu Special!!
 
+![crayon-shin-chan-manatsu-no-yoru-ni-ora-sanjou-arashi-wo-yobu-den-o-vs-shin-o-60-bu-special](https://cdn.myanimelist.net/images/anime/10/6890.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: クレヨンしんちゃん　真夏の夜に　オラ　参上！　嵐を呼ぶ　電王ＶＳしん王　６０分スペシャル！！

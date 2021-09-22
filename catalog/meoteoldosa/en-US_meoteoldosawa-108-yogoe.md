@@ -1,5 +1,7 @@
 # Meoteoldosawa 108 Yogoe
 
+![meoteoldosawa-108-yogoe](https://cdn.myanimelist.net/images/anime/2/49099.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 머털도사와 108 요괴

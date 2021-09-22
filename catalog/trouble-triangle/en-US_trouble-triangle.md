@@ -1,5 +1,7 @@
 # Trouble Triangle
 
+![trouble-triangle](https://cdn.myanimelist.net/images/manga/2/43553.jpg)
+
 -   **type**: manga
 -   **original-name**: とらぶる TRY アングル
 -   **start-date**: 2000-06-20

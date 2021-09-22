@@ -1,5 +1,7 @@
 # Totteoki Maxion
 
+![totteoki-maxion](https://cdn.myanimelist.net/images/manga/3/32174.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

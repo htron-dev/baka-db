@@ -1,5 +1,7 @@
 # Meitantei-bu Kono Ato Sugu!
 
+![meitantei-bu-kono-ato-sugu](https://cdn.myanimelist.net/images/manga/2/167203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

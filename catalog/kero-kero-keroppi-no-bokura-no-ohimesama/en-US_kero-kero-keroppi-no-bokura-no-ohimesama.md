@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Bokura no Ohimesama
 
+![kero-kero-keroppi-no-bokura-no-ohimesama](https://cdn.myanimelist.net/images/anime/4/88435.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのぼくらのお姫さま

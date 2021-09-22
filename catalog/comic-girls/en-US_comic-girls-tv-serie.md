@@ -1,5 +1,7 @@
 # Comic Girls
 
+![comic-girls](https://cdn.myanimelist.net/images/anime/1207/91794.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: こみっくがーるず

@@ -1,5 +1,7 @@
 # Aa Harimanada
 
+![aa-harimanada](https://cdn.myanimelist.net/images/manga/1/124221.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 304

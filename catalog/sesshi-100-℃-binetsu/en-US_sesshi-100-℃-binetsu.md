@@ -1,5 +1,7 @@
 # Sesshi 100℃ Binetsu
 
+![sesshi-100-℃-binetsu](https://cdn.myanimelist.net/images/manga/3/180711.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 31

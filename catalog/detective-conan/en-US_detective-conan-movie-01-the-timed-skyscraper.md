@@ -1,5 +1,7 @@
 # Detective Conan Movie 01: The Timed Skyscraper
 
+![detective-conan-movie-01-the-timed-skyscraper](https://cdn.myanimelist.net/images/anime/3/77131.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 時計じかけの摩天楼

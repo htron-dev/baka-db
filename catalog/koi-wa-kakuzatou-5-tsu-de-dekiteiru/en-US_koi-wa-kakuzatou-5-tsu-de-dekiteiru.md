@@ -1,5 +1,7 @@
 # Koi wa Kakuzatou 5-tsu de Dekiteiru
 
+![koi-wa-kakuzatou-5-tsu-de-dekiteiru](https://cdn.myanimelist.net/images/manga/1/82486.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

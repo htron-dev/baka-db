@@ -1,5 +1,7 @@
 # Kuroneko Kareshi no Arukikata
 
+![kuroneko-kareshi-no-arukikata](https://cdn.myanimelist.net/images/manga/3/224226.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

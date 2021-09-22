@@ -1,5 +1,7 @@
 # WonderLand
 
+![wonder-land](https://cdn.myanimelist.net/images/manga/1/3370.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 10

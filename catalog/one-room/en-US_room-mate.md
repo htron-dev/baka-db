@@ -1,5 +1,7 @@
 # Room Mate
 
+![room-mate](https://cdn.myanimelist.net/images/anime/10/85196.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Room Mate

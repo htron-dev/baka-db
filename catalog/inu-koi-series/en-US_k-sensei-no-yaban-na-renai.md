@@ -1,5 +1,7 @@
 # K-sensei no Yaban na Renai
 
+![k-sensei-no-yaban-na-renai](https://cdn.myanimelist.net/images/manga/5/97697.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

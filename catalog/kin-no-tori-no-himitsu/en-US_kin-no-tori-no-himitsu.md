@@ -1,5 +1,7 @@
 # Kin no Tori no Himitsu
 
+![kin-no-tori-no-himitsu](https://cdn.myanimelist.net/images/manga/3/153340.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 金の鳥の秘密

@@ -1,5 +1,7 @@
 # Kiss Me Here, Please
 
+![kiss-me-here-please](https://cdn.myanimelist.net/images/manga/5/6854.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ここにキスして

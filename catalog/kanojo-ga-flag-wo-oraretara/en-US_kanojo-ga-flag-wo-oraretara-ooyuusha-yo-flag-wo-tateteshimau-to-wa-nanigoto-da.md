@@ -1,5 +1,7 @@
 # Kanojo ga Flag wo Oraretara: Ooyuusha yo, Flag wo Tateteshimau to wa Nanigoto da!?
 
+![kanojo-ga-flag-wo-oraretara-ooyuusha-yo-flag-wo-tateteshimau-to-wa-nanigoto-da](https://cdn.myanimelist.net/images/manga/2/160733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

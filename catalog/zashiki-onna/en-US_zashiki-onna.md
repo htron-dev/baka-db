@@ -1,5 +1,7 @@
 # Zashiki Onna
 
+![zashiki-onna](https://cdn.myanimelist.net/images/manga/3/176824.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

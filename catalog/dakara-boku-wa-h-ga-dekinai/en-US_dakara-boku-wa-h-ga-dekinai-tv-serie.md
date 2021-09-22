@@ -1,5 +1,7 @@
 # Dakara Boku wa, H ga Dekinai.
 
+![dakara-boku-wa-h-ga-dekinai](https://cdn.myanimelist.net/images/anime/4/75102.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: だから僕は、H ができない。

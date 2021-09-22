@@ -1,5 +1,7 @@
 # GG Dou 2nd Season
 
+![gg-dou-2nd-season](https://cdn.myanimelist.net/images/anime/1702/115534.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 咭咭豆 第二季

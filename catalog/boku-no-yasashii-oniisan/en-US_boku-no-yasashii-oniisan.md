@@ -1,5 +1,7 @@
 # Boku no Yasashii Oniisan
 
+![boku-no-yasashii-oniisan](https://cdn.myanimelist.net/images/manga/2/15152.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕のやさしいお兄さん
 -   **start-date**: 2007-09-20

@@ -1,5 +1,7 @@
 # Koucha Ouji
 
+![koucha-ouji](https://cdn.myanimelist.net/images/manga/2/18952.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **original-name**: 紅茶王子

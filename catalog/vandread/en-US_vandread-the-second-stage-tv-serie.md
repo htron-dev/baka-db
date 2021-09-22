@@ -1,5 +1,7 @@
 # Vandread: The Second Stage
 
+![vandread-the-second-stage](https://cdn.myanimelist.net/images/anime/4/75447.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ヴァンドレッド the second stage

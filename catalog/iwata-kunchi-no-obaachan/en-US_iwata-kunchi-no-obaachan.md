@@ -1,5 +1,7 @@
 # Iwata Kunchi no Obaachan
 
+![iwata-kunchi-no-obaachan](https://cdn.myanimelist.net/images/anime/12/65995.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いわたくんちのおばあちゃん

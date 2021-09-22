@@ -1,5 +1,7 @@
 # Kiku-chan to Ookami
 
+![kiku-chan-to-ookami](https://cdn.myanimelist.net/images/anime/1007/111579.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: '08 戦争童話 キクちゃんとオオカミ

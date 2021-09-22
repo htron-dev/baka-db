@@ -1,5 +1,7 @@
 # Black Bullet
 
+![black-bullet](https://cdn.myanimelist.net/images/manga/1/158321.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 29

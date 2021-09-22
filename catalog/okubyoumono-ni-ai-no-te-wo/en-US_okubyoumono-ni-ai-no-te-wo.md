@@ -1,5 +1,7 @@
 # Okubyoumono ni Ai no Te wo
 
+![okubyoumono-ni-ai-no-te-wo](https://cdn.myanimelist.net/images/manga/2/66939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

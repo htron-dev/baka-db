@@ -1,5 +1,7 @@
 # Kaifuku Jutsushi no Yarinaoshi
 
+![kaifuku-jutsushi-no-yarinaoshi](https://cdn.myanimelist.net/images/manga/1/208529.jpg)
+
 -   **type**: manga
 -   **original-name**: 回復術士のやり直し
 -   **start-date**: 2017-10-24

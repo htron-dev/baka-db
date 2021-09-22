@@ -1,5 +1,7 @@
 # Wo Shi Jiang Xiaobai (2018)
 
+![wo-shi-jiang-xiaobai-2018](https://cdn.myanimelist.net/images/anime/1170/116403.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 我是江小白 小剧场

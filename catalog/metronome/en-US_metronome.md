@@ -1,5 +1,7 @@
 # Metronome
 
+![metronome](https://cdn.myanimelist.net/images/manga/1/100265.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 메트로놈
 -   **start-date**: 2010-06-16

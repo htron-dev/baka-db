@@ -1,5 +1,7 @@
 # Nameless Newbie
 
+![nameless-newbie](https://cdn.myanimelist.net/images/manga/1/163869.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

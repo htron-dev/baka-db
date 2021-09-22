@@ -1,5 +1,7 @@
 # Lucky Chance!
 
+![lucky-chance](https://cdn.myanimelist.net/images/manga/1/39641.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: ラッキーチャンス!

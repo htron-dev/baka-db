@@ -1,5 +1,7 @@
 # Anata wo Zutto Aishiteru
 
+![anata-wo-zutto-aishiteru](https://cdn.myanimelist.net/images/anime/4/72593.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あなたをずっとあいしてる
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

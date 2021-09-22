@@ -1,5 +1,7 @@
 # Megami ga Ochita Hi
 
+![megami-ga-ochita-hi](https://cdn.myanimelist.net/images/manga/2/22512.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

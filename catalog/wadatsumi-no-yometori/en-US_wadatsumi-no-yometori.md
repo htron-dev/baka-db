@@ -1,5 +1,7 @@
 # Wadatsumi no Yometori
 
+![wadatsumi-no-yometori](https://cdn.myanimelist.net/images/manga/3/236582.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

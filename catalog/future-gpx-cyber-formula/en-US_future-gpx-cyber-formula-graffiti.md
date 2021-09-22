@@ -1,5 +1,7 @@
 # Future GPX Cyber Formula Graffiti
 
+![future-gpx-cyber-formula-graffiti](https://cdn.myanimelist.net/images/anime/3/31699.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 新世紀 GPX サイバーフォーミュラ グラフィティ

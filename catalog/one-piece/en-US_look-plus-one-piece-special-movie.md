@@ -1,5 +1,7 @@
 # Look Plus One Piece Special Movie
 
+![look-plus-one-piece-special-movie](https://cdn.myanimelist.net/images/anime/1541/102314.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ルックプラス ワンピース スペシャルムービー

@@ -1,5 +1,7 @@
 # 10-sai no Hoken Taiiku
 
+![10-sai-no-hoken-taiiku](https://cdn.myanimelist.net/images/manga/3/159876.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 61

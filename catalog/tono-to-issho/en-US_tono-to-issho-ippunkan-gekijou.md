@@ -1,5 +1,7 @@
 # Tono to Issho: Ippunkan Gekijou
 
+![tono-to-issho-ippunkan-gekijou](https://cdn.myanimelist.net/images/anime/9/24947.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 殿といっしょ 1 分間劇場

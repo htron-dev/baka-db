@@ -1,5 +1,7 @@
 # Yami Kariudo Iden: D no Kiseki
 
+![yami-kariudo-iden-d-no-kiseki](https://cdn.myanimelist.net/images/manga/1/176078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

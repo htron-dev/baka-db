@@ -1,5 +1,7 @@
 # Kyoujin Kankei
 
+![kyoujin-kankei](https://cdn.myanimelist.net/images/manga/2/239653.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 41

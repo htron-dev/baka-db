@@ -1,5 +1,7 @@
 # Uso Mitai na Hanashi desu ga
 
+![uso-mitai-na-hanashi-desu-ga](https://cdn.myanimelist.net/images/manga/3/116005.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

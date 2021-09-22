@@ -1,5 +1,7 @@
 # Seigai no Majo
 
+![seigai-no-majo](https://cdn.myanimelist.net/images/manga/1/157856.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 41

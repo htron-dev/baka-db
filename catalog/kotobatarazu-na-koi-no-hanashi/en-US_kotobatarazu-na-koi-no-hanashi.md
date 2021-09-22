@@ -1,5 +1,7 @@
 # Kotobatarazu na Koi no Hanashi
 
+![kotobatarazu-na-koi-no-hanashi](https://cdn.myanimelist.net/images/manga/3/114507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Miho to Yuuko
 
+![miho-to-yuuko](https://cdn.myanimelist.net/images/manga/2/189428.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

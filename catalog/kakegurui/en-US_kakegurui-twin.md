@@ -1,5 +1,7 @@
 # Kakegurui Twin
 
+![kakegurui-twin](https://cdn.myanimelist.net/images/manga/2/169926.jpg)
+
 -   **type**: manga
 -   **original-name**: ケグルイ双〈ツイン〉
 -   **start-date**: 2015-09-19

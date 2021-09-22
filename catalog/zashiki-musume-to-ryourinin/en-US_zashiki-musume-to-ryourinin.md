@@ -1,5 +1,7 @@
 # Zashiki Musume to Ryourinin
 
+![zashiki-musume-to-ryourinin](https://cdn.myanimelist.net/images/manga/1/222578.jpg)
+
 -   **type**: manga
 -   **original-name**: 座敷娘と料理人
 -   **start-date**: 2017-11-22

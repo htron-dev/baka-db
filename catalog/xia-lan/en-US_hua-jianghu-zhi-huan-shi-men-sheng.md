@@ -1,5 +1,7 @@
 # Hua Jianghu Zhi Huan Shi Men Sheng
 
+![hua-jianghu-zhi-huan-shi-men-sheng](https://cdn.myanimelist.net/images/anime/1960/108022.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 画江湖之换世门生

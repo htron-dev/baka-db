@@ -1,5 +1,7 @@
 # Ore no Kanojo to Osananajimi ga Shuraba sugiru
 
+![ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru](https://cdn.myanimelist.net/images/manga/4/80947.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺の彼女と幼なじみが修羅場すぎる
 -   **start-date**: 2011-02-15

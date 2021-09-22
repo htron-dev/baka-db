@@ -1,5 +1,7 @@
 # Ouji-sama no Kiss
 
+![ouji-sama-no-kiss](https://cdn.myanimelist.net/images/manga/2/143543.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

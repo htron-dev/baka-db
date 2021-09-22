@@ -1,5 +1,7 @@
 # Takasugi-san Chi no Obentou
 
+![takasugi-san-chi-no-obentou](https://cdn.myanimelist.net/images/manga/1/155812.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 80

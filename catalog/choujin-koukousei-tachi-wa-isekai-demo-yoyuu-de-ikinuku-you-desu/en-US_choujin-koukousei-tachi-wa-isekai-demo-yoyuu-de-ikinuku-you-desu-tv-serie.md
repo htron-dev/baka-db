@@ -1,5 +1,7 @@
 # Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!
 
+![choujin-koukousei-tachi-wa-isekai-demo-yoyuu-de-ikinuku-you-desu](https://cdn.myanimelist.net/images/anime/1132/111619.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 超人高校生たちは異世界でも余裕で生き抜くようです！

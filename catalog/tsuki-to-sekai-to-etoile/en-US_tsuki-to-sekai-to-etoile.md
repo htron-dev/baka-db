@@ -1,5 +1,7 @@
 # Tsuki to Sekai to Étoile
 
+![tsuki-to-sekai-to-etoile](https://cdn.myanimelist.net/images/manga/1/125229.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

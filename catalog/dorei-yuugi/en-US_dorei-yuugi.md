@@ -1,5 +1,7 @@
 # Dorei Yuugi
 
+![dorei-yuugi](https://cdn.myanimelist.net/images/manga/3/201677.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 65

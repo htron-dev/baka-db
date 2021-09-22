@@ -1,5 +1,7 @@
 # Imouto Life
 
+![imouto-life](https://cdn.myanimelist.net/images/manga/1/183795.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

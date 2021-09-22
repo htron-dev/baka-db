@@ -1,5 +1,7 @@
 # Haru no Kamikaze
 
+![haru-no-kamikaze](https://cdn.myanimelist.net/images/manga/1/202408.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ハルノカミカゼ

@@ -1,5 +1,7 @@
 # Gay Fuuzoku no Mochigi-san: Sexuality wa Jinsei da.
 
+![gay-fuuzoku-no-mochigi-san-sexuality-wa-jinsei-da](https://cdn.myanimelist.net/images/manga/2/239626.jpg)
+
 -   **type**: manga
 -   **original-name**: ゲイ風俗のもちぎさん　セクシュアリティは人生だ。
 -   **start-date**: 2019-08-09

@@ -1,5 +1,7 @@
 # Miyori no Mori
 
+![miyori-no-mori](https://cdn.myanimelist.net/images/anime/3/22725.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ミヨリの森

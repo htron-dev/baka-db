@@ -1,5 +1,7 @@
 # ViVid Strike! Specials
 
+![vi-vid-strike-specials](https://cdn.myanimelist.net/images/anime/9/84018.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ViVid Strike！新作 OVA

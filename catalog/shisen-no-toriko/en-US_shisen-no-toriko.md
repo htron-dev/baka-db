@@ -1,5 +1,7 @@
 # Shisen no Toriko
 
+![shisen-no-toriko](https://cdn.myanimelist.net/images/manga/3/228289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

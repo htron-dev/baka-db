@@ -1,5 +1,7 @@
 # Tsumuiji ni Kiss
 
+![tsumuiji-ni-kiss](https://cdn.myanimelist.net/images/manga/3/2599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: つむじに KISS

@@ -1,5 +1,7 @@
 # Secret Admirer
 
+![secret-admirer](https://cdn.myanimelist.net/images/manga/3/12133.jpg)
+
 -   **type**: manhwa
 
 ## Tags

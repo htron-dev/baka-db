@@ -1,5 +1,7 @@
 # Tsukiuta. The Animation
 
+![tsukiuta-the-animation](https://cdn.myanimelist.net/images/anime/8/80936.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ツキウタ。 THE ANIMATION

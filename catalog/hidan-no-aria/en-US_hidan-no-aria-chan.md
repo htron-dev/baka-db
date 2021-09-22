@@ -1,5 +1,7 @@
 # Hidan no Aria-chan
 
+![hidan-no-aria-chan](https://cdn.myanimelist.net/images/manga/1/150288.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

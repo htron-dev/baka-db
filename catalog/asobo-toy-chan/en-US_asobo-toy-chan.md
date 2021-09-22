@@ -1,5 +1,7 @@
 # Asobo Toy-chan
 
+![asobo-toy-chan](https://cdn.myanimelist.net/images/anime/5/56795.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: あそぼトイちゃん

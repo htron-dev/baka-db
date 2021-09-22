@@ -1,5 +1,7 @@
 # Night Head
 
+![night-head](https://cdn.myanimelist.net/images/manga/3/11686.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Chou Virgin
 
+![chou-virgin](https://cdn.myanimelist.net/images/manga/3/28133.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 超バージン

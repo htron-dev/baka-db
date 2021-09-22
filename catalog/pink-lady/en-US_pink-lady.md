@@ -1,5 +1,7 @@
 # Pink Lady
 
+![pink-lady](https://cdn.myanimelist.net/images/manga/1/113049.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 78

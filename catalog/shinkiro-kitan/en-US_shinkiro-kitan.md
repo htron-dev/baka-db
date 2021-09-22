@@ -1,5 +1,7 @@
 # Shinkiro Kitan
 
+![shinkiro-kitan](https://cdn.myanimelist.net/images/manga/3/172340.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

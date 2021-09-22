@@ -1,5 +1,7 @@
 # Yasai no Yousei: N.Y.Salad 2nd Series
 
+![yasai-no-yousei-n-y-salad-2nd-series](https://cdn.myanimelist.net/images/anime/9/29511.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: やさいのようせい N.Y.SALAD 2nd シリーズ

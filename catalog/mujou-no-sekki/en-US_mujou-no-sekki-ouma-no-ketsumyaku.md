@@ -1,5 +1,7 @@
 # Mujou no Sekki: Ouma no Ketsumyaku
 
+![mujou-no-sekki-ouma-no-ketsumyaku](https://cdn.myanimelist.net/images/manga/1/130351.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 無生の刹鬼～逢魔の血脈～

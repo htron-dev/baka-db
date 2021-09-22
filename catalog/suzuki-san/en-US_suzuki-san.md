@@ -1,5 +1,7 @@
 # Suzuki-san
 
+![suzuki-san](https://cdn.myanimelist.net/images/manga/4/139205.jpg)
+
 -   **type**: manga
 -   **original-name**: 鈴木さん
 -   **start-date**: 2011-02-22

@@ -1,5 +1,7 @@
 # Urusei Yatsura: The Shougaibutsu Suieitaikai
 
+![urusei-yatsura-the-shougaibutsu-suieitaikai](https://cdn.myanimelist.net/images/anime/13/38671.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ザ障害物水泳大会

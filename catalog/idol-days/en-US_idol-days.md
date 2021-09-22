@@ -1,5 +1,7 @@
 # Idol Days
 
+![idol-days](https://cdn.myanimelist.net/images/manga/2/155092.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: あいどる Days

@@ -1,5 +1,7 @@
 # Gou-Dere Bishoujo Nagihara Sora♥
 
+![gou-dere-bishoujo-nagihara-sora♥](https://cdn.myanimelist.net/images/manga/3/188790.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

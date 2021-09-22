@@ -1,5 +1,7 @@
 # Dotto Koni-chan
 
+![dotto-koni-chan](https://cdn.myanimelist.net/images/anime/1910/106998.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ドッと KONI ちゃん

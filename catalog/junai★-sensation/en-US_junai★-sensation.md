@@ -1,5 +1,7 @@
 # Junai★Sensation
 
+![junai★-sensation](https://cdn.myanimelist.net/images/manga/1/13978.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 純 ★ 愛センセーション

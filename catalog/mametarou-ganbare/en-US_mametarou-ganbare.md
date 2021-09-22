@@ -1,5 +1,7 @@
 # Mametarou Ganbare
 
+![mametarou-ganbare](https://cdn.myanimelist.net/images/anime/4/84586.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: まめたろうがんばれ

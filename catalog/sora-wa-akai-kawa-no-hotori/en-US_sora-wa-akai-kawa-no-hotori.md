@@ -1,5 +1,7 @@
 # Sora wa Akai Kawa no Hotori
 
+![sora-wa-akai-kawa-no-hotori](https://cdn.myanimelist.net/images/manga/4/162632.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 96

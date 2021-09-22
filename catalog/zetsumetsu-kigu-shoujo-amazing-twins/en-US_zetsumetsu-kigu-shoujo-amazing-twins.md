@@ -1,5 +1,7 @@
 # Zetsumetsu Kigu Shoujo: Amazing Twins
 
+![zetsumetsu-kigu-shoujo-amazing-twins](https://cdn.myanimelist.net/images/anime/7/57269.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 絶滅危愚少女 Amazing Twins

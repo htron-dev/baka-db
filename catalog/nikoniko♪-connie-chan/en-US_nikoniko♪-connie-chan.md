@@ -1,5 +1,7 @@
 # Nikoniko♪Connie-chan
 
+![nikoniko♪-connie-chan](https://cdn.myanimelist.net/images/anime/10/82202.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: ニコニコ ♪ コニーちゃん

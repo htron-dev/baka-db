@@ -1,5 +1,7 @@
 # A.I Hunter
 
+![a-i-hunter](https://cdn.myanimelist.net/images/manga/3/154987.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 에이아이헌터

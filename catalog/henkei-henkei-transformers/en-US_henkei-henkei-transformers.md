@@ -1,5 +1,7 @@
 # Henkei! Henkei! Transformers
 
+![henkei-henkei-transformers](https://cdn.myanimelist.net/images/manga/2/35681.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12
@@ -10,7 +12,6 @@
 
 -   action
 -   adventure
-
 -   mecha
 -   sci-fi
 

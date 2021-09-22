@@ -1,5 +1,7 @@
 # Billy the Kid 21-mai no Album
 
+![billy-the-kid-21-mai-no-album](https://cdn.myanimelist.net/images/manga/1/36445.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

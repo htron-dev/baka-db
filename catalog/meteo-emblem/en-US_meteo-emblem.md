@@ -1,5 +1,7 @@
 # Meteo Emblem
 
+![meteo-emblem](https://cdn.myanimelist.net/images/manga/3/23415.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: メテオエンブレム

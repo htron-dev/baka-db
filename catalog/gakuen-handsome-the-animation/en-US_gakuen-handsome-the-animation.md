@@ -1,5 +1,7 @@
 # Gakuen Handsome The Animation
 
+![gakuen-handsome-the-animation](https://cdn.myanimelist.net/images/anime/11/76861.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 学園ハンサム The Animation

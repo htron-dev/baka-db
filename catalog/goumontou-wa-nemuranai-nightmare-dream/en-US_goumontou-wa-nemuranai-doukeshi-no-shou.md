@@ -1,5 +1,7 @@
 # Goumontou wa Nemuranai: Doukeshi no Shou
 
+![goumontou-wa-nemuranai-doukeshi-no-shou](https://cdn.myanimelist.net/images/manga/1/220859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

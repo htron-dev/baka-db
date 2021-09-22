@@ -1,5 +1,7 @@
 # Café Kichijouji de
 
+![cafe-kichijouji-de](https://cdn.myanimelist.net/images/manga/1/750.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

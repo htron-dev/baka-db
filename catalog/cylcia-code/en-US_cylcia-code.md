@@ -1,5 +1,7 @@
 # Cylcia=Code
 
+![cylcia-code](https://cdn.myanimelist.net/images/manga/2/200195.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

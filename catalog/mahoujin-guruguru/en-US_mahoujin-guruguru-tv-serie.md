@@ -1,5 +1,7 @@
 # Mahoujin Guruguru
 
+![mahoujin-guruguru](https://cdn.myanimelist.net/images/anime/2/75814.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: 魔法陣グルグル

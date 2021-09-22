@@ -1,5 +1,7 @@
 # Nagareboshi Lens
 
+![nagareboshi-lens](https://cdn.myanimelist.net/images/anime/7/38377.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 流れ星レンズ

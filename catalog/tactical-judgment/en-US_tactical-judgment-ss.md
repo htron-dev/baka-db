@@ -1,5 +1,7 @@
 # Tactical Judgment SS
 
+![tactical-judgment-ss](https://cdn.myanimelist.net/images/manga/1/162851.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 24

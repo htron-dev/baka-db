@@ -1,5 +1,7 @@
 # Itsuka Ouji-sama ga: Grandier Koushaku no Yuigon
 
+![itsuka-ouji-sama-ga-grandier-koushaku-no-yuigon](https://cdn.myanimelist.net/images/manga/1/187014.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

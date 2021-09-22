@@ -1,5 +1,7 @@
 # Museum
 
+![museum](https://cdn.myanimelist.net/images/manga/1/120621.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

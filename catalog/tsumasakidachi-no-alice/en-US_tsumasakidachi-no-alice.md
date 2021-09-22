@@ -1,5 +1,7 @@
 # Tsumasakidachi no Alice
 
+![tsumasakidachi-no-alice](https://cdn.myanimelist.net/images/manga/1/214162.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

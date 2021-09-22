@@ -1,5 +1,7 @@
 # Xiao Men Shen
 
+![xiao-men-shen](https://cdn.myanimelist.net/images/anime/1910/112741.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 小门神

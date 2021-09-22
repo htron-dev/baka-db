@@ -1,5 +1,7 @@
 # Boku no Shachou-sama
 
+![boku-no-shachou-sama](https://cdn.myanimelist.net/images/manga/3/136251.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ボクの社長サマ

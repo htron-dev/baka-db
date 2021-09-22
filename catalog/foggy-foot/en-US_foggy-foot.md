@@ -1,5 +1,7 @@
 # Foggy Foot
 
+![foggy-foot](https://cdn.myanimelist.net/images/manga/1/233151.jpg)
+
 -   **type**: manga
 -   **original-name**: FOGGY FOOT
 -   **start-date**: 2020-04-24

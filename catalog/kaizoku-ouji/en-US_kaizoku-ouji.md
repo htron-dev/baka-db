@@ -1,5 +1,7 @@
 # Kaizoku Ouji
 
+![kaizoku-ouji](https://cdn.myanimelist.net/images/anime/1677/100901.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: 海賊王子

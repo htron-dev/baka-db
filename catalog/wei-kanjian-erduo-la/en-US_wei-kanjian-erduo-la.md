@@ -1,5 +1,7 @@
 # Wei, Kanjian Erduo La!
 
+![wei-kanjian-erduo-la](https://cdn.myanimelist.net/images/anime/1654/93825.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 喂，看見耳朵啦！

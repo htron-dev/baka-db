@@ -1,5 +1,7 @@
 # Rikei Danshi. ~Bokura no Rikashitsu~
 
+![rikei-danshi-bokura-no-rikashitsu](https://cdn.myanimelist.net/images/manga/1/68149.jpg)
+
 -   **type**: manga
 -   **original-name**: 理系男子。～ぼくらの理科室～
 -   **start-date**: 2011-05-10

@@ -1,5 +1,7 @@
 # Kaishain vs. Credit Card Kachou: CreCar no Rule Shitteru kai?
 
+![kaishain-vs-credit-card-kachou-cre-car-no-rule-shitteru-kai](https://cdn.myanimelist.net/images/anime/1314/91527.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 貝社員 vs クレジットカード課長～クレカのルール知ってる貝？～

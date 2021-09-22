@@ -1,5 +1,7 @@
 # Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita
 
+![slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita](https://cdn.myanimelist.net/images/manga/2/207976.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スライム倒して 300 年、知らないうちにレベル MAX になってました
 -   **start-date**: 2017-01-14

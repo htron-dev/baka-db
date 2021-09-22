@@ -1,5 +1,7 @@
 # Initial D: Project D to the Next Stage - Project D e Mukete
 
+![initial-d-project-d-to-the-next-stage-project-d-e-mukete](https://cdn.myanimelist.net/images/anime/12/35739.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 頭文字 D to the Next Stage ～プロジェクト D へ向けて～

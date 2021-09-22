@@ -1,5 +1,7 @@
 # Kemono Friends: Comic Anthology - Japari Man-hen
 
+![kemono-friends-comic-anthology-japari-man-hen](https://cdn.myanimelist.net/images/manga/3/247364.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

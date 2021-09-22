@@ -1,5 +1,7 @@
 # Aku no Meshitsukai: Opera Buffa!
 
+![aku-no-meshitsukai-opera-buffa](https://cdn.myanimelist.net/images/manga/1/143221.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 悪ノ召使 ~おぺらぶっふぁ!~

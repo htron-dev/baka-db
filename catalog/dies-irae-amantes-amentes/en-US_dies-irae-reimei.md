@@ -1,5 +1,7 @@
 # Dies Irae: Reimei
 
+![dies-irae-reimei](https://cdn.myanimelist.net/images/anime/9/88229.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Dies irae (0) 黎明
@@ -23,4 +25,4 @@ Episode 0 of Dies Irae.
 -   [Official Site](http://diesirae-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11204)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19395)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Dies_irae_(visual_novel)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Dies_irae_%28visual_novel%29)

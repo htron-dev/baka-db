@@ -1,5 +1,7 @@
 # Ikenai Futari to Hajimete no Batsu
 
+![ikenai-futari-to-hajimete-no-batsu](https://cdn.myanimelist.net/images/manga/3/165144.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Oboreru hodo Itoshikute
 
+![oboreru-hodo-itoshikute](https://cdn.myanimelist.net/images/manga/1/118433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 溺れるほど愛しくて

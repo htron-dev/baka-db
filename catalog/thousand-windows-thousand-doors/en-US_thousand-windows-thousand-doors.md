@@ -1,5 +1,7 @@
 # Thousand Windows, Thousand Doors
 
+![thousand-windows-thousand-doors](https://cdn.myanimelist.net/images/manga/2/201653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

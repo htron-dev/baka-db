@@ -1,5 +1,7 @@
 # Nakamura-kun no Kinpa wa Yawarakai
 
+![nakamura-kun-no-kinpa-wa-yawarakai](https://cdn.myanimelist.net/images/manga/3/202306.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Heinetsu 37.2℃
 
+![heinetsu-37-2-℃](https://cdn.myanimelist.net/images/manga/2/174822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

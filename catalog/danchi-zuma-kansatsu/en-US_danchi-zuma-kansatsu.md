@@ -1,5 +1,7 @@
 # Danchi Zuma Kansatsu
 
+![danchi-zuma-kansatsu](https://cdn.myanimelist.net/images/manga/3/95911.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 団地ヅマ観察

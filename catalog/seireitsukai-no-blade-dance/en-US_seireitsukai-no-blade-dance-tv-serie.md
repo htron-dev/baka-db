@@ -1,5 +1,7 @@
 # Seireitsukai no Blade Dance
 
+![seireitsukai-no-blade-dance](https://cdn.myanimelist.net/images/anime/7/63031.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 精霊使いの剣舞〈ブレイドダンス〉

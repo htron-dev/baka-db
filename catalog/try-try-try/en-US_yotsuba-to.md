@@ -1,5 +1,7 @@
 # Yotsuba to!
 
+![yotsuba-to](https://cdn.myanimelist.net/images/manga/3/57369.jpg)
+
 -   **type**: manga
 -   **original-name**: よつばと!
 -   **start-date**: 2003-03-21

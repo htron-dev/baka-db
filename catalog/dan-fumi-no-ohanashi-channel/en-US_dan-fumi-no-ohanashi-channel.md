@@ -1,5 +1,7 @@
 # Dan Fumi no Ohanashi Channel
 
+![dan-fumi-no-ohanashi-channel](https://cdn.myanimelist.net/images/anime/5/85535.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 檀ふみのおはなしチャンネル

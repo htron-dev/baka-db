@@ -1,5 +1,7 @@
 # Azumi-san wa Taosenai!
 
+![azumi-san-wa-taosenai](https://cdn.myanimelist.net/images/manga/1/203954.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 50

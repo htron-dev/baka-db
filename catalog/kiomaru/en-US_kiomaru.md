@@ -1,5 +1,7 @@
 # Kiomaru
 
+![kiomaru](https://cdn.myanimelist.net/images/manga/2/19817.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

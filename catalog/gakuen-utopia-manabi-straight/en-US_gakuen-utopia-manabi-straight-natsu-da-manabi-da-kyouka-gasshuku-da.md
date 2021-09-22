@@ -1,5 +1,7 @@
 # Gakuen Utopia Manabi Straight!: Natsu da! Manabi da! Kyouka Gasshuku da!
 
+![gakuen-utopia-manabi-straight-natsu-da-manabi-da-kyouka-gasshuku-da](https://cdn.myanimelist.net/images/anime/8/26354.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: がくえんゆーとぴあ まなびストレート！夏だ! まなびだ! 強化合宿だ!

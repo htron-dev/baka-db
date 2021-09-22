@@ -1,5 +1,7 @@
 # Ω wa Pink no Yume wo Miru
 
+![ω-wa-pink-no-yume-wo-miru](https://cdn.myanimelist.net/images/manga/3/224692.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

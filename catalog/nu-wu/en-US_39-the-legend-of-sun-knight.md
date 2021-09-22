@@ -1,5 +1,7 @@
 # 39 - The Legend of Sun Knight
 
+![39-the-legend-of-sun-knight](https://cdn.myanimelist.net/images/manga/3/199999.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 39 – 吾命騎士
 -   **start-date**: 2012-08-28

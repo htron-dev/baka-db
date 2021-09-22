@@ -1,5 +1,7 @@
 # Kouga Ninpouchou: Aratame
 
+![kouga-ninpouchou-aratame](https://cdn.myanimelist.net/images/manga/1/146447.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 甲賀忍法帖・改

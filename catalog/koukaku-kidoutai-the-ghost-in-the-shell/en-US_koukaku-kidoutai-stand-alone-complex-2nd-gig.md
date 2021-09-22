@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex 2nd GIG
 
+![koukaku-kidoutai-stand-alone-complex-2nd-gig](https://cdn.myanimelist.net/images/anime/11/51465.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 攻殻機動隊 S.A.C. 2nd GIG

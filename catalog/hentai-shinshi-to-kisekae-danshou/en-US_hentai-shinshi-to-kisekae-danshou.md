@@ -1,5 +1,7 @@
 # Hentai Shinshi to Kisekae Danshou
 
+![hentai-shinshi-to-kisekae-danshou](https://cdn.myanimelist.net/images/manga/3/238047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

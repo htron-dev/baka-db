@@ -1,5 +1,7 @@
 # Suman, Shikin Boost yori Cheat na Skill Motteru Yatsu Oru?
 
+![suman-shikin-boost-yori-cheat-na-skill-motteru-yatsu-oru](https://cdn.myanimelist.net/images/manga/2/186079.jpg)
+
 -   **type**: light-novel
 -   **original-name**: すまん、資金ブーストよりチートなスキル持ってる奴おる?
 -   **start-date**: 2016-11-25

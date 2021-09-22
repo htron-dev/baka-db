@@ -1,5 +1,7 @@
 # Ota Kare Fujo Kano
 
+![ota-kare-fujo-kano](https://cdn.myanimelist.net/images/manga/1/207951.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

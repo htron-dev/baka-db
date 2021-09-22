@@ -1,5 +1,7 @@
 # 4 Shuunen Monst? Shiru ka yo!
 
+![4-shuunen-monst-shiru-ka-yo](https://cdn.myanimelist.net/images/anime/11/88496.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 4 周年 モンスト？知るかよ！

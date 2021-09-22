@@ -1,5 +1,7 @@
 # M3: Sono Kuroki Hagane
 
+![m-3-sono-kuroki-hagane](https://cdn.myanimelist.net/images/manga/3/148117.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

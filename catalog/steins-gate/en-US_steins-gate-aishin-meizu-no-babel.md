@@ -1,5 +1,7 @@
 # Steins;Gate: Aishin Meizu no Babel
 
+![steins-gate-aishin-meizu-no-babel](https://cdn.myanimelist.net/images/manga/2/84307.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

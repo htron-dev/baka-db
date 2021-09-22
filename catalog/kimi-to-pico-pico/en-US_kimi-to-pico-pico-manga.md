@@ -1,5 +1,7 @@
 # Kimi to Pico-Pico
 
+![kimi-to-pico-pico](https://cdn.myanimelist.net/images/manga/2/249723.jpg)
+
 -   **type**: manga
 -   **original-name**: きみとピコピコ
 -   **start-date**: 2021-03-28

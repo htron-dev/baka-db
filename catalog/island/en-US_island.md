@@ -1,5 +1,7 @@
 # Island
 
+![island](https://cdn.myanimelist.net/images/manga/3/510.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 46

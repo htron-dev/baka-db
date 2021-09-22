@@ -1,5 +1,7 @@
 # Sentouin, Hakenshimasu!
 
+![sentouin-hakenshimasu](https://cdn.myanimelist.net/images/manga/1/211200.jpg)
+
 -   **type**: manga
 -   **original-name**: 戦闘員、派遣します!
 -   **start-date**: 2018-03-27

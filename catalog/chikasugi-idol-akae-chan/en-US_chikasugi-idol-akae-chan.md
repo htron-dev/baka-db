@@ -1,5 +1,7 @@
 # Chikasugi Idol Akae-chan
 
+![chikasugi-idol-akae-chan](https://cdn.myanimelist.net/images/anime/2/59173.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 地下すぎアイドル あかえちゃん

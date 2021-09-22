@@ -1,5 +1,7 @@
 # Chiki Chiki Banana
 
+![chiki-chiki-banana](https://cdn.myanimelist.net/images/manga/3/9889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

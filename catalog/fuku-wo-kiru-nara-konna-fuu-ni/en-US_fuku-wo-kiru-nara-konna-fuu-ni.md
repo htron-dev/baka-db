@@ -1,5 +1,7 @@
 # Fuku wo Kiru Nara Konna Fuu ni
 
+![fuku-wo-kiru-nara-konna-fuu-ni](https://cdn.myanimelist.net/images/manga/1/193712.jpg)
+
 -   **type**: manga
 -   **original-name**: 服を着るならこんなふうに
 -   **start-date**: 2015-05-27

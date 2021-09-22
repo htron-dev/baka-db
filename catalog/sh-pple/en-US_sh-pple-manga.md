@@ -1,5 +1,7 @@
 # Sh@pple
 
+![sh-pple](https://cdn.myanimelist.net/images/manga/3/45607.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

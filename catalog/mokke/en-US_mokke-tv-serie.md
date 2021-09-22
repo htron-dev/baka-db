@@ -1,5 +1,7 @@
 # Mokke
 
+![mokke](https://cdn.myanimelist.net/images/anime/13/19674.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: もっけ

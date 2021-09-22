@@ -1,5 +1,7 @@
 # Ano, Kono Kubiwa wo Hamete Kudasaimasen ka?
 
+![ano-kono-kubiwa-wo-hamete-kudasaimasen-ka](https://cdn.myanimelist.net/images/manga/2/179130.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Category:Freaks
 
+![category-freaks](https://cdn.myanimelist.net/images/manga/3/155801.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

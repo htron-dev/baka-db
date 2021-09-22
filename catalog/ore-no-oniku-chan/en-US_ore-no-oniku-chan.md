@@ -1,5 +1,7 @@
 # Ore no Oniku-chan
 
+![ore-no-oniku-chan](https://cdn.myanimelist.net/images/manga/2/223685.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

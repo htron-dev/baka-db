@@ -1,5 +1,7 @@
 # Saba Doll
 
+![saba-doll](https://cdn.myanimelist.net/images/manga/2/68311.jpg)
+
 -   **type**: manga
 -   **original-name**: さばドル
 -   **start-date**: 2012-01-16

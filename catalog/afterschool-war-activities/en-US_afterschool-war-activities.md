@@ -1,5 +1,7 @@
 # Afterschool War Activities
 
+![afterschool-war-activities](https://cdn.myanimelist.net/images/manga/3/109677.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 50

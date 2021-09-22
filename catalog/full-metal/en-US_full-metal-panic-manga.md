@@ -1,5 +1,7 @@
 # Full Metal Panic!
 
+![full-metal-panic](https://cdn.myanimelist.net/images/manga/5/111469.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 58

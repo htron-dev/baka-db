@@ -1,5 +1,7 @@
 # Loveholic Guys
 
+![loveholic-guys](https://cdn.myanimelist.net/images/manga/2/203728.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

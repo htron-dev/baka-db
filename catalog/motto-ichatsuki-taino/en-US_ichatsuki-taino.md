@@ -1,5 +1,7 @@
 # Ichatsuki Taino
 
+![ichatsuki-taino](https://cdn.myanimelist.net/images/manga/2/119883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: いちゃつきたいの

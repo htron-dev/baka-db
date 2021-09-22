@@ -1,5 +1,7 @@
 # Theseus no Fune
 
+![theseus-no-fune](https://cdn.myanimelist.net/images/manga/2/201655.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 89

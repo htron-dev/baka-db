@@ -1,5 +1,7 @@
 # Bokutachi Otokonoko
 
+![bokutachi-otokonoko](https://cdn.myanimelist.net/images/manga/4/33327.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

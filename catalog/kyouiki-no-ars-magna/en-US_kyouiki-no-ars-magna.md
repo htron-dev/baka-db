@@ -1,5 +1,7 @@
 # Kyouiki no Ars Magna
 
+![kyouiki-no-ars-magna](https://cdn.myanimelist.net/images/manga/1/200620.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

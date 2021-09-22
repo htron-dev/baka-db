@@ -1,5 +1,7 @@
 # Badminton Girl
 
+![badminton-girl](https://cdn.myanimelist.net/images/manga/3/207285.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

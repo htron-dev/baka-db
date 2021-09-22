@@ -1,5 +1,7 @@
 # Tenshi na Konamaiki Specials
 
+![tenshi-na-konamaiki-specials](https://cdn.myanimelist.net/images/anime/8/39411.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: 天使な小生意気 DVD スペシャル

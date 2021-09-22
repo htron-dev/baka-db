@@ -1,5 +1,7 @@
 # Pokemon Movie 01: Mewtwo no Gyakushuu
 
+![pokemon-movie-01-mewtwo-no-gyakushuu](https://cdn.myanimelist.net/images/anime/13/65699.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター ミュウツーの逆襲
@@ -13,7 +15,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   drama
 -   fantasy
 

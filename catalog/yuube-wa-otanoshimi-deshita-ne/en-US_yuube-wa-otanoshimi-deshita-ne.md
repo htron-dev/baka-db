@@ -1,5 +1,7 @@
 # Yuube wa Otanoshimi Deshita ne
 
+![yuube-wa-otanoshimi-deshita-ne](https://cdn.myanimelist.net/images/manga/3/156176.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆうべはお楽しみでしたね
 -   **start-date**: 2014-06-20

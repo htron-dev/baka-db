@@ -1,5 +1,7 @@
 # Mahou Kabushikigaisha
 
+![mahou-kabushikigaisha](https://cdn.myanimelist.net/images/manga/3/11377.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 魔法株式会社

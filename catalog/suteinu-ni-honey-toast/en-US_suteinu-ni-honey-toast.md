@@ -1,5 +1,7 @@
 # Suteinu ni Honey Toast
 
+![suteinu-ni-honey-toast](https://cdn.myanimelist.net/images/manga/3/209851.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

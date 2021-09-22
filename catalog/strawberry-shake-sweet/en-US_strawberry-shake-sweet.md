@@ -1,5 +1,7 @@
 # Strawberry Shake Sweet
 
+![strawberry-shake-sweet](https://cdn.myanimelist.net/images/manga/3/10151.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

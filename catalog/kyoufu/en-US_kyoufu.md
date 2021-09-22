@@ -1,5 +1,7 @@
 # Kyoufu
 
+![kyoufu](https://cdn.myanimelist.net/images/manga/1/229879.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Warlock x Holmes
 
+![warlock-x-holmes](https://cdn.myanimelist.net/images/manga/2/158576.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔探偵〈ウォーロック〉× ホームズ

@@ -1,5 +1,7 @@
 # Life So Happy
 
+![life-so-happy](https://cdn.myanimelist.net/images/manga/2/187386.jpg)
+
 -   **type**: manga
 -   **original-name**: LIFE SO HAPPY
 -   **start-date**: 2016-04-05

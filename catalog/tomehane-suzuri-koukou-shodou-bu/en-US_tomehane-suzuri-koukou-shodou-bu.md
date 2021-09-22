@@ -1,5 +1,7 @@
 # Tomehane!: Suzuri Koukou Shodou-bu
 
+![tomehane-suzuri-koukou-shodou-bu](https://cdn.myanimelist.net/images/manga/1/161228.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 179

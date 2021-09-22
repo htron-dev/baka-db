@@ -1,5 +1,7 @@
 # Stylish Buki-ya
 
+![stylish-buki-ya](https://cdn.myanimelist.net/images/manga/1/197303.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スタイリッシュ武器屋
 -   **start-date**: 2017-05-31

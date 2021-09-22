@@ -1,5 +1,7 @@
 # Kokoro Connect
 
+![kokoro-connect](https://cdn.myanimelist.net/images/manga/2/197785.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 91

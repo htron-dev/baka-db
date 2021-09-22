@@ -1,5 +1,7 @@
 # Kumo no Miru Yume
 
+![kumo-no-miru-yume](https://cdn.myanimelist.net/images/manga/1/183296.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

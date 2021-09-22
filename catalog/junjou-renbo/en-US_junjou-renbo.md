@@ -1,5 +1,7 @@
 # Junjou Renbo
 
+![junjou-renbo](https://cdn.myanimelist.net/images/manga/2/79967.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 純情恋慕

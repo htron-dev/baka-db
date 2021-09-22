@@ -1,5 +1,7 @@
 # Papa no Iukoto wo Kikinasai!: Takanashi no Hidamari
 
+![papa-no-iukoto-wo-kikinasai-takanashi-no-hidamari](https://cdn.myanimelist.net/images/manga/1/178667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

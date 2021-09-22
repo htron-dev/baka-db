@@ -1,5 +1,7 @@
 # Joou Heika to Yobanaide
 
+![joou-heika-to-yobanaide](https://cdn.myanimelist.net/images/manga/2/245161.jpg)
+
 -   **type**: manga
 -   **original-name**: 女王陛下と呼ばないで
 -   **start-date**: 2020-02-18

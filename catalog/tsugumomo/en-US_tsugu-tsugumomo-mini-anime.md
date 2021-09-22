@@ -1,5 +1,7 @@
 # Tsugu Tsugumomo Mini Anime
 
+![tsugu-tsugumomo-mini-anime](https://cdn.myanimelist.net/images/anime/1469/114202.jpg)
+
 -   **type**: ona
 -   **episodes**: 67
 -   **original-name**: 継つぐももミニアニメ

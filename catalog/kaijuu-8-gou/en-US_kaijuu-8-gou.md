@@ -1,5 +1,7 @@
 # Kaijuu 8-gou
 
+![kaijuu-8-gou](https://cdn.myanimelist.net/images/manga/1/237941.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪獣 8 号
 -   **start-date**: 2020-07-03

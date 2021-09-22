@@ -1,5 +1,7 @@
 # Kachou Ouji Gaiden
 
+![kachou-ouji-gaiden](https://cdn.myanimelist.net/images/manga/2/200720.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

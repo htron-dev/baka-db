@@ -1,5 +1,7 @@
 # Shoujo Jiten
 
+![shoujo-jiten](https://cdn.myanimelist.net/images/manga/3/215077.jpg)
+
 -   **type**: manga
 -   **original-name**: 少女辞典
 -   **start-date**: 2017-05-29

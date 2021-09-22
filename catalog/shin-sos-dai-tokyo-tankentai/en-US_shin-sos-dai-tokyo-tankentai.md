@@ -1,5 +1,7 @@
 # Shin SOS Dai Tokyo Tankentai
 
+![shin-sos-dai-tokyo-tankentai](https://cdn.myanimelist.net/images/anime/10/27457.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新 SOS 大東京探検隊

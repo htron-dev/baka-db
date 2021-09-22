@@ -1,5 +1,7 @@
 # Nasu: Suitcase no Wataridori
 
+![nasu-suitcase-no-wataridori](https://cdn.myanimelist.net/images/anime/12/4737.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 茄子 スーツケースの渡り鳥

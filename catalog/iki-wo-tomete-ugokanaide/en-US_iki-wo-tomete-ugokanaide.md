@@ -1,5 +1,7 @@
 # Iki wo Tomete, Ugokanaide
 
+![iki-wo-tomete-ugokanaide](https://cdn.myanimelist.net/images/manga/3/189740.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

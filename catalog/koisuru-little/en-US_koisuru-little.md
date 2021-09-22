@@ -1,5 +1,7 @@
 # Koisuru Little
 
+![koisuru-little](https://cdn.myanimelist.net/images/manga/1/175567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

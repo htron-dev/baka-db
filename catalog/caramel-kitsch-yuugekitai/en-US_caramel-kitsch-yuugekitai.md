@@ -1,5 +1,7 @@
 # Caramel Kitsch Yuugekitai
 
+![caramel-kitsch-yuugekitai](https://cdn.myanimelist.net/images/manga/2/82868.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: カラメルキッチュ遊撃隊

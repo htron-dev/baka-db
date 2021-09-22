@@ -1,5 +1,7 @@
 # Danshiryou no Otoko no Ko
 
+![danshiryou-no-otoko-no-ko](https://cdn.myanimelist.net/images/manga/1/190619.jpg)
+
 -   **type**: manga
 -   **original-name**: 男子寮のオトコの娘
 -   **start-date**: 2015-12-01

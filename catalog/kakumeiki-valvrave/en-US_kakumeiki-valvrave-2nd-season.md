@@ -1,5 +1,7 @@
 # Kakumeiki Valvrave 2nd Season
 
+![kakumeiki-valvrave-2nd-season](https://cdn.myanimelist.net/images/anime/5/56573.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 革命機ヴァルヴレイヴ　 2nd シーズン

@@ -1,5 +1,7 @@
 # Kawaii Beast
 
+![kawaii-beast](https://cdn.myanimelist.net/images/manga/2/759.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

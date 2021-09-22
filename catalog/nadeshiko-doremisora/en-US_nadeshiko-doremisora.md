@@ -1,5 +1,7 @@
 # Nadeshiko Doremisora
 
+![nadeshiko-doremisora](https://cdn.myanimelist.net/images/manga/3/190033.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

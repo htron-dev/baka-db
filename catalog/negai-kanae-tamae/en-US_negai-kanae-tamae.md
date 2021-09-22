@@ -1,5 +1,7 @@
 # Negai Kanae Tamae
 
+![negai-kanae-tamae](https://cdn.myanimelist.net/images/manga/1/937.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

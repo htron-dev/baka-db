@@ -1,5 +1,7 @@
 # Waraibanashi no You da
 
+![waraibanashi-no-you-da](https://cdn.myanimelist.net/images/manga/2/173136.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ousama no Koiasobi
 
+![ousama-no-koiasobi](https://cdn.myanimelist.net/images/manga/3/167465.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

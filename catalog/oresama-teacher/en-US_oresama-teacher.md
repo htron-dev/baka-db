@@ -1,5 +1,7 @@
 # Oresama Teacher
 
+![oresama-teacher](https://cdn.myanimelist.net/images/manga/4/186262.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **original-name**: 俺様ティーチャー

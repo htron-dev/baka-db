@@ -1,5 +1,7 @@
 # Girly Air Force
 
+![girly-air-force](https://cdn.myanimelist.net/images/manga/2/176464.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ガーリー・エアフォース
 -   **start-date**: 2014-09-10

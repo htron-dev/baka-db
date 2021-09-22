@@ -1,5 +1,7 @@
 # Nayamuhodo Nara Koi to Yobe!
 
+![nayamuhodo-nara-koi-to-yobe](https://cdn.myanimelist.net/images/manga/3/28385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

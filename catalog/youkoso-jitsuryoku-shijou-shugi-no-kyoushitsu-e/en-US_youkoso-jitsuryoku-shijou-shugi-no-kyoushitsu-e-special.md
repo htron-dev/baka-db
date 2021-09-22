@@ -1,5 +1,7 @@
 # Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 
+![youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e](https://cdn.myanimelist.net/images/anime/13/74160.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ようこそ実力至上主義の教室へ

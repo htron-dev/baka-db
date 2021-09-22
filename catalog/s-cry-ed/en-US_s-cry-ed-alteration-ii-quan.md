@@ -1,5 +1,7 @@
 # s.CRY.ed Alteration II: Quan
 
+![s-cry-ed-alteration-ii-quan](https://cdn.myanimelist.net/images/anime/4/73950.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スクライド オルタレイション 後編 ＱＵＡＮ

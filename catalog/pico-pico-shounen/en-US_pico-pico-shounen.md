@@ -1,5 +1,7 @@
 # Pico-Pico Shounen
 
+![pico-pico-shounen](https://cdn.myanimelist.net/images/manga/1/84063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

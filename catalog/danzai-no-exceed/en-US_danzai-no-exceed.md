@@ -1,5 +1,7 @@
 # Danzai no Exceed
 
+![danzai-no-exceed](https://cdn.myanimelist.net/images/manga/1/163420.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 32

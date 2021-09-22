@@ -1,5 +1,7 @@
 # Neko ni Matatabi Koibanashi
 
+![neko-ni-matatabi-koibanashi](https://cdn.myanimelist.net/images/manga/2/239881.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ねこにまたたび恋ばなし

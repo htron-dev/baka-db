@@ -1,5 +1,7 @@
 # Shingan no Yuusha
 
+![shingan-no-yuusha](https://cdn.myanimelist.net/images/manga/1/206288.jpg)
+
 -   **type**: manga
 -   **original-name**: 神眼の勇者
 -   **start-date**: 2017-09-26

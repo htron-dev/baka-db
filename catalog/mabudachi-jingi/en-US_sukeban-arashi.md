@@ -1,5 +1,7 @@
 # Sukeban Arashi
 
+![sukeban-arashi](https://cdn.myanimelist.net/images/manga/2/145135.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

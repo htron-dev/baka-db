@@ -1,5 +1,7 @@
 # Vivy: Fluorite Eye's Song - To Make Everyone Happy With My Singing
 
+![vivy-fluorite-eyes-song-to-make-everyone-happy-with-my-singing](https://cdn.myanimelist.net/images/anime/1100/116059.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Vivy -Fluorite Eye's Song- 特別総集編「-To make everyone happy with my singing-」

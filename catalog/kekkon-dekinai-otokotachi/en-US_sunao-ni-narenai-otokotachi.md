@@ -1,5 +1,7 @@
 # Sunao ni Narenai Otokotachi
 
+![sunao-ni-narenai-otokotachi](https://cdn.myanimelist.net/images/manga/3/7395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

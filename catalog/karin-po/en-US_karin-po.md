@@ -1,5 +1,7 @@
 # Karin-po
 
+![karin-po](https://cdn.myanimelist.net/images/manga/2/197017.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

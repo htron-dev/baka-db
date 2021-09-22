@@ -1,5 +1,7 @@
 # Lu Shidai 2nd Season
 
+![lu-shidai-2nd-season](https://cdn.myanimelist.net/images/anime/3/78125.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 撸时代第 2 季

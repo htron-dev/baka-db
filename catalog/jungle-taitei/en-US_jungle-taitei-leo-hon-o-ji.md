@@ -1,5 +1,7 @@
 # Jungle Taitei Leo: Hon-o-ji
 
+![jungle-taitei-leo-hon-o-ji](https://cdn.myanimelist.net/images/anime/12/49585.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジャングル大帝

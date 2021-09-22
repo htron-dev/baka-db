@@ -1,5 +1,7 @@
 # Se~fukumono
 
+![se-fukumono](https://cdn.myanimelist.net/images/manga/3/150421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

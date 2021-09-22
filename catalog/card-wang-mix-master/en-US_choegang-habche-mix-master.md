@@ -1,5 +1,7 @@
 # Choegang Habche: Mix Master
 
+![choegang-habche-mix-master](https://cdn.myanimelist.net/images/anime/10/75089.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 최강 합체 믹스마스터

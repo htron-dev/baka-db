@@ -1,5 +1,7 @@
 # Death/Communication
 
+![death-communication](https://cdn.myanimelist.net/images/manga/2/65269.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

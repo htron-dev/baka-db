@@ -1,5 +1,7 @@
 # Hataraku Saibou Black (TV)
 
+![hataraku-saibou-black-tv](https://cdn.myanimelist.net/images/anime/1837/110799.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: はたらく細胞 BLACK

@@ -1,5 +1,7 @@
 # Koibito-tachi no Midara na Koi
 
+![koibito-tachi-no-midara-na-koi](https://cdn.myanimelist.net/images/manga/1/79735.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋人たちのミダラな夜

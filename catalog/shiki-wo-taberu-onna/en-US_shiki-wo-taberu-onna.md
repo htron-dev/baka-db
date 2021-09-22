@@ -1,5 +1,7 @@
 # Shiki wo Taberu Onna
 
+![shiki-wo-taberu-onna](https://cdn.myanimelist.net/images/manga/2/226916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

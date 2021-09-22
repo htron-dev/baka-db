@@ -1,5 +1,7 @@
 # Kare to Koi nante
 
+![kare-to-koi-nante](https://cdn.myanimelist.net/images/manga/1/175316.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 33

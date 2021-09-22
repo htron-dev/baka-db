@@ -1,5 +1,7 @@
 # Cheat Code de Ore TUEEE na Isekai Tabi
 
+![cheat-code-de-ore-tueee-na-isekai-tabi](https://cdn.myanimelist.net/images/manga/1/183327.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

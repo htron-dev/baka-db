@@ -1,5 +1,7 @@
 # Gakkyuu Ou Yamazaki Specials
 
+![gakkyuu-ou-yamazaki-specials](https://cdn.myanimelist.net/images/anime/5/70751.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 学級王ヤマザキ

@@ -1,5 +1,7 @@
 # Cinderella Closet
 
+![cinderella-closet](https://cdn.myanimelist.net/images/manga/1/227050.jpg)
+
 -   **type**: manga
 -   **original-name**: シンデレラ クロゼット
 -   **start-date**: 2019-06-13

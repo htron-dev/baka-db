@@ -1,5 +1,7 @@
 # R²: Rise R to the Second Power
 
+![r-rise-r-to-the-second-power](https://cdn.myanimelist.net/images/manga/2/207781.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

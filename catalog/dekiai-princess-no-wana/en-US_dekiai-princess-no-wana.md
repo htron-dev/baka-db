@@ -1,5 +1,7 @@
 # Dekiai Princess no Wana
 
+![dekiai-princess-no-wana](https://cdn.myanimelist.net/images/manga/3/184643.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

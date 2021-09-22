@@ -1,5 +1,7 @@
 # Kuroshitsuji: Book of Circus
 
+![kuroshitsuji-book-of-circus](https://cdn.myanimelist.net/images/anime/6/64811.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 黒執事 Book of Circus

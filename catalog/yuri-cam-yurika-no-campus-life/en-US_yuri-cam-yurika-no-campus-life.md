@@ -1,5 +1,7 @@
 # YuriCam: Yurika no Campus Life
 
+![yuri-cam-yurika-no-campus-life](https://cdn.myanimelist.net/images/manga/3/62909.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

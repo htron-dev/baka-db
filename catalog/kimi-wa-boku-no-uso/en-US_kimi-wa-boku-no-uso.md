@@ -1,5 +1,7 @@
 # Kimi wa Boku no Uso
 
+![kimi-wa-boku-no-uso](https://cdn.myanimelist.net/images/manga/1/236500.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

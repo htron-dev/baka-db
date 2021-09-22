@@ -1,5 +1,7 @@
 # Houshin Saiban
 
+![houshin-saiban](https://cdn.myanimelist.net/images/manga/1/160628.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 封神裁判

@@ -1,5 +1,7 @@
 # Shougun Ouji no Dekiai Hanayome: Kurenai no Shitone ni Botan wa Midareru
 
+![shougun-ouji-no-dekiai-hanayome-kurenai-no-shitone-ni-botan-wa-midareru](https://cdn.myanimelist.net/images/manga/1/192825.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

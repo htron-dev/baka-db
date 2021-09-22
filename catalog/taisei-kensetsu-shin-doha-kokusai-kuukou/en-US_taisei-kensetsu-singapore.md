@@ -1,5 +1,7 @@
 # Taisei Kensetsu: Singapore
 
+![taisei-kensetsu-singapore](https://cdn.myanimelist.net/images/anime/1627/93253.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 大成建設テレビ CM「シンガポール」篇

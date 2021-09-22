@@ -1,5 +1,7 @@
 # Bishounen to Kyoudai Hajimemashita
 
+![bishounen-to-kyoudai-hajimemashita](https://cdn.myanimelist.net/images/manga/1/234508.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

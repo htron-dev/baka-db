@@ -1,5 +1,7 @@
 # Omae de Nakya Dame Mitai
 
+![omae-de-nakya-dame-mitai](https://cdn.myanimelist.net/images/manga/1/55527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

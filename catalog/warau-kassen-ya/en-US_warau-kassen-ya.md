@@ -1,5 +1,7 @@
 # Warau Kassen-ya
 
+![warau-kassen-ya](https://cdn.myanimelist.net/images/manga/2/191667.jpg)
+
 -   **type**: manga
 -   **original-name**: 哄う合戦屋
 -   **start-date**: 2016-05-27

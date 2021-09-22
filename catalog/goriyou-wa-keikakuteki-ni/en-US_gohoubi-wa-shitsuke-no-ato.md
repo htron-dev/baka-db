@@ -1,5 +1,7 @@
 # Gohoubi wa Shitsuke no Ato
 
+![gohoubi-wa-shitsuke-no-ato](https://cdn.myanimelist.net/images/manga/2/229119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

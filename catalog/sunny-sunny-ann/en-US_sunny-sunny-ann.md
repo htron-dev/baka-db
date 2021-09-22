@@ -1,5 +1,7 @@
 # Sunny Sunny Ann!
 
+![sunny-sunny-ann](https://cdn.myanimelist.net/images/manga/1/150305.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Sunny Sunny Ann!

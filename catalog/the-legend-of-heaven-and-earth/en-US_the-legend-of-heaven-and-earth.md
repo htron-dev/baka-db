@@ -1,5 +1,7 @@
 # The Legend of Heaven and Earth
 
+![the-legend-of-heaven-and-earth](https://cdn.myanimelist.net/images/manga/1/11617.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

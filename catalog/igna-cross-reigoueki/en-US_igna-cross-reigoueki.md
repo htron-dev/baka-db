@@ -1,5 +1,7 @@
 # Igna-Cross Reigoueki
 
+![igna-cross-reigoueki](https://cdn.myanimelist.net/images/manga/3/192510.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

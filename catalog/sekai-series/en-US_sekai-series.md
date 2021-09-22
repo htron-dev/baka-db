@@ -1,5 +1,7 @@
 # Sekai Series
 
+![sekai-series](https://cdn.myanimelist.net/images/manga/1/33875.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 世界シリーズ
 -   **start-date**: 2003-11-05

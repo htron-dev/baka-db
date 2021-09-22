@@ -1,5 +1,7 @@
 # Chiisana Kyojin Microman: Daigekisen! Microman vs. Saikyou Senshi Gorgon
 
+![chiisana-kyojin-microman-daigekisen-microman-vs-saikyou-senshi-gorgon](https://cdn.myanimelist.net/images/anime/1323/96534.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 小さな巨人 ミクロマン 大激戦! ミクロマン VS 最強戦士ゴルゴン

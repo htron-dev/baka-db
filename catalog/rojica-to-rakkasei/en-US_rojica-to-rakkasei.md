@@ -1,5 +1,7 @@
 # Rojica to Rakkasei
 
+![rojica-to-rakkasei](https://cdn.myanimelist.net/images/manga/1/222836.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

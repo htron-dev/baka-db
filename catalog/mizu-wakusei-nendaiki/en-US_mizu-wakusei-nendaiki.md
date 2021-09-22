@@ -1,5 +1,7 @@
 # Mizu Wakusei Nendaiki
 
+![mizu-wakusei-nendaiki](https://cdn.myanimelist.net/images/manga/2/27524.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 水惑星年代記

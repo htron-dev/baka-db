@@ -1,5 +1,7 @@
 # 6LDK: Oogataken ga Nyuukyoshimashita
 
+![6-ldk-oogataken-ga-nyuukyoshimashita](https://cdn.myanimelist.net/images/manga/2/71929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

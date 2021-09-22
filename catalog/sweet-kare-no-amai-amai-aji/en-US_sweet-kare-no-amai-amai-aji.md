@@ -1,5 +1,7 @@
 # Sweet: Kare no Amai Amai Aji
 
+![sweet-kare-no-amai-amai-aji](https://cdn.myanimelist.net/images/manga/1/30153.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

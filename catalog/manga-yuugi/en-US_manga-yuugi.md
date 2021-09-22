@@ -1,5 +1,7 @@
 # Manga Yuugi
 
+![manga-yuugi](https://cdn.myanimelist.net/images/manga/3/159401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まんが遊戯

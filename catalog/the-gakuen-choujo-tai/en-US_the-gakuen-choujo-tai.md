@@ -1,5 +1,7 @@
 # The Gakuen Choujo-tai
 
+![the-gakuen-choujo-tai](https://cdn.myanimelist.net/images/anime/10/34829.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ザ・学園超女隊

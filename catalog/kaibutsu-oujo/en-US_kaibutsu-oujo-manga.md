@@ -1,5 +1,7 @@
 # Kaibutsu Oujo
 
+![kaibutsu-oujo](https://cdn.myanimelist.net/images/manga/1/163097.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 87

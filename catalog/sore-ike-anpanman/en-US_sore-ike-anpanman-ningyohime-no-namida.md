@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Ningyohime no Namida
 
+![sore-ike-anpanman-ningyohime-no-namida](https://cdn.myanimelist.net/images/anime/8/26291.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ！アンパンマン 人魚姫のなみだ

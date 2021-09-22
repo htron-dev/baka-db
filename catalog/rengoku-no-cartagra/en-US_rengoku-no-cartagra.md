@@ -1,5 +1,7 @@
 # Rengoku no Cartagra
 
+![rengoku-no-cartagra](https://cdn.myanimelist.net/images/manga/2/112799.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

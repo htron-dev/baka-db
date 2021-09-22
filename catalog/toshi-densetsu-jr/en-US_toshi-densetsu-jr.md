@@ -1,5 +1,7 @@
 # Toshi Densetsu Jr.
 
+![toshi-densetsu-jr](https://cdn.myanimelist.net/images/manga/2/238914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

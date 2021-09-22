@@ -1,5 +1,7 @@
 # Otoko no Yaruki Meshi!
 
+![otoko-no-yaruki-meshi](https://cdn.myanimelist.net/images/manga/1/189596.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

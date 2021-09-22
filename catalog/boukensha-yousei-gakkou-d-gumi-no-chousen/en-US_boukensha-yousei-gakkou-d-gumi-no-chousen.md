@@ -1,5 +1,7 @@
 # Boukensha Yousei Gakkou D-gumi no Chousen
 
+![boukensha-yousei-gakkou-d-gumi-no-chousen](https://cdn.myanimelist.net/images/manga/1/162718.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

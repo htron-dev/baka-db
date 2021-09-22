@@ -1,5 +1,7 @@
 # Nemureru Majo
 
+![nemureru-majo](https://cdn.myanimelist.net/images/manga/1/40035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 眠れる魔女

@@ -1,5 +1,7 @@
 # The Edge
 
+![the-edge](https://cdn.myanimelist.net/images/manga/2/236367.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

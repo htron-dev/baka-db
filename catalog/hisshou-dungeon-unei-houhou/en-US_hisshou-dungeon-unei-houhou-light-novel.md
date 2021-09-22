@@ -1,5 +1,7 @@
 # Hisshou Dungeon Unei Houhou
 
+![hisshou-dungeon-unei-houhou](https://cdn.myanimelist.net/images/manga/2/179006.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 必勝ダンジョン運営方法
 -   **start-date**: 2015-05-29

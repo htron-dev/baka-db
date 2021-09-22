@@ -1,5 +1,7 @@
 # Shimauma Gaiden: Aka to Kiinu
 
+![shimauma-gaiden-aka-to-kiinu](https://cdn.myanimelist.net/images/manga/1/172295.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

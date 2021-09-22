@@ -1,5 +1,7 @@
 # The Borgman: Last Battle
 
+![the-borgman-last-battle](https://cdn.myanimelist.net/images/anime/1322/106024.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: THE·BORGMAN LAST BATTLE (ザ・ボーグマン ラストバトル)

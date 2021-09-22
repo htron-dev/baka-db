@@ -1,5 +1,7 @@
 # Violence &amp; Peace
 
+![violence-amp-peace](https://cdn.myanimelist.net/images/manga/1/198950.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

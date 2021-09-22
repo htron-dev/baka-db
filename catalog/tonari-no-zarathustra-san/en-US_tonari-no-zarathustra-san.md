@@ -1,5 +1,7 @@
 # Tonari no Zarathustra-san
 
+![tonari-no-zarathustra-san](https://cdn.myanimelist.net/images/manga/2/41104.jpg)
+
 -   **type**: manga
 -   **original-name**: となりのツァラトゥストラさん
 -   **start-date**: 2011-02-05

@@ -1,5 +1,7 @@
 # Henteko na Volunteer
 
+![henteko-na-volunteer](https://cdn.myanimelist.net/images/anime/11/68489.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: へんてこなボランティア

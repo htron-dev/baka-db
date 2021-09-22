@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index: Endymion no Kiseki
 
+![toaru-majutsu-no-index-endymion-no-kiseki](https://cdn.myanimelist.net/images/manga/1/100847.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

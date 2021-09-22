@@ -1,5 +1,7 @@
 # Kikansha Yaemon: D51 no Daibouken
 
+![kikansha-yaemon-d-51-no-daibouken](https://cdn.myanimelist.net/images/anime/9/22652.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: D51 の大冒険 きかんしゃやえもん

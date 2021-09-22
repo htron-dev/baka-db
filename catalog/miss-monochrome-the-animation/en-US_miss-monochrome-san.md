@@ -1,5 +1,7 @@
 # Miss Monochrome-san
 
+![miss-monochrome-san](https://cdn.myanimelist.net/images/manga/3/137239.jpg)
+
 -   **type**: manga
 -   **original-name**: ミス・モノクロームさん
 -   **start-date**: 2014-01-29

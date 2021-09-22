@@ -1,5 +1,7 @@
 # Mama wa Sports Doctor
 
+![mama-wa-sports-doctor](https://cdn.myanimelist.net/images/manga/1/209575.jpg)
+
 -   **type**: manga
 -   **original-name**: ママはスポーツドクター
 -   **start-date**: 2017-04-28

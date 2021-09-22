@@ -1,5 +1,7 @@
 # Koukyoushihen Eureka Seven: Kinkyuu Tokuban Navigation ray=out
 
+![koukyoushihen-eureka-seven-kinkyuu-tokuban-navigation-ray-out](https://cdn.myanimelist.net/images/anime/4/14506.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 交響詩篇エウレカセブン 緊急特番 ナビゲーション ray=out

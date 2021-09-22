@@ -1,5 +1,7 @@
 # Soba ni Ite mo Iinda ze
 
+![soba-ni-ite-mo-iinda-ze](https://cdn.myanimelist.net/images/manga/3/186507.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: そばにいてもいいんだぜ

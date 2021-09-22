@@ -1,5 +1,7 @@
 # Keroro
 
+![keroro](https://cdn.myanimelist.net/images/anime/12/58163.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: ケロロ

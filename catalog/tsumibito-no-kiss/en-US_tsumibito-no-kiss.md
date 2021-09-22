@@ -1,5 +1,7 @@
 # Tsumibito no Kiss
 
+![tsumibito-no-kiss](https://cdn.myanimelist.net/images/manga/4/146667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

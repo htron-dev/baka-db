@@ -1,5 +1,7 @@
 # Witch Craft Works
 
+![witch-craft-works](https://cdn.myanimelist.net/images/anime/12/55693.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ウィッチクラフトワークス

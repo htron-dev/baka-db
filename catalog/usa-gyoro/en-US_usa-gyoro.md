@@ -1,5 +1,7 @@
 # Usa Gyoro!
 
+![usa-gyoro](https://cdn.myanimelist.net/images/manga/1/149128.jpg)
+
 -   **type**: manga
 -   **original-name**: うさギョロ!
 -   **start-date**: 2010-08-11

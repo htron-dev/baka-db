@@ -1,5 +1,7 @@
 # Alice or Alice
 
+![alice-or-alice](https://cdn.myanimelist.net/images/anime/5/89571.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ありす or ありす

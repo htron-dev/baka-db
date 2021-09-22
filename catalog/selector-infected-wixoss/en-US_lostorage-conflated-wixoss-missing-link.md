@@ -1,5 +1,7 @@
 # Lostorage Conflated WIXOSS: Missing Link
 
+![lostorage-conflated-wixoss-missing-link](https://cdn.myanimelist.net/images/anime/10/87210.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Lostorage conflated WIXOSS -missing link-

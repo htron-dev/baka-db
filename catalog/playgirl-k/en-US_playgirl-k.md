@@ -1,5 +1,7 @@
 # Playgirl K
 
+![playgirl-k](https://cdn.myanimelist.net/images/manga/1/27195.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: プレイガールＫ

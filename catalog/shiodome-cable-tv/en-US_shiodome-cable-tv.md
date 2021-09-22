@@ -1,5 +1,7 @@
 # Shiodome Cable TV
 
+![shiodome-cable-tv](https://cdn.myanimelist.net/images/anime/8/29262.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 汐留ケーブルテレビ

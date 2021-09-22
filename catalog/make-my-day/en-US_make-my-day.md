@@ -1,5 +1,7 @@
 # Make My Day
 
+![make-my-day](https://cdn.myanimelist.net/images/anime/1038/115671.jpg)
+
 -   **type**: ona
 -   **original-name**: MAKE MY DAY
 -   **rating**: None

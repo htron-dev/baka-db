@@ -1,5 +1,7 @@
 # Yomehana: Yome dewa Naku Hana desu
 
+![yomehana-yome-dewa-naku-hana-desu](https://cdn.myanimelist.net/images/manga/3/246193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

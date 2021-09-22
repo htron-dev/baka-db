@@ -1,5 +1,7 @@
 # Bishounen no Oheya
 
+![bishounen-no-oheya](https://cdn.myanimelist.net/images/manga/2/39747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

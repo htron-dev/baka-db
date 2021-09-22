@@ -1,5 +1,7 @@
 # Nemurenu Ou ni Sasagu Yogatari
 
+![nemurenu-ou-ni-sasagu-yogatari](https://cdn.myanimelist.net/images/manga/1/171046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

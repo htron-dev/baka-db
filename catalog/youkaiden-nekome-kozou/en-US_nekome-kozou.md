@@ -1,5 +1,7 @@
 # Nekome Kozou
 
+![nekome-kozou](https://cdn.myanimelist.net/images/manga/3/76165.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

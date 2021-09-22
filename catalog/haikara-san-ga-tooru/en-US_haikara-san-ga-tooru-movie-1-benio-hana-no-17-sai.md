@@ -1,5 +1,7 @@
 # Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai
 
+![haikara-san-ga-tooru-movie-1-benio-hana-no-17-sai](https://cdn.myanimelist.net/images/anime/1061/93069.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 はいからさんが通る 前編 ～紅緒、花の 17 歳～

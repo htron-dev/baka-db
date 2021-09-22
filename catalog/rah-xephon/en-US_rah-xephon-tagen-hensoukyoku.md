@@ -1,5 +1,7 @@
 # RahXephon: Tagen Hensoukyoku
 
+![rah-xephon-tagen-hensoukyoku](https://cdn.myanimelist.net/images/anime/1771/94881.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ラーゼフォン 多元変奏曲

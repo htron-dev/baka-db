@@ -1,5 +1,7 @@
 # Yoru no Yatterman Comic Anthology
 
+![yoru-no-yatterman-comic-anthology](https://cdn.myanimelist.net/images/manga/2/158228.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

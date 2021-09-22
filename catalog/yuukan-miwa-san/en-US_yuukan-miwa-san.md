@@ -1,5 +1,7 @@
 # Yuukan Miwa-san
 
+![yuukan-miwa-san](https://cdn.myanimelist.net/images/manga/1/222940.jpg)
+
 -   **type**: manga
 -   **original-name**: 有閑みわさん
 -   **start-date**: 2003-02-04

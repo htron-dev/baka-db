@@ -1,5 +1,7 @@
 # Boku wa Isekai de Fuyo Mahou to Shoukan Mahou wo Tenbin ni Kakeru
 
+![boku-wa-isekai-de-fuyo-mahou-to-shoukan-mahou-wo-tenbin-ni-kakeru](https://cdn.myanimelist.net/images/manga/2/134371.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 258

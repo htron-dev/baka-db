@@ -1,5 +1,7 @@
 # Doraemon Movie 01: Nobita no Kyouryuu
 
+![doraemon-movie-01-nobita-no-kyouryuu](https://cdn.myanimelist.net/images/anime/4/72405.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の恐竜

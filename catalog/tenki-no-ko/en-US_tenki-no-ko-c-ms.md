@@ -1,5 +1,7 @@
 # Tenki no Ko CMs
 
+![tenki-no-ko-c-ms](https://cdn.myanimelist.net/images/anime/1959/101750.jpg)
+
 -   **type**: special
 -   **original-name**: 天気の子 CMs
 -   **start-date**: 2019-06-30

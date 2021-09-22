@@ -1,5 +1,7 @@
 # Shiryoku Kensa
 
+![shiryoku-kensa](https://cdn.myanimelist.net/images/manga/2/114965.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Ore no Ki mo Shiranaide
 
+![ore-no-ki-mo-shiranaide](https://cdn.myanimelist.net/images/manga/1/20441.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

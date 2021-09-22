@@ -1,5 +1,7 @@
 # Watanuki-san Chi no
 
+![watanuki-san-chi-no](https://cdn.myanimelist.net/images/anime/1287/100414.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 四月一日さん家の

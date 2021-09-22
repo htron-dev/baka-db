@@ -1,5 +1,7 @@
 # Metal★Nikki
 
+![metal★-nikki](https://cdn.myanimelist.net/images/manga/2/192794.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

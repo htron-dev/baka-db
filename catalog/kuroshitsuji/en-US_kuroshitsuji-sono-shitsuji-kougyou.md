@@ -1,5 +1,7 @@
 # Kuroshitsuji: Sono Shitsuji, Kougyou
 
+![kuroshitsuji-sono-shitsuji-kougyou](https://cdn.myanimelist.net/images/anime/8/21336.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒執事 その執事、興行

@@ -1,5 +1,7 @@
 # Boku no Imouto wa "Osaka Okan": Uchi no Oniichan wa Tokyo Rule
 
+![boku-no-imouto-wa-osaka-okan-uchi-no-oniichan-wa-tokyo-rule](https://cdn.myanimelist.net/images/anime/9/49317.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 僕の妹は「大阪おかん」 うちのおにいちゃんは東京ルール

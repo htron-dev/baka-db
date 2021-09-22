@@ -1,5 +1,7 @@
 # Soul
 
+![soul](https://cdn.myanimelist.net/images/manga/1/28402.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 소울

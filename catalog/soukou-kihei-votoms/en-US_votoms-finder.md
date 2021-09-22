@@ -1,5 +1,7 @@
 # Votoms Finder
 
+![votoms-finder](https://cdn.myanimelist.net/images/anime/10/23339.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ボトムズファインダー

@@ -1,5 +1,7 @@
 # Afmet Oukoku Monogatari
 
+![afmet-oukoku-monogatari](https://cdn.myanimelist.net/images/manga/3/30703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アフメット王国物語

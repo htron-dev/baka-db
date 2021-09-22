@@ -1,5 +1,7 @@
 # Requiem (ONA)
 
+![requiem-ona](https://cdn.myanimelist.net/images/anime/10/76374.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: レクイエム

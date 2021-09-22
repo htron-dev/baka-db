@@ -1,5 +1,7 @@
 # Ore wo Suki nano wa Omae dake ka yo: Ore wa Teinei ni Susumeru
 
+![ore-wo-suki-nano-wa-omae-dake-ka-yo-ore-wa-teinei-ni-susumeru](https://cdn.myanimelist.net/images/anime/1700/104605.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 俺を好きなのはお前だけかよ 特別編 ~俺は丁寧に進める~

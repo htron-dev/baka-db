@@ -1,5 +1,7 @@
 # Yotogi no Kuni no Gekkou Hime
 
+![yotogi-no-kuni-no-gekkou-hime](https://cdn.myanimelist.net/images/manga/2/238830.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 91

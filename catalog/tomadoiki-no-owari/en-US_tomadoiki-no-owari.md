@@ -1,5 +1,7 @@
 # Tomadoiki no Owari
 
+![tomadoiki-no-owari](https://cdn.myanimelist.net/images/manga/2/44991.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Negiho (Ito) Bun
 
+![negiho-ito-bun](https://cdn.myanimelist.net/images/manga/3/172894.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

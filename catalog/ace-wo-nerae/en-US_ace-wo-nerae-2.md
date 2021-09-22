@@ -1,5 +1,7 @@
 # Ace wo Nerae! 2
 
+![ace-wo-nerae-2](https://cdn.myanimelist.net/images/anime/6/71785.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: エースをねらえ！２

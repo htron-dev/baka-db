@@ -1,5 +1,7 @@
 # Super Taiheiki
 
+![super-taiheiki](https://cdn.myanimelist.net/images/manga/3/237784.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパー太平記

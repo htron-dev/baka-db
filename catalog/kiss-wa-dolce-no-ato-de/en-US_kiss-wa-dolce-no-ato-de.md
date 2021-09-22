@@ -1,5 +1,7 @@
 # Kiss wa Dolce no Ato de
 
+![kiss-wa-dolce-no-ato-de](https://cdn.myanimelist.net/images/manga/2/161538.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

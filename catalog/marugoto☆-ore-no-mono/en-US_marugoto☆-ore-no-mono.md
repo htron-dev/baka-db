@@ -1,5 +1,7 @@
 # Marugoto☆Ore no Mono
 
+![marugoto☆-ore-no-mono](https://cdn.myanimelist.net/images/manga/1/111993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

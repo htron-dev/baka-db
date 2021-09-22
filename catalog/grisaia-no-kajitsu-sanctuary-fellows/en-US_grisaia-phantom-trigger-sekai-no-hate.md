@@ -1,5 +1,7 @@
 # Grisaia: Phantom Trigger - Sekai no Hate
 
+![grisaia-phantom-trigger-sekai-no-hate](https://cdn.myanimelist.net/images/manga/1/212295.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

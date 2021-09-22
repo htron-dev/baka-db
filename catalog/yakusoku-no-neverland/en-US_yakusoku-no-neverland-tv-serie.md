@@ -1,5 +1,7 @@
 # Yakusoku no Neverland
 
+![yakusoku-no-neverland](https://cdn.myanimelist.net/images/anime/1125/96929.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 約束のネバーランド

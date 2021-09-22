@@ -1,5 +1,7 @@
 # Karasu to Kuma, Soshite Sakana.
 
+![karasu-to-kuma-soshite-sakana](https://cdn.myanimelist.net/images/manga/1/224813.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

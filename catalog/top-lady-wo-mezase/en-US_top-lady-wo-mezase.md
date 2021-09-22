@@ -1,5 +1,7 @@
 # Top Lady wo Mezase
 
+![top-lady-wo-mezase](https://cdn.myanimelist.net/images/manga/3/7749.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トップレディーを目指せ！

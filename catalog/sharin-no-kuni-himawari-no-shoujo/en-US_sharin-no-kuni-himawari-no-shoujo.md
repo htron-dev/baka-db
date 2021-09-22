@@ -1,5 +1,7 @@
 # Sharin no Kuni, Himawari no Shoujo
 
+![sharin-no-kuni-himawari-no-shoujo](https://cdn.myanimelist.net/images/manga/4/59983.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 車輪の国、向日葵の少女

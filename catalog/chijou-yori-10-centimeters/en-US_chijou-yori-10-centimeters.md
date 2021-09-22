@@ -1,5 +1,7 @@
 # Chijou yori 10 Centimeters
 
+![chijou-yori-10-centimeters](https://cdn.myanimelist.net/images/manga/2/164094.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

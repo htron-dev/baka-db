@@ -1,5 +1,7 @@
 # Oyajina! ~Ryuu to Shinomiya no Baai~
 
+![oyajina-ryuu-to-shinomiya-no-baai](https://cdn.myanimelist.net/images/manga/1/63567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

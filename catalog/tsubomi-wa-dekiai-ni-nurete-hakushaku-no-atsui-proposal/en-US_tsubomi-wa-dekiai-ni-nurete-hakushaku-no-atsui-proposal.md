@@ -1,5 +1,7 @@
 # Tsubomi wa Dekiai ni Nurete: Hakushaku no Atsui Proposal
 
+![tsubomi-wa-dekiai-ni-nurete-hakushaku-no-atsui-proposal](https://cdn.myanimelist.net/images/manga/1/152798.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: つぼみは溺愛に濡れて ～伯爵の熱い求愛〈プロポーズ〉～

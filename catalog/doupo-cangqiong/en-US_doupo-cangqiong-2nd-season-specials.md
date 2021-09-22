@@ -1,5 +1,7 @@
 # Doupo Cangqiong 2nd Season Specials
 
+![doupo-cangqiong-2nd-season-specials](https://cdn.myanimelist.net/images/anime/1504/99979.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 斗破苍穹特别篇 2 沙之澜歌

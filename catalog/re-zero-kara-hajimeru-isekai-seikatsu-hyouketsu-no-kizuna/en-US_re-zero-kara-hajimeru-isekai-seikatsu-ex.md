@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu Ex
 
+![re-zero-kara-hajimeru-isekai-seikatsu-ex](https://cdn.myanimelist.net/images/manga/2/170079.jpg)
+
 -   **type**: light-novel
 -   **original-name**: Re:ゼロから始める異世界生活 Ex
 -   **start-date**: 2015-06-25

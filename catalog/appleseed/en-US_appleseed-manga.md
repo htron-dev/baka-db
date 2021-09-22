@@ -1,5 +1,7 @@
 # Appleseed
 
+![appleseed](https://cdn.myanimelist.net/images/manga/1/157928.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

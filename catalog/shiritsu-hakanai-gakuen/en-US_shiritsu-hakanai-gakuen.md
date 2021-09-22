@@ -1,5 +1,7 @@
 # Shiritsu Hakanai Gakuen
 
+![shiritsu-hakanai-gakuen](https://cdn.myanimelist.net/images/manga/1/162130.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

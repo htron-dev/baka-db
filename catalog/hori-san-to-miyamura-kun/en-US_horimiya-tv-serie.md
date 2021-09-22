@@ -1,5 +1,7 @@
 # Horimiya
 
+![horimiya](https://cdn.myanimelist.net/images/anime/1695/111486.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ホリミヤ

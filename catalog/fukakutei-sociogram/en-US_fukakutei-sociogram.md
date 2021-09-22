@@ -1,5 +1,7 @@
 # Fukakutei Sociogram
 
+![fukakutei-sociogram](https://cdn.myanimelist.net/images/manga/3/79745.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 3

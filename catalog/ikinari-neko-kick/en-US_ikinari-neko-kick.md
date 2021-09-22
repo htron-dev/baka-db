@@ -1,5 +1,7 @@
 # Ikinari Neko Kick
 
+![ikinari-neko-kick](https://cdn.myanimelist.net/images/manga/1/45367.jpg)
+
 -   **type**: manga
 -   **original-name**: いきなり ☆ ねこキック
 

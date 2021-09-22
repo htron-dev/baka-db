@@ -1,5 +1,7 @@
 # Tsugihagi Quest
 
+![tsugihagi-quest](https://cdn.myanimelist.net/images/manga/3/204999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

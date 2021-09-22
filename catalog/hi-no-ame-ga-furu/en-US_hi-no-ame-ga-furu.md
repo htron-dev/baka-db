@@ -1,5 +1,7 @@
 # Hi no Ame ga Furu
 
+![hi-no-ame-ga-furu](https://cdn.myanimelist.net/images/anime/7/12821.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 火の雨がふる

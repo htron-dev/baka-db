@@ -1,5 +1,7 @@
 # Daiichi Souko nite
 
+![daiichi-souko-nite](https://cdn.myanimelist.net/images/manga/1/231649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sennen no Tsubasa, Hyakunen no Yume: les Gardiens du Louvre
 
+![sennen-no-tsubasa-hyakunen-no-yume-les-gardiens-du-louvre](https://cdn.myanimelist.net/images/manga/2/151708.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

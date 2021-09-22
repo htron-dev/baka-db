@@ -1,5 +1,7 @@
 # Dare Nimo Ienai xxx
 
+![dare-nimo-ienai-xxx](https://cdn.myanimelist.net/images/manga/2/10891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 誰にも言えない ×××

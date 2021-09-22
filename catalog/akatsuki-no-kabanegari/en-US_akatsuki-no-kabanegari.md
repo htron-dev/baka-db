@@ -1,5 +1,7 @@
 # Akatsuki no Kabanegari
 
+![akatsuki-no-kabanegari](https://cdn.myanimelist.net/images/manga/3/241852.jpg)
+
 -   **type**: manga
 -   **original-name**: 暁の屍狩
 -   **start-date**: 2020-10-09

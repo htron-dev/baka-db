@@ -1,5 +1,7 @@
 # Kenkou Danshi Ikusei Keikaku
 
+![kenkou-danshi-ikusei-keikaku](https://cdn.myanimelist.net/images/manga/3/91653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

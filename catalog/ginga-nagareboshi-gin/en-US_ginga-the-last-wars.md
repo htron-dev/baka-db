@@ -1,5 +1,7 @@
 # Ginga: The Last Wars
 
+![ginga-the-last-wars](https://cdn.myanimelist.net/images/manga/2/163819.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 176

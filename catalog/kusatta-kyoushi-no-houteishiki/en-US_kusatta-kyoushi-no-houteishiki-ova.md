@@ -1,5 +1,7 @@
 # Kusatta Kyoushi no Houteishiki
 
+![kusatta-kyoushi-no-houteishiki](https://cdn.myanimelist.net/images/anime/10/49929.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 腐った教師の方程式

@@ -1,5 +1,7 @@
 # Super Danganronpa 2: Dangan Island Kokoro Tokonatsu, Kokoronpa♪
 
+![super-danganronpa-2-dangan-island-kokoro-tokonatsu-kokoronpa♪](https://cdn.myanimelist.net/images/manga/1/179039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

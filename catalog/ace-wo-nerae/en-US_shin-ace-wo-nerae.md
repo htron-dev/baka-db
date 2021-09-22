@@ -1,5 +1,7 @@
 # Shin Ace wo Nerae!
 
+![shin-ace-wo-nerae](https://cdn.myanimelist.net/images/anime/13/23161.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 新・エースをねらえ!

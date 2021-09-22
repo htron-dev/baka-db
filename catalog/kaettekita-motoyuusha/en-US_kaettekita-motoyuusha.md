@@ -1,5 +1,7 @@
 # Kaettekita Motoyuusha
 
+![kaettekita-motoyuusha](https://cdn.myanimelist.net/images/manga/2/174203.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 帰ってきた元勇者
 -   **start-date**: 2014-02-03

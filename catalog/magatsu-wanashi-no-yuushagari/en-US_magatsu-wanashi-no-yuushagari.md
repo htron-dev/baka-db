@@ -1,5 +1,7 @@
 # Magatsu Wanashi no Yuushagari
 
+![magatsu-wanashi-no-yuushagari](https://cdn.myanimelist.net/images/manga/3/231000.jpg)
+
 -   **type**: manga
 -   **original-name**: 禍つ罠師の勇者狩り
 -   **start-date**: 2019-11-19

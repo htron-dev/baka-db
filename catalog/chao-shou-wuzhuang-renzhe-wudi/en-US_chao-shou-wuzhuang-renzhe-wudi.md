@@ -1,5 +1,7 @@
 # Chao Shou Wuzhuang: Renzhe Wudi
 
+![chao-shou-wuzhuang-renzhe-wudi](https://cdn.myanimelist.net/images/anime/1547/106400.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 33
 -   **original-name**: 超兽武装之仁者无敌

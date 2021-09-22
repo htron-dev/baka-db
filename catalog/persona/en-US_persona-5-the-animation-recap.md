@@ -1,5 +1,7 @@
 # Persona 5 the Animation Recap
 
+![persona-5-the-animation-recap](https://cdn.myanimelist.net/images/anime/1858/98023.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: PERSONA5 the Animation TV アニメ総集編

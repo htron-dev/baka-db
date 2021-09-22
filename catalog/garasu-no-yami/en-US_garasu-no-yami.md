@@ -1,5 +1,7 @@
 # Garasu no Yami
 
+![garasu-no-yami](https://cdn.myanimelist.net/images/manga/2/18429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ガラスの闇

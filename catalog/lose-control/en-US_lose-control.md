@@ -1,5 +1,7 @@
 # Lose Control
 
+![lose-control](https://cdn.myanimelist.net/images/manga/2/174373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

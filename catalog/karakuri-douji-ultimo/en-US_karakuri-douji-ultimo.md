@@ -1,5 +1,7 @@
 # Karakuri Douji Ultimo
 
+![karakuri-douji-ultimo](https://cdn.myanimelist.net/images/manga/1/161533.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 54

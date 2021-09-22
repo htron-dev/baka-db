@@ -1,5 +1,7 @@
 # Tengoku Daimakyou
 
+![tengoku-daimakyou](https://cdn.myanimelist.net/images/manga/2/210308.jpg)
+
 -   **type**: manga
 -   **original-name**: 天国大魔境
 -   **start-date**: 2018-01-25

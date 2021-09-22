@@ -1,5 +1,7 @@
 # Yamikagishi
 
+![yamikagishi](https://cdn.myanimelist.net/images/manga/1/64451.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Husk of Eden
 
+![husk-of-eden](https://cdn.myanimelist.net/images/manga/3/144253.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Karen no Fastener
 
+![karen-no-fastener](https://cdn.myanimelist.net/images/manga/2/39021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

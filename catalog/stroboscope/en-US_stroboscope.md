@@ -1,5 +1,7 @@
 # Stroboscope
 
+![stroboscope](https://cdn.myanimelist.net/images/manga/1/164519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

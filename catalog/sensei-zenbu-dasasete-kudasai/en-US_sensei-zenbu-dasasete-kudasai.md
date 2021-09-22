@@ -1,5 +1,7 @@
 # Sensei, Zenbu Dasasete Kudasai
 
+![sensei-zenbu-dasasete-kudasai](https://cdn.myanimelist.net/images/manga/1/247944.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

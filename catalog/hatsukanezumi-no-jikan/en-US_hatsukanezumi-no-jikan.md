@@ -1,5 +1,7 @@
 # Hatsukanezumi no Jikan
 
+![hatsukanezumi-no-jikan](https://cdn.myanimelist.net/images/manga/2/3560.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

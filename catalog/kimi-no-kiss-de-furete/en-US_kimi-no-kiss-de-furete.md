@@ -1,5 +1,7 @@
 # Kimi no Kiss de Furete.
 
+![kimi-no-kiss-de-furete](https://cdn.myanimelist.net/images/manga/3/96431.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

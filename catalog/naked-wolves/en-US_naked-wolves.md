@@ -1,5 +1,7 @@
 # Naked Wolves
 
+![naked-wolves](https://cdn.myanimelist.net/images/anime/6/17171.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ネイキッドウルブズ
@@ -10,7 +12,6 @@
 ## Tags
 
 -   action
-
 -   sports
 -   comedy
 

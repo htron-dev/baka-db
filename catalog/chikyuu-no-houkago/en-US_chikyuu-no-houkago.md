@@ -1,5 +1,7 @@
 # Chikyuu no Houkago
 
+![chikyuu-no-houkago](https://cdn.myanimelist.net/images/manga/3/188829.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

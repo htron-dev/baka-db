@@ -1,5 +1,7 @@
 # Hai, Kochira Tantei-bu desu
 
+![hai-kochira-tantei-bu-desu](https://cdn.myanimelist.net/images/manga/3/144247.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: はい、こちら探偵部です

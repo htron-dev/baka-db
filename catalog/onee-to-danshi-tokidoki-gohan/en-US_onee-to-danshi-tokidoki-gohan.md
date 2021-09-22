@@ -1,5 +1,7 @@
 # Onee to Danshi, Tokidoki Gohan
 
+![onee-to-danshi-tokidoki-gohan](https://cdn.myanimelist.net/images/manga/1/204406.jpg)
+
 -   **type**: manga
 -   **original-name**: オネエと男子、時々ごはん
 -   **start-date**: 2017-06-28

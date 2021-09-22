@@ -1,5 +1,7 @@
 # Isekai Tensei de Kenja ni Natte Boukensha Seikatsu: "Mahou Kairyou" de Isekai Saikyou
 
+![isekai-tensei-de-kenja-ni-natte-boukensha-seikatsu-mahou-kairyou-de-isekai-saikyou](https://cdn.myanimelist.net/images/manga/3/245059.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界転生で賢者になって冒険者生活 ～【魔法改良】で異世界最強～
 -   **start-date**: 2020-12-31

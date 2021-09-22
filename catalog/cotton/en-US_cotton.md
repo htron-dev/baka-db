@@ -1,5 +1,7 @@
 # Cotton
 
+![cotton](https://cdn.myanimelist.net/images/manga/3/164518.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Seisen Cerberus: Ryuukoku no Fatalités
 
+![seisen-cerberus-ryuukoku-no-fatalites](https://cdn.myanimelist.net/images/anime/5/79459.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 聖戦ケルベロス　竜刻のファタリテ

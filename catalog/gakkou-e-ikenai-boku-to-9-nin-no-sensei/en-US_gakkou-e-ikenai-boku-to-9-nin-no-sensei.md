@@ -1,5 +1,7 @@
 # Gakkou e Ikenai Boku to 9-nin no Sensei
 
+![gakkou-e-ikenai-boku-to-9-nin-no-sensei](https://cdn.myanimelist.net/images/manga/3/173447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

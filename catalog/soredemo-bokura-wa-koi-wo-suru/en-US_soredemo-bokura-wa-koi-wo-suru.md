@@ -1,5 +1,7 @@
 # Soredemo Bokura wa Koi wo Suru
 
+![soredemo-bokura-wa-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/149947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

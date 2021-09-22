@@ -1,5 +1,7 @@
 # Omoi Au Christmas 2011
 
+![omoi-au-christmas-2011](https://cdn.myanimelist.net/images/anime/5/81559.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 想いあうクリスマス 2011

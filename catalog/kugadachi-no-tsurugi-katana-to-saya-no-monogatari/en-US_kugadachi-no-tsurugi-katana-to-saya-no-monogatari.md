@@ -1,5 +1,7 @@
 # Kugadachi no Tsurugi: Katana to Saya no Monogatari
 
+![kugadachi-no-tsurugi-katana-to-saya-no-monogatari](https://cdn.myanimelist.net/images/manga/1/121619.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 狗牙絶ちの劔-刀と鞘の物語

@@ -1,5 +1,7 @@
 # Kodomo no Jikan: Ni Gakki
 
+![kodomo-no-jikan-ni-gakki](https://cdn.myanimelist.net/images/anime/3/39447.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: こどものじかん 2 学期

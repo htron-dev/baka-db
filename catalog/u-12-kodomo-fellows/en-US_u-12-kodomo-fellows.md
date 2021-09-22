@@ -1,5 +1,7 @@
 # U12 Kodomo Fellows
 
+![u-12-kodomo-fellows](https://cdn.myanimelist.net/images/manga/2/219382.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 44

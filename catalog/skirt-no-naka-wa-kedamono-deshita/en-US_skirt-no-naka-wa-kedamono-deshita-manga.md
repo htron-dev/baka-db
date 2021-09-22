@@ -1,5 +1,7 @@
 # Skirt no Naka wa Kedamono Deshita.
 
+![skirt-no-naka-wa-kedamono-deshita](https://cdn.myanimelist.net/images/manga/2/206265.jpg)
+
 -   **type**: manga
 -   **original-name**: スカートの中はケダモノでした.
 -   **start-date**: 2016-02-15

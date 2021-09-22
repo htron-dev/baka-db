@@ -1,5 +1,7 @@
 # Imawa no Kuni no Alice Retry
 
+![imawa-no-kuni-no-alice-retry](https://cdn.myanimelist.net/images/manga/3/238212.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Yoru no Kakaku - Night Exile
 
+![yoru-no-kakaku-night-exile](https://cdn.myanimelist.net/images/manga/3/4115.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

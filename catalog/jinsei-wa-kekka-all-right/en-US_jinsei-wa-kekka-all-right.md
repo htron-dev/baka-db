@@ -1,5 +1,7 @@
 # Jinsei wa Kekka All Right!
 
+![jinsei-wa-kekka-all-right](https://cdn.myanimelist.net/images/manga/1/17766.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 37

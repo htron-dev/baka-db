@@ -1,5 +1,7 @@
 # Goulart Knights: Evoked the Beginning Black
 
+![goulart-knights-evoked-the-beginning-black](https://cdn.myanimelist.net/images/anime/2/15684.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: グラール騎士団 Evoked the Beginning Black

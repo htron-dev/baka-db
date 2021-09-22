@@ -1,5 +1,7 @@
 # Boy of the Female Wolf
 
+![boy-of-the-female-wolf](https://cdn.myanimelist.net/images/manga/3/29182.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 17
 -   **original-name**: 암컷늑대의 BOY

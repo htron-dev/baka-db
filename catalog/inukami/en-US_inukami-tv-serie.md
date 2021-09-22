@@ -1,5 +1,7 @@
 # Inukami!
 
+![inukami](https://cdn.myanimelist.net/images/anime/1405/110246.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: いぬかみっ!

@@ -1,5 +1,7 @@
 # Feng Shen Bang Chuanqi
 
+![feng-shen-bang-chuanqi](https://cdn.myanimelist.net/images/anime/1742/106590.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: 封神榜传奇

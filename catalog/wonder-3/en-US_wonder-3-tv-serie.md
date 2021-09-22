@@ -1,5 +1,7 @@
 # Wonder 3
 
+![wonder-3](https://cdn.myanimelist.net/images/anime/5/33155.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ワンダー３

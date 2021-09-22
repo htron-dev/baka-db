@@ -1,5 +1,7 @@
 # Renai Nante Itashimasen!
 
+![renai-nante-itashimasen](https://cdn.myanimelist.net/images/manga/2/208312.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

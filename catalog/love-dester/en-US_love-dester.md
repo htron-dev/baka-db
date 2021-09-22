@@ -1,5 +1,7 @@
 # Love Dester
 
+![love-dester](https://cdn.myanimelist.net/images/manga/2/157860.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 127

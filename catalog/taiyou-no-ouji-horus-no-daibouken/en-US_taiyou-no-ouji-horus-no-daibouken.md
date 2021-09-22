@@ -1,5 +1,7 @@
 # Taiyou no Ouji: Horus no Daibouken
 
+![taiyou-no-ouji-horus-no-daibouken](https://cdn.myanimelist.net/images/anime/10/3602.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 太陽の王子 ホルスの大冒険

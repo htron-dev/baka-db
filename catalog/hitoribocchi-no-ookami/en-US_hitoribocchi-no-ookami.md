@@ -1,5 +1,7 @@
 # Hitoribocchi no Ookami
 
+![hitoribocchi-no-ookami](https://cdn.myanimelist.net/images/manga/2/231896.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ひとりぼっちの狼

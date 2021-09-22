@@ -1,5 +1,7 @@
 # Mushoku Tensei: Isekai Ittara Honki Dasu
 
+![mushoku-tensei-isekai-ittara-honki-dasu](https://cdn.myanimelist.net/images/manga/3/120337.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 無職転生 ～異世界行ったら本気だす～
 -   **start-date**: 2014-01-23

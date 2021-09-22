@@ -1,5 +1,7 @@
 # JK☆Rock
 
+![jk☆-rock](https://cdn.myanimelist.net/images/manga/2/234770.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

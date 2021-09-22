@@ -1,5 +1,7 @@
 # Dekiru Neko wa Kyou mo Yuuutsu
 
+![dekiru-neko-wa-kyou-mo-yuuutsu](https://cdn.myanimelist.net/images/manga/1/245383.jpg)
+
 -   **type**: manga
 -   **original-name**: デキる猫は今日も憂鬱
 -   **start-date**: 2018-08-22

@@ -1,5 +1,7 @@
 # Shin Megami Tensei
 
+![shin-megami-tensei](https://cdn.myanimelist.net/images/manga/1/6784.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 

@@ -1,5 +1,7 @@
 # Saiki Kusuo no Ψ-nan 2
 
+![saiki-kusuo-no-ψ-nan-2](https://cdn.myanimelist.net/images/anime/1961/91383.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 斉木楠雄の Ψ 難 2

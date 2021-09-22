@@ -1,5 +1,7 @@
 # Utsuro na Assassin to Kyuukyoku no Sekai Ningyou
 
+![utsuro-na-assassin-to-kyuukyoku-no-sekai-ningyou](https://cdn.myanimelist.net/images/manga/3/198097.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 虚ろな暗殺者〈アサシン〉と究極の世界人形
 -   **start-date**: 2017-06-30

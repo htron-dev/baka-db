@@ -1,5 +1,7 @@
 # Vanquish Overload
 
+![vanquish-overload](https://cdn.myanimelist.net/images/manga/1/161090.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 30

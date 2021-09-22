@@ -1,5 +1,7 @@
 # Ryuusei no Rockman Tribe
 
+![ryuusei-no-rockman-tribe](https://cdn.myanimelist.net/images/anime/1256/94652.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: 流星のロックマン トライブ
@@ -22,4 +24,4 @@ The second series is to follow the events of the second video game, focusing on 
 -   [Official Site](http://www.xebec-inc.co.jp/anime/ryusei2/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5524)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8865)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Mega_Man_Star_Force_(anime)#Tribe>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Mega_Man_Star_Force_%28anime%29#Tribe)

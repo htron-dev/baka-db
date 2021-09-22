@@ -1,5 +1,7 @@
 # Ningyou-hime☆Kyuukon Monogatari
 
+![ningyou-hime☆-kyuukon-monogatari](https://cdn.myanimelist.net/images/manga/1/183598.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

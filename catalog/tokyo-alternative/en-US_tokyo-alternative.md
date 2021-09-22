@@ -1,5 +1,7 @@
 # Tokyo Alternative
 
+![tokyo-alternative](https://cdn.myanimelist.net/images/manga/2/200642.jpg)
+
 -   **type**: manga
 -   **original-name**: 東京オルタナティヴ
 -   **start-date**: 2017-09-04

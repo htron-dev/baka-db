@@ -1,5 +1,7 @@
 # Suki yori, Motto
 
+![suki-yori-motto](https://cdn.myanimelist.net/images/manga/1/76505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

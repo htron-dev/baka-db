@@ -1,5 +1,7 @@
 # Sengoku Basara Two: Ryuko, Itadaki no Chikai! Atsuki Mirai e Kakeru Tamashii!!
 
+![sengoku-basara-two-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii](https://cdn.myanimelist.net/images/anime/7/28823.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 戦国 BASARA 弐: 竜虎、頂の誓い! 熱き未来へ駆ける魂!!

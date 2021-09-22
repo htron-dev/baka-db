@@ -1,5 +1,7 @@
 # Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
 
+![tsundere-akuyaku-reijou-liselotte-to-jikkyou-no-endou-kun-to-kaisetsu-no-kobayashi-san](https://cdn.myanimelist.net/images/manga/1/243640.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 25

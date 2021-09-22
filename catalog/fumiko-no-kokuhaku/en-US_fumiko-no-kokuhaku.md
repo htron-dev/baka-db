@@ -1,5 +1,7 @@
 # Fumiko no Kokuhaku
 
+![fumiko-no-kokuhaku](https://cdn.myanimelist.net/images/anime/9/20806.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: フミコの告白

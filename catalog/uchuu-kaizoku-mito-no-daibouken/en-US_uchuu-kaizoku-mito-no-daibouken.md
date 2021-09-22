@@ -1,5 +1,7 @@
 # Uchuu Kaizoku Mito no Daibouken
 
+![uchuu-kaizoku-mito-no-daibouken](https://cdn.myanimelist.net/images/anime/12/60979.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 宇宙海賊ミトの大冒険

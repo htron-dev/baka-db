@@ -1,5 +1,7 @@
 # Fuyu no Sonata Episode 0
 
+![fuyu-no-sonata-episode-0](https://cdn.myanimelist.net/images/anime/12/17652.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 冬のソナタ

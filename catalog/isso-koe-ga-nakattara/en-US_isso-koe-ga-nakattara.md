@@ -1,5 +1,7 @@
 # Isso Koe ga Nakattara
 
+![isso-koe-ga-nakattara](https://cdn.myanimelist.net/images/manga/3/224900.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

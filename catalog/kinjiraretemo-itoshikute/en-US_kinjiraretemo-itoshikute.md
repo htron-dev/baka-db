@@ -1,5 +1,7 @@
 # Kinjiraretemo Itoshikute
 
+![kinjiraretemo-itoshikute](https://cdn.myanimelist.net/images/manga/1/195972.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 禁じられても愛しくて

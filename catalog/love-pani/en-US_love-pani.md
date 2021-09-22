@@ -1,5 +1,7 @@
 # Love Pani
 
+![love-pani](https://cdn.myanimelist.net/images/manga/2/11423.jpg)
+
 -   **type**: manga
 -   **original-name**: ラブぱに
 

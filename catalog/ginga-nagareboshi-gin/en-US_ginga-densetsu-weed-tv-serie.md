@@ -1,5 +1,7 @@
 # Ginga Densetsu Weed
 
+![ginga-densetsu-weed](https://cdn.myanimelist.net/images/anime/5/74037.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 銀牙伝説ウィード

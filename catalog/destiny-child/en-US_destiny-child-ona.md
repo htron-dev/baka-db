@@ -1,5 +1,7 @@
 # Destiny Child
 
+![destiny-child](https://cdn.myanimelist.net/images/anime/1359/108921.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: デスティニーチャイルド

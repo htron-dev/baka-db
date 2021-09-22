@@ -1,5 +1,7 @@
 # Wan Jie Xian Zong 2nd Season
 
+![wan-jie-xian-zong-2nd-season](https://cdn.myanimelist.net/images/anime/1981/105370.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 万界仙踪 第 2 季

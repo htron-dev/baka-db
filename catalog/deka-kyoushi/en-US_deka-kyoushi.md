@@ -1,5 +1,7 @@
 # Deka Kyoushi
 
+![deka-kyoushi](https://cdn.myanimelist.net/images/manga/2/22509.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: デカ教師

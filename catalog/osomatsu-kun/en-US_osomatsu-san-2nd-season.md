@@ -1,5 +1,7 @@
 # Osomatsu-san 2nd Season
 
+![osomatsu-san-2nd-season](https://cdn.myanimelist.net/images/anime/13/88328.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: おそ松さん 第 2 期

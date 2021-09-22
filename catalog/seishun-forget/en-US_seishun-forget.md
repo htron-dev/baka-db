@@ -1,5 +1,7 @@
 # Seishun Forget!
 
+![seishun-forget](https://cdn.myanimelist.net/images/manga/2/115447.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

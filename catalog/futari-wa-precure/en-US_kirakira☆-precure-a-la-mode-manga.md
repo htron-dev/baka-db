@@ -1,5 +1,7 @@
 # Kirakira☆Precure A La Mode
 
+![kirakira☆-precure-a-la-mode](https://cdn.myanimelist.net/images/manga/3/234955.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

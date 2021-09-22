@@ -1,5 +1,7 @@
 # Ryushika Ryushika
 
+![ryushika-ryushika](https://cdn.myanimelist.net/images/manga/1/125881.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 71

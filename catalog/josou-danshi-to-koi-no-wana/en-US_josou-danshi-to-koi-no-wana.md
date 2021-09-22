@@ -1,5 +1,7 @@
 # Josou Danshi to Koi no Wana
 
+![josou-danshi-to-koi-no-wana](https://cdn.myanimelist.net/images/manga/2/196336.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 女装男子と恋の罠

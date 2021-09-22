@@ -1,5 +1,7 @@
 # Tenkuu Senki Shurato
 
+![tenkuu-senki-shurato](https://cdn.myanimelist.net/images/manga/1/80385.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 天空戦記シュラト

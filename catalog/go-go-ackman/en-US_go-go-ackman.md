@@ -1,5 +1,7 @@
 # Go! Go! Ackman
 
+![go-go-ackman](https://cdn.myanimelist.net/images/anime/1365/94543.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: GO! GO! ACKMAN

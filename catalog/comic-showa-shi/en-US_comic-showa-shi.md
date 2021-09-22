@@ -1,5 +1,7 @@
 # Comic Showa-shi
 
+![comic-showa-shi](https://cdn.myanimelist.net/images/manga/1/33746.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 120

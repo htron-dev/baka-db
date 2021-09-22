@@ -1,5 +1,7 @@
 # Peshi
 
+![peshi](https://cdn.myanimelist.net/images/manga/3/175256.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 58
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   school
 -   slice-of-life
 -   seinen

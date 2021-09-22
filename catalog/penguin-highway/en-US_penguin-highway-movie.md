@@ -1,5 +1,7 @@
 # Penguin Highway
 
+![penguin-highway](https://cdn.myanimelist.net/images/anime/1320/93443.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ペンギン・ハイウェイ

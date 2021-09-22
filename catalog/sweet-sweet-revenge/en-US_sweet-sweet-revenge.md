@@ -1,5 +1,7 @@
 # Sweet Sweet Revenge
 
+![sweet-sweet-revenge](https://cdn.myanimelist.net/images/manga/1/203957.jpg)
+
 -   **type**: manga
 -   **original-name**: Sweet Sweet リベンジ
 -   **start-date**: 2017-04-28

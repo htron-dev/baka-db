@@ -1,5 +1,7 @@
 # Mars Gaiden: Namae no Nai Uma
 
+![mars-gaiden-namae-no-nai-uma](https://cdn.myanimelist.net/images/manga/3/191264.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

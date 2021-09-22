@@ -1,5 +1,7 @@
 # Shinomiya Kouta wa Mada Shinenai: Border of the Dead
 
+![shinomiya-kouta-wa-mada-shinenai-border-of-the-dead](https://cdn.myanimelist.net/images/manga/2/235720.jpg)
+
 -   **type**: manga
 -   **original-name**: 四ノ宮小唄はまだ死ねない　‐BORDER OF THE DEAD‐
 -   **start-date**: 2019-06-22

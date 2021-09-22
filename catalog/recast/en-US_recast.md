@@ -1,5 +1,7 @@
 # Recast
 
+![recast](https://cdn.myanimelist.net/images/manga/3/11335.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 리캐스트

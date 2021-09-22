@@ -1,5 +1,7 @@
 # Gene Diver
 
+![gene-diver](https://cdn.myanimelist.net/images/anime/13/8536.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 56
 -   **original-name**: ジーンダイバー

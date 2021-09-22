@@ -1,5 +1,7 @@
 # Dear Boys: The Early Days
 
+![dear-boys-the-early-days](https://cdn.myanimelist.net/images/manga/1/165396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

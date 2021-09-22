@@ -1,5 +1,7 @@
 # J-Dream: Kanzen Nenshouhen
 
+![j-dream-kanzen-nenshouhen](https://cdn.myanimelist.net/images/manga/1/183412.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: J ドリーム 完全燃焼編

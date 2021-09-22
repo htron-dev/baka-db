@@ -1,5 +1,7 @@
 # Gekijouban Naruto: Shippuuden
 
+![gekijouban-naruto-shippuuden](https://cdn.myanimelist.net/images/manga/1/228881.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 劇場版 NARUTO 疾風伝

@@ -1,5 +1,7 @@
 # Love Live! Sunshine!!: Maru no Yonkoma
 
+![love-live-sunshine-maru-no-yonkoma](https://cdn.myanimelist.net/images/manga/3/230423.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Nawa ga Nakutemo Daijoubu
 
+![nawa-ga-nakutemo-daijoubu](https://cdn.myanimelist.net/images/manga/1/103775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 縄がなくても大丈夫

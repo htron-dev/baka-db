@@ -1,5 +1,7 @@
 # Ore wa Chokkaku
 
+![ore-wa-chokkaku](https://cdn.myanimelist.net/images/manga/2/98337.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: おれは直角

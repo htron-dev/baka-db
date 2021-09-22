@@ -1,5 +1,7 @@
 # Ramirez-ke no Hanayome
 
+![ramirez-ke-no-hanayome](https://cdn.myanimelist.net/images/manga/3/231897.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ラミレス家の花嫁

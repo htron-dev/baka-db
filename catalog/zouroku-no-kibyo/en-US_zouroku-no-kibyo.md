@@ -1,5 +1,7 @@
 # Zouroku no Kibyo
 
+![zouroku-no-kibyo](https://cdn.myanimelist.net/images/manga/1/109241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

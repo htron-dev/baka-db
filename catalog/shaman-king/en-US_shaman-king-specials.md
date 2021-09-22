@@ -1,5 +1,7 @@
 # Shaman King Specials
 
+![shaman-king-specials](https://cdn.myanimelist.net/images/anime/13/21688.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: シャーマンキング

@@ -1,5 +1,7 @@
 # Hakozume: Kouban Joshi no Gyakushuu
 
+![hakozume-kouban-joshi-no-gyakushuu](https://cdn.myanimelist.net/images/anime/1510/116847.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ハコヅメ～交番女子の逆襲～
 -   **rating**: None

@@ -1,5 +1,7 @@
 # The New A-Class.: Next Stage with YOU
 
+![the-new-a-class-next-stage-with-you](https://cdn.myanimelist.net/images/anime/13/77724.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: The new A-Class. -Next Stage with YOU-

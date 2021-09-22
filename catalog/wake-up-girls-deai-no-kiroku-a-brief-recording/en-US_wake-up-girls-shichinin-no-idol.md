@@ -1,5 +1,7 @@
 # Wake Up, Girls! Shichinin no Idol
 
+![wake-up-girls-shichinin-no-idol](https://cdn.myanimelist.net/images/anime/10/57869.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Wake Up, Girls！七人のアイドル

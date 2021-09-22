@@ -1,5 +1,7 @@
 # Dragonaut: The Resonance - Kotou - Tozasareta Kyousoo
 
+![dragonaut-the-resonance-kotou-tozasareta-kyousoo](https://cdn.myanimelist.net/images/anime/9/31303.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラゴノーツ-ザ・レソナンス- 孤島 -閉ざされた狂騒-

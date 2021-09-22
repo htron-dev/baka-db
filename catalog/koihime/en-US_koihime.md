@@ -1,5 +1,7 @@
 # Koihime
 
+![koihime](https://cdn.myanimelist.net/images/manga/2/156387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋姫

@@ -1,5 +1,7 @@
 # No Love Zone
 
+![no-love-zone](https://cdn.myanimelist.net/images/manga/1/246318.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 19

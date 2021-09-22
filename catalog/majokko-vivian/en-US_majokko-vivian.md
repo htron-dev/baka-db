@@ -1,5 +1,7 @@
 # Majokko Vivian
 
+![majokko-vivian](https://cdn.myanimelist.net/images/manga/1/177522.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

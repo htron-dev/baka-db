@@ -1,5 +1,7 @@
 # Kiss, Zekkou, Kiss: Bokura no Baai
 
+![kiss-zekkou-kiss-bokura-no-baai](https://cdn.myanimelist.net/images/manga/3/135551.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 48

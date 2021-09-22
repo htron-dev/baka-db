@@ -1,5 +1,7 @@
 # Meruko Series
 
+![meruko-series](https://cdn.myanimelist.net/images/manga/2/162095.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 45

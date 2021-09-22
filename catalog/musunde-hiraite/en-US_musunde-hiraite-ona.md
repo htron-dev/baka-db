@@ -1,5 +1,7 @@
 # Musunde Hiraite
 
+![musunde-hiraite](https://cdn.myanimelist.net/images/anime/1185/108114.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: むすんでひらいて

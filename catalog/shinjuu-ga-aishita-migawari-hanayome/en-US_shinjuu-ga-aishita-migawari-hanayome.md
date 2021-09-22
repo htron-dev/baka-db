@@ -1,5 +1,7 @@
 # Shinjuu ga Aishita Migawari Hanayome
 
+![shinjuu-ga-aishita-migawari-hanayome](https://cdn.myanimelist.net/images/manga/2/164511.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 神獣が愛した身代わり花嫁

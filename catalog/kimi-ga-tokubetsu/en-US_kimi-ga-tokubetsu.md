@@ -1,5 +1,7 @@
 # Kimi ga Tokubetsu
 
+![kimi-ga-tokubetsu](https://cdn.myanimelist.net/images/manga/1/220012.jpg)
+
 -   **type**: manga
 -   **original-name**: 君がトクベツ
 -   **start-date**: 2019-03-13

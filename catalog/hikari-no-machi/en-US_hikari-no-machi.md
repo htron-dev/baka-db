@@ -1,5 +1,7 @@
 # Hikari no Machi
 
+![hikari-no-machi](https://cdn.myanimelist.net/images/manga/2/12373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

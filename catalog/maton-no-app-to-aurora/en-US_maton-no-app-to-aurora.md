@@ -1,5 +1,7 @@
 # Maton no App to Aurora
 
+![maton-no-app-to-aurora](https://cdn.myanimelist.net/images/manga/2/161860.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 魔遁のアプリと青炎剣〈アウローラ〉

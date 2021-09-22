@@ -1,5 +1,7 @@
 # Seitokaichou-sama no Pet
 
+![seitokaichou-sama-no-pet](https://cdn.myanimelist.net/images/manga/2/29334.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

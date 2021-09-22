@@ -1,5 +1,7 @@
 # Itsuwari Triangle
 
+![itsuwari-triangle](https://cdn.myanimelist.net/images/manga/1/223239.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Riding Bean
 
+![riding-bean](https://cdn.myanimelist.net/images/manga/3/66105.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: ライディング・ビーン

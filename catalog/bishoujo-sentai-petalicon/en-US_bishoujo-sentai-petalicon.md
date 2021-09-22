@@ -1,5 +1,7 @@
 # Bishoujo Sentai Petalicon
 
+![bishoujo-sentai-petalicon](https://cdn.myanimelist.net/images/manga/2/19160.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

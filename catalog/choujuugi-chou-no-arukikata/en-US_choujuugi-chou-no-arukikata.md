@@ -1,5 +1,7 @@
 # Choujuugi-chou no Arukikata
 
+![choujuugi-chou-no-arukikata](https://cdn.myanimelist.net/images/manga/2/205075.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

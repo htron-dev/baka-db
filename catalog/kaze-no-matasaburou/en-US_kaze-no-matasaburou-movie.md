@@ -1,5 +1,7 @@
 # Kaze no Matasaburou (Movie)
 
+![kaze-no-matasaburou-movie](https://cdn.myanimelist.net/images/anime/13/76581.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風の又三郎

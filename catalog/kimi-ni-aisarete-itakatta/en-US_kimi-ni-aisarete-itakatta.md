@@ -1,5 +1,7 @@
 # Kimi ni Aisarete Itakatta
 
+![kimi-ni-aisarete-itakatta](https://cdn.myanimelist.net/images/manga/2/219898.jpg)
+
 -   **type**: manga
 -   **original-name**: 君に愛されて痛かった
 -   **start-date**: 2017-06-06

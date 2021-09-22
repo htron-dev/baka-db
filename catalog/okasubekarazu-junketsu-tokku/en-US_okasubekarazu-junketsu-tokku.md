@@ -1,5 +1,7 @@
 # Okasubekarazu!! Junketsu Tokku!
 
+![okasubekarazu-junketsu-tokku](https://cdn.myanimelist.net/images/manga/1/170856.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

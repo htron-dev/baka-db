@@ -1,5 +1,7 @@
 # Wedding Park
 
+![wedding-park](https://cdn.myanimelist.net/images/anime/1281/97347.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ウエディングパーク

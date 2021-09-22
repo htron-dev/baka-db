@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Kuaile Shizi
 
+![hong-mao-lan-tu-kuaile-shizi](https://cdn.myanimelist.net/images/anime/1710/98710.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 80
 -   **original-name**: 虹猫蓝兔快乐识字

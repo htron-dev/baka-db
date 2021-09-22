@@ -1,5 +1,7 @@
 # Caramel Wife
 
+![caramel-wife](https://cdn.myanimelist.net/images/manga/3/102493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

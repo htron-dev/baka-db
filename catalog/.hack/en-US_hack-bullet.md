@@ -1,5 +1,7 @@
 # .hack//Bullet
 
+![hack-bullet](https://cdn.myanimelist.net/images/manga/2/71047.jpg)
+
 -   **type**: light-novel
 -   **original-name**: .hack//bullet
 -   **start-date**: 2012-06-15

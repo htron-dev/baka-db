@@ -1,5 +1,7 @@
 # Urusei Yatsura Movie 1: Only You
 
+![urusei-yatsura-movie-1-only-you](https://cdn.myanimelist.net/images/anime/3/10127.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: うる星やつら オンリーユー

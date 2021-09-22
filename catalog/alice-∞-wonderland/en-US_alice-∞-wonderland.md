@@ -1,5 +1,7 @@
 # Alice ∞ Wonderland
 
+![alice-∞-wonderland](https://cdn.myanimelist.net/images/manga/2/28412.jpg)
+
 -   **type**: manga
 -   **original-name**: アリスインワンダーランド; アリス ∞ ワンダーランド
 

@@ -1,5 +1,7 @@
 # Shokutaku ni Beer wo
 
+![shokutaku-ni-beer-wo](https://cdn.myanimelist.net/images/manga/3/162738.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 55

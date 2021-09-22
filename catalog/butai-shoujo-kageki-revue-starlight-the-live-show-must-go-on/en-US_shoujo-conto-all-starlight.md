@@ -1,5 +1,7 @@
 # Shoujo☆Conto All Starlight
 
+![shoujo☆-conto-all-starlight](https://cdn.myanimelist.net/images/anime/1776/102092.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 少女 ☆ 寸劇(コント) オールスタァライト

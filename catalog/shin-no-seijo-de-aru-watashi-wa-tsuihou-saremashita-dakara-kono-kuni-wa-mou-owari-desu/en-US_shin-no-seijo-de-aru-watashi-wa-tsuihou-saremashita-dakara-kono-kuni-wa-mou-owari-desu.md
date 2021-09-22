@@ -1,5 +1,7 @@
 # Shin no Seijo de Aru Watashi wa Tsuihou saremashita. Dakara Kono Kuni wa Mou Owari desu
 
+![shin-no-seijo-de-aru-watashi-wa-tsuihou-saremashita-dakara-kono-kuni-wa-mou-owari-desu](https://cdn.myanimelist.net/images/manga/2/242417.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 真の聖女である私は追放されました。だからこの国はもう終わりです
 -   **start-date**: 2021-02-02

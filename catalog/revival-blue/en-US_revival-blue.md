@@ -1,5 +1,7 @@
 # Revival Blue
 
+![revival-blue](https://cdn.myanimelist.net/images/manga/3/227413.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

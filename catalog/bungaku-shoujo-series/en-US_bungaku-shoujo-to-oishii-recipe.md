@@ -1,5 +1,7 @@
 # "Bungaku Shoujo" to Oishii Recipe
 
+![bungaku-shoujo-to-oishii-recipe](https://cdn.myanimelist.net/images/manga/1/127139.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: “文学少女”と美味しい噺【レシピ】

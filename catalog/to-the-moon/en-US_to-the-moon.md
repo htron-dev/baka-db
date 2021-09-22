@@ -1,5 +1,7 @@
 # To the Moon
 
+![to-the-moon](https://cdn.myanimelist.net/images/anime/1718/92971.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **rating**: None

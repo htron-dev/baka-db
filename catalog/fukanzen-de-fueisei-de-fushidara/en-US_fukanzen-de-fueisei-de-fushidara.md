@@ -1,5 +1,7 @@
 # Fukanzen de Fueisei de Fushidara
 
+![fukanzen-de-fueisei-de-fushidara](https://cdn.myanimelist.net/images/manga/2/226174.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

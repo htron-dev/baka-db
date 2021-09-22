@@ -1,5 +1,7 @@
 # Ame to Muchi
 
+![ame-to-muchi](https://cdn.myanimelist.net/images/manga/2/59525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Yuri Gradol Yui: Kindan Girls Love
 
+![yuri-gradol-yui-kindan-girls-love](https://cdn.myanimelist.net/images/manga/1/152862.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Fushigi Mahou Fun Fun Pharmacy
 
+![fushigi-mahou-fun-fun-pharmacy](https://cdn.myanimelist.net/images/manga/2/29152.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ファンファン・ファーマシィー

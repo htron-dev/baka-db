@@ -1,5 +1,7 @@
 # Soreyuke! Uchuu Senkan Yamamoto Yohko II
 
+![soreyuke-uchuu-senkan-yamamoto-yohko-ii](https://cdn.myanimelist.net/images/anime/1390/90154.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: それゆけ!宇宙戦艦ヤマモト・ヨーコ Ⅱ

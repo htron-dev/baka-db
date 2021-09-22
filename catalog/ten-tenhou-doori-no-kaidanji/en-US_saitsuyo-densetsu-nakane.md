@@ -1,5 +1,7 @@
 # Saitsuyo Densetsu Nakane
 
+![saitsuyo-densetsu-nakane](https://cdn.myanimelist.net/images/manga/1/224195.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強〈さいつよ〉伝説 仲根
 -   **start-date**: 2017-12-06

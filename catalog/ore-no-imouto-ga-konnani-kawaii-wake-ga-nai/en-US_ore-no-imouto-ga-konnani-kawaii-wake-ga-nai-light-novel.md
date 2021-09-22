@@ -1,5 +1,7 @@
 # Ore no Imouto ga Konnani Kawaii Wake ga Nai
 
+![ore-no-imouto-ga-konnani-kawaii-wake-ga-nai](https://cdn.myanimelist.net/images/manga/1/221804.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺の妹がこんなに可愛いわけがない
 -   **start-date**: 2008-08-10

@@ -1,5 +1,7 @@
 # Gokukoku no Brynhildr
 
+![gokukoku-no-brynhildr](https://cdn.myanimelist.net/images/manga/2/188789.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 181

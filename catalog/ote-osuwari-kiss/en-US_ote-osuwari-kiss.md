@@ -1,5 +1,7 @@
 # Ote, Osuwari, Kiss
 
+![ote-osuwari-kiss](https://cdn.myanimelist.net/images/manga/2/238250.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

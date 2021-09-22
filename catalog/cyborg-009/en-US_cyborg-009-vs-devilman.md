@@ -1,5 +1,7 @@
 # Cyborg 009 VS Devilman
 
+![cyborg-009-vs-devilman](https://cdn.myanimelist.net/images/anime/10/76057.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: サイボーグ 009VS デビルマン

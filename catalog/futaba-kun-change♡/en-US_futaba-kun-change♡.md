@@ -1,5 +1,7 @@
 # Futaba-kun Change♡
 
+![futaba-kun-change♡](https://cdn.myanimelist.net/images/manga/2/161731.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 46

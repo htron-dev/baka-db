@@ -1,5 +1,7 @@
 # Kutsunashi-hime
 
+![kutsunashi-hime](https://cdn.myanimelist.net/images/manga/2/134897.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

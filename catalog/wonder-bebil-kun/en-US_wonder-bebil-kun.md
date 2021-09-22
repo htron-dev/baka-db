@@ -1,5 +1,7 @@
 # Wonder Bebil-kun
 
+![wonder-bebil-kun](https://cdn.myanimelist.net/images/anime/13/83804.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: ワンダーベビルくん

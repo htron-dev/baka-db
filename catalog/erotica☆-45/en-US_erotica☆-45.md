@@ -1,5 +1,7 @@
 # Erotica☆45
 
+![erotica☆-45](https://cdn.myanimelist.net/images/manga/3/78733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

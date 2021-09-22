@@ -1,5 +1,7 @@
 # Love Buzz
 
+![love-buzz](https://cdn.myanimelist.net/images/manga/3/101639.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

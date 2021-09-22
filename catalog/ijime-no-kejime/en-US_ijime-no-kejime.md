@@ -1,5 +1,7 @@
 # Ijime no Kejime
 
+![ijime-no-kejime](https://cdn.myanimelist.net/images/manga/1/239234.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

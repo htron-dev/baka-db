@@ -1,5 +1,7 @@
 # Toriko Movie: Bishokushin no Special Menu
 
+![toriko-movie-bishokushin-no-special-menu](https://cdn.myanimelist.net/images/anime/6/47417.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版トリコ 美食神の超食宝 (スペシャル・メニュー)

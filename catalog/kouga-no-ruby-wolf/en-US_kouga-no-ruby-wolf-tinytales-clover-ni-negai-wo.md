@@ -1,5 +1,7 @@
 # Kouga no Ruby Wolf Tinytales: Clover ni Negai wo
 
+![kouga-no-ruby-wolf-tinytales-clover-ni-negai-wo](https://cdn.myanimelist.net/images/manga/2/162521.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

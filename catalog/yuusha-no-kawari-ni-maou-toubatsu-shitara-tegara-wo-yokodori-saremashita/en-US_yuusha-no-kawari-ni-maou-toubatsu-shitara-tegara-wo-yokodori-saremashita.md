@@ -1,5 +1,7 @@
 # Yuusha no Kawari ni Maou Toubatsu shitara Tegara wo Yokodori Saremashita
 
+![yuusha-no-kawari-ni-maou-toubatsu-shitara-tegara-wo-yokodori-saremashita](https://cdn.myanimelist.net/images/manga/3/226664.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者の代わりに魔王討伐したら手柄を横取りされました
 -   **start-date**: 2019-03-20

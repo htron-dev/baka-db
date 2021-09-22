@@ -1,5 +1,7 @@
 # Yume no Kodomo
 
+![yume-no-kodomo](https://cdn.myanimelist.net/images/manga/3/32060.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

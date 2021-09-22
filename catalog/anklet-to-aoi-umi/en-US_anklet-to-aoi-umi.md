@@ -1,5 +1,7 @@
 # Anklet to Aoi Umi
 
+![anklet-to-aoi-umi](https://cdn.myanimelist.net/images/anime/1989/106267.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アンクレットと蒼い海

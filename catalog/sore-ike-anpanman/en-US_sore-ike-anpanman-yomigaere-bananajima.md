@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Yomigaere Bananajima
 
+![sore-ike-anpanman-yomigaere-bananajima](https://cdn.myanimelist.net/images/anime/3/39427.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ！アンパンマン よみがえれ バナナ島

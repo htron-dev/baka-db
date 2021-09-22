@@ -1,5 +1,7 @@
 # Yawachichi Festival
 
+![yawachichi-festival](https://cdn.myanimelist.net/images/manga/2/206589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

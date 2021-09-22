@@ -1,5 +1,7 @@
 # Twin Role
 
+![twin-role](https://cdn.myanimelist.net/images/manga/2/206966.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

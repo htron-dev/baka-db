@@ -1,5 +1,7 @@
 # NG Life
 
+![ng-life](https://cdn.myanimelist.net/images/manga/5/71979.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 54

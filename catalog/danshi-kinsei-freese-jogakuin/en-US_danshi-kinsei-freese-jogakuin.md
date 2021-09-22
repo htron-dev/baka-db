@@ -1,5 +1,7 @@
 # Danshi Kinsei!! Freese Jogakuin
 
+![danshi-kinsei-freese-jogakuin](https://cdn.myanimelist.net/images/manga/3/187840.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

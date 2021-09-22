@@ -1,5 +1,7 @@
 # Bokutachi no Ikita Riyuu
 
+![bokutachi-no-ikita-riyuu](https://cdn.myanimelist.net/images/manga/1/172482.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 69

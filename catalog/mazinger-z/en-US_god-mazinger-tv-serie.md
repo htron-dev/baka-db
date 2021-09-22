@@ -1,5 +1,7 @@
 # God Mazinger
 
+![god-mazinger](https://cdn.myanimelist.net/images/anime/10/10504.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: ゴッドマジンガー

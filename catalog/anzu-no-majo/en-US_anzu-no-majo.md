@@ -1,5 +1,7 @@
 # Anzu no Majo
 
+![anzu-no-majo](https://cdn.myanimelist.net/images/manga/1/194582.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 杏の魔女

@@ -1,5 +1,7 @@
 # Ex. Lady Mai
 
+![ex-lady-mai](https://cdn.myanimelist.net/images/manga/4/36577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Ex.レディ舞

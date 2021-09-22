@@ -1,5 +1,7 @@
 # UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku
 
+![ufo-princess-valkyrie-2-juunigatsu-no-yasoukyoku](https://cdn.myanimelist.net/images/anime/8/22374.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 円盤皇女ワるきゅーレ 十二月の夜想曲

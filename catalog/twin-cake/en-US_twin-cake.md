@@ -1,5 +1,7 @@
 # Twin Cake
 
+![twin-cake](https://cdn.myanimelist.net/images/manga/1/61651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

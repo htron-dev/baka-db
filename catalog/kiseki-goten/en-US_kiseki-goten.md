@@ -1,5 +1,7 @@
 # Kiseki Goten
 
+![kiseki-goten](https://cdn.myanimelist.net/images/manga/1/18829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

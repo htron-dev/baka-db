@@ -1,5 +1,7 @@
 # Kiss wa Tsugai ni Hizamazuku
 
+![kiss-wa-tsugai-ni-hizamazuku](https://cdn.myanimelist.net/images/manga/2/245922.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

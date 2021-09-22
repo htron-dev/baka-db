@@ -1,5 +1,7 @@
 # Super Otoko no Ko Time, Hajimaru yo★
 
+![super-otoko-no-ko-time-hajimaru-yo★](https://cdn.myanimelist.net/images/manga/4/86713.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパー男の娘タイム、はじまるよっ ★

@@ -1,5 +1,7 @@
 # Onegai Patron-sama! Episode 0
 
+![onegai-patron-sama-episode-0](https://cdn.myanimelist.net/images/anime/1945/109791.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: おねがいっパトロンさま！「episode0」

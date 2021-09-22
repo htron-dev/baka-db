@@ -1,5 +1,7 @@
 # Sawai Seiyaki Kabushikigaisha CMs
 
+![sawai-seiyaki-kabushikigaisha-c-ms](https://cdn.myanimelist.net/images/anime/1336/95749.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 沢井製薬株式会社 CMs

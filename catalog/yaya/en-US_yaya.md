@@ -1,5 +1,7 @@
 # Yaya
 
+![yaya](https://cdn.myanimelist.net/images/manga/3/4642.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 38

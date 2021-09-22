@@ -1,5 +1,7 @@
 # Z/X: Ignition
 
+![z-x-ignition](https://cdn.myanimelist.net/images/anime/6/56797.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Z/X IGNITION

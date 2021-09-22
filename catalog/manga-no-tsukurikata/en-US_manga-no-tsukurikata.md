@@ -1,5 +1,7 @@
 # Manga no Tsukurikata
 
+![manga-no-tsukurikata](https://cdn.myanimelist.net/images/manga/2/164358.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 63

@@ -1,5 +1,7 @@
 # Shin Honkaku Mahou Shoujo Risuka
 
+![shin-honkaku-mahou-shoujo-risuka](https://cdn.myanimelist.net/images/manga/3/249233.jpg)
+
 -   **type**: manga
 -   **original-name**: 新本格魔法少女りすか
 -   **start-date**: 2021-04-09

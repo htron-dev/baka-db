@@ -1,5 +1,7 @@
 # 0.0 Mhz
 
+![0-0-mhz](https://cdn.myanimelist.net/images/manga/3/204820.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 37
 -   **original-name**: 0.0MHz

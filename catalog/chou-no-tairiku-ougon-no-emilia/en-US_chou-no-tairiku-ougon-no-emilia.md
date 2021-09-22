@@ -1,5 +1,7 @@
 # Chou no Tairiku: Ougon no Emilia
 
+![chou-no-tairiku-ougon-no-emilia](https://cdn.myanimelist.net/images/manga/2/239823.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

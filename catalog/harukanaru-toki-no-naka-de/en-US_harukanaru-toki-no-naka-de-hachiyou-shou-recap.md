@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de: Hachiyou Shou Recap
 
+![harukanaru-toki-no-naka-de-hachiyou-shou-recap](https://cdn.myanimelist.net/images/anime/5/72168.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 遙かなる時空の中で〜八葉抄〜 総集編

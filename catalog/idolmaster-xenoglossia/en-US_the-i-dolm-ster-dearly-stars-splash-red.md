@@ -1,5 +1,7 @@
 # The iDOLM@STER Dearly Stars: Splash Red
 
+![the-i-dolm-ster-dearly-stars-splash-red](https://cdn.myanimelist.net/images/manga/5/33564.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

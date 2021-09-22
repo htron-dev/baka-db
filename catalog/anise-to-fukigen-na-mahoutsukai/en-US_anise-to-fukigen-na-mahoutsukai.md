@@ -1,5 +1,7 @@
 # Anise to Fukigen na Mahoutsukai
 
+![anise-to-fukigen-na-mahoutsukai](https://cdn.myanimelist.net/images/manga/3/163570.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 40

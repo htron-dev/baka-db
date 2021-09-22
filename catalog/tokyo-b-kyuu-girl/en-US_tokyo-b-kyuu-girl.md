@@ -1,5 +1,7 @@
 # Tokyo B-Kyuu Girl!
 
+![tokyo-b-kyuu-girl](https://cdn.myanimelist.net/images/manga/3/12968.jpg)
+
 -   **type**: manga
 -   **original-name**: 東京 B 級ガール!
 -   **start-date**: 2004-01-20

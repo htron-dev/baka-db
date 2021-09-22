@@ -1,5 +1,7 @@
 # Sakura Kanzume
 
+![sakura-kanzume](https://cdn.myanimelist.net/images/manga/2/130633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: さくらかんづめ

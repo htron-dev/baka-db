@@ -1,5 +1,7 @@
 # Gun Dragon Σ
 
+![gun-dragon-σ](https://cdn.myanimelist.net/images/manga/2/195389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: GUN DRAGON Σ

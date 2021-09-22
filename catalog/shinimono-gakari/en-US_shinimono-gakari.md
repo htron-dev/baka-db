@@ -1,5 +1,7 @@
 # Shinimono-gakari
 
+![shinimono-gakari](https://cdn.myanimelist.net/images/manga/1/238716.jpg)
+
 -   **type**: manga
 -   **original-name**: しにものがかり
 -   **start-date**: 2019-12-13

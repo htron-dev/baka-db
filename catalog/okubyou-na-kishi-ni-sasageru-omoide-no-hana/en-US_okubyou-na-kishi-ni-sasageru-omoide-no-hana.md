@@ -1,5 +1,7 @@
 # Okubyou na Kishi ni Sasageru Omoide no Hana
 
+![okubyou-na-kishi-ni-sasageru-omoide-no-hana](https://cdn.myanimelist.net/images/manga/1/178369.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

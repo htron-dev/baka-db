@@ -1,5 +1,7 @@
 # Tales of Innocence
 
+![tales-of-innocence](https://cdn.myanimelist.net/images/manga/1/146691.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

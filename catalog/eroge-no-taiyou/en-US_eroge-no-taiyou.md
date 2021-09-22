@@ -1,5 +1,7 @@
 # Eroge no Taiyou
 
+![eroge-no-taiyou](https://cdn.myanimelist.net/images/manga/3/136235.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

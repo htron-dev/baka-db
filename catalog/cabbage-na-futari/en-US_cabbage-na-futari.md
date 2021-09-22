@@ -1,5 +1,7 @@
 # Cabbage na Futari
 
+![cabbage-na-futari](https://cdn.myanimelist.net/images/manga/3/28288.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: キャベツな 2 人

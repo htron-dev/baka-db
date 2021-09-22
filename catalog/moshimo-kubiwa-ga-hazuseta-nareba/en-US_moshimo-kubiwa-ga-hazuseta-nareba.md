@@ -1,5 +1,7 @@
 # Moshimo Kubiwa ga Hazuseta Nareba
 
+![moshimo-kubiwa-ga-hazuseta-nareba](https://cdn.myanimelist.net/images/manga/2/246295.jpg)
+
 -   **type**: manga
 -   **original-name**: もしも首輪がはずせたならば
 -   **start-date**: 2021-02-18

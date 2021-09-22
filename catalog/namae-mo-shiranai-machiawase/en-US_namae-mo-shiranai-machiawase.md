@@ -1,5 +1,7 @@
 # Namae mo Shiranai Machiawase
 
+![namae-mo-shiranai-machiawase](https://cdn.myanimelist.net/images/manga/2/205364.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

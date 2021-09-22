@@ -1,5 +1,7 @@
 # Kindan no Koi wo Shiyou
 
+![kindan-no-koi-wo-shiyou](https://cdn.myanimelist.net/images/manga/5/17066.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

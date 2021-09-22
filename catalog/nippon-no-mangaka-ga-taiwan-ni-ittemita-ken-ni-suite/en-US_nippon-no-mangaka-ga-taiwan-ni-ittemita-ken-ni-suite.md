@@ -1,5 +1,7 @@
 # Nippon no Mangaka ga Taiwan ni Ittemita Ken ni Suite
 
+![nippon-no-mangaka-ga-taiwan-ni-ittemita-ken-ni-suite](https://cdn.myanimelist.net/images/manga/3/200987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

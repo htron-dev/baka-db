@@ -1,5 +1,7 @@
 # xxxHOLiC Shunmuki
 
+![xxx-ho-li-c-shunmuki](https://cdn.myanimelist.net/images/anime/12/25079.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: xxxHOLiC 春夢記

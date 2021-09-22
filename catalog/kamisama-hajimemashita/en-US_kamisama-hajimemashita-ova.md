@@ -1,5 +1,7 @@
 # Kamisama Hajimemashita OVA
 
+![kamisama-hajimemashita-ova](https://cdn.myanimelist.net/images/anime/6/56425.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 神様はじめました

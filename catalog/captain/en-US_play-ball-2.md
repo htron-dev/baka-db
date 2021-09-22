@@ -1,5 +1,7 @@
 # Play Ball 2
 
+![play-ball-2](https://cdn.myanimelist.net/images/manga/1/199693.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 96

@@ -1,5 +1,7 @@
 # The King of Fantasy: Yagami Iori no Isekai Musou - Tsuki wo Miru Tabi Omoidase!
 
+![the-king-of-fantasy-yagami-iori-no-isekai-musou-tsuki-wo-miru-tabi-omoidase](https://cdn.myanimelist.net/images/manga/3/235117.jpg)
+
 -   **type**: manga
 -   **original-name**: THE KING OF FANTASY 八神庵の異世界無双 月を見るたび思い出せ!
 -   **start-date**: 2019-11-19

@@ -1,5 +1,7 @@
 # Slime-san to Yuusha Kenkyuubu
 
+![slime-san-to-yuusha-kenkyuubu](https://cdn.myanimelist.net/images/manga/2/157123.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

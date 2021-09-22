@@ -1,5 +1,7 @@
 # Fatal Fury 2: The New Battle
 
+![fatal-fury-2-the-new-battle](https://cdn.myanimelist.net/images/anime/1691/106030.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バトルファイターズ餓狼伝説 2

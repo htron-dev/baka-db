@@ -1,5 +1,7 @@
 # Mahou Shoujo Tokushusen Asuka
 
+![mahou-shoujo-tokushusen-asuka](https://cdn.myanimelist.net/images/manga/1/167025.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 69

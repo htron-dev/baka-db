@@ -1,5 +1,7 @@
 # Midori no Kuni no Otomodachi: Koeda-chan
 
+![midori-no-kuni-no-otomodachi-koeda-chan](https://cdn.myanimelist.net/images/anime/12/84532.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: みどりのくにのおともだち こえだちゃん

@@ -1,5 +1,7 @@
 # Sasayaka na Fukushuu
 
+![sasayaka-na-fukushuu](https://cdn.myanimelist.net/images/manga/3/69869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ささやかな復讐

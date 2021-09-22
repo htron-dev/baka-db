@@ -1,5 +1,7 @@
 # Pokemon Movie 03: Kesshoutou no Teiou Entei
 
+![pokemon-movie-03-kesshoutou-no-teiou-entei](https://cdn.myanimelist.net/images/anime/7/80288.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター 結晶塔の帝王 ENTEI
@@ -13,7 +15,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   drama
 -   fantasy
 

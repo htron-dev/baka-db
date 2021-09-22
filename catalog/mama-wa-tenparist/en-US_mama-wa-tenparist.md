@@ -1,5 +1,7 @@
 # Mama wa Tenparist
 
+![mama-wa-tenparist](https://cdn.myanimelist.net/images/manga/1/166413.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 53

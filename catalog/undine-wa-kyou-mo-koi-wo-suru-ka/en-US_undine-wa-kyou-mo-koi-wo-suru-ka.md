@@ -1,5 +1,7 @@
 # Undine wa Kyou mo Koi wo Suru ka?
 
+![undine-wa-kyou-mo-koi-wo-suru-ka](https://cdn.myanimelist.net/images/manga/3/217511.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

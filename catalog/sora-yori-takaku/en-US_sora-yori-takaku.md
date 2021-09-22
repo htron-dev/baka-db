@@ -1,5 +1,7 @@
 # Sora yori Takaku
 
+![sora-yori-takaku](https://cdn.myanimelist.net/images/manga/3/237084.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

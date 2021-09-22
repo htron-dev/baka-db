@@ -1,5 +1,7 @@
 # Nu Wu
 
+![nu-wu](https://cdn.myanimelist.net/images/manga/1/97685.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 20

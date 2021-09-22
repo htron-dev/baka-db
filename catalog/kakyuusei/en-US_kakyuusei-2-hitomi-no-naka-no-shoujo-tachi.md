@@ -1,5 +1,7 @@
 # Kakyuusei 2: Hitomi no Naka no Shoujo-tachi
 
+![kakyuusei-2-hitomi-no-naka-no-shoujo-tachi](https://cdn.myanimelist.net/images/anime/11/3527.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 下級生２ ～瞳の中の少女たち～

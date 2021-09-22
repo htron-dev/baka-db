@@ -1,5 +1,7 @@
 # Takane no Hana no Imakano wa, Zettai Motokano ni Maketakunai you desu
 
+![takane-no-hana-no-imakano-wa-zettai-motokano-ni-maketakunai-you-desu](https://cdn.myanimelist.net/images/manga/1/247552.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 高嶺の花の今カノは、絶対元カノに負けたくないようです
 -   **start-date**: 2021-05-01

@@ -1,5 +1,7 @@
 # X Maiden
 
+![x-maiden](https://cdn.myanimelist.net/images/anime/6/59193.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: エクスメイデン

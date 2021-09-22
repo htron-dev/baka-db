@@ -1,5 +1,7 @@
 # Hanasaku Iroha: Green Girls Graffiti
 
+![hanasaku-iroha-green-girls-graffiti](https://cdn.myanimelist.net/images/manga/1/153535.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

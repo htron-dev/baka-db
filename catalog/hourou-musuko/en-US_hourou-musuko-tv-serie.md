@@ -1,5 +1,7 @@
 # Hourou Musuko
 
+![hourou-musuko](https://cdn.myanimelist.net/images/anime/13/53945.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 放浪息子

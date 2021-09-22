@@ -1,5 +1,7 @@
 # Shiroi Yami
 
+![shiroi-yami](https://cdn.myanimelist.net/images/manga/3/18298.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

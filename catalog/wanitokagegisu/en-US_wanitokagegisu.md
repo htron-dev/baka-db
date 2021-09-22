@@ -1,5 +1,7 @@
 # Wanitokagegisu
 
+![wanitokagegisu](https://cdn.myanimelist.net/images/manga/1/213017.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Mahou Shoujo Nante Mou Ii Desukara. Second Season
 
+![mahou-shoujo-nante-mou-ii-desukara-second-season](https://cdn.myanimelist.net/images/anime/5/82253.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法少女なんてもういいですから。 セカンドシーズン

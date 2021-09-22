@@ -1,5 +1,7 @@
 # Metropolis
 
+![metropolis](https://cdn.myanimelist.net/images/anime/4/75601.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: メトロポリス
@@ -31,4 +33,4 @@ Searching for the scientist Dr. Laughton, suspected to violate human rights by t
 -   [Official Site](http://www.bandaivisual.co.jp/metropolis/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=78)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=176)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Metropolis_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Metropolis_%28anime%29)

@@ -1,5 +1,7 @@
 # Dogs: Bullets & Carnage
 
+![dogs-bullets-carnage](https://cdn.myanimelist.net/images/manga/2/232296.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 101

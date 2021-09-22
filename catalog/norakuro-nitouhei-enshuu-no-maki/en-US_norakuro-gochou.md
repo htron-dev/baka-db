@@ -1,5 +1,7 @@
 # Norakuro Gochou
 
+![norakuro-gochou](https://cdn.myanimelist.net/images/anime/12/85244.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: のらくろ伍長

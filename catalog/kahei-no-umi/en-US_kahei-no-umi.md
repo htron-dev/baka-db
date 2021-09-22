@@ -1,5 +1,7 @@
 # Kahei no Umi
 
+![kahei-no-umi](https://cdn.myanimelist.net/images/anime/7/80827.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 嘉兵衛の海

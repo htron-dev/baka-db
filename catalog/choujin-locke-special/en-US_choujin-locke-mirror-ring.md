@@ -1,5 +1,7 @@
 # Choujin Locke: Mirror Ring
 
+![choujin-locke-mirror-ring](https://cdn.myanimelist.net/images/anime/6/26396.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 超人ロック～ミラーリング～

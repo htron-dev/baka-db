@@ -1,5 +1,7 @@
 # Isshuukan Friends.: Tomodachi to no Omoide
 
+![isshuukan-friends-tomodachi-to-no-omoide](https://cdn.myanimelist.net/images/anime/5/72823.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 一週間フレンズ。～友達との思い出～

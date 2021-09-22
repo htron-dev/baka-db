@@ -1,5 +1,7 @@
 # Konchuu Monogatari Tentoumu Chu! to Mitsubachi Hatsu Chu!
 
+![konchuu-monogatari-tentoumu-chu-to-mitsubachi-hatsu-chu](https://cdn.myanimelist.net/images/anime/10/71559.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 昆虫物語 てんとうむ Chu!とみつばちハッ Chu!

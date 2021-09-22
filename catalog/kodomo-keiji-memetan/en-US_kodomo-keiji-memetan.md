@@ -1,5 +1,7 @@
 # Kodomo Keiji Memetan
 
+![kodomo-keiji-memetan](https://cdn.myanimelist.net/images/manga/3/143189.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

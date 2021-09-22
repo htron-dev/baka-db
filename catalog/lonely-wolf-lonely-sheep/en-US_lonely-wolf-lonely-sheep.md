@@ -1,5 +1,7 @@
 # Lonely Wolf, Lonely Sheep
 
+![lonely-wolf-lonely-sheep](https://cdn.myanimelist.net/images/manga/2/60225.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

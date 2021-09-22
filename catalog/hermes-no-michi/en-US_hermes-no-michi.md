@@ -1,5 +1,7 @@
 # Hermès no Michi
 
+![hermes-no-michi](https://cdn.myanimelist.net/images/manga/3/12795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: エルメスの道

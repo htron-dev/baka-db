@@ -1,5 +1,7 @@
 # Juubee-chan 2: Siberia Yagyuu no Gyakushuu
 
+![juubee-chan-2-siberia-yagyuu-no-gyakushuu](https://cdn.myanimelist.net/images/anime/7/20768.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 十兵衛ちゃん 2 ～シベリア柳生の逆襲～

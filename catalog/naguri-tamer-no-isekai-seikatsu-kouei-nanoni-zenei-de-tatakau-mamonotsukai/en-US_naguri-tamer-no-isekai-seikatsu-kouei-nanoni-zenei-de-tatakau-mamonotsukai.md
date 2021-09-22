@@ -1,5 +1,7 @@
 # Naguri Tamer no Isekai Seikatsu: Kouei nanoni Zenei de Tatakau Mamonotsukai
 
+![naguri-tamer-no-isekai-seikatsu-kouei-nanoni-zenei-de-tatakau-mamonotsukai](https://cdn.myanimelist.net/images/manga/3/248418.jpg)
+
 -   **type**: manga
 -   **original-name**: 殴りテイマーの異世界生活 ～後衛なのに前衛で戦う魔物使い～
 -   **start-date**: 2021-03-26

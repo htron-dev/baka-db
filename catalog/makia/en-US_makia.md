@@ -1,5 +1,7 @@
 # Makia
 
+![makia](https://cdn.myanimelist.net/images/manga/3/81924.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: マキア

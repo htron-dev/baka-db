@@ -1,5 +1,7 @@
 # Cheat na Boku no Aho no Musume Ikuseiron
 
+![cheat-na-boku-no-aho-no-musume-ikuseiron](https://cdn.myanimelist.net/images/manga/3/176208.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

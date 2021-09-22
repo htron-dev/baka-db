@@ -1,5 +1,7 @@
 # Akuma to Love Song
 
+![akuma-to-love-song](https://cdn.myanimelist.net/images/manga/2/134595.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 91

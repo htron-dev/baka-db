@@ -1,5 +1,7 @@
 # Robot Carnival
 
+![robot-carnival](https://cdn.myanimelist.net/images/anime/1834/92929.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ロボット・カーニバル

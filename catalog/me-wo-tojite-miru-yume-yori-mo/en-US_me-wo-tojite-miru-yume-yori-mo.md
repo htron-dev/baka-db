@@ -1,5 +1,7 @@
 # Me wo Tojite Miru Yume yori mo
 
+![me-wo-tojite-miru-yume-yori-mo](https://cdn.myanimelist.net/images/manga/3/146119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

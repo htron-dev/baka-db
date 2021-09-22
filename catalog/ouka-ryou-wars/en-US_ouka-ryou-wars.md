@@ -1,5 +1,7 @@
 # Ouka Ryou Wars
 
+![ouka-ryou-wars](https://cdn.myanimelist.net/images/manga/1/2289.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 

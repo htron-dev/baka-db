@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Saikyou Youkai Gundan! Nippon Jouriku!!
 
+![gegege-no-kitarou-saikyou-youkai-gundan-nippon-jouriku](https://cdn.myanimelist.net/images/anime/5/27356.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲゲゲの鬼太郎 最強妖怪軍団！日本陸!!

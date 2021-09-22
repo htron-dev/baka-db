@@ -1,5 +1,7 @@
 # Togari Shiro
 
+![togari-shiro](https://cdn.myanimelist.net/images/manga/1/209472.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

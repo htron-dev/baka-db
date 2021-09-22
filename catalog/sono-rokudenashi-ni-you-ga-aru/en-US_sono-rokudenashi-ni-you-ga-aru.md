@@ -1,5 +1,7 @@
 # Sono Rokudenashi ni You ga Aru
 
+![sono-rokudenashi-ni-you-ga-aru](https://cdn.myanimelist.net/images/manga/3/99127.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

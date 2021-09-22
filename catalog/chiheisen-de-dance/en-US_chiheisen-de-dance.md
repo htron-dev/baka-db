@@ -1,5 +1,7 @@
 # Chiheisen de Dance
 
+![chiheisen-de-dance](https://cdn.myanimelist.net/images/manga/1/145075.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 58

@@ -1,5 +1,7 @@
 # Original Eigakan Manner Eizou
 
+![original-eigakan-manner-eizou](https://cdn.myanimelist.net/images/anime/1014/108008.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: オリジナル映画館マナー映像

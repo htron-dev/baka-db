@@ -1,5 +1,7 @@
 # Tonkatsu DJ Agetarou
 
+![tonkatsu-dj-agetarou](https://cdn.myanimelist.net/images/manga/1/161582.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 123

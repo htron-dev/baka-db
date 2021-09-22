@@ -1,5 +1,7 @@
 # Kenka Kagyou
 
+![kenka-kagyou](https://cdn.myanimelist.net/images/manga/1/120609.jpg)
+
 -   **type**: manga
 -   **original-name**: 喧嘩稼業
 -   **start-date**: 2013-12-09

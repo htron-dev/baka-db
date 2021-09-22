@@ -1,5 +1,7 @@
 # Junketsu no Maria
 
+![junketsu-no-maria](https://cdn.myanimelist.net/images/manga/3/136847.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

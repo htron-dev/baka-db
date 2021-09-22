@@ -1,5 +1,7 @@
 # Shin-chan ga Naita!
 
+![shin-chan-ga-naita](https://cdn.myanimelist.net/images/anime/10/66153.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 新ちゃんがないた！

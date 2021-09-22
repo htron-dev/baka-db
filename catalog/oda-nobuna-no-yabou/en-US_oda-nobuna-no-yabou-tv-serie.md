@@ -1,5 +1,7 @@
 # Oda Nobuna no Yabou
 
+![oda-nobuna-no-yabou](https://cdn.myanimelist.net/images/anime/11/39249.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 織田信奈の野望

@@ -1,5 +1,7 @@
 # Chizuka Map
 
+![chizuka-map](https://cdn.myanimelist.net/images/manga/3/133047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ちづかマップ

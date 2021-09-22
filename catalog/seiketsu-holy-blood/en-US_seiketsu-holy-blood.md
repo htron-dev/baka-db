@@ -1,5 +1,7 @@
 # Seiketsu -Holy Blood-
 
+![seiketsu-holy-blood](https://cdn.myanimelist.net/images/manga/2/19074.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

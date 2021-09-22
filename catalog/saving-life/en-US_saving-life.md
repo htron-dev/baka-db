@@ -1,5 +1,7 @@
 # Saving Life
 
+![saving-life](https://cdn.myanimelist.net/images/manga/5/2409.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

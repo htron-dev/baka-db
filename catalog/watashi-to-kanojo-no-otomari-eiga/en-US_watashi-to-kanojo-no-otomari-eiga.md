@@ -1,5 +1,7 @@
 # Watashi to Kanojo no Otomari Eiga
 
+![watashi-to-kanojo-no-otomari-eiga](https://cdn.myanimelist.net/images/manga/2/190456.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

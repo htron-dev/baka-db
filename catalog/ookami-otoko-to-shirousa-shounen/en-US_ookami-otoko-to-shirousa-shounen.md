@@ -1,5 +1,7 @@
 # Ookami Otoko to Shirousa Shounen
 
+![ookami-otoko-to-shirousa-shounen](https://cdn.myanimelist.net/images/manga/1/245801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

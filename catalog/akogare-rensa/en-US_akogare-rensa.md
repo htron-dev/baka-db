@@ -1,5 +1,7 @@
 # Akogare Rensa
 
+![akogare-rensa](https://cdn.myanimelist.net/images/manga/3/41163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

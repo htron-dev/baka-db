@@ -1,5 +1,7 @@
 # Itai Oneesan wa Suki desu ka?
 
+![itai-oneesan-wa-suki-desu-ka](https://cdn.myanimelist.net/images/manga/1/235189.jpg)
+
 -   **type**: manga
 -   **original-name**: いたいお姉さんは好きですか？
 -   **start-date**: 2016-09-12

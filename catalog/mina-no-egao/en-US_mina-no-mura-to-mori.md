@@ -1,5 +1,7 @@
 # Mina no Mura to Mori
 
+![mina-no-mura-to-mori](https://cdn.myanimelist.net/images/anime/5/66191.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ミナの村と森

@@ -1,5 +1,7 @@
 # Berserk
 
+![berserk](https://cdn.myanimelist.net/images/manga/1/157897.jpg)
+
 -   **type**: manga
 -   **original-name**: ベルセルク
 -   **start-date**: 1989-08-25

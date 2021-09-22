@@ -1,5 +1,7 @@
 # Umi no Uta
 
+![umi-no-uta](https://cdn.myanimelist.net/images/anime/1128/113746.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海の唄

@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Kyouryuu Nosshii no Daibouken
 
+![sore-ike-anpanman-kyouryuu-nosshii-no-daibouken](https://cdn.myanimelist.net/images/anime/6/28052.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン 恐竜ノッシーの大冒険

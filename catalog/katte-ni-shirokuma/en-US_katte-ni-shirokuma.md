@@ -1,5 +1,7 @@
 # Katte ni Shirokuma
 
+![katte-ni-shirokuma](https://cdn.myanimelist.net/images/anime/11/27218.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: かってにシロクマ

@@ -1,5 +1,7 @@
 # Totsuzen, Planter kara Ikemen ga Haetekitanda ga.
 
+![totsuzen-planter-kara-ikemen-ga-haetekitanda-ga](https://cdn.myanimelist.net/images/manga/2/153495.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 突然、プランターからイケメンが生えてきたんだが。

@@ -1,5 +1,7 @@
 # Slapstick
 
+![slapstick](https://cdn.myanimelist.net/images/manga/2/202395.jpg)
+
 -   **type**: manga
 -   **original-name**: スラップスティック
 -   **start-date**: 2013-11-25

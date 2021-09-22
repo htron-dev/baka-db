@@ -1,5 +1,7 @@
 # Ai nante Nai Nante
 
+![ai-nante-nai-nante](https://cdn.myanimelist.net/images/manga/1/163731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

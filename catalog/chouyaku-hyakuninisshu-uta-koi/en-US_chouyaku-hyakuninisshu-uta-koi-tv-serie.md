@@ -1,5 +1,7 @@
 # Chouyaku Hyakuninisshu: Uta Koi.
 
+![chouyaku-hyakuninisshu-uta-koi](https://cdn.myanimelist.net/images/anime/7/42007.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 超訳百人一首 うた恋い。

@@ -1,5 +1,7 @@
 # Kanai
 
+![kanai](https://cdn.myanimelist.net/images/anime/7/62327.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: カナイ

@@ -1,5 +1,7 @@
 # Yubisaki no Binetsu
 
+![yubisaki-no-binetsu](https://cdn.myanimelist.net/images/manga/2/144273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

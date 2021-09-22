@@ -1,5 +1,7 @@
 # The Shanglad Shinki
 
+![the-shanglad-shinki](https://cdn.myanimelist.net/images/manga/1/79723.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

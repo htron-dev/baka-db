@@ -1,5 +1,7 @@
 # Macross F Movie 1: Itsuwari no Utahime
 
+![macross-f-movie-1-itsuwari-no-utahime](https://cdn.myanimelist.net/images/anime/2/76397.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 マクロスＦ 虚空歌姫 ～イツワリノウタヒメ～

@@ -1,5 +1,7 @@
 # Manatsu no Eden Rakuen
 
+![manatsu-no-eden-rakuen](https://cdn.myanimelist.net/images/manga/3/31406.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 真夏の EDEN-楽園

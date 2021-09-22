@@ -1,5 +1,7 @@
 # Yamitsuki Marisu
 
+![yamitsuki-marisu](https://cdn.myanimelist.net/images/manga/2/18543.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: やみ憑きマリス

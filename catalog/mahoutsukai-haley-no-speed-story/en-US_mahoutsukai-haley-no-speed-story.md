@@ -1,5 +1,7 @@
 # Mahoutsukai Haley no Speed Story
 
+![mahoutsukai-haley-no-speed-story](https://cdn.myanimelist.net/images/anime/6/22661.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔法使いハーレイのスピードストーリー

@@ -1,5 +1,7 @@
 # 99's Amanojaku
 
+![99-s-amanojaku](https://cdn.myanimelist.net/images/manga/2/44905.jpg)
+
 -   **type**: manga
 -   **original-name**: 九十九のあまのじゃく
 -   **start-date**: 2010-12-24

@@ -1,5 +1,7 @@
 # Futsugyou: Dansou Majutsushi to Kin no Kishi
 
+![futsugyou-dansou-majutsushi-to-kin-no-kishi](https://cdn.myanimelist.net/images/manga/2/232399.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

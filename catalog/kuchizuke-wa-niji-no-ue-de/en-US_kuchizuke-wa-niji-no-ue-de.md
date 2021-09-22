@@ -1,5 +1,7 @@
 # Kuchizuke wa Niji no Ue de
 
+![kuchizuke-wa-niji-no-ue-de](https://cdn.myanimelist.net/images/manga/3/165770.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Spirit of Wonder: China-san Tanpenshuu
 
+![spirit-of-wonder-china-san-tanpenshuu](https://cdn.myanimelist.net/images/anime/5/18860.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: チャイナさん 短編集

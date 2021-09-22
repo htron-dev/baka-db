@@ -1,5 +1,7 @@
 # Kakumei Club Valvra-bu
 
+![kakumei-club-valvra-bu](https://cdn.myanimelist.net/images/manga/2/152885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

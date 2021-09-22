@@ -1,5 +1,7 @@
 # Neko-iro Hokenshitsu
 
+![neko-iro-hokenshitsu](https://cdn.myanimelist.net/images/manga/2/200715.jpg)
+
 -   **type**: manga
 -   **original-name**: ねこ色保健室
 -   **start-date**: 2017-03-03

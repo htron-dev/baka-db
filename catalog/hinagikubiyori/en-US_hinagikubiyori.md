@@ -1,5 +1,7 @@
 # Hinagikubiyori
 
+![hinagikubiyori](https://cdn.myanimelist.net/images/manga/2/179274.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

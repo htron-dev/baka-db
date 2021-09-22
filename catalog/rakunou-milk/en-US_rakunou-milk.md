@@ -1,5 +1,7 @@
 # Rakunou Milk!
 
+![rakunou-milk](https://cdn.myanimelist.net/images/manga/3/159268.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 57

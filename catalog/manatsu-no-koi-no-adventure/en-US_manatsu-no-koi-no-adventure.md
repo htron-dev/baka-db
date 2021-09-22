@@ -1,5 +1,7 @@
 # Manatsu no Koi no Adventure
 
+![manatsu-no-koi-no-adventure](https://cdn.myanimelist.net/images/manga/3/16324.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

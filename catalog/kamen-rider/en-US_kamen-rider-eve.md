@@ -1,5 +1,7 @@
 # Kamen Rider Eve
 
+![kamen-rider-eve](https://cdn.myanimelist.net/images/manga/1/185752.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

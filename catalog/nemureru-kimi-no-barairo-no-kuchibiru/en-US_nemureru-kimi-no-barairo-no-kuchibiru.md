@@ -1,5 +1,7 @@
 # Nemureru Kimi no Barairo no Kuchibiru
 
+![nemureru-kimi-no-barairo-no-kuchibiru](https://cdn.myanimelist.net/images/manga/3/2318.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

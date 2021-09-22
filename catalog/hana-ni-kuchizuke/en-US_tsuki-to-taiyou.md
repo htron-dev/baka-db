@@ -1,5 +1,7 @@
 # Tsuki to Taiyou
 
+![tsuki-to-taiyou](https://cdn.myanimelist.net/images/manga/2/224903.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

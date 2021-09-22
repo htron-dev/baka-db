@@ -1,5 +1,7 @@
 # Shin Obake no Q-tarou
 
+![shin-obake-no-q-tarou](https://cdn.myanimelist.net/images/anime/3/19488.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 70
 -   **original-name**: 新オバケのＱ太郎

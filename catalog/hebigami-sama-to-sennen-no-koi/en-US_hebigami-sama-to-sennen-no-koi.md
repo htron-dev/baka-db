@@ -1,5 +1,7 @@
 # Hebigami-sama to Sennen no Koi
 
+![hebigami-sama-to-sennen-no-koi](https://cdn.myanimelist.net/images/manga/1/241659.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 蛇神様と千年の恋

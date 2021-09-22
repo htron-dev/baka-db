@@ -1,5 +1,7 @@
 # Xiao Qian
 
+![xiao-qian](https://cdn.myanimelist.net/images/anime/8/28202.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チャイニーズゴーストストーリー小倩

@@ -1,5 +1,7 @@
 # Cherry and Virgin
 
+![cherry-and-virgin](https://cdn.myanimelist.net/images/anime/1155/114618.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: CHERRY AND VIRGIN

@@ -1,5 +1,7 @@
 # Kuro no Souzou Shoukanshi
 
+![kuro-no-souzou-shoukanshi](https://cdn.myanimelist.net/images/manga/1/187264.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 黒の創造召喚師
 -   **start-date**: 2015-01-23

@@ -1,5 +1,7 @@
 # Sakura no Hana Saku Koro
 
+![sakura-no-hana-saku-koro](https://cdn.myanimelist.net/images/manga/3/25691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

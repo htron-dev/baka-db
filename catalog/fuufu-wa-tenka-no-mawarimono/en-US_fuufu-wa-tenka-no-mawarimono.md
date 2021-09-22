@@ -1,5 +1,7 @@
 # Fuufu wa Tenka no Mawarimono
 
+![fuufu-wa-tenka-no-mawarimono](https://cdn.myanimelist.net/images/manga/2/7178.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 夫婦は天下のまわりもの

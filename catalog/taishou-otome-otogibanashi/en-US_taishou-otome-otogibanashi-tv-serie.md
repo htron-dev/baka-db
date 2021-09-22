@@ -1,5 +1,7 @@
 # Taishou Otome Otogibanashi
 
+![taishou-otome-otogibanashi](https://cdn.myanimelist.net/images/anime/1822/113767.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 大正処女御伽話
 -   **start-date**: 2021-10-20

@@ -1,5 +1,7 @@
 # Isekai Nonbiri Nouka
 
+![isekai-nonbiri-nouka](https://cdn.myanimelist.net/images/manga/3/207454.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界のんびり農家
 -   **start-date**: 2017-10-12

@@ -1,5 +1,7 @@
 # Canis Series
 
+![canis-series](https://cdn.myanimelist.net/images/manga/1/100181.jpg)
+
 -   **type**: manga
 -   **original-name**: CANIS シリーズ
 -   **start-date**: 2012-06-28

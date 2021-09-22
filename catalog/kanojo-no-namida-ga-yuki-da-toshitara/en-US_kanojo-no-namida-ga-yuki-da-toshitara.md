@@ -1,5 +1,7 @@
 # Kanojo no Namida ga Yuki da Toshitara
 
+![kanojo-no-namida-ga-yuki-da-toshitara](https://cdn.myanimelist.net/images/manga/2/66321.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

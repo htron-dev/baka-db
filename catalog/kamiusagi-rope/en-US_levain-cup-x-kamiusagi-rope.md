@@ -1,5 +1,7 @@
 # Levain Cup x Kamiusagi Rope
 
+![levain-cup-x-kamiusagi-rope](https://cdn.myanimelist.net/images/anime/12/85032.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: ルヴァンカップ × 紙兎ロペ

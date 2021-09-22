@@ -1,5 +1,7 @@
 # Ankoku Shinwa
 
+![ankoku-shinwa](https://cdn.myanimelist.net/images/manga/2/116305.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

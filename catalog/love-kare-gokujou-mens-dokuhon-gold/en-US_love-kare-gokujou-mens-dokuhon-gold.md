@@ -1,5 +1,7 @@
 # Love Kare: Gokujou Men's Dokuhon! - Gold
 
+![love-kare-gokujou-mens-dokuhon-gold](https://cdn.myanimelist.net/images/manga/2/91399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

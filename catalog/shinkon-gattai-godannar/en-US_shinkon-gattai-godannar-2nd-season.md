@@ -1,5 +1,7 @@
 # Shinkon Gattai Godannar!! 2nd Season
 
+![shinkon-gattai-godannar-2nd-season](https://cdn.myanimelist.net/images/anime/7/50669.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 神魂合体ゴーダンナー!! SECOND SEASON

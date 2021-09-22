@@ -1,5 +1,7 @@
 # Kaihatsu BL: Hajimete no xx
 
+![kaihatsu-bl-hajimete-no-xx](https://cdn.myanimelist.net/images/manga/2/246715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

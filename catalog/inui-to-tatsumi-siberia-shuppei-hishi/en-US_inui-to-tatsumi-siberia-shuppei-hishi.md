@@ -1,5 +1,7 @@
 # Inui to Tatsumi: Siberia Shuppei Hishi
 
+![inui-to-tatsumi-siberia-shuppei-hishi](https://cdn.myanimelist.net/images/manga/3/226004.jpg)
+
 -   **type**: manga
 -   **original-name**: 乾と巽ーシベリア出兵秘史ー
 -   **start-date**: 2018-09-25

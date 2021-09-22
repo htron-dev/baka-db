@@ -1,5 +1,7 @@
 # Sora no Kain
 
+![sora-no-kain](https://cdn.myanimelist.net/images/manga/1/181314.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

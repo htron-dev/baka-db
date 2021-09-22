@@ -1,5 +1,7 @@
 # Over Drive
 
+![over-drive](https://cdn.myanimelist.net/images/manga/2/80563.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

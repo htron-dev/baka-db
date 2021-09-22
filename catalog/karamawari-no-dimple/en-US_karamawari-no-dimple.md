@@ -1,5 +1,7 @@
 # Karamawari no Dimple
 
+![karamawari-no-dimple](https://cdn.myanimelist.net/images/manga/3/62705.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

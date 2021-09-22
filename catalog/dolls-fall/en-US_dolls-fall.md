@@ -1,5 +1,7 @@
 # Dolls Fall
 
+![dolls-fall](https://cdn.myanimelist.net/images/manga/3/115553.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

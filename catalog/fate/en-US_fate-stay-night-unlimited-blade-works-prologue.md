@@ -1,5 +1,7 @@
 # Fate/stay night: Unlimited Blade Works Prologue
 
+![fate-stay-night-unlimited-blade-works-prologue](https://cdn.myanimelist.net/images/anime/9/67425.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Fate/stay night [Unlimited Blade Works] プロローグ

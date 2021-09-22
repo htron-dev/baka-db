@@ -1,5 +1,7 @@
 # Tadashikunai Renai no Susume
 
+![tadashikunai-renai-no-susume](https://cdn.myanimelist.net/images/manga/3/128257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

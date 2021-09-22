@@ -1,5 +1,7 @@
 # cm0
 
+![cm-0](https://cdn.myanimelist.net/images/manga/5/19193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

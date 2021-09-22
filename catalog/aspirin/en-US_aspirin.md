@@ -1,5 +1,7 @@
 # Aspirin
 
+![aspirin](https://cdn.myanimelist.net/images/manga/2/4746.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 아스피린

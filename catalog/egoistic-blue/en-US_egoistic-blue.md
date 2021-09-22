@@ -1,5 +1,7 @@
 # Egoistic Blue
 
+![egoistic-blue](https://cdn.myanimelist.net/images/manga/3/171494.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

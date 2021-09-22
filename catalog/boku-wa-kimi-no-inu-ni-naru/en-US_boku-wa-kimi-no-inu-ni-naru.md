@@ -1,5 +1,7 @@
 # Boku wa Kimi no Inu ni Naru
 
+![boku-wa-kimi-no-inu-ni-naru](https://cdn.myanimelist.net/images/manga/3/117859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kinnikuman: Seigi Choujin vs. Kodai Choujin
 
+![kinnikuman-seigi-choujin-vs-kodai-choujin](https://cdn.myanimelist.net/images/anime/1744/97584.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キン肉マン 正義超人ＶＳ古代超人

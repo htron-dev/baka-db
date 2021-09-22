@@ -1,5 +1,7 @@
 # Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa
 
+![geobreeders-2-mouryou-yuugekitai-file-xx-ransen-toppa](https://cdn.myanimelist.net/images/anime/6/6610.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ジオブリーダーズ２ 魍魎遊撃隊

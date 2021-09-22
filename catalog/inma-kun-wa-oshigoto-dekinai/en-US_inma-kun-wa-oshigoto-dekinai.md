@@ -1,5 +1,7 @@
 # Inma-kun wa Oshigoto Dekinai
 
+![inma-kun-wa-oshigoto-dekinai](https://cdn.myanimelist.net/images/manga/2/232368.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

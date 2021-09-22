@@ -1,5 +1,7 @@
 # Soukou Akki Muramasa: Minagoroshi
 
+![soukou-akki-muramasa-minagoroshi](https://cdn.myanimelist.net/images/manga/1/144333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

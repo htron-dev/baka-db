@@ -1,5 +1,7 @@
 # Onecha.
 
+![onecha](https://cdn.myanimelist.net/images/manga/2/224491.jpg)
+
 -   **type**: manga
 -   **original-name**: おねチャ。
 -   **start-date**: 2019-02-09

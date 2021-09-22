@@ -1,5 +1,7 @@
 # Wata no Kuni Hoshi Pilot
 
+![wata-no-kuni-hoshi-pilot](https://cdn.myanimelist.net/images/anime/1132/90779.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 綿の国星 パイロットフィルム

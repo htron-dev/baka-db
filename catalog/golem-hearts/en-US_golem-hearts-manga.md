@@ -1,5 +1,7 @@
 # Golem Hearts
 
+![golem-hearts](https://cdn.myanimelist.net/images/manga/2/207000.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

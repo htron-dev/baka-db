@@ -1,5 +1,7 @@
 # Chuuko demo Koi ga Shitai!
 
+![chuuko-demo-koi-ga-shitai](https://cdn.myanimelist.net/images/manga/3/158150.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 97

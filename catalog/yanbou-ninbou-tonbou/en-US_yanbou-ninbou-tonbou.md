@@ -1,5 +1,7 @@
 # Yanbou Ninbou Tonbou
 
+![yanbou-ninbou-tonbou](https://cdn.myanimelist.net/images/anime/3/35933.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ヤンボウ ニンボウ トンボウ

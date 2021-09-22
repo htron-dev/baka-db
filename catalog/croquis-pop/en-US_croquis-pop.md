@@ -1,5 +1,7 @@
 # Croquis Pop
 
+![croquis-pop](https://cdn.myanimelist.net/images/manga/3/14822.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 39

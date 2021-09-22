@@ -1,5 +1,7 @@
 # Guskou Budori no Denki
 
+![guskou-budori-no-denki](https://cdn.myanimelist.net/images/anime/2/22300.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: グスコーブドリの伝記

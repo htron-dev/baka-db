@@ -1,5 +1,7 @@
 # Oujougiwa no Imi wo Shire!
 
+![oujougiwa-no-imi-wo-shire](https://cdn.myanimelist.net/images/manga/2/247654.jpg)
+
 -   **type**: manga
 -   **original-name**: 往生際の意味を知れ！
 -   **start-date**: 2020-02-22

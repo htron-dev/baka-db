@@ -1,5 +1,7 @@
 # Hime wa Amayaka ni Saki Nureru: Sakura no Kuni Monogatari
 
+![hime-wa-amayaka-ni-saki-nureru-sakura-no-kuni-monogatari](https://cdn.myanimelist.net/images/manga/2/184070.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

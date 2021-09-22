@@ -1,5 +1,7 @@
 # Kamisama Drop
 
+![kamisama-drop](https://cdn.myanimelist.net/images/manga/3/188973.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 44

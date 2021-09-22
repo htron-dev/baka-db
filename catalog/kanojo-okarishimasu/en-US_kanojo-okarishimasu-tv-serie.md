@@ -1,5 +1,7 @@
 # Kanojo, Okarishimasu
 
+![kanojo-okarishimasu](https://cdn.myanimelist.net/images/anime/1485/107693.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 彼女、お借りします

@@ -1,5 +1,7 @@
 # Red Lion
 
+![red-lion](https://cdn.myanimelist.net/images/manga/1/125951.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 37

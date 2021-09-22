@@ -1,5 +1,7 @@
 # Malta no Bouken Season 2
 
+![malta-no-bouken-season-2](https://cdn.myanimelist.net/images/anime/1572/93453.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: マルタの冒険　シーズン２

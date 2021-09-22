@@ -1,5 +1,7 @@
 # Doraku Bengoshi
 
+![doraku-bengoshi](https://cdn.myanimelist.net/images/manga/2/163428.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: ドーラク弁護士

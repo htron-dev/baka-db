@@ -1,5 +1,7 @@
 # Submarine 707
 
+![submarine-707](https://cdn.myanimelist.net/images/manga/1/83176.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: サブマリン 707

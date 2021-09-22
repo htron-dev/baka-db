@@ -1,5 +1,7 @@
 # Disney Fairies: Chiisana Yousei Petite no Nikki
 
+![disney-fairies-chiisana-yousei-petite-no-nikki](https://cdn.myanimelist.net/images/manga/2/96609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

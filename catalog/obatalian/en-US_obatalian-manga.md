@@ -1,5 +1,7 @@
 # Obatalian
 
+![obatalian](https://cdn.myanimelist.net/images/manga/1/134273.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: オバタリアン

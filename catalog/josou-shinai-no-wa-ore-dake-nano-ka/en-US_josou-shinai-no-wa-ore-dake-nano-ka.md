@@ -1,5 +1,7 @@
 # Josou Shinai no wa Ore dake nano ka!?
 
+![josou-shinai-no-wa-ore-dake-nano-ka](https://cdn.myanimelist.net/images/manga/2/248521.jpg)
+
 -   **type**: manga
 -   **original-name**: 女装しないのは俺だけなのか!?
 -   **start-date**: 2020-07-29

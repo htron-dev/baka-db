@@ -1,5 +1,7 @@
 # Lupin Kozou
 
+![lupin-kozou](https://cdn.myanimelist.net/images/manga/2/220679.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Souyaku Toaru Majutsu no Index
 
+![souyaku-toaru-majutsu-no-index](https://cdn.myanimelist.net/images/manga/3/229100.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 創約 とある魔術の禁書目録〈インデックス〉
 -   **start-date**: 2020-02-07

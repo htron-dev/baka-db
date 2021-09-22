@@ -1,5 +1,7 @@
 # Oujo to Dorei: Toriko no Hime wa Gouman na Shita ni Oboreru
 
+![oujo-to-dorei-toriko-no-hime-wa-gouman-na-shita-ni-oboreru](https://cdn.myanimelist.net/images/manga/3/184499.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tetsuwan Genta
 
+![tetsuwan-genta](https://cdn.myanimelist.net/images/manga/2/203990.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 鉄腕げん太

@@ -1,5 +1,7 @@
 # Kyouko to Tousan
 
+![kyouko-to-tousan](https://cdn.myanimelist.net/images/manga/1/170728.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

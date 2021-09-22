@@ -1,5 +1,7 @@
 # Souryo to Majiwaru Shikiyoku no Yoru ni...
 
+![souryo-to-majiwaru-shikiyoku-no-yoru-ni](https://cdn.myanimelist.net/images/manga/1/190472.jpg)
+
 -   **type**: manga
 -   **original-name**: 僧侶と交わる色欲の夜に…
 -   **start-date**: 2014-06-02

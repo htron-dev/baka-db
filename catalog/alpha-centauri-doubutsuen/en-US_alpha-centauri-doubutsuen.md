@@ -1,5 +1,7 @@
 # Alpha Centauri Doubutsuen
 
+![alpha-centauri-doubutsuen](https://cdn.myanimelist.net/images/manga/1/170638.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: α ケンタウリ動物園

@@ -1,5 +1,7 @@
 # Age Called Blue
 
+![age-called-blue](https://cdn.myanimelist.net/images/manga/3/26395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

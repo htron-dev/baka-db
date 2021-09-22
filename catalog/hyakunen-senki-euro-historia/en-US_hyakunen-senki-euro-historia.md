@@ -1,5 +1,7 @@
 # Hyakunen Senki: Euro Historia
 
+![hyakunen-senki-euro-historia](https://cdn.myanimelist.net/images/manga/3/155611.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

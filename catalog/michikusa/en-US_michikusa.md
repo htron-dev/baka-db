@@ -1,5 +1,7 @@
 # Michikusa
 
+![michikusa](https://cdn.myanimelist.net/images/manga/2/187945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

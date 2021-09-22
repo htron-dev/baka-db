@@ -1,5 +1,7 @@
 # Shinkon Gattai Godannar!!
 
+![shinkon-gattai-godannar](https://cdn.myanimelist.net/images/anime/11/75451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 神魂合体ゴーダンナー！！

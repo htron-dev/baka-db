@@ -1,5 +1,7 @@
 # Tensei Koushaku Reijou Funtouki: Watashi, Rippa ni Zamaa sarete Misemasu!
 
+![tensei-koushaku-reijou-funtouki-watashi-rippa-ni-zamaa-sarete-misemasu](https://cdn.myanimelist.net/images/manga/2/245284.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生侯爵令嬢奮闘記ーわたし、立派にざまぁされてみせます！
 -   **start-date**: 2020-08-27

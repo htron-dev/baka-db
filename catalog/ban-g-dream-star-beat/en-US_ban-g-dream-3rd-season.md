@@ -1,5 +1,7 @@
 # BanG Dream! 3rd Season
 
+![ban-g-dream-3rd-season](https://cdn.myanimelist.net/images/anime/1985/104767.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: BanG Dream!（バンドリ！）第 3 期

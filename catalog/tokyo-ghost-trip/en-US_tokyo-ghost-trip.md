@@ -1,5 +1,7 @@
 # Tokyo Ghost Trip
 
+![tokyo-ghost-trip](https://cdn.myanimelist.net/images/manga/2/17224.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 23

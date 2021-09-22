@@ -1,5 +1,7 @@
 # Boku wa, Yuri na Oneechan wo Ouen shiteimasu
 
+![boku-wa-yuri-na-oneechan-wo-ouen-shiteimasu](https://cdn.myanimelist.net/images/manga/3/224388.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

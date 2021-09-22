@@ -1,5 +1,7 @@
 # 6HP (Six Hearts Princess)
 
+![6-hp-six-hearts-princess](https://cdn.myanimelist.net/images/anime/13/72448.jpg)
+
 -   **type**: special
 -   **original-name**: 6HP(シックスハートプリンセス)
 -   **start-date**: 2016-12-30

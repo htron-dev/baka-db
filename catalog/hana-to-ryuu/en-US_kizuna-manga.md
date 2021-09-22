@@ -1,5 +1,7 @@
 # Kizuna
 
+![kizuna](https://cdn.myanimelist.net/images/manga/1/152344.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 56

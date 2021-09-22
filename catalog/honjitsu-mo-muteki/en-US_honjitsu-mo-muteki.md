@@ -1,5 +1,7 @@
 # Honjitsu mo Muteki
 
+![honjitsu-mo-muteki](https://cdn.myanimelist.net/images/manga/2/6734.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

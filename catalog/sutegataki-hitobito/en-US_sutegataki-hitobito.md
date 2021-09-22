@@ -1,5 +1,7 @@
 # Sutegataki Hitobito
 
+![sutegataki-hitobito](https://cdn.myanimelist.net/images/manga/3/104651.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

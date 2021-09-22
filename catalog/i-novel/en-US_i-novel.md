@@ -1,5 +1,7 @@
 # I Novel
 
+![i-novel](https://cdn.myanimelist.net/images/manga/2/234033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,8 +1,10 @@
 # Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers
 
+![koukaku-kidoutai-arise-ghost-in-the-shell-border-2-ghost-whispers](https://cdn.myanimelist.net/images/anime/8/52135.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
--   **original-name**: 攻殻機動隊ARISE -GHOST IN THE SHELL- border:2 Ghost Whispers
+-   **original-name**: 攻殻機動隊 ARISE -GHOST IN THE SHELL- border:2 Ghost Whispers
 -   **start-date**: 2013-11-30
 -   **opening-song**: "GHOST IN THE SHELL ARISE" by Cornelius
 -   **ending-song**: "Soto wa Senjou da yo (外は戦場だよ)" by Ichiko Aoba (青葉市子)

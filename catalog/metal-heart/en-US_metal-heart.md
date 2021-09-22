@@ -1,5 +1,7 @@
 # Metal Heart
 
+![metal-heart](https://cdn.myanimelist.net/images/manga/3/150389.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 16
 -   **original-name**: 메탈하트

@@ -1,5 +1,7 @@
 # Shunkan Lyle
 
+![shunkan-lyle](https://cdn.myanimelist.net/images/manga/1/178177.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

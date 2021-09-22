@@ -1,5 +1,7 @@
 # Grappler Baki
 
+![grappler-baki](https://cdn.myanimelist.net/images/manga/2/76249.jpg)
+
 -   **type**: manga
 -   **volumes**: 42
 -   **chapters**: 371

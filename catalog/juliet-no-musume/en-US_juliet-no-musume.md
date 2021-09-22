@@ -1,5 +1,7 @@
 # Juliet no Musume
 
+![juliet-no-musume](https://cdn.myanimelist.net/images/manga/1/126661.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ジュリエットの娘

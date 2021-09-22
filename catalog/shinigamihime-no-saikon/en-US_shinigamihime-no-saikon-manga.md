@@ -1,5 +1,7 @@
 # Shinigamihime no Saikon
 
+![shinigamihime-no-saikon](https://cdn.myanimelist.net/images/manga/2/111359.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Mogusa-san wa Shokuyoku to Tatakau
 
+![mogusa-san-wa-shokuyoku-to-tatakau](https://cdn.myanimelist.net/images/manga/1/201993.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

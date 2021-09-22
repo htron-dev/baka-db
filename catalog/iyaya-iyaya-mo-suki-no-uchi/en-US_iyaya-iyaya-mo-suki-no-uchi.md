@@ -1,5 +1,7 @@
 # Iyaya Iyaya mo Suki no Uchi?
 
+![iyaya-iyaya-mo-suki-no-uchi](https://cdn.myanimelist.net/images/manga/2/212131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Shounen Ashibe (TV)
 
+![shounen-ashibe-tv](https://cdn.myanimelist.net/images/anime/9/24404.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: 少年アシベ

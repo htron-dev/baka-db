@@ -1,5 +1,7 @@
 # Sakurai-san wa Kizuite Hoshii
 
+![sakurai-san-wa-kizuite-hoshii](https://cdn.myanimelist.net/images/manga/1/233085.jpg)
+
 -   **type**: manga
 -   **original-name**: 桜井さんは気づいてほしい
 -   **start-date**: 2019-10-26

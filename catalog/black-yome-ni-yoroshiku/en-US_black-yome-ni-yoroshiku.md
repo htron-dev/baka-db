@@ -1,5 +1,7 @@
 # Black Yome ni Yoroshiku!
 
+![black-yome-ni-yoroshiku](https://cdn.myanimelist.net/images/manga/1/188980.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラック嫁によろしく！
 -   **start-date**: 2013-07-09

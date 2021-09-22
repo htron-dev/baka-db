@@ -1,5 +1,7 @@
 # Katsugeki/Touken Ranbu
 
+![katsugeki-touken-ranbu](https://cdn.myanimelist.net/images/anime/12/87984.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 活撃／刀剣乱舞

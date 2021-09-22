@@ -1,5 +1,7 @@
 # Boku no Chopin
 
+![boku-no-chopin](https://cdn.myanimelist.net/images/manga/3/124925.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

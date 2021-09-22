@@ -1,5 +1,7 @@
 # Tarzan no Himitsu Kichi
 
+![tarzan-no-himitsu-kichi](https://cdn.myanimelist.net/images/manga/1/228181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ターザンの秘密基地

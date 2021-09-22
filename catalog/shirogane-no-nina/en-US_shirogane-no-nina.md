@@ -1,5 +1,7 @@
 # Shirogane no Nina
 
+![shirogane-no-nina](https://cdn.myanimelist.net/images/manga/3/232237.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 135

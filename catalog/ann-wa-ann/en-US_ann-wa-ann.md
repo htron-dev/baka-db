@@ -1,5 +1,7 @@
 # Ann wa Ann
 
+![ann-wa-ann](https://cdn.myanimelist.net/images/manga/3/34634.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アンはアン

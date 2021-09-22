@@ -1,5 +1,7 @@
 # Shin Obake no Q-tarou
 
+![shin-obake-no-q-tarou](https://cdn.myanimelist.net/images/manga/1/171551.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 66

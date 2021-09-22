@@ -1,5 +1,7 @@
 # BLT: Burning Love Twin
 
+![blt-burning-love-twin](https://cdn.myanimelist.net/images/manga/2/4243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

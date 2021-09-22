@@ -1,5 +1,7 @@
 # Dragon Collection: Ryuu wo Suberumono
 
+![dragon-collection-ryuu-wo-suberumono](https://cdn.myanimelist.net/images/manga/2/84225.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 51

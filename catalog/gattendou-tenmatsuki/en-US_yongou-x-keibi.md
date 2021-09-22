@@ -1,5 +1,7 @@
 # Yongou x Keibi
 
+![yongou-x-keibi](https://cdn.myanimelist.net/images/manga/2/149090.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 四号 × 警備

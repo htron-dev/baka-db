@@ -1,5 +1,7 @@
 # Utsurun Desu.
 
+![utsurun-desu](https://cdn.myanimelist.net/images/anime/11/60077.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 伝染るんです。

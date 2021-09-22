@@ -1,5 +1,7 @@
 # Seirei Gakusha Kidan Reikyou Kaden
 
+![seirei-gakusha-kidan-reikyou-kaden](https://cdn.myanimelist.net/images/manga/1/21836.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

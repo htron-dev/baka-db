@@ -1,5 +1,7 @@
 # Aldnoah.Zero Extra Archives
 
+![aldnoah-zero-extra-archives](https://cdn.myanimelist.net/images/anime/2/70417.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アルドノア・ゼロ総集編

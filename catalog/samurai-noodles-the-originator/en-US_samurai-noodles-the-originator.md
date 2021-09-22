@@ -1,5 +1,7 @@
 # Samurai Noodles: The Originator
 
+![samurai-noodles-the-originator](https://cdn.myanimelist.net/images/anime/3/81123.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: SAMURAI NOODLES "THE ORIGINATOR"

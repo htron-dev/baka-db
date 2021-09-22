@@ -1,5 +1,7 @@
 # Detective Conan: The Bomb Demon That Came From the Picture Book
 
+![detective-conan-the-bomb-demon-that-came-from-the-picture-book](https://cdn.myanimelist.net/images/anime/4/86779.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 名探偵コナン 絵本から飛び出す爆弾魔

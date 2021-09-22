@@ -1,5 +1,7 @@
 # Mebius no Tamago
 
+![mebius-no-tamago](https://cdn.myanimelist.net/images/manga/3/6363.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: メビウスの卵

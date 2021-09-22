@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00 Second Season
 
+![mobile-suit-gundam-00-second-season](https://cdn.myanimelist.net/images/manga/2/32425.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 機動戦士ガンダム 00 セカンドシーズン

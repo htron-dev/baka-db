@@ -1,5 +1,7 @@
 # Anko Bomb-a-Yeah!!
 
+![anko-bomb-a-yeah](https://cdn.myanimelist.net/images/manga/1/36815.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 杏子ボンバイエ！！

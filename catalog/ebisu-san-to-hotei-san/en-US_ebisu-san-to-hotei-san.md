@@ -1,5 +1,7 @@
 # Ebisu-san to Hotei-san
 
+![ebisu-san-to-hotei-san](https://cdn.myanimelist.net/images/manga/4/34283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

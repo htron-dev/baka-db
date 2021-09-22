@@ -1,5 +1,7 @@
 # Choco Kyouju no Oheya
 
+![choco-kyouju-no-oheya](https://cdn.myanimelist.net/images/anime/7/83687.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: チョコ教授のお部屋

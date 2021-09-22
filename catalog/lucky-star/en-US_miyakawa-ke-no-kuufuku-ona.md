@@ -1,5 +1,7 @@
 # Miyakawa-ke no Kuufuku
 
+![miyakawa-ke-no-kuufuku](https://cdn.myanimelist.net/images/anime/5/47451.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 宮河家の空腹

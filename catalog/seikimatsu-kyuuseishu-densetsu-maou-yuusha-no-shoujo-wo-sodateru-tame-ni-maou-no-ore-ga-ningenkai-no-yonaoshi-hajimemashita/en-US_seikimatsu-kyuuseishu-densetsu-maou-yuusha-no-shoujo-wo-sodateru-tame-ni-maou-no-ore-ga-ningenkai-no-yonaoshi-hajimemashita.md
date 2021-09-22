@@ -1,5 +1,7 @@
 # Seikimatsu Kyuuseishu Densetsu Maou: Yuusha no Shoujo wo Sodateru Tame ni, Maou no Ore ga Ningenkai no Yonaoshi Hajimemashita
 
+![seikimatsu-kyuuseishu-densetsu-maou-yuusha-no-shoujo-wo-sodateru-tame-ni-maou-no-ore-ga-ningenkai-no-yonaoshi-hajimemashita](https://cdn.myanimelist.net/images/manga/3/164121.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

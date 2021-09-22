@@ -1,5 +1,7 @@
 # Anata ni Ai no Kakuteru wo
 
+![anata-ni-ai-no-kakuteru-wo](https://cdn.myanimelist.net/images/manga/1/193054.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

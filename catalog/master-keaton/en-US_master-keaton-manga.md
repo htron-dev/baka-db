@@ -1,5 +1,7 @@
 # Master Keaton
 
+![master-keaton](https://cdn.myanimelist.net/images/manga/1/200911.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 144

@@ -1,5 +1,7 @@
 # Kairaku ni Torokeochiru Hakui no Tenshi: Weißer Engel Iu
 
+![kairaku-ni-torokeochiru-hakui-no-tenshi-weisser-engel-iu](https://cdn.myanimelist.net/images/manga/2/169778.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 快楽に蕩け堕ちる白衣の天使 -ヴァイサーエンゲル・イユ-

@@ -1,5 +1,7 @@
 # Jigoku Meguri
 
+![jigoku-meguri](https://cdn.myanimelist.net/images/manga/2/26245.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

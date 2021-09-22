@@ -1,5 +1,7 @@
 # Ganbare!! Tabuchi-kun!!
 
+![ganbare-tabuchi-kun](https://cdn.myanimelist.net/images/manga/3/178014.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: がんばれ!! タブチくん!!

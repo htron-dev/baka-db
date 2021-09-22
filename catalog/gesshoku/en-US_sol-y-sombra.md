@@ -1,5 +1,7 @@
 # Sol y Sombra
 
+![sol-y-sombra](https://cdn.myanimelist.net/images/manga/2/38978.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ソル・イ・ソンブラ

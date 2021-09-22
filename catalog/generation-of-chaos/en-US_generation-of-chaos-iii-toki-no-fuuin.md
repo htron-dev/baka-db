@@ -1,5 +1,7 @@
 # Generation of Chaos III: Toki no Fuuin
 
+![generation-of-chaos-iii-toki-no-fuuin](https://cdn.myanimelist.net/images/anime/7/3754.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ジェネレーション オブ カオス III ～　時の封印　～

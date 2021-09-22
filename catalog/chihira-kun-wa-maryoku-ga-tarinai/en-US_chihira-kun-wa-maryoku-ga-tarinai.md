@@ -1,5 +1,7 @@
 # Chihira-kun wa Maryoku ga Tarinai
 
+![chihira-kun-wa-maryoku-ga-tarinai](https://cdn.myanimelist.net/images/manga/1/238334.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # G-Taste (2010)
 
+![g-taste-2010](https://cdn.myanimelist.net/images/anime/10/61779.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: G-Best －G-taste ベストセレクション－

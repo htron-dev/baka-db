@@ -1,5 +1,7 @@
 # Messiah no Tettsui
 
+![messiah-no-tettsui](https://cdn.myanimelist.net/images/manga/2/230654.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: メシアの鉄槌

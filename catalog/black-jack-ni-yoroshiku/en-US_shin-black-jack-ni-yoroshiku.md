@@ -1,5 +1,7 @@
 # Shin Black Jack ni Yoroshiku
 
+![shin-black-jack-ni-yoroshiku](https://cdn.myanimelist.net/images/manga/2/76311.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 70

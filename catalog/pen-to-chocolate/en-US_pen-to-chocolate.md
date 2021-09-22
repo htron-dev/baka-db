@@ -1,5 +1,7 @@
 # Pen to Chocolate
 
+![pen-to-chocolate](https://cdn.myanimelist.net/images/manga/2/171400.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

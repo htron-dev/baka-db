@@ -1,5 +1,7 @@
 # Senyoku no Sigrdrifa: Dai-909 Senjutsu Hime-tai Sentou Kiroku!
 
+![senyoku-no-sigrdrifa-dai-909-senjutsu-hime-tai-sentou-kiroku](https://cdn.myanimelist.net/images/anime/1256/110447.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 戦翼のシグルドリーヴァ 第 909 戦術姫隊戦闘記録！

@@ -1,5 +1,7 @@
 # Houtou Musuko to Koi no Ana
 
+![houtou-musuko-to-koi-no-ana](https://cdn.myanimelist.net/images/manga/3/232883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

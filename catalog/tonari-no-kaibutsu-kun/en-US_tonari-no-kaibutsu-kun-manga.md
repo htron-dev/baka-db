@@ -1,5 +1,7 @@
 # Tonari no Kaibutsu-kun
 
+![tonari-no-kaibutsu-kun](https://cdn.myanimelist.net/images/manga/2/59207.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 55

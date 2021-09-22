@@ -1,5 +1,7 @@
 # Shin Strange+ Special
 
+![shin-strange-special](https://cdn.myanimelist.net/images/anime/2/64845.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 真 ストレンジ・プラス

@@ -1,5 +1,7 @@
 # Louvre no Neko
 
+![louvre-no-neko](https://cdn.myanimelist.net/images/manga/2/203466.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

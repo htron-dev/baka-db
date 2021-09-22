@@ -1,5 +1,7 @@
 # Heibai Wushang 2nd Season
 
+![heibai-wushang-2nd-season](https://cdn.myanimelist.net/images/anime/12/88317.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 黑白无双

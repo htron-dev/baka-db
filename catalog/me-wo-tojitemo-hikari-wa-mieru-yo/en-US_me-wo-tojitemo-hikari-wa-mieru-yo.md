@@ -1,5 +1,7 @@
 # Me wo Tojitemo Hikari wa Mieru yo
 
+![me-wo-tojitemo-hikari-wa-mieru-yo](https://cdn.myanimelist.net/images/manga/3/225063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Tactics
 
+![tactics](https://cdn.myanimelist.net/images/manga/3/158123.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: tactics

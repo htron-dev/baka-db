@@ -1,5 +1,7 @@
 # Ie Naki Ko (Movie)
 
+![ie-naki-ko-movie](https://cdn.myanimelist.net/images/anime/6/29634.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 家なき子

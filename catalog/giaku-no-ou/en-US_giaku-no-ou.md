@@ -1,5 +1,7 @@
 # Giaku no Ou
 
+![giaku-no-ou](https://cdn.myanimelist.net/images/manga/2/160500.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

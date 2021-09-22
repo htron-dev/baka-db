@@ -1,5 +1,7 @@
 # Hamatora The Animation: Saishuukai Chokuzen! Mao ga Okuru
 
+![hamatora-the-animation-saishuukai-chokuzen-mao-ga-okuru](https://cdn.myanimelist.net/images/anime/2/72302.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 「ハマトラ」最終回直前！マオが送る総集編スペシャル File-SP 情報屋の特種

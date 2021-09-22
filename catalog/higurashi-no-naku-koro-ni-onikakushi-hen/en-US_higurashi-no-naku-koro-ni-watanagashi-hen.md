@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Watanagashi-hen
 
+![higurashi-no-naku-koro-ni-watanagashi-hen](https://cdn.myanimelist.net/images/manga/2/1014.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

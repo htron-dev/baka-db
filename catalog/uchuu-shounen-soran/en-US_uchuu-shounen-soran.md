@@ -1,5 +1,7 @@
 # Uchuu Shounen Soran
 
+![uchuu-shounen-soran](https://cdn.myanimelist.net/images/anime/9/36189.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 96
 -   **original-name**: 宇宙少年ソラン

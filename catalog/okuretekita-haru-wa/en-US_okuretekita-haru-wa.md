@@ -1,5 +1,7 @@
 # Okuretekita Haru wa.
 
+![okuretekita-haru-wa](https://cdn.myanimelist.net/images/manga/2/247366.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

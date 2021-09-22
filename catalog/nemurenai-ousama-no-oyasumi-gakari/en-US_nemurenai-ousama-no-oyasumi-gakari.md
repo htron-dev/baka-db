@@ -1,5 +1,7 @@
 # Nemurenai Ousama no Oyasumi-gakari
 
+![nemurenai-ousama-no-oyasumi-gakari](https://cdn.myanimelist.net/images/manga/3/235264.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Motoyan Papa to Hitsuji-sensei
 
+![motoyan-papa-to-hitsuji-sensei](https://cdn.myanimelist.net/images/manga/3/219705.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

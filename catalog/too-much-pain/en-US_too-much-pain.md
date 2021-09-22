@@ -1,5 +1,7 @@
 # Too Much Pain
 
+![too-much-pain](https://cdn.myanimelist.net/images/manga/1/166274.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

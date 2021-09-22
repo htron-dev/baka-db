@@ -1,5 +1,7 @@
 # Shoujo Koudan Apartment
 
+![shoujo-koudan-apartment](https://cdn.myanimelist.net/images/manga/2/115497.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 少女公団アパートメント

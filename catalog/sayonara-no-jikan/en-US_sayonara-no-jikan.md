@@ -1,5 +1,7 @@
 # Sayonara no Jikan
 
+![sayonara-no-jikan](https://cdn.myanimelist.net/images/manga/3/17716.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Sakura Kyou
 
+![sakura-kyou](https://cdn.myanimelist.net/images/manga/3/18491.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 桜京

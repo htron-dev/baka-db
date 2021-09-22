@@ -1,5 +1,7 @@
 # The Moon Whispers the Story
 
+![the-moon-whispers-the-story](https://cdn.myanimelist.net/images/manga/2/228569.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 32

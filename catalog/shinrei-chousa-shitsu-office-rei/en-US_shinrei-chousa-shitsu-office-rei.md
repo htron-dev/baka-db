@@ -1,5 +1,7 @@
 # Shinrei Chousa Shitsu: Office Rei
 
+![shinrei-chousa-shitsu-office-rei](https://cdn.myanimelist.net/images/manga/3/183440.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 心霊調査室 OFFICE 麗

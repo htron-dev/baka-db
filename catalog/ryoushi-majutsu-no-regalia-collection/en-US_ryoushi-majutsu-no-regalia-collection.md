@@ -1,5 +1,7 @@
 # Ryoushi Majutsu no Regalia Collection
 
+![ryoushi-majutsu-no-regalia-collection](https://cdn.myanimelist.net/images/manga/2/196111.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

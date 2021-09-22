@@ -1,5 +1,7 @@
 # Hitotsu Yane no Shita no
 
+![hitotsu-yane-no-shita-no](https://cdn.myanimelist.net/images/manga/3/188508.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

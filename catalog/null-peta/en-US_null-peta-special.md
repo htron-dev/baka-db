@@ -1,5 +1,7 @@
 # Null Peta Special
 
+![null-peta-special](https://cdn.myanimelist.net/images/anime/1366/105028.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぬるぺた

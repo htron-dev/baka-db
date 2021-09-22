@@ -1,5 +1,7 @@
 # Maou no Amai Keiyaku
 
+![maou-no-amai-keiyaku](https://cdn.myanimelist.net/images/manga/2/22549.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

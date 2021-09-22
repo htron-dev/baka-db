@@ -1,5 +1,7 @@
 # Trickster
 
+![trickster](https://cdn.myanimelist.net/images/manga/3/21147.jpg)
+
 -   **type**: manga
 -   **original-name**: トリックスター
 -   **start-date**: 1997-05-24

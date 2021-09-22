@@ -1,5 +1,7 @@
 # Remote
 
+![remote](https://cdn.myanimelist.net/images/manga/1/56465.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 100

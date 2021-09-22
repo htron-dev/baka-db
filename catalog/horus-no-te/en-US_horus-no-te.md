@@ -1,5 +1,7 @@
 # Horus no Te
 
+![horus-no-te](https://cdn.myanimelist.net/images/manga/3/196443.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

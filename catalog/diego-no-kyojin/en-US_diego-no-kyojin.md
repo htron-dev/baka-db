@@ -1,5 +1,7 @@
 # Diego no Kyojin
 
+![diego-no-kyojin](https://cdn.myanimelist.net/images/manga/1/186737.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ディエゴの巨神
 -   **start-date**: 2016-11-10

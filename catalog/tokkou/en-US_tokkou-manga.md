@@ -1,5 +1,7 @@
 # Tokkou
 
+![tokkou](https://cdn.myanimelist.net/images/manga/2/4898.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

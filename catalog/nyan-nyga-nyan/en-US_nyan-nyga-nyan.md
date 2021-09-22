@@ -1,5 +1,7 @@
 # Nyan Nyga Nyan
 
+![nyan-nyga-nyan](https://cdn.myanimelist.net/images/manga/2/23307.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: にゃんにゃがにゃん

@@ -1,5 +1,7 @@
 # Be Blues! Ao ni Nare
 
+![be-blues-ao-ni-nare](https://cdn.myanimelist.net/images/manga/1/105053.jpg)
+
 -   **type**: manga
 -   **original-name**: BE BLUES!~青になれ~
 -   **start-date**: 2011-01-26

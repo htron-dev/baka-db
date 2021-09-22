@@ -1,5 +1,7 @@
 # Happy☆Lucky Bikkuriman
 
+![happy☆-lucky-bikkuriman](https://cdn.myanimelist.net/images/anime/7/43261.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 祝! (ハピ ☆ ラキ)ビックリマン

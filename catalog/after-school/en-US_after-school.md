@@ -1,5 +1,7 @@
 # After School
 
+![after-school](https://cdn.myanimelist.net/images/manga/2/92201.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アフタースクール

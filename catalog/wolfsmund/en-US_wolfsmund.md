@@ -1,5 +1,7 @@
 # Wolfsmund
 
+![wolfsmund](https://cdn.myanimelist.net/images/manga/3/66147.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Shousetsu Toukou Site wo Riyou shiteitara Class no Heroine ga Dokusha Datta
 
+![shousetsu-toukou-site-wo-riyou-shiteitara-class-no-heroine-ga-dokusha-datta](https://cdn.myanimelist.net/images/manga/2/228352.jpg)
+
 -   **type**: manga
 -   **original-name**: 小説投稿サイトを利用していたら、クラスの美少女〈ヒロイン〉が読者だった
 -   **start-date**: 2019-03-19

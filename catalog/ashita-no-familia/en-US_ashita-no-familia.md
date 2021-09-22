@@ -1,5 +1,7 @@
 # Ashita no Familia
 
+![ashita-no-familia](https://cdn.myanimelist.net/images/manga/2/188816.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 53

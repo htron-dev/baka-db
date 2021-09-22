@@ -1,5 +1,7 @@
 # Ijiranaide, Nagatoro-san
 
+![ijiranaide-nagatoro-san](https://cdn.myanimelist.net/images/manga/3/207460.jpg)
+
 -   **type**: manga
 -   **original-name**: イジらないで、長瀞さん
 -   **start-date**: 2017-11-07

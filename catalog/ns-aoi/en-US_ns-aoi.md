@@ -1,5 +1,7 @@
 # Ns' Aoi
 
+![ns-aoi](https://cdn.myanimelist.net/images/manga/3/76763.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 290

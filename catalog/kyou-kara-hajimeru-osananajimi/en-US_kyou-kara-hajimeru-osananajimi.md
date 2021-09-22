@@ -1,5 +1,7 @@
 # Kyou kara Hajimeru Osananajimi
 
+![kyou-kara-hajimeru-osananajimi](https://cdn.myanimelist.net/images/manga/3/244886.jpg)
+
 -   **type**: manga
 -   **original-name**: 今日から始める幼なじみ
 -   **start-date**: 2021-04-20

@@ -1,5 +1,7 @@
 # Kenka Banchou Otome: Girl Beats Boys
 
+![kenka-banchou-otome-girl-beats-boys](https://cdn.myanimelist.net/images/anime/9/85022.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 喧嘩番長 乙女 -GIRL BEATS BOYS-

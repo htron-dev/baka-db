@@ -1,5 +1,7 @@
 # Zenbu Choudai
 
+![zenbu-choudai](https://cdn.myanimelist.net/images/manga/4/168186.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

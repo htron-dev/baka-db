@@ -1,5 +1,7 @@
 # Hoshi no Locus
 
+![hoshi-no-locus](https://cdn.myanimelist.net/images/manga/3/232323.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

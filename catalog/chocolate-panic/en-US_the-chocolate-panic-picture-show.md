@@ -1,5 +1,7 @@
 # The Chocolate Panic Picture Show
 
+![the-chocolate-panic-picture-show](https://cdn.myanimelist.net/images/anime/6/81052.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ザ・チョコレートパニック・ピクチャーショー

@@ -1,5 +1,7 @@
 # Memories Off 6 ～ T-wave ～
 
+![memories-off-6-～-t-wave-～](https://cdn.myanimelist.net/images/manga/3/37074.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: メモリーズオフ 6 ～ T-wave ～

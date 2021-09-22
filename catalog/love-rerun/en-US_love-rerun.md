@@ -1,5 +1,7 @@
 # Love Rerun
 
+![love-rerun](https://cdn.myanimelist.net/images/manga/3/151947.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

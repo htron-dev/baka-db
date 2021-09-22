@@ -1,5 +1,7 @@
 # Henteko Ojousama no Sensei Diary
 
+![henteko-ojousama-no-sensei-diary](https://cdn.myanimelist.net/images/manga/1/197970.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

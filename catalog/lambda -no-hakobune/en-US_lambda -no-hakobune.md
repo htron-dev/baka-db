@@ -1,5 +1,7 @@
 # λ no Hakobune
 
+![λ-no-hakobune](https://cdn.myanimelist.net/images/manga/2/157912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

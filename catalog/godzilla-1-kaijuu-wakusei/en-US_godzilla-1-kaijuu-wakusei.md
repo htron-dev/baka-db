@@ -1,5 +1,7 @@
 # Godzilla 1: Kaijuu Wakusei
 
+![godzilla-1-kaijuu-wakusei](https://cdn.myanimelist.net/images/anime/1847/93081.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GODZILLA -怪獣惑星-

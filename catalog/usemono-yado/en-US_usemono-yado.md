@@ -1,5 +1,7 @@
 # Usemono Yado
 
+![usemono-yado](https://cdn.myanimelist.net/images/manga/2/156613.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

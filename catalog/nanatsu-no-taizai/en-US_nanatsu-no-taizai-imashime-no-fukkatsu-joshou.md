@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Imashime no Fukkatsu Joshou
 
+![nanatsu-no-taizai-imashime-no-fukkatsu-joshou](https://cdn.myanimelist.net/images/anime/8/89656.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 七つの大罪 戒めの復活 -序章-
@@ -24,4 +26,4 @@ An episode recapping Nanatsu no Taizai with additional scenes, aired before the 
 
 -   [My Anime list](https://myanimelist.net/anime/36923/Nanatsu_no_Taizai__Imashime_no_Fukkatsu_Joshou)
 -   [Official Site](http://www.7-taizai.net/news/?id=45716)
--   [Wikipedia](<http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29)

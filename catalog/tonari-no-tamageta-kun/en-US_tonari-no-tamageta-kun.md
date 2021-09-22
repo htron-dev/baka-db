@@ -1,5 +1,7 @@
 # Tonari no Tamageta-kun
 
+![tonari-no-tamageta-kun](https://cdn.myanimelist.net/images/anime/12/53845.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: となりのたまげ太くん

@@ -1,5 +1,7 @@
 # Gowapper 5 Gordam
 
+![gowapper-5-gordam](https://cdn.myanimelist.net/images/anime/3/60417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: ゴワッパー 5 ゴーダム

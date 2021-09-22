@@ -1,5 +1,7 @@
 # Asoko no Project
 
+![asoko-no-project](https://cdn.myanimelist.net/images/manga/1/151406.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アソコのプロジェクト

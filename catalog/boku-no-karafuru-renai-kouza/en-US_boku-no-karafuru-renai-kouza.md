@@ -1,5 +1,7 @@
 # Boku no Karafuru Renai Kouza
 
+![boku-no-karafuru-renai-kouza](https://cdn.myanimelist.net/images/manga/3/11396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕のカラフル恋愛講座

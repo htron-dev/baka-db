@@ -1,5 +1,7 @@
 # Koutetsu no Shoujo-tachi
 
+![koutetsu-no-shoujo-tachi](https://cdn.myanimelist.net/images/manga/1/193973.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

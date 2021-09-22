@@ -1,5 +1,7 @@
 # Android ni Ecchi na Kaihatsu saremashita!?
 
+![android-ni-ecchi-na-kaihatsu-saremashita](https://cdn.myanimelist.net/images/manga/2/237537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

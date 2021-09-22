@@ -1,5 +1,7 @@
 # Fukumenkei Noise
 
+![fukumenkei-noise](https://cdn.myanimelist.net/images/anime/11/85350.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 覆面系ノイズ

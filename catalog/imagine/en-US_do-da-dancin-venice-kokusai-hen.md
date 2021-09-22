@@ -1,5 +1,7 @@
 # Do Da Dancin'!: Venice Kokusai-hen
 
+![do-da-dancin-venice-kokusai-hen](https://cdn.myanimelist.net/images/manga/2/164061.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 73

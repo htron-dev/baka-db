@@ -1,5 +1,7 @@
 # Yukarism
 
+![yukarism](https://cdn.myanimelist.net/images/manga/2/166921.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

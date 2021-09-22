@@ -1,5 +1,7 @@
 # Ushio to Tora (TV) 2nd Season
 
+![ushio-to-tora-tv-2nd-season](https://cdn.myanimelist.net/images/anime/1645/117447.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うしおととら

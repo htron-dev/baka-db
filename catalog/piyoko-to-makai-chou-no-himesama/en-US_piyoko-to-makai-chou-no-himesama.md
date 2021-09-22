@@ -1,5 +1,7 @@
 # Piyoko to Makai-chou no Himesama
 
+![piyoko-to-makai-chou-no-himesama](https://cdn.myanimelist.net/images/manga/1/210796.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

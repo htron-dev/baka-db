@@ -1,5 +1,7 @@
 # Busou Shinki: Install x Dream
 
+![busou-shinki-install-x-dream](https://cdn.myanimelist.net/images/anime/11/44772.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 武装神姫 Install x Dream

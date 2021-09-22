@@ -1,5 +1,7 @@
 # Jie Mo Ren
 
+![jie-mo-ren](https://cdn.myanimelist.net/images/anime/10/80054.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: 戒魔人

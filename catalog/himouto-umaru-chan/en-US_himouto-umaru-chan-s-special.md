@@ -1,5 +1,7 @@
 # Himouto! Umaru-chanS
 
+![himouto-umaru-chan-s](https://cdn.myanimelist.net/images/anime/13/75074.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: ミニアニメ『ひもうと！うまるちゃん S』

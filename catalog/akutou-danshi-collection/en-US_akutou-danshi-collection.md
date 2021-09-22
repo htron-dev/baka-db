@@ -1,5 +1,7 @@
 # Akutou Danshi Collection
 
+![akutou-danshi-collection](https://cdn.myanimelist.net/images/manga/2/20738.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

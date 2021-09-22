@@ -1,5 +1,7 @@
 # Odoro: Youko to Tanonaka no Hyakkikou Jikenbo
 
+![odoro-youko-to-tanonaka-no-hyakkikou-jikenbo](https://cdn.myanimelist.net/images/manga/2/164317.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

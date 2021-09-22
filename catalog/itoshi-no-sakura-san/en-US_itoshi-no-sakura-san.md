@@ -1,5 +1,7 @@
 # Itoshi no Sakura-san
 
+![itoshi-no-sakura-san](https://cdn.myanimelist.net/images/manga/1/188411.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 56

@@ -1,5 +1,7 @@
 # Hanamitsu Romanesque: Ouji ga Aishita Hanayome
 
+![hanamitsu-romanesque-ouji-ga-aishita-hanayome](https://cdn.myanimelist.net/images/manga/3/182454.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

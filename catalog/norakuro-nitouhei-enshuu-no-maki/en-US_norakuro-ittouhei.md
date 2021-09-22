@@ -1,5 +1,7 @@
 # Norakuro Ittouhei
 
+![norakuro-ittouhei](https://cdn.myanimelist.net/images/anime/5/71978.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: のらくろ一等兵

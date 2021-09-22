@@ -1,5 +1,7 @@
 # Hanasaki Sentimental
 
+![hanasaki-sentimental](https://cdn.myanimelist.net/images/manga/2/3489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

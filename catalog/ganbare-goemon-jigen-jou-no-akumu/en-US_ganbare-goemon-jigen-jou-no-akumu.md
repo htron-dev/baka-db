@@ -1,5 +1,7 @@
 # Ganbare Goemon: Jigen Jou no Akumu
 
+![ganbare-goemon-jigen-jou-no-akumu](https://cdn.myanimelist.net/images/anime/13/24562.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: がんばれゴエモン 次元城の悪夢

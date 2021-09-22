@@ -1,5 +1,7 @@
 # Bullet Armors
 
+![bullet-armors](https://cdn.myanimelist.net/images/manga/2/105867.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

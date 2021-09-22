@@ -1,5 +1,7 @@
 # Rockman: 4-koma Daikoushin
 
+![rockman-4-koma-daikoushin](https://cdn.myanimelist.net/images/manga/1/38838.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ロックマン 4 コマ大行進
@@ -7,7 +9,6 @@
 ## Tags
 
 -   comedy
-
 -   mecha
 
 ## Authors

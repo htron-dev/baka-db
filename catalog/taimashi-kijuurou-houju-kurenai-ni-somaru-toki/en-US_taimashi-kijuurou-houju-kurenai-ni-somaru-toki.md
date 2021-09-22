@@ -1,5 +1,7 @@
 # Taimashi Kijuurou: Houju, Kurenai ni Somaru Toki
 
+![taimashi-kijuurou-houju-kurenai-ni-somaru-toki](https://cdn.myanimelist.net/images/manga/3/158855.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

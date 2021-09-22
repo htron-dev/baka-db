@@ -1,5 +1,7 @@
 # Bokura ni Namae wo Tsukeru nara
 
+![bokura-ni-namae-wo-tsukeru-nara](https://cdn.myanimelist.net/images/manga/1/245705.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

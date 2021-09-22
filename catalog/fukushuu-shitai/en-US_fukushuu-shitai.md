@@ -1,5 +1,7 @@
 # Fukushuu shitai
 
+![fukushuu-shitai](https://cdn.myanimelist.net/images/manga/3/171741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 復讐したい

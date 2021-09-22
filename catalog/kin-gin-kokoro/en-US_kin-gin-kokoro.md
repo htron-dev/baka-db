@@ -1,5 +1,7 @@
 # Kin Gin Kokoro
 
+![kin-gin-kokoro](https://cdn.myanimelist.net/images/manga/3/9653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 金・銀・心

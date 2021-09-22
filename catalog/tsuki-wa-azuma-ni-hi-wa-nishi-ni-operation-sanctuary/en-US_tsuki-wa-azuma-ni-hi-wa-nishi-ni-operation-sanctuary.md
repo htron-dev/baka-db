@@ -1,5 +1,7 @@
 # Tsuki wa Azuma ni Hi wa Nishi ni - Operation Sanctuary
 
+![tsuki-wa-azuma-ni-hi-wa-nishi-ni-operation-sanctuary](https://cdn.myanimelist.net/images/manga/1/36780.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 月は東に日は西に～ Operation Sanctuary

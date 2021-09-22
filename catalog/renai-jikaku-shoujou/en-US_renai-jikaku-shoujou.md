@@ -1,5 +1,7 @@
 # Ren'ai Jikaku Shoujou
 
+![renai-jikaku-shoujou](https://cdn.myanimelist.net/images/manga/2/2208.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

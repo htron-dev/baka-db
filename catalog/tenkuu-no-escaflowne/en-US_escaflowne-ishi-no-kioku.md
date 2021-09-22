@@ -1,5 +1,7 @@
 # Escaflowne: Ishi no Kioku
 
+![escaflowne-ishi-no-kioku](https://cdn.myanimelist.net/images/manga/1/13135.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天空のエスカフローネ

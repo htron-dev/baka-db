@@ -1,5 +1,7 @@
 # Kyoushirou to Towa no Sora
 
+![kyoushirou-to-towa-no-sora](https://cdn.myanimelist.net/images/anime/7/20958.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 京四郎と永遠（とわ）の空

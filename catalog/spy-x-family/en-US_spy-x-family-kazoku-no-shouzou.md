@@ -1,5 +1,7 @@
 # Spy x Family: Kazoku no Shouzou
 
+![spy-x-family-kazoku-no-shouzou](https://cdn.myanimelist.net/images/manga/3/248768.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

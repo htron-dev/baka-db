@@ -1,5 +1,7 @@
 # 10 Nenme no Koi
 
+![10-nenme-no-koi](https://cdn.myanimelist.net/images/manga/2/11076.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 10 年目の恋

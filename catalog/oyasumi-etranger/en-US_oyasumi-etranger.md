@@ -1,5 +1,7 @@
 # Oyasumi Étranger
 
+![oyasumi-etranger](https://cdn.myanimelist.net/images/manga/1/204644.jpg)
+
 -   **type**: manga
 -   **original-name**: おやすみエトランゼ
 -   **start-date**: 2016-08-31

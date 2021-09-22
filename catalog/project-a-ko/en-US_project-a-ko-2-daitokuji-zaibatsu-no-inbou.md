@@ -1,5 +1,7 @@
 # Project A-Ko 2: Daitokuji Zaibatsu no Inbou
 
+![project-a-ko-2-daitokuji-zaibatsu-no-inbou](https://cdn.myanimelist.net/images/anime/1387/114803.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: プロジェクト A 子 2 大徳寺財閥の陰謀

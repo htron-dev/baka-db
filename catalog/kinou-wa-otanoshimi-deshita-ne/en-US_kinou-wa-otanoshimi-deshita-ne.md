@@ -1,5 +1,7 @@
 # Kinou wa Otanoshimi deshita ne
 
+![kinou-wa-otanoshimi-deshita-ne](https://cdn.myanimelist.net/images/manga/3/236167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

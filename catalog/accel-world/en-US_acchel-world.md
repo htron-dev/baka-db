@@ -1,5 +1,7 @@
 # Acchel World.
 
+![acchel-world](https://cdn.myanimelist.net/images/manga/2/156320.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 39

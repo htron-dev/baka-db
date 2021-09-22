@@ -1,5 +1,7 @@
 # Genki Genki Non-tan: Deka Deka Arigatou
 
+![genki-genki-non-tan-deka-deka-arigatou](https://cdn.myanimelist.net/images/anime/3/65139.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: げんきげんきノンタン でかでか ありがとう

@@ -1,5 +1,7 @@
 # Zenon-sama de Aru!
 
+![zenon-sama-de-aru](https://cdn.myanimelist.net/images/manga/1/162533.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

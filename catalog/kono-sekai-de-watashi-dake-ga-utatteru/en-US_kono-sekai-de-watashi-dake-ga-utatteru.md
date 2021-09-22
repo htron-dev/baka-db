@@ -1,5 +1,7 @@
 # Kono Sekai de Watashi dake ga Utatteru
 
+![kono-sekai-de-watashi-dake-ga-utatteru](https://cdn.myanimelist.net/images/manga/1/194314.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: このセカイで私だけが歌ってる

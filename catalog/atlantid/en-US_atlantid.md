@@ -1,5 +1,7 @@
 # Atlantid
 
+![atlantid](https://cdn.myanimelist.net/images/manga/2/174002.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

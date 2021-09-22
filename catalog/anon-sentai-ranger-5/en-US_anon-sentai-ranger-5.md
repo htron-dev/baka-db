@@ -1,5 +1,7 @@
 # Anon Sentai Ranger 5
 
+![anon-sentai-ranger-5](https://cdn.myanimelist.net/images/anime/1250/98338.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アノン戦隊レンジャー 5

@@ -1,5 +1,7 @@
 # Daisougen no Chiisana Tenshi: Bush Baby Specials
 
+![daisougen-no-chiisana-tenshi-bush-baby-specials](https://cdn.myanimelist.net/images/anime/5/64141.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 大草原の小さな天使 ブッシュベイビー

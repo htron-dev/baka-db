@@ -1,5 +1,7 @@
 # Kashimashi: Girl Meets Girl
 
+![kashimashi-girl-meets-girl](https://cdn.myanimelist.net/images/anime/9/19498.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: かしまし〜ガール・ミーツ・ガール〜

@@ -1,5 +1,7 @@
 # MahoYome
 
+![maho-yome](https://cdn.myanimelist.net/images/anime/10/88137.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: まほよめ

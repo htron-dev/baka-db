@@ -1,5 +1,7 @@
 # The Moon
 
+![the-moon](https://cdn.myanimelist.net/images/manga/1/245614.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ザ・ムーン

@@ -1,5 +1,7 @@
 # Yuuwaku Lingerie: Fuku no Shita ni wa Naisho no Koi
 
+![yuuwaku-lingerie-fuku-no-shita-ni-wa-naisho-no-koi](https://cdn.myanimelist.net/images/manga/3/192222.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

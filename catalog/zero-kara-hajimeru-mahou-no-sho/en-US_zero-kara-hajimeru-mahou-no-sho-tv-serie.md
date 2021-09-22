@@ -1,5 +1,7 @@
 # Zero kara Hajimeru Mahou no Sho
 
+![zero-kara-hajimeru-mahou-no-sho](https://cdn.myanimelist.net/images/anime/5/85224.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゼロから始める魔法の書

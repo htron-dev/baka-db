@@ -1,5 +1,7 @@
 # Doraemon Movie 07: Nobita to Tetsujin Heidan
 
+![doraemon-movie-07-nobita-to-tetsujin-heidan](https://cdn.myanimelist.net/images/anime/10/72412.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太と鉄人兵団
@@ -10,7 +12,6 @@
 
 -   adventure
 -   comedy
-
 -   fantasy
 -   mecha
 -   shounen

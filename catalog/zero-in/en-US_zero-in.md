@@ -1,5 +1,7 @@
 # Zero-In
 
+![zero-in](https://cdn.myanimelist.net/images/manga/3/26617.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 75

@@ -1,5 +1,7 @@
 # Shokushu ni Nomare Shimai wa Warau
 
+![shokushu-ni-nomare-shimai-wa-warau](https://cdn.myanimelist.net/images/manga/1/169714.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 触手に呑まれ姉妹は嗤う

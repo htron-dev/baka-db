@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha A's
 
+![mahou-shoujo-lyrical-nanoha-as](https://cdn.myanimelist.net/images/anime/4/6767.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 魔法少女リリカルなのは エース

@@ -1,5 +1,7 @@
 # Cross Memory
 
+![cross-memory](https://cdn.myanimelist.net/images/manga/1/38971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: クロス・メモリー

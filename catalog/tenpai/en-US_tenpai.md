@@ -1,5 +1,7 @@
 # Tenpai
 
+![tenpai](https://cdn.myanimelist.net/images/manga/2/33784.jpg)
+
 -   **type**: manga
 -   **original-name**: 天牌 麻雀飛竜伝説
 

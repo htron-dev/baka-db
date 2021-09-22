@@ -1,5 +1,7 @@
 # Koi no Tamago
 
+![koi-no-tamago](https://cdn.myanimelist.net/images/manga/2/25886.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

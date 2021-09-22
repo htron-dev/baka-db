@@ -1,5 +1,7 @@
 # Onnanoko Tokidoki Otokonoko
 
+![onnanoko-tokidoki-otokonoko](https://cdn.myanimelist.net/images/manga/4/34118.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

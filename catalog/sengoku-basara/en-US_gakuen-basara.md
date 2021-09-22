@@ -1,5 +1,7 @@
 # Gakuen Basara
 
+![gakuen-basara](https://cdn.myanimelist.net/images/anime/1278/93829.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 学園 BASARA

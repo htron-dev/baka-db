@@ -1,5 +1,7 @@
 # Full Metal Panic! Movie 3: Into the Blue
 
+![full-metal-panic-movie-3-into-the-blue](https://cdn.myanimelist.net/images/anime/12/89870.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フルメタル・パニック！イントゥ・ザ・ブルー

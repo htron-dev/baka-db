@@ -1,5 +1,7 @@
 # Wild Arms: Twilight Venom
 
+![wild-arms-twilight-venom](https://cdn.myanimelist.net/images/anime/1532/94186.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ワイルドアームズ トワイライトヴェノム
@@ -30,4 +32,4 @@ This anime is based on a playstation game under the same title. The story is abo
 -   [Official Site](http://www.aniplex.co.jp/WILDARMS)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=809)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1025)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Wild_Arms_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Wild_Arms_%28anime%29)

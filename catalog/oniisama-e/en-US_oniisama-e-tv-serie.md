@@ -1,5 +1,7 @@
 # Oniisama e...
 
+![oniisama-e](https://cdn.myanimelist.net/images/anime/12/18531.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: おにいさまへ…

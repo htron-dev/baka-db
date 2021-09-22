@@ -1,5 +1,7 @@
 # Shachou, Koibito no Furi wo Shite Watashi no Chichi ni Atte Kudasai.
 
+![shachou-koibito-no-furi-wo-shite-watashi-no-chichi-ni-atte-kudasai](https://cdn.myanimelist.net/images/manga/3/245352.jpg)
+
 -   **type**: manga
 -   **original-name**: 社長、恋人のフリをして私の父に会ってください。
 -   **start-date**: 2020-04-16

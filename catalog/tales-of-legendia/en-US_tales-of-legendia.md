@@ -1,5 +1,7 @@
 # Tales of Legendia
 
+![tales-of-legendia](https://cdn.myanimelist.net/images/manga/2/148295.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

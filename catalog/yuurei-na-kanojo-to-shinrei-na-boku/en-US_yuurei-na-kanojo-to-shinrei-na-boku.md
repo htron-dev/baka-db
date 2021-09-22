@@ -1,5 +1,7 @@
 # Yuurei na Kanojo to Shinrei na Boku
 
+![yuurei-na-kanojo-to-shinrei-na-boku](https://cdn.myanimelist.net/images/manga/3/179377.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

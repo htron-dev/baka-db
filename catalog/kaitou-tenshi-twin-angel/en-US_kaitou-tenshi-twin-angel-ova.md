@@ -1,5 +1,7 @@
 # Kaitou Tenshi Twin Angel
 
+![kaitou-tenshi-twin-angel](https://cdn.myanimelist.net/images/anime/12/10017.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 快盗天使ツインエンジェル

@@ -1,5 +1,7 @@
 # Love Capsule
 
+![love-capsule](https://cdn.myanimelist.net/images/manga/4/18729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

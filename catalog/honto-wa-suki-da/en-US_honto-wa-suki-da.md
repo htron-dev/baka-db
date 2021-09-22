@@ -1,5 +1,7 @@
 # Honto wa Suki da
 
+![honto-wa-suki-da](https://cdn.myanimelist.net/images/manga/2/129247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ほんとは好きだ

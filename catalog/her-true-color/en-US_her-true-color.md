@@ -1,5 +1,7 @@
 # Her True Color
 
+![her-true-color](https://cdn.myanimelist.net/images/manga/3/37882.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 少女본색

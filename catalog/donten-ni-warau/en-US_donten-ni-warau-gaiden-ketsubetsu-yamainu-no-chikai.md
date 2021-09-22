@@ -1,5 +1,7 @@
 # Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai
 
+![donten-ni-warau-gaiden-ketsubetsu-yamainu-no-chikai](https://cdn.myanimelist.net/images/anime/1424/93321.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 曇天に笑う＜外伝＞ ～決別、犲の誓い～

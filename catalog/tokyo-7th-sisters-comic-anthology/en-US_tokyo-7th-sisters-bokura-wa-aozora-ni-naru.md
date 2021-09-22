@@ -1,5 +1,7 @@
 # Tokyo 7th Sisters: Bokura wa Aozora ni Naru
 
+![tokyo-7th-sisters-bokura-wa-aozora-ni-naru](https://cdn.myanimelist.net/images/anime/1757/114727.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Tokyo 7th シスターズ -僕らは青空になる-

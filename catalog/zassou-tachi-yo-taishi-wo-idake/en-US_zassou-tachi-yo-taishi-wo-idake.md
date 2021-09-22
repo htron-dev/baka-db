@@ -1,5 +1,7 @@
 # Zassou Tachi yo Taishi wo Idake
 
+![zassou-tachi-yo-taishi-wo-idake](https://cdn.myanimelist.net/images/manga/1/192792.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

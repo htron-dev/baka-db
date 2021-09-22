@@ -1,5 +1,7 @@
 # Kisse~s
 
+![kisse-s](https://cdn.myanimelist.net/images/manga/3/11085.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: キッシ～ズ

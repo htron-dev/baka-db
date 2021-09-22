@@ -1,5 +1,7 @@
 # Xiao Zhuren: Zhengyi Lianmeng 2nd Season
 
+![xiao-zhuren-zhengyi-lianmeng-2nd-season](https://cdn.myanimelist.net/images/anime/1840/115231.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 小主人之正义联盟第二季

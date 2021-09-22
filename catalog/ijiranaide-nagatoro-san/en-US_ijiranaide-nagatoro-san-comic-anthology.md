@@ -1,5 +1,7 @@
 # Ijiranaide, Nagatoro-san: Comic Anthology
 
+![ijiranaide-nagatoro-san-comic-anthology](https://cdn.myanimelist.net/images/manga/2/244086.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

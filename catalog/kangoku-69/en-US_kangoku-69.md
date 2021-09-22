@@ -1,5 +1,7 @@
 # Kangoku 69
 
+![kangoku-69](https://cdn.myanimelist.net/images/manga/1/28656.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

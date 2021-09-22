@@ -1,5 +1,7 @@
 # Beageruta
 
+![beageruta](https://cdn.myanimelist.net/images/manga/5/85809.jpg)
+
 -   **type**: manga
 -   **original-name**: ベアゲルター
 -   **start-date**: 2011-07-07

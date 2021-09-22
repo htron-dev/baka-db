@@ -1,5 +1,7 @@
 # Koibito wa Sweet Rabbit
 
+![koibito-wa-sweet-rabbit](https://cdn.myanimelist.net/images/manga/2/130197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

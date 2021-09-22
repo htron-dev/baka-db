@@ -1,5 +1,7 @@
 # Nani-sama no Tsumorida!!
 
+![nani-sama-no-tsumorida](https://cdn.myanimelist.net/images/manga/1/6294.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 何様のつもりダ!!

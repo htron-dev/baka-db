@@ -1,5 +1,7 @@
 # 35 do no Renai Netsu
 
+![35-do-no-renai-netsu](https://cdn.myanimelist.net/images/manga/1/157504.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

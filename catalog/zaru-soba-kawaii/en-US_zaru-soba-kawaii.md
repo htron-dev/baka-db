@@ -1,5 +1,7 @@
 # Zaru Soba (Kawaii)
 
+![zaru-soba-kawaii](https://cdn.myanimelist.net/images/manga/2/169013.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

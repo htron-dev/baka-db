@@ -1,5 +1,7 @@
 # Pippira Note
 
+![pippira-note](https://cdn.myanimelist.net/images/manga/1/186103.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 84

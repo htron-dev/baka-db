@@ -1,5 +1,7 @@
 # B-Project: Kodou\*Ambitious
 
+![b-project-kodou-ambitious](https://cdn.myanimelist.net/images/anime/4/79984.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: B-PROJECT ～鼓動＊アンビシャス～

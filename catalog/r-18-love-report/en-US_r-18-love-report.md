@@ -1,5 +1,7 @@
 # R-18 Love Report!
 
+![r-18-love-report](https://cdn.myanimelist.net/images/manga/3/5791.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

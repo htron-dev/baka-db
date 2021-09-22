@@ -1,5 +1,7 @@
 # Jabberwocky 1914
 
+![jabberwocky-1914](https://cdn.myanimelist.net/images/manga/2/164789.jpg)
+
 -   **type**: manga
 -   **original-name**: ジャバウォッキー 1914
 -   **start-date**: 2014-07-07

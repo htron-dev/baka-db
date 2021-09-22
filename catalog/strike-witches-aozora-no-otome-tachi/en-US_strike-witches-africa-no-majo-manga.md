@@ -1,5 +1,7 @@
 # Strike Witches: Africa no Majo
 
+![strike-witches-africa-no-majo](https://cdn.myanimelist.net/images/manga/1/117385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

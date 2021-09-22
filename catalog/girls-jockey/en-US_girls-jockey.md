@@ -1,5 +1,7 @@
 # Girls Jockey
 
+![girls-jockey](https://cdn.myanimelist.net/images/anime/1240/99905.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ガールズジョッキー

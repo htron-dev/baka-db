@@ -1,5 +1,7 @@
 # Seijo ni Naru node Nidome no Jinsei wa Katteni Sasete Moraimasu: Outaishi wa, Zense de Watashi wo Futta Koibito Deshita
 
+![seijo-ni-naru-node-nidome-no-jinsei-wa-katteni-sasete-moraimasu-outaishi-wa-zense-de-watashi-wo-futta-koibito-deshita](https://cdn.myanimelist.net/images/manga/2/222255.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖女になるので二度目の人生は勝手にさせてもらいます ～王太子は、前世で私を振った恋人でした～
 -   **start-date**: 2018-11-30

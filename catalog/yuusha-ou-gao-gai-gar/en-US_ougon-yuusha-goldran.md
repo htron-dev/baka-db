@@ -1,5 +1,7 @@
 # Ougon Yuusha Goldran
 
+![ougon-yuusha-goldran](https://cdn.myanimelist.net/images/anime/6/11118.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 黄金勇者ゴルドラン

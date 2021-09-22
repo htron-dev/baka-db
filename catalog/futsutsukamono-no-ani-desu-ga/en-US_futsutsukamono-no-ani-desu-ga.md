@@ -1,5 +1,7 @@
 # Futsutsukamono no Ani desu ga
 
+![futsutsukamono-no-ani-desu-ga](https://cdn.myanimelist.net/images/manga/2/165068.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

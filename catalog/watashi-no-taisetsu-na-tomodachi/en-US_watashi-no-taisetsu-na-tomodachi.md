@@ -1,5 +1,7 @@
 # Watashi no Taisetsu na Tomodachi
 
+![watashi-no-taisetsu-na-tomodachi](https://cdn.myanimelist.net/images/manga/5/29168.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

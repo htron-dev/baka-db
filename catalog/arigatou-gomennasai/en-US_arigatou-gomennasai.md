@@ -1,5 +1,7 @@
 # Arigatou Gomennasai
 
+![arigatou-gomennasai](https://cdn.myanimelist.net/images/anime/2/72930.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ありがとうごめんなさい

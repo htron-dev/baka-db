@@ -1,5 +1,7 @@
 # Ito Junji Kenkyuu: Horror no Shinen kara
 
+![ito-junji-kenkyuu-horror-no-shinen-kara](https://cdn.myanimelist.net/images/manga/3/247578.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

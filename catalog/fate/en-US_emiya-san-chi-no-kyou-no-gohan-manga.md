@@ -1,5 +1,7 @@
 # Emiya-san Chi no Kyou no Gohan
 
+![emiya-san-chi-no-kyou-no-gohan](https://cdn.myanimelist.net/images/manga/1/189196.jpg)
+
 -   **type**: manga
 -   **original-name**: 衛宮さんちの今日のごはん
 -   **start-date**: 2016-01-26

@@ -1,5 +1,7 @@
 # Bye-bye Jinrui
 
+![bye-bye-jinrui](https://cdn.myanimelist.net/images/manga/1/179925.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

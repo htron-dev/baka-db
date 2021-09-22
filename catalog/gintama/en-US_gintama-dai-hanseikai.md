@@ -1,5 +1,7 @@
 # Gintama: Dai Hanseikai
 
+![gintama-dai-hanseikai](https://cdn.myanimelist.net/images/anime/1725/110927.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アニメ銀魂　大反省会

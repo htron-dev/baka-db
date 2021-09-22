@@ -1,5 +1,7 @@
 # 47 Todoufuken
 
+![47-todoufuken](https://cdn.myanimelist.net/images/anime/11/67133.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 47 都道府犬

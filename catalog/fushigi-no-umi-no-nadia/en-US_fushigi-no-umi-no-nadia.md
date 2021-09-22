@@ -1,5 +1,7 @@
 # Fushigi no Umi no Nadia
 
+![fushigi-no-umi-no-nadia](https://cdn.myanimelist.net/images/anime/2/52681.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ふしぎの海のナディア

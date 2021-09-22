@@ -1,5 +1,7 @@
 # Nennen Saisai
 
+![nennen-saisai](https://cdn.myanimelist.net/images/manga/1/110327.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Seifuumaroku
 
+![seifuumaroku](https://cdn.myanimelist.net/images/manga/3/35701.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 聖封魔録

@@ -1,5 +1,7 @@
 # Zettai Zetsumei Dangerous Jiisan Special-ban
 
+![zettai-zetsumei-dangerous-jiisan-special-ban](https://cdn.myanimelist.net/images/anime/3/60259.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 絶体絶命でんぢゃらすじーさん スペシャル版

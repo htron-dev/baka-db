@@ -1,5 +1,7 @@
 # Bye-bye Liberty
 
+![bye-bye-liberty](https://cdn.myanimelist.net/images/manga/1/195027.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

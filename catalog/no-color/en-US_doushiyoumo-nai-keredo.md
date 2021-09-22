@@ -1,5 +1,7 @@
 # Doushiyoumo Nai Keredo
 
+![doushiyoumo-nai-keredo](https://cdn.myanimelist.net/images/manga/3/6252.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Bokura no Nanokakan Sensou
 
+![bokura-no-nanokakan-sensou](https://cdn.myanimelist.net/images/anime/1887/103944.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ぼくらの七日間戦争

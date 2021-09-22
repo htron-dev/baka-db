@@ -1,5 +1,7 @@
 # MiLK
 
+![mi-lk](https://cdn.myanimelist.net/images/manga/3/31172.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ミルク

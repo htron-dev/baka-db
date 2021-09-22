@@ -1,5 +1,7 @@
 # Hell Buster: Jigoku wo Karu Mono
 
+![hell-buster-jigoku-wo-karu-mono](https://cdn.myanimelist.net/images/manga/2/203558.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

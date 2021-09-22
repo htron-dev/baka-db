@@ -1,5 +1,7 @@
 # Oyako ni Narimashita (Kari)
 
+![oyako-ni-narimashita-kari](https://cdn.myanimelist.net/images/manga/2/210693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

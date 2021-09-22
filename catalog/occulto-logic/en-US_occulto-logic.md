@@ -1,5 +1,7 @@
 # Occulto Logic
 
+![occulto-logic](https://cdn.myanimelist.net/images/manga/1/154549.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Hibike! Euphonium: Kitauji Koukou Suisougaku-bu e Youkoso
 
+![hibike-euphonium-kitauji-koukou-suisougaku-bu-e-youkoso](https://cdn.myanimelist.net/images/manga/2/152520.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

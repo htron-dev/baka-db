@@ -1,5 +1,7 @@
 # Koyoi Oto Furu Sora no Shita
 
+![koyoi-oto-furu-sora-no-shita](https://cdn.myanimelist.net/images/manga/2/33194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Koiki na Yatsura
 
+![koiki-na-yatsura](https://cdn.myanimelist.net/images/manga/3/230834.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

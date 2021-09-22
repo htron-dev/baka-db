@@ -1,5 +1,7 @@
 # Ore to Atashi no Kareshi-sama
 
+![ore-to-atashi-no-kareshi-sama](https://cdn.myanimelist.net/images/manga/2/171047.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

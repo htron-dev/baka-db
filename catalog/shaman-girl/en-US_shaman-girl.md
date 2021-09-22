@@ -1,5 +1,7 @@
 # Shaman Girl
 
+![shaman-girl](https://cdn.myanimelist.net/images/manga/3/222247.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 소녀 신선
 -   **start-date**: 2016-06-28

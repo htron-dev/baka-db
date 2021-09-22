@@ -1,5 +1,7 @@
 # Ma Series
 
+![ma-series](https://cdn.myanimelist.net/images/manga/3/6989.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ㋮シリーズ
 -   **start-date**: 2000-11-20

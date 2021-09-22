@@ -1,5 +1,7 @@
 # Vanishing Starlight
 
+![vanishing-starlight](https://cdn.myanimelist.net/images/manga/3/181788.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

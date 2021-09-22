@@ -1,5 +1,7 @@
 # Kaichou wa Maid-sama!: Omake dayo!
 
+![kaichou-wa-maid-sama-omake-dayo](https://cdn.myanimelist.net/images/anime/3/29438.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 会長はメイド様！おまけだよ！

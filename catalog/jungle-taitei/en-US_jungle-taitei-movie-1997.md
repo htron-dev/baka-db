@@ -1,5 +1,7 @@
 # Jungle Taitei Movie (1997)
 
+![jungle-taitei-movie-1997](https://cdn.myanimelist.net/images/anime/1367/99917.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジャングル大帝　劇場版

@@ -1,5 +1,7 @@
 # Short Program 3
 
+![short-program-3](https://cdn.myanimelist.net/images/manga/1/165829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

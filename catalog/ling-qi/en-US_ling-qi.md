@@ -1,5 +1,7 @@
 # Ling Qi
 
+![ling-qi](https://cdn.myanimelist.net/images/anime/9/81045.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 灵契

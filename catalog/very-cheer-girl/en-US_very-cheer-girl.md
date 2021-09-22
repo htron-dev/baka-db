@@ -1,5 +1,7 @@
 # Very Cheer Girl
 
+![very-cheer-girl](https://cdn.myanimelist.net/images/manga/2/22912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ベリィ ♪ チアガール

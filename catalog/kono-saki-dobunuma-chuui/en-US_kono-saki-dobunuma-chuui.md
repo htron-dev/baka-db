@@ -1,5 +1,7 @@
 # Kono Saki, Dobunuma Chuui
 
+![kono-saki-dobunuma-chuui](https://cdn.myanimelist.net/images/manga/3/216401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

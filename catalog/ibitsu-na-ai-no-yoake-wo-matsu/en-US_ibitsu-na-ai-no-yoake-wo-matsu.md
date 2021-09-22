@@ -1,5 +1,7 @@
 # Ibitsu na Ai no Yoake wo Matsu
 
+![ibitsu-na-ai-no-yoake-wo-matsu](https://cdn.myanimelist.net/images/manga/1/247173.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

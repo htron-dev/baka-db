@@ -1,5 +1,7 @@
 # La La La Hallelujah!
 
+![la-la-la-hallelujah](https://cdn.myanimelist.net/images/manga/2/152896.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

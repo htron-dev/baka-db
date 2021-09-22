@@ -1,5 +1,7 @@
 # Kouga no Ruby Wolf
 
+![kouga-no-ruby-wolf](https://cdn.myanimelist.net/images/manga/3/162520.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 57

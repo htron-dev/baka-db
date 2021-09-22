@@ -1,5 +1,7 @@
 # Sexual Hunter Riot
 
+![sexual-hunter-riot](https://cdn.myanimelist.net/images/manga/1/162525.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: セクシャル・ハンター・ライオット

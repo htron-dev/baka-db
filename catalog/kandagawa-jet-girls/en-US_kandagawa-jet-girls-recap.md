@@ -1,5 +1,7 @@
 # Kandagawa Jet Girls Recap
 
+![kandagawa-jet-girls-recap](https://cdn.myanimelist.net/images/anime/1851/103980.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 神田川 JET GIRLS 第 4.5 話「そうしゅうへん」

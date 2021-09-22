@@ -1,5 +1,7 @@
 # Mr. Deniroo in Henteko Mushi
 
+![mr-deniroo-in-henteko-mushi](https://cdn.myanimelist.net/images/anime/11/76255.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Mr.Deniroo IN HENTEKO MUSHI
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   slice-of-life
 
 ## Sinopse

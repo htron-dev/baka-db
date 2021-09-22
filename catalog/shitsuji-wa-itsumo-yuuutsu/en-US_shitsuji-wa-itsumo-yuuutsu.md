@@ -1,5 +1,7 @@
 # Shitsuji wa Itsumo Yuuutsu
 
+![shitsuji-wa-itsumo-yuuutsu](https://cdn.myanimelist.net/images/manga/3/101599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Slayers
 
+![slayers](https://cdn.myanimelist.net/images/anime/6/19870.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: スレイヤーズ

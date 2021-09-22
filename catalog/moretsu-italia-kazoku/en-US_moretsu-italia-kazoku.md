@@ -1,5 +1,7 @@
 # Moretsu! Italia Kazoku
 
+![moretsu-italia-kazoku](https://cdn.myanimelist.net/images/manga/2/85723.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: モーレツ!イタリア家族

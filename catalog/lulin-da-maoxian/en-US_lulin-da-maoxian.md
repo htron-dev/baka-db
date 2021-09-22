@@ -1,5 +1,7 @@
 # Lulin Da Maoxian
 
+![lulin-da-maoxian](https://cdn.myanimelist.net/images/anime/1197/93760.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 绿林大冒险

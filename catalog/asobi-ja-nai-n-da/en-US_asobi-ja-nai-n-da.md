@@ -1,5 +1,7 @@
 # Asobi ja Nai n da
 
+![asobi-ja-nai-n-da](https://cdn.myanimelist.net/images/manga/1/129985.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

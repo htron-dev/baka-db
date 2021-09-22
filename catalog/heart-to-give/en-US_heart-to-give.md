@@ -1,5 +1,7 @@
 # Heart to Give
 
+![heart-to-give](https://cdn.myanimelist.net/images/manga/2/97501.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 심장에게 주다

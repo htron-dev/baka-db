@@ -1,5 +1,7 @@
 # Gomen ne Sensei
 
+![gomen-ne-sensei](https://cdn.myanimelist.net/images/manga/2/171314.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

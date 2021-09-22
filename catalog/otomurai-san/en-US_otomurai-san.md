@@ -1,5 +1,7 @@
 # Otomurai-san
 
+![otomurai-san](https://cdn.myanimelist.net/images/manga/3/200578.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

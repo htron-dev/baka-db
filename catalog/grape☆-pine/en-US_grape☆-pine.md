@@ -1,5 +1,7 @@
 # Grape☆Pine
 
+![grape☆-pine](https://cdn.myanimelist.net/images/manga/1/31965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

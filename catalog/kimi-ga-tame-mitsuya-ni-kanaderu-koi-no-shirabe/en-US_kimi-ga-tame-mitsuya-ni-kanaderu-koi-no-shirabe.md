@@ -1,5 +1,7 @@
 # Kimi ga Tame: Mitsuya ni Kanaderu Koi no Shirabe
 
+![kimi-ga-tame-mitsuya-ni-kanaderu-koi-no-shirabe](https://cdn.myanimelist.net/images/manga/1/183892.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

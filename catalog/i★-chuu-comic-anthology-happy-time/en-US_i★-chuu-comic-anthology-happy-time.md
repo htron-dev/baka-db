@@ -1,5 +1,7 @@
 # I★Chuu Comic Anthology: Happy Time
 
+![i★-chuu-comic-anthology-happy-time](https://cdn.myanimelist.net/images/manga/1/172865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アイ ★ チュウ コミックアンソロジー ～ happy time ～

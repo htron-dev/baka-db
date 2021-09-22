@@ -1,5 +1,7 @@
 # Suki ni Naccha Ikenai Hito
 
+![suki-ni-naccha-ikenai-hito](https://cdn.myanimelist.net/images/manga/2/35999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Darkness Psycho
 
+![darkness-psycho](https://cdn.myanimelist.net/images/manga/1/40085.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

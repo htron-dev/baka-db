@@ -1,5 +1,7 @@
 # Waraenai Hanashi
 
+![waraenai-hanashi](https://cdn.myanimelist.net/images/manga/2/82808.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

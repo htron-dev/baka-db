@@ -1,5 +1,7 @@
 # Märchen Mädchen
 
+![marchen-madchen](https://cdn.myanimelist.net/images/anime/8/90088.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: メルヘン・メドヘン

@@ -1,5 +1,7 @@
 # Ai Ore!: Danshikou no Hime to Joshikou no Ouji
 
+![ai-ore-danshikou-no-hime-to-joshikou-no-ouji](https://cdn.myanimelist.net/images/manga/2/12007.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

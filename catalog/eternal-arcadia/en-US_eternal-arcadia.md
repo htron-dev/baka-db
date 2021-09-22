@@ -1,5 +1,7 @@
 # Eternal Arcadia
 
+![eternal-arcadia](https://cdn.myanimelist.net/images/manga/3/182968.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: エターナルアルカディア

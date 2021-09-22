@@ -1,5 +1,7 @@
 # Raimei no Zaji
 
+![raimei-no-zaji](https://cdn.myanimelist.net/images/manga/3/44527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

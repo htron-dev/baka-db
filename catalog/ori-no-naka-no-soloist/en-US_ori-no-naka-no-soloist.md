@@ -1,5 +1,7 @@
 # Ori no Naka no Soloist
 
+![ori-no-naka-no-soloist](https://cdn.myanimelist.net/images/manga/2/245787.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

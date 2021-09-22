@@ -1,5 +1,7 @@
 # Marine Snow no Densetsu
 
+![marine-snow-no-densetsu](https://cdn.myanimelist.net/images/anime/4/42727.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マリンスノーの伝説

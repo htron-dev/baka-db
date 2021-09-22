@@ -1,5 +1,7 @@
 # Suki to Ienai...
 
+![suki-to-ienai](https://cdn.myanimelist.net/images/manga/3/28241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 好きと言えない・・・

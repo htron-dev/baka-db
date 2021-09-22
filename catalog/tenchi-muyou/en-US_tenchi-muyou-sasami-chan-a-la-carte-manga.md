@@ -1,5 +1,7 @@
 # Tenchi Muyou! Sasami-chan À la Carte
 
+![tenchi-muyou-sasami-chan-a-la-carte](https://cdn.myanimelist.net/images/manga/4/146481.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

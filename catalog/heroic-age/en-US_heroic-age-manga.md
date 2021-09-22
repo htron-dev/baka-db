@@ -1,5 +1,7 @@
 # Heroic Age
 
+![heroic-age](https://cdn.myanimelist.net/images/manga/1/58753.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

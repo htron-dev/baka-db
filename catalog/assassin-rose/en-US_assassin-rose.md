@@ -1,5 +1,7 @@
 # Assassin Rose
 
+![assassin-rose](https://cdn.myanimelist.net/images/manga/1/224140.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

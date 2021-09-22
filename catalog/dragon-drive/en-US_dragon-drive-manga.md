@@ -1,5 +1,7 @@
 # Dragon Drive
 
+![dragon-drive](https://cdn.myanimelist.net/images/manga/2/126247.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 57

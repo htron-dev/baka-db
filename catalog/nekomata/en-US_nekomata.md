@@ -1,5 +1,7 @@
 # Nekomata.
 
+![nekomata](https://cdn.myanimelist.net/images/manga/3/194190.jpg)
+
 -   **type**: manga
 -   **original-name**: ねこまた。
 -   **start-date**: 2013-01-11

@@ -1,5 +1,7 @@
 # Hana ni, Kamitsuku
 
+![hana-ni-kamitsuku](https://cdn.myanimelist.net/images/manga/1/165654.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

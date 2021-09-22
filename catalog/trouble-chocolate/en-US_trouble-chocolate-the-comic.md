@@ -1,5 +1,7 @@
 # Trouble Chocolate: The Comic
 
+![trouble-chocolate-the-comic](https://cdn.myanimelist.net/images/manga/2/177898.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トラブルチョコレート the comic

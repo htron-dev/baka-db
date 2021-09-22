@@ -1,5 +1,7 @@
 # Shouwaru Ookami ga Koi wo Shita Rashii
 
+![shouwaru-ookami-ga-koi-wo-shita-rashii](https://cdn.myanimelist.net/images/manga/3/159853.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

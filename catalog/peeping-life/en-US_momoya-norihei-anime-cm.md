@@ -1,8 +1,9 @@
 # Momoya Norihei Anime CM
 
+![momoya-norihei-anime-cm](https://cdn.myanimelist.net/images/anime/10/89773.jpg)
+
 -   **type**: special
 -   **original-name**: 桃屋のり平アニメ CM
-
 -   **rating**: G - All Ages
 
 ## Tags

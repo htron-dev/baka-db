@@ -1,5 +1,7 @@
 # Hina-chan Change
 
+![hina-chan-change](https://cdn.myanimelist.net/images/manga/2/223621.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

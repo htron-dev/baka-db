@@ -1,5 +1,7 @@
 # Ijiwaru Hakushaku to Bukiyou na Wakaokusama
 
+![ijiwaru-hakushaku-to-bukiyou-na-wakaokusama](https://cdn.myanimelist.net/images/manga/1/192822.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

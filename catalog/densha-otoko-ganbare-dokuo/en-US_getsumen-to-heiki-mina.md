@@ -1,5 +1,7 @@
 # Getsumen To Heiki Mina
 
+![getsumen-to-heiki-mina](https://cdn.myanimelist.net/images/anime/1/1865.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 月面兎兵器ミーナ

@@ -1,5 +1,7 @@
 # Kitsune no Tama Yobai
 
+![kitsune-no-tama-yobai](https://cdn.myanimelist.net/images/manga/3/2929.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

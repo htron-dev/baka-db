@@ -1,5 +1,7 @@
 # Ano Kado wo Magatta Tokoro
 
+![ano-kado-wo-magatta-tokoro](https://cdn.myanimelist.net/images/manga/3/6149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

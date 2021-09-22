@@ -1,5 +1,7 @@
 # Fureru Yubi wa Piano
 
+![fureru-yubi-wa-piano](https://cdn.myanimelist.net/images/manga/1/37767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

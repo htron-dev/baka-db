@@ -1,5 +1,7 @@
 # Super Baby
 
+![super-baby](https://cdn.myanimelist.net/images/manga/1/248395.jpg)
+
 -   **type**: manga
 -   **original-name**: スーパーベイビー
 -   **start-date**: 2017-03-29

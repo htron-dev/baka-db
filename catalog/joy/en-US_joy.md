@@ -1,5 +1,7 @@
 # Joy
 
+![joy](https://cdn.myanimelist.net/images/manga/2/224907.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

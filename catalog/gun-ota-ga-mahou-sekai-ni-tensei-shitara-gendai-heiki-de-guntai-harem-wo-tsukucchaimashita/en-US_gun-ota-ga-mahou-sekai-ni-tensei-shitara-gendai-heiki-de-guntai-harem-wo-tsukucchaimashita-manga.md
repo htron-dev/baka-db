@@ -1,5 +1,7 @@
 # Gun-Ota ga Mahou Sekai ni Tensei shitara, Gendai Heiki de Guntai Harem wo Tsukucchaimashita!?
 
+![gun-ota-ga-mahou-sekai-ni-tensei-shitara-gendai-heiki-de-guntai-harem-wo-tsukucchaimashita](https://cdn.myanimelist.net/images/manga/2/188791.jpg)
+
 -   **type**: manga
 -   **original-name**: 軍オタが魔法世界に転生したら、現代兵器で軍隊ハーレムを作っちゃいました!?
 -   **start-date**: 2015-06-09

@@ -1,5 +1,7 @@
 # Saber Marionette J
 
+![saber-marionette-j](https://cdn.myanimelist.net/images/manga/3/138531.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

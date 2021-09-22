@@ -1,5 +1,7 @@
 # Suiyoubi no Cinema
 
+![suiyoubi-no-cinema](https://cdn.myanimelist.net/images/manga/3/216915.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 53

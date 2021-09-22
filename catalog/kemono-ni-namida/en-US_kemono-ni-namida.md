@@ -1,5 +1,7 @@
 # Kemono ni Namida
 
+![kemono-ni-namida](https://cdn.myanimelist.net/images/manga/1/87667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

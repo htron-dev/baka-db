@@ -1,5 +1,7 @@
 # Maou no Hajimekata
 
+![maou-no-hajimekata](https://cdn.myanimelist.net/images/manga/2/177050.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔王の始め方
 -   **start-date**: 2015-02-03

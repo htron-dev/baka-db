@@ -1,5 +1,7 @@
 # Neko Neko Nihonshi
 
+![neko-neko-nihonshi](https://cdn.myanimelist.net/images/manga/1/171488.jpg)
+
 -   **type**: manga
 -   **original-name**: ねこねこ日本史
 -   **start-date**: 2015-02-13

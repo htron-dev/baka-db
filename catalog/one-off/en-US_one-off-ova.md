@@ -1,5 +1,7 @@
 # One Off
 
+![one-off](https://cdn.myanimelist.net/images/anime/12/39661.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: わんおふ -one off-
@@ -25,4 +27,4 @@ Encounters with people staying at Haruno's parents' boardinghouse encourage her 
 -   [Official Site](http://www.anime-oneoff.info/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9050)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14162)
--   [Wikipedia](<https://en.wikipedia.org/wiki/One_Off_(OVA)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/One_Off_%28OVA%29)

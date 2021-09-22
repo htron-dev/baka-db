@@ -1,5 +1,7 @@
 # Neko Ramen
 
+![neko-ramen](https://cdn.myanimelist.net/images/manga/2/148567.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 95

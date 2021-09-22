@@ -1,5 +1,7 @@
 # Kamen Katekyo to Pure NEET
 
+![kamen-katekyo-to-pure-neet](https://cdn.myanimelist.net/images/manga/1/235085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

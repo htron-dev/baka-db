@@ -1,5 +1,7 @@
 # Mimizuku to Tsuki-sama
 
+![mimizuku-to-tsuki-sama](https://cdn.myanimelist.net/images/anime/12/66257.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みみずくとお月さま

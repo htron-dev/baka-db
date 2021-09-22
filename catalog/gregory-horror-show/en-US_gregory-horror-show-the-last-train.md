@@ -1,5 +1,7 @@
 # Gregory Horror Show: The Last Train
 
+![gregory-horror-show-the-last-train](https://cdn.myanimelist.net/images/anime/1543/110077.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: グレゴリーホラーショー - The Last Train

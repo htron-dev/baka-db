@@ -1,5 +1,7 @@
 # Imouto ga Bunretsu shita.
 
+![imouto-ga-bunretsu-shita](https://cdn.myanimelist.net/images/manga/3/234725.jpg)
+
 -   **type**: manga
 -   **original-name**: 妹が分裂した。
 -   **start-date**: 2020-07-10

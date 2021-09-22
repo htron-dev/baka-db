@@ -1,5 +1,7 @@
 # Peter Grill to Kenja no Jikan
 
+![peter-grill-to-kenja-no-jikan](https://cdn.myanimelist.net/images/manga/2/205559.jpg)
+
 -   **type**: manga
 -   **original-name**: ピーター・グリルと賢者の時間
 -   **start-date**: 2017-08-25

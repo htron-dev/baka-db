@@ -1,5 +1,7 @@
 # Sangoku Rensenki: Otome no Heihou!
 
+![sangoku-rensenki-otome-no-heihou](https://cdn.myanimelist.net/images/manga/1/121381.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

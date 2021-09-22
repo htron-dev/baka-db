@@ -1,5 +1,7 @@
 # Haiyore! Nyaruko-san
 
+![haiyore-nyaruko-san](https://cdn.myanimelist.net/images/anime/6/49081.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 這いよれ！ニャル子さん

@@ -1,5 +1,7 @@
 # Okazaki ni Sasagu
 
+![okazaki-ni-sasagu](https://cdn.myanimelist.net/images/manga/1/169513.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 77

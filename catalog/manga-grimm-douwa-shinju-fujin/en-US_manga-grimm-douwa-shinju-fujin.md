@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Shinju Fujin
 
+![manga-grimm-douwa-shinju-fujin](https://cdn.myanimelist.net/images/manga/1/171819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

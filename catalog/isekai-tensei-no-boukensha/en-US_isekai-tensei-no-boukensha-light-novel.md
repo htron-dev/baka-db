@@ -1,5 +1,7 @@
 # Isekai Tensei no Boukensha
 
+![isekai-tensei-no-boukensha](https://cdn.myanimelist.net/images/manga/1/221782.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界転生の冒険者
 -   **start-date**: 2017-04-10

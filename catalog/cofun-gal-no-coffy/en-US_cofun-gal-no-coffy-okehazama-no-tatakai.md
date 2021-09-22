@@ -1,5 +1,7 @@
 # Cofun Gal no Coffy: Okehazama no Tatakai
 
+![cofun-gal-no-coffy-okehazama-no-tatakai](https://cdn.myanimelist.net/images/anime/7/37659.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 古墳ギャルのコフィー　～桶狭間の戦い～

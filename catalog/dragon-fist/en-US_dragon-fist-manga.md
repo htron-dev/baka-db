@@ -1,5 +1,7 @@
 # Dragon Fist
 
+![dragon-fist](https://cdn.myanimelist.net/images/manga/3/12090.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: ドラゴンフィスト

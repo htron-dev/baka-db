@@ -1,5 +1,7 @@
 # Iryou Keiei Consultant
 
+![iryou-keiei-consultant](https://cdn.myanimelist.net/images/anime/1784/91247.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 医療経営コンサルタント

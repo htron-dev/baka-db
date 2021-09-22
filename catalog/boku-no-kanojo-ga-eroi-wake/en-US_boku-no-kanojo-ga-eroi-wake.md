@@ -1,5 +1,7 @@
 # Boku no Kanojo ga Eroi Wake
 
+![boku-no-kanojo-ga-eroi-wake](https://cdn.myanimelist.net/images/manga/2/145697.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

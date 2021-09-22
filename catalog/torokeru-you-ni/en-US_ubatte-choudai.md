@@ -1,5 +1,7 @@
 # Ubatte Choudai
 
+![ubatte-choudai](https://cdn.myanimelist.net/images/manga/5/148759.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

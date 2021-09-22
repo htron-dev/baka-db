@@ -1,5 +1,7 @@
 # Kotonoha no Niwa
 
+![kotonoha-no-niwa](https://cdn.myanimelist.net/images/manga/4/128633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

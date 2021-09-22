@@ -1,5 +1,7 @@
 # Patra to Tetsujuuji
 
+![patra-to-tetsujuuji](https://cdn.myanimelist.net/images/manga/3/232849.jpg)
+
 -   **type**: manga
 -   **original-name**: パトラと鉄十字
 -   **start-date**: 2019-05-08

@@ -1,5 +1,7 @@
 # Kono Isekai demo, Yandere ni Shinu hodo Aisareru
 
+![kono-isekai-demo-yandere-ni-shinu-hodo-aisareru](https://cdn.myanimelist.net/images/manga/3/207324.jpg)
+
 -   **type**: light-novel
 -   **original-name**: この異世界でも、ヤンデレに死ぬほど愛される
 -   **start-date**: 2018-02-27

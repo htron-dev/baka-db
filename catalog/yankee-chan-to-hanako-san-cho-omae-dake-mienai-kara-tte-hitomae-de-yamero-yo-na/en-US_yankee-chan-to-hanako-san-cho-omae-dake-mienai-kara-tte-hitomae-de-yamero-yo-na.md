@@ -1,5 +1,7 @@
 # Yankee-chan to Hanako-san: Cho, Omae dake Mienai kara tte Hitomae de Yamero yo na!
 
+![yankee-chan-to-hanako-san-cho-omae-dake-mienai-kara-tte-hitomae-de-yamero-yo-na](https://cdn.myanimelist.net/images/manga/3/169753.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

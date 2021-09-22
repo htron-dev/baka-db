@@ -1,5 +1,7 @@
 # Ojiisan no Lamp
 
+![ojiisan-no-lamp](https://cdn.myanimelist.net/images/anime/9/76455.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おぢいさんのランプ

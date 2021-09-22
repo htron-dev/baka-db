@@ -1,5 +1,7 @@
 # D@YS OF Jupiter: THE IDOLM@STER
 
+![d-ys-of-jupiter-the-idolm-ster](https://cdn.myanimelist.net/images/manga/2/100673.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

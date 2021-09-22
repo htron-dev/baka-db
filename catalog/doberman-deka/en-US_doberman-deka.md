@@ -1,5 +1,7 @@
 # Doberman Deka
 
+![doberman-deka](https://cdn.myanimelist.net/images/manga/3/133111.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **original-name**: ドーベルマン刑事

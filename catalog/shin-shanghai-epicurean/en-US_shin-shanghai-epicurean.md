@@ -1,5 +1,7 @@
 # Shin Shanghai Epicurean
 
+![shin-shanghai-epicurean](https://cdn.myanimelist.net/images/manga/3/200246.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

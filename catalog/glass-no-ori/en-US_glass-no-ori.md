@@ -1,5 +1,7 @@
 # Glass no Ori
 
+![glass-no-ori](https://cdn.myanimelist.net/images/manga/2/153369.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ガラスの檻

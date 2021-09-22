@@ -1,5 +1,7 @@
 # Tonkaradani Monogatari
 
+![tonkaradani-monogatari](https://cdn.myanimelist.net/images/manga/1/44415.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

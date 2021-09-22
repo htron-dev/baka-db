@@ -1,5 +1,7 @@
 # Rakuin no Monshou
 
+![rakuin-no-monshou](https://cdn.myanimelist.net/images/manga/2/158574.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 106

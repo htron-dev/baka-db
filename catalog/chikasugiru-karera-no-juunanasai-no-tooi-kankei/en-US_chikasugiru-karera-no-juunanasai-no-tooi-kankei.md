@@ -1,5 +1,7 @@
 # Chikasugiru Karera no, Juunanasai no Tooi Kankei
 
+![chikasugiru-karera-no-juunanasai-no-tooi-kankei](https://cdn.myanimelist.net/images/manga/1/178703.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

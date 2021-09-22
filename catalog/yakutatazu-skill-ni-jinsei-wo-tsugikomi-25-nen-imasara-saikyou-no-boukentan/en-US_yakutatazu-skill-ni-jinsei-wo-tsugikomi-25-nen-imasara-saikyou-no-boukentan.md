@@ -1,5 +1,7 @@
 # Yakutatazu Skill ni Jinsei wo Tsugikomi 25-nen, Imasara Saikyou no Boukentan
 
+![yakutatazu-skill-ni-jinsei-wo-tsugikomi-25-nen-imasara-saikyou-no-boukentan](https://cdn.myanimelist.net/images/manga/1/229740.jpg)
+
 -   **type**: manga
 -   **original-name**: 役立たずスキルに人生を注ぎ込み 25 年、今さら最強の冒険譚
 -   **start-date**: 2019-06-21

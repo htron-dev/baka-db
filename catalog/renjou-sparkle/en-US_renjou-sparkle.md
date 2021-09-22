@@ -1,5 +1,7 @@
 # Renjou Sparkle
 
+![renjou-sparkle](https://cdn.myanimelist.net/images/manga/1/16916.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 恋情 sparkle

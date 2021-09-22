@@ -1,5 +1,7 @@
 # Seireitsukai no Blade Dance
 
+![seireitsukai-no-blade-dance](https://cdn.myanimelist.net/images/manga/3/191043.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 精霊使いの剣舞〈ブレイドダンス〉
@@ -27,13 +29,6 @@
 Only a pure maiden can have a privilege to contract with spirit. In here, Areishia spirit academy, trained maiden in the noble family were gathered, and gave them an elite education to become a spirit contractor. A boy Kamito, by an accident he peeped into a girl, Clair taking a bath, and he even made a contract with spirit that she wanted. Yes, Kamito was an irregular boy spirit contractor that is impossible to exist. "You stole...my spirit...you have to take a responsibility for it!" "Huh?" "You have to become my contracted spirit" What will Kamito's destiny leads to?
 
 (Source: jCafe24)
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/32939/Seireitsukai_no_Blade_Dance)
-    the origin of his power? Now Clair is determined that he's going to have to support her, since she believes that the spirit he now has power over what should rightly be hers.
-
-(Source: MangaHelpers)
 
 ## Links
 

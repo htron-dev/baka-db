@@ -1,5 +1,7 @@
 # Shinkaigyo
 
+![shinkaigyo](https://cdn.myanimelist.net/images/manga/1/236241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

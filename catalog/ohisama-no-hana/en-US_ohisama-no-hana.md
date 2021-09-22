@@ -1,5 +1,7 @@
 # Ohisama no Hana
 
+![ohisama-no-hana](https://cdn.myanimelist.net/images/manga/3/1909.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

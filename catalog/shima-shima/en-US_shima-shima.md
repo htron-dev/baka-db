@@ -1,5 +1,7 @@
 # Shima-shima
 
+![shima-shima](https://cdn.myanimelist.net/images/manga/2/21409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

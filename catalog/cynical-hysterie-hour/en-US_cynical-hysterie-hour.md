@@ -1,5 +1,7 @@
 # Cynical Hysterie Hour
 
+![cynical-hysterie-hour](https://cdn.myanimelist.net/images/manga/1/21452.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: シニカル・ヒステリー・アワー

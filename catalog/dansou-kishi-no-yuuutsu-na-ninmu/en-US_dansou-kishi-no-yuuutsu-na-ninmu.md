@@ -1,5 +1,7 @@
 # Dansou Kishi no Yuuutsu na Ninmu
 
+![dansou-kishi-no-yuuutsu-na-ninmu](https://cdn.myanimelist.net/images/manga/1/219305.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

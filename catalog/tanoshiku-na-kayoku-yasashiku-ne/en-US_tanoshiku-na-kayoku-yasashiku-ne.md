@@ -1,5 +1,7 @@
 # Tanoshiku na Kayoku Yasashiku ne
 
+![tanoshiku-na-kayoku-yasashiku-ne](https://cdn.myanimelist.net/images/manga/2/43467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: たのしくなかよくやさしくね

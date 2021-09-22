@@ -1,5 +1,7 @@
 # Katekyo Hitman Reborn!
 
+![katekyo-hitman-reborn](https://cdn.myanimelist.net/images/manga/3/32291.jpg)
+
 -   **type**: manga
 -   **volumes**: 42
 -   **chapters**: 411

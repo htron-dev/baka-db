@@ -1,5 +1,7 @@
 # Zou no Senaka: Tabidatsu Hi
 
+![zou-no-senaka-tabidatsu-hi](https://cdn.myanimelist.net/images/anime/9/66649.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 象の背中 -旅立つ日-

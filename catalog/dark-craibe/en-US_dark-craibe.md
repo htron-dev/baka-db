@@ -1,5 +1,7 @@
 # Dark Craibe
 
+![dark-craibe](https://cdn.myanimelist.net/images/manga/2/11783.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ダーク・クライブ

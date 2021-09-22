@@ -1,5 +1,7 @@
 # Judo-bu Monogatari
 
+![judo-bu-monogatari](https://cdn.myanimelist.net/images/manga/2/144591.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 柔道部物語

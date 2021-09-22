@@ -1,5 +1,7 @@
 # Ryuukyuu no Yuuna
 
+![ryuukyuu-no-yuuna](https://cdn.myanimelist.net/images/manga/2/222698.jpg)
+
 -   **type**: manga
 -   **original-name**: 琉球のユウナ
 -   **start-date**: 2016-10-08

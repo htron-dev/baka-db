@@ -1,5 +1,7 @@
 # Isekai Izakaya: Koto Aitheria no Izakaya Nobu
 
+![isekai-izakaya-koto-aitheria-no-izakaya-nobu](https://cdn.myanimelist.net/images/anime/1303/90909.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 異世界居酒屋～古都アイテーリアの居酒屋のぶ～

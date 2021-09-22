@@ -1,5 +1,7 @@
 # Ryuu Musume Titi no Kitchen Car
 
+![ryuu-musume-titi-no-kitchen-car](https://cdn.myanimelist.net/images/manga/2/245692.jpg)
+
 -   **type**: manga
 -   **original-name**: 竜娘ティティのキッチンカー
 -   **start-date**: 2021-05-31

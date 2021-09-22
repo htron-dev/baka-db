@@ -1,5 +1,7 @@
 # Kiiroi Hana no Aka
 
+![kiiroi-hana-no-aka](https://cdn.myanimelist.net/images/manga/1/164233.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

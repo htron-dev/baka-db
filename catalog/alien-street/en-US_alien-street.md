@@ -1,5 +1,7 @@
 # Alien Street
 
+![alien-street](https://cdn.myanimelist.net/images/manga/2/187035.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

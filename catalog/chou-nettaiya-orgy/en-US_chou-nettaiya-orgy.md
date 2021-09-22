@@ -1,5 +1,7 @@
 # Chou Nettaiya Orgy
 
+![chou-nettaiya-orgy](https://cdn.myanimelist.net/images/manga/3/136645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 24

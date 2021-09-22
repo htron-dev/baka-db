@@ -1,5 +1,7 @@
 # Shin Gyaku Hakkenden Out Collars
 
+![shin-gyaku-hakkenden-out-collars](https://cdn.myanimelist.net/images/manga/3/83775.jpg)
+
 -   **type**: manga
 -   **original-name**: 新逆八犬伝アウトカラーズ
 

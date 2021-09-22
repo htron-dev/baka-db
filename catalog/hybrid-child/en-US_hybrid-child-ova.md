@@ -1,5 +1,7 @@
 # Hybrid Child
 
+![hybrid-child](https://cdn.myanimelist.net/images/anime/4/65605.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ハイブリッド チャイルド

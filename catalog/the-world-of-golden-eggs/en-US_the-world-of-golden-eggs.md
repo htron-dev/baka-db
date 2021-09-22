@@ -1,5 +1,7 @@
 # The World of Golden Eggs
 
+![the-world-of-golden-eggs](https://cdn.myanimelist.net/images/anime/12/20808.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ザ・ワールド・オブ・ゴールデン・エッグス

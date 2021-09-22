@@ -1,5 +1,7 @@
 # Mahou Shoujo no Kuse ni Namaiki da.
 
+![mahou-shoujo-no-kuse-ni-namaiki-da](https://cdn.myanimelist.net/images/manga/3/148491.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔法少女のくせになまいきだ。

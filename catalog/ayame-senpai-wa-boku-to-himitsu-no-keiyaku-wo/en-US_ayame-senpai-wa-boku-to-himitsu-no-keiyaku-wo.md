@@ -1,5 +1,7 @@
 # Ayame-senpai wa Boku to Himitsu no Keiyaku wo
 
+![ayame-senpai-wa-boku-to-himitsu-no-keiyaku-wo](https://cdn.myanimelist.net/images/manga/1/243777.jpg)
+
 -   **type**: manga
 -   **original-name**: あやめ先輩は僕とヒミツの契約を
 -   **start-date**: 2020-06-26

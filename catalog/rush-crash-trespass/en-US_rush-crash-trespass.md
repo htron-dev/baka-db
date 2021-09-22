@@ -1,5 +1,7 @@
 # Rush Crash Trespass!
 
+![rush-crash-trespass](https://cdn.myanimelist.net/images/manga/1/159122.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

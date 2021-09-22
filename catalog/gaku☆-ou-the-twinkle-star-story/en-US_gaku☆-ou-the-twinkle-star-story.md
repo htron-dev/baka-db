@@ -1,5 +1,7 @@
 # Gaku☆Ou: The Twinkle Star Story
 
+![gaku☆-ou-the-twinkle-star-story](https://cdn.myanimelist.net/images/manga/3/118019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

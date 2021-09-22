@@ -1,5 +1,7 @@
 # Korisu no Pokko-chan
 
+![korisu-no-pokko-chan](https://cdn.myanimelist.net/images/manga/3/152687.jpg)
+
 -   **type**: manga
 -   **original-name**: こりすのぽっこちゃん
 

@@ -1,5 +1,7 @@
 # Gorae Byul: The Gyeongseong Mermaid
 
+![gorae-byul-the-gyeongseong-mermaid](https://cdn.myanimelist.net/images/manga/3/237965.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 고래별
 -   **start-date**: 2019-06-21

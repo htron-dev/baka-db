@@ -1,5 +1,7 @@
 # Slow Heights no Kamisama
 
+![slow-heights-no-kamisama](https://cdn.myanimelist.net/images/manga/3/213186.jpg)
+
 -   **type**: manga
 -   **original-name**: スロウハイツの神様
 -   **start-date**: 2016-10-13

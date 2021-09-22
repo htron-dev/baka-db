@@ -1,5 +1,7 @@
 # Tai Yi Xian Mo Lu Zhi Ling Fei Ji IV
 
+![tai-yi-xian-mo-lu-zhi-ling-fei-ji-iv](https://cdn.myanimelist.net/images/anime/1916/114701.jpg)
+
 -   **type**: ona
 -   **original-name**: 太乙仙魔录之灵飞纪 IV
 -   **start-date**: 2021-05-16

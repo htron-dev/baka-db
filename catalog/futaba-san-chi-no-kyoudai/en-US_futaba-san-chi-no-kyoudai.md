@@ -1,5 +1,7 @@
 # Futaba-san Chi no Kyoudai
 
+![futaba-san-chi-no-kyoudai](https://cdn.myanimelist.net/images/manga/1/199986.jpg)
+
 -   **type**: manga
 -   **original-name**: 双葉さん家の姉弟
 -   **start-date**: 2017-03-24

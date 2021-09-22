@@ -1,5 +1,7 @@
 # Renai Chuudokuteki Senjutsushi
 
+![renai-chuudokuteki-senjutsushi](https://cdn.myanimelist.net/images/manga/2/32087.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 恋愛中毒的仙術師

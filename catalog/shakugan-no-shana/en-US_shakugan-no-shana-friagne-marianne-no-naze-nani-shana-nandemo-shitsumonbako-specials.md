@@ -1,5 +1,7 @@
 # Shakugan no Shana: Friagne & Marianne no Naze Nani Shana! Nandemo Shitsumonbako! Specials
 
+![shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials](https://cdn.myanimelist.net/images/anime/4/69083.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: フリアグネ&マリアンヌのなぜなにシャナ! なんでも質問箱! SP
@@ -20,4 +22,4 @@ Three Naze Nani Shana episodes that were DVD magazine exclusives of the Shakugan
 
 -   [My Anime list](https://myanimelist.net/anime/28603/Shakugan_no_Shana__Friagne___Marianne_no_Naze_Nani_Shana_Nandemo_Shitsumonbako_Specials)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3408)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/灼眼のシャナ_(アニメ)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/灼眼のシャナ_%28アニメ%29)

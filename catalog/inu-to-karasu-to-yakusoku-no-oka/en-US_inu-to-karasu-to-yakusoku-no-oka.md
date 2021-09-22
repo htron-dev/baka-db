@@ -1,5 +1,7 @@
 # Inu to Karasu to Yakusoku no Oka
 
+![inu-to-karasu-to-yakusoku-no-oka](https://cdn.myanimelist.net/images/manga/1/52247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

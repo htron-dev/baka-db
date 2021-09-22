@@ -1,5 +1,7 @@
 # Alive
 
+![alive](https://cdn.myanimelist.net/images/manga/4/12292.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

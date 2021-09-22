@@ -1,5 +1,7 @@
 # Sailor Ace
 
+![sailor-ace](https://cdn.myanimelist.net/images/manga/2/167049.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 71

@@ -1,5 +1,7 @@
 # Digimon Adventure: Last Evolution Kizuna
 
+![digimon-adventure-last-evolution-kizuna](https://cdn.myanimelist.net/images/anime/1654/104884.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー LAST EVOLUTION 絆

@@ -1,5 +1,7 @@
 # ReLIFE
 
+![re-life](https://cdn.myanimelist.net/images/anime/3/82149.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ReLIFE

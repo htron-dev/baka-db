@@ -1,5 +1,7 @@
 # Nameless Flipbook
 
+![nameless-flipbook](https://cdn.myanimelist.net/images/anime/1008/91231.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Nameless Flipbook

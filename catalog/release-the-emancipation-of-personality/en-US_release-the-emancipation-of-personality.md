@@ -1,5 +1,7 @@
 # Release: The Emancipation of Personality
 
+![release-the-emancipation-of-personality](https://cdn.myanimelist.net/images/manga/2/13759.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: RELEASE 　リリース

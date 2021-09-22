@@ -1,5 +1,7 @@
 # Anatagonomi no Shukujo desu
 
+![anatagonomi-no-shukujo-desu](https://cdn.myanimelist.net/images/manga/2/199552.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

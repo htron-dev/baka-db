@@ -1,5 +1,7 @@
 # Mebius Gear
 
+![mebius-gear](https://cdn.myanimelist.net/images/manga/2/31527.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

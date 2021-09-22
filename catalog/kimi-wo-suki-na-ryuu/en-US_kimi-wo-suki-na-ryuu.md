@@ -1,5 +1,7 @@
 # Kimi wo Suki na Ryuu
 
+![kimi-wo-suki-na-ryuu](https://cdn.myanimelist.net/images/manga/3/84207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

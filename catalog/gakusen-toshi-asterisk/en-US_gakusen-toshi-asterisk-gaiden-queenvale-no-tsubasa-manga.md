@@ -1,5 +1,7 @@
 # Gakusen Toshi Asterisk Gaiden: Queenvale no Tsubasa
 
+![gakusen-toshi-asterisk-gaiden-queenvale-no-tsubasa](https://cdn.myanimelist.net/images/manga/3/158354.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

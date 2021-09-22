@@ -1,5 +1,7 @@
 # Mahou Seiren: Garnarouge to Hinagikutei Elcca
 
+![mahou-seiren-garnarouge-to-hinagikutei-elcca](https://cdn.myanimelist.net/images/manga/2/150312.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

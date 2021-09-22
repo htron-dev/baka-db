@@ -1,5 +1,7 @@
 # Lingerie Logic
 
+![lingerie-logic](https://cdn.myanimelist.net/images/manga/1/45859.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ランジェリーＬＯＧＩＣ

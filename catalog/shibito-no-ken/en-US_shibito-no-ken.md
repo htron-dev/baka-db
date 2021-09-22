@@ -1,5 +1,7 @@
 # Shibito no Ken
 
+![shibito-no-ken](https://cdn.myanimelist.net/images/manga/3/187664.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 54

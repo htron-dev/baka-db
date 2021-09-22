@@ -1,5 +1,7 @@
 # Yakusoku: Africa Mizu to Midori
 
+![yakusoku-africa-mizu-to-midori](https://cdn.myanimelist.net/images/anime/10/66251.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 約束 －アフリカ　水と緑－

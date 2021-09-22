@@ -1,5 +1,7 @@
 # kaiyorihito/kaiyorishiki
 
+![kaiyorihito-kaiyorishiki](https://cdn.myanimelist.net/images/manga/3/21437.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

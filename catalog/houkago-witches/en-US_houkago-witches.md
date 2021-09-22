@@ -1,5 +1,7 @@
 # Houkago Witches!
 
+![houkago-witches](https://cdn.myanimelist.net/images/manga/2/215273.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後うぃっちーず！
 -   **start-date**: 2017-05-26

@@ -1,5 +1,7 @@
 # G-On Riders
 
+![g-on-riders](https://cdn.myanimelist.net/images/anime/7/23389.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: G-on らいだーす

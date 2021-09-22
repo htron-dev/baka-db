@@ -1,5 +1,7 @@
 # Amai Hari
 
+![amai-hari](https://cdn.myanimelist.net/images/manga/3/41660.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Happa 64
 
+![happa-64](https://cdn.myanimelist.net/images/manga/3/44703.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

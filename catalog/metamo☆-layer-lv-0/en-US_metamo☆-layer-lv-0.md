@@ -1,5 +1,7 @@
 # Metamo☆Layer Lv. 0
 
+![metamo☆-layer-lv-0](https://cdn.myanimelist.net/images/manga/2/77825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: メタモ ☆ レイヤー LV.0

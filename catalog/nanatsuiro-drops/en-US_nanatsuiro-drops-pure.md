@@ -1,5 +1,7 @@
 # Nanatsuiro★Drops Pure!!
 
+![nanatsuiro★-drops-pure](https://cdn.myanimelist.net/images/manga/2/147817.jpg)
+
 -   **type**: manga
 -   **original-name**: ななついろ ★ ドロップス Pure!!
 -   **start-date**: 2007-04-27

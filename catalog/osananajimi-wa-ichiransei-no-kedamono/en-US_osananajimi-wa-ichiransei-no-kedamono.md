@@ -1,5 +1,7 @@
 # Osananajimi wa Ichiransei no Kedamono
 
+![osananajimi-wa-ichiransei-no-kedamono](https://cdn.myanimelist.net/images/manga/1/241052.jpg)
+
 -   **type**: manga
 -   **original-name**: 幼馴染は一卵性の獣
 -   **start-date**: 2020-05-15

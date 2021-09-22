@@ -1,5 +1,7 @@
 # Boukenka ni Narou!: Skill Board de Dungeon Kouryaku
 
+![boukenka-ni-narou-skill-board-de-dungeon-kouryaku](https://cdn.myanimelist.net/images/manga/3/241131.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 冒険家になろう！～スキルボードでダンジョン攻略～
 -   **start-date**: 2018-07-30

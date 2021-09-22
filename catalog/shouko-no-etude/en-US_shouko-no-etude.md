@@ -1,5 +1,7 @@
 # Shouko no Etude
 
+![shouko-no-etude](https://cdn.myanimelist.net/images/manga/3/18053.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 章子のエチュード

@@ -1,5 +1,7 @@
 # Strike Witches: Kimi to Tsunagaru Sora
 
+![strike-witches-kimi-to-tsunagaru-sora](https://cdn.myanimelist.net/images/manga/4/86983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

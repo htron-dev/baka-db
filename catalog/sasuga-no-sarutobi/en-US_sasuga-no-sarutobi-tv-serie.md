@@ -1,5 +1,7 @@
 # Sasuga no Sarutobi
 
+![sasuga-no-sarutobi](https://cdn.myanimelist.net/images/anime/6/6775.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 69
 -   **original-name**: さすがの猿飛

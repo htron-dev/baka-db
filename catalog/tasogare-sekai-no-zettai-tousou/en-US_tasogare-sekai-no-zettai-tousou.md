@@ -1,5 +1,7 @@
 # Tasogare Sekai no Zettai Tousou
 
+![tasogare-sekai-no-zettai-tousou](https://cdn.myanimelist.net/images/manga/1/164698.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

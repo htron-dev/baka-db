@@ -1,5 +1,7 @@
 # Desert Coral
 
+![desert-coral](https://cdn.myanimelist.net/images/manga/3/105689.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

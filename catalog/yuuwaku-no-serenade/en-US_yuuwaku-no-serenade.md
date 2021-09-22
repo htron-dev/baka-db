@@ -1,5 +1,7 @@
 # Yuuwaku no Serenade
 
+![yuuwaku-no-serenade](https://cdn.myanimelist.net/images/manga/3/227446.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 誘惑のセレナーデ

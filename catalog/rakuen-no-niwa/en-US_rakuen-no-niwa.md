@@ -1,5 +1,7 @@
 # Rakuen no Niwa
 
+![rakuen-no-niwa](https://cdn.myanimelist.net/images/manga/3/103085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

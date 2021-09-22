@@ -1,5 +1,7 @@
 # Yurihime
 
+![yurihime](https://cdn.myanimelist.net/images/manga/2/208370.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Vampire Requiem
 
+![vampire-requiem](https://cdn.myanimelist.net/images/manga/1/6563.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

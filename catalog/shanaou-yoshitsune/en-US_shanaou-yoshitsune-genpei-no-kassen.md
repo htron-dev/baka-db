@@ -1,5 +1,7 @@
 # Shanaou Yoshitsune: Genpei no Kassen
 
+![shanaou-yoshitsune-genpei-no-kassen](https://cdn.myanimelist.net/images/manga/3/153875.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **chapters**: 93

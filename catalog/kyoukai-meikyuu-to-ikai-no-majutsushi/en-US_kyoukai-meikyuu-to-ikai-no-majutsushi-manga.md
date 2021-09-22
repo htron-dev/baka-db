@@ -1,5 +1,7 @@
 # Kyoukai Meikyuu to Ikai no Majutsushi
 
+![kyoukai-meikyuu-to-ikai-no-majutsushi](https://cdn.myanimelist.net/images/manga/3/223524.jpg)
+
 -   **type**: manga
 -   **original-name**: 境界迷宮と異界の魔術師
 -   **start-date**: 2018-06-08

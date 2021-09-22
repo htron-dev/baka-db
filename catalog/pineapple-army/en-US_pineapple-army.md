@@ -1,5 +1,7 @@
 # Pineapple Army
 
+![pineapple-army](https://cdn.myanimelist.net/images/manga/2/35200.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: パイナップル ARMY

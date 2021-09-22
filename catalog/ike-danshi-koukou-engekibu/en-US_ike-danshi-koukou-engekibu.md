@@ -1,5 +1,7 @@
 # Ike! Danshi Koukou Engekibu
 
+![ike-danshi-koukou-engekibu](https://cdn.myanimelist.net/images/manga/2/64817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Daini Enshutsu-bu Director: The Gama
 
+![daini-enshutsu-bu-director-the-gama](https://cdn.myanimelist.net/images/manga/2/131991.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 第二演出部ディレクター ザ・ガマ

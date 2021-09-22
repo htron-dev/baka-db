@@ -1,5 +1,7 @@
 # Sayonara Peter Pan
 
+![sayonara-peter-pan](https://cdn.myanimelist.net/images/manga/2/204421.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

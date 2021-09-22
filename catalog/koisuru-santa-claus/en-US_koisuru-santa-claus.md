@@ -1,5 +1,7 @@
 # Koisuru Santa Claus
 
+![koisuru-santa-claus](https://cdn.myanimelist.net/images/manga/3/23129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋するサンタクロース

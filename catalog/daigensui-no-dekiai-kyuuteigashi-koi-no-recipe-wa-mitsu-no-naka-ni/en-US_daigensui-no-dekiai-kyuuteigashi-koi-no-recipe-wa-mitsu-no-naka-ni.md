@@ -1,5 +1,7 @@
 # Daigensui no Dekiai Kyuuteigashi: Koi no Recipe wa Mitsu no Naka ni
 
+![daigensui-no-dekiai-kyuuteigashi-koi-no-recipe-wa-mitsu-no-naka-ni](https://cdn.myanimelist.net/images/manga/1/193390.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

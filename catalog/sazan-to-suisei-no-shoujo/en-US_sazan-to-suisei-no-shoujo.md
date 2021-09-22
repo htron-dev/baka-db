@@ -1,5 +1,7 @@
 # Sazan to Suisei no Shoujo
 
+![sazan-to-suisei-no-shoujo](https://cdn.myanimelist.net/images/manga/3/226138.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 29

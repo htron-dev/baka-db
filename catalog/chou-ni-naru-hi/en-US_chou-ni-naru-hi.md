@@ -1,5 +1,7 @@
 # Chou ni Naru Hi
 
+![chou-ni-naru-hi](https://cdn.myanimelist.net/images/manga/4/21393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

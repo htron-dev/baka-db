@@ -1,5 +1,7 @@
 # Shikanai Seitokai
 
+![shikanai-seitokai](https://cdn.myanimelist.net/images/manga/2/194481.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

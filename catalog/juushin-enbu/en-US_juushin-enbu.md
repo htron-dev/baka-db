@@ -1,5 +1,7 @@
 # Juushin Enbu
 
+![juushin-enbu](https://cdn.myanimelist.net/images/manga/1/193993.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

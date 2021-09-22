@@ -1,5 +1,7 @@
 # Yume Keshou
 
+![yume-keshou](https://cdn.myanimelist.net/images/manga/2/235745.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # Shikaru Neko
 
+![shikaru-neko](https://cdn.myanimelist.net/images/anime/1008/113384.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: しかるねこ
 -   **start-date**: 2021-03-22

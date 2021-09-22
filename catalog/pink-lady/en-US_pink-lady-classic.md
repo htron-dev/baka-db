@@ -1,5 +1,7 @@
 # Pink Lady Classic
 
+![pink-lady-classic](https://cdn.myanimelist.net/images/manga/2/91863.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 96
 -   **original-name**: 핑크레이디 클래식

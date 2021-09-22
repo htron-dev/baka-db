@@ -1,5 +1,7 @@
 # Memories Off 3.5
 
+![memories-off-3-5](https://cdn.myanimelist.net/images/anime/8/3289.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: Memories Off 3.5 [メモリーズオフ 3.5]

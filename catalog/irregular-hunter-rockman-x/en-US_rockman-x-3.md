@@ -1,5 +1,7 @@
 # Rockman X3
 
+![rockman-x-3](https://cdn.myanimelist.net/images/manga/3/35095.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

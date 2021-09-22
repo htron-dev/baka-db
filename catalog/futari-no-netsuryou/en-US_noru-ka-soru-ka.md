@@ -1,5 +1,7 @@
 # Noru ka Soru ka
 
+![noru-ka-soru-ka](https://cdn.myanimelist.net/images/manga/1/215118.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

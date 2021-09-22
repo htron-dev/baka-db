@@ -1,5 +1,7 @@
 # Imokami-sama
 
+![imokami-sama](https://cdn.myanimelist.net/images/manga/3/96905.jpg)
+
 -   **type**: manga
 -   **original-name**: いもかみさま《妹神様》
 -   **start-date**: 2011-09-06

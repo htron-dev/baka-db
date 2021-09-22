@@ -1,5 +1,7 @@
 # Yama no Susume: Second Season Specials
 
+![yama-no-susume-second-season-specials](https://cdn.myanimelist.net/images/anime/4/67577.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ヤマノススメ セカンドシーズン

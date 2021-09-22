@@ -1,5 +1,7 @@
 # Shounen Typhoon
 
+![shounen-typhoon](https://cdn.myanimelist.net/images/manga/1/238652.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 少年台風〈タイフーン〉

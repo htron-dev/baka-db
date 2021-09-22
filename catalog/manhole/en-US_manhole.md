@@ -1,5 +1,7 @@
 # Manhole
 
+![manhole](https://cdn.myanimelist.net/images/manga/2/67629.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

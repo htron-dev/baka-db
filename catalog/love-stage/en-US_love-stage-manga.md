@@ -1,5 +1,7 @@
 # Love Stage!!
 
+![love-stage](https://cdn.myanimelist.net/images/manga/4/41861.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 40

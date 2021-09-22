@@ -1,5 +1,7 @@
 # Little Slugger Rin
 
+![little-slugger-rin](https://cdn.myanimelist.net/images/manga/2/202929.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 67

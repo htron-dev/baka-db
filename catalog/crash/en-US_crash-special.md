@@ -1,5 +1,7 @@
 # Crash!
 
+![crash](https://cdn.myanimelist.net/images/anime/8/44498.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: クラッシュ！

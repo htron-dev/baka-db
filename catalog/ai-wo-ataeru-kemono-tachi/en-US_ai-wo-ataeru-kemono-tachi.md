@@ -1,5 +1,7 @@
 # Ai wo Ataeru Kemono-tachi
 
+![ai-wo-ataeru-kemono-tachi](https://cdn.myanimelist.net/images/manga/2/246513.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

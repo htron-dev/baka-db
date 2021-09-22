@@ -1,5 +1,7 @@
 # Assassins Pride
 
+![assassins-pride](https://cdn.myanimelist.net/images/anime/1267/103421.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アサシンズプライド

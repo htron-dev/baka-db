@@ -1,5 +1,7 @@
 # Ojamajo Doremi OVA
 
+![ojamajo-doremi-ova](https://cdn.myanimelist.net/images/anime/1632/99140.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: おジャ魔女どれみの交通安全, おジャ魔女どれみの自転車安全教室

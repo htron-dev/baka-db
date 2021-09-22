@@ -1,5 +1,7 @@
 # Shutsudou!! Pokemon Ranger
 
+![shutsudou-pokemon-ranger](https://cdn.myanimelist.net/images/manga/3/224952.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: 出動！！ポケモンレンジャー

@@ -1,5 +1,7 @@
 # Angel x Contract
 
+![angel-x-contract](https://cdn.myanimelist.net/images/manga/1/77243.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: Angel×Contract

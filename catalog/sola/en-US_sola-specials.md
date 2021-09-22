@@ -1,5 +1,7 @@
 # Sola Specials
 
+![sola-specials](https://cdn.myanimelist.net/images/anime/10/21665.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: sola

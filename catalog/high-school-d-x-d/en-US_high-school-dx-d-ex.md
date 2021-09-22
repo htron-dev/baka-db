@@ -1,5 +1,7 @@
 # High School DxD EX
 
+![high-school-dx-d-ex](https://cdn.myanimelist.net/images/manga/2/196965.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 6
 -   **original-name**: ハイスクール D×D EX

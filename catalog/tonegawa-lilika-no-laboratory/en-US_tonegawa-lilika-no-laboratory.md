@@ -1,5 +1,7 @@
 # Tonegawa Lilika no Laboratory
 
+![tonegawa-lilika-no-laboratory](https://cdn.myanimelist.net/images/manga/1/165067.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

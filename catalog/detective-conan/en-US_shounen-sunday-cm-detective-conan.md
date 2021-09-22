@@ -1,5 +1,7 @@
 # Shounen Sunday CM: Detective Conan
 
+![shounen-sunday-cm-detective-conan](https://cdn.myanimelist.net/images/anime/1661/102859.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: CM 小学館 少年サンデー「名探偵コナン」編

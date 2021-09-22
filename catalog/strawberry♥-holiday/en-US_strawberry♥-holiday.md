@@ -1,5 +1,7 @@
 # Strawberry♥Holiday
 
+![strawberry♥-holiday](https://cdn.myanimelist.net/images/manga/2/116141.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

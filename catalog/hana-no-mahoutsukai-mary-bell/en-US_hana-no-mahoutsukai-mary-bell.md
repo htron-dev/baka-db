@@ -1,5 +1,7 @@
 # Hana no Mahoutsukai Mary Bell
 
+![hana-no-mahoutsukai-mary-bell](https://cdn.myanimelist.net/images/anime/7/27032.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 花の魔法使いマリーベル

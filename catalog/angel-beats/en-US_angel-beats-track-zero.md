@@ -1,5 +1,7 @@
 # Angel Beats!: Track Zero
 
+![angel-beats-track-zero](https://cdn.myanimelist.net/images/manga/3/176840.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

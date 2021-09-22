@@ -1,5 +1,7 @@
 # Kimi wa Junjou Incubus
 
+![kimi-wa-junjou-incubus](https://cdn.myanimelist.net/images/manga/2/143973.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

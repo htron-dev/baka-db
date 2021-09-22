@@ -1,5 +1,7 @@
 # Hizukuri
 
+![hizukuri](https://cdn.myanimelist.net/images/anime/1908/96032.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 火づくり

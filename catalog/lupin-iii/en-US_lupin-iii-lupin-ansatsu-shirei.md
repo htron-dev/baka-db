@@ -1,5 +1,7 @@
 # Lupin III: Lupin Ansatsu Shirei
 
+![lupin-iii-lupin-ansatsu-shirei](https://cdn.myanimelist.net/images/anime/11/27608.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『ルパン暗殺指令』

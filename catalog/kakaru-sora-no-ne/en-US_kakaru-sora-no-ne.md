@@ -1,5 +1,7 @@
 # Kakaru Sora no ne
 
+![kakaru-sora-no-ne](https://cdn.myanimelist.net/images/manga/3/3474.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

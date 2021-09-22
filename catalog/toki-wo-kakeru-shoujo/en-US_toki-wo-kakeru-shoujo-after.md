@@ -1,5 +1,7 @@
 # Toki wo Kakeru Shoujo: After
 
+![toki-wo-kakeru-shoujo-after](https://cdn.myanimelist.net/images/manga/3/120299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

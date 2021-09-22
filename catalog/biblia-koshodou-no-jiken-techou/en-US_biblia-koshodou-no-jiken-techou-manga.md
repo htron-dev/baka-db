@@ -1,5 +1,7 @@
 # Biblia Koshodou no Jiken Techou
 
+![biblia-koshodou-no-jiken-techou](https://cdn.myanimelist.net/images/manga/1/164403.jpg)
+
 -   **type**: manga
 -   **original-name**: ビブリア古書堂の事件手帖
 -   **start-date**: 2012-07-06

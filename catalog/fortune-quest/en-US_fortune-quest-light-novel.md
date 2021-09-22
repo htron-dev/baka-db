@@ -1,5 +1,7 @@
 # Fortune Quest
 
+![fortune-quest](https://cdn.myanimelist.net/images/manga/1/74011.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: フォーチュン・クエスト

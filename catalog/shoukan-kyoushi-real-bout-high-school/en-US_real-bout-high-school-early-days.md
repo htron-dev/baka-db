@@ -1,5 +1,7 @@
 # Real Bout High School: Early Days
 
+![real-bout-high-school-early-days](https://cdn.myanimelist.net/images/manga/2/166932.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

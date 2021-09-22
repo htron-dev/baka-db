@@ -1,5 +1,7 @@
 # Wild Wing
 
+![wild-wing](https://cdn.myanimelist.net/images/manga/3/111683.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

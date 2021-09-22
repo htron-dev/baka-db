@@ -1,5 +1,7 @@
 # Kal Ranshi no Joou Series
 
+![kal-ranshi-no-joou-series](https://cdn.myanimelist.net/images/manga/1/151142.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: カル・ランシィの女王シリーズ

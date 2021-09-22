@@ -1,5 +1,7 @@
 # Turn A Gundam
 
+![turn-a-gundam](https://cdn.myanimelist.net/images/anime/4/78330.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ∀ ガンダム

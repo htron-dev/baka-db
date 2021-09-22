@@ -1,5 +1,7 @@
 # "Bungaku Shoujo" to Koisuru Poet
 
+![bungaku-shoujo-to-koisuru-poet](https://cdn.myanimelist.net/images/manga/1/126711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

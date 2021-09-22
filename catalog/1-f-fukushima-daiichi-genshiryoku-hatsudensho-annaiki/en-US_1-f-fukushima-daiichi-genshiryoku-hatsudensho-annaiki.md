@@ -1,5 +1,7 @@
 # 1F: Fukushima Daiichi Genshiryoku Hatsudensho Annaiki
 
+![1-f-fukushima-daiichi-genshiryoku-hatsudensho-annaiki](https://cdn.myanimelist.net/images/manga/3/124601.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

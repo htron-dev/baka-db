@@ -1,5 +1,7 @@
 # Onegai! Maruchi-kun
 
+![onegai-maruchi-kun](https://cdn.myanimelist.net/images/manga/1/15345.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おねがい!マルチくん

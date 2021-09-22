@@ -1,5 +1,7 @@
 # Kaiso Ichigenchou Hanafuda
 
+![kaiso-ichigenchou-hanafuda](https://cdn.myanimelist.net/images/manga/1/248387.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪鼠一見帳・花札
 -   **start-date**: 2020-09-25

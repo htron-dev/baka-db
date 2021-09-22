@@ -1,5 +1,7 @@
 # Kohaku no Riddle
 
+![kohaku-no-riddle](https://cdn.myanimelist.net/images/manga/1/171923.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 41

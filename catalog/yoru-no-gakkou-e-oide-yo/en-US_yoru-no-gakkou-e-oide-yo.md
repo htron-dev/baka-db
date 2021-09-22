@@ -1,5 +1,7 @@
 # Yoru no Gakkou e Oide yo!
 
+![yoru-no-gakkou-e-oide-yo](https://cdn.myanimelist.net/images/manga/3/201076.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

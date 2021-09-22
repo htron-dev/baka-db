@@ -1,5 +1,7 @@
 # Sanpakugan-chan wa Tsutaetai.
 
+![sanpakugan-chan-wa-tsutaetai](https://cdn.myanimelist.net/images/manga/2/213015.jpg)
+
 -   **type**: manga
 -   **original-name**: 三白眼ちゃんは伝えたい。
 -   **start-date**: 2018-10-22

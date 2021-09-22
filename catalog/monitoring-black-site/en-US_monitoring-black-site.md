@@ -1,5 +1,7 @@
 # Monitoring Black Site
 
+![monitoring-black-site](https://cdn.myanimelist.net/images/manga/3/174146.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

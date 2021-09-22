@@ -1,5 +1,7 @@
 # Dorei Ouji no Kangoku Fuck!!
 
+![dorei-ouji-no-kangoku-fuck](https://cdn.myanimelist.net/images/manga/2/172293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

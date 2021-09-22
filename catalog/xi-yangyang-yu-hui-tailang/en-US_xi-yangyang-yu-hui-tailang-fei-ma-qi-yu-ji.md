@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Fei Ma Qi Yu Ji
 
+![xi-yangyang-yu-hui-tailang-fei-ma-qi-yu-ji](https://cdn.myanimelist.net/images/anime/1365/90791.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 喜羊羊与灰太狼之飞马奇遇记

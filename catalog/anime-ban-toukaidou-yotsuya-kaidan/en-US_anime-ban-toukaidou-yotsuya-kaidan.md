@@ -1,5 +1,7 @@
 # Anime-ban Toukaidou Yotsuya Kaidan
 
+![anime-ban-toukaidou-yotsuya-kaidan](https://cdn.myanimelist.net/images/anime/9/82369.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アニメ版 東海道・四谷怪談

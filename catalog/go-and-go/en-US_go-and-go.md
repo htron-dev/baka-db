@@ -1,5 +1,7 @@
 # Go and Go
 
+![go-and-go](https://cdn.myanimelist.net/images/manga/1/14996.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 

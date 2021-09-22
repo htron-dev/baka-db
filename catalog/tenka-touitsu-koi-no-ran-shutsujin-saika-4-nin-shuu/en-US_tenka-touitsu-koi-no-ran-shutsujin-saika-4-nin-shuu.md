@@ -1,5 +1,7 @@
 # Tenka Touitsu Koi no Ran: Shutsujin! Saika 4-nin Shuu
 
+![tenka-touitsu-koi-no-ran-shutsujin-saika-4-nin-shuu](https://cdn.myanimelist.net/images/anime/1740/90472.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 天下統一恋の乱~出陣! 雑賀 4 人衆~

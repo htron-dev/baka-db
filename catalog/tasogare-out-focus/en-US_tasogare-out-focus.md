@@ -1,5 +1,7 @@
 # Tasogare Out Focus
 
+![tasogare-out-focus](https://cdn.myanimelist.net/images/manga/2/222217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

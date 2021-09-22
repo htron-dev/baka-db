@@ -1,5 +1,7 @@
 # Junjou de Wagamama na Kare
 
+![junjou-de-wagamama-na-kare](https://cdn.myanimelist.net/images/manga/2/16018.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

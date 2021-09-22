@@ -1,5 +1,7 @@
 # Shaonian Ge Xing: Feng Hua Xue Yue Pian
 
+![shaonian-ge-xing-feng-hua-xue-yue-pian](https://cdn.myanimelist.net/images/anime/1777/110315.jpg)
+
 -   **type**: ona
 -   **episodes**: 32
 -   **original-name**: 少年歌行 风花雪月篇

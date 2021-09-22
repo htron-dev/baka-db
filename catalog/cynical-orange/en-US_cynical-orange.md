@@ -1,5 +1,7 @@
 # Cynical Orange
 
+![cynical-orange](https://cdn.myanimelist.net/images/manga/2/20569.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 24

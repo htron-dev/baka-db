@@ -1,5 +1,7 @@
 # Black x Blood
 
+![black-x-blood](https://cdn.myanimelist.net/images/manga/2/15042.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

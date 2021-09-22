@@ -1,5 +1,7 @@
 # Boku to Issho
 
+![boku-to-issho](https://cdn.myanimelist.net/images/manga/2/197265.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 49

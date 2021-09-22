@@ -1,5 +1,7 @@
 # Shikazono Gakuen Hiyoko Club
 
+![shikazono-gakuen-hiyoko-club](https://cdn.myanimelist.net/images/manga/3/95675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kekkon Shiyou yo
 
+![kekkon-shiyou-yo](https://cdn.myanimelist.net/images/manga/2/24477.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 66

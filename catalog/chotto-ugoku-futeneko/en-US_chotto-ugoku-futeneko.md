@@ -1,5 +1,7 @@
 # Chotto Ugoku!? "Futeneko"
 
+![chotto-ugoku-futeneko](https://cdn.myanimelist.net/images/anime/5/82424.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ちょっと動く！？「フテネコ」

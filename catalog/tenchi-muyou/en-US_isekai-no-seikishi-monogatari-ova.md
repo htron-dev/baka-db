@@ -1,5 +1,7 @@
 # Isekai no Seikishi Monogatari
 
+![isekai-no-seikishi-monogatari](https://cdn.myanimelist.net/images/anime/2/20345.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: 異世界の聖機師物語

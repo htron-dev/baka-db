@@ -1,5 +1,7 @@
 # Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari
 
+![kuroko-no-basket-movie-1-winter-cup-kage-to-hikari](https://cdn.myanimelist.net/images/anime/5/82691.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「黒子のバスケ」ウインターカップ総集編～影と光～

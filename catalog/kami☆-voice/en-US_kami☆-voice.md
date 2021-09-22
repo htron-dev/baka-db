@@ -1,5 +1,7 @@
 # Kami☆Voice
 
+![kami☆-voice](https://cdn.myanimelist.net/images/manga/2/98847.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

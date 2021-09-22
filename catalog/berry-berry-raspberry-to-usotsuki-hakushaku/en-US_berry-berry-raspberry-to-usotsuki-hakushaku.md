@@ -1,5 +1,7 @@
 # Berry Berry Raspberry to Usotsuki Hakushaku
 
+![berry-berry-raspberry-to-usotsuki-hakushaku](https://cdn.myanimelist.net/images/manga/2/186612.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

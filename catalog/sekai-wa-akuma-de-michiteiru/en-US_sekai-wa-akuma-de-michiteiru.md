@@ -1,5 +1,7 @@
 # Sekai wa Akuma de Michiteiru?
 
+![sekai-wa-akuma-de-michiteiru](https://cdn.myanimelist.net/images/manga/3/165090.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 世界は悪魔で満ちている?

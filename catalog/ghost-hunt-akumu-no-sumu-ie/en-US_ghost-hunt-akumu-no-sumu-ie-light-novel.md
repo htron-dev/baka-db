@@ -1,5 +1,7 @@
 # Ghost Hunt: Akumu no Sumu Ie
 
+![ghost-hunt-akumu-no-sumu-ie](https://cdn.myanimelist.net/images/manga/3/128585.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 悪夢の棲む家 ゴースト・ハント

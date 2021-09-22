@@ -1,5 +1,7 @@
 # Odoru Ecstasy
 
+![odoru-ecstasy](https://cdn.myanimelist.net/images/manga/2/225036.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

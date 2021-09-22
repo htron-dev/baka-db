@@ -1,5 +1,7 @@
 # Okujou no Yurirei-san Side B: Nakayoshi Quiz
 
+![okujou-no-yurirei-san-side-b-nakayoshi-quiz](https://cdn.myanimelist.net/images/manga/3/156113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

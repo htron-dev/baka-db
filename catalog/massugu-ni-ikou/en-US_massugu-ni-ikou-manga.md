@@ -1,5 +1,7 @@
 # Massugu ni Ikou.
 
+![massugu-ni-ikou](https://cdn.myanimelist.net/images/manga/3/87627.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **original-name**: まっすぐにいこう。

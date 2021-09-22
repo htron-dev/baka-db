@@ -1,5 +1,7 @@
 # Boys of the Dead
 
+![boys-of-the-dead](https://cdn.myanimelist.net/images/manga/2/237567.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: BOYS OF THE DEAD

@@ -1,5 +1,7 @@
 # Athens kara Kita Boukun
 
+![athens-kara-kita-boukun](https://cdn.myanimelist.net/images/manga/2/227512.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アテネから来た暴君

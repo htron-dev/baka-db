@@ -1,5 +1,7 @@
 # Konton to Shita Isekai-san Side ni mo Mondai ga Aru node wa?
 
+![konton-to-shita-isekai-san-side-ni-mo-mondai-ga-aru-node-wa](https://cdn.myanimelist.net/images/manga/2/186735.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 混沌とした異世界さんサイドにも問題があるのでは？
 -   **start-date**: 2016-11-10

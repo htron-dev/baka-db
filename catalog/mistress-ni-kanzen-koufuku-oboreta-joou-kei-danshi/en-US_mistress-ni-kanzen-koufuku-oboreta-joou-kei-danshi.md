@@ -1,5 +1,7 @@
 # Mistress ni Kanzen Koufuku: Oboreta Joou-kei Danshi
 
+![mistress-ni-kanzen-koufuku-oboreta-joou-kei-danshi](https://cdn.myanimelist.net/images/manga/3/193428.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

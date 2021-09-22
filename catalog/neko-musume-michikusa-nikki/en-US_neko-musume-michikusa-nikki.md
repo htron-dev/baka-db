@@ -1,5 +1,7 @@
 # Neko Musume Michikusa Nikki
 
+![neko-musume-michikusa-nikki](https://cdn.myanimelist.net/images/manga/3/188955.jpg)
+
 -   **type**: manga
 -   **original-name**: ねこむすめ道草日記
 -   **start-date**: 2008-04-19

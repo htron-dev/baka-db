@@ -1,5 +1,7 @@
 # Munou na Nana Mini Anime
 
+![munou-na-nana-mini-anime](https://cdn.myanimelist.net/images/anime/1587/109132.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 無能なナナ

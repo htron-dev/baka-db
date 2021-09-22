@@ -1,5 +1,7 @@
 # My ID Is Gangnam Beauty
 
+![my-id-is-gangnam-beauty](https://cdn.myanimelist.net/images/manga/2/222337.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 89

@@ -1,5 +1,7 @@
 # Ulibyeol Ilhowa Eollugso
 
+![ulibyeol-ilhowa-eollugso](https://cdn.myanimelist.net/images/anime/2/68317.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 우리별 일호와 얼룩소
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   magic
 -   romance
 

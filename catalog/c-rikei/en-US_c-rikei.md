@@ -1,5 +1,7 @@
 # °C Rikei.
 
+![c-rikei](https://cdn.myanimelist.net/images/manga/2/132971.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ℃ りけい。

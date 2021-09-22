@@ -1,5 +1,7 @@
 # Dioti Manual: Kamisama-tachi no Renai Daikou
 
+![dioti-manual-kamisama-tachi-no-renai-daikou](https://cdn.myanimelist.net/images/manga/2/210027.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

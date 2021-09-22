@@ -1,5 +1,7 @@
 # Lei Su Deng Shandian Chong Xian 3
 
+![lei-su-deng-shandian-chong-xian-3](https://cdn.myanimelist.net/images/anime/1317/94789.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 雷速登闪电冲线 3

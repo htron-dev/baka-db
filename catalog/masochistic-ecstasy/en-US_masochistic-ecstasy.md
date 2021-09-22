@@ -1,5 +1,7 @@
 # Masochistic Ecstasy
 
+![masochistic-ecstasy](https://cdn.myanimelist.net/images/manga/3/160795.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

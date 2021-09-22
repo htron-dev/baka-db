@@ -1,5 +1,7 @@
 # Fudanshi Koukou Seikatsu: Sports no Aki, Bonnou no Aki
 
+![fudanshi-koukou-seikatsu-sports-no-aki-bonnou-no-aki](https://cdn.myanimelist.net/images/anime/9/89162.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 腐男子高校生活　スポーツの秋煩悩の秋

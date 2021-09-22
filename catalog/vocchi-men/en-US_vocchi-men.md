@@ -1,5 +1,7 @@
 # Vocchi-men
 
+![vocchi-men](https://cdn.myanimelist.net/images/manga/2/205408.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

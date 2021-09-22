@@ -1,5 +1,7 @@
 # Meitantei Otono Jun no Jikenbo
 
+![meitantei-otono-jun-no-jikenbo](https://cdn.myanimelist.net/images/manga/5/130155.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 名探偵音野順の事件簿

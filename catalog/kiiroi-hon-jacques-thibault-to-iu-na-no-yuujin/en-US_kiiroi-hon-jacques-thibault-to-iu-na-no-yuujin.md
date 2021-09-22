@@ -1,5 +1,7 @@
 # Kiiroi Hon: Jacques Thibault to Iu Na no Yuujin
 
+![kiiroi-hon-jacques-thibault-to-iu-na-no-yuujin](https://cdn.myanimelist.net/images/manga/2/33912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Nendjuugyouji Animation Series
 
+![nendjuugyouji-animation-series](https://cdn.myanimelist.net/images/anime/5/84582.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 年中行事アニメーションシリーズ
@@ -12,7 +14,6 @@
 -   demons
 -   fantasy
 -   historical
-
 -   magic
 -   supernatural
 

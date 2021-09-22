@@ -1,5 +1,7 @@
 # Ore ga Shujinkou ja Nakatta Koro no Hanashi wo Suru
 
+![ore-ga-shujinkou-ja-nakatta-koro-no-hanashi-wo-suru](https://cdn.myanimelist.net/images/manga/2/160885.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Boku wa Robot-goshi no Kimi ni Koi wo Suru
 
+![boku-wa-robot-goshi-no-kimi-ni-koi-wo-suru](https://cdn.myanimelist.net/images/anime/4/88801.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 僕はロボットごしの君に恋をする

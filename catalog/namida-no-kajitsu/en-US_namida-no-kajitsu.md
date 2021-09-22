@@ -1,5 +1,7 @@
 # Namida no Kajitsu
 
+![namida-no-kajitsu](https://cdn.myanimelist.net/images/manga/3/12192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 涙の果実

@@ -1,5 +1,7 @@
 # Kimi no Te ga Sasayaiteiru
 
+![kimi-no-te-ga-sasayaiteiru](https://cdn.myanimelist.net/images/manga/3/247836.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Kageno datte Seishun Shitai
 
+![kageno-datte-seishun-shitai](https://cdn.myanimelist.net/images/manga/2/160768.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 46

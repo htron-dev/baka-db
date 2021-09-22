@@ -1,5 +1,7 @@
 # Hidarite no Tame no Nijuusou
 
+![hidarite-no-tame-no-nijuusou](https://cdn.myanimelist.net/images/manga/1/234129.jpg)
+
 -   **type**: manga
 -   **original-name**: 左手のための二重奏
 -   **start-date**: 2019-08-17

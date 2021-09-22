@@ -1,5 +1,7 @@
 # Kasugano Koukou Josou-bu
 
+![kasugano-koukou-josou-bu](https://cdn.myanimelist.net/images/manga/1/87737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 春日野高校女装部 結城さくや女装少年アンソロジー作品集

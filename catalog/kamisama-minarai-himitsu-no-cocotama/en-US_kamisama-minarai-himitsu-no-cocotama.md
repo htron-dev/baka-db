@@ -1,5 +1,7 @@
 # Kamisama Minarai: Himitsu no Cocotama
 
+![kamisama-minarai-himitsu-no-cocotama](https://cdn.myanimelist.net/images/anime/4/84883.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 139
 -   **original-name**: かみさまみならい ヒミツのここたま
@@ -12,7 +14,6 @@
 ## Tags
 
 -   fantasy
-
 -   magic
 -   slice-of-life
 

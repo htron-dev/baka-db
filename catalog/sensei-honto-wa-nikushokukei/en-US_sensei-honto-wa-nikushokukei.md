@@ -1,5 +1,7 @@
 # Sensei Honto wa Nikushokukei?!
 
+![sensei-honto-wa-nikushokukei](https://cdn.myanimelist.net/images/manga/1/171705.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

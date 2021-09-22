@@ -1,5 +1,7 @@
 # Shinkai no Kantai: Submarine 707
 
+![shinkai-no-kantai-submarine-707](https://cdn.myanimelist.net/images/anime/6/43741.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 深海の艦隊 サブマリン 707

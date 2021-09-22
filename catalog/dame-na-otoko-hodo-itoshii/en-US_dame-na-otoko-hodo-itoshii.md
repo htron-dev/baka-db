@@ -1,5 +1,7 @@
 # Dame na Otoko hodo Itoshii
 
+![dame-na-otoko-hodo-itoshii](https://cdn.myanimelist.net/images/manga/2/29507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

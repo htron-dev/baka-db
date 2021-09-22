@@ -1,5 +1,7 @@
 # Strike Witches Movie
 
+![strike-witches-movie](https://cdn.myanimelist.net/images/anime/1133/96040.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ストライクウィッチーズ 劇場版

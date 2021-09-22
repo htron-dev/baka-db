@@ -1,5 +1,7 @@
 # Mooretsu Bambi
 
+![mooretsu-bambi](https://cdn.myanimelist.net/images/manga/1/145169.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

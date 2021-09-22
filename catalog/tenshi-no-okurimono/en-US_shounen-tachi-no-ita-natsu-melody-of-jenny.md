@@ -1,5 +1,7 @@
 # Shounen-tachi no Ita Natsu: Melody of Jenny
 
+![shounen-tachi-no-ita-natsu-melody-of-jenny](https://cdn.myanimelist.net/images/manga/3/25692.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

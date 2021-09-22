@@ -1,5 +1,7 @@
 # N.Y. Komachi
 
+![n-y-komachi](https://cdn.myanimelist.net/images/manga/2/19066.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: N. Y. 小町

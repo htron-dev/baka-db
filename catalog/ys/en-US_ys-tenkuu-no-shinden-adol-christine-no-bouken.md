@@ -1,5 +1,7 @@
 # Ys: Tenkuu no Shinden - Adol Christine no Bouken
 
+![ys-tenkuu-no-shinden-adol-christine-no-bouken](https://cdn.myanimelist.net/images/anime/1984/110828.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: Ys (イース) 天空の神殿 アドル=クリスティンの冒険
@@ -25,4 +27,4 @@ Now that Adol Christen has saved the land of Esteria from the evil priest Dark F
 -   [My Anime list](https://myanimelist.net/anime/1277/Ys__Tenkuu_no_Shinden_-_Adol_Christine_no_Bouken)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=471)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1030)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ys_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ys_%28anime%29)

@@ -1,5 +1,7 @@
 # Chou Henshin Cosprayers
 
+![chou-henshin-cosprayers](https://cdn.myanimelist.net/images/anime/5/75236.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 超変身コス ∞ プレイヤー

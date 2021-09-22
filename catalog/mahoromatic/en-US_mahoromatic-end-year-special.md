@@ -1,5 +1,7 @@
 # Mahoromatic End Year Special
 
+![mahoromatic-end-year-special](https://cdn.myanimelist.net/images/anime/3/13439.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: まほろまてぃっく 年末スペシャル

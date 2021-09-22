@@ -1,5 +1,7 @@
 # Kimi ga Aruji de Shitsuji ga Ore de
 
+![kimi-ga-aruji-de-shitsuji-ga-ore-de](https://cdn.myanimelist.net/images/anime/5/21532.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 君が主で執事が俺で

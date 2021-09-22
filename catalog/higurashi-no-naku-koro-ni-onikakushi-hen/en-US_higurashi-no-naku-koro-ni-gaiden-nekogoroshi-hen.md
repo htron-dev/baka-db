@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Gaiden: Nekogoroshi-hen
 
+![higurashi-no-naku-koro-ni-gaiden-nekogoroshi-hen](https://cdn.myanimelist.net/images/manga/2/134941.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 2

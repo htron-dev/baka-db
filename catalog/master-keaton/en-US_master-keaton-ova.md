@@ -1,5 +1,7 @@
 # Master Keaton OVA
 
+![master-keaton-ova](https://cdn.myanimelist.net/images/anime/9/14522.jpg)
+
 -   **type**: ova
 -   **episodes**: 15
 -   **original-name**: マスターキートン

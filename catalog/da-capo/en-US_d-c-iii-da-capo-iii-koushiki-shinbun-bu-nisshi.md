@@ -1,5 +1,7 @@
 # D.C.III: Da Capo III - Koushiki Shinbun-bu Nisshi
 
+![d-c-iii-da-capo-iii-koushiki-shinbun-bu-nisshi](https://cdn.myanimelist.net/images/manga/3/241818.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

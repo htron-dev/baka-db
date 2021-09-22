@@ -1,5 +1,7 @@
 # Momoiro Punch
 
+![momoiro-punch](https://cdn.myanimelist.net/images/manga/1/19637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

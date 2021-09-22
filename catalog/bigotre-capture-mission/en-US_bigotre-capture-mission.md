@@ -1,5 +1,7 @@
 # BIGOTRE Capture Mission
 
+![bigotre-capture-mission](https://cdn.myanimelist.net/images/anime/1326/107916.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: BIGOTRE Capture Mission

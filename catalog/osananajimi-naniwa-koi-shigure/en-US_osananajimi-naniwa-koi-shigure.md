@@ -1,5 +1,7 @@
 # Osananajimi - Naniwa Koi Shigure
 
+![osananajimi-naniwa-koi-shigure](https://cdn.myanimelist.net/images/manga/3/67167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おさななじみ ~ナニワ恋しぐれ~

@@ -1,5 +1,7 @@
 # Tenki no Ko
 
+![tenki-no-ko](https://cdn.myanimelist.net/images/manga/2/226128.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 天気の子

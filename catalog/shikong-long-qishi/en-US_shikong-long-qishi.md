@@ -1,5 +1,7 @@
 # Shikong Long Qishi
 
+![shikong-long-qishi](https://cdn.myanimelist.net/images/anime/1268/115363.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 时空龙骑士

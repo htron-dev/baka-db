@@ -1,5 +1,7 @@
 # Yarisugi Brothers
 
+![yarisugi-brothers](https://cdn.myanimelist.net/images/manga/2/239732.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

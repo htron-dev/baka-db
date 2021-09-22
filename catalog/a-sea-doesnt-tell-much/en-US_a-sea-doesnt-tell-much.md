@@ -1,5 +1,7 @@
 # A Sea Doesn't Tell Much
 
+![a-sea-doesnt-tell-much](https://cdn.myanimelist.net/images/anime/1793/106460.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: A sea doesn't tell much

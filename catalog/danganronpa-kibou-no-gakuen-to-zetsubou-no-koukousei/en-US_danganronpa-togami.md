@@ -1,5 +1,7 @@
 # Danganronpa Togami
 
+![danganronpa-togami](https://cdn.myanimelist.net/images/manga/3/182138.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ダンガンロンパ十神

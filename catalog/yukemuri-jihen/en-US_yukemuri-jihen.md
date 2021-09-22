@@ -1,5 +1,7 @@
 # Yukemuri Jihen
 
+![yukemuri-jihen](https://cdn.myanimelist.net/images/manga/1/190620.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Yakuza wo Shibatte Ii desu ka?
 
+![yakuza-wo-shibatte-ii-desu-ka](https://cdn.myanimelist.net/images/manga/3/232417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

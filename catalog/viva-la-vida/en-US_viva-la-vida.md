@@ -1,5 +1,7 @@
 # Viva la Vida!!
 
+![viva-la-vida](https://cdn.myanimelist.net/images/manga/3/229018.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

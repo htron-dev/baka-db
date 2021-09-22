@@ -1,5 +1,7 @@
 # Hana Buranko Yurete...
 
+![hana-buranko-yurete](https://cdn.myanimelist.net/images/manga/3/13653.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 花ぶらんこゆれて…

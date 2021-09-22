@@ -1,5 +1,7 @@
 # Densen Complex
 
+![densen-complex](https://cdn.myanimelist.net/images/manga/1/19708.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

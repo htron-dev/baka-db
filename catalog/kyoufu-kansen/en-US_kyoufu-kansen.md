@@ -1,5 +1,7 @@
 # Kyoufu Kansen
 
+![kyoufu-kansen](https://cdn.myanimelist.net/images/manga/1/131273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

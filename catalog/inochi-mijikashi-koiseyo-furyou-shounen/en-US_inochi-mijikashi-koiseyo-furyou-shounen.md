@@ -1,5 +1,7 @@
 # Inochi Mijikashi, Koiseyo Furyou Shounen!
 
+![inochi-mijikashi-koiseyo-furyou-shounen](https://cdn.myanimelist.net/images/manga/2/151979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

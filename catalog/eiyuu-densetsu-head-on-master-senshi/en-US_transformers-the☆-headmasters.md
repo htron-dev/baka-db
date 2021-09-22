@@ -1,5 +1,7 @@
 # Transformers: The☆Headmasters
 
+![transformers-the☆-headmasters](https://cdn.myanimelist.net/images/anime/1535/99038.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: トランスフォーマー ザ ☆ ヘッドマスターズ

@@ -1,5 +1,7 @@
 # Shitteru yo.
 
+![shitteru-yo](https://cdn.myanimelist.net/images/manga/4/149065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

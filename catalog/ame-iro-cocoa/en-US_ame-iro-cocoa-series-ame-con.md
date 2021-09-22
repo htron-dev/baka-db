@@ -1,5 +1,7 @@
 # Ame-iro Cocoa Series: Ame-con!!
 
+![ame-iro-cocoa-series-ame-con](https://cdn.myanimelist.net/images/anime/1165/111716.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 雨色ココアシリーズ あめこん!!

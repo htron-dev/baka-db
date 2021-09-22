@@ -1,5 +1,7 @@
 # Desperate na Reijou-tachi
 
+![desperate-na-reijou-tachi](https://cdn.myanimelist.net/images/manga/1/203003.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

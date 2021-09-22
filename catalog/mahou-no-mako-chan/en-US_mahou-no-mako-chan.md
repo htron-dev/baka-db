@@ -1,5 +1,7 @@
 # Mahou no Mako-chan
 
+![mahou-no-mako-chan](https://cdn.myanimelist.net/images/anime/7/56381.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 魔法のマコちゃん

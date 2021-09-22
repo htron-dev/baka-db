@@ -1,5 +1,7 @@
 # Mamanchu!
 
+![mamanchu](https://cdn.myanimelist.net/images/manga/2/83274.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ままんちゅ!

@@ -1,5 +1,7 @@
 # Durarara!!
 
+![durarara](https://cdn.myanimelist.net/images/anime/10/71772.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: デュラララ!!
@@ -26,7 +28,7 @@ Mikado Ryuugamine has always longed for the excitement of the city life, and an 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/6746/Durarara)
--   [Official Site](http:// http://www.durarara.com/1st/)
+-   [Official Site](http://www.durarara.com/1st/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6671)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10947)
 -   [Wikipedia](http://en.wikipedia.org/wiki/Durarara!!)

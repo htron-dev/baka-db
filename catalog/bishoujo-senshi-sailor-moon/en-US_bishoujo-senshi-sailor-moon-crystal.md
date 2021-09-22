@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon Crystal
 
+![bishoujo-senshi-sailor-moon-crystal](https://cdn.myanimelist.net/images/anime/11/60085.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 美少女戦士セーラームーン Crystal

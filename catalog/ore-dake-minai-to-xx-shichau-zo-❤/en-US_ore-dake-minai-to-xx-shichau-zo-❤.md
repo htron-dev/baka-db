@@ -1,5 +1,7 @@
 # Ore dake Minai to xx Shichau zo❤
 
+![ore-dake-minai-to-xx-shichau-zo-❤](https://cdn.myanimelist.net/images/manga/2/172252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

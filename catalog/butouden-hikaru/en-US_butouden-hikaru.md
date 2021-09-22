@@ -1,5 +1,7 @@
 # Butouden Hikaru
 
+![butouden-hikaru](https://cdn.myanimelist.net/images/manga/1/131443.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 舞闘伝火華流〈ヒカル〉

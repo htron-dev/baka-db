@@ -1,5 +1,7 @@
 # Baobao Yue Xuetang: Xiha Maoxian Dao
 
+![baobao-yue-xuetang-xiha-maoxian-dao](https://cdn.myanimelist.net/images/anime/1806/115203.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: 宝宝乐学堂之嘻哈冒险岛

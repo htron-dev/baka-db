@@ -1,5 +1,7 @@
 # One Punch Man 2nd Season Commemorative Special
 
+![one-punch-man-2nd-season-commemorative-special](https://cdn.myanimelist.net/images/anime/1968/100374.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンパンマン 2nd シーズン記念スペシャル

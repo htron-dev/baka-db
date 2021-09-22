@@ -1,5 +1,7 @@
 # Watashi to Ouji-sama
 
+![watashi-to-ouji-sama](https://cdn.myanimelist.net/images/manga/2/143539.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 私と王子様

@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch R2 Omake Flash
 
+![code-geass-hangyaku-no-lelouch-r-2-omake-flash](https://cdn.myanimelist.net/images/anime/3/26585.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: コードギアス 反逆のルルーシュ おまけ FLASH「帰ってきた BABA 劇場」

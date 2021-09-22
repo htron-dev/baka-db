@@ -1,5 +1,7 @@
 # Kuro Gal ni Natta kara Shinyuu to shitemita.
 
+![kuro-gal-ni-natta-kara-shinyuu-to-shitemita](https://cdn.myanimelist.net/images/anime/1267/111801.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 黒ギャルになったから親友としてみた。

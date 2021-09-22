@@ -1,5 +1,7 @@
 # Kanaerareta Negai
 
+![kanaerareta-negai](https://cdn.myanimelist.net/images/manga/3/37513.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

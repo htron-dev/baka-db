@@ -1,5 +1,7 @@
 # Satsujin Tantei Amatou Rouma
 
+![satsujin-tantei-amatou-rouma](https://cdn.myanimelist.net/images/manga/2/178562.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 殺人探偵・天刀狼真
 -   **start-date**: 2016-05-25

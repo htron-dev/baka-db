@@ -1,5 +1,7 @@
 # Fushigi Yuugi
 
+![fushigi-yuugi](https://cdn.myanimelist.net/images/manga/4/176259.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 106

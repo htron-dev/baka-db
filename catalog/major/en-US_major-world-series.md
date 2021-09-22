@@ -1,5 +1,7 @@
 # Major: World Series
 
+![major-world-series](https://cdn.myanimelist.net/images/anime/5/75220.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: メジャー ワールドシリーズ編
@@ -26,4 +28,4 @@ Gorou Shigeno's journey with the Indiana Hornets continues as they seek to win t
 -   [My Anime list](https://myanimelist.net/anime/11917/Major__World_Series)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8775)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13860)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Major_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Major_%28manga%29)

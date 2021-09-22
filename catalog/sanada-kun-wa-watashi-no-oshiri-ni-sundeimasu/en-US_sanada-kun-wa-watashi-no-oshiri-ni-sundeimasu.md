@@ -1,5 +1,7 @@
 # Sanada-kun wa Watashi no Oshiri ni Sundeimasu
 
+![sanada-kun-wa-watashi-no-oshiri-ni-sundeimasu](https://cdn.myanimelist.net/images/manga/1/245308.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

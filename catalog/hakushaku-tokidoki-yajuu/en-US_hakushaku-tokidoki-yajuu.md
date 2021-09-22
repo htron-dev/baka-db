@@ -1,5 +1,7 @@
 # Hakushaku Tokidoki Yajuu
 
+![hakushaku-tokidoki-yajuu](https://cdn.myanimelist.net/images/manga/1/195768.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 伯爵ときどき野獣

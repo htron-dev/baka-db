@@ -1,5 +1,7 @@
 # Shin Cosmetics no Mahou
 
+![shin-cosmetics-no-mahou](https://cdn.myanimelist.net/images/manga/3/195000.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 15

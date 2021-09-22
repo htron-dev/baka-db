@@ -1,5 +1,7 @@
 # Kyouran Kazoku Nikki
 
+![kyouran-kazoku-nikki](https://cdn.myanimelist.net/images/manga/2/125385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **chapters**: 111

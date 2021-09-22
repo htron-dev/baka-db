@@ -1,5 +1,7 @@
 # Ginsoukikou Ordian
 
+![ginsoukikou-ordian](https://cdn.myanimelist.net/images/anime/3/15415.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 銀装騎攻オーディアン

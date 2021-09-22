@@ -1,5 +1,7 @@
 # Kawaikunai ne, Kouhai-kun
 
+![kawaikunai-ne-kouhai-kun](https://cdn.myanimelist.net/images/manga/2/249252.jpg)
+
 -   **type**: manga
 -   **original-name**: 可愛くないね、後輩くん
 -   **start-date**: 2020-09-16

@@ -1,5 +1,7 @@
 # Tetsuwan Atom: Chikyuu Saigo no Hi
 
+![tetsuwan-atom-chikyuu-saigo-no-hi](https://cdn.myanimelist.net/images/anime/1876/99379.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鉄腕アトム ~地球最後の日~

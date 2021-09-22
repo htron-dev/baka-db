@@ -1,5 +1,7 @@
 # Coppelion Site Story
 
+![coppelion-site-story](https://cdn.myanimelist.net/images/manga/2/139019.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: COPPELION SITE STORY

@@ -1,5 +1,7 @@
 # Kaguya-sama wa Kokurasetai: Shuuchiin Gakuen Nanafushigi
 
+![kaguya-sama-wa-kokurasetai-shuuchiin-gakuen-nanafushigi](https://cdn.myanimelist.net/images/manga/3/215419.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

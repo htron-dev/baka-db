@@ -1,5 +1,7 @@
 # Brilliant★Blue
 
+![brilliant★-blue](https://cdn.myanimelist.net/images/manga/2/19049.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

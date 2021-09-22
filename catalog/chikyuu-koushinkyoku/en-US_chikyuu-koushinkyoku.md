@@ -1,5 +1,7 @@
 # Chikyuu Koushinkyoku
 
+![chikyuu-koushinkyoku](https://cdn.myanimelist.net/images/manga/2/34452.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

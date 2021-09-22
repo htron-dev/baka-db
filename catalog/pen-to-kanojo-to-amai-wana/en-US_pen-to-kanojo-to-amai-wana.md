@@ -1,5 +1,7 @@
 # Pen to Kanojo to Amai Wana
 
+![pen-to-kanojo-to-amai-wana](https://cdn.myanimelist.net/images/manga/2/203611.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

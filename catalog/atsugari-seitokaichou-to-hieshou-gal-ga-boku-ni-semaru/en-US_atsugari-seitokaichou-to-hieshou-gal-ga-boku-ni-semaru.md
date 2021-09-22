@@ -1,5 +1,7 @@
 # Atsugari Seitokaichou to Hieshou Gal ga Boku ni Semaru
 
+![atsugari-seitokaichou-to-hieshou-gal-ga-boku-ni-semaru](https://cdn.myanimelist.net/images/manga/1/238715.jpg)
+
 -   **type**: manga
 -   **original-name**: 暑がり生徒会長と冷え性ギャルが僕に迫る
 -   **start-date**: 2019-08-24

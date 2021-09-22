@@ -1,5 +1,7 @@
 # Konno-san to Asobou
 
+![konno-san-to-asobou](https://cdn.myanimelist.net/images/manga/3/127941.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 紺野さんと遊ぼう

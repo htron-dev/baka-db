@@ -1,5 +1,7 @@
 # Lost 10: 10-nen no Kioku wo Nakushita Koibito
 
+![lost-10-10-nen-no-kioku-wo-nakushita-koibito](https://cdn.myanimelist.net/images/manga/3/174433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

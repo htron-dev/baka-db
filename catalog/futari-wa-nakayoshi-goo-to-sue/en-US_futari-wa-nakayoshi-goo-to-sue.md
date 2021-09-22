@@ -1,5 +1,7 @@
 # Futari wa Nakayoshi: Goo to Sue
 
+![futari-wa-nakayoshi-goo-to-sue](https://cdn.myanimelist.net/images/anime/12/72126.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 84
 -   **original-name**: ふたりはなかよし グーとスー

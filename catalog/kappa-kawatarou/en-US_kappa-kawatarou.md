@@ -1,5 +1,7 @@
 # Kappa Kawatarou
 
+![kappa-kawatarou](https://cdn.myanimelist.net/images/anime/10/71724.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かっぱ川太郎

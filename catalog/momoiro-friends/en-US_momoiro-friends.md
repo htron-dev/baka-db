@@ -1,5 +1,7 @@
 # Momoiro Friends
 
+![momoiro-friends](https://cdn.myanimelist.net/images/manga/5/27779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ももいろフレンズ

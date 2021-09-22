@@ -1,5 +1,7 @@
 # Osiris no Tenbin
 
+![osiris-no-tenbin](https://cdn.myanimelist.net/images/anime/10/75432.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: オシリスの天秤

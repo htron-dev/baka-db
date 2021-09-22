@@ -1,5 +1,7 @@
 # Kirepapa.
 
+![kirepapa](https://cdn.myanimelist.net/images/anime/8/31421.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: キレパパ。

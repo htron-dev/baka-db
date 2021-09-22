@@ -1,5 +1,7 @@
 # Mitsuboshi Love Days
 
+![mitsuboshi-love-days](https://cdn.myanimelist.net/images/manga/2/147265.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

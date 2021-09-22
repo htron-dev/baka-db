@@ -1,5 +1,7 @@
 # SF Shinseiki Lensman
 
+![sf-shinseiki-lensman](https://cdn.myanimelist.net/images/anime/4/35347.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: SF 新世紀 レンズマン

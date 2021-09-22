@@ -1,5 +1,7 @@
 # Yuusha ni Kitaishita Boku ga Baka deshita
 
+![yuusha-ni-kitaishita-boku-ga-baka-deshita](https://cdn.myanimelist.net/images/manga/1/178566.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者に期待した僕がバカでした
 -   **start-date**: 2016-06-17

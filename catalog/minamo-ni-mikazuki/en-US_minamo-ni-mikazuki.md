@@ -1,5 +1,7 @@
 # Minamo ni Mikazuki
 
+![minamo-ni-mikazuki](https://cdn.myanimelist.net/images/manga/1/150622.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

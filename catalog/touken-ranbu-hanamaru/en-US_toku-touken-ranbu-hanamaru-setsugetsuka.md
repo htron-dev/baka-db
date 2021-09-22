@@ -1,5 +1,7 @@
 # Toku: Touken Ranbu - Hanamaru - Setsugetsuka
 
+![toku-touken-ranbu-hanamaru-setsugetsuka](https://cdn.myanimelist.net/images/anime/1978/111973.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: 特『刀剣乱舞-花丸-』～雪月華～

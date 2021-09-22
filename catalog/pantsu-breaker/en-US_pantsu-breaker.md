@@ -1,5 +1,7 @@
 # Pantsu Breaker
 
+![pantsu-breaker](https://cdn.myanimelist.net/images/manga/2/164082.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 23

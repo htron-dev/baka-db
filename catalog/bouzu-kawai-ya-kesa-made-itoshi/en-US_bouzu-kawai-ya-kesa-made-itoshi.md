@@ -1,5 +1,7 @@
 # Bouzu Kawai ya Kesa made Itoshi
 
+![bouzu-kawai-ya-kesa-made-itoshi](https://cdn.myanimelist.net/images/manga/1/109569.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

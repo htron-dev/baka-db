@@ -1,5 +1,7 @@
 # Seiketsu no Haguruma
 
+![seiketsu-no-haguruma](https://cdn.myanimelist.net/images/manga/3/107285.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

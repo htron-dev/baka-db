@@ -1,5 +1,7 @@
 # Amayakana Toge
 
+![amayakana-toge](https://cdn.myanimelist.net/images/manga/4/8870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

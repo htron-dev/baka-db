@@ -1,5 +1,7 @@
 # Gakuen Crisis!
 
+![gakuen-crisis](https://cdn.myanimelist.net/images/manga/1/87653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

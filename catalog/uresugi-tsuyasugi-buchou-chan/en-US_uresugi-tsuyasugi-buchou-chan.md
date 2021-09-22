@@ -1,5 +1,7 @@
 # Uresugi!! Tsuyasugi!? Buchou-chan
 
+![uresugi-tsuyasugi-buchou-chan](https://cdn.myanimelist.net/images/manga/2/211226.jpg)
+
 -   **type**: manga
 -   **original-name**: 熟れすぎ!! 艶すぎ!? 部長ちゃん
 -   **start-date**: 2018-02-20

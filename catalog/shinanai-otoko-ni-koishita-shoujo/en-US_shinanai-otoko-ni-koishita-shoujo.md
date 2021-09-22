@@ -1,5 +1,7 @@
 # Shinanai Otoko ni Koishita Shoujo
 
+![shinanai-otoko-ni-koishita-shoujo](https://cdn.myanimelist.net/images/manga/1/163576.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 41

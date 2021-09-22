@@ -1,5 +1,7 @@
 # Chiko no Negai
 
+![chiko-no-negai](https://cdn.myanimelist.net/images/manga/1/4693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

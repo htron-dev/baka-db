@@ -1,5 +1,7 @@
 # Marmalade Boy Little
 
+![marmalade-boy-little](https://cdn.myanimelist.net/images/manga/2/166223.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 48

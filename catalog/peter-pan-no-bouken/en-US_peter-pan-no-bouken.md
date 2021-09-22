@@ -1,5 +1,7 @@
 # Peter Pan no Bouken
 
+![peter-pan-no-bouken](https://cdn.myanimelist.net/images/anime/13/40391.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 41
 -   **original-name**: ピーターパンの冒険

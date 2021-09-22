@@ -1,5 +1,7 @@
 # Kyoukai no Kanata: Shinonome
 
+![kyoukai-no-kanata-shinonome](https://cdn.myanimelist.net/images/anime/2/63205.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 境界の彼方 ＃0「東雲」

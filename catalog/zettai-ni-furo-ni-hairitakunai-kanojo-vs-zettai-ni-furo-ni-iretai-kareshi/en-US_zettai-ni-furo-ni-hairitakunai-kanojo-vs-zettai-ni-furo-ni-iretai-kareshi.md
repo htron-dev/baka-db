@@ -1,5 +1,7 @@
 # Zettai ni Furo ni Hairitakunai Kanojo VS Zettai ni Furo ni Iretai Kareshi
 
+![zettai-ni-furo-ni-hairitakunai-kanojo-vs-zettai-ni-furo-ni-iretai-kareshi](https://cdn.myanimelist.net/images/manga/2/241277.jpg)
+
 -   **type**: manga
 -   **original-name**: 絶対に風呂に入りたくない彼女 VS 絶対に風呂に入れたい彼氏
 -   **start-date**: 2020-05-22

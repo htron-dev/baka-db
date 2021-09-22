@@ -1,5 +1,7 @@
 # Higashi Asia Bunka Toshi 2019 Toshima
 
+![higashi-asia-bunka-toshi-2019-toshima](https://cdn.myanimelist.net/images/anime/1194/96195.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 東アジア文化都市 2019 豊島

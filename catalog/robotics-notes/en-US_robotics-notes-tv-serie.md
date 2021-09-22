@@ -1,5 +1,7 @@
 # Robotics;Notes
 
+![robotics-notes](https://cdn.myanimelist.net/images/anime/10/42013.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ロボティクス・ノーツ

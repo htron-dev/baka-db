@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Namekuji no Shoujo
 
+![ito-junji-kyoufu-manga-collection-namekuji-no-shoujo](https://cdn.myanimelist.net/images/manga/1/185642.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

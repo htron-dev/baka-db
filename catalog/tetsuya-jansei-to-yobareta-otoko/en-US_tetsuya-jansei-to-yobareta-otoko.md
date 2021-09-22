@@ -1,5 +1,7 @@
 # Tetsuya: Jansei to Yobareta Otoko
 
+![tetsuya-jansei-to-yobareta-otoko](https://cdn.myanimelist.net/images/manga/1/75597.jpg)
+
 -   **type**: manga
 -   **volumes**: 41
 -   **chapters**: 339

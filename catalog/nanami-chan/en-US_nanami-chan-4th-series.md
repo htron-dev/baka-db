@@ -1,5 +1,7 @@
 # Nanami-chan 4th Series
 
+![nanami-chan-4th-series](https://cdn.myanimelist.net/images/anime/1462/103064.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: ななみちゃん 第 4 シリーズ

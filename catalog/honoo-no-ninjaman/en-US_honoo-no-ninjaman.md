@@ -1,5 +1,7 @@
 # Honoo no Ninjaman
 
+![honoo-no-ninjaman](https://cdn.myanimelist.net/images/manga/2/127069.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

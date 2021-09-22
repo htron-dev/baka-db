@@ -1,5 +1,7 @@
 # Boku dake Shitteru Ichimiya-san
 
+![boku-dake-shitteru-ichimiya-san](https://cdn.myanimelist.net/images/manga/2/198692.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

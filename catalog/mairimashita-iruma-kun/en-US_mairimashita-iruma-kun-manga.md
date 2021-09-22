@@ -1,5 +1,7 @@
 # Mairimashita! Iruma-kun
 
+![mairimashita-iruma-kun](https://cdn.myanimelist.net/images/manga/1/198066.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔入りました！入間くん
 -   **start-date**: 2017-03-02

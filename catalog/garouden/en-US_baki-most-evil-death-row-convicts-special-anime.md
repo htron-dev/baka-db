@@ -1,5 +1,7 @@
 # Baki: Most Evil Death Row Convicts Special Anime
 
+![baki-most-evil-death-row-convicts-special-anime](https://cdn.myanimelist.net/images/anime/7/82055.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バキ 最凶死刑囚編 SP(スペシャル)アニメ

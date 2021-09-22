@@ -1,5 +1,7 @@
 # Ken to Mahou no Logres: Inishie no Megami x Fate/Extella
 
+![ken-to-mahou-no-logres-inishie-no-megami-x-fate-extella](https://cdn.myanimelist.net/images/anime/1926/97011.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 剣と魔法のログレス いにしえの女神 ×Fate/EXTELLA
@@ -18,4 +20,4 @@ A collaboration between the mobile game Ken to Mahou no Logless Inishie no Megam
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/38784/Ken_to_Mahou_no_Logres__Inishie_no_Megami_x_Fate_Extella)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%95%E3%83%88_(%E3%82%A2%E3%83%8B%E3%83%A1%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%95%E3%83%88_%28%E3%82%A2%E3%83%8B%E3%83%A1%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE%29)

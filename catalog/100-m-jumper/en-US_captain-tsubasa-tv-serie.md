@@ -1,5 +1,7 @@
 # Captain Tsubasa
 
+![captain-tsubasa](https://cdn.myanimelist.net/images/anime/9/26248.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 128
 -   **original-name**: キャプテン翼

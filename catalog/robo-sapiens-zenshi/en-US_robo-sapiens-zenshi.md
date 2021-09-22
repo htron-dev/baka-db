@@ -1,5 +1,7 @@
 # Robo sapiens Zenshi
 
+![robo-sapiens-zenshi](https://cdn.myanimelist.net/images/manga/1/226233.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

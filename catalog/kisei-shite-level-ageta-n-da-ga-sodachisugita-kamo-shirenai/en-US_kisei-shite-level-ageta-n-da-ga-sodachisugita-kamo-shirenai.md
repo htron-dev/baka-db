@@ -1,5 +1,7 @@
 # Kisei shite Level-ageta n da ga, Sodachisugita kamo Shirenai
 
+![kisei-shite-level-ageta-n-da-ga-sodachisugita-kamo-shirenai](https://cdn.myanimelist.net/images/manga/2/184862.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 寄生してレベル上げたんだが、育ちすぎたかもしれない
 -   **start-date**: 2016-11-10

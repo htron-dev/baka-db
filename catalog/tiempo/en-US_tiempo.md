@@ -1,5 +1,7 @@
 # Tiempo
 
+![tiempo](https://cdn.myanimelist.net/images/manga/3/223412.jpg)
+
 -   **type**: manga
 -   **original-name**: TIEMPO-ティエンポ-
 -   **start-date**: 2018-08-09

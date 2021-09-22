@@ -1,5 +1,7 @@
 # Suki shika Shiranai
 
+![suki-shika-shiranai](https://cdn.myanimelist.net/images/manga/1/32569.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 好きしか知らない

@@ -1,5 +1,7 @@
 # 10-manbun no 1
 
+![10-manbun-no-1](https://cdn.myanimelist.net/images/manga/2/186351.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 37

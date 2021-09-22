@@ -1,5 +1,7 @@
 # Chou Futsuu Toshi Kashiwa Densetsu R
 
+![chou-futsuu-toshi-kashiwa-densetsu-r](https://cdn.myanimelist.net/images/anime/1113/113865.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 超普通都市カシワ伝説 R

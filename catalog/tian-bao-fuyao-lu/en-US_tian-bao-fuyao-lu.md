@@ -1,5 +1,7 @@
 # Tian Bao Fuyao Lu
 
+![tian-bao-fuyao-lu](https://cdn.myanimelist.net/images/anime/1432/105225.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 天宝伏妖录

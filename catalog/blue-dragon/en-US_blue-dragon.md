@@ -1,5 +1,7 @@
 # Blue Dragon
 
+![blue-dragon](https://cdn.myanimelist.net/images/anime/2/20597.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ブルー・ドラゴン

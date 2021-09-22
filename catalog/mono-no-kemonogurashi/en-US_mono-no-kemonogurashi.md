@@ -1,5 +1,7 @@
 # Mono no Kemonogurashi
 
+![mono-no-kemonogurashi](https://cdn.myanimelist.net/images/manga/3/247818.jpg)
+
 -   **type**: manga
 -   **original-name**: モノのケものぐらし
 -   **start-date**: 2020-07-31

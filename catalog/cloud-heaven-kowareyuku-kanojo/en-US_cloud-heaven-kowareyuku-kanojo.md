@@ -1,5 +1,7 @@
 # Cloud Heaven: Kowareyuku Kanojo
 
+![cloud-heaven-kowareyuku-kanojo](https://cdn.myanimelist.net/images/manga/3/190053.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

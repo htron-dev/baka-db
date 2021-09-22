@@ -1,5 +1,7 @@
 # Classmate, Kamimura Yuuka wa Kou Itta.
 
+![classmate-kamimura-yuuka-wa-kou-itta](https://cdn.myanimelist.net/images/manga/1/188873.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

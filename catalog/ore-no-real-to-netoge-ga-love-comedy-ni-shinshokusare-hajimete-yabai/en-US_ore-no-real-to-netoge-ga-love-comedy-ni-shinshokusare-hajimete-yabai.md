@@ -1,5 +1,7 @@
 # Ore no Real to Netoge ga Love Comedy ni Shinshokusare Hajimete Yabai
 
+![ore-no-real-to-netoge-ga-love-comedy-ni-shinshokusare-hajimete-yabai](https://cdn.myanimelist.net/images/manga/2/159217.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 57

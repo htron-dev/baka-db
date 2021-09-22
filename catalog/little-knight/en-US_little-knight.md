@@ -1,5 +1,7 @@
 # Little Knight
 
+![little-knight](https://cdn.myanimelist.net/images/manga/2/225413.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

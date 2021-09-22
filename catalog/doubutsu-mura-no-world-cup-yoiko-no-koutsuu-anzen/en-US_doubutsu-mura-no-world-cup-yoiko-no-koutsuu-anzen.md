@@ -1,5 +1,7 @@
 # Doubutsu Mura no World Cup: Yoiko no Koutsuu Anzen
 
+![doubutsu-mura-no-world-cup-yoiko-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1434/99726.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: どうぶつ村のワールドカップ〜よい子のこうつうあんぜん〜

@@ -1,5 +1,7 @@
 # Nokorimono ni wa Ai ga Aru!?
 
+![nokorimono-ni-wa-ai-ga-aru](https://cdn.myanimelist.net/images/manga/2/36593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

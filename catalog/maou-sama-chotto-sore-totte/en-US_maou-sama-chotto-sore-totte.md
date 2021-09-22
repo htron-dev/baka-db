@@ -1,5 +1,7 @@
 # Maou-sama Chotto Sore Totte!!
 
+![maou-sama-chotto-sore-totte](https://cdn.myanimelist.net/images/manga/1/164111.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 71

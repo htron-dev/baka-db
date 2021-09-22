@@ -1,5 +1,7 @@
 # Kaibutsu Oujo: Konsui Oujo
 
+![kaibutsu-oujo-konsui-oujo](https://cdn.myanimelist.net/images/anime/13/22440.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 怪物王女　第 26 話「昏睡王女」

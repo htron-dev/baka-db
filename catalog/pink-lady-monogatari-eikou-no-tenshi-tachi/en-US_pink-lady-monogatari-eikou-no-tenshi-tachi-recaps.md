@@ -1,5 +1,7 @@
 # Pink Lady Monogatari: Eikou no Tenshi-tachi Recaps
 
+![pink-lady-monogatari-eikou-no-tenshi-tachi-recaps](https://cdn.myanimelist.net/images/anime/12/65121.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ピンク・レディー物語 栄光の天使たち総集編

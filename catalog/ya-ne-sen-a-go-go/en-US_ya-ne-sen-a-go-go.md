@@ -1,5 +1,7 @@
 # Ya-Ne-Sen a Go Go
 
+![ya-ne-sen-a-go-go](https://cdn.myanimelist.net/images/anime/1397/96395.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: YA-NE-SEN a Go Go

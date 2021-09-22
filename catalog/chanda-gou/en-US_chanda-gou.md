@@ -1,5 +1,7 @@
 # Chanda Gou
 
+![chanda-gou](https://cdn.myanimelist.net/images/anime/10/71309.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チャンダ号

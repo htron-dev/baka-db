@@ -1,5 +1,7 @@
 # Hoeru Maryuu no Barbacoa
 
+![hoeru-maryuu-no-barbacoa](https://cdn.myanimelist.net/images/manga/2/140205.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 37

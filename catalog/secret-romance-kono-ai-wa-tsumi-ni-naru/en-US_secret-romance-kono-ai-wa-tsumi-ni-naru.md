@@ -1,5 +1,7 @@
 # Secret Romance: Kono Ai wa Tsumi ni Naru
 
+![secret-romance-kono-ai-wa-tsumi-ni-naru](https://cdn.myanimelist.net/images/manga/2/193092.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

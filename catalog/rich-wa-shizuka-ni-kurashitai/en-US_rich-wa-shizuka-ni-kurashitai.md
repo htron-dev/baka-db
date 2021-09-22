@@ -1,5 +1,7 @@
 # Rich wa Shizuka ni Kurashitai
 
+![rich-wa-shizuka-ni-kurashitai](https://cdn.myanimelist.net/images/manga/1/173365.jpg)
+
 -   **type**: light-novel
 -   **original-name**: リッチは静かに暮らしたい
 -   **start-date**: 2016-03-15

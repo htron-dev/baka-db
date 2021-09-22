@@ -1,5 +1,7 @@
 # Seiten Gold Fish
 
+![seiten-gold-fish](https://cdn.myanimelist.net/images/manga/3/89453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 青天ゴールドフィッシュ

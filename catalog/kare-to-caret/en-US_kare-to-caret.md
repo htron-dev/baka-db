@@ -1,5 +1,7 @@
 # Kare to Caret.
 
+![kare-to-caret](https://cdn.myanimelist.net/images/manga/1/227451.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 彼とカレット。

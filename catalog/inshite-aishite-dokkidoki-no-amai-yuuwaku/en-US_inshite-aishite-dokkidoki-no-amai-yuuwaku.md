@@ -1,5 +1,7 @@
 # Inshite, Aishite: Dokkidoki no Amai Yuuwaku
 
+![inshite-aishite-dokkidoki-no-amai-yuuwaku](https://cdn.myanimelist.net/images/manga/3/193488.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

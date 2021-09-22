@@ -1,5 +1,7 @@
 # Ascalon
 
+![ascalon](https://cdn.myanimelist.net/images/manga/3/26357.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 아스카론

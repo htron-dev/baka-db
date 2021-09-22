@@ -1,5 +1,7 @@
 # Kinyoru, Abe Reiji: Heikinteki na Salaryman no Ijou na Nichijou (ONA)
 
+![kinyoru-abe-reiji-heikinteki-na-salaryman-no-ijou-na-nichijou-ona](https://cdn.myanimelist.net/images/anime/13/77770.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 金夜、安部礼司～平均的サラリーマンの異常な日常～

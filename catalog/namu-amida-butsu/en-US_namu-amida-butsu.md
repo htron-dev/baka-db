@@ -1,5 +1,7 @@
 # Namu Amida Butsu!
 
+![namu-amida-butsu](https://cdn.myanimelist.net/images/manga/2/226500.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

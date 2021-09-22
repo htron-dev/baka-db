@@ -1,5 +1,7 @@
 # Watashi Igai to no Love Comedy wa Yurusanai n Dakara ne
 
+![watashi-igai-to-no-love-comedy-wa-yurusanai-n-dakara-ne](https://cdn.myanimelist.net/images/manga/2/243883.jpg)
+
 -   **type**: light-novel
 -   **original-name**: わたし以外とのラブコメは許さないんだからね
 -   **start-date**: 2020-09-10

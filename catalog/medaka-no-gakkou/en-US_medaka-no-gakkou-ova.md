@@ -1,5 +1,7 @@
 # Medaka no Gakkou
 
+![medaka-no-gakkou](https://cdn.myanimelist.net/images/anime/12/26327.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: めだかの学校
@@ -24,4 +26,4 @@ But she finds that his school looks a bit strange. For example, Pochi is such a 
 -   [My Anime list](https://myanimelist.net/anime/9519/Medaka_no_Gakkou)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2259)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9417)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E3%82%81%E3%81%A0%E3%81%8B%E3%81%AE%E5%AD%A6%E6%A0%A1_(%E6%BC%AB%E7%94%BB)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E3%82%81%E3%81%A0%E3%81%8B%E3%81%AE%E5%AD%A6%E6%A0%A1_%28%E6%BC%AB%E7%94%BB%29)

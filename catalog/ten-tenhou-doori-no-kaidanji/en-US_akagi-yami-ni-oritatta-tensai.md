@@ -1,5 +1,7 @@
 # Akagi: Yami ni Oritatta Tensai
 
+![akagi-yami-ni-oritatta-tensai](https://cdn.myanimelist.net/images/manga/2/191155.jpg)
+
 -   **type**: manga
 -   **volumes**: 36
 -   **chapters**: 306

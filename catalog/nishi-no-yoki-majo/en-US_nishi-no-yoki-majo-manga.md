@@ -1,5 +1,7 @@
 # Nishi no Yoki Majo
 
+![nishi-no-yoki-majo](https://cdn.myanimelist.net/images/manga/3/140421.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 39

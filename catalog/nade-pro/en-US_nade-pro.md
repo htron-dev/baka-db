@@ -1,5 +1,7 @@
 # Nade Pro!!
 
+![nade-pro](https://cdn.myanimelist.net/images/manga/4/91829.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

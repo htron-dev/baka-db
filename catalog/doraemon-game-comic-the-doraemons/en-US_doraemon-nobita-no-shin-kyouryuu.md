@@ -1,5 +1,7 @@
 # Doraemon: Nobita no Shin Kyouryuu
 
+![doraemon-nobita-no-shin-kyouryuu](https://cdn.myanimelist.net/images/manga/2/221983.jpg)
+
 -   **type**: manga
 -   **original-name**: 映画ドラえもん のび太の新恐竜
 -   **start-date**: 2019-09-14
@@ -8,7 +10,6 @@
 
 -   adventure
 -   comedy
-
 -   sci-fi
 -   shounen
 

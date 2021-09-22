@@ -1,5 +1,7 @@
 # Hidamari Sketch Recap
 
+![hidamari-sketch-recap](https://cdn.myanimelist.net/images/anime/5/71503.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ひだまりスケッチ

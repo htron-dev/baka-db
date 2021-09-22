@@ -1,5 +1,7 @@
 # Tales of Symphonia The Animation: Tethe'alla-hen
 
+![tales-of-symphonia-the-animation-tethealla-hen](https://cdn.myanimelist.net/images/anime/9/23211.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: テイルズ オブ シンフォニア THE ANIMATION テセアラ編

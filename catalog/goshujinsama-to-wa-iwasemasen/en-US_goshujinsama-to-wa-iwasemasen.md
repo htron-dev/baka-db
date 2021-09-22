@@ -1,5 +1,7 @@
 # Goshujinsama to wa Iwasemasen!
 
+![goshujinsama-to-wa-iwasemasen](https://cdn.myanimelist.net/images/manga/1/223117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

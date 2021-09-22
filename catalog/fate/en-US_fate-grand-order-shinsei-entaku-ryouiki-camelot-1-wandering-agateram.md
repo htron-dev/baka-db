@@ -1,5 +1,7 @@
 # Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram
 
+![fate-grand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram](https://cdn.myanimelist.net/images/anime/1535/103385.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 Fate/Grand Order -神聖円卓領域キャメロット- Wandering; Agateram

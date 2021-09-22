@@ -1,5 +1,7 @@
 # Spirit Circle
 
+![spirit-circle](https://cdn.myanimelist.net/images/manga/2/161198.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 45

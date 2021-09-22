@@ -1,5 +1,7 @@
 # Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: Other School Days
 
+![youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-other-school-days](https://cdn.myanimelist.net/images/manga/2/247951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Metal Fight Beyblade vs. Taiyou: Shakunetsu no Shinryakusha Sol Blaze
 
+![metal-fight-beyblade-vs-taiyou-shakunetsu-no-shinryakusha-sol-blaze](https://cdn.myanimelist.net/images/anime/8/26283.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版メタルファイト ベイブレード VS 太陽 ～灼熱の侵略者ソルブレイズ～

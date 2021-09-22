@@ -1,5 +1,7 @@
 # Marulk-chan no Nichijou
 
+![marulk-chan-no-nichijou](https://cdn.myanimelist.net/images/anime/1751/105565.jpg)
+
 -   **type**: movie
 -   **episodes**: 4
 -   **original-name**: マルルクちゃんの日常

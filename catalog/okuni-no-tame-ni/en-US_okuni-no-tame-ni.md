@@ -1,5 +1,7 @@
 # Okuni no Tame ni
 
+![okuni-no-tame-ni](https://cdn.myanimelist.net/images/anime/9/71029.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 御国の為に

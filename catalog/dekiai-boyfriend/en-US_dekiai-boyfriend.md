@@ -1,5 +1,7 @@
 # Dekiai Boyfriend
 
+![dekiai-boyfriend](https://cdn.myanimelist.net/images/manga/2/246747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

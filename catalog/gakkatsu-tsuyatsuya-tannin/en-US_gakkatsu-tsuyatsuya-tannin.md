@@ -1,5 +1,7 @@
 # Gakkatsu!! Tsuyatsuya Tannin
 
+![gakkatsu-tsuyatsuya-tannin](https://cdn.myanimelist.net/images/manga/1/154631.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 学活!!つやつや担任

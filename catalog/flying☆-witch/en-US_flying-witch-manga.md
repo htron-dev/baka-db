@@ -1,5 +1,7 @@
 # Flying Witch
 
+![flying-witch](https://cdn.myanimelist.net/images/manga/1/116515.jpg)
+
 -   **type**: manga
 -   **original-name**: ふらいんぐうぃっち
 -   **start-date**: 2012-08-09

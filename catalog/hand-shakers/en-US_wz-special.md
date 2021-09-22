@@ -1,5 +1,7 @@
 # W'z Special
 
+![wz-special](https://cdn.myanimelist.net/images/anime/1102/96165.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ウィズ

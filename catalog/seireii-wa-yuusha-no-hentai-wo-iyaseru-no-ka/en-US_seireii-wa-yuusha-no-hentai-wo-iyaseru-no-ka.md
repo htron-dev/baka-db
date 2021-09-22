@@ -1,5 +1,7 @@
 # Seireii wa Yuusha no Hentai wo Iyaseru no ka!?
 
+![seireii-wa-yuusha-no-hentai-wo-iyaseru-no-ka](https://cdn.myanimelist.net/images/manga/3/162527.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Hotel Gigantcastle e Youkoso
 
+![hotel-gigantcastle-e-youkoso](https://cdn.myanimelist.net/images/manga/1/195779.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

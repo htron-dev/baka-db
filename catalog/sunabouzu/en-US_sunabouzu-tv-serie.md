@@ -1,5 +1,7 @@
 # Sunabouzu
 
+![sunabouzu](https://cdn.myanimelist.net/images/anime/6/75536.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 砂ぼうず

@@ -1,5 +1,7 @@
 # Baby Baby
 
+![baby-baby](https://cdn.myanimelist.net/images/manga/1/178168.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

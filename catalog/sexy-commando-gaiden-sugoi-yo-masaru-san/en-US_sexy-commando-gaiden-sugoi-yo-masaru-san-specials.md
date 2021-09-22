@@ -1,5 +1,7 @@
 # Sexy Commando Gaiden: Sugoi yo!! Masaru-san Specials
 
+![sexy-commando-gaiden-sugoi-yo-masaru-san-specials](https://cdn.myanimelist.net/images/anime/7/33729.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: セクシーコマンドー外伝 すごいよ!! マサルさん

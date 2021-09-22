@@ -1,5 +1,7 @@
 # Kenshuui wa Koakuma to Odoru
 
+![kenshuui-wa-koakuma-to-odoru](https://cdn.myanimelist.net/images/manga/1/88753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

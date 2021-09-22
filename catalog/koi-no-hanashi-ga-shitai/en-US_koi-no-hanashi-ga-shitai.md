@@ -1,5 +1,7 @@
 # Koi no Hanashi ga Shitai
 
+![koi-no-hanashi-ga-shitai](https://cdn.myanimelist.net/images/manga/1/25708.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

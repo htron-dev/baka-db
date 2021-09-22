@@ -1,5 +1,7 @@
 # Houkago Re-Trip
 
+![houkago-re-trip](https://cdn.myanimelist.net/images/manga/2/206221.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

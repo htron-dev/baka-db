@@ -1,5 +1,7 @@
 # Gintama.: Shirogane no Tamashii-hen - Kouhan-sen
 
+![gintama-shirogane-no-tamashii-hen-kouhan-sen](https://cdn.myanimelist.net/images/anime/1776/96566.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: 銀魂. 銀ノ魂篇 後半戦

@@ -1,5 +1,7 @@
 # Ogihana Shiki wa Aseta Sekai de Ghost wo Miru
 
+![ogihana-shiki-wa-aseta-sekai-de-ghost-wo-miru](https://cdn.myanimelist.net/images/manga/1/184334.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Super Shiro
 
+![super-shiro](https://cdn.myanimelist.net/images/anime/1555/103542.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: SUPER SHIRO (スーパーシロ)

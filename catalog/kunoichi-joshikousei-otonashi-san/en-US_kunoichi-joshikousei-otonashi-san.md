@@ -1,5 +1,7 @@
 # Kunoichi Joshikousei Otonashi-san
 
+![kunoichi-joshikousei-otonashi-san](https://cdn.myanimelist.net/images/manga/1/131077.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 70

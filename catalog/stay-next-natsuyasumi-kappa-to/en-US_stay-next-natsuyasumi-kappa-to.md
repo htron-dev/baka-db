@@ -1,5 +1,7 @@
 # Stay Next Natsuyasumi Kappa to
 
+![stay-next-natsuyasumi-kappa-to](https://cdn.myanimelist.net/images/manga/1/85617.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: STAY ネクスト夏休みカッパと

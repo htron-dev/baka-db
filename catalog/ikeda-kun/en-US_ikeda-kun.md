@@ -1,5 +1,7 @@
 # Ikeda-kun
 
+![ikeda-kun](https://cdn.myanimelist.net/images/manga/3/236744.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

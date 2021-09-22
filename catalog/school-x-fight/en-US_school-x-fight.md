@@ -1,5 +1,7 @@
 # School x Fight
 
+![school-x-fight](https://cdn.myanimelist.net/images/manga/3/14032.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: スクール × ファイト

@@ -1,5 +1,7 @@
 # Hakuouki Reimeiroku Tokuten Disc
 
+![hakuouki-reimeiroku-tokuten-disc](https://cdn.myanimelist.net/images/anime/11/50239.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 薄桜鬼　黎明録　特典ディスク

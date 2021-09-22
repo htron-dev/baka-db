@@ -1,5 +1,7 @@
 # Gochuumon wa Usagi desu ka? Anthology Comic
 
+![gochuumon-wa-usagi-desu-ka-anthology-comic](https://cdn.myanimelist.net/images/manga/2/155239.jpg)
+
 -   **type**: manga
 -   **original-name**: ご注文はうさぎですか? アンソロジーコミック
 -   **start-date**: 2014-04-26

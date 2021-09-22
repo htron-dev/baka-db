@@ -1,5 +1,7 @@
 # Koori no Daifugou to Barairo no Yume
 
+![koori-no-daifugou-to-barairo-no-yume](https://cdn.myanimelist.net/images/manga/2/192277.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 氷の大富豪と薔薇色の夢

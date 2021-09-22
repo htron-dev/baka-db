@@ -1,5 +1,7 @@
 # Katsura Hime
 
+![katsura-hime](https://cdn.myanimelist.net/images/anime/12/68569.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かつら姫

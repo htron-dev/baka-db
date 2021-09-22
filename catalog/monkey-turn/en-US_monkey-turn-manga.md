@@ -1,5 +1,7 @@
 # Monkey Turn
 
+![monkey-turn](https://cdn.myanimelist.net/images/manga/3/43755.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **chapters**: 385

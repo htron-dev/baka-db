@@ -1,5 +1,7 @@
 # Zero
 
+![zero](https://cdn.myanimelist.net/images/manga/2/11366.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **chapters**: 70

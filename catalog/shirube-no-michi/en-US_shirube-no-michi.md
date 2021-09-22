@@ -1,5 +1,7 @@
 # Shirube no Michi
 
+![shirube-no-michi](https://cdn.myanimelist.net/images/manga/2/77867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

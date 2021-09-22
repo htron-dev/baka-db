@@ -1,5 +1,7 @@
 # Inou-Battle wa Nichijou-kei no Naka de
 
+![inou-battle-wa-nichijou-kei-no-naka-de](https://cdn.myanimelist.net/images/manga/3/205642.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 118

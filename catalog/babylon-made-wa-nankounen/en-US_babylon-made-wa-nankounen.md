@@ -1,5 +1,7 @@
 # Babylon made wa Nankounen?
 
+![babylon-made-wa-nankounen](https://cdn.myanimelist.net/images/manga/2/222052.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Bouken Yuuki Pluster World
 
+![bouken-yuuki-pluster-world](https://cdn.myanimelist.net/images/anime/10/21145.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 冒険遊記プラスターワールド

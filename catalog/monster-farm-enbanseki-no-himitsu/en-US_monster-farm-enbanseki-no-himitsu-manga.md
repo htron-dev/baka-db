@@ -1,5 +1,7 @@
 # Monster Farm: Enbanseki no Himitsu
 
+![monster-farm-enbanseki-no-himitsu](https://cdn.myanimelist.net/images/manga/2/91771.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: モンスターファーム ～円盤石の秘密～

@@ -1,5 +1,7 @@
 # Skyhigh: Shinshou
 
+![skyhigh-shinshou](https://cdn.myanimelist.net/images/manga/3/128401.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

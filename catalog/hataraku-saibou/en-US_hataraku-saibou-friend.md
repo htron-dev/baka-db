@@ -1,5 +1,7 @@
 # Hataraku Saibou Friend
 
+![hataraku-saibou-friend](https://cdn.myanimelist.net/images/manga/1/222620.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

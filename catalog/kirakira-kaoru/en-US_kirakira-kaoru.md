@@ -1,5 +1,7 @@
 # Kirakira Kaoru
 
+![kirakira-kaoru](https://cdn.myanimelist.net/images/manga/3/32629.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: きらきら馨る

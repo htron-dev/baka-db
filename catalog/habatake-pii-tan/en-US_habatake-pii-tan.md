@@ -1,5 +1,7 @@
 # Habatake Pii-tan
 
+![habatake-pii-tan](https://cdn.myanimelist.net/images/anime/1333/98679.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 羽ばたけピータン

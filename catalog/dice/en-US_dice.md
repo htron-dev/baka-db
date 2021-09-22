@@ -1,5 +1,7 @@
 # Dice
 
+![dice](https://cdn.myanimelist.net/images/manga/2/10559.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

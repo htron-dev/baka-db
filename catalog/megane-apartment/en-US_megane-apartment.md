@@ -1,5 +1,7 @@
 # Megane Apartment
 
+![megane-apartment](https://cdn.myanimelist.net/images/manga/2/79861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

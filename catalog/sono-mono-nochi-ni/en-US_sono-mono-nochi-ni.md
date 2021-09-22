@@ -1,5 +1,7 @@
 # Sono Mono. Nochi ni...
 
+![sono-mono-nochi-ni](https://cdn.myanimelist.net/images/manga/1/222532.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 191

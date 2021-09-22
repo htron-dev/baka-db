@@ -1,5 +1,7 @@
 # Degen Mädchen
 
+![degen-madchen](https://cdn.myanimelist.net/images/manga/1/99121.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Anata ga Shite Kurenakutemo
 
+![anata-ga-shite-kurenakutemo](https://cdn.myanimelist.net/images/manga/1/222289.jpg)
+
 -   **type**: manga
 -   **original-name**: あなたがしてくれなくても
 -   **start-date**: 2017-06-20

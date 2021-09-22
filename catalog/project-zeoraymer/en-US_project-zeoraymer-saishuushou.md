@@ -1,5 +1,7 @@
 # Project Zeoraymer Saishuushou
 
+![project-zeoraymer-saishuushou](https://cdn.myanimelist.net/images/manga/1/6522.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 冥王計画〈プロジェクト〉ゼオライマー 最終章

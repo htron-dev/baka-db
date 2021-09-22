@@ -1,5 +1,7 @@
 # Kimi no Chronous
 
+![kimi-no-chronous](https://cdn.myanimelist.net/images/manga/1/138017.jpg)
+
 -   **type**: manga
 -   **original-name**: キミノクロノス
 -   **start-date**: 2013-02-15

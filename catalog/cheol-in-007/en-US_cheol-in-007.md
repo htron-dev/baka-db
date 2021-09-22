@@ -1,5 +1,7 @@
 # Cheol-in 007
 
+![cheol-in-007](https://cdn.myanimelist.net/images/anime/13/44662.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 철인 007

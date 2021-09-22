@@ -1,5 +1,7 @@
 # Cat Street
 
+![cat-street](https://cdn.myanimelist.net/images/manga/2/176481.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 36

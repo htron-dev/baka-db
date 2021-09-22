@@ -1,5 +1,7 @@
 # Rinshou Hanzai Gakusha Himura Hideo no Field Note
 
+![rinshou-hanzai-gakusha-himura-hideo-no-field-note](https://cdn.myanimelist.net/images/manga/1/21342.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 臨床犯罪学者・火村英生のフィールドノート

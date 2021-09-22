@@ -1,5 +1,7 @@
 # Avaron 42: Risoukyou ni Hibiku Juu
 
+![avaron-42-risoukyou-ni-hibiku-juu](https://cdn.myanimelist.net/images/manga/2/158335.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: アヴァロン 42 理想郷に響く銃

@@ -1,5 +1,7 @@
 # Maou Install
 
+![maou-install](https://cdn.myanimelist.net/images/manga/3/179092.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

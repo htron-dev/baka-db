@@ -1,5 +1,7 @@
 # Lupin III: Part 6
 
+![lupin-iii-part-6](https://cdn.myanimelist.net/images/anime/1107/117451.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ルパン三世 PART6
 -   **start-date**: 2021-10-20

@@ -1,5 +1,7 @@
 # Almadianos Eiyuuden
 
+![almadianos-eiyuuden](https://cdn.myanimelist.net/images/manga/3/210103.jpg)
+
 -   **type**: manga
 -   **original-name**: アルマディアノス英雄伝
 -   **start-date**: 2017-07-25

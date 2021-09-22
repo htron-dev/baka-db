@@ -1,5 +1,7 @@
 # Shiguang Dailiren
 
+![shiguang-dailiren](https://cdn.myanimelist.net/images/anime/1135/114867.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: 时光代理人

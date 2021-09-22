@@ -1,5 +1,7 @@
 # Adrenalin
 
+![adrenalin](https://cdn.myanimelist.net/images/manga/3/10163.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 

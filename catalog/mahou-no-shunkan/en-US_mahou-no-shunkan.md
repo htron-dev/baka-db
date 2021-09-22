@@ -1,5 +1,7 @@
 # Mahou no Shunkan
 
+![mahou-no-shunkan](https://cdn.myanimelist.net/images/manga/3/72533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 魔法の瞬間

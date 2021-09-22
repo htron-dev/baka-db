@@ -1,5 +1,7 @@
 # Rennyo Monogatari
 
+![rennyo-monogatari](https://cdn.myanimelist.net/images/anime/9/47227.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蓮如物語

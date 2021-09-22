@@ -1,5 +1,7 @@
 # Wāq Wāq
 
+![waq-waq](https://cdn.myanimelist.net/images/manga/1/111545.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

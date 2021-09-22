@@ -1,5 +1,7 @@
 # Chou to Hana no Kankeisei
 
+![chou-to-hana-no-kankeisei](https://cdn.myanimelist.net/images/manga/1/227277.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

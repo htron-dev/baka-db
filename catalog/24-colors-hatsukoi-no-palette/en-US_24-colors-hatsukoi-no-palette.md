@@ -1,5 +1,7 @@
 # 24 Colors: Hatsukoi no Palette
 
+![24-colors-hatsukoi-no-palette](https://cdn.myanimelist.net/images/manga/1/71933.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

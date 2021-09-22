@@ -1,5 +1,7 @@
 # Choujuu Kishin Dancougar: Ushinawareta Mono-tachi e no Requiem
 
+![choujuu-kishin-dancougar-ushinawareta-mono-tachi-e-no-requiem](https://cdn.myanimelist.net/images/anime/1592/92618.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 超獣機神ダンクーガ 失われた者たちへの鎮魂歌（レクイエム）

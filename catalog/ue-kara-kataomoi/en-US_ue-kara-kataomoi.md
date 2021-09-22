@@ -1,5 +1,7 @@
 # Ue kara Kataomoi
 
+![ue-kara-kataomoi](https://cdn.myanimelist.net/images/manga/2/185990.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

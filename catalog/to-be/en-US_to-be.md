@@ -1,5 +1,7 @@
 # To Be...
 
+![to-be](https://cdn.myanimelist.net/images/manga/2/15672.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

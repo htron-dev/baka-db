@@ -1,5 +1,7 @@
 # Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets
 
+![kuma-no-gakkou-patissier-jackie-to-ohisama-no-sweets](https://cdn.myanimelist.net/images/anime/6/83800.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ
@@ -10,8 +12,6 @@
 ## Tags
 
 -   comedy
-
-## Sinopse
 
 ## Links
 

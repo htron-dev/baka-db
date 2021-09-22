@@ -1,5 +1,7 @@
 # Perfect Couple
 
+![perfect-couple](https://cdn.myanimelist.net/images/manga/4/62857.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Kyokou no Ou
 
+![kyokou-no-ou](https://cdn.myanimelist.net/images/manga/5/60685.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

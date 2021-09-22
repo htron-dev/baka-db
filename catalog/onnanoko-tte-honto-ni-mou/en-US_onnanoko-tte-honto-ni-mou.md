@@ -1,5 +1,7 @@
 # Onnanoko tte Honto ni Mou
 
+![onnanoko-tte-honto-ni-mou](https://cdn.myanimelist.net/images/manga/1/20643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

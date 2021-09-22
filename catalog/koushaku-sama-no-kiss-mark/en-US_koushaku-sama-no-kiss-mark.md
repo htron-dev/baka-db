@@ -1,5 +1,7 @@
 # Koushaku-sama no Kiss Mark
 
+![koushaku-sama-no-kiss-mark](https://cdn.myanimelist.net/images/manga/2/183008.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

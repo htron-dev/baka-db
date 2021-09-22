@@ -1,5 +1,7 @@
 # Toki wo Kakeru Shoujo: Tokikake
 
+![toki-wo-kakeru-shoujo-tokikake](https://cdn.myanimelist.net/images/manga/3/120297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

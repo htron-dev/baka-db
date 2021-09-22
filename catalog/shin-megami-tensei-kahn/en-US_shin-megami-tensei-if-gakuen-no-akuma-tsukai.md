@@ -1,5 +1,7 @@
 # Shin Megami Tensei: If... Gakuen no Akuma Tsukai
 
+![shin-megami-tensei-if-gakuen-no-akuma-tsukai](https://cdn.myanimelist.net/images/manga/2/47961.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

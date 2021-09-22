@@ -1,5 +1,7 @@
 # Crazy Heart wa Nusumanai
 
+![crazy-heart-wa-nusumanai](https://cdn.myanimelist.net/images/manga/3/160015.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

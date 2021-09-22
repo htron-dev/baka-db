@@ -1,5 +1,7 @@
 # Nogizaka Haruka no Himitsu
 
+![nogizaka-haruka-no-himitsu](https://cdn.myanimelist.net/images/manga/3/219849.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 16
 -   **chapters**: 76

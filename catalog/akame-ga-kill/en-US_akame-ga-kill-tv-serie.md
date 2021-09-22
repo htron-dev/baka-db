@@ -1,5 +1,7 @@
 # Akame ga Kill!
 
+![akame-ga-kill](https://cdn.myanimelist.net/images/anime/1429/95946.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: アカメが斬る！

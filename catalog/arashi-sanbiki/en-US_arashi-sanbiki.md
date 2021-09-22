@@ -1,5 +1,7 @@
 # Arashi! Sanbiki
 
+![arashi-sanbiki](https://cdn.myanimelist.net/images/manga/1/230454.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 164

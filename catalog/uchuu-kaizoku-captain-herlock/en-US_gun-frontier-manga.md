@@ -1,5 +1,7 @@
 # Gun Frontier
 
+![gun-frontier](https://cdn.myanimelist.net/images/manga/3/76729.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ガンフロンティア

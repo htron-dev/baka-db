@@ -1,5 +1,7 @@
 # Picotopia
 
+![picotopia](https://cdn.myanimelist.net/images/anime/6/56913.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ピコトピア

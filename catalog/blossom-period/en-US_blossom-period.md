@@ -1,5 +1,7 @@
 # Blossom Period
 
+![blossom-period](https://cdn.myanimelist.net/images/manga/1/69813.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

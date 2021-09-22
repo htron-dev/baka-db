@@ -1,5 +1,7 @@
 # Koi Caramel no Recipe
 
+![koi-caramel-no-recipe](https://cdn.myanimelist.net/images/manga/2/164706.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

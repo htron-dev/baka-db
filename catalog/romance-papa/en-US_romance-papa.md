@@ -1,5 +1,7 @@
 # Romance Papa
 
+![romance-papa](https://cdn.myanimelist.net/images/manga/4/30307.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 33

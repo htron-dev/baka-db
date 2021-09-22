@@ -1,5 +1,7 @@
 # Kanojo no Omoide...
 
+![kanojo-no-omoide](https://cdn.myanimelist.net/images/manga/1/88703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

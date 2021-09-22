@@ -1,5 +1,7 @@
 # Gunshin Ou no Himemiko (Chou) Zetsurin na Ou no Yotogi wa Hageshisugimasu!
 
+![gunshin-ou-no-himemiko-chou-zetsurin-na-ou-no-yotogi-wa-hageshisugimasu](https://cdn.myanimelist.net/images/manga/2/244971.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

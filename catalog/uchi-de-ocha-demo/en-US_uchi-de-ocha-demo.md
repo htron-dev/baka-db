@@ -1,5 +1,7 @@
 # Uchi de, Ocha demo.
 
+![uchi-de-ocha-demo](https://cdn.myanimelist.net/images/manga/2/114651.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Gate: Jieitai Kanochi nite, Kaku Tatakaeri
 
+![gate-jieitai-kanochi-nite-kaku-tatakaeri](https://cdn.myanimelist.net/images/manga/1/237379.jpg)
+
 -   **type**: manga
 -   **original-name**: ゲート 自衛隊彼の地にて、斯く戦えり
 -   **start-date**: 2011-07-30

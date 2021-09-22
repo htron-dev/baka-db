@@ -1,5 +1,7 @@
 # Suuji de Sukuu! Jyakushou Kokka
 
+![suuji-de-sukuu-jyakushou-kokka](https://cdn.myanimelist.net/images/manga/1/241217.jpg)
+
 -   **type**: manga
 -   **original-name**: 数字で救う！弱小国家
 -   **start-date**: 2019-07-26

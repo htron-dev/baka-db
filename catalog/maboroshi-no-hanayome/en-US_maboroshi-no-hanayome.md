@@ -1,5 +1,7 @@
 # Maboroshi no Hanayome
 
+![maboroshi-no-hanayome](https://cdn.myanimelist.net/images/manga/3/106467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まぼろしの花嫁

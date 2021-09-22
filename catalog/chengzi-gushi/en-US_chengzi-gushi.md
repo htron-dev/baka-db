@@ -1,5 +1,7 @@
 # Chengzi Gushi
 
+![chengzi-gushi](https://cdn.myanimelist.net/images/anime/1929/115507.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 橙子故事

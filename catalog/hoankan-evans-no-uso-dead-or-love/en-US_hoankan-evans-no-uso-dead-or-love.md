@@ -1,5 +1,7 @@
 # Hoankan Evans no Uso: Dead or Love
 
+![hoankan-evans-no-uso-dead-or-love](https://cdn.myanimelist.net/images/manga/3/201211.jpg)
+
 -   **type**: manga
 -   **original-name**: 保安官エヴァンスの嘘～ DEAD OR LOVE ～
 -   **start-date**: 2017-04-12

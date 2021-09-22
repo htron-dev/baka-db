@@ -1,5 +1,7 @@
 # Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
 
+![sakurako-san-no-ashimoto-ni-wa-shitai-ga-umatteiru](https://cdn.myanimelist.net/images/manga/3/117437.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 櫻子さんの足下には死体が埋まっている
 -   **start-date**: 2013-02-23

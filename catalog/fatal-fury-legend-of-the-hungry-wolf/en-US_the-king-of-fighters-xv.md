@@ -1,5 +1,7 @@
 # The King of Fighters XV
 
+![the-king-of-fighters-xv](https://cdn.myanimelist.net/images/anime/1621/113777.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ザ・キング・オブ・ファイターズ XV

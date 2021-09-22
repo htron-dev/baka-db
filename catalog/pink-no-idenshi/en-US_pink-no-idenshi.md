@@ -1,5 +1,7 @@
 # Pink no Idenshi
 
+![pink-no-idenshi](https://cdn.myanimelist.net/images/manga/3/196141.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

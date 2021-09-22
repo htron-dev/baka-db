@@ -1,5 +1,7 @@
 # Mahou Shoujo Kazumi★Magica: The Innocent Malice
 
+![mahou-shoujo-kazumi★-magica-the-innocent-malice](https://cdn.myanimelist.net/images/manga/5/41783.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

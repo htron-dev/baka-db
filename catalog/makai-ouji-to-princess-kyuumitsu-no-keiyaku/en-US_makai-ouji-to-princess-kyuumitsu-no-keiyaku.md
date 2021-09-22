@@ -1,5 +1,7 @@
 # Makai Ouji to Princess: Kyuumitsu no Keiyaku
 
+![makai-ouji-to-princess-kyuumitsu-no-keiyaku](https://cdn.myanimelist.net/images/manga/1/182393.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

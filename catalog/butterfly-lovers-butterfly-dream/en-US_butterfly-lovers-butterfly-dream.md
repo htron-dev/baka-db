@@ -1,5 +1,7 @@
 # Butterfly Lovers: Butterfly Dream
 
+![butterfly-lovers-butterfly-dream](https://cdn.myanimelist.net/images/manga/1/133645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 梁山伯與祝英台-蝴蝶夢-

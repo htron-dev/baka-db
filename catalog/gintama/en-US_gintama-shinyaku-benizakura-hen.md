@@ -1,5 +1,7 @@
 # Gintama: Shinyaku Benizakura-hen
 
+![gintama-shinyaku-benizakura-hen](https://cdn.myanimelist.net/images/anime/12/26966.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀魂 新訳紅桜篇

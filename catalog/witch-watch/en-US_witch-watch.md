@@ -1,5 +1,7 @@
 # Witch Watch
 
+![witch-watch](https://cdn.myanimelist.net/images/manga/3/245786.jpg)
+
 -   **type**: manga
 -   **original-name**: ウィッチウォッチ
 -   **start-date**: 2021-02-08

@@ -1,5 +1,7 @@
 # Hokkyoku Hyakkaten no Concierge-san
 
+![hokkyoku-hyakkaten-no-concierge-san](https://cdn.myanimelist.net/images/manga/2/204677.jpg)
+
 -   **type**: manga
 -   **original-name**: 北極百貨店のコンシェルジュさん
 -   **start-date**: 2017-02-17

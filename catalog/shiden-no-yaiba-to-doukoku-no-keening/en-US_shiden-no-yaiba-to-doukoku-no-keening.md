@@ -1,5 +1,7 @@
 # Shiden no Yaiba to Doukoku no Keening
 
+![shiden-no-yaiba-to-doukoku-no-keening](https://cdn.myanimelist.net/images/manga/2/124529.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 紫電の刃と慟哭の精霊姫(キーニング)

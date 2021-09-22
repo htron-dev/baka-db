@@ -1,5 +1,7 @@
 # Dr. Slump: Arale-chan no Koutsuu Anzen
 
+![dr-slump-arale-chan-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/11/72793.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: Dr.スランプアラレちゃんの交通安全

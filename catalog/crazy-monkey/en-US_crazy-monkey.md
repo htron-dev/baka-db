@@ -1,5 +1,7 @@
 # Crazy Monkey
 
+![crazy-monkey](https://cdn.myanimelist.net/images/anime/2/74487.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クレージーモンキー

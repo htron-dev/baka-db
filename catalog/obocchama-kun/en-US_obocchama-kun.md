@@ -1,5 +1,7 @@
 # Obocchama-kun
 
+![obocchama-kun](https://cdn.myanimelist.net/images/anime/7/53513.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 164
 -   **original-name**: おぼっちゃまくん

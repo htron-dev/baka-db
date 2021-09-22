@@ -1,5 +1,7 @@
 # Bamboo Blade: CM Fanfu-Fufe-Fo
 
+![bamboo-blade-cm-fanfu-fufe-fo](https://cdn.myanimelist.net/images/anime/9/69537.jpg)
+
 -   **type**: special
 -   **episodes**: 24
 -   **original-name**: バンブーブレード ：CM 「ふぁんふ～ふふぇ～ふぉ」

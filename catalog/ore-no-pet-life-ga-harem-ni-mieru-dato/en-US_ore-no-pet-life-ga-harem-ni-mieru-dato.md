@@ -1,5 +1,7 @@
 # Ore no Pet Life ga Harem ni Mieru Dato?
 
+![ore-no-pet-life-ga-harem-ni-mieru-dato](https://cdn.myanimelist.net/images/manga/2/160889.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 俺のペット生活〈ライフ〉がハーレムに見えるだと？

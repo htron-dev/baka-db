@@ -1,5 +1,7 @@
 # Honobono Log
 
+![honobono-log](https://cdn.myanimelist.net/images/anime/12/80749.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ほのぼのログ

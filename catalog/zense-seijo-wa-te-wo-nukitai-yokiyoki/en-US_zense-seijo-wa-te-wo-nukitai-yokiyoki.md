@@ -1,5 +1,7 @@
 # Zense Seijo wa Te wo Nukitai Yokiyoki
 
+![zense-seijo-wa-te-wo-nukitai-yokiyoki](https://cdn.myanimelist.net/images/manga/2/242425.jpg)
+
 -   **type**: manga
 -   **original-name**: 前世聖女は手を抜きたい よきよき
 -   **start-date**: 2020-12-08

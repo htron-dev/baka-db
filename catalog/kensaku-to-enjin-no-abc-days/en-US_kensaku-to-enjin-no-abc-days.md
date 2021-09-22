@@ -1,5 +1,7 @@
 # Kensaku to Enjin no ABC Days
 
+![kensaku-to-enjin-no-abc-days](https://cdn.myanimelist.net/images/anime/8/89761.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: けんさくとえんじんの ABC Days

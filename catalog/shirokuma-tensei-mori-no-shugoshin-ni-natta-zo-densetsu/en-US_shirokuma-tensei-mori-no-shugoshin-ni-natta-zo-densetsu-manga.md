@@ -1,5 +1,7 @@
 # Shirokuma Tensei: Mori no Shugoshin ni Natta zo Densetsu
 
+![shirokuma-tensei-mori-no-shugoshin-ni-natta-zo-densetsu](https://cdn.myanimelist.net/images/manga/1/206961.jpg)
+
 -   **type**: manga
 -   **original-name**: シロクマ転生 森の守護神になったぞ伝説
 -   **start-date**: 2017-09-22

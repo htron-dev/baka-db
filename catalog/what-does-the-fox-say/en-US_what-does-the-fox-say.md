@@ -1,5 +1,7 @@
 # What Does the Fox Say?
 
+![what-does-the-fox-say](https://cdn.myanimelist.net/images/manga/1/198540.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 93
 -   **original-name**: What Does The Fox Say?

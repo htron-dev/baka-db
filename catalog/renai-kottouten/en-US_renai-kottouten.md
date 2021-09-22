@@ -1,5 +1,7 @@
 # Renai Kottouten
 
+![renai-kottouten](https://cdn.myanimelist.net/images/manga/3/105789.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

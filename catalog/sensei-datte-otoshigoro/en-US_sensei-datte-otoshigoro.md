@@ -1,5 +1,7 @@
 # Sensei Datte Otoshigoro
 
+![sensei-datte-otoshigoro](https://cdn.myanimelist.net/images/manga/2/32598.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

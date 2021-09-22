@@ -1,5 +1,7 @@
 # Micchaku Room Share
 
+![micchaku-room-share](https://cdn.myanimelist.net/images/manga/2/245892.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

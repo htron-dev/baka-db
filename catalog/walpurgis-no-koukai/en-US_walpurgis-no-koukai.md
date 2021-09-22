@@ -1,5 +1,7 @@
 # Walpurgis no Koukai
 
+![walpurgis-no-koukai](https://cdn.myanimelist.net/images/manga/3/124883.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Ojamajo Doremi 17
 
+![ojamajo-doremi-17](https://cdn.myanimelist.net/images/manga/1/138245.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

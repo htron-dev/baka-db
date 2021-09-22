@@ -1,5 +1,7 @@
 # Ane wa Hajimete Imouto ni Ienai Koto wo Shita
 
+![ane-wa-hajimete-imouto-ni-ienai-koto-wo-shita](https://cdn.myanimelist.net/images/manga/3/231559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

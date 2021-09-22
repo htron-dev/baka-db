@@ -1,5 +1,7 @@
 # Kanojo wa Missile
 
+![kanojo-wa-missile](https://cdn.myanimelist.net/images/manga/1/163045.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

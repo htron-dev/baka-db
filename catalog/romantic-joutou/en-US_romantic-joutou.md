@@ -1,5 +1,7 @@
 # Romantic Joutou
 
+![romantic-joutou](https://cdn.myanimelist.net/images/manga/1/171332.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

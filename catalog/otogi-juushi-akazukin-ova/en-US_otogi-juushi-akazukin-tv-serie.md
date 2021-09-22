@@ -1,5 +1,7 @@
 # Otogi Juushi Akazukin
 
+![otogi-juushi-akazukin](https://cdn.myanimelist.net/images/anime/7/50145.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: おとぎ銃士 赤ずきん

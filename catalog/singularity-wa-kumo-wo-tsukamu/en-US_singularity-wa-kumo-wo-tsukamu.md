@@ -1,5 +1,7 @@
 # Singularity wa Kumo wo Tsukamu
 
+![singularity-wa-kumo-wo-tsukamu](https://cdn.myanimelist.net/images/manga/1/198504.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

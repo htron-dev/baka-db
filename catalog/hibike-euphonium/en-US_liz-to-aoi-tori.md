@@ -1,5 +1,7 @@
 # Liz to Aoi Tori
 
+![liz-to-aoi-tori](https://cdn.myanimelist.net/images/anime/1638/93032.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: リズと青い鳥

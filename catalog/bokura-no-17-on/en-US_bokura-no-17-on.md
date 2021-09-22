@@ -1,5 +1,7 @@
 # Bokura no 17-On!
 
+![bokura-no-17-on](https://cdn.myanimelist.net/images/manga/1/164419.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

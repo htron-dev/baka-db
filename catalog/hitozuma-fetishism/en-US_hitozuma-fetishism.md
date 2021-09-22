@@ -1,5 +1,7 @@
 # Hitozuma Fetishism
 
+![hitozuma-fetishism](https://cdn.myanimelist.net/images/manga/1/122751.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 人妻フェティシズム

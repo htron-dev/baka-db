@@ -1,5 +1,7 @@
 # Garo: Honoo no Kokuin - Yurugaro
 
+![garo-honoo-no-kokuin-yurugaro](https://cdn.myanimelist.net/images/anime/4/83505.jpg)
+
 -   **type**: special
 -   **episodes**: 23
 -   **original-name**: 牙狼〈GARO〉-炎の刻印- ゆるがろ

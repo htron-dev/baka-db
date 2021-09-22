@@ -1,5 +1,7 @@
 # Sailor Fuku ni Onegai!
 
+![sailor-fuku-ni-onegai](https://cdn.myanimelist.net/images/manga/2/126815.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

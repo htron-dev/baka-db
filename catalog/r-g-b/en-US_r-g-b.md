@@ -1,5 +1,7 @@
 # R.G.B!
 
+![r-g-b](https://cdn.myanimelist.net/images/manga/3/67729.jpg)
+
 -   **type**: manga
 -   **original-name**: R・G・B！
 

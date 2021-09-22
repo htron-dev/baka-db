@@ -1,5 +1,7 @@
 # Maigoya
 
+![maigoya](https://cdn.myanimelist.net/images/manga/2/90427.jpg)
+
 -   **type**: manga
 -   **original-name**: 迷子屋
 -   **start-date**: 2012-05-18

@@ -1,5 +1,7 @@
 # Kataribe no List
 
+![kataribe-no-list](https://cdn.myanimelist.net/images/manga/2/156847.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

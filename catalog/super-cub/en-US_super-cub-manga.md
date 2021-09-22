@@ -1,5 +1,7 @@
 # Super Cub
 
+![super-cub](https://cdn.myanimelist.net/images/manga/3/224755.jpg)
+
 -   **type**: manga
 -   **original-name**: スーパーカブ
 -   **start-date**: 2017-12-29

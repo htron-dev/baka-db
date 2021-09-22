@@ -1,5 +1,7 @@
 # Kakushin
 
+![kakushin](https://cdn.myanimelist.net/images/anime/11/88880.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 確信

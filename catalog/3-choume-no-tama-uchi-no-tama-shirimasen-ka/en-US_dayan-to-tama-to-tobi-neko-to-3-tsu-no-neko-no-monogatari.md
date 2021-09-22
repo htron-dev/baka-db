@@ -1,5 +1,7 @@
 # Dayan to Tama to Tobi Neko to: 3-tsu no Neko no Monogatari
 
+![dayan-to-tama-to-tobi-neko-to-3-tsu-no-neko-no-monogatari](https://cdn.myanimelist.net/images/anime/1877/99352.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: ダヤンとタマと飛び猫と ～ 3 つの猫の物語～
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   magic
 
 ## Sinopse

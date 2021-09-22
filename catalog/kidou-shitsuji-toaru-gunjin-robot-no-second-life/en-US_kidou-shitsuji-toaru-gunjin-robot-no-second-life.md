@@ -1,5 +1,7 @@
 # Kidou Shitsuji: Toaru Gunjin Robot no Second Life
 
+![kidou-shitsuji-toaru-gunjin-robot-no-second-life](https://cdn.myanimelist.net/images/manga/1/170637.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

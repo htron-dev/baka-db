@@ -1,5 +1,7 @@
 # J. Boy: Second Season
 
+![j-boy-second-season](https://cdn.myanimelist.net/images/manga/2/228828.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Renai Nante Yurushimasen!
 
+![renai-nante-yurushimasen](https://cdn.myanimelist.net/images/manga/1/220830.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

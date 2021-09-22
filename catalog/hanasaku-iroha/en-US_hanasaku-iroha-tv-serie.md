@@ -1,5 +1,7 @@
 # Hanasaku Iroha
 
+![hanasaku-iroha](https://cdn.myanimelist.net/images/anime/1491/117229.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 花咲くいろは

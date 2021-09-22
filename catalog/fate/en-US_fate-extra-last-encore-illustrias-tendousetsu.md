@@ -1,5 +1,7 @@
 # Fate/Extra: Last Encore - Illustrias Tendousetsu
 
+![fate-extra-last-encore-illustrias-tendousetsu](https://cdn.myanimelist.net/images/anime/1280/93468.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3
 -   **original-name**: Fate/EXTRA Last Encore イルステリアス天動説

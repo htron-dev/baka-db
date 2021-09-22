@@ -1,5 +1,7 @@
 # Hitotsu Tobashi Renai: Risa Jigoku-hen
 
+![hitotsu-tobashi-renai-risa-jigoku-hen](https://cdn.myanimelist.net/images/manga/3/178461.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

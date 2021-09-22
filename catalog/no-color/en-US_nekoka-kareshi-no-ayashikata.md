@@ -1,5 +1,7 @@
 # Nekoka Kareshi no Ayashikata
 
+![nekoka-kareshi-no-ayashikata](https://cdn.myanimelist.net/images/manga/1/80379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

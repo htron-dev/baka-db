@@ -1,5 +1,7 @@
 # Majo demo Steady
 
+![majo-demo-steady](https://cdn.myanimelist.net/images/anime/7/24678.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔女でもステディ

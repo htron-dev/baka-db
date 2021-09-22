@@ -1,5 +1,7 @@
 # Sukoara!
 
+![sukoara](https://cdn.myanimelist.net/images/manga/2/204414.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: すこあら！

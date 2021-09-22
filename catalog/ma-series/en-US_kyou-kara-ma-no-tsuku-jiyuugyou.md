@@ -1,5 +1,7 @@
 # Kyou kara Ma no Tsuku Jiyuugyou!
 
+![kyou-kara-ma-no-tsuku-jiyuugyou](https://cdn.myanimelist.net/images/manga/2/167622.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 133

@@ -1,5 +1,7 @@
 # Atashira Yuuutsu Chuugakusei: Kyouizon
 
+![atashira-yuuutsu-chuugakusei-kyouizon](https://cdn.myanimelist.net/images/manga/3/159869.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: あたしら憂鬱中学生 共依存

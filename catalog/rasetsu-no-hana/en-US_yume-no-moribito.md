@@ -1,5 +1,7 @@
 # Yume no Moribito
 
+![yume-no-moribito](https://cdn.myanimelist.net/images/manga/3/146693.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

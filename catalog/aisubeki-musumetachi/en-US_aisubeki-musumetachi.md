@@ -1,5 +1,7 @@
 # Aisubeki Musumetachi
 
+![aisubeki-musumetachi](https://cdn.myanimelist.net/images/manga/3/210673.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

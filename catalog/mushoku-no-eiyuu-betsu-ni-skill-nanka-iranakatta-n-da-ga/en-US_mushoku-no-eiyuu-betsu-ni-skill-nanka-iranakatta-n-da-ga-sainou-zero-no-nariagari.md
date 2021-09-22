@@ -1,5 +1,7 @@
 # Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga - Sainou Zero no Nariagari
 
+![mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga-sainou-zero-no-nariagari](https://cdn.myanimelist.net/images/manga/1/224089.jpg)
+
 -   **type**: manga
 -   **original-name**: 無職の英雄 別にスキルなんか要らなかったんだが -才能ゼロの成り上がり-
 -   **start-date**: 2018-11-10

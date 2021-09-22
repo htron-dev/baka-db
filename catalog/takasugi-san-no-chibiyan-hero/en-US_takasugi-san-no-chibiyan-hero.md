@@ -1,5 +1,7 @@
 # Takasugi-san no Chibiyan Hero
 
+![takasugi-san-no-chibiyan-hero](https://cdn.myanimelist.net/images/manga/1/227458.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 高杉さんのチビヤンヒーロー

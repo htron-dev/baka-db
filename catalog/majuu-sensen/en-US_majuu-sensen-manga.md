@@ -1,5 +1,7 @@
 # Majuu Sensen
 
+![majuu-sensen](https://cdn.myanimelist.net/images/manga/3/167292.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 魔獣戦線

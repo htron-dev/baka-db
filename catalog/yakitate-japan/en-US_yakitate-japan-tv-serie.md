@@ -1,5 +1,7 @@
 # Yakitate!! Japan
 
+![yakitate-japan](https://cdn.myanimelist.net/images/anime/3/76432.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 69
 -   **original-name**: 焼きたて!! ジャぱん

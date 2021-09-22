@@ -1,5 +1,7 @@
 # Ichigeki Sacchuu!! Hoihoi-san
 
+![ichigeki-sacchuu-hoihoi-san](https://cdn.myanimelist.net/images/manga/3/20713.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

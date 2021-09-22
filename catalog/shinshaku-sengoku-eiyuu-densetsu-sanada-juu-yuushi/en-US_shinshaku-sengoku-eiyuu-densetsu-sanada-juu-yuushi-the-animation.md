@@ -1,5 +1,7 @@
 # Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation
 
+![shinshaku-sengoku-eiyuu-densetsu-sanada-juu-yuushi-the-animation](https://cdn.myanimelist.net/images/anime/13/78564.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 新釈 戦国英雄伝説 眞田十勇士 The Animation

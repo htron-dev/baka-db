@@ -1,5 +1,7 @@
 # Hyakunen no Koi Kamoshirenai
 
+![hyakunen-no-koi-kamoshirenai](https://cdn.myanimelist.net/images/manga/2/28849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 百年の恋かもしれない

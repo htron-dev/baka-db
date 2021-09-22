@@ -1,5 +1,7 @@
 # Chokotto Anime Kemono Friends 3
 
+![chokotto-anime-kemono-friends-3](https://cdn.myanimelist.net/images/anime/1020/100375.jpg)
+
 -   **type**: ona
 -   **original-name**: ちょこっとアニメ けものフレンズ３
 -   **start-date**: 2019-04-02

@@ -1,5 +1,7 @@
 # Seitokai no Ichizon Puchi
 
+![seitokai-no-ichizon-puchi](https://cdn.myanimelist.net/images/manga/3/48929.jpg)
+
 -   **type**: manga
 -   **original-name**: 生徒会の一存ぷち だっしゅ
 

@@ -1,5 +1,7 @@
 # ACCA: 13-ku Kansatsu-ka Gaiden - Paula to Michelle
 
+![acca-13-ku-kansatsu-ka-gaiden-paula-to-michelle](https://cdn.myanimelist.net/images/manga/2/204818.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

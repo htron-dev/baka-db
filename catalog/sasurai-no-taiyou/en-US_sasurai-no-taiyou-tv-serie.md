@@ -1,5 +1,7 @@
 # Sasurai no Taiyou
 
+![sasurai-no-taiyou](https://cdn.myanimelist.net/images/anime/1068/101174.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: さすらいの太陽

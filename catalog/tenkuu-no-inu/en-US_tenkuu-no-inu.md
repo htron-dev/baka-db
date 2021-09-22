@@ -1,5 +1,7 @@
 # Tenkuu no Inu
 
+![tenkuu-no-inu](https://cdn.myanimelist.net/images/manga/1/74933.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Gekijouban Ataru: The First Love &amp; The Last Kill
 
+![gekijouban-ataru-the-first-love-amp-the-last-kill](https://cdn.myanimelist.net/images/manga/2/137535.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 劇場版 ATARU-THE FIRST LOVE & THE LAST KILL-

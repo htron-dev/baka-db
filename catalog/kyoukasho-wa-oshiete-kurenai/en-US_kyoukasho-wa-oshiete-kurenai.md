@@ -1,5 +1,7 @@
 # Kyoukasho wa Oshiete Kurenai
 
+![kyoukasho-wa-oshiete-kurenai](https://cdn.myanimelist.net/images/manga/1/95835.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

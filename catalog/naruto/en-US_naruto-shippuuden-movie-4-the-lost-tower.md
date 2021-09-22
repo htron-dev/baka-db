@@ -1,5 +1,7 @@
 # Naruto: Shippuuden Movie 4 - The Lost Tower
 
+![naruto-shippuuden-movie-4-the-lost-tower](https://cdn.myanimelist.net/images/anime/3/23344.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 NARUTO-ナルト-疾風伝 ザ・ロストタワー

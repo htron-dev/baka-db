@@ -1,5 +1,7 @@
 # Kihei Senki Legacies
 
+![kihei-senki-legacies](https://cdn.myanimelist.net/images/anime/3/22628.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 機兵戦記レガシーズ

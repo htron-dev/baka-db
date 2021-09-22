@@ -1,5 +1,7 @@
 # Watashi no... Megane-kun
 
+![watashi-no-megane-kun](https://cdn.myanimelist.net/images/manga/2/37194.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

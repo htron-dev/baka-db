@@ -1,5 +1,7 @@
 # China no Tori
 
+![china-no-tori](https://cdn.myanimelist.net/images/manga/2/38081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 中国の鳥

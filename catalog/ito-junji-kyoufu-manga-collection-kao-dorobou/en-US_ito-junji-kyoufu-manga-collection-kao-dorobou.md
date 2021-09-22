@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Kao Dorobou
 
+![ito-junji-kyoufu-manga-collection-kao-dorobou](https://cdn.myanimelist.net/images/manga/3/79115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

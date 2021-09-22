@@ -1,5 +1,7 @@
 # Pokémon Chamo-Chamo☆Pretty♪
 
+![pokemon-chamo-chamo☆-pretty♪](https://cdn.myanimelist.net/images/manga/3/36644.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 42

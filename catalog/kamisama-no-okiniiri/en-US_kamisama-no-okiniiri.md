@@ -1,5 +1,7 @@
 # Kamisama no Okiniiri
 
+![kamisama-no-okiniiri](https://cdn.myanimelist.net/images/manga/1/162362.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 28

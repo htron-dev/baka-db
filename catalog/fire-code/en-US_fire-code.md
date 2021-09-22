@@ -1,5 +1,7 @@
 # Fire Code
 
+![fire-code](https://cdn.myanimelist.net/images/manga/2/85525.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

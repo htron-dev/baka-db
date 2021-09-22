@@ -1,5 +1,7 @@
 # Urahara to Dilemma
 
+![urahara-to-dilemma](https://cdn.myanimelist.net/images/manga/1/74317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

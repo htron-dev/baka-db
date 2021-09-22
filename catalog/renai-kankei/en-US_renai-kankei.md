@@ -1,5 +1,7 @@
 # Renai Kankei
 
+![renai-kankei](https://cdn.myanimelist.net/images/manga/1/35448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛関係

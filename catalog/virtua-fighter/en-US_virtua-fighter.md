@@ -1,5 +1,7 @@
 # Virtua Fighter
 
+![virtua-fighter](https://cdn.myanimelist.net/images/anime/1234/110241.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: バーチャファイター

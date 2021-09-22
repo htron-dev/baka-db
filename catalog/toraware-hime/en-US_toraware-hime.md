@@ -1,5 +1,7 @@
 # Toraware-hime
 
+![toraware-hime](https://cdn.myanimelist.net/images/manga/1/148189.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

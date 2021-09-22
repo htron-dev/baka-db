@@ -1,5 +1,7 @@
 # Tenshin Ranman: Lucky or Unlucky?!
 
+![tenshin-ranman-lucky-or-unlucky](https://cdn.myanimelist.net/images/manga/3/96605.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 天神乱漫 LUCKY or UNLUCKY!?

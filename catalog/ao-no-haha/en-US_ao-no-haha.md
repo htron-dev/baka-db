@@ -1,5 +1,7 @@
 # Ao no Haha
 
+![ao-no-haha](https://cdn.myanimelist.net/images/manga/2/136265.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

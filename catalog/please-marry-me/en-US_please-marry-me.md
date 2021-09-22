@@ -1,5 +1,7 @@
 # Please, Marry Me!!
 
+![please-marry-me](https://cdn.myanimelist.net/images/manga/1/231858.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

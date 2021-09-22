@@ -1,5 +1,7 @@
 # Cosmetics no Mahou
 
+![cosmetics-no-mahou](https://cdn.myanimelist.net/images/manga/1/194696.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 92

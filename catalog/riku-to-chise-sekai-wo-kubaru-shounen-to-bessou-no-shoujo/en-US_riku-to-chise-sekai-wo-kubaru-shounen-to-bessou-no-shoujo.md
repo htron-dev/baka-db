@@ -1,5 +1,7 @@
 # Riku to Chise: Sekai wo Kubaru Shounen to Bessou no Shoujo
 
+![riku-to-chise-sekai-wo-kubaru-shounen-to-bessou-no-shoujo](https://cdn.myanimelist.net/images/manga/1/135037.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

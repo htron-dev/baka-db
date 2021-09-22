@@ -1,5 +1,7 @@
 # Hello Kitty no Yume no Oshiro no Ouji-sama
 
+![hello-kitty-no-yume-no-oshiro-no-ouji-sama](https://cdn.myanimelist.net/images/anime/7/58713.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの夢のお城の王子さま

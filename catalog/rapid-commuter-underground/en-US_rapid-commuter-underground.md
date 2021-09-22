@@ -1,5 +1,7 @@
 # Rapid Commuter Underground
 
+![rapid-commuter-underground](https://cdn.myanimelist.net/images/manga/1/193020.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 25

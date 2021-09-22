@@ -1,5 +1,7 @@
 # Make Love Maker
 
+![make-love-maker](https://cdn.myanimelist.net/images/manga/3/11149.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: メイクラブメーカー

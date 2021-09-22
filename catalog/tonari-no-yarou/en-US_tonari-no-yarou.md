@@ -1,5 +1,7 @@
 # Tonari no Yarou
 
+![tonari-no-yarou](https://cdn.myanimelist.net/images/anime/9/16399.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 隣の野郎

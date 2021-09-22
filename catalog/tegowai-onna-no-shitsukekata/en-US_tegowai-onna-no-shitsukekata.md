@@ -1,5 +1,7 @@
 # Tegowai Onna no Shitsukekata
 
+![tegowai-onna-no-shitsukekata](https://cdn.myanimelist.net/images/manga/1/72627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 手ごわい女のしつけ方

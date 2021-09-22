@@ -1,5 +1,7 @@
 # Gakuen Senki Muryou
 
+![gakuen-senki-muryou](https://cdn.myanimelist.net/images/anime/10/75379.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 学園戦記ムリョウ

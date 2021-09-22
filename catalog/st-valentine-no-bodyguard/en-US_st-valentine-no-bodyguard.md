@@ -1,5 +1,7 @@
 # St. Valentine no Bodyguard
 
+![st-valentine-no-bodyguard](https://cdn.myanimelist.net/images/manga/2/15170.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: St.バレンタインのボディーガード

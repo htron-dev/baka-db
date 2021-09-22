@@ -1,5 +1,7 @@
 # Mujin no Jager
 
+![mujin-no-jager](https://cdn.myanimelist.net/images/manga/3/163581.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

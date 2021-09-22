@@ -1,5 +1,7 @@
 # Lilt
 
+![lilt](https://cdn.myanimelist.net/images/anime/5/87637.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Lilt

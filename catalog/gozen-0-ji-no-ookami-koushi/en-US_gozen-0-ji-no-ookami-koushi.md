@@ -1,5 +1,7 @@
 # Gozen 0-ji no Ookami Koushi
 
+![gozen-0-ji-no-ookami-koushi](https://cdn.myanimelist.net/images/manga/2/223653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

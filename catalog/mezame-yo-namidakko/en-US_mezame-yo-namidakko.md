@@ -1,5 +1,7 @@
 # Mezame yo Namidakko
 
+![mezame-yo-namidakko](https://cdn.myanimelist.net/images/manga/3/177605.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

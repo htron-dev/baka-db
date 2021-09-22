@@ -1,5 +1,7 @@
 # Himitsu no Shinsengumi
 
+![himitsu-no-shinsengumi](https://cdn.myanimelist.net/images/manga/3/177226.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

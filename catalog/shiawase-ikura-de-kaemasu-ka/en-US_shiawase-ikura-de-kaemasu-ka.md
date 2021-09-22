@@ -1,5 +1,7 @@
 # Shiawase Ikura de Kaemasu ka?
 
+![shiawase-ikura-de-kaemasu-ka](https://cdn.myanimelist.net/images/manga/3/43133.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

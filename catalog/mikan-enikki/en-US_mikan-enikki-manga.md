@@ -1,5 +1,7 @@
 # Mikan Enikki
 
+![mikan-enikki](https://cdn.myanimelist.net/images/manga/2/159933.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: みかん絵日記

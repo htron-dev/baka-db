@@ -1,5 +1,7 @@
 # Nanatsu no Taizai Movie: Tenkuu no Torawarebito
 
+![nanatsu-no-taizai-movie-tenkuu-no-torawarebito](https://cdn.myanimelist.net/images/manga/3/211807.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 七つの大罪　天空の囚われ人

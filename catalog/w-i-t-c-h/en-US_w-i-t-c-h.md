@@ -1,5 +1,7 @@
 # W.I.T.C.H.
 
+![w-i-t-c-h](https://cdn.myanimelist.net/images/manga/2/212098.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Azami no Shiro no Majo
 
+![azami-no-shiro-no-majo](https://cdn.myanimelist.net/images/manga/1/222623.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

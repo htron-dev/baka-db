@@ -1,5 +1,7 @@
 # 009-1: R&amp;B
 
+![009-1-r-amp-b](https://cdn.myanimelist.net/images/anime/6/23353.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Mission:Extra:「R&B」

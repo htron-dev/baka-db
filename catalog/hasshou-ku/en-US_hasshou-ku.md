@@ -1,5 +1,7 @@
 # Hasshou-ku
 
+![hasshou-ku](https://cdn.myanimelist.net/images/manga/1/182621.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

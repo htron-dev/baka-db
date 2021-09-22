@@ -1,5 +1,7 @@
 # Watashi ga Motete Dousunda
 
+![watashi-ga-motete-dousunda](https://cdn.myanimelist.net/images/manga/1/206834.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 60

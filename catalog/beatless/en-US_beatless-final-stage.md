@@ -1,5 +1,7 @@
 # Beatless Final Stage
 
+![beatless-final-stage](https://cdn.myanimelist.net/images/anime/1745/93307.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: BEATLESS Final Stage

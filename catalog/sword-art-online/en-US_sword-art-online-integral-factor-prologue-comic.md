@@ -1,5 +1,7 @@
 # Sword Art Online: Integral Factor - Prologue Comic
 
+![sword-art-online-integral-factor-prologue-comic](https://cdn.myanimelist.net/images/manga/3/237620.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ソードアート・オンライン インテグラル・ファクター PROLOGUE COMIC

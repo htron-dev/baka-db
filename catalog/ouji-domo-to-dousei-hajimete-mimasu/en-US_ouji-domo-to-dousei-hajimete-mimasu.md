@@ -1,5 +1,7 @@
 # Ouji Domo to Dousei Hajimete Mimasu.
 
+![ouji-domo-to-dousei-hajimete-mimasu](https://cdn.myanimelist.net/images/manga/3/77779.jpg)
+
 -   **type**: manga
 -   **original-name**: 王子どもと同棲はじめてみます。
 

@@ -1,5 +1,7 @@
 # Hoshiori
 
+![hoshiori](https://cdn.myanimelist.net/images/manga/1/11647.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

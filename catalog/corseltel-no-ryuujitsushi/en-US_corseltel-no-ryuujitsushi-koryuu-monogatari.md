@@ -1,5 +1,7 @@
 # Corseltel no Ryuujitsushi: Koryuu Monogatari
 
+![corseltel-no-ryuujitsushi-koryuu-monogatari](https://cdn.myanimelist.net/images/manga/1/64541.jpg)
+
 -   **type**: manga
 -   **original-name**: コーセルテルの竜術士 ~子竜物語~
 -   **start-date**: 2009-09-28

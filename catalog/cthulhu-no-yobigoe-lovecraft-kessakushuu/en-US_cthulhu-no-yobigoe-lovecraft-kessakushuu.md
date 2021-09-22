@@ -1,5 +1,7 @@
 # Cthulhu no Yobigoe: Lovecraft Kessakushuu
 
+![cthulhu-no-yobigoe-lovecraft-kessakushuu](https://cdn.myanimelist.net/images/manga/2/233737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

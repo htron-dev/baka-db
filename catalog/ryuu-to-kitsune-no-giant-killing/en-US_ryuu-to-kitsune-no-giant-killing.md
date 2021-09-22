@@ -1,5 +1,7 @@
 # Ryuu to Kitsune no Giant Killing
 
+![ryuu-to-kitsune-no-giant-killing](https://cdn.myanimelist.net/images/manga/2/183555.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 龍と狐のジャイアント・キリング
 -   **start-date**: 2016-10-01

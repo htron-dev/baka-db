@@ -1,5 +1,7 @@
 # Survived Five
 
+![survived-five](https://cdn.myanimelist.net/images/manga/2/196363.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: サヴァイヴド ファイブ

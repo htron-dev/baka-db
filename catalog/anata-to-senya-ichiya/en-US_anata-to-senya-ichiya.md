@@ -1,5 +1,7 @@
 # Anata to Senya Ichiya
 
+![anata-to-senya-ichiya](https://cdn.myanimelist.net/images/manga/2/124009.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

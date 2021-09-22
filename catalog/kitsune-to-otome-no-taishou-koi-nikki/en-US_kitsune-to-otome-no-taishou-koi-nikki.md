@@ -1,5 +1,7 @@
 # Kitsune to Otome no Taishou Koi Nikki
 
+![kitsune-to-otome-no-taishou-koi-nikki](https://cdn.myanimelist.net/images/manga/1/238879.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 狐と乙女の大正恋日記

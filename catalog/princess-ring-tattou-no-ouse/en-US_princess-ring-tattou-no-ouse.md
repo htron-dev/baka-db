@@ -1,5 +1,7 @@
 # Princess Ring: Tattou no Ouse
 
+![princess-ring-tattou-no-ouse](https://cdn.myanimelist.net/images/manga/3/182206.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

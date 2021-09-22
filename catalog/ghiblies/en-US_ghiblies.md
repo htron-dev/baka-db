@@ -1,5 +1,7 @@
 # Ghiblies
 
+![ghiblies](https://cdn.myanimelist.net/images/anime/6/75924.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ギブリーズ

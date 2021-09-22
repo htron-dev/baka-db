@@ -1,5 +1,7 @@
 # Yami Shibai
 
+![yami-shibai](https://cdn.myanimelist.net/images/manga/2/245698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

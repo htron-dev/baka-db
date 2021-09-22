@@ -1,5 +1,7 @@
 # Kage kara Mamoru!
 
+![kage-kara-mamoru](https://cdn.myanimelist.net/images/manga/2/163383.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 陰からマモル！

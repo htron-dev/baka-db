@@ -1,5 +1,7 @@
 # Heart no Kuni no Alice: Wonderful Wonder World
 
+![heart-no-kuni-no-alice-wonderful-wonder-world](https://cdn.myanimelist.net/images/manga/4/30661.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

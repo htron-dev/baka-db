@@ -1,5 +1,7 @@
 # Nibun no Wan! Ouji
 
+![nibun-no-wan-ouji](https://cdn.myanimelist.net/images/manga/1/133207.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 30

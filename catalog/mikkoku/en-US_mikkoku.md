@@ -1,5 +1,7 @@
 # Mikkoku
 
+![mikkoku](https://cdn.myanimelist.net/images/manga/1/18459.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Happy Happy Clover
 
+![happy-happy-clover](https://cdn.myanimelist.net/images/anime/13/17267.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: はぴはぴクローバー
@@ -13,7 +15,6 @@
 
 -   comedy
 -   fantasy
-
 -   shoujo
 
 ## Sinopse

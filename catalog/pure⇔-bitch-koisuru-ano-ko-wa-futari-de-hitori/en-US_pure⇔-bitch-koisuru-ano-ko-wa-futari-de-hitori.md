@@ -1,5 +1,7 @@
 # Pure⇔Bitch! Koisuru Ano Ko wa Futari de Hitori
 
+![pure⇔-bitch-koisuru-ano-ko-wa-futari-de-hitori](https://cdn.myanimelist.net/images/manga/1/169781.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

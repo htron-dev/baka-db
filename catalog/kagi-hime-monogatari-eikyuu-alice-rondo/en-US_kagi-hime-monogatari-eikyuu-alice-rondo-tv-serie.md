@@ -1,5 +1,7 @@
 # Kagi Hime Monogatari: Eikyuu Alice Rondo
 
+![kagi-hime-monogatari-eikyuu-alice-rondo](https://cdn.myanimelist.net/images/anime/6/28822.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 鍵姫物語 永久アリス輪舞曲

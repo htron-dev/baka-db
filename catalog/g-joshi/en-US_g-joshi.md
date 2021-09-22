@@ -1,5 +1,7 @@
 # G Joshi!
 
+![g-joshi](https://cdn.myanimelist.net/images/manga/3/165139.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

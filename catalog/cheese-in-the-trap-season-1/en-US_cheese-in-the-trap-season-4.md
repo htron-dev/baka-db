@@ -1,5 +1,7 @@
 # Cheese in the Trap Season 4
 
+![cheese-in-the-trap-season-4](https://cdn.myanimelist.net/images/manga/2/204021.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Wild 7 Another Bouryaku Unga
 
+![wild-7-another-bouryaku-unga](https://cdn.myanimelist.net/images/anime/1992/111265.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ワイルド 7 another 　謀略運河

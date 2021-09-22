@@ -1,5 +1,7 @@
 # Hetalia World☆Stars
 
+![hetalia-world☆-stars](https://cdn.myanimelist.net/images/manga/3/152056.jpg)
+
 -   **type**: manga
 -   **original-name**: ヘタリア World☆Stars
 -   **start-date**: 2014-09-22

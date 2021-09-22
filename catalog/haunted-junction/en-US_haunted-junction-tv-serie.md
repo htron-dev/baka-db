@@ -1,5 +1,7 @@
 # Haunted Junction
 
+![haunted-junction](https://cdn.myanimelist.net/images/anime/1163/94507.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: HAUNTED じゃんくしょん

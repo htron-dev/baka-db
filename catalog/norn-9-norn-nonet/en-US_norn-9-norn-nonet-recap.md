@@ -1,5 +1,7 @@
 # Norn9: Norn+Nonet Recap
 
+![norn-9-norn-nonet-recap](https://cdn.myanimelist.net/images/anime/8/78965.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: NORN9 ノルン+ノネット 総集編　運命の女神

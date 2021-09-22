@@ -1,5 +1,7 @@
 # Maze Maze Wien
 
+![maze-maze-wien](https://cdn.myanimelist.net/images/anime/4/71473.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まぜまぜウィーン

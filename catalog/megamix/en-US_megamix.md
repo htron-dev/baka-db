@@ -1,5 +1,7 @@
 # Megamix
 
+![megamix](https://cdn.myanimelist.net/images/manga/1/155090.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: メガ・ミックス MEGAMIX

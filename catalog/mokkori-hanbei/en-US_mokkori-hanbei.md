@@ -1,5 +1,7 @@
 # Mokkori Hanbei
 
+![mokkori-hanbei](https://cdn.myanimelist.net/images/manga/3/215959.jpg)
+
 -   **type**: manga
 -   **original-name**: もっこり半兵衛
 -   **start-date**: 2015-10-28

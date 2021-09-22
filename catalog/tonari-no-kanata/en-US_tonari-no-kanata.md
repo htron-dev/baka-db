@@ -1,5 +1,7 @@
 # Tonari no Kanata
 
+![tonari-no-kanata](https://cdn.myanimelist.net/images/manga/1/38194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

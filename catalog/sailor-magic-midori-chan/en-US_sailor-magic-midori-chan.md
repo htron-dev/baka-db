@@ -1,5 +1,7 @@
 # Sailor Magic Midori-chan
 
+![sailor-magic-midori-chan](https://cdn.myanimelist.net/images/manga/2/159067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

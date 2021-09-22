@@ -1,5 +1,7 @@
 # Kakomareta Sekai
 
+![kakomareta-sekai](https://cdn.myanimelist.net/images/anime/2/28454.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 囲まれた世界

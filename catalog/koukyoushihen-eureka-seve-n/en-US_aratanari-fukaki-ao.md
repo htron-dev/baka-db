@@ -1,5 +1,7 @@
 # Aratanari Fukaki Ao
 
+![aratanari-fukaki-ao](https://cdn.myanimelist.net/images/anime/7/43495.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 新たなり深き青

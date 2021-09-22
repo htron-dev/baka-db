@@ -1,5 +1,7 @@
 # Angel's Feather
 
+![angels-feather](https://cdn.myanimelist.net/images/anime/1/1640.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: エンジェルズフェザー Angel's Feather

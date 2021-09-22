@@ -1,5 +1,7 @@
 # Omoikomi wa Koi no Hajimari
 
+![omoikomi-wa-koi-no-hajimari](https://cdn.myanimelist.net/images/manga/2/112575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

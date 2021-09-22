@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Niji no Michishirube
 
+![ginga-tetsudou-999-niji-no-michishirube](https://cdn.myanimelist.net/images/anime/5/66929.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道９９９ 虹の道標

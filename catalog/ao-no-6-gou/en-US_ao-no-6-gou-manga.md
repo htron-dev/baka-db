@@ -1,5 +1,7 @@
 # Ao no 6-gou
 
+![ao-no-6-gou](https://cdn.myanimelist.net/images/manga/3/76761.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 3

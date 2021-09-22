@@ -1,5 +1,7 @@
 # Bakusou Circuit Roman Twin
 
+![bakusou-circuit-roman-twin](https://cdn.myanimelist.net/images/anime/4/37707.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 爆走サーキット·ロマン TWIN

@@ -1,5 +1,7 @@
 # Itsumademo Chuunibyou
 
+![itsumademo-chuunibyou](https://cdn.myanimelist.net/images/manga/1/178441.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

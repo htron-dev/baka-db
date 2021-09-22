@@ -1,5 +1,7 @@
 # Senki to Yobareta Otoko, Ouke ni Ansatsu saretara Musume wo Hiroi, Issho ni Slow Life wo Hajimeru: Innocent Days
 
+![senki-to-yobareta-otoko-ouke-ni-ansatsu-saretara-musume-wo-hiroi-issho-ni-slow-life-wo-hajimeru-innocent-days](https://cdn.myanimelist.net/images/manga/1/235182.jpg)
+
 -   **type**: manga
 -   **original-name**: 戦鬼と呼ばれた男、王家に暗殺されたら娘を拾い、一緒にスローライフをはじめる innocent days
 -   **start-date**: 2019-11-21

@@ -1,5 +1,7 @@
 # El Hazard 2: The Magnificent World
 
+![el-hazard-2-the-magnificent-world](https://cdn.myanimelist.net/images/anime/11/2796.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 神秘の世界 エルハザード 第 2 期

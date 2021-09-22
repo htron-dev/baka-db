@@ -1,5 +1,7 @@
 # HiraHira Hyuun
 
+![hira-hira-hyuun](https://cdn.myanimelist.net/images/manga/1/30392.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Termina
 
+![termina](https://cdn.myanimelist.net/images/manga/3/149368.jpg)
+
 -   **type**: manga
 -   **original-name**: てるみな
 -   **start-date**: 2011-02-28

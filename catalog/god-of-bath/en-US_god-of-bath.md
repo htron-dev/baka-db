@@ -1,5 +1,7 @@
 # God of Bath
 
+![god-of-bath](https://cdn.myanimelist.net/images/manga/5/106187.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Cholong-iui Yesnal-Yeohaeng
 
+![cholong-iui-yesnal-yeohaeng](https://cdn.myanimelist.net/images/anime/1571/115250.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 초롱이의 옛날여행
@@ -10,7 +12,6 @@
 ## Tags
 
 -   historical
-
 -   fantasy
 
 ## Sinopse

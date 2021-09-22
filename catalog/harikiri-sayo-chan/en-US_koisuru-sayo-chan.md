@@ -1,5 +1,7 @@
 # Koisuru Sayo-chan
 
+![koisuru-sayo-chan](https://cdn.myanimelist.net/images/manga/3/17020.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 恋するさよちゃん

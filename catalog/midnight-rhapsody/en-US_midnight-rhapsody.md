@@ -1,5 +1,7 @@
 # Midnight Rhapsody
 
+![midnight-rhapsody](https://cdn.myanimelist.net/images/manga/2/106173.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 골방환상곡

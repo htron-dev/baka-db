@@ -1,5 +1,7 @@
 # Gokudo na Kare ni Kubittake
 
+![gokudo-na-kare-ni-kubittake](https://cdn.myanimelist.net/images/manga/1/153361.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ゴクドーな彼に首ったけ

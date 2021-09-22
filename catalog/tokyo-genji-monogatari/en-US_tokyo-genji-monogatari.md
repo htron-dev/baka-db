@@ -1,5 +1,7 @@
 # Tokyo Genji Monogatari
 
+![tokyo-genji-monogatari](https://cdn.myanimelist.net/images/manga/2/170929.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

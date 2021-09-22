@@ -1,5 +1,7 @@
 # Neko no Fukurami
 
+![neko-no-fukurami](https://cdn.myanimelist.net/images/manga/2/237854.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ねこのふくらみ

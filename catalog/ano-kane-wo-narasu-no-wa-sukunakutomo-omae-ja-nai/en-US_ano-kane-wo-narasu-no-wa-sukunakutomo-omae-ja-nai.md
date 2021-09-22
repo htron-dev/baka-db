@@ -1,5 +1,7 @@
 # Ano Kane wo Narasu no wa Sukunakutomo Omae ja Nai
 
+![ano-kane-wo-narasu-no-wa-sukunakutomo-omae-ja-nai](https://cdn.myanimelist.net/images/manga/3/243509.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

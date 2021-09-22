@@ -1,5 +1,7 @@
 # Change! - Chigau Watashi ni Nareta Nara
 
+![change-chigau-watashi-ni-nareta-nara](https://cdn.myanimelist.net/images/manga/1/26687.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ちぇんじ！～ちがうワタシになれたなら～

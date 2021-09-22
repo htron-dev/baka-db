@@ -1,5 +1,7 @@
 # Dokushin Apartment Dokudami-sou
 
+![dokushin-apartment-dokudami-sou](https://cdn.myanimelist.net/images/anime/3/26386.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 独身アパートどくだみ荘

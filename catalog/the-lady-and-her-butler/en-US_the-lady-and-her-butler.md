@@ -1,5 +1,7 @@
 # The Lady and Her Butler
 
+![the-lady-and-her-butler](https://cdn.myanimelist.net/images/manga/2/242877.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 아가씨와 우렁총각
 -   **start-date**: 2017-06-10

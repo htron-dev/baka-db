@@ -1,5 +1,7 @@
 # Cello Hiki no Gauche
 
+![cello-hiki-no-gauche](https://cdn.myanimelist.net/images/anime/9/80127.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: セロひきのゴーシュ
@@ -9,7 +11,6 @@
 ## Tags
 
 -   music
-
 -   fantasy
 
 ## Sinopse

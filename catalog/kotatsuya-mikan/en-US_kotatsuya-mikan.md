@@ -1,5 +1,7 @@
 # Kotatsuya Mikan
 
+![kotatsuya-mikan](https://cdn.myanimelist.net/images/manga/3/89539.jpg)
+
 -   **type**: manga
 -   **original-name**: こたつやみかん
 -   **start-date**: 2012-03-25

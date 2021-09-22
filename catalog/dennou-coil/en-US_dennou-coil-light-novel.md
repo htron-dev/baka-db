@@ -1,5 +1,7 @@
 # Dennou Coil
 
+![dennou-coil](https://cdn.myanimelist.net/images/manga/3/41066.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: 電脳コイル

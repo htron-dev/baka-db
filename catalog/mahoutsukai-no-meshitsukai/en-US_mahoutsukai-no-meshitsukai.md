@@ -1,5 +1,7 @@
 # Mahoutsukai no Meshitsukai
 
+![mahoutsukai-no-meshitsukai](https://cdn.myanimelist.net/images/manga/2/160786.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

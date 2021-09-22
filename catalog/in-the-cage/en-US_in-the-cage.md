@@ -1,5 +1,7 @@
 # In the Cage
 
+![in-the-cage](https://cdn.myanimelist.net/images/manga/2/223596.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

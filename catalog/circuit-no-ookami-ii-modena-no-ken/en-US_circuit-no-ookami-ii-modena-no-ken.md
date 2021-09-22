@@ -1,5 +1,7 @@
 # Circuit no Ookami II: Modena no Ken
 
+![circuit-no-ookami-ii-modena-no-ken](https://cdn.myanimelist.net/images/anime/1192/90761.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サーキットの狼 II モデナの剣

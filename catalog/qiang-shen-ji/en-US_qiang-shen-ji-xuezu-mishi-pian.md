@@ -1,5 +1,7 @@
 # Qiang Shen Ji: Xuezu Mishi Pian
 
+![qiang-shen-ji-xuezu-mishi-pian](https://cdn.myanimelist.net/images/anime/1898/108205.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 枪神记 血族秘史篇

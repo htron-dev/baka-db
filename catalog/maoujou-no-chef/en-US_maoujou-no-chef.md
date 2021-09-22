@@ -1,5 +1,7 @@
 # Maoujou no Chef
 
+![maoujou-no-chef](https://cdn.myanimelist.net/images/manga/1/194875.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔王城のシェフ
 -   **start-date**: 2017-04-28

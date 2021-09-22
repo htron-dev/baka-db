@@ -1,5 +1,7 @@
 # Romero wa Sekai wo Sukuwanai
 
+![romero-wa-sekai-wo-sukuwanai](https://cdn.myanimelist.net/images/manga/3/234921.jpg)
+
 -   **type**: manga
 -   **original-name**: ロメロは世界を救わない
 -   **start-date**: 2019-11-15

@@ -1,5 +1,7 @@
 # Uchuu Senkan Tiramisù Specials
 
+![uchuu-senkan-tiramisu-specials](https://cdn.myanimelist.net/images/anime/1770/92820.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 宇宙戦艦ティラミス

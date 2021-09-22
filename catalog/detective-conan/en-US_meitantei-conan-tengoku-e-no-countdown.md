@@ -1,5 +1,7 @@
 # Meitantei Conan: Tengoku e no Countdown
 
+![meitantei-conan-tengoku-e-no-countdown](https://cdn.myanimelist.net/images/manga/2/240667.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

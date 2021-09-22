@@ -1,5 +1,7 @@
 # Eien no With
 
+![eien-no-with](https://cdn.myanimelist.net/images/manga/3/19931.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

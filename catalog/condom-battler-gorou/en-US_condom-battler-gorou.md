@@ -1,5 +1,7 @@
 # Condom Battler Gorou
 
+![condom-battler-gorou](https://cdn.myanimelist.net/images/anime/1305/108045.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: コンドームバトラー ゴロー

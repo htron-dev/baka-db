@@ -1,5 +1,7 @@
 # Amai♥Jouji
 
+![amai♥-jouji](https://cdn.myanimelist.net/images/manga/1/90537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

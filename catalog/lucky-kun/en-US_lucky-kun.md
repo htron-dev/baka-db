@@ -1,5 +1,7 @@
 # Lucky-kun
 
+![lucky-kun](https://cdn.myanimelist.net/images/manga/2/20435.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

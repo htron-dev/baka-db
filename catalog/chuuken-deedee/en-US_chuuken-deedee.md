@@ -1,5 +1,7 @@
 # Chuuken Deedee
 
+![chuuken-deedee](https://cdn.myanimelist.net/images/manga/2/5358.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 忠犬ディディー

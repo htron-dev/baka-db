@@ -1,5 +1,7 @@
 # Miss Wizard
 
+![miss-wizard](https://cdn.myanimelist.net/images/manga/2/36725.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: Miss ウィザード

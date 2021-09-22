@@ -1,5 +1,7 @@
 # Volley no Tamago
 
+![volley-no-tamago](https://cdn.myanimelist.net/images/manga/3/199907.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Hidamari Sketch x 365 Recap
 
+![hidamari-sketch-x-365-recap](https://cdn.myanimelist.net/images/anime/4/71497.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 「ひだまりスケッチ ×365」総集編

@@ -1,5 +1,7 @@
 # Mist Gears Blast
 
+![mist-gears-blast](https://cdn.myanimelist.net/images/manga/1/222143.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

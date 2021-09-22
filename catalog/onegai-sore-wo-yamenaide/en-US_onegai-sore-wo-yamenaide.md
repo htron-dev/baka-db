@@ -1,5 +1,7 @@
 # Onegai, Sore wo Yamenaide
 
+![onegai-sore-wo-yamenaide](https://cdn.myanimelist.net/images/manga/1/161178.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

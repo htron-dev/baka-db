@@ -1,5 +1,7 @@
 # Hentai Saiminjutsushi no Yarikirenai Jikenbo
 
+![hentai-saiminjutsushi-no-yarikirenai-jikenbo](https://cdn.myanimelist.net/images/manga/1/175503.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

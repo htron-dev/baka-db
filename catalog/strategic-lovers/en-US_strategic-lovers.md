@@ -1,5 +1,7 @@
 # Strategic Lovers
 
+![strategic-lovers](https://cdn.myanimelist.net/images/manga/2/247858.jpg)
+
 -   **type**: manga
 -   **original-name**: ストラテジックラバーズ
 -   **start-date**: 2021-02-09

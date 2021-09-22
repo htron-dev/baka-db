@@ -1,5 +1,7 @@
 # Kokuyou no Kishi Hime: Gekka no Tsurgi wa Taorarete
 
+![kokuyou-no-kishi-hime-gekka-no-tsurgi-wa-taorarete](https://cdn.myanimelist.net/images/manga/1/153328.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 黒曜の騎士姫 ～月花の剣は手折られて～

@@ -1,5 +1,7 @@
 # Rurimiya Mugen Kobutsuten
 
+![rurimiya-mugen-kobutsuten](https://cdn.myanimelist.net/images/manga/2/158225.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 49

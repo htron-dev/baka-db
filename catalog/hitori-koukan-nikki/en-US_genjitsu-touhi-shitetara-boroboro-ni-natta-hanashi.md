@@ -1,5 +1,7 @@
 # Genjitsu Touhi shitetara Boroboro ni Natta Hanashi
 
+![genjitsu-touhi-shitetara-boroboro-ni-natta-hanashi](https://cdn.myanimelist.net/images/manga/2/223707.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

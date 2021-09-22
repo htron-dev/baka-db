@@ -1,5 +1,7 @@
 # Goal FH: Field Hunter
 
+![goal-fh-field-hunter](https://cdn.myanimelist.net/images/anime/8/61767.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ゴール FH (フィールド・ハンター)

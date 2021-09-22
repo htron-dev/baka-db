@@ -1,5 +1,7 @@
 # Dokyuu Hentai HxEros
 
+![dokyuu-hentai-hx-eros](https://cdn.myanimelist.net/images/anime/1342/108321.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ド級編隊エグゼロス

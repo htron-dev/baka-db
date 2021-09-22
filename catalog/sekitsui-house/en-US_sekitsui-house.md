@@ -1,5 +1,7 @@
 # Sekitsui House
 
+![sekitsui-house](https://cdn.myanimelist.net/images/manga/2/156973.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

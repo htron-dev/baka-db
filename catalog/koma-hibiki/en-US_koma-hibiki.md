@@ -1,5 +1,7 @@
 # Koma Hibiki
 
+![koma-hibiki](https://cdn.myanimelist.net/images/manga/2/152768.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Mou Chuunibyou demo Ii mon!
 
+![mou-chuunibyou-demo-ii-mon](https://cdn.myanimelist.net/images/manga/2/165077.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: もう中二病でもいいもんっ!

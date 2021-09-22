@@ -1,5 +1,7 @@
 # Oiran Girl
 
+![oiran-girl](https://cdn.myanimelist.net/images/manga/2/164531.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Unico: Mahou no Shima e
 
+![unico-mahou-no-shima-e](https://cdn.myanimelist.net/images/anime/1850/110746.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ユニコ 魔法の島へ

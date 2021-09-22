@@ -1,5 +1,7 @@
 # Pai Long
 
+![pai-long](https://cdn.myanimelist.net/images/manga/3/183093.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

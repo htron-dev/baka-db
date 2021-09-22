@@ -1,5 +1,7 @@
 # Mako-san to Hachisuka-kun.
 
+![mako-san-to-hachisuka-kun](https://cdn.myanimelist.net/images/manga/2/165557.jpg)
+
 -   **type**: manga
 -   **chapters**: 63
 -   **original-name**: 真子さんとハチスカくん。

@@ -1,5 +1,7 @@
 # Ro-Kyu-Bu!
 
+![ro-kyu-bu](https://cdn.myanimelist.net/images/manga/2/165926.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 82

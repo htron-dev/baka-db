@@ -1,5 +1,7 @@
 # Orikou Yajuu ni wa Aragaenai
 
+![orikou-yajuu-ni-wa-aragaenai](https://cdn.myanimelist.net/images/manga/1/237919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

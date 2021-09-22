@@ -1,5 +1,7 @@
 # Kokumin Quiz
 
+![kokumin-quiz](https://cdn.myanimelist.net/images/manga/1/171260.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

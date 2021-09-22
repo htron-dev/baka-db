@@ -1,5 +1,7 @@
 # Psycho Busters
 
+![psycho-busters](https://cdn.myanimelist.net/images/manga/3/3362.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

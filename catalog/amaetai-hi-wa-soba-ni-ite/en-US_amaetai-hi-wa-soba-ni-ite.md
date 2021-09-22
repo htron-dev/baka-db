@@ -1,5 +1,7 @@
 # Amaetai Hi wa Soba ni Ite.
 
+![amaetai-hi-wa-soba-ni-ite](https://cdn.myanimelist.net/images/manga/1/204826.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

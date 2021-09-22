@@ -1,5 +1,7 @@
 # Saezuru Tori wa Habatakanai: The Clouds Gather
 
+![saezuru-tori-wa-habatakanai-the-clouds-gather](https://cdn.myanimelist.net/images/anime/1070/110685.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 囀る鳥は羽ばたかない The clouds gather

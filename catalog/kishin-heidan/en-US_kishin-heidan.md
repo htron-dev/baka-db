@@ -1,5 +1,7 @@
 # Kishin Heidan
 
+![kishin-heidan](https://cdn.myanimelist.net/images/anime/1409/97288.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: 機神兵団

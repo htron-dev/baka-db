@@ -1,5 +1,7 @@
 # Sweetest Tripper
 
+![sweetest-tripper](https://cdn.myanimelist.net/images/manga/1/13427.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7
@@ -14,8 +16,6 @@
 
 -   Uchida
 -   Kazuna (Story & Art)
-
-## Sinopse
 
 ## Links
 

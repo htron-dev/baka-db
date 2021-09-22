@@ -1,5 +1,7 @@
 # Kishibe Rohan wa Ugokanai
 
+![kishibe-rohan-wa-ugokanai](https://cdn.myanimelist.net/images/manga/3/210302.jpg)
+
 -   **type**: manga
 -   **original-name**: 岸辺露伴は動かない
 -   **start-date**: 1997-06-24

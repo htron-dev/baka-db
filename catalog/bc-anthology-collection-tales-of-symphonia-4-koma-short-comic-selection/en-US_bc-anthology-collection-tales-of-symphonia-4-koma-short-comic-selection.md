@@ -1,5 +1,7 @@
 # BC Anthology Collection: Tales of Symphonia 4-koma Short Comic Selection
 
+![bc-anthology-collection-tales-of-symphonia-4-koma-short-comic-selection](https://cdn.myanimelist.net/images/manga/2/156315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

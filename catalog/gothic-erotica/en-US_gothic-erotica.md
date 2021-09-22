@@ -1,5 +1,7 @@
 # Gothic Erotica
 
+![gothic-erotica](https://cdn.myanimelist.net/images/manga/2/181722.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

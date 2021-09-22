@@ -1,5 +1,7 @@
 # Shin Kidou Senki Gundam Wing: Dual Story - G-Unit
 
+![shin-kidou-senki-gundam-wing-dual-story-g-unit](https://cdn.myanimelist.net/images/manga/4/3527.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # 170 cm☆Otometica
 
+![170-cm☆-otometica](https://cdn.myanimelist.net/images/manga/1/148735.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

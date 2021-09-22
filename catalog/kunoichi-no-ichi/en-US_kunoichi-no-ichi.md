@@ -1,5 +1,7 @@
 # Kunoichi no Ichi!
 
+![kunoichi-no-ichi](https://cdn.myanimelist.net/images/manga/1/187966.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

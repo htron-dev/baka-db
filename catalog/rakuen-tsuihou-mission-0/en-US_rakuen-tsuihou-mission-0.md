@@ -1,5 +1,7 @@
 # Rakuen Tsuihou: Mission.0
 
+![rakuen-tsuihou-mission-0](https://cdn.myanimelist.net/images/manga/2/144473.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Nakahara-kun no Kahogo na Imouto
 
+![nakahara-kun-no-kahogo-na-imouto](https://cdn.myanimelist.net/images/manga/2/158846.jpg)
+
 -   **type**: manga
 -   **original-name**: 中原くんの過保護な妹
 -   **start-date**: 2014-05-30

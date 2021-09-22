@@ -1,5 +1,7 @@
 # Sapphire Gakuen Astro Cafe
 
+![sapphire-gakuen-astro-cafe](https://cdn.myanimelist.net/images/manga/2/14576.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Ryoukataomoi no Mitsugetsu: Koushaku-sama wa Furachi na Yuugi ga Osuki
 
+![ryoukataomoi-no-mitsugetsu-koushaku-sama-wa-furachi-na-yuugi-ga-osuki](https://cdn.myanimelist.net/images/manga/3/184644.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

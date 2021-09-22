@@ -1,5 +1,7 @@
 # Bobobo-bo Bo-bobo?
 
+![bobobo-bo-bo-bobo](https://cdn.myanimelist.net/images/manga/4/126269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8
@@ -24,11 +26,6 @@
    3-6. Bobobo-bo Bo-bobo
 3. Mutekin
 4. Gekisen!! Jankenjima (Fierce!! Rock, Paper, Scissors Island)
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/33617/Bobobo-bo_Bo-bobo)
-    Maruhage Empire's bald henchmen. His name: Bobobo-bo Bo-bobo.
 
 ## Links
 

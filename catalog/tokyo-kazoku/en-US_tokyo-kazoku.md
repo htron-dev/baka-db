@@ -1,5 +1,7 @@
 # Tokyo Kazoku
 
+![tokyo-kazoku](https://cdn.myanimelist.net/images/manga/3/181491.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

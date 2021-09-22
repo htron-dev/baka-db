@@ -1,5 +1,7 @@
 # Hangyodon no Parallel Daisakusen: Kyouryuu Oukoku wa Oosawagi
 
+![hangyodon-no-parallel-daisakusen-kyouryuu-oukoku-wa-oosawagi](https://cdn.myanimelist.net/images/anime/7/70381.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハンギョドンのパラレル大作戦 恐竜王国は大さわぎ

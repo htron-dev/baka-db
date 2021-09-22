@@ -1,5 +1,7 @@
 # Musekinin Kanchou Tylor
 
+![musekinin-kanchou-tylor](https://cdn.myanimelist.net/images/anime/4/14898.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 無責任艦長タイラー

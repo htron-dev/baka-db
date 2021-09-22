@@ -1,5 +1,7 @@
 # Harmonie
 
+![harmonie](https://cdn.myanimelist.net/images/anime/2/55197.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アルモニ

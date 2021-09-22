@@ -1,5 +1,7 @@
 # Atashi no Onna ni Te wo Dasuna
 
+![atashi-no-onna-ni-te-wo-dasuna](https://cdn.myanimelist.net/images/manga/2/9438.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

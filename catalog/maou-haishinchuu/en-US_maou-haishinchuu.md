@@ -1,5 +1,7 @@
 # Maou, Haishinchuu!?
 
+![maou-haishinchuu](https://cdn.myanimelist.net/images/manga/3/185309.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔王、配信中!?
 -   **start-date**: 2016-11-02

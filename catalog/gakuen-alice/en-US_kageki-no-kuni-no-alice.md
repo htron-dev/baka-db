@@ -1,5 +1,7 @@
 # Kageki no Kuni no Alice
 
+![kageki-no-kuni-no-alice](https://cdn.myanimelist.net/images/manga/1/190843.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Shaman King: The Super Star
 
+![shaman-king-the-super-star](https://cdn.myanimelist.net/images/manga/3/215123.jpg)
+
 -   **type**: manga
 -   **original-name**: SHAMAN KING THE SUPER STAR
 -   **start-date**: 2018-05-17

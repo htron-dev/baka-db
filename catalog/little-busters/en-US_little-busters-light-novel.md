@@ -1,5 +1,7 @@
 # Little Busters!
 
+![little-busters](https://cdn.myanimelist.net/images/manga/2/164823.jpg)
+
 -   **type**: light-novel
 -   **original-name**: リトルバスターズ!
 -   **start-date**: 2013-10-30

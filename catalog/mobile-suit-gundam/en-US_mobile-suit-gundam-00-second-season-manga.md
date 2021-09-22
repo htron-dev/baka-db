@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00 Second Season
 
+![mobile-suit-gundam-00-second-season](https://cdn.myanimelist.net/images/manga/3/28246.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

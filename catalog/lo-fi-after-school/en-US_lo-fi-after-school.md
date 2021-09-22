@@ -1,5 +1,7 @@
 # Lo-Fi After School
 
+![lo-fi-after-school](https://cdn.myanimelist.net/images/manga/1/128263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

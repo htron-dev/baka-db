@@ -1,5 +1,7 @@
 # Kasai no Hito
 
+![kasai-no-hito](https://cdn.myanimelist.net/images/manga/2/168725.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 136

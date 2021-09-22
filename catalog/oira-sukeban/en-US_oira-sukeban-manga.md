@@ -1,5 +1,7 @@
 # Oira Sukeban
 
+![oira-sukeban](https://cdn.myanimelist.net/images/manga/2/11931.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: おいら女蛮

@@ -1,5 +1,7 @@
 # Matsurika Kanriden
 
+![matsurika-kanriden](https://cdn.myanimelist.net/images/manga/2/224411.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 茉莉花官吏伝
 -   **start-date**: 2017-07-15

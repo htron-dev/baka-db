@@ -1,5 +1,7 @@
 # Ringlet
 
+![ringlet](https://cdn.myanimelist.net/images/manga/2/163794.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

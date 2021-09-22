@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Hakubutsukan 9: Oshikiri Idan & Frankenstein
 
+![ito-junji-kyoufu-hakubutsukan-9-oshikiri-idan-frankenstein](https://cdn.myanimelist.net/images/manga/2/142179.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 伊藤潤二恐怖博物館 9 押切異談&フランケンシュタイン

@@ -1,5 +1,7 @@
 # Shinigami no Ballad.
 
+![shinigami-no-ballad](https://cdn.myanimelist.net/images/manga/3/148457.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **original-name**: しにがみのバラッド。

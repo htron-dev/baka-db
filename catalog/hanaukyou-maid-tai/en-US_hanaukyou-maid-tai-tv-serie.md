@@ -1,5 +1,7 @@
 # Hanaukyou Maid-tai
 
+![hanaukyou-maid-tai](https://cdn.myanimelist.net/images/anime/12/3066.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 花右京メイド隊

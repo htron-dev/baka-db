@@ -1,5 +1,7 @@
 # Cream Caramel Chocolate
 
+![cream-caramel-chocolate](https://cdn.myanimelist.net/images/manga/2/22127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

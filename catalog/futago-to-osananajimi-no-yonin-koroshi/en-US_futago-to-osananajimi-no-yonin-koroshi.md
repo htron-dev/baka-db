@@ -1,5 +1,7 @@
 # Futago to Osananajimi no Yonin Koroshi
 
+![futago-to-osananajimi-no-yonin-koroshi](https://cdn.myanimelist.net/images/manga/2/163565.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Mayple-san no Koucha Jikan
 
+![mayple-san-no-koucha-jikan](https://cdn.myanimelist.net/images/manga/2/68503.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

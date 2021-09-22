@@ -1,5 +1,7 @@
 # Tai Yi Xian Mo Lu Zhi Ling Fei Ji II
 
+![tai-yi-xian-mo-lu-zhi-ling-fei-ji-ii](https://cdn.myanimelist.net/images/anime/1487/110779.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 太乙仙魔录之灵飞纪 Ⅱ

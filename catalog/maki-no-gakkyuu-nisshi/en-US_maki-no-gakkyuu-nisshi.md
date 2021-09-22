@@ -1,5 +1,7 @@
 # Maki no Gakkyuu Nisshi
 
+![maki-no-gakkyuu-nisshi](https://cdn.myanimelist.net/images/manga/2/106543.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

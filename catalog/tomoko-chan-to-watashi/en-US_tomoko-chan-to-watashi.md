@@ -1,5 +1,7 @@
 # Tomoko-chan to Watashi
 
+![tomoko-chan-to-watashi](https://cdn.myanimelist.net/images/anime/3/66225.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とも子ちゃんとわたし
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   school
 
 ## Sinopse

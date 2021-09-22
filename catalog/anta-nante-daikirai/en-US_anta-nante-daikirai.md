@@ -1,5 +1,7 @@
 # Anta Nante Daikirai
 
+![anta-nante-daikirai](https://cdn.myanimelist.net/images/manga/1/220712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

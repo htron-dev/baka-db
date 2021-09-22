@@ -1,5 +1,7 @@
 # Uchi Tama?! Uchi no Tama Shirimasen ka?
 
+![uchi-tama-uchi-no-tama-shirimasen-ka](https://cdn.myanimelist.net/images/anime/1624/103162.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: うちタマ?!~うちのタマ知りませんか?~

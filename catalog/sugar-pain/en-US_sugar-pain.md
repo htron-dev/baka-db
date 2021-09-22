@@ -1,5 +1,7 @@
 # Sugar Pain
 
+![sugar-pain](https://cdn.myanimelist.net/images/manga/5/113745.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

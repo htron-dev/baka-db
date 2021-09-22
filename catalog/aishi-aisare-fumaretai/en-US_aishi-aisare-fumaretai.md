@@ -1,5 +1,7 @@
 # Aishi, Aisare, Fumaretai.
 
+![aishi-aisare-fumaretai](https://cdn.myanimelist.net/images/manga/1/192952.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

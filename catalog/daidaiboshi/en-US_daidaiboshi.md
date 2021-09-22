@@ -1,5 +1,7 @@
 # Daidaiboshi
 
+![daidaiboshi](https://cdn.myanimelist.net/images/manga/2/28722.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 橙星

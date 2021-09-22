@@ -1,5 +1,7 @@
 # Otoko to Onna no Heya
 
+![otoko-to-onna-no-heya](https://cdn.myanimelist.net/images/manga/3/235740.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

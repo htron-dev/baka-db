@@ -1,5 +1,7 @@
 # Kakugo wa Ii ka Soko no Joshi.
 
+![kakugo-wa-ii-ka-soko-no-joshi](https://cdn.myanimelist.net/images/manga/2/131199.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

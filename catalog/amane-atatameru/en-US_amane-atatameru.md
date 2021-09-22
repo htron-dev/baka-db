@@ -1,5 +1,7 @@
 # Amane Atatameru
 
+![amane-atatameru](https://cdn.myanimelist.net/images/manga/2/135431.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

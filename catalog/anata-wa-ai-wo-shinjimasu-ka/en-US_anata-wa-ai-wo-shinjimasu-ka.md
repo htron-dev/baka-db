@@ -1,5 +1,7 @@
 # Anata wa Ai wo Shinjimasu ka?
 
+![anata-wa-ai-wo-shinjimasu-ka](https://cdn.myanimelist.net/images/manga/1/238917.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

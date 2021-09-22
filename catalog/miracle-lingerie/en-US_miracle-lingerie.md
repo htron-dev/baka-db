@@ -1,5 +1,7 @@
 # Miracle Lingerie
 
+![miracle-lingerie](https://cdn.myanimelist.net/images/manga/3/81516.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

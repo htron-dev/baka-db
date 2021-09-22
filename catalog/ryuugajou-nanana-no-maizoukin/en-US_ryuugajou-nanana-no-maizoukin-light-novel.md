@@ -1,5 +1,7 @@
 # Ryuugajou Nanana no Maizoukin
 
+![ryuugajou-nanana-no-maizoukin](https://cdn.myanimelist.net/images/manga/3/109151.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 111

@@ -1,5 +1,7 @@
 # Lost Universe
 
+![lost-universe](https://cdn.myanimelist.net/images/anime/3/20409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ロスト・ユニバース

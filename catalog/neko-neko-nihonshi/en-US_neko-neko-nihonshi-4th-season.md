@@ -1,5 +1,7 @@
 # Neko Neko Nihonshi 4th Season
 
+![neko-neko-nihonshi-4th-season](https://cdn.myanimelist.net/images/anime/1757/106368.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: ねこねこ日本史 第 4 期
@@ -11,7 +13,6 @@
 
 -   historical
 -   parody
-
 -   samurai
 
 ## Sinopse

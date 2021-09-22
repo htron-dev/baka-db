@@ -1,5 +1,7 @@
 # The Chef: Shinshou
 
+![the-chef-shinshou](https://cdn.myanimelist.net/images/manga/3/76591.jpg)
+
 -   **type**: manga
 -   **volumes**: 41
 -   **original-name**: ザ・シェフ 新章

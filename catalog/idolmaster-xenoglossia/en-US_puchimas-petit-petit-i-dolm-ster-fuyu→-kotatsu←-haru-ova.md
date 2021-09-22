@@ -1,5 +1,7 @@
 # Puchimas!!: Petit Petit iDOLM@STER - Fuyu→Kotatsu←Haru
 
+![puchimas-petit-petit-i-dolm-ster-fuyu→-kotatsu←-haru](https://cdn.myanimelist.net/images/anime/12/62617.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぷちます！！プチプチ・アイドルマスター　ふゆ → こたつ ← はる

@@ -1,5 +1,7 @@
 # Choukadou Girl ⅙: Nona Video Nikki
 
+![choukadou-girl-⅙-nona-video-nikki](https://cdn.myanimelist.net/images/anime/1641/102913.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: ノーナビデオ日記

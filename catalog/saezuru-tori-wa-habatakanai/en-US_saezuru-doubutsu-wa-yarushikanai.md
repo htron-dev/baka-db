@@ -1,5 +1,7 @@
 # Saezuru Doubutsu wa Yarushikanai!
 
+![saezuru-doubutsu-wa-yarushikanai](https://cdn.myanimelist.net/images/anime/1825/109373.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 囀る動物はやるしかない！

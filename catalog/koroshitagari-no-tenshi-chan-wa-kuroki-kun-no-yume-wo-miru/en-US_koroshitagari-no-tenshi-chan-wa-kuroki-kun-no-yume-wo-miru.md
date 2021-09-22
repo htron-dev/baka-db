@@ -1,5 +1,7 @@
 # Koroshitagari no Tenshi-chan wa Kuroki-kun no Yume wo Miru.
 
+![koroshitagari-no-tenshi-chan-wa-kuroki-kun-no-yume-wo-miru](https://cdn.myanimelist.net/images/manga/2/160746.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

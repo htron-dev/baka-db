@@ -1,5 +1,7 @@
 # Prism Baby
 
+![prism-baby](https://cdn.myanimelist.net/images/manga/3/20638.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

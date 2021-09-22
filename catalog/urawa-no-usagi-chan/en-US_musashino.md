@@ -1,5 +1,7 @@
 # Musashino!
 
+![musashino](https://cdn.myanimelist.net/images/anime/6/85104.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: むさしの！
 -   **rating**: PG - Children

@@ -1,5 +1,7 @@
 # Hikari to Tomo ni...: Jiheishouji wo Kakaete
 
+![hikari-to-tomo-ni-jiheishouji-wo-kakaete](https://cdn.myanimelist.net/images/manga/3/179208.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 92

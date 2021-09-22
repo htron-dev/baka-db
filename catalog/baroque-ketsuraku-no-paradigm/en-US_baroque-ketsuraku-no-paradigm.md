@@ -1,5 +1,7 @@
 # Baroque: Ketsuraku no Paradigm
 
+![baroque-ketsuraku-no-paradigm](https://cdn.myanimelist.net/images/manga/1/191492.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Ying Xiong Bie Nao
 
+![ying-xiong-bie-nao](https://cdn.myanimelist.net/images/anime/4/81279.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 英雄别闹

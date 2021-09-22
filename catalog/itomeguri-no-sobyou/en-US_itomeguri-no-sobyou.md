@@ -1,5 +1,7 @@
 # Itomeguri no Sobyou
 
+![itomeguri-no-sobyou](https://cdn.myanimelist.net/images/manga/2/179692.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Daidai no Recipe
 
+![daidai-no-recipe](https://cdn.myanimelist.net/images/manga/2/193633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

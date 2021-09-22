@@ -1,5 +1,7 @@
 # Hakoniwa Kigeki
 
+![hakoniwa-kigeki](https://cdn.myanimelist.net/images/manga/1/134925.jpg)
+
 -   **type**: manga
 -   **original-name**: ハコニワ喜劇
 

@@ -1,5 +1,7 @@
 # Good Morning Call
 
+![good-morning-call](https://cdn.myanimelist.net/images/anime/5/4064.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: グッドモーニング・コール

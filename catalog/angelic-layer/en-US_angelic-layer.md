@@ -1,5 +1,7 @@
 # Angelic Layer
 
+![angelic-layer](https://cdn.myanimelist.net/images/manga/3/179060.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

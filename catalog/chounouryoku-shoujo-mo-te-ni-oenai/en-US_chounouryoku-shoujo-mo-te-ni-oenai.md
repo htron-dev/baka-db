@@ -1,5 +1,7 @@
 # Chounouryoku Shoujo mo Te ni Oenai!
 
+![chounouryoku-shoujo-mo-te-ni-oenai](https://cdn.myanimelist.net/images/manga/2/208940.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Zoku Natsume Yuujinchou: 3D Nyanko-sensei Gekijou
 
+![zoku-natsume-yuujinchou-3-d-nyanko-sensei-gekijou](https://cdn.myanimelist.net/images/anime/9/53183.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 続 夏目友人帳 3 Ｄニャンコ先生劇場

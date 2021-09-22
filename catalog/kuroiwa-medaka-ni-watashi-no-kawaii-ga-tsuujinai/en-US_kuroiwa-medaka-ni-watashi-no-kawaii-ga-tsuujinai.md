@@ -1,5 +1,7 @@
 # Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
 
+![kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai](https://cdn.myanimelist.net/images/manga/2/249234.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒岩メダカに私の可愛いが通じない
 -   **start-date**: 2021-05-26

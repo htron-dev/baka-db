@@ -1,5 +1,7 @@
 # Blue Wars
 
+![blue-wars](https://cdn.myanimelist.net/images/manga/3/215095.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

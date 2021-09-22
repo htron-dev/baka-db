@@ -1,5 +1,7 @@
 # Wan no Mi
 
+![wan-no-mi](https://cdn.myanimelist.net/images/manga/2/36213.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

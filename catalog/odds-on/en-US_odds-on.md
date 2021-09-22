@@ -1,5 +1,7 @@
 # Odd's on
 
+![odds-on](https://cdn.myanimelist.net/images/manga/3/38306.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

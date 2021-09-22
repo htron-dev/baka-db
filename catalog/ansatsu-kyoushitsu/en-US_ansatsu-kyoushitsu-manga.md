@@ -1,5 +1,7 @@
 # Ansatsu Kyoushitsu
 
+![ansatsu-kyoushitsu](https://cdn.myanimelist.net/images/manga/3/243932.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 187

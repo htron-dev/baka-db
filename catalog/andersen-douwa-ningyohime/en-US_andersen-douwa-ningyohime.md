@@ -1,5 +1,7 @@
 # Andersen Douwa: Ningyohime
 
+![andersen-douwa-ningyohime](https://cdn.myanimelist.net/images/anime/1917/112312.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アンデルセン童話 にんぎょ姫

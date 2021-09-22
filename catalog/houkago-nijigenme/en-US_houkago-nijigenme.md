@@ -1,5 +1,7 @@
 # Houkago Nijigenme!
 
+![houkago-nijigenme](https://cdn.myanimelist.net/images/manga/1/202409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

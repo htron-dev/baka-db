@@ -1,5 +1,7 @@
 # Akagami no Shirayuki-hime 2nd Season
 
+![akagami-no-shirayuki-hime-2nd-season](https://cdn.myanimelist.net/images/anime/12/77834.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 赤髪の白雪姫

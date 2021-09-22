@@ -1,5 +1,7 @@
 # Mingo: Italia-jin ga Minna Moteru to Omouna yo
 
+![mingo-italia-jin-ga-minna-moteru-to-omouna-yo](https://cdn.myanimelist.net/images/manga/3/225514.jpg)
+
 -   **type**: manga
 -   **original-name**: ミンゴ イタリア人がみんなモテると思うなよ
 -   **start-date**: 2019-10-12

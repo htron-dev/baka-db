@@ -1,5 +1,7 @@
 # Kyou kara Ore wa!!
 
+![kyou-kara-ore-wa](https://cdn.myanimelist.net/images/anime/1042/110294.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 今日から俺は！！

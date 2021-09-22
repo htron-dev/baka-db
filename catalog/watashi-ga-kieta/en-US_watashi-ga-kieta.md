@@ -1,5 +1,7 @@
 # Watashi ga Kieta!
 
+![watashi-ga-kieta](https://cdn.myanimelist.net/images/manga/2/54081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

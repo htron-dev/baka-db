@@ -1,5 +1,7 @@
 # Netsuzou TRap
 
+![netsuzou-t-rap](https://cdn.myanimelist.net/images/anime/10/86667.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 捏造トラップ―NTR―

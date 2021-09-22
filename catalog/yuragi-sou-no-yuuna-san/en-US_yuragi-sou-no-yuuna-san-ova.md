@@ -1,5 +1,7 @@
 # Yuragi-sou no Yuuna-san OVA
 
+![yuragi-sou-no-yuuna-san-ova](https://cdn.myanimelist.net/images/anime/8/89469.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ゆらぎ荘の幽奈さん

@@ -1,5 +1,7 @@
 # Aza
 
+![aza](https://cdn.myanimelist.net/images/manga/3/15385.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

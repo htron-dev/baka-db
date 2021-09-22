@@ -1,5 +1,7 @@
 # Boku no Shotaiken
 
+![boku-no-shotaiken](https://cdn.myanimelist.net/images/manga/1/16151.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ボクの初体験

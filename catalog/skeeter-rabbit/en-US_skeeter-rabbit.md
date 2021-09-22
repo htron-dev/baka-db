@@ -1,5 +1,7 @@
 # Skeeter Rabbit!!
 
+![skeeter-rabbit](https://cdn.myanimelist.net/images/manga/2/219434.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

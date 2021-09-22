@@ -1,5 +1,7 @@
 # Kannou Shousetsuka no H na Iitsuke
 
+![kannou-shousetsuka-no-h-na-iitsuke](https://cdn.myanimelist.net/images/manga/2/192346.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Senjou no Valkyria 2: Gallian Ouritsu Shikan Gakkou - Our Only Days
 
+![senjou-no-valkyria-2-gallian-ouritsu-shikan-gakkou-our-only-days](https://cdn.myanimelist.net/images/manga/1/59137.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Grisaia no Kajitsu
 
+![grisaia-no-kajitsu](https://cdn.myanimelist.net/images/anime/1645/112632.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: グリザイアの果実

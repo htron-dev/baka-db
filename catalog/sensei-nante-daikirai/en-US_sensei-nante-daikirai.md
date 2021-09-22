@@ -1,5 +1,7 @@
 # Sensei nante Daikirai!
 
+![sensei-nante-daikirai](https://cdn.myanimelist.net/images/manga/2/174624.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

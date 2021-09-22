@@ -1,5 +1,7 @@
 # Itsudemo Jitaku ni Kaereru Ore wa, Isekai de Gyoushounin wo Hajimemashita
 
+![itsudemo-jitaku-ni-kaereru-ore-wa-isekai-de-gyoushounin-wo-hajimemashita](https://cdn.myanimelist.net/images/manga/3/243278.jpg)
+
 -   **type**: manga
 -   **original-name**: いつでも自宅に帰れる俺は、異世界で行商人をはじめました
 -   **start-date**: 2020-07-17

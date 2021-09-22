@@ -1,5 +1,7 @@
 # Gohoubi Gohan
 
+![gohoubi-gohan](https://cdn.myanimelist.net/images/manga/3/216844.jpg)
+
 -   **type**: manga
 -   **original-name**: ごほうびごはん
 -   **start-date**: 2014-03-14

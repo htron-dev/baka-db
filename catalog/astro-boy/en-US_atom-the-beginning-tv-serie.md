@@ -1,5 +1,7 @@
 # Atom: The Beginning
 
+![atom-the-beginning](https://cdn.myanimelist.net/images/anime/6/86607.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アトム ザ・ビギニング

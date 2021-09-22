@@ -1,5 +1,7 @@
 # Haru wa Mijikashi Koiseyo Danshi.
 
+![haru-wa-mijikashi-koiseyo-danshi](https://cdn.myanimelist.net/images/manga/3/225583.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Shanai Ren'ai Hisshouhou
 
+![shanai-renai-hisshouhou](https://cdn.myanimelist.net/images/manga/3/70471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 社內戀愛必勝法

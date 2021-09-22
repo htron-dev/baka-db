@@ -1,5 +1,7 @@
 # Strawberry Panic
 
+![strawberry-panic](https://cdn.myanimelist.net/images/manga/3/6181.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

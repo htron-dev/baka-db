@@ -1,5 +1,7 @@
 # Niwa-kun wa Tada no Tomodachi desu!
 
+![niwa-kun-wa-tada-no-tomodachi-desu](https://cdn.myanimelist.net/images/manga/3/205073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

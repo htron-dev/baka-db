@@ -1,5 +1,7 @@
 # Hanasaka Tenshi Tenten-kun
 
+![hanasaka-tenshi-tenten-kun](https://cdn.myanimelist.net/images/manga/2/167360.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 161

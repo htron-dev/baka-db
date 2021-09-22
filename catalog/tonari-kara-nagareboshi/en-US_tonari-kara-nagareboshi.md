@@ -1,5 +1,7 @@
 # Tonari kara Nagareboshi
 
+![tonari-kara-nagareboshi](https://cdn.myanimelist.net/images/manga/1/203207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

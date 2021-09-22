@@ -1,5 +1,7 @@
 # Nijiiro Days OVA
 
+![nijiiro-days-ova](https://cdn.myanimelist.net/images/anime/9/83487.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 虹色デイズ OVA

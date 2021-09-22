@@ -1,5 +1,7 @@
 # Oh! My Darling
 
+![oh-my-darling](https://cdn.myanimelist.net/images/manga/1/17008.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: Ｏｈ！ｍｙダーリン

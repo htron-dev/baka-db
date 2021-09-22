@@ -1,5 +1,7 @@
 # Medete, Junjou
 
+![medete-junjou](https://cdn.myanimelist.net/images/manga/2/168929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

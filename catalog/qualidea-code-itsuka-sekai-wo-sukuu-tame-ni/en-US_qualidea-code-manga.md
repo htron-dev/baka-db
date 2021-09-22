@@ -1,5 +1,7 @@
 # Qualidea Code
 
+![qualidea-code](https://cdn.myanimelist.net/images/manga/3/195587.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

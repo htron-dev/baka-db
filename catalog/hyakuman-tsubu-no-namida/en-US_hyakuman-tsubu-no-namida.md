@@ -1,5 +1,7 @@
 # Hyakuman Tsubu no Namida
 
+![hyakuman-tsubu-no-namida](https://cdn.myanimelist.net/images/manga/1/144065.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

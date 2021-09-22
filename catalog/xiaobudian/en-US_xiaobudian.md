@@ -1,5 +1,7 @@
 # Xiaobudian
 
+![xiaobudian](https://cdn.myanimelist.net/images/anime/1381/115342.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 小不点

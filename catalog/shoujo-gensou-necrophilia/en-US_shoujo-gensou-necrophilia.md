@@ -1,5 +1,7 @@
 # Shoujo Gensou Necrophilia
 
+![shoujo-gensou-necrophilia](https://cdn.myanimelist.net/images/manga/1/65873.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

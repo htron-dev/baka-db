@@ -1,5 +1,7 @@
 # Drop OG - Out of Ganchu
 
+![drop-og-out-of-ganchu](https://cdn.myanimelist.net/images/manga/2/118311.jpg)
+
 -   **type**: manga
 -   **original-name**: ドロップ OG アウト・オブ・ガンチュー
 -   **start-date**: 2011-07-06

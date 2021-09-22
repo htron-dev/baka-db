@@ -1,5 +1,7 @@
 # Detective Conan Movie 15: Quarter of Silence
 
+![detective-conan-movie-15-quarter-of-silence](https://cdn.myanimelist.net/images/anime/9/32035.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 沈黙の 15 分

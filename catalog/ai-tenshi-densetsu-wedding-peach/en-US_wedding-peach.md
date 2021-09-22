@@ -1,5 +1,7 @@
 # Wedding Peach
 
+![wedding-peach](https://cdn.myanimelist.net/images/manga/1/38818.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

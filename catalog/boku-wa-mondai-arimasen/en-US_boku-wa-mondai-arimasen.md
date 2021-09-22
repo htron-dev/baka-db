@@ -1,5 +1,7 @@
 # Boku wa Mondai Arimasen
 
+![boku-wa-mondai-arimasen](https://cdn.myanimelist.net/images/manga/1/130247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

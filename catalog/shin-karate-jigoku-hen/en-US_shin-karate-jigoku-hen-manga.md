@@ -1,5 +1,7 @@
 # Shin Karate Jigoku-hen
 
+![shin-karate-jigoku-hen](https://cdn.myanimelist.net/images/manga/2/161170.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: 新・カラテ地獄変

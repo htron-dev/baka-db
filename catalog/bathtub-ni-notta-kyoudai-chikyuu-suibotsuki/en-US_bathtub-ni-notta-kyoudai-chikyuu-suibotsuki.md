@@ -1,5 +1,7 @@
 # Bathtub ni Notta Kyoudai: Chikyuu Suibotsuki
 
+![bathtub-ni-notta-kyoudai-chikyuu-suibotsuki](https://cdn.myanimelist.net/images/manga/3/228561.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

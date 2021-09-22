@@ -1,5 +1,7 @@
 # Asonde Oboeru Gakushuu DVD
 
+![asonde-oboeru-gakushuu-dvd](https://cdn.myanimelist.net/images/anime/4/84971.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 遊んでおぼえる学習 DVD

@@ -1,5 +1,7 @@
 # Yumemiru Hanazono
 
+![yumemiru-hanazono](https://cdn.myanimelist.net/images/manga/2/8032.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

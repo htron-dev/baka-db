@@ -1,5 +1,7 @@
 # Isekai de Trainer Shiteimasu.
 
+![isekai-de-trainer-shiteimasu](https://cdn.myanimelist.net/images/manga/3/171620.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界でトレーナーをしています。
 -   **start-date**: 2016-02-01

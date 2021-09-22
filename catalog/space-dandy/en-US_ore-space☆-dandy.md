@@ -1,9 +1,11 @@
 # Ore Space☆Dandy
 
+![ore-space☆-dandy](https://cdn.myanimelist.net/images/manga/3/165393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6
--   **original-name**: 俺 スペース☆ダンディ
+-   **original-name**: 俺 スペース ☆ ダンディ
 -   **start-date**: 2014-06-22
 -   **end-date**: 2014-06-22
 

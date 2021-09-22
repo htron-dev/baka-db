@@ -1,5 +1,7 @@
 # Shabake
 
+![shabake](https://cdn.myanimelist.net/images/anime/1782/116029.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: しゃばけ

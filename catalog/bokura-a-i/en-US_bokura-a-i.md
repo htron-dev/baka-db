@@ -1,5 +1,7 @@
 # Bokura A.I.
 
+![bokura-a-i](https://cdn.myanimelist.net/images/manga/2/162761.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

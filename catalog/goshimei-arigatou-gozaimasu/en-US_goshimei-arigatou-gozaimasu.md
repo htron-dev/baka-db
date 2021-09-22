@@ -1,5 +1,7 @@
 # Goshimei Arigatou Gozaimasu!
 
+![goshimei-arigatou-gozaimasu](https://cdn.myanimelist.net/images/manga/2/186358.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

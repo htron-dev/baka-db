@@ -1,5 +1,7 @@
 # Sendan no Sagittarius
 
+![sendan-no-sagittarius](https://cdn.myanimelist.net/images/manga/2/129045.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 閃弾の天魔穹(サジタリアス)

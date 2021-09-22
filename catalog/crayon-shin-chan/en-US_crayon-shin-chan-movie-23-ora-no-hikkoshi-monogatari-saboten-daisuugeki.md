@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki
 
+![crayon-shin-chan-movie-23-ora-no-hikkoshi-monogatari-saboten-daisuugeki](https://cdn.myanimelist.net/images/anime/1584/94871.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クレヨンしんちゃん オラの引越し物語～サボテン大襲撃～

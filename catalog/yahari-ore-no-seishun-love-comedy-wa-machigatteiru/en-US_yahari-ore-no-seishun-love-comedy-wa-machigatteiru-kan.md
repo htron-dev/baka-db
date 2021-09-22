@@ -1,5 +1,7 @@
 # Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan
 
+![yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan](https://cdn.myanimelist.net/images/anime/1958/107912.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: やはり俺の青春ラブコメはまちがっている。完

@@ -1,5 +1,7 @@
 # Ankoku Cat
 
+![ankoku-cat](https://cdn.myanimelist.net/images/anime/11/86380.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 暗黒キャット

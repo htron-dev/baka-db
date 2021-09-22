@@ -1,5 +1,7 @@
 # Detective Conan: Black History 2
 
+![detective-conan-black-history-2](https://cdn.myanimelist.net/images/anime/10/86592.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 黒のミステリースペシヤル 黒の組織との接触

@@ -1,5 +1,7 @@
 # Tora to Wakasama
 
+![tora-to-wakasama](https://cdn.myanimelist.net/images/manga/1/61747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

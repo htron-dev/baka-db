@@ -1,5 +1,7 @@
 # Couple
 
+![couple](https://cdn.myanimelist.net/images/manga/2/19703.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: Couple

@@ -1,5 +1,7 @@
 # Neko Moosoo: Subarashiki Neko no Sekai
 
+![neko-moosoo-subarashiki-neko-no-sekai](https://cdn.myanimelist.net/images/manga/1/154284.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

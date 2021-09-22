@@ -1,5 +1,7 @@
 # Hikagemono no Oujo desu ga Koutei Heika ni Ryakudatsu Dekiai saretemasu
 
+![hikagemono-no-oujo-desu-ga-koutei-heika-ni-ryakudatsu-dekiai-saretemasu](https://cdn.myanimelist.net/images/manga/1/191434.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

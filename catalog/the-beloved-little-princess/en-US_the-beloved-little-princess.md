@@ -1,5 +1,7 @@
 # The Beloved Little Princess
 
+![the-beloved-little-princess](https://cdn.myanimelist.net/images/manga/3/242275.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 막내 황녀님
 -   **start-date**: 2020-03-26

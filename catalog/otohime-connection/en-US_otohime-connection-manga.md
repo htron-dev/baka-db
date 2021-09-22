@@ -1,5 +1,7 @@
 # Otohime Connection
 
+![otohime-connection](https://cdn.myanimelist.net/images/manga/1/28343.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 乙姫ＣＯＮＮＥＣＴＩＯＮ

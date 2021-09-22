@@ -1,5 +1,7 @@
 # Boku wa Konomama Kaeranai
 
+![boku-wa-konomama-kaeranai](https://cdn.myanimelist.net/images/manga/3/1533.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

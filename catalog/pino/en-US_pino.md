@@ -1,5 +1,7 @@
 # Pino
 
+![pino](https://cdn.myanimelist.net/images/manga/2/247800.jpg)
+
 -   **type**: manga
 -   **original-name**: ピノ:PINO
 -   **start-date**: 2020-06-02

@@ -1,5 +1,7 @@
 # Qing Chi Hong Xiaodou Ba!
 
+![qing-chi-hong-xiaodou-ba](https://cdn.myanimelist.net/images/anime/1399/94971.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 请吃红小豆吧！

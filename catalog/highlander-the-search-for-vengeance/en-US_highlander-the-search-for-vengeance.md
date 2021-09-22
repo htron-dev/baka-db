@@ -1,5 +1,7 @@
 # Highlander: The Search for Vengeance
 
+![highlander-the-search-for-vengeance](https://cdn.myanimelist.net/images/anime/4/10219.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハイランダー

@@ -1,5 +1,7 @@
 # 30-sai no Hoken Taiiku
 
+![30-sai-no-hoken-taiiku](https://cdn.myanimelist.net/images/manga/3/97171.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Hana Nochi Hare: HanaDan Next Season
 
+![hana-nochi-hare-hana-dan-next-season](https://cdn.myanimelist.net/images/manga/2/159810.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 113

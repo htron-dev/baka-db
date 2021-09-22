@@ -1,5 +1,7 @@
 # Accel World: Infinite∞Burst
 
+![accel-world-infinite∞-burst](https://cdn.myanimelist.net/images/anime/5/87145.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アクセル・ワールド INFINITE∞BURST（インフィニット・バースト）

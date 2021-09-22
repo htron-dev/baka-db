@@ -1,5 +1,7 @@
 # Yurikan Petale
 
+![yurikan-petale](https://cdn.myanimelist.net/images/manga/3/164105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

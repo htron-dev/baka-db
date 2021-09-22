@@ -1,5 +1,7 @@
 # Kimi ni Todoke 2nd Season: Minitodo Gekijou
 
+![kimi-ni-todoke-2nd-season-minitodo-gekijou](https://cdn.myanimelist.net/images/anime/10/28946.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 君に届け ミニトド劇場

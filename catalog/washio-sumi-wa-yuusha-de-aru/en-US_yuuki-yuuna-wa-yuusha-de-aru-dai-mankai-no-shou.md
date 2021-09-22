@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou
 
+![yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou](https://cdn.myanimelist.net/images/anime/1139/116580.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 結城友奈は勇者である 大満開の章
 -   **start-date**: 2021-10-20

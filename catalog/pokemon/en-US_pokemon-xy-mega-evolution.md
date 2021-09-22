@@ -1,5 +1,7 @@
 # Pokemon XY: Mega Evolution
 
+![pokemon-xy-mega-evolution](https://cdn.myanimelist.net/images/anime/12/60225.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ポケットモンスター XY MEGA EVOLUTION
@@ -13,7 +15,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

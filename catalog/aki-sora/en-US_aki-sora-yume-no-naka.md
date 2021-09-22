@@ -1,5 +1,7 @@
 # Aki-Sora: Yume no Naka
 
+![aki-sora-yume-no-naka](https://cdn.myanimelist.net/images/anime/12/23461.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: あきそら～夢の中～

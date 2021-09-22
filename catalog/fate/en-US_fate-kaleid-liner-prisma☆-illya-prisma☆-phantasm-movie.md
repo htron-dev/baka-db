@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm
 
+![fate-kaleid-liner-prisma☆-illya-prisma☆-phantasm](https://cdn.myanimelist.net/images/anime/1304/99488.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プリズマ ☆ ファンタズム

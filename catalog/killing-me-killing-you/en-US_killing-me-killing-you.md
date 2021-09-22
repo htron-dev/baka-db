@@ -1,5 +1,7 @@
 # Killing Me/Killing You
 
+![killing-me-killing-you](https://cdn.myanimelist.net/images/manga/2/234628.jpg)
+
 -   **type**: manga
 -   **original-name**: KILLING ME / KILLING YOU
 -   **start-date**: 2017-09-25

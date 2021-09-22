@@ -1,5 +1,7 @@
 # Hitori no Shita: The Outcast 2nd Season
 
+![hitori-no-shita-the-outcast-2nd-season](https://cdn.myanimelist.net/images/anime/4/88698.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 一人之下 THE OUTCAST 2nd シーズン

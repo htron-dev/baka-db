@@ -1,5 +1,7 @@
 # Ai ga Nakucha ne!
 
+![ai-ga-nakucha-ne](https://cdn.myanimelist.net/images/manga/3/19731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Dolly's Party
 
+![dollys-party](https://cdn.myanimelist.net/images/manga/1/149719.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: DOLLY'S PARTY

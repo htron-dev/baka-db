@@ -1,5 +1,7 @@
 # Help Man!
 
+![help-man](https://cdn.myanimelist.net/images/manga/3/149573.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 256

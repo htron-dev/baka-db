@@ -1,5 +1,7 @@
 # Zettai★Harem
 
+![zettai★-harem](https://cdn.myanimelist.net/images/manga/3/170532.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 61

@@ -1,5 +1,7 @@
 # Itoshi no Unlucky Days
 
+![itoshi-no-unlucky-days](https://cdn.myanimelist.net/images/manga/1/244632.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Riviere to Inori no Kuni
 
+![riviere-to-inori-no-kuni](https://cdn.myanimelist.net/images/manga/1/191435.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

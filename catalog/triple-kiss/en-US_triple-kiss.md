@@ -1,5 +1,7 @@
 # Triple Kiss
 
+![triple-kiss](https://cdn.myanimelist.net/images/manga/2/33655.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

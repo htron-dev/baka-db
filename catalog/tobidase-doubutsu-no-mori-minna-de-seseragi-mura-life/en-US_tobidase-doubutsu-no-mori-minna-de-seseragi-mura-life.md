@@ -1,5 +1,7 @@
 # Tobidase Doubutsu no Mori: Minna de Seseragi Mura Life
 
+![tobidase-doubutsu-no-mori-minna-de-seseragi-mura-life](https://cdn.myanimelist.net/images/manga/1/101287.jpg)
+
 -   **type**: manga
 -   **original-name**: とびだせ どうぶつの森　みんなでせせらぎ村ライフ
 

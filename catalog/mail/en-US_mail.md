@@ -1,5 +1,7 @@
 # Mail
 
+![mail](https://cdn.myanimelist.net/images/manga/1/4939.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

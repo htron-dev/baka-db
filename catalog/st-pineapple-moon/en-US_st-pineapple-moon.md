@@ -1,5 +1,7 @@
 # St. Pineapple Moon
 
+![st-pineapple-moon](https://cdn.myanimelist.net/images/manga/1/15168.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: St.パイナップル・ムーン

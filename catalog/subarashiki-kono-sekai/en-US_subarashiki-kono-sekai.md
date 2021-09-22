@@ -1,5 +1,7 @@
 # Subarashiki Kono Sekai
 
+![subarashiki-kono-sekai](https://cdn.myanimelist.net/images/manga/1/11540.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: すばらしきこのせかい

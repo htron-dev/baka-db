@@ -1,5 +1,7 @@
 # Banoten! - Summer Days
 
+![banoten-summer-days](https://cdn.myanimelist.net/images/manga/1/72255.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

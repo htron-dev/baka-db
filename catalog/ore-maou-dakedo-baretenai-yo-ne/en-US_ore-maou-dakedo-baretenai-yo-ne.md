@@ -1,5 +1,7 @@
 # Ore, Maou dakedo Baretenai yo ne?
 
+![ore-maou-dakedo-baretenai-yo-ne](https://cdn.myanimelist.net/images/manga/1/201140.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

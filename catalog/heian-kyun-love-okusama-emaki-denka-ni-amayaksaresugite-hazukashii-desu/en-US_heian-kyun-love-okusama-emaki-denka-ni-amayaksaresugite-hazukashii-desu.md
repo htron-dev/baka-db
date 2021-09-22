@@ -1,5 +1,7 @@
 # Heian Kyun Love Okusama Emaki: Denka ni Amayaksaresugite Hazukashii desu!!
 
+![heian-kyun-love-okusama-emaki-denka-ni-amayaksaresugite-hazukashii-desu](https://cdn.myanimelist.net/images/manga/3/191451.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

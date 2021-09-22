@@ -1,5 +1,7 @@
 # Black Kanojo
 
+![black-kanojo](https://cdn.myanimelist.net/images/manga/2/188808.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Tenki Yohou no Koibito
 
+![tenki-yohou-no-koibito](https://cdn.myanimelist.net/images/manga/3/195202.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

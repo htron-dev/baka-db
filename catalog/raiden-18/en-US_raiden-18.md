@@ -1,5 +1,7 @@
 # Raiden-18
 
+![raiden-18](https://cdn.myanimelist.net/images/manga/1/246219.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

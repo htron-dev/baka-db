@@ -1,5 +1,7 @@
 # Megalo Box
 
+![megalo-box](https://cdn.myanimelist.net/images/anime/1958/93533.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: メガロボクス

@@ -1,5 +1,7 @@
 # Naruto: Shiro no Douji, Keppu no Kijin
 
+![naruto-shiro-no-douji-keppu-no-kijin](https://cdn.myanimelist.net/images/manga/2/202287.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 19

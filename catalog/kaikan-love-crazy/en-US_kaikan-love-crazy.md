@@ -1,5 +1,7 @@
 # Kaikan Love Crazy
 
+![kaikan-love-crazy](https://cdn.myanimelist.net/images/manga/2/91283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

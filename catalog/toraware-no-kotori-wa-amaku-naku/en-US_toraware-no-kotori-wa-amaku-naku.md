@@ -1,5 +1,7 @@
 # Toraware no Kotori wa Amaku Naku
 
+![toraware-no-kotori-wa-amaku-naku](https://cdn.myanimelist.net/images/manga/1/184091.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

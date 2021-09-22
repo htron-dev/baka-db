@@ -1,5 +1,7 @@
 # Yuusha to Maou ga Dengeki Doumei!
 
+![yuusha-to-maou-ga-dengeki-doumei](https://cdn.myanimelist.net/images/manga/1/170938.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者と魔王が電撃同盟!
 -   **start-date**: 2016-01-25

@@ -1,5 +1,7 @@
 # Akumu no Elevator
 
+![akumu-no-elevator](https://cdn.myanimelist.net/images/manga/1/36265.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

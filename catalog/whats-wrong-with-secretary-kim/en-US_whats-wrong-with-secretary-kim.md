@@ -1,5 +1,7 @@
 # What's Wrong with Secretary Kim?
 
+![whats-wrong-with-secretary-kim](https://cdn.myanimelist.net/images/manga/2/225298.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 98

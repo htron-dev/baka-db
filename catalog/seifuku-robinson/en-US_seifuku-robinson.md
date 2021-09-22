@@ -1,5 +1,7 @@
 # Seifuku Robinson
 
+![seifuku-robinson](https://cdn.myanimelist.net/images/manga/1/175771.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Taka no Tsume x Johnson: Tatakae! Jokin Shitennou
 
+![taka-no-tsume-x-johnson-tatakae-jokin-shitennou](https://cdn.myanimelist.net/images/anime/1759/101069.jpg)
+
 -   **type**: ona
 -   **original-name**: 鷹の爪 × ジョンソン 戦え！除菌四天王
 -   **start-date**: 2019-05-17

@@ -1,5 +1,7 @@
 # Nessa no Kusari
 
+![nessa-no-kusari](https://cdn.myanimelist.net/images/manga/2/82106.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

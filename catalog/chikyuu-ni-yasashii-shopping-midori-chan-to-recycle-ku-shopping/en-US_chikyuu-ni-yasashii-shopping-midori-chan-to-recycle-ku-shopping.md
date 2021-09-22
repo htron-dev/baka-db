@@ -1,5 +1,7 @@
 # Chikyuu ni Yasashii Shopping: Midori-chan to Recycle-ku Shopping
 
+![chikyuu-ni-yasashii-shopping-midori-chan-to-recycle-ku-shopping](https://cdn.myanimelist.net/images/anime/1170/98613.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 地球にやさしいショッピング ミドリちゃんと リサイくるくるショッピング

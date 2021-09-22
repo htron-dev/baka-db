@@ -1,5 +1,7 @@
 # Oshare Majo Love and Berry: Shiawase no Mahou
 
+![oshare-majo-love-and-berry-shiawase-no-mahou](https://cdn.myanimelist.net/images/anime/10/20054.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: オシャレ魔女 ラブ and ベリー しあわせのまほう

@@ -1,5 +1,7 @@
 # Tenshi no Hohoemi, Akuma no Namida
 
+![tenshi-no-hohoemi-akuma-no-namida](https://cdn.myanimelist.net/images/manga/2/46627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

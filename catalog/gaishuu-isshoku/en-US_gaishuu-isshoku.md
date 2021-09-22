@@ -1,5 +1,7 @@
 # Gaishuu Isshoku!
 
+![gaishuu-isshoku](https://cdn.myanimelist.net/images/manga/1/210744.jpg)
+
 -   **type**: manga
 -   **original-name**: ガイシューイッショク！
 -   **start-date**: 2017-05-26

@@ -1,5 +1,7 @@
 # Pii Natsu ga Ippai
 
+![pii-natsu-ga-ippai](https://cdn.myanimelist.net/images/manga/2/33423.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

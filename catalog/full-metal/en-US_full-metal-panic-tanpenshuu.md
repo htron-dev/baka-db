@@ -1,5 +1,7 @@
 # Full Metal Panic! Tanpenshuu
 
+![full-metal-panic-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/166128.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 51

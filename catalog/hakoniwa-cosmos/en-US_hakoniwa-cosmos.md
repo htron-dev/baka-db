@@ -1,5 +1,7 @@
 # Hakoniwa Cosmos
 
+![hakoniwa-cosmos](https://cdn.myanimelist.net/images/manga/2/176616.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Kankou Taisen Saitama: Sakuya no Tatakai
 
+![kankou-taisen-saitama-sakuya-no-tatakai](https://cdn.myanimelist.net/images/anime/7/72820.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 観光大戦 SAITAMA ～サクヤの戦い～

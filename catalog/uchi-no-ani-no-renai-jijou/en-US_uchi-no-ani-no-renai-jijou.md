@@ -1,5 +1,7 @@
 # Uchi no Ani no Renai Jijou
 
+![uchi-no-ani-no-renai-jijou](https://cdn.myanimelist.net/images/manga/1/196734.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

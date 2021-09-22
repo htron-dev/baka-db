@@ -1,5 +1,7 @@
 # Fukairi Genkin!? Barista Ouji no Koi no Tehodoki
 
+![fukairi-genkin-barista-ouji-no-koi-no-tehodoki](https://cdn.myanimelist.net/images/manga/1/193922.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

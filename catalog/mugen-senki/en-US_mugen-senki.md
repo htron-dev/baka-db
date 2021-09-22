@@ -1,5 +1,7 @@
 # Mugen Senki
 
+![mugen-senki](https://cdn.myanimelist.net/images/manga/3/125077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 夢幻戦記

@@ -1,5 +1,7 @@
 # Uchi no Maid ga Uzasugiru!: Uchi no Maid wa Yappari Mou Honto Uzainda naa...
 
+![uchi-no-maid-ga-uzasugiru-uchi-no-maid-wa-yappari-mou-honto-uzainda-naa](https://cdn.myanimelist.net/images/anime/1022/100738.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: うちのメイドがウザすぎる！うちのメイドはやっぱりもうホントウザいんだなあ......

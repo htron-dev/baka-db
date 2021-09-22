@@ -1,5 +1,7 @@
 # Soredemo Ayumu wa Yosetekuru
 
+![soredemo-ayumu-wa-yosetekuru](https://cdn.myanimelist.net/images/manga/1/219724.jpg)
+
 -   **type**: manga
 -   **original-name**: それでも歩は寄せてくる
 -   **start-date**: 2019-03-06

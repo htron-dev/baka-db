@@ -1,5 +1,7 @@
 # Kimi to Harujion
 
+![kimi-to-harujion](https://cdn.myanimelist.net/images/manga/3/144059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

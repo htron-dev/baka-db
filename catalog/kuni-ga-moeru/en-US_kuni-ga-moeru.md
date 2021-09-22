@@ -1,5 +1,7 @@
 # Kuni ga Moeru
 
+![kuni-ga-moeru](https://cdn.myanimelist.net/images/manga/1/225064.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 98

@@ -1,5 +1,7 @@
 # Otome 3-gensoku!
 
+![otome-3-gensoku](https://cdn.myanimelist.net/images/manga/1/164239.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 42

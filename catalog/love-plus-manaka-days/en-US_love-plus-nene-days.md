@@ -1,5 +1,7 @@
 # Love Plus: Nene Days
 
+![love-plus-nene-days](https://cdn.myanimelist.net/images/manga/3/43535.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

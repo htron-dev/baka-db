@@ -1,5 +1,7 @@
 # Nue
 
+![nue](https://cdn.myanimelist.net/images/manga/3/18032.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 鵺

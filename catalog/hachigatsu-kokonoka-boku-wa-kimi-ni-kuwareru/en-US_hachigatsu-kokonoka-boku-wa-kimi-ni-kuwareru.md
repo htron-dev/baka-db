@@ -1,5 +1,7 @@
 # Hachigatsu Kokonoka: Boku wa Kimi ni Kuwareru.
 
+![hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru](https://cdn.myanimelist.net/images/manga/3/233396.jpg)
+
 -   **type**: manga
 -   **original-name**: 八月九日 僕は君に喰われる。
 -   **start-date**: 2020-02-25

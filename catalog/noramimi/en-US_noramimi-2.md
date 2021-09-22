@@ -1,5 +1,7 @@
 # Noramimi 2
 
+![noramimi-2](https://cdn.myanimelist.net/images/anime/5/9950.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: のらみみ 2

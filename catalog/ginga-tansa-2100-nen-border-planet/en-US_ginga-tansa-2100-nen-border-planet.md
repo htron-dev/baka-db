@@ -1,5 +1,7 @@
 # Ginga Tansa 2100-nen: Border Planet
 
+![ginga-tansa-2100-nen-border-planet](https://cdn.myanimelist.net/images/anime/3/29473.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀河探査２１００年 ボーダープラネット

@@ -1,5 +1,7 @@
 # Drill
 
+![drill](https://cdn.myanimelist.net/images/anime/12/75696.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドリル

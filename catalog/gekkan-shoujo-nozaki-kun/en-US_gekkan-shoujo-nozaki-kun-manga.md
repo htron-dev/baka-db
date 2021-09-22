@@ -1,5 +1,7 @@
 # Gekkan Shoujo Nozaki-kun
 
+![gekkan-shoujo-nozaki-kun](https://cdn.myanimelist.net/images/manga/3/208752.jpg)
+
 -   **type**: manga
 -   **original-name**: 月刊少女野崎くん
 -   **start-date**: 2011-08-25

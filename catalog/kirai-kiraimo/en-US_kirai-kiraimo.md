@@ -1,5 +1,7 @@
 # Kirai Kiraimo
 
+![kirai-kiraimo](https://cdn.myanimelist.net/images/manga/2/37384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

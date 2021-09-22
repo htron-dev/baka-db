@@ -1,5 +1,7 @@
 # Gyokou no Nikuko-chan
 
+![gyokou-no-nikuko-chan](https://cdn.myanimelist.net/images/anime/1747/116922.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 漁港の肉子ちゃん

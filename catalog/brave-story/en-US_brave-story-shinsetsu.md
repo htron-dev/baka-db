@@ -1,5 +1,7 @@
 # Brave Story: Shinsetsu
 
+![brave-story-shinsetsu](https://cdn.myanimelist.net/images/manga/2/5715.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 199

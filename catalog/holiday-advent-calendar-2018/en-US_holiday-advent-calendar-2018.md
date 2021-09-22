@@ -1,5 +1,7 @@
 # Holiday Advent Calendar 2018
 
+![holiday-advent-calendar-2018](https://cdn.myanimelist.net/images/anime/1459/98879.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: Holiday Advent Calendar 2018

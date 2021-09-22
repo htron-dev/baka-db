@@ -1,5 +1,7 @@
 # SD Gundam World: Sangoku Souketsuden
 
+![sd-gundam-world-sangoku-souketsuden](https://cdn.myanimelist.net/images/anime/1491/102275.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: SD ガンダムワールド 三国創傑伝

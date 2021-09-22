@@ -1,5 +1,7 @@
 # Heart Made Magic
 
+![heart-made-magic](https://cdn.myanimelist.net/images/manga/2/20808.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

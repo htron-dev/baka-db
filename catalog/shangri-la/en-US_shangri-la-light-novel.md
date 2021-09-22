@@ -1,5 +1,7 @@
 # Shangri-La
 
+![shangri-la](https://cdn.myanimelist.net/images/manga/2/46581.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 16

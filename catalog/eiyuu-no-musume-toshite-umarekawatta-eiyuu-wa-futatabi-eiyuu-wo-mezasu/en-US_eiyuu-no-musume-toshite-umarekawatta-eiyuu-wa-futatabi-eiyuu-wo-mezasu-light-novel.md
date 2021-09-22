@@ -1,5 +1,7 @@
 # Eiyuu no Musume toshite Umarekawatta Eiyuu wa Futatabi Eiyuu wo Mezasu
 
+![eiyuu-no-musume-toshite-umarekawatta-eiyuu-wa-futatabi-eiyuu-wo-mezasu](https://cdn.myanimelist.net/images/manga/3/217665.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 英雄の娘として生まれ変わった英雄は再び英雄を目指す
 -   **start-date**: 2018-02-01

@@ -1,5 +1,7 @@
 # Mahoutsukai na Kanojo
 
+![mahoutsukai-na-kanojo](https://cdn.myanimelist.net/images/manga/1/79157.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法使いな彼女
 

@@ -1,5 +1,7 @@
 # Reverse x Rebirth
 
+![reverse-x-rebirth](https://cdn.myanimelist.net/images/manga/1/235847.jpg)
+
 -   **type**: manga
 -   **original-name**: リバース × リバース
 -   **start-date**: 2020-01-24

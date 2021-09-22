@@ -1,5 +1,7 @@
 # Will it Snow for Christmas?
 
+![will-it-snow-for-christmas](https://cdn.myanimelist.net/images/manga/1/31089.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 크리스마스에 눈이 올까요?
 

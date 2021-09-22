@@ -1,5 +1,7 @@
 # Giga Tokyo Toy Box
 
+![giga-tokyo-toy-box](https://cdn.myanimelist.net/images/manga/2/115017.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

@@ -1,5 +1,7 @@
 # Kyouten Yuuhouki
 
+![kyouten-yuuhouki](https://cdn.myanimelist.net/images/manga/3/68113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

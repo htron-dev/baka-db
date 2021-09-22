@@ -1,5 +1,7 @@
 # Nigatsu no Eden
 
+![nigatsu-no-eden](https://cdn.myanimelist.net/images/manga/2/195312.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

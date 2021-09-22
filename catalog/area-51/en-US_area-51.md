@@ -1,5 +1,7 @@
 # Area 51
 
+![area-51](https://cdn.myanimelist.net/images/manga/3/141573.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 72

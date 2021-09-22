@@ -1,5 +1,7 @@
 # Koibito wa Kikan Gentei no Honey
 
+![koibito-wa-kikan-gentei-no-honey](https://cdn.myanimelist.net/images/manga/2/90573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

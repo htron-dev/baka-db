@@ -1,5 +1,7 @@
 # Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω Mini Anime
 
+![isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-ω-mini-anime](https://cdn.myanimelist.net/images/anime/1762/113876.jpg)
+
 -   **type**: ona
 -   **episodes**: 18
 -   **original-name**: 異世界魔王と召喚少女の奴隷魔術 Ω ミニアニメ

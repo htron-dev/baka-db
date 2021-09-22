@@ -1,5 +1,7 @@
 # Fire Emblem: Ankokuryuu to Hikari no Tsurugi
 
+![fire-emblem-ankokuryuu-to-hikari-no-tsurugi](https://cdn.myanimelist.net/images/manga/5/7415.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 59

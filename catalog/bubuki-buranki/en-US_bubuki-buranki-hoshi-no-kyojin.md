@@ -1,5 +1,7 @@
 # Bubuki Buranki: Hoshi no Kyojin
 
+![bubuki-buranki-hoshi-no-kyojin](https://cdn.myanimelist.net/images/anime/2/82249.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ブブキ・ブランキ 星の巨人

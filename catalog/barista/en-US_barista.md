@@ -1,5 +1,7 @@
 # Barista
 
+![barista](https://cdn.myanimelist.net/images/manga/1/210402.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 89

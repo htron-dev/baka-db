@@ -1,5 +1,7 @@
 # Teekyuu 8 Specials
 
+![teekyuu-8-specials](https://cdn.myanimelist.net/images/anime/7/83506.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: てーきゅう　 8 期

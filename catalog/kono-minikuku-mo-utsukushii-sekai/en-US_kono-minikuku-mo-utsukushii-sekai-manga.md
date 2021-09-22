@@ -1,5 +1,7 @@
 # Kono Minikuku mo Utsukushii Sekai
 
+![kono-minikuku-mo-utsukushii-sekai](https://cdn.myanimelist.net/images/manga/2/179035.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

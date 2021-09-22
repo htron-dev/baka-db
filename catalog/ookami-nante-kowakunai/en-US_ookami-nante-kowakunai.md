@@ -1,5 +1,7 @@
 # Ookami nante Kowakunai!!
 
+![ookami-nante-kowakunai](https://cdn.myanimelist.net/images/manga/2/180208.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

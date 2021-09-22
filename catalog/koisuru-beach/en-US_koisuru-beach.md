@@ -1,5 +1,7 @@
 # Koisuru Beach
 
+![koisuru-beach](https://cdn.myanimelist.net/images/manga/2/231321.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

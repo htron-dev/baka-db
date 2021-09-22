@@ -1,5 +1,7 @@
 # Nijiko the Party
 
+![nijiko-the-party](https://cdn.myanimelist.net/images/manga/2/73045.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 虹子 the パーティー

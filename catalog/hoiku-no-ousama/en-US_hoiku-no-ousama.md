@@ -1,5 +1,7 @@
 # Hoiku no Ousama
 
+![hoiku-no-ousama](https://cdn.myanimelist.net/images/manga/2/172159.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 58

@@ -1,5 +1,7 @@
 # Ai no Chikara de Koi wo Suru no da
 
+![ai-no-chikara-de-koi-wo-suru-no-da](https://cdn.myanimelist.net/images/manga/2/31095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Love Kome: We Love Rice
 
+![love-kome-we-love-rice](https://cdn.myanimelist.net/images/anime/5/84377.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ラブ米 -WE LOVE RICE-

@@ -1,5 +1,7 @@
 # Megane Danshi ga Suki desu Ka
 
+![megane-danshi-ga-suki-desu-ka](https://cdn.myanimelist.net/images/manga/3/38467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

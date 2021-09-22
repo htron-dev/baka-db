@@ -1,5 +1,7 @@
 # Fei Ren Zai 2nd Season
 
+![fei-ren-zai-2nd-season](https://cdn.myanimelist.net/images/anime/1401/108475.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 非人哉 第二季

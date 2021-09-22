@@ -1,5 +1,7 @@
 # Tama◇Nama
 
+![tama◇-nama](https://cdn.myanimelist.net/images/manga/1/163574.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 63

@@ -1,5 +1,7 @@
 # Vampire Yui: Saishuushou
 
+![vampire-yui-saishuushou](https://cdn.myanimelist.net/images/manga/2/211110.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 吸血姫夕維 最終章

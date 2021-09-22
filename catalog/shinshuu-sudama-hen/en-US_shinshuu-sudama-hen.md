@@ -1,5 +1,7 @@
 # Shinshuu Sudama-hen
 
+![shinshuu-sudama-hen](https://cdn.myanimelist.net/images/anime/3/49703.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 神州魑魅変

@@ -1,5 +1,7 @@
 # Push
 
+![push](https://cdn.myanimelist.net/images/anime/6/5778.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: プッシュ

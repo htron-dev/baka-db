@@ -1,5 +1,7 @@
 # Naruto: Shippuuden - Sunny Side Battle
 
+![naruto-shippuuden-sunny-side-battle](https://cdn.myanimelist.net/images/anime/1047/91638.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナルト-NARUTO-疾風伝 サニー・サイド・バトル

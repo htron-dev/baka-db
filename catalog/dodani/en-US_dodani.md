@@ -1,5 +1,7 @@
 # Dodani
 
+![dodani](https://cdn.myanimelist.net/images/anime/10/49085.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 도단이

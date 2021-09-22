@@ -1,5 +1,7 @@
 # Luck Stealer
 
+![luck-stealer](https://cdn.myanimelist.net/images/manga/3/156075.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 49

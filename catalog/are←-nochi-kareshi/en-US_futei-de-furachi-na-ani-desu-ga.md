@@ -1,5 +1,7 @@
 # Futei de Furachi na Ani desu ga.
 
+![futei-de-furachi-na-ani-desu-ga](https://cdn.myanimelist.net/images/manga/1/147733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

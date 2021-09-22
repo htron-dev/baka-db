@@ -1,5 +1,7 @@
 # Hibike! Euphonium Movie 3: Chikai no Finale
 
+![hibike-euphonium-movie-3-chikai-no-finale](https://cdn.myanimelist.net/images/anime/1141/102223.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 響け！ユーフォニアム～誓いのフィナーレ～

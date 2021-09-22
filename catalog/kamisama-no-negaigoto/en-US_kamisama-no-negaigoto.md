@@ -1,5 +1,7 @@
 # Kamisama no Negaigoto
 
+![kamisama-no-negaigoto](https://cdn.myanimelist.net/images/manga/2/232488.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Love Hustler
 
+![love-hustler](https://cdn.myanimelist.net/images/manga/1/2634.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

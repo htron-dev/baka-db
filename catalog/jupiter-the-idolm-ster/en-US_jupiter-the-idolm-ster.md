@@ -1,5 +1,7 @@
 # Jupiter: THE IDOLM@STER
 
+![jupiter-the-idolm-ster](https://cdn.myanimelist.net/images/manga/2/100671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Jupiter ～ THE IDOLM@STER ～

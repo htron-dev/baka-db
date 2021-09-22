@@ -1,5 +1,7 @@
 # Dynamic Chord
 
+![dynamic-chord](https://cdn.myanimelist.net/images/anime/1750/95683.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: DYNAMIC CHORD

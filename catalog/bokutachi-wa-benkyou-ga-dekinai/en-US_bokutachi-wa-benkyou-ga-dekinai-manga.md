@@ -1,5 +1,7 @@
 # Bokutachi wa Benkyou ga Dekinai
 
+![bokutachi-wa-benkyou-ga-dekinai](https://cdn.myanimelist.net/images/manga/3/197080.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 187

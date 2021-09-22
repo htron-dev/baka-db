@@ -1,5 +1,7 @@
 # Vampire Knight: Memories
 
+![vampire-knight-memories](https://cdn.myanimelist.net/images/manga/2/178535.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴァンパイア騎士〈ナイト〉 memories
 -   **start-date**: 2013-11-08

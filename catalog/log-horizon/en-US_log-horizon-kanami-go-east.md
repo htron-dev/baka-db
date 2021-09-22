@@ -1,5 +1,7 @@
 # Log Horizon: Kanami, Go! East!
 
+![log-horizon-kanami-go-east](https://cdn.myanimelist.net/images/manga/2/179136.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

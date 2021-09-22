@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Youkai Tokkyuu! Maboroshi no Kisha
 
+![gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha](https://cdn.myanimelist.net/images/anime/9/27355.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲゲゲの鬼太郎 妖怪特急！まぼろしの汽車

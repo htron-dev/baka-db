@@ -1,5 +1,7 @@
 # Gakkatsu!
 
+![gakkatsu](https://cdn.myanimelist.net/images/anime/8/62295.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ガッ活!

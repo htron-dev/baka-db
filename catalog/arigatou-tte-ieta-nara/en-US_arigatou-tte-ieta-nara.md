@@ -1,5 +1,7 @@
 # Arigatou tte Ieta nara
 
+![arigatou-tte-ieta-nara](https://cdn.myanimelist.net/images/manga/1/226925.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

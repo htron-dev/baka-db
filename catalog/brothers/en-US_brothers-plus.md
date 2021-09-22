@@ -1,5 +1,7 @@
 # Brothers Plus
 
+![brothers-plus](https://cdn.myanimelist.net/images/manga/2/166771.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

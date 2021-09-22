@@ -1,5 +1,7 @@
 # Anata no Kiss mo Kokoro mo Zenbu
 
+![anata-no-kiss-mo-kokoro-mo-zenbu](https://cdn.myanimelist.net/images/manga/1/152529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

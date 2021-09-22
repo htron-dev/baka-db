@@ -1,5 +1,7 @@
 # Trigram 8
 
+![trigram-8](https://cdn.myanimelist.net/images/manga/5/80435.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

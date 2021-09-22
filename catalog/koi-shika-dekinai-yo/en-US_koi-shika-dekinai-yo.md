@@ -1,5 +1,7 @@
 # Koi Shika Dekinai yo
 
+![koi-shika-dekinai-yo](https://cdn.myanimelist.net/images/manga/1/22040.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Feifei De Hangye
 
+![feifei-de-hangye](https://cdn.myanimelist.net/images/anime/1398/115481.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 菲菲的行业

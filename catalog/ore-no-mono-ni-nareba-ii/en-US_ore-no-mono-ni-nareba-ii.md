@@ -1,5 +1,7 @@
 # Ore no Mono ni Nareba Ii
 
+![ore-no-mono-ni-nareba-ii](https://cdn.myanimelist.net/images/manga/1/94517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Haigyou Maou, Bondage Shop Hajimemasu
 
+![haigyou-maou-bondage-shop-hajimemasu](https://cdn.myanimelist.net/images/manga/2/192641.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

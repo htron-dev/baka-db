@@ -1,5 +1,7 @@
 # Niko Tama
 
+![niko-tama](https://cdn.myanimelist.net/images/manga/2/204028.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

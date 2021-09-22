@@ -1,5 +1,7 @@
 # Corrector Yui
 
+![corrector-yui](https://cdn.myanimelist.net/images/anime/1696/105659.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: コレクター・ユイ

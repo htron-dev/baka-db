@@ -1,5 +1,7 @@
 # Hoozuki no Reitetsu: Shiro no Ashiato
 
+![hoozuki-no-reitetsu-shiro-no-ashiato](https://cdn.myanimelist.net/images/manga/2/186022.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 56

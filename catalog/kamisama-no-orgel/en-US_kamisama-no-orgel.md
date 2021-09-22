@@ -1,5 +1,7 @@
 # Kamisama no Orgel
 
+![kamisama-no-orgel](https://cdn.myanimelist.net/images/manga/2/5344.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 神様のオルゴール

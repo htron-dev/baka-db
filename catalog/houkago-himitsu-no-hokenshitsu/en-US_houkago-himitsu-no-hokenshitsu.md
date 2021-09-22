@@ -1,5 +1,7 @@
 # Houkago Himitsu no Hokenshitsu
 
+![houkago-himitsu-no-hokenshitsu](https://cdn.myanimelist.net/images/manga/1/84415.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

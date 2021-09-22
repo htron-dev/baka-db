@@ -1,5 +1,7 @@
 # Hear My Voice!
 
+![hear-my-voice](https://cdn.myanimelist.net/images/manga/3/205614.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 38

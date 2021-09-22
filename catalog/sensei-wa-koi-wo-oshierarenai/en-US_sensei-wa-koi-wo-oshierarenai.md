@@ -1,5 +1,7 @@
 # Sensei wa Koi wo Oshierarenai
 
+![sensei-wa-koi-wo-oshierarenai](https://cdn.myanimelist.net/images/manga/1/219617.jpg)
+
 -   **type**: manga
 -   **original-name**: 先生は恋を教えられない
 -   **start-date**: 2018-06-12

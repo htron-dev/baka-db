@@ -1,5 +1,7 @@
 # Shinitagari no Vampire
 
+![shinitagari-no-vampire](https://cdn.myanimelist.net/images/manga/1/226411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

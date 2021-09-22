@@ -1,5 +1,7 @@
 # Diamond no Kuni no Alice: Black or Sweets
 
+![diamond-no-kuni-no-alice-black-or-sweets](https://cdn.myanimelist.net/images/manga/1/114161.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ダイヤの国のアリス ~Black or Sweets~

@@ -1,5 +1,7 @@
 # Onizushi
 
+![onizushi](https://cdn.myanimelist.net/images/anime/4/79804.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: オニズシ

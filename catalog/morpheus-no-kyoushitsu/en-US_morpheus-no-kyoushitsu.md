@@ -1,5 +1,7 @@
 # Morpheus no Kyoushitsu
 
+![morpheus-no-kyoushitsu](https://cdn.myanimelist.net/images/manga/2/175937.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: モーフィアスの教室

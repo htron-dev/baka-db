@@ -1,5 +1,7 @@
 # Hikaru no Go: Sabaki no Ikkyoku! Inishie no Hana yo Sake!!
 
+![hikaru-no-go-sabaki-no-ikkyoku-inishie-no-hana-yo-sake](https://cdn.myanimelist.net/images/anime/9/29669.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヒカルの碁 特別編 - 裁きの一局! いにしえの華よ咲け!!

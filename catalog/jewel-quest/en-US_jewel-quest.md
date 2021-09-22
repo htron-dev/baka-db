@@ -1,5 +1,7 @@
 # Jewel Quest
 
+![jewel-quest](https://cdn.myanimelist.net/images/manga/1/15201.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ジュエル￥クエスト

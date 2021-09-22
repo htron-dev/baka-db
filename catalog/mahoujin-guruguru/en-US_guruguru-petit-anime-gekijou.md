@@ -1,5 +1,7 @@
 # Guruguru Petit Anime Gekijou
 
+![guruguru-petit-anime-gekijou](https://cdn.myanimelist.net/images/anime/4/86796.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: グルグル ぷちあにめ劇場

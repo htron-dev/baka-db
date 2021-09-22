@@ -1,5 +1,7 @@
 # Hoshi wo Futari de
 
+![hoshi-wo-futari-de](https://cdn.myanimelist.net/images/manga/2/241479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

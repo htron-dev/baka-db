@@ -1,5 +1,7 @@
 # Amachin wa Jishou ♂
 
+![amachin-wa-jishou-♂](https://cdn.myanimelist.net/images/manga/2/203524.jpg)
+
 -   **type**: manga
 -   **original-name**: あまちんは自称 ♂
 -   **start-date**: 2017-06-17

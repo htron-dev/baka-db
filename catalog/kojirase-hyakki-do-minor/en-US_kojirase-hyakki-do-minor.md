@@ -1,5 +1,7 @@
 # Kojirase Hyakki Do Minor
 
+![kojirase-hyakki-do-minor](https://cdn.myanimelist.net/images/manga/3/215333.jpg)
+
 -   **type**: manga
 -   **original-name**: こじらせ百鬼ドマイナー
 -   **start-date**: 2018-05-02

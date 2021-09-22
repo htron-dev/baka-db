@@ -1,5 +1,7 @@
 # Tamagotchi!
 
+![tamagotchi](https://cdn.myanimelist.net/images/anime/13/17624.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 143
 -   **original-name**: たまごっち!

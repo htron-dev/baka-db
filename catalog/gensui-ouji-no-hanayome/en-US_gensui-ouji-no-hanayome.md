@@ -1,5 +1,7 @@
 # Gensui Ouji no Hanayome
 
+![gensui-ouji-no-hanayome](https://cdn.myanimelist.net/images/manga/3/183469.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

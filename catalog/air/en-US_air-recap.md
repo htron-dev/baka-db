@@ -1,5 +1,7 @@
 # Air Recap
 
+![air-recap](https://cdn.myanimelist.net/images/anime/12/87100.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: AIR 総集編

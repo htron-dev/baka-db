@@ -1,5 +1,7 @@
 # Dead Word Puzzle
 
+![dead-word-puzzle](https://cdn.myanimelist.net/images/manga/2/176679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

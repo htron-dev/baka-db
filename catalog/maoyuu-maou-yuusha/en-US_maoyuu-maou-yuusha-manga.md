@@ -1,5 +1,7 @@
 # Maoyuu Maou Yuusha
 
+![maoyuu-maou-yuusha](https://cdn.myanimelist.net/images/manga/2/101117.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 63

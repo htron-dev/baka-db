@@ -1,5 +1,7 @@
 # Che Guevara
 
+![che-guevara](https://cdn.myanimelist.net/images/manga/1/154431.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 8

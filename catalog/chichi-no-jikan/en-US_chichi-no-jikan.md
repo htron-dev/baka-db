@@ -1,5 +1,7 @@
 # Chichi no Jikan
 
+![chichi-no-jikan](https://cdn.myanimelist.net/images/manga/3/195208.jpg)
+
 -   **type**: manga
 -   **original-name**: ちちのじかん
 -   **start-date**: 2016-09-11

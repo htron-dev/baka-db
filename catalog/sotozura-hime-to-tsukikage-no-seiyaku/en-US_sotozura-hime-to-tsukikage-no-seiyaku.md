@@ -1,5 +1,7 @@
 # Sotozura-hime to Tsukikage no Seiyaku
 
+![sotozura-hime-to-tsukikage-no-seiyaku](https://cdn.myanimelist.net/images/manga/3/235483.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

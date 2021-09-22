@@ -1,5 +1,7 @@
 # B - Wanted
 
+![b-wanted](https://cdn.myanimelist.net/images/manga/1/5378.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 

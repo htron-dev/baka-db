@@ -1,5 +1,7 @@
 # Biohazard: Vendetta
 
+![biohazard-vendetta](https://cdn.myanimelist.net/images/anime/6/83300.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バイオハザード ヴェンデッタ

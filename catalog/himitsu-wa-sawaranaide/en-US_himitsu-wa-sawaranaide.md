@@ -1,5 +1,7 @@
 # Himitsu wa Sawaranaide
 
+![himitsu-wa-sawaranaide](https://cdn.myanimelist.net/images/manga/1/88747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6
@@ -14,8 +16,6 @@
 
 -   Isaki
 -   Rika (Story & Art)
-
-## Sinopse
 
 ## Links
 

@@ -1,5 +1,7 @@
 # Aries Zero: Hoshi no Shinwa
 
+![aries-zero-hoshi-no-shinwa](https://cdn.myanimelist.net/images/manga/2/88821.jpg)
+
 -   **type**: manga
 -   **original-name**: アリーズ ZERO ～星の神話～
 -   **start-date**: 2012-04-16

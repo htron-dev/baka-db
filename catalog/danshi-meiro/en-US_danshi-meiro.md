@@ -1,5 +1,7 @@
 # Danshi Meiro
 
+![danshi-meiro](https://cdn.myanimelist.net/images/manga/2/28257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

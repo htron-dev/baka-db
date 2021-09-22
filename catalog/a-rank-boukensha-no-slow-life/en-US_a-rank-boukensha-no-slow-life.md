@@ -1,5 +1,7 @@
 # A-Rank Boukensha no Slow Life
 
+![a-rank-boukensha-no-slow-life](https://cdn.myanimelist.net/images/manga/2/227517.jpg)
+
 -   **type**: manga
 -   **original-name**: Ａランク冒険者のスローライフ
 -   **start-date**: 2019-04-12

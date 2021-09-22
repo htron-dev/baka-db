@@ -1,5 +1,7 @@
 # Souta-kun no Akihabara Funtouki
 
+![souta-kun-no-akihabara-funtouki](https://cdn.myanimelist.net/images/manga/2/3678.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 壮太君のアキハバラ奮闘記

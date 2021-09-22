@@ -1,5 +1,7 @@
 # Get Chu
 
+![get-chu](https://cdn.myanimelist.net/images/manga/2/6696.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

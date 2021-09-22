@@ -1,5 +1,7 @@
 # Nimo Kakawarazu
 
+![nimo-kakawarazu](https://cdn.myanimelist.net/images/manga/2/135761.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

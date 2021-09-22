@@ -1,5 +1,7 @@
 # Ousama Game The Animation
 
+![ousama-game-the-animation](https://cdn.myanimelist.net/images/anime/3/88190.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 王様ゲーム The Animation
@@ -32,4 +34,4 @@ Having played the game before and watched as those around him died, Nobuaki trie
 -   [Official Site](http://kingsgame-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13335)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19973)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E7%8E%8B%E6%A7%98%E3%82%B2%E3%83%BC%E3%83%A0_(%E5%B0%8F%E8%AA%AC)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E7%8E%8B%E6%A7%98%E3%82%B2%E3%83%BC%E3%83%A0_%28%E5%B0%8F%E8%AA%AC%29)

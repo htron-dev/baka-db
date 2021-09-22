@@ -1,5 +1,7 @@
 # Oniichan no Koibito
 
+![oniichan-no-koibito](https://cdn.myanimelist.net/images/manga/1/146437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

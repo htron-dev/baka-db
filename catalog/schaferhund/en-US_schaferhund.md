@@ -1,5 +1,7 @@
 # Schäferhund
 
+![schaferhund](https://cdn.myanimelist.net/images/manga/3/226821.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: シェイファー・ハウンド

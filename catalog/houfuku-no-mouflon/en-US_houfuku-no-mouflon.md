@@ -1,5 +1,7 @@
 # Houfuku no Mouflon
 
+![houfuku-no-mouflon](https://cdn.myanimelist.net/images/manga/1/40983.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 報復のムフロン

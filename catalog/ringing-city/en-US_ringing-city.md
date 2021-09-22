@@ -1,5 +1,7 @@
 # Ringing City
 
+![ringing-city](https://cdn.myanimelist.net/images/anime/1361/103354.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: RINGING CITY

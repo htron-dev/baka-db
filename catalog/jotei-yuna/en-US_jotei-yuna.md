@@ -1,5 +1,7 @@
 # Jotei: Yuna
 
+![jotei-yuna](https://cdn.myanimelist.net/images/manga/1/143685.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 女帝 由奈

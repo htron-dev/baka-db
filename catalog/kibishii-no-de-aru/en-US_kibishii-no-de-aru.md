@@ -1,5 +1,7 @@
 # Kibishii no de Aru
 
+![kibishii-no-de-aru](https://cdn.myanimelist.net/images/manga/2/20657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Gusha no Hoshi
 
+![gusha-no-hoshi](https://cdn.myanimelist.net/images/manga/2/225136.jpg)
+
 -   **type**: manga
 -   **original-name**: 愚者の星
 -   **start-date**: 2019-08-06

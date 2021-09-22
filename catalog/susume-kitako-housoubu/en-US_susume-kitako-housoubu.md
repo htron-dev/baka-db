@@ -1,5 +1,7 @@
 # Susume! Kitako Housoubu
 
+![susume-kitako-housoubu](https://cdn.myanimelist.net/images/manga/4/34755.jpg)
+
 -   **type**: manga
 -   **original-name**: すすめ!きたこーほうそうぶ
 

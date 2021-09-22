@@ -1,5 +1,7 @@
 # Doukyuusei 2 (OVA) Special: Sotsugyousei
 
+![doukyuusei-2-ova-special-sotsugyousei](https://cdn.myanimelist.net/images/anime/8/11674.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 同級生２ Special 　卒業生

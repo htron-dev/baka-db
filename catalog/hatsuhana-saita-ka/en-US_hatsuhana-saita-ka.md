@@ -1,5 +1,7 @@
 # Hatsuhana Saita ka
 
+![hatsuhana-saita-ka](https://cdn.myanimelist.net/images/manga/1/224645.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

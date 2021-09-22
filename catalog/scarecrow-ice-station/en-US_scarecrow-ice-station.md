@@ -1,5 +1,7 @@
 # Scarecrow: Ice Station
 
+![scarecrow-ice-station](https://cdn.myanimelist.net/images/manga/2/34057.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スケアクロウ―死闘!南極基地を防衛せよ

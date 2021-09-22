@@ -1,5 +1,7 @@
 # Peace Shitenchou
 
+![peace-shitenchou](https://cdn.myanimelist.net/images/anime/12/88412.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: ピースしてんちょう

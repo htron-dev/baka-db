@@ -1,5 +1,7 @@
 # Fringe-man
 
+![fringe-man](https://cdn.myanimelist.net/images/manga/1/134425.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

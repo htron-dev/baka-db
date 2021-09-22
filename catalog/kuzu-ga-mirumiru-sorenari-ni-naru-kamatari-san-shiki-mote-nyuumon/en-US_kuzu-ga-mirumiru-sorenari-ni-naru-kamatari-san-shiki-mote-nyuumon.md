@@ -1,5 +1,7 @@
 # Kuzu ga Mirumiru Sorenari ni Naru "Kamatari-san Shiki" Mote Nyuumon
 
+![kuzu-ga-mirumiru-sorenari-ni-naru-kamatari-san-shiki-mote-nyuumon](https://cdn.myanimelist.net/images/manga/2/159502.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Kekkon suru tte, Hontou desu ka
 
+![kekkon-suru-tte-hontou-desu-ka](https://cdn.myanimelist.net/images/manga/3/232925.jpg)
+
 -   **type**: manga
 -   **original-name**: 結婚するって、本当ですか 365 Days To The Wedding
 -   **start-date**: 2020-03-16

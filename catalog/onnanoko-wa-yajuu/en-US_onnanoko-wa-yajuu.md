@@ -1,5 +1,7 @@
 # Onnanoko wa Yajuu
 
+![onnanoko-wa-yajuu](https://cdn.myanimelist.net/images/manga/2/151828.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

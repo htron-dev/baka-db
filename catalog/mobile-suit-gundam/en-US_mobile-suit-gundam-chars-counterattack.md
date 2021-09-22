@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Char's Counterattack
 
+![mobile-suit-gundam-chars-counterattack](https://cdn.myanimelist.net/images/anime/1523/92371.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム 逆襲のシャア

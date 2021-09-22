@@ -1,5 +1,7 @@
 # Jijo Eiyuuden
 
+![jijo-eiyuuden](https://cdn.myanimelist.net/images/manga/3/134601.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

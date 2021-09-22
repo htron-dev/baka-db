@@ -1,5 +1,7 @@
 # Coy - Crush On You
 
+![coy-crush-on-you](https://cdn.myanimelist.net/images/manga/1/82962.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 17

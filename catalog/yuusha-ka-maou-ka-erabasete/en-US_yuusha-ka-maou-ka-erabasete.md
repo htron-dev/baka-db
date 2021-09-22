@@ -1,5 +1,7 @@
 # Yuusha ka Maou ka Erabasete
 
+![yuusha-ka-maou-ka-erabasete](https://cdn.myanimelist.net/images/manga/3/227726.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者か魔王か選ばせて
 -   **start-date**: 2019-02-26

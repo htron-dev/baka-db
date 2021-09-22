@@ -1,5 +1,7 @@
 # Digimon Tamers: Bousou Digimon Tokkyuu
 
+![digimon-tamers-bousou-digimon-tokkyuu](https://cdn.myanimelist.net/images/anime/12/4418.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンテイマーズ 暴走デジモン特急

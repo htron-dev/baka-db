@@ -1,5 +1,7 @@
 # Sawatte, Tokashite.
 
+![sawatte-tokashite](https://cdn.myanimelist.net/images/manga/2/17905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kaze no You ni
 
+![kaze-no-you-ni](https://cdn.myanimelist.net/images/anime/2/80842.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風のように

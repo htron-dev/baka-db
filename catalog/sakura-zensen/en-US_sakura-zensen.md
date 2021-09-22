@@ -1,5 +1,7 @@
 # Sakura Zensen
 
+![sakura-zensen](https://cdn.myanimelist.net/images/manga/5/41278.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: さくら前線

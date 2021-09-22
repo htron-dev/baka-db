@@ -1,5 +1,7 @@
 # Jigoku Sensei Nube: Gozen 0 Ji Nube Shisu!
 
+![jigoku-sensei-nube-gozen-0-ji-nube-shisu](https://cdn.myanimelist.net/images/anime/3/74743.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 地獄先生ぬ～べ～　午前 0 時ぬ～べ～死す！！

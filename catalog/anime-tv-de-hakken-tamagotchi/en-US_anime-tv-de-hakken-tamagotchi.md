@@ -1,5 +1,7 @@
 # Anime TV de Hakken! Tamagotchi
 
+![anime-tv-de-hakken-tamagotchi](https://cdn.myanimelist.net/images/anime/11/63717.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: アニメ　ＴＶで発見！！　たまごっち
@@ -11,7 +13,6 @@
 
 -   comedy
 -   fantasy
-
 -   slice-of-life
 
 ## Sinopse

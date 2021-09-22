@@ -1,5 +1,7 @@
 # Shotgun Marriage
 
+![shotgun-marriage](https://cdn.myanimelist.net/images/manga/2/10708.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Asobi Neko Norari Kurari
 
+![asobi-neko-norari-kurari](https://cdn.myanimelist.net/images/manga/2/147617.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

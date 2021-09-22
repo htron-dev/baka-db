@@ -1,5 +1,7 @@
 # Shounen wa Amaku Aisu
 
+![shounen-wa-amaku-aisu](https://cdn.myanimelist.net/images/manga/5/88585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

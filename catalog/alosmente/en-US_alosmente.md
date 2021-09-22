@@ -1,5 +1,7 @@
 # Alosmente
 
+![alosmente](https://cdn.myanimelist.net/images/manga/3/157898.jpg)
+
 -   **type**: manga
 -   **original-name**: アルオスメンテ
 -   **start-date**: 2010-01-16

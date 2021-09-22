@@ -1,5 +1,7 @@
 # Love Pheromone No.5
 
+![love-pheromone-no-5](https://cdn.myanimelist.net/images/manga/3/179771.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 42

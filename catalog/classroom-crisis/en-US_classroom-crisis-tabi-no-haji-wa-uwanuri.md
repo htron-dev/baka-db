@@ -1,5 +1,7 @@
 # Classroom☆Crisis: Tabi no Haji wa Uwanuri
 
+![classroom☆-crisis-tabi-no-haji-wa-uwanuri](https://cdn.myanimelist.net/images/anime/11/75999.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: クラスルーム ☆ クライシス 第 5.5 話 旅の恥は上塗り

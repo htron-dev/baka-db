@@ -1,5 +1,7 @@
 # Maple Town Monogatari (Movie)
 
+![maple-town-monogatari-movie](https://cdn.myanimelist.net/images/anime/7/84048.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: メイプルタウン物語

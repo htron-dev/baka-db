@@ -1,5 +1,7 @@
 # Crimson Empire: Circumstances to Serve a Noble
 
+![crimson-empire-circumstances-to-serve-a-noble](https://cdn.myanimelist.net/images/manga/1/26874.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

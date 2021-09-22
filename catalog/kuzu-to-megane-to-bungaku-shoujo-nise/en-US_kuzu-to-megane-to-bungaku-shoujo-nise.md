@@ -1,5 +1,7 @@
 # Kuzu to Megane to Bungaku Shoujo (Nise)
 
+![kuzu-to-megane-to-bungaku-shoujo-nise](https://cdn.myanimelist.net/images/manga/3/202122.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

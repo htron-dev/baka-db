@@ -1,5 +1,7 @@
 # Hakobune Hakusho
 
+![hakobune-hakusho](https://cdn.myanimelist.net/images/manga/1/182029.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 31

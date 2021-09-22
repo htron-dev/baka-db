@@ -1,5 +1,7 @@
 # Kamisama Kazoku
 
+![kamisama-kazoku](https://cdn.myanimelist.net/images/manga/3/162950.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 55

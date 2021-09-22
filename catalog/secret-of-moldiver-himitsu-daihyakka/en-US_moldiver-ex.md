@@ -1,5 +1,7 @@
 # Moldiver Ex
 
+![moldiver-ex](https://cdn.myanimelist.net/images/anime/1636/107281.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **start-date**: 1994-01-19

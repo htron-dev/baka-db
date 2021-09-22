@@ -1,5 +1,7 @@
 # Shukumei no Partner
 
+![shukumei-no-partner](https://cdn.myanimelist.net/images/manga/2/41760.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

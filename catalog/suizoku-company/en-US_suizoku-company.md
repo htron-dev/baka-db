@@ -1,5 +1,7 @@
 # Suizoku Company!
 
+![suizoku-company](https://cdn.myanimelist.net/images/manga/1/197774.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

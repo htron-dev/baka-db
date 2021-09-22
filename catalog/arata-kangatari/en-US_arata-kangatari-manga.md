@@ -1,5 +1,7 @@
 # Arata Kangatari
 
+![arata-kangatari](https://cdn.myanimelist.net/images/manga/1/159724.jpg)
+
 -   **type**: manga
 -   **original-name**: アラタカンガタリ～革神語～
 -   **start-date**: 2008-10-01

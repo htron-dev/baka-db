@@ -1,5 +1,7 @@
 # A Princess and a Bum
 
+![a-princess-and-a-bum](https://cdn.myanimelist.net/images/manga/3/17294.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 

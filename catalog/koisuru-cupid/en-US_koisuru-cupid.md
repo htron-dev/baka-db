@@ -1,5 +1,7 @@
 # Koisuru Cupid
 
+![koisuru-cupid](https://cdn.myanimelist.net/images/manga/2/24260.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

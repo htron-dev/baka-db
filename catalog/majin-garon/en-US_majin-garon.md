@@ -1,5 +1,7 @@
 # Majin Garon
 
+![majin-garon](https://cdn.myanimelist.net/images/manga/3/193692.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 53

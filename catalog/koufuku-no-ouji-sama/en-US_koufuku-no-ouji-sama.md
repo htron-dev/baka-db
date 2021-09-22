@@ -1,5 +1,7 @@
 # Koufuku no Ouji-sama
 
+![koufuku-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/137207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

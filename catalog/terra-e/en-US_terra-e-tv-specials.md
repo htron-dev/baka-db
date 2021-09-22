@@ -1,9 +1,10 @@
 # Terra e... (TV) Specials
 
+![terra-e-tv-specials](https://cdn.myanimelist.net/images/anime/11/60717.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 地球へ...
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

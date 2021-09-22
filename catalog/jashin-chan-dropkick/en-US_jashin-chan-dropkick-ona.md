@@ -1,5 +1,7 @@
 # Jashin-chan Dropkick'
 
+![jashin-chan-dropkick](https://cdn.myanimelist.net/images/anime/1646/111421.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: 邪神ちゃんドロップキック'（ダッシュ）

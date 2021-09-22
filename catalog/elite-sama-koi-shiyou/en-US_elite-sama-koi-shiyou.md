@@ -1,5 +1,7 @@
 # Elite Sama Koi Shiyou
 
+![elite-sama-koi-shiyou](https://cdn.myanimelist.net/images/manga/3/7648.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

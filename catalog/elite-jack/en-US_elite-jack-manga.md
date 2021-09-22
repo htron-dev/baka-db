@@ -1,5 +1,7 @@
 # Elite Jack!!
 
+![elite-jack](https://cdn.myanimelist.net/images/manga/2/159705.jpg)
+
 -   **type**: manga
 -   **original-name**: エリートジャック!!
 -   **start-date**: 2012-08-03

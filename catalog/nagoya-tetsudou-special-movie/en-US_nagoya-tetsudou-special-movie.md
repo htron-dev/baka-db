@@ -1,5 +1,7 @@
 # Nagoya Tetsudou Special Movie
 
+![nagoya-tetsudou-special-movie](https://cdn.myanimelist.net/images/anime/5/83456.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 名古屋鉄道スペシャルムービー

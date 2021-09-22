@@ -1,5 +1,7 @@
 # Garo: Guren no Tsuki
 
+![garo-guren-no-tsuki](https://cdn.myanimelist.net/images/anime/2/76029.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: GARO 紅蓮ノ月

@@ -1,5 +1,7 @@
 # Ojama-san Lulu
 
+![ojama-san-lulu](https://cdn.myanimelist.net/images/manga/2/138197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おじゃまさんリュリュ

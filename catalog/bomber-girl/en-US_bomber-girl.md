@@ -1,5 +1,7 @@
 # Bomber Girl
 
+![bomber-girl](https://cdn.myanimelist.net/images/manga/1/180353.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

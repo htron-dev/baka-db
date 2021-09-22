@@ -1,5 +1,7 @@
 # Maseki Gourmet: Mamono no Chikara wo Tabeta Ore wa Saikyou!
 
+![maseki-gourmet-mamono-no-chikara-wo-tabeta-ore-wa-saikyou](https://cdn.myanimelist.net/images/manga/1/230996.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔石グルメ 魔物の力を食べたオレは最強！
 -   **start-date**: 2018-11-10

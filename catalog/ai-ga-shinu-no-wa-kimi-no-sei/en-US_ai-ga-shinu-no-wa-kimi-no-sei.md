@@ -1,5 +1,7 @@
 # Ai ga Shinu no wa Kimi no Sei
 
+![ai-ga-shinu-no-wa-kimi-no-sei](https://cdn.myanimelist.net/images/manga/1/210565.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

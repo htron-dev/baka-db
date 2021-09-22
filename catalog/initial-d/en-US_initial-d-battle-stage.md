@@ -1,5 +1,7 @@
 # Initial D Battle Stage
 
+![initial-d-battle-stage](https://cdn.myanimelist.net/images/anime/2/13168.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 頭文字〈イニシャル〉D BATTLE STAGE

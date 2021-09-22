@@ -1,5 +1,7 @@
 # Zero Skill no Ryouriban
 
+![zero-skill-no-ryouriban](https://cdn.myanimelist.net/images/manga/2/233081.jpg)
+
 -   **type**: manga
 -   **original-name**: ゼロスキルの料理番
 -   **start-date**: 2019-08-09

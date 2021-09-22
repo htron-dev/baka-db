@@ -1,5 +1,7 @@
 # Ohana Moyou no One-Piece
 
+![ohana-moyou-no-one-piece](https://cdn.myanimelist.net/images/manga/2/39133.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

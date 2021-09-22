@@ -1,5 +1,7 @@
 # Kenja-chan wa Satottenai!
 
+![kenja-chan-wa-satottenai](https://cdn.myanimelist.net/images/manga/2/223647.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

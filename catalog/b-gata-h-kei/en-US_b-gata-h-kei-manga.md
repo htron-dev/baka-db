@@ -1,5 +1,7 @@
 # B-gata H-kei
 
+![b-gata-h-kei](https://cdn.myanimelist.net/images/manga/2/46861.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 315

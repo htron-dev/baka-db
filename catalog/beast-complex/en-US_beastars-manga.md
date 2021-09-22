@@ -1,5 +1,7 @@
 # Beastars
 
+![beastars](https://cdn.myanimelist.net/images/manga/2/189832.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 196

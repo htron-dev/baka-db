@@ -1,5 +1,7 @@
 # Panda-Z: The Robonimation
 
+![panda-z-the-robonimation](https://cdn.myanimelist.net/images/anime/1/2428.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: パンダーゼット THE ROBONIMATION
@@ -12,7 +14,6 @@
 
 -   action
 -   comedy
-
 -   mecha
 -   parody
 -   sci-fi

@@ -1,5 +1,7 @@
 # Love♥Monster
 
+![love♥-monster](https://cdn.myanimelist.net/images/manga/2/112555.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 82

@@ -1,5 +1,7 @@
 # Soko wa Bokura no Mondai desu kara
 
+![soko-wa-bokura-no-mondai-desu-kara](https://cdn.myanimelist.net/images/manga/2/30564.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

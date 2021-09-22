@@ -1,5 +1,7 @@
 # Okosama Box
 
+![okosama-box](https://cdn.myanimelist.net/images/manga/1/168528.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

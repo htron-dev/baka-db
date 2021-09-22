@@ -1,5 +1,7 @@
 # Toxic
 
+![toxic](https://cdn.myanimelist.net/images/manga/3/38733.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

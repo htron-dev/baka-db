@@ -1,5 +1,7 @@
 # Fantasista Stella
 
+![fantasista-stella](https://cdn.myanimelist.net/images/anime/1886/96085.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ファンタジスタ ステラ
@@ -23,4 +25,4 @@ Teppei and teammate Keisuke Honda aim for the FIFA World Cup 2014 in Brazil.
 -   [Official Site](http://www.shogakukan.co.jp/pr/anisun/fs/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10674)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16489)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/ファンタジスタ_(漫画)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/ファンタジスタ_%28漫画%29)

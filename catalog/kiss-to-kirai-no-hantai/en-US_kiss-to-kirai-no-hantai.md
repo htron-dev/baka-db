@@ -1,5 +1,7 @@
 # Kiss to Kirai no Hantai
 
+![kiss-to-kirai-no-hantai](https://cdn.myanimelist.net/images/manga/2/10541.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Koori ga Tokeru no wo Matteru
 
+![koori-ga-tokeru-no-wo-matteru](https://cdn.myanimelist.net/images/manga/3/179389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

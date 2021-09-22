@@ -1,5 +1,7 @@
 # Bavi Stock
 
+![bavi-stock](https://cdn.myanimelist.net/images/anime/13/27876.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: バビ・ストック

@@ -1,5 +1,7 @@
 # 1-nen A-gumi no Monster
 
+![1-nen-a-gumi-no-monster](https://cdn.myanimelist.net/images/manga/3/210493.jpg)
+
 -   **type**: manga
 -   **original-name**: 1 年 A 組のモンスター
 -   **start-date**: 2018-01-27

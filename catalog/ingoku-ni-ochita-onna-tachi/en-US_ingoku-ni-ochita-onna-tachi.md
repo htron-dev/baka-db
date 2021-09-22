@@ -1,5 +1,7 @@
 # Ingoku ni Ochita Onna-tachi
 
+![ingoku-ni-ochita-onna-tachi](https://cdn.myanimelist.net/images/manga/3/195970.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 淫獄に堕ちた女たち

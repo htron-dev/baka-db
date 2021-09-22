@@ -1,5 +1,7 @@
 # Durarara!! Saika-hen
 
+![durarara-saika-hen](https://cdn.myanimelist.net/images/manga/3/154267.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

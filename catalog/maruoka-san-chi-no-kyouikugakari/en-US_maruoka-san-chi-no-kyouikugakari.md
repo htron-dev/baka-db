@@ -1,5 +1,7 @@
 # Maruoka-san Chi no Kyouikugakari
 
+![maruoka-san-chi-no-kyouikugakari](https://cdn.myanimelist.net/images/manga/1/171448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

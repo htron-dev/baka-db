@@ -1,5 +1,7 @@
 # Tile no Mizu
 
+![tile-no-mizu](https://cdn.myanimelist.net/images/manga/1/181526.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: タイルの水

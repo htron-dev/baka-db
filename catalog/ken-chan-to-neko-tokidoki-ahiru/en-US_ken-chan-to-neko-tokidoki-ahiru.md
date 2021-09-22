@@ -1,5 +1,7 @@
 # Ken-chan to Neko. Tokidoki Ahiru
 
+![ken-chan-to-neko-tokidoki-ahiru](https://cdn.myanimelist.net/images/manga/1/220524.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

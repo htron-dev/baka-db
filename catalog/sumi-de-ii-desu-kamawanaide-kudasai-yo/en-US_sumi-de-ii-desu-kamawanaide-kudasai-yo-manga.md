@@ -1,5 +1,7 @@
 # Sumi de Ii desu. Kamawanaide Kudasai yo.
 
+![sumi-de-ii-desu-kamawanaide-kudasai-yo](https://cdn.myanimelist.net/images/manga/2/225370.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

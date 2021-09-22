@@ -1,5 +1,7 @@
 # Yuki no Kuni kara
 
+![yuki-no-kuni-kara](https://cdn.myanimelist.net/images/manga/2/17007.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 来自于雪国

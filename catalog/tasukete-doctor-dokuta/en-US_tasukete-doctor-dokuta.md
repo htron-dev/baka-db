@@ -1,5 +1,7 @@
 # Tasukete! Doctor Dokuta
 
+![tasukete-doctor-dokuta](https://cdn.myanimelist.net/images/manga/2/194094.jpg)
+
 -   **type**: manga
 -   **original-name**: たすけて！ドクター・ドク太
 -   **start-date**: 2016-04-30

@@ -1,5 +1,7 @@
 # Jinnai Ryuujuujutsu Butouden Majima-kun Suttobasu!!
 
+![jinnai-ryuujuujutsu-butouden-majima-kun-suttobasu](https://cdn.myanimelist.net/images/manga/2/186576.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 140

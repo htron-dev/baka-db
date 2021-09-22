@@ -1,5 +1,7 @@
 # Otoko no Jouken
 
+![otoko-no-jouken](https://cdn.myanimelist.net/images/manga/2/186962.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

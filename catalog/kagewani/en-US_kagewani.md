@@ -1,5 +1,7 @@
 # Kagewani
 
+![kagewani](https://cdn.myanimelist.net/images/anime/9/76060.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 影鰐-KAGEWANI-

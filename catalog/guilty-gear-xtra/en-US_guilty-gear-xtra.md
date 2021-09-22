@@ -1,5 +1,7 @@
 # Guilty Gear Xtra
 
+![guilty-gear-xtra](https://cdn.myanimelist.net/images/manga/5/14017.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

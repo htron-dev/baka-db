@@ -1,5 +1,7 @@
 # Boku wa Tomodachi ga Sukunai Episode 0
 
+![boku-wa-tomodachi-ga-sukunai-episode-0](https://cdn.myanimelist.net/images/anime/8/30097.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 僕は友達が少ない 第 0 語

@@ -1,5 +1,7 @@
 # Dasei 67 Percent
 
+![dasei-67-percent](https://cdn.myanimelist.net/images/manga/3/163753.jpg)
+
 -   **type**: manga
 -   **original-name**: 惰性 67 パーセント
 -   **start-date**: 2014-07-19

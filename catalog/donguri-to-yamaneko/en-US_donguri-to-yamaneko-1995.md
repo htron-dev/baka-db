@@ -1,5 +1,7 @@
 # Donguri to Yamaneko (1995)
 
+![donguri-to-yamaneko-1995](https://cdn.myanimelist.net/images/anime/11/66239.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: どんぐりと山猫

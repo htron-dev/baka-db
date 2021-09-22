@@ -1,5 +1,7 @@
 # Bishoujo Yuugi Unit Crane Game Girls
 
+![bishoujo-yuugi-unit-crane-game-girls](https://cdn.myanimelist.net/images/anime/12/78958.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 美少女遊戯ユニットクレーンゲール Crane Game Girls

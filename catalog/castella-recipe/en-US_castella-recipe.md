@@ -1,5 +1,7 @@
 # Castella Recipe
 
+![castella-recipe](https://cdn.myanimelist.net/images/manga/2/181953.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 카스텔라 레시피
 -   **start-date**: 2009-10-30

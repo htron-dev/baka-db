@@ -1,5 +1,7 @@
 # Nadete Kanadete
 
+![nadete-kanadete](https://cdn.myanimelist.net/images/manga/1/246339.jpg)
+
 -   **type**: manga
 -   **original-name**: なでて奏でて
 -   **start-date**: 2021-01-13

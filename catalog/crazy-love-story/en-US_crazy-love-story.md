@@ -1,5 +1,7 @@
 # Crazy Love Story
 
+![crazy-love-story](https://cdn.myanimelist.net/images/manga/2/152306.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 44

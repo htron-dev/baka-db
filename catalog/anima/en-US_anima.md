@@ -1,5 +1,7 @@
 # Anima
 
+![anima](https://cdn.myanimelist.net/images/anime/4/37999.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アニマ

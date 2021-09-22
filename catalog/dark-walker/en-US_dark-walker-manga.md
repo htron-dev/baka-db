@@ -1,5 +1,7 @@
 # Dark Walker
 
+![dark-walker](https://cdn.myanimelist.net/images/manga/2/7631.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 銀の闇迷宮 D・ウォーカー

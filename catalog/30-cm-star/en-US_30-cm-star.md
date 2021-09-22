@@ -1,5 +1,7 @@
 # 30cm Star
 
+![30-cm-star](https://cdn.myanimelist.net/images/manga/1/143059.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

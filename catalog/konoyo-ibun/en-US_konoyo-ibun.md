@@ -1,5 +1,7 @@
 # Konoyo Ibun
 
+![konoyo-ibun](https://cdn.myanimelist.net/images/manga/2/179673.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 43

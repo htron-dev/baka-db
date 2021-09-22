@@ -1,5 +1,7 @@
 # Love☆Triple!
 
+![love☆-triple](https://cdn.myanimelist.net/images/manga/2/5163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラブ ☆ トリプル！

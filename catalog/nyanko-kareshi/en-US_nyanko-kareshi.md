@@ -1,5 +1,7 @@
 # Nyanko Kareshi
 
+![nyanko-kareshi](https://cdn.myanimelist.net/images/manga/1/59105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

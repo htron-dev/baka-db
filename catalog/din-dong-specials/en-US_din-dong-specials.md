@@ -1,5 +1,7 @@
 # Din Dong Specials
 
+![din-dong-specials](https://cdn.myanimelist.net/images/anime/1619/94886.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 癲噹

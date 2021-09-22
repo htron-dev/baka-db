@@ -1,5 +1,7 @@
 # Dokaben
 
+![dokaben](https://cdn.myanimelist.net/images/anime/7/60899.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 163
 -   **original-name**: ドカベン

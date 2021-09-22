@@ -1,5 +1,7 @@
 # Glass no Kodou
 
+![glass-no-kodou](https://cdn.myanimelist.net/images/manga/2/19684.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ガラスの鼓動

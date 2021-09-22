@@ -1,5 +1,7 @@
 # Ponkotsuland Saga
 
+![ponkotsuland-saga](https://cdn.myanimelist.net/images/anime/2/76400.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ポンコツランド・サガ

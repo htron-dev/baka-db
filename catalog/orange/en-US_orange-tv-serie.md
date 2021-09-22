@@ -1,5 +1,7 @@
 # Orange
 
+![orange](https://cdn.myanimelist.net/images/anime/4/80110.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: orange（オレンジ）

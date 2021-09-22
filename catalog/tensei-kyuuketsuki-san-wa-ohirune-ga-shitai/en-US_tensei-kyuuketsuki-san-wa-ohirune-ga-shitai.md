@@ -1,5 +1,7 @@
 # Tensei Kyuuketsuki-san wa Ohirune ga Shitai
 
+![tensei-kyuuketsuki-san-wa-ohirune-ga-shitai](https://cdn.myanimelist.net/images/manga/3/203254.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 307

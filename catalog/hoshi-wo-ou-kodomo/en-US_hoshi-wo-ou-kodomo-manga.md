@@ -1,5 +1,7 @@
 # Hoshi wo Ou Kodomo
 
+![hoshi-wo-ou-kodomo](https://cdn.myanimelist.net/images/manga/2/99343.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

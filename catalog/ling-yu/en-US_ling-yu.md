@@ -1,5 +1,7 @@
 # Ling Yu
 
+![ling-yu](https://cdn.myanimelist.net/images/anime/12/87671.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 灵域

@@ -1,5 +1,7 @@
 # Soshite, Kimi wo Suki ni Naru
 
+![soshite-kimi-wo-suki-ni-naru](https://cdn.myanimelist.net/images/manga/1/61727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

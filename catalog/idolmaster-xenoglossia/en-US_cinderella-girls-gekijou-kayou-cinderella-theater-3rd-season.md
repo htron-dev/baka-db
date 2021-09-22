@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season
 
+![cinderella-girls-gekijou-kayou-cinderella-theater-3rd-season](https://cdn.myanimelist.net/images/anime/1652/90873.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: シンデレラガールズ劇場 火曜シンデレラシアター 第 3 期

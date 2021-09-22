@@ -1,5 +1,7 @@
 # Tongari Boushi no Memole: Marielle no Housekibako
 
+![tongari-boushi-no-memole-marielle-no-housekibako](https://cdn.myanimelist.net/images/anime/3/35543.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とんがり帽子のメモル マリエルの宝石箱

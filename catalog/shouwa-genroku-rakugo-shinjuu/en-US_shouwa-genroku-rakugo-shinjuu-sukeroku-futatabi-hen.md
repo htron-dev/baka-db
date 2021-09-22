@@ -1,5 +1,7 @@
 # Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
 
+![shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen](https://cdn.myanimelist.net/images/anime/10/82947.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 昭和元禄落語心中～助六再び篇～

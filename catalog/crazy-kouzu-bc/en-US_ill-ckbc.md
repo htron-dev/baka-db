@@ -1,5 +1,7 @@
 # I'll/CKBC
 
+![ill-ckbc](https://cdn.myanimelist.net/images/anime/1/359.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: I'll/CKBC

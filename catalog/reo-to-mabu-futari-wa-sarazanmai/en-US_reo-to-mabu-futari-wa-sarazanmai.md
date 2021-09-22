@@ -1,5 +1,7 @@
 # Reo to Mabu: Futari wa Sarazanmai
 
+![reo-to-mabu-futari-wa-sarazanmai](https://cdn.myanimelist.net/images/manga/3/219469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

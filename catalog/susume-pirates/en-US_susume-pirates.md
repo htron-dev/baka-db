@@ -1,5 +1,7 @@
 # Susume!! Pirates
 
+![susume-pirates](https://cdn.myanimelist.net/images/manga/3/153523.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: すすめ!!パイレーツ

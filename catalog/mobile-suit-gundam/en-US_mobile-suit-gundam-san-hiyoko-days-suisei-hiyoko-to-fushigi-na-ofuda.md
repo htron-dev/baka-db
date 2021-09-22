@@ -1,5 +1,7 @@
 # Mobile Suit Gundam-san: Hiyoko Days ― Suisei Hiyoko to Fushigi na Ofuda
 
+![mobile-suit-gundam-san-hiyoko-days-suisei-hiyoko-to-fushigi-na-ofuda](https://cdn.myanimelist.net/images/anime/3/79836.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダムさん ヒヨコ day's ―彗星ヒヨコとふしぎなおふだ

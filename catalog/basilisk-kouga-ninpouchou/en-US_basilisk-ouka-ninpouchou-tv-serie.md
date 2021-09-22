@@ -1,5 +1,7 @@
 # Basilisk: Ouka Ninpouchou
 
+![basilisk-ouka-ninpouchou](https://cdn.myanimelist.net/images/anime/2/88384.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: バジリスク ～桜花忍法帖～

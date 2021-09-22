@@ -1,5 +1,7 @@
 # Gekkan Ichinen Futagumi
 
+![gekkan-ichinen-futagumi](https://cdn.myanimelist.net/images/manga/1/21551.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 月刊 1 年 2 組

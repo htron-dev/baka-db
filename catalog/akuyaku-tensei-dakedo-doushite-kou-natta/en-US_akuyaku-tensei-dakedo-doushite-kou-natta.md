@@ -1,5 +1,7 @@
 # Akuyaku Tensei dakedo Doushite Kou Natta.
 
+![akuyaku-tensei-dakedo-doushite-kou-natta](https://cdn.myanimelist.net/images/manga/3/235250.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 悪役転生だけどどうしてこうなった。

@@ -1,5 +1,7 @@
 # Oniwaka to Ushiwaka: Edge of the World
 
+![oniwaka-to-ushiwaka-edge-of-the-world](https://cdn.myanimelist.net/images/manga/1/30663.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: 鬼若と牛若 —Edge of the World—

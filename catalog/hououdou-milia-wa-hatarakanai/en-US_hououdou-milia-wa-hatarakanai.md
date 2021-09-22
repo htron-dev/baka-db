@@ -1,5 +1,7 @@
 # Hououdou Milia wa Hatarakanai!
 
+![hououdou-milia-wa-hatarakanai](https://cdn.myanimelist.net/images/manga/3/163175.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Kyou mo Senpai to Katakoichuu.
 
+![kyou-mo-senpai-to-katakoichuu](https://cdn.myanimelist.net/images/manga/2/170879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # City Hunter: The Secret Service
 
+![city-hunter-the-secret-service](https://cdn.myanimelist.net/images/manga/3/25874.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

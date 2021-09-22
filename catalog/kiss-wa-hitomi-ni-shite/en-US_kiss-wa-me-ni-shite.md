@@ -1,5 +1,7 @@
 # Kiss wa Me ni Shite
 
+![kiss-wa-me-ni-shite](https://cdn.myanimelist.net/images/manga/3/15319.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: キッスは瞳にして

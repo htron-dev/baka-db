@@ -1,5 +1,7 @@
 # Tengoku ni Musubu Koi
 
+![tengoku-ni-musubu-koi](https://cdn.myanimelist.net/images/manga/2/207553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天国に結ぶ恋

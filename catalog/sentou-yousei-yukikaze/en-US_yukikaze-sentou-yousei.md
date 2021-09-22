@@ -1,5 +1,7 @@
 # Yukikaze: Sentou Yousei
 
+![yukikaze-sentou-yousei](https://cdn.myanimelist.net/images/manga/3/34972.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

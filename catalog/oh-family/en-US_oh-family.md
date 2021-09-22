@@ -1,5 +1,7 @@
 # Oh! Family
 
+![oh-family](https://cdn.myanimelist.net/images/anime/10/61193.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: Ｏｈ！ファミリー

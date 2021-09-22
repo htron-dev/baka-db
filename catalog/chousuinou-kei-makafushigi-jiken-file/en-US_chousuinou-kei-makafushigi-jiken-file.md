@@ -1,5 +1,7 @@
 # Chousuinou Kei: Makafushigi Jiken File
 
+![chousuinou-kei-makafushigi-jiken-file](https://cdn.myanimelist.net/images/manga/1/150817.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 61

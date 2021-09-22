@@ -1,5 +1,7 @@
 # Doraemon Movie 34: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai
 
+![doraemon-movie-34-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai](https://cdn.myanimelist.net/images/anime/13/72439.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん 新・のび太の大魔境～ペコと 5 人の探検隊～

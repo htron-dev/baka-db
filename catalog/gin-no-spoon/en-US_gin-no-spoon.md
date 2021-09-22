@@ -1,5 +1,7 @@
 # Gin no Spoon
 
+![gin-no-spoon](https://cdn.myanimelist.net/images/manga/3/201333.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 92

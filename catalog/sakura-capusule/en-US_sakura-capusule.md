@@ -1,5 +1,7 @@
 # Sakura Capusule
 
+![sakura-capusule](https://cdn.myanimelist.net/images/anime/8/75512.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サクラカプセル

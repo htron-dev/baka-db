@@ -1,5 +1,7 @@
 # Hokuto no Ken
 
+![hokuto-no-ken](https://cdn.myanimelist.net/images/manga/3/830.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 245

@@ -1,5 +1,7 @@
 # Kuro-senpai to Kuroyashiki no Yami ni Mayowanai
 
+![kuro-senpai-to-kuroyashiki-no-yami-ni-mayowanai](https://cdn.myanimelist.net/images/manga/2/161812.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ryoumin 0-nin Start no Henkyou Ryoushu-sama: Ao no Dias to Soukaku no Otome
 
+![ryoumin-0-nin-start-no-henkyou-ryoushu-sama-ao-no-dias-to-soukaku-no-otome](https://cdn.myanimelist.net/images/manga/1/225192.jpg)
+
 -   **type**: manga
 -   **original-name**: 領民 0 人スタートの辺境領主様～青のディアスと蒼角の乙女～
 -   **start-date**: 2018-12-25

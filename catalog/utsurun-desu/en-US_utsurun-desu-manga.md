@@ -1,5 +1,7 @@
 # Utsurun desu.
 
+![utsurun-desu](https://cdn.myanimelist.net/images/manga/2/20140.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 17

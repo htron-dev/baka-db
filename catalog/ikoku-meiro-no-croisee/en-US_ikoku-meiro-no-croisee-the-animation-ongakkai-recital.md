@@ -1,5 +1,7 @@
 # Ikoku Meiro no Croisée The Animation: Ongakkai "Récital"
 
+![ikoku-meiro-no-croisee-the-animation-ongakkai-recital](https://cdn.myanimelist.net/images/anime/8/29825.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 異国迷路のクロワーゼ The Animation 第 4.5 話 音楽会 "Récital"

@@ -1,5 +1,7 @@
 # Ranman
 
+![ranman](https://cdn.myanimelist.net/images/manga/4/35395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

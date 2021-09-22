@@ -1,5 +1,7 @@
 # Oboreru Kemono no Koibito
 
+![oboreru-kemono-no-koibito](https://cdn.myanimelist.net/images/manga/1/62241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

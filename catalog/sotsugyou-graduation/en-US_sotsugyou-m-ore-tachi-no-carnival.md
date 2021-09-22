@@ -1,5 +1,7 @@
 # Sotsugyou M: Ore-tachi no Carnival
 
+![sotsugyou-m-ore-tachi-no-carnival](https://cdn.myanimelist.net/images/anime/11/3755.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 卒業 M ～オレ達のカーニバル～

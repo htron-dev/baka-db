@@ -1,5 +1,7 @@
 # Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches (OVA)
 
+![renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-ova](https://cdn.myanimelist.net/images/anime/1877/110330.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 連盟空軍航空魔法音楽隊ルミナスウィッチーズ

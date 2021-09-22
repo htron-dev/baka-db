@@ -1,5 +1,7 @@
 # Kekkai Sensen: Ousama no Restaurant no Ousama
 
+![kekkai-sensen-ousama-no-restaurant-no-ousama](https://cdn.myanimelist.net/images/anime/1861/96667.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 血界戦線 王様のレストランの王様

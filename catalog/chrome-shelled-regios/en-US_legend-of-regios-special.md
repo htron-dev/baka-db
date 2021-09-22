@@ -1,5 +1,7 @@
 # Legend of Regios
 
+![legend-of-regios](https://cdn.myanimelist.net/images/anime/2/22585.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: レジェンド・オブ・レギオス

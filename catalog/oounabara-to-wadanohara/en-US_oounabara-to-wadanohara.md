@@ -1,5 +1,7 @@
 # Oounabara to Wadanohara
 
+![oounabara-to-wadanohara](https://cdn.myanimelist.net/images/manga/2/170675.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

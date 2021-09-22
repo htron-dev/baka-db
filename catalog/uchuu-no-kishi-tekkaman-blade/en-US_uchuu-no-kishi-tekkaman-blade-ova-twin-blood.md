@@ -1,5 +1,7 @@
 # Uchuu no Kishi Tekkaman Blade OVA: Twin Blood
 
+![uchuu-no-kishi-tekkaman-blade-ova-twin-blood](https://cdn.myanimelist.net/images/anime/1019/92235.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 宇宙の騎士テッカマンブレード

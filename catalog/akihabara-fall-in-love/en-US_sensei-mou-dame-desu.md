@@ -1,5 +1,7 @@
 # Sensei, Mou Dame desu
 
+![sensei-mou-dame-desu](https://cdn.myanimelist.net/images/manga/3/234348.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

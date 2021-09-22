@@ -1,5 +1,7 @@
 # Class Marugoto Jingai Tensei
 
+![class-marugoto-jingai-tensei](https://cdn.myanimelist.net/images/manga/2/167863.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

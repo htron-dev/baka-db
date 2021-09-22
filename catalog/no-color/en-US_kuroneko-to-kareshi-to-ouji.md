@@ -1,5 +1,7 @@
 # Kuroneko to Kareshi to Ouji
 
+![kuroneko-to-kareshi-to-ouji](https://cdn.myanimelist.net/images/manga/3/180256.jpg)
+
 -   **type**: manga
 -   **original-name**: クロネコと彼氏と王子
 -   **start-date**: 2016-06-14

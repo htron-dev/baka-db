@@ -1,5 +1,7 @@
 # Toppuku Kyousou Kyoku
 
+![toppuku-kyousou-kyoku](https://cdn.myanimelist.net/images/anime/11/61541.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 特攻服(とっぷく) 狂走曲

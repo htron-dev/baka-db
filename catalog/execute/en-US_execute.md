@@ -1,5 +1,7 @@
 # Execute
 
+![execute](https://cdn.myanimelist.net/images/anime/1635/109079.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Execute

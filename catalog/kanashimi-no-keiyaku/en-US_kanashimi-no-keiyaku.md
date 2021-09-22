@@ -1,5 +1,7 @@
 # Kanashimi no Keiyaku
 
+![kanashimi-no-keiyaku](https://cdn.myanimelist.net/images/manga/3/247032.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 悲しみの契約

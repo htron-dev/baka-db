@@ -1,5 +1,7 @@
 # Otoko no Ko Days
 
+![otoko-no-ko-days](https://cdn.myanimelist.net/images/manga/3/92645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hana to Alice: Satsujin Jiken
 
+![hana-to-alice-satsujin-jiken](https://cdn.myanimelist.net/images/anime/12/71197.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 花とアリス 殺人事件

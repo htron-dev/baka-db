@@ -1,5 +1,7 @@
 # Gyakuten Saiban Official Anthology Comic: Mitsurugi-hen
 
+![gyakuten-saiban-official-anthology-comic-mitsurugi-hen](https://cdn.myanimelist.net/images/manga/1/14263.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Dead Man's TV
 
+![dead-mans-tv](https://cdn.myanimelist.net/images/manga/3/176034.jpg)
+
 -   **type**: light-novel
 -   **original-name**: デッドマンズ TV
 -   **start-date**: 2016-04-22

@@ -1,5 +1,7 @@
 # Akumademo, Imouto ga Hoshiin desu.
 
+![akumademo-imouto-ga-hoshiin-desu](https://cdn.myanimelist.net/images/manga/1/207554.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

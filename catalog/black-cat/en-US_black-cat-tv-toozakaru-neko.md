@@ -1,5 +1,7 @@
 # Black Cat (TV): Toozakaru Neko
 
+![black-cat-tv-toozakaru-neko](https://cdn.myanimelist.net/images/anime/5/22527.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ブラックキャット 第 14.5 話 遠ざかる猫
@@ -26,4 +28,4 @@ Black Cat DVD only episode.
 -   [My Anime list](https://myanimelist.net/anime/2589/Black_Cat_TV__Toozakaru_Neko)
 -   [Official Site](http://www.j-blackcat.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3321)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Black_Cat_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Black_Cat_%28manga%29#Anime)

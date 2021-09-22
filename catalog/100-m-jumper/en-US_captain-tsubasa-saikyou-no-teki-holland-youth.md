@@ -1,5 +1,7 @@
 # Captain Tsubasa: Saikyou no Teki! Holland Youth
 
+![captain-tsubasa-saikyou-no-teki-holland-youth](https://cdn.myanimelist.net/images/anime/1934/110682.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キャプテン翼　「最強の敵！オランダユース」

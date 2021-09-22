@@ -1,5 +1,7 @@
 # Hangyodon no Hadaka no Ou-sama
 
+![hangyodon-no-hadaka-no-ou-sama](https://cdn.myanimelist.net/images/anime/7/58879.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハンギョドンのはだかの王様

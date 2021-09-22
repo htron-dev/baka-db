@@ -1,5 +1,7 @@
 # Mahjong Shinseiki: Aka no Densetsu
 
+![mahjong-shinseiki-aka-no-densetsu](https://cdn.myanimelist.net/images/manga/3/228410.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Bikings
 
+![bikings](https://cdn.myanimelist.net/images/manga/2/35326.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 31

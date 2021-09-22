@@ -1,5 +1,7 @@
 # Saint Seiya: Meiou Hades Elysion-hen
 
+![saint-seiya-meiou-hades-elysion-hen](https://cdn.myanimelist.net/images/anime/9/55659.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 聖闘士星矢 冥王ハーデス エリシオン編

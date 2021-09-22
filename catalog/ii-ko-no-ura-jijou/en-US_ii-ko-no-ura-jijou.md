@@ -1,5 +1,7 @@
 # Ii Ko no Ura Jijou
 
+![ii-ko-no-ura-jijou](https://cdn.myanimelist.net/images/manga/2/202318.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: いい子の裏事情

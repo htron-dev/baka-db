@@ -1,5 +1,7 @@
 # Dakishimete Tsuideni Kiss mo
 
+![dakishimete-tsuideni-kiss-mo](https://cdn.myanimelist.net/images/manga/3/221863.jpg)
+
 -   **type**: manga
 -   **original-name**: 抱きしめて ついでにキスも
 -   **start-date**: 2018-09-28

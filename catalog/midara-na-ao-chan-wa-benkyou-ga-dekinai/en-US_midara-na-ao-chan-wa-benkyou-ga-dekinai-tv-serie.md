@@ -1,5 +1,7 @@
 # Midara na Ao-chan wa Benkyou ga Dekinai
 
+![midara-na-ao-chan-wa-benkyou-ga-dekinai](https://cdn.myanimelist.net/images/anime/1718/98214.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 淫らな青ちゃんは勉強ができない

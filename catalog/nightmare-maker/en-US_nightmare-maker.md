@@ -1,5 +1,7 @@
 # Nightmare Maker
 
+![nightmare-maker](https://cdn.myanimelist.net/images/manga/1/52265.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

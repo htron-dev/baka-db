@@ -1,5 +1,7 @@
 # Damen's Walker
 
+![damens-walker](https://cdn.myanimelist.net/images/anime/10/21372.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: だめんずうぉ～か～ THE アニメ

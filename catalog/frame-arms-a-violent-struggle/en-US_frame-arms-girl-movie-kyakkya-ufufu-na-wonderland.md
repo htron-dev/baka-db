@@ -1,5 +1,7 @@
 # Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland
 
+![frame-arms-girl-movie-kyakkya-ufufu-na-wonderland](https://cdn.myanimelist.net/images/anime/1148/116868.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フレームアームズ・ガール ～きゃっきゃうふふなワンダーランド～

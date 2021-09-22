@@ -1,5 +1,7 @@
 # Short Cuts
 
+![short-cuts](https://cdn.myanimelist.net/images/manga/3/965.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

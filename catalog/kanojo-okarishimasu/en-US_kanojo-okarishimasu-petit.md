@@ -1,5 +1,7 @@
 # Kanojo, Okarishimasu Petit
 
+![kanojo-okarishimasu-petit](https://cdn.myanimelist.net/images/anime/1582/109275.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 彼女, お借りします ぷち

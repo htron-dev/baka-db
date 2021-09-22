@@ -1,5 +1,7 @@
 # Jibun ga Twintail no Kawaii Onnanoko dato Omoikonde, Kyou no Dekigoto wo 4-koma ni Suru.
 
+![jibun-ga-twintail-no-kawaii-onnanoko-dato-omoikonde-kyou-no-dekigoto-wo-4-koma-ni-suru](https://cdn.myanimelist.net/images/manga/2/189013.jpg)
+
 -   **type**: manga
 -   **original-name**: 自分がツインテールのかわいい女の子だと思い込んで、今日の出来事を 4 コマにする。
 -   **start-date**: 2014-06-19

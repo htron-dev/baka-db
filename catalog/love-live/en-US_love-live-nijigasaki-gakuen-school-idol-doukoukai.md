@@ -1,5 +1,7 @@
 # Love Live! Nijigasaki Gakuen School Idol Doukoukai
 
+![love-live-nijigasaki-gakuen-school-idol-doukoukai](https://cdn.myanimelist.net/images/anime/1393/109203.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ラブライブ! 虹ヶ咲学園スクールアイドル同好会

@@ -1,5 +1,7 @@
 # Kageki ni Junjouha
 
+![kageki-ni-junjouha](https://cdn.myanimelist.net/images/manga/4/175898.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: カゲキに純情派

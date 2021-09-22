@@ -1,5 +1,7 @@
 # Teriyaki Western
 
+![teriyaki-western](https://cdn.myanimelist.net/images/manga/1/26386.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: テリヤキウエスタン－史上最凶の無法都市－

@@ -1,5 +1,7 @@
 # Ja-Dou: Tenmou Yatan
 
+![ja-dou-tenmou-yatan](https://cdn.myanimelist.net/images/manga/2/8970.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

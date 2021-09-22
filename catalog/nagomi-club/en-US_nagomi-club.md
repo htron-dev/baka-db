@@ -1,5 +1,7 @@
 # Nagomi Club
 
+![nagomi-club](https://cdn.myanimelist.net/images/manga/1/71851.jpg)
+
 -   **type**: manga
 -   **original-name**: なごみクラブ
 -   **start-date**: 2005-07-11

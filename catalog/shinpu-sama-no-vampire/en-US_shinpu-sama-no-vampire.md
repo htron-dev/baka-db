@@ -1,5 +1,7 @@
 # Shinpu-sama no Vampire
 
+![shinpu-sama-no-vampire](https://cdn.myanimelist.net/images/manga/3/167305.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

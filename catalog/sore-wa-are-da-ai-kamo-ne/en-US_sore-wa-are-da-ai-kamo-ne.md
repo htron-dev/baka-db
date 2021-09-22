@@ -1,5 +1,7 @@
 # Sore wa Are da, Ai Kamo ne
 
+![sore-wa-are-da-ai-kamo-ne](https://cdn.myanimelist.net/images/manga/2/225017.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

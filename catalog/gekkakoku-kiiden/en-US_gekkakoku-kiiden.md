@@ -1,5 +1,7 @@
 # Gekkakoku Kiiden
 
+![gekkakoku-kiiden](https://cdn.myanimelist.net/images/manga/1/220958.jpg)
+
 -   **type**: manga
 -   **original-name**: 月華国奇医伝
 -   **start-date**: 2018-01-24

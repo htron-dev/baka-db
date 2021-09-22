@@ -1,5 +1,7 @@
 # Zettai Fukujuu Idol
 
+![zettai-fukujuu-idol](https://cdn.myanimelist.net/images/manga/3/165815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

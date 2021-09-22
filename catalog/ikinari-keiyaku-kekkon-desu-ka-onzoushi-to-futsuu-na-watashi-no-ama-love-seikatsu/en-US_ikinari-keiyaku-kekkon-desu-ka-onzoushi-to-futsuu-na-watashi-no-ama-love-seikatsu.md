@@ -1,5 +1,7 @@
 # Ikinari Keiyaku Kekkon desu ka!? Onzoushi to Futsuu na Watashi no Ama Love Seikatsu
 
+![ikinari-keiyaku-kekkon-desu-ka-onzoushi-to-futsuu-na-watashi-no-ama-love-seikatsu](https://cdn.myanimelist.net/images/manga/3/191437.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

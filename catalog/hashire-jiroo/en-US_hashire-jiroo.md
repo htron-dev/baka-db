@@ -1,5 +1,7 @@
 # Hashire Jiroo
 
+![hashire-jiroo](https://cdn.myanimelist.net/images/manga/2/164333.jpg)
+
 -   **type**: manga
 -   **original-name**: ハシレジロー
 -   **start-date**: 2015-02-25

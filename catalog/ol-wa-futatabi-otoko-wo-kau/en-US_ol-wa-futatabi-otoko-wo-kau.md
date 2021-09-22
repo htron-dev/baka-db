@@ -1,5 +1,7 @@
 # OL wa Futatabi Otoko wo Kau.
 
+![ol-wa-futatabi-otoko-wo-kau](https://cdn.myanimelist.net/images/manga/2/128191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

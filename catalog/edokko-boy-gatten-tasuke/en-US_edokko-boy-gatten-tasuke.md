@@ -1,5 +1,7 @@
 # Edokko Boy: Gatten Tasuke
 
+![edokko-boy-gatten-tasuke](https://cdn.myanimelist.net/images/anime/12/24988.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 江戸っ子ボーイ がってん太助

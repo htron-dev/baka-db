@@ -1,5 +1,7 @@
 # Doujin ni Yumemite
 
+![doujin-ni-yumemite](https://cdn.myanimelist.net/images/manga/1/110155.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 同人に夢みて

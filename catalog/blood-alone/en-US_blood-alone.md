@@ -1,5 +1,7 @@
 # Blood Alone
 
+![blood-alone](https://cdn.myanimelist.net/images/manga/2/172476.jpg)
+
 -   **type**: manga
 -   **original-name**: BLOOD ALONE
 -   **start-date**: 2004-04-21

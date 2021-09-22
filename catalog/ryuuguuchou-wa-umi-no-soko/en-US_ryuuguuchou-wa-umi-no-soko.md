@@ -1,5 +1,7 @@
 # Ryuuguuchou wa Umi no Soko
 
+![ryuuguuchou-wa-umi-no-soko](https://cdn.myanimelist.net/images/manga/3/190958.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

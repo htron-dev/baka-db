@@ -1,5 +1,7 @@
 # Tsunagaru Koi
 
+![tsunagaru-koi](https://cdn.myanimelist.net/images/manga/2/196453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 繋がる恋

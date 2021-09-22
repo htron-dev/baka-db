@@ -1,5 +1,7 @@
 # Harizuki Kagerou Enishi no Monogatari
 
+![harizuki-kagerou-enishi-no-monogatari](https://cdn.myanimelist.net/images/manga/3/157488.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

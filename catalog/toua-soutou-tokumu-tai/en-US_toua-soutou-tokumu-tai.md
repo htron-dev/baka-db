@@ -1,5 +1,7 @@
 # Toua Soutou Tokumu-tai
 
+![toua-soutou-tokumu-tai](https://cdn.myanimelist.net/images/manga/3/131899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 東亜総統特務隊―ヤパニッシュ・フライビリング・デア・ヴァッフェン SS

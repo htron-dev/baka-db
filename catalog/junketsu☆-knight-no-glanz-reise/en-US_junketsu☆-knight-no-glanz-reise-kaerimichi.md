@@ -1,5 +1,7 @@
 # Junketsu☆Knight no Glanz Reise: Kaerimichi
 
+![junketsu☆-knight-no-glanz-reise-kaerimichi](https://cdn.myanimelist.net/images/manga/2/229131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

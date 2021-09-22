@@ -1,5 +1,7 @@
 # Cinema Complex!
 
+![cinema-complex](https://cdn.myanimelist.net/images/manga/1/215638.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 47

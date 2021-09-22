@@ -1,5 +1,7 @@
 # Kirisaki Kiseki no Kiseki
 
+![kirisaki-kiseki-no-kiseki](https://cdn.myanimelist.net/images/manga/2/123749.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 桐咲キセキのキセキ

@@ -1,5 +1,7 @@
 # Koisuru Boukun
 
+![koisuru-boukun](https://cdn.myanimelist.net/images/manga/1/118407.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋する暴君
 -   **start-date**: 2004-04-07

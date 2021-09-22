@@ -1,5 +1,7 @@
 # Boleumdal Gongjang
 
+![boleumdal-gongjang](https://cdn.myanimelist.net/images/anime/1048/114528.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 보름달 공장
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   fantasy
 
 ## Sinopse

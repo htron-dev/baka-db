@@ -1,5 +1,7 @@
 # Hoshi no Ouji-sama
 
+![hoshi-no-ouji-sama](https://cdn.myanimelist.net/images/manga/1/205001.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

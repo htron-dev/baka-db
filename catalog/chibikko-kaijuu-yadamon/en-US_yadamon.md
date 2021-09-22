@@ -1,5 +1,7 @@
 # Yadamon
 
+![yadamon](https://cdn.myanimelist.net/images/anime/4/82764.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 170
 -   **original-name**: ヤダモン

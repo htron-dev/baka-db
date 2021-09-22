@@ -1,5 +1,7 @@
 # Bikini Warriors
 
+![bikini-warriors](https://cdn.myanimelist.net/images/anime/1670/112160.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ビキニ・ウォリアーズ

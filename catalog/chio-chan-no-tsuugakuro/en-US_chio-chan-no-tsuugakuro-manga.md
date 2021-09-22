@@ -1,5 +1,7 @@
 # Chio-chan no Tsuugakuro
 
+![chio-chan-no-tsuugakuro](https://cdn.myanimelist.net/images/manga/3/145163.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 53

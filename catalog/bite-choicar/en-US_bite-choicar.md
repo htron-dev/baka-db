@@ -1,5 +1,7 @@
 # Bite-Choicar
 
+![bite-choicar](https://cdn.myanimelist.net/images/anime/1656/106927.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 바이트 초이카

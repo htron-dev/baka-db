@@ -1,5 +1,7 @@
 # F no Meikyuu
 
+![f-no-meikyuu](https://cdn.myanimelist.net/images/manga/1/92457.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

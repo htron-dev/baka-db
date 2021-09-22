@@ -1,5 +1,7 @@
 # Daifugou to Taorareta Hana
 
+![daifugou-to-taorareta-hana](https://cdn.myanimelist.net/images/manga/2/227175.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 大富豪と手折られた花

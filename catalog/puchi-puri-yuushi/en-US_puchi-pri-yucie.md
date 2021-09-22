@@ -1,5 +1,7 @@
 # Puchi Pri\*Yucie
 
+![puchi-pri-yucie](https://cdn.myanimelist.net/images/anime/6/20142.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ぷちぷり＊ユーシィ

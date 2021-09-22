@@ -1,5 +1,7 @@
 # Haigakura
 
+![haigakura](https://cdn.myanimelist.net/images/manga/2/157895.jpg)
+
 -   **type**: manga
 -   **original-name**: ハイガクラ
 -   **start-date**: 2008-01-16

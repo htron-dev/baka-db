@@ -1,5 +1,7 @@
 # Karera wa Yoru ka Ame no Naka
 
+![karera-wa-yoru-ka-ame-no-naka](https://cdn.myanimelist.net/images/manga/3/81912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

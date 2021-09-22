@@ -1,5 +1,7 @@
 # Nurekoi Enbu: Toshishita Ouji no Ichizu na Kyuuai
 
+![nurekoi-enbu-toshishita-ouji-no-ichizu-na-kyuuai](https://cdn.myanimelist.net/images/manga/2/193856.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

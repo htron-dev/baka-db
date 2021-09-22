@@ -1,5 +1,7 @@
 # HG ni Koisuru Futari
 
+![hg-ni-koisuru-futari](https://cdn.myanimelist.net/images/manga/1/228076.jpg)
+
 -   **type**: manga
 -   **original-name**: HG に恋するふたり
 -   **start-date**: 2019-11-26

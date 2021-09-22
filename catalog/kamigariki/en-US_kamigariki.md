@@ -1,5 +1,7 @@
 # Kamigariki
 
+![kamigariki](https://cdn.myanimelist.net/images/manga/2/36882.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

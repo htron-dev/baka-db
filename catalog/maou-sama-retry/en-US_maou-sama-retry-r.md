@@ -1,5 +1,7 @@
 # Maou-sama, Retry! R
 
+![maou-sama-retry-r](https://cdn.myanimelist.net/images/manga/3/238838.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王様、リトライ! R
 -   **start-date**: 2020-03-06

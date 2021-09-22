@@ -1,5 +1,7 @@
 # Torikago-hime no Mitsugetsu
 
+![torikago-hime-no-mitsugetsu](https://cdn.myanimelist.net/images/manga/2/194785.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 鳥籠姫の蜜月

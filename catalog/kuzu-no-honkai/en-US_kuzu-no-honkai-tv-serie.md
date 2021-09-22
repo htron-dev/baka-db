@@ -1,5 +1,7 @@
 # Kuzu no Honkai
 
+![kuzu-no-honkai](https://cdn.myanimelist.net/images/anime/5/83937.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: クズの本懐

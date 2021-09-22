@@ -1,5 +1,7 @@
 # Hoshijou
 
+![hoshijou](https://cdn.myanimelist.net/images/manga/3/239364.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

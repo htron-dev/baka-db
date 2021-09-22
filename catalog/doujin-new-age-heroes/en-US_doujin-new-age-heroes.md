@@ -1,5 +1,7 @@
 # Doujin New Age Heroes
 
+![doujin-new-age-heroes](https://cdn.myanimelist.net/images/manga/2/178561.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

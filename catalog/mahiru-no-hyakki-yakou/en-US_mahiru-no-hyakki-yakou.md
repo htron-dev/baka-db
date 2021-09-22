@@ -1,5 +1,7 @@
 # Mahiru no Hyakki Yakou
 
+![mahiru-no-hyakki-yakou](https://cdn.myanimelist.net/images/manga/3/209066.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

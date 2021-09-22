@@ -1,5 +1,7 @@
 # Shen Shou Jin Gang
 
+![shen-shou-jin-gang](https://cdn.myanimelist.net/images/anime/1084/106398.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 神兽金刚
@@ -10,7 +12,6 @@
 
 -   action
 -   sci-fi
-
 -   mecha
 
 ## Sinopse

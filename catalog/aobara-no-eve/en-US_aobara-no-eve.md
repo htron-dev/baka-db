@@ -1,5 +1,7 @@
 # Aobara no Eve
 
+![aobara-no-eve](https://cdn.myanimelist.net/images/manga/2/193429.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

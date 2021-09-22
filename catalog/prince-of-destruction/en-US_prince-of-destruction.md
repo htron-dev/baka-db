@@ -1,5 +1,7 @@
 # Prince of Destruction
 
+![prince-of-destruction](https://cdn.myanimelist.net/images/manga/2/8166.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 12

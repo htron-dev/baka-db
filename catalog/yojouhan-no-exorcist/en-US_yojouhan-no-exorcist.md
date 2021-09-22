@@ -1,5 +1,7 @@
 # Yojouhan no Exorcist
 
+![yojouhan-no-exorcist](https://cdn.myanimelist.net/images/manga/2/222559.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

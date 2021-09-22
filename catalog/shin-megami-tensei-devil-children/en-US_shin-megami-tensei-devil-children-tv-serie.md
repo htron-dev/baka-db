@@ -1,5 +1,7 @@
 # Shin Megami Tensei Devil Children
 
+![shin-megami-tensei-devil-children](https://cdn.myanimelist.net/images/anime/1812/96501.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 真・女神転生 デビチル
@@ -16,7 +18,6 @@
 -   demons
 -   fantasy
 -   game
-
 -   magic
 -   sci-fi
 -   supernatural

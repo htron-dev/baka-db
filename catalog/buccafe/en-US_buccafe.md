@@ -1,5 +1,7 @@
 # Buccafé!
 
+![buccafe](https://cdn.myanimelist.net/images/manga/1/203522.jpg)
+
 -   **type**: manga
 -   **original-name**: ぶっカフェ！
 -   **start-date**: 2017-04-08

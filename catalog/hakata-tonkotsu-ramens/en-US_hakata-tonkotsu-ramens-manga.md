@@ -1,5 +1,7 @@
 # Hakata Tonkotsu Ramens
 
+![hakata-tonkotsu-ramens](https://cdn.myanimelist.net/images/manga/1/198596.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

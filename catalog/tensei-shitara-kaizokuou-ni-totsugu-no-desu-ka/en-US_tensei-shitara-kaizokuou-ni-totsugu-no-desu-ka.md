@@ -1,5 +1,7 @@
 # Tensei shitara Kaizokuou ni Totsugu no desu ka!
 
+![tensei-shitara-kaizokuou-ni-totsugu-no-desu-ka](https://cdn.myanimelist.net/images/manga/2/189075.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

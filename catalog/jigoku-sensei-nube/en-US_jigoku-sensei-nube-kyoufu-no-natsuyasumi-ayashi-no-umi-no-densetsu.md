@@ -1,5 +1,7 @@
 # Jigoku Sensei Nube: Kyoufu no Natsuyasumi!! Ayashi no Umi no Densetsu!
 
+![jigoku-sensei-nube-kyoufu-no-natsuyasumi-ayashi-no-umi-no-densetsu](https://cdn.myanimelist.net/images/anime/9/21282.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 地獄先生ぬ～べ～　恐怖の夏休み！！妖しの海の伝説！

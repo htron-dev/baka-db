@@ -1,5 +1,7 @@
 # Goshoizumiken no Yugana Tashinami
 
+![goshoizumiken-no-yugana-tashinami](https://cdn.myanimelist.net/images/manga/3/63513.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

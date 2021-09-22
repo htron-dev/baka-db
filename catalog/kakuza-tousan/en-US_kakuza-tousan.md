@@ -1,5 +1,7 @@
 # Kakuza Tousan
 
+![kakuza-tousan](https://cdn.myanimelist.net/images/anime/1217/105577.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: かくざ父さん

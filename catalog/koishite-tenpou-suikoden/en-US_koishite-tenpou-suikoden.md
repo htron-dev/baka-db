@@ -1,5 +1,7 @@
 # Koishite Tenpou Suikoden
 
+![koishite-tenpou-suikoden](https://cdn.myanimelist.net/images/manga/1/152948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋して天保水滸伝

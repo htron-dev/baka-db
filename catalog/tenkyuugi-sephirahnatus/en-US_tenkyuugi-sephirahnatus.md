@@ -1,5 +1,7 @@
 # Tenkyuugi: Sephirahnatus
 
+![tenkyuugi-sephirahnatus](https://cdn.myanimelist.net/images/manga/1/151248.jpg)
+
 -   **type**: manga
 -   **original-name**: 天球儀 -セフィラノーツ-
 

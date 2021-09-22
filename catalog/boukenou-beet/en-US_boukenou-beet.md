@@ -1,5 +1,7 @@
 # Boukenou Beet
 
+![boukenou-beet](https://cdn.myanimelist.net/images/manga/2/169816.jpg)
+
 -   **type**: manga
 -   **original-name**: 冒険王ビィト
 -   **start-date**: 2002-03-06

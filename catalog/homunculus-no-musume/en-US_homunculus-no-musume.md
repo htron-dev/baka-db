@@ -1,5 +1,7 @@
 # Homunculus no Musume
 
+![homunculus-no-musume](https://cdn.myanimelist.net/images/manga/2/114535.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

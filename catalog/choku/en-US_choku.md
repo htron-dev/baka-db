@@ -1,5 +1,7 @@
 # Choku!
 
+![choku](https://cdn.myanimelist.net/images/manga/2/20516.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Ice Kiss
 
+![ice-kiss](https://cdn.myanimelist.net/images/manga/2/2728.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 冰砂之吻

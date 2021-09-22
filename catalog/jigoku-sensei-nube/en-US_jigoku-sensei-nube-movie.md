@@ -1,5 +1,7 @@
 # Jigoku Sensei Nube (Movie)
 
+![jigoku-sensei-nube-movie](https://cdn.myanimelist.net/images/anime/13/21280.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 地獄先生ぬ〜べ〜

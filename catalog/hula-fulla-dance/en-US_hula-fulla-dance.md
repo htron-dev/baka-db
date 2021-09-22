@@ -1,5 +1,7 @@
 # Hula Fulla Dance
 
+![hula-fulla-dance](https://cdn.myanimelist.net/images/anime/1874/117582.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フラ・フラダンス

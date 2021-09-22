@@ -1,5 +1,7 @@
 # Touhan
 
+![touhan](https://cdn.myanimelist.net/images/manga/3/124591.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 闘飯

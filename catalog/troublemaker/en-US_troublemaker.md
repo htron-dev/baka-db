@@ -1,5 +1,7 @@
 # Troublemaker!
 
+![troublemaker](https://cdn.myanimelist.net/images/manga/3/198397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

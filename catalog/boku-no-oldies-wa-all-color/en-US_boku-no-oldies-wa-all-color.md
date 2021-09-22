@@ -1,5 +1,7 @@
 # Boku no Oldies wa All Color
 
+![boku-no-oldies-wa-all-color](https://cdn.myanimelist.net/images/anime/11/85164.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 僕のオールディーズはオールカラー

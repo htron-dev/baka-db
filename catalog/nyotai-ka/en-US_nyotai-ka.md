@@ -1,5 +1,7 @@
 # Nyotai-ka.
 
+![nyotai-ka](https://cdn.myanimelist.net/images/manga/1/51789.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 60

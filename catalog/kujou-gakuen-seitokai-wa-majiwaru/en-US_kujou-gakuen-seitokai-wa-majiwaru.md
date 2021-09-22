@@ -1,5 +1,7 @@
 # Kujou Gakuen Seitokai wa Majiwaru
 
+![kujou-gakuen-seitokai-wa-majiwaru](https://cdn.myanimelist.net/images/manga/2/247648.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

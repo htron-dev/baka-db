@@ -1,5 +1,7 @@
 # Hoshi Shinichi Short Short
 
+![hoshi-shinichi-short-short](https://cdn.myanimelist.net/images/anime/11/20995.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 星新一 ショートショート

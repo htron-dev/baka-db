@@ -1,5 +1,7 @@
 # Kawaisa Amatte Nanika ga Hyakubai
 
+![kawaisa-amatte-nanika-ga-hyakubai](https://cdn.myanimelist.net/images/manga/4/40522.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

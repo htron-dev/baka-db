@@ -1,5 +1,7 @@
 # Code Geass: Boukoku no Akito
 
+![code-geass-boukoku-no-akito](https://cdn.myanimelist.net/images/manga/2/170698.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

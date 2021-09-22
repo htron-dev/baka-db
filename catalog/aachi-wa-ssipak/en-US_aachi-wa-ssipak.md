@@ -1,5 +1,7 @@
 # Aachi wa Ssipak
 
+![aachi-wa-ssipak](https://cdn.myanimelist.net/images/anime/2/4034.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 아치와 씨팍

@@ -1,5 +1,7 @@
 # Koi ga Heta demo Ikitemasu
 
+![koi-ga-heta-demo-ikitemasu](https://cdn.myanimelist.net/images/manga/3/158531.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 恋がヘタでも生きてます

@@ -1,5 +1,7 @@
 # Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou
 
+![naikaku-kenryoku-hanzai-kyousei-torishimarikan-zaizen-joutarou](https://cdn.myanimelist.net/images/manga/2/162790.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 166

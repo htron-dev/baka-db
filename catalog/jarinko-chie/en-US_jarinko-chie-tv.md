@@ -1,5 +1,7 @@
 # Jarinko Chie (TV)
 
+![jarinko-chie-tv](https://cdn.myanimelist.net/images/anime/4/77065.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 64
 -   **original-name**: じゃりン子チエ

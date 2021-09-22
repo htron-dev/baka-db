@@ -1,5 +1,7 @@
 # Wild School
 
+![wild-school](https://cdn.myanimelist.net/images/manga/4/14927.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 24

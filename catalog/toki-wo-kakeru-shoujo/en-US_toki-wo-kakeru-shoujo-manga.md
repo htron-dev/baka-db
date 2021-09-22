@@ -1,5 +1,7 @@
 # Toki wo Kakeru Shoujo
 
+![toki-wo-kakeru-shoujo](https://cdn.myanimelist.net/images/manga/3/120293.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

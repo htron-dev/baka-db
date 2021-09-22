@@ -1,5 +1,7 @@
 # Sugar wa Otoshigoro
 
+![sugar-wa-otoshigoro](https://cdn.myanimelist.net/images/manga/2/64197.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

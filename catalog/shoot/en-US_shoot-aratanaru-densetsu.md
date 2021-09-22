@@ -1,5 +1,7 @@
 # Shoot!: Aratanaru Densetsu
 
+![shoot-aratanaru-densetsu](https://cdn.myanimelist.net/images/manga/1/149055.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: シュート! 〜新たなる伝説〜

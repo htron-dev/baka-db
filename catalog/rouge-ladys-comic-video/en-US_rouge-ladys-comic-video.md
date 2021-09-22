@@ -1,5 +1,7 @@
 # Rouge: Lady's Comic Video
 
+![rouge-ladys-comic-video](https://cdn.myanimelist.net/images/anime/9/65145.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ルージュ レディースコミックビデオ

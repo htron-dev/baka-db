@@ -1,5 +1,7 @@
 # Dansei Kyoufushou Datta Watashi ga AV Joyuu ni Naru made no Hanashi
 
+![dansei-kyoufushou-datta-watashi-ga-av-joyuu-ni-naru-made-no-hanashi](https://cdn.myanimelist.net/images/manga/3/232409.jpg)
+
 -   **type**: manga
 -   **original-name**: 男性恐怖症だった私が AV 女優になるまでの話
 -   **start-date**: 2019-06-14

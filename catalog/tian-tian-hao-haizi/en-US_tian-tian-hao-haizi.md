@@ -1,5 +1,7 @@
 # Tian Tian Hao Haizi
 
+![tian-tian-hao-haizi](https://cdn.myanimelist.net/images/anime/1405/115488.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 天天好孩子

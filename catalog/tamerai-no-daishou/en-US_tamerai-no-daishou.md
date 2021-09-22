@@ -1,5 +1,7 @@
 # Tamerai no Daishou
 
+![tamerai-no-daishou](https://cdn.myanimelist.net/images/manga/2/185540.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

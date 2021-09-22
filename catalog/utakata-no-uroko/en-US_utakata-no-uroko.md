@@ -1,5 +1,7 @@
 # Utakata no Uroko
 
+![utakata-no-uroko](https://cdn.myanimelist.net/images/manga/2/224751.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hoozuki no Reitetsu
 
+![hoozuki-no-reitetsu](https://cdn.myanimelist.net/images/anime/7/87177.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 鬼灯の冷徹

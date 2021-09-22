@@ -1,5 +1,7 @@
 # Kimi wa Maru de, Ano Hana no You de.
 
+![kimi-wa-maru-de-ano-hana-no-you-de](https://cdn.myanimelist.net/images/manga/3/71423.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Kira Kira Kira
 
+![kira-kira-kira](https://cdn.myanimelist.net/images/manga/2/47287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: きらきらきら

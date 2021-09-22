@@ -1,5 +1,7 @@
 # Warau Michael
 
+![warau-michael](https://cdn.myanimelist.net/images/manga/3/149197.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 笑う大天使〈ミカエル〉

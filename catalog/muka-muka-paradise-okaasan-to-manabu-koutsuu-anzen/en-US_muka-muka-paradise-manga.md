@@ -1,5 +1,7 @@
 # Muka Muka Paradise
 
+![muka-muka-paradise](https://cdn.myanimelist.net/images/manga/3/13143.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ムカムカパラダイス

@@ -1,5 +1,7 @@
 # Neko Mata
 
+![neko-mata](https://cdn.myanimelist.net/images/manga/3/47111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

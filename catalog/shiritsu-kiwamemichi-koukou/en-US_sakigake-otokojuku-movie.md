@@ -1,5 +1,7 @@
 # Sakigake!! Otokojuku Movie
 
+![sakigake-otokojuku-movie](https://cdn.myanimelist.net/images/anime/1672/94168.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魁!!男塾

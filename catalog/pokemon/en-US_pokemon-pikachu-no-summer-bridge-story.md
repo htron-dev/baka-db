@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Summer Bridge Story
 
+![pokemon-pikachu-no-summer-bridge-story](https://cdn.myanimelist.net/images/anime/7/45528.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ピカチュウのサマー・ブリッジ・ストーリー

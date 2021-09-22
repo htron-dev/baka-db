@@ -1,5 +1,7 @@
 # Ijime Juuyon-sai no Message
 
+![ijime-juuyon-sai-no-message](https://cdn.myanimelist.net/images/anime/13/74441.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いじめ１４歳のＭｅｓｓａｇｅ

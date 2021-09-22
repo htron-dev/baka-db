@@ -1,5 +1,7 @@
 # Bokura no Jikan
 
+![bokura-no-jikan](https://cdn.myanimelist.net/images/manga/2/41030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Sakuran Boy DT
 
+![sakuran-boy-dt](https://cdn.myanimelist.net/images/anime/4/12176.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: さくらん BOY DT

@@ -1,5 +1,7 @@
 # Granblue Fantasy The Animation: Kabocha no Lantern
 
+![granblue-fantasy-the-animation-kabocha-no-lantern](https://cdn.myanimelist.net/images/anime/1215/92069.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: GRANBLUE FANTASY The Animation Ex2 カボチャのランタン

@@ -1,5 +1,7 @@
 # Bara no Kaitou
 
+![bara-no-kaitou](https://cdn.myanimelist.net/images/manga/2/19825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 薔薇の怪盗

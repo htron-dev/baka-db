@@ -1,5 +1,7 @@
 # Hokuto no Ken - Jagi Gaiden
 
+![hokuto-no-ken-jagi-gaiden](https://cdn.myanimelist.net/images/manga/5/22239.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

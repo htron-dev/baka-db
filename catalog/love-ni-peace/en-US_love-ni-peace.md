@@ -1,5 +1,7 @@
 # Love ni Peace
 
+![love-ni-peace](https://cdn.myanimelist.net/images/manga/3/161763.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

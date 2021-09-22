@@ -1,5 +1,7 @@
 # Kyuuketsuki Kari Maira
 
+![kyuuketsuki-kari-maira](https://cdn.myanimelist.net/images/manga/1/131733.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 吸血鬼狩りマイラ

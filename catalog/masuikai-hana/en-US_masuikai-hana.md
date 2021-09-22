@@ -1,5 +1,7 @@
 # Masuikai Hana
 
+![masuikai-hana](https://cdn.myanimelist.net/images/manga/1/45417.jpg)
+
 -   **type**: manga
 -   **original-name**: 麻酔科医ハナ
 

@@ -1,5 +1,7 @@
 # Murderball
 
+![murderball](https://cdn.myanimelist.net/images/manga/1/227043.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

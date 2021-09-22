@@ -1,5 +1,7 @@
 # Dragon Collection
 
+![dragon-collection](https://cdn.myanimelist.net/images/anime/13/59129.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ドラゴンコレクション

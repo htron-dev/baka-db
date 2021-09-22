@@ -1,5 +1,7 @@
 # Matsugaoka Angel
 
+![matsugaoka-angel](https://cdn.myanimelist.net/images/manga/1/38988.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

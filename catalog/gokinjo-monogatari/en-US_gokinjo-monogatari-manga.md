@@ -1,5 +1,7 @@
 # Gokinjo Monogatari
 
+![gokinjo-monogatari](https://cdn.myanimelist.net/images/manga/5/9333.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 33

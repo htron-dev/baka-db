@@ -1,5 +1,7 @@
 # Owatta Mangaka
 
+![owatta-mangaka](https://cdn.myanimelist.net/images/manga/1/223303.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 90

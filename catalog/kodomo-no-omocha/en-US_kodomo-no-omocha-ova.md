@@ -1,5 +1,7 @@
 # Kodomo no Omocha
 
+![kodomo-no-omocha](https://cdn.myanimelist.net/images/anime/1461/105879.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: こどものおもちゃ OVA

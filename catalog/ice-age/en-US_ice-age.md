@@ -1,5 +1,7 @@
 # Ice Age
 
+![ice-age](https://cdn.myanimelist.net/images/manga/3/164502.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 63

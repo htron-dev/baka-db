@@ -1,5 +1,7 @@
 # Astral Project: Tsuki no Hikari
 
+![astral-project-tsuki-no-hikari](https://cdn.myanimelist.net/images/manga/5/75039.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

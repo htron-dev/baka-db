@@ -1,5 +1,7 @@
 # Soul Eater NOT!
 
+![soul-eater-not](https://cdn.myanimelist.net/images/manga/3/121393.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

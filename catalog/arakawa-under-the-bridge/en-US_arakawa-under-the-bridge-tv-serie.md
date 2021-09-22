@@ -1,5 +1,7 @@
 # Arakawa Under the Bridge
 
+![arakawa-under-the-bridge](https://cdn.myanimelist.net/images/anime/2/59197.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 荒川アンダー ザ ブリッジ

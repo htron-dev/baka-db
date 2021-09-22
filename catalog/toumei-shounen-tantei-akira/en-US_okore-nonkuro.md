@@ -1,5 +1,7 @@
 # Okore!! Nonkuro
 
+![okore-nonkuro](https://cdn.myanimelist.net/images/anime/7/72190.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おこれ!!ノンクロ

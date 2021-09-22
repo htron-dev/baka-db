@@ -1,5 +1,7 @@
 # Yoru Koi
 
+![yoru-koi](https://cdn.myanimelist.net/images/manga/2/7700.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

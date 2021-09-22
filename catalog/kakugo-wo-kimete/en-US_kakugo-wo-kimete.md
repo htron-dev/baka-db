@@ -1,5 +1,7 @@
 # Kakugo wo Kimete
 
+![kakugo-wo-kimete](https://cdn.myanimelist.net/images/manga/3/30317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

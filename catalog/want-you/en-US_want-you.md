@@ -1,5 +1,7 @@
 # Want You
 
+![want-you](https://cdn.myanimelist.net/images/manga/1/6440.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

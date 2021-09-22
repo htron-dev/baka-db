@@ -1,5 +1,7 @@
 # Satsujin Kippu wa Heart-iro
 
+![satsujin-kippu-wa-heart-iro](https://cdn.myanimelist.net/images/manga/3/134495.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 殺人切符は ♡〈ハート〉色

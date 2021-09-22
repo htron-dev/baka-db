@@ -1,5 +1,7 @@
 # Ippon Bouchou Mantarou
 
+![ippon-bouchou-mantarou](https://cdn.myanimelist.net/images/anime/1501/111468.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 一本包丁満太郎

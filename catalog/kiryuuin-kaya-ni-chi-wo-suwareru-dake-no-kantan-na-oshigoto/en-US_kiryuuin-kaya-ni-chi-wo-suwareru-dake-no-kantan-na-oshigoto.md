@@ -1,5 +1,7 @@
 # Kiryuuin Kaya ni Chi wo Suwareru dake no Kantan na Oshigoto
 
+![kiryuuin-kaya-ni-chi-wo-suwareru-dake-no-kantan-na-oshigoto](https://cdn.myanimelist.net/images/manga/1/101319.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

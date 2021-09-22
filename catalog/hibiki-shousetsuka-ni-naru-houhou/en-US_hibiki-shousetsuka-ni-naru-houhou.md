@@ -1,5 +1,7 @@
 # Hibiki: Shousetsuka ni Naru Houhou
 
+![hibiki-shousetsuka-ni-naru-houhou](https://cdn.myanimelist.net/images/manga/2/165685.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 114

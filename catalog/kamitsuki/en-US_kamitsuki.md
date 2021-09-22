@@ -1,5 +1,7 @@
 # Kamitsuki
 
+![kamitsuki](https://cdn.myanimelist.net/images/manga/1/175919.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

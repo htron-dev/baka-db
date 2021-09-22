@@ -1,5 +1,7 @@
 # Growlanser VI Precarious World Comic Anthology
 
+![growlanser-vi-precarious-world-comic-anthology](https://cdn.myanimelist.net/images/manga/2/27645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: グローランサー Ⅵ Precarious World コミック アンソロジー

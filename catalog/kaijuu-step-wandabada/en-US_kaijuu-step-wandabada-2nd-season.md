@@ -1,5 +1,7 @@
 # Kaijuu Step Wandabada 2nd Season
 
+![kaijuu-step-wandabada-2nd-season](https://cdn.myanimelist.net/images/anime/1934/109054.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: かいじゅうステップ ワンダバダ

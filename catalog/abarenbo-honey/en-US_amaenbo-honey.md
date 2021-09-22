@@ -1,5 +1,7 @@
 # Amaenbo Honey
 
+![amaenbo-honey](https://cdn.myanimelist.net/images/manga/2/229121.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

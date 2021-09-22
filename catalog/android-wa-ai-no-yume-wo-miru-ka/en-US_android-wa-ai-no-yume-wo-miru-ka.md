@@ -1,5 +1,7 @@
 # Android wa Ai no Yume wo Miru ka?
 
+![android-wa-ai-no-yume-wo-miru-ka](https://cdn.myanimelist.net/images/manga/1/246001.jpg)
+
 -   **type**: manga
 -   **original-name**: アンドロイドは愛の夢をみるか?
 -   **start-date**: 2017-08-22

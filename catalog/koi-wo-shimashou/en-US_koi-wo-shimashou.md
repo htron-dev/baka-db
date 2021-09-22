@@ -1,5 +1,7 @@
 # Koi wo Shimashou
 
+![koi-wo-shimashou](https://cdn.myanimelist.net/images/manga/2/20398.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

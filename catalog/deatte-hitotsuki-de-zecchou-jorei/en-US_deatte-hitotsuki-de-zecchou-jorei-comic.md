@@ -1,5 +1,7 @@
 # Deatte Hitotsuki de Zecchou Jorei! @comic
 
+![deatte-hitotsuki-de-zecchou-jorei-comic](https://cdn.myanimelist.net/images/manga/1/243458.jpg)
+
 -   **type**: manga
 -   **original-name**: 出会ってひと突きで絶頂除霊！@comic
 -   **start-date**: 2020-03-28

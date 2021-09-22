@@ -1,5 +1,7 @@
 # Ginga Rocket ni Ohagaki Kudasai
 
+![ginga-rocket-ni-ohagaki-kudasai](https://cdn.myanimelist.net/images/manga/3/166043.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

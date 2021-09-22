@@ -1,5 +1,7 @@
 # Nightmare☆Night Party!
 
+![nightmare☆-night-party](https://cdn.myanimelist.net/images/manga/2/175832.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ナイトメア ☆ ナイトパーティー!
 -   **start-date**: 2016-04-28

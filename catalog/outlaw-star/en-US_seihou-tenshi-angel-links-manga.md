@@ -1,5 +1,7 @@
 # Seihou Tenshi Angel Links
 
+![seihou-tenshi-angel-links](https://cdn.myanimelist.net/images/manga/1/41236.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

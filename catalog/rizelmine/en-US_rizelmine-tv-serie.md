@@ -1,5 +1,7 @@
 # Rizelmine
 
+![rizelmine](https://cdn.myanimelist.net/images/anime/7/22990.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: りぜるまいん

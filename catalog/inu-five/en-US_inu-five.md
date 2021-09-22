@@ -1,5 +1,7 @@
 # Inu-Five
 
+![inu-five](https://cdn.myanimelist.net/images/manga/3/190593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: いぬ五〈ファイブ〉

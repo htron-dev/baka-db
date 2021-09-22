@@ -1,5 +1,7 @@
 # Venus no Kamiyui
 
+![venus-no-kamiyui](https://cdn.myanimelist.net/images/manga/3/11317.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

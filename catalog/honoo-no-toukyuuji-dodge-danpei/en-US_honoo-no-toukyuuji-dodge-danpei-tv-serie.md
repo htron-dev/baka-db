@@ -1,5 +1,7 @@
 # Honoo no Toukyuuji: Dodge Danpei
 
+![honoo-no-toukyuuji-dodge-danpei](https://cdn.myanimelist.net/images/anime/1/2423.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 炎の闘球児・ドッジ弾平
@@ -13,7 +15,6 @@
 
 -   comedy
 -   sports
-
 -   school
 
 ## Sinopse

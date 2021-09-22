@@ -1,5 +1,7 @@
 # Sungeki no Kyojin
 
+![sungeki-no-kyojin](https://cdn.myanimelist.net/images/manga/2/136001.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 55

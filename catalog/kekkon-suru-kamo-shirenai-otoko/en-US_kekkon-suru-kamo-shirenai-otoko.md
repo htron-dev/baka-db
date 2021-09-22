@@ -1,5 +1,7 @@
 # Kekkon suru kamo Shirenai Otoko
 
+![kekkon-suru-kamo-shirenai-otoko](https://cdn.myanimelist.net/images/manga/1/223700.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Hazedon
 
+![hazedon](https://cdn.myanimelist.net/images/anime/4/59677.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ハゼドン

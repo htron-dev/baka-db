@@ -1,5 +1,7 @@
 # Olga no Russia Gokouza
 
+![olga-no-russia-gokouza](https://cdn.myanimelist.net/images/anime/1416/105573.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: オリガのロシア語講座

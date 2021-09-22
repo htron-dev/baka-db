@@ -1,5 +1,7 @@
 # Build Divide: Code Black 2nd Season
 
+![build-divide-code-black-2nd-season](https://cdn.myanimelist.net/images/anime/1408/114490.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ビルディバイド -#000000(コードブラック)-
 -   **start-date**: 2022-04-20

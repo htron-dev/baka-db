@@ -1,5 +1,7 @@
 # Mahoromatic
 
+![mahoromatic](https://cdn.myanimelist.net/images/manga/1/180649.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

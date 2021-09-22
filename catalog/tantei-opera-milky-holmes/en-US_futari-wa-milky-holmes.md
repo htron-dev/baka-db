@@ -1,5 +1,7 @@
 # Futari wa Milky Holmes
 
+![futari-wa-milky-holmes](https://cdn.myanimelist.net/images/anime/11/51931.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ふたりはミルキィホームズ

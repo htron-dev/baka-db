@@ -1,5 +1,7 @@
 # Juliet
 
+![juliet](https://cdn.myanimelist.net/images/manga/2/33425.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ジュリエット
@@ -14,8 +16,6 @@
 ## Authors
 
 -   U-jin (Story & Art)
-
-## Sinopse
 
 ## Links
 

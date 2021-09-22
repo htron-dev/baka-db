@@ -1,5 +1,7 @@
 # Uchuu no Hate no Mannaka no
 
+![uchuu-no-hate-no-mannaka-no](https://cdn.myanimelist.net/images/manga/2/203742.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

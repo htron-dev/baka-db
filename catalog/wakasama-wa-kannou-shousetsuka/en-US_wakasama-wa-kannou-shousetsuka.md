@@ -1,5 +1,7 @@
 # Wakasama wa Kannou Shousetsuka
 
+![wakasama-wa-kannou-shousetsuka](https://cdn.myanimelist.net/images/manga/3/167560.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 若様は官能小説家

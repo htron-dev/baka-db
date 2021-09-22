@@ -1,5 +1,7 @@
 # X Saibou wa Fukaku Iki wo Suru
 
+![x-saibou-wa-fukaku-iki-wo-suru](https://cdn.myanimelist.net/images/manga/3/65363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

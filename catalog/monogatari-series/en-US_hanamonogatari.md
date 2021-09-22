@@ -1,5 +1,7 @@
 # Hanamonogatari
 
+![hanamonogatari](https://cdn.myanimelist.net/images/anime/13/65755.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: 花物語

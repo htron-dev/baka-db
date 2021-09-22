@@ -1,5 +1,7 @@
 # Atashin'chi Movie
 
+![atashinchi-movie](https://cdn.myanimelist.net/images/anime/12/27153.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 あたしンち

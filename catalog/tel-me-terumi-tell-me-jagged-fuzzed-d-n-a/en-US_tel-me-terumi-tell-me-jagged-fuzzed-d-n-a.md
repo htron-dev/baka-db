@@ -1,5 +1,7 @@
 # Tel Me Terumi Tell Me: Jagged Fuzzed D.N.A.
 
+![tel-me-terumi-tell-me-jagged-fuzzed-d-n-a](https://cdn.myanimelist.net/images/manga/1/185734.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

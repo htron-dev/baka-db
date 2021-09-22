@@ -1,5 +1,7 @@
 # Houkago wa Koi no Yokan
 
+![houkago-wa-koi-no-yokan](https://cdn.myanimelist.net/images/manga/2/190407.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Maoyan Kan Yuzhou
 
+![hong-mao-lan-tu-maoyan-kan-yuzhou](https://cdn.myanimelist.net/images/anime/1999/98697.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 97
 -   **original-name**: 虹猫蓝兔猫眼看宇宙

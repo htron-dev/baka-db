@@ -1,5 +1,7 @@
 # Kiratto Pri☆chan
 
+![kiratto-pri☆chan](https://cdn.myanimelist.net/images/anime/1628/95071.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: キラッとプリ ☆ チャン

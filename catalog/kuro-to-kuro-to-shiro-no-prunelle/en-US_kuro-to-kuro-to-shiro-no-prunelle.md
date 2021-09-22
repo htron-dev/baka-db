@@ -1,5 +1,7 @@
 # Kuro to Kuro to Shiro no Prunelle
 
+![kuro-to-kuro-to-shiro-no-prunelle](https://cdn.myanimelist.net/images/manga/1/210989.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒と黒と白のプリュネル
 -   **start-date**: 2017-11-27

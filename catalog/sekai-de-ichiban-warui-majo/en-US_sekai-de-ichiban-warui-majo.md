@@ -1,5 +1,7 @@
 # Sekai de Ichiban Warui Majo
 
+![sekai-de-ichiban-warui-majo](https://cdn.myanimelist.net/images/manga/1/186991.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Tonari no Seki no Kobayashi-san.
 
+![tonari-no-seki-no-kobayashi-san](https://cdn.myanimelist.net/images/manga/2/205463.jpg)
+
 -   **type**: manga
 -   **original-name**: となりの席の小林さん。
 -   **start-date**: 2015-07-14

@@ -1,5 +1,7 @@
 # Kikaijikake no Marie
 
+![kikaijikake-no-marie](https://cdn.myanimelist.net/images/manga/2/239155.jpg)
+
 -   **type**: manga
 -   **original-name**: 機械じかけのマリー
 -   **start-date**: 2020-06-24

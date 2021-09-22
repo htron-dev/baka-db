@@ -1,5 +1,7 @@
 # Kigeki wa Koi de Shinka Suru
 
+![kigeki-wa-koi-de-shinka-suru](https://cdn.myanimelist.net/images/manga/2/24117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

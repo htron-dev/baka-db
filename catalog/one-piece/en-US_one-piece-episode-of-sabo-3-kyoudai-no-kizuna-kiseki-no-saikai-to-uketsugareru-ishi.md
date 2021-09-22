@@ -1,5 +1,7 @@
 # One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi
 
+![one-piece-episode-of-sabo-3-kyoudai-no-kizuna-kiseki-no-saikai-to-uketsugareru-ishi](https://cdn.myanimelist.net/images/anime/1373/106587.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース　エピソード オブ サボ　～３兄弟の絆　奇跡の再会と受け継がれる意志～

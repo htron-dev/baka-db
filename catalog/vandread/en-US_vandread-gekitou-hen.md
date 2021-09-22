@@ -1,5 +1,7 @@
 # Vandread: Gekitou-hen
 
+![vandread-gekitou-hen](https://cdn.myanimelist.net/images/anime/13/23643.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヴァンドレッド　激闘篇

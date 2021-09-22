@@ -1,5 +1,7 @@
 # Shinayaka ni Kizutsuite
 
+![shinayaka-ni-kizutsuite](https://cdn.myanimelist.net/images/manga/1/5735.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam AGE
 
+![mobile-suit-gundam-age](https://cdn.myanimelist.net/images/anime/12/42535.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 機動戦士ガンダム AGE

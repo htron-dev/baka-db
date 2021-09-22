@@ -1,5 +1,7 @@
 # Cat's♥Eye
 
+![cats♥-eye](https://cdn.myanimelist.net/images/manga/3/100809.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

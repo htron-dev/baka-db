@@ -1,5 +1,7 @@
 # Räikkönen no Nettaigyo
 
+![raikkonen-no-nettaigyo](https://cdn.myanimelist.net/images/manga/3/115047.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ライコネンの熱帯魚

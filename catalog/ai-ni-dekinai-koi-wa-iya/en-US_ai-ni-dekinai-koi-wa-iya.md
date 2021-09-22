@@ -1,5 +1,7 @@
 # Ai ni Dekinai Koi wa Iya
 
+![ai-ni-dekinai-koi-wa-iya](https://cdn.myanimelist.net/images/manga/3/222148.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

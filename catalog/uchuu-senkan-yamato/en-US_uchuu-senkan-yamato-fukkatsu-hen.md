@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato: Fukkatsu-hen
 
+![uchuu-senkan-yamato-fukkatsu-hen](https://cdn.myanimelist.net/images/anime/7/83052.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙戦艦ヤマト 復活篇

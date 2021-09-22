@@ -1,5 +1,7 @@
 # Mitsurin Shounen
 
+![mitsurin-shounen](https://cdn.myanimelist.net/images/manga/1/40679.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 密林少年 Jungle Boy

@@ -1,5 +1,7 @@
 # Rose O'Neill Kewpie
 
+![rose-o-neill-kewpie](https://cdn.myanimelist.net/images/anime/3/16995.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ローズオニール キューピー

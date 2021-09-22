@@ -1,5 +1,7 @@
 # Shounen yo, Taishi toka Iroiro Idake
 
+![shounen-yo-taishi-toka-iroiro-idake](https://cdn.myanimelist.net/images/manga/1/94969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

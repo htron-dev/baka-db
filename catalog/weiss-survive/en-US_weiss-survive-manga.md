@@ -1,5 +1,7 @@
 # Weiß Survive
 
+![weiss-survive](https://cdn.myanimelist.net/images/manga/2/19519.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴァイス・サヴァイヴ
 

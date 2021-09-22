@@ -1,5 +1,7 @@
 # Mesu Papa
 
+![mesu-papa](https://cdn.myanimelist.net/images/manga/3/235226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

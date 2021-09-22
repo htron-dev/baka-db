@@ -1,5 +1,7 @@
 # Omega wa Bed de Uso wo Tsuku
 
+![omega-wa-bed-de-uso-wo-tsuku](https://cdn.myanimelist.net/images/manga/3/228760.jpg)
+
 -   **type**: manga
 -   **original-name**: オメガはベッドで嘘をつく
 -   **start-date**: 2018-01-19

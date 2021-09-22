@@ -1,5 +1,7 @@
 # Project ARMS: The 2nd Chapter
 
+![project-arms-the-2nd-chapter](https://cdn.myanimelist.net/images/anime/3/72859.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: PROJECT ARMS -The 2nd Chapter-

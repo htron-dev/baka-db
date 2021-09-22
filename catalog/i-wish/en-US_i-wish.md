@@ -1,5 +1,7 @@
 # I Wish...
 
+![i-wish](https://cdn.myanimelist.net/images/manga/1/20174.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 50

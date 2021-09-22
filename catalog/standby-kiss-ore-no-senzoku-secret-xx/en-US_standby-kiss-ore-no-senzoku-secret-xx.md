@@ -1,5 +1,7 @@
 # Standby Kiss: Ore no Senzoku Secret xx
 
+![standby-kiss-ore-no-senzoku-secret-xx](https://cdn.myanimelist.net/images/manga/2/228855.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

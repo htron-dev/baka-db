@@ -1,5 +1,7 @@
 # Haru ni Arashi: Honya-san de Go! 2
 
+![haru-ni-arashi-honya-san-de-go-2](https://cdn.myanimelist.net/images/manga/3/175421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 春に嵐 本屋さんで GO!2

@@ -1,5 +1,7 @@
 # Koukyuu Monogatari: Idakanu nara, Sakasete Miseyou Kikurai
 
+![koukyuu-monogatari-idakanu-nara-sakasete-miseyou-kikurai](https://cdn.myanimelist.net/images/manga/3/169783.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

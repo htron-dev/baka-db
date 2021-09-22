@@ -1,5 +1,7 @@
 # Atomic World
 
+![atomic-world](https://cdn.myanimelist.net/images/anime/1112/103355.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ATOMIC WORLD

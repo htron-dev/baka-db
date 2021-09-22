@@ -1,5 +1,7 @@
 # Chichi Kaeru
 
+![chichi-kaeru](https://cdn.myanimelist.net/images/anime/5/81522.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 父カエル

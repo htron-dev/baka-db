@@ -1,5 +1,7 @@
 # Moshimoshi, Terumi desu.
 
+![moshimoshi-terumi-desu](https://cdn.myanimelist.net/images/manga/3/206374.jpg)
+
 -   **type**: manga
 -   **chapters**: 90
 -   **original-name**: もしもし、てるみです。

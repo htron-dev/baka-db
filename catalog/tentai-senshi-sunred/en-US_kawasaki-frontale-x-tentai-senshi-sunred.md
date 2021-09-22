@@ -1,5 +1,7 @@
 # Kawasaki Frontale x Tentai Senshi Sunred
 
+![kawasaki-frontale-x-tentai-senshi-sunred](https://cdn.myanimelist.net/images/anime/13/75005.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: KAWASAKI Frontale× 天体戦士サンレッド

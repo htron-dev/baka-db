@@ -1,5 +1,7 @@
 # Tokugawa no Mashira
 
+![tokugawa-no-mashira](https://cdn.myanimelist.net/images/manga/1/230539.jpg)
+
 -   **type**: manga
 -   **original-name**: 徳川の猿〈ましら〉
 -   **start-date**: 2019-05-25

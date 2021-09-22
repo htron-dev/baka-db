@@ -1,5 +1,7 @@
 # Are You Alice?
 
+![are-you-alice](https://cdn.myanimelist.net/images/manga/3/157051.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 74

@@ -1,5 +1,7 @@
 # Mokke no Kamisama
 
+![mokke-no-kamisama](https://cdn.myanimelist.net/images/manga/3/25243.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: モッケの神様

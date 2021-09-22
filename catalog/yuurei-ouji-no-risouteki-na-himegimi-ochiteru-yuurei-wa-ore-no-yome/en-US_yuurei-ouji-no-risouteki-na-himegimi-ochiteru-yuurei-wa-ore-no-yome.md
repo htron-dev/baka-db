@@ -1,5 +1,7 @@
 # Yuurei Ouji no Risouteki na Himegimi: Ochiteru Yuurei wa Ore no Yome
 
+![yuurei-ouji-no-risouteki-na-himegimi-ochiteru-yuurei-wa-ore-no-yome](https://cdn.myanimelist.net/images/manga/3/152784.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 幽霊王子の理想的な姫君 落ちてる幽霊は俺の嫁

@@ -1,5 +1,7 @@
 # Tokimeki Gakuen Oujigumi
 
+![tokimeki-gakuen-oujigumi](https://cdn.myanimelist.net/images/manga/2/73765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

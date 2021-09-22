@@ -1,5 +1,7 @@
 # Sasayaki wa Akutai to Netsu wo Haramu
 
+![sasayaki-wa-akutai-to-netsu-wo-haramu](https://cdn.myanimelist.net/images/manga/3/167127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

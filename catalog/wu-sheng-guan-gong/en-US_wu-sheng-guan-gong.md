@@ -1,5 +1,7 @@
 # Wu Sheng Guan Gong
 
+![wu-sheng-guan-gong](https://cdn.myanimelist.net/images/anime/1631/108526.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 武圣关公

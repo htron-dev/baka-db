@@ -1,5 +1,7 @@
 # Uchi no Kaichou wa Araburu Toraneko ni Niteiru.
 
+![uchi-no-kaichou-wa-araburu-toraneko-ni-niteiru](https://cdn.myanimelist.net/images/manga/2/163584.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

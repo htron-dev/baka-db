@@ -1,5 +1,7 @@
 # Glass no Kamen Desu ga the Movie: Onna Spy no Koi! Murasaki no Bara wa Kiken na Kaori!?
 
+![glass-no-kamen-desu-ga-the-movie-onna-spy-no-koi-murasaki-no-bara-wa-kiken-na-kaori](https://cdn.myanimelist.net/images/anime/2/67009.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガラスの仮面ですが THE MOVIE 女スパイの恋! 紫のバラは危険な香り!?

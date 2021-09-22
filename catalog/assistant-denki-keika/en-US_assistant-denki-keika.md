@@ -1,5 +1,7 @@
 # Assistant Denki Keika
 
+![assistant-denki-keika](https://cdn.myanimelist.net/images/manga/1/26288.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

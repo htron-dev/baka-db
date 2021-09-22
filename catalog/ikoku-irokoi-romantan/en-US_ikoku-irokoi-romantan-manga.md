@@ -1,5 +1,7 @@
 # Ikoku Irokoi Romantan
 
+![ikoku-irokoi-romantan](https://cdn.myanimelist.net/images/manga/2/25462.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

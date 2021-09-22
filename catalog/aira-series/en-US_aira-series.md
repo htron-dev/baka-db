@@ -1,5 +1,7 @@
 # Aira Series
 
+![aira-series](https://cdn.myanimelist.net/images/manga/2/155720.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 31

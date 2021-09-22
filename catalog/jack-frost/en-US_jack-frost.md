@@ -1,5 +1,7 @@
 # Jack Frost
 
+![jack-frost](https://cdn.myanimelist.net/images/manga/3/55257.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **chapters**: 95

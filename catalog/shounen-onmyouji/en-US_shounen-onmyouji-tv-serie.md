@@ -1,5 +1,7 @@
 # Shounen Onmyouji
 
+![shounen-onmyouji](https://cdn.myanimelist.net/images/anime/1865/106109.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 少年陰陽師

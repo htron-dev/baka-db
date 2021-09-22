@@ -1,5 +1,7 @@
 # Lovely Phantom
 
+![lovely-phantom](https://cdn.myanimelist.net/images/manga/2/10601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

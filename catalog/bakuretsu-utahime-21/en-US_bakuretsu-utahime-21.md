@@ -1,5 +1,7 @@
 # Bakuretsu Utahime 21
 
+![bakuretsu-utahime-21](https://cdn.myanimelist.net/images/manga/1/20744.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

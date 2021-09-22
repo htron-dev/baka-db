@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Meng Xiang Shou Wei Zhe
 
+![zhu-zhu-xia-meng-xiang-shou-wei-zhe](https://cdn.myanimelist.net/images/anime/1141/93356.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 猪猪侠 梦想守卫者

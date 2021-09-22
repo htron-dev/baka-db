@@ -1,5 +1,7 @@
 # Kiss ni Renzoku
 
+![kiss-ni-renzoku](https://cdn.myanimelist.net/images/manga/3/109577.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: キスに恋属

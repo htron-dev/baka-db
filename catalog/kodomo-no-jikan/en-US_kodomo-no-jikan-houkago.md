@@ -1,5 +1,7 @@
 # Kodomo no Jikan: Houkago
 
+![kodomo-no-jikan-houkago](https://cdn.myanimelist.net/images/manga/2/96461.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

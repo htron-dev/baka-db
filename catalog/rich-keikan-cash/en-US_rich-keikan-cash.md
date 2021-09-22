@@ -1,5 +1,7 @@
 # Rich Keikan Cash!
 
+![rich-keikan-cash](https://cdn.myanimelist.net/images/manga/1/227322.jpg)
+
 -   **type**: manga
 -   **original-name**: リッチ警官 キャッシュ!
 -   **start-date**: 2019-10-15
@@ -7,7 +9,6 @@
 ## Tags
 
 -   comedy
-
 -   police
 
 ## Authors

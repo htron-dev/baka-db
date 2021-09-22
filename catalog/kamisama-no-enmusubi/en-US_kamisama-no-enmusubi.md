@@ -1,5 +1,7 @@
 # Kamisama no Enmusubi
 
+![kamisama-no-enmusubi](https://cdn.myanimelist.net/images/manga/2/155742.jpg)
+
 -   **type**: manga
 -   **original-name**: 神さまの怨結び
 -   **start-date**: 2014-04-05

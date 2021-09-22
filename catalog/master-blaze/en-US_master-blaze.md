@@ -1,5 +1,7 @@
 # Master Blaze
 
+![master-blaze](https://cdn.myanimelist.net/images/manga/1/125031.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: マスターブレイズ

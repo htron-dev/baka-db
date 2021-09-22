@@ -1,5 +1,7 @@
 # Kare no Barairo no Jinsei
 
+![kare-no-barairo-no-jinsei](https://cdn.myanimelist.net/images/manga/1/69911.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kero Kero Keroppi: Hasunoue Town Kiki Ippatsu!
 
+![kero-kero-keroppi-hasunoue-town-kiki-ippatsu](https://cdn.myanimelist.net/images/anime/10/59081.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: けろけろけろっぴ はすのうえタウン危機一髪!

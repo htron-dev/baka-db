@@ -1,5 +1,7 @@
 # Shimaism
 
+![shimaism](https://cdn.myanimelist.net/images/manga/2/173455.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

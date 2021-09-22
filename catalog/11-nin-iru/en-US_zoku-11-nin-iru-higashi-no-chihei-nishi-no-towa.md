@@ -1,5 +1,7 @@
 # Zoku 11-nin Iru!: Higashi no Chihei, Nishi no Towa
 
+![zoku-11-nin-iru-higashi-no-chihei-nishi-no-towa](https://cdn.myanimelist.net/images/manga/2/116703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

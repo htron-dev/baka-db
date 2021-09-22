@@ -1,5 +1,7 @@
 # Satsuriku Morph
 
+![satsuriku-morph](https://cdn.myanimelist.net/images/manga/3/201610.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

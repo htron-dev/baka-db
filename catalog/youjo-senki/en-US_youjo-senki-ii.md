@@ -1,5 +1,7 @@
 # Youjo Senki II
 
+![youjo-senki-ii](https://cdn.myanimelist.net/images/anime/1437/115925.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 幼女戦記 II
 -   **rating**: R - 17+ (violence & profanity)

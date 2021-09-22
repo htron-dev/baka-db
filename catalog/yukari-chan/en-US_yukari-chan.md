@@ -1,5 +1,7 @@
 # Yukari-chan
 
+![yukari-chan](https://cdn.myanimelist.net/images/manga/2/155818.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

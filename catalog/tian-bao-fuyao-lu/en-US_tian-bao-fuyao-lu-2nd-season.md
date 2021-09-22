@@ -1,5 +1,7 @@
 # Tian Bao Fuyao Lu 2nd Season
 
+![tian-bao-fuyao-lu-2nd-season](https://cdn.myanimelist.net/images/anime/1346/113757.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 天宝伏妖录

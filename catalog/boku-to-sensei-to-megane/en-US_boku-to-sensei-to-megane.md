@@ -1,5 +1,7 @@
 # Boku to Sensei to Megane
 
+![boku-to-sensei-to-megane](https://cdn.myanimelist.net/images/manga/2/14389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

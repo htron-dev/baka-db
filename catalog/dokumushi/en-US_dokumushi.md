@@ -1,5 +1,7 @@
 # Dokumushi
 
+![dokumushi](https://cdn.myanimelist.net/images/manga/2/165110.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ドクムシ

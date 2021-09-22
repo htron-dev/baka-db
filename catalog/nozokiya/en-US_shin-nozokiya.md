@@ -1,5 +1,7 @@
 # Shin Nozokiya
 
+![shin-nozokiya](https://cdn.myanimelist.net/images/manga/3/179528.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 110

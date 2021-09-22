@@ -1,5 +1,7 @@
 # Boss no Junan
 
+![boss-no-junan](https://cdn.myanimelist.net/images/manga/1/227487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ボスの受難

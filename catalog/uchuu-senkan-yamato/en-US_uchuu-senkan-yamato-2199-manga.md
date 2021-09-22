@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato 2199
 
+![uchuu-senkan-yamato-2199](https://cdn.myanimelist.net/images/manga/2/93001.jpg)
+
 -   **type**: manga
 -   **original-name**: 宇宙戦艦ヤマト 2199
 -   **start-date**: 2012-03-10

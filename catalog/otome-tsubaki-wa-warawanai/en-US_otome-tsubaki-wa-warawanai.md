@@ -1,5 +1,7 @@
 # Otome Tsubaki wa Warawanai
 
+![otome-tsubaki-wa-warawanai](https://cdn.myanimelist.net/images/manga/3/226864.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女椿は笑わない
 -   **start-date**: 2018-10-26

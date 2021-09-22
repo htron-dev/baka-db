@@ -1,5 +1,7 @@
 # Kyokutou Tsuioku Hakubutsukan
 
+![kyokutou-tsuioku-hakubutsukan](https://cdn.myanimelist.net/images/manga/2/34378.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 極東追憶博物館

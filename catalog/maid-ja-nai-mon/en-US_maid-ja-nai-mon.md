@@ -1,5 +1,7 @@
 # Maid ja Nai Mon!
 
+![maid-ja-nai-mon](https://cdn.myanimelist.net/images/manga/3/40639.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: メイドじゃないもん!

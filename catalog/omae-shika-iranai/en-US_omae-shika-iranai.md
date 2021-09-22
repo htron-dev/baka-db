@@ -1,5 +1,7 @@
 # Omae Shika Iranai
 
+![omae-shika-iranai](https://cdn.myanimelist.net/images/manga/2/16808.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

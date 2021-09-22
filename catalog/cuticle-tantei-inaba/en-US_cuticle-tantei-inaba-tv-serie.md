@@ -1,5 +1,7 @@
 # Cuticle Tantei Inaba
 
+![cuticle-tantei-inaba](https://cdn.myanimelist.net/images/anime/10/73934.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: キューティクル探偵因幡

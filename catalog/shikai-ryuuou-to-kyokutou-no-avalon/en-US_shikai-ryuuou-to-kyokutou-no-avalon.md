@@ -1,5 +1,7 @@
 # Shikai Ryuuou to Kyokutou no Avalon
 
+![shikai-ryuuou-to-kyokutou-no-avalon](https://cdn.myanimelist.net/images/manga/1/177611.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 30

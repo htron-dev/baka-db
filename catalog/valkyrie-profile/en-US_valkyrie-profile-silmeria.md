@@ -1,5 +1,7 @@
 # Valkyrie Profile: Silmeria
 
+![valkyrie-profile-silmeria](https://cdn.myanimelist.net/images/manga/3/4518.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

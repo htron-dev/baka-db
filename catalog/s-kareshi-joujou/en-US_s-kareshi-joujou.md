@@ -1,5 +1,7 @@
 # S Kareshi Joujou
 
+![s-kareshi-joujou](https://cdn.myanimelist.net/images/manga/2/45431.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 27

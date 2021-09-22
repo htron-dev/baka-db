@@ -1,5 +1,7 @@
 # Cabaret Mama
 
+![cabaret-mama](https://cdn.myanimelist.net/images/manga/1/193695.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 65

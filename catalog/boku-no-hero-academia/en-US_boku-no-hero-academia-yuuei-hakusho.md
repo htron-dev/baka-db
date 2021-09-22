@@ -1,5 +1,7 @@
 # Boku no Hero Academia: Yuuei Hakusho
 
+![boku-no-hero-academia-yuuei-hakusho](https://cdn.myanimelist.net/images/manga/3/175887.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 僕のヒーローアカデミア 雄英白書
 -   **start-date**: 2016-04-04

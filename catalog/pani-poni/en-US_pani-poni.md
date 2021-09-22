@@ -1,5 +1,7 @@
 # PaniPoni
 
+![pani-poni](https://cdn.myanimelist.net/images/manga/1/179079.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 240

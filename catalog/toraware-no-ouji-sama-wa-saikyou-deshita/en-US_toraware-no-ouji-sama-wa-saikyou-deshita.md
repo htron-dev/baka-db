@@ -1,5 +1,7 @@
 # Toraware no Ouji-sama wa Saikyou deshita
 
+![toraware-no-ouji-sama-wa-saikyou-deshita](https://cdn.myanimelist.net/images/manga/2/215354.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 囚われの王子様は最凶でした

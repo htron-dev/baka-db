@@ -1,5 +1,7 @@
 # Heart♡Strings
 
+![heart♡-strings](https://cdn.myanimelist.net/images/manga/1/134659.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

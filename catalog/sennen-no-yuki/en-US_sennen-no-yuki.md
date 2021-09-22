@@ -1,5 +1,7 @@
 # Sennen no Yuki
 
+![sennen-no-yuki](https://cdn.myanimelist.net/images/manga/1/143101.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

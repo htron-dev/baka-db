@@ -1,5 +1,7 @@
 # 13 Club
 
+![13-club](https://cdn.myanimelist.net/images/manga/2/30313.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

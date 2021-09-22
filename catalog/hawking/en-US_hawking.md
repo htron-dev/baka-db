@@ -1,5 +1,7 @@
 # Hawking
 
+![hawking](https://cdn.myanimelist.net/images/manga/1/206038.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ホーキング

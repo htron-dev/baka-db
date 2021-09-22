@@ -1,5 +1,7 @@
 # Kimi ni Ienai Kotoba
 
+![kimi-ni-ienai-kotoba](https://cdn.myanimelist.net/images/manga/3/247196.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: きみに言えない言葉

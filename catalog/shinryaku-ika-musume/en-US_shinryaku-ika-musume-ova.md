@@ -1,5 +1,7 @@
 # Shinryaku!! Ika Musume
 
+![shinryaku-ika-musume](https://cdn.myanimelist.net/images/anime/4/39055.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 侵略!!イカ娘

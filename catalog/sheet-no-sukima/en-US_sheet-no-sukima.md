@@ -1,5 +1,7 @@
 # Sheet no Sukima
 
+![sheet-no-sukima](https://cdn.myanimelist.net/images/manga/2/161849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

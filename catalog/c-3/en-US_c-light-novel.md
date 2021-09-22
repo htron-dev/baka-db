@@ -1,5 +1,7 @@
 # C³
 
+![c](https://cdn.myanimelist.net/images/manga/2/175624.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 17
 -   **chapters**: 106

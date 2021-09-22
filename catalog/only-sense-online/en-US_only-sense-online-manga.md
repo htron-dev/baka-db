@@ -1,5 +1,7 @@
 # Only Sense Online
 
+![only-sense-online](https://cdn.myanimelist.net/images/manga/1/157821.jpg)
+
 -   **type**: manga
 -   **original-name**: Only Sense Online -オンリーセンス・オンライン-
 -   **start-date**: 2014-12-09

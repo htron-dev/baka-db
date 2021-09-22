@@ -1,5 +1,7 @@
 # Yamato Takeru: After War
 
+![yamato-takeru-after-war](https://cdn.myanimelist.net/images/anime/1240/96605.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ヤマトタケル ～ After War ～

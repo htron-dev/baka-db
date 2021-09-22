@@ -1,5 +1,7 @@
 # Abyss Rage
 
+![abyss-rage](https://cdn.myanimelist.net/images/manga/1/212245.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 100

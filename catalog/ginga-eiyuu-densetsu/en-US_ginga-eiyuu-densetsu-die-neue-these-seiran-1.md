@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu: Die Neue These - Seiran 1
 
+![ginga-eiyuu-densetsu-die-neue-these-seiran-1](https://cdn.myanimelist.net/images/anime/1772/102667.jpg)
+
 -   **type**: movie
 -   **episodes**: 4
 -   **original-name**: 銀河英雄伝説 Die Neue These 星乱 第 1 章

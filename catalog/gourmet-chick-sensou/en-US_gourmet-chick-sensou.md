@@ -1,5 +1,7 @@
 # Gourmet Chick Sensou
 
+![gourmet-chick-sensou](https://cdn.myanimelist.net/images/manga/3/133633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: グルメちっく戦争

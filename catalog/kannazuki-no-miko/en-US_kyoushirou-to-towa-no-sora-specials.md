@@ -1,5 +1,7 @@
 # Kyoushirou to Towa no Sora Specials
 
+![kyoushirou-to-towa-no-sora-specials](https://cdn.myanimelist.net/images/anime/5/21657.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 京四郎と永遠（とわ）の空

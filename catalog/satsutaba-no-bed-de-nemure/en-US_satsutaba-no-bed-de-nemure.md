@@ -1,5 +1,7 @@
 # Satsutaba no Bed de Nemure
 
+![satsutaba-no-bed-de-nemure](https://cdn.myanimelist.net/images/manga/2/7697.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 2

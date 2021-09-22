@@ -1,5 +1,7 @@
 # Shinryaku Koui
 
+![shinryaku-koui](https://cdn.myanimelist.net/images/manga/1/239637.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # Yorumori no Kuni no Sorani
 
+![yorumori-no-kuni-no-sorani](https://cdn.myanimelist.net/images/manga/3/149973.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

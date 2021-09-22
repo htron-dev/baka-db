@@ -1,5 +1,7 @@
 # Summer Nude
 
+![summer-nude](https://cdn.myanimelist.net/images/manga/1/6041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: サマー・ヌード

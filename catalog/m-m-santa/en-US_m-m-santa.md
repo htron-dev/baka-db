@@ -1,5 +1,7 @@
 # M.M Santa
 
+![m-m-santa](https://cdn.myanimelist.net/images/manga/2/194949.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: エムエム三太

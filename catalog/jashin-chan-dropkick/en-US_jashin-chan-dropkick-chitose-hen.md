@@ -1,5 +1,7 @@
 # Jashin-chan Dropkick': Chitose-hen
 
+![jashin-chan-dropkick-chitose-hen](https://cdn.myanimelist.net/images/anime/1035/107866.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 邪神ちゃんドロップキック’千歳編

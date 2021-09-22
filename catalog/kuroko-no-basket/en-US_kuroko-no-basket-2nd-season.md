@@ -1,5 +1,7 @@
 # Kuroko no Basket 2nd Season
 
+![kuroko-no-basket-2nd-season](https://cdn.myanimelist.net/images/anime/9/56155.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 黒子のバスケ

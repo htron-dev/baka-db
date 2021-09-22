@@ -1,5 +1,7 @@
 # Nisemonogatari Short Stories
 
+![nisemonogatari-short-stories](https://cdn.myanimelist.net/images/manga/1/158910.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 4
 -   **original-name**: 偽物語アニメコンプリートガイドブック

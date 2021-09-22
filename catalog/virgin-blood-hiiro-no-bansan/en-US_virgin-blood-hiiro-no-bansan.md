@@ -1,5 +1,7 @@
 # Virgin Blood: Hiiro no Bansan
 
+![virgin-blood-hiiro-no-bansan](https://cdn.myanimelist.net/images/manga/2/136811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

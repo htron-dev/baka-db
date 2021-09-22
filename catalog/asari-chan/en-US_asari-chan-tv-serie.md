@@ -1,5 +1,7 @@
 # Asari-chan
 
+![asari-chan](https://cdn.myanimelist.net/images/anime/12/64365.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 54
 -   **original-name**: あさりちゃん

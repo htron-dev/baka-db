@@ -1,5 +1,7 @@
 # Sekai wa Kimi wo Sukuu!
 
+![sekai-wa-kimi-wo-sukuu](https://cdn.myanimelist.net/images/manga/1/84197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

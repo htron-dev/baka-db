@@ -1,5 +1,7 @@
 # Yosuga no Sora: In Solitude, Where We Are Least Alone.
 
+![yosuga-no-sora-in-solitude-where-we-are-least-alone](https://cdn.myanimelist.net/images/anime/5/76216.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヨスガノソラ In solitude, where we are least alone.

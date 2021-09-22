@@ -1,5 +1,7 @@
 # Aka no 9-ban [Reijuu]
 
+![aka-no-9-ban-reijuu](https://cdn.myanimelist.net/images/manga/1/165042.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 赤の 9 番【隷従】

@@ -1,5 +1,7 @@
 # Kara no Kyoukai 8: Shuushou
 
+![kara-no-kyoukai-8-shuushou](https://cdn.myanimelist.net/images/anime/6/78756.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 the Garden of sinners 終章

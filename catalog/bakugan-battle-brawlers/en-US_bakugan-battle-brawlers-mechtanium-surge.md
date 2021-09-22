@@ -1,5 +1,7 @@
 # Bakugan Battle Brawlers: Mechtanium Surge
 
+![bakugan-battle-brawlers-mechtanium-surge](https://cdn.myanimelist.net/images/anime/10/82083.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 爆丸バトルブローラーズ Mechtanium Surge

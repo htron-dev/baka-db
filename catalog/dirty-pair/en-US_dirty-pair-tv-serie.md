@@ -1,5 +1,7 @@
 # Dirty Pair
 
+![dirty-pair](https://cdn.myanimelist.net/images/anime/2/20673.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ダーティペア

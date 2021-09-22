@@ -1,5 +1,7 @@
 # Dameterasu-sama.
 
+![dameterasu-sama](https://cdn.myanimelist.net/images/manga/1/196374.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

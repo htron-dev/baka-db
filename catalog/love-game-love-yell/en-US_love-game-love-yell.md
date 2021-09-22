@@ -1,5 +1,7 @@
 # Love Game Love Yell
 
+![love-game-love-yell](https://cdn.myanimelist.net/images/manga/1/10078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラブゲーム・ラブエール

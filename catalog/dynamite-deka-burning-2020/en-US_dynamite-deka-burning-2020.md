@@ -1,5 +1,7 @@
 # Dynamite Deka: Burning 2020
 
+![dynamite-deka-burning-2020](https://cdn.myanimelist.net/images/manga/1/178454.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

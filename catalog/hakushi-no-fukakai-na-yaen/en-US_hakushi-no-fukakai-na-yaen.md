@@ -1,5 +1,7 @@
 # Hakushi no Fukakai na Yaen
 
+![hakushi-no-fukakai-na-yaen](https://cdn.myanimelist.net/images/manga/3/68209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

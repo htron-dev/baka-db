@@ -1,5 +1,7 @@
 # Kouga Youichirou: Jock
 
+![kouga-youichirou-jock](https://cdn.myanimelist.net/images/manga/1/5983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 黄河洋一郎〈JOCK〉

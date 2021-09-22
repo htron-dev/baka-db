@@ -1,5 +1,7 @@
 # Teach
 
+![teach](https://cdn.myanimelist.net/images/anime/12/70721.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: ティーチ

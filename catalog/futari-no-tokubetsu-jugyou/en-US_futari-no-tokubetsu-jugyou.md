@@ -1,5 +1,7 @@
 # Futari no Tokubetsu Jugyou
 
+![futari-no-tokubetsu-jugyou](https://cdn.myanimelist.net/images/manga/1/174152.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ふたりの特別授業

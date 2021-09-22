@@ -1,5 +1,7 @@
 # Koi Tomo
 
+![koi-tomo](https://cdn.myanimelist.net/images/manga/2/2794.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

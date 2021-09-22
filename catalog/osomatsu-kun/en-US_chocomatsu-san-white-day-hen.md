@@ -1,5 +1,7 @@
 # Chocomatsu-san: White Day-hen
 
+![chocomatsu-san-white-day-hen](https://cdn.myanimelist.net/images/anime/1994/113273.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: チョコ松さん～ホワイトデー編～

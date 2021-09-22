@@ -1,5 +1,7 @@
 # Chitei Ryokou
 
+![chitei-ryokou](https://cdn.myanimelist.net/images/manga/1/174739.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Momo to Botan to Yuri no Hana
 
+![momo-to-botan-to-yuri-no-hana](https://cdn.myanimelist.net/images/manga/3/36734.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: 桃と牡丹と百合の花

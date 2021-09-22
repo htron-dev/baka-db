@@ -1,5 +1,7 @@
 # Ryakudatsuou to Onna Kaizoku: Ai to Sokubaku no El Dorado
 
+![ryakudatsuou-to-onna-kaizoku-ai-to-sokubaku-no-el-dorado](https://cdn.myanimelist.net/images/manga/2/184426.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

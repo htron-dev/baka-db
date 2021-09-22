@@ -1,5 +1,7 @@
 # Kakan no Madonna
 
+![kakan-no-madonna](https://cdn.myanimelist.net/images/manga/2/167983.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42

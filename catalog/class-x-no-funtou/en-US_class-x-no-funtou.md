@@ -1,5 +1,7 @@
 # Class X no Funtou
 
+![class-x-no-funtou](https://cdn.myanimelist.net/images/manga/2/160012.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

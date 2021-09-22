@@ -1,5 +1,7 @@
 # Ichiban Itazuki
 
+![ichiban-itazuki](https://cdn.myanimelist.net/images/manga/2/170484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

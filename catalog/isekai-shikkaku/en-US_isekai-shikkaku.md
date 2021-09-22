@@ -1,5 +1,7 @@
 # Isekai Shikkaku
 
+![isekai-shikkaku](https://cdn.myanimelist.net/images/manga/1/229381.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界失格
 -   **start-date**: 2019-10-02

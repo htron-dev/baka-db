@@ -1,5 +1,7 @@
 # Mobile Suit Gundam AGE: Second Evolution
 
+![mobile-suit-gundam-age-second-evolution](https://cdn.myanimelist.net/images/manga/3/77065.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

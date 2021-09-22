@@ -1,5 +1,7 @@
 # Mitsu no Tsumatta Joushi
 
+![mitsu-no-tsumatta-joushi](https://cdn.myanimelist.net/images/manga/3/18635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # San Tarou to Kaguya-hime no Koutsuu Anzen
 
+![san-tarou-to-kaguya-hime-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/13/84691.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 三太郎 と かぐや姫 の 交通安全

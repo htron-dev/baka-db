@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999 for Planetarium
 
+![ginga-tetsudou-999-for-planetarium](https://cdn.myanimelist.net/images/anime/2/72905.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道 999 for PLANETARIUM

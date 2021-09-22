@@ -1,5 +1,7 @@
 # Kure-nai
 
+![kure-nai](https://cdn.myanimelist.net/images/anime/2/8482.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 紅

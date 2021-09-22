@@ -1,5 +1,7 @@
 # Nokemono to Hanayome the Manga
 
+![nokemono-to-hanayome-the-manga](https://cdn.myanimelist.net/images/manga/1/25957.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 110

@@ -1,5 +1,7 @@
 # Konya wa Tsuki ga Kirei desu ga, Toriaezu Shine: Last
 
+![konya-wa-tsuki-ga-kirei-desu-ga-toriaezu-shine-last](https://cdn.myanimelist.net/images/manga/3/220802.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

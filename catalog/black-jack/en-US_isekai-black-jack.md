@@ -1,5 +1,7 @@
 # Isekai Black Jack
 
+![isekai-black-jack](https://cdn.myanimelist.net/images/manga/2/238993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

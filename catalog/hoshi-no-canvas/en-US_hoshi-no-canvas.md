@@ -1,5 +1,7 @@
 # Hoshi no Canvas
 
+![hoshi-no-canvas](https://cdn.myanimelist.net/images/manga/3/82090.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

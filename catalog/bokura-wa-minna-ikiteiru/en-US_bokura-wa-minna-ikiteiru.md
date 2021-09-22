@@ -1,5 +1,7 @@
 # Bokura wa Minna Ikiteiru!
 
+![bokura-wa-minna-ikiteiru](https://cdn.myanimelist.net/images/manga/1/42131.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

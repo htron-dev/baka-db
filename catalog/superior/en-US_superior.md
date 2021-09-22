@@ -1,5 +1,7 @@
 # Superior
 
+![superior](https://cdn.myanimelist.net/images/manga/3/144347.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 28

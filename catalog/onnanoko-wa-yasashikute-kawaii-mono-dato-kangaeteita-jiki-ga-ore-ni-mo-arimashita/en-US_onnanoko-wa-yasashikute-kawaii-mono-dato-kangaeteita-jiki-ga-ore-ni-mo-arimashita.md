@@ -1,5 +1,7 @@
 # Onnanoko wa Yasashikute Kawaii Mono dato Kangaeteita Jiki ga Ore ni mo Arimashita
 
+![onnanoko-wa-yasashikute-kawaii-mono-dato-kangaeteita-jiki-ga-ore-ni-mo-arimashita](https://cdn.myanimelist.net/images/manga/2/160880.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 女の子は優しくて可愛いものだと考えていた時期が俺にもありました

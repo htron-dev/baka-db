@@ -1,5 +1,7 @@
 # Object of Desire
 
+![object-of-desire](https://cdn.myanimelist.net/images/manga/2/19175.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

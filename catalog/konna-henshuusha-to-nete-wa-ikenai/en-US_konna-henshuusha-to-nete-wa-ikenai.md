@@ -1,5 +1,7 @@
 # Konna Henshuusha to Nete wa Ikenai
 
+![konna-henshuusha-to-nete-wa-ikenai](https://cdn.myanimelist.net/images/manga/3/174532.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 47

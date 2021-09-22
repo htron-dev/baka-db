@@ -1,5 +1,7 @@
 # Fairial Garden
 
+![fairial-garden](https://cdn.myanimelist.net/images/manga/3/11001.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: フェアリアルガーデン

@@ -1,5 +1,7 @@
 # King of Prism by Pretty Rhythm Short Anime
 
+![king-of-prism-by-pretty-rhythm-short-anime](https://cdn.myanimelist.net/images/anime/6/80512.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 劇場版 KING OF PRISM by PrettyRhythm（キンプリ） オリジナル新作ショートアニメ

@@ -1,5 +1,7 @@
 # Pokemon Fushigi no Dungeon: Magnagate to Mugendai Meikyu
 
+![pokemon-fushigi-no-dungeon-magnagate-to-mugendai-meikyu](https://cdn.myanimelist.net/images/anime/5/76844.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ポケモン不思議のダンジョン マグナゲートと ∞ 迷宮

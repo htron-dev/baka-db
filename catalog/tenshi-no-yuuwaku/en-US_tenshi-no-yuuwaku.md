@@ -1,5 +1,7 @@
 # Tenshi no Yuuwaku
 
+![tenshi-no-yuuwaku](https://cdn.myanimelist.net/images/manga/1/183111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

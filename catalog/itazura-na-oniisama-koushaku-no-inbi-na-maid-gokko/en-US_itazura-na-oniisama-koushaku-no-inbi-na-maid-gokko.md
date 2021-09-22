@@ -1,5 +1,7 @@
 # Itazura na Oniisama: Koushaku no Inbi na Maid Gokko
 
+![itazura-na-oniisama-koushaku-no-inbi-na-maid-gokko](https://cdn.myanimelist.net/images/manga/3/181237.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

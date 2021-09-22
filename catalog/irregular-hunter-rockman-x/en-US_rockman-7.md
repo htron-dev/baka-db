@@ -1,5 +1,7 @@
 # Rockman 7
 
+![rockman-7](https://cdn.myanimelist.net/images/manga/1/242827.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

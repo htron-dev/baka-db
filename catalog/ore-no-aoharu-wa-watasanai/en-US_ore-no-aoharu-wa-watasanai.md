@@ -1,5 +1,7 @@
 # Ore no Aoharu wa Watasanai
 
+![ore-no-aoharu-wa-watasanai](https://cdn.myanimelist.net/images/manga/1/237846.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Abnormal-kei Joshi
 
+![abnormal-kei-joshi](https://cdn.myanimelist.net/images/manga/1/88169.jpg)
+
 -   **type**: manga
 -   **original-name**: 危ノーマル系女子
 -   **start-date**: 2012-05-02

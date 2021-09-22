@@ -1,5 +1,7 @@
 # Black Jack: Heian Sento
 
+![black-jack-heian-sento](https://cdn.myanimelist.net/images/anime/9/27872.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブラック・ジャック おばあちゃん

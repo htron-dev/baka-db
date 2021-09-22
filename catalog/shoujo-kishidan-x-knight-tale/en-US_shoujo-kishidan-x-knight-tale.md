@@ -1,5 +1,7 @@
 # Shoujo Kishidan x Knight Tale
 
+![shoujo-kishidan-x-knight-tale](https://cdn.myanimelist.net/images/manga/1/184996.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Inside Full Bloom
 
+![inside-full-bloom](https://cdn.myanimelist.net/images/manga/3/243047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hazuki Kanon wa Amakunai.
 
+![hazuki-kanon-wa-amakunai](https://cdn.myanimelist.net/images/manga/3/162931.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

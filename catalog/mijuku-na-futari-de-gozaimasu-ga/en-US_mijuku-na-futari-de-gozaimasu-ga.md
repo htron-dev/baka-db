@@ -1,5 +1,7 @@
 # Mijuku na Futari de Gozaimasu ga
 
+![mijuku-na-futari-de-gozaimasu-ga](https://cdn.myanimelist.net/images/manga/2/213271.jpg)
+
 -   **type**: manga
 -   **original-name**: 未熟なふたりでございますが
 -   **start-date**: 2018-03-09

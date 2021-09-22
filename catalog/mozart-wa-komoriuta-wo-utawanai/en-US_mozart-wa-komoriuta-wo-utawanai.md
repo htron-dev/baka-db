@@ -1,5 +1,7 @@
 # Mozart wa Komoriuta wo Utawanai
 
+![mozart-wa-komoriuta-wo-utawanai](https://cdn.myanimelist.net/images/manga/5/6634.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED Movie
 
+![mobile-suit-gundam-seed-movie](https://cdn.myanimelist.net/images/anime/1020/115264.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム SEED

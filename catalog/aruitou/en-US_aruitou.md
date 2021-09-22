@@ -1,5 +1,7 @@
 # Aruitou
 
+![aruitou](https://cdn.myanimelist.net/images/manga/1/163558.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 67

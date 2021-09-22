@@ -1,5 +1,7 @@
 # Moeru!! Joshi Pro Wrestling
 
+![moeru-joshi-pro-wrestling](https://cdn.myanimelist.net/images/manga/3/240476.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Sukoyaka Oyako 21 x Taka no Tsume-dan
 
+![sukoyaka-oyako-21-x-taka-no-tsume-dan](https://cdn.myanimelist.net/images/anime/1978/91679.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 健やか親子 21× 鷹の爪団

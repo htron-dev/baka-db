@@ -1,5 +1,7 @@
 # Ichigo no Ouji to Entremets
 
+![ichigo-no-ouji-to-entremets](https://cdn.myanimelist.net/images/manga/3/166134.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,9 +1,10 @@
 # Backkom Specials
 
+![backkom-specials](https://cdn.myanimelist.net/images/anime/4/65805.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 빼꼼
-
 -   **rating**: G - All Ages
 
 ## Tags

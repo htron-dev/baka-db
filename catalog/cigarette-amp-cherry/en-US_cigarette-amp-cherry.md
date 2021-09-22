@@ -1,5 +1,7 @@
 # Cigarette &amp; Cherry
 
+![cigarette-amp-cherry](https://cdn.myanimelist.net/images/manga/2/207954.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 129

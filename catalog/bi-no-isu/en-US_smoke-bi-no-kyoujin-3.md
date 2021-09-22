@@ -1,5 +1,7 @@
 # Smoke: Bi no Kyoujin 3
 
+![smoke-bi-no-kyoujin-3](https://cdn.myanimelist.net/images/manga/2/216087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: SMOKE 媚の凶刃 3

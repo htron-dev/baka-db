@@ -1,5 +1,7 @@
 # Kawareta Hatsukoi wa Mitsugetsu ni Oboreru
 
+![kawareta-hatsukoi-wa-mitsugetsu-ni-oboreru](https://cdn.myanimelist.net/images/manga/3/184022.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Soushoku Danshi to Dekiai Otome no Ama-iro Mitsuji
 
+![soushoku-danshi-to-dekiai-otome-no-ama-iro-mitsuji](https://cdn.myanimelist.net/images/manga/2/192501.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

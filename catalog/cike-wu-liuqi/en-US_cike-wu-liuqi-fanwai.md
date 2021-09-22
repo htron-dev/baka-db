@@ -1,5 +1,7 @@
 # Cike Wu Liuqi Fanwai
 
+![cike-wu-liuqi-fanwai](https://cdn.myanimelist.net/images/anime/1299/94969.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 刺客伍六七 番外

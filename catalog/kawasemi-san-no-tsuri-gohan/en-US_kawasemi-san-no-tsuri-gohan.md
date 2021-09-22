@@ -1,5 +1,7 @@
 # Kawasemi-san no Tsuri Gohan
 
+![kawasemi-san-no-tsuri-gohan](https://cdn.myanimelist.net/images/manga/1/226881.jpg)
+
 -   **type**: manga
 -   **original-name**: カワセミさんの釣りごはん
 -   **start-date**: 2019-06-25

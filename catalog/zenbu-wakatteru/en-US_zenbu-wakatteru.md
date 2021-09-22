@@ -1,5 +1,7 @@
 # Zenbu Wakatteru
 
+![zenbu-wakatteru](https://cdn.myanimelist.net/images/anime/1209/104627.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ぜんぶわかってる

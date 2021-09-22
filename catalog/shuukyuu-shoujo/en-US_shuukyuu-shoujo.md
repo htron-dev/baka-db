@@ -1,5 +1,7 @@
 # Shuukyuu Shoujo
 
+![shuukyuu-shoujo](https://cdn.myanimelist.net/images/manga/1/188872.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 48

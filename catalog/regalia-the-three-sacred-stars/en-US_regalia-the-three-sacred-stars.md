@@ -1,5 +1,7 @@
 # Regalia: The Three Sacred Stars
 
+![regalia-the-three-sacred-stars](https://cdn.myanimelist.net/images/anime/4/82161.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: レガリア The Three Sacred Stars

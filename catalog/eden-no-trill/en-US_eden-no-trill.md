@@ -1,5 +1,7 @@
 # Eden no Trill
 
+![eden-no-trill](https://cdn.myanimelist.net/images/manga/3/39479.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

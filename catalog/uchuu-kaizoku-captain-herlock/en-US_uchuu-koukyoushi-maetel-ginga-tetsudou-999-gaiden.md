@@ -1,5 +1,7 @@
 # Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden
 
+![uchuu-koukyoushi-maetel-ginga-tetsudou-999-gaiden](https://cdn.myanimelist.net/images/anime/12/6787.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 宇宙交響詩メーテル ～銀河鉄道 999 外伝～

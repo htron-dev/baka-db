@@ -1,5 +1,7 @@
 # Don't You Wish You Were Here?
 
+![dont-you-wish-you-were-here](https://cdn.myanimelist.net/images/anime/12/71461.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Don't you wish you were here?

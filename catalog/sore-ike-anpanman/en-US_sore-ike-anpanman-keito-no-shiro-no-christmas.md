@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Keito no Shiro no Christmas
 
+![sore-ike-anpanman-keito-no-shiro-no-christmas](https://cdn.myanimelist.net/images/anime/4/66777.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン けいとのしろのクリスマス
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   fantasy
 
 ## Sinopse

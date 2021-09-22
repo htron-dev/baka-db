@@ -1,5 +1,7 @@
 # Koukyoushihen Eureka Seven Hi-Evolution 2: Anemone
 
+![koukyoushihen-eureka-seven-hi-evolution-2-anemone](https://cdn.myanimelist.net/images/anime/1012/96436.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ANEMONE／交響詩篇エウレカセブン ハイエボリューション

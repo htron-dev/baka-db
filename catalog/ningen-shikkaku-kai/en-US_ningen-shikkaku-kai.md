@@ -1,5 +1,7 @@
 # Ningen Shikkaku Kai
 
+![ningen-shikkaku-kai](https://cdn.myanimelist.net/images/manga/1/66201.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

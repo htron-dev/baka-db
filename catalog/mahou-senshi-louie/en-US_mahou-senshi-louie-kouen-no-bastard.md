@@ -1,5 +1,7 @@
 # Mahou Senshi Louie: Kouen no Bastard
 
+![mahou-senshi-louie-kouen-no-bastard](https://cdn.myanimelist.net/images/manga/2/122857.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Ai to Yobanaide
 
+![ai-to-yobanaide](https://cdn.myanimelist.net/images/manga/1/227553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛と呼ばないで

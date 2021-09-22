@@ -1,5 +1,7 @@
 # Shuuen no Cathédrale
 
+![shuuen-no-cathedrale](https://cdn.myanimelist.net/images/manga/1/87655.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 終焉のカテドラル

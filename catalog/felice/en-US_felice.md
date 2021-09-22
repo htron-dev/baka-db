@@ -1,5 +1,7 @@
 # Felice
 
+![felice](https://cdn.myanimelist.net/images/manga/3/151636.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Felice

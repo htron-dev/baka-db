@@ -1,5 +1,7 @@
 # Boku no Party ga Shuraba Sugite Sekai ga Sukuenai
 
+![boku-no-party-ga-shuraba-sugite-sekai-ga-sukuenai](https://cdn.myanimelist.net/images/manga/2/168653.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

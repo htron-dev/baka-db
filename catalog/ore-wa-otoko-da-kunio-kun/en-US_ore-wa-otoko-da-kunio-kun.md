@@ -1,5 +1,7 @@
 # Ore wa Otoko da! Kunio-kun
 
+![ore-wa-otoko-da-kunio-kun](https://cdn.myanimelist.net/images/manga/2/4191.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: おれは男だ! くにおくん

@@ -1,5 +1,7 @@
 # Mitsume ga Tooru
 
+![mitsume-ga-tooru](https://cdn.myanimelist.net/images/anime/1247/96686.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 三つ目がとおる

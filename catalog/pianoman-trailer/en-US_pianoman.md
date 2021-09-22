@@ -1,5 +1,7 @@
 # Pianoman
 
+![pianoman](https://cdn.myanimelist.net/images/anime/1219/106730.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: PIANOMAN

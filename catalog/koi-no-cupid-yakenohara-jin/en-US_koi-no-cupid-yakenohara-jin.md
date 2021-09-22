@@ -1,5 +1,7 @@
 # Koi no Cupid: Yakenohara Jin
 
+![koi-no-cupid-yakenohara-jin](https://cdn.myanimelist.net/images/manga/2/110293.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

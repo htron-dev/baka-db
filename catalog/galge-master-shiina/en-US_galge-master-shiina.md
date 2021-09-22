@@ -1,5 +1,7 @@
 # Galge Master Shiina
 
+![galge-master-shiina](https://cdn.myanimelist.net/images/manga/2/164378.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ギャルゲーマスター椎名

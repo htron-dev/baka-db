@@ -1,5 +1,7 @@
 # Shisei Gokumon
 
+![shisei-gokumon](https://cdn.myanimelist.net/images/manga/1/72551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Dear Waltz
 
+![dear-waltz](https://cdn.myanimelist.net/images/manga/1/124227.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: Dear Waltz 디어 왈츠

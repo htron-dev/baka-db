@@ -1,5 +1,7 @@
 # Ten ni Kou
 
+![ten-ni-kou](https://cdn.myanimelist.net/images/manga/1/166419.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 51

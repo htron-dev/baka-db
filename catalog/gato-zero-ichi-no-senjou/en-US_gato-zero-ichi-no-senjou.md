@@ -1,5 +1,7 @@
 # Gato: Zero Ichi no Senjou
 
+![gato-zero-ichi-no-senjou](https://cdn.myanimelist.net/images/manga/3/216989.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

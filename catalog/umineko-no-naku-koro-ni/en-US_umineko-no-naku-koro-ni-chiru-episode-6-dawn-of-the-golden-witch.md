@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni Chiru - Episode 6: Dawn of the Golden Witch
 
+![umineko-no-naku-koro-ni-chiru-episode-6-dawn-of-the-golden-witch](https://cdn.myanimelist.net/images/manga/2/133437.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 26

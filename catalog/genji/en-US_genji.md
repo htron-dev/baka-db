@@ -1,5 +1,7 @@
 # Genji
 
+![genji](https://cdn.myanimelist.net/images/anime/11/21295.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 源氏
@@ -24,4 +26,4 @@ Time-traveling lovers Katsumi and Sakura find themselves in the midst of Japan's
 -   [My Anime list](https://myanimelist.net/anime/8233/Genji)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3372)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7346)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/源氏_(漫画)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/源氏_%28漫画%29)

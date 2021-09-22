@@ -1,5 +1,7 @@
 # Kat-Tun
 
+![kat-tun](https://cdn.myanimelist.net/images/manga/2/11938.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Tokage no Ou
 
+![tokage-no-ou](https://cdn.myanimelist.net/images/manga/3/95335.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

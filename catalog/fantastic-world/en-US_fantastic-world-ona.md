@@ -1,5 +1,7 @@
 # Fantastic World
 
+![fantastic-world](https://cdn.myanimelist.net/images/anime/1994/104691.jpg)
+
 -   **type**: ona
 -   **original-name**: ファンタスティックワールド
 -   **start-date**: 2016-10-31

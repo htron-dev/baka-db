@@ -1,5 +1,7 @@
 # Fechi no Ana
 
+![fechi-no-ana](https://cdn.myanimelist.net/images/manga/1/227359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

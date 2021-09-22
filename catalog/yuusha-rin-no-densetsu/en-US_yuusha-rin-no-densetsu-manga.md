@@ -1,5 +1,7 @@
 # Yuusha Rin no Densetsu
 
+![yuusha-rin-no-densetsu](https://cdn.myanimelist.net/images/manga/3/116245.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 勇者リンの伝説

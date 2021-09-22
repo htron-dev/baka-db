@@ -1,5 +1,7 @@
 # Happy Ice Cream!
 
+![happy-ice-cream](https://cdn.myanimelist.net/images/manga/3/85605.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

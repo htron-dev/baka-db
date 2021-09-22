@@ -1,5 +1,7 @@
 # Konya, Dakaretekimasu. Hoka no Otoko ni.
 
+![konya-dakaretekimasu-hoka-no-otoko-ni](https://cdn.myanimelist.net/images/manga/1/128895.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 今夜、抱かれてきます。他の男に。

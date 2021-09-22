@@ -1,9 +1,11 @@
 # Koukaku Kidoutai: Stand Alone Complex
 
+![koukaku-kidoutai-stand-alone-complex](https://cdn.myanimelist.net/images/manga/3/142929.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42
--   **original-name**: 攻殻機動隊STAND ALONE COMPLEX
+-   **original-name**: 攻殻機動隊 STAND ALONE COMPLEX
 -   **start-date**: 2009-12-14
 -   **end-date**: 2009-12-14
 

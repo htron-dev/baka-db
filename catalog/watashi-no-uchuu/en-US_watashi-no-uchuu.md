@@ -1,5 +1,7 @@
 # Watashi no Uchuu
 
+![watashi-no-uchuu](https://cdn.myanimelist.net/images/manga/2/178189.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

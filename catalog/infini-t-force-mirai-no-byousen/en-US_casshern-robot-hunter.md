@@ -1,5 +1,7 @@
 # Casshern: Robot Hunter
 
+![casshern-robot-hunter](https://cdn.myanimelist.net/images/anime/11/25790.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 新造人間キャシャーン

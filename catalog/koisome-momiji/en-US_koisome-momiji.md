@@ -1,5 +1,7 @@
 # Koisome Momiji
 
+![koisome-momiji](https://cdn.myanimelist.net/images/manga/1/120937.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

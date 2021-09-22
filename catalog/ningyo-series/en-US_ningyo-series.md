@@ -1,5 +1,7 @@
 # Ningyo Series
 
+![ningyo-series](https://cdn.myanimelist.net/images/manga/2/183364.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

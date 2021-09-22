@@ -1,5 +1,7 @@
 # Renai Baka Joutou
 
+![renai-baka-joutou](https://cdn.myanimelist.net/images/manga/3/237568.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

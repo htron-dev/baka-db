@@ -1,5 +1,7 @@
 # Zone of the Enders: 2167 Idolo
 
+![zone-of-the-enders-2167-idolo](https://cdn.myanimelist.net/images/anime/1236/91066.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Z.O.E 2167 IDOLO

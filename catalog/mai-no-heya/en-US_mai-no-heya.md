@@ -1,5 +1,7 @@
 # Mai no Heya
 
+![mai-no-heya](https://cdn.myanimelist.net/images/manga/2/147213.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

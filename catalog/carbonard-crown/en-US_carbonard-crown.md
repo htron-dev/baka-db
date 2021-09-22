@@ -1,5 +1,7 @@
 # Carbonard Crown
 
+![carbonard-crown](https://cdn.myanimelist.net/images/manga/1/27751.jpg)
+
 -   **type**: manga
 -   **original-name**: カルボナードクラウン
 

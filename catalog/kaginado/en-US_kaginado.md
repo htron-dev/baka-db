@@ -1,5 +1,7 @@
 # Kaginado
 
+![kaginado](https://cdn.myanimelist.net/images/anime/1724/114487.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: かぎなど
 -   **start-date**: 2021-10-20

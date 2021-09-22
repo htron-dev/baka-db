@@ -1,5 +1,7 @@
 # B: The Beginning
 
+![b-the-beginning](https://cdn.myanimelist.net/images/anime/1564/90469.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: B: The Beginning

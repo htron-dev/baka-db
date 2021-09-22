@@ -1,5 +1,7 @@
 # Akaneiro no Kaze: Shinsengumi Chifuu Kiroku
 
+![akaneiro-no-kaze-shinsengumi-chifuu-kiroku](https://cdn.myanimelist.net/images/manga/3/44089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Gariben Jimi Moe Reijou wa, Oresama Ouji nado Oyobidenai
 
+![gariben-jimi-moe-reijou-wa-oresama-ouji-nado-oyobidenai](https://cdn.myanimelist.net/images/manga/3/239575.jpg)
+
 -   **type**: manga
 -   **original-name**: ガリ勉地味萌え令嬢は、俺様王子などお呼びでない
 -   **start-date**: 2020-09-11

@@ -1,5 +1,7 @@
 # Iris Zero
 
+![iris-zero](https://cdn.myanimelist.net/images/manga/2/35739.jpg)
+
 -   **type**: manga
 -   **original-name**: アイリス zero
 -   **start-date**: 2009-04-27

@@ -1,5 +1,7 @@
 # Cloverfield/Kishin
 
+![cloverfield-kishin](https://cdn.myanimelist.net/images/manga/1/34324.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

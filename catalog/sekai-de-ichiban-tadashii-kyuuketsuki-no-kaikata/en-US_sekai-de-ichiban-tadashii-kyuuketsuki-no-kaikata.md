@@ -1,5 +1,7 @@
 # Sekai de Ichiban Tadashii Kyuuketsuki no Kaikata
 
+![sekai-de-ichiban-tadashii-kyuuketsuki-no-kaikata](https://cdn.myanimelist.net/images/manga/1/63621.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

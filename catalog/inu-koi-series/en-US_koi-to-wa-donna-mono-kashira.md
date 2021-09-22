@@ -1,5 +1,7 @@
 # Koi to wa Donna Mono Kashira
 
+![koi-to-wa-donna-mono-kashira](https://cdn.myanimelist.net/images/manga/3/95891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Line Offline: Salaryman
 
+![line-offline-salaryman](https://cdn.myanimelist.net/images/anime/11/45518.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 114
 -   **original-name**: ＬＩＮＥ ＯＦＦＬＩＮＥ サラリーマン

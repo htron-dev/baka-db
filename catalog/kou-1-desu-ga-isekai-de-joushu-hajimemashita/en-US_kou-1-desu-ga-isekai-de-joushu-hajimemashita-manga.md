@@ -1,5 +1,7 @@
 # Kou-1 desu ga Isekai de Joushu Hajimemashita
 
+![kou-1-desu-ga-isekai-de-joushu-hajimemashita](https://cdn.myanimelist.net/images/manga/2/168477.jpg)
+
 -   **type**: manga
 -   **original-name**: 高 1 ですが異世界で城主はじめました
 -   **start-date**: 2015-03-05

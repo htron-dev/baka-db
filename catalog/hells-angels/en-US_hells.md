@@ -1,5 +1,7 @@
 # Hells
 
+![hells](https://cdn.myanimelist.net/images/anime/12/50303.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヘルズ, (ヘルズエンジェルス)

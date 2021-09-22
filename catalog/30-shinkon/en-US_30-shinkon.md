@@ -1,5 +1,7 @@
 # 30 Shinkon
 
+![30-shinkon](https://cdn.myanimelist.net/images/manga/1/96651.jpg)
+
 -   **type**: manga
 -   **original-name**: 30 新婚 miso-shin-com
 -   **start-date**: 2012-02-08

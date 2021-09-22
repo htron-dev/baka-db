@@ -1,5 +1,7 @@
 # Nagasaki no Kouma
 
+![nagasaki-no-kouma](https://cdn.myanimelist.net/images/anime/5/66037.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ながさきの子うま

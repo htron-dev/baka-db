@@ -1,5 +1,7 @@
 # Kotetsu no Daibouken
 
+![kotetsu-no-daibouken](https://cdn.myanimelist.net/images/anime/10/20296.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 小鉄の大冒険

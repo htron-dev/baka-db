@@ -1,5 +1,7 @@
 # Sakura, Saku.
 
+![sakura-saku](https://cdn.myanimelist.net/images/manga/1/244987.jpg)
+
 -   **type**: manga
 -   **original-name**: サクラ、サク。
 -   **start-date**: 2021-02-13

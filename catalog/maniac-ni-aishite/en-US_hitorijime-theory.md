@@ -1,5 +1,7 @@
 # Hitorijime Theory
 
+![hitorijime-theory](https://cdn.myanimelist.net/images/manga/1/5933.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

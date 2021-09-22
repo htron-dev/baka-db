@@ -1,5 +1,7 @@
 # Extra Existence
 
+![extra-existence](https://cdn.myanimelist.net/images/manga/1/15255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Bamboo Blade: Fanfu-Fufe-Fo
 
+![bamboo-blade-fanfu-fufe-fo](https://cdn.myanimelist.net/images/anime/8/69535.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: バンブーブレード：ふぁんふ～ふふぇ～ふぉ

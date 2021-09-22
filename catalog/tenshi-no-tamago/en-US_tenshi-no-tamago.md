@@ -1,5 +1,7 @@
 # Tenshi no Tamago
 
+![tenshi-no-tamago](https://cdn.myanimelist.net/images/manga/1/190457.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Fullmetal Alchemist
 
+![fullmetal-alchemist](https://cdn.myanimelist.net/images/anime/10/75815.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 鋼の錬金術師

@@ -1,5 +1,7 @@
 # Dannasama, Himekishi-sama wa Tsundere tte Yatsu desu yo, Fight♪
 
+![dannasama-himekishi-sama-wa-tsundere-tte-yatsu-desu-yo-fight♪](https://cdn.myanimelist.net/images/manga/3/173834.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

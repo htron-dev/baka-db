@@ -1,5 +1,7 @@
 # Bijuu no Ryoushu ni Torawareta Otome
 
+![bijuu-no-ryoushu-ni-torawareta-otome](https://cdn.myanimelist.net/images/manga/1/186610.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

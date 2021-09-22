@@ -1,5 +1,7 @@
 # Kyoukai no Rinne (TV) 3rd Season
 
+![kyoukai-no-rinne-tv-3rd-season](https://cdn.myanimelist.net/images/anime/13/85289.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 境界の RINNE 第 3 シリーズ

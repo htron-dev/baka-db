@@ -1,5 +1,7 @@
 # Your Forma: Densakukan Echika to Kikaishikake no Aibou
 
+![your-forma-densakukan-echika-to-kikaishikake-no-aibou](https://cdn.myanimelist.net/images/manga/1/246178.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ユア・フォルマ 電索官エチカと機械仕掛けの相棒
 -   **start-date**: 2021-03-10

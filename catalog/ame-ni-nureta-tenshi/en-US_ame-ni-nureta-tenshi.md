@@ -1,5 +1,7 @@
 # Ame ni Nureta Tenshi
 
+![ame-ni-nureta-tenshi](https://cdn.myanimelist.net/images/manga/2/61203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Ginga Senpuu Braiger
 
+![ginga-senpuu-braiger](https://cdn.myanimelist.net/images/anime/1640/96448.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 銀河旋風ブライガー

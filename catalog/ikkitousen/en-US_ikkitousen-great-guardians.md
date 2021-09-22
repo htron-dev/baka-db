@@ -1,5 +1,7 @@
 # Ikkitousen: Great Guardians
 
+![ikkitousen-great-guardians](https://cdn.myanimelist.net/images/anime/2/22922.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 一騎当千: Great Guardians

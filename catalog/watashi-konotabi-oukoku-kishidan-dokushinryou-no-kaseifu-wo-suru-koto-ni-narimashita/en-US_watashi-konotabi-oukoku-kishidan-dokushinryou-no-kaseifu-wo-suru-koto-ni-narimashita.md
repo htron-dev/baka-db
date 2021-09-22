@@ -1,5 +1,7 @@
 # Watashi Konotabi, Oukoku Kishidan Dokushinryou no Kaseifu wo Suru Koto ni Narimashita
 
+![watashi-konotabi-oukoku-kishidan-dokushinryou-no-kaseifu-wo-suru-koto-ni-narimashita](https://cdn.myanimelist.net/images/manga/2/245357.jpg)
+
 -   **type**: manga
 -   **original-name**: 私この度、王国騎士団独身寮の家政婦をすることになりました
 -   **start-date**: 2019-08-29

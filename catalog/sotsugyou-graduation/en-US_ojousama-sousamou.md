@@ -1,5 +1,7 @@
 # Ojousama Sousamou
 
+![ojousama-sousamou](https://cdn.myanimelist.net/images/anime/1556/97264.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: お嬢様捜査網

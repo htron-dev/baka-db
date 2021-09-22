@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito
 
+![bishoujo-senshi-sailor-moon-s-kaguya-hime-no-koibito](https://cdn.myanimelist.net/images/anime/13/18896.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 美少女戦士セーラームーン S かぐや姫の恋人

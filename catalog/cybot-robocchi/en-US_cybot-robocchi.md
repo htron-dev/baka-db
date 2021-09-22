@@ -1,5 +1,7 @@
 # Cybot Robocchi
 
+![cybot-robocchi](https://cdn.myanimelist.net/images/anime/11/19447.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: サイボットロボッチ

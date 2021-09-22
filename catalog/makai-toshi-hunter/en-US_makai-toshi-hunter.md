@@ -1,5 +1,7 @@
 # Makai Toshi Hunter
 
+![makai-toshi-hunter](https://cdn.myanimelist.net/images/manga/3/32220.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 156

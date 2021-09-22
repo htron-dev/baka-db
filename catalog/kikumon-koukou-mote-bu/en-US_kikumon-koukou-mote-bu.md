@@ -1,5 +1,7 @@
 # Kikumon Koukou Mote-bu
 
+![kikumon-koukou-mote-bu](https://cdn.myanimelist.net/images/manga/1/215609.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Oshiete Hokusai!
 
+![oshiete-hokusai](https://cdn.myanimelist.net/images/manga/1/226666.jpg)
+
 -   **type**: manga
 -   **original-name**: おしえて北斎!
 -   **start-date**: 2016-08-20

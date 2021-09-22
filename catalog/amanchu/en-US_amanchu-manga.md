@@ -1,5 +1,7 @@
 # Amanchu!
 
+![amanchu](https://cdn.myanimelist.net/images/manga/2/165911.jpg)
+
 -   **type**: manga
 -   **original-name**: あまんちゅ！
 -   **start-date**: 2008-11-29

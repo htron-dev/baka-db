@@ -1,5 +1,7 @@
 # Lover Puzzle
 
+![lover-puzzle](https://cdn.myanimelist.net/images/manga/1/29610.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 애인퍼즐

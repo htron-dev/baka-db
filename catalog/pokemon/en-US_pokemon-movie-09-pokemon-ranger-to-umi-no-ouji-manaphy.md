@@ -1,5 +1,7 @@
 # Pokemon Movie 09: Pokemon Ranger to Umi no Ouji Manaphy
 
+![pokemon-movie-09-pokemon-ranger-to-umi-no-ouji-manaphy](https://cdn.myanimelist.net/images/anime/10/23168.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスターアドバンスジェネレーション ポケモンレンジャーと蒼海の王子 マナフィ
@@ -12,7 +14,6 @@
 
 -   action
 -   adventure
-
 -   drama
 -   fantasy
 

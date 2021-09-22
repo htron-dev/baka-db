@@ -1,5 +1,7 @@
 # Minion
 
+![minion](https://cdn.myanimelist.net/images/anime/1817/91256.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: Minion

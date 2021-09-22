@@ -1,5 +1,7 @@
 # Hyoutan
 
+![hyoutan](https://cdn.myanimelist.net/images/anime/13/71329.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ひょうたん

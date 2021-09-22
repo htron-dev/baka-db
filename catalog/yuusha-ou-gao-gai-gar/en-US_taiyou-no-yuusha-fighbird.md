@@ -1,5 +1,7 @@
 # Taiyou no Yuusha Fighbird
 
+![taiyou-no-yuusha-fighbird](https://cdn.myanimelist.net/images/anime/3/31133.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 太陽の勇者ファイバード

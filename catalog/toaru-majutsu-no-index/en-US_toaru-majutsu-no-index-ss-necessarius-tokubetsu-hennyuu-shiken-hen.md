@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index SS: Necessarius Tokubetsu Hennyuu Shiken-hen
 
+![toaru-majutsu-no-index-ss-necessarius-tokubetsu-hennyuu-shiken-hen](https://cdn.myanimelist.net/images/manga/2/97981.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: とある魔術の禁書目録 SS 『必要悪の教会』特別編入試験編

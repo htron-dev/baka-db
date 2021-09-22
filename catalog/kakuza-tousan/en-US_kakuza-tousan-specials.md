@@ -1,5 +1,7 @@
 # Kakuza Tousan Specials
 
+![kakuza-tousan-specials](https://cdn.myanimelist.net/images/anime/1947/105578.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: かくざ父さん

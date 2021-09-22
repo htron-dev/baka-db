@@ -1,5 +1,7 @@
 # Moto, Ochikobore Koushaku Reijou desu.
 
+![moto-ochikobore-koushaku-reijou-desu](https://cdn.myanimelist.net/images/manga/2/248769.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 元、落ちこぼれ公爵令嬢です。
 -   **start-date**: 2020-12-10

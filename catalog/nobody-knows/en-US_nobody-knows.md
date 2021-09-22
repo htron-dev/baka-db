@@ -1,5 +1,7 @@
 # Nobody Knows
 
+![nobody-knows](https://cdn.myanimelist.net/images/manga/1/46721.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 28

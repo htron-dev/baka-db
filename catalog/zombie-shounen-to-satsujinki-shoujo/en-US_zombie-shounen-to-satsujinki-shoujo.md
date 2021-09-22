@@ -1,5 +1,7 @@
 # Zombie Shounen to Satsujinki Shoujo
 
+![zombie-shounen-to-satsujinki-shoujo](https://cdn.myanimelist.net/images/manga/3/203509.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 40

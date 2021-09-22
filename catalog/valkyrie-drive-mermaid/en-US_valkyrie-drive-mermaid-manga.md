@@ -1,5 +1,7 @@
 # Valkyrie Drive: Mermaid
 
+![valkyrie-drive-mermaid](https://cdn.myanimelist.net/images/manga/2/173954.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

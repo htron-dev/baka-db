@@ -1,5 +1,7 @@
 # Onigiri
 
+![onigiri](https://cdn.myanimelist.net/images/anime/13/79260.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 鬼斬
@@ -26,4 +28,4 @@ Ancient Japan is under attack by powerful beings called "Kamikui," and it is up 
 -   [Official Site](http://www.onigiri-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11903)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18076)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Onigiri_(video_game)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Onigiri_%28video_game%29)

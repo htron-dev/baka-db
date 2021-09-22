@@ -1,5 +1,7 @@
 # Ryakudatsu Auction: Karen na Bara wa Yotsuyu ni Nureru
 
+![ryakudatsu-auction-karen-na-bara-wa-yotsuyu-ni-nureru](https://cdn.myanimelist.net/images/manga/1/194880.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 略奪オークション～可憐な薔薇は夜露に濡れる～

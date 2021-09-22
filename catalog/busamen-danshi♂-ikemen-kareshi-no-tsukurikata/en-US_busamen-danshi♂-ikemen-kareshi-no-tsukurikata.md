@@ -1,5 +1,7 @@
 # Busamen Danshi♂: Ikemen Kareshi no Tsukurikata
 
+![busamen-danshi♂-ikemen-kareshi-no-tsukurikata](https://cdn.myanimelist.net/images/manga/2/81614.jpg)
+
 -   **type**: manga
 -   **original-name**: ブサメン男子 ♂~イケメン彼氏の作り方~
 

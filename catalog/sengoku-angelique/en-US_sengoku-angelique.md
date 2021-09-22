@@ -1,5 +1,7 @@
 # Sengoku Angelique
 
+![sengoku-angelique](https://cdn.myanimelist.net/images/manga/3/40292.jpg)
+
 -   **type**: manga
 -   **original-name**: 戦国アンジェリーク
 

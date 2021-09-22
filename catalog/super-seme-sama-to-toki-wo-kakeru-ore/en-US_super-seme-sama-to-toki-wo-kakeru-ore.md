@@ -1,5 +1,7 @@
 # Super Seme-sama to Toki wo Kakeru Ore
 
+![super-seme-sama-to-toki-wo-kakeru-ore](https://cdn.myanimelist.net/images/manga/1/237248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

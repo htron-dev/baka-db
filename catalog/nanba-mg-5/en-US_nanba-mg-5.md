@@ -1,5 +1,7 @@
 # Nanba MG5
 
+![nanba-mg-5](https://cdn.myanimelist.net/images/manga/3/143649.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 160

@@ -1,5 +1,7 @@
 # Ishida to Asakura Special
 
+![ishida-to-asakura-special](https://cdn.myanimelist.net/images/anime/10/73662.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 石田とあさくら

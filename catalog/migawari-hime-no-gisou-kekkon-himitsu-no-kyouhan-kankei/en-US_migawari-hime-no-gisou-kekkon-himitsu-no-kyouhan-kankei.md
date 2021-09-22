@@ -1,5 +1,7 @@
 # Migawari-hime no Gisou Kekkon: Himitsu no Kyouhan Kankei
 
+![migawari-hime-no-gisou-kekkon-himitsu-no-kyouhan-kankei](https://cdn.myanimelist.net/images/manga/2/196411.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

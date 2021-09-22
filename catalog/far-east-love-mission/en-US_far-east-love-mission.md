@@ -1,5 +1,7 @@
 # Far East Love Mission
 
+![far-east-love-mission](https://cdn.myanimelist.net/images/manga/4/5999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 極東ラブ・ミッション

@@ -1,5 +1,7 @@
 # Tonari no Tokoro
 
+![tonari-no-tokoro](https://cdn.myanimelist.net/images/anime/4/27209.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: となりのトコロ

@@ -1,5 +1,7 @@
 # Tenshi no Sumu Ie
 
+![tenshi-no-sumu-ie](https://cdn.myanimelist.net/images/manga/1/151514.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天使の住む家

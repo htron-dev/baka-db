@@ -1,5 +1,7 @@
 # Plamo Kyoushirou
 
+![plamo-kyoushirou](https://cdn.myanimelist.net/images/manga/1/194141.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: プラモ狂四郎
@@ -10,7 +12,6 @@
 
 -   action
 -   comedy
-
 -   mecha
 -   shounen
 

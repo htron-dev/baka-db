@@ -1,5 +1,7 @@
 # Kagaku Ninja-tai Gatchaman
 
+![kagaku-ninja-tai-gatchaman](https://cdn.myanimelist.net/images/anime/8/55411.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 105
 -   **original-name**: 科学忍者隊ガッチャマン

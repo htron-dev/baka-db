@@ -1,5 +1,7 @@
 # Sakura Sakura
 
+![sakura-sakura](https://cdn.myanimelist.net/images/manga/3/188945.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

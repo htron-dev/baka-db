@@ -1,5 +1,7 @@
 # Youkoso! BL Kenkyuu Club e
 
+![youkoso-bl-kenkyuu-club-e](https://cdn.myanimelist.net/images/manga/2/233661.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

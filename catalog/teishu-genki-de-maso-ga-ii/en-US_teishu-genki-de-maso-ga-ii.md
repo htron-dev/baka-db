@@ -1,5 +1,7 @@
 # Teishu Genki de Maso ga Ii!
 
+![teishu-genki-de-maso-ga-ii](https://cdn.myanimelist.net/images/manga/3/202012.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

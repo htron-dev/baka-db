@@ -1,5 +1,7 @@
 # Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
 
+![kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen](https://cdn.myanimelist.net/images/anime/1100/109044.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: キミと僕の最後の戦場、あるいは世界が始まる聖戦

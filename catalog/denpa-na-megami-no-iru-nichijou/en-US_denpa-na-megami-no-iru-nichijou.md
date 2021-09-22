@@ -1,5 +1,7 @@
 # Denpa na Megami no Iru Nichijou
 
+![denpa-na-megami-no-iru-nichijou](https://cdn.myanimelist.net/images/manga/2/158454.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 電波な女神のいる日常

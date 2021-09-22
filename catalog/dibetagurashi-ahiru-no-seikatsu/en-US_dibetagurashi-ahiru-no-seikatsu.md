@@ -1,5 +1,7 @@
 # Dibetagurashi: Ahiru no Seikatsu
 
+![dibetagurashi-ahiru-no-seikatsu](https://cdn.myanimelist.net/images/anime/8/50677.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ぢべたぐらし あひるの生活

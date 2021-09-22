@@ -1,5 +1,7 @@
 # Wizard's Brain
 
+![wizards-brain](https://cdn.myanimelist.net/images/manga/2/116403.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ウィザーズ・ブレイン
 -   **start-date**: 2001-02-20

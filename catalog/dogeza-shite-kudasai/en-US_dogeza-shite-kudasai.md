@@ -1,5 +1,7 @@
 # Dogeza, Shite Kudasai.
 
+![dogeza-shite-kudasai](https://cdn.myanimelist.net/images/manga/1/222208.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

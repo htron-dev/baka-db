@@ -1,5 +1,7 @@
 # Bakusou Kyoudai Let's &amp; Go!! WGP Bousou Mini Yonku Daitsuiseki
 
+![bakusou-kyoudai-lets-amp-go-wgp-bousou-mini-yonku-daitsuiseki](https://cdn.myanimelist.net/images/anime/3/27273.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 爆走兄弟レッツ&ゴー!! WGP 暴走ミニ四駆大追跡!

@@ -1,5 +1,7 @@
 # Kubatsu no Akuma Shoukanjutsu
 
+![kubatsu-no-akuma-shoukanjutsu](https://cdn.myanimelist.net/images/manga/3/123599.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 九罰の悪魔召喚術

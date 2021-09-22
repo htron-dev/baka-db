@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai: Minagoroshi-hen
 
+![higurashi-no-naku-koro-ni-kai-minagoroshi-hen](https://cdn.myanimelist.net/images/manga/4/23993.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 25

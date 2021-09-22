@@ -1,5 +1,7 @@
 # Jiraishin Diablo
 
+![jiraishin-diablo](https://cdn.myanimelist.net/images/manga/2/27707.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

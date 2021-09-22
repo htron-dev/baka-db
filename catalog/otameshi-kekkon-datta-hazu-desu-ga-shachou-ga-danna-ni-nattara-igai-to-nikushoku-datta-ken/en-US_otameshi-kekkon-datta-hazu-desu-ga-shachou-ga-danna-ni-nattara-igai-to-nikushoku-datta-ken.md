@@ -1,5 +1,7 @@
 # Otameshi Kekkon datta Hazu desu ga? Shachou ga Danna ni Nattara Igai to Nikushoku Datta Ken
 
+![otameshi-kekkon-datta-hazu-desu-ga-shachou-ga-danna-ni-nattara-igai-to-nikushoku-datta-ken](https://cdn.myanimelist.net/images/manga/2/183720.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

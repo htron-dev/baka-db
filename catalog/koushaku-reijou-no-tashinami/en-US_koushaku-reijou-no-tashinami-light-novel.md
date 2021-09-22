@@ -1,5 +1,7 @@
 # Koushaku Reijou no Tashinami
 
+![koushaku-reijou-no-tashinami](https://cdn.myanimelist.net/images/manga/3/167558.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 45

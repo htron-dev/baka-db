@@ -1,5 +1,7 @@
 # Junjou Muteki Otome Shounen
 
+![junjou-muteki-otome-shounen](https://cdn.myanimelist.net/images/manga/1/155088.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

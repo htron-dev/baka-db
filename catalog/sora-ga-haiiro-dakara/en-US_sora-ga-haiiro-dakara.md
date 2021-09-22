@@ -1,5 +1,7 @@
 # Sora ga Haiiro dakara
 
+![sora-ga-haiiro-dakara](https://cdn.myanimelist.net/images/manga/1/188879.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 59

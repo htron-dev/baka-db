@@ -1,5 +1,7 @@
 # Gantz:E
 
+![gantz-e](https://cdn.myanimelist.net/images/manga/3/233450.jpg)
+
 -   **type**: manga
 -   **original-name**: GANTZ:E
 -   **start-date**: 2020-01-09

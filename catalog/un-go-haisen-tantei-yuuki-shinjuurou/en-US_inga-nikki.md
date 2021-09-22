@@ -1,5 +1,7 @@
 # Inga Nikki
 
+![inga-nikki](https://cdn.myanimelist.net/images/anime/11/34935.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 因果日記

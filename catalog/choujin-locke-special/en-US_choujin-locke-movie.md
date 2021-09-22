@@ -1,5 +1,7 @@
 # Choujin Locke
 
+![choujin-locke](https://cdn.myanimelist.net/images/anime/1767/96115.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超人ロック

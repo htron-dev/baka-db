@@ -1,5 +1,7 @@
 # Bed no Shita no Himitsu
 
+![bed-no-shita-no-himitsu](https://cdn.myanimelist.net/images/manga/2/35914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

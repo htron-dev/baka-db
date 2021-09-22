@@ -1,5 +1,7 @@
 # Gakuen Tokusou Hikaruon
 
+![gakuen-tokusou-hikaruon](https://cdn.myanimelist.net/images/anime/2/5861.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 学園特捜ヒカルオン

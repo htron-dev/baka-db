@@ -1,5 +1,7 @@
 # Eiyuu Densetsu: Sora no Kiseki The Animation
 
+![eiyuu-densetsu-sora-no-kiseki-the-animation](https://cdn.myanimelist.net/images/anime/11/35775.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 英雄伝説 空の軌跡 THE ANIMATION

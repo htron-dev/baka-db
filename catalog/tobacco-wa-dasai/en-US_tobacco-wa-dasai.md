@@ -1,5 +1,7 @@
 # Tobacco wa Dasai
 
+![tobacco-wa-dasai](https://cdn.myanimelist.net/images/anime/4/60441.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: たばこはダサい

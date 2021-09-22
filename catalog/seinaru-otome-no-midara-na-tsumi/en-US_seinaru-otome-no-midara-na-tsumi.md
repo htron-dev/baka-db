@@ -1,5 +1,7 @@
 # Seinaru Otome no Midara na Tsumi
 
+![seinaru-otome-no-midara-na-tsumi](https://cdn.myanimelist.net/images/manga/2/192300.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

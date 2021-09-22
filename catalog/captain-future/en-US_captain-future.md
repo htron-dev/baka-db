@@ -1,5 +1,7 @@
 # Captain Future
 
+![captain-future](https://cdn.myanimelist.net/images/anime/10/87992.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: キャプテンフューチャー

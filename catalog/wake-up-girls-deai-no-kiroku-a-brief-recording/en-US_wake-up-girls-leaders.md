@@ -1,5 +1,7 @@
 # Wake Up, Girls!: Leaders
 
+![wake-up-girls-leaders](https://cdn.myanimelist.net/images/manga/2/217105.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

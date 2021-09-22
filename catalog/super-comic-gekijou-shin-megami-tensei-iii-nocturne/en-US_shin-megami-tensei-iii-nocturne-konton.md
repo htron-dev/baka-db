@@ -1,5 +1,7 @@
 # Shin Megami Tensei III: Nocturne - Konton
 
+![shin-megami-tensei-iii-nocturne-konton](https://cdn.myanimelist.net/images/manga/2/132751.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 真・女神転生 III ＮＯＣＴＵＲＮＥ 混沌

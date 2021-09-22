@@ -1,5 +1,7 @@
 # Nana to Kaoru: Last Year
 
+![nana-to-kaoru-last-year](https://cdn.myanimelist.net/images/manga/1/234438.jpg)
+
 -   **type**: manga
 -   **original-name**: ナナとカオル Last Year
 -   **start-date**: 2018-11-29

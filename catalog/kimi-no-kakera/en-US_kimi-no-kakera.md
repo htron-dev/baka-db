@@ -1,5 +1,7 @@
 # Kimi no Kakera
 
+![kimi-no-kakera](https://cdn.myanimelist.net/images/manga/2/145011.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 27

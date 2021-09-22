@@ -1,5 +1,7 @@
 # Date A Live II
 
+![date-a-live-ii](https://cdn.myanimelist.net/images/anime/5/76003.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: デート・ア・ライブ Ⅱ

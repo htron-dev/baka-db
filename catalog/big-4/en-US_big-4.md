@@ -1,5 +1,7 @@
 # Big-4
 
+![big-4](https://cdn.myanimelist.net/images/manga/1/162651.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 33

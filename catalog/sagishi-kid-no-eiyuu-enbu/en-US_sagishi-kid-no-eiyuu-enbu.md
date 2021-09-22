@@ -1,5 +1,7 @@
 # Sagishi Kid no Eiyuu Enbu
 
+![sagishi-kid-no-eiyuu-enbu](https://cdn.myanimelist.net/images/manga/2/158953.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

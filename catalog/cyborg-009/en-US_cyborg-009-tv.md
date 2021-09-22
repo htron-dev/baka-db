@@ -1,5 +1,7 @@
 # Cyborg 009 (TV)
 
+![cyborg-009-tv](https://cdn.myanimelist.net/images/anime/6/22076.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: サイボーグ 009

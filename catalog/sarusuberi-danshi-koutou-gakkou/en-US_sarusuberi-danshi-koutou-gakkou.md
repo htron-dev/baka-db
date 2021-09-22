@@ -1,5 +1,7 @@
 # Sarusuberi Danshi Koutou Gakkou!!
 
+![sarusuberi-danshi-koutou-gakkou](https://cdn.myanimelist.net/images/manga/3/154627.jpg)
+
 -   **type**: manga
 -   **original-name**: 百日紅男子高等学校!!
 -   **start-date**: 2014-10-24

@@ -1,5 +1,7 @@
 # World Trigger
 
+![world-trigger](https://cdn.myanimelist.net/images/manga/1/187850.jpg)
+
 -   **type**: manga
 -   **original-name**: ワールドトリガー
 -   **start-date**: 2013-02-08

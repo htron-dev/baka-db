@@ -1,5 +1,7 @@
 # Otogi-no-Kuni no Shucchou Host
 
+![otogi-no-kuni-no-shucchou-host](https://cdn.myanimelist.net/images/manga/1/173358.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

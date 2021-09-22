@@ -1,5 +1,7 @@
 # Shi wo Utau Seiza
 
+![shi-wo-utau-seiza](https://cdn.myanimelist.net/images/manga/1/24825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

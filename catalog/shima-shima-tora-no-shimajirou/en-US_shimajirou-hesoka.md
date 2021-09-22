@@ -1,5 +1,7 @@
 # Shimajirou Hesoka
 
+![shimajirou-hesoka](https://cdn.myanimelist.net/images/anime/8/50735.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 99
 -   **original-name**: しまじろう ヘソカ
@@ -13,7 +15,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   magic
 
 ## Sinopse

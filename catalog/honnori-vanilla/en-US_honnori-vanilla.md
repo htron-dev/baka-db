@@ -1,5 +1,7 @@
 # Honnori Vanilla
 
+![honnori-vanilla](https://cdn.myanimelist.net/images/manga/2/7819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

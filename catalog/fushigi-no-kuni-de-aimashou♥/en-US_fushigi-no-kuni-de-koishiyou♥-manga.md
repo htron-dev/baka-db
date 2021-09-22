@@ -1,5 +1,7 @@
 # Fushigi no Kuni de Koishiyou♥
 
+![fushigi-no-kuni-de-koishiyou♥](https://cdn.myanimelist.net/images/manga/3/72567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

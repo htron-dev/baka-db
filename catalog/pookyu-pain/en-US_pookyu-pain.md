@@ -1,5 +1,7 @@
 # Pookyu Pain
 
+![pookyu-pain](https://cdn.myanimelist.net/images/manga/2/46233.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ぽーきゅぱいん

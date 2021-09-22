@@ -1,5 +1,7 @@
 # Ikusei Skill wa Mou Iranai to Yuusha Party wo Kaikosareta node, Taishoku Kingawari ni Moratta "Ryouchi" wo Tsuyoku shitemiru
 
+![ikusei-skill-wa-mou-iranai-to-yuusha-party-wo-kaikosareta-node-taishoku-kingawari-ni-moratta-ryouchi-wo-tsuyoku-shitemiru](https://cdn.myanimelist.net/images/manga/2/241625.jpg)
+
 -   **type**: manga
 -   **original-name**: 育成スキルはもういらないと勇者パーティを解雇されたので、退職金がわりにもらった【領地】を強くしてみる
 -   **start-date**: 2020-01-09

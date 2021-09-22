@@ -1,5 +1,7 @@
 # Iruka to Shounen
 
+![iruka-to-shounen](https://cdn.myanimelist.net/images/anime/3/31835.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: イルカと少年

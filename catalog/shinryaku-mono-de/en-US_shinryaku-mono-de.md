@@ -1,5 +1,7 @@
 # Shinryaku Mono de
 
+![shinryaku-mono-de](https://cdn.myanimelist.net/images/manga/3/150096.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

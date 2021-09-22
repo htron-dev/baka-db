@@ -1,5 +1,7 @@
 # Nurse wo Kanojo ni Suru Houhou
 
+![nurse-wo-kanojo-ni-suru-houhou](https://cdn.myanimelist.net/images/manga/3/49857.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

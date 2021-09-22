@@ -1,5 +1,7 @@
 # "Bungaku Shoujo" Minarai
 
+![bungaku-shoujo-minarai](https://cdn.myanimelist.net/images/manga/5/27656.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

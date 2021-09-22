@@ -1,5 +1,7 @@
 # Advance of Z: Toki ni Aragaishi Mono
 
+![advance-of-z-toki-ni-aragaishi-mono](https://cdn.myanimelist.net/images/manga/1/230102.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: ADVANCE OF Ζ 刻に抗いし者

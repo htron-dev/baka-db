@@ -1,5 +1,7 @@
 # Ultimate Antihero
 
+![ultimate-antihero](https://cdn.myanimelist.net/images/manga/1/178146.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

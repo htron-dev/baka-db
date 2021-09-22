@@ -1,5 +1,7 @@
 # Tokyo Revengers
 
+![tokyo-revengers](https://cdn.myanimelist.net/images/anime/1884/114790.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 東京リベンジャーズ
 -   **start-date**: 2021-04-11

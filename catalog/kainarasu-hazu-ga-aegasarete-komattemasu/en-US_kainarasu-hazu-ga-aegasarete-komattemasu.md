@@ -1,5 +1,7 @@
 # Kainarasu Hazu ga, Aegasarete Komattemasu.
 
+![kainarasu-hazu-ga-aegasarete-komattemasu](https://cdn.myanimelist.net/images/manga/1/223297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

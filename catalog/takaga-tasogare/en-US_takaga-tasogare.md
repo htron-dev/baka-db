@@ -1,5 +1,7 @@
 # Takaga Tasogare
 
+![takaga-tasogare](https://cdn.myanimelist.net/images/manga/3/223963.jpg)
+
 -   **type**: manga
 -   **original-name**: たかが黄昏れ
 -   **start-date**: 2018-07-27

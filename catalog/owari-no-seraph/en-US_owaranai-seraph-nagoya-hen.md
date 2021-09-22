@@ -1,5 +1,7 @@
 # Owaranai Seraph: Nagoya-hen
 
+![owaranai-seraph-nagoya-hen](https://cdn.myanimelist.net/images/anime/10/77545.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 終わらないセラフ名古屋編

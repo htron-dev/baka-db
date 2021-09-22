@@ -1,5 +1,7 @@
 # Dame Oyaji
 
+![dame-oyaji](https://cdn.myanimelist.net/images/anime/11/30065.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ダメおやじ

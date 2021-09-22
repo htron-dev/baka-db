@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Baikinman no Gyakushuu
 
+![sore-ike-anpanman-baikinman-no-gyakushuu](https://cdn.myanimelist.net/images/anime/12/27777.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン ばいきんまんの逆襲

@@ -1,5 +1,7 @@
 # Otome no Teniwoha
 
+![otome-no-teniwoha](https://cdn.myanimelist.net/images/manga/1/167334.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 40

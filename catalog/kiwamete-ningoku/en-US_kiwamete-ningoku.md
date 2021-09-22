@@ -1,5 +1,7 @@
 # Kiwamete Ningoku
 
+![kiwamete-ningoku](https://cdn.myanimelist.net/images/manga/2/140381.jpg)
+
 -   **type**: light-novel
 -   **original-name**: きわめて忍極
 -   **start-date**: 2012-09-10

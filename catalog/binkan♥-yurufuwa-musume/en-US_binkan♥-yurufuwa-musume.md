@@ -1,5 +1,7 @@
 # Binkan♥Yurufuwa Musume
 
+![binkan♥-yurufuwa-musume](https://cdn.myanimelist.net/images/manga/3/177651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

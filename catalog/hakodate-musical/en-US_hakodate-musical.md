@@ -1,5 +1,7 @@
 # Hakodate Musical
 
+![hakodate-musical](https://cdn.myanimelist.net/images/anime/1925/90628.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ハコダテミュージカル

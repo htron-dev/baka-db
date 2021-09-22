@@ -1,5 +1,7 @@
 # Haha! Diqiu Renn
 
+![haha-diqiu-renn](https://cdn.myanimelist.net/images/anime/1007/115197.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 哈哈！地球人

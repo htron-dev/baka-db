@@ -1,5 +1,7 @@
 # Macmillian Koukou Joshi Koushiki Yakyuubu
 
+![macmillian-koukou-joshi-koushiki-yakyuubu](https://cdn.myanimelist.net/images/manga/1/240106.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 32

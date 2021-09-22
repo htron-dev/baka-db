@@ -1,5 +1,7 @@
 # Aloha! Youkai Watch: Rakuen Hawaii de Geragerapou!!
 
+![aloha-youkai-watch-rakuen-hawaii-de-geragerapou](https://cdn.myanimelist.net/images/anime/12/74922.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アロハ! 妖怪ウォッチ 楽園ハワイでゲラゲラポ〜!!
@@ -9,7 +11,6 @@
 ## Tags
 
 -   slice-of-life
-
 -   supernatural
 
 ## Sinopse

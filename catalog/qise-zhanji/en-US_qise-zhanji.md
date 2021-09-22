@@ -1,5 +1,7 @@
 # Qise Zhanji
 
+![qise-zhanji](https://cdn.myanimelist.net/images/anime/1281/110817.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 七色戰記
@@ -10,7 +12,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

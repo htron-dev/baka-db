@@ -1,5 +1,7 @@
 # Duel Masters Movie 3: Honoo no Kizuna XX
 
+![duel-masters-movie-3-honoo-no-kizuna-xx](https://cdn.myanimelist.net/images/anime/2/58229.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版デュエル・マスターズ 炎のキズナ XX!!
@@ -9,7 +11,6 @@
 ## Tags
 
 -   game
-
 -   fantasy
 
 ## Sinopse

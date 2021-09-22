@@ -1,5 +1,7 @@
 # Zettaijou-senpai no Youkaigaku Kouza
 
+![zettaijou-senpai-no-youkaigaku-kouza](https://cdn.myanimelist.net/images/manga/2/172436.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

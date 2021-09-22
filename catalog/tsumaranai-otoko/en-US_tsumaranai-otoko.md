@@ -1,5 +1,7 @@
 # Tsumaranai Otoko
 
+![tsumaranai-otoko](https://cdn.myanimelist.net/images/manga/5/130163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

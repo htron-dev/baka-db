@@ -1,5 +1,7 @@
 # Haretaru Aozora
 
+![haretaru-aozora](https://cdn.myanimelist.net/images/manga/1/66495.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

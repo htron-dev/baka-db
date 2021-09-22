@@ -1,5 +1,7 @@
 # Binetsu Kuukan
 
+![binetsu-kuukan](https://cdn.myanimelist.net/images/manga/1/176726.jpg)
+
 -   **type**: manga
 -   **original-name**: 微熱空間
 -   **start-date**: 2014-02-28

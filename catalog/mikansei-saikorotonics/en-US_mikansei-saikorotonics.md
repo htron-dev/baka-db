@@ -1,5 +1,7 @@
 # Mikansei Saikorotonics
 
+![mikansei-saikorotonics](https://cdn.myanimelist.net/images/manga/3/235140.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

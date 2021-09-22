@@ -1,5 +1,7 @@
 # Needless
 
+![needless](https://cdn.myanimelist.net/images/manga/2/55177.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 114

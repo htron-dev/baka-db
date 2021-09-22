@@ -1,5 +1,7 @@
 # Dakara Shoujo wa Omoide wo Taberu
 
+![dakara-shoujo-wa-omoide-wo-taberu](https://cdn.myanimelist.net/images/manga/1/132385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: だから少女はおもいでをたべる

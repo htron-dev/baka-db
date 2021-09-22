@@ -1,5 +1,7 @@
 # Sage
 
+![sage](https://cdn.myanimelist.net/images/manga/1/17995.jpg)
+
 -   **type**: manga
 
 ## Tags

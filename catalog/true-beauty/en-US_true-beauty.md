@@ -1,5 +1,7 @@
 # True Beauty
 
+![true-beauty](https://cdn.myanimelist.net/images/manga/3/246434.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 여신 강림
 -   **start-date**: 2018-04-03

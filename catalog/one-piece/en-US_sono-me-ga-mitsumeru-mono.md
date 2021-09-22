@@ -1,5 +1,7 @@
 # Sono Me ga Mitsumeru Mono
 
+![sono-me-ga-mitsumeru-mono](https://cdn.myanimelist.net/images/anime/2/87540.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: その目が見つめるもの

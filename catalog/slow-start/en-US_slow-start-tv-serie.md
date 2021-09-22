@@ -1,5 +1,7 @@
 # Slow Start
 
+![slow-start](https://cdn.myanimelist.net/images/anime/4/89982.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: スロウスタート
@@ -29,4 +31,4 @@ During her introduction, the teacher reveals it is Hana's birthday, which gives 
 -   [Official Site](http://slow-start.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13160)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19972)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Slow_Start_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Slow_Start_%28manga%29)

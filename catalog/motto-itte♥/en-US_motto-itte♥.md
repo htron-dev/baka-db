@@ -1,5 +1,7 @@
 # Motto Itte♥
 
+![motto-itte♥](https://cdn.myanimelist.net/images/manga/2/130395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

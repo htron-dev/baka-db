@@ -1,5 +1,7 @@
 # Harinezumi no Harry
 
+![harinezumi-no-harry](https://cdn.myanimelist.net/images/manga/2/220656.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

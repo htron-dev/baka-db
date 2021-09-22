@@ -1,5 +1,7 @@
 # Ace wo Nerae!
 
+![ace-wo-nerae](https://cdn.myanimelist.net/images/anime/1414/91264.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: エースをねらえ!

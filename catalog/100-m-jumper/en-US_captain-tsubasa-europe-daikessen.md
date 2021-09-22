@@ -1,5 +1,7 @@
 # Captain Tsubasa: Europe Daikessen
 
+![captain-tsubasa-europe-daikessen](https://cdn.myanimelist.net/images/anime/1234/110683.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャプテン翼　ヨーロッパ大決戦

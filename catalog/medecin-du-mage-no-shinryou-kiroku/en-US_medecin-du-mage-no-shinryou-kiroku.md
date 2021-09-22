@@ -1,5 +1,7 @@
 # Médecin du Mage no Shinryou Kiroku
 
+![medecin-du-mage-no-shinryou-kiroku](https://cdn.myanimelist.net/images/manga/3/185977.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 48

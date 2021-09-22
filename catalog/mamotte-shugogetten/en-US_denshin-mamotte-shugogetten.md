@@ -1,5 +1,7 @@
 # Denshin Mamotte Shugogetten
 
+![denshin-mamotte-shugogetten](https://cdn.myanimelist.net/images/anime/5/3896.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: 伝心　まもって守護月天！

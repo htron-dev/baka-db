@@ -1,5 +1,7 @@
 # Illegal Rare
 
+![illegal-rare](https://cdn.myanimelist.net/images/manga/1/126881.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

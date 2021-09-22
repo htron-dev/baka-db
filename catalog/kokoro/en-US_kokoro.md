@@ -1,5 +1,7 @@
 # Kokoro
 
+![kokoro](https://cdn.myanimelist.net/images/manga/1/150759.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

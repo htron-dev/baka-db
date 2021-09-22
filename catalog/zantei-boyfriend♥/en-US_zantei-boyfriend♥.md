@@ -1,5 +1,7 @@
 # Zantei Boyfriend♥
 
+![zantei-boyfriend♥](https://cdn.myanimelist.net/images/manga/2/227616.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

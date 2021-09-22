@@ -1,5 +1,7 @@
 # Houkago no Ouji-sama
 
+![houkago-no-ouji-sama](https://cdn.myanimelist.net/images/manga/2/109185.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後の王子様
 -   **start-date**: 2008-11-04

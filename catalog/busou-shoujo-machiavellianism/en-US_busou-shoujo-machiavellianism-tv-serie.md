@@ -1,5 +1,7 @@
 # Busou Shoujo Machiavellianism
 
+![busou-shoujo-machiavellianism](https://cdn.myanimelist.net/images/anime/3/83995.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 武装少女マキャヴェリズム

@@ -1,5 +1,7 @@
 # Cerberus Jam
 
+![cerberus-jam](https://cdn.myanimelist.net/images/manga/1/59585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Dragon, Ie wo Kau.
 
+![dragon-ie-wo-kau](https://cdn.myanimelist.net/images/manga/1/198004.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラゴン、家を買う。
 -   **start-date**: 2016-12-05

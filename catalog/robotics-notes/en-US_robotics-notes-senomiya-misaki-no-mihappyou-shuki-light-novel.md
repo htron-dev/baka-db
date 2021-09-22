@@ -1,5 +1,7 @@
 # Robotics;Notes: Senomiya Misaki no Mihappyou Shuki
 
+![robotics-notes-senomiya-misaki-no-mihappyou-shuki](https://cdn.myanimelist.net/images/manga/1/156343.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ROBOTICS;NOTES 瀬乃宮みさ希の未発表手記

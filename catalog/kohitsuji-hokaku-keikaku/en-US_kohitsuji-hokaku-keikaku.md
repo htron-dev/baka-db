@@ -1,5 +1,7 @@
 # Kohitsuji Hokaku Keikaku!
 
+![kohitsuji-hokaku-keikaku](https://cdn.myanimelist.net/images/manga/2/374.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

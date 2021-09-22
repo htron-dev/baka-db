@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Kaixin Riji
 
+![xi-yangyang-yu-hui-tailang-kaixin-riji](https://cdn.myanimelist.net/images/anime/1807/115273.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之開心日記

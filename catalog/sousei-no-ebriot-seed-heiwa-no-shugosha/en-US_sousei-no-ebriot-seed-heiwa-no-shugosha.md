@@ -1,5 +1,7 @@
 # Sousei no Ebriot Seed: Heiwa no Shugosha
 
+![sousei-no-ebriot-seed-heiwa-no-shugosha](https://cdn.myanimelist.net/images/manga/2/158644.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

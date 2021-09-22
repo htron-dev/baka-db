@@ -1,5 +1,7 @@
 # Robot Girls Z
 
+![robot-girls-z](https://cdn.myanimelist.net/images/manga/1/194996.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

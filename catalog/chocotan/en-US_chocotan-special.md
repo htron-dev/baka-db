@@ -1,5 +1,7 @@
 # Chocotan!
 
+![chocotan](https://cdn.myanimelist.net/images/anime/10/49925.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: チョコタン!

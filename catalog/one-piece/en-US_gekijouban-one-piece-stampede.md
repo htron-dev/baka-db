@@ -1,5 +1,7 @@
 # Gekijouban One Piece: Stampede
 
+![gekijouban-one-piece-stampede](https://cdn.myanimelist.net/images/manga/1/230439.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

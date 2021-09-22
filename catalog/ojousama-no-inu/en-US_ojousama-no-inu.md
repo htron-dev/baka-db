@@ -1,5 +1,7 @@
 # Ojousama no Inu
 
+![ojousama-no-inu](https://cdn.myanimelist.net/images/manga/1/29767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

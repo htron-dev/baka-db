@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes: Psycho no Aisatsu
 
+![tantei-opera-milky-holmes-psycho-no-aisatsu](https://cdn.myanimelist.net/images/anime/1370/96895.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 探偵オペラ ミルキィホームズ サイコの挨拶

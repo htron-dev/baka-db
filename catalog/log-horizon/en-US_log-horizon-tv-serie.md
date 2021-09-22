@@ -1,5 +1,7 @@
 # Log Horizon
 
+![log-horizon](https://cdn.myanimelist.net/images/anime/5/84004.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ログ・ホライズン

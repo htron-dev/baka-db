@@ -1,5 +1,7 @@
 # Grimoire: Ore no Nounai Kanojo Nikki
 
+![grimoire-ore-no-nounai-kanojo-nikki](https://cdn.myanimelist.net/images/manga/1/196359.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: グリモア―俺の脳内彼女日記―

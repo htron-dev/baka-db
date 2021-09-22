@@ -1,5 +1,7 @@
 # Neo Blood
 
+![neo-blood](https://cdn.myanimelist.net/images/manga/1/36864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ネオ・ブラッド

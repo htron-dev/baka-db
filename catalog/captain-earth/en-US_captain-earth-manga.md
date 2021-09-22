@@ -1,5 +1,7 @@
 # Captain Earth
 
+![captain-earth](https://cdn.myanimelist.net/images/manga/2/154347.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

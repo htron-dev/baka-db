@@ -1,5 +1,7 @@
 # Screw
 
+![screw](https://cdn.myanimelist.net/images/anime/1665/97838.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スクリュ

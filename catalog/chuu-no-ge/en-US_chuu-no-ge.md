@@ -1,5 +1,7 @@
 # Chuu no Ge!
 
+![chuu-no-ge](https://cdn.myanimelist.net/images/manga/3/162579.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 36

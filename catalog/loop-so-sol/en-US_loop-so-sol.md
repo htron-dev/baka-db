@@ -1,5 +1,7 @@
 # Loop (So-Sol)
 
+![loop-so-sol](https://cdn.myanimelist.net/images/manga/1/29414.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 2
 -   **original-name**: 루프

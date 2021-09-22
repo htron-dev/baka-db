@@ -1,5 +1,7 @@
 # Kotowaza Gundam-san (ONA)
 
+![kotowaza-gundam-san-ona](https://cdn.myanimelist.net/images/anime/4/79832.jpg)
+
 -   **type**: ona
 -   **episodes**: 17
 -   **original-name**: ことわざガンダムさん

@@ -1,5 +1,7 @@
 # Ao no Rettou
 
+![ao-no-rettou](https://cdn.myanimelist.net/images/manga/2/181149.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 青の列島

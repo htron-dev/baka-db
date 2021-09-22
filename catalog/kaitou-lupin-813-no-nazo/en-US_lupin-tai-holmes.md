@@ -1,5 +1,7 @@
 # Lupin tai Holmes
 
+![lupin-tai-holmes](https://cdn.myanimelist.net/images/anime/9/29651.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン対ホームズ

@@ -1,5 +1,7 @@
 # Ore Eiyuu Densetsu: Soshite Kanojo wa Kawatte Shimatta
 
+![ore-eiyuu-densetsu-soshite-kanojo-wa-kawatte-shimatta](https://cdn.myanimelist.net/images/manga/1/160884.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Limit
 
+![limit](https://cdn.myanimelist.net/images/manga/5/87819.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

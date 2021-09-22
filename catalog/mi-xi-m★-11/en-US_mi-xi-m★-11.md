@@ -1,5 +1,7 @@
 # MIXiM★11
 
+![mi-xi-m★-11](https://cdn.myanimelist.net/images/manga/3/33897.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 129

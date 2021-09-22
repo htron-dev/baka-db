@@ -1,5 +1,7 @@
 # Guai Tao Yu Nao Gua
 
+![guai-tao-yu-nao-gua](https://cdn.myanimelist.net/images/anime/1849/115247.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 乖桃与闹瓜

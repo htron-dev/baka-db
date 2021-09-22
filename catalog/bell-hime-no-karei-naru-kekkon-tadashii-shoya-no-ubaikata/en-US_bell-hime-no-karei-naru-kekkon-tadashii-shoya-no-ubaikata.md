@@ -1,5 +1,7 @@
 # Bell-hime no Karei naru Kekkon: Tadashii Shoya no Ubaikata
 
+![bell-hime-no-karei-naru-kekkon-tadashii-shoya-no-ubaikata](https://cdn.myanimelist.net/images/manga/3/181362.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu
 
+![ginga-eiyuu-densetsu](https://cdn.myanimelist.net/images/manga/2/173521.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 60
@@ -26,13 +28,6 @@
 ## Sinopse
 
 Faithful to the novels aside for some changes that may be considered major e.g. characters changed from male to female.
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/11941/Ginga_Eiyuu_Densetsu)
-    lactic Empire and the Free Planets Alliance.
-
-(Source: Wikipedia)
 
 ## Links
 

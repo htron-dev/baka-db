@@ -1,5 +1,7 @@
 # Roman Album: Taishou Dennou Dadaism Emaki - Despera
 
+![roman-album-taishou-dennou-dadaism-emaki-despera](https://cdn.myanimelist.net/images/manga/1/114873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

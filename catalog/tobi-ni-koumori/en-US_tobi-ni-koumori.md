@@ -1,5 +1,7 @@
 # Tobi ni Koumori
 
+![tobi-ni-koumori](https://cdn.myanimelist.net/images/manga/2/233959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

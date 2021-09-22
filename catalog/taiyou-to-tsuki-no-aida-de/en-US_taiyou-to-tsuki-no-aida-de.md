@@ -1,5 +1,7 @@
 # Taiyou to Tsuki no Aida de
 
+![taiyou-to-tsuki-no-aida-de](https://cdn.myanimelist.net/images/manga/1/152544.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 太陽と月のあいだで

@@ -1,5 +1,7 @@
 # Dance with Devils: Blight
 
+![dance-with-devils-blight](https://cdn.myanimelist.net/images/manga/1/171062.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

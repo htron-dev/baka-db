@@ -1,5 +1,7 @@
 # Shenmi Shijie Lixian Ji 3
 
+![shenmi-shijie-lixian-ji-3](https://cdn.myanimelist.net/images/anime/1206/95403.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 神秘世界历险记 3

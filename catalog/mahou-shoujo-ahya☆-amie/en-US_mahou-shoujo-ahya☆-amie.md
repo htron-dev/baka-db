@@ -1,5 +1,7 @@
 # Mahou Shoujo Ahya☆Amie
 
+![mahou-shoujo-ahya☆-amie](https://cdn.myanimelist.net/images/manga/2/103405.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔法少女アーヤ ☆ アミー

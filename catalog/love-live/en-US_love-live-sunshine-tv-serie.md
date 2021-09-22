@@ -1,5 +1,7 @@
 # Love Live! Sunshine!!
 
+![love-live-sunshine](https://cdn.myanimelist.net/images/anime/8/80791.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ラブライブ！サンシャイン!!

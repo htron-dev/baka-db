@@ -1,5 +1,7 @@
 # Species Domain
 
+![species-domain](https://cdn.myanimelist.net/images/manga/1/155063.jpg)
+
 -   **type**: manga
 -   **original-name**: スピーシーズドメイン
 -   **start-date**: 2013-10-12

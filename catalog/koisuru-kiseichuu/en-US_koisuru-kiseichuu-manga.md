@@ -1,5 +1,7 @@
 # Koisuru Kiseichuu
 
+![koisuru-kiseichuu](https://cdn.myanimelist.net/images/manga/2/229078.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

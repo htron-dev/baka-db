@@ -1,5 +1,7 @@
 # Pants Pankurou
 
+![pants-pankurou](https://cdn.myanimelist.net/images/anime/5/30215.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 85
 -   **original-name**: パンツぱんくろう

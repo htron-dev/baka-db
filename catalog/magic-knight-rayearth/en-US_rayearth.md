@@ -1,5 +1,7 @@
 # Rayearth
 
+![rayearth](https://cdn.myanimelist.net/images/anime/1824/97041.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: レイアース

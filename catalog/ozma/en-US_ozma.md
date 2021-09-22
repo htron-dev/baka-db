@@ -1,5 +1,7 @@
 # Ozma
 
+![ozma](https://cdn.myanimelist.net/images/anime/4/35573.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: オズマ

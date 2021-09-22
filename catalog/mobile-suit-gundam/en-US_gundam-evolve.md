@@ -1,9 +1,10 @@
 # Gundam Evolve
 
+![gundam-evolve](https://cdn.myanimelist.net/images/anime/3/28142.jpg)
+
 -   **type**: ova
 -   **episodes**: 15
 -   **original-name**: ガンダム EVOLVE
-
 -   **ending-song**: #1 "Black Stars" by Sumitada Azumano (eps 6-7)
 -   **rating**: PG-13 - Teens 13 or older
 

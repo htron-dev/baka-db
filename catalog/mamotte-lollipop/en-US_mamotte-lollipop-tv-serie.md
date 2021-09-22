@@ -1,5 +1,7 @@
 # Mamotte! Lollipop
 
+![mamotte-lollipop](https://cdn.myanimelist.net/images/anime/1/1509.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: まもって！ロリポップ

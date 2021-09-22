@@ -1,5 +1,7 @@
 # Miko no Tsutome!
 
+![miko-no-tsutome](https://cdn.myanimelist.net/images/anime/1085/117744.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: みこのつとめっ！

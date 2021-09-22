@@ -1,5 +1,7 @@
 # Tachiagare! Orc-san
 
+![tachiagare-orc-san](https://cdn.myanimelist.net/images/manga/3/192529.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

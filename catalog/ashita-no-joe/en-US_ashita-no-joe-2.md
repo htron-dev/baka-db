@@ -1,5 +1,7 @@
 # Ashita no Joe 2
 
+![ashita-no-joe-2](https://cdn.myanimelist.net/images/anime/3/45028.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: あしたのジョー２

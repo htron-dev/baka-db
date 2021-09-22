@@ -1,5 +1,7 @@
 # Tomo・Dachi・Mono・Gatari
 
+![tomo・-dachi・-mono・-gatari](https://cdn.myanimelist.net/images/manga/2/38287.jpg)
+
 -   **type**: manga
 -   **original-name**: 友・達・物・語
 -   **start-date**: 1996-08-24

@@ -1,5 +1,7 @@
 # Wagaya no Oinari-sama.: Kuu-chan no Omake Gekijou
 
+![wagaya-no-oinari-sama-kuu-chan-no-omake-gekijou](https://cdn.myanimelist.net/images/anime/13/61001.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: 我が家のお稲荷さま。 クーちゃんのオマケ劇場

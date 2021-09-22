@@ -1,5 +1,7 @@
 # Furachi na Otokotachi
 
+![furachi-na-otokotachi](https://cdn.myanimelist.net/images/manga/2/87991.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

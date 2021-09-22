@@ -1,5 +1,7 @@
 # Yamakawa Keiko-san wa Furimukanai
 
+![yamakawa-keiko-san-wa-furimukanai](https://cdn.myanimelist.net/images/anime/1651/109757.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 山川景子は振り向かない

@@ -1,5 +1,7 @@
 # Heisei Matsue Kaidan
 
+![heisei-matsue-kaidan](https://cdn.myanimelist.net/images/anime/1285/91682.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: 平成松江怪談

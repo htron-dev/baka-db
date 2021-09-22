@@ -1,5 +1,7 @@
 # Okitsune-sama wa Tawamuretai
 
+![okitsune-sama-wa-tawamuretai](https://cdn.myanimelist.net/images/manga/3/204963.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Asura
 
+![asura](https://cdn.myanimelist.net/images/anime/7/44289.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アシュラ

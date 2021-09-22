@@ -1,5 +1,7 @@
 # Keroro Gunsou: KeroZero Shupattsudayo! Zeninshuugou!
 
+![keroro-gunsou-kero-zero-shupattsudayo-zeninshuugou](https://cdn.myanimelist.net/images/anime/13/31493.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ケロ０　出発だよ！全員集合！！

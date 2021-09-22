@@ -1,5 +1,7 @@
 # Neko, Hajimemashita: Nyantomo Kininaru Nyao
 
+![neko-hajimemashita-nyantomo-kininaru-nyao](https://cdn.myanimelist.net/images/manga/3/226140.jpg)
+
 -   **type**: manga
 -   **original-name**: ねこ、はじめました ～ニャンとも気になるニャオ～
 -   **start-date**: 2015-10-03

@@ -1,5 +1,7 @@
 # I Accept You
 
+![i-accept-you](https://cdn.myanimelist.net/images/manga/2/156340.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 24

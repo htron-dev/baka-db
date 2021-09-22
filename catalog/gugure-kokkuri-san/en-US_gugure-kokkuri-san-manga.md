@@ -1,5 +1,7 @@
 # Gugure! Kokkuri-san
 
+![gugure-kokkuri-san](https://cdn.myanimelist.net/images/manga/2/118499.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 115

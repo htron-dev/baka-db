@@ -1,5 +1,7 @@
 # Little Busters! Ecstasy: Heartful
 
+![little-busters-ecstasy-heartful](https://cdn.myanimelist.net/images/manga/1/113171.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: リトルバスターズ! エクスタシー はーとふる

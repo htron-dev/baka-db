@@ -1,5 +1,7 @@
 # Watashi wa Pen de Sekai wo Kaeru
 
+![watashi-wa-pen-de-sekai-wo-kaeru](https://cdn.myanimelist.net/images/manga/2/166181.jpg)
+
 -   **type**: manga
 -   **original-name**: 私はペンで世界を変える
 -   **start-date**: 2015-04-06

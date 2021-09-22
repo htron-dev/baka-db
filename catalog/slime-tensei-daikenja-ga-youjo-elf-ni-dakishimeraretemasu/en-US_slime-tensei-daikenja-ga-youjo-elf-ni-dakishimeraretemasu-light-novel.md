@@ -1,5 +1,7 @@
 # Slime Tensei.: Daikenja ga Youjo Elf ni Dakishimeraretemasu
 
+![slime-tensei-daikenja-ga-youjo-elf-ni-dakishimeraretemasu](https://cdn.myanimelist.net/images/manga/2/203175.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スライム転生。大賢者が養女エルフに抱きしめられてます
 -   **start-date**: 2017-10-25

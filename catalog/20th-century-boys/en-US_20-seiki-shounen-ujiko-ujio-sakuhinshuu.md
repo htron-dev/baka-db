@@ -1,5 +1,7 @@
 # 20 Seiki Shounen: Ujiko Ujio Sakuhinshuu
 
+![20-seiki-shounen-ujiko-ujio-sakuhinshuu](https://cdn.myanimelist.net/images/manga/3/54433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

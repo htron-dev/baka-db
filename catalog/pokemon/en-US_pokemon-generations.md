@@ -1,5 +1,7 @@
 # Pokemon Generations
 
+![pokemon-generations](https://cdn.myanimelist.net/images/anime/11/83210.jpg)
+
 -   **type**: ona
 -   **episodes**: 18
 -   **original-name**: ポケモンジェネレーションズ

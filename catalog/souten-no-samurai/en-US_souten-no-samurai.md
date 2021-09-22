@@ -1,5 +1,7 @@
 # Souten no Samurai
 
+![souten-no-samurai](https://cdn.myanimelist.net/images/manga/1/161047.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # The iDOLM@STER SideM: Wake Atte Mini!
 
+![the-i-dolm-ster-side-m-wake-atte-mini](https://cdn.myanimelist.net/images/anime/1711/93506.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アイドルマスター SideM 理由あって Mini!

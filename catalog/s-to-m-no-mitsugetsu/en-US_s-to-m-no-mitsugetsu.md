@@ -1,5 +1,7 @@
 # S to M no Mitsugetsu
 
+![s-to-m-no-mitsugetsu](https://cdn.myanimelist.net/images/manga/2/66675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

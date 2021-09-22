@@ -1,5 +1,7 @@
 # Mad Summer School
 
+![mad-summer-school](https://cdn.myanimelist.net/images/manga/2/229968.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

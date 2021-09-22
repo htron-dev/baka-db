@@ -1,5 +1,7 @@
 # Sekai Ninja Taikai Kiroku
 
+![sekai-ninja-taikai-kiroku](https://cdn.myanimelist.net/images/manga/2/227310.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

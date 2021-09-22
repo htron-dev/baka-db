@@ -1,5 +1,7 @@
 # It Vorspiel
 
+![it-vorspiel](https://cdn.myanimelist.net/images/manga/3/64613.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: イット Vorspiel ～フォアシュピール～

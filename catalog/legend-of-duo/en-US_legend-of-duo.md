@@ -1,5 +1,7 @@
 # Legend of Duo
 
+![legend-of-duo](https://cdn.myanimelist.net/images/anime/7/23556.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: LEGEND OF DUO

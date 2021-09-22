@@ -1,5 +1,7 @@
 # Limbo the King
 
+![limbo-the-king](https://cdn.myanimelist.net/images/manga/2/204233.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

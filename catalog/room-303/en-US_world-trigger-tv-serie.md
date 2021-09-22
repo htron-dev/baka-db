@@ -1,5 +1,7 @@
 # World Trigger
 
+![world-trigger](https://cdn.myanimelist.net/images/anime/1783/106843.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 73
 -   **original-name**: ワールドトリガー

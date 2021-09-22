@@ -1,5 +1,7 @@
 # Reiwa Hanamaru Gakuen
 
+![reiwa-hanamaru-gakuen](https://cdn.myanimelist.net/images/manga/1/239235.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Tamatama Harassment
 
+![tamatama-harassment](https://cdn.myanimelist.net/images/manga/2/246610.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

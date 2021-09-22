@@ -1,5 +1,7 @@
 # Hayate no Gotoku!!
 
+![hayate-no-gotoku](https://cdn.myanimelist.net/images/anime/11/75212.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ハヤテのごとく!!

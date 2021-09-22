@@ -1,5 +1,7 @@
 # Kasa no Shita, Futari
 
+![kasa-no-shita-futari](https://cdn.myanimelist.net/images/manga/1/130109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

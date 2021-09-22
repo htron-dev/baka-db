@@ -1,5 +1,7 @@
 # Hitsugi Tantei D&amp;W
 
+![hitsugi-tantei-d-amp-w](https://cdn.myanimelist.net/images/manga/1/141683.jpg)
+
 -   **type**: manga
 -   **original-name**: 棺探偵 D&W
 -   **start-date**: 2012-11-19

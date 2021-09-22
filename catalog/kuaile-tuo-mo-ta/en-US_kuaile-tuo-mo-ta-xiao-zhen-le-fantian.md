@@ -1,9 +1,10 @@
 # Kuaile Tuo Mo Ta: Xiao Zhen Le Fantian
 
+![kuaile-tuo-mo-ta-xiao-zhen-le-fantian](https://cdn.myanimelist.net/images/anime/1563/115227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 快乐椭魔塔之小镇乐翻天
-
 -   **rating**: PG - Children
 
 ## Tags

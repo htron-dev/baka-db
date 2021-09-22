@@ -1,5 +1,7 @@
 # High Score Girl
 
+![high-score-girl](https://cdn.myanimelist.net/images/manga/2/212640.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 65

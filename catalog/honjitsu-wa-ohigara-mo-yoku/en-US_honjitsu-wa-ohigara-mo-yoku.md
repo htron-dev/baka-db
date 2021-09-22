@@ -1,5 +1,7 @@
 # Honjitsu wa Ohigara mo Yoku,
 
+![honjitsu-wa-ohigara-mo-yoku](https://cdn.myanimelist.net/images/manga/1/246204.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Star☆King
 
+![star☆-king](https://cdn.myanimelist.net/images/manga/2/24009.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

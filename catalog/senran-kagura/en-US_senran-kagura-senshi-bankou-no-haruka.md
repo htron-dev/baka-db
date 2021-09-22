@@ -1,5 +1,7 @@
 # Senran Kagura: Senshi Bankou no Haruka
 
+![senran-kagura-senshi-bankou-no-haruka](https://cdn.myanimelist.net/images/manga/1/235873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

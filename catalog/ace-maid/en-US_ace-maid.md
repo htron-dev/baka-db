@@ -1,5 +1,7 @@
 # Ace Maid
 
+![ace-maid](https://cdn.myanimelist.net/images/manga/2/95333.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

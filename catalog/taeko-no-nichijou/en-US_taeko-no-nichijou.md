@@ -1,5 +1,7 @@
 # Taeko no Nichijou
 
+![taeko-no-nichijou](https://cdn.myanimelist.net/images/anime/1583/103149.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 耐え子の日常

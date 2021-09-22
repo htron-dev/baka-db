@@ -1,5 +1,7 @@
 # Xenogears 4-koma Comic
 
+![xenogears-4-koma-comic](https://cdn.myanimelist.net/images/manga/1/144899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

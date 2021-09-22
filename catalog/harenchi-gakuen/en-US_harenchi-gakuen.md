@@ -1,5 +1,7 @@
 # Harenchi Gakuen
 
+![harenchi-gakuen](https://cdn.myanimelist.net/images/manga/2/185611.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: ハレンチ学園

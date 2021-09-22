@@ -1,5 +1,7 @@
 # Kiddy Grade
 
+![kiddy-grade](https://cdn.myanimelist.net/images/anime/3/73995.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: キディ・グレイド

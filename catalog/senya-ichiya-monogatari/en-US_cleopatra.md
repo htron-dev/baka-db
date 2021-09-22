@@ -1,5 +1,7 @@
 # Cleopatra
 
+![cleopatra](https://cdn.myanimelist.net/images/anime/1086/96348.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クレオパトラ

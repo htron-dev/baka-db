@@ -1,5 +1,7 @@
 # Shinjou Kokyuu
 
+![shinjou-kokyuu](https://cdn.myanimelist.net/images/manga/2/236698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

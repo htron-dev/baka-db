@@ -1,5 +1,7 @@
 # Madougushi Dahlia wa Utsumukanai
 
+![madougushi-dahlia-wa-utsumukanai](https://cdn.myanimelist.net/images/manga/3/222308.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔導具師ダリヤはうつむかない ～ Dahliya Wilts No More ～
 -   **start-date**: 2019-04-25

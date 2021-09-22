@@ -1,5 +1,7 @@
 # Mayonaka na Ookami
 
+![mayonaka-na-ookami](https://cdn.myanimelist.net/images/manga/2/10859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 真夜中はオオカミ

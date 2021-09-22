@@ -1,5 +1,7 @@
 # Cosmetic Play Lover
 
+![cosmetic-play-lover](https://cdn.myanimelist.net/images/manga/1/245531.jpg)
+
 -   **type**: manga
 -   **original-name**: コスメティック・プレイラバー
 -   **start-date**: 2017-12-07

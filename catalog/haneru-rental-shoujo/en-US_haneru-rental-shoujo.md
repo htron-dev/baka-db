@@ -1,5 +1,7 @@
 # Haneru! Rental Shoujo
 
+![haneru-rental-shoujo](https://cdn.myanimelist.net/images/manga/3/213233.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: はねる!レンタル少女

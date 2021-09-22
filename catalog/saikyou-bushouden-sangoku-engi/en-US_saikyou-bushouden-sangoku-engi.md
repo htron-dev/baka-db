@@ -1,5 +1,7 @@
 # Saikyou Bushouden: Sangoku Engi
 
+![saikyou-bushouden-sangoku-engi](https://cdn.myanimelist.net/images/anime/5/32589.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 最強武将伝・三国演義

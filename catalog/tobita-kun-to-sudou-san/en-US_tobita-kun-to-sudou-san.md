@@ -1,5 +1,7 @@
 # Tobita-kun to Sudou-san
 
+![tobita-kun-to-sudou-san](https://cdn.myanimelist.net/images/manga/3/183408.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 46

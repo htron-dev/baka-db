@@ -1,5 +1,7 @@
 # Koi Kirari, Kage Sururi
 
+![koi-kirari-kage-sururi](https://cdn.myanimelist.net/images/manga/3/244671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

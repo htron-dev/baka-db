@@ -1,5 +1,7 @@
 # Lapis Lazuli no Oukan
 
+![lapis-lazuli-no-oukan](https://cdn.myanimelist.net/images/manga/3/10065.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

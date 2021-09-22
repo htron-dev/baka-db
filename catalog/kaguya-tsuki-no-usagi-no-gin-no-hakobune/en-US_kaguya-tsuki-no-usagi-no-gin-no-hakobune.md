@@ -1,5 +1,7 @@
 # Kaguya: Tsuki no Usagi no Gin no Hakobune
 
+![kaguya-tsuki-no-usagi-no-gin-no-hakobune](https://cdn.myanimelist.net/images/manga/1/168399.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: Kaguya 〜月のウサギの銀の箱舟〜

@@ -1,5 +1,7 @@
 # Dokusaisha Zeke
 
+![dokusaisha-zeke](https://cdn.myanimelist.net/images/manga/3/166784.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

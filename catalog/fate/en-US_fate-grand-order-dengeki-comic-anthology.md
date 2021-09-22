@@ -1,5 +1,7 @@
 # Fate/Grand Order: Dengeki Comic Anthology
 
+![fate-grand-order-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/2/173436.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/Grand Order 電撃コミックアンソロジー
 -   **start-date**: 2016-02-26

@@ -1,5 +1,7 @@
 # Gestalt
 
+![gestalt](https://cdn.myanimelist.net/images/manga/2/245789.jpg)
+
 -   **type**: manga
 -   **original-name**: ゲシュタルト
 -   **start-date**: 2021-02-15

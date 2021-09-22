@@ -1,5 +1,7 @@
 # Senyuu.
 
+![senyuu](https://cdn.myanimelist.net/images/manga/2/92325.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 32

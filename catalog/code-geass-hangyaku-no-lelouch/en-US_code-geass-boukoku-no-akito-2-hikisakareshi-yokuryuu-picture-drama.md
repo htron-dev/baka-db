@@ -1,5 +1,7 @@
 # Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu Picture Drama
 
+![code-geass-boukoku-no-akito-2-hikisakareshi-yokuryuu-picture-drama](https://cdn.myanimelist.net/images/anime/4/70539.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コードギアス 亡国のアキト 第 2 章 引き裂かれし翼竜 ピクチャードラマ

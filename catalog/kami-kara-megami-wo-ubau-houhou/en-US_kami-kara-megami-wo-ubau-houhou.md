@@ -1,5 +1,7 @@
 # Kami kara Megami wo Ubau Houhou
 
+![kami-kara-megami-wo-ubau-houhou](https://cdn.myanimelist.net/images/manga/3/152785.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 神から女神を奪う方法

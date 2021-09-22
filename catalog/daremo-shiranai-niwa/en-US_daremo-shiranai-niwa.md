@@ -1,5 +1,7 @@
 # Daremo Shiranai Niwa
 
+![daremo-shiranai-niwa](https://cdn.myanimelist.net/images/manga/2/200015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 誰もしらない庭

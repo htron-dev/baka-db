@@ -1,5 +1,7 @@
 # 6 cm no Kizuna
 
+![6-cm-no-kizuna](https://cdn.myanimelist.net/images/manga/1/193289.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

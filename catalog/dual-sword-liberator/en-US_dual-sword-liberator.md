@@ -1,5 +1,7 @@
 # Dual Sword Liberator
 
+![dual-sword-liberator](https://cdn.myanimelist.net/images/manga/1/176350.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

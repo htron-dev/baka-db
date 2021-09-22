@@ -1,5 +1,7 @@
 # Ginban Kishi
 
+![ginban-kishi](https://cdn.myanimelist.net/images/manga/1/116397.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 56

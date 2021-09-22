@@ -1,5 +1,7 @@
 # Chibinacs
 
+![chibinacs](https://cdn.myanimelist.net/images/anime/4/77792.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: チビナックス

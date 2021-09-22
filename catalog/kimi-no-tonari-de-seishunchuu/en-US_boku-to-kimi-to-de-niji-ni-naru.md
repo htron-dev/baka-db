@@ -1,5 +1,7 @@
 # Boku to Kimi to de Niji ni Naru
 
+![boku-to-kimi-to-de-niji-ni-naru](https://cdn.myanimelist.net/images/manga/1/98879.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

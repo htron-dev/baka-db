@@ -1,5 +1,7 @@
 # Mask Danshi wa Koishitakunai noni
 
+![mask-danshi-wa-koishitakunai-noni](https://cdn.myanimelist.net/images/manga/1/236683.jpg)
+
 -   **type**: manga
 -   **original-name**: マスク男子は恋したくないのに
 -   **start-date**: 2019-11-26

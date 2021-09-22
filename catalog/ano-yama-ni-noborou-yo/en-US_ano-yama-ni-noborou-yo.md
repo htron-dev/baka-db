@@ -1,5 +1,7 @@
 # Ano Yama ni Noborou yo
 
+![ano-yama-ni-noborou-yo](https://cdn.myanimelist.net/images/anime/1139/112476.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あの山に登ろうよ

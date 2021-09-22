@@ -1,5 +1,7 @@
 # Bara no Souretsu
 
+![bara-no-souretsu](https://cdn.myanimelist.net/images/manga/2/48907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

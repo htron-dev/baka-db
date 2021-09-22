@@ -1,5 +1,7 @@
 # Ryoute ni Darling
 
+![ryoute-ni-darling](https://cdn.myanimelist.net/images/manga/2/131595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

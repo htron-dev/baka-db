@@ -1,5 +1,7 @@
 # Chirico
 
+![chirico](https://cdn.myanimelist.net/images/anime/6/75035.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キリコ

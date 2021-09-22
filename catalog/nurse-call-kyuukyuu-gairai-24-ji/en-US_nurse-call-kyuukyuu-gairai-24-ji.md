@@ -1,5 +1,7 @@
 # Nurse Call: Kyuukyuu Gairai 24-ji
 
+![nurse-call-kyuukyuu-gairai-24-ji](https://cdn.myanimelist.net/images/manga/3/229480.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Kakumeiki Valvrave Anthology Comic
 
+![kakumeiki-valvrave-anthology-comic](https://cdn.myanimelist.net/images/manga/3/115187.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

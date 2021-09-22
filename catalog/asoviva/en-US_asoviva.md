@@ -1,5 +1,7 @@
 # Asoviva
 
+![asoviva](https://cdn.myanimelist.net/images/manga/1/42639.jpg)
+
 -   **type**: manga
 -   **original-name**: アソビバ
 

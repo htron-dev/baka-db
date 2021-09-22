@@ -1,5 +1,7 @@
 # Inou-Battle wa Nichijou-kei no Naka de
 
+![inou-battle-wa-nichijou-kei-no-naka-de](https://cdn.myanimelist.net/images/anime/8/67047.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 異能バトルは日常系のなかで

@@ -1,5 +1,7 @@
 # Terpsichore Dai-2-bu
 
+![terpsichore-dai-2-bu](https://cdn.myanimelist.net/images/manga/3/194330.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

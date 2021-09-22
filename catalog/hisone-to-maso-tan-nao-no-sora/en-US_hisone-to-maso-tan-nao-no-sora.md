@@ -1,5 +1,7 @@
 # Hisone to Maso-tan: Nao no Sora
 
+![hisone-to-maso-tan-nao-no-sora](https://cdn.myanimelist.net/images/manga/2/217444.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

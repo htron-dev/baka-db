@@ -1,5 +1,7 @@
 # Angel Wars
 
+![angel-wars](https://cdn.myanimelist.net/images/manga/2/4987.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

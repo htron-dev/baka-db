@@ -1,5 +1,7 @@
 # Usotsuki na Kusuriyubi
 
+![usotsuki-na-kusuriyubi](https://cdn.myanimelist.net/images/manga/1/229862.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 嘘つきな薬指

@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: SAC_2045 Movie
 
+![koukaku-kidoutai-sac-2045-movie](https://cdn.myanimelist.net/images/anime/1319/117579.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 攻殻機動隊 SAC_2045

@@ -1,5 +1,7 @@
 # Roots Search: Shokushin Buttai X
 
+![roots-search-shokushin-buttai-x](https://cdn.myanimelist.net/images/anime/1/2476.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ルーツ・サーチ 食心物体Ｘ

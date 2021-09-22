@@ -1,5 +1,7 @@
 # Ling Long: Incarnation Middle Chapter
 
+![ling-long-incarnation-middle-chapter](https://cdn.myanimelist.net/images/anime/1422/109518.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 灵笼:INCARNATION 中章

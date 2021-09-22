@@ -1,5 +1,7 @@
 # Eguchi Hisashi no Inu no Nikki, Kusai Hanashi, Sono Hoka no Tanpen
 
+![eguchi-hisashi-no-inu-no-nikki-kusai-hanashi-sono-hoka-no-tanpen](https://cdn.myanimelist.net/images/manga/2/105035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 江口寿史の犬の日記、くさいはなし、その他の短篇

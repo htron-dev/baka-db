@@ -1,5 +1,7 @@
 # Senretsu no Hekatonkheir
 
+![senretsu-no-hekatonkheir](https://cdn.myanimelist.net/images/manga/1/132353.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 閃烈の神なる御手〈ヘカトンケイル〉

@@ -1,5 +1,7 @@
 # Tamako Love Story
 
+![tamako-love-story](https://cdn.myanimelist.net/images/manga/1/124867.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: たまこラブストーリー

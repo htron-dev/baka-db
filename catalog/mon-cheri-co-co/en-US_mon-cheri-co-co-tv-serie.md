@@ -1,5 +1,7 @@
 # Mon Cheri CoCo
 
+![mon-cheri-co-co](https://cdn.myanimelist.net/images/anime/1852/109506.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: モンシェリ COCO

@@ -1,5 +1,7 @@
 # Koketsu Dining
 
+![koketsu-dining](https://cdn.myanimelist.net/images/manga/2/72035.jpg)
+
 -   **type**: manga
 -   **original-name**: 虎穴ダイニング
 -   **start-date**: 2011-08-22

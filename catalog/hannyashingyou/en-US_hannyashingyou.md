@@ -1,5 +1,7 @@
 # Hannyashingyou
 
+![hannyashingyou](https://cdn.myanimelist.net/images/anime/1584/97665.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 般若心経

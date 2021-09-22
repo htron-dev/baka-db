@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Senki U.C.0081: Suiten no Namida
 
+![kidou-senshi-gundam-senki-u-c-0081-suiten-no-namida](https://cdn.myanimelist.net/images/manga/1/37901.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

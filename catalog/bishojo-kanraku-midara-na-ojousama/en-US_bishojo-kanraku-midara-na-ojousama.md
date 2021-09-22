@@ -1,5 +1,7 @@
 # Bishojo Kanraku: Midara na Ojousama
 
+![bishojo-kanraku-midara-na-ojousama](https://cdn.myanimelist.net/images/manga/1/196022.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 美処女陥落　淫らなお嬢様

@@ -1,5 +1,7 @@
 # Momomomotto!
 
+![momomomotto](https://cdn.myanimelist.net/images/manga/1/222529.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

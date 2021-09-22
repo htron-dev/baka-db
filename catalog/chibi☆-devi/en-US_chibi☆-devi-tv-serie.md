@@ -1,5 +1,7 @@
 # Chibi☆Devi!
 
+![chibi☆-devi](https://cdn.myanimelist.net/images/anime/6/35927.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 75
 -   **original-name**: ちび ☆ デビ！

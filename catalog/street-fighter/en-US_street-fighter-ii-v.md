@@ -1,5 +1,7 @@
 # Street Fighter II V
 
+![street-fighter-ii-v](https://cdn.myanimelist.net/images/anime/6/29992.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 29
 -   **original-name**: ストリートファイター II V

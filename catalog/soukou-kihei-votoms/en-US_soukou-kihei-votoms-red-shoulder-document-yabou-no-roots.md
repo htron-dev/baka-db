@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots
 
+![soukou-kihei-votoms-red-shoulder-document-yabou-no-roots](https://cdn.myanimelist.net/images/anime/5/24535.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 装甲騎兵ボトムズ　レッドショルダードキュメント野望のルーツ

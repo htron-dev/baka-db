@@ -1,5 +1,7 @@
 # Trinity Seven
 
+![trinity-seven](https://cdn.myanimelist.net/images/anime/12/67795.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: トリニティセブン

@@ -1,5 +1,7 @@
 # Kokubu Shunin wa Amakunai
 
+![kokubu-shunin-wa-amakunai](https://cdn.myanimelist.net/images/manga/3/161772.jpg)
+
 -   **type**: manga
 -   **original-name**: 国分主任は甘くない
 -   **start-date**: 2014-07-31

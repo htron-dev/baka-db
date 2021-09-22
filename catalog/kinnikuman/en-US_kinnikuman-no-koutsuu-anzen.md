@@ -1,5 +1,7 @@
 # Kinnikuman no Koutsuu Anzen
 
+![kinnikuman-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1535/99146.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キン肉マンの交通安全

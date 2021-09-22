@@ -1,5 +1,7 @@
 # Kirin
 
+![kirin](https://cdn.myanimelist.net/images/manga/3/155647.jpg)
+
 -   **type**: manga
 -   **volumes**: 39
 -   **original-name**: キリン

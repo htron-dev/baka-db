@@ -1,5 +1,7 @@
 # Abigaile no Kemono-tachi
 
+![abigaile-no-kemono-tachi](https://cdn.myanimelist.net/images/manga/3/179212.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

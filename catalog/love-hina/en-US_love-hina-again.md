@@ -1,5 +1,7 @@
 # Love Hina Again
 
+![love-hina-again](https://cdn.myanimelist.net/images/anime/3/10289.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ラブ ひな Again

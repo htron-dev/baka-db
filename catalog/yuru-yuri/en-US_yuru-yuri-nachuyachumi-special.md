@@ -1,5 +1,7 @@
 # Yuru Yuri Nachuyachumi!+
 
+![yuru-yuri-nachuyachumi](https://cdn.myanimelist.net/images/anime/2/75992.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ゆるゆり なちゅやちゅみ！＋

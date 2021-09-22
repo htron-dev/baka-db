@@ -1,5 +1,7 @@
 # Heart no Ousama
 
+![heart-no-ousama](https://cdn.myanimelist.net/images/manga/5/149137.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

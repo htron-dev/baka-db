@@ -1,5 +1,7 @@
 # Koyoi, Kimi wo Omou.
 
+![koyoi-kimi-wo-omou](https://cdn.myanimelist.net/images/manga/2/72405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Steins;Gate: Heiji Kyokusen no Epigraph
 
+![steins-gate-heiji-kyokusen-no-epigraph](https://cdn.myanimelist.net/images/manga/1/121181.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

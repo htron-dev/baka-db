@@ -1,5 +1,7 @@
 # Otoko Yamome mo Hana wa Saku
 
+![otoko-yamome-mo-hana-wa-saku](https://cdn.myanimelist.net/images/manga/1/227608.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

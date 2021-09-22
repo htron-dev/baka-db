@@ -1,5 +1,7 @@
 # Platinum End
 
+![platinum-end](https://cdn.myanimelist.net/images/manga/1/172090.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 58

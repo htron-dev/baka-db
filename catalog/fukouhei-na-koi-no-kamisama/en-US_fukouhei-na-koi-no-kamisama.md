@@ -1,5 +1,7 @@
 # Fukouhei na Koi no Kamisama
 
+![fukouhei-na-koi-no-kamisama](https://cdn.myanimelist.net/images/manga/2/247259.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 不公平な恋の神様

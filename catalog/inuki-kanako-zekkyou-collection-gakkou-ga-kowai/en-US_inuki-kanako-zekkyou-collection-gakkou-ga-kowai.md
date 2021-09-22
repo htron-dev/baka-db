@@ -1,5 +1,7 @@
 # Inuki Kanako Zekkyou Collection: Gakkou ga Kowai!
 
+![inuki-kanako-zekkyou-collection-gakkou-ga-kowai](https://cdn.myanimelist.net/images/anime/1254/112156.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 犬木加奈子絶叫コレクション 学校がこわい!

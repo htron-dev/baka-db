@@ -1,5 +1,7 @@
 # Princess to Kekkon
 
+![princess-to-kekkon](https://cdn.myanimelist.net/images/manga/1/46965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1
@@ -23,13 +25,6 @@
 King Edenbourg's traffic accident turns out to be an abduction. Under orders from Princess Isabel, lady-in-waiting Rowena investigates the king's disappearance by playing nanny to a son of the primary suspect, Jake Stanbury. While living with Jake, Rowena finds out he is a man of faith. She begins to be attracted to him as she becomes convinced of his innocence. However...
 
 (Source: Shojo-Manhwa Scans)
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/28194/Princess_to_Kekkon)
-    e woman!
-
-(Source: Digital Manga Publishing)
 
 ## Links
 

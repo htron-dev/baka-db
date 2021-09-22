@@ -1,5 +1,7 @@
 # Piano-hime wa Mitsuyo ni Aegu: Koushaku to Kawareta Hanayome
 
+![piano-hime-wa-mitsuyo-ni-aegu-koushaku-to-kawareta-hanayome](https://cdn.myanimelist.net/images/manga/3/153358.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ピアノ姫は蜜夜に喘ぐ～公爵と買われた花嫁～

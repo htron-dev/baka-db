@@ -1,5 +1,7 @@
 # Mahou Zakkaten Vi Via
 
+![mahou-zakkaten-vi-via](https://cdn.myanimelist.net/images/manga/2/112089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

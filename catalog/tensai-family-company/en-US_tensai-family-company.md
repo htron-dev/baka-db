@@ -1,5 +1,7 @@
 # Tensai Family Company
 
+![tensai-family-company](https://cdn.myanimelist.net/images/manga/2/7709.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 64

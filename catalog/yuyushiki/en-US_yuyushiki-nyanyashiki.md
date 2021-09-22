@@ -1,5 +1,7 @@
 # Yuyushiki: Nyanyashiki
 
+![yuyushiki-nyanyashiki](https://cdn.myanimelist.net/images/anime/6/51019.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ゆゆ式　にゃにゃ式

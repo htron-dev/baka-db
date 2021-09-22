@@ -1,5 +1,7 @@
 # Umi Monogatari: Marin no Kore Naani?
 
+![umi-monogatari-marin-no-kore-naani](https://cdn.myanimelist.net/images/anime/12/47909.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: うみものがたり マリンのこれなぁに？

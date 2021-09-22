@@ -1,5 +1,7 @@
 # Chibikuro Sambo to Futago no Otouto
 
+![chibikuro-sambo-to-futago-no-otouto](https://cdn.myanimelist.net/images/anime/5/71843.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちびくろさんぼとふたごのおとうと

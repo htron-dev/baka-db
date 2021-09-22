@@ -1,5 +1,7 @@
 # Musume. Monogatari: ALIVE!
 
+![musume-monogatari-alive](https://cdn.myanimelist.net/images/manga/3/105503.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 娘。物語 ALIVE!

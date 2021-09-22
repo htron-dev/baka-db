@@ -1,5 +1,7 @@
 # Xiao Taiji
 
+![xiao-taiji](https://cdn.myanimelist.net/images/anime/7/76388.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: 小太極
@@ -9,7 +11,6 @@
 ## Tags
 
 -   action
-
 -   martial-arts
 
 ## Sinopse

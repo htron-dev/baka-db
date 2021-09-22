@@ -1,5 +1,7 @@
 # Aitsu ni Koishita 4-ttsu no Wake
 
+![aitsu-ni-koishita-4-ttsu-no-wake](https://cdn.myanimelist.net/images/manga/3/119595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

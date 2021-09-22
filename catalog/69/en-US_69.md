@@ -1,5 +1,7 @@
 # 69
 
+![69](https://cdn.myanimelist.net/images/manga/3/84237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

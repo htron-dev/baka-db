@@ -1,5 +1,7 @@
 # Koi Nanka Hajimaranai
 
+![koi-nanka-hajimaranai](https://cdn.myanimelist.net/images/manga/1/164444.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

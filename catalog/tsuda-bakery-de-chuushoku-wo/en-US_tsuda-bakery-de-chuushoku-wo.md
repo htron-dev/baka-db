@@ -1,5 +1,7 @@
 # Tsuda Bakery de Chuushoku wo
 
+![tsuda-bakery-de-chuushoku-wo](https://cdn.myanimelist.net/images/manga/3/144275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

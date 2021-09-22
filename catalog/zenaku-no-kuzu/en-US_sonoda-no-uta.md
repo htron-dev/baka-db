@@ -1,5 +1,7 @@
 # Sonoda no Uta
 
+![sonoda-no-uta](https://cdn.myanimelist.net/images/manga/3/234747.jpg)
+
 -   **type**: manga
 -   **original-name**: 園田の歌
 -   **start-date**: 2018-03-19

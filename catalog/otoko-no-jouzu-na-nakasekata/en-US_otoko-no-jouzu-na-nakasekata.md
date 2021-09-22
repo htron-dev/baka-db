@@ -1,5 +1,7 @@
 # Otoko no Jouzu na Nakasekata
 
+![otoko-no-jouzu-na-nakasekata](https://cdn.myanimelist.net/images/manga/3/62393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Riajuu Meimon Daigakusei ga Watashi ni Itto ni Narimashita.
 
+![riajuu-meimon-daigakusei-ga-watashi-ni-itto-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/192559.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

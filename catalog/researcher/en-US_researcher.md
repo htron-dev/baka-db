@@ -1,5 +1,7 @@
 # Researcher
 
+![researcher](https://cdn.myanimelist.net/images/manga/3/19217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: リサーチャー

@@ -1,5 +1,7 @@
 # Yuukyuu Tenboudai no Kai
 
+![yuukyuu-tenboudai-no-kai](https://cdn.myanimelist.net/images/manga/3/163049.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

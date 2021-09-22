@@ -1,5 +1,7 @@
 # Koisuru Ikimono
 
+![koisuru-ikimono](https://cdn.myanimelist.net/images/manga/1/152415.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

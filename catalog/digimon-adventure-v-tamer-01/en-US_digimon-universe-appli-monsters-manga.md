@@ -1,5 +1,7 @@
 # Digimon Universe: Appli Monsters
 
+![digimon-universe-appli-monsters](https://cdn.myanimelist.net/images/manga/1/195685.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12
@@ -10,7 +12,6 @@
 ## Tags
 
 -   fantasy
-
 -   sci-fi
 -   shounen
 

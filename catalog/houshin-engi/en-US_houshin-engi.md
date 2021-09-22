@@ -1,5 +1,7 @@
 # Houshin Engi
 
+![houshin-engi](https://cdn.myanimelist.net/images/manga/2/176572.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

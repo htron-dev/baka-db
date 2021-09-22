@@ -1,5 +1,7 @@
 # Osaerarenai!
 
+![osaerarenai](https://cdn.myanimelist.net/images/manga/3/12006.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

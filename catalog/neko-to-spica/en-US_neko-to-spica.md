@@ -1,5 +1,7 @@
 # Neko to Spica
 
+![neko-to-spica](https://cdn.myanimelist.net/images/manga/1/222061.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫とスピカ
 -   **start-date**: 2017-03-31

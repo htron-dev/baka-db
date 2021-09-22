@@ -1,5 +1,7 @@
 # Kimi to Kamihikooki to.
 
+![kimi-to-kamihikooki-to](https://cdn.myanimelist.net/images/manga/2/107453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

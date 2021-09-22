@@ -1,5 +1,7 @@
 # GeGeGe no Kitarou
 
+![ge-ge-ge-no-kitarou](https://cdn.myanimelist.net/images/manga/1/208994.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 117

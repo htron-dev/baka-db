@@ -1,5 +1,7 @@
 # Down Load: Namu Amida Butsu wa Ai no Uta
 
+![down-load-namu-amida-butsu-wa-ai-no-uta](https://cdn.myanimelist.net/images/anime/11/27128.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: DOWN LOAD 南無阿弥陀仏は愛の詩

@@ -1,5 +1,7 @@
 # Pia♥kyarotto e Youkoso
 
+![pia♥kyarotto-e-youkoso](https://cdn.myanimelist.net/images/manga/3/28000.jpg)
+
 -   **type**: manga
 
 ## Tags

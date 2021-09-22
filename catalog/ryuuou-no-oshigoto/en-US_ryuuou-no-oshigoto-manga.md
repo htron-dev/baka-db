@@ -1,5 +1,7 @@
 # Ryuuou no Oshigoto!
 
+![ryuuou-no-oshigoto](https://cdn.myanimelist.net/images/manga/2/170997.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 83

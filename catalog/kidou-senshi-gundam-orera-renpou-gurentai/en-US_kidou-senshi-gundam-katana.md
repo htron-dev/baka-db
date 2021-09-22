@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Katana
 
+![kidou-senshi-gundam-katana](https://cdn.myanimelist.net/images/manga/1/147347.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 39

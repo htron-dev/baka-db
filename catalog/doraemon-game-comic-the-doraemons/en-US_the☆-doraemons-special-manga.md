@@ -1,5 +1,7 @@
 # The☆Doraemons Special
 
+![the☆-doraemons-special](https://cdn.myanimelist.net/images/manga/3/131861.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: ザ ☆ ドラえもんズスペシャル

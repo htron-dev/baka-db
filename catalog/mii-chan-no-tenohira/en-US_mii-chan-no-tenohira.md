@@ -1,5 +1,7 @@
 # Mii-chan no Tenohira
 
+![mii-chan-no-tenohira](https://cdn.myanimelist.net/images/anime/7/66783.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: みいちゃんのてのひら

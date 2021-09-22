@@ -1,5 +1,7 @@
 # Altruist
 
+![altruist](https://cdn.myanimelist.net/images/manga/3/221824.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

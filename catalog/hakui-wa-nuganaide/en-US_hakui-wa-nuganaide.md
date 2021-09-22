@@ -1,5 +1,7 @@
 # Hakui wa Nuganaide!
 
+![hakui-wa-nuganaide](https://cdn.myanimelist.net/images/manga/3/88259.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

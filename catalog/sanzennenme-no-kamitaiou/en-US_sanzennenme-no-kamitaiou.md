@@ -1,5 +1,7 @@
 # Sanzennenme no Kamitaiou
 
+![sanzennenme-no-kamitaiou](https://cdn.myanimelist.net/images/manga/1/245788.jpg)
+
 -   **type**: manga
 -   **original-name**: 三千年目の神対応
 -   **start-date**: 2020-12-21

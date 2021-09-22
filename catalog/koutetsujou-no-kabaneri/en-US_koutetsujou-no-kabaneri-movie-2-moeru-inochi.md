@@ -1,5 +1,7 @@
 # Koutetsujou no Kabaneri Movie 2: Moeru Inochi
 
+![koutetsujou-no-kabaneri-movie-2-moeru-inochi](https://cdn.myanimelist.net/images/anime/12/82963.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 甲鉄城のカバネリ 総集編｛後編｝燃える命

@@ -1,5 +1,7 @@
 # Enen no Shouboutai
 
+![enen-no-shouboutai](https://cdn.myanimelist.net/images/anime/1664/103275.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 炎炎ノ消防隊

@@ -1,5 +1,7 @@
 # Konyakusha wa, Watashi no Imouto ni Koi wo Suru
 
+![konyakusha-wa-watashi-no-imouto-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/2/243842.jpg)
+
 -   **type**: manga
 -   **original-name**: 婚約者は、私の妹に恋をする
 -   **start-date**: 2020-05-05

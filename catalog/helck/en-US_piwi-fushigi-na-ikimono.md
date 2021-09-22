@@ -1,5 +1,7 @@
 # Piwi: Fushigi na Ikimono
 
+![piwi-fushigi-na-ikimono](https://cdn.myanimelist.net/images/manga/1/213170.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

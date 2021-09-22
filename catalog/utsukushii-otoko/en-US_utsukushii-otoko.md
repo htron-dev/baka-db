@@ -1,5 +1,7 @@
 # Utsukushii Otoko
 
+![utsukushii-otoko](https://cdn.myanimelist.net/images/manga/3/26521.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

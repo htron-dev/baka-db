@@ -1,5 +1,7 @@
 # Tanabata Pentagon wa Koi ni Mukanai
 
+![tanabata-pentagon-wa-koi-ni-mukanai](https://cdn.myanimelist.net/images/manga/1/179149.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Saihate no Diasta
 
+![saihate-no-diasta](https://cdn.myanimelist.net/images/manga/1/190122.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

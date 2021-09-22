@@ -1,5 +1,7 @@
 # Sayu x Lily
 
+![sayu-x-lily](https://cdn.myanimelist.net/images/manga/2/154737.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

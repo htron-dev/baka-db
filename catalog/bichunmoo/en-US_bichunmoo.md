@@ -1,5 +1,7 @@
 # Bichunmoo
 
+![bichunmoo](https://cdn.myanimelist.net/images/manga/2/30459.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 11

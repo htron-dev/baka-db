@@ -1,5 +1,7 @@
 # Aru Hi, Burikko Akuyaku Reijou ni Narimashite.
 
+![aru-hi-burikko-akuyaku-reijou-ni-narimashite](https://cdn.myanimelist.net/images/manga/3/239475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Deimos no Hanayome
 
+![deimos-no-hanayome](https://cdn.myanimelist.net/images/manga/3/158105.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 102

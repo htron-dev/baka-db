@@ -1,5 +1,7 @@
 # Biyaku Iri no Cappuccino
 
+![biyaku-iri-no-cappuccino](https://cdn.myanimelist.net/images/manga/1/109561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

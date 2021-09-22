@@ -1,5 +1,7 @@
 # Sotsugyou M
 
+![sotsugyou-m](https://cdn.myanimelist.net/images/manga/2/10126.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 卒業 M

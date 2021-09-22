@@ -1,5 +1,7 @@
 # Orange Days
 
+![orange-days](https://cdn.myanimelist.net/images/manga/1/72569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

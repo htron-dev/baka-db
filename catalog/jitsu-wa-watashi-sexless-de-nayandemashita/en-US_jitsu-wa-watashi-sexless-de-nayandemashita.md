@@ -1,5 +1,7 @@
 # Jitsu wa Watashi Sexless de Nayandemashita
 
+![jitsu-wa-watashi-sexless-de-nayandemashita](https://cdn.myanimelist.net/images/manga/3/220822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

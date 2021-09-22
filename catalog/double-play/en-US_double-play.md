@@ -1,5 +1,7 @@
 # Double Play
 
+![double-play](https://cdn.myanimelist.net/images/manga/1/241397.jpg)
+
 -   **type**: manga
 -   **original-name**: だぶるぷれい
 -   **start-date**: 2020-02-10

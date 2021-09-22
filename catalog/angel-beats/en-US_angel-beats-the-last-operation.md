@@ -1,5 +1,7 @@
 # Angel Beats!: The Last Operation
 
+![angel-beats-the-last-operation](https://cdn.myanimelist.net/images/manga/1/206104.jpg)
+
 -   **type**: manga
 -   **original-name**: Angel Beats! -The Last Operation-
 -   **start-date**: 2017-08-30

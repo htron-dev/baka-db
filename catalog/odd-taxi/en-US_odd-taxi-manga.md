@@ -1,5 +1,7 @@
 # Odd Taxi
 
+![odd-taxi](https://cdn.myanimelist.net/images/manga/1/244007.jpg)
+
 -   **type**: manga
 -   **original-name**: オッドタクシー
 -   **start-date**: 2021-01-15

@@ -1,5 +1,7 @@
 # Yoninsei Shimai Yurimonochou
 
+![yoninsei-shimai-yurimonochou](https://cdn.myanimelist.net/images/manga/1/155526.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Arve Rezzle: Kikaijikake no Yousei-tachi
 
+![arve-rezzle-kikaijikake-no-yousei-tachi](https://cdn.myanimelist.net/images/manga/3/142469.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kirakira Soda Chocolate
 
+![kirakira-soda-chocolate](https://cdn.myanimelist.net/images/manga/3/134607.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: キラキラ・ソーダ・チョコレート

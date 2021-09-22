@@ -1,5 +1,7 @@
 # Kamunabi: Imibe Kana - Onna no Shinwa Series
 
+![kamunabi-imibe-kana-onna-no-shinwa-series](https://cdn.myanimelist.net/images/manga/2/41439.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

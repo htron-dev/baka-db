@@ -1,5 +1,7 @@
 # Birthday
 
+![birthday](https://cdn.myanimelist.net/images/anime/1780/98524.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Birthday

@@ -1,5 +1,7 @@
 # Rikujou Bouei-tai Mao-chan
 
+![rikujou-bouei-tai-mao-chan](https://cdn.myanimelist.net/images/manga/3/163355.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

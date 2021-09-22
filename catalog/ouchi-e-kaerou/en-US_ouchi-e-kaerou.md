@@ -1,5 +1,7 @@
 # Ouchi e Kaerou
 
+![ouchi-e-kaerou](https://cdn.myanimelist.net/images/manga/5/40577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

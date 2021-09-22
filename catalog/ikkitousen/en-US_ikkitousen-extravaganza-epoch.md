@@ -1,5 +1,7 @@
 # Ikkitousen: Extravaganza Epoch
 
+![ikkitousen-extravaganza-epoch](https://cdn.myanimelist.net/images/anime/2/70993.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 一騎当千 Extravaganza Epoch

@@ -1,5 +1,7 @@
 # Ashita no 3600-byou
 
+![ashita-no-3600-byou](https://cdn.myanimelist.net/images/manga/1/164937.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

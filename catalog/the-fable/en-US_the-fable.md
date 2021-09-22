@@ -1,5 +1,7 @@
 # The Fable
 
+![the-fable](https://cdn.myanimelist.net/images/manga/2/152911.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 240

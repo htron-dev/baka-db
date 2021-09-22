@@ -1,5 +1,7 @@
 # Versailles no Bara
 
+![versailles-no-bara](https://cdn.myanimelist.net/images/anime/9/57043.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: ベルサイユのばら

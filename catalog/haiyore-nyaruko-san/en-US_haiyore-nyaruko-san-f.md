@@ -1,5 +1,7 @@
 # Haiyore! Nyaruko-san F
 
+![haiyore-nyaruko-san-f](https://cdn.myanimelist.net/images/anime/7/73735.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 這いよれ！ニャル子さん F

@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Pair Prince
 
+![tennis-no-ouji-sama-pair-prince](https://cdn.myanimelist.net/images/anime/3/30020.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: テニスの王子様- ペアプリ DVD

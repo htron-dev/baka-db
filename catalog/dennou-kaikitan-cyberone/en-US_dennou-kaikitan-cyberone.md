@@ -1,5 +1,7 @@
 # Dennou Kaikitan Cyberone
 
+![dennou-kaikitan-cyberone](https://cdn.myanimelist.net/images/manga/1/151366.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 電脳怪奇譚サイバーワン

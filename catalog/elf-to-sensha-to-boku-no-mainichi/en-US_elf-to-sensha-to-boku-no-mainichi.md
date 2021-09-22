@@ -1,5 +1,7 @@
 # Elf to Sensha to Boku no Mainichi
 
+![elf-to-sensha-to-boku-no-mainichi](https://cdn.myanimelist.net/images/manga/2/195597.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: エルフと戦車と僕の毎日

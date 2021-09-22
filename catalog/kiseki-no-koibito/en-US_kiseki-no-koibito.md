@@ -1,5 +1,7 @@
 # Kiseki no Koibito
 
+![kiseki-no-koibito](https://cdn.myanimelist.net/images/manga/1/9751.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

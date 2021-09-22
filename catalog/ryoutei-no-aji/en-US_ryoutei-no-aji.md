@@ -1,5 +1,7 @@
 # Ryoutei no Aji
 
+![ryoutei-no-aji](https://cdn.myanimelist.net/images/anime/12/72084.jpg)
+
 -   **type**: special
 -   **original-name**: 料亭の味
 -   **start-date**: 2014-03-28

@@ -1,5 +1,7 @@
 # Tamatama Otome♥: Shounen ga Shoujo ni Naru Toki
 
+![tamatama-otome♥-shounen-ga-shoujo-ni-naru-toki](https://cdn.myanimelist.net/images/manga/3/88865.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

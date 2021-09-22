@@ -1,5 +1,7 @@
 # Hanbun no Tsuki to Odorou
 
+![hanbun-no-tsuki-to-odorou](https://cdn.myanimelist.net/images/manga/2/126373.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 半分の月と踊ろう

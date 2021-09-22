@@ -1,5 +1,7 @@
 # Surikawatta Koi
 
+![surikawatta-koi](https://cdn.myanimelist.net/images/manga/3/229508.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

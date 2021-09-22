@@ -1,5 +1,7 @@
 # Ryuuseiki Gakusaver
 
+![ryuuseiki-gakusaver](https://cdn.myanimelist.net/images/anime/1625/97695.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 流星機ガクセイバー

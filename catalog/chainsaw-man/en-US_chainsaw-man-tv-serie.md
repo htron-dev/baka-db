@@ -1,5 +1,7 @@
 # Chainsaw Man
 
+![chainsaw-man](https://cdn.myanimelist.net/images/anime/1632/110707.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: チェンソーマン
 -   **rating**: None

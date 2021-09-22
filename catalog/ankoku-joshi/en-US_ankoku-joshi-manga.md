@@ -1,5 +1,7 @@
 # Ankoku Joshi
 
+![ankoku-joshi](https://cdn.myanimelist.net/images/manga/2/189243.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

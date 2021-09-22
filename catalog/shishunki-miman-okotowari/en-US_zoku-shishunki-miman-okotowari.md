@@ -1,5 +1,7 @@
 # Zoku Shishunki Miman Okotowari
 
+![zoku-shishunki-miman-okotowari](https://cdn.myanimelist.net/images/manga/1/199144.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

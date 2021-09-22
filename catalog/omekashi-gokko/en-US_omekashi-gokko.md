@@ -1,5 +1,7 @@
 # Omekashi-gokko
 
+![omekashi-gokko](https://cdn.myanimelist.net/images/manga/1/186539.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: おめかしごっこ

@@ -1,5 +1,7 @@
 # Jin Ping Mei Kiden: Honoo no Kuchizuke
 
+![jin-ping-mei-kiden-honoo-no-kuchizuke](https://cdn.myanimelist.net/images/manga/3/147583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

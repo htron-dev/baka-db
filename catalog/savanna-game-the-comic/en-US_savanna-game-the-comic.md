@@ -1,5 +1,7 @@
 # Savanna Game: The Comic
 
+![savanna-game-the-comic](https://cdn.myanimelist.net/images/manga/3/166846.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 86

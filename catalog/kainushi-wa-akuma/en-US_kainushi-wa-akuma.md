@@ -1,5 +1,7 @@
 # Kainushi wa Akuma
 
+![kainushi-wa-akuma](https://cdn.myanimelist.net/images/manga/1/192567.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 31

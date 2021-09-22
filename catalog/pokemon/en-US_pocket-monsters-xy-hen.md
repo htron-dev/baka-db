@@ -1,5 +1,7 @@
 # Pocket Monsters XY-hen
 
+![pocket-monsters-xy-hen](https://cdn.myanimelist.net/images/manga/2/142851.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 58

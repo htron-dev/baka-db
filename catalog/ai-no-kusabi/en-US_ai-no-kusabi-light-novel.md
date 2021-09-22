@@ -1,5 +1,7 @@
 # Ai no Kusabi
 
+![ai-no-kusabi](https://cdn.myanimelist.net/images/manga/1/31609.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 37

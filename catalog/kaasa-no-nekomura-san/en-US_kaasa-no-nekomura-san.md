@@ -1,5 +1,7 @@
 # Kaasa no Nekomura-san
 
+![kaasa-no-nekomura-san](https://cdn.myanimelist.net/images/manga/3/61773.jpg)
+
 -   **type**: manga
 -   **original-name**: カーサの猫村さん
 

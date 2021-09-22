@@ -1,5 +1,7 @@
 # Chi's Sweet Home: Atarashii Ouchi
 
+![chis-sweet-home-atarashii-ouchi](https://cdn.myanimelist.net/images/anime/9/14095.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: チーズスイートホーム あたらしいおうち
@@ -12,7 +14,6 @@
 ## Tags
 
 -   comedy
-
 -   slice-of-life
 
 ## Sinopse

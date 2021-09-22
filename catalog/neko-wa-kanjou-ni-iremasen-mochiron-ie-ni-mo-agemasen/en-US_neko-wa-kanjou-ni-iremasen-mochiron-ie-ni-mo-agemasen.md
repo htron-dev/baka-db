@@ -1,5 +1,7 @@
 # Neko wa Kanjou ni Iremasen, Mochiron Ie ni mo Agemasen
 
+![neko-wa-kanjou-ni-iremasen-mochiron-ie-ni-mo-agemasen](https://cdn.myanimelist.net/images/manga/1/129085.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 猫は勘定にいれません、もちろん家にもあげません

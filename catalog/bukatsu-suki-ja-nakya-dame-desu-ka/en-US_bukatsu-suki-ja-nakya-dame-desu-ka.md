@@ -1,5 +1,7 @@
 # Bukatsu, Suki ja Nakya Dame desu ka?
 
+![bukatsu-suki-ja-nakya-dame-desu-ka](https://cdn.myanimelist.net/images/manga/2/211524.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

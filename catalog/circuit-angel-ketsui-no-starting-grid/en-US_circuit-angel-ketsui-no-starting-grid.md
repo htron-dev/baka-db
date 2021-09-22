@@ -1,5 +1,7 @@
 # Circuit Angel: Ketsui no Starting Grid
 
+![circuit-angel-ketsui-no-starting-grid](https://cdn.myanimelist.net/images/anime/12/24676.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サーキットエンジェル　決意のスターティング・グリッド

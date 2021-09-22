@@ -1,5 +1,7 @@
 # Akuzetsu no Morpho
 
+![akuzetsu-no-morpho](https://cdn.myanimelist.net/images/manga/3/205374.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪舌のモルフォ
 -   **start-date**: 2017-06-26

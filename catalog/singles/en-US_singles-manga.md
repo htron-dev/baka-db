@@ -1,5 +1,7 @@
 # Singles
 
+![singles](https://cdn.myanimelist.net/images/manga/2/152214.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

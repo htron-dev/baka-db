@@ -1,5 +1,7 @@
 # Okaasan wa Keiji
 
+![okaasan-wa-keiji](https://cdn.myanimelist.net/images/manga/1/181460.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: おかあさんは刑事

@@ -1,5 +1,7 @@
 # Danball Senki Wars: All Star Battle
 
+![danball-senki-wars-all-star-battle](https://cdn.myanimelist.net/images/anime/13/85520.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ダンボール戦機ウォーズ スペシャルアニメ
@@ -9,7 +11,6 @@
 ## Tags
 
 -   action
-
 -   mecha
 -   school
 

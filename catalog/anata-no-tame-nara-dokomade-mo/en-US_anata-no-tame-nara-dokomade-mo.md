@@ -1,5 +1,7 @@
 # Anata no Tame Nara Dokomade mo
 
+![anata-no-tame-nara-dokomade-mo](https://cdn.myanimelist.net/images/manga/2/28921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

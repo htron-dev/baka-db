@@ -1,5 +1,7 @@
 # Hoppe ni Chuuboo!
 
+![hoppe-ni-chuuboo](https://cdn.myanimelist.net/images/manga/2/92641.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ほっぺにチューボー!

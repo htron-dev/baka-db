@@ -1,5 +1,7 @@
 # Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren
 
+![boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren](https://cdn.myanimelist.net/images/anime/1345/108741.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練

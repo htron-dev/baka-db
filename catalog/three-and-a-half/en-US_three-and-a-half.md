@@ -1,5 +1,7 @@
 # Three and a Half
 
+![three-and-a-half](https://cdn.myanimelist.net/images/manga/2/2189.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

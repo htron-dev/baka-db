@@ -1,5 +1,7 @@
 # Miracle Dieter Miyuki
 
+![miracle-dieter-miyuki](https://cdn.myanimelist.net/images/manga/1/17386.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

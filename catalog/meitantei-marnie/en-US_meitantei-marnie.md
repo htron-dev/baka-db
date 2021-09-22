@@ -1,5 +1,7 @@
 # Meitantei Marnie
 
+![meitantei-marnie](https://cdn.myanimelist.net/images/manga/1/121299.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 99

@@ -1,5 +1,7 @@
 # Ikkyuu Tensai no Kiwamete Fuhoni na Meisuiri
 
+![ikkyuu-tensai-no-kiwamete-fuhoni-na-meisuiri](https://cdn.myanimelist.net/images/manga/3/195198.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Dejiko no Champion Cup Gekijou
 
+![dejiko-no-champion-cup-gekijou](https://cdn.myanimelist.net/images/manga/2/244140.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

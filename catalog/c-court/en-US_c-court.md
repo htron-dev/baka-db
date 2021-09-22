@@ -1,5 +1,7 @@
 # C Court
 
+![c-court](https://cdn.myanimelist.net/images/manga/2/166514.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

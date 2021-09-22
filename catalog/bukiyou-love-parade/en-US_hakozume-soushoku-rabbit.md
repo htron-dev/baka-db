@@ -1,5 +1,7 @@
 # Hakozume Soushoku Rabbit
 
+![hakozume-soushoku-rabbit](https://cdn.myanimelist.net/images/manga/1/171389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

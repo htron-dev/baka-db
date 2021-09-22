@@ -1,5 +1,7 @@
 # Miyamoto Sakura ga Kawaii dake no Shousetsu no Manga.
 
+![miyamoto-sakura-ga-kawaii-dake-no-shousetsu-no-manga](https://cdn.myanimelist.net/images/manga/1/243909.jpg)
+
 -   **type**: manga
 -   **original-name**: 宮本サクラが可愛いだけの小説の漫画。
 -   **start-date**: 2020-01-17

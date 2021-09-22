@@ -1,5 +1,7 @@
 # Buzzer Beater
 
+![buzzer-beater](https://cdn.myanimelist.net/images/anime/6/57421.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: BUZZER BEATER

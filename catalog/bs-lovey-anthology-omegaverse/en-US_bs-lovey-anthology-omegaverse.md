@@ -1,5 +1,7 @@
 # B's-LOVEY Anthology: Omegaverse
 
+![bs-lovey-anthology-omegaverse](https://cdn.myanimelist.net/images/manga/3/239371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

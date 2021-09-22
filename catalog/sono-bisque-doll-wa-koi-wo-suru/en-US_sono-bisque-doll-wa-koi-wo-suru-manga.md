@@ -1,5 +1,7 @@
 # Sono Bisque Doll wa Koi wo Suru
 
+![sono-bisque-doll-wa-koi-wo-suru](https://cdn.myanimelist.net/images/manga/2/215054.jpg)
+
 -   **type**: manga
 -   **original-name**: その着せ替え人形〈ビスク・ドール〉は恋をする
 -   **start-date**: 2018-01-19

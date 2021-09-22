@@ -1,5 +1,7 @@
 # Futagashira
 
+![futagashira](https://cdn.myanimelist.net/images/manga/1/60207.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 54

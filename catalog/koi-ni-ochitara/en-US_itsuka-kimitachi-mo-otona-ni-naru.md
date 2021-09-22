@@ -1,5 +1,7 @@
 # Itsuka Kimitachi mo Otona ni Naru
 
+![itsuka-kimitachi-mo-otona-ni-naru](https://cdn.myanimelist.net/images/manga/1/97433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

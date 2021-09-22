@@ -1,5 +1,7 @@
 # Okane ga Nai
 
+![okane-ga-nai](https://cdn.myanimelist.net/images/manga/2/145339.jpg)
+
 -   **type**: manga
 -   **original-name**: お金がないっ
 -   **start-date**: 2002-03-26

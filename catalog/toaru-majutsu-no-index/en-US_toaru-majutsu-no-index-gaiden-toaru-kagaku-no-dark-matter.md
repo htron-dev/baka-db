@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index Gaiden: Toaru Kagaku no Dark Matter
 
+![toaru-majutsu-no-index-gaiden-toaru-kagaku-no-dark-matter](https://cdn.myanimelist.net/images/manga/3/235297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

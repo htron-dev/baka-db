@@ -1,5 +1,7 @@
 # Futarigurashi
 
+![futarigurashi](https://cdn.myanimelist.net/images/anime/9/24195.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: ふたり暮らし

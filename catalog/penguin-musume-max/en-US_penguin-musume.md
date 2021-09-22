@@ -1,5 +1,7 @@
 # Penguin Musume
 
+![penguin-musume](https://cdn.myanimelist.net/images/manga/1/3837.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 72

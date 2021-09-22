@@ -1,5 +1,7 @@
 # Rasen no Shinai
 
+![rasen-no-shinai](https://cdn.myanimelist.net/images/manga/3/194978.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

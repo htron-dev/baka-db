@@ -1,5 +1,7 @@
 # Dirty Pair Flash DX: Key & Yuri
 
+![dirty-pair-flash-dx-key-yuri](https://cdn.myanimelist.net/images/manga/3/32019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

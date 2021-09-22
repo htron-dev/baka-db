@@ -1,5 +1,7 @@
 # Kyle's Final Fantasy
 
+![kyles-final-fantasy](https://cdn.myanimelist.net/images/manga/2/31245.jpg)
+
 -   **type**: manhwa
 
 ## Tags

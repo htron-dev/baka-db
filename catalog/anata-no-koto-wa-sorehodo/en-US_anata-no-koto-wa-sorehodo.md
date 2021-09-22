@@ -1,5 +1,7 @@
 # Anata no Koto wa Sorehodo
 
+![anata-no-koto-wa-sorehodo](https://cdn.myanimelist.net/images/manga/2/204322.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

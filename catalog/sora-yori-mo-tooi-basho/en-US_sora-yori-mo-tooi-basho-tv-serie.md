@@ -1,5 +1,7 @@
 # Sora yori mo Tooi Basho
 
+![sora-yori-mo-tooi-basho](https://cdn.myanimelist.net/images/anime/6/89879.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 宇宙よりも遠い場所

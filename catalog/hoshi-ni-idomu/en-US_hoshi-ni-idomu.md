@@ -1,5 +1,7 @@
 # Hoshi ni Idomu
 
+![hoshi-ni-idomu](https://cdn.myanimelist.net/images/manga/3/149371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

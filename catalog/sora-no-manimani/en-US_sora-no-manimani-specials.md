@@ -1,5 +1,7 @@
 # Sora no Manimani Specials
 
+![sora-no-manimani-specials](https://cdn.myanimelist.net/images/anime/13/22483.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 宙のまにまに

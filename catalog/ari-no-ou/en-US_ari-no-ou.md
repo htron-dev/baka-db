@@ -1,5 +1,7 @@
 # Ari no Ou
 
+![ari-no-ou](https://cdn.myanimelist.net/images/manga/3/182271.jpg)
+
 -   **type**: manga
 -   **original-name**: 蟻の王
 -   **start-date**: 2015-05-02

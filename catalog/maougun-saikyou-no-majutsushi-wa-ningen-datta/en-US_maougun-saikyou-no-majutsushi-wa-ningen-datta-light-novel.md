@@ -1,5 +1,7 @@
 # Maougun Saikyou no Majutsushi wa Ningen datta
 
+![maougun-saikyou-no-majutsushi-wa-ningen-datta](https://cdn.myanimelist.net/images/manga/3/183724.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔王軍最強の魔術師は人間だった
 -   **start-date**: 2016-09-30

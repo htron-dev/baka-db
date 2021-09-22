@@ -1,5 +1,7 @@
 # Neko no Dayan: Nihon e Iku
 
+![neko-no-dayan-nihon-e-iku](https://cdn.myanimelist.net/images/anime/2/76100.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 猫のダヤン　日本へ行く

@@ -1,5 +1,7 @@
 # Karin
 
+![karin](https://cdn.myanimelist.net/images/manga/2/181516.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 63

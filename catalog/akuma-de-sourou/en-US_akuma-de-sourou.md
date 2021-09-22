@@ -1,5 +1,7 @@
 # Akuma de Sourou
 
+![akuma-de-sourou](https://cdn.myanimelist.net/images/manga/3/5241.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 42

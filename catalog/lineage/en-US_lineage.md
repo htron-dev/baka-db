@@ -1,5 +1,7 @@
 # Lineage
 
+![lineage](https://cdn.myanimelist.net/images/manga/2/21103.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 리니지

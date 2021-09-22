@@ -1,5 +1,7 @@
 # Last Embryo
 
+![last-embryo](https://cdn.myanimelist.net/images/manga/1/157180.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ラストエンブリオ
 -   **start-date**: 2015-06-01

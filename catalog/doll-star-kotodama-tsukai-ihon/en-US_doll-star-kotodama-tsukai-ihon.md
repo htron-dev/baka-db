@@ -1,5 +1,7 @@
 # Doll Star: Kotodama Tsukai Ihon
 
+![doll-star-kotodama-tsukai-ihon](https://cdn.myanimelist.net/images/manga/1/19432.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

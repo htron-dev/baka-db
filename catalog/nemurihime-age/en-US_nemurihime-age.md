@@ -1,5 +1,7 @@
 # Nemurihime Age
 
+![nemurihime-age](https://cdn.myanimelist.net/images/manga/2/190878.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 眠り姫 Age

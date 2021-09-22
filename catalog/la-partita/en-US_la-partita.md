@@ -1,5 +1,7 @@
 # La Partita
 
+![la-partita](https://cdn.myanimelist.net/images/manga/2/4920.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

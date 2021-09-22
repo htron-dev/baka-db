@@ -1,5 +1,7 @@
 # Mahoutsukai no Yome
 
+![mahoutsukai-no-yome](https://cdn.myanimelist.net/images/manga/3/121263.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法使いの嫁
 -   **start-date**: 2013-11-30

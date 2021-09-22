@@ -1,5 +1,7 @@
 # Isobe Isobee Monogatari: Ukiyo wa Tsurai yo (2015)
 
+![isobe-isobee-monogatari-ukiyo-wa-tsurai-yo-2015](https://cdn.myanimelist.net/images/anime/4/76925.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 磯部磯兵衛物語 〜浮世はつらいよ〜

@@ -1,5 +1,7 @@
 # Yakkai na Bokura
 
+![yakkai-na-bokura](https://cdn.myanimelist.net/images/manga/1/201075.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

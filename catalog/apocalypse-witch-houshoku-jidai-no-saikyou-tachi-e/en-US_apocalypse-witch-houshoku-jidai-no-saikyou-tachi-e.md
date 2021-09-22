@@ -1,5 +1,7 @@
 # Apocalypse Witch: Houshoku Jidai no "Saikyou"-tachi e
 
+![apocalypse-witch-houshoku-jidai-no-saikyou-tachi-e](https://cdn.myanimelist.net/images/manga/2/229342.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アポカリプス・ウィッチ 飽食時代の【最強】たちへ
 -   **start-date**: 2019-09-10

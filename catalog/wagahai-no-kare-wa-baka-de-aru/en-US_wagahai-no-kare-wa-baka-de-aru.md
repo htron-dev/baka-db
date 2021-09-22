@@ -1,5 +1,7 @@
 # Wagahai no Kare wa Baka de Aru
 
+![wagahai-no-kare-wa-baka-de-aru](https://cdn.myanimelist.net/images/manga/3/134373.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

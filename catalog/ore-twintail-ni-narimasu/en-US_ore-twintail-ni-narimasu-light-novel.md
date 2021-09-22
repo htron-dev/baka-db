@@ -1,5 +1,7 @@
 # Ore, Twintail ni Narimasu.
 
+![ore-twintail-ni-narimasu](https://cdn.myanimelist.net/images/manga/2/158062.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 21
 -   **original-name**: 俺、ツインテールになります。

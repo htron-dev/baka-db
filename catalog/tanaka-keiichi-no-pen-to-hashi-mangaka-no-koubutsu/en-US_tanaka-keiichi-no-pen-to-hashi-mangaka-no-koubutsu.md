@@ -1,5 +1,7 @@
 # Tanaka Keiichi no Pen to Hashi: Mangaka no Koubutsu
 
+![tanaka-keiichi-no-pen-to-hashi-mangaka-no-koubutsu](https://cdn.myanimelist.net/images/manga/1/228319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Osusume Boyfriend
 
+![osusume-boyfriend](https://cdn.myanimelist.net/images/manga/3/38997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

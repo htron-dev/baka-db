@@ -1,5 +1,7 @@
 # Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...
 
+![otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta](https://cdn.myanimelist.net/images/manga/1/190469.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…
 -   **start-date**: 2015-08-20

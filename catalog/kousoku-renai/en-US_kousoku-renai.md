@@ -1,5 +1,7 @@
 # Kousoku Renai
 
+![kousoku-renai](https://cdn.myanimelist.net/images/manga/2/59515.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

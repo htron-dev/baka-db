@@ -1,5 +1,7 @@
 # Tokyo Xanadu
 
+![tokyo-xanadu](https://cdn.myanimelist.net/images/manga/2/183484.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

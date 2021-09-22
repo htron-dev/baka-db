@@ -1,5 +1,7 @@
 # Inugami-kun wa Tsun dakedo Bareteru
 
+![inugami-kun-wa-tsun-dakedo-bareteru](https://cdn.myanimelist.net/images/manga/2/183738.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

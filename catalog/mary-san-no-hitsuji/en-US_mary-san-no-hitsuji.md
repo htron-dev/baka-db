@@ -1,5 +1,7 @@
 # Mary-san no Hitsuji
 
+![mary-san-no-hitsuji](https://cdn.myanimelist.net/images/manga/2/10257.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: めりーさんの羊

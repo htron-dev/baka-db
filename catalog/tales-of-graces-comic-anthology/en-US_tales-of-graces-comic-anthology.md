@@ -1,5 +1,7 @@
 # Tales of Graces Comic Anthology
 
+![tales-of-graces-comic-anthology](https://cdn.myanimelist.net/images/manga/2/39004.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: テイルズオブグレイセス コミックアンソロジー

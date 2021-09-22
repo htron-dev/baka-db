@@ -1,5 +1,7 @@
 # Kamiotoshi no Oni
 
+![kamiotoshi-no-oni](https://cdn.myanimelist.net/images/manga/3/226990.jpg)
+
 -   **type**: manga
 -   **original-name**: 神落しの鬼
 -   **start-date**: 2017-09-25

@@ -1,5 +1,7 @@
 # Danna-sama wa Ginyuu Shijin
 
+![danna-sama-wa-ginyuu-shijin](https://cdn.myanimelist.net/images/manga/2/94651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

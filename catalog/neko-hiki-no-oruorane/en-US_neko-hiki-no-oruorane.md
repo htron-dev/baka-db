@@ -1,5 +1,7 @@
 # Neko Hiki no Oruorane
 
+![neko-hiki-no-oruorane](https://cdn.myanimelist.net/images/anime/1060/94449.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ねこひきのオルオラネ

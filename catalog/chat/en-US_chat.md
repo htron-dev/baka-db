@@ -1,5 +1,7 @@
 # Chat
 
+![chat](https://cdn.myanimelist.net/images/manga/2/10554.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: CHAT 챗

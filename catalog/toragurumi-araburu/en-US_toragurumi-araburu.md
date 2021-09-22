@@ -1,5 +1,7 @@
 # Toragurumi Araburu!
 
+![toragurumi-araburu](https://cdn.myanimelist.net/images/manga/2/248202.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

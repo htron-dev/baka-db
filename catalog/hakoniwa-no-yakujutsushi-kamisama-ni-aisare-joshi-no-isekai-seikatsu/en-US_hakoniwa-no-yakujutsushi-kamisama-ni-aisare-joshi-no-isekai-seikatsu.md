@@ -1,5 +1,7 @@
 # Hakoniwa no Yakujutsushi: Kamisama ni Aisare Joshi no Isekai Seikatsu
 
+![hakoniwa-no-yakujutsushi-kamisama-ni-aisare-joshi-no-isekai-seikatsu](https://cdn.myanimelist.net/images/manga/3/234851.jpg)
+
 -   **type**: manga
 -   **original-name**: 箱庭の薬術師 神様に愛され女子の異世界生活
 -   **start-date**: 2019-12-20

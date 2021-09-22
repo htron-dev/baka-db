@@ -1,5 +1,7 @@
 # Tenparist☆Babies
 
+![tenparist☆-babies](https://cdn.myanimelist.net/images/manga/3/168717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: テンパリスト ☆ ベイビーズ

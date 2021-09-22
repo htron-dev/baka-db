@@ -1,5 +1,7 @@
 # Hangyaku no Dreadnought
 
+![hangyaku-no-dreadnought](https://cdn.myanimelist.net/images/manga/1/176528.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 叛逆のドレッドノート

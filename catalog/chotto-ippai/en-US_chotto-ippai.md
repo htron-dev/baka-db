@@ -1,5 +1,7 @@
 # Chotto Ippai!
 
+![chotto-ippai](https://cdn.myanimelist.net/images/manga/1/198113.jpg)
+
 -   **type**: manga
 -   **original-name**: ちょっといっぱい！
 -   **start-date**: 2016-05-24

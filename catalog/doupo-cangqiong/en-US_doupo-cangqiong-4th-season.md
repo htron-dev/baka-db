@@ -1,5 +1,7 @@
 # Doupo Cangqiong 4th Season
 
+![doupo-cangqiong-4th-season](https://cdn.myanimelist.net/images/anime/1887/112452.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 斗破苍穹 第四季

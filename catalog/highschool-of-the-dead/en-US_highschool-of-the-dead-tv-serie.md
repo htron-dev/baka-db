@@ -1,5 +1,7 @@
 # Highschool of the Dead
 
+![highschool-of-the-dead](https://cdn.myanimelist.net/images/anime/11/78311.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 学園黙示録 HIGHSCHOOL OF THE DEAD

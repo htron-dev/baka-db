@@ -1,5 +1,7 @@
 # Yoshidake no Chisuji
 
+![yoshidake-no-chisuji](https://cdn.myanimelist.net/images/manga/2/89623.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 吉田家のちすじ

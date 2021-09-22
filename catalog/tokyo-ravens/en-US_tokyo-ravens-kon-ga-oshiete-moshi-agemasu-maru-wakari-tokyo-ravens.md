@@ -1,5 +1,7 @@
 # Tokyo Ravens: Kon ga Oshiete Moshi Agemasu! Maru Wakari Tokyo Ravens
 
+![tokyo-ravens-kon-ga-oshiete-moshi-agemasu-maru-wakari-tokyo-ravens](https://cdn.myanimelist.net/images/anime/6/61407.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: コンが教えて差し上げます！まるわかり東京レイヴンズ

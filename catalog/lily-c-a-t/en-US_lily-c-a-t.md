@@ -1,5 +1,7 @@
 # Lily C.A.T.
 
+![lily-c-a-t](https://cdn.myanimelist.net/images/anime/12/5157.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: LILY-C.A.T.

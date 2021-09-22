@@ -1,5 +1,7 @@
 # Perfect Rose
 
+![perfect-rose](https://cdn.myanimelist.net/images/manga/3/175817.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

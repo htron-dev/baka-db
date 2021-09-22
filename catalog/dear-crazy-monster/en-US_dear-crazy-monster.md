@@ -1,5 +1,7 @@
 # Dear, Crazy Monster
 
+![dear-crazy-monster](https://cdn.myanimelist.net/images/manga/3/196162.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

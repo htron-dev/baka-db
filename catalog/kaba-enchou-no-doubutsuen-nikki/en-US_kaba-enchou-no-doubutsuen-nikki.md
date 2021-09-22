@@ -1,5 +1,7 @@
 # Kaba Enchou no Doubutsuen Nikki
 
+![kaba-enchou-no-doubutsuen-nikki](https://cdn.myanimelist.net/images/anime/3/64119.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: カバ園長の動物園日記

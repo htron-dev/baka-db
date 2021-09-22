@@ -1,5 +1,7 @@
 # Pico: My Little Summer Story
 
+![pico-my-little-summer-story](https://cdn.myanimelist.net/images/anime/9/14929.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: pico ～ぼくの小さな夏物語～

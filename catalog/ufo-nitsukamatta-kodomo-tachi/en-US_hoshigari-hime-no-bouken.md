@@ -1,5 +1,7 @@
 # Hoshigari Hime no Bouken
 
+![hoshigari-hime-no-bouken](https://cdn.myanimelist.net/images/anime/13/51165.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ホシガリ姫の冒険

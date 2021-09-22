@@ -1,5 +1,7 @@
 # Yume no Shima de Aimashou
 
+![yume-no-shima-de-aimashou](https://cdn.myanimelist.net/images/manga/2/194525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

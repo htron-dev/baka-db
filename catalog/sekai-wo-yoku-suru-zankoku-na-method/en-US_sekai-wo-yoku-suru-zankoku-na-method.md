@@ -1,5 +1,7 @@
 # Sekai wo Yoku suru Zankoku na Method
 
+![sekai-wo-yoku-suru-zankoku-na-method](https://cdn.myanimelist.net/images/manga/2/189386.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界を良くする残酷なメソッド
 -   **start-date**: 2016-12-27

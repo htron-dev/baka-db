@@ -1,5 +1,7 @@
 # Yajuu Shugi
 
+![yajuu-shugi](https://cdn.myanimelist.net/images/manga/2/26295.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 野獣主義

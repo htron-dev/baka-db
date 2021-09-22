@@ -1,5 +1,7 @@
 # Kimi sae mo Ai no Kusari
 
+![kimi-sae-mo-ai-no-kusari](https://cdn.myanimelist.net/images/manga/3/3168.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

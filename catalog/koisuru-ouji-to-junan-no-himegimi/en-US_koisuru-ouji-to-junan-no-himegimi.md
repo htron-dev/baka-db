@@ -1,5 +1,7 @@
 # Koisuru Ouji to Junan no Himegimi
 
+![koisuru-ouji-to-junan-no-himegimi](https://cdn.myanimelist.net/images/manga/2/143769.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

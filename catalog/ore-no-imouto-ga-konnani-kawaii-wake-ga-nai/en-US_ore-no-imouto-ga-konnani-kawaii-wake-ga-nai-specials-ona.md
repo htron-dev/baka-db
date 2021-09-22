@@ -1,5 +1,7 @@
 # Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials
 
+![ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-specials](https://cdn.myanimelist.net/images/anime/8/29734.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 俺の妹がこんなに可愛いわけがない。
@@ -17,13 +19,6 @@
 ## Sinopse
 
 Episodes 14–16 of OreImo 2 which finish adapting the OreImo novels.
-
-## Links
-
--   [My Anime list](https://myanimelist.net/anime/18857/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai_Specials)
--   [Official Site](http://www.oreimo-anime.com/pkg/08.html)
--   [Wikipedia](http://en.wikipedia.org/wiki/Oreimo#Anime)
-    the original story from the light novels.
 
 ## Links
 

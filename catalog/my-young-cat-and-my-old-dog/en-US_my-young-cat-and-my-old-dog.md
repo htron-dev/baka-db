@@ -1,5 +1,7 @@
 # My Young Cat and My Old Dog
 
+![my-young-cat-and-my-old-dog](https://cdn.myanimelist.net/images/manga/1/110527.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 215

@@ -1,5 +1,7 @@
 # Sore wa Tabun Itoshii tte Koto
 
+![sore-wa-tabun-itoshii-tte-koto](https://cdn.myanimelist.net/images/manga/3/178907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

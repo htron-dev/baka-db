@@ -1,5 +1,7 @@
 # Seibu Tetsudou Ekiin Tako-chan
 
+![seibu-tetsudou-ekiin-tako-chan](https://cdn.myanimelist.net/images/anime/13/29970.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 西武鉄道駅員タコちゃん

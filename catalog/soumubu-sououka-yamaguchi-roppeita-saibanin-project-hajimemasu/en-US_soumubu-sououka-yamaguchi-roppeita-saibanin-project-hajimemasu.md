@@ -1,5 +1,7 @@
 # Soumubu Sououka Yamaguchi Roppeita: Saibanin Project Hajimemasu!
 
+![soumubu-sououka-yamaguchi-roppeita-saibanin-project-hajimemasu](https://cdn.myanimelist.net/images/anime/5/74017.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 総務部総務課　山口六平太　裁判員プロジェクトはじめます

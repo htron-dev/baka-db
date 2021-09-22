@@ -1,5 +1,7 @@
 # My Secret Brother
 
+![my-secret-brother](https://cdn.myanimelist.net/images/manga/1/198421.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 말할 수 없는 남매
 -   **start-date**: 2014-08-08

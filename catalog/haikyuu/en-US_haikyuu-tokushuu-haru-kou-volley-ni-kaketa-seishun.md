@@ -1,5 +1,7 @@
 # Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun
 
+![haikyuu-tokushuu-haru-kou-volley-ni-kaketa-seishun](https://cdn.myanimelist.net/images/anime/13/87162.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハイキュー!! 特集！春高バレーに賭けた青春

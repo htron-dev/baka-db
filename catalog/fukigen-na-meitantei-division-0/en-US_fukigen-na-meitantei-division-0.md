@@ -1,5 +1,7 @@
 # Fukigen na Meitantei Division-0
 
+![fukigen-na-meitantei-division-0](https://cdn.myanimelist.net/images/manga/3/156681.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

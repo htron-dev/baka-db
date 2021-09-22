@@ -1,5 +1,7 @@
 # Rinne no Lagrange Season 2
 
+![rinne-no-lagrange-season-2](https://cdn.myanimelist.net/images/anime/4/39321.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 輪廻のラグランジェ season 2

@@ -1,5 +1,7 @@
 # Cupid no Itazura: Nijidama
 
+![cupid-no-itazura-nijidama](https://cdn.myanimelist.net/images/manga/1/51643.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 68

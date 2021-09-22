@@ -1,5 +1,7 @@
 # Ai ga Nakereba
 
+![ai-ga-nakereba](https://cdn.myanimelist.net/images/manga/2/67437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

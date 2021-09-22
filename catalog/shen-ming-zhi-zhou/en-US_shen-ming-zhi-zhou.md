@@ -1,5 +1,7 @@
 # Shen Ming Zhi Zhou
 
+![shen-ming-zhi-zhou](https://cdn.myanimelist.net/images/anime/1252/91166.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 神明之胄

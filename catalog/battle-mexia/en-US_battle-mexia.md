@@ -1,5 +1,7 @@
 # Battle Mexia
 
+![battle-mexia](https://cdn.myanimelist.net/images/manga/3/193115.jpg)
+
 -   **type**: manga
 -   **original-name**: バトルメサイア
 -   **start-date**: 2016-06-10

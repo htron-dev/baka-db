@@ -1,5 +1,7 @@
 # Akuma to Keiyaku
 
+![akuma-to-keiyaku](https://cdn.myanimelist.net/images/manga/3/224202.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

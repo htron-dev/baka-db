@@ -1,5 +1,7 @@
 # Million Crown
 
+![million-crown](https://cdn.myanimelist.net/images/manga/2/201286.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ミリオン・クラウン
 -   **start-date**: 2017-10-01

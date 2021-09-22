@@ -1,5 +1,7 @@
 # Bee-be-beat it!
 
+![bee-be-beat-it](https://cdn.myanimelist.net/images/manga/2/158524.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

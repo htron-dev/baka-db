@@ -1,5 +1,7 @@
 # Choujuu Gitan
 
+![choujuu-gitan](https://cdn.myanimelist.net/images/manga/2/193034.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

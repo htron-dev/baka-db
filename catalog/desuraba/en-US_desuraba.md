@@ -1,5 +1,7 @@
 # Desuraba
 
+![desuraba](https://cdn.myanimelist.net/images/manga/2/215918.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 112

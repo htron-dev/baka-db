@@ -1,5 +1,7 @@
 # Vector Case File: Inaho no Konchuuki
 
+![vector-case-file-inaho-no-konchuuki](https://cdn.myanimelist.net/images/manga/1/25314.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

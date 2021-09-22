@@ -1,5 +1,7 @@
 # Saikyou Ginga Ultimate Zero: Battle Spirits
 
+![saikyou-ginga-ultimate-zero-battle-spirits](https://cdn.myanimelist.net/images/anime/13/56575.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 最強銀河 究極[アルティメット]ゼロ~バトルスピリッツ~

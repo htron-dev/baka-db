@@ -1,5 +1,7 @@
 # Yarisugi Party Night!
 
+![yarisugi-party-night](https://cdn.myanimelist.net/images/manga/1/221309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

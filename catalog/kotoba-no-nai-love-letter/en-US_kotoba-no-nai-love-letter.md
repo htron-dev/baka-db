@@ -1,5 +1,7 @@
 # Kotoba no Nai Love Letter
 
+![kotoba-no-nai-love-letter](https://cdn.myanimelist.net/images/manga/3/156579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

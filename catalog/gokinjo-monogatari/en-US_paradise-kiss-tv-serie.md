@@ -1,5 +1,7 @@
 # Paradise Kiss
 
+![paradise-kiss](https://cdn.myanimelist.net/images/anime/7/80636.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Paradise kiss

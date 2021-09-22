@@ -1,5 +1,7 @@
 # Bokura ni Matsuwaru etc.
 
+![bokura-ni-matsuwaru-etc](https://cdn.myanimelist.net/images/manga/3/12977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

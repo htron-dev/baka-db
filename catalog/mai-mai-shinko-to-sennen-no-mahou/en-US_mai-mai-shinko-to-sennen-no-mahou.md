@@ -1,5 +1,7 @@
 # Mai Mai Shinko to Sennen no Mahou
 
+![mai-mai-shinko-to-sennen-no-mahou](https://cdn.myanimelist.net/images/anime/1419/103272.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マイマイ新子と千年の魔法

@@ -1,5 +1,7 @@
 # Hoshi no Umi no Amuri
 
+![hoshi-no-umi-no-amuri](https://cdn.myanimelist.net/images/anime/7/8124.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 星の海のアムリ

@@ -1,5 +1,7 @@
 # Yuuwaku no Hitsuji
 
+![yuuwaku-no-hitsuji](https://cdn.myanimelist.net/images/manga/2/162786.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

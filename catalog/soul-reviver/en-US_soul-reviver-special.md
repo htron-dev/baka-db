@@ -1,5 +1,7 @@
 # Soul Reviver
 
+![soul-reviver](https://cdn.myanimelist.net/images/anime/11/50479.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ソウルリヴァイヴァー

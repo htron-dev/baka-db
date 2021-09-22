@@ -1,5 +1,7 @@
 # Kiku
 
+![kiku](https://cdn.myanimelist.net/images/manga/2/117595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

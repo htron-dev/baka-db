@@ -1,5 +1,7 @@
 # Kikoeru?
 
+![kikoeru](https://cdn.myanimelist.net/images/manga/2/185067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

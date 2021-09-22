@@ -1,5 +1,7 @@
 # Shounen wa Watashi ni Hizamazuku
 
+![shounen-wa-watashi-ni-hizamazuku](https://cdn.myanimelist.net/images/manga/2/104081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

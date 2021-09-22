@@ -1,5 +1,7 @@
 # 14-sai no Koi
 
+![14-sai-no-koi](https://cdn.myanimelist.net/images/manga/3/211907.jpg)
+
 -   **type**: manga
 -   **original-name**: 14 歳の恋
 -   **start-date**: 2010-06-30

@@ -1,5 +1,7 @@
 # Amakute Shinjau yo
 
+![amakute-shinjau-yo](https://cdn.myanimelist.net/images/manga/3/90437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue
 
+![gintama-umai-mono-wa-atomawashi-ni-suru-to-yokodorisareru-kara-yappari-saki-ni-kue](https://cdn.myanimelist.net/images/anime/1720/110926.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀魂 〜美味いモノは後回しにすると横取りされるからやっぱり先に食え〜

@@ -1,5 +1,7 @@
 # Notes.
 
+![notes](https://cdn.myanimelist.net/images/manga/4/190302.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 8
 -   **original-name**: Notes.

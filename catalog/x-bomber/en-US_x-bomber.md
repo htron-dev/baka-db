@@ -1,5 +1,7 @@
 # X-Bomber
 
+![x-bomber](https://cdn.myanimelist.net/images/manga/3/230522.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: X ボンバー

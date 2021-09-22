@@ -1,5 +1,7 @@
 # Seitokai Versus!
 
+![seitokai-versus](https://cdn.myanimelist.net/images/manga/3/134873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 生徒会ばーさす！

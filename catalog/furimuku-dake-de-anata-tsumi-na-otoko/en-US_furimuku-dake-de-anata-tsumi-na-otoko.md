@@ -1,5 +1,7 @@
 # Furimuku dake de Anata Tsumi na Otoko
 
+![furimuku-dake-de-anata-tsumi-na-otoko](https://cdn.myanimelist.net/images/manga/2/2713.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Bitter: Kare no Hisoyaka na Seppun
 
+![bitter-kare-no-hisoyaka-na-seppun](https://cdn.myanimelist.net/images/manga/3/30157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

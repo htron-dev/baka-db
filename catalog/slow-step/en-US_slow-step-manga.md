@@ -1,5 +1,7 @@
 # Slow Step
 
+![slow-step](https://cdn.myanimelist.net/images/manga/3/26703.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 55

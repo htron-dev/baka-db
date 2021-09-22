@@ -1,5 +1,7 @@
 # Xiao Pu Lin Bian Bian Bian
 
+![xiao-pu-lin-bian-bian-bian](https://cdn.myanimelist.net/images/anime/1869/115512.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 小普林变变变

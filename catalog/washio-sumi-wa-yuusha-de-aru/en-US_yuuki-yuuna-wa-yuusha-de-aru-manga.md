@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha de Aru
 
+![yuuki-yuuna-wa-yuusha-de-aru](https://cdn.myanimelist.net/images/manga/1/211374.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

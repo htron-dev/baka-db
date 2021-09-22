@@ -1,5 +1,7 @@
 # Boku no Ushiro ni Majo ga Iru
 
+![boku-no-ushiro-ni-majo-ga-iru](https://cdn.myanimelist.net/images/manga/3/188804.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕の後ろに魔女がいる
 -   **start-date**: 2008-08-26

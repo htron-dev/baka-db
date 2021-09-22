@@ -1,5 +1,7 @@
 # BanG Dream! Movie: Poppin' Dream!
 
+![ban-g-dream-movie-poppin-dream](https://cdn.myanimelist.net/images/anime/1636/115768.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 BanG Dream! ぽっぴん'どりーむ！

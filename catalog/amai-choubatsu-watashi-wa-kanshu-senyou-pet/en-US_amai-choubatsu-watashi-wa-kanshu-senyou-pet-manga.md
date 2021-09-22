@@ -1,5 +1,7 @@
 # Amai Choubatsu: Watashi wa Kanshu Senyou Pet
 
+![amai-choubatsu-watashi-wa-kanshu-senyou-pet](https://cdn.myanimelist.net/images/manga/1/208233.jpg)
+
 -   **type**: manga
 -   **original-name**: 甘い懲罰〜私は看守専用ペット
 -   **start-date**: 2016-06-03

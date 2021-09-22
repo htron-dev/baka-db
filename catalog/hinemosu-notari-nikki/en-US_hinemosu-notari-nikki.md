@@ -1,5 +1,7 @@
 # Hinemosu Notari Nikki
 
+![hinemosu-notari-nikki](https://cdn.myanimelist.net/images/manga/1/225322.jpg)
+
 -   **type**: manga
 -   **original-name**: ひねもすのたり日記
 -   **start-date**: 2015-12-25

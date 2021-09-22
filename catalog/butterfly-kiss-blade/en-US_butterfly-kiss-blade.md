@@ -1,5 +1,7 @@
 # Butterfly Kiss Blade
 
+![butterfly-kiss-blade](https://cdn.myanimelist.net/images/manga/3/23074.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: バタフライキス

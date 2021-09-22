@@ -1,5 +1,7 @@
 # Zoku Ai Ore! - Danshikou no Hime to Joshikou no Ouji
 
+![zoku-ai-ore-danshikou-no-hime-to-joshikou-no-ouji](https://cdn.myanimelist.net/images/manga/1/104227.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Asobi Asobase OVA
 
+![asobi-asobase-ova](https://cdn.myanimelist.net/images/anime/1539/98126.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あそびあそばせ (OAD)

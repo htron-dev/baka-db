@@ -1,5 +1,7 @@
 # Binbougami ga!
 
+![binbougami-ga](https://cdn.myanimelist.net/images/manga/1/132591.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 貧乏神が！

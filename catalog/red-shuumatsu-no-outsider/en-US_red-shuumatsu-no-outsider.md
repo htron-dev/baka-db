@@ -1,5 +1,7 @@
 # Red: Shuumatsu no Outsider
 
+![red-shuumatsu-no-outsider](https://cdn.myanimelist.net/images/manga/2/181429.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: RED ―終末のアウトサイダー―

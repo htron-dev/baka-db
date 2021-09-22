@@ -1,5 +1,7 @@
 # Balloon
 
+![balloon](https://cdn.myanimelist.net/images/anime/11/75303.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Balloon

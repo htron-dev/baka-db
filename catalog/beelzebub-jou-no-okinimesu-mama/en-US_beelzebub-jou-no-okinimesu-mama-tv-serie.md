@@ -1,5 +1,7 @@
 # Beelzebub-jou no Okinimesu mama.
 
+![beelzebub-jou-no-okinimesu-mama](https://cdn.myanimelist.net/images/anime/1827/95738.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ベルゼブブ嬢のお気に召すまま。

@@ -1,5 +1,7 @@
 # Kichiku, Encount
 
+![kichiku-encount](https://cdn.myanimelist.net/images/manga/2/155675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

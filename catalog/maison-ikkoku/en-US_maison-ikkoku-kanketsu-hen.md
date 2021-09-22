@@ -1,5 +1,7 @@
 # Maison Ikkoku: Kanketsu-hen
 
+![maison-ikkoku-kanketsu-hen](https://cdn.myanimelist.net/images/anime/2/27059.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: めぞん一刻 完結篇

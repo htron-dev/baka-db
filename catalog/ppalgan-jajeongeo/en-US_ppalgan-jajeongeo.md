@@ -1,5 +1,7 @@
 # Ppalgan Jajeongeo
 
+![ppalgan-jajeongeo](https://cdn.myanimelist.net/images/anime/1314/114527.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 302
 -   **original-name**: 빨간 자전거

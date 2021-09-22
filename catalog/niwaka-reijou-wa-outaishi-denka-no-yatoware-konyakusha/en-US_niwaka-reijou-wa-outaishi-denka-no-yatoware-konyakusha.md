@@ -1,5 +1,7 @@
 # Niwaka Reijou wa Outaishi Denka no Yatoware Konyakusha
 
+![niwaka-reijou-wa-outaishi-denka-no-yatoware-konyakusha](https://cdn.myanimelist.net/images/manga/1/225513.jpg)
+
 -   **type**: manga
 -   **original-name**: にわか令嬢は王太子殿下の雇われ婚約者
 -   **start-date**: 2019-06-21

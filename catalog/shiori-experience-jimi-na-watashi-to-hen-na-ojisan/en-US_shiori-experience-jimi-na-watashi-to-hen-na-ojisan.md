@@ -1,5 +1,7 @@
 # Shiori Experience: Jimi na Watashi to Hen na Ojisan
 
+![shiori-experience-jimi-na-watashi-to-hen-na-ojisan](https://cdn.myanimelist.net/images/manga/2/151902.jpg)
+
 -   **type**: manga
 -   **original-name**: SHIORI EXPERIENCE ～ジミなわたしとヘンなおじさん～
 -   **start-date**: 2013-10-25

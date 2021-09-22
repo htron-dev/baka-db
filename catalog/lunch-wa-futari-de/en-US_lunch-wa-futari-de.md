@@ -1,5 +1,7 @@
 # Lunch wa Futari de
 
+![lunch-wa-futari-de](https://cdn.myanimelist.net/images/manga/2/113341.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ランチはふたりで

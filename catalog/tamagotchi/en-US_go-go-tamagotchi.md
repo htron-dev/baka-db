@@ -1,5 +1,7 @@
 # GO-GO Tamagotchi!
 
+![go-go-tamagotchi](https://cdn.myanimelist.net/images/anime/2/60033.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: GO-GO たまごっち！

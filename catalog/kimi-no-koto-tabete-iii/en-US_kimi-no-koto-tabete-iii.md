@@ -1,5 +1,7 @@
 # Kimi no Koto Tabete Iii?
 
+![kimi-no-koto-tabete-iii](https://cdn.myanimelist.net/images/manga/1/233796.jpg)
+
 -   **type**: manga
 -   **original-name**: キミのこと喰べていーい？
 -   **start-date**: 2020-03-03

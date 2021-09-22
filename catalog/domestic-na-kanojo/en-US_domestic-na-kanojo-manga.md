@@ -1,5 +1,7 @@
 # Domestic na Kanojo
 
+![domestic-na-kanojo](https://cdn.myanimelist.net/images/manga/2/196863.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 292

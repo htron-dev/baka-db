@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Guang Ming Shou Wei Zhe
 
+![zhu-zhu-xia-guang-ming-shou-wei-zhe](https://cdn.myanimelist.net/images/anime/1475/93355.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 猪猪侠 光明守卫者

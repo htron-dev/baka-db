@@ -1,5 +1,7 @@
 # Hakushaku-sama to Dengeki Kekkon!! Niizuma wa Asa made Kawaigarare Makuri desu!!
 
+![hakushaku-sama-to-dengeki-kekkon-niizuma-wa-asa-made-kawaigarare-makuri-desu](https://cdn.myanimelist.net/images/manga/3/193852.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

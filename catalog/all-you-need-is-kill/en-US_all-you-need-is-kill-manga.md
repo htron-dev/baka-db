@@ -1,5 +1,7 @@
 # All You Need Is Kill
 
+![all-you-need-is-kill](https://cdn.myanimelist.net/images/manga/1/128447.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

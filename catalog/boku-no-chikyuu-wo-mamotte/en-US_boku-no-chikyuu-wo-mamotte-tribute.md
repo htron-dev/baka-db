@@ -1,5 +1,7 @@
 # Boku no Chikyuu wo Mamotte Tribute
 
+![boku-no-chikyuu-wo-mamotte-tribute](https://cdn.myanimelist.net/images/manga/3/35997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

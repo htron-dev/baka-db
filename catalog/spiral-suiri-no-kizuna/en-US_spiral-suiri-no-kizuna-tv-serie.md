@@ -1,5 +1,7 @@
 # Spiral: Suiri no Kizuna
 
+![spiral-suiri-no-kizuna](https://cdn.myanimelist.net/images/anime/1771/92118.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: スパイラル -推理の絆-

@@ -1,5 +1,7 @@
 # Malasong Wangzi
 
+![malasong-wangzi](https://cdn.myanimelist.net/images/anime/1856/115500.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 马拉松王子

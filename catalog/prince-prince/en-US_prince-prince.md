@@ -1,5 +1,7 @@
 # Prince Prince
 
+![prince-prince](https://cdn.myanimelist.net/images/manga/3/167271.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

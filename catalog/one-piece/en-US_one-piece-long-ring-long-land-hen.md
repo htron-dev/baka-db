@@ -1,5 +1,7 @@
 # One Piece: Long Ring Long Land-hen
 
+![one-piece-long-ring-long-land-hen](https://cdn.myanimelist.net/images/anime/12/83503.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース～ロングリングロングランド編～ 一夜限りの特別編集版

@@ -1,5 +1,7 @@
 # Boku kara Kimi ga Kienai
 
+![boku-kara-kimi-ga-kienai](https://cdn.myanimelist.net/images/manga/1/24389.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Itsumo Miteiru Mono Dakara
 
+![itsumo-miteiru-mono-dakara](https://cdn.myanimelist.net/images/manga/3/20217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

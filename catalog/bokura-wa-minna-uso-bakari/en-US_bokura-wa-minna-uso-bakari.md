@@ -1,5 +1,7 @@
 # Bokura wa Minna Uso Bakari
 
+![bokura-wa-minna-uso-bakari](https://cdn.myanimelist.net/images/manga/2/227622.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

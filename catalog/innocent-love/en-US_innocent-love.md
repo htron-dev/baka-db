@@ -1,5 +1,7 @@
 # Innocent Love
 
+![innocent-love](https://cdn.myanimelist.net/images/manga/3/209459.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku
 
+![shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku](https://cdn.myanimelist.net/images/manga/1/238871.jpg)
+
 -   **type**: manga
 -   **original-name**: 信者ゼロの女神サマと始める異世界攻略
 -   **start-date**: 2020-04-24

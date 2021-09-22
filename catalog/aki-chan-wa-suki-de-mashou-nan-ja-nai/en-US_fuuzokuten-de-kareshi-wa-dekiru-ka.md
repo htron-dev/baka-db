@@ -1,5 +1,7 @@
 # Fuuzokuten de Kareshi wa Dekiru ka?
 
+![fuuzokuten-de-kareshi-wa-dekiru-ka](https://cdn.myanimelist.net/images/manga/1/225899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

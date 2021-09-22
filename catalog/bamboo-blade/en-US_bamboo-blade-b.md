@@ -1,5 +1,7 @@
 # Bamboo Blade B
 
+![bamboo-blade-b](https://cdn.myanimelist.net/images/manga/2/54885.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 61

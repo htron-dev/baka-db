@@ -1,5 +1,7 @@
 # Yonimo Fujitsu na Piano Sonata
 
+![yonimo-fujitsu-na-piano-sonata](https://cdn.myanimelist.net/images/manga/1/221812.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

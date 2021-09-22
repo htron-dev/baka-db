@@ -1,5 +1,7 @@
 # Kono Naka ni Hitori, Imouto ga Iru!
 
+![kono-naka-ni-hitori-imouto-ga-iru](https://cdn.myanimelist.net/images/manga/1/42812.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 87

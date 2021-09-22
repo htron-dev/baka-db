@@ -1,5 +1,7 @@
 # Nanatsu no Umi Nanatsu no Sora
 
+![nanatsu-no-umi-nanatsu-no-sora](https://cdn.myanimelist.net/images/manga/5/92419.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 七つの海七つの空

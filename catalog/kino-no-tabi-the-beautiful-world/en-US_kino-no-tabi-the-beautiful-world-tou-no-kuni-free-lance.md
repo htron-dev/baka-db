@@ -1,5 +1,7 @@
 # Kino no Tabi: The Beautiful World - Tou no Kuni - Free Lance
 
+![kino-no-tabi-the-beautiful-world-tou-no-kuni-free-lance](https://cdn.myanimelist.net/images/anime/11/62873.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: キノの旅 -the Beautiful World- 塔の国 -Free Lance-

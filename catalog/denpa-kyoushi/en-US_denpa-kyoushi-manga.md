@@ -1,5 +1,7 @@
 # Denpa Kyoushi
 
+![denpa-kyoushi](https://cdn.myanimelist.net/images/manga/1/154265.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 247

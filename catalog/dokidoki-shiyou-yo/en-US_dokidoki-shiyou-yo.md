@@ -1,5 +1,7 @@
 # Dokidoki Shiyou yo!
 
+![dokidoki-shiyou-yo](https://cdn.myanimelist.net/images/manga/1/5783.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ドキドキしようよ!

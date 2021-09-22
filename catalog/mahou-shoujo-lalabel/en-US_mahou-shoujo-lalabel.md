@@ -1,5 +1,7 @@
 # Mahou Shoujo Lalabel
 
+![mahou-shoujo-lalabel](https://cdn.myanimelist.net/images/anime/6/17538.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 魔法少女ララベル
@@ -28,4 +30,4 @@ Lalabel is a magical girl who arrives in the Human world to stop an evil wizard 
 -   [Official Site](http://www.toei-anim.co.jp/lineup/tv/lalabel/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1921)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1486)
--   [Wikipedia](http://Maeterlinck no Aoi Tori)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Lalabel,_the_Magical_Girl)

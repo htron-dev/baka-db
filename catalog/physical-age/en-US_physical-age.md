@@ -1,5 +1,7 @@
 # Physical Age
 
+![physical-age](https://cdn.myanimelist.net/images/manga/1/10869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: フィジカルエイジ

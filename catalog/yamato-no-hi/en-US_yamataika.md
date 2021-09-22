@@ -1,5 +1,7 @@
 # Yamataika
 
+![yamataika](https://cdn.myanimelist.net/images/manga/3/229538.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 20

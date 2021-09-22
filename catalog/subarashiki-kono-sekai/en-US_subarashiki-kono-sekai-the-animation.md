@@ -1,5 +1,7 @@
 # Subarashiki Kono Sekai The Animation
 
+![subarashiki-kono-sekai-the-animation](https://cdn.myanimelist.net/images/anime/1016/111566.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: すばらしきこのせかい The Animation

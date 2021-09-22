@@ -1,5 +1,7 @@
 # Night Wizard
 
+![night-wizard](https://cdn.myanimelist.net/images/anime/12/75604.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ナイトウィザード

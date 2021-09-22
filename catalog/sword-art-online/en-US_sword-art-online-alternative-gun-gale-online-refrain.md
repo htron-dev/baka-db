@@ -1,5 +1,7 @@
 # Sword Art Online Alternative: Gun Gale Online - Refrain
 
+![sword-art-online-alternative-gun-gale-online-refrain](https://cdn.myanimelist.net/images/anime/1736/92711.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ソードアート・オンライン オルタナティブ ガンゲイル・オンライン 5.5 話「ルフラン」

@@ -1,5 +1,7 @@
 # Butsuriteki ni Koritsu shiteiru Ore no Koukou Seikatsu @comic
 
+![butsuriteki-ni-koritsu-shiteiru-ore-no-koukou-seikatsu-comic](https://cdn.myanimelist.net/images/manga/1/243689.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

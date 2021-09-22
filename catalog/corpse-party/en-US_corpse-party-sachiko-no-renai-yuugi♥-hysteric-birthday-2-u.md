@@ -1,5 +1,7 @@
 # Corpse Party: Sachiko no Renai Yuugi♥ - Hysteric Birthday 2U
 
+![corpse-party-sachiko-no-renai-yuugi♥-hysteric-birthday-2-u](https://cdn.myanimelist.net/images/manga/1/148181.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

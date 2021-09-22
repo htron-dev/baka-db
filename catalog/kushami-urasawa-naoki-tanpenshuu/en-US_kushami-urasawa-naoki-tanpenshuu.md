@@ -1,5 +1,7 @@
 # Kushami: Urasawa Naoki Tanpenshuu
 
+![kushami-urasawa-naoki-tanpenshuu](https://cdn.myanimelist.net/images/manga/2/232632.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

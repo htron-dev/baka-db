@@ -1,5 +1,7 @@
 # 16 Engage
 
+![16-engage](https://cdn.myanimelist.net/images/manga/3/110657.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: シックスティーン・エンゲージ

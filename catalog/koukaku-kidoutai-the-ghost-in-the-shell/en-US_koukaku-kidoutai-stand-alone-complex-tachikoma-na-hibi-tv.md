@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi (TV)
 
+![koukaku-kidoutai-stand-alone-complex-tachikoma-na-hibi-tv](https://cdn.myanimelist.net/images/anime/4/30022.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 攻殻機動隊 STAND ALONE COMPLEX タチコマな日々

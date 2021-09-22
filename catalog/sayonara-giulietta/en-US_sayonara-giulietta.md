@@ -1,5 +1,7 @@
 # Sayonara Giulietta
 
+![sayonara-giulietta](https://cdn.myanimelist.net/images/manga/1/179928.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

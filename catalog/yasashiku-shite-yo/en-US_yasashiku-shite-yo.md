@@ -1,5 +1,7 @@
 # Yasashiku Shite yo
 
+![yasashiku-shite-yo](https://cdn.myanimelist.net/images/manga/1/40385.jpg)
+
 -   **type**: manga
 -   **original-name**: 優しくしてよ
 

@@ -1,5 +1,7 @@
 # Mimi to Shippo to Mahoutsukai
 
+![mimi-to-shippo-to-mahoutsukai](https://cdn.myanimelist.net/images/manga/3/1519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

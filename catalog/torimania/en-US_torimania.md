@@ -1,5 +1,7 @@
 # Torimania
 
+![torimania](https://cdn.myanimelist.net/images/manga/2/203956.jpg)
+
 -   **type**: manga
 -   **original-name**: トリマニア
 -   **start-date**: 2015-11-19

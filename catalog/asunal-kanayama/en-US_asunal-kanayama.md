@@ -1,5 +1,7 @@
 # Asunal Kanayama
 
+![asunal-kanayama](https://cdn.myanimelist.net/images/anime/1145/92702.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: アスナル金山

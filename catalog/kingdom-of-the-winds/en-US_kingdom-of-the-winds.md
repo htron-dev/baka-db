@@ -1,5 +1,7 @@
 # Kingdom of the Winds
 
+![kingdom-of-the-winds](https://cdn.myanimelist.net/images/manga/1/36233.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 26
 -   **original-name**: 바람의 나라

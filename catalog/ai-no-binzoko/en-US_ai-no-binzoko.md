@@ -1,5 +1,7 @@
 # Ai no Binzoko.
 
+![ai-no-binzoko](https://cdn.myanimelist.net/images/manga/1/162548.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

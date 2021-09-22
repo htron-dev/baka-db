@@ -1,5 +1,7 @@
 # Re-Kan!
 
+![re-kan](https://cdn.myanimelist.net/images/manga/2/166302.jpg)
+
 -   **type**: manga
 -   **original-name**: レーカン！
 -   **start-date**: 2009-11-04

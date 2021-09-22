@@ -1,5 +1,7 @@
 # Shouta no Sushi: Zenkokutaikaihen
 
+![shouta-no-sushi-zenkokutaikaihen](https://cdn.myanimelist.net/images/manga/1/183443.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: 将太の寿司～全国大会編～

@@ -1,5 +1,7 @@
 # Slayers Evolution-R
 
+![slayers-evolution-r](https://cdn.myanimelist.net/images/anime/5/20938.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: スレイヤーズ EVOLUTION-R

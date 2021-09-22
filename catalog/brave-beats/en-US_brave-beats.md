@@ -1,5 +1,7 @@
 # Brave Beats
 
+![brave-beats](https://cdn.myanimelist.net/images/anime/3/76152.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ブレイブビーツ

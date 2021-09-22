@@ -1,5 +1,7 @@
 # Dosukoi Sushi Zumou
 
+![dosukoi-sushi-zumou](https://cdn.myanimelist.net/images/anime/1788/113633.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: どすこいすしずもう
 -   **start-date**: 2021-04-03
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   martial-arts
 
 ## Sinopse

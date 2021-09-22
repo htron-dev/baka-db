@@ -1,5 +1,7 @@
 # Kaijuu Sakaba Kanpai!
 
+![kaijuu-sakaba-kanpai](https://cdn.myanimelist.net/images/anime/8/74081.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 怪獣酒場カンパーイ!

@@ -1,5 +1,7 @@
 # Izaron Densetsu
 
+![izaron-densetsu](https://cdn.myanimelist.net/images/manga/1/12786.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: イズァロ―ン伝説

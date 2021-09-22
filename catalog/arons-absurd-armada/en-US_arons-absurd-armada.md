@@ -1,5 +1,7 @@
 # Aron's Absurd Armada
 
+![arons-absurd-armada](https://cdn.myanimelist.net/images/manga/1/33793.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 261

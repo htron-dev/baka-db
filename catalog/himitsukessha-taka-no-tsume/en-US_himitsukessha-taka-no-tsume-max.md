@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume MAX
 
+![himitsukessha-taka-no-tsume-max](https://cdn.myanimelist.net/images/anime/3/49315.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 秘密結社鷹の爪 MAX

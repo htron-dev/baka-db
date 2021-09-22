@@ -1,5 +1,7 @@
 # One Punch Man 2nd Season Specials
 
+![one-punch-man-2nd-season-specials](https://cdn.myanimelist.net/images/anime/1618/103829.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ワンパンマン SEASON 2 OVA 2

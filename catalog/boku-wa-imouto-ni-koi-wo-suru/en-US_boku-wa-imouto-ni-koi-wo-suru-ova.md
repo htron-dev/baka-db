@@ -1,5 +1,7 @@
 # Boku wa Imouto ni Koi wo Suru
 
+![boku-wa-imouto-ni-koi-wo-suru](https://cdn.myanimelist.net/images/anime/1/819.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 僕は妹に恋をする

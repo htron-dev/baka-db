@@ -1,5 +1,7 @@
 # Life Alive!
 
+![life-alive](https://cdn.myanimelist.net/images/manga/2/176998.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 35

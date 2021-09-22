@@ -1,5 +1,7 @@
 # Kao ga Nai Onnanoko
 
+![kao-ga-nai-onnanoko](https://cdn.myanimelist.net/images/manga/3/242593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 27

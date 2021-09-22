@@ -1,5 +1,7 @@
 # Wasurena-hime to Kuro no Kishi: Midara na Karada wa Amai Yume ni Aegu
 
+![wasurena-hime-to-kuro-no-kishi-midara-na-karada-wa-amai-yume-ni-aegu](https://cdn.myanimelist.net/images/manga/3/187180.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

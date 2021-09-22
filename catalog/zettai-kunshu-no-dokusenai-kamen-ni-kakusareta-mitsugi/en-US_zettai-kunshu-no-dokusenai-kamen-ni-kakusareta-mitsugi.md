@@ -1,5 +1,7 @@
 # Zettai Kunshu no Dokusenai: Kamen ni Kakusareta Mitsugi
 
+![zettai-kunshu-no-dokusenai-kamen-ni-kakusareta-mitsugi](https://cdn.myanimelist.net/images/manga/2/181447.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

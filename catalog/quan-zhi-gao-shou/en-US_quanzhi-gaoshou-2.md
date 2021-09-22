@@ -1,5 +1,7 @@
 # Quanzhi Gaoshou 2
 
+![quanzhi-gaoshou-2](https://cdn.myanimelist.net/images/anime/1573/109220.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 全职高手 2

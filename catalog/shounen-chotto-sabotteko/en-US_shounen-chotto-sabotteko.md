@@ -1,5 +1,7 @@
 # Shounen, Chotto Sabotteko?
 
+![shounen-chotto-sabotteko](https://cdn.myanimelist.net/images/manga/3/221695.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

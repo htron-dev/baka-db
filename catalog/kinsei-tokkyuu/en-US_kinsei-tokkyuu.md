@@ -1,5 +1,7 @@
 # Kinsei Tokkyuu
 
+![kinsei-tokkyuu](https://cdn.myanimelist.net/images/manga/1/240232.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 20

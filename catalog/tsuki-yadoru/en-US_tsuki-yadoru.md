@@ -1,5 +1,7 @@
 # Tsuki Yadoru
 
+![tsuki-yadoru](https://cdn.myanimelist.net/images/manga/2/71877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

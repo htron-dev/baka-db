@@ -1,5 +1,7 @@
 # Majo no Tsukaima wa Ouji-sama deshita.
 
+![majo-no-tsukaima-wa-ouji-sama-deshita](https://cdn.myanimelist.net/images/manga/2/161843.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔女の使い魔は王子様でした。

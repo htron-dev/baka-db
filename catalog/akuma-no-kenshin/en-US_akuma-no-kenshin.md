@@ -1,5 +1,7 @@
 # Akuma no Kenshin
 
+![akuma-no-kenshin](https://cdn.myanimelist.net/images/manga/2/184917.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

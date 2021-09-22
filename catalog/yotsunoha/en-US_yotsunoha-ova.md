@@ -1,5 +1,7 @@
 # Yotsunoha
 
+![yotsunoha](https://cdn.myanimelist.net/images/anime/2/20273.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: よつのは

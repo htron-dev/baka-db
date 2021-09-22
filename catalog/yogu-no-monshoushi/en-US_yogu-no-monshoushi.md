@@ -1,5 +1,7 @@
 # Yogu no Monshoushi
 
+![yogu-no-monshoushi](https://cdn.myanimelist.net/images/manga/1/177947.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

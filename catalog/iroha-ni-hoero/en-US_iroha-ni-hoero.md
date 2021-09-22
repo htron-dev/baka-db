@@ -1,5 +1,7 @@
 # Iroha ni Hoero!
 
+![iroha-ni-hoero](https://cdn.myanimelist.net/images/manga/3/237004.jpg)
+
 -   **type**: manga
 -   **original-name**: いろはにほエロ!
 -   **start-date**: 2019-08-09

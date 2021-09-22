@@ -1,5 +1,7 @@
 # Captain Tsubasa: World Youth-hen
 
+![captain-tsubasa-world-youth-hen](https://cdn.myanimelist.net/images/manga/5/29151.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 64

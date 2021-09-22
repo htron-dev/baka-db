@@ -1,5 +1,7 @@
 # Taishou Mebiusline: Senge Iori-hen
 
+![taishou-mebiusline-senge-iori-hen](https://cdn.myanimelist.net/images/manga/1/246316.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

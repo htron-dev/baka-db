@@ -1,5 +1,7 @@
 # Harigane Service
 
+![harigane-service](https://cdn.myanimelist.net/images/manga/1/136647.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 212

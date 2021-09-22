@@ -1,5 +1,7 @@
 # Glass no Kamen Desu ga to Z Specials
 
+![glass-no-kamen-desu-ga-to-z-specials](https://cdn.myanimelist.net/images/anime/13/82673.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ガラスの仮面ですが と Z

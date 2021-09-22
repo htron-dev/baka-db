@@ -1,5 +1,7 @@
 # Drifters
 
+![drifters](https://cdn.myanimelist.net/images/manga/4/33949.jpg)
+
 -   **type**: manga
 -   **original-name**: ドリフターズ
 -   **start-date**: 2009-04-30

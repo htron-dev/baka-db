@@ -1,5 +1,7 @@
 # Shishi to Cinderella
 
+![shishi-to-cinderella](https://cdn.myanimelist.net/images/manga/2/66899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 獅子とシンデレラ

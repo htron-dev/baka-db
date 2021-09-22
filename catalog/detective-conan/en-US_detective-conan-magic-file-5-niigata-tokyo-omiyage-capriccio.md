@@ -1,5 +1,7 @@
 # Detective Conan Magic File 5: Niigata - Tokyo Omiyage Capriccio
 
+![detective-conan-magic-file-5-niigata-tokyo-omiyage-capriccio](https://cdn.myanimelist.net/images/anime/6/28938.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン MAGIC FILE 2011 ～新潟～東京 おみやげ狂騒曲（カプリチオ）～

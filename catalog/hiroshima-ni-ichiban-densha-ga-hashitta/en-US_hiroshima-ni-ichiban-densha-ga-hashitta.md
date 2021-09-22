@@ -1,5 +1,7 @@
 # Hiroshima ni Ichiban Densha ga Hashitta
 
+![hiroshima-ni-ichiban-densha-ga-hashitta](https://cdn.myanimelist.net/images/anime/4/19457.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヒロシマに一番電車が走った

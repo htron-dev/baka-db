@@ -1,5 +1,7 @@
 # Shakugan no Shana-tan III (Final): Final Destruction
 
+![shakugan-no-shana-tan-iii-final-final-destruction](https://cdn.myanimelist.net/images/anime/11/36063.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 灼眼のシャナたん　ふぁいなるですとらくしょん

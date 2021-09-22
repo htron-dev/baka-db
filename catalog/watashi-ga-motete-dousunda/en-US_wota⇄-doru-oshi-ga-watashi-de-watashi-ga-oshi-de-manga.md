@@ -1,5 +1,7 @@
 # Wota⇄Doru: Oshi ga Watashi de Watashi ga Oshi de
 
+![wota⇄-doru-oshi-ga-watashi-de-watashi-ga-oshi-de](https://cdn.myanimelist.net/images/manga/2/226491.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Majime na Jikan
 
+![majime-na-jikan](https://cdn.myanimelist.net/images/manga/2/82596.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

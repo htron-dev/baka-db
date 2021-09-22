@@ -1,5 +1,7 @@
 # Intel Senpai
 
+![intel-senpai](https://cdn.myanimelist.net/images/manga/1/44939.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

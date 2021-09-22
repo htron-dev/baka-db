@@ -1,5 +1,7 @@
 # Warau Kyuuketsuki
 
+![warau-kyuuketsuki](https://cdn.myanimelist.net/images/manga/3/30933.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

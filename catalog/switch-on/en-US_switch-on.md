@@ -1,5 +1,7 @@
 # Switch On!
 
+![switch-on](https://cdn.myanimelist.net/images/manga/2/79751.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma na Hibi
 
+![koukaku-kidoutai-stand-alone-complex-2nd-gig-individual-eleven-tachikoma-na-hibi](https://cdn.myanimelist.net/images/anime/5/30204.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 攻殻機動隊 S.A.C. 2nd GIG Individual Eleven タチコマな日々

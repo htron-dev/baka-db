@@ -1,5 +1,7 @@
 # Majo to Kiketsu no Kishi
 
+![majo-to-kiketsu-no-kishi](https://cdn.myanimelist.net/images/manga/1/191473.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 22

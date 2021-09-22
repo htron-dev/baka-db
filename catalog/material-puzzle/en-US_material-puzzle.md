@@ -1,5 +1,7 @@
 # Material Puzzle
 
+![material-puzzle](https://cdn.myanimelist.net/images/manga/2/4875.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 126

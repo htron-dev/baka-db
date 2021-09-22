@@ -1,5 +1,7 @@
 # Yuki wa Jigoku ni Ochiru no ka
 
+![yuki-wa-jigoku-ni-ochiru-no-ka](https://cdn.myanimelist.net/images/manga/1/174136.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

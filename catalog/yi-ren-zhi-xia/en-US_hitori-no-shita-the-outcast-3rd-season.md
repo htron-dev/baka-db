@@ -1,5 +1,7 @@
 # Hitori no Shita: The Outcast 3rd Season
 
+![hitori-no-shita-the-outcast-3rd-season](https://cdn.myanimelist.net/images/anime/1197/106650.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 一人之下 3 入世篇

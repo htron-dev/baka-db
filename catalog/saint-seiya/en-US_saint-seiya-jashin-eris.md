@@ -1,5 +1,7 @@
 # Saint Seiya: Jashin Eris
 
+![saint-seiya-jashin-eris](https://cdn.myanimelist.net/images/anime/9/26806.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 聖闘士星矢 邪神エリス

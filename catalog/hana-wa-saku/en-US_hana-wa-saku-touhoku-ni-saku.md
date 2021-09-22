@@ -1,5 +1,7 @@
 # Hana wa Saku: Touhoku ni Saku
 
+![hana-wa-saku-touhoku-ni-saku](https://cdn.myanimelist.net/images/anime/13/67985.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 花は咲く 東北に咲く

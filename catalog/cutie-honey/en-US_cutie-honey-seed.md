@@ -1,5 +1,7 @@
 # Cutie Honey Seed
 
+![cutie-honey-seed](https://cdn.myanimelist.net/images/manga/3/229552.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

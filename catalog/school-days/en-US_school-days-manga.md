@@ -1,5 +1,7 @@
 # School Days
 
+![school-days](https://cdn.myanimelist.net/images/manga/3/11091.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

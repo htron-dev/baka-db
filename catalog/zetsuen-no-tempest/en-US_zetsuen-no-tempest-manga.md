@@ -1,5 +1,7 @@
 # Zetsuen no Tempest
 
+![zetsuen-no-tempest](https://cdn.myanimelist.net/images/manga/3/76945.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Tadaima, Okaeri
 
+![tadaima-okaeri](https://cdn.myanimelist.net/images/manga/2/189551.jpg)
+
 -   **type**: manga
 -   **original-name**: ただいま、おかえり
 -   **start-date**: 2015-11-24

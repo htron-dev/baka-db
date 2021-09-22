@@ -1,5 +1,7 @@
 # Omae no Gohoushi wa Sono Teido ka?
 
+![omae-no-gohoushi-wa-sono-teido-ka](https://cdn.myanimelist.net/images/manga/4/72351.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: お前のご奉仕はその程度か?

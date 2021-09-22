@@ -1,5 +1,7 @@
 # Loveless Treasoner
 
+![loveless-treasoner](https://cdn.myanimelist.net/images/manga/2/151285.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: ラブリストリズナー

@@ -1,5 +1,7 @@
 # Kimama na Aitsu wo Kainarase
 
+![kimama-na-aitsu-wo-kainarase](https://cdn.myanimelist.net/images/manga/2/210943.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

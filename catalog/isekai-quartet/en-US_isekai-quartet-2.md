@@ -1,5 +1,7 @@
 # Isekai Quartet 2
 
+![isekai-quartet-2](https://cdn.myanimelist.net/images/anime/1030/103383.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 異世界かるてっと 2

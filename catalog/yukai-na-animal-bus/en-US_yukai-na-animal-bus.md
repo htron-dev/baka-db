@@ -1,5 +1,7 @@
 # Yukai na Animal Bus
 
+![yukai-na-animal-bus](https://cdn.myanimelist.net/images/anime/9/85584.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゆかいなアニマルバス
@@ -10,8 +12,6 @@
 ## Tags
 
 -   comedy
-
-## Sinopse
 
 ## Links
 

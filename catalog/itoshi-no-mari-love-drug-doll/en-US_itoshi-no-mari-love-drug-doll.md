@@ -1,5 +1,7 @@
 # Itoshi no Mari: Love Drug Doll
 
+![itoshi-no-mari-love-drug-doll](https://cdn.myanimelist.net/images/manga/1/155910.jpg)
+
 -   **type**: manga
 -   **chapters**: 100
 -   **original-name**: 愛しのマリー LOVE DRUG DOLL

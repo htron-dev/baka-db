@@ -1,5 +1,7 @@
 # Unicorn no Kyupi
 
+![unicorn-no-kyupi](https://cdn.myanimelist.net/images/anime/1165/91319.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ユニコーンのキュピ
 -   **start-date**: 2017-03-20

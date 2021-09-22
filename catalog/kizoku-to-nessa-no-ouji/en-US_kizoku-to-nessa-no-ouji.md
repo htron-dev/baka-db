@@ -1,5 +1,7 @@
 # Kizoku to Nessa no Ouji
 
+![kizoku-to-nessa-no-ouji](https://cdn.myanimelist.net/images/manga/1/146123.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

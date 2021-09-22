@@ -1,5 +1,7 @@
 # Kindan, Hatsukoi, Ichigo Tart
 
+![kindan-hatsukoi-ichigo-tart](https://cdn.myanimelist.net/images/manga/1/167666.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

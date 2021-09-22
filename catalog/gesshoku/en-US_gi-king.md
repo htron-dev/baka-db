@@ -1,5 +1,7 @@
 # GI King
 
+![gi-king](https://cdn.myanimelist.net/images/manga/1/38957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: GI キング

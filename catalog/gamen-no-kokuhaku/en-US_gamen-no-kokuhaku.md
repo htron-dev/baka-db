@@ -1,5 +1,7 @@
 # Gamen no Kokuhaku
 
+![gamen-no-kokuhaku](https://cdn.myanimelist.net/images/manga/2/150084.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 画面の告白

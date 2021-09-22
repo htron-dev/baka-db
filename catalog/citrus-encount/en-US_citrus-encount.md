@@ -1,5 +1,7 @@
 # Citrus Encount
 
+![citrus-encount](https://cdn.myanimelist.net/images/manga/2/131213.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 112

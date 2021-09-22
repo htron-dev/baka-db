@@ -1,5 +1,7 @@
 # Yamiyo no Karasu no Monogatari
 
+![yamiyo-no-karasu-no-monogatari](https://cdn.myanimelist.net/images/manga/3/125717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 闇夜の鴉の物語

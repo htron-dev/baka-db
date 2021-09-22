@@ -1,5 +1,7 @@
 # The☆Doraemons: Goal! Goal! Goal!!
 
+![the☆-doraemons-goal-goal-goal](https://cdn.myanimelist.net/images/anime/12/30859.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ザ ☆ ドラえもんズ ゴール！ゴール！ゴール！！

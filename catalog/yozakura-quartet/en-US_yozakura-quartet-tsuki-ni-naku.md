@@ -1,5 +1,7 @@
 # Yozakura Quartet: Tsuki ni Naku
 
+![yozakura-quartet-tsuki-ni-naku](https://cdn.myanimelist.net/images/anime/3/49489.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 夜桜四重奏 ツキニナク

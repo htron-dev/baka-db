@@ -1,5 +1,7 @@
 # Same Girl
 
+![same-girl](https://cdn.myanimelist.net/images/manga/2/228790.jpg)
+
 -   **type**: manga
 -   **original-name**: サメガール
 -   **start-date**: 2019-05-07

@@ -1,5 +1,7 @@
 # Montanari-ke no Kekkon
 
+![montanari-ke-no-kekkon](https://cdn.myanimelist.net/images/manga/1/228962.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: モンタナーリ家の結婚

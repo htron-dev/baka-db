@@ -1,5 +1,7 @@
 # Inubaka
 
+![inubaka](https://cdn.myanimelist.net/images/manga/3/179783.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 230

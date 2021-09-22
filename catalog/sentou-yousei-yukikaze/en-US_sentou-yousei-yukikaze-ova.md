@@ -1,5 +1,7 @@
 # Sentou Yousei Yukikaze
 
+![sentou-yousei-yukikaze](https://cdn.myanimelist.net/images/anime/7/32707.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 戦闘妖精雪風
@@ -32,4 +34,4 @@ In order to oppose the threat, the United Nations established an earth defense m
 -   [Official Site](http://www.faf.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=111)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=902)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Yukikaze_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Yukikaze_%28anime%29)

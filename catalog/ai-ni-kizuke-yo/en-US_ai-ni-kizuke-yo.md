@@ -1,5 +1,7 @@
 # Ai ni Kizuke yo
 
+![ai-ni-kizuke-yo](https://cdn.myanimelist.net/images/manga/1/23463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Anata to Taberu Shiawase wo: Maki to Hanazawa
 
+![anata-to-taberu-shiawase-wo-maki-to-hanazawa](https://cdn.myanimelist.net/images/manga/3/246855.jpg)
+
 -   **type**: manga
 -   **original-name**: あなたと食べるしあわせを ‐槙と花澤‐
 -   **start-date**: 2015-08-25

@@ -1,5 +1,7 @@
 # Sakura Code
 
+![sakura-code](https://cdn.myanimelist.net/images/manga/2/156896.jpg)
+
 -   **type**: manga
 -   **original-name**: サクラコード
 -   **start-date**: 2013-04-26

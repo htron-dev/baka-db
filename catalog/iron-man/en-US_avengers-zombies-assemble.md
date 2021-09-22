@@ -1,5 +1,7 @@
 # Avengers: Zombies Assemble
 
+![avengers-zombies-assemble](https://cdn.myanimelist.net/images/manga/3/174531.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

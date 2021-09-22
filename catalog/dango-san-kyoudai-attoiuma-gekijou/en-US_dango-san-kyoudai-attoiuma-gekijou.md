@@ -1,5 +1,7 @@
 # Dango San Kyoudai Attoiuma Gekijou
 
+![dango-san-kyoudai-attoiuma-gekijou](https://cdn.myanimelist.net/images/anime/8/61589.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: だんご 3 兄弟あっという間劇場

@@ -1,5 +1,7 @@
 # Toshishita Kareshi ni Semararetemasu.
 
+![toshishita-kareshi-ni-semararetemasu](https://cdn.myanimelist.net/images/manga/3/158244.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 年下彼氏に迫られてます。

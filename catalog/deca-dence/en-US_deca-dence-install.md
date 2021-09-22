@@ -1,5 +1,7 @@
 # Deca-Dence: Install
 
+![deca-dence-install](https://cdn.myanimelist.net/images/anime/1480/108948.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: デカダンス 第 5.5 話「install」

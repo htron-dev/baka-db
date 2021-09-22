@@ -1,5 +1,7 @@
 # Magetsukan Kitan
 
+![magetsukan-kitan](https://cdn.myanimelist.net/images/manga/1/62419.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

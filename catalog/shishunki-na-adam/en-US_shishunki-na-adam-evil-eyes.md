@@ -1,5 +1,7 @@
 # Shishunki na Adam: Evil Eyes
 
+![shishunki-na-adam-evil-eyes](https://cdn.myanimelist.net/images/manga/1/110779.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

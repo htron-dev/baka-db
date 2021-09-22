@@ -1,5 +1,7 @@
 # Ryuu Seiki
 
+![ryuu-seiki](https://cdn.myanimelist.net/images/anime/1081/97150.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 竜世紀

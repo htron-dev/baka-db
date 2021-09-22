@@ -1,5 +1,7 @@
 # Gamushara: Mou Hitotsu no Koushien
 
+![gamushara-mou-hitotsu-no-koushien](https://cdn.myanimelist.net/images/manga/1/102453.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: がむしゃら -もうひとつの甲子園-

@@ -1,5 +1,7 @@
 # Ashita no Eleven-tachi
 
+![ashita-no-eleven-tachi](https://cdn.myanimelist.net/images/anime/1980/110420.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あしたの勇者(イレブン)たち

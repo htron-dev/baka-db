@@ -1,5 +1,7 @@
 # Kyou no Sanponta
 
+![kyou-no-sanponta](https://cdn.myanimelist.net/images/manga/2/235733.jpg)
+
 -   **type**: manga
 -   **original-name**: 今日のさんぽんた
 -   **start-date**: 2020-04-12

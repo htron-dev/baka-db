@@ -1,5 +1,7 @@
 # Reverse;End
 
+![reverse-end](https://cdn.myanimelist.net/images/manga/3/121945.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: リバース;エンド

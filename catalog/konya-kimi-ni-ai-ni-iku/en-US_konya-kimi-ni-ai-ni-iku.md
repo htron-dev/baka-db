@@ -1,5 +1,7 @@
 # Konya, Kimi ni Ai ni Iku
 
+![konya-kimi-ni-ai-ni-iku](https://cdn.myanimelist.net/images/manga/3/176676.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

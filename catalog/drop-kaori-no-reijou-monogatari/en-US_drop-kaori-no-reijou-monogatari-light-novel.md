@@ -1,5 +1,7 @@
 # Drop!!: Kaori no Reijou Monogatari
 
+![drop-kaori-no-reijou-monogatari](https://cdn.myanimelist.net/images/manga/2/234760.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: ドロップ!! ～香りの令嬢物語～

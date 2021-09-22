@@ -1,5 +1,7 @@
 # Ano Ko wa Sore wo Gaman Dekinai
 
+![ano-ko-wa-sore-wo-gaman-dekinai](https://cdn.myanimelist.net/images/manga/1/226844.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

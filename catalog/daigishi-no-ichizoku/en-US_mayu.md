@@ -1,5 +1,7 @@
 # Mayu
 
+![mayu](https://cdn.myanimelist.net/images/manga/3/2820.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

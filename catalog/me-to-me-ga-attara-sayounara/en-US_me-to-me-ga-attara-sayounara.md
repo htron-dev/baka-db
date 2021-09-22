@@ -1,5 +1,7 @@
 # Me to Me ga Attara Sayounara
 
+![me-to-me-ga-attara-sayounara](https://cdn.myanimelist.net/images/manga/3/165190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

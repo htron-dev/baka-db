@@ -1,5 +1,7 @@
 # Torikago no Naka no Yuetsu: Kikoushi no Yubisaki ni Oborete
 
+![torikago-no-naka-no-yuetsu-kikoushi-no-yubisaki-ni-oborete](https://cdn.myanimelist.net/images/manga/1/181367.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

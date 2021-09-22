@@ -1,5 +1,7 @@
 # Kimi wo Omou Toki
 
+![kimi-wo-omou-toki](https://cdn.myanimelist.net/images/manga/3/24982.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Koisuru Therapist
 
+![koisuru-therapist](https://cdn.myanimelist.net/images/manga/1/229996.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋するセラピスト

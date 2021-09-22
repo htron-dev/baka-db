@@ -1,5 +1,7 @@
 # Sexaroid
 
+![sexaroid](https://cdn.myanimelist.net/images/manga/3/35876.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

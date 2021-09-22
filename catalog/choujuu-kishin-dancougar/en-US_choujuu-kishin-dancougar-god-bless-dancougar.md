@@ -1,5 +1,7 @@
 # Choujuu Kishin Dancougar: God Bless Dancougar
 
+![choujuu-kishin-dancougar-god-bless-dancougar](https://cdn.myanimelist.net/images/anime/7/23623.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 超獣機神ダンクーガ ゴッド・ブレス・ダンクーガ

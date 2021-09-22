@@ -1,5 +1,7 @@
 # Neko Neko Baby
 
+![neko-neko-baby](https://cdn.myanimelist.net/images/manga/2/236416.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

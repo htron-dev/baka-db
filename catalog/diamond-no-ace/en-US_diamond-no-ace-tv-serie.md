@@ -1,5 +1,7 @@
 # Diamond no Ace
 
+![diamond-no-ace](https://cdn.myanimelist.net/images/anime/5/54235.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 75
 -   **original-name**: ダイヤの A[エース]

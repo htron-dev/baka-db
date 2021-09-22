@@ -1,5 +1,7 @@
 # Imadoki no Wakai Mon wa
 
+![imadoki-no-wakai-mon-wa](https://cdn.myanimelist.net/images/manga/1/221013.jpg)
+
 -   **type**: manga
 -   **original-name**: 今どきの若いモンは
 -   **start-date**: 2018-04-07

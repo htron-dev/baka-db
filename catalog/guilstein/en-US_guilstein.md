@@ -1,5 +1,7 @@
 # Guilstein
 
+![guilstein](https://cdn.myanimelist.net/images/anime/3/33889.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ギルスティン

@@ -1,5 +1,7 @@
 # Asahi-kun wa, Namaikizakari na Otokonoko.
 
+![asahi-kun-wa-namaikizakari-na-otokonoko](https://cdn.myanimelist.net/images/manga/2/241480.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Kotoba Yuugi
 
+![kotoba-yuugi](https://cdn.myanimelist.net/images/manga/1/244749.jpg)
+
 -   **type**: manga
 -   **original-name**: 言葉遊戯
 -   **start-date**: 2021-04-24

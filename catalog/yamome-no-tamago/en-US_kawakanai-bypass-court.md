@@ -1,5 +1,7 @@
 # Kawakanai Bypass Court
 
+![kawakanai-bypass-court](https://cdn.myanimelist.net/images/manga/2/229816.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

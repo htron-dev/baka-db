@@ -1,5 +1,7 @@
 # Eden (ONA)
 
+![eden-ona](https://cdn.myanimelist.net/images/anime/1621/114901.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: エデン
@@ -23,4 +25,4 @@ The sci-fi fantasy series Eden is set thousands of years in the future, where a 
 -   [My Anime list](https://myanimelist.net/anime/39728/Eden_ONA)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14825)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22602)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Eden_(2021_TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Eden_%282021_TV_series%29)

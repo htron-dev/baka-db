@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 14: Kami to Kami
 
+![dragon-ball-z-movie-14-kami-to-kami](https://cdn.myanimelist.net/images/anime/1734/93678.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 神と神

@@ -1,5 +1,7 @@
 # Isshuukan Gentei Danshi.: Watashi ga Otoko ni Natta Totan, Onna Tomodachi ga Hatsujou shita Ken
 
+![isshuukan-gentei-danshi-watashi-ga-otoko-ni-natta-totan-onna-tomodachi-ga-hatsujou-shita-ken](https://cdn.myanimelist.net/images/manga/3/165456.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

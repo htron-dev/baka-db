@@ -1,5 +1,7 @@
 # Re:make
 
+![re-make](https://cdn.myanimelist.net/images/manga/2/165193.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 43

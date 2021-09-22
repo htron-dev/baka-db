@@ -1,5 +1,7 @@
 # Renai Demo Classic
 
+![renai-demo-classic](https://cdn.myanimelist.net/images/manga/1/74541.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

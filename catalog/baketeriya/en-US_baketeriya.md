@@ -1,5 +1,7 @@
 # Baketeriya
 
+![baketeriya](https://cdn.myanimelist.net/images/manga/1/83965.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

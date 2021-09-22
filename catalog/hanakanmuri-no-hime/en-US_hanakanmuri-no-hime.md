@@ -1,5 +1,7 @@
 # Hanakanmuri no Hime
 
+![hanakanmuri-no-hime](https://cdn.myanimelist.net/images/manga/3/11507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

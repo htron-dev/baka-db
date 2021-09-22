@@ -1,5 +1,7 @@
 # Bannou Yasai Ninninman
 
+![bannou-yasai-ninninman](https://cdn.myanimelist.net/images/anime/12/29028.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 万能野菜 ニンニンマン

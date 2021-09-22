@@ -1,5 +1,7 @@
 # Iron Man
 
+![iron-man](https://cdn.myanimelist.net/images/anime/13/26227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アイアンマン

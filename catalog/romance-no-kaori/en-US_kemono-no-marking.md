@@ -1,5 +1,7 @@
 # Kemono no Marking
 
+![kemono-no-marking](https://cdn.myanimelist.net/images/manga/2/226941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

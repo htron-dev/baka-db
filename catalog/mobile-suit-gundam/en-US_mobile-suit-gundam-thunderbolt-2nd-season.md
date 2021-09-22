@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Thunderbolt 2nd Season
 
+![mobile-suit-gundam-thunderbolt-2nd-season](https://cdn.myanimelist.net/images/anime/5/86531.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 機動戦士ガンダム サンダーボルト 2

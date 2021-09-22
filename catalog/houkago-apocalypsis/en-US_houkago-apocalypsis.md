@@ -1,5 +1,7 @@
 # Houkago Apocalypsis
 
+![houkago-apocalypsis](https://cdn.myanimelist.net/images/manga/1/158444.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 放課後アポカリプス

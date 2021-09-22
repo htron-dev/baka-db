@@ -1,5 +1,7 @@
 # Gochuumon wa Usagi Desu ka??: Dear My Sister
 
+![gochuumon-wa-usagi-desu-ka-dear-my-sister](https://cdn.myanimelist.net/images/anime/1223/95215.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ご注文はうさぎですか??～ Dear My Sister ～

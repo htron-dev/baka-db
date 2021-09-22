@@ -1,5 +1,7 @@
 # Guruguru Tekuteku
 
+![guruguru-tekuteku](https://cdn.myanimelist.net/images/manga/1/228136.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ぐるぐるてくてく

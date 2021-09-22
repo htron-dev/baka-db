@@ -1,5 +1,7 @@
 # Tabisuru Shoujo to Shakunetsu Kuni
 
+![tabisuru-shoujo-to-shakunetsu-kuni](https://cdn.myanimelist.net/images/manga/2/159319.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 旅する少女と灼熱の国

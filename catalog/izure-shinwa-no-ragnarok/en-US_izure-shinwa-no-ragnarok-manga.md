@@ -1,5 +1,7 @@
 # Izure Shinwa no Ragnarok
 
+![izure-shinwa-no-ragnarok](https://cdn.myanimelist.net/images/manga/1/187243.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

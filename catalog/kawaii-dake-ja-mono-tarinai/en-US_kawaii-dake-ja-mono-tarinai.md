@@ -1,5 +1,7 @@
 # Kawaii dake ja Mono Tarinai!
 
+![kawaii-dake-ja-mono-tarinai](https://cdn.myanimelist.net/images/manga/3/22666.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: カワイイだけじゃモノ足りない！

@@ -1,5 +1,7 @@
 # Kiniro no Corda: Blue♪Sky
 
+![kiniro-no-corda-blue♪-sky](https://cdn.myanimelist.net/images/manga/1/119923.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Bright: Samurai Soul
 
+![bright-samurai-soul](https://cdn.myanimelist.net/images/anime/1376/115672.jpg)
+
 -   **type**: ona
 -   **original-name**: Bright: Samurai Soul
 -   **rating**: None

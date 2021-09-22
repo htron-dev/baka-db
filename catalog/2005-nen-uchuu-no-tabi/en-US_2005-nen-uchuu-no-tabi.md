@@ -1,5 +1,7 @@
 # 2005-nen Uchuu no Tabi
 
+![2005-nen-uchuu-no-tabi](https://cdn.myanimelist.net/images/anime/7/81170.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 2005 年宇宙の旅

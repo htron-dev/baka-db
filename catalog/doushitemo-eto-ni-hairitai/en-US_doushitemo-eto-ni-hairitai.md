@@ -1,5 +1,7 @@
 # Doushitemo Eto ni Hairitai
 
+![doushitemo-eto-ni-hairitai](https://cdn.myanimelist.net/images/anime/2/88675.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: どうしても干支にはいりたい

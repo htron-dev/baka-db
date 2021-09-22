@@ -1,5 +1,7 @@
 # Maou wa Neya de, Yuusha no (Kodane) wo Koinegau
 
+![maou-wa-neya-de-yuusha-no-kodane-wo-koinegau](https://cdn.myanimelist.net/images/manga/1/217215.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Hibiki no Mahou
 
+![hibiki-no-mahou](https://cdn.myanimelist.net/images/manga/3/173205.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

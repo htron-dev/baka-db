@@ -1,5 +1,7 @@
 # Ikemen Girl to Hakoiri Musume
 
+![ikemen-girl-to-hakoiri-musume](https://cdn.myanimelist.net/images/manga/2/228481.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

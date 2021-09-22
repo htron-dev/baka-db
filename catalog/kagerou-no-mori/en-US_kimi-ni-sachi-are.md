@@ -1,5 +1,7 @@
 # Kimi ni Sachi Are!
 
+![kimi-ni-sachi-are](https://cdn.myanimelist.net/images/manga/3/147803.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

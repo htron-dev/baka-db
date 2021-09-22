@@ -1,5 +1,7 @@
 # Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.
 
+![yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita](https://cdn.myanimelist.net/images/anime/13/54389.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 勇者になれなかった俺はしぶしぶ就職を決意しました。

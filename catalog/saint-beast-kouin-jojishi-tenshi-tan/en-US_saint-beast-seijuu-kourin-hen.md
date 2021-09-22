@@ -1,5 +1,7 @@
 # Saint Beast: Seijuu Kourin-hen
 
+![saint-beast-seijuu-kourin-hen](https://cdn.myanimelist.net/images/anime/11/23705.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: セイント・ビースト～聖獣降臨編～

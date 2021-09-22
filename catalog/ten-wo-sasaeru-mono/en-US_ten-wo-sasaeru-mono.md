@@ -1,5 +1,7 @@
 # Ten wo Sasaeru Mono
 
+![ten-wo-sasaeru-mono](https://cdn.myanimelist.net/images/manga/2/151144.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: 天を支える者

@@ -1,5 +1,7 @@
 # Ninja Slayer From Animation
 
+![ninja-slayer-from-animation](https://cdn.myanimelist.net/images/anime/5/72362.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: ニンジャスレイヤー フロムアニメイシヨン

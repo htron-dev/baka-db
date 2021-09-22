@@ -1,5 +1,7 @@
 # Ikai no Himemiko wa Pâtissière
 
+![ikai-no-himemiko-wa-patissiere](https://cdn.myanimelist.net/images/manga/1/238616.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

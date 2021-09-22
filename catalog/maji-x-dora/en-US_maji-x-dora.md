@@ -1,5 +1,7 @@
 # Maji x Dora
 
+![maji-x-dora](https://cdn.myanimelist.net/images/manga/3/129297.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: まじ × どら

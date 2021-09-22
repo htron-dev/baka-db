@@ -1,5 +1,7 @@
 # Oh Doroboo!
 
+![oh-doroboo](https://cdn.myanimelist.net/images/manga/1/177160.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

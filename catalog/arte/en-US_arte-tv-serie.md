@@ -1,5 +1,7 @@
 # Arte
 
+![arte](https://cdn.myanimelist.net/images/anime/1284/106945.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アルテ
@@ -31,4 +33,4 @@ In her quest for a mentor, Arte has to face harsh reality when she is completely
 -   [Official Site](http://arte-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15013)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22338)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Arte_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Arte_%28manga%29#Anime)

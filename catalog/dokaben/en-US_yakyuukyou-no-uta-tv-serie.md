@@ -1,5 +1,7 @@
 # Yakyuukyou no Uta
 
+![yakyuukyou-no-uta](https://cdn.myanimelist.net/images/anime/11/29000.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 野球狂の詩

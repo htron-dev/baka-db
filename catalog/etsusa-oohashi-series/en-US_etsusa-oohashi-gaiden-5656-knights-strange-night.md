@@ -1,5 +1,7 @@
 # Etsusa Oohashi Gaiden: 5656! Knights' Strange Night
 
+![etsusa-oohashi-gaiden-5656-knights-strange-night](https://cdn.myanimelist.net/images/manga/1/33939.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

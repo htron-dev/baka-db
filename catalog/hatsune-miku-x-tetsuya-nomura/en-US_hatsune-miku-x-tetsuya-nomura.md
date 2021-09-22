@@ -1,5 +1,7 @@
 # Hatsune Miku x Tetsuya Nomura
 
+![hatsune-miku-x-tetsuya-nomura](https://cdn.myanimelist.net/images/anime/10/70301.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: HATSUNE MIKU × TETSUYA NOMURA

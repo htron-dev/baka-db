@@ -1,5 +1,7 @@
 # Bloody Monday: Last Season
 
+![bloody-monday-last-season](https://cdn.myanimelist.net/images/manga/2/185386.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

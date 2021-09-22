@@ -1,5 +1,7 @@
 # Futago no Teikoku
 
+![futago-no-teikoku](https://cdn.myanimelist.net/images/manga/3/194336.jpg)
+
 -   **type**: manga
 -   **original-name**: 双子の帝國
 -   **start-date**: 2015-08-21

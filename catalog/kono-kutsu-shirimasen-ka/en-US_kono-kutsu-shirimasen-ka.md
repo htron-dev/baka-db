@@ -1,5 +1,7 @@
 # Kono Kutsu Shirimasen ka?
 
+![kono-kutsu-shirimasen-ka](https://cdn.myanimelist.net/images/manga/5/72053.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Popolocrois Monogatari Pilot
 
+![popolocrois-monogatari-pilot](https://cdn.myanimelist.net/images/anime/1382/105387.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポロクロイス物語 パイロットフィルム

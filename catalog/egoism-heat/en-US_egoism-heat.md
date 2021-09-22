@@ -1,5 +1,7 @@
 # Egoism Heat
 
+![egoism-heat](https://cdn.myanimelist.net/images/manga/2/246002.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

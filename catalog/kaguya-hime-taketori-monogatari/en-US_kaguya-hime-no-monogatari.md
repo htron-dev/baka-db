@@ -1,5 +1,7 @@
 # Kaguya-hime no Monogatari
 
+![kaguya-hime-no-monogatari](https://cdn.myanimelist.net/images/anime/1935/93606.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かぐや姫の物語

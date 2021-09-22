@@ -1,5 +1,7 @@
 # Moon Boy
 
+![moon-boy](https://cdn.myanimelist.net/images/manga/3/107503.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 50

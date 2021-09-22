@@ -1,5 +1,7 @@
 # Nomad: Megalo Box 2
 
+![nomad-megalo-box-2](https://cdn.myanimelist.net/images/anime/1190/113352.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: NOMAD メガロボクス 2

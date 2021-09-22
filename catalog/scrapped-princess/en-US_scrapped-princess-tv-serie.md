@@ -1,5 +1,7 @@
 # Scrapped Princess
 
+![scrapped-princess](https://cdn.myanimelist.net/images/anime/1238/94717.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: スクラップド・プリンセス

@@ -1,5 +1,7 @@
 # Barbapapa
 
+![barbapapa](https://cdn.myanimelist.net/images/anime/7/3921.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: バーバパパ

@@ -1,5 +1,7 @@
 # Chibi Maruko-chan: Hi no Youjin
 
+![chibi-maruko-chan-hi-no-youjin](https://cdn.myanimelist.net/images/anime/11/84721.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ちびまる子ちゃん　火の用心

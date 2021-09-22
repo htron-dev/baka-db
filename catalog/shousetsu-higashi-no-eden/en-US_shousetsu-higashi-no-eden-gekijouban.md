@@ -1,5 +1,7 @@
 # Shousetsu Higashi no Eden Gekijouban
 
+![shousetsu-higashi-no-eden-gekijouban](https://cdn.myanimelist.net/images/manga/2/115983.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 小説 東のエデン 劇場版

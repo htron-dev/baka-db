@@ -1,5 +1,7 @@
 # Funny Money
 
+![funny-money](https://cdn.myanimelist.net/images/manga/1/29267.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 퍼니 머니

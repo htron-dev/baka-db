@@ -1,5 +1,7 @@
 # Les Misérables
 
+![les-miserables](https://cdn.myanimelist.net/images/manga/3/109201.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 33

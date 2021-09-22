@@ -1,5 +1,7 @@
 # Ecchi Sketch One Touch: Boku ga Oshikko ni Mezameru made
 
+![ecchi-sketch-one-touch-boku-ga-oshikko-ni-mezameru-made](https://cdn.myanimelist.net/images/manga/3/213478.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

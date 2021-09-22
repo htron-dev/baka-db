@@ -1,5 +1,7 @@
 # Kemono Friends: Bus-teki
 
+![kemono-friends-bus-teki](https://cdn.myanimelist.net/images/anime/2/86031.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: けものフレンズ　 12.1 話「ばすてき」

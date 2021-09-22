@@ -1,5 +1,7 @@
 # Nazotoki-hime wa Meitantei♥
 
+![nazotoki-hime-wa-meitantei♥](https://cdn.myanimelist.net/images/anime/10/42143.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ナゾトキ姫は名探偵 ♥

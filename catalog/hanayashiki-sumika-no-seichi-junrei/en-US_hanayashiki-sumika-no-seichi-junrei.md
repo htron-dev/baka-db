@@ -1,5 +1,7 @@
 # Hanayashiki Sumika no Seichi Junrei
 
+![hanayashiki-sumika-no-seichi-junrei](https://cdn.myanimelist.net/images/manga/1/206692.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 8

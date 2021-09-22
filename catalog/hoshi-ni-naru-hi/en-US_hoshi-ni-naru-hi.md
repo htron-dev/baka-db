@@ -1,5 +1,7 @@
 # Hoshi ni Naru Hi
 
+![hoshi-ni-naru-hi](https://cdn.myanimelist.net/images/manga/1/62243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

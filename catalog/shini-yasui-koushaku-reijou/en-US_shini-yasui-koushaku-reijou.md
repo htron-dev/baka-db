@@ -1,5 +1,7 @@
 # Shini Yasui Koushaku Reijou
 
+![shini-yasui-koushaku-reijou](https://cdn.myanimelist.net/images/manga/3/236213.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 死にやすい公爵令嬢
 -   **start-date**: 2017-07-12

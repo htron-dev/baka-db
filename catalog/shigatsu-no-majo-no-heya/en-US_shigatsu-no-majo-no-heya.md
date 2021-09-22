@@ -1,5 +1,7 @@
 # Shigatsu no Majo no Heya
 
+![shigatsu-no-majo-no-heya](https://cdn.myanimelist.net/images/manga/2/172017.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 四月の魔女の部屋

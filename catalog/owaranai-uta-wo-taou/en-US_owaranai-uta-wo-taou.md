@@ -1,5 +1,7 @@
 # Owaranai Uta wo Taou!
 
+![owaranai-uta-wo-taou](https://cdn.myanimelist.net/images/manga/3/23280.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 終わらない歌をうたおう!

@@ -1,5 +1,7 @@
 # Kakumeiki Valvrave: Uragiri no Rakuin
 
+![kakumeiki-valvrave-uragiri-no-rakuin](https://cdn.myanimelist.net/images/manga/1/113789.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

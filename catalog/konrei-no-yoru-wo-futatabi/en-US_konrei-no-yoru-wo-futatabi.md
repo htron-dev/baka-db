@@ -1,5 +1,7 @@
 # Konrei no Yoru wo Futatabi
 
+![konrei-no-yoru-wo-futatabi](https://cdn.myanimelist.net/images/manga/1/165935.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 婚礼の夜をふたたび

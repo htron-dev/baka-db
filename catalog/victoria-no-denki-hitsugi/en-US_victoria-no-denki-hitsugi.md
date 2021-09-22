@@ -1,5 +1,7 @@
 # Victoria no Denki Hitsugi
 
+![victoria-no-denki-hitsugi](https://cdn.myanimelist.net/images/manga/1/243537.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴィクトリアの電気棺
 -   **start-date**: 2021-04-16

@@ -1,5 +1,7 @@
 # Tsugihagi Butterfly
 
+![tsugihagi-butterfly](https://cdn.myanimelist.net/images/manga/2/120783.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ツギハギ運命翅（バタフライ）

@@ -1,5 +1,7 @@
 # World End Valkyrie
 
+![world-end-valkyrie](https://cdn.myanimelist.net/images/manga/2/124035.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ワールドエンド・ヴァルキリー

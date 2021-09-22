@@ -1,5 +1,7 @@
 # Macross Frontier
 
+![macross-frontier](https://cdn.myanimelist.net/images/manga/3/78143.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

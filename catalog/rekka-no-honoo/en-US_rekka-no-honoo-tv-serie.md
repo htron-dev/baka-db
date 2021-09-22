@@ -1,5 +1,7 @@
 # Rekka no Honoo
 
+![rekka-no-honoo](https://cdn.myanimelist.net/images/anime/1646/113504.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: 烈火の炎

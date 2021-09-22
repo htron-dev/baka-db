@@ -1,5 +1,7 @@
 # Sekirei: Pure Engagement Episode 0
 
+![sekirei-pure-engagement-episode-0](https://cdn.myanimelist.net/images/anime/9/25948.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: セキレイ～ Pure Engagement ～第零羽

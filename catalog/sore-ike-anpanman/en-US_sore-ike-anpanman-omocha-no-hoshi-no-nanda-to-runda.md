@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Omocha no Hoshi no Nanda to Runda
 
+![sore-ike-anpanman-omocha-no-hoshi-no-nanda-to-runda](https://cdn.myanimelist.net/images/anime/8/78423.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン おもちゃの星のナンダとルンダ

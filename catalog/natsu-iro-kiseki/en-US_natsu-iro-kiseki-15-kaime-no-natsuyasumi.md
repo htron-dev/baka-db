@@ -1,5 +1,7 @@
 # Natsu-iro Kiseki: 15-kaime no Natsuyasumi
 
+![natsu-iro-kiseki-15-kaime-no-natsuyasumi](https://cdn.myanimelist.net/images/anime/6/41923.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 夏色キセキ ～ 15 回目のナツヤスミ～

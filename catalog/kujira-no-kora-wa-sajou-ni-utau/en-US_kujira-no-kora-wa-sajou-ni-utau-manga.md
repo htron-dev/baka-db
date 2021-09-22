@@ -1,5 +1,7 @@
 # Kujira no Kora wa Sajou ni Utau
 
+![kujira-no-kora-wa-sajou-ni-utau](https://cdn.myanimelist.net/images/manga/3/122289.jpg)
+
 -   **type**: manga
 -   **original-name**: クジラの子らは砂上に歌う
 -   **start-date**: 2013-06-06

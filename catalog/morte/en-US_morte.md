@@ -1,5 +1,7 @@
 # Morte
 
+![morte](https://cdn.myanimelist.net/images/manga/2/184056.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: モーテ

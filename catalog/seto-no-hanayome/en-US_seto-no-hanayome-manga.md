@@ -1,5 +1,7 @@
 # Seto no Hanayome
 
+![seto-no-hanayome](https://cdn.myanimelist.net/images/manga/1/185286.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 79

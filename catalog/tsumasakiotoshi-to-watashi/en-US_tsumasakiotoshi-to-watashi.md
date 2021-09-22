@@ -1,5 +1,7 @@
 # Tsumasakiotoshi to Watashi
 
+![tsumasakiotoshi-to-watashi](https://cdn.myanimelist.net/images/manga/2/171206.jpg)
+
 -   **type**: manga
 -   **original-name**: つまさきおとしと私
 -   **start-date**: 2014-05-25

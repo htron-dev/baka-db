@@ -1,5 +1,7 @@
 # Mouretsu Pirates
 
+![mouretsu-pirates](https://cdn.myanimelist.net/images/anime/13/36247.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: モーレツ宇宙海賊

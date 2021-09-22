@@ -1,5 +1,7 @@
 # 91 Days: Mijikai Rousoku
 
+![91-days-mijikai-rousoku](https://cdn.myanimelist.net/images/anime/13/81707.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 91Days『Day7.5 短いローソク』

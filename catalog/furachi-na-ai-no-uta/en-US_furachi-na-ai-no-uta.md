@@ -1,5 +1,7 @@
 # Furachi na Ai no Uta
 
+![furachi-na-ai-no-uta](https://cdn.myanimelist.net/images/manga/2/8006.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

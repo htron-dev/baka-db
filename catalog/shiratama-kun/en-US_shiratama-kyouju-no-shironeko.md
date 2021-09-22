@@ -1,5 +1,7 @@
 # Shiratama Kyouju no Shironeko
 
+![shiratama-kyouju-no-shironeko](https://cdn.myanimelist.net/images/manga/3/209506.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33
@@ -17,7 +19,7 @@
 ## Authors
 
 -   Inaba
--   So-he- (Story & Art)
+-   So-he(Story & Art)
 
 ## Sinopse
 

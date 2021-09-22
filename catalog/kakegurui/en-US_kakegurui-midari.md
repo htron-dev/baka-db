@@ -1,5 +1,7 @@
 # Kakegurui Midari
 
+![kakegurui-midari](https://cdn.myanimelist.net/images/manga/1/198486.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 59

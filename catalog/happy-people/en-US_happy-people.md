@@ -1,5 +1,7 @@
 # Happy People
 
+![happy-people](https://cdn.myanimelist.net/images/manga/3/142893.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 61

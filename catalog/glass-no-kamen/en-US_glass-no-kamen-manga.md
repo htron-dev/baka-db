@@ -1,5 +1,7 @@
 # Glass no Kamen
 
+![glass-no-kamen](https://cdn.myanimelist.net/images/manga/2/1425.jpg)
+
 -   **type**: manga
 -   **original-name**: ガラスの仮面
 -   **start-date**: 1976-01-19

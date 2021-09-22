@@ -1,5 +1,7 @@
 # Letters/Vanishing
 
+![letters-vanishing](https://cdn.myanimelist.net/images/manga/2/151957.jpg)
+
 -   **type**: light-novel
 -   **original-name**: レターズ/ヴァニシング
 -   **start-date**: 2014-09-10

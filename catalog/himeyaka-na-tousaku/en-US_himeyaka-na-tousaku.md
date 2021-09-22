@@ -1,5 +1,7 @@
 # Himeyaka na Tousaku
 
+![himeyaka-na-tousaku](https://cdn.myanimelist.net/images/manga/2/63369.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

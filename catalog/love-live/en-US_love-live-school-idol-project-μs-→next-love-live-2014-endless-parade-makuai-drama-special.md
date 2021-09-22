@@ -1,5 +1,7 @@
 # Love Live! School Idol Project: μ's →NEXT LoveLive! 2014 - Endless Parade Makuai Drama
 
+![love-live-school-idol-project-μs-→next-love-live-2014-endless-parade-makuai-drama](https://cdn.myanimelist.net/images/anime/5/65611.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ラブライブ School idol project！μ's→NEXT LoveLive！2014 ～ ENDLESS PARADE ～幕間ドラマ

@@ -1,5 +1,7 @@
 # Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi
 
+![isekai-cheat-magician-yoiboshi-no-matsuri-to-majutsushi](https://cdn.myanimelist.net/images/anime/1945/116050.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 異世界チート魔術師 第 13 話「宵星の祭りと魔術師」

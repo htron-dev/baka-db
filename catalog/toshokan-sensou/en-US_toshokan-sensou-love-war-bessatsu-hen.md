@@ -1,5 +1,7 @@
 # Toshokan Sensou: Love & War Bessatsu-hen
 
+![toshokan-sensou-love-war-bessatsu-hen](https://cdn.myanimelist.net/images/manga/3/165816.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 61

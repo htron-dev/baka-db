@@ -1,5 +1,7 @@
 # Aka no Sumika
 
+![aka-no-sumika](https://cdn.myanimelist.net/images/manga/1/24642.jpg)
+
 -   **type**: manga
 -   **original-name**: 朱の栖
 

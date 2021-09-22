@@ -1,5 +1,7 @@
 # Ai Girl
 
+![ai-girl](https://cdn.myanimelist.net/images/manga/3/54145.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 愛＋少女

@@ -1,5 +1,7 @@
 # Koisuru (Otome) no Tsukurikata
 
+![koisuru-otome-no-tsukurikata](https://cdn.myanimelist.net/images/manga/2/234259.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋する（おとめ）の作り方
 -   **start-date**: 2020-02-21

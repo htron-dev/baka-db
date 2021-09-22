@@ -1,5 +1,7 @@
 # Hei Mao Jing Zhan Zhi Fei Cui Zhi Xing
 
+![hei-mao-jing-zhan-zhi-fei-cui-zhi-xing](https://cdn.myanimelist.net/images/anime/1613/108488.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 黑猫警长之翡翠之星

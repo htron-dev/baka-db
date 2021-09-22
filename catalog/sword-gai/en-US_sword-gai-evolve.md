@@ -1,5 +1,7 @@
 # Sword Gai Evolve
 
+![sword-gai-evolve](https://cdn.myanimelist.net/images/manga/1/179171.jpg)
+
 -   **type**: manga
 -   **original-name**: ソードガイ・ヱヴォルヴ 装刀凱 Evolve
 -   **start-date**: 2015-10-31

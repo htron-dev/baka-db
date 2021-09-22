@@ -1,5 +1,7 @@
 # Densha Otoko: Bijo to Junjou Otaku Seinen no Net-Hatsu Love Story
 
+![densha-otoko-bijo-to-junjou-otaku-seinen-no-net-hatsu-love-story](https://cdn.myanimelist.net/images/manga/3/167594.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

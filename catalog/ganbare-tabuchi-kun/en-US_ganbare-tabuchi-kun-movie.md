@@ -1,5 +1,7 @@
 # Ganbare!! Tabuchi-kun!!
 
+![ganbare-tabuchi-kun](https://cdn.myanimelist.net/images/anime/12/78726.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: がんばれ!! タブチくん!!

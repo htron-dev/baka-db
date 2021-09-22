@@ -1,5 +1,7 @@
 # Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken
 
+![tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken](https://cdn.myanimelist.net/images/manga/2/246070.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件
 -   **start-date**: 2021-02-27

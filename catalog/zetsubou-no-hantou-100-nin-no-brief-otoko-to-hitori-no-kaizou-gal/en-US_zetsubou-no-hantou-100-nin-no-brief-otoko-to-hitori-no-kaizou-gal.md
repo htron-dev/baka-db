@@ -1,5 +1,7 @@
 # Zetsubou no Hantou: 100-nin no Brief Otoko to Hitori no Kaizou Gal
 
+![zetsubou-no-hantou-100-nin-no-brief-otoko-to-hitori-no-kaizou-gal](https://cdn.myanimelist.net/images/manga/1/119055.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

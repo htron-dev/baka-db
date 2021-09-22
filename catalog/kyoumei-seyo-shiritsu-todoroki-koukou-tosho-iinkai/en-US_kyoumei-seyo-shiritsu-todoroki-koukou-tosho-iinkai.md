@@ -1,5 +1,7 @@
 # Kyoumei seyo! Shiritsu Todoroki Koukou Tosho Iinkai
 
+![kyoumei-seyo-shiritsu-todoroki-koukou-tosho-iinkai](https://cdn.myanimelist.net/images/manga/3/170042.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 64

@@ -1,5 +1,7 @@
 # Golden Batman
 
+![golden-batman](https://cdn.myanimelist.net/images/anime/10/45142.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 검은별과 황금박쥐

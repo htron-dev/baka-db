@@ -1,5 +1,7 @@
 # Toaru Kagaku no Suzushina Yuriko
 
+![toaru-kagaku-no-suzushina-yuriko](https://cdn.myanimelist.net/images/anime/1661/107459.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Toaru Kagaku no Suzushina Yuriko

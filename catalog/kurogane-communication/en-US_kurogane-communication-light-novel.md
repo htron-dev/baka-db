@@ -1,5 +1,7 @@
 # Kurogane Communication
 
+![kurogane-communication](https://cdn.myanimelist.net/images/manga/1/244801.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 鉄コミュニケイション

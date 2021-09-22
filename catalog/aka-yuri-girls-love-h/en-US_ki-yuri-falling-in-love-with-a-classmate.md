@@ -1,5 +1,7 @@
 # Ki Yuri: Falling in Love With a Classmate
 
+![ki-yuri-falling-in-love-with-a-classmate](https://cdn.myanimelist.net/images/manga/2/96753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

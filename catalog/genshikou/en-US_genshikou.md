@@ -1,5 +1,7 @@
 # Genshikou
 
+![genshikou](https://cdn.myanimelist.net/images/manga/2/123249.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 幻視行
 -   **start-date**: 2013-04-27

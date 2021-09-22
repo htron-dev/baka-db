@@ -1,5 +1,7 @@
 # Wasuremono
 
+![wasuremono](https://cdn.myanimelist.net/images/manga/1/29492.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

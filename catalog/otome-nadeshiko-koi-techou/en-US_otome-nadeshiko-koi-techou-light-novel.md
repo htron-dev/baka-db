@@ -1,5 +1,7 @@
 # Otome Nadeshiko Koi Techou
 
+![otome-nadeshiko-koi-techou](https://cdn.myanimelist.net/images/manga/3/67429.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 乙女なでしこ恋手帖

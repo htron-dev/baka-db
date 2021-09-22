@@ -1,5 +1,7 @@
 # Manga Nihonshi
 
+![manga-nihonshi](https://cdn.myanimelist.net/images/anime/2/58647.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: まんが日本史

@@ -1,5 +1,7 @@
 # THE IDOLM@STER 2: Colorful Days
 
+![the-idolm-ster-2-colorful-days](https://cdn.myanimelist.net/images/manga/1/61385.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

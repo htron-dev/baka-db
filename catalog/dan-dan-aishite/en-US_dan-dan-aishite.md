@@ -1,5 +1,7 @@
 # Dan Dan Aishite
 
+![dan-dan-aishite](https://cdn.myanimelist.net/images/manga/1/7268.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: DAN DAN 愛して

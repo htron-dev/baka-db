@@ -1,5 +1,7 @@
 # Kaette Hoshii no
 
+![kaette-hoshii-no](https://cdn.myanimelist.net/images/manga/1/247262.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

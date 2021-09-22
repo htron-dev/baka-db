@@ -1,5 +1,7 @@
 # Yomawari Neko
 
+![yomawari-neko](https://cdn.myanimelist.net/images/manga/2/180090.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜廻り猫
 -   **start-date**: 2016-06-30

@@ -1,5 +1,7 @@
 # Kimi ni Suki tte Iwasetai
 
+![kimi-ni-suki-tte-iwasetai](https://cdn.myanimelist.net/images/manga/1/213263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Oshi ga Budoukan Ittekuretara Shinu
 
+![oshi-ga-budoukan-ittekuretara-shinu](https://cdn.myanimelist.net/images/anime/1139/104708.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 推しが武道館いってくれたら死ぬ

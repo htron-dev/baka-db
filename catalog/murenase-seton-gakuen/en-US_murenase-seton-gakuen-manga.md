@@ -1,5 +1,7 @@
 # Murenase! Seton Gakuen
 
+![murenase-seton-gakuen](https://cdn.myanimelist.net/images/manga/1/198434.jpg)
+
 -   **type**: manga
 -   **original-name**: 群れなせ！シートン学園
 -   **start-date**: 2016-05-08

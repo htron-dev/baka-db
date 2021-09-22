@@ -1,5 +1,7 @@
 # Medarot Damashii
 
+![medarot-damashii](https://cdn.myanimelist.net/images/anime/2/19960.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: メダロット魂

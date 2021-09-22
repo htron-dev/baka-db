@@ -1,5 +1,7 @@
 # Hige wo Soru. Soshite Joshikousei wo Hirou.
 
+![hige-wo-soru-soshite-joshikousei-wo-hirou](https://cdn.myanimelist.net/images/anime/1146/113477.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ひげを剃る。そして女子高生を拾う。

@@ -1,5 +1,7 @@
 # Aurora wo Mita Kyouryuu-tachi
 
+![aurora-wo-mita-kyouryuu-tachi](https://cdn.myanimelist.net/images/anime/4/88870.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: オーロラを見た恐竜たち

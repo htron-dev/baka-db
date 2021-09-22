@@ -1,5 +1,7 @@
 # AAA
 
+![aaa](https://cdn.myanimelist.net/images/manga/3/166430.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

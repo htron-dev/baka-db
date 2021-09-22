@@ -1,5 +1,7 @@
 # Unmei no Proposal: Sannin no Ouji to Shintaku no Hanayome
 
+![unmei-no-proposal-sannin-no-ouji-to-shintaku-no-hanayome](https://cdn.myanimelist.net/images/manga/1/195014.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 運命のプロポーズ　～三人の王子と神託の花嫁～

@@ -1,5 +1,7 @@
 # Paradise Kiss
 
+![paradise-kiss](https://cdn.myanimelist.net/images/manga/5/165919.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

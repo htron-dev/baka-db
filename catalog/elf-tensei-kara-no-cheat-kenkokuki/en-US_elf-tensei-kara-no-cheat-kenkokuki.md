@@ -1,5 +1,7 @@
 # Elf Tensei kara no Cheat Kenkokuki
 
+![elf-tensei-kara-no-cheat-kenkokuki](https://cdn.myanimelist.net/images/manga/1/176390.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 84

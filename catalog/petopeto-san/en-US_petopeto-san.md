@@ -1,5 +1,7 @@
 # Petopeto-san
 
+![petopeto-san](https://cdn.myanimelist.net/images/manga/3/238929.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: ぺとぺとさん

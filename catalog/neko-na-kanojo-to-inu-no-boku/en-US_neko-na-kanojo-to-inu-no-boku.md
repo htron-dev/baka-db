@@ -1,5 +1,7 @@
 # Neko na Kanojo to Inu no Boku
 
+![neko-na-kanojo-to-inu-no-boku](https://cdn.myanimelist.net/images/manga/3/230000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

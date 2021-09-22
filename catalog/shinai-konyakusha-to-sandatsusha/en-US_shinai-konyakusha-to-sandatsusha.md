@@ -1,5 +1,7 @@
 # Shinai: Konyakusha to Sandatsusha
 
+![shinai-konyakusha-to-sandatsusha](https://cdn.myanimelist.net/images/manga/2/199153.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 深愛～婚約者と簒奪者～

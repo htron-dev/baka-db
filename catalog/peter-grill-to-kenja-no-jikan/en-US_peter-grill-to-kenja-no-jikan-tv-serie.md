@@ -1,5 +1,7 @@
 # Peter Grill to Kenja no Jikan
 
+![peter-grill-to-kenja-no-jikan](https://cdn.myanimelist.net/images/anime/1368/108441.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ピーター・グリルと賢者の時間

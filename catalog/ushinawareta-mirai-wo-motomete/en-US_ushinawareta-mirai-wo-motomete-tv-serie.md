@@ -1,5 +1,7 @@
 # Ushinawareta Mirai wo Motomete
 
+![ushinawareta-mirai-wo-motomete](https://cdn.myanimelist.net/images/anime/1414/112510.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 失われた未来を求めて

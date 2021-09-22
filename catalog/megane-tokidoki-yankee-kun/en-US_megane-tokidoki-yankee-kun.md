@@ -1,5 +1,7 @@
 # Megane, Tokidoki, Yankee-kun
 
+![megane-tokidoki-yankee-kun](https://cdn.myanimelist.net/images/manga/2/246371.jpg)
+
 -   **type**: manga
 -   **original-name**: メガネ、時々、ヤンキーくん
 -   **start-date**: 2021-01-13

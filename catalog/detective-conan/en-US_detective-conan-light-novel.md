@@ -1,5 +1,7 @@
 # Detective Conan
 
+![detective-conan](https://cdn.myanimelist.net/images/manga/1/15123.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 小説名探偵コナン
 -   **start-date**: 2005-05-15

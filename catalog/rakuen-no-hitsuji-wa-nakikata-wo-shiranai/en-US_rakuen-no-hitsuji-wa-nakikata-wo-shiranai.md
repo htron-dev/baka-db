@@ -1,5 +1,7 @@
 # Rakuen no Hitsuji wa Nakikata wo Shiranai
 
+![rakuen-no-hitsuji-wa-nakikata-wo-shiranai](https://cdn.myanimelist.net/images/manga/2/202509.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

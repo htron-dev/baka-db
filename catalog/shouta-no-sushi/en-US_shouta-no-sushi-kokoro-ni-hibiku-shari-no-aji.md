@@ -1,5 +1,7 @@
 # Shouta no Sushi: Kokoro ni Hibiku Shari no Aji
 
+![shouta-no-sushi-kokoro-ni-hibiku-shari-no-aji](https://cdn.myanimelist.net/images/anime/11/67773.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 将太の寿司 心にひびくシャリの味

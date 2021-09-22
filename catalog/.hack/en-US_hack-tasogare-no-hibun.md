@@ -1,5 +1,7 @@
 # .hack//Tasogare no Hibun
 
+![hack-tasogare-no-hibun](https://cdn.myanimelist.net/images/manga/1/26763.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

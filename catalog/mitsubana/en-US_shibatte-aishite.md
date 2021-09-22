@@ -1,5 +1,7 @@
 # Shibatte Aishite
 
+![shibatte-aishite](https://cdn.myanimelist.net/images/manga/1/25268.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

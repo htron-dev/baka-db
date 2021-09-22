@@ -1,5 +1,7 @@
 # Boku no Noroi no Kyuuketsukihime
 
+![boku-no-noroi-no-kyuuketsukihime](https://cdn.myanimelist.net/images/manga/3/248038.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕の呪いの吸血姫
 -   **start-date**: 2021-07-12

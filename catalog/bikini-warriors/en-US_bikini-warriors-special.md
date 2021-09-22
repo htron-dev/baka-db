@@ -1,5 +1,7 @@
 # Bikini Warriors Special
 
+![bikini-warriors-special](https://cdn.myanimelist.net/images/anime/12/78515.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ビキニ・ウォリアーズ

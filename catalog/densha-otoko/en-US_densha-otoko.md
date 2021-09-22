@@ -1,5 +1,7 @@
 # Densha Otoko
 
+![densha-otoko](https://cdn.myanimelist.net/images/manga/3/202493.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

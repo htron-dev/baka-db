@@ -1,5 +1,7 @@
 # Kore ga Watashi no Goshujinsama
 
+![kore-ga-watashi-no-goshujinsama](https://cdn.myanimelist.net/images/manga/3/56039.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

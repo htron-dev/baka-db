@@ -1,5 +1,7 @@
 # Kanojo no Idea
 
+![kanojo-no-idea](https://cdn.myanimelist.net/images/manga/2/226052.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

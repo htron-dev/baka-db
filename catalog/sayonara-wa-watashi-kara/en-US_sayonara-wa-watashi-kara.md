@@ -1,5 +1,7 @@
 # Sayonara wa Watashi kara
 
+![sayonara-wa-watashi-kara](https://cdn.myanimelist.net/images/manga/1/227514.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: さよならは私から

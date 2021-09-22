@@ -1,5 +1,7 @@
 # Lip Smoke
 
+![lip-smoke](https://cdn.myanimelist.net/images/manga/1/125235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

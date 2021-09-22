@@ -1,5 +1,7 @@
 # RDG: Red Data Girl
 
+![rdg-red-data-girl](https://cdn.myanimelist.net/images/manga/3/117439.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 18

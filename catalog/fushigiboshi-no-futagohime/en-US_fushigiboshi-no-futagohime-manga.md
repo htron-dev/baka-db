@@ -1,5 +1,7 @@
 # Fushigiboshi no Futagohime
 
+![fushigiboshi-no-futagohime](https://cdn.myanimelist.net/images/manga/2/15652.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Sword Art Online: Alicization - War of Underworld Reflection
 
+![sword-art-online-alicization-war-of-underworld-reflection](https://cdn.myanimelist.net/images/anime/1072/103398.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ソードアート・オンライン アリシゼーション War of Underworld 前半戦総集編特番「リフレクション」

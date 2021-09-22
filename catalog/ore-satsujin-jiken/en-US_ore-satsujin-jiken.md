@@ -1,5 +1,7 @@
 # Ore Satsujin Jiken!?
 
+![ore-satsujin-jiken](https://cdn.myanimelist.net/images/manga/2/198033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オレ殺人事件!?

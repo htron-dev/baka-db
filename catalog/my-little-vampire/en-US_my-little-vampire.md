@@ -1,5 +1,7 @@
 # My Little Vampire
 
+![my-little-vampire](https://cdn.myanimelist.net/images/manga/2/220904.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

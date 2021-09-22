@@ -1,5 +1,7 @@
 # Jungle wa Itsumo Hare nochi Guu Deluxe
 
+![jungle-wa-itsumo-hare-nochi-guu-deluxe](https://cdn.myanimelist.net/images/anime/3/10306.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ジャングルはいつもハレのちグゥ　デラックス

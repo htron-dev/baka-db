@@ -1,5 +1,7 @@
 # Naniiro no Nani
 
+![naniiro-no-nani](https://cdn.myanimelist.net/images/anime/1492/93330.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 何色の何

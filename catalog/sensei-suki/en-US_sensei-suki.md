@@ -1,5 +1,7 @@
 # Sensei, Suki.
 
+![sensei-suki](https://cdn.myanimelist.net/images/manga/3/110669.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

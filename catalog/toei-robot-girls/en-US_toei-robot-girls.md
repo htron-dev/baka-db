@@ -1,5 +1,7 @@
 # Toei Robot Girls
 
+![toei-robot-girls](https://cdn.myanimelist.net/images/anime/5/56489.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 東映ロボットガールズ

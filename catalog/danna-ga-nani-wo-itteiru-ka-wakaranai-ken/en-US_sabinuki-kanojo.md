@@ -1,5 +1,7 @@
 # Sabinuki Kanojo
 
+![sabinuki-kanojo](https://cdn.myanimelist.net/images/manga/2/159919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

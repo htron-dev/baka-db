@@ -1,5 +1,7 @@
 # Wanmei Shijie
 
+![wanmei-shijie](https://cdn.myanimelist.net/images/anime/1086/111576.jpg)
+
 -   **type**: ona
 -   **episodes**: 78
 -   **original-name**: 完美世界

@@ -1,5 +1,7 @@
 # Shiawase Ron
 
+![shiawase-ron](https://cdn.myanimelist.net/images/manga/3/38289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

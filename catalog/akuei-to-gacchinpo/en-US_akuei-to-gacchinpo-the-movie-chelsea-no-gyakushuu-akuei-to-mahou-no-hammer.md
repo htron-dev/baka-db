@@ -1,5 +1,7 @@
 # Akuei to Gacchinpo The Movie: Chelsea no Gyakushuu/Akuei to Mahou no Hammer
 
+![akuei-to-gacchinpo-the-movie-chelsea-no-gyakushuu-akuei-to-mahou-no-hammer](https://cdn.myanimelist.net/images/anime/4/71654.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アークエとガッチンポー THE MOVIE チェルシーの逆襲 / アークエと魔法のハンマー

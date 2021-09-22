@@ -1,5 +1,7 @@
 # Ai ga Matteru
 
+![ai-ga-matteru](https://cdn.myanimelist.net/images/manga/1/154859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

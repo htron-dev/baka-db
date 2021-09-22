@@ -1,5 +1,7 @@
 # Daa! Daa! Daa!
 
+![daa-daa-daa](https://cdn.myanimelist.net/images/anime/3/21166.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 78
 -   **original-name**: だぁ! だぁ! だぁ!

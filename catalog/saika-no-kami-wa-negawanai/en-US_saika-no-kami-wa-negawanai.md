@@ -1,5 +1,7 @@
 # Saika no Kami wa Negawanai
 
+![saika-no-kami-wa-negawanai](https://cdn.myanimelist.net/images/manga/1/226578.jpg)
+
 -   **type**: manga
 -   **original-name**: 災禍の神は願わない
 -   **start-date**: 2019-06-28

@@ -1,5 +1,7 @@
 # Housekishou Richard-shi no Nazo Kantei
 
+![housekishou-richard-shi-no-nazo-kantei](https://cdn.myanimelist.net/images/manga/2/233479.jpg)
+
 -   **type**: manga
 -   **original-name**: 宝石商リチャード氏の謎鑑定
 -   **start-date**: 2019-11-28

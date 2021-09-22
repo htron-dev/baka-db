@@ -1,5 +1,7 @@
 # The Detective Cosplay
 
+![the-detective-cosplay](https://cdn.myanimelist.net/images/manga/4/34153.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

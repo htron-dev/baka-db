@@ -1,5 +1,7 @@
 # Suri Kawatta Ouke no Hanayome
 
+![suri-kawatta-ouke-no-hanayome](https://cdn.myanimelist.net/images/manga/1/247046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: すり替わった王家の花嫁

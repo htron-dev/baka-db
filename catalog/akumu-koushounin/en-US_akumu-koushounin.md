@@ -1,5 +1,7 @@
 # Akumu Koushounin
 
+![akumu-koushounin](https://cdn.myanimelist.net/images/manga/1/148233.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

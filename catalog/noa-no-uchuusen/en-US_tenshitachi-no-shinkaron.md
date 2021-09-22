@@ -1,5 +1,7 @@
 # Tenshitachi no Shinkaron
 
+![tenshitachi-no-shinkaron](https://cdn.myanimelist.net/images/manga/4/20287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Higepiyo
 
+![higepiyo](https://cdn.myanimelist.net/images/anime/5/23125.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ひげぴよ, ヒゲぴよ

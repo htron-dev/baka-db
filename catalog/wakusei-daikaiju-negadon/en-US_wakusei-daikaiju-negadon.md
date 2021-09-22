@@ -1,5 +1,7 @@
 # Wakusei Daikaiju Negadon
 
+![wakusei-daikaiju-negadon](https://cdn.myanimelist.net/images/anime/2/4606.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 惑星大怪獣　ネガドン

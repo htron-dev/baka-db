@@ -1,5 +1,7 @@
 # Amagami: Love Goes On!
 
+![amagami-love-goes-on](https://cdn.myanimelist.net/images/manga/2/89631.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

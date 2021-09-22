@@ -1,5 +1,7 @@
 # Hello, Genius
 
+![hello-genius](https://cdn.myanimelist.net/images/manga/2/159212.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ハロー、ジーニアス

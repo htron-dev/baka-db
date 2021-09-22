@@ -1,5 +1,7 @@
 # Sekiei Ayakashi Mangatan
 
+![sekiei-ayakashi-mangatan](https://cdn.myanimelist.net/images/anime/4/36235.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 石影妖漫画譚

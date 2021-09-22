@@ -1,5 +1,7 @@
 # Chouritsu Soukou Zyklus;Code
 
+![chouritsu-soukou-zyklus-code](https://cdn.myanimelist.net/images/manga/2/156422.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

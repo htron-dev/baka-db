@@ -1,5 +1,7 @@
 # Goshujinsama ni Amai Ringo no Okashi
 
+![goshujinsama-ni-amai-ringo-no-okashi](https://cdn.myanimelist.net/images/manga/1/34703.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ご主人様に甘いりんごのお菓子

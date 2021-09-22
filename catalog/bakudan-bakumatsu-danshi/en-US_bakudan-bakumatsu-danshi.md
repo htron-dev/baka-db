@@ -1,5 +1,7 @@
 # Bakudan! - Bakumatsu Danshi
 
+![bakudan-bakumatsu-danshi](https://cdn.myanimelist.net/images/manga/3/73149.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ばくだん!～幕末男子～

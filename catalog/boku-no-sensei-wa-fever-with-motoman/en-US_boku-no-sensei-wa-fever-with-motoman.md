@@ -1,5 +1,7 @@
 # Boku no Sensei wa Fever with Motoman
 
+![boku-no-sensei-wa-fever-with-motoman](https://cdn.myanimelist.net/images/manga/2/27107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

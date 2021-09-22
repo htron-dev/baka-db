@@ -1,5 +1,7 @@
 # GA: Geijutsuka Art Design Class: Aozora ga Kakitai
 
+![ga-geijutsuka-art-design-class-aozora-ga-kakitai](https://cdn.myanimelist.net/images/anime/6/16229.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: GA 芸術科アートデザインクラス 青空が描きたい

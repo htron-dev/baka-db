@@ -1,5 +1,7 @@
 # Saikyou Party no Zatsuyougakari: Ossan wa, Muriyari Kyuuka wo Torasareta you desu
 
+![saikyou-party-no-zatsuyougakari-ossan-wa-muriyari-kyuuka-wo-torasareta-you-desu](https://cdn.myanimelist.net/images/manga/3/241324.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 最強パーティーの雑用係～おっさんは、無理やり休暇を取らされたようです～
 -   **start-date**: 2019-03-15

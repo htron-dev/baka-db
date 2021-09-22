@@ -1,5 +1,7 @@
 # Shinmai Nitta-ism
 
+![shinmai-nitta-ism](https://cdn.myanimelist.net/images/manga/1/211647.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

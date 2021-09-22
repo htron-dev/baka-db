@@ -1,5 +1,7 @@
 # Tsue to Tsurugi no Wistoria
 
+![tsue-to-tsurugi-no-wistoria](https://cdn.myanimelist.net/images/manga/1/243105.jpg)
+
 -   **type**: manga
 -   **original-name**: 杖と剣のウィストリア
 -   **start-date**: 2020-12-09

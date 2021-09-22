@@ -1,5 +1,7 @@
 # Safety Game
 
+![safety-game](https://cdn.myanimelist.net/images/manga/1/247847.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

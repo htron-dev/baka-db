@@ -1,5 +1,7 @@
 # Aquarian Age: Saga II - Don't Forget Me...
 
+![aquarian-age-saga-ii-dont-forget-me](https://cdn.myanimelist.net/images/anime/3/61595.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アクエリアンエイジ Saga II ~Don't forget me...~

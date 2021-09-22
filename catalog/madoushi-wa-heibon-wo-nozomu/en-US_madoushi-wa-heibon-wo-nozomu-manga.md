@@ -1,5 +1,7 @@
 # Madoushi wa Heibon wo Nozomu
 
+![madoushi-wa-heibon-wo-nozomu](https://cdn.myanimelist.net/images/manga/3/224399.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

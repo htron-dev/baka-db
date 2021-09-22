@@ -1,5 +1,7 @@
 # Shining Hearts: Shiawase no Pan
 
+![shining-hearts-shiawase-no-pan](https://cdn.myanimelist.net/images/anime/5/38329.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: シャイニング・ハーツ 〜幸せのパン〜

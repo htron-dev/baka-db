@@ -1,5 +1,7 @@
 # Natsu-iro Moratorium
 
+![natsu-iro-moratorium](https://cdn.myanimelist.net/images/manga/2/223234.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

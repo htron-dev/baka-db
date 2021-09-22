@@ -1,5 +1,7 @@
 # Sakura Ricetto
 
+![sakura-ricetto](https://cdn.myanimelist.net/images/manga/1/40605.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: さくらりちぇっと

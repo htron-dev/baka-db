@@ -1,5 +1,7 @@
 # Lupin III: Otakara Henkyaku Daisakusen!!
 
+![lupin-iii-otakara-henkyaku-daisakusen](https://cdn.myanimelist.net/images/anime/10/27611.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世: お宝返却大作戦！！

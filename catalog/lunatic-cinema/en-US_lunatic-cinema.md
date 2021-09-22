@@ -1,5 +1,7 @@
 # Lunatic Cinema
 
+![lunatic-cinema](https://cdn.myanimelist.net/images/manga/3/33174.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ルナティック・シネマ

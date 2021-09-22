@@ -1,5 +1,7 @@
 # Miniskirt Pirates
 
+![miniskirt-pirates](https://cdn.myanimelist.net/images/manga/3/64087.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 57

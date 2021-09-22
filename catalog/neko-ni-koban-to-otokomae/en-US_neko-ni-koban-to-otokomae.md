@@ -1,5 +1,7 @@
 # Neko ni Koban to Otokomae
 
+![neko-ni-koban-to-otokomae](https://cdn.myanimelist.net/images/manga/1/14299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ネコに小判と男前

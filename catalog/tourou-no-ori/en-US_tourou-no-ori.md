@@ -1,5 +1,7 @@
 # Tourou no Ori
 
+![tourou-no-ori](https://cdn.myanimelist.net/images/manga/2/186271.jpg)
+
 -   **type**: manga
 -   **original-name**: 蟷螂の檻
 -   **start-date**: 2014-01-25

@@ -1,5 +1,7 @@
 # One Piece Film: Gold - Cine Mike Popcorn Kokuchi
 
+![one-piece-film-gold-cine-mike-popcorn-kokuchi](https://cdn.myanimelist.net/images/anime/2/87542.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 「ONE PIECE FILM GOLD」シネマイクポップコーン告知

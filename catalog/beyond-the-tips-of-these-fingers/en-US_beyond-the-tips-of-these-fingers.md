@@ -1,5 +1,7 @@
 # Beyond the Tips of These Fingers
 
+![beyond-the-tips-of-these-fingers](https://cdn.myanimelist.net/images/manga/2/7085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

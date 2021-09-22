@@ -1,5 +1,7 @@
 # Death Jam!
 
+![death-jam](https://cdn.myanimelist.net/images/manga/1/18197.jpg)
+
 -   **type**: manga
 -   **original-name**: 내츄럴리드미컬
 

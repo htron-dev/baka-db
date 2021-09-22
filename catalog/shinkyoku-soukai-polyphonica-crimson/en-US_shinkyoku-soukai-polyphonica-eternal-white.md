@@ -1,5 +1,7 @@
 # Shinkyoku Soukai Polyphonica: Eternal White
 
+![shinkyoku-soukai-polyphonica-eternal-white](https://cdn.myanimelist.net/images/manga/1/137909.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

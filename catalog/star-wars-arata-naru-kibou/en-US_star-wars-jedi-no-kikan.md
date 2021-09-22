@@ -1,5 +1,7 @@
 # Star Wars: Jedi no Kikan
 
+![star-wars-jedi-no-kikan](https://cdn.myanimelist.net/images/manga/2/764.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: STAR WARS

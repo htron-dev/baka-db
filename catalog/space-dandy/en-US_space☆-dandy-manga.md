@@ -1,5 +1,7 @@
 # Space☆Dandy
 
+![space☆-dandy](https://cdn.myanimelist.net/images/manga/2/129627.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

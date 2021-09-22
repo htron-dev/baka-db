@@ -1,5 +1,7 @@
 # Afro Samurai Movie
 
+![afro-samurai-movie](https://cdn.myanimelist.net/images/anime/8/38065.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: AFRO SAMURAI 　劇場版

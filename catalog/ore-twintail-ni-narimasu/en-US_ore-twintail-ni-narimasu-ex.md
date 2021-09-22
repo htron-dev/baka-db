@@ -1,5 +1,7 @@
 # Ore, Twintail ni Narimasu. EX
 
+![ore-twintail-ni-narimasu-ex](https://cdn.myanimelist.net/images/manga/2/157094.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

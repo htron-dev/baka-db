@@ -1,5 +1,7 @@
 # Weiß Kreuz Glühen
 
+![weiss-kreuz-gluhen](https://cdn.myanimelist.net/images/anime/9/23693.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ヴァイスクロイツ・グリーエン

@@ -1,5 +1,7 @@
 # Akagi: Zawa... Zawa... Anthology
 
+![akagi-zawa-zawa-anthology](https://cdn.myanimelist.net/images/manga/2/75467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 37

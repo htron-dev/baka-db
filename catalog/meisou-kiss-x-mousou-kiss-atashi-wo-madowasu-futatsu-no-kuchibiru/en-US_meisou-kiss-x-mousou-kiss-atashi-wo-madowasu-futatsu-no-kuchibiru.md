@@ -1,5 +1,7 @@
 # Meisou Kiss x Mousou Kiss: Atashi wo Madowasu Futatsu no Kuchibiru
 
+![meisou-kiss-x-mousou-kiss-atashi-wo-madowasu-futatsu-no-kuchibiru](https://cdn.myanimelist.net/images/manga/2/193137.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

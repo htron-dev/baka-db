@@ -1,5 +1,7 @@
 # Military!
 
+![military](https://cdn.myanimelist.net/images/manga/3/133369.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 65

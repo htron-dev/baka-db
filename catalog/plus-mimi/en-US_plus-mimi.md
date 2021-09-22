@@ -1,5 +1,7 @@
 # Plus Mimi
 
+![plus-mimi](https://cdn.myanimelist.net/images/manga/1/132341.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

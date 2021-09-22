@@ -1,5 +1,7 @@
 # The Kabocha Wine
 
+![the-kabocha-wine](https://cdn.myanimelist.net/images/manga/3/227282.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **original-name**: The・かぼちゃワイン

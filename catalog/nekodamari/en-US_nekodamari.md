@@ -1,5 +1,7 @@
 # Nekodamari
 
+![nekodamari](https://cdn.myanimelist.net/images/manga/3/220663.jpg)
+
 -   **type**: manga
 -   **original-name**: ねこだまり
 -   **start-date**: 2016-12-09

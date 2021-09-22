@@ -1,5 +1,7 @@
 # \_Summer Specials
 
+![summer-specials](https://cdn.myanimelist.net/images/anime/3/75133.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: \_summer [アンダーバーサマー]

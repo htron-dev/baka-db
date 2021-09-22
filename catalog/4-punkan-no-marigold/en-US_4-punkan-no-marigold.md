@@ -1,5 +1,7 @@
 # 4-punkan no Marigold
 
+![4-punkan-no-marigold](https://cdn.myanimelist.net/images/manga/2/202673.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

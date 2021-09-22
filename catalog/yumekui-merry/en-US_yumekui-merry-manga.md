@@ -1,5 +1,7 @@
 # Yumekui Merry
 
+![yumekui-merry](https://cdn.myanimelist.net/images/manga/3/20001.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 142

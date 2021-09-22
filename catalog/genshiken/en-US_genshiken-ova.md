@@ -1,5 +1,7 @@
 # Genshiken OVA
 
+![genshiken-ova](https://cdn.myanimelist.net/images/anime/2/21672.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: げんしけん OVA

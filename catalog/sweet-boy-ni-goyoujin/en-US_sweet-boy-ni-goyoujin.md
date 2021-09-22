@@ -1,5 +1,7 @@
 # Sweet Boy ni Goyoujin
 
+![sweet-boy-ni-goyoujin](https://cdn.myanimelist.net/images/manga/1/150391.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

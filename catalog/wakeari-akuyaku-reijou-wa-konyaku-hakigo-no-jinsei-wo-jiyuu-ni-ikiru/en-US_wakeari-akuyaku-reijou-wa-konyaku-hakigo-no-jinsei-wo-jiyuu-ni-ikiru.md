@@ -1,5 +1,7 @@
 # Wakeari Akuyaku Reijou wa, Konyaku Hakigo no Jinsei wo Jiyuu ni Ikiru
 
+![wakeari-akuyaku-reijou-wa-konyaku-hakigo-no-jinsei-wo-jiyuu-ni-ikiru](https://cdn.myanimelist.net/images/manga/3/224333.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

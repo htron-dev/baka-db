@@ -1,5 +1,7 @@
 # Tatakae! Chou Robot Seimeitai Transformers Victory
 
+![tatakae-chou-robot-seimeitai-transformers-victory](https://cdn.myanimelist.net/images/anime/1182/92790.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 戦え! 超ロボット生命体トランスフォーマー V[ビクトリー]

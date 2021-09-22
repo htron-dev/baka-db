@@ -1,5 +1,7 @@
 # Sakka, Dorei wo Kau.
 
+![sakka-dorei-wo-kau](https://cdn.myanimelist.net/images/manga/3/172882.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

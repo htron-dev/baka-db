@@ -1,5 +1,7 @@
 # Boys Be…: Young Adult
 
+![boys-be-young-adult](https://cdn.myanimelist.net/images/manga/2/208718.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

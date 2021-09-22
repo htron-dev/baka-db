@@ -1,5 +1,7 @@
 # Idol na Kanojo to Wotaku na Boku to
 
+![idol-na-kanojo-to-wotaku-na-boku-to](https://cdn.myanimelist.net/images/manga/1/188899.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

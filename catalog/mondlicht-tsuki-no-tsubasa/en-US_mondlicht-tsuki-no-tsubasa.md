@@ -1,5 +1,7 @@
 # Mondlicht: Tsuki no Tsubasa
 
+![mondlicht-tsuki-no-tsubasa](https://cdn.myanimelist.net/images/manga/1/32689.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

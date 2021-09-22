@@ -1,5 +1,7 @@
 # Magicalize
 
+![magicalize](https://cdn.myanimelist.net/images/manga/3/177617.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

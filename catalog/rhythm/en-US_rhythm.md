@@ -1,5 +1,7 @@
 # Rhythm
 
+![rhythm](https://cdn.myanimelist.net/images/anime/6/85269.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: RHYTHM(リズム)

@@ -1,5 +1,7 @@
 # No Game No Life: Practical War Game
 
+![no-game-no-life-practical-war-game](https://cdn.myanimelist.net/images/manga/1/187957.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

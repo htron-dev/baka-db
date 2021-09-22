@@ -1,5 +1,7 @@
 # Mai-Otome
 
+![mai-otome](https://cdn.myanimelist.net/images/anime/2/46897.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 舞-乙 HiME

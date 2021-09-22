@@ -1,5 +1,7 @@
 # Blue Striker
 
+![blue-striker](https://cdn.myanimelist.net/images/manga/2/226524.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

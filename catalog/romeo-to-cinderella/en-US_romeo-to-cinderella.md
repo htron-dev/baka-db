@@ -1,5 +1,7 @@
 # Romeo to Cinderella
 
+![romeo-to-cinderella](https://cdn.myanimelist.net/images/manga/2/235384.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

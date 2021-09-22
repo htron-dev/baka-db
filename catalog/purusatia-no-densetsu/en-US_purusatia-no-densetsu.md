@@ -1,5 +1,7 @@
 # Purusatia no Densetsu
 
+![purusatia-no-densetsu](https://cdn.myanimelist.net/images/manga/2/160020.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

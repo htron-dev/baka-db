@@ -1,5 +1,7 @@
 # Tomato ni Natta Otokonoko
 
+![tomato-ni-natta-otokonoko](https://cdn.myanimelist.net/images/anime/12/76305.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: トマトになった男の子

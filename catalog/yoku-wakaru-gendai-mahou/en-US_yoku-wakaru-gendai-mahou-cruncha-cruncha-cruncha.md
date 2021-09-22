@@ -1,5 +1,7 @@
 # Yoku Wakaru Gendai Mahou: Cruncha Cruncha Cruncha
 
+![yoku-wakaru-gendai-mahou-cruncha-cruncha-cruncha](https://cdn.myanimelist.net/images/anime/12/15542.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: よくわかる現代魔法 第 0 話 cruncha cruncha cruncha

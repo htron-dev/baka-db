@@ -1,5 +1,7 @@
 # King of Prism: Shiny Seven Stars
 
+![king-of-prism-shiny-seven-stars](https://cdn.myanimelist.net/images/anime/1649/100502.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: KING OF PRISM -Shiny Seven Stars-

@@ -1,5 +1,7 @@
 # Gusha to Yokukai no Leviathan
 
+![gusha-to-yokukai-no-leviathan](https://cdn.myanimelist.net/images/manga/3/209348.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

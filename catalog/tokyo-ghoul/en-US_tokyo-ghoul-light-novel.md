@@ -1,5 +1,7 @@
 # Tokyo Ghoul
 
+![tokyo-ghoul](https://cdn.myanimelist.net/images/manga/3/194456.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

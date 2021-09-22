@@ -1,5 +1,7 @@
 # Baby, Kokoro no Mama ni!
 
+![baby-kokoro-no-mama-ni](https://cdn.myanimelist.net/images/manga/1/113443.jpg)
+
 -   **type**: manga
 -   **original-name**: Baby，ココロのママに！
 -   **start-date**: 2012-11-01

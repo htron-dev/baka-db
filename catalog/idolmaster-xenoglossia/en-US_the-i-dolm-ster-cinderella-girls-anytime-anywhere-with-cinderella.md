@@ -1,5 +1,7 @@
 # The iDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.
 
+![the-i-dolm-ster-cinderella-girls-anytime-anywhere-with-cinderella](https://cdn.myanimelist.net/images/anime/11/78300.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アイドルマスター シンデレラガールズ 第 26 話「Anytime, Anywhere with Cinderella.」

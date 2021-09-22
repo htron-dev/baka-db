@@ -1,5 +1,7 @@
 # Meguru Linker
 
+![meguru-linker](https://cdn.myanimelist.net/images/manga/3/160799.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 巡ル結魂者〈リンカ〉

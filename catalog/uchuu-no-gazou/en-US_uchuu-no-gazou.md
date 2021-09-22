@@ -1,5 +1,7 @@
 # Uchuu no Gazou
 
+![uchuu-no-gazou](https://cdn.myanimelist.net/images/manga/1/171590.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 宇宙のガズゥ

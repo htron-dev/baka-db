@@ -1,5 +1,7 @@
 # Kouun Ryuusui: Jofuku
 
+![kouun-ryuusui-jofuku](https://cdn.myanimelist.net/images/manga/2/208221.jpg)
+
 -   **type**: manga
 -   **original-name**: こううんりゅうすい〈徐福〉
 -   **start-date**: 2017-01-18

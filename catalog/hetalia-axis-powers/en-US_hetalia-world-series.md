@@ -1,5 +1,7 @@
 # Hetalia World Series
 
+![hetalia-world-series](https://cdn.myanimelist.net/images/anime/9/75792.jpg)
+
 -   **type**: ona
 -   **episodes**: 48
 -   **original-name**: ヘタリア Ｗ orld Series

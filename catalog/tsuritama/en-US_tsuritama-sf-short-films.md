@@ -1,5 +1,7 @@
 # Tsuritama SF -Short Films-
 
+![tsuritama-sf-short-films](https://cdn.myanimelist.net/images/manga/3/95169.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

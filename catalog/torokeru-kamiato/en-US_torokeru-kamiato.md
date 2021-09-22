@@ -1,5 +1,7 @@
 # Torokeru Kamiato
 
+![torokeru-kamiato](https://cdn.myanimelist.net/images/manga/2/224545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

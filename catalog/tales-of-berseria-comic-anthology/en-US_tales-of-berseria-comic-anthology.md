@@ -1,5 +1,7 @@
 # Tales of Berseria Comic Anthology
 
+![tales-of-berseria-comic-anthology](https://cdn.myanimelist.net/images/manga/2/190699.jpg)
+
 -   **type**: manga
 -   **original-name**: テイルズ オブ ベルセリア コミックアンソロジー
 -   **start-date**: 2016-11-25

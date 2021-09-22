@@ -1,5 +1,7 @@
 # Toshi Souzou Gakubu Shoukai
 
+![toshi-souzou-gakubu-shoukai](https://cdn.myanimelist.net/images/anime/9/77232.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 都市創造学部紹介

@@ -1,5 +1,7 @@
 # Kuu ga Ue kara Shitsurei Shimasu
 
+![kuu-ga-ue-kara-shitsurei-shimasu](https://cdn.myanimelist.net/images/manga/3/222149.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Sora no Method: Aru Shoujo no Kyuujitsu★
 
+![sora-no-method-aru-shoujo-no-kyuujitsu★](https://cdn.myanimelist.net/images/anime/11/76251.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 天体のメソッド　オリジナルショートアニメ「ある少女の休日 ★」

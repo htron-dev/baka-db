@@ -1,5 +1,7 @@
 # Chirori
 
+![chirori](https://cdn.myanimelist.net/images/manga/3/222072.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 56

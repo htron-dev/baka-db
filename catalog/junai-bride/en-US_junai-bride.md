@@ -1,5 +1,7 @@
 # Junai Bride
 
+![junai-bride](https://cdn.myanimelist.net/images/manga/3/60605.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

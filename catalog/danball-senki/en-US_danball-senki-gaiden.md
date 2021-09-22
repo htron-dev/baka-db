@@ -1,5 +1,7 @@
 # Danball Senki Gaiden
 
+![danball-senki-gaiden](https://cdn.myanimelist.net/images/manga/2/239058.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3
@@ -10,7 +12,6 @@
 ## Tags
 
 -   action
-
 -   mecha
 -   shounen
 

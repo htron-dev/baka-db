@@ -1,5 +1,7 @@
 # Hikari no Megami
 
+![hikari-no-megami](https://cdn.myanimelist.net/images/anime/10/76940.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 光の女神

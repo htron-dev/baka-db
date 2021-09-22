@@ -1,5 +1,7 @@
 # Ai ga Areba Toshinosa Nante
 
+![ai-ga-areba-toshinosa-nante](https://cdn.myanimelist.net/images/manga/3/9516.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Corseltel no Ryuujitsushi Monogatari
 
+![corseltel-no-ryuujitsushi-monogatari](https://cdn.myanimelist.net/images/manga/2/57083.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 61

@@ -1,5 +1,7 @@
 # Shouwa Ichidai Onna
 
+![shouwa-ichidai-onna](https://cdn.myanimelist.net/images/manga/3/190133.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

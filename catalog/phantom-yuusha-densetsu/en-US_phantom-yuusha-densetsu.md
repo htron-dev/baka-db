@@ -1,5 +1,7 @@
 # Phantom Yuusha Densetsu
 
+![phantom-yuusha-densetsu](https://cdn.myanimelist.net/images/anime/8/28745.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ファントム勇者伝説

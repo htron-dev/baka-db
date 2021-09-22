@@ -1,5 +1,7 @@
 # Kimi no Okaasan wo Boku ni Kudasai!
 
+![kimi-no-okaasan-wo-boku-ni-kudasai](https://cdn.myanimelist.net/images/manga/2/226254.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

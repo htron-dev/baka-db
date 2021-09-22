@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam SEED ECLIPSE
 
+![kidou-senshi-gundam-seed-eclipse](https://cdn.myanimelist.net/images/manga/3/248587.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム SEED ECLIPSE
 -   **start-date**: 2021-07-26

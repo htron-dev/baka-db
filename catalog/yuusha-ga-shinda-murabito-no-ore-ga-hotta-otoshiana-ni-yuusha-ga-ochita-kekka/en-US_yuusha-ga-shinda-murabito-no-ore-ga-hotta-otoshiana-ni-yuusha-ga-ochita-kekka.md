@@ -1,5 +1,7 @@
 # Yuusha ga Shinda!: Murabito no Ore ga Hotta Otoshiana ni Yuusha ga Ochita Kekka.
 
+![yuusha-ga-shinda-murabito-no-ore-ga-hotta-otoshiana-ni-yuusha-ga-ochita-kekka](https://cdn.myanimelist.net/images/manga/3/188923.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 202

@@ -1,5 +1,7 @@
 # Shunin no Ichinose-san
 
+![shunin-no-ichinose-san](https://cdn.myanimelist.net/images/manga/1/195324.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 主任の一ノ瀬さん

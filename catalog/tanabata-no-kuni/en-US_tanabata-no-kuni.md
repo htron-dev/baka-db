@@ -1,5 +1,7 @@
 # Tanabata no Kuni
 
+![tanabata-no-kuni](https://cdn.myanimelist.net/images/manga/3/35027.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

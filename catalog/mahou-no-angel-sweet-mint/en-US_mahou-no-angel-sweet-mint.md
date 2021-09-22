@@ -1,5 +1,7 @@
 # Mahou no Angel Sweet Mint
 
+![mahou-no-angel-sweet-mint](https://cdn.myanimelist.net/images/anime/4/26109.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 魔法のエンジェル スイートミント

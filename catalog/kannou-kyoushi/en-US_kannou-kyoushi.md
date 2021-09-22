@@ -1,5 +1,7 @@
 # Kannou Kyoushi
 
+![kannou-kyoushi](https://cdn.myanimelist.net/images/manga/2/142249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

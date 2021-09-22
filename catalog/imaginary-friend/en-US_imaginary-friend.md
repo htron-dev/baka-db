@@ -1,5 +1,7 @@
 # Imaginary Friend
 
+![imaginary-friend](https://cdn.myanimelist.net/images/manga/2/178717.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: イマジナリーフレンド

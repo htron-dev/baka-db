@@ -1,5 +1,7 @@
 # S-kei Idol to Yokujou Renai: Himitsu Afureru 1-shuukan
 
+![s-kei-idol-to-yokujou-renai-himitsu-afureru-1-shuukan](https://cdn.myanimelist.net/images/manga/1/195523.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

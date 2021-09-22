@@ -1,5 +1,7 @@
 # Grand Slam
 
+![grand-slam](https://cdn.myanimelist.net/images/manga/1/152553.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: GRAND SLAM グランドスラム

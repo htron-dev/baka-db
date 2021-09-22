@@ -1,5 +1,7 @@
 # Evangelion Shito, Hakata Shuurai
 
+![evangelion-shito-hakata-shuurai](https://cdn.myanimelist.net/images/anime/1175/117752.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: エヴァンゲリオン 使徒、博多襲来

@@ -1,5 +1,7 @@
 # Koutei no Kyuukon: Koi wa Midara na Gishiki kara
 
+![koutei-no-kyuukon-koi-wa-midara-na-gishiki-kara](https://cdn.myanimelist.net/images/manga/3/181318.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

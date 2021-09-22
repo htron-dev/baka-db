@@ -1,5 +1,7 @@
 # Drifters (OVA)
 
+![drifters-ova](https://cdn.myanimelist.net/images/anime/1027/97819.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: DRIFTERS

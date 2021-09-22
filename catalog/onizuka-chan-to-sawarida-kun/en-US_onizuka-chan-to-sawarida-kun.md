@@ -1,5 +1,7 @@
 # Onizuka-chan to Sawarida-kun
 
+![onizuka-chan-to-sawarida-kun](https://cdn.myanimelist.net/images/manga/1/236481.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 53

@@ -1,5 +1,7 @@
 # Ibérico Buta Series
 
+![iberico-buta-series](https://cdn.myanimelist.net/images/manga/1/73961.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: イベリコ豚シリーズ

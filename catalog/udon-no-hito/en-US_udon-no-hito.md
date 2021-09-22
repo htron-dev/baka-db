@@ -1,5 +1,7 @@
 # Udon no Hito
 
+![udon-no-hito](https://cdn.myanimelist.net/images/manga/1/101217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

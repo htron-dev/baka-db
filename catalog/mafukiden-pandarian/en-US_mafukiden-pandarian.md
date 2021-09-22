@@ -1,5 +1,7 @@
 # Mafukiden: Pandarian
 
+![mafukiden-pandarian](https://cdn.myanimelist.net/images/anime/2/7360.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 魔豆奇伝パンダリアン
@@ -14,7 +16,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   magic
 -   super-power
 

@@ -1,5 +1,7 @@
 # Anemone
 
+![anemone](https://cdn.myanimelist.net/images/anime/4/28918.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Anemone

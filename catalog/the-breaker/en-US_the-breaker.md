@@ -1,5 +1,7 @@
 # The Breaker
 
+![the-breaker](https://cdn.myanimelist.net/images/manga/3/177826.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ザ・ブレイカー

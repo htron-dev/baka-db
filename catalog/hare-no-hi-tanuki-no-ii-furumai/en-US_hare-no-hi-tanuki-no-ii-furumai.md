@@ -1,5 +1,7 @@
 # Hare no Hi: Tanuki no Ii Furumai
 
+![hare-no-hi-tanuki-no-ii-furumai](https://cdn.myanimelist.net/images/manga/1/216025.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

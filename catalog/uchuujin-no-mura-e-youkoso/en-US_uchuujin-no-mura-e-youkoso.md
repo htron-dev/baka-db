@@ -1,5 +1,7 @@
 # Uchuujin no Mura e Youkoso
 
+![uchuujin-no-mura-e-youkoso](https://cdn.myanimelist.net/images/manga/3/161697.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 宇宙人の村へようこそ

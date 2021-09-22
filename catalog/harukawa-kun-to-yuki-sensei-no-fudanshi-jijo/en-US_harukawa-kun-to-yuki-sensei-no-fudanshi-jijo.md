@@ -1,5 +1,7 @@
 # Harukawa-kun to Yuki-sensei no Fudanshi Jijo.
 
+![harukawa-kun-to-yuki-sensei-no-fudanshi-jijo](https://cdn.myanimelist.net/images/manga/1/193255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

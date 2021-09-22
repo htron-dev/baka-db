@@ -1,5 +1,7 @@
 # Legend of Basara
 
+![legend-of-basara](https://cdn.myanimelist.net/images/anime/4/21210.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: LEGEND OF BASARA

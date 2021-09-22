@@ -1,5 +1,7 @@
 # Yuki no Sakura no Ki no Shita de...
 
+![yuki-no-sakura-no-ki-no-shita-de](https://cdn.myanimelist.net/images/manga/1/153975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

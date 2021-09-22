@@ -1,5 +1,7 @@
 # Sister Generator
 
+![sister-generator](https://cdn.myanimelist.net/images/manga/2/142161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

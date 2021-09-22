@@ -1,5 +1,7 @@
 # Ahiru no Sora
 
+![ahiru-no-sora](https://cdn.myanimelist.net/images/anime/1975/108030.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: あひるの空

@@ -1,5 +1,7 @@
 # Rose x Marie
 
+![rose-x-marie](https://cdn.myanimelist.net/images/manga/3/126633.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ローズ × マリー

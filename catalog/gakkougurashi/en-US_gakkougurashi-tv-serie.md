@@ -1,5 +1,7 @@
 # Gakkougurashi!
 
+![gakkougurashi](https://cdn.myanimelist.net/images/anime/1798/91548.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: がっこうぐらし！

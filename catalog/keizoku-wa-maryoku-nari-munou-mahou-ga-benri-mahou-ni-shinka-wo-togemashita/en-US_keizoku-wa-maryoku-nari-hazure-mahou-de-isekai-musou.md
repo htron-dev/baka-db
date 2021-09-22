@@ -1,5 +1,7 @@
 # Keizoku wa Maryoku nari: Hazure Mahou de Isekai Musou
 
+![keizoku-wa-maryoku-nari-hazure-mahou-de-isekai-musou](https://cdn.myanimelist.net/images/manga/1/224477.jpg)
+
 -   **type**: manga
 -   **original-name**: 継続は魔力なり ～ハズレ魔法で異世界無双～
 -   **start-date**: 2019-01-14

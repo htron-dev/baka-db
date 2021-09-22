@@ -1,5 +1,7 @@
 # Kaishain! Nourin Suisan-shou e Iku
 
+![kaishain-nourin-suisan-shou-e-iku](https://cdn.myanimelist.net/images/anime/1326/99497.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 貝社員！農林水産省へ行く

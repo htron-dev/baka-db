@@ -1,5 +1,7 @@
 # Cool Shachou ga "Renai Mode" ni Hyouhen Shimashita.
 
+![cool-shachou-ga-renai-mode-ni-hyouhen-shimashita](https://cdn.myanimelist.net/images/manga/3/192525.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

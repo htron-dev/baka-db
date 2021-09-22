@@ -1,5 +1,7 @@
 # Kono Yo wo Hana ni Suru Tame ni
 
+![kono-yo-wo-hana-ni-suru-tame-ni](https://cdn.myanimelist.net/images/manga/2/128941.jpg)
+
 -   **type**: manga
 -   **original-name**: この世を花にするために
 -   **start-date**: 2010-12-09

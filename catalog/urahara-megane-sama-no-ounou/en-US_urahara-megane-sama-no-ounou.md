@@ -1,5 +1,7 @@
 # Urahara Megane-sama no Ounou
 
+![urahara-megane-sama-no-ounou](https://cdn.myanimelist.net/images/manga/2/243000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

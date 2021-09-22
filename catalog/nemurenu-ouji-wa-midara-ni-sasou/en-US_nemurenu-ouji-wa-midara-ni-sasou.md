@@ -1,5 +1,7 @@
 # Nemurenu Ouji wa Midara ni Sasou
 
+![nemurenu-ouji-wa-midara-ni-sasou](https://cdn.myanimelist.net/images/manga/2/191891.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Choseikenki Mikazuchiden
 
+![choseikenki-mikazuchiden](https://cdn.myanimelist.net/images/manga/3/78865.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 超聖剣記ミカズチ伝

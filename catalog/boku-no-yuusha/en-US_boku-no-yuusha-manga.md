@@ -1,5 +1,7 @@
 # Boku no Yuusha
 
+![boku-no-yuusha](https://cdn.myanimelist.net/images/manga/2/137161.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼくのゆうしゃ
 

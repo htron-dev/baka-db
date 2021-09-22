@@ -1,5 +1,7 @@
 # Renai Saiban no Yukue
 
+![renai-saiban-no-yukue](https://cdn.myanimelist.net/images/manga/2/30399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

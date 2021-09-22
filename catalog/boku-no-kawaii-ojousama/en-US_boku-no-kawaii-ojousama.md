@@ -1,5 +1,7 @@
 # Boku no Kawaii Ojousama
 
+![boku-no-kawaii-ojousama](https://cdn.myanimelist.net/images/manga/1/162644.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Q Transformers: Kaette Kita Convoy no Nazo
 
+![q-transformers-kaette-kita-convoy-no-nazo](https://cdn.myanimelist.net/images/anime/13/72586.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: キュートランスフォーマー 帰ってきたコンボイの謎

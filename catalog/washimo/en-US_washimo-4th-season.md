@@ -1,5 +1,7 @@
 # Washimo 4th Season
 
+![washimo-4th-season](https://cdn.myanimelist.net/images/anime/13/79508.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: わしも-wasimo-(第 4 シリーズ)
@@ -12,7 +14,6 @@
 -   sci-fi
 -   slice-of-life
 -   comedy
-
 -   school
 
 ## Sinopse

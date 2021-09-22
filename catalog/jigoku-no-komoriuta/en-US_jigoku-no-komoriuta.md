@@ -1,5 +1,7 @@
 # Jigoku no Komoriuta
 
+![jigoku-no-komoriuta](https://cdn.myanimelist.net/images/manga/1/15870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

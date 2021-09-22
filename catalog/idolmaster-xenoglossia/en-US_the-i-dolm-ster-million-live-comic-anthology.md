@@ -1,5 +1,7 @@
 # The iDOLM@STER Million Live!: Comic Anthology
 
+![the-i-dolm-ster-million-live-comic-anthology](https://cdn.myanimelist.net/images/manga/1/152995.jpg)
+
 -   **type**: manga
 -   **original-name**: アイドルマスターミリオンライブ! コミックアンソロジー
 -   **start-date**: 2015-04-03

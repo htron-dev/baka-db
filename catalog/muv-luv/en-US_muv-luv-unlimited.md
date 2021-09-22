@@ -1,5 +1,7 @@
 # Muv-Luv Unlimited
 
+![muv-luv-unlimited](https://cdn.myanimelist.net/images/manga/5/135019.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

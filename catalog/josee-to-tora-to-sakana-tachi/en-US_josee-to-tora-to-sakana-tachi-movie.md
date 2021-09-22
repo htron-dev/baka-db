@@ -1,5 +1,7 @@
 # Josee to Tora to Sakana-tachi
 
+![josee-to-tora-to-sakana-tachi](https://cdn.myanimelist.net/images/anime/1714/108892.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジョゼと虎と魚たち

@@ -1,5 +1,7 @@
 # Oshigoto no Jikan!?
 
+![oshigoto-no-jikan](https://cdn.myanimelist.net/images/manga/2/30453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おシゴトの時間!?

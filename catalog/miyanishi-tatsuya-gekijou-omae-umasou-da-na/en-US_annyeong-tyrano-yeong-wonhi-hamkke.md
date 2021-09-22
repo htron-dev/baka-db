@@ -1,5 +1,7 @@
 # Annyeong, Tyrano: Yeong-wonhi, Hamkke
 
+![annyeong-tyrano-yeong-wonhi-hamkke](https://cdn.myanimelist.net/images/anime/1500/107634.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 안녕, 티라노: 영원히, 함께

@@ -1,5 +1,7 @@
 # Arashi-kun no Dakimakura
 
+![arashi-kun-no-dakimakura](https://cdn.myanimelist.net/images/manga/1/238799.jpg)
+
 -   **type**: manga
 -   **original-name**: 嵐士くんの抱きマクラ
 -   **start-date**: 2020-03-13

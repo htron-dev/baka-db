@@ -1,5 +1,7 @@
 # Retsu!!! Date-Senpai
 
+![retsu-date-senpai](https://cdn.myanimelist.net/images/manga/5/82758.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

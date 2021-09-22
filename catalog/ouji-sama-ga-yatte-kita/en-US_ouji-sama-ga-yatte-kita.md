@@ -1,5 +1,7 @@
 # Ouji-sama ga Yatte Kita!
 
+![ouji-sama-ga-yatte-kita](https://cdn.myanimelist.net/images/manga/2/20684.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

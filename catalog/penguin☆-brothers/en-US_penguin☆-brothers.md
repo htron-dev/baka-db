@@ -1,5 +1,7 @@
 # Penguin☆Brothers
 
+![penguin☆-brothers](https://cdn.myanimelist.net/images/manga/1/175906.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Tensei shitara Slime Datta Ken
 
+![tensei-shitara-slime-datta-ken](https://cdn.myanimelist.net/images/manga/3/152383.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生したらスライムだった件
 -   **start-date**: 2014-05-30

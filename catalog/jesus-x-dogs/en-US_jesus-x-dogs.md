@@ -1,5 +1,7 @@
 # Jesus x Dogs
 
+![jesus-x-dogs](https://cdn.myanimelist.net/images/manga/2/96823.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

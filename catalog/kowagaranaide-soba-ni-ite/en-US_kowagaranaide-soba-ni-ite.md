@@ -1,5 +1,7 @@
 # Kowagaranaide, Soba ni Ite
 
+![kowagaranaide-soba-ni-ite](https://cdn.myanimelist.net/images/manga/3/186908.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

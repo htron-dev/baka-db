@@ -1,5 +1,7 @@
 # Silver Diamond Gaiden
 
+![silver-diamond-gaiden](https://cdn.myanimelist.net/images/manga/1/84015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: SILVER DIAMOND 外伝

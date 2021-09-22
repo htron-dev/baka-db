@@ -1,5 +1,7 @@
 # Hazure Skill "Kage ga Usui" wo Motsu Guild Shokuin ga, Jitsu wa Densetsu no Ansatsusha
 
+![hazure-skill-kage-ga-usui-wo-motsu-guild-shokuin-ga-jitsu-wa-densetsu-no-ansatsusha](https://cdn.myanimelist.net/images/manga/2/227980.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 外れスキル「影が薄い」を持つギルド職員が、実は伝説の暗殺者
 -   **start-date**: 2019-03-09

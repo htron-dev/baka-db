@@ -1,5 +1,7 @@
 # Kako no Anata wo Yuukai Shimashita
 
+![kako-no-anata-wo-yuukai-shimashita](https://cdn.myanimelist.net/images/manga/2/221719.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

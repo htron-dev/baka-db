@@ -1,5 +1,7 @@
 # Zetsubou no Rakuen
 
+![zetsubou-no-rakuen](https://cdn.myanimelist.net/images/manga/1/223028.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 70

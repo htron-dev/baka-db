@@ -1,5 +1,7 @@
 # Mezametara Hana no Kiss
 
+![mezametara-hana-no-kiss](https://cdn.myanimelist.net/images/manga/2/157076.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

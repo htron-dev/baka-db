@@ -1,5 +1,7 @@
 # Tokyo Babylon
 
+![tokyo-babylon](https://cdn.myanimelist.net/images/anime/12/20546.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 東京ＢＡＢＹＬＯＮ

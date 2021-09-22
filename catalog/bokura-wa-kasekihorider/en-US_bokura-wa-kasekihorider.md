@@ -1,5 +1,7 @@
 # Bokura wa Kasekihorider
 
+![bokura-wa-kasekihorider](https://cdn.myanimelist.net/images/manga/1/238918.jpg)
+
 -   **type**: manga
 -   **chapters**: 30
 -   **original-name**: ぼくらはカセキホリダー

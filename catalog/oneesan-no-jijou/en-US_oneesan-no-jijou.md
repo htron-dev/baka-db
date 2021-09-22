@@ -1,5 +1,7 @@
 # Oneesan no Jijou
 
+![oneesan-no-jijou](https://cdn.myanimelist.net/images/manga/3/153507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

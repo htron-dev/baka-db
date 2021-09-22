@@ -1,5 +1,7 @@
 # Mashoujo Dokushoujo: Lilith to Sara Jouenkou
 
+![mashoujo-dokushoujo-lilith-to-sara-jouenkou](https://cdn.myanimelist.net/images/manga/1/219843.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Haru wo Daiteita
 
+![haru-wo-daiteita](https://cdn.myanimelist.net/images/manga/3/195851.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 78

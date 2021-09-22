@@ -1,5 +1,7 @@
 # Shinseiki Evangelion: Koutetsu no Girlfriend 2nd
 
+![shinseiki-evangelion-koutetsu-no-girlfriend-2nd](https://cdn.myanimelist.net/images/manga/3/145059.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

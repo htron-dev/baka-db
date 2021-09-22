@@ -1,5 +1,7 @@
 # Asahina Wakaba to ○○ na Kareshi
 
+![asahina-wakaba-to-○○-na-kareshi](https://cdn.myanimelist.net/images/manga/1/240059.jpg)
+
 -   **type**: manga
 -   **original-name**: 朝比奈若葉と ○○ な彼氏
 -   **start-date**: 2019-11-25

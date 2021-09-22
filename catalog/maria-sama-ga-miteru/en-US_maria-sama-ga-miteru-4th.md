@@ -1,5 +1,7 @@
 # Maria-sama ga Miteru 4th
 
+![maria-sama-ga-miteru-4th](https://cdn.myanimelist.net/images/anime/4/75206.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マリア様がみてる〜４ th〜

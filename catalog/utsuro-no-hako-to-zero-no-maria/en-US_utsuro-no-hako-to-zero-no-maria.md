@@ -1,5 +1,7 @@
 # Utsuro no Hako to Zero no Maria
 
+![utsuro-no-hako-to-zero-no-maria](https://cdn.myanimelist.net/images/manga/2/175662.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 40

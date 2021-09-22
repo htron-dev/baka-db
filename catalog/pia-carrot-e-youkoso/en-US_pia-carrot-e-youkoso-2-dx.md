@@ -1,5 +1,7 @@
 # Pia Carrot e Youkoso!! 2 DX
 
+![pia-carrot-e-youkoso-2-dx](https://cdn.myanimelist.net/images/anime/11/50781.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: Pia キャロット へ ようこそ!! 2 DX

@@ -1,5 +1,7 @@
 # 3D Kanojo: Real Girl
 
+![3-d-kanojo-real-girl](https://cdn.myanimelist.net/images/anime/1327/93616.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ３Ｄ彼女　リアルガール
@@ -31,4 +33,4 @@ After being forced to clean the pool as punishment for arriving late, Tsutsui me
 -   [Official Site](http://www.vap.co.jp/3dkanojo-anime/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13581)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20317)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Real_Girl_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Real_Girl_%28manga%29)

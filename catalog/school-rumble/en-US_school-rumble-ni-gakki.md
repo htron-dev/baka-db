@@ -1,5 +1,7 @@
 # School Rumble Ni Gakki
 
+![school-rumble-ni-gakki](https://cdn.myanimelist.net/images/anime/5/75490.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: スクールランブル 二学期

@@ -1,5 +1,7 @@
 # 20 Mensou ni Onegai!!
 
+![20-mensou-ni-onegai](https://cdn.myanimelist.net/images/manga/3/3758.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

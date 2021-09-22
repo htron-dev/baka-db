@@ -1,5 +1,7 @@
 # Queen Emeraldas
 
+![queen-emeraldas](https://cdn.myanimelist.net/images/anime/10/21120.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: クィーン・エメラルダス

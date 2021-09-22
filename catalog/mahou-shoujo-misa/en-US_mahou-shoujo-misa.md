@@ -1,5 +1,7 @@
 # Mahou Shoujo Misa
 
+![mahou-shoujo-misa](https://cdn.myanimelist.net/images/manga/2/166188.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法少女ミサ
 -   **start-date**: 2014-01-23

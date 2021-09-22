@@ -1,5 +1,7 @@
 # Honya-san de Go!
 
+![honya-san-de-go](https://cdn.myanimelist.net/images/manga/1/16244.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

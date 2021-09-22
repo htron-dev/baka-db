@@ -1,5 +1,7 @@
 # Kure-nai
 
+![kure-nai](https://cdn.myanimelist.net/images/manga/2/145559.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 紅
 -   **start-date**: 2005-12-20

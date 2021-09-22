@@ -1,5 +1,7 @@
 # Nanoha Yougashiten no Ii Shigoto
 
+![nanoha-yougashiten-no-ii-shigoto](https://cdn.myanimelist.net/images/manga/2/160832.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 70

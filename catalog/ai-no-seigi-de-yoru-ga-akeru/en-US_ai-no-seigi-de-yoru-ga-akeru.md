@@ -1,5 +1,7 @@
 # Ai no Seigi de Yoru ga Akeru
 
+![ai-no-seigi-de-yoru-ga-akeru](https://cdn.myanimelist.net/images/manga/1/15235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

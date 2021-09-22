@@ -1,5 +1,7 @@
 # Shachou to Hisho, Ai no Shoumei
 
+![shachou-to-hisho-ai-no-shoumei](https://cdn.myanimelist.net/images/manga/2/35086.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

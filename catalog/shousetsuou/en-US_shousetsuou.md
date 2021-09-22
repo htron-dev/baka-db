@@ -1,5 +1,7 @@
 # Shousetsuou
 
+![shousetsuou](https://cdn.myanimelist.net/images/manga/2/226922.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

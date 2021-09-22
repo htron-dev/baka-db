@@ -1,5 +1,7 @@
 # Totsuzen! Neko no Kuni Banipal Witt
 
+![totsuzen-neko-no-kuni-banipal-witt](https://cdn.myanimelist.net/images/anime/6/58211.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: とつぜん！猫の国　バニパルウィット

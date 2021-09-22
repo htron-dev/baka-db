@@ -1,5 +1,7 @@
 # Atashi no Naka no Hito
 
+![atashi-no-naka-no-hito](https://cdn.myanimelist.net/images/manga/1/231058.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

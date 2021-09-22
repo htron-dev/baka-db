@@ -1,5 +1,7 @@
 # Aruaru! Mukyou Gakuen
 
+![aruaru-mukyou-gakuen](https://cdn.myanimelist.net/images/manga/2/98697.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 41

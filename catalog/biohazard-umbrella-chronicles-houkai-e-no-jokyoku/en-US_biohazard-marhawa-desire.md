@@ -1,5 +1,7 @@
 # Biohazard: Marhawa Desire
 
+![biohazard-marhawa-desire](https://cdn.myanimelist.net/images/manga/5/67021.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

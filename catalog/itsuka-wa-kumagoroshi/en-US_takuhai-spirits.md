@@ -1,5 +1,7 @@
 # Takuhai Spirits!!
 
+![takuhai-spirits](https://cdn.myanimelist.net/images/manga/3/34604.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

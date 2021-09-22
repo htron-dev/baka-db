@@ -1,5 +1,7 @@
 # Glau Standear Koukoku Monogatari
 
+![glau-standear-koukoku-monogatari](https://cdn.myanimelist.net/images/manga/3/140207.jpg)
+
 -   **type**: light-novel
 -   **original-name**: グラウスタンディア皇国物語
 -   **start-date**: 2013-11-01

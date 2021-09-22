@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index x Dennou Senki Virtual-On: Toaru Majutsu no Virtual-On
 
+![toaru-majutsu-no-index-x-dennou-senki-virtual-on-toaru-majutsu-no-virtual-on](https://cdn.myanimelist.net/images/manga/3/207621.jpg)
+
 -   **type**: manga
 -   **original-name**: とある魔術の禁書目録 × 電脳戦機バーチャロン とある魔術の電脳戦機〈バーチャロン〉
 -   **start-date**: 2017-12-28

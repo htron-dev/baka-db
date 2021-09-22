@@ -1,5 +1,7 @@
 # Kino no Tabi: The Beautiful World - Byouki no Kuni - For You
 
+![kino-no-tabi-the-beautiful-world-byouki-no-kuni-for-you](https://cdn.myanimelist.net/images/anime/8/73906.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キノの旅 -the Beautiful World- 病気の国 -For You-

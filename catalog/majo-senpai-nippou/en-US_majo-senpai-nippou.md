@@ -1,5 +1,7 @@
 # Majo-senpai Nippou
 
+![majo-senpai-nippou](https://cdn.myanimelist.net/images/manga/2/239879.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Madoushi wa Heibon wo Nozomu
 
+![madoushi-wa-heibon-wo-nozomu](https://cdn.myanimelist.net/images/manga/1/199105.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔導師は平凡を望む
 -   **start-date**: 2013-10-12

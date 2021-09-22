@@ -1,5 +1,7 @@
 # Brown Sugar Days
 
+![brown-sugar-days](https://cdn.myanimelist.net/images/manga/1/236473.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

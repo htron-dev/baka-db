@@ -1,5 +1,7 @@
 # Cross Game
 
+![cross-game](https://cdn.myanimelist.net/images/manga/3/54197.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 170

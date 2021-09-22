@@ -1,5 +1,7 @@
 # Makiwari Slow Life wo Hajimemasu ka? (Hai/Iie)
 
+![makiwari-slow-life-wo-hajimemasu-ka-hai-iie](https://cdn.myanimelist.net/images/manga/2/179913.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 薪割りスローライフをはじめますか？ ［はい／いいえ］
 -   **start-date**: 2016-05-01

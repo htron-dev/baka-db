@@ -1,5 +1,7 @@
 # Isekai Harem ga Ore ni Kyuukyoku no Sentaku wo Semattekita
 
+![isekai-harem-ga-ore-ni-kyuukyoku-no-sentaku-wo-semattekita](https://cdn.myanimelist.net/images/manga/1/162841.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

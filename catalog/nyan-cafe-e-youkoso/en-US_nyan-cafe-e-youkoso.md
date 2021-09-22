@@ -1,5 +1,7 @@
 # Nyan Cafe e Youkoso!
 
+![nyan-cafe-e-youkoso](https://cdn.myanimelist.net/images/manga/1/79569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

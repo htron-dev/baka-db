@@ -1,5 +1,7 @@
 # Endou-kun no Kansatsu Nikki
 
+![endou-kun-no-kansatsu-nikki](https://cdn.myanimelist.net/images/manga/2/196127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

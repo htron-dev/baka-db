@@ -1,5 +1,7 @@
 # Doraemon Anniversary 25
 
+![doraemon-anniversary-25](https://cdn.myanimelist.net/images/anime/8/90052.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラえもんアニバーサリー 25
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   sci-fi
 -   shounen
 

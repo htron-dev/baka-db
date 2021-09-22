@@ -1,5 +1,7 @@
 # Rinjin wa Chou
 
+![rinjin-wa-chou](https://cdn.myanimelist.net/images/manga/2/161197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Another Story II - Ano Toki no Bokura Specials
 
+![tennis-no-ouji-sama-another-story-ii-ano-toki-no-bokura-specials](https://cdn.myanimelist.net/images/anime/12/36739.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: テニスの王子様 OVA ANOTHER STORYⅡ ～アノトキノボクラ

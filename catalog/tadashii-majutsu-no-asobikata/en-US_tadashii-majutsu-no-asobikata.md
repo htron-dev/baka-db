@@ -1,5 +1,7 @@
 # Tadashii Majutsu no Asobikata
 
+![tadashii-majutsu-no-asobikata](https://cdn.myanimelist.net/images/manga/3/70185.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

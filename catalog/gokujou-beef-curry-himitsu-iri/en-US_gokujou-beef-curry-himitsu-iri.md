@@ -1,5 +1,7 @@
 # Gokujou Beef Curry, Himitsu-iri
 
+![gokujou-beef-curry-himitsu-iri](https://cdn.myanimelist.net/images/manga/3/193966.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

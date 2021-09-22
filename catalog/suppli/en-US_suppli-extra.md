@@ -1,5 +1,7 @@
 # Suppli Extra
 
+![suppli-extra](https://cdn.myanimelist.net/images/manga/1/32783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

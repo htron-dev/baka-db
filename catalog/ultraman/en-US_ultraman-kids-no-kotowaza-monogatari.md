@@ -1,5 +1,7 @@
 # Ultraman Kids no Kotowaza Monogatari
 
+![ultraman-kids-no-kotowaza-monogatari](https://cdn.myanimelist.net/images/anime/12/30417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ウルトラマン キッズの ことわざ物語
@@ -11,7 +13,6 @@
 ## Tags
 
 -   comedy
-
 -   super-power
 
 ## Sinopse

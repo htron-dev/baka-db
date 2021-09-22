@@ -1,5 +1,7 @@
 # Butsu Zone
 
+![butsu-zone](https://cdn.myanimelist.net/images/manga/2/74087.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

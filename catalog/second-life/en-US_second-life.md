@@ -1,5 +1,7 @@
 # Second Life
 
+![second-life](https://cdn.myanimelist.net/images/manga/3/40042.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

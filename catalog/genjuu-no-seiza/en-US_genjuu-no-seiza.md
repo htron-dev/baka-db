@@ -1,5 +1,7 @@
 # Genjuu no Seiza
 
+![genjuu-no-seiza](https://cdn.myanimelist.net/images/manga/1/126579.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 70

@@ -1,5 +1,7 @@
 # Owanko
 
+![owanko](https://cdn.myanimelist.net/images/anime/9/74376.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: おわんこ

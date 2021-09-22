@@ -1,5 +1,7 @@
 # K: Seven Stories Movie 3 - Side:Green - Uwagaki Sekai
 
+![k-seven-stories-movie-3-side-green-uwagaki-sekai](https://cdn.myanimelist.net/images/anime/1267/91000.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K Seven Stories SIDE:GREEN ~上書き世界~
@@ -25,4 +27,4 @@ Sukuna Gojo is a boy who ran away from his wealthy home after becoming disgusted
 -   [My Anime list](https://myanimelist.net/anime/37304/K__Seven_Stories_Movie_3_-_Side_Green_-_Uwagaki_Sekai)
 -   [Official Site](http://k-project.jpn.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12107)
--   [Wikipedia](<https://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/K_%28anime%29)

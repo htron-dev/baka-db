@@ -1,5 +1,7 @@
 # Oh!! New Gadget Super Lovers
 
+![oh-new-gadget-super-lovers](https://cdn.myanimelist.net/images/manga/3/248528.jpg)
+
 -   **type**: manga
 -   **start-date**: 2008-09-20
 

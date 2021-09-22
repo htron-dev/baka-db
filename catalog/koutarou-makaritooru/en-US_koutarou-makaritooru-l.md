@@ -1,5 +1,7 @@
 # Koutarou Makaritooru! L
 
+![koutarou-makaritooru-l](https://cdn.myanimelist.net/images/manga/1/75235.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: コータローまかりとおる! L

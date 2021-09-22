@@ -1,5 +1,7 @@
 # Yano-kun ni Oshi-Hen wa Dekinai!
 
+![yano-kun-ni-oshi-hen-wa-dekinai](https://cdn.myanimelist.net/images/manga/3/202322.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

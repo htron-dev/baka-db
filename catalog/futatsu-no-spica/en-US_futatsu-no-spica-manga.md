@@ -1,5 +1,7 @@
 # Futatsu no Spica
 
+![futatsu-no-spica](https://cdn.myanimelist.net/images/manga/2/176749.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 97

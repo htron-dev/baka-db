@@ -1,5 +1,7 @@
 # Shomuni
 
+![shomuni](https://cdn.myanimelist.net/images/manga/2/127089.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ショムニ

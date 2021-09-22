@@ -1,5 +1,7 @@
 # Dareka Kono Joukyou wo Setsumei shite Kudasai!: Keiyaku kara Hajimaru Wedding
 
+![dareka-kono-joukyou-wo-setsumei-shite-kudasai-keiyaku-kara-hajimaru-wedding](https://cdn.myanimelist.net/images/manga/3/235053.jpg)
+
 -   **type**: manga
 -   **original-name**: 誰かこの状況を説明してください! ～契約から始まるウェディング～
 -   **start-date**: 2017-11-30

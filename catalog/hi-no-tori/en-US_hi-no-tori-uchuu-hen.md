@@ -1,5 +1,7 @@
 # Hi no Tori: Uchuu-hen
 
+![hi-no-tori-uchuu-hen](https://cdn.myanimelist.net/images/anime/3/14209.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 火の鳥　宇宙編

@@ -1,5 +1,7 @@
 # Hakushaku-sama to Koi no kara Sawagi
 
+![hakushaku-sama-to-koi-no-kara-sawagi](https://cdn.myanimelist.net/images/manga/3/194576.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 伯爵様と恋のから騒ぎ

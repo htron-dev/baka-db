@@ -1,5 +1,7 @@
 # YuReRururu
 
+![yu-re-rururu](https://cdn.myanimelist.net/images/manga/3/180533.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

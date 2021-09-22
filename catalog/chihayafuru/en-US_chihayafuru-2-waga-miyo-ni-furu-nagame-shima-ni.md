@@ -1,5 +1,7 @@
 # Chihayafuru 2: Waga Miyo ni Furu Nagame Shima ni
 
+![chihayafuru-2-waga-miyo-ni-furu-nagame-shima-ni](https://cdn.myanimelist.net/images/anime/1603/107707.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ちはやふる２　わがみよにふるながめせしまに

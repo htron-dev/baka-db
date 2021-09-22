@@ -1,5 +1,7 @@
 # Bitter Sweet Café
 
+![bitter-sweet-cafe](https://cdn.myanimelist.net/images/manga/3/82058.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

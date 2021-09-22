@@ -1,5 +1,7 @@
 # Zero no Daikenja: Wakagaetta Saikyou Kenja wa Shoutai wo Kakushite Nariagaru
 
+![zero-no-daikenja-wakagaetta-saikyou-kenja-wa-shoutai-wo-kakushite-nariagaru](https://cdn.myanimelist.net/images/manga/2/241353.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

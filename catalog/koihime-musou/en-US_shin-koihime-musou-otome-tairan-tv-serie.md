@@ -1,5 +1,7 @@
 # Shin Koihime†Musou: Otome Tairan
 
+![shin-koihime-musou-otome-tairan](https://cdn.myanimelist.net/images/anime/12/74034.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 真恋姫†無双 ~乙女大乱~

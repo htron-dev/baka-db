@@ -1,5 +1,7 @@
 # G-on Riders
 
+![g-on-riders](https://cdn.myanimelist.net/images/manga/3/31361.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: G-on らいだーす

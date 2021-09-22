@@ -1,5 +1,7 @@
 # Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
 
+![isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta](https://cdn.myanimelist.net/images/manga/2/233388.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界でチート能力〈スキル〉を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～
 -   **start-date**: 2019-12-13

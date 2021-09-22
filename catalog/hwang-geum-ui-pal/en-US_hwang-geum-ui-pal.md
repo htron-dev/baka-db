@@ -1,5 +1,7 @@
 # Hwang-geum-ui Pal
 
+![hwang-geum-ui-pal](https://cdn.myanimelist.net/images/anime/10/45164.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 황금의 팔

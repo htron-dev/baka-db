@@ -1,5 +1,7 @@
 # Haruka na Machi e
 
+![haruka-na-machi-e](https://cdn.myanimelist.net/images/manga/5/68119.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

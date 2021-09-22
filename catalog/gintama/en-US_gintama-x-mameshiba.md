@@ -1,5 +1,7 @@
 # Gintama x Mameshiba
 
+![gintama-x-mameshiba](https://cdn.myanimelist.net/images/anime/1370/110954.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 銀魂 × 豆しば

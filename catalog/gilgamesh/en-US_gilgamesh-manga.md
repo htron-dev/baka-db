@@ -1,5 +1,7 @@
 # Gilgamesh
 
+![gilgamesh](https://cdn.myanimelist.net/images/manga/1/37075.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

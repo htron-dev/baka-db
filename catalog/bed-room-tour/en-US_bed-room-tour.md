@@ -1,5 +1,7 @@
 # Bed Room Tour!
 
+![bed-room-tour](https://cdn.myanimelist.net/images/manga/1/16571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

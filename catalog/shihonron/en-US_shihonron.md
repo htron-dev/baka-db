@@ -1,5 +1,7 @@
 # Shihonron
 
+![shihonron](https://cdn.myanimelist.net/images/manga/2/196861.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

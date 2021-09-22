@@ -1,5 +1,7 @@
 # Unko-san: Tsuiteru Hito ni Shika Mienai Yousei Junjou Ha
 
+![unko-san-tsuiteru-hito-ni-shika-mienai-yousei-junjou-ha](https://cdn.myanimelist.net/images/anime/4/79399.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うんこさん ツイてる人にしか見えない妖精 純情派

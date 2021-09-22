@@ -1,5 +1,7 @@
 # Ippatsu Kiki Musume
 
+![ippatsu-kiki-musume](https://cdn.myanimelist.net/images/anime/6/34133.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: イッパツ危機娘

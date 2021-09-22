@@ -1,5 +1,7 @@
 # Asatte ni Kiss
 
+![asatte-ni-kiss](https://cdn.myanimelist.net/images/manga/3/224170.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hoshikuzu Neverland Garden
 
+![hoshikuzu-neverland-garden](https://cdn.myanimelist.net/images/manga/2/169612.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Future GPX Cyber Formula: Early Days Renewal
 
+![future-gpx-cyber-formula-early-days-renewal](https://cdn.myanimelist.net/images/anime/1957/106760.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 新世紀ＧＰＸサイバーフォーミュラ EARLYDAYS RENEWAL

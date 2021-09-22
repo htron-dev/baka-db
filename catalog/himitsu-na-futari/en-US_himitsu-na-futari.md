@@ -1,5 +1,7 @@
 # Himitsu na Futari
 
+![himitsu-na-futari](https://cdn.myanimelist.net/images/manga/2/153352.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ヒミツなふたり

@@ -1,5 +1,7 @@
 # Ikumen☆After
 
+![ikumen☆-after](https://cdn.myanimelist.net/images/manga/3/71155.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

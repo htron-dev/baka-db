@@ -1,5 +1,7 @@
 # Shiritsu Araiso Koutougakkou Seitokai Shikkoubu
 
+![shiritsu-araiso-koutougakkou-seitokai-shikkoubu](https://cdn.myanimelist.net/images/anime/7/31701.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 私立荒磯高等学校生徒会執行部

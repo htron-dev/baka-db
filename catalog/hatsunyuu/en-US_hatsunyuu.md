@@ -1,5 +1,7 @@
 # Hatsunyuu
 
+![hatsunyuu](https://cdn.myanimelist.net/images/manga/3/169440.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

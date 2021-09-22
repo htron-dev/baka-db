@@ -1,5 +1,7 @@
 # Kekkou na Otemae desu.
 
+![kekkou-na-otemae-desu](https://cdn.myanimelist.net/images/manga/3/227717.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

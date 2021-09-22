@@ -1,5 +1,7 @@
 # Kantai Collection: Ikkousen, Demasu!
 
+![kantai-collection-ikkousen-demasu](https://cdn.myanimelist.net/images/manga/1/115089.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 艦隊これくしょん ‐艦これ‐ 一航戦、出ます!
 -   **start-date**: 2014-02-01

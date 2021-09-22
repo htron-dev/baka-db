@@ -1,5 +1,7 @@
 # Samurai Spirits: Makai Bugeichou
 
+![samurai-spirits-makai-bugeichou](https://cdn.myanimelist.net/images/manga/3/150361.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Eh, Teni Shippai!? ......Seikou?
 
+![eh-teni-shippai-seikou](https://cdn.myanimelist.net/images/manga/1/201371.jpg)
+
 -   **type**: light-novel
 -   **original-name**: えっ、転移失敗!? ……成功？
 -   **start-date**: 2017-05-19

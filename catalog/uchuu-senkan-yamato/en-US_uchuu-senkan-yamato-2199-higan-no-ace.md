@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato 2199: Higan no Ace
 
+![uchuu-senkan-yamato-2199-higan-no-ace](https://cdn.myanimelist.net/images/manga/2/101077.jpg)
+
 -   **type**: manga
 -   **original-name**: 宇宙戦艦ヤマト 2199 緋眼のエース
 -   **start-date**: 2013-07-30

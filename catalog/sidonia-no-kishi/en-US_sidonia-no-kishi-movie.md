@@ -1,5 +1,7 @@
 # Sidonia no Kishi Movie
 
+![sidonia-no-kishi-movie](https://cdn.myanimelist.net/images/anime/6/69369.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「シドニアの騎士」

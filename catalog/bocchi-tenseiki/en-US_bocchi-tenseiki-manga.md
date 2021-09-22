@@ -1,5 +1,7 @@
 # Bocchi Tenseiki
 
+![bocchi-tenseiki](https://cdn.myanimelist.net/images/manga/2/243008.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼっち転生記
 -   **start-date**: 2019-10-25

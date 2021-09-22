@@ -1,5 +1,7 @@
 # Happy End wo Shinjiteru
 
+![happy-end-wo-shinjiteru](https://cdn.myanimelist.net/images/manga/2/223711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

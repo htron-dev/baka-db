@@ -1,5 +1,7 @@
 # Otoko ni Naritai! Watashi no Kareshi wa Moto Onna
 
+![otoko-ni-naritai-watashi-no-kareshi-wa-moto-onna](https://cdn.myanimelist.net/images/manga/3/31588.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

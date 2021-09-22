@@ -1,5 +1,7 @@
 # Ake no Emblem
 
+![ake-no-emblem](https://cdn.myanimelist.net/images/manga/1/28169.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 緋のエンブレム

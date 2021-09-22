@@ -1,5 +1,7 @@
 # Venezuela Bitter My Sweet
 
+![venezuela-bitter-my-sweet](https://cdn.myanimelist.net/images/manga/2/162262.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

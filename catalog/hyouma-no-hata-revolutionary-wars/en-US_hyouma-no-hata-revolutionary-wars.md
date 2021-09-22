@@ -1,5 +1,7 @@
 # Hyouma no Hata: Revolutionary Wars
 
+![hyouma-no-hata-revolutionary-wars](https://cdn.myanimelist.net/images/manga/1/128823.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 兵馬の旗～ Revolutionary Wars ～

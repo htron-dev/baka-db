@@ -1,5 +1,7 @@
 # Monstructor: Yareba Dekiru Jingai Musume no Choukyou Shidou
 
+![monstructor-yareba-dekiru-jingai-musume-no-choukyou-shidou](https://cdn.myanimelist.net/images/manga/2/158336.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: モンストラクター やればできる人外娘の調教指導

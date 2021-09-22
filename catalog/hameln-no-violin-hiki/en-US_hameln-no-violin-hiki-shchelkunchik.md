@@ -1,5 +1,7 @@
 # Hameln no Violin-hiki: Shchelkunchik
 
+![hameln-no-violin-hiki-shchelkunchik](https://cdn.myanimelist.net/images/manga/1/64749.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ハーメルンのバイオリン弾き ～シェルクンチク～

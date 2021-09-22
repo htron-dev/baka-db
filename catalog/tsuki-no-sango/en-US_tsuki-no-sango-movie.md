@@ -1,5 +1,7 @@
 # Tsuki no Sango
 
+![tsuki-no-sango](https://cdn.myanimelist.net/images/anime/9/76214.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 月の珊瑚

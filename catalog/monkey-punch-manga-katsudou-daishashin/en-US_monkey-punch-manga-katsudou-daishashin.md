@@ -1,5 +1,7 @@
 # Monkey Punch: Manga Katsudou Daishashin
 
+![monkey-punch-manga-katsudou-daishashin](https://cdn.myanimelist.net/images/anime/3/10873.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: モンキー・パンチ　漫画活動大写真

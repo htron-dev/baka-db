@@ -1,5 +1,7 @@
 # Yashiko Shodai Seitokai
 
+![yashiko-shodai-seitokai](https://cdn.myanimelist.net/images/manga/2/51849.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Terra e...
 
+![terra-e](https://cdn.myanimelist.net/images/anime/9/42523.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 地球へ...

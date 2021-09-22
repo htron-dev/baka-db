@@ -1,5 +1,7 @@
 # Mahou Shoujo? Naria☆Girls Nama de Anime wo Tsukuru Sama
 
+![mahou-shoujo-naria☆-girls-nama-de-anime-wo-tsukuru-sama](https://cdn.myanimelist.net/images/anime/8/81105.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 魔法少女? なりあ ☆ がーるず生でアニメをつくるさま

@@ -1,5 +1,7 @@
 # Aitsu no Koe wo Kiku dake de
 
+![aitsu-no-koe-wo-kiku-dake-de](https://cdn.myanimelist.net/images/manga/1/236517.jpg)
+
 -   **type**: manga
 -   **original-name**: アイツの声を聞くだけで
 -   **start-date**: 2018-04-28

@@ -1,5 +1,7 @@
 # Fujoshi no Hinkaku
 
+![fujoshi-no-hinkaku](https://cdn.myanimelist.net/images/anime/13/20821.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 腐女子の品格

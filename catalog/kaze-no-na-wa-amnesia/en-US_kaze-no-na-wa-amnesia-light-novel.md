@@ -1,5 +1,7 @@
 # Kaze no Na wa Amnesia
 
+![kaze-no-na-wa-amnesia](https://cdn.myanimelist.net/images/manga/2/33984.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

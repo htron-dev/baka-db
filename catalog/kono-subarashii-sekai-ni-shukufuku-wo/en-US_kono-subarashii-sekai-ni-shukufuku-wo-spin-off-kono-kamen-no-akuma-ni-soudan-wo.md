@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Kamen no Akuma ni Soudan wo!
 
+![kono-subarashii-sekai-ni-shukufuku-wo-spin-off-kono-kamen-no-akuma-ni-soudan-wo](https://cdn.myanimelist.net/images/manga/1/175150.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

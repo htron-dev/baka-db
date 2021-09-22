@@ -1,5 +1,7 @@
 # Rokunanbou to Onyouji
 
+![rokunanbou-to-onyouji](https://cdn.myanimelist.net/images/manga/2/235647.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 六男坊と陰陽師

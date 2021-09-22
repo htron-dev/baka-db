@@ -1,5 +1,7 @@
 # Ring Ring: Eiyuu Kishi to Isekai no Otome
 
+![ring-ring-eiyuu-kishi-to-isekai-no-otome](https://cdn.myanimelist.net/images/manga/1/238313.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

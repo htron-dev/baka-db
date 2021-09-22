@@ -1,5 +1,7 @@
 # Uchuujin no Shiwaza desu!
 
+![uchuujin-no-shiwaza-desu](https://cdn.myanimelist.net/images/manga/1/183777.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

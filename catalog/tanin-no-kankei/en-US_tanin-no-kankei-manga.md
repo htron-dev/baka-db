@@ -1,5 +1,7 @@
 # Tanin no Kankei
 
+![tanin-no-kankei](https://cdn.myanimelist.net/images/manga/3/35559.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 他人の関係

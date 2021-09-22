@@ -1,5 +1,7 @@
 # Arashi no Yoru ni
 
+![arashi-no-yoru-ni](https://cdn.myanimelist.net/images/anime/9/5064.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あらしのよるに

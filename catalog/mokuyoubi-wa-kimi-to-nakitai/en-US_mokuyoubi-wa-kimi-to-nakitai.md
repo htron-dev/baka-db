@@ -1,5 +1,7 @@
 # Mokuyoubi wa Kimi to Nakitai.
 
+![mokuyoubi-wa-kimi-to-nakitai](https://cdn.myanimelist.net/images/manga/2/221815.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Senran Kagura
 
+![senran-kagura](https://cdn.myanimelist.net/images/anime/5/45640.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 閃乱カグラ

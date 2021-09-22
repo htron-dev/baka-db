@@ -1,5 +1,7 @@
 # Unlucky Young Men
 
+![unlucky-young-men](https://cdn.myanimelist.net/images/manga/2/167547.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

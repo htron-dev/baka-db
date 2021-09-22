@@ -1,5 +1,7 @@
 # Hello Kitty: Ringo no Mori no Mystery
 
+![hello-kitty-ringo-no-mori-no-mystery](https://cdn.myanimelist.net/images/anime/2/58655.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ハローキティ りんごの森のミステリー
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   mystery
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # 18 Rin
 
+![18-rin](https://cdn.myanimelist.net/images/manga/1/188982.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

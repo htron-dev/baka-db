@@ -1,5 +1,7 @@
 # Chou Kidougai-ku: Kashiwa-no-Ha
 
+![chou-kidougai-ku-kashiwa-no-ha](https://cdn.myanimelist.net/images/anime/3/76689.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 超機動街区 KASHIWA-NO-HA

@@ -1,5 +1,7 @@
 # Kodoku na Fugou
 
+![kodoku-na-fugou](https://cdn.myanimelist.net/images/manga/3/73791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Aobara-hime no Yarinaoshi Kakumeiki
 
+![aobara-hime-no-yarinaoshi-kakumeiki](https://cdn.myanimelist.net/images/manga/1/239270.jpg)
+
 -   **type**: manga
 -   **original-name**: 青薔薇姫のやりなおし革命記
 -   **start-date**: 2020-03-16

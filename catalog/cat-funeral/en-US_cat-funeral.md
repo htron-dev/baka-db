@@ -1,5 +1,7 @@
 # Cat Funeral
 
+![cat-funeral](https://cdn.myanimelist.net/images/manga/1/78199.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 8

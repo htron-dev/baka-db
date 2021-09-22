@@ -1,5 +1,7 @@
 # The Five Killers
 
+![the-five-killers](https://cdn.myanimelist.net/images/anime/5/74394.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: THE FIVE KILLERS

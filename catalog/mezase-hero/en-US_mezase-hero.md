@@ -1,5 +1,7 @@
 # Mezase Hero!
 
+![mezase-hero](https://cdn.myanimelist.net/images/manga/2/208875.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

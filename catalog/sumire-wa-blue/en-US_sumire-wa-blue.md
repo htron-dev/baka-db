@@ -1,5 +1,7 @@
 # Sumire wa Blue
 
+![sumire-wa-blue](https://cdn.myanimelist.net/images/manga/2/140143.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

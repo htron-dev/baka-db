@@ -1,5 +1,7 @@
 # K: Seven Stories - The Idol K
 
+![k-seven-stories-the-idol-k](https://cdn.myanimelist.net/images/anime/1642/90546.jpg)
+
 -   **type**: movie
 -   **episodes**: 6
 -   **original-name**: K Seven Stories ザ・アイドル K
@@ -23,4 +25,4 @@ Shorts featuring the characters reimagined as idols.
 -   [My Anime list](https://myanimelist.net/anime/37308/K__Seven_Stories_-_The_Idol_K)
 -   [Official Site](http://k-project.jpn.com/k7s_idol/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12107)
--   [Wikipedia](<https://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/K_%28anime%29)

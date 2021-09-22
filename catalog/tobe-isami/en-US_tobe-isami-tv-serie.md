@@ -1,5 +1,7 @@
 # Tobe! Isami
 
+![tobe-isami](https://cdn.myanimelist.net/images/anime/8/21083.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 飛べ！イサミ

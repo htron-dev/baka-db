@@ -1,5 +1,7 @@
 # Princess Rouge
 
+![princess-rouge](https://cdn.myanimelist.net/images/anime/1405/112400.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: プリンセス・ルージュ

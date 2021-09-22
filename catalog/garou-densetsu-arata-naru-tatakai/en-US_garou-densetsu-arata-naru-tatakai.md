@@ -1,5 +1,7 @@
 # Garou Densetsu: Arata naru Tatakai
 
+![garou-densetsu-arata-naru-tatakai](https://cdn.myanimelist.net/images/manga/3/38935.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 餓狼伝説 -新たなる闘い-

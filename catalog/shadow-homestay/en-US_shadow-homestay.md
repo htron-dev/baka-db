@@ -1,5 +1,7 @@
 # Shadow Homestay
 
+![shadow-homestay](https://cdn.myanimelist.net/images/manga/1/119815.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: シャドウ・ホームステイ

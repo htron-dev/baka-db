@@ -1,5 +1,7 @@
 # Kiss dake ja Kaesanai
 
+![kiss-dake-ja-kaesanai](https://cdn.myanimelist.net/images/manga/2/10007.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

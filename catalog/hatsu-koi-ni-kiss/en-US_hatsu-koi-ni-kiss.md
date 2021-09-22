@@ -1,5 +1,7 @@
 # Hatsu-koi ni Kiss
 
+![hatsu-koi-ni-kiss](https://cdn.myanimelist.net/images/manga/3/142197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

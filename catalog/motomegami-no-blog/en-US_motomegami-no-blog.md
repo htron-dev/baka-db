@@ -1,5 +1,7 @@
 # Motomegami no Blog
 
+![motomegami-no-blog](https://cdn.myanimelist.net/images/manga/3/203933.jpg)
+
 -   **type**: manga
 -   **original-name**: 元女神のブログ
 -   **start-date**: 2017-05-01

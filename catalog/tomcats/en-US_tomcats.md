@@ -1,5 +1,7 @@
 # Tomcats
 
+![tomcats](https://cdn.myanimelist.net/images/manga/3/7249.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 天使のじかん

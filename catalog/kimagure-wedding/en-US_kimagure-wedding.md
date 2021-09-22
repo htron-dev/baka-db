@@ -1,5 +1,7 @@
 # Kimagure Wedding
 
+![kimagure-wedding](https://cdn.myanimelist.net/images/manga/1/8056.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 気まぐれウエディング

@@ -1,5 +1,7 @@
 # Nanchatte Cinderella: Oukyuu Inbou-hen - Isekai de, Outaishihi Hajimemashita.
 
+![nanchatte-cinderella-oukyuu-inbou-hen-isekai-de-outaishihi-hajimemashita](https://cdn.myanimelist.net/images/manga/1/225587.jpg)
+
 -   **type**: manga
 -   **original-name**: なんちゃってシンデレラ 王宮陰謀編　異世界で、王太子妃はじめました。
 -   **start-date**: 2017-06-05

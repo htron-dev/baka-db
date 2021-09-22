@@ -1,5 +1,7 @@
 # Kaitou Shounen Jokers
 
+![kaitou-shounen-jokers](https://cdn.myanimelist.net/images/manga/3/200151.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪盗少年ジョーカーズ
 -   **start-date**: 2017-09-15

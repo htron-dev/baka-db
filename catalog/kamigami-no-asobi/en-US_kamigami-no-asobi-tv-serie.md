@@ -1,5 +1,7 @@
 # Kamigami no Asobi
 
+![kamigami-no-asobi](https://cdn.myanimelist.net/images/anime/12/60703.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 神々の悪戯

@@ -1,5 +1,7 @@
 # Olympus no Yuubin Post
 
+![olympus-no-yuubin-post](https://cdn.myanimelist.net/images/manga/2/238418.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: オリンポスの郵便ポスト

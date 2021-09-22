@@ -1,5 +1,7 @@
 # Kirakira no Natsu
 
+![kirakira-no-natsu](https://cdn.myanimelist.net/images/manga/3/159041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

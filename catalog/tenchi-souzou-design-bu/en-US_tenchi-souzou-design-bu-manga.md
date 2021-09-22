@@ -1,5 +1,7 @@
 # Tenchi Souzou Design-bu
 
+![tenchi-souzou-design-bu](https://cdn.myanimelist.net/images/manga/1/203926.jpg)
+
 -   **type**: manga
 -   **original-name**: 天地創造デザイン部
 -   **start-date**: 2017-02-22

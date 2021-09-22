@@ -1,5 +1,7 @@
 # Bungou Stray Dogs Gaiden: Ayatsuji Yukito vs. Kyougoku Natsuhiko
 
+![bungou-stray-dogs-gaiden-ayatsuji-yukito-vs-kyougoku-natsuhiko](https://cdn.myanimelist.net/images/manga/2/224027.jpg)
+
 -   **type**: manga
 -   **original-name**: 文豪ストレイドッグス外伝 綾辻行人 VS. 京極夏彦
 -   **start-date**: 2017-12-01

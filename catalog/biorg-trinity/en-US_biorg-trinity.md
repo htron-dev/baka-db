@@ -1,5 +1,7 @@
 # Biorg Trinity
 
+![biorg-trinity](https://cdn.myanimelist.net/images/manga/2/207751.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 60

@@ -1,5 +1,7 @@
 # Naze da Naitou
 
+![naze-da-naitou](https://cdn.myanimelist.net/images/manga/1/220022.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: なぜだ内藤

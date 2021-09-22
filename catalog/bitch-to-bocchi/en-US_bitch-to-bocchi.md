@@ -1,5 +1,7 @@
 # Bitch to Bocchi
 
+![bitch-to-bocchi](https://cdn.myanimelist.net/images/manga/1/136775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ビッチとぼっち

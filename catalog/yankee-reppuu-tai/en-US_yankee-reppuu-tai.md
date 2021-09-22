@@ -1,5 +1,7 @@
 # Yankee Reppuu-tai
 
+![yankee-reppuu-tai](https://cdn.myanimelist.net/images/anime/6/62421.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ヤンキー烈風隊

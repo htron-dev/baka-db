@@ -1,5 +1,7 @@
 # Sentimental Color
 
+![sentimental-color](https://cdn.myanimelist.net/images/manga/3/97205.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # World Fool News (TV)
 
+![world-fool-news-tv](https://cdn.myanimelist.net/images/anime/13/62235.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ワールド フールニュース

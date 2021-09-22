@@ -1,5 +1,7 @@
 # Akame ga Kill! Zero
 
+![akame-ga-kill-zero](https://cdn.myanimelist.net/images/manga/3/130745.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

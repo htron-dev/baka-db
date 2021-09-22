@@ -1,5 +1,7 @@
 # Overman King Gainer Recap
 
+![overman-king-gainer-recap](https://cdn.myanimelist.net/images/anime/1806/105585.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: オーバーマン キングゲイナー 第 1 話～第 11 話のダイジェスト

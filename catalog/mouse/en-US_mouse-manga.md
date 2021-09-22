@@ -1,5 +1,7 @@
 # Mouse
 
+![mouse](https://cdn.myanimelist.net/images/manga/3/174374.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 117

@@ -1,5 +1,7 @@
 # Kaisho Fuusatsuki
 
+![kaisho-fuusatsuki](https://cdn.myanimelist.net/images/manga/1/162622.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Toumei Ningen no Hone
 
+![toumei-ningen-no-hone](https://cdn.myanimelist.net/images/manga/2/203244.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

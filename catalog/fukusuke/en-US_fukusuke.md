@@ -1,5 +1,7 @@
 # Fukusuke
 
+![fukusuke](https://cdn.myanimelist.net/images/manga/3/109225.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

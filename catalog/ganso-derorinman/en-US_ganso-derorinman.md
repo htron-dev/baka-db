@@ -1,5 +1,7 @@
 # Ganso Derorinman
 
+![ganso-derorinman](https://cdn.myanimelist.net/images/manga/3/187828.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 元祖デロリンマン

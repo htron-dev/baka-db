@@ -1,5 +1,7 @@
 # Princess Tutu
 
+![princess-tutu](https://cdn.myanimelist.net/images/anime/1145/93646.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: プリンセスチュチュ

@@ -1,5 +1,7 @@
 # 5-fungo no Sekai
 
+![5-fungo-no-sekai](https://cdn.myanimelist.net/images/manga/3/215624.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 66

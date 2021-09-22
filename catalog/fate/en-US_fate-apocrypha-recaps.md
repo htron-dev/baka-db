@@ -1,5 +1,7 @@
 # Fate/Apocrypha Recaps
 
+![fate-apocrypha-recaps](https://cdn.myanimelist.net/images/anime/1661/102468.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: Fate/Apocrypha

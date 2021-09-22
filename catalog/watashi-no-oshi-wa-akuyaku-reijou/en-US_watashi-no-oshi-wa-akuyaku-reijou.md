@@ -1,5 +1,7 @@
 # Watashi no Oshi wa Akuyaku Reijou.
 
+![watashi-no-oshi-wa-akuyaku-reijou](https://cdn.myanimelist.net/images/manga/2/238641.jpg)
+
 -   **type**: manga
 -   **original-name**: 私の推しは悪役令嬢。
 -   **start-date**: 2020-06-18

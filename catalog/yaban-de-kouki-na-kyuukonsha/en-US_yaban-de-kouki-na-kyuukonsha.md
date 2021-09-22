@@ -1,5 +1,7 @@
 # Yaban de Kouki na Kyuukonsha
 
+![yaban-de-kouki-na-kyuukonsha](https://cdn.myanimelist.net/images/manga/2/192341.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

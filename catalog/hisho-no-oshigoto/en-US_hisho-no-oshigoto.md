@@ -1,5 +1,7 @@
 # Hisho no Oshigoto?
 
+![hisho-no-oshigoto](https://cdn.myanimelist.net/images/manga/2/73151.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

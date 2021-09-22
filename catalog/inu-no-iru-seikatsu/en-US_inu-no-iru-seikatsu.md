@@ -1,5 +1,7 @@
 # Inu no Iru Seikatsu
 
+![inu-no-iru-seikatsu](https://cdn.myanimelist.net/images/manga/2/103679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

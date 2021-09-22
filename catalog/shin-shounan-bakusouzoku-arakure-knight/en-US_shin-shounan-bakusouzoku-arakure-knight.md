@@ -1,5 +1,7 @@
 # Shin Shounan Bakusouzoku Arakure Knight
 
+![shin-shounan-bakusouzoku-arakure-knight](https://cdn.myanimelist.net/images/anime/4/44652.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 新・湘南爆走族 荒くれ KNIGHT

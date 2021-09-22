@@ -1,5 +1,7 @@
 # Rewrite: Side-B
 
+![rewrite-side-b](https://cdn.myanimelist.net/images/manga/3/157788.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 52

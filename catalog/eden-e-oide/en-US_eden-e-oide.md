@@ -1,5 +1,7 @@
 # Eden e Oide
 
+![eden-e-oide](https://cdn.myanimelist.net/images/manga/2/32793.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: エデンへおいで

@@ -1,5 +1,7 @@
 # Yuzu no Doubutsu Karte: Chiisana Juui - Kochira Wan Nyan Doubutsu Byouin
 
+![yuzu-no-doubutsu-karte-chiisana-juui-kochira-wan-nyan-doubutsu-byouin](https://cdn.myanimelist.net/images/manga/3/228113.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

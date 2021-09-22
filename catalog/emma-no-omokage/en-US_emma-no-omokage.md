@@ -1,5 +1,7 @@
 # Emma no Omokage
 
+![emma-no-omokage](https://cdn.myanimelist.net/images/manga/2/79303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

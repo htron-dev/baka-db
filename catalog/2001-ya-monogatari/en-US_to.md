@@ -1,5 +1,7 @@
 # TO
 
+![to](https://cdn.myanimelist.net/images/anime/8/18027.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: トゥー

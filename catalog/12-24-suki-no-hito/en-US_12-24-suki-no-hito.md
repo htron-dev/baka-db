@@ -1,5 +1,7 @@
 # 12/24. Suki no Hito.
 
+![12-24-suki-no-hito](https://cdn.myanimelist.net/images/manga/3/65951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

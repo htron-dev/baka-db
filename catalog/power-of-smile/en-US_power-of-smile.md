@@ -1,5 +1,7 @@
 # Power of Smile.
 
+![power-of-smile](https://cdn.myanimelist.net/images/manga/2/170744.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 71

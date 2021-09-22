@@ -1,5 +1,7 @@
 # Miiko desu!
 
+![miiko-desu](https://cdn.myanimelist.net/images/manga/4/36554.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

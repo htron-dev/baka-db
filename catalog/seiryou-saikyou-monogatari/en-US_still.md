@@ -1,5 +1,7 @@
 # still...
 
+![still](https://cdn.myanimelist.net/images/manga/1/26717.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: それでもまだ君の事が…

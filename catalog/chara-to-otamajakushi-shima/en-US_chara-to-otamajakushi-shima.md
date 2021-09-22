@@ -1,5 +1,7 @@
 # Chara to Otamajakushi Shima
 
+![chara-to-otamajakushi-shima](https://cdn.myanimelist.net/images/anime/1931/90895.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: キャラとおたまじゃくし島
@@ -11,7 +13,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

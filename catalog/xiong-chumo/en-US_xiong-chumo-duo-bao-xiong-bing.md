@@ -1,5 +1,7 @@
 # Xiong Chumo: Duo Bao Xiong Bing
 
+![xiong-chumo-duo-bao-xiong-bing](https://cdn.myanimelist.net/images/anime/10/78663.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 熊出没之夺宝熊兵

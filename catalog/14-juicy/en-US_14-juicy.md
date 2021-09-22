@@ -1,5 +1,7 @@
 # 14 Juicy
 
+![14-juicy](https://cdn.myanimelist.net/images/manga/3/19647.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33

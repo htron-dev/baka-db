@@ -1,5 +1,7 @@
 # Dai Dark
 
+![dai-dark](https://cdn.myanimelist.net/images/manga/3/226814.jpg)
+
 -   **type**: manga
 -   **original-name**: 大ダーク
 -   **start-date**: 2019-03-12

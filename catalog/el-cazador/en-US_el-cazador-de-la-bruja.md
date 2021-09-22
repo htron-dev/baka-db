@@ -1,5 +1,7 @@
 # El Cazador de la Bruja
 
+![el-cazador-de-la-bruja](https://cdn.myanimelist.net/images/anime/11/19922.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: エル・カザド

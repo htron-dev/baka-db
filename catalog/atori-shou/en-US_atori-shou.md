@@ -1,5 +1,7 @@
 # Atori Shou
 
+![atori-shou](https://cdn.myanimelist.net/images/manga/2/127761.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42

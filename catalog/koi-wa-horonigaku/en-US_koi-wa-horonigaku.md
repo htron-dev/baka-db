@@ -1,5 +1,7 @@
 # Koi wa Horonigaku
 
+![koi-wa-horonigaku](https://cdn.myanimelist.net/images/manga/2/228788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋はほろにがく

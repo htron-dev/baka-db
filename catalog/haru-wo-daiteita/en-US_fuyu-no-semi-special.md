@@ -1,5 +1,7 @@
 # Fuyu no Semi Special
 
+![fuyu-no-semi-special](https://cdn.myanimelist.net/images/anime/9/27755.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 冬の蝉 ~特別編集版~

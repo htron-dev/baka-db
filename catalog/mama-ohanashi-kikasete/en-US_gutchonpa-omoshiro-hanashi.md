@@ -1,5 +1,7 @@
 # Gutchonpa Omoshiro Hanashi
 
+![gutchonpa-omoshiro-hanashi](https://cdn.myanimelist.net/images/anime/7/77164.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: グッチョンパおもしろ話

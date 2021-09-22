@@ -1,5 +1,7 @@
 # Youchien kara Yarinaoshi!
 
+![youchien-kara-yarinaoshi](https://cdn.myanimelist.net/images/manga/2/73659.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 幼稚園からやりなおしっ!

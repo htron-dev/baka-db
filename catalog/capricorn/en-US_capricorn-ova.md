@@ -1,5 +1,7 @@
 # Capricorn
 
+![capricorn](https://cdn.myanimelist.net/images/anime/6/2954.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カプリコン

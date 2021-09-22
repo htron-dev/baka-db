@@ -1,5 +1,7 @@
 # Gregory Horror Show: Another World
 
+![gregory-horror-show-another-world](https://cdn.myanimelist.net/images/manga/1/115649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

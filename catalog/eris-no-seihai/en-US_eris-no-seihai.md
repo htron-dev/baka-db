@@ -1,5 +1,7 @@
 # Eris no Seihai
 
+![eris-no-seihai](https://cdn.myanimelist.net/images/manga/3/226738.jpg)
+
 -   **type**: manga
 -   **original-name**: エリスの聖杯
 -   **start-date**: 2019-11-03

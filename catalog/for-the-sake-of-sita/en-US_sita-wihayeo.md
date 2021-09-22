@@ -1,5 +1,7 @@
 # Sita Wihayeo
 
+![sita-wihayeo](https://cdn.myanimelist.net/images/anime/1180/107339.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 시타를 위하여

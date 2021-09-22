@@ -1,5 +1,7 @@
 # Gyakuten Sekai no Denchi Shoujo
 
+![gyakuten-sekai-no-denchi-shoujo](https://cdn.myanimelist.net/images/anime/1836/117774.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 逆転世界ノ電池少女
 -   **start-date**: 2021-10-20

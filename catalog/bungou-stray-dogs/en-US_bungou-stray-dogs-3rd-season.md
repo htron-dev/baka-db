@@ -1,5 +1,7 @@
 # Bungou Stray Dogs 3rd Season
 
+![bungou-stray-dogs-3rd-season](https://cdn.myanimelist.net/images/anime/1037/100463.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 文豪ストレイドッグス 第 3 期

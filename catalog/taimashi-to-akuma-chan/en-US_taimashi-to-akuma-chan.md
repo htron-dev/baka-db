@@ -1,5 +1,7 @@
 # Taimashi to Akuma-chan
 
+![taimashi-to-akuma-chan](https://cdn.myanimelist.net/images/manga/1/215987.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 60

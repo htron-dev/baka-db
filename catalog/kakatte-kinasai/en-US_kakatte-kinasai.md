@@ -1,5 +1,7 @@
 # Kakatte Kinasai!
 
+![kakatte-kinasai](https://cdn.myanimelist.net/images/manga/3/205510.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: かかってきなさい!

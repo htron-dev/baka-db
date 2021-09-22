@@ -1,5 +1,7 @@
 # Erotic Märchen
 
+![erotic-marchen](https://cdn.myanimelist.net/images/manga/1/30627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: エロチックメルヘン

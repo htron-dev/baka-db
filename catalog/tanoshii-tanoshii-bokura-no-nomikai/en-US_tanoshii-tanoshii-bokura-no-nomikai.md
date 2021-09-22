@@ -1,5 +1,7 @@
 # Tanoshii Tanoshii Bokura no Nomikai
 
+![tanoshii-tanoshii-bokura-no-nomikai](https://cdn.myanimelist.net/images/manga/2/174656.jpg)
+
 -   **type**: manga
 -   **original-name**: たのしいたのしいぼくらののみかい
 -   **start-date**: 2014-07-30

@@ -1,5 +1,7 @@
 # Mahoko
 
+![mahoko](https://cdn.myanimelist.net/images/manga/2/48497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: MAHOUKO

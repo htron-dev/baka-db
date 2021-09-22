@@ -1,5 +1,7 @@
 # Koe Koi
 
+![koe-koi](https://cdn.myanimelist.net/images/manga/3/179163.jpg)
+
 -   **type**: manga
 -   **original-name**: こえ恋
 -   **start-date**: 2015-05-01

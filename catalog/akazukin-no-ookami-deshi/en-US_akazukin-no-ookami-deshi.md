@@ -1,5 +1,7 @@
 # Akazukin no Ookami Deshi
 
+![akazukin-no-ookami-deshi](https://cdn.myanimelist.net/images/manga/1/206381.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

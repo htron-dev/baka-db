@@ -1,5 +1,7 @@
 # Bitter x Sweet Blood
 
+![bitter-x-sweet-blood](https://cdn.myanimelist.net/images/manga/1/164505.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: BITTER×SWEETBLOOD

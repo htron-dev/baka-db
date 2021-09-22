@@ -1,5 +1,7 @@
 # Akuma-kun Seikimatsu Taisen
 
+![akuma-kun-seikimatsu-taisen](https://cdn.myanimelist.net/images/manga/3/186955.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

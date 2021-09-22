@@ -1,5 +1,7 @@
 # Mirai Nikki: Redial
 
+![mirai-nikki-redial](https://cdn.myanimelist.net/images/anime/3/53247.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 未来日記リダイヤル

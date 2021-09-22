@@ -1,5 +1,7 @@
 # Watashi ga Iutoori ni Naru
 
+![watashi-ga-iutoori-ni-naru](https://cdn.myanimelist.net/images/manga/2/166584.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

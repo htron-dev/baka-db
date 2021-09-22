@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh!: Transcend Game
 
+![yu☆-gi☆-oh-transcend-game](https://cdn.myanimelist.net/images/manga/1/176024.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 遊 ☆ 戯 ☆ 王 TRANSCEND・GAME

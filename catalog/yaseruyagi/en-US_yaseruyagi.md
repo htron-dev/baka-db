@@ -1,5 +1,7 @@
 # Yaseruyagi
 
+![yaseruyagi](https://cdn.myanimelist.net/images/anime/8/81478.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: やせるやぎ

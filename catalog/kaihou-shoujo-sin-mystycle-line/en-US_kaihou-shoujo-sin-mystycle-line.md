@@ -1,5 +1,7 @@
 # Kaihou Shoujo SIN: Mystycle Line
 
+![kaihou-shoujo-sin-mystycle-line](https://cdn.myanimelist.net/images/manga/3/139513.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

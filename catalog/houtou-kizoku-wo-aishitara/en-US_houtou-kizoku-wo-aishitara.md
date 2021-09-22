@@ -1,5 +1,7 @@
 # Houtou Kizoku wo Aishitara
 
+![houtou-kizoku-wo-aishitara](https://cdn.myanimelist.net/images/manga/2/228843.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 放蕩貴族を愛したら

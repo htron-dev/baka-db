@@ -1,5 +1,7 @@
 # Sangokushi
 
+![sangokushi](https://cdn.myanimelist.net/images/manga/1/16898.jpg)
+
 -   **type**: manga
 -   **volumes**: 60
 -   **chapters**: 438

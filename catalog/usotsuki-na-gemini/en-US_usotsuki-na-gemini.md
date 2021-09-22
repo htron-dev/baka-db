@@ -1,5 +1,7 @@
 # Usotsuki na Gemini
 
+![usotsuki-na-gemini](https://cdn.myanimelist.net/images/manga/1/11777.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

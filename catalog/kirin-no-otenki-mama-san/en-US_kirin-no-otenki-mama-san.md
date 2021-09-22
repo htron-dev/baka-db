@@ -1,5 +1,7 @@
 # Kirin no Otenki Mama-san
 
+![kirin-no-otenki-mama-san](https://cdn.myanimelist.net/images/anime/11/72061.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: キリンのお天気ママさん

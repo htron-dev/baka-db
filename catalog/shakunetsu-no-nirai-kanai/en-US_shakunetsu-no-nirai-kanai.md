@@ -1,5 +1,7 @@
 # Shakunetsu no Nirai Kanai
 
+![shakunetsu-no-nirai-kanai](https://cdn.myanimelist.net/images/manga/2/236464.jpg)
+
 -   **type**: manga
 -   **original-name**: 灼熱のニライカナイ
 -   **start-date**: 2020-06-27

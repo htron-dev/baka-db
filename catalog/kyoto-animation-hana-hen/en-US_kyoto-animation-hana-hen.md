@@ -1,5 +1,7 @@
 # Kyoto Animation: Hana-hen
 
+![kyoto-animation-hana-hen](https://cdn.myanimelist.net/images/anime/5/73729.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 京都アニメーション CM「花編」

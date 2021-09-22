@@ -1,5 +1,7 @@
 # Sekai de 2-banme ni Omoshiroi Light Novel.
 
+![sekai-de-2-banme-ni-omoshiroi-light-novel](https://cdn.myanimelist.net/images/manga/2/165735.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Fumikiri Jikan
 
+![fumikiri-jikan](https://cdn.myanimelist.net/images/anime/1598/91857.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 踏切時間

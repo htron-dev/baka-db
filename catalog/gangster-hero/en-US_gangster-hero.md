@@ -1,5 +1,7 @@
 # Gangster Hero
 
+![gangster-hero](https://cdn.myanimelist.net/images/manga/1/18216.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 -   **original-name**: 건달 히어로

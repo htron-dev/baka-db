@@ -1,5 +1,7 @@
 # Kokoro Toshokan
 
+![kokoro-toshokan](https://cdn.myanimelist.net/images/manga/3/38129.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 51

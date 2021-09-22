@@ -1,5 +1,7 @@
 # Isekai de Te ni Ireta Seisan Skill wa Saikyou Datta you desu
 
+![isekai-de-te-ni-ireta-seisan-skill-wa-saikyou-datta-you-desu](https://cdn.myanimelist.net/images/manga/1/241362.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界で手に入れた生産スキルは最強だったようです。
 -   **start-date**: 2020-01-23

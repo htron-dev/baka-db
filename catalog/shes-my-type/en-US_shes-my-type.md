@@ -1,5 +1,7 @@
 # She's My Type
 
+![shes-my-type](https://cdn.myanimelist.net/images/manga/1/244928.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 취향저격 그녀
 -   **start-date**: 2018-04-01

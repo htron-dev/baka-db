@@ -1,5 +1,7 @@
 # Fierce Fighting! EXE Siblings Rockmen!
 
+![fierce-fighting-exe-siblings-rockmen](https://cdn.myanimelist.net/images/manga/3/38839.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 激闘!エグゼ兄弟ロックメーン, Gekitou! Eguze Kyoudai Rokkumēn

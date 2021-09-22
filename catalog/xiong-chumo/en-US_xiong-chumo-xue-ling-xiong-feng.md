@@ -1,5 +1,7 @@
 # Xiong Chumo: Xue Ling Xiong Feng
 
+![xiong-chumo-xue-ling-xiong-feng](https://cdn.myanimelist.net/images/anime/10/78664.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 熊出没之雪岭熊风

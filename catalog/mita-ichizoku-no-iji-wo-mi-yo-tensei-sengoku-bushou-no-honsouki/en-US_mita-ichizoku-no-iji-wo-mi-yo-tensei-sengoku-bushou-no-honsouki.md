@@ -1,5 +1,7 @@
 # Mita Ichizoku no Iji wo Mi yo: Tensei Sengoku Bushou no Honsouki
 
+![mita-ichizoku-no-iji-wo-mi-yo-tensei-sengoku-bushou-no-honsouki](https://cdn.myanimelist.net/images/manga/3/177134.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 三田一族の意地を見よ～転生戦国武将の奔走記～
 -   **start-date**: 2015-05-25

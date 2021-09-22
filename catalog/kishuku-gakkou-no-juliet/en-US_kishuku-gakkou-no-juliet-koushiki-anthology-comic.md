@@ -1,5 +1,7 @@
 # Kishuku Gakkou no Juliet: Koushiki Anthology Comic
 
+![kishuku-gakkou-no-juliet-koushiki-anthology-comic](https://cdn.myanimelist.net/images/manga/1/228153.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Aria the Origination
 
+![aria-the-origination](https://cdn.myanimelist.net/images/anime/6/77623.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ARIA The ORIGINATION

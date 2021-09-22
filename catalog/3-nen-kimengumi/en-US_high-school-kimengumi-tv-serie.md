@@ -1,5 +1,7 @@
 # High School! Kimengumi
 
+![high-school-kimengumi](https://cdn.myanimelist.net/images/anime/1146/106160.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 86
 -   **original-name**: ハイスクール！奇面組

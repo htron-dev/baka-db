@@ -1,5 +1,7 @@
 # Sono Shitsuji, Kahogo ni Tsuki.: Binbou Ojousama wa Kyou mo Yuuutsu
 
+![sono-shitsuji-kahogo-ni-tsuki-binbou-ojousama-wa-kyou-mo-yuuutsu](https://cdn.myanimelist.net/images/manga/3/196337.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: その執事、過保護につき。～貧乏お嬢様は今日も憂鬱～

@@ -1,5 +1,7 @@
 # Zombie darake no Kono Sekai dewa Sex shinai to Ikinokorenai
 
+![zombie-darake-no-kono-sekai-dewa-sex-shinai-to-ikinokorenai](https://cdn.myanimelist.net/images/manga/3/241319.jpg)
+
 -   **type**: manga
 -   **original-name**: ゾンビだらけのこの世界ではセックスしないと生き残れない
 -   **start-date**: 2019-11-11

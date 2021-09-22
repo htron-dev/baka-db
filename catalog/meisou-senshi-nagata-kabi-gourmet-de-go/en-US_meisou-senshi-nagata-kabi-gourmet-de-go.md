@@ -1,5 +1,7 @@
 # Meisou Senshi Nagata Kabi: Gourmet de Go!
 
+![meisou-senshi-nagata-kabi-gourmet-de-go](https://cdn.myanimelist.net/images/manga/3/242335.jpg)
+
 -   **type**: manga
 -   **original-name**: 迷走戦士・永田カビ グルメで GO！
 -   **start-date**: 2021-02-19

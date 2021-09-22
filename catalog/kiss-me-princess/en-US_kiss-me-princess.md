@@ -1,5 +1,7 @@
 # Kiss Me Princess
 
+![kiss-me-princess](https://cdn.myanimelist.net/images/manga/4/3653.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 63

@@ -1,5 +1,7 @@
 # Otomodachi kara Hajimemashou.
 
+![otomodachi-kara-hajimemashou](https://cdn.myanimelist.net/images/manga/2/187025.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

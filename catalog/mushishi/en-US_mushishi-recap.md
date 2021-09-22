@@ -1,5 +1,7 @@
 # Mushishi Recap
 
+![mushishi-recap](https://cdn.myanimelist.net/images/anime/1127/100635.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 蟲師 ダイジェスト

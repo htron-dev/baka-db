@@ -1,5 +1,7 @@
 # Tensei Juusha no Black Chronicle
 
+![tensei-juusha-no-black-chronicle](https://cdn.myanimelist.net/images/manga/3/167089.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

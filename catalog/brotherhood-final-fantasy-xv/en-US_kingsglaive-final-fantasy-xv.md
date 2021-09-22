@@ -1,5 +1,7 @@
 # Kingsglaive: Final Fantasy XV
 
+![kingsglaive-final-fantasy-xv](https://cdn.myanimelist.net/images/anime/12/79392.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: KINGSGLAIVE FINAL FANTASY XV

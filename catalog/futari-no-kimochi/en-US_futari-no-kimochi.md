@@ -1,5 +1,7 @@
 # Futari no Kimochi
 
+![futari-no-kimochi](https://cdn.myanimelist.net/images/manga/3/203701.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 97

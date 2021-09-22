@@ -1,5 +1,7 @@
 # Peace Maker Kurogane Movie 2: Yuumei
 
+![peace-maker-kurogane-movie-2-yuumei](https://cdn.myanimelist.net/images/anime/1274/99215.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PEACE MAKER 鐵～友命～

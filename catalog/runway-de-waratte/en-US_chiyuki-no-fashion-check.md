@@ -1,5 +1,7 @@
 # Chiyuki no Fashion Check
 
+![chiyuki-no-fashion-check](https://cdn.myanimelist.net/images/anime/1231/109730.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: 千雪のファッションチェック

@@ -1,5 +1,7 @@
 # Tsurugi no Joou to Rakuin no Ko
 
+![tsurugi-no-joou-to-rakuin-no-ko](https://cdn.myanimelist.net/images/manga/3/115325.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

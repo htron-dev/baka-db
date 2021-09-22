@@ -1,5 +1,7 @@
 # Makaido
 
+![makaido](https://cdn.myanimelist.net/images/manga/2/25024.jpg)
+
 -   **type**: manga
 -   **original-name**: マカイど～
 

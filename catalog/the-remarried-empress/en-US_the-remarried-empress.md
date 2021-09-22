@@ -1,5 +1,7 @@
 # The Remarried Empress
 
+![the-remarried-empress](https://cdn.myanimelist.net/images/manga/1/235295.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 재혼 황후
 -   **start-date**: 2019-09-24

@@ -1,5 +1,7 @@
 # Juuma to Tsukuru Isekai Dungeon
 
+![juuma-to-tsukuru-isekai-dungeon](https://cdn.myanimelist.net/images/manga/3/246847.jpg)
+
 -   **type**: manga
 -   **original-name**: 従魔とつくる異世界ダンジョン
 -   **start-date**: 2021-04-18

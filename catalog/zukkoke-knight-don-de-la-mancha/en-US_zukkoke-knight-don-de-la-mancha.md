@@ -1,5 +1,7 @@
 # Zukkoke Knight: Don De La Mancha
 
+![zukkoke-knight-don-de-la-mancha](https://cdn.myanimelist.net/images/anime/4/44646.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: ずっこけナイト　ドンデラマンチャ

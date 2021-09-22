@@ -1,5 +1,7 @@
 # Yuki Terai
 
+![yuki-terai](https://cdn.myanimelist.net/images/anime/1037/112138.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: テライユキ

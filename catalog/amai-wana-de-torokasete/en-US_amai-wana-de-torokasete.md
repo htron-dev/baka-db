@@ -1,5 +1,7 @@
 # Amai Wana de Torokasete
 
+![amai-wana-de-torokasete](https://cdn.myanimelist.net/images/manga/2/137935.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

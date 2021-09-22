@@ -1,5 +1,7 @@
 # Kokoronashi no Kirimu
 
+![kokoronashi-no-kirimu](https://cdn.myanimelist.net/images/manga/3/211432.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: 心なしのキリム

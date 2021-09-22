@@ -1,5 +1,7 @@
 # Jumbor
 
+![jumbor](https://cdn.myanimelist.net/images/manga/5/143041.jpg)
+
 -   **type**: manga
 -   **original-name**: ユンボル -ＪＵＭＢＯＲ-
 -   **start-date**: 2010-07-17

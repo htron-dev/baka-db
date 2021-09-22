@@ -1,5 +1,7 @@
 # Ikenai Koto, Shiyo?
 
+![ikenai-koto-shiyo](https://cdn.myanimelist.net/images/manga/2/223223.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

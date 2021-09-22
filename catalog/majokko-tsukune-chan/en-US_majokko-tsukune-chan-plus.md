@@ -1,5 +1,7 @@
 # Majokko Tsukune-chan Plus
 
+![majokko-tsukune-chan-plus](https://cdn.myanimelist.net/images/manga/2/175011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Tori wa Tori de Aru Tame ni
 
+![tori-wa-tori-de-aru-tame-ni](https://cdn.myanimelist.net/images/manga/3/163178.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Anata no Danna Uwaki shitemasu yo
 
+![anata-no-danna-uwaki-shitemasu-yo](https://cdn.myanimelist.net/images/manga/3/206130.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

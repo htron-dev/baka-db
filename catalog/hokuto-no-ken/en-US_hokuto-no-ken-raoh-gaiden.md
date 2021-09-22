@@ -1,5 +1,7 @@
 # Hokuto no Ken - Raoh Gaiden
 
+![hokuto-no-ken-raoh-gaiden](https://cdn.myanimelist.net/images/manga/4/163150.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

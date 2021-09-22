@@ -1,5 +1,7 @@
 # Muku na Koushaku Fujin
 
+![muku-na-koushaku-fujin](https://cdn.myanimelist.net/images/manga/2/40050.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

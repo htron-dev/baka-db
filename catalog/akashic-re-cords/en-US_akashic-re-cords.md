@@ -1,5 +1,7 @@
 # Akashic Re:cords
 
+![akashic-re-cords](https://cdn.myanimelist.net/images/anime/5/88533.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アカシックリコード

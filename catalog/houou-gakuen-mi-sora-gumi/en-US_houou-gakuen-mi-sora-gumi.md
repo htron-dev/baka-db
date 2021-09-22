@@ -1,5 +1,7 @@
 # Houou Gakuen MiSORA-gumi
 
+![houou-gakuen-mi-sora-gumi](https://cdn.myanimelist.net/images/manga/1/155037.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

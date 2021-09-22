@@ -1,5 +1,7 @@
 # Hatoful Kareshi
 
+![hatoful-kareshi](https://cdn.myanimelist.net/images/manga/2/103549.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

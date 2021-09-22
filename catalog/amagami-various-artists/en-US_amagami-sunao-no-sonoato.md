@@ -1,5 +1,7 @@
 # Amagami: Sunao no Sonoato
 
+![amagami-sunao-no-sonoato](https://cdn.myanimelist.net/images/manga/2/160636.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

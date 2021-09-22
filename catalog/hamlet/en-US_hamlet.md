@@ -1,5 +1,7 @@
 # Hamlet
 
+![hamlet](https://cdn.myanimelist.net/images/manga/3/138461.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

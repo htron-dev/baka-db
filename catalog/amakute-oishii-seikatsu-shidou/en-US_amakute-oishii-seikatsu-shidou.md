@@ -1,5 +1,7 @@
 # Amakute Oishii Seikatsu Shidou
 
+![amakute-oishii-seikatsu-shidou](https://cdn.myanimelist.net/images/manga/3/153372.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 甘くておいしい生活指導

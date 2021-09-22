@@ -1,5 +1,7 @@
 # Boys Bad Romance!
 
+![boys-bad-romance](https://cdn.myanimelist.net/images/manga/3/227343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

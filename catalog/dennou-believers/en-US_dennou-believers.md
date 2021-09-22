@@ -1,5 +1,7 @@
 # Dennou Believers
 
+![dennou-believers](https://cdn.myanimelist.net/images/manga/2/203739.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

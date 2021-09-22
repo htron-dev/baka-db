@@ -1,5 +1,7 @@
 # Otonari no Mahoutsukai
 
+![otonari-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/1/159759.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: お隣の魔法使い

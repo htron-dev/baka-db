@@ -1,5 +1,7 @@
 # Shuraba na Ore to Otome Kinryouku
 
+![shuraba-na-ore-to-otome-kinryouku](https://cdn.myanimelist.net/images/manga/2/163919.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

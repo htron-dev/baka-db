@@ -1,5 +1,7 @@
 # Hibi Kore Koujitsu
 
+![hibi-kore-koujitsu](https://cdn.myanimelist.net/images/manga/3/5787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 日々是好日

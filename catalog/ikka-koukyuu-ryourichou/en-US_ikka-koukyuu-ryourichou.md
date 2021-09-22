@@ -1,5 +1,7 @@
 # Ikka Koukyuu Ryourichou
 
+![ikka-koukyuu-ryourichou](https://cdn.myanimelist.net/images/manga/2/245152.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 77

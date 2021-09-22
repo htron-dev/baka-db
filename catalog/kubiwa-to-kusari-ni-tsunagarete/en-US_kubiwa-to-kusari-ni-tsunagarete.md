@@ -1,5 +1,7 @@
 # Kubiwa to Kusari ni Tsunagarete
 
+![kubiwa-to-kusari-ni-tsunagarete](https://cdn.myanimelist.net/images/manga/2/196689.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 首輪と鎖につながれて

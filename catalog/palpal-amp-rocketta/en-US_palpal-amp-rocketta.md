@@ -1,5 +1,7 @@
 # Palpal &amp; Rocketta
 
+![palpal-amp-rocketta](https://cdn.myanimelist.net/images/manga/1/180730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # N.G!
 
+![n-g](https://cdn.myanimelist.net/images/manga/1/15104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

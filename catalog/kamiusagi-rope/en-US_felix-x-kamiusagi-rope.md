@@ -1,5 +1,7 @@
 # Felix x Kamiusagi Rope
 
+![felix-x-kamiusagi-rope](https://cdn.myanimelist.net/images/anime/3/88798.jpg)
+
 -   **type**: ona
 -   **original-name**: 「フィリックス」ｘ「紙兎ロペ」
 -   **start-date**: 2017-09-03

@@ -1,5 +1,7 @@
 # Animal Play
 
+![animal-play](https://cdn.myanimelist.net/images/manga/3/17703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

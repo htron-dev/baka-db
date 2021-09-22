@@ -1,5 +1,7 @@
 # Tengoku no Shima Season 2
 
+![tengoku-no-shima-season-2](https://cdn.myanimelist.net/images/manga/1/233410.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

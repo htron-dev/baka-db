@@ -1,5 +1,7 @@
 # Chou Shinri Genshou Nouryokusha Nanaki
 
+![chou-shinri-genshou-nouryokusha-nanaki](https://cdn.myanimelist.net/images/manga/1/112073.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

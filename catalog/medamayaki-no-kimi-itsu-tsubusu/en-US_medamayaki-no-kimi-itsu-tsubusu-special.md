@@ -1,5 +1,7 @@
 # Medamayaki no Kimi Itsu Tsubusu?
 
+![medamayaki-no-kimi-itsu-tsubusu](https://cdn.myanimelist.net/images/anime/9/62711.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 目玉焼きの黄身 いつつぶす？

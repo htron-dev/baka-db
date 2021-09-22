@@ -1,5 +1,7 @@
 # Yokubou Strawberry
 
+![yokubou-strawberry](https://cdn.myanimelist.net/images/manga/1/134785.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

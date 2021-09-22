@@ -1,5 +1,7 @@
 # Drag-On Dragoon 3: Story Side
 
+![drag-on-dragoon-3-story-side](https://cdn.myanimelist.net/images/manga/3/136873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

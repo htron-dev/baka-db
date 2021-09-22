@@ -1,5 +1,7 @@
 # Yumearu Ugoku Ehon
 
+![yumearu-ugoku-ehon](https://cdn.myanimelist.net/images/anime/11/88705.jpg)
+
 -   **type**: ona
 -   **original-name**: ゆめある動く絵本
 -   **start-date**: 2015-03-19

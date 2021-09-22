@@ -1,5 +1,7 @@
 # Gakuen Chaika!
 
+![gakuen-chaika](https://cdn.myanimelist.net/images/manga/3/136513.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: 学園チャイカ!

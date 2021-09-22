@@ -1,5 +1,7 @@
 # Toppuu GP
 
+![toppuu-gp](https://cdn.myanimelist.net/images/manga/1/185965.jpg)
+
 -   **type**: manga
 -   **original-name**: トップウ GP
 -   **start-date**: 2016-05-25

@@ -1,5 +1,7 @@
 # To Be Hero
 
+![to-be-hero](https://cdn.myanimelist.net/images/anime/2/82347.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: TO BE HERO

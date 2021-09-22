@@ -1,5 +1,7 @@
 # Toe! Space Attendant Aoi
 
+![toe-space-attendant-aoi](https://cdn.myanimelist.net/images/anime/1001/97418.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 斗え! スペースアテンダントアオイ

@@ -1,5 +1,7 @@
 # Tadaima! Chibi Godzilla
 
+![tadaima-chibi-godzilla](https://cdn.myanimelist.net/images/anime/1339/108564.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ただいま！ちびゴジラ

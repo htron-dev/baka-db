@@ -1,5 +1,7 @@
 # R-Chuugakusei
 
+![r-chuugakusei](https://cdn.myanimelist.net/images/manga/3/210679.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Bara no Hitomi wa Bakudan
 
+![bara-no-hitomi-wa-bakudan](https://cdn.myanimelist.net/images/manga/1/82054.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

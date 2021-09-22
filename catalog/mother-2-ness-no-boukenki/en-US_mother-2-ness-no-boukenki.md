@@ -1,5 +1,7 @@
 # Mother 2: Ness no Boukenki
 
+![mother-2-ness-no-boukenki](https://cdn.myanimelist.net/images/manga/1/120675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13
@@ -11,7 +13,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   sci-fi
 -   shounen
 

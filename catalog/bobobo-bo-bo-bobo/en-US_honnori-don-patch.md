@@ -1,5 +1,7 @@
 # Honnori! Don Patch
 
+![honnori-don-patch](https://cdn.myanimelist.net/images/manga/2/162056.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

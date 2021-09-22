@@ -1,5 +1,7 @@
 # Kiken na Hokeni Counselor
 
+![kiken-na-hokeni-counselor](https://cdn.myanimelist.net/images/manga/3/30160.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

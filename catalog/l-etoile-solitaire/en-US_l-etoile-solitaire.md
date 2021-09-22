@@ -1,5 +1,7 @@
 # L'Etoile Solitaire
 
+![l-etoile-solitaire](https://cdn.myanimelist.net/images/manga/1/5491.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Fleur Comics Anthology: Nikutaiha BL
 
+![fleur-comics-anthology-nikutaiha-bl](https://cdn.myanimelist.net/images/manga/2/239688.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

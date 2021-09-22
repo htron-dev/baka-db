@@ -1,5 +1,7 @@
 # Mankai Kanojo
 
+![mankai-kanojo](https://cdn.myanimelist.net/images/manga/2/202245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

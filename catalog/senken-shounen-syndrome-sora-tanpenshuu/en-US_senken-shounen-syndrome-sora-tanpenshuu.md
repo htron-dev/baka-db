@@ -1,5 +1,7 @@
 # Senken Shounen Syndrome: sora Tanpenshuu
 
+![senken-shounen-syndrome-sora-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/224686.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

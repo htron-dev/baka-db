@@ -1,5 +1,7 @@
 # Crazy for Daddy
 
+![crazy-for-daddy](https://cdn.myanimelist.net/images/manga/2/2720.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

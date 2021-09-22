@@ -1,5 +1,7 @@
 # X-Men Openings
 
+![x-men-openings](https://cdn.myanimelist.net/images/anime/1198/107853.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: X-MEN
@@ -21,4 +23,4 @@ For the TV Tokyo dub of the series, the intro was replaced with a new, Japanese-
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/42142/X-Men_Openings)
--   [Wikipedia](<https://en.wikipedia.org/wiki/X-Men_(TV_series)#Other_versions>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/X-Men_%28TV_series%29#Other_versions)

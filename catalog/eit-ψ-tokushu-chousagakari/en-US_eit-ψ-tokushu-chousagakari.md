@@ -1,5 +1,7 @@
 # EIT: Ψ Tokushu Chousagakari
 
+![eit-ψ-tokushu-chousagakari](https://cdn.myanimelist.net/images/manga/2/145377.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

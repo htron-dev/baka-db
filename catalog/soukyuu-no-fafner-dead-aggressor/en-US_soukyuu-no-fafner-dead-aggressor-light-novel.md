@@ -1,5 +1,7 @@
 # Soukyuu no Fafner: Dead Aggressor
 
+![soukyuu-no-fafner-dead-aggressor](https://cdn.myanimelist.net/images/manga/1/32588.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kaze yori Hayaku
 
+![kaze-yori-hayaku](https://cdn.myanimelist.net/images/manga/2/152073.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

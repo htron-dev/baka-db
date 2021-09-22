@@ -1,5 +1,7 @@
 # xxxHOLiC
 
+![xxx-ho-li-c](https://cdn.myanimelist.net/images/manga/3/217533.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 213

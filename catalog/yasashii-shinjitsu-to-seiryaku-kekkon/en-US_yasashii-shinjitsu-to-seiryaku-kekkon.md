@@ -1,5 +1,7 @@
 # Yasashii Shinjitsu to Seiryaku Kekkon
 
+![yasashii-shinjitsu-to-seiryaku-kekkon](https://cdn.myanimelist.net/images/manga/1/178021.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: やさしい真実と政略結婚

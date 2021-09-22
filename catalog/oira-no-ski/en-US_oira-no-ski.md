@@ -1,5 +1,7 @@
 # Oira no Ski
 
+![oira-no-ski](https://cdn.myanimelist.net/images/anime/9/85247.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おい等のスキー

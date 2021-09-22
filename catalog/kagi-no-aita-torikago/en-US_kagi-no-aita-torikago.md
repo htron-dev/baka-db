@@ -1,5 +1,7 @@
 # Kagi no Aita Torikago
 
+![kagi-no-aita-torikago](https://cdn.myanimelist.net/images/manga/1/185339.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

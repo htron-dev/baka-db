@@ -1,5 +1,7 @@
 # Nishimoto Hideo no Magazine Chousatai (Kari): Mou, Shimasen kara.
 
+![nishimoto-hideo-no-magazine-chousatai-kari-mou-shimasen-kara](https://cdn.myanimelist.net/images/manga/3/190071.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 360

@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch Picture Drama - Kamen Kokuhaku Taikai
 
+![code-geass-hangyaku-no-lelouch-picture-drama-kamen-kokuhaku-taikai](https://cdn.myanimelist.net/images/anime/1041/109950.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ 仮面告白大会 第 1 週来場者特典 ピクチャードラマ

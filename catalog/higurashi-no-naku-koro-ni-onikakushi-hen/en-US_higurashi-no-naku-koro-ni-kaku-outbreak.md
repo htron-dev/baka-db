@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kaku: Outbreak
 
+![higurashi-no-naku-koro-ni-kaku-outbreak](https://cdn.myanimelist.net/images/anime/12/51063.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ひぐらしのなく頃に拡〜アウトブレイク〜

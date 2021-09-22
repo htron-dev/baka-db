@@ -1,5 +1,7 @@
 # Otona nya Koi no Shikata ga Wakaranee!
 
+![otona-nya-koi-no-shikata-ga-wakaranee](https://cdn.myanimelist.net/images/manga/3/233486.jpg)
+
 -   **type**: manga
 -   **original-name**: 大人にゃ恋の仕方がわからねぇ！
 -   **start-date**: 2018-05-10

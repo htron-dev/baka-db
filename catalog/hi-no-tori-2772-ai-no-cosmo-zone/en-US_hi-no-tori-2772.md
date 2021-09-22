@@ -1,5 +1,7 @@
 # Hi no Tori 2772
 
+![hi-no-tori-2772](https://cdn.myanimelist.net/images/manga/3/207116.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

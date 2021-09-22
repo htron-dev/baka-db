@@ -1,5 +1,7 @@
 # Kachou Baka Ichidachi
 
+![kachou-baka-ichidachi](https://cdn.myanimelist.net/images/manga/3/28698.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 課長バカ一代

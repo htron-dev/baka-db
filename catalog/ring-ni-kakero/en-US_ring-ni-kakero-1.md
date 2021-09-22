@@ -1,5 +1,7 @@
 # Ring ni Kakero 1
 
+![ring-ni-kakero-1](https://cdn.myanimelist.net/images/anime/5/53487.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: リングにかけろ１

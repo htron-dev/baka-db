@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki 5th Season
 
+![tenchi-muyou-ryououki-5th-season](https://cdn.myanimelist.net/images/anime/1026/106375.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 天地無用! 魎皇鬼 第伍期

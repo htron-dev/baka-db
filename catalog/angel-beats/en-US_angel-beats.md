@@ -1,5 +1,7 @@
 # Angel Beats!
 
+![angel-beats](https://cdn.myanimelist.net/images/anime/1244/111115.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: Angel Beats!（エンジェルビーツ）

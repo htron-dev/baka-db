@@ -1,5 +1,7 @@
 # Gundam Build Divers: Battlogue
 
+![gundam-build-divers-battlogue](https://cdn.myanimelist.net/images/anime/1436/110252.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ガンダムビルドダイバーズ バトローグ

@@ -1,5 +1,7 @@
 # Kaitou Thief Milky Drop
 
+![kaitou-thief-milky-drop](https://cdn.myanimelist.net/images/manga/3/23308.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 怪盗ミルキィ ☆ ドロップ

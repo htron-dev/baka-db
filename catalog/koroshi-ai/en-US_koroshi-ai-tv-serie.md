@@ -1,5 +1,7 @@
 # Koroshi Ai
 
+![koroshi-ai](https://cdn.myanimelist.net/images/anime/1959/116458.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 殺し愛
 -   **rating**: None

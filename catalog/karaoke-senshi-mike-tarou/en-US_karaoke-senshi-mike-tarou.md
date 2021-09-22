@@ -1,5 +1,7 @@
 # Karaoke Senshi Mike-tarou
 
+![karaoke-senshi-mike-tarou](https://cdn.myanimelist.net/images/anime/9/69565.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: カラオケ戦士 マイク次郎

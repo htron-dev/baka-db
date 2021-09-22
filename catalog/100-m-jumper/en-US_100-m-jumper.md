@@ -1,5 +1,7 @@
 # 100m Jumper
 
+![100-m-jumper](https://cdn.myanimelist.net/images/manga/3/203069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

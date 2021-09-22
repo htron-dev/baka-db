@@ -1,5 +1,7 @@
 # Daidokoro no Dragon
 
+![daidokoro-no-dragon](https://cdn.myanimelist.net/images/manga/2/221582.jpg)
+
 -   **type**: manga
 -   **original-name**: 台所のドラゴン
 -   **start-date**: 2017-06-23

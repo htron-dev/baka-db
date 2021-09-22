@@ -1,5 +1,7 @@
 # Sensei, Atashi Dare ni mo Iimasen
 
+![sensei-atashi-dare-ni-mo-iimasen](https://cdn.myanimelist.net/images/manga/1/236419.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

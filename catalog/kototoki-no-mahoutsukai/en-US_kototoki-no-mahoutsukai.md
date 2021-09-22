@@ -1,5 +1,7 @@
 # Kototoki no Mahoutsukai
 
+![kototoki-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/2/216023.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

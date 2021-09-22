@@ -1,5 +1,7 @@
 # Houkago no Goumon Shoujo
 
+![houkago-no-goumon-shoujo](https://cdn.myanimelist.net/images/manga/3/220991.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 176

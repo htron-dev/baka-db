@@ -1,5 +1,7 @@
 # Kenji no Trunk
 
+![kenji-no-trunk](https://cdn.myanimelist.net/images/anime/2/55711.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 賢治のトランク

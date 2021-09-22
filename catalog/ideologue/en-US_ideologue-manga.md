@@ -1,5 +1,7 @@
 # Ideologue!
 
+![ideologue](https://cdn.myanimelist.net/images/manga/3/190896.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: いでおろーぐ！

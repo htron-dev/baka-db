@@ -1,5 +1,7 @@
 # Shiratori Reiko de Gozaimasu!
 
+![shiratori-reiko-de-gozaimasu](https://cdn.myanimelist.net/images/anime/3/83265.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 白鳥麗子でございます！

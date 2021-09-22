@@ -1,5 +1,7 @@
 # Okuriya: Shisha wo Okuru Yasashiku Bukiyou na Hitotachi
 
+![okuriya-shisha-wo-okuru-yasashiku-bukiyou-na-hitotachi](https://cdn.myanimelist.net/images/manga/1/134809.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 送り屋 死者を送る優しく不器用な人たち
 -   **start-date**: 2013-09-25

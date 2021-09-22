@@ -1,5 +1,7 @@
 # Japan
 
+![japan](https://cdn.myanimelist.net/images/manga/3/34397.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ジャパン

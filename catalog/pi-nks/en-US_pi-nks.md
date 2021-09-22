@@ -1,5 +1,7 @@
 # PiNKS
 
+![pi-nks](https://cdn.myanimelist.net/images/manga/1/196554.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

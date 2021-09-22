@@ -1,5 +1,7 @@
 # 9-banme no Musashi: Silent Black
 
+![9-banme-no-musashi-silent-black](https://cdn.myanimelist.net/images/manga/3/190182.jpg)
+
 -   **type**: manga
 -   **original-name**: 9 番目のムサシ サイレント ブラック
 -   **start-date**: 2015-03-06

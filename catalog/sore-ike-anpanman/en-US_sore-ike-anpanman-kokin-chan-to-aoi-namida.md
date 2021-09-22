@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Kokin-chan to Aoi Namida
 
+![sore-ike-anpanman-kokin-chan-to-aoi-namida](https://cdn.myanimelist.net/images/anime/7/57709.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン コキンちゃんとあおいなみだ

@@ -1,5 +1,7 @@
 # Double Heroine
 
+![double-heroine](https://cdn.myanimelist.net/images/manga/2/171279.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Hotel Shangri-La: Kako to Mirai wo Tsunagu Basho
 
+![hotel-shangri-la-kako-to-mirai-wo-tsunagu-basho](https://cdn.myanimelist.net/images/manga/1/194376.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

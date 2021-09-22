@@ -1,5 +1,7 @@
 # Hakushaku to Yobareta Otoko
 
+![hakushaku-to-yobareta-otoko](https://cdn.myanimelist.net/images/manga/3/23487.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

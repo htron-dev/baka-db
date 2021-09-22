@@ -1,5 +1,7 @@
 # Qualidea Code
 
+![qualidea-code](https://cdn.myanimelist.net/images/manga/3/182542.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

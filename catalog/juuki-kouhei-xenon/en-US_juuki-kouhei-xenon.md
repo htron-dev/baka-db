@@ -1,5 +1,7 @@
 # Juuki Kouhei Xenon
 
+![juuki-kouhei-xenon](https://cdn.myanimelist.net/images/manga/3/113419.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Umi Monogatari: Minna Aishiteru!
 
+![umi-monogatari-minna-aishiteru](https://cdn.myanimelist.net/images/manga/3/36250.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: うみものがたり〜みんな愛してる！

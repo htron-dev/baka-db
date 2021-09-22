@@ -1,5 +1,7 @@
 # Atlantis no Nazo: Fukkatsu no Savila
 
+![atlantis-no-nazo-fukkatsu-no-savila](https://cdn.myanimelist.net/images/manga/1/178556.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

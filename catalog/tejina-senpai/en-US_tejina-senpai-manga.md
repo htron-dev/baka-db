@@ -1,5 +1,7 @@
 # Tejina-senpai
 
+![tejina-senpai](https://cdn.myanimelist.net/images/manga/2/181510.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 132

@@ -1,5 +1,7 @@
 # Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season
 
+![gate-jieitai-kanochi-nite-kaku-tatakaeri-2nd-season](https://cdn.myanimelist.net/images/anime/8/77382.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: GATE（ゲート）自衛隊　彼の地にて、斯く戦えり　第 2 クール
@@ -30,4 +32,4 @@ Meanwhile, Lieutenant Youji Itami and his merry band of female admirers struggle
 -   [Official Site](http://www.gate-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11602)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17831)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Gate_(novel_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Gate_%28novel_series%29)

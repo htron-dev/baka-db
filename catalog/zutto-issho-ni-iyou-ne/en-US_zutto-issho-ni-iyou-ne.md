@@ -1,5 +1,7 @@
 # Zutto Issho ni Iyou ne
 
+![zutto-issho-ni-iyou-ne](https://cdn.myanimelist.net/images/manga/2/24549.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

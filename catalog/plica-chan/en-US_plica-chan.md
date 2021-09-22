@@ -1,5 +1,7 @@
 # Plica-chan
 
+![plica-chan](https://cdn.myanimelist.net/images/manga/2/36571.jpg)
+
 -   **type**: manga
 -   **original-name**: プリカちゃん
 

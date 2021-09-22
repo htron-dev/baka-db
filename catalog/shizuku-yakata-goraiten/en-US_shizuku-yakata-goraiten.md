@@ -1,5 +1,7 @@
 # Shizuku Yakata Goraiten
 
+![shizuku-yakata-goraiten](https://cdn.myanimelist.net/images/manga/2/11506.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 雫館御来店

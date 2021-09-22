@@ -1,5 +1,7 @@
 # Omorai-kun
 
+![omorai-kun](https://cdn.myanimelist.net/images/manga/1/11930.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: オモライくん

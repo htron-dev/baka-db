@@ -1,5 +1,7 @@
 # -6mm no Taboo
 
+![6-mm-no-taboo](https://cdn.myanimelist.net/images/manga/2/11878.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

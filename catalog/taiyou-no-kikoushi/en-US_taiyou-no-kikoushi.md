@@ -1,5 +1,7 @@
 # Taiyou no Kikoushi
 
+![taiyou-no-kikoushi](https://cdn.myanimelist.net/images/manga/3/90393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

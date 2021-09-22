@@ -1,5 +1,7 @@
 # Yume ga Sameru made
 
+![yume-ga-sameru-made](https://cdn.myanimelist.net/images/anime/6/88152.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 夢が覚めるまで

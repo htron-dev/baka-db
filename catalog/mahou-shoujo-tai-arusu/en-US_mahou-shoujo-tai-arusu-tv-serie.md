@@ -1,5 +1,7 @@
 # Mahou Shoujo-tai Arusu
 
+![mahou-shoujo-tai-arusu](https://cdn.myanimelist.net/images/anime/10/57287.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 魔法少女隊アルス

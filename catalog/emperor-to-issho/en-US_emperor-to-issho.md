@@ -1,5 +1,7 @@
 # Emperor to Issho
 
+![emperor-to-issho](https://cdn.myanimelist.net/images/manga/2/179830.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

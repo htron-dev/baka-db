@@ -1,5 +1,7 @@
 # Senki Zesshou Symphogear AXZ
 
+![senki-zesshou-symphogear-axz](https://cdn.myanimelist.net/images/anime/3/86584.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 戦姫絶唱シンフォギア AXZ〈アクシズ〉

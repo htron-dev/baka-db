@@ -1,5 +1,7 @@
 # Koinegau Orizzonte
 
+![koinegau-orizzonte](https://cdn.myanimelist.net/images/manga/1/224892.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

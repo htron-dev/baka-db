@@ -1,5 +1,7 @@
 # Saredo Tsumibito wa Ryuu to Odoru
 
+![saredo-tsumibito-wa-ryuu-to-odoru](https://cdn.myanimelist.net/images/manga/1/109071.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: されど罪人は竜と踊る

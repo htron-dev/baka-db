@@ -1,5 +1,7 @@
 # Haitai Nanafa 2nd Season
 
+![haitai-nanafa-2nd-season](https://cdn.myanimelist.net/images/anime/7/47233.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: はいたい七葉 2

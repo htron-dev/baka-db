@@ -1,5 +1,7 @@
 # Toshishita no Kare ni Aisaremashita
 
+![toshishita-no-kare-ni-aisaremashita](https://cdn.myanimelist.net/images/manga/1/197009.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 年下の彼に愛されました

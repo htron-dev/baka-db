@@ -1,5 +1,7 @@
 # Free! Movie 4: The Final Stroke
 
+![free-movie-4-the-final-stroke](https://cdn.myanimelist.net/images/anime/1012/116742.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 Free!-the Final Stroke-
@@ -23,4 +25,4 @@ No synopsis information has been added to this title. Help improve our database 
 -   [Official Site](http://fs.iwatobi-sc.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14415)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24331)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Free!_(TV_series)#Films>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Free!_%28TV_series%29#Films)

@@ -1,5 +1,7 @@
 # Sakura Taisen: Shou Gekijou
 
+![sakura-taisen-shou-gekijou](https://cdn.myanimelist.net/images/manga/2/74539.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: サクラ大戦 ショウ劇場

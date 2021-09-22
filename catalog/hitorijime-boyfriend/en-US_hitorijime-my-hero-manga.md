@@ -1,5 +1,7 @@
 # Hitorijime My Hero
 
+![hitorijime-my-hero](https://cdn.myanimelist.net/images/manga/3/248370.jpg)
+
 -   **type**: manga
 -   **original-name**: ひとりじめマイヒーロー
 -   **start-date**: 2011-05-28

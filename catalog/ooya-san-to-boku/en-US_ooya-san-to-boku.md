@@ -1,5 +1,7 @@
 # Ooya-san to Boku
 
+![ooya-san-to-boku](https://cdn.myanimelist.net/images/anime/1588/106204.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 大家さんと僕

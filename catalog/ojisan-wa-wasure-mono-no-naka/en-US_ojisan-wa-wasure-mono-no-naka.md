@@ -1,5 +1,7 @@
 # Ojisan wa Wasure Mono no Naka.
 
+![ojisan-wa-wasure-mono-no-naka](https://cdn.myanimelist.net/images/manga/3/61725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

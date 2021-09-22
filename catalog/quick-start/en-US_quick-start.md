@@ -1,5 +1,7 @@
 # Quick Start!!
 
+![quick-start](https://cdn.myanimelist.net/images/manga/3/95489.jpg)
+
 -   **type**: manga
 -   **original-name**: くいっくすたーと
 

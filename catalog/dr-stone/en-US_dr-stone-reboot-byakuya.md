@@ -1,5 +1,7 @@
 # Dr. Stone Reboot: Byakuya
 
+![dr-stone-reboot-byakuya](https://cdn.myanimelist.net/images/manga/2/227742.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Maoujou de Oyasumi
 
+![maoujou-de-oyasumi](https://cdn.myanimelist.net/images/manga/3/183044.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王城でおやすみ
 -   **start-date**: 2016-05-11

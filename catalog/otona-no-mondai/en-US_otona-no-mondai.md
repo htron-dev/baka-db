@@ -1,5 +1,7 @@
 # Otona no Mondai
 
+![otona-no-mondai](https://cdn.myanimelist.net/images/manga/5/143431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

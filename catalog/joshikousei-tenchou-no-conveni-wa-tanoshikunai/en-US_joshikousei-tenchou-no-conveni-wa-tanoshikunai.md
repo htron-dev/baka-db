@@ -1,5 +1,7 @@
 # Joshikousei Tenchou no Conveni wa Tanoshikunai
 
+![joshikousei-tenchou-no-conveni-wa-tanoshikunai](https://cdn.myanimelist.net/images/manga/3/171313.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 22

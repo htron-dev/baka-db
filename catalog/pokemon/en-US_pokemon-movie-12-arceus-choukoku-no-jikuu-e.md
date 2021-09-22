@@ -1,5 +1,7 @@
 # Pokemon Movie 12: Arceus Choukoku no Jikuu e
 
+![pokemon-movie-12-arceus-choukoku-no-jikuu-e](https://cdn.myanimelist.net/images/anime/8/21315.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター ダイヤモンド&パール アルセウス 超克の時空へ

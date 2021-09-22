@@ -1,5 +1,7 @@
 # Himesama "Goumon" no Jikan desu
 
+![himesama-goumon-no-jikan-desu](https://cdn.myanimelist.net/images/manga/2/224424.jpg)
+
 -   **type**: manga
 -   **original-name**: 姫様“拷問”の時間です
 -   **start-date**: 2019-04-02

@@ -1,5 +1,7 @@
 # Aishiteru
 
+![aishiteru](https://cdn.myanimelist.net/images/manga/2/82690.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

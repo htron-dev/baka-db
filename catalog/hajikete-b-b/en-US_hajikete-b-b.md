@@ -1,5 +1,7 @@
 # Hajikete B.B.
 
+![hajikete-b-b](https://cdn.myanimelist.net/images/manga/1/6312.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

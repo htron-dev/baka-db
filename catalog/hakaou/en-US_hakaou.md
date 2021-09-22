@@ -1,5 +1,7 @@
 # Hakaou!
 
+![hakaou](https://cdn.myanimelist.net/images/manga/2/186793.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 墓王!
 -   **start-date**: 2016-12-09

@@ -1,5 +1,7 @@
 # Detective Conan Movie 08: Time Travel of the Silver Sky
 
+![detective-conan-movie-08-time-travel-of-the-silver-sky](https://cdn.myanimelist.net/images/anime/2/17583.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 銀翼のタイムトラベル

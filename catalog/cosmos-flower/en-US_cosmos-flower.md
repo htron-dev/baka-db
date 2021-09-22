@@ -1,5 +1,7 @@
 # Cosmos Flower
 
+![cosmos-flower](https://cdn.myanimelist.net/images/manga/4/11747.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 13

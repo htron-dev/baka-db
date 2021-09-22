@@ -1,5 +1,7 @@
 # Michi to no Souguu
 
+![michi-to-no-souguu](https://cdn.myanimelist.net/images/manga/3/151355.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

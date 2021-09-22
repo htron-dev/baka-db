@@ -1,5 +1,7 @@
 # Akagaki Genzou: Tokuri no Wakare
 
+![akagaki-genzou-tokuri-no-wakare](https://cdn.myanimelist.net/images/anime/9/63851.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 赤垣源蔵徳利の別れ

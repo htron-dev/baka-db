@@ -1,5 +1,7 @@
 # Mahjong Club
 
+![mahjong-club](https://cdn.myanimelist.net/images/manga/1/70313.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

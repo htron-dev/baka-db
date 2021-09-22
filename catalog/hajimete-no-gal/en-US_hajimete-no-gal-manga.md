@@ -1,5 +1,7 @@
 # Hajimete no Gal
 
+![hajimete-no-gal](https://cdn.myanimelist.net/images/manga/2/178631.jpg)
+
 -   **type**: manga
 -   **original-name**: はじめてのギャル
 -   **start-date**: 2015-11-26

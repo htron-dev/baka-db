@@ -1,5 +1,7 @@
 # Nekobukuro - nyanko paradise
 
+![nekobukuro-nyanko-paradise](https://cdn.myanimelist.net/images/manga/1/40102.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ねこぶくろ―nyanko paradise

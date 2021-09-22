@@ -1,5 +1,7 @@
 # Takato Shounen no Jikenbo
 
+![takato-shounen-no-jikenbo](https://cdn.myanimelist.net/images/manga/3/125799.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

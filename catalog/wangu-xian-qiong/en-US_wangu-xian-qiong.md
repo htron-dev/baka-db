@@ -1,5 +1,7 @@
 # Wangu Xian Qiong
 
+![wangu-xian-qiong](https://cdn.myanimelist.net/images/anime/2/87335.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 万古仙穹

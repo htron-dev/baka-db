@@ -1,5 +1,7 @@
 # Nekopara OVA
 
+![nekopara-ova](https://cdn.myanimelist.net/images/anime/7/89829.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ネコぱら OVA

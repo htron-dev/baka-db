@@ -1,5 +1,7 @@
 # Future Card Buddyfight Battsu
 
+![future-card-buddyfight-battsu](https://cdn.myanimelist.net/images/anime/6/84792.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: フューチャーカード バディファイト X

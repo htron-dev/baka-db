@@ -1,5 +1,7 @@
 # Metal★Rock
 
+![metal★-rock](https://cdn.myanimelist.net/images/manga/1/192795.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

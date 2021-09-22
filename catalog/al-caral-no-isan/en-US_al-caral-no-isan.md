@@ -1,5 +1,7 @@
 # Al Caral no Isan
 
+![al-caral-no-isan](https://cdn.myanimelist.net/images/anime/12/13281.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アル・カラルの遺産

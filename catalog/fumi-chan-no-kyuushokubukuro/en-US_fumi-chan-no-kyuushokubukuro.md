@@ -1,5 +1,7 @@
 # Fumi-chan no Kyuushokubukuro
 
+![fumi-chan-no-kyuushokubukuro](https://cdn.myanimelist.net/images/manga/1/117861.jpg)
+
 -   **type**: manga
 -   **original-name**: ふみちゃんの給食袋
 -   **start-date**: 2014-01-17

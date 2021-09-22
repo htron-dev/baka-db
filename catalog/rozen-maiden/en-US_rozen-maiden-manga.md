@@ -1,5 +1,7 @@
 # Rozen Maiden
 
+![rozen-maiden](https://cdn.myanimelist.net/images/manga/2/169707.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 46

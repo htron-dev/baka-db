@@ -1,5 +1,7 @@
 # Dracu-Riot! Canopus
 
+![dracu-riot-canopus](https://cdn.myanimelist.net/images/manga/2/147555.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Mini Moni Yaru no da Pyon!
 
+![mini-moni-yaru-no-da-pyon](https://cdn.myanimelist.net/images/anime/13/17812.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 66
 -   **original-name**: ミニモニ。やるのだぴょん

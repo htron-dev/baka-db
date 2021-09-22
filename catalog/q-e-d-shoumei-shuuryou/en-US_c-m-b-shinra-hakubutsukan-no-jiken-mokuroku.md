@@ -1,5 +1,7 @@
 # C.M.B. Shinra Hakubutsukan no Jiken Mokuroku
 
+![c-m-b-shinra-hakubutsukan-no-jiken-mokuroku](https://cdn.myanimelist.net/images/manga/5/76317.jpg)
+
 -   **type**: manga
 -   **volumes**: 45
 -   **chapters**: 147

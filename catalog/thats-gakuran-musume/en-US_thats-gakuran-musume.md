@@ -1,5 +1,7 @@
 # That's Gakuran Musume
 
+![thats-gakuran-musume](https://cdn.myanimelist.net/images/manga/3/28434.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: THAT'S 学らん娘

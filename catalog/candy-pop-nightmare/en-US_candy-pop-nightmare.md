@@ -1,5 +1,7 @@
 # Candy Pop Nightmare
 
+![candy-pop-nightmare](https://cdn.myanimelist.net/images/manga/3/181077.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 96

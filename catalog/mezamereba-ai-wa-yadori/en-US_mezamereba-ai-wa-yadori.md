@@ -1,5 +1,7 @@
 # Mezamereba Ai wa Yadori
 
+![mezamereba-ai-wa-yadori](https://cdn.myanimelist.net/images/manga/1/247143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 目覚めれば愛は宿り

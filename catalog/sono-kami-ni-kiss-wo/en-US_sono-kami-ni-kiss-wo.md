@@ -1,5 +1,7 @@
 # Sono Kami ni Kiss wo
 
+![sono-kami-ni-kiss-wo](https://cdn.myanimelist.net/images/manga/2/10440.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

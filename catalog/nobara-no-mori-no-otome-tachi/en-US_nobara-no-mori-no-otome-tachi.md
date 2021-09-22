@@ -1,5 +1,7 @@
 # Nobara no Mori no Otome-tachi
 
+![nobara-no-mori-no-otome-tachi](https://cdn.myanimelist.net/images/manga/2/148177.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

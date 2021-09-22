@@ -1,5 +1,7 @@
 # Seinen Mangaka no Koi
 
+![seinen-mangaka-no-koi](https://cdn.myanimelist.net/images/manga/1/158255.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 青年漫画家の恋

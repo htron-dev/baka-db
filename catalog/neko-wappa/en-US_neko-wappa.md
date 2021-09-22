@@ -1,5 +1,7 @@
 # Neko Wappa!
 
+![neko-wappa](https://cdn.myanimelist.net/images/manga/1/178945.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

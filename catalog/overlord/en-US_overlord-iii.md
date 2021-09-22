@@ -1,5 +1,7 @@
 # Overlord III
 
+![overlord-iii](https://cdn.myanimelist.net/images/anime/1511/93473.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: オーバーロード Ⅲ
@@ -33,4 +35,4 @@ Blood is shed, heroes fall, and nations rise. Can anyone, or anything, challenge
 -   [Official Site](http://overlord-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14008)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21105)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Overlord_(novel_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Overlord_%28novel_series%29)

@@ -1,5 +1,7 @@
 # Passion Girls
 
+![passion-girls](https://cdn.myanimelist.net/images/manga/1/8070.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: パッション ガールズ

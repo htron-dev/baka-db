@@ -1,5 +1,7 @@
 # Love Live! Sunshine!! Comic Anthology: Nakane Nata 4-koma Gekijou
 
+![love-live-sunshine-comic-anthology-nakane-nata-4-koma-gekijou](https://cdn.myanimelist.net/images/manga/1/235602.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

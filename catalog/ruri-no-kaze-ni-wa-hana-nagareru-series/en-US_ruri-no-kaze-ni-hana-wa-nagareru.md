@@ -1,5 +1,7 @@
 # Ruri no Kaze ni Hana wa Nagareru
 
+![ruri-no-kaze-ni-hana-wa-nagareru](https://cdn.myanimelist.net/images/manga/3/21584.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

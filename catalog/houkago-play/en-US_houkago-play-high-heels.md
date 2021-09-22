@@ -1,5 +1,7 @@
 # Houkago Play: High Heels
 
+![houkago-play-high-heels](https://cdn.myanimelist.net/images/manga/2/87145.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後プレイ High Heels
 -   **start-date**: 2012-04-12

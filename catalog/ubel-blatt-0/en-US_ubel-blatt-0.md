@@ -1,5 +1,7 @@
 # Übel Blatt 0
 
+![ubel-blatt-0](https://cdn.myanimelist.net/images/manga/1/217535.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

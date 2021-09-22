@@ -1,5 +1,7 @@
 # Dekireba, Hana ni Naritai!
 
+![dekireba-hana-ni-naritai](https://cdn.myanimelist.net/images/manga/1/14618.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Arifureta Shokugyou de Sekai Saikyou
 
+![arifureta-shokugyou-de-sekai-saikyou](https://cdn.myanimelist.net/images/manga/1/159433.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ありふれた職業で世界最強
 -   **start-date**: 2015-06-25

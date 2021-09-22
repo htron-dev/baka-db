@@ -1,5 +1,7 @@
 # Butterfly x Breakdown
 
+![butterfly-x-breakdown](https://cdn.myanimelist.net/images/manga/2/109699.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: バタフライ × ブレイクダウン

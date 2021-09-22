@@ -1,5 +1,7 @@
 # Fuyu no Semi
 
+![fuyu-no-semi](https://cdn.myanimelist.net/images/anime/1/2443.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 冬の蝉

@@ -1,5 +1,7 @@
 # Zegapain ADP
 
+![zegapain-adp](https://cdn.myanimelist.net/images/anime/5/81701.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゼーガペイン ADP

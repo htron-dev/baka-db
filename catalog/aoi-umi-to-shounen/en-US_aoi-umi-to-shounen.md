@@ -1,5 +1,7 @@
 # Aoi Umi to Shounen
 
+![aoi-umi-to-shounen](https://cdn.myanimelist.net/images/anime/7/63867.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 青い海と少年

@@ -1,5 +1,7 @@
 # Suashi ni Kiss Shite!
 
+![suashi-ni-kiss-shite](https://cdn.myanimelist.net/images/manga/3/6044.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

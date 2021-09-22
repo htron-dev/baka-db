@@ -1,5 +1,7 @@
 # Tetsudou Shoujo Manga
 
+![tetsudou-shoujo-manga](https://cdn.myanimelist.net/images/manga/1/39201.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

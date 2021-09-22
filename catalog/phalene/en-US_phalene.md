@@ -1,5 +1,7 @@
 # Phalene
 
+![phalene](https://cdn.myanimelist.net/images/manga/2/10379.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

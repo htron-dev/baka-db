@@ -1,5 +1,7 @@
 # Senkou no Night Raid: Aruku Hako
 
+![senkou-no-night-raid-aruku-hako](https://cdn.myanimelist.net/images/anime/7/28136.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 閃光のナイトレイド 「歩く箱」

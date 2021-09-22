@@ -1,5 +1,7 @@
 # Saikyou no Love♡Magic
 
+![saikyou-no-love♡-magic](https://cdn.myanimelist.net/images/manga/3/207660.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

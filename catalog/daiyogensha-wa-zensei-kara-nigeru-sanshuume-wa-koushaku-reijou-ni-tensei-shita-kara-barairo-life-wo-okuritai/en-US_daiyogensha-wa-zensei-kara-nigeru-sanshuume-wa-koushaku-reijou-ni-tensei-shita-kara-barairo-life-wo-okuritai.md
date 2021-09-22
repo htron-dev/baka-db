@@ -1,5 +1,7 @@
 # Daiyogensha wa Zensei kara Nigeru: Sanshuume wa Koushaku Reijou ni Tensei shita kara, Barairo Life wo Okuritai
 
+![daiyogensha-wa-zensei-kara-nigeru-sanshuume-wa-koushaku-reijou-ni-tensei-shita-kara-barairo-life-wo-okuritai](https://cdn.myanimelist.net/images/manga/2/234726.jpg)
+
 -   **type**: manga
 -   **original-name**: 大預言者は前世から逃げる 〜三周目は公爵令嬢に転生したから、バラ色ライフを送りたい〜
 -   **start-date**: 2019-11-05

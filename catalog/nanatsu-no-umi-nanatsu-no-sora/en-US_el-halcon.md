@@ -1,5 +1,7 @@
 # El Halcon
 
+![el-halcon](https://cdn.myanimelist.net/images/manga/2/33533.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: エル･アルコン－鷹－

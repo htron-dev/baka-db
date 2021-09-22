@@ -1,5 +1,7 @@
 # Hachuurui-chan wa Natsukanai
 
+![hachuurui-chan-wa-natsukanai](https://cdn.myanimelist.net/images/manga/2/223626.jpg)
+
 -   **type**: manga
 -   **original-name**: 爬虫類ちゃんは懐かない
 -   **start-date**: 2019-06-18

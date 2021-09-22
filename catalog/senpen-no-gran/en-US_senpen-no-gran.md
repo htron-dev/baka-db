@@ -1,5 +1,7 @@
 # Senpen no Gran
 
+![senpen-no-gran](https://cdn.myanimelist.net/images/manga/2/162017.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Gensou Jotan Ellcia
 
+![gensou-jotan-ellcia](https://cdn.myanimelist.net/images/anime/3/5763.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 幻想叙譚エルシア

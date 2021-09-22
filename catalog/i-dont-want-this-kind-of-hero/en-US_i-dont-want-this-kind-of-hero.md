@@ -1,5 +1,7 @@
 # I Don't Want This Kind of Hero
 
+![i-dont-want-this-kind-of-hero](https://cdn.myanimelist.net/images/manga/5/83220.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 301
 -   **original-name**: 이런 영웅은 싫어

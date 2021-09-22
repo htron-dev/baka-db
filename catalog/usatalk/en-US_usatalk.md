@@ -1,5 +1,7 @@
 # Usatalk
 
+![usatalk](https://cdn.myanimelist.net/images/anime/2/87636.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: usatalk

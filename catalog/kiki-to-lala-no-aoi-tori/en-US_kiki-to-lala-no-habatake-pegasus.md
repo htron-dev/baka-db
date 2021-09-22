@@ -1,5 +1,7 @@
 # Kiki to Lala no Habatake! Pegasus
 
+![kiki-to-lala-no-habatake-pegasus](https://cdn.myanimelist.net/images/anime/5/70349.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キキとララのはばたけ!ペガサス

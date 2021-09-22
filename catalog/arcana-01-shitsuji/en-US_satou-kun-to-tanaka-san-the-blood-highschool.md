@@ -1,5 +1,7 @@
 # Satou-kun to Tanaka-san: The Blood Highschool
 
+![satou-kun-to-tanaka-san-the-blood-highschool](https://cdn.myanimelist.net/images/manga/3/157892.jpg)
+
 -   **type**: manga
 -   **original-name**: 佐藤くんと田中さん-The blood highschool
 -   **start-date**: 2007-08-16

@@ -1,5 +1,7 @@
 # Lost+Brain
 
+![lost-brain](https://cdn.myanimelist.net/images/manga/3/11468.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

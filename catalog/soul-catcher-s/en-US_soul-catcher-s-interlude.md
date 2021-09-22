@@ -1,5 +1,7 @@
 # Soul Catcher(S): Interlude
 
+![soul-catcher-s-interlude](https://cdn.myanimelist.net/images/manga/2/172682.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

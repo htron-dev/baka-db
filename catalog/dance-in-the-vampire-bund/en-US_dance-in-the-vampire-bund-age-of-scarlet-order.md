@@ -1,5 +1,7 @@
 # Dance in the Vampire Bund: Age of Scarlet Order
 
+![dance-in-the-vampire-bund-age-of-scarlet-order](https://cdn.myanimelist.net/images/manga/2/227193.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンス イン ザ ヴァンパイアバンド エイジ オブ スカーレット オーダー
 -   **start-date**: 2018-05-28

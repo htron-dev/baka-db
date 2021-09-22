@@ -1,5 +1,7 @@
 # Cloud
 
+![cloud](https://cdn.myanimelist.net/images/manga/1/163960.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

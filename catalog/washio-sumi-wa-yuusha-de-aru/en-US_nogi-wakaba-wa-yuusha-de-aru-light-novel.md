@@ -1,5 +1,7 @@
 # Nogi Wakaba wa Yuusha de Aru
 
+![nogi-wakaba-wa-yuusha-de-aru](https://cdn.myanimelist.net/images/manga/1/194780.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 21

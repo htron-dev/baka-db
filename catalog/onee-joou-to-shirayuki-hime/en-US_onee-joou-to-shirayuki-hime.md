@@ -1,5 +1,7 @@
 # Onee Joou to Shirayuki Hime
 
+![onee-joou-to-shirayuki-hime](https://cdn.myanimelist.net/images/manga/1/208544.jpg)
+
 -   **type**: manga
 -   **original-name**: オネェ女王と白雪姫
 -   **start-date**: 2017-08-16

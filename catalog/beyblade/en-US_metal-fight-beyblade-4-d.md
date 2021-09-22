@@ -1,5 +1,7 @@
 # Metal Fight Beyblade 4D
 
+![metal-fight-beyblade-4-d](https://cdn.myanimelist.net/images/anime/11/29013.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: メタルファイト ベイブレード 4D

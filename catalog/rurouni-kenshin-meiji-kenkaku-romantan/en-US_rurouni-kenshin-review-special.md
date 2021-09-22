@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Review Special
 
+![rurouni-kenshin-review-special](https://cdn.myanimelist.net/images/anime/3/26996.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: るろうに剣心

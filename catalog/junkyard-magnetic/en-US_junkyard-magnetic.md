@@ -1,5 +1,7 @@
 # Junkyard Magnetic
 
+![junkyard-magnetic](https://cdn.myanimelist.net/images/manga/2/27474.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ジャンクヤード・マグネティク

@@ -1,5 +1,7 @@
 # Matantei Loki
 
+![matantei-loki](https://cdn.myanimelist.net/images/manga/3/14908.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Uchuu Bouei-tai Taabou no Shinkirou Hoshi wo Sukue!
 
+![uchuu-bouei-tai-taabou-no-shinkirou-hoshi-wo-sukue](https://cdn.myanimelist.net/images/anime/8/84574.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 宇宙防衛隊たあ坊のしんきろう星を救え!

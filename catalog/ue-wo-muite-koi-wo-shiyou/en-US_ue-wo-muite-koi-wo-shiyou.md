@@ -1,5 +1,7 @@
 # Ue wo Muite Koi wo Shiyou
 
+![ue-wo-muite-koi-wo-shiyou](https://cdn.myanimelist.net/images/manga/2/234413.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Fullmetal Alchemist: The Sacred Star of Milos Specials
 
+![fullmetal-alchemist-the-sacred-star-of-milos-specials](https://cdn.myanimelist.net/images/anime/9/29928.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 鋼の錬金術師 嘆きの丘[ミロス]の聖なる星 特別動画

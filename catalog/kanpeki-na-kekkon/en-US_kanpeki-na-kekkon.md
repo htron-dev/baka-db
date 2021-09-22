@@ -1,5 +1,7 @@
 # Kanpeki na Kekkon
 
+![kanpeki-na-kekkon](https://cdn.myanimelist.net/images/manga/2/247024.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 完璧な結婚

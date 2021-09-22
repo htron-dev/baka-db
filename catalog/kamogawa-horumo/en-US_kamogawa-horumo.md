@@ -1,5 +1,7 @@
 # Kamogawa Horumo
 
+![kamogawa-horumo](https://cdn.myanimelist.net/images/manga/2/48469.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 鴨川ホルモー

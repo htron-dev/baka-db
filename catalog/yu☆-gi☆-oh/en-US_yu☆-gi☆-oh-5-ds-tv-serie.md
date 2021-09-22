@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! 5D's
 
+![yu☆-gi☆-oh-5-ds](https://cdn.myanimelist.net/images/anime/1667/103658.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 154
 -   **original-name**: 遊 ☆ 戯 ☆ 王 5D's（ファイブディーズ）

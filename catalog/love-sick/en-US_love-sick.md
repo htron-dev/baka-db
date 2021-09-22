@@ -1,5 +1,7 @@
 # Love Sick
 
+![love-sick](https://cdn.myanimelist.net/images/manga/3/57979.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

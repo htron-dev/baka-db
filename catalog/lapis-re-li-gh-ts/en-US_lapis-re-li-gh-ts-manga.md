@@ -1,5 +1,7 @@
 # Lapis Re:LiGHTs
 
+![lapis-re-li-gh-ts](https://cdn.myanimelist.net/images/manga/3/232186.jpg)
+
 -   **type**: manga
 -   **original-name**: ラピスリライツ
 -   **start-date**: 2019-10-26

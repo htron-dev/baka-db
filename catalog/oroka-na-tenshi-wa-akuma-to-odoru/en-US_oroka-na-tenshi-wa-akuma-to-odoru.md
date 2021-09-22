@@ -1,5 +1,7 @@
 # Oroka na Tenshi wa Akuma to Odoru
 
+![oroka-na-tenshi-wa-akuma-to-odoru](https://cdn.myanimelist.net/images/manga/2/187834.jpg)
+
 -   **type**: manga
 -   **original-name**: 愚かな天使は悪魔と踊る
 -   **start-date**: 2016-06-27

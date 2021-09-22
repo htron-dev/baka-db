@@ -1,5 +1,7 @@
 # Houkago! Dungeon Koukou
 
+![houkago-dungeon-koukou](https://cdn.myanimelist.net/images/manga/3/217800.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 68

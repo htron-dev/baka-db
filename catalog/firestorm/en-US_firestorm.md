@@ -1,5 +1,7 @@
 # Firestorm
 
+![firestorm](https://cdn.myanimelist.net/images/anime/11/6090.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: FIRESTORM 　ファイアーストーム
@@ -31,4 +33,4 @@ From the main countries of the world, the "Storm Force" was formed to take down 
 -   [Official Site](http://enoki-films.co.jp/pro_firestorm.php)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=637)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2546)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Firestorm_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Firestorm_%28anime%29)

@@ -1,5 +1,7 @@
 # Promedicus
 
+![promedicus](https://cdn.myanimelist.net/images/anime/1313/92900.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: プロメディカス

@@ -1,5 +1,7 @@
 # Shiguang Guiyu
 
+![shiguang-guiyu](https://cdn.myanimelist.net/images/anime/1836/112310.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 时光诡域

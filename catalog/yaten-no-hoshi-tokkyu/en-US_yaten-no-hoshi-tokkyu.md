@@ -1,5 +1,7 @@
 # Yaten no Hoshi Tokkyu
 
+![yaten-no-hoshi-tokkyu](https://cdn.myanimelist.net/images/manga/1/31076.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 夜天の星特急

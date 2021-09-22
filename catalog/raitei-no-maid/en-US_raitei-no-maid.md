@@ -1,5 +1,7 @@
 # Raitei no Maid
 
+![raitei-no-maid](https://cdn.myanimelist.net/images/manga/3/201893.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 雷帝のメイド
 -   **start-date**: 2017-09-15

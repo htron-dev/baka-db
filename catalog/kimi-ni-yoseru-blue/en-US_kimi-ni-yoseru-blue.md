@@ -1,5 +1,7 @@
 # Kimi ni Yoseru Blue
 
+![kimi-ni-yoseru-blue](https://cdn.myanimelist.net/images/manga/1/154618.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

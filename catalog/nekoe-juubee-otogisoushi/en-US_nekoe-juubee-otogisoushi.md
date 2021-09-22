@@ -1,5 +1,7 @@
 # Nekoe Juubee Otogisoushi
 
+![nekoe-juubee-otogisoushi](https://cdn.myanimelist.net/images/manga/2/175459.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫絵十兵衛 御伽草紙
 -   **start-date**: 2007-04-20

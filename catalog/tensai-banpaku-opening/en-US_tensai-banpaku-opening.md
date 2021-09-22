@@ -1,5 +1,7 @@
 # Tensai Banpaku Opening
 
+![tensai-banpaku-opening](https://cdn.myanimelist.net/images/anime/3/70193.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: TENSAI BANPAKU -GENIUS EXPO-

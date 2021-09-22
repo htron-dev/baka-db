@@ -1,9 +1,10 @@
 # Babyshiba
 
+![babyshiba](https://cdn.myanimelist.net/images/anime/4/80693.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ベビしば
-
 -   **rating**: G - All Ages
 
 ## Tags

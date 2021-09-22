@@ -1,5 +1,7 @@
 # Heroine ni Naritai
 
+![heroine-ni-naritai](https://cdn.myanimelist.net/images/manga/2/226175.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

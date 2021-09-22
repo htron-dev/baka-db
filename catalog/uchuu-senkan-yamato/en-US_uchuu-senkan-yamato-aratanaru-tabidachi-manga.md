@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato: Aratanaru Tabidachi
 
+![uchuu-senkan-yamato-aratanaru-tabidachi](https://cdn.myanimelist.net/images/manga/1/61019.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 宇宙戦艦ヤマト 新たなる旅立ち

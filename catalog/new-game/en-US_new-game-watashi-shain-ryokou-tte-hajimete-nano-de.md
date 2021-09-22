@@ -1,5 +1,7 @@
 # New Game!: Watashi, Shain Ryokou tte Hajimete nano de...
 
+![new-game-watashi-shain-ryokou-tte-hajimete-nano-de](https://cdn.myanimelist.net/images/anime/10/86507.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: NEW GAME! 私、社員旅行って初めてなので…

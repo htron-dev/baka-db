@@ -1,5 +1,7 @@
 # Abara
 
+![abara](https://cdn.myanimelist.net/images/manga/3/171728.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # World Walkers Chronicle: Isekaiwatari Eiyuuki
 
+![world-walkers-chronicle-isekaiwatari-eiyuuki](https://cdn.myanimelist.net/images/manga/1/177925.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

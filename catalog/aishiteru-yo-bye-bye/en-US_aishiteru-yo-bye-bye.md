@@ -1,5 +1,7 @@
 # Aishiteru yo Bye-Bye
 
+![aishiteru-yo-bye-bye](https://cdn.myanimelist.net/images/manga/3/46377.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Toukon Yuuma
 
+![toukon-yuuma](https://cdn.myanimelist.net/images/manga/1/227612.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

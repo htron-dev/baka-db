@@ -1,5 +1,7 @@
 # Kimi koso Boku no Koimonogatari
 
+![kimi-koso-boku-no-koimonogatari](https://cdn.myanimelist.net/images/manga/1/87487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

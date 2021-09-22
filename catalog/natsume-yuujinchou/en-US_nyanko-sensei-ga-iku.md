@@ -1,5 +1,7 @@
 # Nyanko-sensei ga Iku!
 
+![nyanko-sensei-ga-iku](https://cdn.myanimelist.net/images/manga/1/155817.jpg)
+
 -   **type**: manga
 -   **original-name**: ニャンコ先生が行く!
 -   **start-date**: 2013-11-22

@@ -1,5 +1,7 @@
 # GG Dou
 
+![gg-dou](https://cdn.myanimelist.net/images/anime/1940/115533.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 咭咭豆 第一季

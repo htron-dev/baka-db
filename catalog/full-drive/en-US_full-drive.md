@@ -1,5 +1,7 @@
 # Full Drive
 
+![full-drive](https://cdn.myanimelist.net/images/manga/2/206999.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

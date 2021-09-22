@@ -1,5 +1,7 @@
 # Tameiki no Gogo
 
+![tameiki-no-gogo](https://cdn.myanimelist.net/images/manga/2/39916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

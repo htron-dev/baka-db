@@ -1,5 +1,7 @@
 # Bijo Juku
 
+![bijo-juku](https://cdn.myanimelist.net/images/manga/1/15426.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

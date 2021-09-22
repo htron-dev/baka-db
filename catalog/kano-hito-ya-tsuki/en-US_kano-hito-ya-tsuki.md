@@ -1,5 +1,7 @@
 # Kano Hito ya Tsuki
 
+![kano-hito-ya-tsuki](https://cdn.myanimelist.net/images/manga/3/134825.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

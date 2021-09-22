@@ -1,5 +1,7 @@
 # Mebae no Ashita
 
+![mebae-no-ashita](https://cdn.myanimelist.net/images/anime/2/66151.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: めばえの朝（あした）

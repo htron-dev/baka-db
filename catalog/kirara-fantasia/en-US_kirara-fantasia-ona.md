@@ -1,5 +1,7 @@
 # Kirara Fantasia
 
+![kirara-fantasia](https://cdn.myanimelist.net/images/anime/5/89006.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: きららファンタジア

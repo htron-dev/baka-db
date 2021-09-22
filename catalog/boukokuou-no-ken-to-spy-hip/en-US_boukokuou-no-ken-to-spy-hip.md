@@ -1,5 +1,7 @@
 # Boukokuou no Ken to Spy Hip
 
+![boukokuou-no-ken-to-spy-hip](https://cdn.myanimelist.net/images/manga/1/237964.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

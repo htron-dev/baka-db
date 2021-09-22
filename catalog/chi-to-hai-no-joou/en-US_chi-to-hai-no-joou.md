@@ -1,5 +1,7 @@
 # Chi to Hai no Joou
 
+![chi-to-hai-no-joou](https://cdn.myanimelist.net/images/manga/3/195923.jpg)
+
 -   **type**: manga
 -   **original-name**: 血と灰の女王
 -   **start-date**: 2016-12-30

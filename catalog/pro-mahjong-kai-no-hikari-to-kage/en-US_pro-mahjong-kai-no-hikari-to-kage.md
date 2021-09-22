@@ -1,5 +1,7 @@
 # Pro: Mahjong-kai no Hikari to Kage
 
+![pro-mahjong-kai-no-hikari-to-kage](https://cdn.myanimelist.net/images/manga/3/131979.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: プロ マージャン界の光と影

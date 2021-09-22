@@ -1,5 +1,7 @@
 # Kujou no Taizai
 
+![kujou-no-taizai](https://cdn.myanimelist.net/images/manga/3/241661.jpg)
+
 -   **type**: manga
 -   **original-name**: 九条の大罪
 -   **start-date**: 2020-10-12

@@ -1,5 +1,7 @@
 # Boushokuki no Ken
 
+![boushokuki-no-ken](https://cdn.myanimelist.net/images/manga/1/246953.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 暴食妃の剣
 -   **start-date**: 2019-04-25

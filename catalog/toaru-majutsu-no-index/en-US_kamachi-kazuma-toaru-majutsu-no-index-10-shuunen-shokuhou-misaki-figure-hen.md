@@ -1,5 +1,7 @@
 # Kamachi Kazuma Toaru Majutsu no Index 10-shuunen: Shokuhou Misaki Figure-hen
 
+![kamachi-kazuma-toaru-majutsu-no-index-10-shuunen-shokuhou-misaki-figure-hen](https://cdn.myanimelist.net/images/manga/2/172545.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

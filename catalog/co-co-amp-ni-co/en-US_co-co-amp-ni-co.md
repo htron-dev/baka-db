@@ -1,5 +1,7 @@
 # CoCO &amp; NiCO
 
+![co-co-amp-ni-co](https://cdn.myanimelist.net/images/anime/4/79044.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: CoCO & NiCO

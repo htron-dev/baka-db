@@ -1,5 +1,7 @@
 # 24-jikan Eigyouchuu
 
+![24-jikan-eigyouchuu](https://cdn.myanimelist.net/images/manga/3/70127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

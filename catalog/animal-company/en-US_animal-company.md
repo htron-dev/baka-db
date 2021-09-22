@@ -1,5 +1,7 @@
 # Animal Company
 
+![animal-company](https://cdn.myanimelist.net/images/manga/2/173420.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Benkyou no Jikan
 
+![benkyou-no-jikan](https://cdn.myanimelist.net/images/manga/1/65651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

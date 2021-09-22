@@ -1,5 +1,7 @@
 # Arcana - Tousou / Himitsu Kessha
 
+![arcana-tousou-himitsu-kessha](https://cdn.myanimelist.net/images/manga/2/39452.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

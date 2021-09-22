@@ -1,5 +1,7 @@
 # Tsukako no Konkatsu Death Game
 
+![tsukako-no-konkatsu-death-game](https://cdn.myanimelist.net/images/manga/3/246820.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

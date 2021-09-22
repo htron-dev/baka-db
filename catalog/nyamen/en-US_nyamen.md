@@ -1,5 +1,7 @@
 # Nyamen
 
+![nyamen](https://cdn.myanimelist.net/images/anime/2/59331.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: にゃ〜めん

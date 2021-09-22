@@ -1,5 +1,7 @@
 # Juuou Mujin no Fafnir
 
+![juuou-mujin-no-fafnir](https://cdn.myanimelist.net/images/anime/11/69085.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 銃皇無尽のファフニール

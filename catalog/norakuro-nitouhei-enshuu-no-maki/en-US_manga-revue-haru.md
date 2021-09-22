@@ -1,5 +1,7 @@
 # Manga Revue Haru
 
+![manga-revue-haru](https://cdn.myanimelist.net/images/anime/9/85265.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 漫画レビュー 春

@@ -1,5 +1,7 @@
 # Sengoku Danshi Hana no Ran
 
+![sengoku-danshi-hana-no-ran](https://cdn.myanimelist.net/images/manga/1/79411.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

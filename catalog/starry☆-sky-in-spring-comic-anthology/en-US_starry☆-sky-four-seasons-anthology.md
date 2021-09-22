@@ -1,5 +1,7 @@
 # Starry☆Sky: Four Seasons - Anthology
 
+![starry☆-sky-four-seasons-anthology](https://cdn.myanimelist.net/images/manga/1/63967.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

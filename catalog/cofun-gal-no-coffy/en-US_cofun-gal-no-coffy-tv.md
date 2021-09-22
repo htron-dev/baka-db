@@ -1,5 +1,7 @@
 # Cofun Gal no Coffy (TV)
 
+![cofun-gal-no-coffy-tv](https://cdn.myanimelist.net/images/anime/7/82756.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 古墳ギャルのコフィー

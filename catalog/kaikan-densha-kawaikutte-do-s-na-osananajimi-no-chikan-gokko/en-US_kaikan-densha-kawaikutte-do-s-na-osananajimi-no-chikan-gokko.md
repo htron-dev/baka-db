@@ -1,5 +1,7 @@
 # Kaikan Densha: Kawaikutte Do S na Osananajimi no Chikan Gokko
 
+![kaikan-densha-kawaikutte-do-s-na-osananajimi-no-chikan-gokko](https://cdn.myanimelist.net/images/manga/1/193805.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

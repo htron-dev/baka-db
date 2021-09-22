@@ -1,5 +1,7 @@
 # Ouji no Kikan
 
+![ouji-no-kikan](https://cdn.myanimelist.net/images/manga/1/33817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

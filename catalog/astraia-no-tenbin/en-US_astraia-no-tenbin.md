@@ -1,5 +1,7 @@
 # Astraia no Tenbin
 
+![astraia-no-tenbin](https://cdn.myanimelist.net/images/manga/2/45517.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

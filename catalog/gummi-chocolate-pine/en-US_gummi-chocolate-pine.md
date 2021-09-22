@@ -1,5 +1,7 @@
 # Gummi Chocolate Pine
 
+![gummi-chocolate-pine](https://cdn.myanimelist.net/images/manga/1/35729.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: グミ・チョコレート・パイン

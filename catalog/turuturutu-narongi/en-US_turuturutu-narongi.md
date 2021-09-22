@@ -1,5 +1,7 @@
 # Turuturutu Narongi
 
+![turuturutu-narongi](https://cdn.myanimelist.net/images/anime/3/51791.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 뚜루뚜루뚜 나롱이

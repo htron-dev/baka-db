@@ -1,5 +1,7 @@
 # Kitaku Tochuu de Yome to Musume ga Dekita n dakedo, Dragon datta.
 
+![kitaku-tochuu-de-yome-to-musume-ga-dekita-n-dakedo-dragon-datta](https://cdn.myanimelist.net/images/manga/1/216482.jpg)
+
 -   **type**: manga
 -   **original-name**: 帰宅途中で嫁と娘ができたんだけど、ドラゴンだった。
 -   **start-date**: 2018-07-27

@@ -1,5 +1,7 @@
 # Uruwashi no Koushaku no Kanzen Houiai
 
+![uruwashi-no-koushaku-no-kanzen-houiai](https://cdn.myanimelist.net/images/manga/3/192774.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

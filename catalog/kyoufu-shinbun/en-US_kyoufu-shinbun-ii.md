@@ -1,5 +1,7 @@
 # Kyoufu Shinbun II
 
+![kyoufu-shinbun-ii](https://cdn.myanimelist.net/images/manga/1/153089.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 16

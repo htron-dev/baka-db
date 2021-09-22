@@ -1,5 +1,7 @@
 # Boukun wa Dokusenyoku
 
+![boukun-wa-dokusenyoku](https://cdn.myanimelist.net/images/manga/1/42715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7
@@ -14,8 +16,6 @@
 
 -   Habara
 -   Yoshikadu (Story & Art)
-
-## Sinopse
 
 ## Links
 

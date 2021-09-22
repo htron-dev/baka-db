@@ -1,5 +1,7 @@
 # Jungle Makyou
 
+![jungle-makyou](https://cdn.myanimelist.net/images/manga/1/228232.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジャングル魔境

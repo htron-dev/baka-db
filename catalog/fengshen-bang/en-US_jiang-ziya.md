@@ -1,5 +1,7 @@
 # Jiang Ziya
 
+![jiang-ziya](https://cdn.myanimelist.net/images/anime/1545/107810.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 姜子牙

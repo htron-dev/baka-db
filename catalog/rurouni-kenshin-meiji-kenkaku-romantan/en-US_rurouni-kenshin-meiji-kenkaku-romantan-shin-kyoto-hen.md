@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen
 
+![rurouni-kenshin-meiji-kenkaku-romantan-shin-kyoto-hen](https://cdn.myanimelist.net/images/anime/2/39663.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: るろうに剣心-明治剣客浪漫譚- 新京都編

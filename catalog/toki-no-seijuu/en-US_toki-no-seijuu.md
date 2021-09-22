@@ -1,5 +1,7 @@
 # Toki no Seijuu
 
+![toki-no-seijuu](https://cdn.myanimelist.net/images/manga/2/6298.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 刻の聖獣

@@ -1,5 +1,7 @@
 # Vampire Doll: Guilt-na-Zan
 
+![vampire-doll-guilt-na-zan](https://cdn.myanimelist.net/images/manga/3/156528.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 49

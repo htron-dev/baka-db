@@ -1,5 +1,7 @@
 # Ajin 2nd Season
 
+![ajin-2nd-season](https://cdn.myanimelist.net/images/anime/12/81858.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 亜人 第 2 クール

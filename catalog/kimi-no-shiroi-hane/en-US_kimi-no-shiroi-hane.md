@@ -1,5 +1,7 @@
 # Kimi no Shiroi Hane
 
+![kimi-no-shiroi-hane](https://cdn.myanimelist.net/images/manga/1/15332.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君の白い羽根

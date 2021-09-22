@@ -1,5 +1,7 @@
 # The☆Ultraman
 
+![the☆-ultraman](https://cdn.myanimelist.net/images/anime/10/61901.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ザ ☆ ウルトラマン

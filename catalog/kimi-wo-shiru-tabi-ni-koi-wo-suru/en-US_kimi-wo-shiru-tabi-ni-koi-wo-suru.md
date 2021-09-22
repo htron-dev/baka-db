@@ -1,5 +1,7 @@
 # Kimi wo Shiru Tabi ni Koi wo Suru
 
+![kimi-wo-shiru-tabi-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/57599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

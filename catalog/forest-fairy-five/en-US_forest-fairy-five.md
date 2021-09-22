@@ -1,5 +1,7 @@
 # Forest Fairy Five
 
+![forest-fairy-five](https://cdn.myanimelist.net/images/anime/9/83713.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: FOREST FAIRY FIVE

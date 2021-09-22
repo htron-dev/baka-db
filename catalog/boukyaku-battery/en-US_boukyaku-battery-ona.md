@@ -1,5 +1,7 @@
 # Boukyaku Battery
 
+![boukyaku-battery](https://cdn.myanimelist.net/images/anime/1216/113444.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 忘却バッテリー

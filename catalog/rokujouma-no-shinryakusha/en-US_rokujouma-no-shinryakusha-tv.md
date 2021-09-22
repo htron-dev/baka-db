@@ -1,5 +1,7 @@
 # Rokujouma no Shinryakusha!? (TV)
 
+![rokujouma-no-shinryakusha-tv](https://cdn.myanimelist.net/images/anime/2/62655.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 六畳間の侵略者！？

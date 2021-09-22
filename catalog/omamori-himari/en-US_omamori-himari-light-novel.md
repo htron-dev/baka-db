@@ -1,5 +1,7 @@
 # Omamori Himari
 
+![omamori-himari](https://cdn.myanimelist.net/images/manga/3/86969.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

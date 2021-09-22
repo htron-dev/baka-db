@@ -1,5 +1,7 @@
 # Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!
 
+![youkai-watch-movie-2-enma-daiou-to-itsutsu-no-monogatari-da-nyan](https://cdn.myanimelist.net/images/anime/8/76717.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 妖怪ウォッチ エンマ大王と 5 つの物語だニャン!
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   supernatural
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Mina-Mo-No-Gram
 
+![mina-mo-no-gram](https://cdn.myanimelist.net/images/manga/3/178440.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

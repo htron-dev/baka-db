@@ -1,5 +1,7 @@
 # Haja Kyosei G Dangaiou
 
+![haja-kyosei-g-dangaiou](https://cdn.myanimelist.net/images/anime/9/3095.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 破邪巨星 G ダンガイオ

@@ -1,5 +1,7 @@
 # Potion-danomi de Ikinobimasu!
 
+![potion-danomi-de-ikinobimasu](https://cdn.myanimelist.net/images/manga/1/202865.jpg)
+
 -   **type**: manga
 -   **original-name**: ポーション頼みで生き延びます！
 -   **start-date**: 2017-06-07

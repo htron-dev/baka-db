@@ -1,5 +1,7 @@
 # Micchiri Wanko! Animation
 
+![micchiri-wanko-animation](https://cdn.myanimelist.net/images/anime/1793/106522.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: みっちりわんこ！あにめ～しょん

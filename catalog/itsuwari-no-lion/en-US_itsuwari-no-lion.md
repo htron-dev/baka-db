@@ -1,5 +1,7 @@
 # Itsuwari no Lion
 
+![itsuwari-no-lion](https://cdn.myanimelist.net/images/manga/3/15367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 偽りのライオン

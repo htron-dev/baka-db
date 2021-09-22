@@ -1,5 +1,7 @@
 # Sherlock Holmes: Hiiro no Kenkyuu
 
+![sherlock-holmes-hiiro-no-kenkyuu](https://cdn.myanimelist.net/images/manga/3/149318.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シャーロック・ホームズ 緋色の研究

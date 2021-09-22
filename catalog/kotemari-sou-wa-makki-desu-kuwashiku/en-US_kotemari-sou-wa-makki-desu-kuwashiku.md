@@ -1,5 +1,7 @@
 # Kotemari-sou wa Makki desu. ......Kuwashiku.
 
+![kotemari-sou-wa-makki-desu-kuwashiku](https://cdn.myanimelist.net/images/manga/2/163481.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

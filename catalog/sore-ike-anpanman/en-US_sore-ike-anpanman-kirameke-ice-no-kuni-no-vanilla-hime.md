@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Kirameke! Ice no Kuni no Vanilla-hime
 
+![sore-ike-anpanman-kirameke-ice-no-kuni-no-vanilla-hime](https://cdn.myanimelist.net/images/anime/1482/98228.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン きらめけ! アイスの国のバニラ姫
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   fantasy
 
 ## Sinopse

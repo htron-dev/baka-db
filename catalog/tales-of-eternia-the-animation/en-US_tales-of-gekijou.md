@@ -1,5 +1,7 @@
 # Tales of Gekijou
 
+![tales-of-gekijou](https://cdn.myanimelist.net/images/anime/5/48841.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: ているず おぶ 劇場

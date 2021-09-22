@@ -1,5 +1,7 @@
 # Sweet Delicious
 
+![sweet-delicious](https://cdn.myanimelist.net/images/manga/1/151662.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: Sweet Delicious

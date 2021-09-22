@@ -1,5 +1,7 @@
 # Pastel Memories
 
+![pastel-memories](https://cdn.myanimelist.net/images/manga/2/226045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

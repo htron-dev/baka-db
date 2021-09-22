@@ -1,5 +1,7 @@
 # Watashi no Machi no Chiba-kun wa.
 
+![watashi-no-machi-no-chiba-kun-wa](https://cdn.myanimelist.net/images/manga/3/245995.jpg)
+
 -   **type**: manga
 -   **original-name**: 私の町の千葉くんは。
 -   **start-date**: 2017-12-13

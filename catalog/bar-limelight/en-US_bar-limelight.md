@@ -1,5 +1,7 @@
 # Bar Limelight
 
+![bar-limelight](https://cdn.myanimelist.net/images/manga/3/24528.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 76

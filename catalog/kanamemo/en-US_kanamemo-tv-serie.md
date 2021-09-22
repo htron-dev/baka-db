@@ -1,5 +1,7 @@
 # Kanamemo
 
+![kanamemo](https://cdn.myanimelist.net/images/anime/6/52677.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: かなめも

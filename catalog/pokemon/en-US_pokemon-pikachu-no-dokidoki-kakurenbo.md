@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Dokidoki Kakurenbo
 
+![pokemon-pikachu-no-dokidoki-kakurenbo](https://cdn.myanimelist.net/images/anime/7/26371.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピカチュウのドキドキかくれんぼ

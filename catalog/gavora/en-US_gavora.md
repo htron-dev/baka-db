@@ -1,5 +1,7 @@
 # Gavora
 
+![gavora](https://cdn.myanimelist.net/images/anime/1808/108099.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GAVORA

@@ -1,5 +1,7 @@
 # Ninjaman Ippei
 
+![ninjaman-ippei](https://cdn.myanimelist.net/images/anime/7/56697.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 忍者マン 一平

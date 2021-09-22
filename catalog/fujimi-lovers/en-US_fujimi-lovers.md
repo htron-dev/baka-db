@@ -1,5 +1,7 @@
 # Fujimi Lovers
 
+![fujimi-lovers](https://cdn.myanimelist.net/images/manga/3/188784.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

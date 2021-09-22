@@ -1,5 +1,7 @@
 # Kara no Kyoukai 6: Boukyaku Rokuon
 
+![kara-no-kyoukai-6-boukyaku-rokuon](https://cdn.myanimelist.net/images/anime/2/21739.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 the Garden of sinners 第六章『忘却録音』

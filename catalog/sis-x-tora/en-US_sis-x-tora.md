@@ -1,5 +1,7 @@
 # Sis x Tora
 
+![sis-x-tora](https://cdn.myanimelist.net/images/manga/1/153690.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 25

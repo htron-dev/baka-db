@@ -1,5 +1,7 @@
 # Nemuri-hime ni 100 mankai no Kiss
 
+![nemuri-hime-ni-100-mankai-no-kiss](https://cdn.myanimelist.net/images/manga/1/4538.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

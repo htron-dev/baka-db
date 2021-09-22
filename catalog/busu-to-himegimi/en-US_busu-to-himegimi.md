@@ -1,5 +1,7 @@
 # Busu to Himegimi
 
+![busu-to-himegimi](https://cdn.myanimelist.net/images/manga/1/32845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

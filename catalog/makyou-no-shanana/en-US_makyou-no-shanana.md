@@ -1,5 +1,7 @@
 # Makyou no Shanana
 
+![makyou-no-shanana](https://cdn.myanimelist.net/images/manga/3/32560.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

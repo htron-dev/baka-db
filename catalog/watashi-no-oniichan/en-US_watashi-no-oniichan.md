@@ -1,5 +1,7 @@
 # Watashi no Oniichan
 
+![watashi-no-oniichan](https://cdn.myanimelist.net/images/manga/1/45823.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 週刊わたしのおにいちゃん

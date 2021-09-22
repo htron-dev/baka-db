@@ -1,5 +1,7 @@
 # Legend of Tyr
 
+![legend-of-tyr](https://cdn.myanimelist.net/images/manga/2/73217.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **chapters**: 66

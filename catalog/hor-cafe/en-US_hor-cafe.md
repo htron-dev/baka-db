@@ -1,5 +1,7 @@
 # H'or Cafe
 
+![hor-cafe](https://cdn.myanimelist.net/images/anime/1452/98740.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: H’or Cafe

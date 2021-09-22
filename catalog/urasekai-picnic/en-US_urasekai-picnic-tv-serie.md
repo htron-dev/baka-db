@@ -1,5 +1,7 @@
 # Urasekai Picnic
 
+![urasekai-picnic](https://cdn.myanimelist.net/images/anime/1494/111515.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 裏世界ピクニック

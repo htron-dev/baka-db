@@ -1,5 +1,7 @@
 # Yokubou Shounen
 
+![yokubou-shounen](https://cdn.myanimelist.net/images/manga/2/23003.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

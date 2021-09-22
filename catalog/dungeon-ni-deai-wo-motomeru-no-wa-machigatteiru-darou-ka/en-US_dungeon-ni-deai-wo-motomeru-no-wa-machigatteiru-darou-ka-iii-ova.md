@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III OVA
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii-ova](https://cdn.myanimelist.net/images/anime/1767/110800.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか Ⅲ OVA

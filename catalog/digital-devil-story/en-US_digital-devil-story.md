@@ -1,5 +1,7 @@
 # Digital Devil Story
 
+![digital-devil-story](https://cdn.myanimelist.net/images/manga/3/179775.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: デジタル・デビル物語〈ストーリ〉

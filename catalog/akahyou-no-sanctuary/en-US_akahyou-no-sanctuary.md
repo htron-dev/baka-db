@@ -1,5 +1,7 @@
 # Akahyou no Sanctuary
 
+![akahyou-no-sanctuary](https://cdn.myanimelist.net/images/manga/2/222033.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

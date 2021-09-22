@@ -1,5 +1,7 @@
 # Corpse Party: Missing Footage
 
+![corpse-party-missing-footage](https://cdn.myanimelist.net/images/anime/5/38331.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コープスパーティー Missing Footage

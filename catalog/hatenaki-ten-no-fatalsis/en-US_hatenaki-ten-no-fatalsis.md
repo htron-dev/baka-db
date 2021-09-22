@@ -1,5 +1,7 @@
 # Hatenaki Ten no Fatalsis
 
+![hatenaki-ten-no-fatalsis](https://cdn.myanimelist.net/images/manga/1/109441.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 果てなき天のファタルシス

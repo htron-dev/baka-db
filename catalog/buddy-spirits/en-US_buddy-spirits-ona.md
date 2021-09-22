@@ -1,5 +1,7 @@
 # Buddy Spirits
 
+![buddy-spirits](https://cdn.myanimelist.net/images/anime/13/55727.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: バディ スピリッツ

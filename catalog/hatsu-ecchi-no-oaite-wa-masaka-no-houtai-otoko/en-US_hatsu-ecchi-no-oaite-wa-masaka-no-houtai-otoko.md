@@ -1,5 +1,7 @@
 # Hatsu Ecchi no Oaite wa... Masaka no Houtai Otoko!?
 
+![hatsu-ecchi-no-oaite-wa-masaka-no-houtai-otoko](https://cdn.myanimelist.net/images/manga/2/234502.jpg)
+
 -   **type**: manga
 -   **original-name**: 初エッチのお相手は…まさかの包帯男!?
 -   **start-date**: 2016-06-02

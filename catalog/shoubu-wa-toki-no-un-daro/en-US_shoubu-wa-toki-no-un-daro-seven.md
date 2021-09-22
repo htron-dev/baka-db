@@ -1,5 +1,7 @@
 # Shoubu wa Toki no... Un Daro? SEVEN
 
+![shoubu-wa-toki-no-un-daro-seven](https://cdn.myanimelist.net/images/manga/1/13076.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 勝負は時の…運だろ? SEVEN

@@ -1,5 +1,7 @@
 # Tongsheng Tong Qi Kan Shijie
 
+![tongsheng-tong-qi-kan-shijie](https://cdn.myanimelist.net/images/anime/1693/115482.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 童声童气看世界

@@ -1,5 +1,7 @@
 # Fushigi no Kuni no Namihei-san
 
+![fushigi-no-kuni-no-namihei-san](https://cdn.myanimelist.net/images/manga/2/213191.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

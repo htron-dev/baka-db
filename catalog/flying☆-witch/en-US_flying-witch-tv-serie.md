@@ -1,5 +1,7 @@
 # Flying Witch
 
+![flying-witch](https://cdn.myanimelist.net/images/anime/6/80039.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ふらいんぐうぃっち

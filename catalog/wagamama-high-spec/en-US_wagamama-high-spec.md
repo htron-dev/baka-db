@@ -1,5 +1,7 @@
 # Wagamama High Spec
 
+![wagamama-high-spec](https://cdn.myanimelist.net/images/anime/3/79135.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ワガママハイスペック

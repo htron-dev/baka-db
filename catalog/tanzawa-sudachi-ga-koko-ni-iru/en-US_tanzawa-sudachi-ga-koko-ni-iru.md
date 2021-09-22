@@ -1,5 +1,7 @@
 # Tanzawa Sudachi ga Koko ni Iru!
 
+![tanzawa-sudachi-ga-koko-ni-iru](https://cdn.myanimelist.net/images/manga/3/223220.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

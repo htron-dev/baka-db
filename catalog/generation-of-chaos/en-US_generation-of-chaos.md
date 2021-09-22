@@ -1,5 +1,7 @@
 # Generation of Chaos
 
+![generation-of-chaos](https://cdn.myanimelist.net/images/anime/7/3752.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ジェネレーション オブ カオス

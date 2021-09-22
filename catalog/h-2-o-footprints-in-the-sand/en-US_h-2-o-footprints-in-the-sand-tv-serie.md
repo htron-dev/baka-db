@@ -1,5 +1,7 @@
 # H2O: Footprints in the Sand
 
+![h-2-o-footprints-in-the-sand](https://cdn.myanimelist.net/images/anime/2/5962.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: H2O ~FOOTPRINTS IN THE SAND~

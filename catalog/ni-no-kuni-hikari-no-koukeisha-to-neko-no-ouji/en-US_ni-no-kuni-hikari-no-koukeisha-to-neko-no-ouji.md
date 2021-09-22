@@ -1,5 +1,7 @@
 # Ni no Kuni: Hikari no Koukeisha to Neko no Ouji
 
+![ni-no-kuni-hikari-no-koukeisha-to-neko-no-ouji](https://cdn.myanimelist.net/images/manga/3/242285.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

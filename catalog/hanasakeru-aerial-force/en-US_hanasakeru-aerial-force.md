@@ -1,5 +1,7 @@
 # Hanasakeru Aerial Force
 
+![hanasakeru-aerial-force](https://cdn.myanimelist.net/images/manga/1/123007.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

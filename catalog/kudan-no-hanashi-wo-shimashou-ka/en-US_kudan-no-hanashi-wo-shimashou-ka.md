@@ -1,5 +1,7 @@
 # Kudan no Hanashi wo Shimashou ka
 
+![kudan-no-hanashi-wo-shimashou-ka](https://cdn.myanimelist.net/images/manga/3/163115.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

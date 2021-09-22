@@ -1,5 +1,7 @@
 # Shinrei Taiken: Jikkenshitsu no Mariko
 
+![shinrei-taiken-jikkenshitsu-no-mariko](https://cdn.myanimelist.net/images/manga/1/57447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

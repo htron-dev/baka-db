@@ -1,5 +1,7 @@
 # Obake no Q-tarou (1985)
 
+![obake-no-q-tarou-1985](https://cdn.myanimelist.net/images/anime/12/19489.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 510
 -   **original-name**: オバケの Q 太郎
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   school
 -   slice-of-life
 -   supernatural

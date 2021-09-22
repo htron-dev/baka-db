@@ -1,5 +1,7 @@
 # Nintama Rantarou Movie: Ninjutsu Gakuen Zenin Shutsudou! no Dan
 
+![nintama-rantarou-movie-ninjutsu-gakuen-zenin-shutsudou-no-dan](https://cdn.myanimelist.net/images/anime/5/34395.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版アニメ 忍たま乱太郎 忍術学園 全員出動! の段

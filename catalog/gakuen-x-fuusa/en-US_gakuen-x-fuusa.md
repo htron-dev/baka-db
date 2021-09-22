@@ -1,5 +1,7 @@
 # Gakuen x Fuusa
 
+![gakuen-x-fuusa](https://cdn.myanimelist.net/images/manga/1/165089.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

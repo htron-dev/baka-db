@@ -1,5 +1,7 @@
 # Second World
 
+![second-world](https://cdn.myanimelist.net/images/manga/2/156139.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: セカンドワールド

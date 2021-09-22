@@ -1,5 +1,7 @@
 # King of Fighters: Giga
 
+![king-of-fighters-giga](https://cdn.myanimelist.net/images/manga/1/76455.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ザ･キング・オブ・ファイターズ G（ギガ）

@@ -1,5 +1,7 @@
 # Shikabane 13-gou
 
+![shikabane-13-gou](https://cdn.myanimelist.net/images/manga/2/171672.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: シカバネ 13 号

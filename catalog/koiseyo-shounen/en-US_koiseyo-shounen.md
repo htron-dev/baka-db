@@ -1,5 +1,7 @@
 # Koiseyo Shounen
 
+![koiseyo-shounen](https://cdn.myanimelist.net/images/manga/2/2710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

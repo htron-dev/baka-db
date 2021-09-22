@@ -1,5 +1,7 @@
 # Migawari Oujo wa Mitsuya ni Aegu: Seifukuou no Hanayome
 
+![migawari-oujo-wa-mitsuya-ni-aegu-seifukuou-no-hanayome](https://cdn.myanimelist.net/images/manga/1/194878.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 身代わり王女は蜜夜に喘ぐ～征服王の花嫁～

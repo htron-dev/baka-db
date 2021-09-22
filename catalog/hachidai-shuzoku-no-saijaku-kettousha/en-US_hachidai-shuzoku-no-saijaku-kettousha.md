@@ -1,5 +1,7 @@
 # Hachidai Shuzoku no Saijaku Kettousha
 
+![hachidai-shuzoku-no-saijaku-kettousha](https://cdn.myanimelist.net/images/manga/1/233308.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 八大種族の最弱血統者
 -   **start-date**: 2019-07-01

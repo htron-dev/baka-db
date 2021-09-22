@@ -1,5 +1,7 @@
 # Konda Teru no Gouhou Recipe
 
+![konda-teru-no-gouhou-recipe](https://cdn.myanimelist.net/images/manga/1/204923.jpg)
+
 -   **type**: manga
 -   **original-name**: 紺田照の合法レシピ
 -   **start-date**: 2015-04-20

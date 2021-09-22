@@ -1,5 +1,7 @@
 # Blue Drop: Tenshi no Bokura
 
+![blue-drop-tenshi-no-bokura](https://cdn.myanimelist.net/images/manga/3/54123.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

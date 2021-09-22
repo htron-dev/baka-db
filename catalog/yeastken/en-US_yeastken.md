@@ -1,5 +1,7 @@
 # Yeastken.
 
+![yeastken](https://cdn.myanimelist.net/images/anime/1599/97398.jpg)
+
 -   **type**: ona
 -   **original-name**: いーすとけん。
 -   **start-date**: 2018-12-13

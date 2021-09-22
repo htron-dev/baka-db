@@ -1,5 +1,7 @@
 # Yami no Kioku, Yume no Inei
 
+![yami-no-kioku-yume-no-inei](https://cdn.myanimelist.net/images/anime/13/58109.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 闇の記憶・夢の陰影

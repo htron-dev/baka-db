@@ -1,5 +1,7 @@
 # O.Shi.Go.To.
 
+![o-shi-go-to](https://cdn.myanimelist.net/images/manga/1/64213.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: O.SHI.GO.TO. オ.シ.ゴ.ト.

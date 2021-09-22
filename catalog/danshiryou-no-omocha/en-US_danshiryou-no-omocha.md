@@ -1,5 +1,7 @@
 # Danshiryou no Omocha
 
+![danshiryou-no-omocha](https://cdn.myanimelist.net/images/manga/1/224966.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 男子寮の玩具

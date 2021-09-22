@@ -1,5 +1,7 @@
 # Tokyo Flowchart
 
+![tokyo-flowchart](https://cdn.myanimelist.net/images/manga/1/21787.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 東京フローチャート

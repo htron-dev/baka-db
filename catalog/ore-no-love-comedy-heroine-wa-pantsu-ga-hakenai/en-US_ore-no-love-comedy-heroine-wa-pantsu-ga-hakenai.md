@@ -1,5 +1,7 @@
 # Ore no Love Comedy Heroine wa, Pantsu ga Hakenai.
 
+![ore-no-love-comedy-heroine-wa-pantsu-ga-hakenai](https://cdn.myanimelist.net/images/manga/1/199941.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kuso-game Online (Kari)
 
+![kuso-game-online-kari](https://cdn.myanimelist.net/images/manga/1/193580.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

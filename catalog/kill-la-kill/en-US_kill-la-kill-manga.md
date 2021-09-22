@@ -1,5 +1,7 @@
 # Kill la Kill
 
+![kill-la-kill](https://cdn.myanimelist.net/images/manga/1/108467.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

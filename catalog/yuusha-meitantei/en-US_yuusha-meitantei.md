@@ -1,5 +1,7 @@
 # Yuusha Meitantei
 
+![yuusha-meitantei](https://cdn.myanimelist.net/images/manga/3/235005.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者名探偵
 -   **start-date**: 2020-01-22

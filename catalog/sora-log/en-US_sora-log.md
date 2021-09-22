@@ -1,5 +1,7 @@
 # Sora Log
 
+![sora-log](https://cdn.myanimelist.net/images/manga/3/52639.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

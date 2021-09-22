@@ -1,5 +1,7 @@
 # Tamayura no Yume
 
+![tamayura-no-yume](https://cdn.myanimelist.net/images/anime/1155/99550.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 玉響の夢

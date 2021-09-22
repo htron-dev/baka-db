@@ -1,5 +1,7 @@
 # Kichikujima
 
+![kichikujima](https://cdn.myanimelist.net/images/manga/2/133709.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼畜島
 -   **start-date**: 2013-12-26

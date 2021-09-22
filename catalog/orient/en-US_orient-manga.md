@@ -1,5 +1,7 @@
 # Orient
 
+![orient](https://cdn.myanimelist.net/images/manga/1/210790.jpg)
+
 -   **type**: manga
 -   **original-name**: オリエント
 -   **start-date**: 2018-05-30

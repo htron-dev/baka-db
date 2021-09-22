@@ -1,5 +1,7 @@
 # Kin no Kanojo Gin no Kanojo
 
+![kin-no-kanojo-gin-no-kanojo](https://cdn.myanimelist.net/images/manga/1/188968.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 50

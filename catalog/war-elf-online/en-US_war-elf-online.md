@@ -1,5 +1,7 @@
 # War Elf Online
 
+![war-elf-online](https://cdn.myanimelist.net/images/manga/3/173275.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ウォーエルフ・オンライン
 -   **start-date**: 2016-03-15

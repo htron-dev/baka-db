@@ -1,5 +1,7 @@
 # Sensei, Kurokami ni Natte mo Kizuite Kureru?
 
+![sensei-kurokami-ni-natte-mo-kizuite-kureru](https://cdn.myanimelist.net/images/manga/1/235789.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

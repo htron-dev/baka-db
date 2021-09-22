@@ -1,5 +1,7 @@
 # Cardcaptor Sakura Extras
 
+![cardcaptor-sakura-extras](https://cdn.myanimelist.net/images/manga/2/41655.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: カードキャプターさくら

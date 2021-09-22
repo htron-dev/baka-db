@@ -1,5 +1,7 @@
 # Kwaegeol Longman Narongi
 
+![kwaegeol-longman-narongi](https://cdn.myanimelist.net/images/anime/8/51823.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 쾌걸롱맨 나롱이

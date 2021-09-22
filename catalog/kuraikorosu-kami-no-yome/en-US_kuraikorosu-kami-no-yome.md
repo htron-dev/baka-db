@@ -1,5 +1,7 @@
 # Kuraikorosu Kami no Yome
 
+![kuraikorosu-kami-no-yome](https://cdn.myanimelist.net/images/manga/2/192820.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

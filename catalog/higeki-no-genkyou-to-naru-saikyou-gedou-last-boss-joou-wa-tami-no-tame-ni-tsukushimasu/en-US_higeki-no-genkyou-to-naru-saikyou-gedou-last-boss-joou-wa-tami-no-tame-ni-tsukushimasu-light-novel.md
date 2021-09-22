@@ -1,5 +1,7 @@
 # Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
 
+![higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu](https://cdn.myanimelist.net/images/manga/1/247564.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。
 -   **start-date**: 2019-06-03

@@ -1,5 +1,7 @@
 # Najica Dengeki Sakusen
 
+![najica-dengeki-sakusen](https://cdn.myanimelist.net/images/anime/11/22210.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ナジカ電撃作戦

@@ -1,5 +1,7 @@
 # Shinigami-sama to Akaki Keiyaku: Shinda Watashi to, Shinitai Kare.
 
+![shinigami-sama-to-akaki-keiyaku-shinda-watashi-to-shinitai-kare](https://cdn.myanimelist.net/images/manga/2/182119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

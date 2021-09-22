@@ -1,5 +1,7 @@
 # Hanazono no Kioku
 
+![hanazono-no-kioku](https://cdn.myanimelist.net/images/manga/2/106227.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

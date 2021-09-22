@@ -1,5 +1,7 @@
 # Otome no Harawata Hoshi no Iro
 
+![otome-no-harawata-hoshi-no-iro](https://cdn.myanimelist.net/images/manga/1/216468.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

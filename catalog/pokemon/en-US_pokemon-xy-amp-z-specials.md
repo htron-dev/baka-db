@@ -1,5 +1,7 @@
 # Pokemon XY&amp;Z Specials
 
+![pokemon-xy-amp-z-specials](https://cdn.myanimelist.net/images/anime/9/82843.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ポケットモンスター XY&Z
@@ -14,7 +16,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

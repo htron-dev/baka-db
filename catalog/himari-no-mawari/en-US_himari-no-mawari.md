@@ -1,5 +1,7 @@
 # Himari no Mawari
 
+![himari-no-mawari](https://cdn.myanimelist.net/images/manga/2/219210.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

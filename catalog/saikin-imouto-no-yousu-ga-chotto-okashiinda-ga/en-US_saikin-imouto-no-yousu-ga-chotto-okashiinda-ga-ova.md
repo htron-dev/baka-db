@@ -1,5 +1,7 @@
 # Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA
 
+![saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova](https://cdn.myanimelist.net/images/anime/13/64061.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 最近、妹のようすがちょっとおかしいんだが。 OVA

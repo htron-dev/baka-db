@@ -1,5 +1,7 @@
 # Umi-iro March
 
+![umi-iro-march](https://cdn.myanimelist.net/images/manga/2/223022.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 海色マーチ

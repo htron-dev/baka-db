@@ -1,5 +1,7 @@
 # My Friend Doubutsu Byouin Note
 
+![my-friend-doubutsu-byouin-note](https://cdn.myanimelist.net/images/manga/2/205859.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

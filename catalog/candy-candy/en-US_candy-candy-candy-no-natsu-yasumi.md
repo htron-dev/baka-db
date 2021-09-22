@@ -1,5 +1,7 @@
 # Candy Candy: Candy no Natsu Yasumi
 
+![candy-candy-candy-no-natsu-yasumi](https://cdn.myanimelist.net/images/anime/1510/94758.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャンディ・キャンディ キャンディの夏休み

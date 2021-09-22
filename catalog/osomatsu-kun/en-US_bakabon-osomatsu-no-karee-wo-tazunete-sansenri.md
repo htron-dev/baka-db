@@ -1,5 +1,7 @@
 # Bakabon Osomatsu no Karee wo Tazunete Sansenri
 
+![bakabon-osomatsu-no-karee-wo-tazunete-sansenri](https://cdn.myanimelist.net/images/anime/3/62947.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: バカボン・おそ松のカレーをたずねて三千里

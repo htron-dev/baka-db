@@ -1,5 +1,7 @@
 # Koushaku Reijou wa Tegoma wo Enjiru
 
+![koushaku-reijou-wa-tegoma-wo-enjiru](https://cdn.myanimelist.net/images/manga/2/217876.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 侯爵令嬢は手駒を演じる

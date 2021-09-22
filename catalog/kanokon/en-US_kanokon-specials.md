@@ -1,5 +1,7 @@
 # Kanokon Specials
 
+![kanokon-specials](https://cdn.myanimelist.net/images/anime/9/22939.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: かのこん

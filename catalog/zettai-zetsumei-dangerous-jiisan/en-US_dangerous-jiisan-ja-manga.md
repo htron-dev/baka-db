@@ -1,5 +1,7 @@
 # Dangerous Jiisan Ja
 
+![dangerous-jiisan-ja](https://cdn.myanimelist.net/images/manga/3/190072.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 180

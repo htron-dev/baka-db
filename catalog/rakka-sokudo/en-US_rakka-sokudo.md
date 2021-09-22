@@ -1,5 +1,7 @@
 # Rakka Sokudo
 
+![rakka-sokudo](https://cdn.myanimelist.net/images/manga/3/5953.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

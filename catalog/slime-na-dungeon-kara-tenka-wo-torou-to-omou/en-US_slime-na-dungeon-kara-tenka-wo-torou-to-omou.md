@@ -1,5 +1,7 @@
 # Slime na Dungeon kara Tenka wo Torou to Omou.
 
+![slime-na-dungeon-kara-tenka-wo-torou-to-omou](https://cdn.myanimelist.net/images/manga/1/177714.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スライムなダンジョンから天下をとろうと思う。
 -   **start-date**: 2014-12-12

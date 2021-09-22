@@ -1,5 +1,7 @@
 # Hatsukoi Continue
 
+![hatsukoi-continue](https://cdn.myanimelist.net/images/manga/1/160549.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 初恋コンテニュー

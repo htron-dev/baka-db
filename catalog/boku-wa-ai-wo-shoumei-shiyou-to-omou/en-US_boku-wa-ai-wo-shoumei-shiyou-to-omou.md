@@ -1,5 +1,7 @@
 # Boku wa Ai wo Shoumei Shiyou to Omou.
 
+![boku-wa-ai-wo-shoumei-shiyou-to-omou](https://cdn.myanimelist.net/images/manga/3/216688.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

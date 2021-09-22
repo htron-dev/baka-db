@@ -1,5 +1,7 @@
 # Digimon Adventure 02: Diablomon no Gyakushuu
 
+![digimon-adventure-02-diablomon-no-gyakushuu](https://cdn.myanimelist.net/images/anime/2/82620.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー 02 ディアボロモンの逆襲
@@ -12,7 +14,6 @@
 -   adventure
 -   comedy
 -   drama
-
 -   sci-fi
 
 ## Sinopse

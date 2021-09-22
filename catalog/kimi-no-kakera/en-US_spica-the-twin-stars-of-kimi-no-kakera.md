@@ -1,5 +1,7 @@
 # Spica: The twin STARS of "Kimi no Kakera"
 
+![spica-the-twin-stars-of-kimi-no-kakera](https://cdn.myanimelist.net/images/manga/2/131605.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

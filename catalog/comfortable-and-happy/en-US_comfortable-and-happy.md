@@ -1,5 +1,7 @@
 # Comfortable and Happy
 
+![comfortable-and-happy](https://cdn.myanimelist.net/images/manga/3/128355.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 15

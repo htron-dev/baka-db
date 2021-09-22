@@ -1,5 +1,7 @@
 # Watashi wa S ni Sakaraenai
 
+![watashi-wa-s-ni-sakaraenai](https://cdn.myanimelist.net/images/manga/1/226085.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

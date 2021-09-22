@@ -1,5 +1,7 @@
 # Haruyuki Bus
 
+![haruyuki-bus](https://cdn.myanimelist.net/images/manga/3/9376.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

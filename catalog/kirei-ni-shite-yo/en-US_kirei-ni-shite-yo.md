@@ -1,5 +1,7 @@
 # Kirei ni Shite yo
 
+![kirei-ni-shite-yo](https://cdn.myanimelist.net/images/manga/3/221571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

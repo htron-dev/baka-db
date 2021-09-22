@@ -1,5 +1,7 @@
 # Hataraki Man
 
+![hataraki-man](https://cdn.myanimelist.net/images/anime/2/73869.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 働きマン

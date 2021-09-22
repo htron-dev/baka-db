@@ -1,5 +1,7 @@
 # US-2: Kyuunan Hikoutei Kaihatsu Monogatari
 
+![us-2-kyuunan-hikoutei-kaihatsu-monogatari](https://cdn.myanimelist.net/images/manga/1/227316.jpg)
+
 -   **type**: manga
 -   **original-name**: US-2 救難飛行艇開発物語
 -   **start-date**: 2017-02-17

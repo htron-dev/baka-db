@@ -1,5 +1,7 @@
 # Zerozaki Soushiki no Ningen Shiken
 
+![zerozaki-soushiki-no-ningen-shiken](https://cdn.myanimelist.net/images/manga/1/60581.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

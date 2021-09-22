@@ -1,5 +1,7 @@
 # Ore no Ie ni Nazeka Gakuen no Megami-sama ga Iribitatteiru Ken
 
+![ore-no-ie-ni-nazeka-gakuen-no-megami-sama-ga-iribitatteiru-ken](https://cdn.myanimelist.net/images/manga/2/248136.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺の家に何故か学園の女神さまが入り浸っている件
 -   **start-date**: 2019-10-31

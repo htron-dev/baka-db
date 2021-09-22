@@ -1,5 +1,7 @@
 # Arad: Suming Zhi Men
 
+![arad-suming-zhi-men](https://cdn.myanimelist.net/images/anime/1143/94976.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 阿拉德：宿命之門

@@ -1,5 +1,7 @@
 # Sakura Brigade
 
+![sakura-brigade](https://cdn.myanimelist.net/images/manga/3/172110.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

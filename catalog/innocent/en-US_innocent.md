@@ -1,5 +1,7 @@
 # Innocent
 
+![innocent](https://cdn.myanimelist.net/images/manga/5/101467.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 99

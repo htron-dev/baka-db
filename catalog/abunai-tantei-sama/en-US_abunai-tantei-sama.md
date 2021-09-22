@@ -1,5 +1,7 @@
 # Abunai Tantei-sama
 
+![abunai-tantei-sama](https://cdn.myanimelist.net/images/manga/1/208562.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Mirai Kara no Message
 
+![mirai-kara-no-message](https://cdn.myanimelist.net/images/anime/4/74556.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 未来からのメッセージ

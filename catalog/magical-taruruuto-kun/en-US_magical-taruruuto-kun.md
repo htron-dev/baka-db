@@ -1,5 +1,7 @@
 # Magical☆Taruruuto-kun
 
+![magical☆-taruruuto-kun](https://cdn.myanimelist.net/images/manga/1/187159.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **original-name**: まじかる ☆ タルるートくん

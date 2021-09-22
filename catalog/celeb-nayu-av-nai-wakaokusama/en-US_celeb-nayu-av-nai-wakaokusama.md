@@ -1,5 +1,7 @@
 # Celeb Nayu: AV nai Wakaokusama
 
+![celeb-nayu-av-nai-wakaokusama](https://cdn.myanimelist.net/images/manga/3/38536.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: セレブ那由 AV ない若奥さま

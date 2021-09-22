@@ -1,5 +1,7 @@
 # Mononoke Mystery
 
+![mononoke-mystery](https://cdn.myanimelist.net/images/manga/3/177639.jpg)
+
 -   **type**: manga
 -   **original-name**: モノノケミステリヰ
 -   **start-date**: 2014-07-25

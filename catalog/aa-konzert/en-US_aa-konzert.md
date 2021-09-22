@@ -1,5 +1,7 @@
 # AA Konzert
 
+![aa-konzert](https://cdn.myanimelist.net/images/manga/1/131355.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: AA コンツェルト

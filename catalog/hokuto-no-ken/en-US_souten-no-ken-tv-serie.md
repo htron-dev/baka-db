@@ -1,5 +1,7 @@
 # Souten no Ken
 
+![souten-no-ken](https://cdn.myanimelist.net/images/anime/12/17056.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 蒼天の拳

@@ -1,5 +1,7 @@
 # Waru Puru Kiss!
 
+![waru-puru-kiss](https://cdn.myanimelist.net/images/manga/2/163248.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

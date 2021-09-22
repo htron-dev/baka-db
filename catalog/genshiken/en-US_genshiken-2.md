@@ -1,5 +1,7 @@
 # Genshiken 2
 
+![genshiken-2](https://cdn.myanimelist.net/images/anime/1958/94708.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: げんしけん 2

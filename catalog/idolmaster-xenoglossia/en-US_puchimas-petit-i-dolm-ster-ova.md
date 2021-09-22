@@ -1,5 +1,7 @@
 # Puchimas!: Petit iDOLM@STER (OVA)
 
+![puchimas-petit-i-dolm-ster-ova](https://cdn.myanimelist.net/images/anime/1023/98348.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ぷちます! -PETIT IDOLM@STER-

@@ -1,5 +1,7 @@
 # Mimi no Kaidan
 
+![mimi-no-kaidan](https://cdn.myanimelist.net/images/manga/4/25805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

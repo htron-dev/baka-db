@@ -1,5 +1,7 @@
 # Musaigen no Phantom World
 
+![musaigen-no-phantom-world](https://cdn.myanimelist.net/images/manga/2/109885.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 無彩限のファントム・ワールド

@@ -1,5 +1,7 @@
 # Koushaku-sama no Dekiai Honeymoon
 
+![koushaku-sama-no-dekiai-honeymoon](https://cdn.myanimelist.net/images/manga/2/192818.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

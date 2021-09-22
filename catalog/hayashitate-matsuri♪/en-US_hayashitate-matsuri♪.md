@@ -1,5 +1,7 @@
 # Hayashitate Matsuri♪
 
+![hayashitate-matsuri♪](https://cdn.myanimelist.net/images/manga/3/203067.jpg)
+
 -   **type**: manga
 -   **original-name**: はやしたてまつり ♪
 -   **start-date**: 2016-03-28

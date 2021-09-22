@@ -1,5 +1,7 @@
 # Kyouryuu no Jikan
 
+![kyouryuu-no-jikan](https://cdn.myanimelist.net/images/manga/1/246388.jpg)
+
 -   **type**: manga
 -   **original-name**: 恐竜の時間
 -   **start-date**: 2006-05-10

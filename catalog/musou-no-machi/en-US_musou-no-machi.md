@@ -1,5 +1,7 @@
 # Musou no Machi
 
+![musou-no-machi](https://cdn.myanimelist.net/images/manga/1/244187.jpg)
+
 -   **type**: manga
 -   **original-name**: 夢想のまち
 -   **start-date**: 2020-04-26

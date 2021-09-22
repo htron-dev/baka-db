@@ -1,5 +1,7 @@
 # Koijuu
 
+![koijuu](https://cdn.myanimelist.net/images/manga/1/141551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

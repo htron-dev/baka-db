@@ -1,5 +1,7 @@
 # Boku wa Ookami.
 
+![boku-wa-ookami](https://cdn.myanimelist.net/images/manga/2/189820.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

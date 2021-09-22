@@ -1,5 +1,7 @@
 # Zebraman
 
+![zebraman](https://cdn.myanimelist.net/images/manga/3/191079.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 53

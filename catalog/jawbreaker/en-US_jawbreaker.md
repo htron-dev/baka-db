@@ -1,5 +1,7 @@
 # Jawbreaker
 
+![jawbreaker](https://cdn.myanimelist.net/images/manga/2/220429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

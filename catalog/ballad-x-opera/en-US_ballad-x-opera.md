@@ -1,5 +1,7 @@
 # Ballad x Opera
 
+![ballad-x-opera](https://cdn.myanimelist.net/images/manga/1/203525.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Goblin Slayer: Brand New Day
 
+![goblin-slayer-brand-new-day](https://cdn.myanimelist.net/images/manga/1/215402.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

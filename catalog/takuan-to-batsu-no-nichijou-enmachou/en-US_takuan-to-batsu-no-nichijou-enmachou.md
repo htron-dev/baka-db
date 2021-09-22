@@ -1,5 +1,7 @@
 # Takuan to Batsu no Nichijou Enmachou
 
+![takuan-to-batsu-no-nichijou-enmachou](https://cdn.myanimelist.net/images/manga/3/184420.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

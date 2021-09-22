@@ -1,5 +1,7 @@
 # Reboot
 
+![reboot](https://cdn.myanimelist.net/images/manga/1/227878.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

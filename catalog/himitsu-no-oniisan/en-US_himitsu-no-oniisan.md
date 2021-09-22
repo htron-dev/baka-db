@@ -1,5 +1,7 @@
 # Himitsu no Oniisan
 
+![himitsu-no-oniisan](https://cdn.myanimelist.net/images/manga/2/26823.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

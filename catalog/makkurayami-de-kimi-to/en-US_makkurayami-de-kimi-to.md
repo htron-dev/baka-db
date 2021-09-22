@@ -1,5 +1,7 @@
 # Makkurayami de Kimi to,
 
+![makkurayami-de-kimi-to](https://cdn.myanimelist.net/images/manga/2/179445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

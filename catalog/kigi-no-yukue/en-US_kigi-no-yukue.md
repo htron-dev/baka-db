@@ -1,5 +1,7 @@
 # Kigi no Yukue
 
+![kigi-no-yukue](https://cdn.myanimelist.net/images/manga/2/11940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Nae ga Yuru
 
+![nae-ga-yuru](https://cdn.myanimelist.net/images/manga/3/149291.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

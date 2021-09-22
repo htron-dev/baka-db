@@ -1,5 +1,7 @@
 # Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab
 
+![detective-conan-magic-file-2-kudou-shinichi-the-case-of-the-mysterious-wall-and-the-black-lab](https://cdn.myanimelist.net/images/anime/6/10891.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン Magic File 2 ～工藤新一 謎の壁と黒ラブ事件～

@@ -1,5 +1,7 @@
 # Unbalance x3
 
+![unbalance-x-3](https://cdn.myanimelist.net/images/manga/2/179122.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 언밸런스×3
 -   **start-date**: 2015-09-01

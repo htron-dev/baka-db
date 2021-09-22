@@ -1,5 +1,7 @@
 # Ahoppoi Nekomimi Joshikousei
 
+![ahoppoi-nekomimi-joshikousei](https://cdn.myanimelist.net/images/manga/3/146849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アホっぽいネコ耳女子高生

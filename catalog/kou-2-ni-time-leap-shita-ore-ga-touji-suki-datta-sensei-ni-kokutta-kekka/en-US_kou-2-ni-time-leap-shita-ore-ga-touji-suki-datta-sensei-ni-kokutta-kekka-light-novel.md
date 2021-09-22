@@ -1,5 +1,7 @@
 # Kou-2 ni Time Leap Shita Ore ga, Touji Suki datta Sensei ni Kokutta Kekka
 
+![kou-2-ni-time-leap-shita-ore-ga-touji-suki-datta-sensei-ni-kokutta-kekka](https://cdn.myanimelist.net/images/manga/3/241039.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 172

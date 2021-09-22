@@ -1,5 +1,7 @@
 # Box: Hako no Naka ni Nanika Iru
 
+![box-hako-no-naka-ni-nanika-iru](https://cdn.myanimelist.net/images/manga/1/205430.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Overlord
 
+![overlord](https://cdn.myanimelist.net/images/manga/3/161407.jpg)
+
 -   **type**: manga
 -   **original-name**: オーバーロード
 -   **start-date**: 2014-11-26

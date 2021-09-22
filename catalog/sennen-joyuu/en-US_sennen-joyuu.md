@@ -1,5 +1,7 @@
 # Sennen Joyuu
 
+![sennen-joyuu](https://cdn.myanimelist.net/images/anime/1648/93626.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 千年女優

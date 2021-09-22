@@ -1,5 +1,7 @@
 # Onbu Obake
 
+![onbu-obake](https://cdn.myanimelist.net/images/anime/11/28415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おんぶおばけ

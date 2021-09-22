@@ -1,5 +1,7 @@
 # Ore ga Heroine wo Tasukesugite Sekai ga Little Apocalypse!?
 
+![ore-ga-heroine-wo-tasukesugite-sekai-ga-little-apocalypse](https://cdn.myanimelist.net/images/manga/1/188876.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

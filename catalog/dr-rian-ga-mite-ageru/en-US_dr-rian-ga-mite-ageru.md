@@ -1,5 +1,7 @@
 # Dr. Rian ga Mite Ageru
 
+![dr-rian-ga-mite-ageru](https://cdn.myanimelist.net/images/manga/1/24819.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

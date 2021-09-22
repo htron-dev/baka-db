@@ -1,5 +1,7 @@
 # Beauty♥Bunny
 
+![beauty♥-bunny](https://cdn.myanimelist.net/images/manga/3/143063.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

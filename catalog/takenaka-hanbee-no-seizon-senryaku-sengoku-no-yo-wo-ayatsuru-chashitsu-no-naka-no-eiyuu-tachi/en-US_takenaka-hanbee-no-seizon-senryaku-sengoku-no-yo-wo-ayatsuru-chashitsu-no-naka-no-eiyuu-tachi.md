@@ -1,5 +1,7 @@
 # Takenaka Hanbee no Seizon Senryaku: Sengoku no Yo wo Ayatsuru "Chashitsu" no Naka no Eiyuu-tachi
 
+![takenaka-hanbee-no-seizon-senryaku-sengoku-no-yo-wo-ayatsuru-chashitsu-no-naka-no-eiyuu-tachi](https://cdn.myanimelist.net/images/manga/3/192515.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 竹中半兵衛の生存戦略 戦国の世を操る「茶室」の中の英雄たち
 -   **start-date**: 2017-03-23

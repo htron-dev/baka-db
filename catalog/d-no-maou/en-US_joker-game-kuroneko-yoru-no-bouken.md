@@ -1,5 +1,7 @@
 # Joker Game: Kuroneko Yoru no Bouken
 
+![joker-game-kuroneko-yoru-no-bouken](https://cdn.myanimelist.net/images/anime/3/82009.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ジョーカー・ゲーム 「黒猫ヨルの冒険」

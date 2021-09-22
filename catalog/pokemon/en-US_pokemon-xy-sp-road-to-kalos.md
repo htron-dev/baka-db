@@ -1,5 +1,7 @@
 # Pokemon XY SP: Road to Kalos
 
+![pokemon-xy-sp-road-to-kalos](https://cdn.myanimelist.net/images/anime/6/57125.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 「ポケットモンスター ＸＹ」放送直前ＳＰ　～ロード to カロス～

@@ -1,5 +1,7 @@
 # Yatsu no Megane wa Date ja Nai
 
+![yatsu-no-megane-wa-date-ja-nai](https://cdn.myanimelist.net/images/manga/1/152921.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kiss in Darkness
 
+![kiss-in-darkness](https://cdn.myanimelist.net/images/manga/3/14038.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

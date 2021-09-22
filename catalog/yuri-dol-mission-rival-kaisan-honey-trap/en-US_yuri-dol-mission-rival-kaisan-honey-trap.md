@@ -1,5 +1,7 @@
 # Yuri-dol Mission! Rival Kaisan Honey Trap
 
+![yuri-dol-mission-rival-kaisan-honey-trap](https://cdn.myanimelist.net/images/manga/2/177539.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

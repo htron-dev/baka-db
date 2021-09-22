@@ -1,5 +1,7 @@
 # Nissan Serena x One Piece 3D: Mugiwara Chase - Sennyuu!! Sauzando Sanii-gou
 
+![nissan-serena-x-one-piece-3-d-mugiwara-chase-sennyuu-sauzando-sanii-gou](https://cdn.myanimelist.net/images/anime/2/55695.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 日産 SERENA× ワンピース 潜入サウザンド・サニー号

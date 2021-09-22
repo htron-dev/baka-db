@@ -1,5 +1,7 @@
 # Kurogane no Chronica
 
+![kurogane-no-chronica](https://cdn.myanimelist.net/images/manga/1/185829.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 黒剣のクロニカ

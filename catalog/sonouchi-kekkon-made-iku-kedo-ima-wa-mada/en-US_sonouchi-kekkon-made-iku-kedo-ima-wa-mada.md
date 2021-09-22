@@ -1,5 +1,7 @@
 # Sonouchi Kekkon made Iku kedo Ima wa Mada
 
+![sonouchi-kekkon-made-iku-kedo-ima-wa-mada](https://cdn.myanimelist.net/images/manga/1/243389.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 46

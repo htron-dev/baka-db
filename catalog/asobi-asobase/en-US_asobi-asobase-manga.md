@@ -1,5 +1,7 @@
 # Asobi Asobase
 
+![asobi-asobase](https://cdn.myanimelist.net/images/manga/1/180830.jpg)
+
 -   **type**: manga
 -   **original-name**: あそびあそばせ
 -   **start-date**: 2015-06-26

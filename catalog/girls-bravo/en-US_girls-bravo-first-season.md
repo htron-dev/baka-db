@@ -1,5 +1,7 @@
 # Girls Bravo: First Season
 
+![girls-bravo-first-season](https://cdn.myanimelist.net/images/anime/1/241.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: GIRLS ブラボー first season

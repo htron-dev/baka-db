@@ -1,5 +1,7 @@
 # Famima!
 
+![famima](https://cdn.myanimelist.net/images/manga/2/203973.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 64

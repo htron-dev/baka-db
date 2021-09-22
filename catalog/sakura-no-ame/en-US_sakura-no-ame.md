@@ -1,5 +1,7 @@
 # Sakura no Ame
 
+![sakura-no-ame](https://cdn.myanimelist.net/images/manga/1/117013.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 桜ノ雨
 -   **start-date**: 2012-02-21

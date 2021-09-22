@@ -1,5 +1,7 @@
 # Tennin Karakusa
 
+![tennin-karakusa](https://cdn.myanimelist.net/images/manga/2/18098.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天人唐草

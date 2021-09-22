@@ -1,5 +1,7 @@
 # Rockman.EXE Stream
 
+![rockman-exe-stream](https://cdn.myanimelist.net/images/anime/5/41575.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ロックマンエクゼ Stream

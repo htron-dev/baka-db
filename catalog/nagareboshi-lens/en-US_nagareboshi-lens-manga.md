@@ -1,5 +1,7 @@
 # Nagareboshi Lens
 
+![nagareboshi-lens](https://cdn.myanimelist.net/images/manga/1/147859.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 56

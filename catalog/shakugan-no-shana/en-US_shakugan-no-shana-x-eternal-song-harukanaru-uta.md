@@ -1,5 +1,7 @@
 # Shakugan no Shana X: Eternal Song - Harukanaru Uta
 
+![shakugan-no-shana-x-eternal-song-harukanaru-uta](https://cdn.myanimelist.net/images/manga/3/133567.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

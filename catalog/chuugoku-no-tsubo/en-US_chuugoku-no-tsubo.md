@@ -1,5 +1,7 @@
 # Chuugoku no Tsubo
 
+![chuugoku-no-tsubo](https://cdn.myanimelist.net/images/manga/2/176320.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 中国の壺

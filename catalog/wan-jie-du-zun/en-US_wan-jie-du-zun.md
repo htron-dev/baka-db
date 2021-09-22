@@ -1,5 +1,7 @@
 # Wan Jie Du Zun
 
+![wan-jie-du-zun](https://cdn.myanimelist.net/images/anime/1571/114240.jpg)
+
 -   **type**: ona
 -   **episodes**: 50
 -   **original-name**: 万界独尊

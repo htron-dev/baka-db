@@ -1,5 +1,7 @@
 # Mismarca Koukoku Monogatari
 
+![mismarca-koukoku-monogatari](https://cdn.myanimelist.net/images/manga/1/153712.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

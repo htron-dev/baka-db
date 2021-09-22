@@ -1,5 +1,7 @@
 # Kenji
 
+![kenji](https://cdn.myanimelist.net/images/manga/3/193668.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 202

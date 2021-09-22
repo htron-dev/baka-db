@@ -1,5 +1,7 @@
 # Hana wo Tadoreba Kimi no Yubisaki
 
+![hana-wo-tadoreba-kimi-no-yubisaki](https://cdn.myanimelist.net/images/manga/2/232526.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Terror Kyouju no Ayashii Jugyou
 
+![terror-kyouju-no-ayashii-jugyou](https://cdn.myanimelist.net/images/manga/1/224455.jpg)
+
 -   **type**: manga
 -   **original-name**: テロール教授の怪しい授業
 -   **start-date**: 2018-10-18

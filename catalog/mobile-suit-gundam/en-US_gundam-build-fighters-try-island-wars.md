@@ -1,5 +1,7 @@
 # Gundam Build Fighters Try: Island Wars
 
+![gundam-build-fighters-try-island-wars](https://cdn.myanimelist.net/images/anime/13/80901.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ガンダムビルドファイターズトライ アイランド・ウォーズ

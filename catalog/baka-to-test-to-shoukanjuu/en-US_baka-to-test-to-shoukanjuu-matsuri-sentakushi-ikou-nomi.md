@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu: Matsuri - Sentakushi Ikou nomi
 
+![baka-to-test-to-shoukanjuu-matsuri-sentakushi-ikou-nomi](https://cdn.myanimelist.net/images/anime/11/75276.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: バカとテストと召喚獣 ～祭～ 選択肢以降のみ

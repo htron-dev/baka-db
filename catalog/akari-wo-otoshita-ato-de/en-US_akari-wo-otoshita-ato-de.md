@@ -1,5 +1,7 @@
 # Akari wo Otoshita Ato de
 
+![akari-wo-otoshita-ato-de](https://cdn.myanimelist.net/images/manga/2/62703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

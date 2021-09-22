@@ -1,5 +1,7 @@
 # Fukurousou Aki Arimasu
 
+![fukurousou-aki-arimasu](https://cdn.myanimelist.net/images/manga/1/156969.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ふくろう荘 空きあります

@@ -1,5 +1,7 @@
 # Sawai-ke no Gohan wa Musuko no Hikari ga Tsuketteiru.
 
+![sawai-ke-no-gohan-wa-musuko-no-hikari-ga-tsuketteiru](https://cdn.myanimelist.net/images/manga/2/164345.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

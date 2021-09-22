@@ -1,5 +1,7 @@
 # Shounin Yuusha wa Isekai wo Gyuujiru!: Saibai Skill de Nandemo Fuyashichaimasu
 
+![shounin-yuusha-wa-isekai-wo-gyuujiru-saibai-skill-de-nandemo-fuyashichaimasu](https://cdn.myanimelist.net/images/manga/1/234642.jpg)
+
 -   **type**: manga
 -   **original-name**: 商人勇者は異世界を牛耳る! ~栽培スキルでなんでも増やしちゃいます~
 -   **start-date**: 2019-05-25

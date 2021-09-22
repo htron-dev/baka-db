@@ -1,5 +1,7 @@
 # Saint Seiya Episode G: Assassin
 
+![saint-seiya-episode-g-assassin](https://cdn.myanimelist.net/images/manga/3/187408.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 123

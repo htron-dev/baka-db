@@ -1,5 +1,7 @@
 # Hakuba no Oyomesan
 
+![hakuba-no-oyomesan](https://cdn.myanimelist.net/images/manga/3/165085.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

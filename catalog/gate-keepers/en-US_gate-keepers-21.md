@@ -1,5 +1,7 @@
 # Gate Keepers 21
 
+![gate-keepers-21](https://cdn.myanimelist.net/images/anime/6/75569.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ゲートキーパーズ 21

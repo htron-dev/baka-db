@@ -1,5 +1,7 @@
 # God Animal
 
+![god-animal](https://cdn.myanimelist.net/images/manga/2/174719.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

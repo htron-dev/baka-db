@@ -1,5 +1,7 @@
 # Hataraku Saibou Black
 
+![hataraku-saibou-black](https://cdn.myanimelist.net/images/anime/1914/106749.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: はたらく細胞 BLACK

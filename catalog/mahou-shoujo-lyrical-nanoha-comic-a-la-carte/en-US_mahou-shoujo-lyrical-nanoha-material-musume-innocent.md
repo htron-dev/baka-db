@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: Material Musume. - Innocent
 
+![mahou-shoujo-lyrical-nanoha-material-musume-innocent](https://cdn.myanimelist.net/images/manga/3/147261.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法少女リリカルなのは マテリアル娘。 -INNOCENT-
 -   **start-date**: 2013-04-26

@@ -1,5 +1,7 @@
 # Isekai de Slow Life wo (Ganbou)
 
+![isekai-de-slow-life-wo-ganbou](https://cdn.myanimelist.net/images/manga/2/226071.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界でスローライフを（願望）
 -   **start-date**: 2018-03-25

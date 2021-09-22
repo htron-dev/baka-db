@@ -1,5 +1,7 @@
 # Toraware no Mi
 
+![toraware-no-mi](https://cdn.myanimelist.net/images/manga/2/2257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

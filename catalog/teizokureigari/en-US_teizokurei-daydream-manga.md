@@ -1,5 +1,7 @@
 # Teizokurei Daydream
 
+![teizokurei-daydream](https://cdn.myanimelist.net/images/manga/3/179645.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Shooting Star Astromance
 
+![shooting-star-astromance](https://cdn.myanimelist.net/images/manga/2/6346.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

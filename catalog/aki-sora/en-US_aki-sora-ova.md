@@ -1,5 +1,7 @@
 # Aki-Sora
 
+![aki-sora](https://cdn.myanimelist.net/images/anime/10/64715.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あきそら

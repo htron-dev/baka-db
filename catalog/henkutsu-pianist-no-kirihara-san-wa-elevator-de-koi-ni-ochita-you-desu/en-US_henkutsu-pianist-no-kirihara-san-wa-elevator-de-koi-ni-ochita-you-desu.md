@@ -1,5 +1,7 @@
 # Henkutsu Pianist no Kirihara-san wa, Elevator de Koi ni Ochita you desu
 
+![henkutsu-pianist-no-kirihara-san-wa-elevator-de-koi-ni-ochita-you-desu](https://cdn.myanimelist.net/images/manga/3/192874.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

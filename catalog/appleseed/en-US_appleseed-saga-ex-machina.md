@@ -1,5 +1,7 @@
 # Appleseed Saga Ex Machina
 
+![appleseed-saga-ex-machina](https://cdn.myanimelist.net/images/anime/10/23677.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: エクスマキナ

@@ -1,5 +1,7 @@
 # Koi wa Ranhanshasuru - 0 or 0 Koi ga Hajimaru
 
+![koi-wa-ranhanshasuru-0-or-0-koi-ga-hajimaru](https://cdn.myanimelist.net/images/manga/1/60497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

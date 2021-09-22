@@ -1,5 +1,7 @@
 # Call My Name
 
+![call-my-name](https://cdn.myanimelist.net/images/manga/1/10026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マーガレットコミックス

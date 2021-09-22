@@ -1,5 +1,7 @@
 # Arianrhod Saga Replay Death March
 
+![arianrhod-saga-replay-death-march](https://cdn.myanimelist.net/images/manga/2/157080.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 58

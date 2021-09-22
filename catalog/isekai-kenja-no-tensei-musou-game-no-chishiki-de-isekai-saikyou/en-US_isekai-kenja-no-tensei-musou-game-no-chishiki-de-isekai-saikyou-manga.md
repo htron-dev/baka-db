@@ -1,5 +1,7 @@
 # Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou
 
+![isekai-kenja-no-tensei-musou-game-no-chishiki-de-isekai-saikyou](https://cdn.myanimelist.net/images/manga/1/236066.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界賢者の転生無双 ～ゲームの知識で異世界最強～
 -   **start-date**: 2019-10-26

@@ -1,5 +1,7 @@
 # Kaiketsu Jouki Tanteidan
 
+![kaiketsu-jouki-tanteidan](https://cdn.myanimelist.net/images/anime/5/20557.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 快傑蒸気探偵団

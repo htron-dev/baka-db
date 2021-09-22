@@ -1,5 +1,7 @@
 # Zombie Bat
 
+![zombie-bat](https://cdn.myanimelist.net/images/manga/3/211722.jpg)
+
 -   **type**: manga
 -   **original-name**: ゾンビバット
 -   **start-date**: 2018-02-07

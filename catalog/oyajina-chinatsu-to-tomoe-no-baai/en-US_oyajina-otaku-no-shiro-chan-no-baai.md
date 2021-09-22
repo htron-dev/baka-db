@@ -1,5 +1,7 @@
 # Oyajina! ~Otaku no Shiro-chan no Baai~
 
+![oyajina-otaku-no-shiro-chan-no-baai](https://cdn.myanimelist.net/images/manga/1/64689.jpg)
+
 -   **type**: manga
 -   **original-name**: おやじな！~おたくの白ちゃんの場合~
 -   **start-date**: 2012-02-24

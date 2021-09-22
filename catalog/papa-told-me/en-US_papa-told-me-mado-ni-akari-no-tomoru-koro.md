@@ -1,5 +1,7 @@
 # Papa Told Me: Mado ni Akari no Tomoru Koro
 
+![papa-told-me-mado-ni-akari-no-tomoru-koro](https://cdn.myanimelist.net/images/manga/2/126207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Papa told me ～窓に灯りのともる頃～

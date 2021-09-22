@@ -1,5 +1,7 @@
 # Saki Zenkoku-hen
 
+![saki-zenkoku-hen](https://cdn.myanimelist.net/images/anime/12/57979.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 咲-Saki-全国編
@@ -27,4 +29,4 @@ Saki Miyanaga, along with the rest of Kiyosumi High School's mahjong team, proce
 -   [Official Site](http://www.saki-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9490)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14874)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Saki_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Saki_%28manga%29)

@@ -1,5 +1,7 @@
 # Saikaishoku kara Saikyou made Nariagaru: Jimichi na Doryoku wa Cheat deshita
 
+![saikaishoku-kara-saikyou-made-nariagaru-jimichi-na-doryoku-wa-cheat-deshita](https://cdn.myanimelist.net/images/manga/3/196024.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 最下位職から最強まで成り上がる～地道な努力はチートでした～
 -   **start-date**: 2017-05-18

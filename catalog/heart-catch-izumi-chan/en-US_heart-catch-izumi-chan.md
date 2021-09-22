@@ -1,5 +1,7 @@
 # Heart Catch Izumi-Chan
 
+![heart-catch-izumi-chan](https://cdn.myanimelist.net/images/manga/3/35271.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 55

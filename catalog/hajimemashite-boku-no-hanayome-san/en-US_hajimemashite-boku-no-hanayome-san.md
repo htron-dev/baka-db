@@ -1,5 +1,7 @@
 # Hajimemashite, Boku no Hanayome-san
 
+![hajimemashite-boku-no-hanayome-san](https://cdn.myanimelist.net/images/manga/2/201324.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

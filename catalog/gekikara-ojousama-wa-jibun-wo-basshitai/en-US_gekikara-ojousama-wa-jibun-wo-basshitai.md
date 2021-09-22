@@ -1,5 +1,7 @@
 # Gekikara Ojousama wa Jibun wo Basshitai
 
+![gekikara-ojousama-wa-jibun-wo-basshitai](https://cdn.myanimelist.net/images/manga/3/224354.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

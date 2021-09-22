@@ -1,5 +1,7 @@
 # Rilakkuma to Yuuenchi
 
+![rilakkuma-to-yuuenchi](https://cdn.myanimelist.net/images/anime/1309/109961.jpg)
+
 -   **type**: ona
 -   **original-name**: リラックマと遊園地
 -   **rating**: PG - Children

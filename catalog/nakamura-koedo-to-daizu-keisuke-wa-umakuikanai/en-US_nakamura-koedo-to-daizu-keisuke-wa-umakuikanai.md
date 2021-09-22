@@ -1,5 +1,7 @@
 # Nakamura Koedo to Daizu Keisuke wa Umakuikanai
 
+![nakamura-koedo-to-daizu-keisuke-wa-umakuikanai](https://cdn.myanimelist.net/images/manga/2/144001.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

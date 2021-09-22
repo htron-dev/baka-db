@@ -1,5 +1,7 @@
 # Chika Idol ga Dungeon de Break Shimashita
 
+![chika-idol-ga-dungeon-de-break-shimashita](https://cdn.myanimelist.net/images/manga/2/173833.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

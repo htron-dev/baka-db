@@ -1,5 +1,7 @@
 # Tobidashicha dame!
 
+![tobidashicha-dame](https://cdn.myanimelist.net/images/anime/11/66279.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とびだしちゃダメ！

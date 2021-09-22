@@ -1,5 +1,7 @@
 # Koro-sensei Q!
 
+![koro-sensei-q](https://cdn.myanimelist.net/images/manga/1/186156.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

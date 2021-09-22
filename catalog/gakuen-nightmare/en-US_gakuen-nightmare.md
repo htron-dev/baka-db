@@ -1,5 +1,7 @@
 # Gakuen Nightmare
 
+![gakuen-nightmare](https://cdn.myanimelist.net/images/manga/1/38145.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

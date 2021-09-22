@@ -1,5 +1,7 @@
 # Hyper Ultra Girlish
 
+![hyper-ultra-girlish](https://cdn.myanimelist.net/images/manga/1/206416.jpg)
+
 -   **type**: manga
 -   **original-name**: ハイパーウルトラガーリッシュ
 -   **start-date**: 2016-06-27

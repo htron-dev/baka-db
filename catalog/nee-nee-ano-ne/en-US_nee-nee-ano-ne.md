@@ -1,5 +1,7 @@
 # Nee Nee. Ano ne,
 
+![nee-nee-ano-ne](https://cdn.myanimelist.net/images/manga/1/200353.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

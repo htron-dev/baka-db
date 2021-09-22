@@ -1,5 +1,7 @@
 # Suimitsutou no Yoru
 
+![suimitsutou-no-yoru](https://cdn.myanimelist.net/images/manga/2/153455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

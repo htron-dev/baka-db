@@ -1,5 +1,7 @@
 # Afro Samurai: Resurrection
 
+![afro-samurai-resurrection](https://cdn.myanimelist.net/images/anime/6/77929.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アフロサムライ Resurrection

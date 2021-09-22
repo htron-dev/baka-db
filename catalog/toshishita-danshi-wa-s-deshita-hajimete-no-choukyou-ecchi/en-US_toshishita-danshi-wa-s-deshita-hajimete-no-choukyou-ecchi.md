@@ -1,5 +1,7 @@
 # Toshishita Danshi wa S deshita: Hajimete no Choukyou Ecchi
 
+![toshishita-danshi-wa-s-deshita-hajimete-no-choukyou-ecchi](https://cdn.myanimelist.net/images/manga/1/195527.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

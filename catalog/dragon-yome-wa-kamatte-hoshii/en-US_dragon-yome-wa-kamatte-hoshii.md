@@ -1,5 +1,7 @@
 # Dragon Yome wa Kamatte Hoshii
 
+![dragon-yome-wa-kamatte-hoshii](https://cdn.myanimelist.net/images/manga/3/184617.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ドラゴン嫁はかまってほしい
 -   **start-date**: 2016-10-20

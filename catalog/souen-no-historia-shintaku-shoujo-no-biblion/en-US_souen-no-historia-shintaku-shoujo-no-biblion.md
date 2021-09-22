@@ -1,5 +1,7 @@
 # Souen no Historia: Shintaku Shoujo no Biblion
 
+![souen-no-historia-shintaku-shoujo-no-biblion](https://cdn.myanimelist.net/images/manga/2/159010.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 創炎のヒストリア 神託少女の創世録〈ビブリオン〉
 -   **start-date**: 2015-04-24

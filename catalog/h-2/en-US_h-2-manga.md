@@ -1,5 +1,7 @@
 # H2
 
+![h-2](https://cdn.myanimelist.net/images/manga/2/15421.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **chapters**: 338

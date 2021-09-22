@@ -1,5 +1,7 @@
 # Honto Yajuu x Suki tte?
 
+![honto-yajuu-x-suki-tte](https://cdn.myanimelist.net/images/manga/1/124127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

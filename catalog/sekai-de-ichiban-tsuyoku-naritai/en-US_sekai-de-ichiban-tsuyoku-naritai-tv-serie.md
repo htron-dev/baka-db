@@ -1,5 +1,7 @@
 # Sekai de Ichiban Tsuyoku Naritai!
 
+![sekai-de-ichiban-tsuyoku-naritai](https://cdn.myanimelist.net/images/anime/11/52633.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 世界でいちばん強くなりたい!

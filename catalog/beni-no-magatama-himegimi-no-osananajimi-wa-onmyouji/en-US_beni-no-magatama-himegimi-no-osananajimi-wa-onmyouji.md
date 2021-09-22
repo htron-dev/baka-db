@@ -1,5 +1,7 @@
 # Beni no Magatama: Himegimi no Osananajimi wa Onmyouji
 
+![beni-no-magatama-himegimi-no-osananajimi-wa-onmyouji](https://cdn.myanimelist.net/images/manga/1/182555.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

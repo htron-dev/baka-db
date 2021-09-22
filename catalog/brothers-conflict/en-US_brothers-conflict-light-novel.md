@@ -1,5 +1,7 @@
 # Brothers Conflict
 
+![brothers-conflict](https://cdn.myanimelist.net/images/manga/2/39289.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 38

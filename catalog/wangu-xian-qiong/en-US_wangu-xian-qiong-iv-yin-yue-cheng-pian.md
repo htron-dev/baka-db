@@ -1,5 +1,7 @@
 # Wangu Xian Qiong IV: Yin Yue Cheng Pian
 
+![wangu-xian-qiong-iv-yin-yue-cheng-pian](https://cdn.myanimelist.net/images/anime/1374/107900.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 万古仙穹 Ⅳ 银月城篇

@@ -1,5 +1,7 @@
 # Eroica yori Ai wo Komete
 
+![eroica-yori-ai-wo-komete](https://cdn.myanimelist.net/images/manga/1/45499.jpg)
+
 -   **type**: manga
 -   **original-name**: エロイカより愛をこめて
 -   **start-date**: 1976-12-19

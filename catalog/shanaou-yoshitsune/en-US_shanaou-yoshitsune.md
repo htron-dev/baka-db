@@ -1,5 +1,7 @@
 # Shanaou Yoshitsune
 
+![shanaou-yoshitsune](https://cdn.myanimelist.net/images/manga/2/4661.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 78

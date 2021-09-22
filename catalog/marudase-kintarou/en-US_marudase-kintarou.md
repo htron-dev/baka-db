@@ -1,5 +1,7 @@
 # Marudase Kintarou
 
+![marudase-kintarou](https://cdn.myanimelist.net/images/anime/1387/116493.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まるだせ金太狼

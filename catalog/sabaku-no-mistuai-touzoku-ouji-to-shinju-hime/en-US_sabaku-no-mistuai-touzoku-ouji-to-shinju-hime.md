@@ -1,5 +1,7 @@
 # Sabaku no Mistuai: Touzoku Ouji to Shinju-hime
 
+![sabaku-no-mistuai-touzoku-ouji-to-shinju-hime](https://cdn.myanimelist.net/images/manga/2/192281.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

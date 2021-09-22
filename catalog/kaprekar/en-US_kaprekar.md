@@ -1,5 +1,7 @@
 # Kaprekar
 
+![kaprekar](https://cdn.myanimelist.net/images/manga/1/17707.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: カプレカ

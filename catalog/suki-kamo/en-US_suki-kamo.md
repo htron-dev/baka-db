@@ -1,5 +1,7 @@
 # Suki, Kamo
 
+![suki-kamo](https://cdn.myanimelist.net/images/manga/1/90811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

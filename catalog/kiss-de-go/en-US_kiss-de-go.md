@@ -1,5 +1,7 @@
 # Kiss de Go!
 
+![kiss-de-go](https://cdn.myanimelist.net/images/manga/1/9110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キッスで GO!

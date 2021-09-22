@@ -1,5 +1,7 @@
 # Sajou no Kekkon
 
+![sajou-no-kekkon](https://cdn.myanimelist.net/images/manga/3/39433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

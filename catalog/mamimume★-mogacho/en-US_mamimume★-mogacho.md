@@ -1,5 +1,7 @@
 # Mamimume★Mogacho
 
+![mamimume★-mogacho](https://cdn.myanimelist.net/images/anime/10/32137.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: まみむめ ★ もがちょ

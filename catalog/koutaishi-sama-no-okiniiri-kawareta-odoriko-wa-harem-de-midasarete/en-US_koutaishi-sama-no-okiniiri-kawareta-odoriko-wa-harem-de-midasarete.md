@@ -1,5 +1,7 @@
 # Koutaishi-sama no Okiniiri: Kawareta Odoriko wa Harem de Midasarete
 
+![koutaishi-sama-no-okiniiri-kawareta-odoriko-wa-harem-de-midasarete](https://cdn.myanimelist.net/images/manga/1/184529.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

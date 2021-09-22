@@ -1,5 +1,7 @@
 # Perfect Honeymoon
 
+![perfect-honeymoon](https://cdn.myanimelist.net/images/manga/1/234343.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 26

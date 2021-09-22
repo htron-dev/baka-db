@@ -1,5 +1,7 @@
 # Love x Love Whistle
 
+![love-x-love-whistle](https://cdn.myanimelist.net/images/manga/3/171784.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

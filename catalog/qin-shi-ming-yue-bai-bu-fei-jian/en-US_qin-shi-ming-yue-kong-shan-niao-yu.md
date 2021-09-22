@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Kong Shan Niao Yu
 
+![qin-shi-ming-yue-kong-shan-niao-yu](https://cdn.myanimelist.net/images/anime/12/71868.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 秦时明月 特别篇：空山鸟语

@@ -1,5 +1,7 @@
 # Fujunna Renai
 
+![fujunna-renai](https://cdn.myanimelist.net/images/manga/2/5546.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

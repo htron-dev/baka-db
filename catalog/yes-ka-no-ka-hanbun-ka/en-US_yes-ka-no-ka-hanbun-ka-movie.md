@@ -1,5 +1,7 @@
 # Yes ka No ka Hanbun ka
 
+![yes-ka-no-ka-hanbun-ka](https://cdn.myanimelist.net/images/anime/1359/108850.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: イエスかノーか半分か

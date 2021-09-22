@@ -1,5 +1,7 @@
 # Porno Superstar
 
+![porno-superstar](https://cdn.myanimelist.net/images/manga/3/57955.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

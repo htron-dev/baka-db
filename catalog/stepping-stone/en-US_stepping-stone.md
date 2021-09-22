@@ -1,5 +1,7 @@
 # Stepping Stone
 
+![stepping-stone](https://cdn.myanimelist.net/images/manga/3/5906.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

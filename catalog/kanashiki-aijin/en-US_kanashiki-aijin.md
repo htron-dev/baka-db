@@ -1,5 +1,7 @@
 # Kanashiki Aijin
 
+![kanashiki-aijin](https://cdn.myanimelist.net/images/manga/1/247255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 悲しき愛人

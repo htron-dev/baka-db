@@ -1,5 +1,7 @@
 # Gekisou! Rubenkaiser
 
+![gekisou-rubenkaiser](https://cdn.myanimelist.net/images/anime/8/62437.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 17
 -   **original-name**: 激走! ルーベンカイザー

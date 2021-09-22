@@ -1,5 +1,7 @@
 # Jouzu na Otoko no Otoshikata
 
+![jouzu-na-otoko-no-otoshikata](https://cdn.myanimelist.net/images/manga/2/175235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

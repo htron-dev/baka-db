@@ -1,5 +1,7 @@
 # YAT Anshin! Uchuu Ryokou 2
 
+![yat-anshin-uchuu-ryokou-2](https://cdn.myanimelist.net/images/anime/1/2106.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ＹＡＴ　安心！宇宙旅行 2

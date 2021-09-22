@@ -1,5 +1,7 @@
 # number24
 
+![number-24](https://cdn.myanimelist.net/images/anime/1885/102374.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: number24 ナンバー・トゥーフォー

@@ -1,5 +1,7 @@
 # Tatakae! Chou Robot Seimeitai Transformers Victory Soushuuhen
 
+![tatakae-chou-robot-seimeitai-transformers-victory-soushuuhen](https://cdn.myanimelist.net/images/anime/1570/98680.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 戦え! 超ロボット生命体トランスフォーマー V[ビクトリー] 総集編

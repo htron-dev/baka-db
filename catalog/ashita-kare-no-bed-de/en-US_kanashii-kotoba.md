@@ -1,5 +1,7 @@
 # Kanashii Kotoba
 
+![kanashii-kotoba](https://cdn.myanimelist.net/images/manga/2/82720.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

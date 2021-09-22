@@ -1,5 +1,7 @@
 # I Love You
 
+![i-love-you](https://cdn.myanimelist.net/images/manga/2/14211.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: アイ・ラブ・ユー

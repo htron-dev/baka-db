@@ -1,5 +1,7 @@
 # Yami BL
 
+![yami-bl](https://cdn.myanimelist.net/images/manga/4/130165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

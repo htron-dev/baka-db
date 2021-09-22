@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki 2nd Season Picture Drama
 
+![tenchi-muyou-ryououki-2nd-season-picture-drama](https://cdn.myanimelist.net/images/anime/9/28449.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 天地無用！魎皇鬼

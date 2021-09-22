@@ -1,5 +1,7 @@
 # Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?
 
+![kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka](https://cdn.myanimelist.net/images/manga/3/190134.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 可愛ければ変態でも好きになってくれますか？
 -   **start-date**: 2017-01-25

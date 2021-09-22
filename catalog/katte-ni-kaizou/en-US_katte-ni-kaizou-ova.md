@@ -1,5 +1,7 @@
 # Katte ni Kaizou
 
+![katte-ni-kaizou](https://cdn.myanimelist.net/images/anime/3/28416.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: かってに改蔵

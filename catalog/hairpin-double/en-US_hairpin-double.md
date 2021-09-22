@@ -1,5 +1,7 @@
 # Hairpin Double
 
+![hairpin-double](https://cdn.myanimelist.net/images/anime/1330/114903.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ヘアピンダブル
 -   **rating**: None

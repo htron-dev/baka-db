@@ -1,5 +1,7 @@
 # Kamigurai
 
+![kamigurai](https://cdn.myanimelist.net/images/manga/1/199625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

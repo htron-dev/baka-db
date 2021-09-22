@@ -1,5 +1,7 @@
 # Glory Age
 
+![glory-age](https://cdn.myanimelist.net/images/manga/2/6580.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 

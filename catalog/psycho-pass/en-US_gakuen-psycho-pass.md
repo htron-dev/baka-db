@@ -1,5 +1,7 @@
 # Gakuen Psycho-Pass
 
+![gakuen-psycho-pass](https://cdn.myanimelist.net/images/manga/3/155882.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

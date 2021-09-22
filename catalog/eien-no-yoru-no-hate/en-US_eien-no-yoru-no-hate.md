@@ -1,5 +1,7 @@
 # Eien no Yoru no Hate
 
+![eien-no-yoru-no-hate](https://cdn.myanimelist.net/images/manga/1/226824.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

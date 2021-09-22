@@ -1,5 +1,7 @@
 # Big Sister VS Big Brother
 
+![big-sister-vs-big-brother](https://cdn.myanimelist.net/images/manga/2/40887.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **original-name**: 누님 VS 형님

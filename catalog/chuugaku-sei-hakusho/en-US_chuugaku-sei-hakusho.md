@@ -1,5 +1,7 @@
 # Chuugaku Sei Hakusho
 
+![chuugaku-sei-hakusho](https://cdn.myanimelist.net/images/manga/1/215557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

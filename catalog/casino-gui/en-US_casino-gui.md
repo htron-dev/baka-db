@@ -1,5 +1,7 @@
 # Casino Gui
 
+![casino-gui](https://cdn.myanimelist.net/images/manga/2/246948.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Sengoku Basara Series Official Anthology Comic: Gakuen Basara
 
+![sengoku-basara-series-official-anthology-comic-gakuen-basara](https://cdn.myanimelist.net/images/manga/2/150857.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 戦国 BASARA シリーズ オフィシャルアンソロジーコミック 学園 BASARA

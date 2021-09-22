@@ -1,5 +1,7 @@
 # Cerulean Blue no Sora
 
+![cerulean-blue-no-sora](https://cdn.myanimelist.net/images/manga/3/66959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

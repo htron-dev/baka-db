@@ -1,5 +1,7 @@
 # Choujikuu Yousai Macross: The First
 
+![choujikuu-yousai-macross-the-first](https://cdn.myanimelist.net/images/manga/2/179051.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

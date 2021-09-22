@@ -1,5 +1,7 @@
 # Gomibako kara Shitsurei Itashimasu
 
+![gomibako-kara-shitsurei-itashimasu](https://cdn.myanimelist.net/images/manga/1/163043.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 21

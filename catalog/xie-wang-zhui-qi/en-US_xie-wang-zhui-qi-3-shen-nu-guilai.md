@@ -1,5 +1,7 @@
 # Xie Wang Zhui Qi 3: Shen Nu Guilai
 
+![xie-wang-zhui-qi-3-shen-nu-guilai](https://cdn.myanimelist.net/images/anime/1108/114927.jpg)
+
 -   **type**: ona
 -   **original-name**: 邪王追妻 3: 神女归来
 -   **start-date**: 2021-08-13

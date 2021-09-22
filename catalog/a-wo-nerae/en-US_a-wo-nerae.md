@@ -1,5 +1,7 @@
 # A wo Nerae!
 
+![a-wo-nerae](https://cdn.myanimelist.net/images/manga/3/166541.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

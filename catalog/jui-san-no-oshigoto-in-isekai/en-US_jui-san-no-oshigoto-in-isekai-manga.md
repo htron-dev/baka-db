@@ -1,5 +1,7 @@
 # Jui-san no Oshigoto in Isekai
 
+![jui-san-no-oshigoto-in-isekai](https://cdn.myanimelist.net/images/manga/1/194512.jpg)
+
 -   **type**: manga
 -   **original-name**: 獣医さんのお仕事 in 異世界
 -   **start-date**: 2016-05-10

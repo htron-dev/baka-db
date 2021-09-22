@@ -1,5 +1,7 @@
 # Jidou Hanbaiki Tobe-san
 
+![jidou-hanbaiki-tobe-san](https://cdn.myanimelist.net/images/manga/3/186822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

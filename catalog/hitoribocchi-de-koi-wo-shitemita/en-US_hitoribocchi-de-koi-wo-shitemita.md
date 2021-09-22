@@ -1,5 +1,7 @@
 # Hitoribocchi de Koi wo shitemita
 
+![hitoribocchi-de-koi-wo-shitemita](https://cdn.myanimelist.net/images/manga/2/239452.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

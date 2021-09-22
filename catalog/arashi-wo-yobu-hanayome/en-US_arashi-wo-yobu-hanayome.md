@@ -1,5 +1,7 @@
 # Arashi wo Yobu Hanayome
 
+![arashi-wo-yobu-hanayome](https://cdn.myanimelist.net/images/manga/3/191593.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Tasogare Ryuuseigun
 
+![tasogare-ryuuseigun](https://cdn.myanimelist.net/images/manga/3/166213.jpg)
+
 -   **type**: manga
 -   **original-name**: 黄昏流星群
 -   **start-date**: 1995-11-04

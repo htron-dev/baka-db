@@ -1,5 +1,7 @@
 # White Album 2 Picture Drama
 
+![white-album-2-picture-drama](https://cdn.myanimelist.net/images/anime/5/71047.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ホワイトアルバム２　ピクチャードラマ「祭りの、ほんのちょっと前」

@@ -1,5 +1,7 @@
 # Tonde Hi ni Iru Tekireiki
 
+![tonde-hi-ni-iru-tekireiki](https://cdn.myanimelist.net/images/manga/3/201615.jpg)
+
 -   **type**: manga
 -   **original-name**: 飛んで火に入る適齢期
 -   **start-date**: 2017-05-16

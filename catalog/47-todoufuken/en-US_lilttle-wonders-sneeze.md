@@ -1,5 +1,7 @@
 # Lilttle Wonders: Sneeze
 
+![lilttle-wonders-sneeze](https://cdn.myanimelist.net/images/anime/1376/103876.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: リトルワンダーズ "Sneeze"

@@ -1,5 +1,7 @@
 # Dechau!
 
+![dechau](https://cdn.myanimelist.net/images/manga/1/232475.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

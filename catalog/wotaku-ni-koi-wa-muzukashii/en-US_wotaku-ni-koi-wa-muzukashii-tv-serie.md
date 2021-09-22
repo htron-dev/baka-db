@@ -1,5 +1,7 @@
 # Wotaku ni Koi wa Muzukashii
 
+![wotaku-ni-koi-wa-muzukashii](https://cdn.myanimelist.net/images/anime/1864/93518.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ヲタクに恋は難しい

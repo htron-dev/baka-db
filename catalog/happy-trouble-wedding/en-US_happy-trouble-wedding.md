@@ -1,5 +1,7 @@
 # Happy Trouble Wedding
 
+![happy-trouble-wedding](https://cdn.myanimelist.net/images/manga/2/21156.jpg)
+
 -   **type**: manga
 -   **original-name**: ハッピートラブル・うえでぃんぐ
 

@@ -1,5 +1,7 @@
 # Rojiura Battle Princess
 
+![rojiura-battle-princess](https://cdn.myanimelist.net/images/manga/2/177305.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

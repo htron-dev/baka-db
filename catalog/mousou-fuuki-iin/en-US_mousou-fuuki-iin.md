@@ -1,5 +1,7 @@
 # Mousou Fuuki Iin
 
+![mousou-fuuki-iin](https://cdn.myanimelist.net/images/manga/2/35041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

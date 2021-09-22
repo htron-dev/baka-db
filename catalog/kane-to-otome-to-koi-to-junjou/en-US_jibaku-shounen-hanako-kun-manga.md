@@ -1,5 +1,7 @@
 # Jibaku Shounen Hanako-kun
 
+![jibaku-shounen-hanako-kun](https://cdn.myanimelist.net/images/manga/3/192551.jpg)
+
 -   **type**: manga
 -   **original-name**: 地縛少年 花子くん
 -   **start-date**: 2014-12-18

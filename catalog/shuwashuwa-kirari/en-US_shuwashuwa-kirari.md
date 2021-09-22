@@ -1,5 +1,7 @@
 # Shuwashuwa, Kirari
 
+![shuwashuwa-kirari](https://cdn.myanimelist.net/images/manga/2/231783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

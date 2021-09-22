@@ -1,5 +1,7 @@
 # Free!: Eternal Summer - Kindan no All Hard!
 
+![free-eternal-summer-kindan-no-all-hard](https://cdn.myanimelist.net/images/anime/6/73125.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Free! -Eternal Summer- 禁断のオールハード！

@@ -1,5 +1,7 @@
 # Shoujo Tsubaki
 
+![shoujo-tsubaki](https://cdn.myanimelist.net/images/manga/5/176724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

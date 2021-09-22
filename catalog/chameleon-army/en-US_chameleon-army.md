@@ -1,5 +1,7 @@
 # Chameleon Army
 
+![chameleon-army](https://cdn.myanimelist.net/images/manga/1/156575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

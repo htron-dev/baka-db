@@ -1,5 +1,7 @@
 # Indo e Baka ga Yattekita
 
+![indo-e-baka-ga-yattekita](https://cdn.myanimelist.net/images/manga/1/152691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: インドへ馬鹿がやって来た

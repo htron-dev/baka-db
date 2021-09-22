@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu
 
+![dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu](https://cdn.myanimelist.net/images/anime/1017/90344.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z この世で一番強いヤツ

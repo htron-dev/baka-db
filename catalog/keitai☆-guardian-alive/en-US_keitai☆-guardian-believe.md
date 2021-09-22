@@ -1,5 +1,7 @@
 # Keitai☆Guardian -Believe-
 
+![keitai☆-guardian-believe](https://cdn.myanimelist.net/images/manga/2/81850.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: KEITAI☆ ガーディアン-BELIEVE-

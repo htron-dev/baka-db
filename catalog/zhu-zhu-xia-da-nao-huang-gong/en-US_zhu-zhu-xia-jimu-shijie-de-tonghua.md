@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Jimu Shijie de Tonghua
 
+![zhu-zhu-xia-jimu-shijie-de-tonghua](https://cdn.myanimelist.net/images/anime/1250/93349.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 猪猪侠 积木世界的童话
@@ -10,7 +12,6 @@
 
 -   sci-fi
 -   super-power
-
 -   fantasy
 
 ## Sinopse

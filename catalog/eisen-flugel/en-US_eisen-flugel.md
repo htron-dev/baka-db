@@ -1,5 +1,7 @@
 # Eisen Flügel
 
+![eisen-flugel](https://cdn.myanimelist.net/images/manga/1/201633.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 6

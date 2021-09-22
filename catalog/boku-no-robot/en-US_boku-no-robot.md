@@ -1,5 +1,7 @@
 # Boku no Robot
 
+![boku-no-robot](https://cdn.myanimelist.net/images/manga/1/139593.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

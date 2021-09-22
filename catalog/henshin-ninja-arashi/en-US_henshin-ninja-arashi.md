@@ -1,5 +1,7 @@
 # Henshin Ninja Arashi
 
+![henshin-ninja-arashi](https://cdn.myanimelist.net/images/manga/1/78241.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Taka wo Kukurouka
 
+![taka-wo-kukurouka](https://cdn.myanimelist.net/images/manga/2/15148.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

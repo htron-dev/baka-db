@@ -1,5 +1,7 @@
 # Koi Koi 7 Specials
 
+![koi-koi-7-specials](https://cdn.myanimelist.net/images/anime/3/59829.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: こいこい 7

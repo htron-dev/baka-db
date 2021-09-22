@@ -1,5 +1,7 @@
 # Kono Ken ga Tsuki wo Kiru
 
+![kono-ken-ga-tsuki-wo-kiru](https://cdn.myanimelist.net/images/manga/3/183861.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

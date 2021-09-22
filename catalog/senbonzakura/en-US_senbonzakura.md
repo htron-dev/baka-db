@@ -1,5 +1,7 @@
 # Senbonzakura
 
+![senbonzakura](https://cdn.myanimelist.net/images/manga/2/176855.jpg)
+
 -   **type**: manga
 -   **original-name**: 千本桜
 -   **start-date**: 2014-09-13

@@ -1,5 +1,7 @@
 # Hitogoto desukara!
 
+![hitogoto-desukara](https://cdn.myanimelist.net/images/manga/1/238546.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒトゴトですから!
 -   **start-date**: 2019-11-04

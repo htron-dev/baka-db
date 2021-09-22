@@ -1,5 +1,7 @@
 # Gedokubou
 
+![gedokubou](https://cdn.myanimelist.net/images/manga/1/225511.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

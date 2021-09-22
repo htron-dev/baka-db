@@ -1,5 +1,7 @@
 # Sekisei Inko
 
+![sekisei-inko](https://cdn.myanimelist.net/images/manga/3/156243.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

@@ -1,5 +1,7 @@
 # Guomin Laogong Dai Huijia 4th Season
 
+![guomin-laogong-dai-huijia-4th-season](https://cdn.myanimelist.net/images/anime/1057/96198.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 国民老公带回家

@@ -1,5 +1,7 @@
 # Tsumi Koi: Hanayome wa Ani ni Ubawarete
 
+![tsumi-koi-hanayome-wa-ani-ni-ubawarete](https://cdn.myanimelist.net/images/manga/2/182779.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 15

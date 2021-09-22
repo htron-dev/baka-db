@@ -1,5 +1,7 @@
 # Shin Atashin'chi
 
+![shin-atashinchi](https://cdn.myanimelist.net/images/anime/12/76046.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 新あたしンち

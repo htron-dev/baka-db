@@ -1,5 +1,7 @@
 # Ryuusei Sentai Musumet
 
+![ryuusei-sentai-musumet](https://cdn.myanimelist.net/images/anime/10/20616.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 流星戦隊ムスメット

@@ -1,5 +1,7 @@
 # Tengu ni Yomeiri Shichaimasu!?
 
+![tengu-ni-yomeiri-shichaimasu](https://cdn.myanimelist.net/images/manga/3/192557.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

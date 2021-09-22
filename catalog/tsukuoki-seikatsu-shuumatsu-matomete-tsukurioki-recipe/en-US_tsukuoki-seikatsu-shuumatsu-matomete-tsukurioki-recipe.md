@@ -1,5 +1,7 @@
 # Tsukuoki Seikatsu: Shuumatsu Matomete Tsukurioki Recipe
 
+![tsukuoki-seikatsu-shuumatsu-matomete-tsukurioki-recipe](https://cdn.myanimelist.net/images/manga/1/234735.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

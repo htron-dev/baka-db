@@ -1,5 +1,7 @@
 # Field Trip
 
+![field-trip](https://cdn.myanimelist.net/images/manga/3/84347.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 필드 트립
 -   **start-date**: 2012-04-20

@@ -1,5 +1,7 @@
 # Ore wa Ryouri to Kaji de Maou wo Honenuki ni Suru: Isekai kara Hajimaru Shufu Musou
 
+![ore-wa-ryouri-to-kaji-de-maou-wo-honenuki-ni-suru-isekai-kara-hajimaru-shufu-musou](https://cdn.myanimelist.net/images/manga/1/163626.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Hanakanmuri no Ryuu no Kuni
 
+![hanakanmuri-no-ryuu-no-kuni](https://cdn.myanimelist.net/images/manga/5/78237.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 花冠の竜の国

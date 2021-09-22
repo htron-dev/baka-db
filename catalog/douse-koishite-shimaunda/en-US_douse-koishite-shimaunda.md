@@ -1,5 +1,7 @@
 # Douse, Koishite Shimaunda.
 
+![douse-koishite-shimaunda](https://cdn.myanimelist.net/images/manga/2/242213.jpg)
+
 -   **type**: manga
 -   **original-name**: どうせ、恋してしまうんだ。
 -   **start-date**: 2020-11-02

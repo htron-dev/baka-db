@@ -1,5 +1,7 @@
 # Jagainu-kun
 
+![jagainu-kun](https://cdn.myanimelist.net/images/anime/1/1839.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: じゃがいぬくん
@@ -11,7 +13,6 @@
 
 -   adventure
 -   fantasy
-
 -   shoujo
 -   slice-of-life
 

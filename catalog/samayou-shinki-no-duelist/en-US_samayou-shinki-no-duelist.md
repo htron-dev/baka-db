@@ -1,5 +1,7 @@
 # Samayou Shinki no Duelist
 
+![samayou-shinki-no-duelist](https://cdn.myanimelist.net/images/manga/2/162715.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

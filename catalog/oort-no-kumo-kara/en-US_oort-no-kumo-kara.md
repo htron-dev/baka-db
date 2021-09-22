@@ -1,5 +1,7 @@
 # Oort no Kumo kara
 
+![oort-no-kumo-kara](https://cdn.myanimelist.net/images/manga/2/227069.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: オールトの雲から

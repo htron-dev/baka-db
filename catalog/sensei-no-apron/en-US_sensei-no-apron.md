@@ -1,5 +1,7 @@
 # Sensei no Apron
 
+![sensei-no-apron](https://cdn.myanimelist.net/images/manga/3/179837.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

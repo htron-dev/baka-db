@@ -1,5 +1,7 @@
 # Boku no Oshimen
 
+![boku-no-oshimen](https://cdn.myanimelist.net/images/manga/1/246426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

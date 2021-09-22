@@ -1,5 +1,7 @@
 # Twinkle Nora Rock Me!
 
+![twinkle-nora-rock-me](https://cdn.myanimelist.net/images/anime/2/25874.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: トゥインクル NORA(ノーラ) ロック・ミー!

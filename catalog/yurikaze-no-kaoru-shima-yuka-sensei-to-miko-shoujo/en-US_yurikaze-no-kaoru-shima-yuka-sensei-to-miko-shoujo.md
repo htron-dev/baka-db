@@ -1,5 +1,7 @@
 # Yurikaze no Kaoru Shima: Yuka-sensei to Miko Shoujo
 
+![yurikaze-no-kaoru-shima-yuka-sensei-to-miko-shoujo](https://cdn.myanimelist.net/images/manga/1/203123.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

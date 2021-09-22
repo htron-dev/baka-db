@@ -1,5 +1,7 @@
 # Shaman King
 
+![shaman-king](https://cdn.myanimelist.net/images/manga/1/57607.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 288

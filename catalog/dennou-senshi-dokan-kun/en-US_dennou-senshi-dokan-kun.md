@@ -1,5 +1,7 @@
 # Dennou Senshi Dokan-kun
 
+![dennou-senshi-dokan-kun](https://cdn.myanimelist.net/images/anime/1091/105649.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 電脳戦士 土管くん

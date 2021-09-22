@@ -1,5 +1,7 @@
 # Hi no Youjin
 
+![hi-no-youjin](https://cdn.myanimelist.net/images/anime/10/53165.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 火要鎮

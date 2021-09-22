@@ -1,5 +1,7 @@
 # Dramatic Maestro
 
+![dramatic-maestro](https://cdn.myanimelist.net/images/manga/5/26304.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

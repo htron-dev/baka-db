@@ -1,5 +1,7 @@
 # Mahoutsukai no Yome: Hoshi Matsu Hito
 
+![mahoutsukai-no-yome-hoshi-matsu-hito](https://cdn.myanimelist.net/images/anime/4/80587.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 魔法使いの嫁 星待つひと

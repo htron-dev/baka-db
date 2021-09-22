@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Kyuukousen-hen
 
+![mahouka-koukou-no-rettousei-kyuukousen-hen](https://cdn.myanimelist.net/images/manga/3/120979.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

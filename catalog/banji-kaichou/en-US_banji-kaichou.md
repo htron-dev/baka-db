@@ -1,5 +1,7 @@
 # Banji Kaichou
 
+![banji-kaichou](https://cdn.myanimelist.net/images/manga/2/157279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

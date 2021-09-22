@@ -1,5 +1,7 @@
 # Haou♥Airen
 
+![haou♥-airen](https://cdn.myanimelist.net/images/manga/1/92347.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 52

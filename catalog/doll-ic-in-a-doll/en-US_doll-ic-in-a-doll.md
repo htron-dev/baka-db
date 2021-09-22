@@ -1,5 +1,7 @@
 # DOLL: IC in a Doll
 
+![doll-ic-in-a-doll](https://cdn.myanimelist.net/images/manga/2/11704.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

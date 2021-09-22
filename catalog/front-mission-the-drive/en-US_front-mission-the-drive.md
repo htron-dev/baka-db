@@ -1,5 +1,7 @@
 # Front Mission - The Drive
 
+![front-mission-the-drive](https://cdn.myanimelist.net/images/manga/1/84011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

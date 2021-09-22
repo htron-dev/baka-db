@@ -1,5 +1,7 @@
 # There She Is!!
 
+![there-she-is](https://cdn.myanimelist.net/images/anime/2/29995.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 떳다 그녀!!

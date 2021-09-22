@@ -1,5 +1,7 @@
 # Himitsu no Keiyaku: Yobai Service
 
+![himitsu-no-keiyaku-yobai-service](https://cdn.myanimelist.net/images/manga/1/193651.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

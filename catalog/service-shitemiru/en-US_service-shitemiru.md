@@ -1,5 +1,7 @@
 # Service Shitemiru?
 
+![service-shitemiru](https://cdn.myanimelist.net/images/manga/2/155093.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: サービスしてみる?

@@ -1,5 +1,7 @@
 # Ginga Teikoku Kouboushi
 
+![ginga-teikoku-kouboushi](https://cdn.myanimelist.net/images/manga/2/104643.jpg)
+
 -   **type**: manga
 -   **original-name**: 銀河帝国興亡史
 -   **start-date**: 2013-09-20

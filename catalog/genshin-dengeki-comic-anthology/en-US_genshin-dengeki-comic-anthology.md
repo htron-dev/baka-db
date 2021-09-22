@@ -1,5 +1,7 @@
 # Genshin: Dengeki Comic Anthology
 
+![genshin-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/1/241703.jpg)
+
 -   **type**: manga
 -   **original-name**: 原神 電撃コミックアンソロジー
 -   **start-date**: 2021-02-27

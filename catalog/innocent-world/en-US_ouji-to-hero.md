@@ -1,5 +1,7 @@
 # Ouji to Hero
 
+![ouji-to-hero](https://cdn.myanimelist.net/images/manga/2/195997.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

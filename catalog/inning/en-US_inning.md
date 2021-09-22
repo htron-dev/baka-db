@@ -1,5 +1,7 @@
 # Inning!
 
+![inning](https://cdn.myanimelist.net/images/manga/1/208222.jpg)
+
 -   **type**: manga
 -   **original-name**: いにんぐ！
 -   **start-date**: 2016-10-26

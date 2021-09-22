@@ -1,5 +1,7 @@
 # Do Aphorism
 
+![do-aphorism](https://cdn.myanimelist.net/images/manga/2/219553.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 弩アホリズム

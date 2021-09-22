@@ -1,5 +1,7 @@
 # Kimi ni Aroe Yohou!
 
+![kimi-ni-aroe-yohou](https://cdn.myanimelist.net/images/manga/3/23128.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君にあろえ予報！

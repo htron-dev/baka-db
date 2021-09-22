@@ -1,5 +1,7 @@
 # Yagate Kimi ni Naru: Saeki Sayaka ni Tsuite
 
+![yagate-kimi-ni-naru-saeki-sayaka-ni-tsuite](https://cdn.myanimelist.net/images/manga/3/222780.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 9

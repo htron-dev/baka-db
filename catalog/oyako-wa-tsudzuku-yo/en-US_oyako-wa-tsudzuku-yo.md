@@ -1,5 +1,7 @@
 # Oyako wa Tsudzuku yo
 
+![oyako-wa-tsudzuku-yo](https://cdn.myanimelist.net/images/anime/1718/97986.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 親子は続くよ

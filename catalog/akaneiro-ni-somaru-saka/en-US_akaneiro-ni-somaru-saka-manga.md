@@ -1,5 +1,7 @@
 # Akaneiro ni Somaru Saka
 
+![akaneiro-ni-somaru-saka](https://cdn.myanimelist.net/images/manga/1/111947.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

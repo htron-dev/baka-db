@@ -1,5 +1,7 @@
 # Nakoruru: Ano Hito kara no Okurimono
 
+![nakoruru-ano-hito-kara-no-okurimono](https://cdn.myanimelist.net/images/anime/9/10234.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ナコルル ~あのひとからのおくりもの~

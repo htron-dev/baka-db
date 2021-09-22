@@ -1,5 +1,7 @@
 # Marimari Marigold
 
+![marimari-marigold](https://cdn.myanimelist.net/images/manga/3/165908.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

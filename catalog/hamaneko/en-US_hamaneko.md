@@ -1,5 +1,7 @@
 # Hamaneko
 
+![hamaneko](https://cdn.myanimelist.net/images/anime/2/88494.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ハマネコ

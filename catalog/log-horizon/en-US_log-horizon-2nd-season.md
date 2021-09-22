@@ -1,5 +1,7 @@
 # Log Horizon 2nd Season
 
+![log-horizon-2nd-season](https://cdn.myanimelist.net/images/anime/5/68097.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ログ・ホライズン 第 2 シリーズ

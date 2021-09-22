@@ -1,5 +1,7 @@
 # Bleach: Can't Fear Your Own World
 
+![bleach-cant-fear-your-own-world](https://cdn.myanimelist.net/images/manga/3/199175.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Isekai Meikyuu no Saishinbu wo Mezasou
 
+![isekai-meikyuu-no-saishinbu-wo-mezasou](https://cdn.myanimelist.net/images/manga/3/132825.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界迷宮の最深部を目指そう
 -   **start-date**: 2014-07-24

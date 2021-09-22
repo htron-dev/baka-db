@@ -1,5 +1,7 @@
 # Dosanko Gal wa Namara Menkoi
 
+![dosanko-gal-wa-namara-menkoi](https://cdn.myanimelist.net/images/manga/1/224525.jpg)
+
 -   **type**: manga
 -   **original-name**: 道産子ギャルはなまらめんこい
 -   **start-date**: 2019-09-04

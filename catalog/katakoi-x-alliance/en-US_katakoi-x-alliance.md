@@ -1,5 +1,7 @@
 # Katakoi x Alliance
 
+![katakoi-x-alliance](https://cdn.myanimelist.net/images/manga/3/228127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

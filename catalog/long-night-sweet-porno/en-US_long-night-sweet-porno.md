@@ -1,5 +1,7 @@
 # Long Night Sweet Porno
 
+![long-night-sweet-porno](https://cdn.myanimelist.net/images/manga/2/240346.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Haikyuu!! Second Season
 
+![haikyuu-second-season](https://cdn.myanimelist.net/images/anime/9/76662.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ハイキュー!! セカンドシーズン

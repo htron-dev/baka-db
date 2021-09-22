@@ -1,5 +1,7 @@
 # Kago no Naka no Kinai Shiiku
 
+![kago-no-naka-no-kinai-shiiku](https://cdn.myanimelist.net/images/manga/3/240670.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

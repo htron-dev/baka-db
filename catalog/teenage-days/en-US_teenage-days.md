@@ -1,5 +1,7 @@
 # Teenage Days
 
+![teenage-days](https://cdn.myanimelist.net/images/manga/1/24946.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

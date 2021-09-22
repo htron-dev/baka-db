@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni: Tatarigoroshi-hen
 
+![higurashi-no-naku-koro-ni-tatarigoroshi-hen](https://cdn.myanimelist.net/images/manga/3/1016.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Suzaku
 
+![suzaku](https://cdn.myanimelist.net/images/manga/1/37347.jpg)
+
 -   **type**: manga
 -   **original-name**: 朱雀 — 歌舞伎町雀姫伝
 -   **start-date**: 2007-02-20

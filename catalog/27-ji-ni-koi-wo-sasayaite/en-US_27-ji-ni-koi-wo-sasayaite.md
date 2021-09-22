@@ -1,5 +1,7 @@
 # 27-ji ni Koi wo Sasayaite
 
+![27-ji-ni-koi-wo-sasayaite](https://cdn.myanimelist.net/images/manga/2/20562.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

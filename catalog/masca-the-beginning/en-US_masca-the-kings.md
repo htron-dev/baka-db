@@ -1,5 +1,7 @@
 # Masca: The Kings
 
+![masca-the-kings](https://cdn.myanimelist.net/images/manga/2/61975.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 마스카 열왕기
 

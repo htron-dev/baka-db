@@ -1,5 +1,7 @@
 # Arabian Nights: Sindbad no Bouken (TV)
 
+![arabian-nights-sindbad-no-bouken-tv](https://cdn.myanimelist.net/images/anime/2/31935.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: アラビアンナイト シンドバットの冒険

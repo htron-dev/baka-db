@@ -1,5 +1,7 @@
 # Yami no Naka no Crown
 
+![yami-no-naka-no-crown](https://cdn.myanimelist.net/images/manga/1/92211.jpg)
+
 -   **type**: manga
 -   **original-name**: 闇の中のクラウン
 -   **start-date**: 2013-04-24

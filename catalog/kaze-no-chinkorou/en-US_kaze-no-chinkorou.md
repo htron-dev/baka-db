@@ -1,5 +1,7 @@
 # Kaze no Chinkorou
 
+![kaze-no-chinkorou](https://cdn.myanimelist.net/images/manga/2/222095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Ookami-san to Shichinin no Nakama-tachi
 
+![ookami-san-to-shichinin-no-nakama-tachi](https://cdn.myanimelist.net/images/manga/2/163082.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

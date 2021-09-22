@@ -1,5 +1,7 @@
 # Maid de Ikkimasshoi
 
+![maid-de-ikkimasshoi](https://cdn.myanimelist.net/images/manga/1/36690.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: メイドでいきまっしょい

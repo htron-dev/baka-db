@@ -1,5 +1,7 @@
 # Rinne Kensei: Mochite wo Sagashite Dorei Shoujo to Yuku Isekai no Tabi
 
+![rinne-kensei-mochite-wo-sagashite-dorei-shoujo-to-yuku-isekai-no-tabi](https://cdn.myanimelist.net/images/manga/1/200904.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

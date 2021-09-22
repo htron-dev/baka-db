@@ -1,5 +1,7 @@
 # Monster Factory
 
+![monster-factory](https://cdn.myanimelist.net/images/manga/3/200829.jpg)
+
 -   **type**: light-novel
 -   **original-name**: モンスター・ファクトリー
 -   **start-date**: 2017-09-20

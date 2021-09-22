@@ -1,5 +1,7 @@
 # Kimi no Koe ga Kikitai
 
+![kimi-no-koe-ga-kikitai](https://cdn.myanimelist.net/images/manga/3/16747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

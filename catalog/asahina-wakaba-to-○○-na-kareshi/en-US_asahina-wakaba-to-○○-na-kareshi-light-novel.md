@@ -1,5 +1,7 @@
 # Asahina Wakaba to ○○ na Kareshi
 
+![asahina-wakaba-to-○○-na-kareshi](https://cdn.myanimelist.net/images/manga/3/240103.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

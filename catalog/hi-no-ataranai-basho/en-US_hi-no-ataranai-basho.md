@@ -1,5 +1,7 @@
 # Hi no Ataranai Basho
 
+![hi-no-ataranai-basho](https://cdn.myanimelist.net/images/manga/2/231738.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

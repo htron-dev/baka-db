@@ -1,5 +1,7 @@
 # Hey! Doctor
 
+![hey-doctor](https://cdn.myanimelist.net/images/manga/1/20219.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

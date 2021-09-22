@@ -1,5 +1,7 @@
 # Pillow de Mellow na Hibi
 
+![pillow-de-mellow-na-hibi](https://cdn.myanimelist.net/images/manga/1/71873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

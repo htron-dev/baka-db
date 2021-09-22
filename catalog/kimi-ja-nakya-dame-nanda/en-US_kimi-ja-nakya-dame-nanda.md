@@ -1,5 +1,7 @@
 # Kimi ja Nakya Dame Nanda.
 
+![kimi-ja-nakya-dame-nanda](https://cdn.myanimelist.net/images/manga/2/22598.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 65

@@ -1,5 +1,7 @@
 # Hatenkou Yuugi
 
+![hatenkou-yuugi](https://cdn.myanimelist.net/images/anime/7/19931.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 破天荒遊戯
@@ -30,4 +32,4 @@ With these words, Rahzel, the daughter of a rich family, is kicked out of her ho
 -   [Official Site](http://hatenkouyugi.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5533)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7820)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Dazzle_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Dazzle_%28manga%29)

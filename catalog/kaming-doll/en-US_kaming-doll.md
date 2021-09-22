@@ -1,5 +1,7 @@
 # Kaming Doll
 
+![kaming-doll](https://cdn.myanimelist.net/images/manga/3/36175.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: かみ ing ど～る

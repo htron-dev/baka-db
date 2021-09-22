@@ -1,5 +1,7 @@
 # Sora Yome
 
+![sora-yome](https://cdn.myanimelist.net/images/manga/3/125233.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

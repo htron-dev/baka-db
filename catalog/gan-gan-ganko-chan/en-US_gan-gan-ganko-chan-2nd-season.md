@@ -1,5 +1,7 @@
 # Gan Gan Ganko-chan 2nd Season
 
+![gan-gan-ganko-chan-2nd-season](https://cdn.myanimelist.net/images/anime/1066/90380.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: がん がん がんこちゃん 第 2 期

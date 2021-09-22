@@ -1,5 +1,7 @@
 # Shinju no Nectar
 
+![shinju-no-nectar](https://cdn.myanimelist.net/images/manga/3/196132.jpg)
+
 -   **type**: manga
 -   **original-name**: 神呪のネクタール
 -   **start-date**: 2016-11-19

@@ -1,5 +1,7 @@
 # Seirou Opera
 
+![seirou-opera](https://cdn.myanimelist.net/images/manga/2/166673.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 58

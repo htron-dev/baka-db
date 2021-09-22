@@ -1,5 +1,7 @@
 # Cheat wo Tsukureru no wa Ore dake: Munouryoku dakedo Sekai Saikyou
 
+![cheat-wo-tsukureru-no-wa-ore-dake-munouryoku-dakedo-sekai-saikyou](https://cdn.myanimelist.net/images/manga/3/219252.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 4

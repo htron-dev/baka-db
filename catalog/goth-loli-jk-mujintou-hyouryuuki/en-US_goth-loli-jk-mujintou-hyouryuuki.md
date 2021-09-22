@@ -1,5 +1,7 @@
 # Goth Loli JK Mujintou Hyouryuuki
 
+![goth-loli-jk-mujintou-hyouryuuki](https://cdn.myanimelist.net/images/manga/2/202824.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # S Watari-san to M Mura-kun
 
+![s-watari-san-to-m-mura-kun](https://cdn.myanimelist.net/images/manga/1/173576.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

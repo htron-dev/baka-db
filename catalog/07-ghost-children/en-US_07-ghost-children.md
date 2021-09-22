@@ -1,5 +1,7 @@
 # 07-Ghost Children
 
+![07-ghost-children](https://cdn.myanimelist.net/images/manga/1/172746.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

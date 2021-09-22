@@ -1,5 +1,7 @@
 # Net-juu no Susume Special
 
+![net-juu-no-susume-special](https://cdn.myanimelist.net/images/anime/7/90115.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ネト充のススメ

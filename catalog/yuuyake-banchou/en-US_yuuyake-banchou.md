@@ -1,5 +1,7 @@
 # Yuuyake Banchou
 
+![yuuyake-banchou](https://cdn.myanimelist.net/images/anime/3/35851.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 夕やけ番長

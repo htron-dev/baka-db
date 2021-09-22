@@ -1,5 +1,7 @@
 # Fire Emblem if: Anya Oukoku Comic Anthology
 
+![fire-emblem-if-anya-oukoku-comic-anthology](https://cdn.myanimelist.net/images/manga/3/236730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

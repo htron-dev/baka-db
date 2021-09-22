@@ -1,5 +1,7 @@
 # Kuro no Kishi
 
+![kuro-no-kishi](https://cdn.myanimelist.net/images/manga/3/157267.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 黒の騎士

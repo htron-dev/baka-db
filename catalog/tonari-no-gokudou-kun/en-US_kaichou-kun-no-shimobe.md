@@ -1,5 +1,7 @@
 # Kaichou-kun no Shimobe
 
+![kaichou-kun-no-shimobe](https://cdn.myanimelist.net/images/manga/3/185352.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

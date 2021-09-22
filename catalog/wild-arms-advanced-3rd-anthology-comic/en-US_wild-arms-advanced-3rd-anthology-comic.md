@@ -1,5 +1,7 @@
 # Wild Arms Advanced 3rd Anthology Comic
 
+![wild-arms-advanced-3rd-anthology-comic](https://cdn.myanimelist.net/images/manga/3/97491.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ワイルドアームズアドヴァンスドサードアンソロジーコミック

@@ -1,5 +1,7 @@
 # Kioka
 
+![kioka](https://cdn.myanimelist.net/images/anime/1846/114462.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 78
 -   **original-name**: 키오카

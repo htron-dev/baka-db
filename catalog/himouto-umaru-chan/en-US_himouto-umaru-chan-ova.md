@@ -1,5 +1,7 @@
 # Himouto! Umaru-chan OVA
 
+![himouto-umaru-chan-ova](https://cdn.myanimelist.net/images/anime/7/76826.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 干物妹！うまるちゃん OVA

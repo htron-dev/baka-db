@@ -1,5 +1,7 @@
 # ChäoS;Child
 
+![chao-s-child](https://cdn.myanimelist.net/images/anime/1310/90137.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: CHAOS;CHILD

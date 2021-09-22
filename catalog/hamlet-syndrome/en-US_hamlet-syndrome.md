@@ -1,5 +1,7 @@
 # Hamlet Syndrome
 
+![hamlet-syndrome](https://cdn.myanimelist.net/images/manga/3/172040.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

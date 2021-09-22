@@ -1,5 +1,7 @@
 # ~Mahou Gakuen~ Lunar!
 
+![mahou-gakuen-lunar](https://cdn.myanimelist.net/images/manga/3/26816.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

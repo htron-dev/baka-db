@@ -1,5 +1,7 @@
 # Reijou Kanteishi to Garou no Akuma
 
+![reijou-kanteishi-to-garou-no-akuma](https://cdn.myanimelist.net/images/manga/1/234528.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

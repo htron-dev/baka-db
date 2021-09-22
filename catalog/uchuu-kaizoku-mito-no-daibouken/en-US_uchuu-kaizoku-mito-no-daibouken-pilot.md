@@ -1,5 +1,7 @@
 # Uchuu Kaizoku Mito no Daibouken Pilot
 
+![uchuu-kaizoku-mito-no-daibouken-pilot](https://cdn.myanimelist.net/images/anime/8/70405.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 宇宙海賊ミトの大冒険

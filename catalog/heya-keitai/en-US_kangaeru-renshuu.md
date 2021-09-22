@@ -1,5 +1,7 @@
 # Kangaeru Renshuu
 
+![kangaeru-renshuu](https://cdn.myanimelist.net/images/anime/7/59757.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 考える練習

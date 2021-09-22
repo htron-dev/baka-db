@@ -1,5 +1,7 @@
 # Madan no Ou to Vanadis
 
+![madan-no-ou-to-vanadis](https://cdn.myanimelist.net/images/anime/3/64911.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 魔弾の王と戦姫 (ヴァナディース)

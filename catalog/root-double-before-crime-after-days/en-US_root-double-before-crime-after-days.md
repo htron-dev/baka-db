@@ -1,5 +1,7 @@
 # Root Double: Before Crime\*After Days
 
+![root-double-before-crime-after-days](https://cdn.myanimelist.net/images/manga/2/232349.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 32

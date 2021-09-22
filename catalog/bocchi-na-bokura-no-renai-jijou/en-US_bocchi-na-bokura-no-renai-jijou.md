@@ -1,5 +1,7 @@
 # Bocchi na Bokura no Renai Jijou
 
+![bocchi-na-bokura-no-renai-jijou](https://cdn.myanimelist.net/images/manga/2/188880.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

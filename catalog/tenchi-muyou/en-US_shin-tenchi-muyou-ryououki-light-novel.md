@@ -1,5 +1,7 @@
 # Shin Tenchi Muyou! Ryououki
 
+![shin-tenchi-muyou-ryououki](https://cdn.myanimelist.net/images/manga/3/237541.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

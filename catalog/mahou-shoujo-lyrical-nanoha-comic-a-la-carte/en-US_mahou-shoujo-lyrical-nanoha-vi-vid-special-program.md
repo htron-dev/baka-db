@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha ViVid: Special Program
 
+![mahou-shoujo-lyrical-nanoha-vi-vid-special-program](https://cdn.myanimelist.net/images/anime/8/74785.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魔法少女リリカルなのは ViVid スペシャルプログラム

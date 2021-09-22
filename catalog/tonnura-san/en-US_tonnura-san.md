@@ -1,5 +1,7 @@
 # Tonnura-san
 
+![tonnura-san](https://cdn.myanimelist.net/images/manga/2/65391.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 52

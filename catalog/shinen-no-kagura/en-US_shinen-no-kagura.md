@@ -1,5 +1,7 @@
 # Shinen no Kagura
 
+![shinen-no-kagura](https://cdn.myanimelist.net/images/manga/3/124399.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 神焔のカグラ

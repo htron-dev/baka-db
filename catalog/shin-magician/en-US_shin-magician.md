@@ -1,5 +1,7 @@
 # Shin Magician
 
+![shin-magician](https://cdn.myanimelist.net/images/manga/1/22436.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 新マジシャン

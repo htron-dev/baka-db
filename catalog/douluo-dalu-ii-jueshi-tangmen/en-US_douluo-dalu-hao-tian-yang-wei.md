@@ -1,5 +1,7 @@
 # Douluo Dalu: Hao Tian Yang Wei
 
+![douluo-dalu-hao-tian-yang-wei](https://cdn.myanimelist.net/images/anime/1124/108561.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 斗罗大陆 昊天扬威

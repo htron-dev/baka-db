@@ -1,5 +1,7 @@
 # Kazoku ni Narou
 
+![kazoku-ni-narou](https://cdn.myanimelist.net/images/manga/3/21116.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 26

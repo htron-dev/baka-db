@@ -1,5 +1,7 @@
 # Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!
 
+![nurarihyon-no-mago-gekitou-dai-futsal-taikai-nuragumi-w-cup](https://cdn.myanimelist.net/images/anime/10/30061.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぬらりひょんの孫 ～激闘 大フットサル大会！奴良組 W カップ!!～

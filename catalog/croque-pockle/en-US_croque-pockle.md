@@ -1,5 +1,7 @@
 # Croque-Pockle
 
+![croque-pockle](https://cdn.myanimelist.net/images/manga/1/90961.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ころんでポックル

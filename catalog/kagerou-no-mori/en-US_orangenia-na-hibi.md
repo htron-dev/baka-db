@@ -1,5 +1,7 @@
 # Orangenia na Hibi
 
+![orangenia-na-hibi](https://cdn.myanimelist.net/images/manga/1/7027.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

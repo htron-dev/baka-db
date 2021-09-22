@@ -1,5 +1,7 @@
 # Futari wa Precure
 
+![futari-wa-precure](https://cdn.myanimelist.net/images/manga/2/181257.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

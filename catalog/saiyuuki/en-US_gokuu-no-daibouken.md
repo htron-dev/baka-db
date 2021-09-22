@@ -1,5 +1,7 @@
 # Gokuu no Daibouken
 
+![gokuu-no-daibouken](https://cdn.myanimelist.net/images/anime/7/53219.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 悟空の大冒険

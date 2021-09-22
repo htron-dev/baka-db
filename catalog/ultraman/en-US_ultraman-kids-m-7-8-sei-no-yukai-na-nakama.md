@@ -1,5 +1,7 @@
 # Ultraman Kids: M7.8 Sei no Yukai na Nakama
 
+![ultraman-kids-m-7-8-sei-no-yukai-na-nakama](https://cdn.myanimelist.net/images/anime/7/30112.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ウルトラマンキッズ M7.8 星のゆかいな仲間

@@ -1,5 +1,7 @@
 # Ganbare! Memeko-chan
 
+![ganbare-memeko-chan](https://cdn.myanimelist.net/images/anime/1073/95236.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: がんばれ！メメ子ちゃん

@@ -1,5 +1,7 @@
 # Chikashitsu Dungeon: Binbou Kyoudai wa Goraku wo Motomete Saikyou e
 
+![chikashitsu-dungeon-binbou-kyoudai-wa-goraku-wo-motomete-saikyou-e](https://cdn.myanimelist.net/images/manga/1/247846.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 地下室ダンジョン ～貧乏兄妹は娯楽を求めて最強へ～
 -   **start-date**: 2019-06-25

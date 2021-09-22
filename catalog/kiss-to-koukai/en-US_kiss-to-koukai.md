@@ -1,5 +1,7 @@
 # Kiss to Koukai
 
+![kiss-to-koukai](https://cdn.myanimelist.net/images/manga/1/35040.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Hanameguri Awase
 
+![hanameguri-awase](https://cdn.myanimelist.net/images/manga/3/83462.jpg)
+
 -   **type**: manga
 -   **original-name**: 花めぐりあわせ
 -   **start-date**: 2012-09-03

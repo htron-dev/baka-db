@@ -1,5 +1,7 @@
 # Odoru Hoshifuru Renesickle
 
+![odoru-hoshifuru-renesickle](https://cdn.myanimelist.net/images/manga/2/105601.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 74

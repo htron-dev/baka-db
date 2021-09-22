@@ -1,5 +1,7 @@
 # Satougashi no Dangan wa Uchinukenai: A Lollypop or A Bullet
 
+![satougashi-no-dangan-wa-uchinukenai-a-lollypop-or-a-bullet](https://cdn.myanimelist.net/images/manga/1/104897.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

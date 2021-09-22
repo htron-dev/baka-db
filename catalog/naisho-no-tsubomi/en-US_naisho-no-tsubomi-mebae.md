@@ -1,5 +1,7 @@
 # Naisho no Tsubomi: Mebae
 
+![naisho-no-tsubomi-mebae](https://cdn.myanimelist.net/images/manga/1/88987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ないしょのつぼみ－めばえ－

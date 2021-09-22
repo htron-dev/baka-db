@@ -1,5 +1,7 @@
 # Golden Corridor - Tamago no Shou
 
+![golden-corridor-tamago-no-shou](https://cdn.myanimelist.net/images/manga/1/21244.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴールデン・コリドール たまごの章
 -   **start-date**: 2007-08-20

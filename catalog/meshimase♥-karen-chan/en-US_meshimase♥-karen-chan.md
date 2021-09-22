@@ -1,5 +1,7 @@
 # Meshimase♥Karen-chan
 
+![meshimase♥-karen-chan](https://cdn.myanimelist.net/images/manga/3/132423.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: めしませ ♥ かれんちゃん

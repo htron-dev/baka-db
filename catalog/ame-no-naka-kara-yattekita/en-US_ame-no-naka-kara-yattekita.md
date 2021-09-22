@@ -1,5 +1,7 @@
 # Ame no Naka kara Yattekita
 
+![ame-no-naka-kara-yattekita](https://cdn.myanimelist.net/images/manga/2/238605.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

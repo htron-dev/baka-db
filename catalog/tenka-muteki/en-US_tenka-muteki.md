@@ -1,5 +1,7 @@
 # Tenka Muteki!
 
+![tenka-muteki](https://cdn.myanimelist.net/images/manga/2/162735.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 30

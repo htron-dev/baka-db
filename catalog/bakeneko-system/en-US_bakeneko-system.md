@@ -1,5 +1,7 @@
 # Bakeneko System
 
+![bakeneko-system](https://cdn.myanimelist.net/images/manga/3/192188.jpg)
+
 -   **type**: manga
 -   **original-name**: 化け猫システム
 -   **start-date**: 2013-03-26

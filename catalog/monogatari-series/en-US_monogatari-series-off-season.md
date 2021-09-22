@@ -1,5 +1,7 @@
 # Monogatari Series: Off Season
 
+![monogatari-series-off-season](https://cdn.myanimelist.net/images/manga/2/181555.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 155

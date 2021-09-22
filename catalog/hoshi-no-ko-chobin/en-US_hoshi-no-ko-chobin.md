@@ -1,5 +1,7 @@
 # Hoshi no ko Chobin
 
+![hoshi-no-ko-chobin](https://cdn.myanimelist.net/images/manga/2/42830.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

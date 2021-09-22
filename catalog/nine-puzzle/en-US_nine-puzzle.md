@@ -1,5 +1,7 @@
 # Nine Puzzle
 
+![nine-puzzle](https://cdn.myanimelist.net/images/manga/4/109281.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

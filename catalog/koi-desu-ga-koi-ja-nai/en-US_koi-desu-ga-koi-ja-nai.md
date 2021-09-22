@@ -1,5 +1,7 @@
 # Koi desu ga Koi ja Nai
 
+![koi-desu-ga-koi-ja-nai](https://cdn.myanimelist.net/images/manga/1/237997.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

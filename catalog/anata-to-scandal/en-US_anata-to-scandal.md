@@ -1,5 +1,7 @@
 # Anata to Scandal
 
+![anata-to-scandal](https://cdn.myanimelist.net/images/manga/3/5347.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

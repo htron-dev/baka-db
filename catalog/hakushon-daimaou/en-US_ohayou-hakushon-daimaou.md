@@ -1,5 +1,7 @@
 # Ohayou Hakushon Daimaou
 
+![ohayou-hakushon-daimaou](https://cdn.myanimelist.net/images/anime/1849/94636.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 237
 -   **original-name**: おはようハクション大魔王

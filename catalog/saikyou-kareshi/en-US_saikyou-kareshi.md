@@ -1,5 +1,7 @@
 # Saikyou Kareshi
 
+![saikyou-kareshi](https://cdn.myanimelist.net/images/manga/2/162307.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

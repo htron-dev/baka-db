@@ -1,5 +1,7 @@
 # Dragon Quest: Maboroshi no Daichi
 
+![dragon-quest-maboroshi-no-daichi](https://cdn.myanimelist.net/images/manga/1/25115.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 52

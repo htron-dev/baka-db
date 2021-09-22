@@ -1,5 +1,7 @@
 # Okitsune Biyori
 
+![okitsune-biyori](https://cdn.myanimelist.net/images/manga/2/99123.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

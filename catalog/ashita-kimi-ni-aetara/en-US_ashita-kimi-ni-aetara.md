@@ -1,5 +1,7 @@
 # Ashita, Kimi ni Aetara
 
+![ashita-kimi-ni-aetara](https://cdn.myanimelist.net/images/manga/3/197357.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kanojo-tachi no Meshi ga Mazui 100 no Riyuu
 
+![kanojo-tachi-no-meshi-ga-mazui-100-no-riyuu](https://cdn.myanimelist.net/images/manga/3/110689.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 彼女たちのメシがマズい 100 の理由
 -   **start-date**: 2012-08-31

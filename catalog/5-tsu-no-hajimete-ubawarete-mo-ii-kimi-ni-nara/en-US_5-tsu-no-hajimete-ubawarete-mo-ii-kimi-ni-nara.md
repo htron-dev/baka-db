@@ -1,5 +1,7 @@
 # 5-tsu no Hajimete: Ubawarete mo Ii, Kimi ni Nara
 
+![5-tsu-no-hajimete-ubawarete-mo-ii-kimi-ni-nara](https://cdn.myanimelist.net/images/manga/3/123331.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

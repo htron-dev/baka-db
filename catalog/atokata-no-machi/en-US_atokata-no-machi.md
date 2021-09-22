@@ -1,5 +1,7 @@
 # Atokata no Machi
 
+![atokata-no-machi](https://cdn.myanimelist.net/images/manga/1/167225.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

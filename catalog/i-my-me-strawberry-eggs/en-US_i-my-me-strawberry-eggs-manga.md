@@ -1,5 +1,7 @@
 # I My Me! Strawberry Eggs
 
+![i-my-me-strawberry-eggs](https://cdn.myanimelist.net/images/manga/1/129179.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: あぃまぃみぃ！ストロベリー・エッグ

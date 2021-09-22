@@ -1,5 +1,7 @@
 # Love Hole
 
+![love-hole](https://cdn.myanimelist.net/images/manga/2/234134.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # f-Ningyo
 
+![f-ningyo](https://cdn.myanimelist.net/images/manga/1/188253.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 66

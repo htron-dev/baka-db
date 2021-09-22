@@ -1,5 +1,7 @@
 # Ijimekko Ookami to Nana-chan
 
+![ijimekko-ookami-to-nana-chan](https://cdn.myanimelist.net/images/anime/13/66267.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いじめっこ狼とナナちゃん

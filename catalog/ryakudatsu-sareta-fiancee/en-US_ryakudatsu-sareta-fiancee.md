@@ -1,5 +1,7 @@
 # Ryakudatsu sareta Fiancee
 
+![ryakudatsu-sareta-fiancee](https://cdn.myanimelist.net/images/manga/3/156948.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

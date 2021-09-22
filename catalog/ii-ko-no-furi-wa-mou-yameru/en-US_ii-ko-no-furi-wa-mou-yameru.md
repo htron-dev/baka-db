@@ -1,5 +1,7 @@
 # Ii Ko no Furi wa Mou Yameru
 
+![ii-ko-no-furi-wa-mou-yameru](https://cdn.myanimelist.net/images/manga/3/226319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

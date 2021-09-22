@@ -1,5 +1,7 @@
 # Bakugan Battle Brawlers: New Vestroia
 
+![bakugan-battle-brawlers-new-vestroia](https://cdn.myanimelist.net/images/anime/1339/117249.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 爆丸バトルブローラーズ New Vestroia

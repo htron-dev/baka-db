@@ -1,5 +1,7 @@
 # Tokyo Majin Gakuen Kenpuchou
 
+![tokyo-majin-gakuen-kenpuchou](https://cdn.myanimelist.net/images/manga/3/14910.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

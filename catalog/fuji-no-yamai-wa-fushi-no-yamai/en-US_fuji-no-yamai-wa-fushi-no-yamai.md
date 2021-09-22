@@ -1,5 +1,7 @@
 # Fuji no Yamai wa Fushi no Yamai
 
+![fuji-no-yamai-wa-fushi-no-yamai](https://cdn.myanimelist.net/images/manga/2/241502.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 不治の病は不死の病

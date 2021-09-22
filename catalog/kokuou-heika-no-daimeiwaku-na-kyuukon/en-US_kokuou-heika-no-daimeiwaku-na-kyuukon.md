@@ -1,5 +1,7 @@
 # Kokuou Heika no Daimeiwaku na Kyuukon
 
+![kokuou-heika-no-daimeiwaku-na-kyuukon](https://cdn.myanimelist.net/images/manga/2/224350.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

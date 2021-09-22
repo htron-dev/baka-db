@@ -1,5 +1,7 @@
 # Koukoku no Fräulein
 
+![koukoku-no-fraulein](https://cdn.myanimelist.net/images/manga/3/162653.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

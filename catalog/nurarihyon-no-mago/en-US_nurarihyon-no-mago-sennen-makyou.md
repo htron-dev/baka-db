@@ -1,5 +1,7 @@
 # Nurarihyon no Mago: Sennen Makyou
 
+![nurarihyon-no-mago-sennen-makyou](https://cdn.myanimelist.net/images/anime/5/77300.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ぬらりひょんの孫 千年魔京

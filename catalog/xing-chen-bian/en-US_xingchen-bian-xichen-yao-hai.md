@@ -1,5 +1,7 @@
 # Xingchen Bian: Xichen Yao Hai
 
+![xingchen-bian-xichen-yao-hai](https://cdn.myanimelist.net/images/anime/1676/117014.jpg)
+
 -   **type**: ona
 -   **original-name**: 星辰变 第三季
 -   **rating**: PG-13 - Teens 13 or older

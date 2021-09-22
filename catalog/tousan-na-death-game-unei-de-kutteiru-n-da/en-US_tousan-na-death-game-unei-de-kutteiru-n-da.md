@@ -1,5 +1,7 @@
 # Tousan na, Death Game Unei de Kutteiru n da
 
+![tousan-na-death-game-unei-de-kutteiru-n-da](https://cdn.myanimelist.net/images/manga/1/224549.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

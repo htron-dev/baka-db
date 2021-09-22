@@ -1,5 +1,7 @@
 # Jouou
 
+![jouou](https://cdn.myanimelist.net/images/manga/4/75889.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 嬢王-じょうおう-

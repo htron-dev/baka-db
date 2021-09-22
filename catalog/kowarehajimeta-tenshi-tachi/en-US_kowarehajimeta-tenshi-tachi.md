@@ -1,5 +1,7 @@
 # Kowarehajimeta Tenshi Tachi
 
+![kowarehajimeta-tenshi-tachi](https://cdn.myanimelist.net/images/manga/2/1071.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

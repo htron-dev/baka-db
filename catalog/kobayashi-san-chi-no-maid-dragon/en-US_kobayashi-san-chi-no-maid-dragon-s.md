@@ -1,5 +1,7 @@
 # Kobayashi-san Chi no Maid Dragon S
 
+![kobayashi-san-chi-no-maid-dragon-s](https://cdn.myanimelist.net/images/anime/1252/115539.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 小林さんちのメイドラゴン S
 -   **start-date**: 2021-07-08

@@ -1,5 +1,7 @@
 # Ore no Idol wa Renai Kinshi!
 
+![ore-no-idol-wa-renai-kinshi](https://cdn.myanimelist.net/images/manga/2/122213.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 俺の天使（アイドル）は恋愛禁止!

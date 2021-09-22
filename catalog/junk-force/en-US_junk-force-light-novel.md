@@ -1,5 +1,7 @@
 # Junk Force
 
+![junk-force](https://cdn.myanimelist.net/images/manga/3/123639.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 30

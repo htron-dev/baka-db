@@ -1,5 +1,7 @@
 # Rain
 
+![rain](https://cdn.myanimelist.net/images/manga/3/25899.jpg)
+
 -   **type**: manga
 -   **original-name**: レイン
 -   **start-date**: 2008-11-29

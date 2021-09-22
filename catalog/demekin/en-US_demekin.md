@@ -1,5 +1,7 @@
 # Demekin
 
+![demekin](https://cdn.myanimelist.net/images/manga/3/115581.jpg)
+
 -   **type**: manga
 -   **original-name**: デメキン
 -   **start-date**: 2009-10-27

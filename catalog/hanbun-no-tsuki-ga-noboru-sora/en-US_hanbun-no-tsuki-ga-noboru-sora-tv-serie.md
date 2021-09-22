@@ -1,5 +1,7 @@
 # Hanbun no Tsuki ga Noboru Sora
 
+![hanbun-no-tsuki-ga-noboru-sora](https://cdn.myanimelist.net/images/anime/10/75201.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 半分の月がのぼる空

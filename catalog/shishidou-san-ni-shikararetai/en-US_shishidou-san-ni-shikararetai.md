@@ -1,5 +1,7 @@
 # Shishidou-san ni Shikararetai.
 
+![shishidou-san-ni-shikararetai](https://cdn.myanimelist.net/images/manga/1/234821.jpg)
+
 -   **type**: manga
 -   **original-name**: 獅子堂さんに叱られたい。
 -   **start-date**: 2019-10-21

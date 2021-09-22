@@ -1,5 +1,7 @@
 # Kokuou Hieka no Ryoshuu Hanayome: Toutoki Bara wa Taiyou to Tsuki ni Shuuai sareru
 
+![kokuou-hieka-no-ryoshuu-hanayome-toutoki-bara-wa-taiyou-to-tsuki-ni-shuuai-sareru](https://cdn.myanimelist.net/images/manga/2/192560.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

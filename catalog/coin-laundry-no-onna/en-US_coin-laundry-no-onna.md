@@ -1,5 +1,7 @@
 # Coin Laundry no Onna
 
+![coin-laundry-no-onna](https://cdn.myanimelist.net/images/manga/2/194919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

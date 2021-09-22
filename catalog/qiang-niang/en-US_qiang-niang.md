@@ -1,5 +1,7 @@
 # Qiang Niang
 
+![qiang-niang](https://cdn.myanimelist.net/images/anime/4/87374.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 銃娘 [ガンガール]

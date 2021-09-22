@@ -1,5 +1,7 @@
 # Tokyo Tribe 2
 
+![tokyo-tribe-2](https://cdn.myanimelist.net/images/manga/1/193323.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: TOKYO TRIBE 2

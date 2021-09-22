@@ -1,5 +1,7 @@
 # Lilith no Yasashii Parade
 
+![lilith-no-yasashii-parade](https://cdn.myanimelist.net/images/manga/3/160098.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔女〈リリス〉のやさしい葬列〈パレード〉
 -   **start-date**: 2015-03-19

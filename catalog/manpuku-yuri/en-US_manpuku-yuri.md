@@ -1,5 +1,7 @@
 # Manpuku Yuri
 
+![manpuku-yuri](https://cdn.myanimelist.net/images/manga/2/149556.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Diamond no Brass!!: Seidou Koukou Suisougaku-bu
 
+![diamond-no-brass-seidou-koukou-suisougaku-bu](https://cdn.myanimelist.net/images/manga/1/191529.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

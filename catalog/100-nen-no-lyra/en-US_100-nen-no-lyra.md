@@ -1,5 +1,7 @@
 # 100-nen no Lyra
 
+![100-nen-no-lyra](https://cdn.myanimelist.net/images/manga/2/202378.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

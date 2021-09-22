@@ -1,5 +1,7 @@
 # Katakoi Diary
 
+![katakoi-diary](https://cdn.myanimelist.net/images/manga/3/91813.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

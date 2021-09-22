@@ -1,5 +1,7 @@
 # Tokyo Babel
 
+![tokyo-babel](https://cdn.myanimelist.net/images/manga/2/235776.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

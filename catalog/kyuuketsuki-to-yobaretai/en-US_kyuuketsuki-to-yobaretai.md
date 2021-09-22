@@ -1,5 +1,7 @@
 # Kyuuketsuki to Yobaretai!
 
+![kyuuketsuki-to-yobaretai](https://cdn.myanimelist.net/images/manga/2/240258.jpg)
+
 -   **type**: manga
 -   **original-name**: 吸血鬼と呼ばれたい！
 -   **start-date**: 2020-05-08

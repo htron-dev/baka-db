@@ -1,5 +1,7 @@
 # Schell Bullet
 
+![schell-bullet](https://cdn.myanimelist.net/images/manga/3/44303.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: シェルブリット

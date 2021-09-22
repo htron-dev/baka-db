@@ -1,5 +1,7 @@
 # Tower of God
 
+![tower-of-god](https://cdn.myanimelist.net/images/manga/2/223694.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 신의 탑
 -   **start-date**: 2010-07-05

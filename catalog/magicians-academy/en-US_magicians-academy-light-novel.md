@@ -1,5 +1,7 @@
 # Magician's Academy
 
+![magicians-academy](https://cdn.myanimelist.net/images/manga/1/128265.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: まじしゃんず・あかでみい

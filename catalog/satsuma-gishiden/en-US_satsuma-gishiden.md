@@ -1,5 +1,7 @@
 # Satsuma Gishiden
 
+![satsuma-gishiden](https://cdn.myanimelist.net/images/manga/3/3462.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

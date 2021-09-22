@@ -1,5 +1,7 @@
 # H2
 
+![h-2](https://cdn.myanimelist.net/images/anime/1480/105967.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 41
 -   **original-name**: Ｈ２[エイチ・ツー]

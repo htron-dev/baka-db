@@ -1,5 +1,7 @@
 # Batman: Child of Dreams
 
+![batman-child-of-dreams](https://cdn.myanimelist.net/images/manga/1/23510.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

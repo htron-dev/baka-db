@@ -1,5 +1,7 @@
 # Shin Tennis no Ouji-sama OVA vs. Genius 10
 
+![shin-tennis-no-ouji-sama-ova-vs-genius-10](https://cdn.myanimelist.net/images/anime/12/65403.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 新テニスの王子様 OVA vs Genius10

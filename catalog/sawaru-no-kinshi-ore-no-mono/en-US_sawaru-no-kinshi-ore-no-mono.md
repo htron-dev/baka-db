@@ -1,5 +1,7 @@
 # Sawaru no Kinshi!! Ore no Mono.
 
+![sawaru-no-kinshi-ore-no-mono](https://cdn.myanimelist.net/images/manga/3/179454.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Maa-chan no Nikkichou
 
+![maa-chan-no-nikkichou](https://cdn.myanimelist.net/images/manga/1/173496.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マアチャンの日記帳

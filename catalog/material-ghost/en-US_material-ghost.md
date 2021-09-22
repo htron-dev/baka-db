@@ -1,5 +1,7 @@
 # Material Ghost
 
+![material-ghost](https://cdn.myanimelist.net/images/manga/3/162463.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: マテリアルゴースト

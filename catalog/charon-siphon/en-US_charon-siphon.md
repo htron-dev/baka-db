@@ -1,5 +1,7 @@
 # Charon Siphon
 
+![charon-siphon](https://cdn.myanimelist.net/images/manga/1/78061.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

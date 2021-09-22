@@ -1,5 +1,7 @@
 # D.N.Angel
 
+![d-n-angel](https://cdn.myanimelist.net/images/anime/6/73938.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: Ｄ・Ｎ・ＡＮＧＥＬ

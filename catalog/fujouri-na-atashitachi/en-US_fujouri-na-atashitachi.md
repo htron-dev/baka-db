@@ -1,5 +1,7 @@
 # Fujouri na Atashitachi
 
+![fujouri-na-atashitachi](https://cdn.myanimelist.net/images/manga/1/198589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

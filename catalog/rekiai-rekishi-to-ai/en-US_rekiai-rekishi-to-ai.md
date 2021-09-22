@@ -1,5 +1,7 @@
 # Rekiai! Rekishi to Ai
 
+![rekiai-rekishi-to-ai](https://cdn.myanimelist.net/images/manga/3/215980.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

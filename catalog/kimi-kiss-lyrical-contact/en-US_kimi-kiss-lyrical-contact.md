@@ -1,5 +1,7 @@
 # KimiKiss: Lyrical Contact
 
+![kimi-kiss-lyrical-contact](https://cdn.myanimelist.net/images/manga/2/164122.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

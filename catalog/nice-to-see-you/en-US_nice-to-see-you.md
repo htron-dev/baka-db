@@ -1,5 +1,7 @@
 # Nice to See You
 
+![nice-to-see-you](https://cdn.myanimelist.net/images/anime/4/72723.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ナイス･トゥー･シー･ユー

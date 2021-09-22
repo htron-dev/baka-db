@@ -1,5 +1,7 @@
 # Huo Xing Wa: Xue Han Zi
 
+![huo-xing-wa-xue-han-zi](https://cdn.myanimelist.net/images/anime/1161/115381.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 火星娃识汉字

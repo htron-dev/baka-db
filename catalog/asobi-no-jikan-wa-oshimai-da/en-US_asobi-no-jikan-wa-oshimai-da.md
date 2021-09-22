@@ -1,5 +1,7 @@
 # Asobi no Jikan wa Oshimai da
 
+![asobi-no-jikan-wa-oshimai-da](https://cdn.myanimelist.net/images/manga/3/91745.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

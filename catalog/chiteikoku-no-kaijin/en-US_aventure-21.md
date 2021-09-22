@@ -1,5 +1,7 @@
 # Aventure 21
 
+![aventure-21](https://cdn.myanimelist.net/images/manga/2/76115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アバンチュール 21

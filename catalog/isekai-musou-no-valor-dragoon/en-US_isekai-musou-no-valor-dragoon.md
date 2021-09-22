@@ -1,5 +1,7 @@
 # Isekai Musou no Valor Dragoon
 
+![isekai-musou-no-valor-dragoon](https://cdn.myanimelist.net/images/manga/2/176650.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 26

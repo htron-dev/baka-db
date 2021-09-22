@@ -1,5 +1,7 @@
 # Wakusei Closet
 
+![wakusei-closet](https://cdn.myanimelist.net/images/manga/1/199271.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

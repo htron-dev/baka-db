@@ -1,5 +1,7 @@
 # Chotto Tobashisugi
 
+![chotto-tobashisugi](https://cdn.myanimelist.net/images/manga/1/17242.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # No Fatigue: 24-jikan Tatakaeru Otoko no Tenseitan
 
+![no-fatigue-24-jikan-tatakaeru-otoko-no-tenseitan](https://cdn.myanimelist.net/images/manga/2/161081.jpg)
+
 -   **type**: light-novel
 -   **original-name**: NO FATIGUE ～ 24 時間戦える男の転生譚～
 -   **start-date**: 2015-07-25

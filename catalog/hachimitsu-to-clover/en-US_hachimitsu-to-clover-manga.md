@@ -1,5 +1,7 @@
 # Hachimitsu to Clover
 
+![hachimitsu-to-clover](https://cdn.myanimelist.net/images/manga/3/184591.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 71

@@ -1,5 +1,7 @@
 # Daisetsusan no Yuusha Kibaou
 
+![daisetsusan-no-yuusha-kibaou](https://cdn.myanimelist.net/images/anime/10/25610.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 大雪山の勇者 牙王

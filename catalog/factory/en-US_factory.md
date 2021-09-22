@@ -1,5 +1,7 @@
 # Factory
 
+![factory](https://cdn.myanimelist.net/images/anime/1352/94786.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: FACTORY

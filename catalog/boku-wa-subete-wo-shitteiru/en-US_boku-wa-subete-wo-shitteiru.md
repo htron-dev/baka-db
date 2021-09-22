@@ -1,5 +1,7 @@
 # Boku wa Subete wo Shitteiru
 
+![boku-wa-subete-wo-shitteiru](https://cdn.myanimelist.net/images/manga/1/22977.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕はすべてを知っている
 -   **start-date**: 2006-11-22

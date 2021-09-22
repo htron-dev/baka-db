@@ -1,5 +1,7 @@
 # Karate Baka Ichidai
 
+![karate-baka-ichidai](https://cdn.myanimelist.net/images/anime/12/59007.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 空手バカ一代

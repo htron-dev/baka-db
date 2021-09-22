@@ -1,5 +1,7 @@
 # Nikushokujuu no Table Manners
 
+![nikushokujuu-no-table-manners](https://cdn.myanimelist.net/images/manga/2/13735.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

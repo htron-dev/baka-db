@@ -1,5 +1,7 @@
 # Girlfriend
 
+![girlfriend](https://cdn.myanimelist.net/images/manga/2/58687.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

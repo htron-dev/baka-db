@@ -1,5 +1,7 @@
 # Sanzensekai no Maou-sama
 
+![sanzensekai-no-maou-sama](https://cdn.myanimelist.net/images/manga/3/163343.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Maid wo Nerae!
 
+![maid-wo-nerae](https://cdn.myanimelist.net/images/manga/2/85787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Hatsukoi Monster
 
+![hatsukoi-monster](https://cdn.myanimelist.net/images/anime/12/80182.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 初恋モンスター

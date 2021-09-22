@@ -1,5 +1,7 @@
 # Maou to Yuusha no Kyoudai Kankei
 
+![maou-to-yuusha-no-kyoudai-kankei](https://cdn.myanimelist.net/images/manga/2/164397.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔王と勇者の兄妹カンケイ

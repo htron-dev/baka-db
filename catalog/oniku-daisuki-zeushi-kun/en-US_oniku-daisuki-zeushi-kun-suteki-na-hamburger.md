@@ -1,5 +1,7 @@
 # Oniku Daisuki! Zeushi-kun: Suteki na Hamburger
 
+![oniku-daisuki-zeushi-kun-suteki-na-hamburger](https://cdn.myanimelist.net/images/anime/3/78398.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: おにくだいすき! ゼウシくん（3 期）「すてきなハンバーグ」

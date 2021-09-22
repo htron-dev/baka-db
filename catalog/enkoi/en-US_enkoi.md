@@ -1,5 +1,7 @@
 # Enkoi
 
+![enkoi](https://cdn.myanimelist.net/images/manga/2/205066.jpg)
+
 -   **type**: manga
 -   **original-name**: エンコイ
 -   **start-date**: 2017-03-31

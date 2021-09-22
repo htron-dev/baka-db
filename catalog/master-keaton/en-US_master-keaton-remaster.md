@@ -1,5 +1,7 @@
 # Master Keaton Remaster
 
+![master-keaton-remaster](https://cdn.myanimelist.net/images/manga/1/148191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

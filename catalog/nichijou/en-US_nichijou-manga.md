@@ -1,5 +1,7 @@
 # Nichijou
 
+![nichijou](https://cdn.myanimelist.net/images/manga/2/164728.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 210

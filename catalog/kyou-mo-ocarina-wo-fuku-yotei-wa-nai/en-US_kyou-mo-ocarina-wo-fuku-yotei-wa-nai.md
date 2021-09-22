@@ -1,5 +1,7 @@
 # Kyou mo Ocarina wo Fuku Yotei wa Nai
 
+![kyou-mo-ocarina-wo-fuku-yotei-wa-nai](https://cdn.myanimelist.net/images/manga/3/125605.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 今日もオカリナを吹く予定はない

@@ -1,5 +1,7 @@
 # Hyakko
 
+![hyakko](https://cdn.myanimelist.net/images/anime/3/21685.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ヒャッコ

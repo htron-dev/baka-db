@@ -1,5 +1,7 @@
 # Bara no Ouji-sama
 
+![bara-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/7779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

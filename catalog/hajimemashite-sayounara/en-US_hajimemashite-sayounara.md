@@ -1,5 +1,7 @@
 # Hajimemashite Sayounara
 
+![hajimemashite-sayounara](https://cdn.myanimelist.net/images/manga/2/200338.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

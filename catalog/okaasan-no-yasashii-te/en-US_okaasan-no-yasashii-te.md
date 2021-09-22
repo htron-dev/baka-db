@@ -1,5 +1,7 @@
 # Okaasan no Yasashii te
 
+![okaasan-no-yasashii-te](https://cdn.myanimelist.net/images/anime/7/74522.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おかあさんのやさしい手

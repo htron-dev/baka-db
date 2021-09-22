@@ -1,5 +1,7 @@
 # Jungle de Ikou!
 
+![jungle-de-ikou](https://cdn.myanimelist.net/images/anime/9/3097.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ジャングル DE いこう!

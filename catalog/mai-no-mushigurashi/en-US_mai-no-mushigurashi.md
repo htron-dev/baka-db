@@ -1,5 +1,7 @@
 # Mai no Mushigurashi
 
+![mai-no-mushigurashi](https://cdn.myanimelist.net/images/manga/3/203915.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

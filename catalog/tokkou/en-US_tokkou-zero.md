@@ -1,5 +1,7 @@
 # Tokkou Zero
 
+![tokkou-zero](https://cdn.myanimelist.net/images/manga/2/154475.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Tairiki Tarou no Mucha Shuugyou
 
+![tairiki-tarou-no-mucha-shuugyou](https://cdn.myanimelist.net/images/anime/3/8533.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 大力太郎の無茶修業

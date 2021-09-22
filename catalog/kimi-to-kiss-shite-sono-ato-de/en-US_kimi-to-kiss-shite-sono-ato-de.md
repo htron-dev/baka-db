@@ -1,5 +1,7 @@
 # Kimi to Kiss Shite Sono Ato de
 
+![kimi-to-kiss-shite-sono-ato-de](https://cdn.myanimelist.net/images/manga/1/35039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

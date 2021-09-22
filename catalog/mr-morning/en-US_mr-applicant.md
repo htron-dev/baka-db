@@ -1,5 +1,7 @@
 # Mr. Applicant
 
+![mr-applicant](https://cdn.myanimelist.net/images/manga/1/198462.jpg)
+
 -   **type**: manga
 -   **original-name**: MR.APPLICANT
 -   **start-date**: 2011-05-10

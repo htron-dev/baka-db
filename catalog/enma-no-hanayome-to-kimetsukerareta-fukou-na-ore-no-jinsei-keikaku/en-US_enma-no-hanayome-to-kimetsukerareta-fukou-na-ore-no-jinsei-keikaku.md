@@ -1,5 +1,7 @@
 # Enma no Hanayome to Kimetsukerareta Fukou na Ore no Jinsei Keikaku
 
+![enma-no-hanayome-to-kimetsukerareta-fukou-na-ore-no-jinsei-keikaku](https://cdn.myanimelist.net/images/manga/1/88643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

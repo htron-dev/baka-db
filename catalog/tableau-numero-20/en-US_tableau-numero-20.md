@@ -1,5 +1,7 @@
 # Tableau numéro 20
 
+![tableau-numero-20](https://cdn.myanimelist.net/images/manga/2/45849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

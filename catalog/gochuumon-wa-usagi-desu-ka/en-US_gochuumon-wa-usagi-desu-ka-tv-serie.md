@@ -1,5 +1,7 @@
 # Gochuumon wa Usagi Desu ka??
 
+![gochuumon-wa-usagi-desu-ka](https://cdn.myanimelist.net/images/anime/8/76702.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ご注文はうさぎですか??

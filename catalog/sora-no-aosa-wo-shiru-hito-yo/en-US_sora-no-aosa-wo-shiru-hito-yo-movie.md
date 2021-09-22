@@ -1,5 +1,7 @@
 # Sora no Aosa wo Shiru Hito yo
 
+![sora-no-aosa-wo-shiru-hito-yo](https://cdn.myanimelist.net/images/anime/1468/102527.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 空の青さを知る人よ

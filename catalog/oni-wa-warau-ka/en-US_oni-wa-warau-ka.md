@@ -1,5 +1,7 @@
 # Oni wa Warau ka
 
+![oni-wa-warau-ka](https://cdn.myanimelist.net/images/manga/2/179276.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

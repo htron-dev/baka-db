@@ -1,5 +1,7 @@
 # Silver
 
+![silver](https://cdn.myanimelist.net/images/manga/2/24953.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 61

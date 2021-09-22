@@ -1,5 +1,7 @@
 # Mite Wa Ikenai
 
+![mite-wa-ikenai](https://cdn.myanimelist.net/images/manga/3/58645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

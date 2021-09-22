@@ -1,5 +1,7 @@
 # Umania☆
 
+![umania☆](https://cdn.myanimelist.net/images/manga/2/92505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

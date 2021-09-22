@@ -1,5 +1,7 @@
 # Egao no Taenai Shokuba desu.
 
+![egao-no-taenai-shokuba-desu](https://cdn.myanimelist.net/images/manga/2/225566.jpg)
+
 -   **type**: manga
 -   **original-name**: 笑顔のたえない職場です。
 -   **start-date**: 2019-05-18

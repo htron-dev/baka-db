@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon SuperS
 
+![bishoujo-senshi-sailor-moon-super-s](https://cdn.myanimelist.net/images/anime/1600/92253.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 美少女戦士セーラームーン Super S

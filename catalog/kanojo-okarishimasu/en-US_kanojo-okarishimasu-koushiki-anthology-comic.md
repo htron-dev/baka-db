@@ -1,5 +1,7 @@
 # Kanojo, Okarishimasu: Koushiki Anthology Comic
 
+![kanojo-okarishimasu-koushiki-anthology-comic](https://cdn.myanimelist.net/images/manga/1/239078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 24

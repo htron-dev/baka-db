@@ -1,5 +1,7 @@
 # Seishoujo Kantai Virgin Fleet
 
+![seishoujo-kantai-virgin-fleet](https://cdn.myanimelist.net/images/anime/1433/94588.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 聖少女艦隊バージンフリート

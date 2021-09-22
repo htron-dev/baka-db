@@ -1,5 +1,7 @@
 # Aki-chan wa Suki de Mashou Nan ja Nai
 
+![aki-chan-wa-suki-de-mashou-nan-ja-nai](https://cdn.myanimelist.net/images/manga/1/225898.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

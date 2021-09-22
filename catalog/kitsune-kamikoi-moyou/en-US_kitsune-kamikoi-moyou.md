@@ -1,5 +1,7 @@
 # Kitsune Kamikoi Moyou
 
+![kitsune-kamikoi-moyou](https://cdn.myanimelist.net/images/manga/2/192556.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

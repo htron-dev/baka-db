@@ -1,5 +1,7 @@
 # Sittaka Brillia
 
+![sittaka-brillia](https://cdn.myanimelist.net/images/manga/2/204848.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

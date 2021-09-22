@@ -1,5 +1,7 @@
 # Osouzai-ya to OL
 
+![osouzai-ya-to-ol](https://cdn.myanimelist.net/images/manga/2/206421.jpg)
+
 -   **type**: manga
 -   **original-name**: お惣菜屋と OL
 -   **start-date**: 2016-04-12

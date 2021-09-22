@@ -1,5 +1,7 @@
 # No Guns Life 2nd Season
 
+![no-guns-life-2nd-season](https://cdn.myanimelist.net/images/anime/1477/106613.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ノー・ガンズ・ライフ

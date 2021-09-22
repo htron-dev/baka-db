@@ -1,5 +1,7 @@
 # Aegis
 
+![aegis](https://cdn.myanimelist.net/images/manga/3/203289.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: AEGIS 이지스

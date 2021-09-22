@@ -1,5 +1,7 @@
 # Girl's Ride
 
+![girls-ride](https://cdn.myanimelist.net/images/manga/2/102893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

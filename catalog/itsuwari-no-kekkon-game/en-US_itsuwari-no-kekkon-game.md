@@ -1,5 +1,7 @@
 # Itsuwari no Kekkon Game
 
+![itsuwari-no-kekkon-game](https://cdn.myanimelist.net/images/manga/1/247001.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 偽りの結婚ゲーム

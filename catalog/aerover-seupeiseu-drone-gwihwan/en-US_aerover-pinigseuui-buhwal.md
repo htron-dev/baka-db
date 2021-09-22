@@ -1,5 +1,7 @@
 # Aerover: Pinigseuui Buhwal
 
+![aerover-pinigseuui-buhwal](https://cdn.myanimelist.net/images/anime/1745/115323.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 에어로버: 피닉스의 부활

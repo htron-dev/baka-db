@@ -1,5 +1,7 @@
 # Love Live! School Idol Project OVA
 
+![love-live-school-idol-project-ova](https://cdn.myanimelist.net/images/anime/1565/104629.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ラブライブ! School idol project OVA

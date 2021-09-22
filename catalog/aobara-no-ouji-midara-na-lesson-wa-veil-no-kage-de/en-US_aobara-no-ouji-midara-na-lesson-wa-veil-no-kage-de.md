@@ -1,5 +1,7 @@
 # Aobara no Ouji: Midara na Lesson wa Veil no Kage de
 
+![aobara-no-ouji-midara-na-lesson-wa-veil-no-kage-de](https://cdn.myanimelist.net/images/manga/3/181047.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

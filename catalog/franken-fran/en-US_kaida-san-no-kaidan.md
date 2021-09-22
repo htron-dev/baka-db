@@ -1,5 +1,7 @@
 # Kaida-san no Kaidan
 
+![kaida-san-no-kaidan](https://cdn.myanimelist.net/images/manga/3/233406.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

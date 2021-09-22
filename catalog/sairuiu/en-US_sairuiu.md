@@ -1,5 +1,7 @@
 # Sairuiu
 
+![sairuiu](https://cdn.myanimelist.net/images/manga/1/85165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

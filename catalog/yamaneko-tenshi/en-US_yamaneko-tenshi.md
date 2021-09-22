@@ -1,5 +1,7 @@
 # Yamaneko Tenshi
 
+![yamaneko-tenshi](https://cdn.myanimelist.net/images/manga/2/150497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 山猫天使

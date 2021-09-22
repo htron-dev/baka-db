@@ -1,5 +1,7 @@
 # Redmoon
 
+![redmoon](https://cdn.myanimelist.net/images/manga/1/100743.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 18
 -   **original-name**: 레드문

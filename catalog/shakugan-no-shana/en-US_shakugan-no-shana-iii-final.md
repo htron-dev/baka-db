@@ -1,5 +1,7 @@
 # Shakugan no Shana III (Final)
 
+![shakugan-no-shana-iii-final](https://cdn.myanimelist.net/images/anime/9/32539.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 灼眼のシャナ III –Final–

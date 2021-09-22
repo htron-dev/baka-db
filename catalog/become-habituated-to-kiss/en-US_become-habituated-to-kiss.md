@@ -1,5 +1,7 @@
 # Become Habituated to Kiss
 
+![become-habituated-to-kiss](https://cdn.myanimelist.net/images/manga/1/18208.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **chapters**: 75

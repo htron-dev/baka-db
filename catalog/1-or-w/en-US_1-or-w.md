@@ -1,5 +1,7 @@
 # 1 or W
 
+![1-or-w](https://cdn.myanimelist.net/images/manga/1/64851.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

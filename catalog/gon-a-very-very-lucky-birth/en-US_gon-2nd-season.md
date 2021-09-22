@@ -1,5 +1,7 @@
 # Gon 2nd Season
 
+![gon-2nd-season](https://cdn.myanimelist.net/images/anime/6/72771.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: GON -ゴン-(第 2 期)

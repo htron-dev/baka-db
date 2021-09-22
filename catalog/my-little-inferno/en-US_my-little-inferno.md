@@ -1,5 +1,7 @@
 # My Little Inferno
 
+![my-little-inferno](https://cdn.myanimelist.net/images/manga/1/235524.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

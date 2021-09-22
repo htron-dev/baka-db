@@ -1,5 +1,7 @@
 # Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku
 
+![paniponi-dash-danjite-okonaeba-kishin-mo-kore-wo-saku](https://cdn.myanimelist.net/images/anime/6/11083.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぱにぽにだっしゅ！ 断じて行えば鬼神もこれを避く

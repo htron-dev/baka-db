@@ -1,5 +1,7 @@
 # Watashi no Hisho no Monowasure ga Hageshi Sugiru!
 
+![watashi-no-hisho-no-monowasure-ga-hageshi-sugiru](https://cdn.myanimelist.net/images/manga/2/193149.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

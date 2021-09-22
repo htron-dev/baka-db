@@ -1,5 +1,7 @@
 # Que Será Será
 
+![que-sera-sera](https://cdn.myanimelist.net/images/manga/3/201868.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

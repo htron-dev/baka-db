@@ -1,5 +1,7 @@
 # Ultraman
 
+![ultraman](https://cdn.myanimelist.net/images/manga/3/149472.jpg)
+
 -   **type**: manga
 -   **original-name**: ULTRAMAN
 -   **start-date**: 2011-11-01

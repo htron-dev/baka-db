@@ -1,5 +1,7 @@
 # Sugoi Toshi no Sa Fuufu no Hanashi
 
+![sugoi-toshi-no-sa-fuufu-no-hanashi](https://cdn.myanimelist.net/images/manga/2/246912.jpg)
+
 -   **type**: manga
 -   **original-name**: すごい年の差夫婦の話
 -   **start-date**: 2021-05-14

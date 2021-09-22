@@ -1,5 +1,7 @@
 # Sine Cosine Love Sign
 
+![sine-cosine-love-sign](https://cdn.myanimelist.net/images/manga/4/25876.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: サイン　コサイン　恋サイン

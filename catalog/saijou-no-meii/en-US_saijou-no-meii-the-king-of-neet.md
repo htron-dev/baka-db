@@ -1,5 +1,7 @@
 # Saijou no Meii: The King of Neet
 
+![saijou-no-meii-the-king-of-neet](https://cdn.myanimelist.net/images/manga/1/40601.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 180

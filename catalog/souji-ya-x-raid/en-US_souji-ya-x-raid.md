@@ -1,5 +1,7 @@
 # Souji-ya X Raid
 
+![souji-ya-x-raid](https://cdn.myanimelist.net/images/manga/3/191715.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

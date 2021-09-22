@@ -1,5 +1,7 @@
 # Otome x Ranbu
 
+![otome-x-ranbu](https://cdn.myanimelist.net/images/manga/1/88283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

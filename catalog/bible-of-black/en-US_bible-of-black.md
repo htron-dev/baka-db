@@ -1,5 +1,7 @@
 # Bible of Black
 
+![bible-of-black](https://cdn.myanimelist.net/images/manga/2/168081.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

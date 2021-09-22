@@ -1,5 +1,7 @@
 # Deep Love: Ayu no Monogatari
 
+![deep-love-ayu-no-monogatari](https://cdn.myanimelist.net/images/manga/2/1007.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

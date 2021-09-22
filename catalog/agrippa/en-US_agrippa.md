@@ -1,5 +1,7 @@
 # Agrippa
 
+![agrippa](https://cdn.myanimelist.net/images/manga/1/40724.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: アグリッパ-AGRIPPA-

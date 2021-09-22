@@ -1,5 +1,7 @@
 # Nana Mix!
 
+![nana-mix](https://cdn.myanimelist.net/images/manga/2/55615.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

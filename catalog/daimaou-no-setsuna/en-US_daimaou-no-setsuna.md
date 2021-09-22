@@ -1,5 +1,7 @@
 # Daimaou no Setsuna
 
+![daimaou-no-setsuna](https://cdn.myanimelist.net/images/manga/1/164281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

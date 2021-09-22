@@ -1,5 +1,7 @@
 # Baka na Inu hodo Itooshii
 
+![baka-na-inu-hodo-itooshii](https://cdn.myanimelist.net/images/manga/1/245709.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

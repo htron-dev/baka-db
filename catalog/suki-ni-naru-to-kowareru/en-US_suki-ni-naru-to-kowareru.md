@@ -1,5 +1,7 @@
 # Suki ni Naru to Kowareru
 
+![suki-ni-naru-to-kowareru](https://cdn.myanimelist.net/images/manga/2/40081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

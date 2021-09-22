@@ -1,5 +1,7 @@
 # Riuu wo Machinagara
 
+![riuu-wo-machinagara](https://cdn.myanimelist.net/images/manga/3/197606.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

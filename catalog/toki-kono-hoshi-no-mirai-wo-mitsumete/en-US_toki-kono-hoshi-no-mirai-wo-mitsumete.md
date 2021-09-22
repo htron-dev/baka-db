@@ -1,5 +1,7 @@
 # Toki: Kono Hoshi no Mirai wo Mitsumete
 
+![toki-kono-hoshi-no-mirai-wo-mitsumete](https://cdn.myanimelist.net/images/anime/9/60485.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: トキ この地球(ほし)の未来を見つめて

@@ -1,5 +1,7 @@
 # Futari no Jikan
 
+![futari-no-jikan](https://cdn.myanimelist.net/images/manga/3/215070.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

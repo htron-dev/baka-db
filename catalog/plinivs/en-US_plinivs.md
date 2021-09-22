@@ -1,5 +1,7 @@
 # Plinivs
 
+![plinivs](https://cdn.myanimelist.net/images/manga/3/150433.jpg)
+
 -   **type**: manga
 -   **original-name**: プリニウス
 -   **start-date**: 2013-12-18

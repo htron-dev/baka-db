@@ -1,5 +1,7 @@
 # Ookiku Furikabutte: Natsu no Scorebook
 
+![ookiku-furikabutte-natsu-no-scorebook](https://cdn.myanimelist.net/images/anime/9/22178.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: おおきく振りかぶって

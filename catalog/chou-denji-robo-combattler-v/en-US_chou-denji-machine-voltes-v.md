@@ -1,5 +1,7 @@
 # Chou Denji Machine Voltes V
 
+![chou-denji-machine-voltes-v](https://cdn.myanimelist.net/images/anime/10/57603.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 超電磁マシーン ボルテス V

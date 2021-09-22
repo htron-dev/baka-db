@@ -1,5 +1,7 @@
 # Kaitou Queen wa Circus ga Osuki
 
+![kaitou-queen-wa-circus-ga-osuki](https://cdn.myanimelist.net/images/anime/1567/116544.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 怪盗クイーンはサーカスがお好き

@@ -1,5 +1,7 @@
 # Itsudatte Bokura no Koi wa 10 cm Datta.
 
+![itsudatte-bokura-no-koi-wa-10-cm-datta](https://cdn.myanimelist.net/images/anime/2/89554.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: いつだって僕らの恋は 10 センチだった。

@@ -1,5 +1,7 @@
 # Private
 
+![private](https://cdn.myanimelist.net/images/manga/2/2679.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

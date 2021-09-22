@@ -1,5 +1,7 @@
 # Tantei Kageki Milky Holmes TD
 
+![tantei-kageki-milky-holmes-td](https://cdn.myanimelist.net/images/anime/5/66891.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 探偵歌劇ミルキィホームズ TD

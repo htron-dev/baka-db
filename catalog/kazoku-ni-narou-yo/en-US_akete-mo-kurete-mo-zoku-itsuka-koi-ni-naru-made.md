@@ -1,5 +1,7 @@
 # Akete mo Kurete mo: Zoku Itsuka Koi ni Naru made
 
+![akete-mo-kurete-mo-zoku-itsuka-koi-ni-naru-made](https://cdn.myanimelist.net/images/manga/1/244260.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

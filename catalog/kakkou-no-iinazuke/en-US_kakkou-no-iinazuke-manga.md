@@ -1,5 +1,7 @@
 # Kakkou no Iinazuke
 
+![kakkou-no-iinazuke](https://cdn.myanimelist.net/images/manga/5/233993.jpg)
+
 -   **type**: manga
 -   **original-name**: カッコウの許嫁
 -   **start-date**: 2020-01-29

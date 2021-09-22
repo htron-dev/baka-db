@@ -1,5 +1,7 @@
 # 9 Tails
 
+![9-tails](https://cdn.myanimelist.net/images/manga/2/162705.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 26

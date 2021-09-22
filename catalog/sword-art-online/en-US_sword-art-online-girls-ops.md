@@ -1,5 +1,7 @@
 # Sword Art Online: Girls Ops
 
+![sword-art-online-girls-ops](https://cdn.myanimelist.net/images/manga/3/156370.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

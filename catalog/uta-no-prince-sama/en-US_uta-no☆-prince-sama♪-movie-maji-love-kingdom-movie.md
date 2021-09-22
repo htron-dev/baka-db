@@ -1,5 +1,7 @@
 # Uta no☆Prince-sama♪ Movie: Maji Love Kingdom
 
+![uta-no☆-prince-sama♪-movie-maji-love-kingdom](https://cdn.myanimelist.net/images/anime/1685/102221.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 うたの ☆ プリンスさまっ ♪ マジ LOVE キングダム

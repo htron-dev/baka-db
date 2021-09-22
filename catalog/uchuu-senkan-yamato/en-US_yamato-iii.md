@@ -1,5 +1,7 @@
 # Yamato III
 
+![yamato-iii](https://cdn.myanimelist.net/images/manga/1/61023.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 宇宙戦艦ヤマト III

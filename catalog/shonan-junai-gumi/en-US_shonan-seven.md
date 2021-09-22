@@ -1,5 +1,7 @@
 # Shonan Seven
 
+![shonan-seven](https://cdn.myanimelist.net/images/manga/1/130213.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 67

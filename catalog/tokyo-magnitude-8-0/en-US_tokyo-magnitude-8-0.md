@@ -1,5 +1,7 @@
 # Tokyo Magnitude 8.0
 
+![tokyo-magnitude-8-0](https://cdn.myanimelist.net/images/anime/10/13776.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 東京マグニチュード 8.0

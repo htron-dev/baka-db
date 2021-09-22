@@ -1,5 +1,7 @@
 # Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun
 
+![dragon-quest-dai-no-daibouken-buchiyabure-shinsei-6-daishougun](https://cdn.myanimelist.net/images/anime/1608/97554.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンクエスト　ダイの大冒険　ぶちやぶれ！！新生６大将軍

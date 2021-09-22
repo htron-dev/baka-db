@@ -1,5 +1,7 @@
 # Futari-Daka
 
+![futari-daka](https://cdn.myanimelist.net/images/manga/2/37887.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 188

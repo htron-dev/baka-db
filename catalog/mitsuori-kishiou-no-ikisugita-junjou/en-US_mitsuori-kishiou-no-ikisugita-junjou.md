@@ -1,5 +1,7 @@
 # Mitsuori: Kishiou no Ikisugita Junjou
 
+![mitsuori-kishiou-no-ikisugita-junjou](https://cdn.myanimelist.net/images/manga/2/191946.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

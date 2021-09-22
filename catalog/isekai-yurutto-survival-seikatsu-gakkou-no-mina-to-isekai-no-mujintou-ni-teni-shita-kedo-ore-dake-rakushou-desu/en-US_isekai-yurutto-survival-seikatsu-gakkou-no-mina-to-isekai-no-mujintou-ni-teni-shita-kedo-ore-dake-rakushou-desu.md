@@ -1,5 +1,7 @@
 # Isekai Yurutto Survival Seikatsu: Gakkou no Mina to Isekai no Mujintou ni Teni shita kedo Ore dake Rakushou desu
 
+![isekai-yurutto-survival-seikatsu-gakkou-no-mina-to-isekai-no-mujintou-ni-teni-shita-kedo-ore-dake-rakushou-desu](https://cdn.myanimelist.net/images/manga/1/241849.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界ゆるっとサバイバル生活～学校の皆と異世界の無人島に転移したけど俺だけ楽勝です～
 -   **start-date**: 2020-09-09

@@ -1,5 +1,7 @@
 # Ganbare! Moudouken Serve
 
+![ganbare-moudouken-serve](https://cdn.myanimelist.net/images/anime/2/27362.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: がんばれ!盲導犬サーブ

@@ -1,5 +1,7 @@
 # Guraburu!
 
+![guraburu](https://cdn.myanimelist.net/images/anime/1802/106812.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ぐらぶるっ！

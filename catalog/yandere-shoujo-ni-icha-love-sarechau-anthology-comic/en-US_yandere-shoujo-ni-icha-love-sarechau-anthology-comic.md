@@ -1,5 +1,7 @@
 # Yandere Shoujo ni Icha Love sarechau: Anthology Comic
 
+![yandere-shoujo-ni-icha-love-sarechau-anthology-comic](https://cdn.myanimelist.net/images/manga/2/223190.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # G-9
 
+![g-9](https://cdn.myanimelist.net/images/anime/4/81190.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: G-九

@@ -1,5 +1,7 @@
 # Gareki no Eden
 
+![gareki-no-eden](https://cdn.myanimelist.net/images/manga/3/11242.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

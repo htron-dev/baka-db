@@ -1,5 +1,7 @@
 # Makiba no Shoujo Katri
 
+![makiba-no-shoujo-katri](https://cdn.myanimelist.net/images/anime/9/66877.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 牧場の少女カトリ

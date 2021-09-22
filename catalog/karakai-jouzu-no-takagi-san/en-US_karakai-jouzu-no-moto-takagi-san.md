@@ -1,5 +1,7 @@
 # Karakai Jouzu no (Moto) Takagi-san
 
+![karakai-jouzu-no-moto-takagi-san](https://cdn.myanimelist.net/images/manga/2/204600.jpg)
+
 -   **type**: manga
 -   **original-name**: からかい上手の（元）高木さん
 -   **start-date**: 2017-07-15

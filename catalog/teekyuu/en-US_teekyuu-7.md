@@ -1,5 +1,7 @@
 # Teekyuu 7
 
+![teekyuu-7](https://cdn.myanimelist.net/images/anime/6/77830.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: てーきゅう 7 期

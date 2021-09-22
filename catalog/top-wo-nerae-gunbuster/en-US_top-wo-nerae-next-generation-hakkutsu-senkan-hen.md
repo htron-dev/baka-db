@@ -1,5 +1,7 @@
 # Top wo Nerae! Next Generation: Hakkutsu Senkan-hen
 
+![top-wo-nerae-next-generation-hakkutsu-senkan-hen](https://cdn.myanimelist.net/images/manga/2/244355.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

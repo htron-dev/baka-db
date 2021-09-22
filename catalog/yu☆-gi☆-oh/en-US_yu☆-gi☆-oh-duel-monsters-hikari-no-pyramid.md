@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Duel Monsters: Hikari no Pyramid
 
+![yu☆-gi☆-oh-duel-monsters-hikari-no-pyramid](https://cdn.myanimelist.net/images/manga/2/17877.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

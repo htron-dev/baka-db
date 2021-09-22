@@ -1,5 +1,7 @@
 # Papa Sex Caramelize
 
+![papa-sex-caramelize](https://cdn.myanimelist.net/images/manga/2/244772.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

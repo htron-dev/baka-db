@@ -1,5 +1,7 @@
 # Miyako Bijin Yawa
 
+![miyako-bijin-yawa](https://cdn.myanimelist.net/images/manga/1/211320.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

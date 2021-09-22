@@ -1,5 +1,7 @@
 # Pandora Hearts
 
+![pandora-hearts](https://cdn.myanimelist.net/images/anime/4/75535.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: パンドラハーツ

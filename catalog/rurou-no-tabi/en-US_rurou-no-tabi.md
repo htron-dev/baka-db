@@ -1,5 +1,7 @@
 # Rurou no Tabi
 
+![rurou-no-tabi](https://cdn.myanimelist.net/images/manga/2/218999.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

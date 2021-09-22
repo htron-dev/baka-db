@@ -1,5 +1,7 @@
 # Witch Hunter Robin
 
+![witch-hunter-robin](https://cdn.myanimelist.net/images/anime/1796/91065.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: Witch Hunter ROBIN (ウイッチハンターロビン)

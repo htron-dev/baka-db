@@ -1,5 +1,7 @@
 # Kiss ja Tomaranai!
 
+![kiss-ja-tomaranai](https://cdn.myanimelist.net/images/manga/2/153449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

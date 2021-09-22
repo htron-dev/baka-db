@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 2: Sentou Chouryuu
 
+![jo-jo-no-kimyou-na-bouken-part-2-sentou-chouryuu](https://cdn.myanimelist.net/images/manga/1/1630.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 69

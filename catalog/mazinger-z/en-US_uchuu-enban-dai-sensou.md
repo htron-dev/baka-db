@@ -1,5 +1,7 @@
 # Uchuu Enban Dai-Sensou
 
+![uchuu-enban-dai-sensou](https://cdn.myanimelist.net/images/anime/9/11614.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙円盤大戦争

@@ -1,5 +1,7 @@
 # Tondera House no Daibouken
 
+![tondera-house-no-daibouken](https://cdn.myanimelist.net/images/anime/12/22970.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: トンデラハウスの大冒険

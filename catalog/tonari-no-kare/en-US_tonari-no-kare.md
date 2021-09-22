@@ -1,5 +1,7 @@
 # Tonari no Kare
 
+![tonari-no-kare](https://cdn.myanimelist.net/images/manga/2/25696.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

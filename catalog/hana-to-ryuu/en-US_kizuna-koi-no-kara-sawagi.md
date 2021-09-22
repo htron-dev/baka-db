@@ -1,5 +1,7 @@
 # Kizuna: Koi no kara Sawagi
 
+![kizuna-koi-no-kara-sawagi](https://cdn.myanimelist.net/images/anime/5/72912.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 絆 KIZUNA~恋のから騒ぎ~

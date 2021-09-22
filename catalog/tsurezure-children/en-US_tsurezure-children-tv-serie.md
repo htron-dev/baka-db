@@ -1,5 +1,7 @@
 # Tsurezure Children
 
+![tsurezure-children](https://cdn.myanimelist.net/images/anime/12/86676.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 徒然チルドレン

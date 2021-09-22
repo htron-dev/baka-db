@@ -1,5 +1,7 @@
 # Oishii wo Ageru!
 
+![oishii-wo-ageru](https://cdn.myanimelist.net/images/manga/1/13524.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おいしいをあげる！

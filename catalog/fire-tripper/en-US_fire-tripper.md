@@ -1,5 +1,7 @@
 # Fire Tripper
 
+![fire-tripper](https://cdn.myanimelist.net/images/anime/5/11984.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 炎トリッパー

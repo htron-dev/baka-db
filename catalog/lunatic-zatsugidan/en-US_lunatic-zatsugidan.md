@@ -1,5 +1,7 @@
 # Lunatic Zatsugidan
 
+![lunatic-zatsugidan](https://cdn.myanimelist.net/images/manga/1/230827.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

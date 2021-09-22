@@ -1,5 +1,7 @@
 # Koi wa Tsumujikaze no You ni
 
+![koi-wa-tsumujikaze-no-you-ni](https://cdn.myanimelist.net/images/manga/2/231995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋はつむじ風のように

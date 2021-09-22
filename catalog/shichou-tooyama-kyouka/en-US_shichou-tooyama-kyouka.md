@@ -1,5 +1,7 @@
 # Shichou Tooyama Kyouka
 
+![shichou-tooyama-kyouka](https://cdn.myanimelist.net/images/manga/1/24961.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 市長遠山京香

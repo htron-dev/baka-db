@@ -1,5 +1,7 @@
 # Kuroneko wa Ookami Ouji no Yume wo Miru ka
 
+![kuroneko-wa-ookami-ouji-no-yume-wo-miru-ka](https://cdn.myanimelist.net/images/manga/2/246816.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 5: Ougon no Kaze
 
+![jo-jo-no-kimyou-na-bouken-part-5-ougon-no-kaze](https://cdn.myanimelist.net/images/anime/1572/95010.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ジョジョの奇妙な冒険 黄金の風
@@ -31,4 +33,4 @@ JoJo no Kimyou na Bouken: Ougon no Kaze follows the endeavors of Giorno after jo
 -   [Official Site](http://www.jojo-animation.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14173)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21131)
--   [Wikipedia](<http://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure_(TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure_%28TV_series%29)

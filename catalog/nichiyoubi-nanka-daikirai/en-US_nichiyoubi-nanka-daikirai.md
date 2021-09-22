@@ -1,5 +1,7 @@
 # Nichiyoubi Nanka Daikirai
 
+![nichiyoubi-nanka-daikirai](https://cdn.myanimelist.net/images/manga/1/7990.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 日曜日なんか大嫌い

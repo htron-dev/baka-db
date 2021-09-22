@@ -1,5 +1,7 @@
 # Ore no Yubi de Midarero.: Heitengo Futarikiri no Salon de...
 
+![ore-no-yubi-de-midarero-heitengo-futarikiri-no-salon-de](https://cdn.myanimelist.net/images/anime/1222/106183.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 俺の指で乱れろ。～閉店後二人きりのサロンで…～

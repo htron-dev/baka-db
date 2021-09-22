@@ -1,5 +1,7 @@
 # Akuma Iwaku Ore no Yome
 
+![akuma-iwaku-ore-no-yome](https://cdn.myanimelist.net/images/manga/3/215587.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33

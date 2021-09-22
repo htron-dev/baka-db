@@ -1,5 +1,7 @@
 # Mahou ga Tsukaenakutemo
 
+![mahou-ga-tsukaenakutemo](https://cdn.myanimelist.net/images/manga/1/210320.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

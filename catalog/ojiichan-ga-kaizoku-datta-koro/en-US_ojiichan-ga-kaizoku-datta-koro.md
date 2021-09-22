@@ -1,5 +1,7 @@
 # Ojiichan ga Kaizoku Datta Koro
 
+![ojiichan-ga-kaizoku-datta-koro](https://cdn.myanimelist.net/images/anime/6/36699.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おじいちゃんが海賊だった頃

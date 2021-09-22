@@ -1,5 +1,7 @@
 # Atashi ni Ai wo!
 
+![atashi-ni-ai-wo](https://cdn.myanimelist.net/images/manga/2/171965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アタシに愛を!

@@ -1,5 +1,7 @@
 # Soukou Musume Senki
 
+![soukou-musume-senki](https://cdn.myanimelist.net/images/anime/1532/110186.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 装甲娘戦機

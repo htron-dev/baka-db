@@ -1,5 +1,7 @@
 # Lucky☆Star: Original na Visual to Animation
 
+![lucky☆-star-original-na-visual-to-animation](https://cdn.myanimelist.net/images/anime/2/22582.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: らき ☆ すた OVA（オリジナルなビジュアルとアニメーション）
@@ -26,4 +28,4 @@ The OVA features six separate stories revolving around the cast, some of which b
 -   [Official Site](http://www.lucky-ch.com/luckypedia/goods_index.html#dvd_ova)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5932)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9842)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Lucky_Star_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Lucky_Star_%28manga%29)

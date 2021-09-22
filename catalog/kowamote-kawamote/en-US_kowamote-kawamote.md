@@ -1,5 +1,7 @@
 # Kowamote Kawamote
 
+![kowamote-kawamote](https://cdn.myanimelist.net/images/manga/3/234192.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 53

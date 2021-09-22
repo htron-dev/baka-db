@@ -1,5 +1,7 @@
 # Ourou
 
+![ourou](https://cdn.myanimelist.net/images/manga/1/146113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

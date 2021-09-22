@@ -1,5 +1,7 @@
 # Seishun Rikon
 
+![seishun-rikon](https://cdn.myanimelist.net/images/manga/2/80159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

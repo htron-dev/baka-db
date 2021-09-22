@@ -1,5 +1,7 @@
 # Yoru ni Naru to Boku wa
 
+![yoru-ni-naru-to-boku-wa](https://cdn.myanimelist.net/images/manga/3/212693.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

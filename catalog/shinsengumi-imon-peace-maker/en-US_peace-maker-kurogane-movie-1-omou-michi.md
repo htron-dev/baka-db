@@ -1,5 +1,7 @@
 # Peace Maker Kurogane Movie 1: Omou Michi
 
+![peace-maker-kurogane-movie-1-omou-michi](https://cdn.myanimelist.net/images/anime/1379/91338.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PEACE MAKER 鐵 前編～想道〈オモウミチ〉～

@@ -1,5 +1,7 @@
 # Orange
 
+![orange](https://cdn.myanimelist.net/images/manga/2/153742.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

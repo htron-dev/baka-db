@@ -1,5 +1,7 @@
 # Tsuihou Akuyaku Reijou no Dannasama
 
+![tsuihou-akuyaku-reijou-no-dannasama](https://cdn.myanimelist.net/images/manga/2/241745.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 追放悪役令嬢の旦那様
 -   **start-date**: 2019-12-10

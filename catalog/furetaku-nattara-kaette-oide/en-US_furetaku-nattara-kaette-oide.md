@@ -1,5 +1,7 @@
 # Furetaku Nattara, Kaette Oide
 
+![furetaku-nattara-kaette-oide](https://cdn.myanimelist.net/images/manga/2/246724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # 07-Ghost
 
+![07-ghost](https://cdn.myanimelist.net/images/manga/2/21417.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 100

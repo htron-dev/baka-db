@@ -1,5 +1,7 @@
 # Called Gehenna
 
+![called-gehenna](https://cdn.myanimelist.net/images/manga/3/112813.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: コールド・ゲヘナ

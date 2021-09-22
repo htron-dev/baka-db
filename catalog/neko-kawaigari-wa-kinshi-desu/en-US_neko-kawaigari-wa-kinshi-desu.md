@@ -1,5 +1,7 @@
 # Neko Kawaigari wa Kinshi desu
 
+![neko-kawaigari-wa-kinshi-desu](https://cdn.myanimelist.net/images/manga/2/226289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Sandwich Girl
 
+![sandwich-girl](https://cdn.myanimelist.net/images/manga/2/27138.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 

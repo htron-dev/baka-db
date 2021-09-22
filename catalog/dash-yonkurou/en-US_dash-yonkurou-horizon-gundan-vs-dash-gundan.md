@@ -1,5 +1,7 @@
 # Dash! Yonkurou: Horizon Gundan vs. Dash Gundan
 
+![dash-yonkurou-horizon-gundan-vs-dash-gundan](https://cdn.myanimelist.net/images/anime/1728/99056.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ダッシュ！四駆郎 ホライゾン軍団 VS ダッシュ軍団

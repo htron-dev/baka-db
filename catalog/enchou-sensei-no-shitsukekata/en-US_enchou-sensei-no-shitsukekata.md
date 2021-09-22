@@ -1,5 +1,7 @@
 # Enchou Sensei no Shitsukekata
 
+![enchou-sensei-no-shitsukekata](https://cdn.myanimelist.net/images/manga/2/61311.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 園長先生のしつけ方

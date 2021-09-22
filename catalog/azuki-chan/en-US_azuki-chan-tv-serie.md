@@ -1,5 +1,7 @@
 # Azuki-chan
 
+![azuki-chan](https://cdn.myanimelist.net/images/anime/7/10653.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 117
 -   **original-name**: あずきちゃん

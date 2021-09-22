@@ -1,5 +1,7 @@
 # Sex Pistols
 
+![sex-pistols](https://cdn.myanimelist.net/images/manga/2/85083.jpg)
+
 -   **type**: manga
 -   **original-name**: SEX PISTOLS
 -   **start-date**: 2004-01-20

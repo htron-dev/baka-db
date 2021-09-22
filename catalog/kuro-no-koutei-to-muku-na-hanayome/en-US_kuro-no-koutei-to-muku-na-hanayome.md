@@ -1,5 +1,7 @@
 # Kuro no Koutei to Muku na Hanayome
 
+![kuro-no-koutei-to-muku-na-hanayome](https://cdn.myanimelist.net/images/manga/2/219669.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

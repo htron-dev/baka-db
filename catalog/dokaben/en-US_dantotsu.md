@@ -1,5 +1,7 @@
 # Dantotsu
 
+![dantotsu](https://cdn.myanimelist.net/images/manga/2/136969.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ダントツ

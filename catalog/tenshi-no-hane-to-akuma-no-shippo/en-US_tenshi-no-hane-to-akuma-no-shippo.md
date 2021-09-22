@@ -1,5 +1,7 @@
 # Tenshi no Hane to Akuma no Shippo
 
+![tenshi-no-hane-to-akuma-no-shippo](https://cdn.myanimelist.net/images/manga/2/7882.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

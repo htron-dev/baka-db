@@ -1,5 +1,7 @@
 # Ore wa Seikan Kokka no Akutoku Ryoushu!
 
+![ore-wa-seikan-kokka-no-akutoku-ryoushu](https://cdn.myanimelist.net/images/manga/3/234717.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺は星間国家の悪徳領主!
 -   **start-date**: 2020-07-25

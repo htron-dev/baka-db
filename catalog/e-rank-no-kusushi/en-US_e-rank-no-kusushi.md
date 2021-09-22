@@ -1,5 +1,7 @@
 # E-Rank no Kusushi
 
+![e-rank-no-kusushi](https://cdn.myanimelist.net/images/manga/1/223932.jpg)
+
 -   **type**: manga
 -   **original-name**: E ランクの薬師
 -   **start-date**: 2019-02-26

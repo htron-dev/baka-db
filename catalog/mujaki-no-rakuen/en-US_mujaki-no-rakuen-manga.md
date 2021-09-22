@@ -1,5 +1,7 @@
 # Mujaki no Rakuen
 
+![mujaki-no-rakuen](https://cdn.myanimelist.net/images/manga/3/86289.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 93

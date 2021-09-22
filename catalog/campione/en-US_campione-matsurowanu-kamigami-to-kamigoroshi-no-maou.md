@@ -1,5 +1,7 @@
 # Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou
 
+![campione-matsurowanu-kamigami-to-kamigoroshi-no-maou](https://cdn.myanimelist.net/images/anime/13/75662.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: カンピオーネ！ ～まつろわぬ神々と神殺しの魔王～

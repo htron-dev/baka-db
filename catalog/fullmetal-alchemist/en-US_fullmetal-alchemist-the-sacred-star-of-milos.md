@@ -1,5 +1,7 @@
 # Fullmetal Alchemist: The Sacred Star of Milos
 
+![fullmetal-alchemist-the-sacred-star-of-milos](https://cdn.myanimelist.net/images/anime/2/29550.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 鋼の錬金術師 嘆きの丘(ミロス)の聖なる星

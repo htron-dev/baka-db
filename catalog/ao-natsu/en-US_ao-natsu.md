@@ -1,5 +1,7 @@
 # Ao Natsu
 
+![ao-natsu](https://cdn.myanimelist.net/images/manga/1/192740.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

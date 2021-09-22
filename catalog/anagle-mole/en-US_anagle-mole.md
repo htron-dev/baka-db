@@ -1,5 +1,7 @@
 # Anagle Mole
 
+![anagle-mole](https://cdn.myanimelist.net/images/manga/1/155064.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

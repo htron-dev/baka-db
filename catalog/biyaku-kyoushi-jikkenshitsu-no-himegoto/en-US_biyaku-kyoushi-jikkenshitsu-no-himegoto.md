@@ -1,5 +1,7 @@
 # Biyaku Kyoushi ~ Jikkenshitsu no Himegoto
 
+![biyaku-kyoushi-jikkenshitsu-no-himegoto](https://cdn.myanimelist.net/images/manga/1/14501.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

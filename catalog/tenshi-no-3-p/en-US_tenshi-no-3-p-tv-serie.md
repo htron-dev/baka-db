@@ -1,5 +1,7 @@
 # Tenshi no 3P!
 
+![tenshi-no-3-p](https://cdn.myanimelist.net/images/anime/8/86831.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 天使の 3P！〈スリーピース〉

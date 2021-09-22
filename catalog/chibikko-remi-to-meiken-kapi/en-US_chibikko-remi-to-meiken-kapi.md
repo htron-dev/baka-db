@@ -1,5 +1,7 @@
 # Chibikko Remi to Meiken Kapi
 
+![chibikko-remi-to-meiken-kapi](https://cdn.myanimelist.net/images/anime/11/28419.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちびっ子レミと名犬カピ

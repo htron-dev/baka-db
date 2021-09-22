@@ -1,5 +1,7 @@
 # Himitsu ga Hanazono
 
+![himitsu-ga-hanazono](https://cdn.myanimelist.net/images/manga/2/72571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

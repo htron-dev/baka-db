@@ -1,5 +1,7 @@
 # Brafman
 
+![brafman](https://cdn.myanimelist.net/images/manga/1/187023.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Tsuki no Hebi: Suikoden Ibun
 
+![tsuki-no-hebi-suikoden-ibun](https://cdn.myanimelist.net/images/manga/2/125399.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 33

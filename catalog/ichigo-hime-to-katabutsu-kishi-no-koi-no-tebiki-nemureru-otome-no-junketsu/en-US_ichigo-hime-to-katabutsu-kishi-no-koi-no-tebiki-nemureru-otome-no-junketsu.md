@@ -1,5 +1,7 @@
 # Ichigo-hime to Katabutsu Kishi no Koi no Tebiki: Nemureru Otome no Junketsu
 
+![ichigo-hime-to-katabutsu-kishi-no-koi-no-tebiki-nemureru-otome-no-junketsu](https://cdn.myanimelist.net/images/manga/1/183890.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

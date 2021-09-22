@@ -1,5 +1,7 @@
 # Hatsukoi Big Honey
 
+![hatsukoi-big-honey](https://cdn.myanimelist.net/images/manga/2/246071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

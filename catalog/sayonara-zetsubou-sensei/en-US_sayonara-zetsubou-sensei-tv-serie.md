@@ -1,5 +1,7 @@
 # Sayonara Zetsubou Sensei
 
+![sayonara-zetsubou-sensei](https://cdn.myanimelist.net/images/anime/5/6559.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: さよなら絶望先生

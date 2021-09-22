@@ -1,5 +1,7 @@
 # Darenidemo Dekiru Kage kara Tasukeru Maou Toubatsu
 
+![darenidemo-dekiru-kage-kara-tasukeru-maou-toubatsu](https://cdn.myanimelist.net/images/manga/1/198702.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 誰にでもできる影から助ける魔王討伐
 -   **start-date**: 2016-12-24

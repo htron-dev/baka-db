@@ -1,5 +1,7 @@
 # Karekano Gokko
 
+![karekano-gokko](https://cdn.myanimelist.net/images/manga/2/150336.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

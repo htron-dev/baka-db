@@ -1,5 +1,7 @@
 # Sono Mono. Nochi ni...: Kigatsuitara S-kyuu Saikyou!? Yuusha Wazu no Daibouken
 
+![sono-mono-nochi-ni-kigatsuitara-s-kyuu-saikyou-yuusha-wazu-no-daibouken](https://cdn.myanimelist.net/images/manga/3/221206.jpg)
+
 -   **type**: manga
 -   **original-name**: その者。のちに… ～気がついたら S 級最強!? 勇者ワズの大冒険～
 -   **start-date**: 2018-08-31

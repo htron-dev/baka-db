@@ -1,5 +1,7 @@
 # Koukou Tekkenden Tough
 
+![koukou-tekkenden-tough](https://cdn.myanimelist.net/images/manga/1/75339.jpg)
+
 -   **type**: manga
 -   **volumes**: 42
 -   **chapters**: 474

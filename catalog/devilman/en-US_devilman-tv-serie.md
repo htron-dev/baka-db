@@ -1,5 +1,7 @@
 # Devilman
 
+![devilman](https://cdn.myanimelist.net/images/anime/9/72913.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: デビルマン

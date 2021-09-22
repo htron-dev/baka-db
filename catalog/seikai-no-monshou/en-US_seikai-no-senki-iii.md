@@ -1,5 +1,7 @@
 # Seikai no Senki III
 
+![seikai-no-senki-iii](https://cdn.myanimelist.net/images/anime/11/2755.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 星界の戦旗 III

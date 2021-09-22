@@ -1,5 +1,7 @@
 # Honey Blood
 
+![honey-blood](https://cdn.myanimelist.net/images/manga/3/209465.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 22

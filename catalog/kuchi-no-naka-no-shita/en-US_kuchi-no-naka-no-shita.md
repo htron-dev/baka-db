@@ -1,5 +1,7 @@
 # Kuchi no Naka no Shita
 
+![kuchi-no-naka-no-shita](https://cdn.myanimelist.net/images/manga/3/203985.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

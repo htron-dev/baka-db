@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: Kakuzetsu Toshi no Joou
 
+![shingeki-no-kyojin-kakuzetsu-toshi-no-joou](https://cdn.myanimelist.net/images/manga/1/134205.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 7

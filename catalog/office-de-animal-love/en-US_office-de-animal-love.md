@@ -1,5 +1,7 @@
 # Office de Animal Love
 
+![office-de-animal-love](https://cdn.myanimelist.net/images/manga/3/109875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

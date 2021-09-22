@@ -1,5 +1,7 @@
 # Catblue: Dynamite
 
+![catblue-dynamite](https://cdn.myanimelist.net/images/anime/9/9351.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: キャットブルー：ダイナマイト

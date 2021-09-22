@@ -1,5 +1,7 @@
 # Ai City
 
+![ai-city](https://cdn.myanimelist.net/images/anime/10/9864.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アイ・シティ

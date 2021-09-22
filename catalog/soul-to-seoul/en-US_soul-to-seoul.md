@@ -1,5 +1,7 @@
 # Soul to Seoul
 
+![soul-to-seoul](https://cdn.myanimelist.net/images/manga/2/3366.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 18

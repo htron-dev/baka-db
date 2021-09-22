@@ -1,5 +1,7 @@
 # Delete: Kioku no Sukima wa H de Anaume
 
+![delete-kioku-no-sukima-wa-h-de-anaume](https://cdn.myanimelist.net/images/manga/3/169780.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

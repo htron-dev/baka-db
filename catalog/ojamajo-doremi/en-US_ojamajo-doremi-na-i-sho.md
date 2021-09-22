@@ -1,5 +1,7 @@
 # Ojamajo Doremi Na-i-sho
 
+![ojamajo-doremi-na-i-sho](https://cdn.myanimelist.net/images/anime/8/24929.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: おジャ魔女どれみ ナ・イ・ショ

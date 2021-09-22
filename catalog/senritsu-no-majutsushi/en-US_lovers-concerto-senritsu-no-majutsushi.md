@@ -1,5 +1,7 @@
 # Lover's Concerto: Senritsu no Majutsushi
 
+![lovers-concerto-senritsu-no-majutsushi](https://cdn.myanimelist.net/images/manga/3/207537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

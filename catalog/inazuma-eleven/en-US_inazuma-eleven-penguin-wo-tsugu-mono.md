@@ -1,5 +1,7 @@
 # Inazuma Eleven: Penguin wo Tsugu Mono
 
+![inazuma-eleven-penguin-wo-tsugu-mono](https://cdn.myanimelist.net/images/manga/1/231233.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

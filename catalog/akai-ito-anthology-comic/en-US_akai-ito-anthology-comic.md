@@ -1,5 +1,7 @@
 # Akai Ito Anthology Comic
 
+![akai-ito-anthology-comic](https://cdn.myanimelist.net/images/manga/3/155438.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

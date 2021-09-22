@@ -1,5 +1,7 @@
 # Blade of the Immortal
 
+![blade-of-the-immortal](https://cdn.myanimelist.net/images/anime/2/74074.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 無限の住人

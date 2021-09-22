@@ -1,5 +1,7 @@
 # Amano Kozue Tanpenshuu
 
+![amano-kozue-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/28194.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 天野こずえ短編集

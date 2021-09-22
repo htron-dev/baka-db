@@ -1,5 +1,7 @@
 # Genma Taisen
 
+![genma-taisen](https://cdn.myanimelist.net/images/anime/13/73382.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 幻魔大戦

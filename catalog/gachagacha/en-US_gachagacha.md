@@ -1,5 +1,7 @@
 # Gachagacha
 
+![gachagacha](https://cdn.myanimelist.net/images/manga/1/143255.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 97

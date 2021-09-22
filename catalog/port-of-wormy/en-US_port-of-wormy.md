@@ -1,5 +1,7 @@
 # Port of Wormy
 
+![port-of-wormy](https://cdn.myanimelist.net/images/anime/1305/94785.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PORT OF WORMY

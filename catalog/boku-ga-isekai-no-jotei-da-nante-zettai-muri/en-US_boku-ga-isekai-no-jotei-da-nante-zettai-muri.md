@@ -1,5 +1,7 @@
 # Boku ga Isekai no Jotei da Nante Zettai Muri!
 
+![boku-ga-isekai-no-jotei-da-nante-zettai-muri](https://cdn.myanimelist.net/images/manga/1/168647.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

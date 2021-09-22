@@ -1,5 +1,7 @@
 # Ra/Radio Noise\*Planet
 
+![ra-radio-noise-planet](https://cdn.myanimelist.net/images/anime/12/34247.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ラ/ラジオノイズ＊プラネット

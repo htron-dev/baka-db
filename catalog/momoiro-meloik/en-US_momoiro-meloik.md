@@ -1,5 +1,7 @@
 # Momoiro Meloik
 
+![momoiro-meloik](https://cdn.myanimelist.net/images/manga/3/183574.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 102

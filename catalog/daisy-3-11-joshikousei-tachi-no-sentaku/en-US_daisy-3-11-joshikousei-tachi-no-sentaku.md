@@ -1,5 +1,7 @@
 # Daisy: 3.11 Joshikousei-tachi no Sentaku
 
+![daisy-3-11-joshikousei-tachi-no-sentaku](https://cdn.myanimelist.net/images/manga/1/135995.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

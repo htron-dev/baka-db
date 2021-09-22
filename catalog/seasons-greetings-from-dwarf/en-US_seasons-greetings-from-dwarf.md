@@ -1,5 +1,7 @@
 # Season's Greetings from dwarf
 
+![seasons-greetings-from-dwarf](https://cdn.myanimelist.net/images/anime/6/89762.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: Season's Greetings from dwarf

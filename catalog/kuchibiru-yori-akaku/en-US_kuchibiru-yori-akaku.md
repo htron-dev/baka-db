@@ -1,5 +1,7 @@
 # Kuchibiru yori Akaku
 
+![kuchibiru-yori-akaku](https://cdn.myanimelist.net/images/manga/3/141923.jpg)
+
 -   **type**: manga
 -   **original-name**: 唇より朱く
 -   **start-date**: 2012-07-24

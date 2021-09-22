@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament Burst
 
+![shinmai-maou-no-testament-burst](https://cdn.myanimelist.net/images/anime/1151/94750.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 新妹魔王の契約者 BURST

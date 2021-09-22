@@ -1,5 +1,7 @@
 # Baby Steps
 
+![baby-steps](https://cdn.myanimelist.net/images/anime/5/63361.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ベイビーステップ

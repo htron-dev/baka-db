@@ -1,5 +1,7 @@
 # The iDOLM@STER
 
+![the-i-dolm-ster](https://cdn.myanimelist.net/images/manga/1/111813.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 42

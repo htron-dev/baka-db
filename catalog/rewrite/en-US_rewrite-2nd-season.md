@@ -1,5 +1,7 @@
 # Rewrite 2nd Season
 
+![rewrite-2nd-season](https://cdn.myanimelist.net/images/anime/13/83930.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: Rewrite 2nd シーズン

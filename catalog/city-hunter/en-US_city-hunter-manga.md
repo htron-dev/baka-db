@@ -1,5 +1,7 @@
 # City Hunter
 
+![city-hunter](https://cdn.myanimelist.net/images/manga/3/75879.jpg)
+
 -   **type**: manga
 -   **volumes**: 35
 -   **chapters**: 193

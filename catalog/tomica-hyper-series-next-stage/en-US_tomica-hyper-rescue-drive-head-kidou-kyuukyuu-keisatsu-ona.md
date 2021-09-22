@@ -1,5 +1,7 @@
 # Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (ONA)
 
+![tomica-hyper-rescue-drive-head-kidou-kyuukyuu-keisatsu-ona](https://cdn.myanimelist.net/images/anime/1997/90929.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: トミカハイパーレスキュー ドライブヘッド 機動救急警察 (2018)

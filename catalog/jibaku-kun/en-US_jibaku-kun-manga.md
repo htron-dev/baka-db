@@ -1,5 +1,7 @@
 # Jibaku-kun
 
+![jibaku-kun](https://cdn.myanimelist.net/images/manga/2/186970.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

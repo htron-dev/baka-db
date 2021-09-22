@@ -1,5 +1,7 @@
 # Kakari
 
+![kakari](https://cdn.myanimelist.net/images/anime/7/71810.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 係

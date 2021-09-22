@@ -1,5 +1,7 @@
 # Ikinuke! Bakusou! Kusohamu-chan!
 
+![ikinuke-bakusou-kusohamu-chan](https://cdn.myanimelist.net/images/anime/1950/113662.jpg)
+
 -   **type**: ona
 -   **original-name**: 生き抜け！爆走！クソハムちゃん
 -   **start-date**: 2021-03-17

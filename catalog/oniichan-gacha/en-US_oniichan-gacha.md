@@ -1,5 +1,7 @@
 # Oniichan, Gacha
 
+![oniichan-gacha](https://cdn.myanimelist.net/images/manga/2/162157.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

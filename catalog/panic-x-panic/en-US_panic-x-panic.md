@@ -1,5 +1,7 @@
 # Panic x Panic
 
+![panic-x-panic](https://cdn.myanimelist.net/images/manga/4/111783.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

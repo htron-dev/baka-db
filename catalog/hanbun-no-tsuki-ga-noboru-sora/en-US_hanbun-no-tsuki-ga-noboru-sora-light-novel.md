@@ -1,5 +1,7 @@
 # Hanbun no Tsuki ga Noboru Sora
 
+![hanbun-no-tsuki-ga-noboru-sora](https://cdn.myanimelist.net/images/manga/1/119061.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 41

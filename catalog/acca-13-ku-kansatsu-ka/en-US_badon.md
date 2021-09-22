@@ -1,5 +1,7 @@
 # Badon
 
+![badon](https://cdn.myanimelist.net/images/manga/2/225930.jpg)
+
 -   **type**: manga
 -   **original-name**: BADON
 -   **start-date**: 2019-01-25

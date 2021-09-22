@@ -1,5 +1,7 @@
 # Todenka
 
+![todenka](https://cdn.myanimelist.net/images/manga/1/45833.jpg)
+
 -   **type**: manga
 -   **original-name**: とでんか
 

@@ -1,5 +1,7 @@
 # Fujishiro-san-kei.
 
+![fujishiro-san-kei](https://cdn.myanimelist.net/images/manga/1/104581.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 藤代さん系。

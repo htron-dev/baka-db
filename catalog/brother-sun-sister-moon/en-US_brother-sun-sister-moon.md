@@ -1,5 +1,7 @@
 # Brother Sun Sister Moon
 
+![brother-sun-sister-moon](https://cdn.myanimelist.net/images/manga/1/207006.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

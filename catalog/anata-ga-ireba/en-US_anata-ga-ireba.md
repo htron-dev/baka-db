@@ -1,5 +1,7 @@
 # Anata ga Ireba
 
+![anata-ga-ireba](https://cdn.myanimelist.net/images/manga/1/177680.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 33

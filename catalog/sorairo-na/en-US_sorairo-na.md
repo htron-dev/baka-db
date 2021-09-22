@@ -1,5 +1,7 @@
 # Sorairo na
 
+![sorairo-na](https://cdn.myanimelist.net/images/manga/2/176031.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: そらいろな

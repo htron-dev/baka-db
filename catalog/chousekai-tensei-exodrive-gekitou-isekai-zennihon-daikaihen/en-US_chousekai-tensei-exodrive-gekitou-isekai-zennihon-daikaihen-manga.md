@@ -1,5 +1,7 @@
 # Chousekai Tensei Exodrive: Gekitou! Isekai Zennihon Daikaihen
 
+![chousekai-tensei-exodrive-gekitou-isekai-zennihon-daikaihen](https://cdn.myanimelist.net/images/manga/3/246853.jpg)
+
 -   **type**: manga
 -   **original-name**: 超世界転生エグゾドライブ -激闘！異世界全日本大会編-
 -   **start-date**: 2020-03-30

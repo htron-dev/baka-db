@@ -1,5 +1,7 @@
 # Hakurai no Kishi
 
+![hakurai-no-kishi](https://cdn.myanimelist.net/images/manga/1/234815.jpg)
+
 -   **type**: manga
 -   **original-name**: 白雷の騎士
 -   **start-date**: 2019-10-22

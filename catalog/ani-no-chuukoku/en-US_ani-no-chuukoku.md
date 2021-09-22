@@ -1,5 +1,7 @@
 # Ani no Chuukoku
 
+![ani-no-chuukoku](https://cdn.myanimelist.net/images/manga/3/170156.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

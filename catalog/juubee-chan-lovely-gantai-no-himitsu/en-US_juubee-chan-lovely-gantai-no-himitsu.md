@@ -1,5 +1,7 @@
 # Juubee-chan: Lovely Gantai no Himitsu
 
+![juubee-chan-lovely-gantai-no-himitsu](https://cdn.myanimelist.net/images/anime/13/60987.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 十兵衛ちゃん ーラブリー眼帯の秘密

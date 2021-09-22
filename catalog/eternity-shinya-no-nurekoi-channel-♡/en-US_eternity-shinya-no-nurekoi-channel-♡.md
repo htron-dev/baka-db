@@ -1,5 +1,7 @@
 # Eternity: Shinya no Nurekoi Channel ♡
 
+![eternity-shinya-no-nurekoi-channel-♡](https://cdn.myanimelist.net/images/anime/1724/110698.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: エタニティ　～深夜の濡恋ちゃんねる ♡ ～

@@ -1,5 +1,7 @@
 # Shippuu Jinrai
 
+![shippuu-jinrai](https://cdn.myanimelist.net/images/manga/1/227907.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

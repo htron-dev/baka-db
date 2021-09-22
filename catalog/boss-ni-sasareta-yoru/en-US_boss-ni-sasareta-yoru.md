@@ -1,5 +1,7 @@
 # Boss ni Sasareta Yoru
 
+![boss-ni-sasareta-yoru](https://cdn.myanimelist.net/images/manga/2/126303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ボスに捧げた夜

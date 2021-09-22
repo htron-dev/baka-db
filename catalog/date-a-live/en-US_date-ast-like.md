@@ -1,5 +1,7 @@
 # Date Ast Like
 
+![date-ast-like](https://cdn.myanimelist.net/images/manga/3/113577.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

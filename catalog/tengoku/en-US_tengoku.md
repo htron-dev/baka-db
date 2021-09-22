@@ -1,5 +1,7 @@
 # Tengoku
 
+![tengoku](https://cdn.myanimelist.net/images/manga/2/152452.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 52

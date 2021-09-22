@@ -1,5 +1,7 @@
 # Yankee JK Kuzuhana-chan
 
+![yankee-jk-kuzuhana-chan](https://cdn.myanimelist.net/images/manga/2/232802.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤンキー JK クズハナちゃん
 -   **start-date**: 2020-03-19

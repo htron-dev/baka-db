@@ -1,5 +1,7 @@
 # Witch Class
 
+![witch-class](https://cdn.myanimelist.net/images/manga/1/10167.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 

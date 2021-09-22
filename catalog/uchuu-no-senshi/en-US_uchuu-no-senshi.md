@@ -1,5 +1,7 @@
 # Uchuu no Senshi
 
+![uchuu-no-senshi](https://cdn.myanimelist.net/images/anime/2/3090.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 宇宙の戦士

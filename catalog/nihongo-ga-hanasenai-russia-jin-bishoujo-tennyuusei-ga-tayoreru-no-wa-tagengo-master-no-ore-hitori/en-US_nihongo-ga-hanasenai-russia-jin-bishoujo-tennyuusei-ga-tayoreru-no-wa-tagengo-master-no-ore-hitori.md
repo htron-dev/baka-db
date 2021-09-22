@@ -1,5 +1,7 @@
 # Nihongo ga Hanasenai Russia-jin Bishoujo Tennyuusei ga Tayoreru no wa, Tagengo Master no Ore Hitori
 
+![nihongo-ga-hanasenai-russia-jin-bishoujo-tennyuusei-ga-tayoreru-no-wa-tagengo-master-no-ore-hitori](https://cdn.myanimelist.net/images/manga/3/248360.jpg)
+
 -   **type**: manga
 -   **original-name**: 日本語が話せないロシア人美少女転入生が頼れるのは、多言語マスターの俺 1 人
 -   **start-date**: 2021-07-13

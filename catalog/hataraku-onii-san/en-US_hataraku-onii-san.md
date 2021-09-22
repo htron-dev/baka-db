@@ -1,5 +1,7 @@
 # Hataraku Onii-san!
 
+![hataraku-onii-san](https://cdn.myanimelist.net/images/anime/10/88930.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 働くお兄さん!

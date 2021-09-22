@@ -1,5 +1,7 @@
 # Oyayubi kara Romance
 
+![oyayubi-kara-romance](https://cdn.myanimelist.net/images/manga/1/3792.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 52

@@ -1,5 +1,7 @@
 # Waresho! Warera! Shodobutsu Aigo Iinkai
 
+![waresho-warera-shodobutsu-aigo-iinkai](https://cdn.myanimelist.net/images/anime/1901/101621.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: われしょ!～我ら!小動物愛護委員会～

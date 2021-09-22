@@ -1,5 +1,7 @@
 # S to M no Sekai
 
+![s-to-m-no-sekai](https://cdn.myanimelist.net/images/manga/1/37113.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

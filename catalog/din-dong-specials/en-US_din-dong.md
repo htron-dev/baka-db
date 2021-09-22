@@ -1,5 +1,7 @@
 # Din Dong
 
+![din-dong](https://cdn.myanimelist.net/images/anime/6/27299.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 癲噹

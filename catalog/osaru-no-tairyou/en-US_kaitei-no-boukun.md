@@ -1,5 +1,7 @@
 # Kaitei no Boukun
 
+![kaitei-no-boukun](https://cdn.myanimelist.net/images/anime/3/15855.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海底の暴君

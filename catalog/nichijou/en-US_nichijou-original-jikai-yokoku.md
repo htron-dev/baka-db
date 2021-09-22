@@ -1,5 +1,7 @@
 # Nichijou: Original Jikai Yokoku
 
+![nichijou-original-jikai-yokoku](https://cdn.myanimelist.net/images/anime/2/29848.jpg)
+
 -   **type**: special
 -   **episodes**: 25
 -   **original-name**: 日常 オリジナル次回予告

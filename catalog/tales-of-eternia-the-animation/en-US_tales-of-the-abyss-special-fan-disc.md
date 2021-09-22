@@ -1,5 +1,7 @@
 # Tales of the Abyss Special Fan Disc
 
+![tales-of-the-abyss-special-fan-disc](https://cdn.myanimelist.net/images/anime/6/24189.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: テイルズ オブ ジ アビス スペシャルファンディスク

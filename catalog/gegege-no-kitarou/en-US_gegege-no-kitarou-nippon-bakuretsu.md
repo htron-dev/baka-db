@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Nippon Bakuretsu
 
+![gegege-no-kitarou-nippon-bakuretsu](https://cdn.myanimelist.net/images/anime/8/20485.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ゲゲゲの鬼太郎 日本爆裂!!
@@ -11,7 +13,6 @@
 -   action
 -   fantasy
 -   horror
-
 -   shounen
 -   supernatural
 

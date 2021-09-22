@@ -1,5 +1,7 @@
 # Tarou-san no Kisha
 
+![tarou-san-no-kisha](https://cdn.myanimelist.net/images/anime/2/12516.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 太郎さんの汽車

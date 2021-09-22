@@ -1,5 +1,7 @@
 # Choujuu Kishin Dancougar: Hakunetsu no Shuushou
 
+![choujuu-kishin-dancougar-hakunetsu-no-shuushou](https://cdn.myanimelist.net/images/anime/1560/96551.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 超獣機神ダンクーガ 白熱の終章

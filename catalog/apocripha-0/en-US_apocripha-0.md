@@ -1,5 +1,7 @@
 # Apocripha/0
 
+![apocripha-0](https://cdn.myanimelist.net/images/manga/2/3339.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アポクリファ/0

@@ -1,5 +1,7 @@
 # Nekozuki Danshi wa Neko-moku Otoko to Koi ni Ochiru no ka?
 
+![nekozuki-danshi-wa-neko-moku-otoko-to-koi-ni-ochiru-no-ka](https://cdn.myanimelist.net/images/manga/1/236342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

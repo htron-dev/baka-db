@@ -1,5 +1,7 @@
 # Hero Hero-kun
 
+![hero-hero-kun](https://cdn.myanimelist.net/images/anime/10/31023.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: へろへろくん

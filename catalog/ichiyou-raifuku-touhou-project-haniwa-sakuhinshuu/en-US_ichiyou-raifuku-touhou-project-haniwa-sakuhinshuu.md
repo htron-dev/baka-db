@@ -1,5 +1,7 @@
 # Ichiyou Raifuku: Touhou Project Haniwa Sakuhinshuu
 
+![ichiyou-raifuku-touhou-project-haniwa-sakuhinshuu](https://cdn.myanimelist.net/images/manga/2/228526.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

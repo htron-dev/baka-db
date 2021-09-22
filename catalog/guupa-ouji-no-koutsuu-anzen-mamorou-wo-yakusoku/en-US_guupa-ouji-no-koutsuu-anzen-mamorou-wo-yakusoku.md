@@ -1,5 +1,7 @@
 # Guupa Ouji no Koutsuu Anzen Mamorou wo Yakusoku
 
+![guupa-ouji-no-koutsuu-anzen-mamorou-wo-yakusoku](https://cdn.myanimelist.net/images/anime/3/84779.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: グーパ王子の交通安全守ろうお約束

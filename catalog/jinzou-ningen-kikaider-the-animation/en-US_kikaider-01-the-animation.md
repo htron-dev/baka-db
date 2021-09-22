@@ -1,5 +1,7 @@
 # Kikaider 01 The Animation
 
+![kikaider-01-the-animation](https://cdn.myanimelist.net/images/anime/1043/100239.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: キカイダー０１　 THE ANIMATION

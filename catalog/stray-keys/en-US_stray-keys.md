@@ -1,5 +1,7 @@
 # Stray Keys
 
+![stray-keys](https://cdn.myanimelist.net/images/manga/3/81670.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

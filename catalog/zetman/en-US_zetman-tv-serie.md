@@ -1,5 +1,7 @@
 # Zetman
 
+![zetman](https://cdn.myanimelist.net/images/anime/7/35529.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ゼットマン

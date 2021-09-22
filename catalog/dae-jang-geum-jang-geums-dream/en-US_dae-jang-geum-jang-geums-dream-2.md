@@ -1,5 +1,7 @@
 # Dae Jang Geum: Jang Geum's Dream 2
 
+![dae-jang-geum-jang-geums-dream-2](https://cdn.myanimelist.net/images/anime/11/25501.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 少女チャングムの夢

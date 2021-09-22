@@ -1,5 +1,7 @@
 # Hoshi to Tsubasa no Paradox
 
+![hoshi-to-tsubasa-no-paradox](https://cdn.myanimelist.net/images/anime/1874/112322.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 星と翼のパラドクス

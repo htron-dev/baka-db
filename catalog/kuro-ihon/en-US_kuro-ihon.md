@@ -1,5 +1,7 @@
 # Kuro Ihon
 
+![kuro-ihon](https://cdn.myanimelist.net/images/manga/2/165400.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

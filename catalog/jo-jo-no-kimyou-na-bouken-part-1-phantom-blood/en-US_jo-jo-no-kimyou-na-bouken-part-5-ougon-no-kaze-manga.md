@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 5: Ougon no Kaze
 
+![jo-jo-no-kimyou-na-bouken-part-5-ougon-no-kaze](https://cdn.myanimelist.net/images/manga/2/180417.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 155

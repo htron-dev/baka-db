@@ -1,5 +1,7 @@
 # Tsukanoma no Ichika
 
+![tsukanoma-no-ichika](https://cdn.myanimelist.net/images/manga/1/244860.jpg)
+
 -   **type**: manga
 -   **original-name**: 束の間の一花〈いちか〉
 -   **start-date**: 2019-07-26

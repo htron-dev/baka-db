@@ -1,5 +1,7 @@
 # Yume de Aetara
 
+![yume-de-aetara](https://cdn.myanimelist.net/images/anime/10/67403.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 夢で逢えたら

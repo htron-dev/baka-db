@@ -1,5 +1,7 @@
 # Otona no Iroha
 
+![otona-no-iroha](https://cdn.myanimelist.net/images/manga/3/192970.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

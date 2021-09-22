@@ -1,5 +1,7 @@
 # Kouga Yun - Best Early Works Collection
 
+![kouga-yun-best-early-works-collection](https://cdn.myanimelist.net/images/manga/3/20509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

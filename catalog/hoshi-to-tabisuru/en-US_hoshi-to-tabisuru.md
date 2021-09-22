@@ -1,5 +1,7 @@
 # Hoshi to Tabisuru
 
+![hoshi-to-tabisuru](https://cdn.myanimelist.net/images/manga/3/231122.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

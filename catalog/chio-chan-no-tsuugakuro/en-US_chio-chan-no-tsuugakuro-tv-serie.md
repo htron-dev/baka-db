@@ -1,5 +1,7 @@
 # Chio-chan no Tsuugakuro
 
+![chio-chan-no-tsuugakuro](https://cdn.myanimelist.net/images/anime/1073/95042.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ちおちゃんの通学路

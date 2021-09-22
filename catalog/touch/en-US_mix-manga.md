@@ -1,5 +1,7 @@
 # Mix
 
+![mix](https://cdn.myanimelist.net/images/manga/1/77591.jpg)
+
 -   **type**: manga
 -   **original-name**: MIX ミックス
 -   **start-date**: 2012-05-12

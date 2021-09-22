@@ -1,5 +1,7 @@
 # Handsome na Kanojo
 
+![handsome-na-kanojo](https://cdn.myanimelist.net/images/manga/2/193120.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # Gekijouban Steins;Gate: Fuka Ryouiki no Déjà vu
 
+![gekijouban-steins-gate-fuka-ryouiki-no-deja-vu](https://cdn.myanimelist.net/images/manga/3/108051.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

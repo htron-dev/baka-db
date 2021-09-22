@@ -1,5 +1,7 @@
 # Seito Shokun!: Kyoushi-hen
 
+![seito-shokun-kyoushi-hen](https://cdn.myanimelist.net/images/manga/3/118513.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 147

@@ -1,5 +1,7 @@
 # Genjitsu de Love Comedy Dekinai to Dare ga Kimeta?
 
+![genjitsu-de-love-comedy-dekinai-to-dare-ga-kimeta](https://cdn.myanimelist.net/images/manga/2/247994.jpg)
+
 -   **type**: manga
 -   **original-name**: 現実でラブコメできないとだれが決めた?
 -   **start-date**: 2021-06-25

@@ -1,5 +1,7 @@
 # Jun to Kaoru
 
+![jun-to-kaoru](https://cdn.myanimelist.net/images/manga/2/217704.jpg)
+
 -   **type**: manga
 -   **original-name**: 純とかおる
 -   **start-date**: 2018-05-09

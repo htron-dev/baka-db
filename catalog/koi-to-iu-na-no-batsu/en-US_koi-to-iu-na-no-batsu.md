@@ -1,5 +1,7 @@
 # Koi to Iu Na no Batsu
 
+![koi-to-iu-na-no-batsu](https://cdn.myanimelist.net/images/manga/1/231996.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋という名の罰

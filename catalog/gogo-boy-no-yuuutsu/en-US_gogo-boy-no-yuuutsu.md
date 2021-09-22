@@ -1,5 +1,7 @@
 # Gogo Boy no Yuuutsu
 
+![gogo-boy-no-yuuutsu](https://cdn.myanimelist.net/images/manga/1/141917.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: GOGOBOY の憂鬱

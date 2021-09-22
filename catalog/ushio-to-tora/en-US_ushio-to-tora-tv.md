@@ -1,5 +1,7 @@
 # Ushio to Tora (TV)
 
+![ushio-to-tora-tv](https://cdn.myanimelist.net/images/anime/8/74945.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: うしおととら

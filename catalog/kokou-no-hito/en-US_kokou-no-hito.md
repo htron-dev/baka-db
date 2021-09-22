@@ -1,5 +1,7 @@
 # Kokou no Hito
 
+![kokou-no-hito](https://cdn.myanimelist.net/images/manga/5/96223.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 170

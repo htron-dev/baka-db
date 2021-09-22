@@ -1,5 +1,7 @@
 # Gekka Bijin
 
+![gekka-bijin](https://cdn.myanimelist.net/images/manga/2/197654.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

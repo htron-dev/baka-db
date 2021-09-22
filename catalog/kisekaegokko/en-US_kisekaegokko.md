@@ -1,5 +1,7 @@
 # Kisekaegokko
 
+![kisekaegokko](https://cdn.myanimelist.net/images/manga/2/151658.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: きせかえごっこ

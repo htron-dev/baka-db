@@ -1,5 +1,7 @@
 # Fuwafuwa-san ga Furu
 
+![fuwafuwa-san-ga-furu](https://cdn.myanimelist.net/images/manga/2/201579.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

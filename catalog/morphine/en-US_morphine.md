@@ -1,5 +1,7 @@
 # Morphine
 
+![morphine](https://cdn.myanimelist.net/images/manga/2/27879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

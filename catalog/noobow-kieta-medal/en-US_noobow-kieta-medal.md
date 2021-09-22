@@ -1,5 +1,7 @@
 # Noobow: Kieta Medal
 
+![noobow-kieta-medal](https://cdn.myanimelist.net/images/anime/5/49787.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぬ～ぼ～ きえたメダル

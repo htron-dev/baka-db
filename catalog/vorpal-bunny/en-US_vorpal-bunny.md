@@ -1,5 +1,7 @@
 # Vorpal Bunny
 
+![vorpal-bunny](https://cdn.myanimelist.net/images/manga/3/164035.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ボーパルバニー
 -   **start-date**: 2015-09-18

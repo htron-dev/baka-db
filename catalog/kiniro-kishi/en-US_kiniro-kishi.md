@@ -1,5 +1,7 @@
 # Kiniro Kishi
 
+![kiniro-kishi](https://cdn.myanimelist.net/images/manga/2/51113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

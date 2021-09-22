@@ -1,5 +1,7 @@
 # Tenshi ni Naru mon!
 
+![tenshi-ni-naru-mon](https://cdn.myanimelist.net/images/manga/2/175165.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

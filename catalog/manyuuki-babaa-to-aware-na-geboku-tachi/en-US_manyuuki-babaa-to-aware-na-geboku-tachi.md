@@ -1,5 +1,7 @@
 # Manyuuki: Babaa to Aware na Geboku-tachi
 
+![manyuuki-babaa-to-aware-na-geboku-tachi](https://cdn.myanimelist.net/images/manga/2/230768.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

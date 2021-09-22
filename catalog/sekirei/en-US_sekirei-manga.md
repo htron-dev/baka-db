@@ -1,5 +1,7 @@
 # Sekirei
 
+![sekirei](https://cdn.myanimelist.net/images/manga/3/188941.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 213

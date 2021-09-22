@@ -1,5 +1,7 @@
 # Saikyou Onmyouji no Isekai Tenseiki: Geboku no Youkaidomo ni Kurabete Monster ga Yowaisugirunda ga
 
+![saikyou-onmyouji-no-isekai-tenseiki-geboku-no-youkaidomo-ni-kurabete-monster-ga-yowaisugirunda-ga](https://cdn.myanimelist.net/images/manga/1/236851.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強陰陽師の異世界転生記 ～下僕の妖怪どもに比べてモンスターが弱すぎるんだが～
 -   **start-date**: 2020-05-19

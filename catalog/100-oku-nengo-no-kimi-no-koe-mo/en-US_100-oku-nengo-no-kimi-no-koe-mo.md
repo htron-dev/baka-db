@@ -1,5 +1,7 @@
 # 100-oku Nengo no Kimi no Koe mo
 
+![100-oku-nengo-no-kimi-no-koe-mo](https://cdn.myanimelist.net/images/manga/2/15483.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 100 億年後のきみの声も

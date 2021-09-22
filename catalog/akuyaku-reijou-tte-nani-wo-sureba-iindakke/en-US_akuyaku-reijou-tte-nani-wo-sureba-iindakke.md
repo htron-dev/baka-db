@@ -1,5 +1,7 @@
 # Akuyaku Reijou tte Nani wo Sureba Iindakke?
 
+![akuyaku-reijou-tte-nani-wo-sureba-iindakke](https://cdn.myanimelist.net/images/manga/3/239898.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢って何をすればいいんだっけ?
 -   **start-date**: 2020-07-24

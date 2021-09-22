@@ -1,5 +1,7 @@
 # Hanayome wa Zettai Zetsumei
 
+![hanayome-wa-zettai-zetsumei](https://cdn.myanimelist.net/images/manga/1/229732.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 花嫁は絶体絶命

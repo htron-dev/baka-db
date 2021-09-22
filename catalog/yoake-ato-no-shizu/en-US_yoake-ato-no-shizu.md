@@ -1,5 +1,7 @@
 # Yoake Ato no Shizu
 
+![yoake-ato-no-shizu](https://cdn.myanimelist.net/images/manga/1/210474.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜明け後の静
 -   **start-date**: 2018-02-01

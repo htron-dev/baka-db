@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Yousei Rinrin no Himitsu
 
+![sore-ike-anpanman-yousei-rinrin-no-himitsu](https://cdn.myanimelist.net/images/anime/2/57717.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン 妖精リンリンのひみつ

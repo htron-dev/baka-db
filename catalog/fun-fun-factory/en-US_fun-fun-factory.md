@@ -1,5 +1,7 @@
 # Fun Fun Factory
 
+![fun-fun-factory](https://cdn.myanimelist.net/images/manga/3/40602.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

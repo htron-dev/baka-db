@@ -1,5 +1,7 @@
 # Magatsuhi.com
 
+![magatsuhi-com](https://cdn.myanimelist.net/images/manga/3/37160.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

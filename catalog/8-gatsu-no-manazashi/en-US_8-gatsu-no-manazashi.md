@@ -1,5 +1,7 @@
 # 8-gatsu no Manazashi
 
+![8-gatsu-no-manazashi](https://cdn.myanimelist.net/images/manga/2/77241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

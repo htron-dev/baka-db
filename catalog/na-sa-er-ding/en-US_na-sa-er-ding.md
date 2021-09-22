@@ -1,5 +1,7 @@
 # Na Sa Er Ding
 
+![na-sa-er-ding](https://cdn.myanimelist.net/images/anime/3/83526.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 那萨尔丁

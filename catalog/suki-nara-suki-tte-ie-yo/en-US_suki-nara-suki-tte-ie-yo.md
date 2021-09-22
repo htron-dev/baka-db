@@ -1,5 +1,7 @@
 # Suki nara Suki tte Ie yo!
 
+![suki-nara-suki-tte-ie-yo](https://cdn.myanimelist.net/images/manga/2/7866.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

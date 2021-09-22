@@ -1,5 +1,7 @@
 # The Third Eye
 
+![the-third-eye](https://cdn.myanimelist.net/images/anime/1866/108145.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: THE THIRD EYE

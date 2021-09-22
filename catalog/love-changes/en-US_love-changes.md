@@ -1,5 +1,7 @@
 # Love Changes
 
+![love-changes](https://cdn.myanimelist.net/images/manga/1/79227.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

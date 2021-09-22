@@ -1,5 +1,7 @@
 # Koi no Jitsuryoku Ai no Sainou
 
+![koi-no-jitsuryoku-ai-no-sainou](https://cdn.myanimelist.net/images/manga/1/82088.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Youto Chinkonka - Tokyo Requiem
 
+![youto-chinkonka-tokyo-requiem](https://cdn.myanimelist.net/images/manga/1/17229.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 妖都鎮魂歌　トーキョーレクイエム

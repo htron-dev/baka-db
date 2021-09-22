@@ -1,5 +1,7 @@
 # Pinky Monkey no Umareta Hi
 
+![pinky-monkey-no-umareta-hi](https://cdn.myanimelist.net/images/anime/2/70663.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ピンキーモンキーの生まれた日

@@ -1,5 +1,7 @@
 # Ano Koi no Tsuzuki
 
+![ano-koi-no-tsuzuki](https://cdn.myanimelist.net/images/manga/1/46099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

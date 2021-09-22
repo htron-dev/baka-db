@@ -1,5 +1,7 @@
 # Akane-chan Overdrive
 
+![akane-chan-overdrive](https://cdn.myanimelist.net/images/manga/1/58513.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

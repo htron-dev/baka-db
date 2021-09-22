@@ -1,5 +1,7 @@
 # Maou to Yuusha no Zero Flag
 
+![maou-to-yuusha-no-zero-flag](https://cdn.myanimelist.net/images/manga/2/162846.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 魔王と勇者の 0〈ゼロ〉フラグ

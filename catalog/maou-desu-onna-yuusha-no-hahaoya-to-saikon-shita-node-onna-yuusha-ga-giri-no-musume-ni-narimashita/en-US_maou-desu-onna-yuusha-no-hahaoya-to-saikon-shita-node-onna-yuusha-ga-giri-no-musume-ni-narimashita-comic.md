@@ -1,5 +1,7 @@
 # Maou desu. Onna Yuusha no Hahaoya to Saikon shita node, Onna Yuusha ga Giri no Musume ni Narimashita. @comic
 
+![maou-desu-onna-yuusha-no-hahaoya-to-saikon-shita-node-onna-yuusha-ga-giri-no-musume-ni-narimashita-comic](https://cdn.myanimelist.net/images/manga/2/223866.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王です。女勇者の母親と再婚したので、女勇者が義理の娘になりました。@comic
 -   **start-date**: 2019-01-06

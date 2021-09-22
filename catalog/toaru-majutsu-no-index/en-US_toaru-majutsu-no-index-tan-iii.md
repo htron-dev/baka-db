@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index-tan III
 
+![toaru-majutsu-no-index-tan-iii](https://cdn.myanimelist.net/images/anime/1937/98538.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: とある魔術の禁書目録たん

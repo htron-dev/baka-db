@@ -1,5 +1,7 @@
 # Tobe! Pegasus Kokoro no Goal ni Shoot
 
+![tobe-pegasus-kokoro-no-goal-ni-shoot](https://cdn.myanimelist.net/images/anime/5/51065.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 翔べ! ペガサス 心のゴールにシュート

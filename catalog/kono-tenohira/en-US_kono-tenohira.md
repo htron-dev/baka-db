@@ -1,5 +1,7 @@
 # Kono Tenohira
 
+![kono-tenohira](https://cdn.myanimelist.net/images/manga/1/150855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: このてのひら

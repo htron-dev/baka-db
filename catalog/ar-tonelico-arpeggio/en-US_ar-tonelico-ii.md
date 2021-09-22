@@ -1,5 +1,7 @@
 # Ar Tonelico II
 
+![ar-tonelico-ii](https://cdn.myanimelist.net/images/manga/1/17786.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

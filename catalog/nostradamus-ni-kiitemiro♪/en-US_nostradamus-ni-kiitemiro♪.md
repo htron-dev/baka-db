@@ -1,5 +1,7 @@
 # Nostradamus ni Kiitemiro♪
 
+![nostradamus-ni-kiitemiro♪](https://cdn.myanimelist.net/images/manga/1/36193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ノストラダムスに聞いてみろ ♪

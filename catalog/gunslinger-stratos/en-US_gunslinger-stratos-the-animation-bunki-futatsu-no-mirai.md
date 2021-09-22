@@ -1,5 +1,7 @@
 # Gunslinger Stratos The Animation: Bunki/Futatsu no Mirai
 
+![gunslinger-stratos-the-animation-bunki-futatsu-no-mirai](https://cdn.myanimelist.net/images/anime/8/74746.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ガンスリンガー ストラトス -THE ANIMATION-: 分岐／二つの未来

@@ -1,5 +1,7 @@
 # Cinderella to Koori no Ouji
 
+![cinderella-to-koori-no-ouji](https://cdn.myanimelist.net/images/manga/2/247256.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シンデレラと氷の王子

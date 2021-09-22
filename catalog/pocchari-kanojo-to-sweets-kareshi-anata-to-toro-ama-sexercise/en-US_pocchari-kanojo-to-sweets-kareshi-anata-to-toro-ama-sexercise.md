@@ -1,5 +1,7 @@
 # Pocchari Kanojo to Sweets Kareshi: Anata to Toro-Ama Sexercise
 
+![pocchari-kanojo-to-sweets-kareshi-anata-to-toro-ama-sexercise](https://cdn.myanimelist.net/images/manga/1/240915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

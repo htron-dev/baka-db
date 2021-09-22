@@ -1,5 +1,7 @@
 # Aijin Shigan
 
+![aijin-shigan](https://cdn.myanimelist.net/images/manga/2/247043.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛人志願

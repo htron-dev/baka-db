@@ -1,5 +1,7 @@
 # Watashi no Sekai wo Kousei suru Chiri no You na Nani ka.
 
+![watashi-no-sekai-wo-kousei-suru-chiri-no-you-na-nani-ka](https://cdn.myanimelist.net/images/manga/3/89879.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

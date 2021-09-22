@@ -1,5 +1,7 @@
 # Logick
 
+![logick](https://cdn.myanimelist.net/images/manga/2/128595.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

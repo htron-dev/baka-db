@@ -1,5 +1,7 @@
 # Dragon Wars: Toumaryuu Senki
 
+![dragon-wars-toumaryuu-senki](https://cdn.myanimelist.net/images/manga/3/194918.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

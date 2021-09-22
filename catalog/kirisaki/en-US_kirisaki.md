@@ -1,5 +1,7 @@
 # Kirisaki
 
+![kirisaki](https://cdn.myanimelist.net/images/manga/1/102721.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Selector Infected WIXOSS: Re/verse
 
+![selector-infected-wixoss-re-verse](https://cdn.myanimelist.net/images/manga/1/151719.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

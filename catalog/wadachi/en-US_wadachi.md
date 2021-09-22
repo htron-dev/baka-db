@@ -1,5 +1,7 @@
 # Wadachi
 
+![wadachi](https://cdn.myanimelist.net/images/manga/3/61969.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ワダチ

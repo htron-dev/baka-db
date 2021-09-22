@@ -1,5 +1,7 @@
 # Gekkan Shoujo Nozaki-kun
 
+![gekkan-shoujo-nozaki-kun](https://cdn.myanimelist.net/images/anime/5/66083.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 月刊少女野崎くん

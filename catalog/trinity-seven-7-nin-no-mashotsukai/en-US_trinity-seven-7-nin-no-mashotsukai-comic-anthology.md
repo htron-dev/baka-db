@@ -1,5 +1,7 @@
 # Trinity Seven: 7-nin no Mashotsukai Comic Anthology
 
+![trinity-seven-7-nin-no-mashotsukai-comic-anthology](https://cdn.myanimelist.net/images/manga/1/180694.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

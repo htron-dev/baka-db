@@ -1,5 +1,7 @@
 # Hoshi no Kirby: Dedede de Pupupu na Monogatari
 
+![hoshi-no-kirby-dedede-de-pupupu-na-monogatari](https://cdn.myanimelist.net/images/manga/3/91535.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 275

@@ -1,5 +1,7 @@
 # Hello Kitty: Ringo no Mori no Fantasy
 
+![hello-kitty-ringo-no-mori-no-fantasy](https://cdn.myanimelist.net/images/anime/10/32139.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ハローキティ りんごの森のファンタジー

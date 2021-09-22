@@ -1,5 +1,7 @@
 # Blood+
 
+![blood](https://cdn.myanimelist.net/images/manga/1/54703.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

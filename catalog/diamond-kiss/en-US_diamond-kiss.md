@@ -1,5 +1,7 @@
 # Diamond Kiss
 
+![diamond-kiss](https://cdn.myanimelist.net/images/manga/1/114013.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ダイヤモンド KISS

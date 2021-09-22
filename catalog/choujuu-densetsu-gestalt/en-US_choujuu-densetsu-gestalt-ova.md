@@ -1,5 +1,7 @@
 # Choujuu Densetsu Gestalt
 
+![choujuu-densetsu-gestalt](https://cdn.myanimelist.net/images/anime/1491/96516.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 超獣伝説ゲシュタルト

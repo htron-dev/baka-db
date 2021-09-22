@@ -1,5 +1,7 @@
 # Hori-san to Miyamura-kun
 
+![hori-san-to-miyamura-kun](https://cdn.myanimelist.net/images/anime/2/40175.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 堀さんと宮村くん

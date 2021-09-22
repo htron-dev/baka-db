@@ -1,5 +1,7 @@
 # Kochira de Omeshiagari desu ka?
 
+![kochira-de-omeshiagari-desu-ka](https://cdn.myanimelist.net/images/manga/1/180798.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

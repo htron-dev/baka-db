@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang: Zhu Ye
 
+![huyao-xiao-hongniang-zhu-ye](https://cdn.myanimelist.net/images/anime/1333/99422.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 狐妖小红娘 竹业

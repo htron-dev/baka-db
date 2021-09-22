@@ -1,5 +1,7 @@
 # Kizutsukenaide ne
 
+![kizutsukenaide-ne](https://cdn.myanimelist.net/images/manga/1/223130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

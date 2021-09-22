@@ -1,5 +1,7 @@
 # Anettai Nine
 
+![anettai-nine](https://cdn.myanimelist.net/images/manga/3/242639.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

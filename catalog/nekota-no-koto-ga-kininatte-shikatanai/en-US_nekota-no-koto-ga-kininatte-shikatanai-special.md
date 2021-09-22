@@ -1,5 +1,7 @@
 # Nekota no Koto ga Kininatte Shikatanai.
 
+![nekota-no-koto-ga-kininatte-shikatanai](https://cdn.myanimelist.net/images/anime/4/74532.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 猫田のことが気になって仕方ない。

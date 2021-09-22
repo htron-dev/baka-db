@@ -1,5 +1,7 @@
 # Tenshi no Drop
 
+![tenshi-no-drop](https://cdn.myanimelist.net/images/anime/9/44348.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 天使のどろっぷ

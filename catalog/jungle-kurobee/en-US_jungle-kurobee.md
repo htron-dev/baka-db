@@ -1,5 +1,7 @@
 # Jungle Kurobee
 
+![jungle-kurobee](https://cdn.myanimelist.net/images/anime/1181/117028.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: ジャングル黒べえ

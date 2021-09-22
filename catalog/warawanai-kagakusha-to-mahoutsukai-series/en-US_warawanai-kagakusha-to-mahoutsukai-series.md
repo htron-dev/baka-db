@@ -1,5 +1,7 @@
 # Warawanai Kagakusha to Mahoutsukai Series
 
+![warawanai-kagakusha-to-mahoutsukai-series](https://cdn.myanimelist.net/images/manga/2/163571.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

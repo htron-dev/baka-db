@@ -1,5 +1,7 @@
 # Mouhitsu Hallucination
 
+![mouhitsu-hallucination](https://cdn.myanimelist.net/images/manga/1/173721.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

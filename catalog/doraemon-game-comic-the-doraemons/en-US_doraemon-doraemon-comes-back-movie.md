@@ -1,5 +1,7 @@
 # Doraemon: Doraemon Comes Back (Movie)
 
+![doraemon-doraemon-comes-back-movie](https://cdn.myanimelist.net/images/anime/4/74057.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラえもん 帰ってきたドラえもん
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   fantasy
 
 ## Sinopse

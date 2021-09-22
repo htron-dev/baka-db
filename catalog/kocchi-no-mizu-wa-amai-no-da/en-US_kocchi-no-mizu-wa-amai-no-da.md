@@ -1,5 +1,7 @@
 # Kocchi no Mizu wa Amai no da
 
+![kocchi-no-mizu-wa-amai-no-da](https://cdn.myanimelist.net/images/manga/1/190250.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

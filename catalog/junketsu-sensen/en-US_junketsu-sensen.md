@@ -1,5 +1,7 @@
 # Junketsu Sensen
 
+![junketsu-sensen](https://cdn.myanimelist.net/images/manga/2/194334.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

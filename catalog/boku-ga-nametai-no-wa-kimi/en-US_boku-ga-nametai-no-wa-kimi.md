@@ -1,5 +1,7 @@
 # Boku ga Nametai no wa, Kimi!
 
+![boku-ga-nametai-no-wa-kimi](https://cdn.myanimelist.net/images/manga/2/158343.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 109

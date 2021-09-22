@@ -1,5 +1,7 @@
 # Yume Utsutsu (2010)
 
+![yume-utsutsu-2010](https://cdn.myanimelist.net/images/anime/1564/114936.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゆめうつつ

@@ -1,5 +1,7 @@
 # Kannoushousetsu
 
+![kannoushousetsu](https://cdn.myanimelist.net/images/manga/1/15744.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 官能小説

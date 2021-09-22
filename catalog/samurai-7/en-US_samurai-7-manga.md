@@ -1,5 +1,7 @@
 # Samurai 7
 
+![samurai-7](https://cdn.myanimelist.net/images/manga/1/13709.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

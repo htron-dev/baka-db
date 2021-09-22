@@ -1,5 +1,7 @@
 # Under the Glass Moon
 
+![under-the-glass-moon](https://cdn.myanimelist.net/images/manga/2/1934.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 18

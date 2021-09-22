@@ -1,5 +1,7 @@
 # Raiyantsuuri no Uta
 
+![raiyantsuuri-no-uta](https://cdn.myanimelist.net/images/anime/12/27526.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ライヤンツーリーのうた

@@ -1,5 +1,7 @@
 # Takeko san no Koibito
 
+![takeko-san-no-koibito](https://cdn.myanimelist.net/images/manga/1/28218.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: タケコさんの恋人

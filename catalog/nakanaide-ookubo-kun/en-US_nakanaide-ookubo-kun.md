@@ -1,5 +1,7 @@
 # Nakanaide, Ookubo-kun.
 
+![nakanaide-ookubo-kun](https://cdn.myanimelist.net/images/manga/1/55523.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

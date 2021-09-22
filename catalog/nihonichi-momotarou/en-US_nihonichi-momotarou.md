@@ -1,5 +1,7 @@
 # Nihonichi Momotarou
 
+![nihonichi-momotarou](https://cdn.myanimelist.net/images/anime/8/11635.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 日本一桃太郎

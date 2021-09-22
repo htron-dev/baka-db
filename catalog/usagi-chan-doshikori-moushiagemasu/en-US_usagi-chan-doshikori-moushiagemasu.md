@@ -1,5 +1,7 @@
 # Usagi-chan, Doshikori Moushiagemasu
 
+![usagi-chan-doshikori-moushiagemasu](https://cdn.myanimelist.net/images/manga/1/235838.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

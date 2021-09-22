@@ -1,5 +1,7 @@
 # Hypnosis Mic: Division Rap Battle - Rhyme Anima
 
+![hypnosis-mic-division-rap-battle-rhyme-anima](https://cdn.myanimelist.net/images/anime/1677/106540.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ヒプノシスマイク -Division Rap Battle- Rhyme Anima

@@ -1,5 +1,7 @@
 # Rettou Kishi-tachi no Maternity Blade: Karisome no Kishi wa Seieki wo Motomeru
 
+![rettou-kishi-tachi-no-maternity-blade-karisome-no-kishi-wa-seieki-wo-motomeru](https://cdn.myanimelist.net/images/manga/2/180677.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Toripan
 
+![toripan](https://cdn.myanimelist.net/images/manga/2/174528.jpg)
+
 -   **type**: manga
 -   **original-name**: とりぱん
 -   **start-date**: 2005-02-24

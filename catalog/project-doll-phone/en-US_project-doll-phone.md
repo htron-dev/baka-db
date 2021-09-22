@@ -1,5 +1,7 @@
 # Project Doll Phone
 
+![project-doll-phone](https://cdn.myanimelist.net/images/manga/2/118329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

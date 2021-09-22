@@ -1,5 +1,7 @@
 # Sabishigariya no Loliferatu
 
+![sabishigariya-no-loliferatu](https://cdn.myanimelist.net/images/manga/2/159202.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

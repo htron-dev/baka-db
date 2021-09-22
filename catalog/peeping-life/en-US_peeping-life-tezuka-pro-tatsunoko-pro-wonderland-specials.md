@@ -1,5 +1,7 @@
 # Peeping Life: Tezuka Pro - Tatsunoko Pro Wonderland Specials
 
+![peeping-life-tezuka-pro-tatsunoko-pro-wonderland-specials](https://cdn.myanimelist.net/images/anime/1353/90984.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: Peeping Life 手塚プロ・タツノコプロ ワンダーランド

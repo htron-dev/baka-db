@@ -1,5 +1,7 @@
 # Puchitto Gargantia: Marumaru no Gargantia
 
+![puchitto-gargantia-marumaru-no-gargantia](https://cdn.myanimelist.net/images/anime/2/59811.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぷちっとがるがんてぃあ: 特別企画 - 〇〇のガルガンティア

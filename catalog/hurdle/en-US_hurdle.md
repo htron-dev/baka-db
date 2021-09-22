@@ -1,5 +1,7 @@
 # Hurdle
 
+![hurdle](https://cdn.myanimelist.net/images/anime/9/45116.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハードル

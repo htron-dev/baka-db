@@ -1,5 +1,7 @@
 # Kinnikuman: Gyakushuu! Uchuu Kakure Choujin
 
+![kinnikuman-gyakushuu-uchuu-kakure-choujin](https://cdn.myanimelist.net/images/anime/2/70113.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キン肉マン 逆襲！宇宙かくれ超人

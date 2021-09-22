@@ -1,5 +1,7 @@
 # Isso Mou, Kudokitai!
 
+![isso-mou-kudokitai](https://cdn.myanimelist.net/images/manga/3/22577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

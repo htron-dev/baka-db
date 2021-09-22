@@ -1,5 +1,7 @@
 # Saezuri Toshokan no Waltz-san
 
+![saezuri-toshokan-no-waltz-san](https://cdn.myanimelist.net/images/manga/3/202611.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: サエズリ図書館のワルツさん

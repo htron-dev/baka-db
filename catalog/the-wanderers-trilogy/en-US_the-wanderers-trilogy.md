@@ -1,5 +1,7 @@
 # The Wanderers Trilogy
 
+![the-wanderers-trilogy](https://cdn.myanimelist.net/images/manga/3/27152.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 

@@ -1,5 +1,7 @@
 # Berna to Garland
 
+![berna-to-garland](https://cdn.myanimelist.net/images/manga/1/89407.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

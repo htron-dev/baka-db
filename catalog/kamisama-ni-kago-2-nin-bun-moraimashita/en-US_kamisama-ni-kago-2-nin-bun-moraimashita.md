@@ -1,5 +1,7 @@
 # Kamisama ni Kago 2-nin Bun Moraimashita
 
+![kamisama-ni-kago-2-nin-bun-moraimashita](https://cdn.myanimelist.net/images/manga/2/239701.jpg)
+
 -   **type**: manga
 -   **original-name**: 神様に加護 2 人分貰いました
 -   **start-date**: 2019-07-23

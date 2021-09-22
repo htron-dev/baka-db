@@ -1,5 +1,7 @@
 # Da Wang Bu Gaoxing
 
+![da-wang-bu-gaoxing](https://cdn.myanimelist.net/images/anime/1003/106043.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 大王不高兴

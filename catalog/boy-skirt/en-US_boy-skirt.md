@@ -1,5 +1,7 @@
 # Boy Skirt
 
+![boy-skirt](https://cdn.myanimelist.net/images/manga/2/167508.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

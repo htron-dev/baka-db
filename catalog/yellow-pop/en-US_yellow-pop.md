@@ -1,5 +1,7 @@
 # Yellow Pop
 
+![yellow-pop](https://cdn.myanimelist.net/images/manga/3/112133.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

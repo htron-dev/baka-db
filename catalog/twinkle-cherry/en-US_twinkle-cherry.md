@@ -1,5 +1,7 @@
 # Twinkle Cherry
 
+![twinkle-cherry](https://cdn.myanimelist.net/images/manga/1/23380.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

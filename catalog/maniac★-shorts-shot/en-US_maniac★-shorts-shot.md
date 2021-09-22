@@ -1,5 +1,7 @@
 # Maniac★Shorts-Shot
 
+![maniac★-shorts-shot](https://cdn.myanimelist.net/images/manga/1/29786.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Evangelion: 2.0 You Can (Not) Advance
 
+![evangelion-2-0-you-can-not-advance](https://cdn.myanimelist.net/images/anime/5/74983.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヱヴァンゲリヲン新劇場版:破
@@ -29,4 +31,4 @@ With the aid of their mechanized Evangelion units, equipped with weapons perfect
 -   [Official Site](http://www.evangelion.co.jp/2_0/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6171)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8421)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Evangelion:_2.0_You_Can_(Not)_Advance>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Evangelion:_2.0_You_Can_%28Not%29_Advance)

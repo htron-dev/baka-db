@@ -1,5 +1,7 @@
 # Ruka to Ita Natsu
 
+![ruka-to-ita-natsu](https://cdn.myanimelist.net/images/manga/3/50845.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

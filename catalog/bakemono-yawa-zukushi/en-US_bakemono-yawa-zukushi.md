@@ -1,5 +1,7 @@
 # Bakemono Yawa-zukushi
 
+![bakemono-yawa-zukushi](https://cdn.myanimelist.net/images/manga/1/221362.jpg)
+
 -   **type**: manga
 -   **original-name**: ばけもの夜話づくし
 -   **start-date**: 2016-07-15

@@ -1,5 +1,7 @@
 # Mizuiro Jidai
 
+![mizuiro-jidai](https://cdn.myanimelist.net/images/manga/2/4449.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 水色時代

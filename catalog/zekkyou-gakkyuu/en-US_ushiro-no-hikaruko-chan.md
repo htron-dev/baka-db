@@ -1,5 +1,7 @@
 # Ushiro no Hikaruko-chan
 
+![ushiro-no-hikaruko-chan](https://cdn.myanimelist.net/images/manga/1/156262.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

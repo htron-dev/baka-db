@@ -1,5 +1,7 @@
 # Amigo Tomodachi
 
+![amigo-tomodachi](https://cdn.myanimelist.net/images/anime/13/63863.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アミーゴ 友だち

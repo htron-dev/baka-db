@@ -1,5 +1,7 @@
 # Wild Arms Flower Thieves
 
+![wild-arms-flower-thieves](https://cdn.myanimelist.net/images/manga/3/25873.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

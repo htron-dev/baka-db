@@ -1,5 +1,7 @@
 # Shakugan no Shana S
 
+![shakugan-no-shana-s](https://cdn.myanimelist.net/images/anime/10/17680.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 灼眼のシャナ S

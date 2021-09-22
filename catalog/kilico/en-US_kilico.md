@@ -1,5 +1,7 @@
 # Kilico
 
+![kilico](https://cdn.myanimelist.net/images/manga/1/24917.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 41

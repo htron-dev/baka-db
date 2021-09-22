@@ -1,5 +1,7 @@
 # Maki-chan wa Kare to Sex shitai
 
+![maki-chan-wa-kare-to-sex-shitai](https://cdn.myanimelist.net/images/manga/2/222558.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

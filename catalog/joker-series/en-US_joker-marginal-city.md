@@ -1,5 +1,7 @@
 # Joker: Marginal City
 
+![joker-marginal-city](https://cdn.myanimelist.net/images/anime/3/6338.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: JOKER マージナル・シティ

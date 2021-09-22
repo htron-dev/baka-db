@@ -1,5 +1,7 @@
 # Kiken na Koi wa Ouji-sama to Tomo ni
 
+![kiken-na-koi-wa-ouji-sama-to-tomo-ni](https://cdn.myanimelist.net/images/manga/2/194273.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

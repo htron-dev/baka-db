@@ -1,5 +1,7 @@
 # Midoriyama Koukou Koushien-hen
 
+![midoriyama-koukou-koushien-hen](https://cdn.myanimelist.net/images/anime/8/75589.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 緑山高校 甲子園編

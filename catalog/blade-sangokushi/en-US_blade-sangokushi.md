@@ -1,5 +1,7 @@
 # Blade Sangokushi
 
+![blade-sangokushi](https://cdn.myanimelist.net/images/manga/3/30039.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ブレイド三国志

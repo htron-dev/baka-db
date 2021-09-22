@@ -1,5 +1,7 @@
 # Utsukushiki Houfuku
 
+![utsukushiki-houfuku](https://cdn.myanimelist.net/images/manga/2/227548.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 美しき報復

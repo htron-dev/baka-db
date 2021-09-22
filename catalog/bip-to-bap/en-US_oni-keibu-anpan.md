@@ -1,5 +1,7 @@
 # Oni Keibu Anpan
 
+![oni-keibu-anpan](https://cdn.myanimelist.net/images/anime/6/70673.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 鬼警部アンパン

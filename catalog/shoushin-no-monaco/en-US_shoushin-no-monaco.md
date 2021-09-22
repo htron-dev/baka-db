@@ -1,5 +1,7 @@
 # Shoushin no Monaco
 
+![shoushin-no-monaco](https://cdn.myanimelist.net/images/manga/3/119009.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

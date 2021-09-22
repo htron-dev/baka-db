@@ -1,5 +1,7 @@
 # Oni wo Tadorite Ikuseisou
 
+![oni-wo-tadorite-ikuseisou](https://cdn.myanimelist.net/images/manga/2/202251.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

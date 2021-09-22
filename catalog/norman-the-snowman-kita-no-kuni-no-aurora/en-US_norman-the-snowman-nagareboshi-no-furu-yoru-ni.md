@@ -1,5 +1,7 @@
 # Norman the Snowman: Nagareboshi no Furu Yoru ni
 
+![norman-the-snowman-nagareboshi-no-furu-yoru-ni](https://cdn.myanimelist.net/images/anime/1957/110425.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ノーマン・ザ・スノーマン〜流れ星のふる夜に〜
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Final Fantasy
 
+![final-fantasy](https://cdn.myanimelist.net/images/anime/10/88663.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ファイナルファンタジー

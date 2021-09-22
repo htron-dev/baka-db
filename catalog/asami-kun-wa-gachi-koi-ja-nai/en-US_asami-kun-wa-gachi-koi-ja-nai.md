@@ -1,5 +1,7 @@
 # Asami-kun wa Gachi Koi ja Nai!
 
+![asami-kun-wa-gachi-koi-ja-nai](https://cdn.myanimelist.net/images/manga/3/224255.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 46

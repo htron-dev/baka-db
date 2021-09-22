@@ -1,5 +1,7 @@
 # Yuusha no Katsuyaku wa Korekara da!: Isekai kara no Demodori Yuusha wa Heion ni Kurashitai
 
+![yuusha-no-katsuyaku-wa-korekara-da-isekai-kara-no-demodori-yuusha-wa-heion-ni-kurashitai](https://cdn.myanimelist.net/images/manga/2/240947.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者の活躍はこれからだ! 異世界からの出戻り勇者は平穏に暮らしたい
 -   **start-date**: 2018-05-25

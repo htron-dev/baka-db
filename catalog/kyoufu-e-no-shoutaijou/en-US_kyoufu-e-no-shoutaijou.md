@@ -1,5 +1,7 @@
 # Kyoufu e no Shoutaijou
 
+![kyoufu-e-no-shoutaijou](https://cdn.myanimelist.net/images/manga/3/77503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

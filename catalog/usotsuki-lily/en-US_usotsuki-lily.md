@@ -1,5 +1,7 @@
 # Usotsuki Lily
 
+![usotsuki-lily](https://cdn.myanimelist.net/images/manga/2/31018.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 119

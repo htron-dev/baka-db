@@ -1,5 +1,7 @@
 # Yuusha Shirei Dagwon: Suishou no Hitomi no Shounen
 
+![yuusha-shirei-dagwon-suishou-no-hitomi-no-shounen](https://cdn.myanimelist.net/images/anime/5/69407.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 勇者指令ダグオン 水晶の瞳の少年

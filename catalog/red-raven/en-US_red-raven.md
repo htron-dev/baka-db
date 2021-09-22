@@ -1,5 +1,7 @@
 # Red Raven
 
+![red-raven](https://cdn.myanimelist.net/images/manga/2/91845.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 44

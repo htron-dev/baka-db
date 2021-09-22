@@ -1,5 +1,7 @@
 # Gekijouban Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
 
+![gekijouban-gintama-kanketsu-hen-yorozuya-yo-eien-nare](https://cdn.myanimelist.net/images/manga/2/160222.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 21

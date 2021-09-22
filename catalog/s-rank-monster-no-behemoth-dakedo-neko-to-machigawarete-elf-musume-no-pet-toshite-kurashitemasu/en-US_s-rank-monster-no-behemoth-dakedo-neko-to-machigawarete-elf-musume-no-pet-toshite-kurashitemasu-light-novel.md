@@ -1,5 +1,7 @@
 # S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu
 
+![s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu](https://cdn.myanimelist.net/images/manga/2/234002.jpg)
+
 -   **type**: light-novel
 -   **original-name**: S ランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士〈ペット〉として暮らしてます
 -   **start-date**: 2018-03-30

@@ -1,5 +1,7 @@
 # Jigokuraku: Saikyou no Nukenin Gaman no Gabimaru
 
+![jigokuraku-saikyou-no-nukenin-gaman-no-gabimaru](https://cdn.myanimelist.net/images/manga/1/242994.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

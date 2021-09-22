@@ -1,5 +1,7 @@
 # Unlucky Girl
 
+![unlucky-girl](https://cdn.myanimelist.net/images/manga/1/20063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アン ☆ ラッキーガール

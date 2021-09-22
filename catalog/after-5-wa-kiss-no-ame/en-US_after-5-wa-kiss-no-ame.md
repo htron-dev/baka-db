@@ -1,5 +1,7 @@
 # After 5 wa Kiss no Ame
 
+![after-5-wa-kiss-no-ame](https://cdn.myanimelist.net/images/manga/3/37889.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: アフター 5 は kiss の雨

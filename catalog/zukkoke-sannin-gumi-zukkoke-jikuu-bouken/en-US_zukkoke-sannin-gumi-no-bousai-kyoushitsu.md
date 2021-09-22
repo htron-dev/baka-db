@@ -1,5 +1,7 @@
 # Zukkoke Sannin-gumi no Bousai Kyoushitsu
 
+![zukkoke-sannin-gumi-no-bousai-kyoushitsu](https://cdn.myanimelist.net/images/anime/6/84693.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ズッコケ三人組のぼうさい教室

@@ -1,5 +1,7 @@
 # Renai Koufukuron
 
+![renai-koufukuron](https://cdn.myanimelist.net/images/manga/1/30592.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋愛幸福論
 -   **start-date**: 1999-10-04

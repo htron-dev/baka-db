@@ -1,5 +1,7 @@
 # APPLE
 
+![apple](https://cdn.myanimelist.net/images/manga/1/22225.jpg)
+
 -   **type**: manhwa
 
 ## Tags

@@ -1,5 +1,7 @@
 # Sword Art Online: Sword Art Offline - Extra Edition
 
+![sword-art-online-sword-art-offline-extra-edition](https://cdn.myanimelist.net/images/anime/13/57589.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: そーどあーと・おふらいん Extra Edition

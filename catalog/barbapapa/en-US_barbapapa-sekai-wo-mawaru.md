@@ -1,5 +1,7 @@
 # Barbapapa Sekai wo Mawaru
 
+![barbapapa-sekai-wo-mawaru](https://cdn.myanimelist.net/images/anime/1885/114869.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: バーバパパ　世界をまわる

@@ -1,5 +1,7 @@
 # Run Day Burst
 
+![run-day-burst](https://cdn.myanimelist.net/images/manga/5/63447.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Vampire Knight: Guilty
 
+![vampire-knight-guilty](https://cdn.myanimelist.net/images/anime/3/10075.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ヴァンパイア騎士〈ナイト〉Guilty

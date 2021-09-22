@@ -1,5 +1,7 @@
 # Tobiuo no Boy wa Byouki Desu
 
+![tobiuo-no-boy-wa-byouki-desu](https://cdn.myanimelist.net/images/anime/7/66039.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トビウオのぼうや は びょうきです

@@ -1,5 +1,7 @@
 # Boku wa Retsujou ni Mi wo Kogasu
 
+![boku-wa-retsujou-ni-mi-wo-kogasu](https://cdn.myanimelist.net/images/manga/1/45931.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

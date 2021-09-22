@@ -1,5 +1,7 @@
 # Natsume-kun wa Nandemo Shitteru
 
+![natsume-kun-wa-nandemo-shitteru](https://cdn.myanimelist.net/images/manga/2/190083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

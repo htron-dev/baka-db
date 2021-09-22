@@ -1,5 +1,7 @@
 # Beng Huai Xinghe
 
+![beng-huai-xinghe](https://cdn.myanimelist.net/images/anime/1465/107843.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 崩坏星河

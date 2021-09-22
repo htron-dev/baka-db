@@ -1,5 +1,7 @@
 # Dr. Slump Movie 09: Arale-chan N-cha!! Wakuwaku Hot no Natsuyasumi
 
+![dr-slump-movie-09-arale-chan-n-cha-wakuwaku-hot-no-natsuyasumi](https://cdn.myanimelist.net/images/anime/1122/97475.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Ｄｒ．スランプ んちゃ!!わくわくハートの夏休み

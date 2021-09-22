@@ -1,5 +1,7 @@
 # Golden Days
 
+![golden-days](https://cdn.myanimelist.net/images/manga/2/175483.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

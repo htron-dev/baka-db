@@ -1,5 +1,7 @@
 # Queen's Blade: Grimoire
 
+![queens-blade-grimoire](https://cdn.myanimelist.net/images/anime/13/77994.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: クイーンズブレイド グリムワール

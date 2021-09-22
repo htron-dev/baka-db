@@ -1,5 +1,7 @@
 # Amagi Brilliant Park
 
+![amagi-brilliant-park](https://cdn.myanimelist.net/images/manga/1/132665.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

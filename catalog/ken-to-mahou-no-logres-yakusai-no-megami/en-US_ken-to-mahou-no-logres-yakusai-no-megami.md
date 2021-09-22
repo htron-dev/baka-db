@@ -1,5 +1,7 @@
 # Ken to Mahou no Logres: Yakusai no Megami
 
+![ken-to-mahou-no-logres-yakusai-no-megami](https://cdn.myanimelist.net/images/manga/3/238604.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

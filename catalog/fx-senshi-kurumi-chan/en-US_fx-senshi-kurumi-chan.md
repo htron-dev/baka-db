@@ -1,5 +1,7 @@
 # FX Senshi Kurumi-chan
 
+![fx-senshi-kurumi-chan](https://cdn.myanimelist.net/images/manga/3/248442.jpg)
+
 -   **type**: manga
 -   **original-name**: FX 戦士くるみちゃん
 -   **start-date**: 2021-02-05

@@ -1,5 +1,7 @@
 # Chotto Game de Gakuen no Haken Tottekuru
 
+![chotto-game-de-gakuen-no-haken-tottekuru](https://cdn.myanimelist.net/images/manga/2/199698.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

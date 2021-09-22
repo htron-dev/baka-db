@@ -1,5 +1,7 @@
 # Miss Monochrome The Animation: Manager
 
+![miss-monochrome-the-animation-manager](https://cdn.myanimelist.net/images/anime/4/68163.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ミス・モノクローム-The Animation- MANAGER

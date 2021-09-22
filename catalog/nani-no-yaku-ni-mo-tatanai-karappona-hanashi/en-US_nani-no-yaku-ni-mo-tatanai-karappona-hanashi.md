@@ -1,5 +1,7 @@
 # Nani no Yaku ni Mo Tatanai Karappona Hanashi
 
+![nani-no-yaku-ni-mo-tatanai-karappona-hanashi](https://cdn.myanimelist.net/images/anime/4/81521.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 何の役にも立たない空っぽな話

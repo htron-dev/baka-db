@@ -1,5 +1,7 @@
 # Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero
 
+![gacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero](https://cdn.myanimelist.net/images/manga/1/199228.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ
 -   **start-date**: 2016-11-30

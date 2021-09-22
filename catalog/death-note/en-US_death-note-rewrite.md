@@ -1,5 +1,7 @@
 # Death Note: Rewrite
 
+![death-note-rewrite](https://cdn.myanimelist.net/images/anime/13/8518.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ディレクターズカット完全決着版 〜リライト

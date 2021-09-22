@@ -1,5 +1,7 @@
 # Esper Mami
 
+![esper-mami](https://cdn.myanimelist.net/images/anime/5/61395.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 119
 -   **original-name**: エスパー魔美

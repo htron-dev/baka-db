@@ -1,5 +1,7 @@
 # Doutei Zetsumetsu Rettou
 
+![doutei-zetsumetsu-rettou](https://cdn.myanimelist.net/images/manga/2/226281.jpg)
+
 -   **type**: manga
 -   **original-name**: 童貞絶滅列島
 -   **start-date**: 2019-02-16

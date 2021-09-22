@@ -1,5 +1,7 @@
 # Gekikara Gag Gekijou: Tabasco Shower
 
+![gekikara-gag-gekijou-tabasco-shower](https://cdn.myanimelist.net/images/anime/3/49571.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 激辛ギャグ劇場 タバスコシャワー

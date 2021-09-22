@@ -1,5 +1,7 @@
 # Taming the Cat Master
 
+![taming-the-cat-master](https://cdn.myanimelist.net/images/manga/1/41025.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **chapters**: 45

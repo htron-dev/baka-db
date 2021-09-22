@@ -1,5 +1,7 @@
 # Osanazuma: Marple no Jikenbo
 
+![osanazuma-marple-no-jikenbo](https://cdn.myanimelist.net/images/manga/3/173356.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

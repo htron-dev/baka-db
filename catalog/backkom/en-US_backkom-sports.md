@@ -1,5 +1,7 @@
 # Backkom Sports
 
+![backkom-sports](https://cdn.myanimelist.net/images/anime/12/65731.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 빼꼼 Sports
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   sports
 
 ## Sinopse
@@ -20,4 +21,4 @@ The 3rd season of Backkom which focuses on him participating and failing at a wi
 
 -   [My Anime list](https://myanimelist.net/anime/25967/Backkom_Sports)
 -   [Official Site](http://brbplay.com/en/shows/bernard)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Bernard_(TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Bernard_%28TV_series%29)

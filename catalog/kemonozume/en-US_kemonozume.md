@@ -1,5 +1,7 @@
 # Kemonozume
 
+![kemonozume](https://cdn.myanimelist.net/images/anime/3/86766.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ケモノヅメ

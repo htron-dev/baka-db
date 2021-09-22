@@ -1,5 +1,7 @@
 # Kawareta Pride
 
+![kawareta-pride](https://cdn.myanimelist.net/images/manga/2/232154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 買われたプライド

@@ -1,5 +1,7 @@
 # 24-ku no Hanako-san
 
+![24-ku-no-hanako-san](https://cdn.myanimelist.net/images/manga/2/239980.jpg)
+
 -   **type**: manga
 -   **original-name**: 24 区の花子さん
 -   **start-date**: 2020-01-18

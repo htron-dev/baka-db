@@ -1,5 +1,7 @@
 # Haken no Kouki Altina
 
+![haken-no-kouki-altina](https://cdn.myanimelist.net/images/manga/1/175015.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 覇剣の皇姫アルティーナ
 -   **start-date**: 2012-10-29

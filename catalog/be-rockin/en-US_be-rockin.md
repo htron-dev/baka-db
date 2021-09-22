@@ -1,5 +1,7 @@
 # Be Rockin'
 
+![be-rockin](https://cdn.myanimelist.net/images/anime/1109/98337.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: Be Rockin'

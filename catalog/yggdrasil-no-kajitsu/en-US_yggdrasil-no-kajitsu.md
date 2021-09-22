@@ -1,5 +1,7 @@
 # Yggdrasil no Kajitsu
 
+![yggdrasil-no-kajitsu](https://cdn.myanimelist.net/images/manga/2/87473.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

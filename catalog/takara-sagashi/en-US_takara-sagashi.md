@@ -1,5 +1,7 @@
 # Takara-sagashi
 
+![takara-sagashi](https://cdn.myanimelist.net/images/anime/12/34539.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たからさがし

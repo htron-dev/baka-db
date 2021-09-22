@@ -1,5 +1,7 @@
 # Kaizokuou no Hanayome: Fukushuu wa Amaku Midara ni
 
+![kaizokuou-no-hanayome-fukushuu-wa-amaku-midara-ni](https://cdn.myanimelist.net/images/manga/3/192240.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

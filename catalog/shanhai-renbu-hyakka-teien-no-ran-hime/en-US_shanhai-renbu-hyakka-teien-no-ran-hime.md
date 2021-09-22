@@ -1,5 +1,7 @@
 # Shanhai Renbu: Hyakka Teien no Ran-hime
 
+![shanhai-renbu-hyakka-teien-no-ran-hime](https://cdn.myanimelist.net/images/manga/2/187178.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

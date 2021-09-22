@@ -1,5 +1,7 @@
 # Baolie Feiche 3: Shou Shen Heti
 
+![baolie-feiche-3-shou-shen-heti](https://cdn.myanimelist.net/images/anime/1420/109419.jpg)
+
 -   **type**: ona
 -   **episodes**: 52
 -   **original-name**: 爆裂飞车 3 兽神合体

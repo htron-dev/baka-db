@@ -1,5 +1,7 @@
 # Ange Vierge
 
+![ange-vierge](https://cdn.myanimelist.net/images/anime/11/80684.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アンジュ・ヴィエルジュ

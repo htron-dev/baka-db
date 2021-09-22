@@ -1,5 +1,7 @@
 # Last Round Arthurs
 
+![last-round-arthurs](https://cdn.myanimelist.net/images/manga/3/220949.jpg)
+
 -   **type**: manga
 -   **original-name**: ラストラウンド・アーサーズ
 -   **start-date**: 2019-01-04

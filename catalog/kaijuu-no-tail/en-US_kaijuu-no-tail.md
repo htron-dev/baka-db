@@ -1,5 +1,7 @@
 # Kaijuu no Tail
 
+![kaijuu-no-tail](https://cdn.myanimelist.net/images/manga/1/22952.jpg)
+
 -   **type**: manga
 -   **original-name**: 快獣のテイル
 

@@ -1,5 +1,7 @@
 # Love Diet
 
+![love-diet](https://cdn.myanimelist.net/images/manga/2/78029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Great Pretender
 
+![great-pretender](https://cdn.myanimelist.net/images/manga/1/235245.jpg)
+
 -   **type**: manga
 -   **original-name**: GREAT PRETENDER
 -   **start-date**: 2020-06-10

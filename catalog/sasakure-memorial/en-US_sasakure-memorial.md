@@ -1,5 +1,7 @@
 # Sasakure Memorial
 
+![sasakure-memorial](https://cdn.myanimelist.net/images/manga/1/89487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

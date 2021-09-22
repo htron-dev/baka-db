@@ -1,5 +1,7 @@
 # Makotoshiyaka ni Mau Hana wa
 
+![makotoshiyaka-ni-mau-hana-wa](https://cdn.myanimelist.net/images/manga/2/221542.jpg)
+
 -   **type**: manga
 -   **original-name**: まことしやかに舞う花は
 -   **start-date**: 2019-04-26

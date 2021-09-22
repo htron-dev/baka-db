@@ -1,5 +1,7 @@
 # BL Douwa Anthology - Purikore
 
+![bl-douwa-anthology-purikore](https://cdn.myanimelist.net/images/manga/3/32767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

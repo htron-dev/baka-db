@@ -1,5 +1,7 @@
 # Sentouin, Hakenshimasu!
 
+![sentouin-hakenshimasu](https://cdn.myanimelist.net/images/manga/2/202663.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 戦闘員、派遣します！
 -   **start-date**: 2017-11-01

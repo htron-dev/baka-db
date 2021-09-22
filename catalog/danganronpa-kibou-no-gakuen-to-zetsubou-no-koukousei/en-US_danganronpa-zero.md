@@ -1,5 +1,7 @@
 # Danganronpa/Zero
 
+![danganronpa-zero](https://cdn.myanimelist.net/images/manga/1/88403.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 33

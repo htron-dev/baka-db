@@ -1,5 +1,7 @@
 # Mahoutsukai to Boku
 
+![mahoutsukai-to-boku](https://cdn.myanimelist.net/images/manga/3/181146.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔法使いと僕
 -   **start-date**: 2016-08-25

@@ -1,5 +1,7 @@
 # Star Ocean EX
 
+![star-ocean-ex](https://cdn.myanimelist.net/images/anime/1515/94058.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: スターオーシャン EX

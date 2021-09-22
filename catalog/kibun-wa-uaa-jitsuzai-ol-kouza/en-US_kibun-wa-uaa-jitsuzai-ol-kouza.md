@@ -1,5 +1,7 @@
 # Kibun wa Uaa Jitsuzai OL Kouza
 
+![kibun-wa-uaa-jitsuzai-ol-kouza](https://cdn.myanimelist.net/images/anime/5/69801.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 気分は形而上[うああ] 実在 OL 講座

@@ -1,5 +1,7 @@
 # Onee Danshi, Hajimemasu.
 
+![onee-danshi-hajimemasu](https://cdn.myanimelist.net/images/manga/1/200582.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 63

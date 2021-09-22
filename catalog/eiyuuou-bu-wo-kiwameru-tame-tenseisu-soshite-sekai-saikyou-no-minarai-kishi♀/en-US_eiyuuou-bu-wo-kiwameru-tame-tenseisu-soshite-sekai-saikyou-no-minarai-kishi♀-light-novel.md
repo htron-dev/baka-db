@@ -1,5 +1,7 @@
 # Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
 
+![eiyuuou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishi♀](https://cdn.myanimelist.net/images/manga/2/227915.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士 ♀ ～
 -   **start-date**: 2019-11-30

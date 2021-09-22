@@ -1,5 +1,7 @@
 # Testarotho
 
+![testarotho](https://cdn.myanimelist.net/images/manga/3/200365.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

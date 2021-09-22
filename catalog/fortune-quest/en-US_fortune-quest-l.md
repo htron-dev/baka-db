@@ -1,5 +1,7 @@
 # Fortune Quest L
 
+![fortune-quest-l](https://cdn.myanimelist.net/images/anime/1173/96479.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: フォーチュン·クエスト L

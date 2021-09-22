@@ -1,5 +1,7 @@
 # Kuroi Nekomen
 
+![kuroi-nekomen](https://cdn.myanimelist.net/images/manga/3/76161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 黒いねこ面

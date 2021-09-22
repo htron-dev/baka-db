@@ -1,5 +1,7 @@
 # Breath of Fire Part II: Chiisana Boukensha
 
+![breath-of-fire-part-ii-chiisana-boukensha](https://cdn.myanimelist.net/images/manga/3/35070.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

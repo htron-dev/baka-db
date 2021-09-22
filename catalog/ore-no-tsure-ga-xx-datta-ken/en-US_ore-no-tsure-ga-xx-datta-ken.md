@@ -1,5 +1,7 @@
 # Ore no Tsure ga xx Datta Ken
 
+![ore-no-tsure-ga-xx-datta-ken](https://cdn.myanimelist.net/images/manga/1/141235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

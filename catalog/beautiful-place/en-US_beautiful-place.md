@@ -1,5 +1,7 @@
 # Beautiful Place
 
+![beautiful-place](https://cdn.myanimelist.net/images/manga/1/245374.jpg)
+
 -   **type**: manga
 -   **original-name**: beautiful place
 -   **start-date**: 2021-04-30

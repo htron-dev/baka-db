@@ -1,5 +1,7 @@
 # 100-man Volt no Kanojo
 
+![100-man-volt-no-kanojo](https://cdn.myanimelist.net/images/manga/2/155816.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 100 万ボルトの彼女

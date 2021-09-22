@@ -1,5 +1,7 @@
 # Binbou Hime desu ga, Nani ka?
 
+![binbou-hime-desu-ga-nani-ka](https://cdn.myanimelist.net/images/manga/1/34486.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

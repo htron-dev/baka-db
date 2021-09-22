@@ -1,5 +1,7 @@
 # Renai Kaizou no Susume
 
+![renai-kaizou-no-susume](https://cdn.myanimelist.net/images/manga/1/91657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛改造のススメ

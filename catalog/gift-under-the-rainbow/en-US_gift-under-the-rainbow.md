@@ -1,5 +1,7 @@
 # Gift: Under the Rainbow
 
+![gift-under-the-rainbow](https://cdn.myanimelist.net/images/manga/2/14479.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

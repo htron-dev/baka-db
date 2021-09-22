@@ -1,5 +1,7 @@
 # One Piece Film: Strong World Episode 0
 
+![one-piece-film-strong-world-episode-0](https://cdn.myanimelist.net/images/anime/1172/109469.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ワンピース　フィルム　ストロングワールド　エピソードゼロ

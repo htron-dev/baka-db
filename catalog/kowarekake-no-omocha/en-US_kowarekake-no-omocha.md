@@ -1,5 +1,7 @@
 # Kowarekake no Omocha
 
+![kowarekake-no-omocha](https://cdn.myanimelist.net/images/manga/1/26903.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Iinazuke Kyoutei
 
+![iinazuke-kyoutei](https://cdn.myanimelist.net/images/manga/1/119945.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 57

@@ -1,5 +1,7 @@
 # Hana no Kakarichou
 
+![hana-no-kakarichou](https://cdn.myanimelist.net/images/anime/8/53867.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 花の係長

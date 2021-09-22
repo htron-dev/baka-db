@@ -1,5 +1,7 @@
 # Kaze no Kokyuu: Animation ni Yoru Oufuku Shokan
 
+![kaze-no-kokyuu-animation-ni-yoru-oufuku-shokan](https://cdn.myanimelist.net/images/anime/6/73776.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風の呼吸（アニメーションによる往復書簡）

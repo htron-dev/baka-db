@@ -1,5 +1,7 @@
 # Death Edge
 
+![death-edge](https://cdn.myanimelist.net/images/manga/1/164910.jpg)
+
 -   **type**: manga
 -   **original-name**: DEATH EDGE
 -   **start-date**: 2008-12-20

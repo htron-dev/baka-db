@@ -1,5 +1,7 @@
 # Mahou Sensou
 
+![mahou-sensou](https://cdn.myanimelist.net/images/manga/1/158060.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

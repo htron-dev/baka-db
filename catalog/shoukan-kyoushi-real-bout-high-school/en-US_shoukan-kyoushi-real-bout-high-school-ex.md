@@ -1,5 +1,7 @@
 # Shoukan Kyoushi Real Bout High School EX
 
+![shoukan-kyoushi-real-bout-high-school-ex](https://cdn.myanimelist.net/images/manga/2/166931.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Ane Naru Mono
 
+![ane-naru-mono](https://cdn.myanimelist.net/images/manga/1/188812.jpg)
+
 -   **type**: manga
 -   **original-name**: 姉なるもの
 -   **start-date**: 2016-03-30

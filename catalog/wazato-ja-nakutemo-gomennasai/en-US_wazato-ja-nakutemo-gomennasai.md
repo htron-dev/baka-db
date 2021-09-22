@@ -1,5 +1,7 @@
 # Wazato ja Nakutemo Gomennasai
 
+![wazato-ja-nakutemo-gomennasai](https://cdn.myanimelist.net/images/manga/3/207547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Romeo x Romeo
 
+![romeo-x-romeo](https://cdn.myanimelist.net/images/manga/1/30328.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

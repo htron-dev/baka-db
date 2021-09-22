@@ -1,5 +1,7 @@
 # Warui Ouji demo Suki
 
+![warui-ouji-demo-suki](https://cdn.myanimelist.net/images/manga/2/136007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

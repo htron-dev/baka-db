@@ -1,5 +1,7 @@
 # Jikan wo Tomete Matteite
 
+![jikan-wo-tomete-matteite](https://cdn.myanimelist.net/images/manga/3/218090.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Fuyuyasumi da. Zenin Shuugou!
 
+![fuyuyasumi-da-zenin-shuugou](https://cdn.myanimelist.net/images/anime/10/84976.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 冬休みだ。全員集合！

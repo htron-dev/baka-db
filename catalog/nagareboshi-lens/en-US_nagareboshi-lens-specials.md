@@ -1,5 +1,7 @@
 # Nagareboshi Lens Specials
 
+![nagareboshi-lens-specials](https://cdn.myanimelist.net/images/anime/6/43769.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 流れ星レンズ

@@ -1,5 +1,7 @@
 # Asadora!
 
+![asadora](https://cdn.myanimelist.net/images/manga/1/219398.jpg)
+
 -   **type**: manga
 -   **original-name**: あさドラ!
 -   **start-date**: 2018-10-06

@@ -1,5 +1,7 @@
 # Tenkai ni Uragirareta Saikyou Yuusha wa, Maou to ○○ shita.
 
+![tenkai-ni-uragirareta-saikyou-yuusha-wa-maou-to-○○-shita](https://cdn.myanimelist.net/images/manga/2/196935.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 天界に裏切られた最強勇者は、魔王と ○○ した。
 -   **start-date**: 2017-06-15

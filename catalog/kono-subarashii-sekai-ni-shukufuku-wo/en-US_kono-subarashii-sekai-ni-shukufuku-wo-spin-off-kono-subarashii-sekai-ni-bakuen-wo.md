@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Subarashii Sekai ni Bakuen wo!
 
+![kono-subarashii-sekai-ni-shukufuku-wo-spin-off-kono-subarashii-sekai-ni-bakuen-wo](https://cdn.myanimelist.net/images/manga/2/156944.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 30

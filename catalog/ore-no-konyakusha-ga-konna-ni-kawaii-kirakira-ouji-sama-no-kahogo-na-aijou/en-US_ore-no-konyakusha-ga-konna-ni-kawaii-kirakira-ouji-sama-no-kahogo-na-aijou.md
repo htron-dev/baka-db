@@ -1,5 +1,7 @@
 # Ore no Konyakusha ga Konna ni Kawaii! Kirakira Ouji-sama no Kahogo na Aijou
 
+![ore-no-konyakusha-ga-konna-ni-kawaii-kirakira-ouji-sama-no-kahogo-na-aijou](https://cdn.myanimelist.net/images/manga/2/183065.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

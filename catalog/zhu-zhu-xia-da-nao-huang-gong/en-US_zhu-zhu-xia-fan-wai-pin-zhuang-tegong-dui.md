@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Fan Wai - Pin Zhuang Tegong Dui
 
+![zhu-zhu-xia-fan-wai-pin-zhuang-tegong-dui](https://cdn.myanimelist.net/images/anime/1781/93362.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 猪猪侠 番外篇 拼装特工队

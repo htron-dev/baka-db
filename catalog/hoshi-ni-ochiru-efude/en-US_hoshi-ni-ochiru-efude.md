@@ -1,5 +1,7 @@
 # Hoshi ni Ochiru Efude
 
+![hoshi-ni-ochiru-efude](https://cdn.myanimelist.net/images/manga/1/221965.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

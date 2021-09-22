@@ -1,5 +1,7 @@
 # Argate Online
 
+![argate-online](https://cdn.myanimelist.net/images/manga/1/211413.jpg)
+
 -   **type**: manga
 -   **original-name**: アルゲートオンライン
 -   **start-date**: 2017-07-04

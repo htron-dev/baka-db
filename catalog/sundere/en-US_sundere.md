@@ -1,5 +1,7 @@
 # Sundere!
 
+![sundere](https://cdn.myanimelist.net/images/manga/3/57539.jpg)
+
 -   **type**: manga
 -   **original-name**: スンデレ!
 -   **start-date**: 2009-04-10

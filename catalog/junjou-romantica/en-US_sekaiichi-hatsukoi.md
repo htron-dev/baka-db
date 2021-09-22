@@ -1,5 +1,7 @@
 # Sekaiichi Hatsukoi
 
+![sekaiichi-hatsukoi](https://cdn.myanimelist.net/images/anime/6/29763.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 世界一初恋 TV

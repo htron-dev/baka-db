@@ -1,5 +1,7 @@
 # Heroine Voice
 
+![heroine-voice](https://cdn.myanimelist.net/images/manga/3/174706.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

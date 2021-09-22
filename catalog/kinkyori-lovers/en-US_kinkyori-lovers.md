@@ -1,5 +1,7 @@
 # Kinkyori Lovers
 
+![kinkyori-lovers](https://cdn.myanimelist.net/images/manga/1/20194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 近距離ＬＯＶＥＲＳ

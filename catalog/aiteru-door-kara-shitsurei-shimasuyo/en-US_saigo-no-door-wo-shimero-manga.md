@@ -1,5 +1,7 @@
 # Saigo no Door wo Shimero!
 
+![saigo-no-door-wo-shimero](https://cdn.myanimelist.net/images/manga/3/33045.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

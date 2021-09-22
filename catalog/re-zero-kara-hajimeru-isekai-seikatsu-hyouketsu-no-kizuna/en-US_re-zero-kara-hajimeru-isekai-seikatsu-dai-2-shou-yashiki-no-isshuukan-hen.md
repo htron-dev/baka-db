@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu: Dai-2 Shou - Yashiki no Isshuukan-hen
 
+![re-zero-kara-hajimeru-isekai-seikatsu-dai-2-shou-yashiki-no-isshuukan-hen](https://cdn.myanimelist.net/images/manga/3/188947.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

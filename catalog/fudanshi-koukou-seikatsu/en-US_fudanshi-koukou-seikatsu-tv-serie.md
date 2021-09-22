@@ -1,5 +1,7 @@
 # Fudanshi Koukou Seikatsu
 
+![fudanshi-koukou-seikatsu](https://cdn.myanimelist.net/images/anime/2/80966.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 腐男子高校生活

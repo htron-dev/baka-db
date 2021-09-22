@@ -1,5 +1,7 @@
 # Kami-tachi ni Hirowareta Otoko
 
+![kami-tachi-ni-hirowareta-otoko](https://cdn.myanimelist.net/images/anime/1654/108801.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 神達に拾われた男

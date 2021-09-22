@@ -1,5 +1,7 @@
 # Kai no Tora: Takeda Shingen
 
+![kai-no-tora-takeda-shingen](https://cdn.myanimelist.net/images/manga/3/248113.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 甲斐の虎 武田信玄

@@ -1,5 +1,7 @@
 # Tie Shan Gongzhu
 
+![tie-shan-gongzhu](https://cdn.myanimelist.net/images/anime/8/68815.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鐵扇公主

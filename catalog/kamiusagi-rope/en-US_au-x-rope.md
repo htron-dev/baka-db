@@ -1,5 +1,7 @@
 # au x Rope
 
+![au-x-rope](https://cdn.myanimelist.net/images/anime/4/72183.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: au× ロペ

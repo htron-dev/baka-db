@@ -1,5 +1,7 @@
 # Kurokami no Maria
 
+![kurokami-no-maria](https://cdn.myanimelist.net/images/manga/2/26338.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

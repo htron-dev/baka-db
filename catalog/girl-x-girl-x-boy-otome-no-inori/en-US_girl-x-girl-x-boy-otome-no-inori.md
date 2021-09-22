@@ -1,5 +1,7 @@
 # Girl x Girl x Boy: Otome no Inori
 
+![girl-x-girl-x-boy-otome-no-inori](https://cdn.myanimelist.net/images/manga/1/32352.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

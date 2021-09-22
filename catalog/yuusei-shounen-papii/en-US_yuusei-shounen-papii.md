@@ -1,5 +1,7 @@
 # Yuusei Shounen Papii
 
+![yuusei-shounen-papii](https://cdn.myanimelist.net/images/anime/8/46719.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 遊星少年パピイ

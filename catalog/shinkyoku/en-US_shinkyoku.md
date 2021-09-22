@@ -1,5 +1,7 @@
 # Shinkyoku
 
+![shinkyoku](https://cdn.myanimelist.net/images/manga/3/231304.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

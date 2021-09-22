@@ -1,5 +1,7 @@
 # Kimi ga Suki toka Arienai
 
+![kimi-ga-suki-toka-arienai](https://cdn.myanimelist.net/images/manga/2/158109.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

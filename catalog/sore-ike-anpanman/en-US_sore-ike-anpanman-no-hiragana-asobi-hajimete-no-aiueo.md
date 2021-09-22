@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman no Hiragana Asobi: Hajimete no AIUEO
 
+![sore-ike-anpanman-no-hiragana-asobi-hajimete-no-aiueo](https://cdn.myanimelist.net/images/anime/1950/101032.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマンのひらがなあそび はじめてのあいうえお

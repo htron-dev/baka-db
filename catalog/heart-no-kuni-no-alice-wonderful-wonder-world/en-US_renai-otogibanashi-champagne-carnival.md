@@ -1,5 +1,7 @@
 # Renai Otogibanashi: Champagne Carnival
 
+![renai-otogibanashi-champagne-carnival](https://cdn.myanimelist.net/images/manga/3/31378.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛おとぎ話 ～シャンパン・カーニバル～

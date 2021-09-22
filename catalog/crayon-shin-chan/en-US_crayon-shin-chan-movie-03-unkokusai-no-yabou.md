@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 03: Unkokusai no Yabou
 
+![crayon-shin-chan-movie-03-unkokusai-no-yabou](https://cdn.myanimelist.net/images/anime/1497/94853.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クレヨンしんちゃん 雲黒斎の野望

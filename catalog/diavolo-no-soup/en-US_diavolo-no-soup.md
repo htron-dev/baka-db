@@ -1,5 +1,7 @@
 # Diavolo no Soup
 
+![diavolo-no-soup](https://cdn.myanimelist.net/images/manga/3/109025.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

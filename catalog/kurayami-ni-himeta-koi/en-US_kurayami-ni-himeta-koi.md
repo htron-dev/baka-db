@@ -1,5 +1,7 @@
 # Kurayami ni Himeta Koi
 
+![kurayami-ni-himeta-koi](https://cdn.myanimelist.net/images/manga/2/186186.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

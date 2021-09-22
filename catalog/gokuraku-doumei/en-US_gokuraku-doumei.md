@@ -1,5 +1,7 @@
 # Gokuraku Doumei
 
+![gokuraku-doumei](https://cdn.myanimelist.net/images/manga/2/6301.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 極楽同盟

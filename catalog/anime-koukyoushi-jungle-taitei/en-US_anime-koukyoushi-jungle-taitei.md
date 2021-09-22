@@ -1,5 +1,7 @@
 # Anime Koukyoushi: Jungle Taitei
 
+![anime-koukyoushi-jungle-taitei](https://cdn.myanimelist.net/images/anime/4/36639.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アニメ交響詩 ジャングル大帝
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   shounen
 
 ## Sinopse

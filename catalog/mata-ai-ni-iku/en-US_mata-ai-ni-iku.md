@@ -1,5 +1,7 @@
 # Mata Ai ni Iku
 
+![mata-ai-ni-iku](https://cdn.myanimelist.net/images/manga/1/44893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

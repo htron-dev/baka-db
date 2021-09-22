@@ -1,5 +1,7 @@
 # Sekigae Game
 
+![sekigae-game](https://cdn.myanimelist.net/images/manga/2/81324.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

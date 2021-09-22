@@ -1,5 +1,7 @@
 # Yami Shibai 2
 
+![yami-shibai-2](https://cdn.myanimelist.net/images/anime/2/74108.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 闇芝居 2 期

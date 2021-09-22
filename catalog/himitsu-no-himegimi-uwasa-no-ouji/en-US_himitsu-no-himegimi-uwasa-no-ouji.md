@@ -1,5 +1,7 @@
 # Himitsu no Himegimi Uwasa no Ouji
 
+![himitsu-no-himegimi-uwasa-no-ouji](https://cdn.myanimelist.net/images/manga/5/31953.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

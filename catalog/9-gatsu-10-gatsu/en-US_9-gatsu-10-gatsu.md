@@ -1,5 +1,7 @@
 # 9-gatsu 10-gatsu
 
+![9-gatsu-10-gatsu](https://cdn.myanimelist.net/images/manga/2/170788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

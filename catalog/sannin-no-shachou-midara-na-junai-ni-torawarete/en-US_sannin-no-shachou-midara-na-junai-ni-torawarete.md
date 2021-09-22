@@ -1,5 +1,7 @@
 # Sannin no Shachou: Midara na Junai ni Torawarete
 
+![sannin-no-shachou-midara-na-junai-ni-torawarete](https://cdn.myanimelist.net/images/manga/2/193942.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

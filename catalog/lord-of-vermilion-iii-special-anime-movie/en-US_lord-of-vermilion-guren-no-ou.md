@@ -1,5 +1,7 @@
 # Lord of Vermilion: Guren no Ou
 
+![lord-of-vermilion-guren-no-ou](https://cdn.myanimelist.net/images/anime/1557/95053.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ロード オブ ヴァーミリオン　紅蓮の王

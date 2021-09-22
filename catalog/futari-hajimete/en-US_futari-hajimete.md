@@ -1,5 +1,7 @@
 # Futari Hajimete
 
+![futari-hajimete](https://cdn.myanimelist.net/images/manga/1/29691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ふたり初めて。

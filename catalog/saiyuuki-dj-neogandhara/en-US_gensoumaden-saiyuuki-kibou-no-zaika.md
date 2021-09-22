@@ -1,5 +1,7 @@
 # Gensoumaden Saiyuuki: Kibou no Zaika
 
+![gensoumaden-saiyuuki-kibou-no-zaika](https://cdn.myanimelist.net/images/anime/11/8575.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 幻想魔伝最遊記-希望の罪過-

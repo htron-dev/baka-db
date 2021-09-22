@@ -1,5 +1,7 @@
 # Hourou Musuko Specials
 
+![hourou-musuko-specials](https://cdn.myanimelist.net/images/anime/7/30177.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 放浪息子

@@ -1,5 +1,7 @@
 # Ryuu no Ko wo Undara Rien sareta node: Mori de Inkyo suru Koto ni Shimashita
 
+![ryuu-no-ko-wo-undara-rien-sareta-node-mori-de-inkyo-suru-koto-ni-shimashita](https://cdn.myanimelist.net/images/manga/3/185461.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 竜の子を産んだら離縁されたので 森で隠居することにしました
 -   **start-date**: 2016-11-04

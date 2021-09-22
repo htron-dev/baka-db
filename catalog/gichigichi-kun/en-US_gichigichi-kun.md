@@ -1,5 +1,7 @@
 # Gichigichi-kun
 
+![gichigichi-kun](https://cdn.myanimelist.net/images/manga/3/172307.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

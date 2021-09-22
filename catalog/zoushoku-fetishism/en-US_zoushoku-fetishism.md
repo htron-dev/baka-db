@@ -1,5 +1,7 @@
 # Zoushoku Fetishism
 
+![zoushoku-fetishism](https://cdn.myanimelist.net/images/manga/1/38162.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 増殖フェティシズム

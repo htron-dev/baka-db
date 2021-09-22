@@ -1,5 +1,7 @@
 # Umi no Yami, Tsuki no Kage
 
+![umi-no-yami-tsuki-no-kage](https://cdn.myanimelist.net/images/anime/13/37269.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 海の闇、月の影

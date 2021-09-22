@@ -1,5 +1,7 @@
 # Fushigi Hunter
 
+![fushigi-hunter](https://cdn.myanimelist.net/images/manga/5/38650.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Hokuto no Ken 2
 
+![hokuto-no-ken-2](https://cdn.myanimelist.net/images/anime/11/4120.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: 北斗の拳 2

@@ -1,5 +1,7 @@
 # Rokka Melt: Fiancé wa Yukiotoko
 
+![rokka-melt-fiance-wa-yukiotoko](https://cdn.myanimelist.net/images/manga/3/138285.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

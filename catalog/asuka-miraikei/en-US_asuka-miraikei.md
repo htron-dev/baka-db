@@ -1,5 +1,7 @@
 # Asuka@Miraikei
 
+![asuka-miraikei](https://cdn.myanimelist.net/images/manga/3/174365.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

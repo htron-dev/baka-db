@@ -1,5 +1,7 @@
 # Oogui Koushien
 
+![oogui-koushien](https://cdn.myanimelist.net/images/manga/1/223476.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

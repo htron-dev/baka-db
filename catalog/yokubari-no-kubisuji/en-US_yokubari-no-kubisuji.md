@@ -1,5 +1,7 @@
 # Yokubari no Kubisuji
 
+![yokubari-no-kubisuji](https://cdn.myanimelist.net/images/manga/3/193008.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

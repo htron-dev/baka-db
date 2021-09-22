@@ -1,5 +1,7 @@
 # Sekai de Ichiban Itaranu Koi
 
+![sekai-de-ichiban-itaranu-koi](https://cdn.myanimelist.net/images/manga/1/241043.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界で一番いたらぬ恋
 -   **start-date**: 2020-10-13

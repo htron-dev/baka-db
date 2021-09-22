@@ -1,5 +1,7 @@
 # Ninja Bugei-chou Pilot Film
 
+![ninja-bugei-chou-pilot-film](https://cdn.myanimelist.net/images/anime/1629/102770.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 忍者武芸帳 パイロットフィルム

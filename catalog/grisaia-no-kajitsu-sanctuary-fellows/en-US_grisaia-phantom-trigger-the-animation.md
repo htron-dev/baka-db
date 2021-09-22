@@ -1,5 +1,7 @@
 # Grisaia: Phantom Trigger The Animation
 
+![grisaia-phantom-trigger-the-animation](https://cdn.myanimelist.net/images/anime/1275/97358.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: グリザイア：ファントムトリガー THE ANIMATION

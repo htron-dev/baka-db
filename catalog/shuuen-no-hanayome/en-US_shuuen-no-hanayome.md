@@ -1,5 +1,7 @@
 # Shuuen no Hanayome
 
+![shuuen-no-hanayome](https://cdn.myanimelist.net/images/manga/2/237053.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 終焉ノ花嫁
 -   **start-date**: 2020-07-20

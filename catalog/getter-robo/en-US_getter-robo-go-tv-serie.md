@@ -1,5 +1,7 @@
 # Getter Robo Go
 
+![getter-robo-go](https://cdn.myanimelist.net/images/anime/6/56843.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ゲッターロボ號

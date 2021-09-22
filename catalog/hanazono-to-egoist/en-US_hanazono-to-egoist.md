@@ -1,5 +1,7 @@
 # Hanazono to Egoist
 
+![hanazono-to-egoist](https://cdn.myanimelist.net/images/manga/1/176171.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

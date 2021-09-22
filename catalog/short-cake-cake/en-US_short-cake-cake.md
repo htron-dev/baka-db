@@ -1,5 +1,7 @@
 # Short Cake Cake
 
+![short-cake-cake](https://cdn.myanimelist.net/images/manga/3/176987.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 67

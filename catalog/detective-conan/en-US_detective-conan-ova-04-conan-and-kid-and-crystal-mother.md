@@ -1,5 +1,7 @@
 # Detective Conan OVA 04: Conan and Kid and Crystal Mother
 
+![detective-conan-ova-04-conan-and-kid-and-crystal-mother](https://cdn.myanimelist.net/images/anime/2/31141.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン: コナンとキッドとクリスタルマザー

@@ -1,5 +1,7 @@
 # Cinderella Hakushaku-ke no Kutsubakokan
 
+![cinderella-hakushaku-ke-no-kutsubakokan](https://cdn.myanimelist.net/images/manga/3/149255.jpg)
+
 -   **type**: light-novel
 -   **original-name**: シンデレラ伯爵家の靴箱館
 -   **start-date**: 2014-04-15

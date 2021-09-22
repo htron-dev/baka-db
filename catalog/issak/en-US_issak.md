@@ -1,5 +1,7 @@
 # Issak
 
+![issak](https://cdn.myanimelist.net/images/manga/2/198485.jpg)
+
 -   **type**: manga
 -   **original-name**: イサック
 -   **start-date**: 2017-01-25

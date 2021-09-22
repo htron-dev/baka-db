@@ -1,5 +1,7 @@
 # Youkai Ninpouchou Jiraiya!
 
+![youkai-ninpouchou-jiraiya](https://cdn.myanimelist.net/images/anime/6/76328.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 妖怪忍法帖ジライヤ！PV

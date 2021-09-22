@@ -1,5 +1,7 @@
 # Graphillion: Kazoeage Oneesan wo Sukue
 
+![graphillion-kazoeage-oneesan-wo-sukue](https://cdn.myanimelist.net/images/anime/4/72117.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Graphillion: 数え上げおねえさんを救

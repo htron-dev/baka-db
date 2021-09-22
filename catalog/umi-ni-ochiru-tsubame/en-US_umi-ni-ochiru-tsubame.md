@@ -1,5 +1,7 @@
 # Umi ni Ochiru Tsubame
 
+![umi-ni-ochiru-tsubame](https://cdn.myanimelist.net/images/manga/3/10445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

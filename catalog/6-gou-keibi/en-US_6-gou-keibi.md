@@ -1,5 +1,7 @@
 # 6-gou Keibi
 
+![6-gou-keibi](https://cdn.myanimelist.net/images/manga/3/226474.jpg)
+
 -   **type**: manga
 -   **original-name**: 6 号警備
 -   **start-date**: 2017-11-27

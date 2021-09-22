@@ -1,5 +1,7 @@
 # Teppenkaketaka
 
+![teppenkaketaka](https://cdn.myanimelist.net/images/manga/2/169823.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: テッペンカケタカ

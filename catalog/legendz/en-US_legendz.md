@@ -1,5 +1,7 @@
 # Legendz
 
+![legendz](https://cdn.myanimelist.net/images/manga/1/175444.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

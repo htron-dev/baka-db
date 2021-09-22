@@ -1,5 +1,7 @@
 # Akai Ringo
 
+![akai-ringo](https://cdn.myanimelist.net/images/manga/3/237642.jpg)
+
 -   **type**: manga
 -   **original-name**: アカイリンゴ
 -   **start-date**: 2020-01-14

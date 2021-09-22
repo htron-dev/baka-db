@@ -1,5 +1,7 @@
 # Shuumatsu no Harem
 
+![shuumatsu-no-harem](https://cdn.myanimelist.net/images/anime/1491/117296.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 終末のハーレム
 -   **rating**: None

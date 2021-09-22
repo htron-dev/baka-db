@@ -1,5 +1,7 @@
 # Soukyuu no Karma
 
+![soukyuu-no-karma](https://cdn.myanimelist.net/images/manga/1/162725.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 56

@@ -1,5 +1,7 @@
 # Fukushuu Kansuisha no Jinsei Nishuume Isekaitan
 
+![fukushuu-kansuisha-no-jinsei-nishuume-isekaitan](https://cdn.myanimelist.net/images/manga/2/185924.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 復讐完遂者の人生二周目異世界譚
 -   **start-date**: 2016-11-30

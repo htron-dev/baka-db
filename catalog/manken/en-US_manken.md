@@ -1,5 +1,7 @@
 # Manken.
 
+![manken](https://cdn.myanimelist.net/images/manga/3/64969.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42

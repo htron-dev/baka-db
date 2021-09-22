@@ -1,5 +1,7 @@
 # Watashi no Na wa Outafukuko: Chiisana Shiawase wo, Chikyuu no Shiawase ni.
 
+![watashi-no-na-wa-outafukuko-chiisana-shiawase-wo-chikyuu-no-shiawase-ni](https://cdn.myanimelist.net/images/anime/1508/95516.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: わたしの名はオオタフクコ～小さな幸せを、地球の幸せに。～

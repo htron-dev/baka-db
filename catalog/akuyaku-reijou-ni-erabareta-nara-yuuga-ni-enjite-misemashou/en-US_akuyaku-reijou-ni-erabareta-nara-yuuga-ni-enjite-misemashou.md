@@ -1,5 +1,7 @@
 # Akuyaku Reijou ni Erabareta nara, Yuuga ni Enjite Misemashou!
 
+![akuyaku-reijou-ni-erabareta-nara-yuuga-ni-enjite-misemashou](https://cdn.myanimelist.net/images/manga/1/236351.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢に選ばれたなら、優雅に演じてみせましょう!
 -   **start-date**: 2019-11-30

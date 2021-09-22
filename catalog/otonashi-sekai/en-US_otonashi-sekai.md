@@ -1,5 +1,7 @@
 # Otonashi Sekai
 
+![otonashi-sekai](https://cdn.myanimelist.net/images/manga/2/162099.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 音無し世界

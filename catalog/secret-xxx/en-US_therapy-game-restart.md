@@ -1,5 +1,7 @@
 # Therapy Game: Restart
 
+![therapy-game-restart](https://cdn.myanimelist.net/images/manga/2/239827.jpg)
+
 -   **type**: manga
 -   **original-name**: セラピーゲーム リスタート
 -   **start-date**: 2019-10-12

@@ -1,5 +1,7 @@
 # Tottoko Hamtarou Hai!
 
+![tottoko-hamtarou-hai](https://cdn.myanimelist.net/images/anime/1048/94783.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 77
 -   **original-name**: とっとこハム太郎は〜い!
@@ -21,4 +23,4 @@ Tottoko Hamutaro Hai! is the sequel to Tottoko Hamutaro, or in English, Hamtaro.
 
 -   [My Anime list](https://myanimelist.net/anime/13679/Tottoko_Hamtarou_Hai)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9462)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/とっとこハム太郎_(アニメ)#.E7.AC.AC3.E6.9C.9F.EF.BC.88.E3.81.AF.E3.80.9C.E3.81.84.21.EF.BC.89>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/とっとこハム太郎_%28アニメ%29#.E7.AC.AC3.E6.9C.9F.EF.BC.88.E3.81.AF.E3.80.9C.E3.81.84.21.EF.BC.89)

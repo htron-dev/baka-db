@@ -1,5 +1,7 @@
 # Oni Joushi Gokudera-san wa Abakaretai.
 
+![oni-joushi-gokudera-san-wa-abakaretai](https://cdn.myanimelist.net/images/manga/1/248359.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼上司・獄寺さんは暴かれたい。
 -   **start-date**: 2020-01-31

@@ -1,5 +1,7 @@
 # Saotome Shimai wa Manga no Tame nara!?
 
+![saotome-shimai-wa-manga-no-tame-nara](https://cdn.myanimelist.net/images/manga/1/212665.jpg)
+
 -   **type**: manga
 -   **original-name**: 早乙女姉妹は漫画のためなら!?
 -   **start-date**: 2018-06-06

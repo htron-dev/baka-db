@@ -1,5 +1,7 @@
 # Nagagutsu Sanjuushi
 
+![nagagutsu-sanjuushi](https://cdn.myanimelist.net/images/anime/3/9746.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ながぐつ三銃士
@@ -10,7 +12,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

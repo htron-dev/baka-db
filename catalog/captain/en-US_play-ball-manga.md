@@ -1,5 +1,7 @@
 # Play Ball
 
+![play-ball](https://cdn.myanimelist.net/images/manga/3/184249.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 139

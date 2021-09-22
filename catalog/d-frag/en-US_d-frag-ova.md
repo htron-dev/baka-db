@@ -1,5 +1,7 @@
 # D-Frag!\*
 
+![d-frag](https://cdn.myanimelist.net/images/anime/9/67077.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ディーふらぐ! ウォーター!!

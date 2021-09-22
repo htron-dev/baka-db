@@ -1,5 +1,7 @@
 # Shin Onimusha: Dawn of Dreams the Story
 
+![shin-onimusha-dawn-of-dreams-the-story](https://cdn.myanimelist.net/images/anime/9/5816.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 新 鬼武者 DAWN OF DREAMS THE STORY

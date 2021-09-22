@@ -1,5 +1,7 @@
 # Boku no Gakuen Seikatsu wa Mada Hajimatta Bakari da!
 
+![boku-no-gakuen-seikatsu-wa-mada-hajimatta-bakari-da](https://cdn.myanimelist.net/images/manga/2/163867.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

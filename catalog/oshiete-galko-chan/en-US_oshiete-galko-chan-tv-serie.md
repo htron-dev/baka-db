@@ -1,5 +1,7 @@
 # Oshiete! Galko-chan
 
+![oshiete-galko-chan](https://cdn.myanimelist.net/images/anime/3/77845.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: おしえて! ギャル子ちゃん

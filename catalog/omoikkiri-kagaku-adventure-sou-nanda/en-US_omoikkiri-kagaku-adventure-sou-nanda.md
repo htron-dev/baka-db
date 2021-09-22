@@ -1,5 +1,7 @@
 # Omoikkiri Kagaku Adventure Sou Nanda!
 
+![omoikkiri-kagaku-adventure-sou-nanda](https://cdn.myanimelist.net/images/anime/3/3692.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: おもいっきり科学アドベンチャー そーなんだ!
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   sci-fi
 
 ## Sinopse

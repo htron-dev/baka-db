@@ -1,5 +1,7 @@
 # Twin Angel Break
 
+![twin-angel-break](https://cdn.myanimelist.net/images/anime/11/86505.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ツインエンジェル BREAK

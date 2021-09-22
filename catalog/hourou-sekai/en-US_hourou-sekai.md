@@ -1,5 +1,7 @@
 # Hourou Sekai
 
+![hourou-sekai](https://cdn.myanimelist.net/images/manga/1/205881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kobayashi-san Chi no Maid Dragon: Koushiki Anthology
 
+![kobayashi-san-chi-no-maid-dragon-koushiki-anthology](https://cdn.myanimelist.net/images/manga/3/241825.jpg)
+
 -   **type**: manga
 -   **original-name**: 小林さんちのメイドラゴン 公式アンソロジー
 -   **start-date**: 2017-01-12

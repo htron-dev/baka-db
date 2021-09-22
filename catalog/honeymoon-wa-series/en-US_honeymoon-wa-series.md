@@ -1,5 +1,7 @@
 # Honeymoon wa Series
 
+![honeymoon-wa-series](https://cdn.myanimelist.net/images/manga/2/167141.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

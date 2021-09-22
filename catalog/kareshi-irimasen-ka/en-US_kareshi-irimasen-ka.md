@@ -1,5 +1,7 @@
 # Kareshi Irimasen ka?
 
+![kareshi-irimasen-ka](https://cdn.myanimelist.net/images/manga/3/5922.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 彼氏いりませんか?

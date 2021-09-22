@@ -1,5 +1,7 @@
 # Game: Suit no Sukima
 
+![game-suit-no-sukima](https://cdn.myanimelist.net/images/manga/3/180431.jpg)
+
 -   **type**: manga
 -   **original-name**: GAME ～スーツの隙間～
 -   **start-date**: 2015-10-07

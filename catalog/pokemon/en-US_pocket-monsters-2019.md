@@ -1,5 +1,7 @@
 # Pocket Monsters (2019)
 
+![pocket-monsters-2019](https://cdn.myanimelist.net/images/manga/1/224968.jpg)
+
 -   **type**: manga
 -   **original-name**: ポケットモンスター
 -   **start-date**: 2019-11-15

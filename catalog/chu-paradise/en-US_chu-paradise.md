@@ -1,5 +1,7 @@
 # Chu Paradise
 
+![chu-paradise](https://cdn.myanimelist.net/images/manga/1/165206.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

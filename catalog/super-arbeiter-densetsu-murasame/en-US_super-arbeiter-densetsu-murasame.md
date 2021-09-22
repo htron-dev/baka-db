@@ -1,5 +1,7 @@
 # Super Arbeiter Densetsu Murasame
 
+![super-arbeiter-densetsu-murasame](https://cdn.myanimelist.net/images/manga/3/202305.jpg)
+
 -   **type**: manga
 -   **original-name**: スーパーアルバイター伝説ムラサメ
 -   **start-date**: 2016-12-20

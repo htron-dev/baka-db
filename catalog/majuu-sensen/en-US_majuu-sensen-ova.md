@@ -1,5 +1,7 @@
 # Majuu Sensen
 
+![majuu-sensen](https://cdn.myanimelist.net/images/anime/3/25037.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 魔獣戦線

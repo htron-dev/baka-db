@@ -1,5 +1,7 @@
 # Oshiri Kajiri Mushi (TV) 2nd Season
 
+![oshiri-kajiri-mushi-tv-2nd-season](https://cdn.myanimelist.net/images/anime/8/54947.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: おしりかじり虫　第２シリーズ

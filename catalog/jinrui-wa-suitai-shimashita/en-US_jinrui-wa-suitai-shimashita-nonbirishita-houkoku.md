@@ -1,5 +1,7 @@
 # Jinrui wa Suitai Shimashita: Nonbirishita Houkoku
 
+![jinrui-wa-suitai-shimashita-nonbirishita-houkoku](https://cdn.myanimelist.net/images/manga/3/154202.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

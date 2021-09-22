@@ -1,5 +1,7 @@
 # Cassiopeia Dolce
 
+![cassiopeia-dolce](https://cdn.myanimelist.net/images/manga/5/19095.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: カシオペア・ドルチェ

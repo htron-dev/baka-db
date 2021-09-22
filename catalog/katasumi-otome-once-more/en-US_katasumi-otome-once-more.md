@@ -1,5 +1,7 @@
 # Katasumi Otome Once More
 
+![katasumi-otome-once-more](https://cdn.myanimelist.net/images/manga/2/162669.jpg)
+
 -   **type**: manga
 -   **original-name**: 片隅乙女ワンスモア
 -   **start-date**: 2014-01-30

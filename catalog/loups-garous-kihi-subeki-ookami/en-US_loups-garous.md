@@ -1,5 +1,7 @@
 # Loups=Garous
 
+![loups-garous](https://cdn.myanimelist.net/images/anime/13/26343.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルー=ガルー 忌避すべき狼

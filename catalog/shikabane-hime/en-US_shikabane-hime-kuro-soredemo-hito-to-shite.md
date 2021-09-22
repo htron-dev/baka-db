@@ -1,5 +1,7 @@
 # Shikabane Hime: Kuro – Soredemo, Hito to Shite
 
+![shikabane-hime-kuro-soredemo-hito-to-shite](https://cdn.myanimelist.net/images/anime/4/73631.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 屍姫 玄 それでも、人として

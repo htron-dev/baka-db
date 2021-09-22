@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Horrorman to Hora Horako
 
+![sore-ike-anpanman-horrorman-to-hora-horako](https://cdn.myanimelist.net/images/anime/9/57705.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン ホラーマンとホラ・ホラコ

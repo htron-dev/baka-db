@@ -1,5 +1,7 @@
 # Sekitou Elegy
 
+![sekitou-elegy](https://cdn.myanimelist.net/images/manga/3/58233.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 165

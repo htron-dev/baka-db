@@ -1,5 +1,7 @@
 # Yaoyorozu Girl
 
+![yaoyorozu-girl](https://cdn.myanimelist.net/images/manga/2/23098.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤオヨロズガール
 

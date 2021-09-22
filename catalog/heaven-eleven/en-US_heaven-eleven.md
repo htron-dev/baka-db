@@ -1,5 +1,7 @@
 # Heaven Eleven
 
+![heaven-eleven](https://cdn.myanimelist.net/images/manga/1/5684.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

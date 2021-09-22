@@ -1,5 +1,7 @@
 # Ganbare Goemon: Chikyuu Kyuushutsu Daisakusen
 
+![ganbare-goemon-chikyuu-kyuushutsu-daisakusen](https://cdn.myanimelist.net/images/anime/7/26381.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: がんばれゴエモン 地球救出大作戦

@@ -1,5 +1,7 @@
 # Kasa Jizou
 
+![kasa-jizou](https://cdn.myanimelist.net/images/anime/4/78324.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かさじぞう

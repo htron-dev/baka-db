@@ -1,5 +1,7 @@
 # Cafe-Tic Love
 
+![cafe-tic-love](https://cdn.myanimelist.net/images/manga/2/7632.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: CAFE ちっく LOVE

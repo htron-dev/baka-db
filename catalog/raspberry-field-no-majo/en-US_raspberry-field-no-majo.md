@@ -1,5 +1,7 @@
 # Raspberry Field no Majo
 
+![raspberry-field-no-majo](https://cdn.myanimelist.net/images/manga/2/17223.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

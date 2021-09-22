@@ -1,5 +1,7 @@
 # Shinya Shokudou
 
+![shinya-shokudou](https://cdn.myanimelist.net/images/manga/1/27502.jpg)
+
 -   **type**: manga
 -   **original-name**: 深夜食堂
 -   **start-date**: 2006-10-12

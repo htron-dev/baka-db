@@ -1,5 +1,7 @@
 # Hello Kitty no Shiawase no Tulip
 
+![hello-kitty-no-shiawase-no-tulip](https://cdn.myanimelist.net/images/anime/2/50225.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ハローキティの幸せのチューリップ

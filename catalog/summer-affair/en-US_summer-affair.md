@@ -1,5 +1,7 @@
 # Summer Affair
 
+![summer-affair](https://cdn.myanimelist.net/images/manga/2/5921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

@@ -1,5 +1,7 @@
 # Tenohira Souseiki
 
+![tenohira-souseiki](https://cdn.myanimelist.net/images/manga/3/236317.jpg)
+
 -   **type**: manga
 -   **original-name**: てのひら創世記
 -   **start-date**: 2019-12-12

@@ -1,5 +1,7 @@
 # Aurora no Ginyoku
 
+![aurora-no-ginyoku](https://cdn.myanimelist.net/images/manga/3/166221.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Kindan no Yorokobi
 
+![kindan-no-yorokobi](https://cdn.myanimelist.net/images/manga/1/35700.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 禁断の喜び
@@ -14,8 +16,6 @@
 
 -   Asada
 -   Okina (Story & Art)
-
-## Sinopse
 
 ## Links
 

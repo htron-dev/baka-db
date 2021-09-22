@@ -1,5 +1,7 @@
 # Deatte 5-byou de Battle
 
+![deatte-5-byou-de-battle](https://cdn.myanimelist.net/images/anime/1145/115565.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 出会って 5 秒でバトル
 -   **start-date**: 2021-07-13

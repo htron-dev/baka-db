@@ -1,5 +1,7 @@
 # Tales of the Abyss: Senketsu no Asch
 
+![tales-of-the-abyss-senketsu-no-asch](https://cdn.myanimelist.net/images/manga/3/148301.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

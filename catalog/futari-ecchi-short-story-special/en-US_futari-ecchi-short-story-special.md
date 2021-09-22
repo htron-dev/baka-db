@@ -1,5 +1,7 @@
 # Futari Ecchi Short Story Special
 
+![futari-ecchi-short-story-special](https://cdn.myanimelist.net/images/manga/2/38169.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **start-date**: 1994-06-19

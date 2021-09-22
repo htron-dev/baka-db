@@ -1,5 +1,7 @@
 # Junshin na Rakusatsusha
 
+![junshin-na-rakusatsusha](https://cdn.myanimelist.net/images/manga/2/229457.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 純真な落札者

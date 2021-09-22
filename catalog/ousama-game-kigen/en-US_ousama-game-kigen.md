@@ -1,5 +1,7 @@
 # Ousama Game: Kigen
 
+![ousama-game-kigen](https://cdn.myanimelist.net/images/manga/3/116339.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Rockman 6
 
+![rockman-6](https://cdn.myanimelist.net/images/manga/2/230831.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

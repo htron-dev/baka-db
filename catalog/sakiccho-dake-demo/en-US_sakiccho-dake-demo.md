@@ -1,5 +1,7 @@
 # Sakiccho dake demo
 
+![sakiccho-dake-demo](https://cdn.myanimelist.net/images/manga/1/40529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

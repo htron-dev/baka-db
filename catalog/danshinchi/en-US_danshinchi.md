@@ -1,5 +1,7 @@
 # Danshinchi
 
+![danshinchi](https://cdn.myanimelist.net/images/manga/1/194479.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 37

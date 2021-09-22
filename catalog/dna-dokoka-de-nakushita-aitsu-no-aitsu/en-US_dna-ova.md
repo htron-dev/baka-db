@@ -1,5 +1,7 @@
 # DNA² OVA
 
+![dna-ova](https://cdn.myanimelist.net/images/anime/7/4537.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: D・N・A2 ～何処かで失くしたあいつのアイツ～ (1995)

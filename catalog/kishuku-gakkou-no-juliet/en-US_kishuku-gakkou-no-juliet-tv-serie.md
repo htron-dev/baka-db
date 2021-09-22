@@ -1,5 +1,7 @@
 # Kishuku Gakkou no Juliet
 
+![kishuku-gakkou-no-juliet](https://cdn.myanimelist.net/images/anime/1908/93416.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 寄宿学校のジュリエット

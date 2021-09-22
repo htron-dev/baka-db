@@ -1,5 +1,7 @@
 # Miniamaru Kareshi
 
+![miniamaru-kareshi](https://cdn.myanimelist.net/images/manga/3/219926.jpg)
+
 -   **type**: manga
 -   **original-name**: みにあまる彼氏
 -   **start-date**: 2018-04-20

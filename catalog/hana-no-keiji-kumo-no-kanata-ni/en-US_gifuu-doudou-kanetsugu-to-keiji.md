@@ -1,5 +1,7 @@
 # Gifuu Doudou!!: Kanetsugu to Keiji
 
+![gifuu-doudou-kanetsugu-to-keiji](https://cdn.myanimelist.net/images/anime/5/51427.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 義風堂々!! 兼続と慶次

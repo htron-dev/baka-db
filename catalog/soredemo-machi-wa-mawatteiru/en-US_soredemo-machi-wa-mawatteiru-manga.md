@@ -1,5 +1,7 @@
 # Soredemo Machi wa Mawatteiru
 
+![soredemo-machi-wa-mawatteiru](https://cdn.myanimelist.net/images/manga/1/185090.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 130

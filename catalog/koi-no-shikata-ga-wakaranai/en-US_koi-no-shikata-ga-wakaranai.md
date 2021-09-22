@@ -1,5 +1,7 @@
 # Koi no Shikata ga Wakaranai
 
+![koi-no-shikata-ga-wakaranai](https://cdn.myanimelist.net/images/manga/1/245045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

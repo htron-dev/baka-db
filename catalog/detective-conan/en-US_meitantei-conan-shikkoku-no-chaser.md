@@ -1,5 +1,7 @@
 # Meitantei Conan: Shikkoku no Chaser
 
+![meitantei-conan-shikkoku-no-chaser](https://cdn.myanimelist.net/images/manga/1/240193.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

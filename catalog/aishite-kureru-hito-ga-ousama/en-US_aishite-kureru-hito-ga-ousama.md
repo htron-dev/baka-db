@@ -1,5 +1,7 @@
 # Aishite Kureru Hito ga, Ousama
 
+![aishite-kureru-hito-ga-ousama](https://cdn.myanimelist.net/images/manga/3/231085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

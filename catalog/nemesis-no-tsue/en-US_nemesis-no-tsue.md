@@ -1,5 +1,7 @@
 # Nemesis no Tsue
 
+![nemesis-no-tsue](https://cdn.myanimelist.net/images/manga/2/228032.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

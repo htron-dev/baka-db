@@ -1,5 +1,7 @@
 # Break-Age
 
+![break-age](https://cdn.myanimelist.net/images/anime/3/61153.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: BREAK-AGE

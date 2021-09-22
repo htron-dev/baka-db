@@ -1,5 +1,7 @@
 # Feng Yu Zhou
 
+![feng-yu-zhou](https://cdn.myanimelist.net/images/anime/1090/95412.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 风语咒

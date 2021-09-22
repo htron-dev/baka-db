@@ -1,5 +1,7 @@
 # Hatsukoi Maze
 
+![hatsukoi-maze](https://cdn.myanimelist.net/images/manga/1/247220.jpg)
+
 -   **type**: manga
 -   **original-name**: ハツコイメイズ
 -   **start-date**: 2020-12-04

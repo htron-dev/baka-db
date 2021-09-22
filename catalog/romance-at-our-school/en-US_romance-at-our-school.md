@@ -1,5 +1,7 @@
 # Romance at Our School
 
+![romance-at-our-school](https://cdn.myanimelist.net/images/manga/1/11638.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

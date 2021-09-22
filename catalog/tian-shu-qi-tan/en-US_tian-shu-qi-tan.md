@@ -1,5 +1,7 @@
 # Tian Shu Qi Tan
 
+![tian-shu-qi-tan](https://cdn.myanimelist.net/images/anime/1494/90330.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天书奇谭

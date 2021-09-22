@@ -1,5 +1,7 @@
 # Cosmic Lens
 
+![cosmic-lens](https://cdn.myanimelist.net/images/manga/2/200460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

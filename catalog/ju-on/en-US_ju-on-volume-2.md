@@ -1,5 +1,7 @@
 # Ju-On Volume 2
 
+![ju-on-volume-2](https://cdn.myanimelist.net/images/manga/2/3579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

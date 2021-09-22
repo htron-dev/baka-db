@@ -1,5 +1,7 @@
 # The iDOLM@STER: Cinderella Girls - Rockin' Girl
 
+![the-i-dolm-ster-cinderella-girls-rockin-girl](https://cdn.myanimelist.net/images/manga/3/120165.jpg)
+
 -   **type**: manga
 -   **chapters**: 20
 -   **original-name**: アイドルマスター シンデレラガールズ ロッキングガール

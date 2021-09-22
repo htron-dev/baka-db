@@ -1,5 +1,7 @@
 # R-15
 
+![r-15](https://cdn.myanimelist.net/images/anime/9/33029.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あーるじゅうご

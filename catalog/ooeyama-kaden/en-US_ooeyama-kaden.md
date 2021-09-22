@@ -1,5 +1,7 @@
 # Ooeyama Kaden
 
+![ooeyama-kaden](https://cdn.myanimelist.net/images/manga/1/18093.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 大江山花伝

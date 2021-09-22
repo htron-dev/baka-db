@@ -1,5 +1,7 @@
 # Marvelous
 
+![marvelous](https://cdn.myanimelist.net/images/manga/1/32798.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: マーベラス

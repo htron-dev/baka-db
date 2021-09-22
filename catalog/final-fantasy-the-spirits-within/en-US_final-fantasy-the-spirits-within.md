@@ -1,5 +1,7 @@
 # Final Fantasy: The Spirits Within
 
+![final-fantasy-the-spirits-within](https://cdn.myanimelist.net/images/anime/9/51625.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ファイナルファンタジー

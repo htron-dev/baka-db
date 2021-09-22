@@ -1,5 +1,7 @@
 # Alice to Therese no Maboroshi Koujou
 
+![alice-to-therese-no-maboroshi-koujou](https://cdn.myanimelist.net/images/anime/1750/116097.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アリスとテレスのまぼろし工場

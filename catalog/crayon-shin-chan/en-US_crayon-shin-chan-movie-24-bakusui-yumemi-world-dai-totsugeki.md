@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki
 
+![crayon-shin-chan-movie-24-bakusui-yumemi-world-dai-totsugeki](https://cdn.myanimelist.net/images/anime/3/78725.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画クレヨンしんちゃん 爆睡! ユメミーワールド大突撃

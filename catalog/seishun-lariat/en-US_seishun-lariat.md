@@ -1,5 +1,7 @@
 # Seishun Lariat!!
 
+![seishun-lariat](https://cdn.myanimelist.net/images/manga/3/164679.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 青春ラリアット!!

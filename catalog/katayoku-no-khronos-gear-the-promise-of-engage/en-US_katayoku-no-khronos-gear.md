@@ -1,5 +1,7 @@
 # Katayoku no Khronos Gear
 
+![katayoku-no-khronos-gear](https://cdn.myanimelist.net/images/anime/7/38787.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 片翼のクロノスギア

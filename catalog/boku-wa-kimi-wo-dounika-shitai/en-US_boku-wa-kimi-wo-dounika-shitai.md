@@ -1,5 +1,7 @@
 # Boku wa Kimi wo Dounika Shitai
 
+![boku-wa-kimi-wo-dounika-shitai](https://cdn.myanimelist.net/images/manga/2/61743.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

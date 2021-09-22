@@ -1,5 +1,7 @@
 # Hatsukoi Piano Kyousoukyoku: Okute na Ouji to Himitsu no Lesson
 
+![hatsukoi-piano-kyousoukyoku-okute-na-ouji-to-himitsu-no-lesson](https://cdn.myanimelist.net/images/manga/1/198517.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

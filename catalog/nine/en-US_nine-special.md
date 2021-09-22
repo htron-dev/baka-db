@@ -1,5 +1,7 @@
 # Nine
 
+![nine](https://cdn.myanimelist.net/images/anime/3/24810.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナイン
@@ -24,4 +26,4 @@ Just before entering Seishuu High School, track star Katsuya Niimi and judo cham
 -   [My Anime list](https://myanimelist.net/anime/8953/Nine)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3147)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10670)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Nine_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Nine_%28manga%29)

@@ -1,5 +1,7 @@
 # Charlotte the 4-koma: Seishun wo Kakenukero!
 
+![charlotte-the-4-koma-seishun-wo-kakenukero](https://cdn.myanimelist.net/images/manga/2/188824.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

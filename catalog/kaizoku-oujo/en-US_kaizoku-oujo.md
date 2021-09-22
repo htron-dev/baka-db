@@ -1,5 +1,7 @@
 # Kaizoku Oujo
 
+![kaizoku-oujo](https://cdn.myanimelist.net/images/anime/1214/116660.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 海賊王女

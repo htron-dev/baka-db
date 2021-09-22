@@ -1,5 +1,7 @@
 # Jungle wa Itsumo Haré Nochi Guu
 
+![jungle-wa-itsumo-hare-nochi-guu](https://cdn.myanimelist.net/images/manga/2/171867.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 102

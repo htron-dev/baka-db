@@ -1,5 +1,7 @@
 # XBlade
 
+![x-blade](https://cdn.myanimelist.net/images/manga/2/52625.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 49

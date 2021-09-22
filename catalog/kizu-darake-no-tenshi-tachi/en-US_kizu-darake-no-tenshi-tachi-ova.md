@@ -1,5 +1,7 @@
 # Kizu darake no Tenshi-tachi
 
+![kizu-darake-no-tenshi-tachi](https://cdn.myanimelist.net/images/anime/9/64123.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 傷だらけの天使たち

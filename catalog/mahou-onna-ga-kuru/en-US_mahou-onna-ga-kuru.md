@@ -1,5 +1,7 @@
 # Mahou Onna ga Kuru
 
+![mahou-onna-ga-kuru](https://cdn.myanimelist.net/images/manga/2/39925.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

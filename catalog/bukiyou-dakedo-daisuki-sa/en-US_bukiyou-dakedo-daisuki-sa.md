@@ -1,5 +1,7 @@
 # Bukiyou dakedo Daisuki sa
 
+![bukiyou-dakedo-daisuki-sa](https://cdn.myanimelist.net/images/manga/2/136617.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

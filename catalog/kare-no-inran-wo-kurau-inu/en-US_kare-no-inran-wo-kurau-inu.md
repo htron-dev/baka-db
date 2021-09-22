@@ -1,5 +1,7 @@
 # Kare no Inran wo Kurau Inu
 
+![kare-no-inran-wo-kurau-inu](https://cdn.myanimelist.net/images/manga/2/154046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

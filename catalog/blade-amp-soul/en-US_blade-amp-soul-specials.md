@@ -1,5 +1,7 @@
 # Blade &amp; Soul Specials
 
+![blade-amp-soul-specials](https://cdn.myanimelist.net/images/anime/11/70471.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ブレイドアンドソウル

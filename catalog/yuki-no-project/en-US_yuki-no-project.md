@@ -1,5 +1,7 @@
 # Yuki no Project
 
+![yuki-no-project](https://cdn.myanimelist.net/images/manga/2/26981.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 8

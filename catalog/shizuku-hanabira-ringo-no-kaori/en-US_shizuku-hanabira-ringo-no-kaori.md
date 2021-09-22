@@ -1,5 +1,7 @@
 # Shizuku Hanabira Ringo no Kaori
 
+![shizuku-hanabira-ringo-no-kaori](https://cdn.myanimelist.net/images/manga/2/175986.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

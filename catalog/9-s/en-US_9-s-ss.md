@@ -1,5 +1,7 @@
 # 9S? SS
 
+![9-s-ss](https://cdn.myanimelist.net/images/manga/2/128229.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

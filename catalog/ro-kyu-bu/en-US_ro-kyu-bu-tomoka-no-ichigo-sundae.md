@@ -1,5 +1,7 @@
 # Ro-Kyu-Bu!: Tomoka no Ichigo Sundae
 
+![ro-kyu-bu-tomoka-no-ichigo-sundae](https://cdn.myanimelist.net/images/anime/10/43771.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ロウきゅーぶ！智花のいちごサンデー

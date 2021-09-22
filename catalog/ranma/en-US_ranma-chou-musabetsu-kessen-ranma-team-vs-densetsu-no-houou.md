@@ -1,5 +1,7 @@
 # Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou
 
+![ranma-chou-musabetsu-kessen-ranma-team-vs-densetsu-no-houou](https://cdn.myanimelist.net/images/anime/1985/107722.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: らんま１／２ 超無差別決戦！ 乱馬チーム VS 伝説の鳳凰

@@ -1,5 +1,7 @@
 # Cell Number 8
 
+![cell-number-8](https://cdn.myanimelist.net/images/manga/3/24666.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: セルナンバー８

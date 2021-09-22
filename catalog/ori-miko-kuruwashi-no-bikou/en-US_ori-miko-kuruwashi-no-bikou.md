@@ -1,5 +1,7 @@
 # Ori Miko: Kuruwashi no Bikou
 
+![ori-miko-kuruwashi-no-bikou](https://cdn.myanimelist.net/images/manga/1/182868.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Ultraman M78 Gekijou: Love and Peace
 
+![ultraman-m-78-gekijou-love-and-peace](https://cdn.myanimelist.net/images/anime/6/72130.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ウルトラマン M78 劇場 LOVE & PEACE
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   parody
 -   sci-fi
 -   space

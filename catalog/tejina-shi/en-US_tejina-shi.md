@@ -1,5 +1,7 @@
 # Tejina Shi
 
+![tejina-shi](https://cdn.myanimelist.net/images/anime/10/83681.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 手品師

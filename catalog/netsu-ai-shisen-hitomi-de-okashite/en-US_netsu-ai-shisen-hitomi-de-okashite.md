@@ -1,5 +1,7 @@
 # Netsu-Ai Shisen: Hitomi de Okashite
 
+![netsu-ai-shisen-hitomi-de-okashite](https://cdn.myanimelist.net/images/manga/1/182515.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

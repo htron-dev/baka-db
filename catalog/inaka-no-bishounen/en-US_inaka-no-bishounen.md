@@ -1,5 +1,7 @@
 # Inaka no Bishounen
 
+![inaka-no-bishounen](https://cdn.myanimelist.net/images/manga/2/247687.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Akuten Wars
 
+![akuten-wars](https://cdn.myanimelist.net/images/manga/1/201573.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 悪天ウォーズ

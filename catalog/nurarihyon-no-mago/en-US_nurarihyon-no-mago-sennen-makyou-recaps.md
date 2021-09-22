@@ -1,5 +1,7 @@
 # Nurarihyon no Mago: Sennen Makyou Recaps
 
+![nurarihyon-no-mago-sennen-makyou-recaps](https://cdn.myanimelist.net/images/anime/12/31455.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ぬらりひょんの孫 千年魔京

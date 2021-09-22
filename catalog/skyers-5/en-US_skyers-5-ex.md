@@ -1,5 +1,7 @@
 # Skyers 5 EX
 
+![skyers-5-ex](https://cdn.myanimelist.net/images/anime/1362/100888.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: スカイヤーズ 5 EX

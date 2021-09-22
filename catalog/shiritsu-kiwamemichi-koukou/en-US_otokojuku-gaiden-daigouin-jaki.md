@@ -1,5 +1,7 @@
 # Otokojuku Gaiden: Daigouin Jaki
 
+![otokojuku-gaiden-daigouin-jaki](https://cdn.myanimelist.net/images/manga/1/215903.jpg)
+
 -   **type**: manga
 -   **original-name**: 男塾外伝 大豪院邪鬼
 -   **start-date**: 2015-05-25

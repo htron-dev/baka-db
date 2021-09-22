@@ -1,5 +1,7 @@
 # Bikini Warriors OVA
 
+![bikini-warriors-ova](https://cdn.myanimelist.net/images/anime/5/81119.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: ビキニ・ウォリアーズ

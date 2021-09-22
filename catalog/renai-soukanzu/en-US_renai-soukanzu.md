@@ -1,5 +1,7 @@
 # Renai Soukanzu
 
+![renai-soukanzu](https://cdn.myanimelist.net/images/manga/3/21710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

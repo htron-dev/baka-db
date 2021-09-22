@@ -1,5 +1,7 @@
 # Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku
 
+![dragon-ball-super-saiya-jin-zetsumetsu-keikaku](https://cdn.myanimelist.net/images/anime/8/56931.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール　超サイヤ人絶滅計画

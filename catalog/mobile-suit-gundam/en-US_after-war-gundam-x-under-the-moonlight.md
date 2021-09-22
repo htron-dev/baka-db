@@ -1,5 +1,7 @@
 # After War Gundam X: Under the Moonlight
 
+![after-war-gundam-x-under-the-moonlight](https://cdn.myanimelist.net/images/manga/3/74039.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

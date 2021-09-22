@@ -1,5 +1,7 @@
 # Mahou Shoujo Lalabel: Umi ga Yobu Natsuyasumi
 
+![mahou-shoujo-lalabel-umi-ga-yobu-natsuyasumi](https://cdn.myanimelist.net/images/anime/1912/106130.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔法少女ララベル 海が呼ぶ夏休み

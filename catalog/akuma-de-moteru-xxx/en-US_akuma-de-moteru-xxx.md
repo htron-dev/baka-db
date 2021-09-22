@@ -1,5 +1,7 @@
 # Akuma de Moteru xxx
 
+![akuma-de-moteru-xxx](https://cdn.myanimelist.net/images/manga/3/207500.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

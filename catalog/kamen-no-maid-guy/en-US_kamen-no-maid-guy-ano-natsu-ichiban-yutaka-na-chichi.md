@@ -1,5 +1,7 @@
 # Kamen no Maid Guy: Ano Natsu, Ichiban Yutaka na Chichi.
 
+![kamen-no-maid-guy-ano-natsu-ichiban-yutaka-na-chichi](https://cdn.myanimelist.net/images/anime/3/9848.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 仮面のメイドガイ あの夏, いちばん豊か乳。

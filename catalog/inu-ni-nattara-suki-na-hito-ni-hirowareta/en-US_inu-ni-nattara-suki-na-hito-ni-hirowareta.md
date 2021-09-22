@@ -1,5 +1,7 @@
 # Inu ni Nattara Suki na Hito ni Hirowareta.
 
+![inu-ni-nattara-suki-na-hito-ni-hirowareta](https://cdn.myanimelist.net/images/manga/1/237526.jpg)
+
 -   **type**: manga
 -   **original-name**: 犬になったら好きな人に拾われた。
 -   **start-date**: 2020-08-02

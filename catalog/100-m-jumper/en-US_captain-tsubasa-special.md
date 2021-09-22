@@ -1,5 +1,7 @@
 # Captain Tsubasa Special
 
+![captain-tsubasa-special](https://cdn.myanimelist.net/images/anime/1472/104079.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: キャプテン翼

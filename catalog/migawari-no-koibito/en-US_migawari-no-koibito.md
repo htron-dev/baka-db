@@ -1,5 +1,7 @@
 # Migawari no Koibito
 
+![migawari-no-koibito](https://cdn.myanimelist.net/images/manga/3/193499.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

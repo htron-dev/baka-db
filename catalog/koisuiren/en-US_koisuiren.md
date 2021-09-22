@@ -1,5 +1,7 @@
 # Koisuiren
 
+![koisuiren](https://cdn.myanimelist.net/images/manga/2/11906.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 恋水蓮

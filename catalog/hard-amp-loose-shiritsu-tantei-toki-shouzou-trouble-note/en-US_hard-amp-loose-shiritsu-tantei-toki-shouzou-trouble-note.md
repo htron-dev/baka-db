@@ -1,5 +1,7 @@
 # Hard &amp; Loose: Shiritsu Tantei Toki Shouzou Trouble Note
 
+![hard-amp-loose-shiritsu-tantei-toki-shouzou-trouble-note](https://cdn.myanimelist.net/images/manga/3/129675.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 60

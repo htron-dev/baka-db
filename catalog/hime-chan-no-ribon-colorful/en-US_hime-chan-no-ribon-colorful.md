@@ -1,5 +1,7 @@
 # Hime-chan no Ribon Colorful
 
+![hime-chan-no-ribon-colorful](https://cdn.myanimelist.net/images/manga/2/34817.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

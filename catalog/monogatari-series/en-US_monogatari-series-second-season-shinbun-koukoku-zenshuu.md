@@ -1,5 +1,7 @@
 # Monogatari Series: Second Season - Shinbun Koukoku Zenshuu
 
+![monogatari-series-second-season-shinbun-koukoku-zenshuu](https://cdn.myanimelist.net/images/manga/3/158927.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 8

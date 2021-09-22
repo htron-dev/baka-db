@@ -1,5 +1,7 @@
 # One Piece Movie 14: Stampede
 
+![one-piece-movie-14-stampede](https://cdn.myanimelist.net/images/anime/1221/100550.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版『ONE PIECE STAMPEDE』（スタンピード）

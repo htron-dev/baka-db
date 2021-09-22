@@ -1,5 +1,7 @@
 # Liberty
 
+![liberty](https://cdn.myanimelist.net/images/manga/2/217944.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

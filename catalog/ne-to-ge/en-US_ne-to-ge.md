@@ -1,5 +1,7 @@
 # Ne-to-ge
 
+![ne-to-ge](https://cdn.myanimelist.net/images/manga/3/168977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

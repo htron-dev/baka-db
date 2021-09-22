@@ -1,5 +1,7 @@
 # Doutei Ouji!!
 
+![doutei-ouji](https://cdn.myanimelist.net/images/manga/2/68431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

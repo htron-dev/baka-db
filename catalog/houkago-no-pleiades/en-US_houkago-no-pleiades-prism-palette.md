@@ -1,5 +1,7 @@
 # Houkago no Pleiades: Prism Palette
 
+![houkago-no-pleiades-prism-palette](https://cdn.myanimelist.net/images/manga/3/155670.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

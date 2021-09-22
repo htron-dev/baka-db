@@ -1,5 +1,7 @@
 # Guuzen ga Nokosu Mono - Kioku Senmei II
 
+![guuzen-ga-nokosu-mono-kioku-senmei-ii](https://cdn.myanimelist.net/images/manga/1/7059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

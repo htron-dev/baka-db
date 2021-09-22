@@ -1,5 +1,7 @@
 # Violinist
 
+![violinist](https://cdn.myanimelist.net/images/manga/1/18159.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ヴァイオリニスト

@@ -1,5 +1,7 @@
 # Osanai Fusai wa Itonamitai
 
+![osanai-fusai-wa-itonamitai](https://cdn.myanimelist.net/images/manga/3/246910.jpg)
+
 -   **type**: manga
 -   **original-name**: 小山内夫妻はいとなみたい
 -   **start-date**: 2020-07-29

@@ -1,5 +1,7 @@
 # Chiiko Basketball!
 
+![chiiko-basketball](https://cdn.myanimelist.net/images/manga/1/189595.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

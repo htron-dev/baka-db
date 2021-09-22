@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Oshougatsu Special
 
+![tennis-no-ouji-sama-oshougatsu-special](https://cdn.myanimelist.net/images/anime/5/13038.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: テニスの王子様 お正月スペシャル

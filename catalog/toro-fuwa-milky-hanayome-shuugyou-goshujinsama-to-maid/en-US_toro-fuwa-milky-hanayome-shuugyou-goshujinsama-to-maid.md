@@ -1,5 +1,7 @@
 # Toro Fuwa Milky Hanayome Shuugyou: Goshujinsama to Maid
 
+![toro-fuwa-milky-hanayome-shuugyou-goshujinsama-to-maid](https://cdn.myanimelist.net/images/manga/1/115591.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

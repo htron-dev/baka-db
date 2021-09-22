@@ -1,5 +1,7 @@
 # Eguchi Hisashi no Nantoka Narudesho!
 
+![eguchi-hisashi-no-nantoka-narudesho](https://cdn.myanimelist.net/images/manga/2/215536.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

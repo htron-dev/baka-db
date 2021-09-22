@@ -1,5 +1,7 @@
 # Gaps
 
+![gaps](https://cdn.myanimelist.net/images/manga/2/245894.jpg)
+
 -   **type**: manga
 -   **original-name**: GAPS
 -   **start-date**: 2014-01-20

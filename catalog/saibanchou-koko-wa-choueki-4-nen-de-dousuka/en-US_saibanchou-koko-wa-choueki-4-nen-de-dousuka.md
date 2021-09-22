@@ -1,5 +1,7 @@
 # Saibanchou! Koko wa Choueki 4-nen de Dousuka
 
+![saibanchou-koko-wa-choueki-4-nen-de-dousuka](https://cdn.myanimelist.net/images/manga/2/154791.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 99

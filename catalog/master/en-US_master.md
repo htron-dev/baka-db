@@ -1,5 +1,7 @@
 # Master
 
+![master](https://cdn.myanimelist.net/images/manga/1/2819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

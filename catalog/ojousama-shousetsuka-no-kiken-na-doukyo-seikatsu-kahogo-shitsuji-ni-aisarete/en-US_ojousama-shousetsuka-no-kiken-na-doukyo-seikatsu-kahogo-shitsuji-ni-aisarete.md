@@ -1,5 +1,7 @@
 # Ojousama Shousetsuka no Kiken na Doukyo Seikatsu: Kahogo Shitsuji ni Aisarete
 
+![ojousama-shousetsuka-no-kiken-na-doukyo-seikatsu-kahogo-shitsuji-ni-aisarete](https://cdn.myanimelist.net/images/manga/2/194140.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: お嬢様小説家のキケンな同居生活　～過保護執事に愛されて～

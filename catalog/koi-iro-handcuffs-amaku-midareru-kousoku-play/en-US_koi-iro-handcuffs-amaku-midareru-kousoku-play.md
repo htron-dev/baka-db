@@ -1,5 +1,7 @@
 # Koi-iro Handcuffs: Amaku Midareru Kousoku Play
 
+![koi-iro-handcuffs-amaku-midareru-kousoku-play](https://cdn.myanimelist.net/images/manga/3/197985.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

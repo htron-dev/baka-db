@@ -1,5 +1,7 @@
 # Chikan Elevator
 
+![chikan-elevator](https://cdn.myanimelist.net/images/manga/1/98005.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

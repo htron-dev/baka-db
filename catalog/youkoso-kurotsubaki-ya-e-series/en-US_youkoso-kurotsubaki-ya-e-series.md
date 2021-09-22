@@ -1,5 +1,7 @@
 # Youkoso Kurotsubaki-ya e! Series
 
+![youkoso-kurotsubaki-ya-e-series](https://cdn.myanimelist.net/images/manga/1/172946.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ようこそ黒椿屋へ!シリーズ

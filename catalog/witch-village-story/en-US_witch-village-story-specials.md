@@ -1,5 +1,7 @@
 # Witch Village Story Specials
 
+![witch-village-story-specials](https://cdn.myanimelist.net/images/anime/4/76385.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **rating**: G - All Ages

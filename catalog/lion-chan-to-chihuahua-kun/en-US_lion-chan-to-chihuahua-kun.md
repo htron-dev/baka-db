@@ -1,5 +1,7 @@
 # Lion-chan to Chihuahua-kun.
 
+![lion-chan-to-chihuahua-kun](https://cdn.myanimelist.net/images/manga/3/238305.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

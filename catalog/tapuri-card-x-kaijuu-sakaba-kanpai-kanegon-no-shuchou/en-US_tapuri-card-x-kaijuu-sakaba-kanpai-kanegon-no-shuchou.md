@@ -1,5 +1,7 @@
 # Tapuri Card x Kaijuu Sakaba Kanpai: Kanegon no Shuchou
 
+![tapuri-card-x-kaijuu-sakaba-kanpai-kanegon-no-shuchou](https://cdn.myanimelist.net/images/anime/2/84153.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: タプリカード × 怪獣酒場 カンパーイ　〜カネゴンの主張〜

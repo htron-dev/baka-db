@@ -1,5 +1,7 @@
 # Hotel Tantei Doll
 
+![hotel-tantei-doll](https://cdn.myanimelist.net/images/manga/1/62733.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

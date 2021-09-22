@@ -1,5 +1,7 @@
 # Grimm Douwa: Watanabe Yaoyoi Sakuhinshuu 1
 
+![grimm-douwa-watanabe-yaoyoi-sakuhinshuu-1](https://cdn.myanimelist.net/images/manga/1/136089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

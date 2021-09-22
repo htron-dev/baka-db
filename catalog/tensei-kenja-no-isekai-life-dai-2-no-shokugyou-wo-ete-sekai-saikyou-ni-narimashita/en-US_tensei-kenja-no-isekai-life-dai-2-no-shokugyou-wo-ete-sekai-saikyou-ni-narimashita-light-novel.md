@@ -1,5 +1,7 @@
 # Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita
 
+![tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita](https://cdn.myanimelist.net/images/manga/2/215165.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～
 -   **start-date**: 2018-05-15

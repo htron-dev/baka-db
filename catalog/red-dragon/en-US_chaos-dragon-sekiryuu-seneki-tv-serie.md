@@ -1,5 +1,7 @@
 # Chaos Dragon: Sekiryuu Seneki
 
+![chaos-dragon-sekiryuu-seneki](https://cdn.myanimelist.net/images/anime/10/74375.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ケイオスドラゴン 赤竜戦役

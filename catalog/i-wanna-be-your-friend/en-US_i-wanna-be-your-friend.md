@@ -1,5 +1,7 @@
 # I Wanna Be Your Friend
 
+![i-wanna-be-your-friend](https://cdn.myanimelist.net/images/anime/1419/110747.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: I Wanna Be Your Friend

@@ -1,5 +1,7 @@
 # Jian Wang 3: Xia Gan Yi Dan Shen Jianxin 3rd Season
 
+![jian-wang-3-xia-gan-yi-dan-shen-jianxin-3rd-season](https://cdn.myanimelist.net/images/anime/1411/110317.jpg)
+
 -   **type**: ona
 -   **original-name**: 剑网 3·侠肝义胆沈剑心 第三季
 -   **rating**: None

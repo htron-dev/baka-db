@@ -1,5 +1,7 @@
 # Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari
 
+![ashita-no-kibou-kanashimi-yo-arigatou-takae-tsuneo-monogatari](https://cdn.myanimelist.net/images/anime/8/59721.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 明日の希望 悲しみよありがとう 高江常男物語

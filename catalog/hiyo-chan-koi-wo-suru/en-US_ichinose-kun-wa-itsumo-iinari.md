@@ -1,5 +1,7 @@
 # Ichinose-kun wa Itsumo Iinari.
 
+![ichinose-kun-wa-itsumo-iinari](https://cdn.myanimelist.net/images/manga/3/238190.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

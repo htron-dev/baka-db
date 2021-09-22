@@ -1,5 +1,7 @@
 # Eroman no Hoshi
 
+![eroman-no-hoshi](https://cdn.myanimelist.net/images/manga/1/166553.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 45

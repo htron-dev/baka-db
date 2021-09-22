@@ -1,5 +1,7 @@
 # Shigurui
 
+![shigurui](https://cdn.myanimelist.net/images/manga/1/110081.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 84

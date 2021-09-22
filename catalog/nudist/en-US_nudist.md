@@ -1,5 +1,7 @@
 # Nudist.
 
+![nudist](https://cdn.myanimelist.net/images/manga/1/13877.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ヌーディスト。

@@ -1,5 +1,7 @@
 # Tokyo Girls Collection 2016 A/W x Osomatsu-san Special Movie
 
+![tokyo-girls-collection-2016-a-w-x-osomatsu-san-special-movie](https://cdn.myanimelist.net/images/anime/8/89192.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: TOKYO GIRLS COLLECTION 2016 A/W× おそ松さん　スペシャルムービー

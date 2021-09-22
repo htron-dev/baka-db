@@ -1,5 +1,7 @@
 # Nippon Mukashibanashi: Sannen Netarou
 
+![nippon-mukashibanashi-sannen-netarou](https://cdn.myanimelist.net/images/anime/9/82215.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 日本昔ばなし 三ねん寝太郎

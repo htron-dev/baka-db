@@ -1,5 +1,7 @@
 # Asa made Jugyou Chu!
 
+![asa-made-jugyou-chu](https://cdn.myanimelist.net/images/anime/1618/112459.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 朝まで授業 chu!

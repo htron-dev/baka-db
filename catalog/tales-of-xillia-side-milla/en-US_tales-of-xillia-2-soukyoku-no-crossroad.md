@@ -1,5 +1,7 @@
 # Tales of Xillia 2: Soukyoku no Crossroad
 
+![tales-of-xillia-2-soukyoku-no-crossroad](https://cdn.myanimelist.net/images/manga/3/146763.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

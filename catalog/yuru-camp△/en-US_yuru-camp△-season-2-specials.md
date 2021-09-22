@@ -1,5 +1,7 @@
 # Yuru Camp△ Season 2 Specials
 
+![yuru-camp△-season-2-specials](https://cdn.myanimelist.net/images/anime/1542/115070.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ゆるキャン △ SEASON2

@@ -1,5 +1,7 @@
 # Dragon Eye RT Zero
 
+![dragon-eye-rt-zero](https://cdn.myanimelist.net/images/manga/2/246000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

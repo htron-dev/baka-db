@@ -1,5 +1,7 @@
 # Koisuru Asteroid
 
+![koisuru-asteroid](https://cdn.myanimelist.net/images/manga/2/208355.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋する小惑星〈アストロイド〉
 -   **start-date**: 2017-01-28

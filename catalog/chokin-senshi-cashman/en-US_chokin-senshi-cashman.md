@@ -1,5 +1,7 @@
 # Chokin Senshi Cashman
 
+![chokin-senshi-cashman](https://cdn.myanimelist.net/images/anime/8/14768.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 儲金戰士

@@ -1,5 +1,7 @@
 # Five Plus
 
+![five-plus](https://cdn.myanimelist.net/images/manga/2/186002.jpg)
+
 -   **type**: manga
 -   **original-name**: ファイブ+
 -   **start-date**: 2016-05-25

@@ -1,5 +1,7 @@
 # Tsubaki Dayori
 
+![tsubaki-dayori](https://cdn.myanimelist.net/images/manga/2/41966.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

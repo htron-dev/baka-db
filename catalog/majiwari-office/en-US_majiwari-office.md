@@ -1,5 +1,7 @@
 # Majiwari Office
 
+![majiwari-office](https://cdn.myanimelist.net/images/manga/5/82146.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

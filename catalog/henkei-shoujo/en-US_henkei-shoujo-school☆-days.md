@@ -1,5 +1,7 @@
 # Henkei Shoujo: School☆Days
 
+![henkei-shoujo-school☆-days](https://cdn.myanimelist.net/images/manga/1/221905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

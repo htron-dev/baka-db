@@ -1,5 +1,7 @@
 # Rule: Shoumetsu Kyoushitsu
 
+![rule-shoumetsu-kyoushitsu](https://cdn.myanimelist.net/images/manga/2/200791.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29
@@ -17,7 +19,7 @@
 
 -   Usui
 -   Tomomi (Art)
--   -104- (Story)
+-   -104(Story)
 
 ## Links
 

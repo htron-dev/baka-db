@@ -1,5 +1,7 @@
 # Kikou Souseiki Mospeada
 
+![kikou-souseiki-mospeada](https://cdn.myanimelist.net/images/anime/13/61913.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 機甲創世記モスピーダ

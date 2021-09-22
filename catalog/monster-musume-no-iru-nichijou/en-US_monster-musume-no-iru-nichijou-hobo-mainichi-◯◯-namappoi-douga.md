@@ -1,5 +1,7 @@
 # Monster Musume no Iru Nichijou: Hobo Mainichi ◯◯! Namappoi Douga
 
+![monster-musume-no-iru-nichijou-hobo-mainichi-◯◯-namappoi-douga](https://cdn.myanimelist.net/images/anime/9/74970.jpg)
+
 -   **type**: ona
 -   **episodes**: 60
 -   **original-name**: 「モンスター娘のいる日常」ほぼ毎日 ○○！生っぽい動画

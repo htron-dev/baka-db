@@ -1,5 +1,7 @@
 # Hibari no Yadogae
 
+![hibari-no-yadogae](https://cdn.myanimelist.net/images/anime/7/12513.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 雲雀の宿替

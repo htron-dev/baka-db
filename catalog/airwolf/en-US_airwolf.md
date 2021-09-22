@@ -1,5 +1,7 @@
 # Airwolf
 
+![airwolf](https://cdn.myanimelist.net/images/manga/3/79107.jpg)
+
 -   **type**: manga
 -   **original-name**: エアーウルフ
 -   **start-date**: 1987-12-19

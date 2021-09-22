@@ -1,5 +1,7 @@
 # Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete
 
+![star☆-twinkle-precure-hoshi-no-uta-ni-omoi-wo-komete](https://cdn.myanimelist.net/images/anime/1324/101596.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画スター ☆ トゥインクルプリキュア 星のうたに想いをこめて

@@ -1,5 +1,7 @@
 # Eat-Man '98
 
+![eat-man-98](https://cdn.myanimelist.net/images/anime/11/20146.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: イートマン `98

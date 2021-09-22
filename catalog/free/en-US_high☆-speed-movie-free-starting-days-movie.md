@@ -1,5 +1,7 @@
 # High☆Speed! Movie: Free! Starting Days
 
+![high☆-speed-movie-free-starting-days](https://cdn.myanimelist.net/images/anime/8/76967.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ハイ ☆ スピード！ -Free! Starting Days-
@@ -31,4 +33,4 @@ As determination and talent run high, witness Haruka and Makoto—along with the
 -   [Official Site](http://www.movie-highspeed.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11155)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16898)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Free!_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Free!_%28anime%29)

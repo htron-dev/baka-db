@@ -1,5 +1,7 @@
 # Iki Dekinai no wa Kimi no Sei
 
+![iki-dekinai-no-wa-kimi-no-sei](https://cdn.myanimelist.net/images/manga/1/245266.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

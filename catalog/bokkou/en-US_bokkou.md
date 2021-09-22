@@ -1,5 +1,7 @@
 # Bokkou
 
+![bokkou](https://cdn.myanimelist.net/images/manga/2/209464.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 107

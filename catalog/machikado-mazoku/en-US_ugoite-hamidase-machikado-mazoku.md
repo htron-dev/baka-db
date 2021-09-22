@@ -1,5 +1,7 @@
 # Ugoite Hamidase! Machikado Mazoku
 
+![ugoite-hamidase-machikado-mazoku](https://cdn.myanimelist.net/images/anime/1251/104456.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: うごいてハミだせ！まちカドまぞく

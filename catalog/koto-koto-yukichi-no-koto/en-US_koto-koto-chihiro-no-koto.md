@@ -1,5 +1,7 @@
 # Koto Koto: Chihiro no Koto
 
+![koto-koto-chihiro-no-koto](https://cdn.myanimelist.net/images/manga/3/203197.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

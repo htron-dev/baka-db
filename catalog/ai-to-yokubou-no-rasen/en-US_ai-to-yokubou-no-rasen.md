@@ -1,5 +1,7 @@
 # Ai to Yokubou no Rasen
 
+![ai-to-yokubou-no-rasen](https://cdn.myanimelist.net/images/manga/3/15198.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 愛と欲望の螺旋

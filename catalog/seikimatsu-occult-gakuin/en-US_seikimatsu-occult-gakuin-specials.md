@@ -1,5 +1,7 @@
 # Seikimatsu Occult Gakuin Specials
 
+![seikimatsu-occult-gakuin-specials](https://cdn.myanimelist.net/images/anime/3/25576.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 世紀末オカルト学院

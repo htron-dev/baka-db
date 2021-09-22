@@ -1,5 +1,7 @@
 # Denpa Onna to Seishun Otoko
 
+![denpa-onna-to-seishun-otoko](https://cdn.myanimelist.net/images/anime/9/59497.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 電波女と青春男

@@ -1,5 +1,7 @@
 # GS Mikami: Gokuraku Daisakusen!!
 
+![gs-mikami-gokuraku-daisakusen](https://cdn.myanimelist.net/images/anime/11/49257.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GS 美神 極楽大作戦!!

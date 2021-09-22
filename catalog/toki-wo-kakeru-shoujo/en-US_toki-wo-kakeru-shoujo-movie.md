@@ -1,5 +1,7 @@
 # Toki wo Kakeru Shoujo
 
+![toki-wo-kakeru-shoujo](https://cdn.myanimelist.net/images/anime/1/2432.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 時をかける少女

@@ -1,5 +1,7 @@
 # BL Shachou
 
+![bl-shachou](https://cdn.myanimelist.net/images/manga/1/24804.jpg)
+
 -   **type**: manga
 -   **original-name**: BL しゃちょう
 

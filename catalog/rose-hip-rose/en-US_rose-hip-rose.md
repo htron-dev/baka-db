@@ -1,5 +1,7 @@
 # Rose Hip Rose
 
+![rose-hip-rose](https://cdn.myanimelist.net/images/manga/1/177185.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

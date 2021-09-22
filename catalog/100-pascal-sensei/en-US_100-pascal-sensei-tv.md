@@ -1,5 +1,7 @@
 # 100% Pascal-sensei (TV)
 
+![100-pascal-sensei-tv](https://cdn.myanimelist.net/images/anime/10/86858.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: 100%パスカル先生 (TV)

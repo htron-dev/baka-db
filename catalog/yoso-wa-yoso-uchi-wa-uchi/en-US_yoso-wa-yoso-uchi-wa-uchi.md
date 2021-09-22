@@ -1,5 +1,7 @@
 # Yoso wa Yoso, Uchi wa Uchi
 
+![yoso-wa-yoso-uchi-wa-uchi](https://cdn.myanimelist.net/images/manga/1/117701.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: よそはよそ、ウチはウチ

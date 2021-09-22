@@ -1,5 +1,7 @@
 # Happyakuyachou Hyouri Kewaishi
 
+![happyakuyachou-hyouri-kewaishi](https://cdn.myanimelist.net/images/anime/10/32257.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: 八百八町表裏 化粧師

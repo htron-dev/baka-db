@@ -1,5 +1,7 @@
 # Time Bokan Series: Yattodetaman
 
+![time-bokan-series-yattodetaman](https://cdn.myanimelist.net/images/anime/5/7645.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: タイムボカンシリーズ　ヤットデタマン

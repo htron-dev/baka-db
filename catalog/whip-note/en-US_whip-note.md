@@ -1,5 +1,7 @@
 # Whip Note
 
+![whip-note](https://cdn.myanimelist.net/images/manga/1/99789.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ホイップノート

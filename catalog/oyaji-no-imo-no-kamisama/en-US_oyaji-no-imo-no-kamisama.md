@@ -1,5 +1,7 @@
 # Oyaji no, Imo no Kamisama.
 
+![oyaji-no-imo-no-kamisama](https://cdn.myanimelist.net/images/anime/2/70511.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: オヤジの、芋神様。

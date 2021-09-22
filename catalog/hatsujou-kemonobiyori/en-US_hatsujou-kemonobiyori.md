@@ -1,5 +1,7 @@
 # Hatsujou Kemonobiyori
 
+![hatsujou-kemonobiyori](https://cdn.myanimelist.net/images/manga/3/238303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

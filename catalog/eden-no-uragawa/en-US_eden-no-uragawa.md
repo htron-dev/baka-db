@@ -1,5 +1,7 @@
 # Eden no Uragawa
 
+![eden-no-uragawa](https://cdn.myanimelist.net/images/manga/1/220473.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

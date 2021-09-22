@@ -1,5 +1,7 @@
 # Ookami Game
 
+![ookami-game](https://cdn.myanimelist.net/images/manga/3/235505.jpg)
+
 -   **type**: manga
 -   **original-name**: 狼ゲーム
 -   **start-date**: 2020-02-15

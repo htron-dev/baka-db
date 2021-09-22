@@ -1,5 +1,7 @@
 # Manga Nippon Mukashibanashi
 
+![manga-nippon-mukashibanashi](https://cdn.myanimelist.net/images/anime/5/28281.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: まんが日本昔ばなし

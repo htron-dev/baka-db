@@ -1,5 +1,7 @@
 # Hatsukoi ni, Tejou
 
+![hatsukoi-ni-tejou](https://cdn.myanimelist.net/images/manga/1/180890.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

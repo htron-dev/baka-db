@@ -1,5 +1,7 @@
 # Lodoss-tou Senki
 
+![lodoss-tou-senki](https://cdn.myanimelist.net/images/anime/1644/92493.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: ロードス島戦記

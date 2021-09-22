@@ -1,5 +1,7 @@
 # Ouji wa Tadaima Dekasegichuu
 
+![ouji-wa-tadaima-dekasegichuu](https://cdn.myanimelist.net/images/manga/1/176613.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

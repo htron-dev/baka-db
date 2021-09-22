@@ -1,5 +1,7 @@
 # Candy Candy
 
+![candy-candy](https://cdn.myanimelist.net/images/anime/4/35051.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 115
 -   **original-name**: キャンディ・キャンディ

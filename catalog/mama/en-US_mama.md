@@ -1,5 +1,7 @@
 # Mama
 
+![mama](https://cdn.myanimelist.net/images/manga/2/206411.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

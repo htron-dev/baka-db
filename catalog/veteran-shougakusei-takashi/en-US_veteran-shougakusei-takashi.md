@@ -1,5 +1,7 @@
 # Veteran Shougakusei Takashi
 
+![veteran-shougakusei-takashi](https://cdn.myanimelist.net/images/manga/1/225931.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ベテラン小学生タカシ

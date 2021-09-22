@@ -1,5 +1,7 @@
 # Kono Ai ni Hizamazuke
 
+![kono-ai-ni-hizamazuke](https://cdn.myanimelist.net/images/manga/3/33521.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: この愛にひざまずけ;この愛に溺れろ

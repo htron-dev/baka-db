@@ -1,5 +1,7 @@
 # Furyou Taimashi Reina
 
+![furyou-taimashi-reina](https://cdn.myanimelist.net/images/manga/3/229161.jpg)
+
 -   **type**: manga
 -   **original-name**: 不良退魔師レイナ
 -   **start-date**: 2018-10-23

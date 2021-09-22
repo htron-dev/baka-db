@@ -1,5 +1,7 @@
 # Jeanne d'Arc
 
+![jeanne-d-arc](https://cdn.myanimelist.net/images/manga/3/28064.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: ジャンヌ・ダルク (天川 すみこ)

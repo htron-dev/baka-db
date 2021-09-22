@@ -1,5 +1,7 @@
 # Omoi, Omoware, Furi, Furare
 
+![omoi-omoware-furi-furare](https://cdn.myanimelist.net/images/manga/1/167944.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 48

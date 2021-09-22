@@ -1,5 +1,7 @@
 # Wizdoms no Kemono-tachi
 
+![wizdoms-no-kemono-tachi](https://cdn.myanimelist.net/images/manga/3/225449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

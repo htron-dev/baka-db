@@ -1,5 +1,7 @@
 # Mobile Suit Gundam-san (Movie)
 
+![mobile-suit-gundam-san-movie](https://cdn.myanimelist.net/images/anime/8/77256.jpg)
+
 -   **type**: movie
 -   **episodes**: 10
 -   **original-name**: 機動戦士ガンダムさん 坊やだからさ

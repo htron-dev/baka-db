@@ -1,5 +1,7 @@
 # Kieta Hatsukoi
 
+![kieta-hatsukoi](https://cdn.myanimelist.net/images/manga/2/235088.jpg)
+
 -   **type**: manga
 -   **original-name**: 消えた初恋
 -   **start-date**: 2019-06-13

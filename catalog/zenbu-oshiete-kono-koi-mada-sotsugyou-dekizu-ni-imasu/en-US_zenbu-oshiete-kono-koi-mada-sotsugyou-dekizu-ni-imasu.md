@@ -1,5 +1,7 @@
 # Zenbu, Oshiete? Kono Koi Mada Sotsugyou Dekizu ni Imasu
 
+![zenbu-oshiete-kono-koi-mada-sotsugyou-dekizu-ni-imasu](https://cdn.myanimelist.net/images/manga/1/196431.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

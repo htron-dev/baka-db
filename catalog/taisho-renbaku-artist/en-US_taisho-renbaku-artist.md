@@ -1,5 +1,7 @@
 # Taisho Renbaku Artist
 
+![taisho-renbaku-artist](https://cdn.myanimelist.net/images/manga/3/247130.jpg)
+
 -   **type**: manga
 -   **original-name**: 大正恋縛アルチスト
 -   **start-date**: 2019-04-15

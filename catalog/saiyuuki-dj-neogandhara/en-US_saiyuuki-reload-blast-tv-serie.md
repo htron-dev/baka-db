@@ -1,5 +1,7 @@
 # Saiyuuki Reload Blast
 
+![saiyuuki-reload-blast](https://cdn.myanimelist.net/images/anime/11/86675.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 最遊記 RELOAD BLAST
@@ -33,4 +35,4 @@ What will they find at the end of their long and treacherous journey?
 -   [Official Site](http://saiyuki-rb.jp)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12287)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18999)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Saiyuki_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Saiyuki_%28manga%29)

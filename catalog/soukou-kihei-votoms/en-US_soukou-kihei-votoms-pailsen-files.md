@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms: Pailsen Files
 
+![soukou-kihei-votoms-pailsen-files](https://cdn.myanimelist.net/images/anime/4/5264.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 装甲騎兵ボトムズ ペールゼン・ファイルズ

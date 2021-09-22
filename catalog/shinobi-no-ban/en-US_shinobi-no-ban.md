@@ -1,5 +1,7 @@
 # Shinobi no Ban
 
+![shinobi-no-ban](https://cdn.myanimelist.net/images/manga/1/166195.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

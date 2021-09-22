@@ -1,5 +1,7 @@
 # Lovely Decoration!!
 
+![lovely-decoration](https://cdn.myanimelist.net/images/manga/2/23279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

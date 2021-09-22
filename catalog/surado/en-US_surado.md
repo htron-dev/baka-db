@@ -1,5 +1,7 @@
 # Surado
 
+![surado](https://cdn.myanimelist.net/images/manga/2/85303.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 수라도

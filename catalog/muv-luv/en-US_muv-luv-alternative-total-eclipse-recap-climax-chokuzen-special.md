@@ -1,5 +1,7 @@
 # Muv-Luv Alternative: Total Eclipse Recap - Climax Chokuzen Special
 
+![muv-luv-alternative-total-eclipse-recap-climax-chokuzen-special](https://cdn.myanimelist.net/images/anime/9/44133.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マブラヴ オルタネイティヴ トータル・イクリプス 総集編 クライマックス直前スペシャル

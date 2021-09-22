@@ -1,5 +1,7 @@
 # Shining...
 
+![shining](https://cdn.myanimelist.net/images/manga/3/31055.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 눈부시도록...
 -   **start-date**: 2010-06-20

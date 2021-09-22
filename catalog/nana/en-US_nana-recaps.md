@@ -1,5 +1,7 @@
 # Nana Recaps
 
+![nana-recaps](https://cdn.myanimelist.net/images/anime/1095/112104.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ナナ Specials

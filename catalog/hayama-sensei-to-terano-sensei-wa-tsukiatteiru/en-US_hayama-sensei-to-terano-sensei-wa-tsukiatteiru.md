@@ -1,5 +1,7 @@
 # Hayama-sensei to Terano-sensei wa Tsukiatteiru
 
+![hayama-sensei-to-terano-sensei-wa-tsukiatteiru](https://cdn.myanimelist.net/images/manga/3/216473.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

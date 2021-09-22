@@ -1,5 +1,7 @@
 # BlazBlue: Phase Shift
 
+![blaz-blue-phase-shift](https://cdn.myanimelist.net/images/manga/5/107943.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 30

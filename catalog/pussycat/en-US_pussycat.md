@@ -1,5 +1,7 @@
 # Pussycat
 
+![pussycat](https://cdn.myanimelist.net/images/anime/10/32599.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: プッシーキャット

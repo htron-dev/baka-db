@@ -1,5 +1,7 @@
 # Okojo-san
 
+![okojo-san](https://cdn.myanimelist.net/images/manga/2/229788.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: オコジョさん

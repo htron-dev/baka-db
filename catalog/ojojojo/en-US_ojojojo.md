@@ -1,5 +1,7 @@
 # Ojojojo
 
+![ojojojo](https://cdn.myanimelist.net/images/manga/1/131785.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 64

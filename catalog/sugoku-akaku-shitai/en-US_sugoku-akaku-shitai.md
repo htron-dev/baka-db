@@ -1,5 +1,7 @@
 # Sugoku, Akaku, Shitai.
 
+![sugoku-akaku-shitai](https://cdn.myanimelist.net/images/manga/2/167152.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

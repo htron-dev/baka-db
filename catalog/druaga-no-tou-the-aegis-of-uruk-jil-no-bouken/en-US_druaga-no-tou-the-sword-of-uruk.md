@@ -1,5 +1,7 @@
 # Druaga no Tou: The Sword of Uruk
 
+![druaga-no-tou-the-sword-of-uruk](https://cdn.myanimelist.net/images/anime/9/75647.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ドルアーガの塔 ～ the Sword of URUK ～

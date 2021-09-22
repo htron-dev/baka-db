@@ -1,5 +1,7 @@
 # Kami-tachi ni Hirowareta Otoko 2nd Season
 
+![kami-tachi-ni-hirowareta-otoko-2nd-season](https://cdn.myanimelist.net/images/anime/1555/115484.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 神達に拾われた男
 -   **rating**: PG-13 - Teens 13 or older

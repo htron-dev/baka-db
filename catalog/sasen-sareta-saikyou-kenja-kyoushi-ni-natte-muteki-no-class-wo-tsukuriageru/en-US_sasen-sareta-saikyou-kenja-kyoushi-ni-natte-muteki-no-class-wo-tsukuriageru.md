@@ -1,5 +1,7 @@
 # Sasen Sareta Saikyou Kenja, Kyoushi ni Natte Muteki no Class wo Tsukuriageru
 
+![sasen-sareta-saikyou-kenja-kyoushi-ni-natte-muteki-no-class-wo-tsukuriageru](https://cdn.myanimelist.net/images/manga/3/237487.jpg)
+
 -   **type**: manga
 -   **original-name**: 左遷された最強賢者、教師になって無敵のクラスを作り上げる
 -   **start-date**: 2020-01-17

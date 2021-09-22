@@ -1,5 +1,7 @@
 # Sai x Ai
 
+![sai-x-ai](https://cdn.myanimelist.net/images/manga/3/57935.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

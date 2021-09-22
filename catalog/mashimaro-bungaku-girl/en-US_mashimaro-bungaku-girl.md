@@ -1,5 +1,7 @@
 # Mashimaro Bungaku Girl
 
+![mashimaro-bungaku-girl](https://cdn.myanimelist.net/images/manga/1/147379.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

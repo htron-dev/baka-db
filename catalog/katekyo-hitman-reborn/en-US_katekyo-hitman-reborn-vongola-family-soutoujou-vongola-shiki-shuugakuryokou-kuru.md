@@ -1,5 +1,7 @@
 # Katekyo Hitman Reborn! Vongola Family Soutoujou! Vongola Shiki Shuugakuryokou, Kuru!!
 
+![katekyo-hitman-reborn-vongola-family-soutoujou-vongola-shiki-shuugakuryokou-kuru](https://cdn.myanimelist.net/images/anime/7/27088.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 家庭教師ヒットマン REBORN! ボンゴレファミリー総登場! ボンゴレ式修学旅行、来る!!

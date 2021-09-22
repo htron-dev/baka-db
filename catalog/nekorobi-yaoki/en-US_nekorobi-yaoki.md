@@ -1,5 +1,7 @@
 # Nekorobi Yaoki
 
+![nekorobi-yaoki](https://cdn.myanimelist.net/images/manga/3/223466.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

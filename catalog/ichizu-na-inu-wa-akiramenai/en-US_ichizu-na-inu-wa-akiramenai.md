@@ -1,5 +1,7 @@
 # Ichizu na Inu wa Akiramenai
 
+![ichizu-na-inu-wa-akiramenai](https://cdn.myanimelist.net/images/manga/2/247531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

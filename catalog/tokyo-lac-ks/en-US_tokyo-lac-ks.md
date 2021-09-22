@@ -1,5 +1,7 @@
 # Tokyo LACKs
 
+![tokyo-lac-ks](https://cdn.myanimelist.net/images/manga/1/236236.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 東京 LACKs

@@ -1,5 +1,7 @@
 # Ginga no Curtain Call
 
+![ginga-no-curtain-call](https://cdn.myanimelist.net/images/manga/2/249238.jpg)
+
 -   **type**: manga
 -   **original-name**: 銀河のカーテンコール
 -   **start-date**: 2021-02-22

@@ -1,5 +1,7 @@
 # Mitsudomoe: Oppai Ippai Mama Genki
 
+![mitsudomoe-oppai-ippai-mama-genki](https://cdn.myanimelist.net/images/anime/8/26045.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: みつどもえ OPPAI IPPAI ママ元気
@@ -24,4 +26,4 @@ A special unaired episode included in the 7th DVD/Blu-ray volume.
 -   [Official Site](http://www.mitsudomoe-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7224)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11180)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Mitsudomoe_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Mitsudomoe_%28manga%29#Anime)

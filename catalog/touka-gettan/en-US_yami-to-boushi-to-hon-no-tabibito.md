@@ -1,5 +1,7 @@
 # Yami to Boushi to Hon no Tabibito
 
+![yami-to-boushi-to-hon-no-tabibito](https://cdn.myanimelist.net/images/anime/13/23094.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ヤミと帽子と本の旅人

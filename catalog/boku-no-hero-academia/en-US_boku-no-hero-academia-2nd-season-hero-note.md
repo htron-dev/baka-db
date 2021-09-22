@@ -1,5 +1,7 @@
 # Boku no Hero Academia 2nd Season: Hero Note
 
+![boku-no-hero-academia-2nd-season-hero-note](https://cdn.myanimelist.net/images/anime/11/84951.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 僕のヒーローアカデミア 2nd シーズン ヒーローノート

@@ -1,5 +1,7 @@
 # Kimi to wa Gokai kara Hajimarimashita ga
 
+![kimi-to-wa-gokai-kara-hajimarimashita-ga](https://cdn.myanimelist.net/images/manga/1/236137.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

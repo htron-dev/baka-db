@@ -1,5 +1,7 @@
 # Cross Ange: Tenshi to Ryuu no Rondo
 
+![cross-ange-tenshi-to-ryuu-no-rondo](https://cdn.myanimelist.net/images/anime/2/67515.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: クロスアンジュ 天使と竜の輪舞〈ロンド〉

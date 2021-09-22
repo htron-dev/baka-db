@@ -1,5 +1,7 @@
 # Galaxy Girl, Panda Boy
 
+![galaxy-girl-panda-boy](https://cdn.myanimelist.net/images/manga/5/1562.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

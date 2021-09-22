@@ -1,5 +1,7 @@
 # World Heroes
 
+![world-heroes](https://cdn.myanimelist.net/images/manga/2/235558.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

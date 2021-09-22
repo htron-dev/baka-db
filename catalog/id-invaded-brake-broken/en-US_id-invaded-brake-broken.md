@@ -1,5 +1,7 @@
 # Id:Invaded: #Brake-Broken
 
+![id-invaded-brake-broken](https://cdn.myanimelist.net/images/manga/3/228439.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

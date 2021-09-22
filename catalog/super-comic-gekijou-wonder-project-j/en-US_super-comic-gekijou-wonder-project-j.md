@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Wonder Project J
 
+![super-comic-gekijou-wonder-project-j](https://cdn.myanimelist.net/images/manga/1/151610.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパーコミック劇場 ワンダープロジェクト J

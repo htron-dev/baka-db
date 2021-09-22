@@ -1,5 +1,7 @@
 # Makai kara Kita Maid-san
 
+![makai-kara-kita-maid-san](https://cdn.myanimelist.net/images/manga/1/153808.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 59

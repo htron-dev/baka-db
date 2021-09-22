@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!
 
+![tenchi-muyou-ryououki-omatsuri-zenjitsu-no-yoru](https://cdn.myanimelist.net/images/anime/1357/95308.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 天地無用！魎皇鬼 SPECIAL お祭り前日の夜！

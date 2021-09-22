@@ -1,5 +1,7 @@
 # Rental JK Inumi-san.
 
+![rental-jk-inumi-san](https://cdn.myanimelist.net/images/manga/1/198864.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

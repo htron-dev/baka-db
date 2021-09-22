@@ -1,5 +1,7 @@
 # One two three
 
+![one-two-three](https://cdn.myanimelist.net/images/manga/2/2984.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

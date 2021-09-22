@@ -1,5 +1,7 @@
 # Erotic Egoist
 
+![erotic-egoist](https://cdn.myanimelist.net/images/manga/2/57621.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sekkou Boys
 
+![sekkou-boys](https://cdn.myanimelist.net/images/anime/5/77840.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 石膏ボーイズ

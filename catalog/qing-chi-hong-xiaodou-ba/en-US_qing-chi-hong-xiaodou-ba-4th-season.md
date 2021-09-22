@@ -1,5 +1,7 @@
 # Qing Chi Hong Xiaodou Ba! 4th Season
 
+![qing-chi-hong-xiaodou-ba-4th-season](https://cdn.myanimelist.net/images/anime/1594/108288.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 请吃红小豆吧！ 第四季

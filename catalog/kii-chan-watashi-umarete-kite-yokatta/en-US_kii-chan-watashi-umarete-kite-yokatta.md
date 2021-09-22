@@ -1,5 +1,7 @@
 # Kii-chan Watashi, Umarete Kite Yokatta!
 
+![kii-chan-watashi-umarete-kite-yokatta](https://cdn.myanimelist.net/images/anime/5/66155.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: きいちゃん 私、生まれてきてよかった！

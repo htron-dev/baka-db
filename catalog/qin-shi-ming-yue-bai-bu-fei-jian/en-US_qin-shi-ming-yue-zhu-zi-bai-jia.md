@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Zhu Zi Bai Jia
 
+![qin-shi-ming-yue-zhu-zi-bai-jia](https://cdn.myanimelist.net/images/anime/11/65281.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: 秦时明月

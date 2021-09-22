@@ -1,5 +1,7 @@
 # Akuyaku Reijou Tensei Ojisan
 
+![akuyaku-reijou-tensei-ojisan](https://cdn.myanimelist.net/images/manga/3/239054.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢転生おじさん
 -   **start-date**: 2020-03-16

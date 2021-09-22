@@ -1,5 +1,7 @@
 # Kamiusagi Rope x Panasonic Collaboration
 
+![kamiusagi-rope-x-panasonic-collaboration](https://cdn.myanimelist.net/images/anime/7/38519.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 紙兎ロペ　パナソニックコラボ EP

@@ -1,5 +1,7 @@
 # Mawaru Unmei no Polar Star
 
+![mawaru-unmei-no-polar-star](https://cdn.myanimelist.net/images/manga/3/160797.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

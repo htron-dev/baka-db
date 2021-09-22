@@ -1,5 +1,7 @@
 # Robot x Laserbeam
 
+![robot-x-laserbeam](https://cdn.myanimelist.net/images/manga/3/197882.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 62

@@ -1,5 +1,7 @@
 # Canaan
 
+![canaan](https://cdn.myanimelist.net/images/manga/4/27666.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

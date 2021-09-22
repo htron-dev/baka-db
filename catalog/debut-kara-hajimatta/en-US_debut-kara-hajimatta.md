@@ -1,5 +1,7 @@
 # Debut kara Hajimatta
 
+![debut-kara-hajimatta](https://cdn.myanimelist.net/images/manga/3/9893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

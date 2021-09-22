@@ -1,5 +1,7 @@
 # Uta Koi. Ibun Uta Hen.
 
+![uta-koi-ibun-uta-hen](https://cdn.myanimelist.net/images/manga/1/81570.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: うた恋い。異聞 うた変。

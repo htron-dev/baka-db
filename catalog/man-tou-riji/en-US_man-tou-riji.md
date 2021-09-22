@@ -1,5 +1,7 @@
 # Man Tou Riji
 
+![man-tou-riji](https://cdn.myanimelist.net/images/anime/7/84844.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 馒头日记

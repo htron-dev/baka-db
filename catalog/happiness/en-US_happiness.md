@@ -1,5 +1,7 @@
 # Happiness
 
+![happiness](https://cdn.myanimelist.net/images/manga/2/161562.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 50

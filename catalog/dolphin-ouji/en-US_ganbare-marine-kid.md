@@ -1,5 +1,7 @@
 # Ganbare! Marine Kid
 
+![ganbare-marine-kid](https://cdn.myanimelist.net/images/anime/9/24675.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: がんばれ！マリンキッド

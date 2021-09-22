@@ -1,5 +1,7 @@
 # Isoganaide.
 
+![isoganaide](https://cdn.myanimelist.net/images/manga/5/30831.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

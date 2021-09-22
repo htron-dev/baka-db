@@ -1,5 +1,7 @@
 # Neko to Watashi to Deutschland
 
+![neko-to-watashi-to-deutschland](https://cdn.myanimelist.net/images/manga/1/211839.jpg)
+
 -   **type**: manga
 -   **original-name**: ねこと私とドイッチュラント
 -   **start-date**: 2018-01-25

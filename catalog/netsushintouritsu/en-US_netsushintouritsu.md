@@ -1,5 +1,7 @@
 # Netsushintouritsu
 
+![netsushintouritsu](https://cdn.myanimelist.net/images/manga/3/231903.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

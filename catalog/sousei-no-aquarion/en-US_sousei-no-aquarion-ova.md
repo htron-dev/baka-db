@@ -1,5 +1,7 @@
 # Sousei no Aquarion OVA
 
+![sousei-no-aquarion-ova](https://cdn.myanimelist.net/images/anime/7/72745.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ＯＶＡ『創星のアクエリオン』

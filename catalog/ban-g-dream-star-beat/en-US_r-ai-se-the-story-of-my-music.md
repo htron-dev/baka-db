@@ -1,5 +1,7 @@
 # RAiSe!: The Story of My Music
 
+![r-ai-se-the-story-of-my-music](https://cdn.myanimelist.net/images/manga/1/230510.jpg)
+
 -   **type**: manga
 -   **original-name**: RAiSe! The story of my music
 -   **start-date**: 2019-01-08

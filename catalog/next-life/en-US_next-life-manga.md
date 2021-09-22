@@ -1,5 +1,7 @@
 # Next Life
 
+![next-life](https://cdn.myanimelist.net/images/manga/2/203708.jpg)
+
 -   **type**: manga
 -   **original-name**: ネクストライフ
 -   **start-date**: 2017-05-26

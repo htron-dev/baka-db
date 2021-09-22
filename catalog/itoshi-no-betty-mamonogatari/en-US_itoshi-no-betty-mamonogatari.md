@@ -1,5 +1,7 @@
 # Itoshi no Betty Mamonogatari
 
+![itoshi-no-betty-mamonogatari](https://cdn.myanimelist.net/images/anime/7/26264.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 愛しのベティ 魔物語

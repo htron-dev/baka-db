@@ -1,5 +1,7 @@
 # Kamen Rider ZO
 
+![kamen-rider-zo](https://cdn.myanimelist.net/images/manga/2/186102.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

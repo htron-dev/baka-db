@@ -1,5 +1,7 @@
 # Tsuji Eiji wa Koi wo Shinai
 
+![tsuji-eiji-wa-koi-wo-shinai](https://cdn.myanimelist.net/images/manga/3/248148.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

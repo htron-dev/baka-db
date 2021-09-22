@@ -1,5 +1,7 @@
 # Nishi no Kawa Higashi no Kawa
 
+![nishi-no-kawa-higashi-no-kawa](https://cdn.myanimelist.net/images/manga/1/31006.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 西の河東の河

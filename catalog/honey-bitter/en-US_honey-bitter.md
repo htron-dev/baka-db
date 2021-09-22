@@ -1,5 +1,7 @@
 # Honey Bitter
 
+![honey-bitter](https://cdn.myanimelist.net/images/manga/2/187416.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 63

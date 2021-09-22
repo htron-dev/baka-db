@@ -1,5 +1,7 @@
 # Getsuyoubi kara Kataomoi
 
+![getsuyoubi-kara-kataomoi](https://cdn.myanimelist.net/images/manga/2/166773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

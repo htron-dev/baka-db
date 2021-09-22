@@ -1,5 +1,7 @@
 # Hyakume no Kishi
 
+![hyakume-no-kishi](https://cdn.myanimelist.net/images/manga/3/112949.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 百目の騎士

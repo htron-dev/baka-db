@@ -1,5 +1,7 @@
 # Batuque
 
+![batuque](https://cdn.myanimelist.net/images/manga/3/217503.jpg)
+
 -   **type**: manga
 -   **original-name**: バトゥーキ
 -   **start-date**: 2018-07-05

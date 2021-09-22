@@ -1,5 +1,7 @@
 # Busou Chuugakusei 2045: Natsu
 
+![busou-chuugakusei-2045-natsu](https://cdn.myanimelist.net/images/manga/3/163857.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 27

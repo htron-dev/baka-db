@@ -1,5 +1,7 @@
 # Mahou no Tsukaenai Mahoutsukai no Monogatari
 
+![mahou-no-tsukaenai-mahoutsukai-no-monogatari](https://cdn.myanimelist.net/images/manga/1/162652.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Present for Me
 
+![present-for-me](https://cdn.myanimelist.net/images/manga/2/170713.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

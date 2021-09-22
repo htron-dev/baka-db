@@ -1,5 +1,7 @@
 # Next Senki Ehrgeiz
 
+![next-senki-ehrgeiz](https://cdn.myanimelist.net/images/anime/1627/110624.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ネクスト戦記エーアガイツ

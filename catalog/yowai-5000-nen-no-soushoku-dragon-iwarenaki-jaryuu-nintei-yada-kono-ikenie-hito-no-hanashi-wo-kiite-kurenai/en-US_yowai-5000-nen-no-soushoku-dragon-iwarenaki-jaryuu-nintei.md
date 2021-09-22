@@ -1,5 +1,7 @@
 # Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei
 
+![yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei](https://cdn.myanimelist.net/images/manga/1/217909.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 齢 5000 年の草食ドラゴン、いわれなき邪竜認定
 -   **start-date**: 2018-02-01

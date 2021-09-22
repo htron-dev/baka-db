@@ -1,5 +1,7 @@
 # Yuri!!! on Ice The Movie: Ice Adolescence
 
+![yuri-on-ice-the-movie-ice-adolescence](https://cdn.myanimelist.net/images/anime/1225/93390.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ユーリ!!! on ICE 劇場版 : ICE ADOLESCENCE（アイス アドレセンス）

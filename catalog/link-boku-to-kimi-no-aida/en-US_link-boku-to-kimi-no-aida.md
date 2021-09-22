@@ -1,5 +1,7 @@
 # Link: Boku to Kimi no Aida
 
+![link-boku-to-kimi-no-aida](https://cdn.myanimelist.net/images/manga/1/152657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

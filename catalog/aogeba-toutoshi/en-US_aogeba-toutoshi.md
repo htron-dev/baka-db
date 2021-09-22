@@ -1,5 +1,7 @@
 # Aogeba Toutoshi
 
+![aogeba-toutoshi](https://cdn.myanimelist.net/images/manga/1/129897.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

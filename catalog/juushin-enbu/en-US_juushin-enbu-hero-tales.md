@@ -1,5 +1,7 @@
 # Juushin Enbu: Hero Tales
 
+![juushin-enbu-hero-tales](https://cdn.myanimelist.net/images/anime/7/75193.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 獣神演武 - HERO TALES -

@@ -1,5 +1,7 @@
 # Kaiketsu Zorori Da-Da-Da-Daibouken!
 
+![kaiketsu-zorori-da-da-da-daibouken](https://cdn.myanimelist.net/images/anime/2/40869.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かいけつゾロリだ・だ・だ・だいぼうけん!

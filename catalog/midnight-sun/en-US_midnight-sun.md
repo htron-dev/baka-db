@@ -1,5 +1,7 @@
 # Midnight Sun
 
+![midnight-sun](https://cdn.myanimelist.net/images/manga/3/135553.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: Midnight sun ミッドナイトサン

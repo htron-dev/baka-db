@@ -1,5 +1,7 @@
 # Sengoku Rance
 
+![sengoku-rance](https://cdn.myanimelist.net/images/manga/1/186070.jpg)
+
 -   **type**: manga
 -   **original-name**: 戦国ランス
 -   **start-date**: 2007-11-26

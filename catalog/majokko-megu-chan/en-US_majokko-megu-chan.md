@@ -1,5 +1,7 @@
 # Majokko Megu-chan
 
+![majokko-megu-chan](https://cdn.myanimelist.net/images/anime/4/53681.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 72
 -   **original-name**: 魔女っ子メグちゃん

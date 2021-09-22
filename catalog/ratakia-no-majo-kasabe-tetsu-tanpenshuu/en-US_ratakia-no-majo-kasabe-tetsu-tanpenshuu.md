@@ -1,5 +1,7 @@
 # Ratakia no Majo: Kasabe Tetsu Tanpenshuu
 
+![ratakia-no-majo-kasabe-tetsu-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/221382.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Bakemonogatari
 
+![bakemonogatari](https://cdn.myanimelist.net/images/manga/2/210355.jpg)
+
 -   **type**: manga
 -   **original-name**: 化物語
 -   **start-date**: 2018-03-14

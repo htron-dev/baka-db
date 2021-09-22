@@ -1,5 +1,7 @@
 # Romeo no Aoi Sora Specials
 
+![romeo-no-aoi-sora-specials](https://cdn.myanimelist.net/images/anime/13/60941.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 ロミオの青い空

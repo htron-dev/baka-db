@@ -1,5 +1,7 @@
 # Dakasete Kurenai ka?
 
+![dakasete-kurenai-ka](https://cdn.myanimelist.net/images/manga/1/163513.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

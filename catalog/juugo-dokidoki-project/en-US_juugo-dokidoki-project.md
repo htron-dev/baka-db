@@ -1,5 +1,7 @@
 # Juugo Dokidoki Project!
 
+![juugo-dokidoki-project](https://cdn.myanimelist.net/images/manga/1/140387.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 獣吾ドキドキプロジェクト!

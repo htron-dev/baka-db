@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms: Pailsen Files Movie
 
+![soukou-kihei-votoms-pailsen-files-movie](https://cdn.myanimelist.net/images/anime/5/18067.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 装甲騎兵ボトムズ ペールゼン・ファイルズ 劇場版

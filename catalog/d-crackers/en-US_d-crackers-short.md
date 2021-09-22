@@ -1,5 +1,7 @@
 # D-Crackers Short
 
+![d-crackers-short](https://cdn.myanimelist.net/images/manga/3/112959.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: D クラッカーズ・ショート

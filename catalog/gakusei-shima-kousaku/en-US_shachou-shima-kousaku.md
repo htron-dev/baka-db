@@ -1,5 +1,7 @@
 # Shachou Shima Kousaku
 
+![shachou-shima-kousaku](https://cdn.myanimelist.net/images/manga/1/129011.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 185

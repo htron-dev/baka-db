@@ -1,5 +1,7 @@
 # Dungeon no Hotori no Yadoya no Oyaji
 
+![dungeon-no-hotori-no-yadoya-no-oyaji](https://cdn.myanimelist.net/images/manga/1/187075.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンジョンのほとりの宿屋の親父
 -   **start-date**: 2016-06-20

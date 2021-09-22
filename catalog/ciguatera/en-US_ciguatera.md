@@ -1,5 +1,7 @@
 # Ciguatera
 
+![ciguatera](https://cdn.myanimelist.net/images/manga/1/50899.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 69

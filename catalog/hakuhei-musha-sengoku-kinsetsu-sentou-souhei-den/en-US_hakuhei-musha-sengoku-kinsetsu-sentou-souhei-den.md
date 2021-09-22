@@ -1,5 +1,7 @@
 # Hakuhei Musha: Sengoku Kinsetsu Sentou Souhei Den
 
+![hakuhei-musha-sengoku-kinsetsu-sentou-souhei-den](https://cdn.myanimelist.net/images/manga/3/230051.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 130

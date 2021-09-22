@@ -1,5 +1,7 @@
 # Appli Trap
 
+![appli-trap](https://cdn.myanimelist.net/images/manga/3/164791.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Twinkle Crusaders Go Go!
 
+![twinkle-crusaders-go-go](https://cdn.myanimelist.net/images/manga/3/29077.jpg)
+
 -   **type**: manga
 -   **original-name**: ティンクル ☆ くるせいだーす Gogo!
 -   **start-date**: 2009-07-20

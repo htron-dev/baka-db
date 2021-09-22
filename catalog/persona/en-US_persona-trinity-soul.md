@@ -1,5 +1,7 @@
 # Persona: Trinity Soul
 
+![persona-trinity-soul](https://cdn.myanimelist.net/images/anime/1231/97049.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ペルソナ 〜トリニティ・ソウル〜

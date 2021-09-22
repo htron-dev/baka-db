@@ -1,5 +1,7 @@
 # ...Curtain.: Sensei to Kiyoraka ni Dousei
 
+![curtain-sensei-to-kiyoraka-ni-dousei](https://cdn.myanimelist.net/images/manga/4/112449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

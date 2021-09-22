@@ -1,5 +1,7 @@
 # Mandarin Gypsy Cat no Roujou
 
+![mandarin-gypsy-cat-no-roujou](https://cdn.myanimelist.net/images/manga/2/242938.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Papa to Oyaji no Uchi Gohan
 
+![papa-to-oyaji-no-uchi-gohan](https://cdn.myanimelist.net/images/manga/3/158663.jpg)
+
 -   **type**: manga
 -   **original-name**: パパと親父のウチご飯
 -   **start-date**: 2014-04-21

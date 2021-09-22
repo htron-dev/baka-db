@@ -1,5 +1,7 @@
 # Akatsuki no Vampiress: Aglaiarden no Hiyuri
 
+![akatsuki-no-vampiress-aglaiarden-no-hiyuri](https://cdn.myanimelist.net/images/manga/1/149510.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 暁のヴァンピレス～アグレイアーデンの緋百合～

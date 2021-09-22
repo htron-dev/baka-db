@@ -1,5 +1,7 @@
 # Miseru, Mitsumeru, Futari dake
 
+![miseru-mitsumeru-futari-dake](https://cdn.myanimelist.net/images/manga/1/220823.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: 見せる、見つめる、ふたりだけ

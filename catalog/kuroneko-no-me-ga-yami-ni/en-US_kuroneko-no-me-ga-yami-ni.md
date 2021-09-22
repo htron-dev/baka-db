@@ -1,5 +1,7 @@
 # Kuroneko no Me ga Yami ni
 
+![kuroneko-no-me-ga-yami-ni](https://cdn.myanimelist.net/images/manga/1/36088.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

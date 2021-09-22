@@ -1,5 +1,7 @@
 # Toaru Kagaku no Railgun: Giten Railgun
 
+![toaru-kagaku-no-railgun-giten-railgun](https://cdn.myanimelist.net/images/manga/1/149214.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: とある科学の超電磁砲 『偽典・超電磁砲』

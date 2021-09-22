@@ -1,5 +1,7 @@
 # Kanata no Astra
 
+![kanata-no-astra](https://cdn.myanimelist.net/images/manga/3/180039.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

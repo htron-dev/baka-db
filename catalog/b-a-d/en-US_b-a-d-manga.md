@@ -1,5 +1,7 @@
 # B.A.D.
 
+![b-a-d](https://cdn.myanimelist.net/images/manga/1/117173.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

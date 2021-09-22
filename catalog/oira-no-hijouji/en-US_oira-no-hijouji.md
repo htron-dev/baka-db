@@ -1,5 +1,7 @@
 # Oira no Hijouji
 
+![oira-no-hijouji](https://cdn.myanimelist.net/images/anime/13/85248.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おいらの非常時

@@ -1,5 +1,7 @@
 # The Way This Boy Lives
 
+![the-way-this-boy-lives](https://cdn.myanimelist.net/images/manga/2/3754.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 16

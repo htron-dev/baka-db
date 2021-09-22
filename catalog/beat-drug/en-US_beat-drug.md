@@ -1,5 +1,7 @@
 # Beat Drug
 
+![beat-drug](https://cdn.myanimelist.net/images/manga/1/7629.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ビート・ドラッグ

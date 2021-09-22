@@ -1,5 +1,7 @@
 # Don Dracula
 
+![don-dracula](https://cdn.myanimelist.net/images/manga/1/16628.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Jetter Mars
 
+![jetter-mars](https://cdn.myanimelist.net/images/anime/5/75840.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: ジェッターマルス

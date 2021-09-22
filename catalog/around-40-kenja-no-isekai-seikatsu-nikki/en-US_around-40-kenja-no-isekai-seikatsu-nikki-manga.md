@@ -1,5 +1,7 @@
 # Around 40 Kenja no Isekai Seikatsu Nikki
 
+![around-40-kenja-no-isekai-seikatsu-nikki](https://cdn.myanimelist.net/images/manga/1/227700.jpg)
+
 -   **type**: manga
 -   **original-name**: アラフォー賢者の異世界生活日記
 -   **start-date**: 2018-04-21

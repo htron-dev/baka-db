@@ -1,5 +1,7 @@
 # Fragtime
 
+![fragtime](https://cdn.myanimelist.net/images/anime/1752/101373.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フラグタイム

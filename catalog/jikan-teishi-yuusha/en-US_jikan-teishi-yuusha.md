@@ -1,5 +1,7 @@
 # Jikan Teishi Yuusha
 
+![jikan-teishi-yuusha](https://cdn.myanimelist.net/images/manga/2/227533.jpg)
+
 -   **type**: manga
 -   **original-name**: 時間停止勇者
 -   **start-date**: 2019-09-26

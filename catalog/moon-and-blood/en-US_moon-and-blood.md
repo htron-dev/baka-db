@@ -1,5 +1,7 @@
 # Moon and Blood
 
+![moon-and-blood](https://cdn.myanimelist.net/images/manga/3/38819.jpg)
+
 -   **type**: manga
 -   **start-date**: 2011-05-31
 

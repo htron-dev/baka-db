@@ -1,5 +1,7 @@
 # Yuusha no Furi mo Raku ja Nai. Riyuu? Ore ga Kami dakara
 
+![yuusha-no-furi-mo-raku-ja-nai-riyuu-ore-ga-kami-dakara](https://cdn.myanimelist.net/images/manga/2/197782.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者のふりも楽じゃない――理由？俺が神だから――
 -   **start-date**: 2016-10-15

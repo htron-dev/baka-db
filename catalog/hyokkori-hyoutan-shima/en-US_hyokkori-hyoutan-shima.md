@@ -1,5 +1,7 @@
 # Hyokkori Hyoutan Shima
 
+![hyokkori-hyoutan-shima](https://cdn.myanimelist.net/images/anime/8/59453.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ひょっこりひょうたん島

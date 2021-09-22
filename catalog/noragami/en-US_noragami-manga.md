@@ -1,5 +1,7 @@
 # Noragami
 
+![noragami](https://cdn.myanimelist.net/images/manga/2/90899.jpg)
+
 -   **type**: manga
 -   **original-name**: ノラガミ
 -   **start-date**: 2010-12-23

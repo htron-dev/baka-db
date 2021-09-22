@@ -1,5 +1,7 @@
 # Diabolik Lovers: Anime Koushiki Anthology
 
+![diabolik-lovers-anime-koushiki-anthology](https://cdn.myanimelist.net/images/manga/2/151699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

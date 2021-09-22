@@ -1,5 +1,7 @@
 # Blue Ramun
 
+![blue-ramun](https://cdn.myanimelist.net/images/manga/1/4412.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

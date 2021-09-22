@@ -1,5 +1,7 @@
 # Shin Kaku Gikou to 11-nin no Hakaisha
 
+![shin-kaku-gikou-to-11-nin-no-hakaisha](https://cdn.myanimelist.net/images/manga/3/240246.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神角技巧と 11 人の破壊者
 -   **start-date**: 2021-01-09

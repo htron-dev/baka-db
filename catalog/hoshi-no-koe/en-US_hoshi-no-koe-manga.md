@@ -1,5 +1,7 @@
 # Hoshi no Koe
 
+![hoshi-no-koe](https://cdn.myanimelist.net/images/manga/2/130253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

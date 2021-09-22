@@ -1,5 +1,7 @@
 # Takarajima (Movie)
 
+![takarajima-movie](https://cdn.myanimelist.net/images/anime/6/56117.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宝島　劇場版

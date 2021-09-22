@@ -1,5 +1,7 @@
 # Telepathy Shoujo "Ran"
 
+![telepathy-shoujo-ran](https://cdn.myanimelist.net/images/manga/1/120303.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 42

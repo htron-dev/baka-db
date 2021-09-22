@@ -1,5 +1,7 @@
 # Machine-Doll wa Kizutsukanai
 
+![machine-doll-wa-kizutsukanai](https://cdn.myanimelist.net/images/manga/3/38260.jpg)
+
 -   **type**: manga
 -   **original-name**: 機巧少女(マシンドール)は傷つかない
 -   **start-date**: 2010-11-22

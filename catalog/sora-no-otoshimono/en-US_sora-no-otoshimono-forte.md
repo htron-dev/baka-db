@@ -1,5 +1,7 @@
 # Sora no Otoshimono: Forte
 
+![sora-no-otoshimono-forte](https://cdn.myanimelist.net/images/anime/11/50309.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: そらのおとしもの f（フォルテ）

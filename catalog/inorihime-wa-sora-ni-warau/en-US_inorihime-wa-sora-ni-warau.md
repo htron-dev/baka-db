@@ -1,5 +1,7 @@
 # Inorihime wa Sora ni Warau
 
+![inorihime-wa-sora-ni-warau](https://cdn.myanimelist.net/images/manga/1/21426.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 祈り姫は空に微笑う

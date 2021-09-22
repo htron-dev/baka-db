@@ -1,5 +1,7 @@
 # Mahou Shoujo Pretty Sammy (1996)
 
+![mahou-shoujo-pretty-sammy-1996](https://cdn.myanimelist.net/images/anime/11/19979.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 魔法少女プリティサミー(1996)

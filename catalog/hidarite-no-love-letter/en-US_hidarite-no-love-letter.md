@@ -1,5 +1,7 @@
 # Hidarite no Love Letter
 
+![hidarite-no-love-letter](https://cdn.myanimelist.net/images/manga/3/82286.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

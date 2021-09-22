@@ -1,5 +1,7 @@
 # Sugar Code
 
+![sugar-code](https://cdn.myanimelist.net/images/manga/3/36528.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

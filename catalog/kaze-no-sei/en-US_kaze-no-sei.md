@@ -1,5 +1,7 @@
 # Kaze no Sei
 
+![kaze-no-sei](https://cdn.myanimelist.net/images/anime/1892/99815.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風の精

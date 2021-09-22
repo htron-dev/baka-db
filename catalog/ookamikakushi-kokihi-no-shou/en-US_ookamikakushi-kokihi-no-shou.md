@@ -1,5 +1,7 @@
 # Ookamikakushi: Kokihi no Shou
 
+![ookamikakushi-kokihi-no-shou](https://cdn.myanimelist.net/images/manga/1/177702.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

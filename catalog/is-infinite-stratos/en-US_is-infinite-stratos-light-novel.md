@@ -1,5 +1,7 @@
 # IS: Infinite Stratos
 
+![is-infinite-stratos](https://cdn.myanimelist.net/images/manga/2/207288.jpg)
+
 -   **type**: light-novel
 -   **original-name**: IS〈インフィニット・ストラトス〉
 -   **start-date**: 2009-05-25

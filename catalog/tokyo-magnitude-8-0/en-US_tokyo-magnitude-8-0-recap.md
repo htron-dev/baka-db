@@ -1,5 +1,7 @@
 # Tokyo Magnitude 8.0 Recap
 
+![tokyo-magnitude-8-0-recap](https://cdn.myanimelist.net/images/anime/6/18435.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 東京マグニチュード 8.0

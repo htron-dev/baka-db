@@ -1,5 +1,7 @@
 # Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue
 
+![kindaichi-shounen-no-jikenbo-movie-2-satsuriku-no-deep-blue](https://cdn.myanimelist.net/images/anime/1845/92957.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 金田一少年の事件簿 殺戮のディープブルー

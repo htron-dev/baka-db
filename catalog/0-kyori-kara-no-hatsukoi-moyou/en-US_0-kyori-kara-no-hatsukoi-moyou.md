@@ -1,5 +1,7 @@
 # 0-kyori kara no Hatsukoi Moyou
 
+![0-kyori-kara-no-hatsukoi-moyou](https://cdn.myanimelist.net/images/manga/3/195117.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ０距離からの初恋模様

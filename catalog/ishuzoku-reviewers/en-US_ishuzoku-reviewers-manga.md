@@ -1,5 +1,7 @@
 # Ishuzoku Reviewers
 
+![ishuzoku-reviewers](https://cdn.myanimelist.net/images/manga/3/200492.jpg)
+
 -   **type**: manga
 -   **original-name**: 異種族レビュアーズ
 -   **start-date**: 2016-07-09

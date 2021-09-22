@@ -1,5 +1,7 @@
 # La Nobetsu Makunashi
 
+![la-nobetsu-makunashi](https://cdn.myanimelist.net/images/manga/2/179144.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

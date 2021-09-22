@@ -1,5 +1,7 @@
 # Hard Nerd Daddy: Hatarake! Otaku!!
 
+![hard-nerd-daddy-hatarake-otaku](https://cdn.myanimelist.net/images/manga/3/115441.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハード・ナード・ダディ -働け! オタク!!-

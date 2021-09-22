@@ -1,5 +1,7 @@
 # Sousei no Onmyouji: Tenen Jakko
 
+![sousei-no-onmyouji-tenen-jakko](https://cdn.myanimelist.net/images/manga/2/182357.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 双星の陰陽師 ―天縁若虎―

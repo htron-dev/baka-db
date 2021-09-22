@@ -1,5 +1,7 @@
 # Fate/Prototype
 
+![fate-prototype](https://cdn.myanimelist.net/images/anime/3/51045.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Fate/Prototype

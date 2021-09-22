@@ -1,5 +1,7 @@
 # Hentai Ouji to Warawanai Neko.
 
+![hentai-ouji-to-warawanai-neko](https://cdn.myanimelist.net/images/anime/3/75788.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 変態王子と笑わない猫。

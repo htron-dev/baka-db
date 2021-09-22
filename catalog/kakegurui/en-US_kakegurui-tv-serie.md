@@ -1,5 +1,7 @@
 # Kakegurui××
 
+![kakegurui](https://cdn.myanimelist.net/images/anime/1496/96519.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 賭ケグルイ ××

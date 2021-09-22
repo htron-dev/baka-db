@@ -1,5 +1,7 @@
 # Kuzu to Kinka no Qualidea
 
+![kuzu-to-kinka-no-qualidea](https://cdn.myanimelist.net/images/manga/2/160750.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

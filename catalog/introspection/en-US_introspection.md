@@ -1,5 +1,7 @@
 # Introspection
 
+![introspection](https://cdn.myanimelist.net/images/anime/10/71457.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: introspection

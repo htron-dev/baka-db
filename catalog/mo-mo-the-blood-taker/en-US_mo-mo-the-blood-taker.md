@@ -1,5 +1,7 @@
 # MoMo: The Blood Taker
 
+![mo-mo-the-blood-taker](https://cdn.myanimelist.net/images/manga/2/217764.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 96

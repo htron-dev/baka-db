@@ -1,5 +1,7 @@
 # Anime-ka Kikaku Shinkouchuu!?
 
+![anime-ka-kikaku-shinkouchuu](https://cdn.myanimelist.net/images/manga/3/131339.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: アニメ化企画進行中!?

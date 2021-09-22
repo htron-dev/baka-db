@@ -1,5 +1,7 @@
 # Ojarumaru no Koutsuu Anzen
 
+![ojarumaru-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/7/84788.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おじゃる丸の交通安全

@@ -1,5 +1,7 @@
 # UFO Princess Valkyrie: Shichiten Battou Hanayome Shuugyou
 
+![ufo-princess-valkyrie-shichiten-battou-hanayome-shuugyou](https://cdn.myanimelist.net/images/anime/1/2454.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 円盤皇女ワるきゅーレ 七転八倒 花嫁修行

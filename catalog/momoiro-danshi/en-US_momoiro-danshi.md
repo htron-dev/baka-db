@@ -1,5 +1,7 @@
 # Momoiro Danshi
 
+![momoiro-danshi](https://cdn.myanimelist.net/images/manga/2/30362.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 桃色男子 モモ&蜜柑パパ編

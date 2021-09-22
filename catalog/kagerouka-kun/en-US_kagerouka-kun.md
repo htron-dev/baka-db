@@ -1,5 +1,7 @@
 # Kagerouka-kun
 
+![kagerouka-kun](https://cdn.myanimelist.net/images/anime/7/52311.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: かげろうかーくん

@@ -1,5 +1,7 @@
 # Ai no Kotoba
 
+![ai-no-kotoba](https://cdn.myanimelist.net/images/manga/2/79573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Bookila ni Yoroshiku!
 
+![bookila-ni-yoroshiku](https://cdn.myanimelist.net/images/manga/2/233559.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

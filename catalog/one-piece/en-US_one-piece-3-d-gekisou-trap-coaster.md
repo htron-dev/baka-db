@@ -1,5 +1,7 @@
 # One Piece 3D: Gekisou! Trap Coaster
 
+![one-piece-3-d-gekisou-trap-coaster](https://cdn.myanimelist.net/images/anime/4/33839.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ONE PIECE 3D 激走! トラップコースター

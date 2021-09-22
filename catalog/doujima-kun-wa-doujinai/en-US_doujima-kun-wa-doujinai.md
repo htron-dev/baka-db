@@ -1,5 +1,7 @@
 # Doujima-kun wa Doujinai
 
+![doujima-kun-wa-doujinai](https://cdn.myanimelist.net/images/manga/1/244320.jpg)
+
 -   **type**: manga
 -   **original-name**: 堂島くんは動じない
 -   **start-date**: 2020-08-21

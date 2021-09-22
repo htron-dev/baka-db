@@ -1,5 +1,7 @@
 # Mitsuhashi Koukou Neko-bu!
 
+![mitsuhashi-koukou-neko-bu](https://cdn.myanimelist.net/images/manga/2/227773.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

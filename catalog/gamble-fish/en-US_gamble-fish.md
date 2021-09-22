@@ -1,5 +1,7 @@
 # Gamble Fish
 
+![gamble-fish](https://cdn.myanimelist.net/images/manga/3/164909.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 168

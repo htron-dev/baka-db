@@ -1,5 +1,7 @@
 # Denpa no Shiro
 
+![denpa-no-shiro](https://cdn.myanimelist.net/images/manga/1/45477.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **original-name**: 電波の城

@@ -1,5 +1,7 @@
 # Koi Tsukiyo no Himegoto
 
+![koi-tsukiyo-no-himegoto](https://cdn.myanimelist.net/images/manga/1/81536.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

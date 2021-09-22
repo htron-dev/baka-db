@@ -1,5 +1,7 @@
 # AriKiri
 
+![ari-kiri](https://cdn.myanimelist.net/images/anime/1788/92750.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: アリキリ

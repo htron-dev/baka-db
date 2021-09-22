@@ -1,5 +1,7 @@
 # Layton Mystery Tanteisha: Katri no Nazotoki File
 
+![layton-mystery-tanteisha-katri-no-nazotoki-file](https://cdn.myanimelist.net/images/anime/1115/90222.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: レイトン ミステリー探偵社~カトリーのナゾトキファイル~

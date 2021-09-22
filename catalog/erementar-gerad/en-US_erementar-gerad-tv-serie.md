@@ -1,5 +1,7 @@
 # Erementar Gerad
 
+![erementar-gerad](https://cdn.myanimelist.net/images/anime/2/79163.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: エレメンタルジェレイド

@@ -1,5 +1,7 @@
 # Midoriyama Police Gang
 
+![midoriyama-police-gang](https://cdn.myanimelist.net/images/manga/1/238737.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

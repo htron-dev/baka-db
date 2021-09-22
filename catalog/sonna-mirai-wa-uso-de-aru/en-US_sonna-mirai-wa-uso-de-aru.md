@@ -1,5 +1,7 @@
 # Sonna Mirai wa Uso de Aru
 
+![sonna-mirai-wa-uso-de-aru](https://cdn.myanimelist.net/images/manga/3/149178.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 83

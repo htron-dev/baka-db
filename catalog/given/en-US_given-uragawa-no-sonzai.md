@@ -1,5 +1,7 @@
 # Given: Uragawa no Sonzai
 
+![given-uragawa-no-sonzai](https://cdn.myanimelist.net/images/anime/1031/115154.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ギヴン うらがわの存在
@@ -26,4 +28,4 @@ The OVA, bundled with the special edition version of the seventh manga volume, w
 -   [Official Site](https://given-anime.com/oad/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16357)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24386)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Given_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Given_%28manga%29#Anime)

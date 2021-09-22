@@ -1,5 +1,7 @@
 # Toshi wo Totta Wani
 
+![toshi-wo-totta-wani](https://cdn.myanimelist.net/images/anime/11/8561.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 年をとった鰐

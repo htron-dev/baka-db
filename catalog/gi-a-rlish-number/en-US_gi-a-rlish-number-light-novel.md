@@ -1,5 +1,7 @@
 # Gi(a)rlish Number
 
+![gi-a-rlish-number](https://cdn.myanimelist.net/images/manga/3/180957.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 14

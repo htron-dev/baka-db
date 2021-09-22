@@ -1,5 +1,7 @@
 # Upotte!!: Miatte Waratte
 
+![upotte-miatte-waratte](https://cdn.myanimelist.net/images/anime/7/39143.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: うぽって!! みあって わらって

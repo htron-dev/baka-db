@@ -1,5 +1,7 @@
 # Dash! Yonkurou
 
+![dash-yonkurou](https://cdn.myanimelist.net/images/anime/11/50417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ダッシュ！四駆郎

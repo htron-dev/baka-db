@@ -1,5 +1,7 @@
 # Aquarium no Yoru
 
+![aquarium-no-yoru](https://cdn.myanimelist.net/images/manga/2/155680.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 21

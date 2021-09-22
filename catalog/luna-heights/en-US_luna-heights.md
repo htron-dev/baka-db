@@ -1,5 +1,7 @@
 # Luna Heights
 
+![luna-heights](https://cdn.myanimelist.net/images/manga/2/63843.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

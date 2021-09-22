@@ -1,5 +1,7 @@
 # Shinshoku suru Ai: Sono Yubisaki ni Oborete
 
+![shinshoku-suru-ai-sono-yubisaki-ni-oborete](https://cdn.myanimelist.net/images/manga/2/193009.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

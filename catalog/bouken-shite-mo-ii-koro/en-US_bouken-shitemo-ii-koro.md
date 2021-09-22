@@ -1,5 +1,7 @@
 # Bouken shitemo Ii Koro
 
+![bouken-shitemo-ii-koro](https://cdn.myanimelist.net/images/manga/2/180710.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 133

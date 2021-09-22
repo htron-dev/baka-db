@@ -1,5 +1,7 @@
 # Soshite, Hare ni Naru
 
+![soshite-hare-ni-naru](https://cdn.myanimelist.net/images/manga/2/147183.jpg)
+
 -   **type**: manga
 -   **original-name**: そして、晴れになる
 -   **start-date**: 2011-09-23

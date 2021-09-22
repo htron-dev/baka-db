@@ -1,5 +1,7 @@
 # Darling Kishidan
 
+![darling-kishidan](https://cdn.myanimelist.net/images/manga/3/176096.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

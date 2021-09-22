@@ -1,5 +1,7 @@
 # Yawara!
 
+![yawara](https://cdn.myanimelist.net/images/anime/4/44864.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 124
 -   **original-name**: YAWARA!

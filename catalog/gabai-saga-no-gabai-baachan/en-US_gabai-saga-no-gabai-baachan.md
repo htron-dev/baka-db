@@ -1,5 +1,7 @@
 # Gabai: Saga no Gabai Baachan
 
+![gabai-saga-no-gabai-baachan](https://cdn.myanimelist.net/images/manga/1/196045.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 91

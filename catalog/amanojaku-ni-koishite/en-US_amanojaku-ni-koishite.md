@@ -1,5 +1,7 @@
 # Amanojaku ni Koishite!
 
+![amanojaku-ni-koishite](https://cdn.myanimelist.net/images/manga/1/190476.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

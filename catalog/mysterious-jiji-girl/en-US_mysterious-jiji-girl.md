@@ -1,5 +1,7 @@
 # Mysterious Jiji Girl
 
+![mysterious-jiji-girl](https://cdn.myanimelist.net/images/manga/1/11462.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ふしぎなジジガール

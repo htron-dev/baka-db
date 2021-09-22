@@ -1,5 +1,7 @@
 # A Good Day to Be a Dog
 
+![a-good-day-to-be-a-dog](https://cdn.myanimelist.net/images/manga/3/225965.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 88

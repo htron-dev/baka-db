@@ -1,5 +1,7 @@
 # Arata naru Teki: Hajimemashita
 
+![arata-naru-teki-hajimemashita](https://cdn.myanimelist.net/images/manga/3/176147.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 新たなる敵　はじめました

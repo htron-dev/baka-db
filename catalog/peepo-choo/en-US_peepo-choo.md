@@ -1,5 +1,7 @@
 # Peepo Choo
 
+![peepo-choo](https://cdn.myanimelist.net/images/manga/1/33834.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

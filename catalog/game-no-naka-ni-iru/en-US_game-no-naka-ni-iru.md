@@ -1,5 +1,7 @@
 # Game no Naka ni Iru!
 
+![game-no-naka-ni-iru](https://cdn.myanimelist.net/images/manga/3/243813.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: ゲームの中にいる！

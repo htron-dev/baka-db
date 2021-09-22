@@ -1,5 +1,7 @@
 # 3-punkan demo Ikemasu ka? Haruka Kanata no Chousen
 
+![3-punkan-demo-ikemasu-ka-haruka-kanata-no-chousen](https://cdn.myanimelist.net/images/manga/2/169777.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ３分間でも逝けますか？~はるかかなたの挑戦~

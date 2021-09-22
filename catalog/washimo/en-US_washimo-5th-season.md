@@ -1,5 +1,7 @@
 # Washimo 5th Season
 
+![washimo-5th-season](https://cdn.myanimelist.net/images/anime/12/85015.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: わしも-wasimo-(第 5 シリーズ)
@@ -12,7 +14,6 @@
 -   sci-fi
 -   slice-of-life
 -   comedy
-
 -   school
 
 ## Sinopse

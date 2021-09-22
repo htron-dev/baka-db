@@ -1,5 +1,7 @@
 # R402
 
+![r-402](https://cdn.myanimelist.net/images/manga/1/222901.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

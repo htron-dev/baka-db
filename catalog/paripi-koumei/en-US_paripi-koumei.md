@@ -1,5 +1,7 @@
 # Paripi Koumei
 
+![paripi-koumei](https://cdn.myanimelist.net/images/manga/1/245507.jpg)
+
 -   **type**: manga
 -   **original-name**: パリピ孔明
 -   **start-date**: 2019-12-31

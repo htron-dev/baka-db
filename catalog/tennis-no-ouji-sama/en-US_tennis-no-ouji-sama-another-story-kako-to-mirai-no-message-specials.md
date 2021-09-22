@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Another Story - Kako to Mirai no Message Specials
 
+![tennis-no-ouji-sama-another-story-kako-to-mirai-no-message-specials](https://cdn.myanimelist.net/images/anime/8/16345.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: テニスの王子様　 OVA ANOTHER STORY ～過去と未来のメッセージ

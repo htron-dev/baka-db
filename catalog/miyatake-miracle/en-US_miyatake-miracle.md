@@ -1,5 +1,7 @@
 # Miyatake Miracle
 
+![miyatake-miracle](https://cdn.myanimelist.net/images/manga/2/248098.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

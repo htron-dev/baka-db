@@ -1,5 +1,7 @@
 # Mina no Egao
 
+![mina-no-egao](https://cdn.myanimelist.net/images/anime/1038/112353.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ミナの笑顔

@@ -1,5 +1,7 @@
 # Why
 
+![why](https://cdn.myanimelist.net/images/anime/9/73609.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **start-date**: 1975-01-19

@@ -1,5 +1,7 @@
 # Sentou Hakai Gakuen Dangerous
 
+![sentou-hakai-gakuen-dangerous](https://cdn.myanimelist.net/images/manga/1/154469.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 43

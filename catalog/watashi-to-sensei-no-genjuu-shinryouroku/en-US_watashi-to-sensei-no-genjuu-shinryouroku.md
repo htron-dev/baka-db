@@ -1,5 +1,7 @@
 # Watashi to Sensei no Genjuu Shinryouroku
 
+![watashi-to-sensei-no-genjuu-shinryouroku](https://cdn.myanimelist.net/images/manga/2/195829.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

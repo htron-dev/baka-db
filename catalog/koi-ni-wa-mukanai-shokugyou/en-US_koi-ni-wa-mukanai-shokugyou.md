@@ -1,5 +1,7 @@
 # Koi ni wa Mukanai Shokugyou
 
+![koi-ni-wa-mukanai-shokugyou](https://cdn.myanimelist.net/images/manga/1/222953.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

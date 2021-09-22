@@ -1,5 +1,7 @@
 # Vampire wa Kuwazugirai
 
+![vampire-wa-kuwazugirai](https://cdn.myanimelist.net/images/manga/2/232021.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

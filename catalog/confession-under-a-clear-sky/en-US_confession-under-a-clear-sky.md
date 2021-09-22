@@ -1,5 +1,7 @@
 # Confession Under a Clear Sky
 
+![confession-under-a-clear-sky](https://cdn.myanimelist.net/images/manga/1/12000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

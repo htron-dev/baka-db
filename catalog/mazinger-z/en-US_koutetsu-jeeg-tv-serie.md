@@ -1,5 +1,7 @@
 # Koutetsu Jeeg
 
+![koutetsu-jeeg](https://cdn.myanimelist.net/images/anime/1467/92724.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 鋼鉄ジーグ

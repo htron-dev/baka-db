@@ -1,5 +1,7 @@
 # Li'l Chillun'
 
+![lil-chillun](https://cdn.myanimelist.net/images/anime/5/85861.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: リルチルン

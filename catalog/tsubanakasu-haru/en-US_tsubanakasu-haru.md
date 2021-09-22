@@ -1,5 +1,7 @@
 # Tsubanakasu Haru
 
+![tsubanakasu-haru](https://cdn.myanimelist.net/images/manga/1/244264.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

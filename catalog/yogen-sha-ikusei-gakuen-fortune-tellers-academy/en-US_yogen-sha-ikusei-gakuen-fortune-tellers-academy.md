@@ -1,5 +1,7 @@
 # Yogen-sha Ikusei Gakuen: Fortune Tellers Academy
 
+![yogen-sha-ikusei-gakuen-fortune-tellers-academy](https://cdn.myanimelist.net/images/anime/11/85137.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 予言者育成学園 Fortune Tellers Academy

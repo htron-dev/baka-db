@@ -1,5 +1,7 @@
 # Unmei no Hito to Deaeru Koisuru Appli
 
+![unmei-no-hito-to-deaeru-koisuru-appli](https://cdn.myanimelist.net/images/manga/3/238463.jpg)
+
 -   **type**: manga
 -   **original-name**: 運命の人と出逢える恋するアプリ
 -   **start-date**: 2019-11-01

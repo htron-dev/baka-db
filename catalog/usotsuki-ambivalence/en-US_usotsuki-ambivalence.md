@@ -1,5 +1,7 @@
 # Usotsuki Ambivalence
 
+![usotsuki-ambivalence](https://cdn.myanimelist.net/images/manga/1/224885.jpg)
+
 -   **type**: manga
 -   **original-name**: 嘘つきアンビバレンス
 -   **start-date**: 2019-07-24

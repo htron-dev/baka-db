@@ -1,5 +1,7 @@
 # Kunai Den
 
+![kunai-den](https://cdn.myanimelist.net/images/manga/1/39044.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

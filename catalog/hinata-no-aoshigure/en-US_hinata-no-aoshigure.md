@@ -1,5 +1,7 @@
 # Hinata no Aoshigure
 
+![hinata-no-aoshigure](https://cdn.myanimelist.net/images/anime/5/55183.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 陽なたのアオシグレ

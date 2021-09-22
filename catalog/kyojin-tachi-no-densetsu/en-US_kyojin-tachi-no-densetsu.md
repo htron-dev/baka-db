@@ -1,5 +1,7 @@
 # Kyojin-tachi no Densetsu
 
+![kyojin-tachi-no-densetsu](https://cdn.myanimelist.net/images/manga/2/166322.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 巨人たちの伝説

@@ -1,5 +1,7 @@
 # Galactic Patrol Lensman
 
+![galactic-patrol-lensman](https://cdn.myanimelist.net/images/anime/1278/105917.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: GALACTIC PATROL 　レンズマン

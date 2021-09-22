@@ -1,5 +1,7 @@
 # Yawao to Katako
 
+![yawao-to-katako](https://cdn.myanimelist.net/images/manga/3/244016.jpg)
+
 -   **type**: manga
 -   **original-name**: やわ男とカタ子
 -   **start-date**: 2017-04-08

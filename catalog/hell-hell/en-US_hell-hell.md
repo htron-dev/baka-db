@@ -1,5 +1,7 @@
 # Hell Hell
 
+![hell-hell](https://cdn.myanimelist.net/images/manga/4/46413.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

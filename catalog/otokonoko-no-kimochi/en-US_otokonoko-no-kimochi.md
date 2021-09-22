@@ -1,5 +1,7 @@
 # Otokonoko no Kimochi
 
+![otokonoko-no-kimochi](https://cdn.myanimelist.net/images/manga/1/23273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オトコノコの気持ち

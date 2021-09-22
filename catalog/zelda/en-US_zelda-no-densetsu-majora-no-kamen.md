@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Majora no Kamen
 
+![zelda-no-densetsu-majora-no-kamen](https://cdn.myanimelist.net/images/manga/2/126025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

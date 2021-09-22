@@ -1,5 +1,7 @@
 # Kirin wa Ichizu ni Koi wo Suru
 
+![kirin-wa-ichizu-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/2/148437.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 26

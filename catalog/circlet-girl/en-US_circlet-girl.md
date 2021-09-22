@@ -1,5 +1,7 @@
 # Circlet Girl
 
+![circlet-girl](https://cdn.myanimelist.net/images/manga/1/198119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 74

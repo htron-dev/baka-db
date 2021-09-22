@@ -1,5 +1,7 @@
 # Maid in Japan
 
+![maid-in-japan](https://cdn.myanimelist.net/images/manga/1/173176.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

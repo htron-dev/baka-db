@@ -1,8 +1,10 @@
 # Koukaku Kidoutai: Stand Alone Complex - The Laughing Man
 
+![koukaku-kidoutai-stand-alone-complex-the-laughing-man](https://cdn.myanimelist.net/images/manga/1/142963.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
--   **original-name**: 攻殻機動隊 STAND ALONE COMPLEX ～The Laughing Man～
+-   **original-name**: 攻殻機動隊 STAND ALONE COMPLEX ～ The Laughing Man ～
 -   **start-date**: 2013-12-04
 -   **end-date**: 2013-12-04
 

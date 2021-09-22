@@ -1,5 +1,7 @@
 # Kajiba no Baka IQ
 
+![kajiba-no-baka-iq](https://cdn.myanimelist.net/images/manga/1/167459.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 火事場のバカ IQ

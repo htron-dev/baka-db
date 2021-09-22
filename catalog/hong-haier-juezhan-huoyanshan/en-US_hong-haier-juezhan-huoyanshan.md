@@ -1,5 +1,7 @@
 # Hong Haier: Juezhan Huoyanshan
 
+![hong-haier-juezhan-huoyanshan](https://cdn.myanimelist.net/images/anime/2/80470.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 紅孩兒 決戰火焰山

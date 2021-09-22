@@ -1,5 +1,7 @@
 # Ouji to Joujin
 
+![ouji-to-joujin](https://cdn.myanimelist.net/images/manga/2/29945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Manatsu no Yoru no Inmu
 
+![manatsu-no-yoru-no-inmu](https://cdn.myanimelist.net/images/manga/1/192805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Macross Plus Movie Edition
 
+![macross-plus-movie-edition](https://cdn.myanimelist.net/images/anime/11/75806.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マクロスプラス　ＭＯＶＩＥ　ＥＤＩＴＩＯＮ

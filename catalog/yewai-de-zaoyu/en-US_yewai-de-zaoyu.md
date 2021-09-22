@@ -1,5 +1,7 @@
 # Yewai de Zaoyu
 
+![yewai-de-zaoyu](https://cdn.myanimelist.net/images/anime/1035/115796.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 野外的遭遇

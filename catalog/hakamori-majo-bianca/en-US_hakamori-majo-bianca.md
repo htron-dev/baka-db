@@ -1,5 +1,7 @@
 # Hakamori Majo Bianca
 
+![hakamori-majo-bianca](https://cdn.myanimelist.net/images/manga/3/108223.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

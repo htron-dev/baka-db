@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Shenhai Lixian Ji
 
+![xi-yangyang-yu-hui-tailang-shenhai-lixian-ji](https://cdn.myanimelist.net/images/anime/1947/115285.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之深海歷險記

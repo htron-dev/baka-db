@@ -1,5 +1,7 @@
 # The Boy From the Moon
 
+![the-boy-from-the-moon](https://cdn.myanimelist.net/images/manga/3/6582.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 달에서 온 소년
 

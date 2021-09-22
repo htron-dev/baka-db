@@ -1,5 +1,7 @@
 # Tatakau Panya to Automaton Waitress
 
+![tatakau-panya-to-automaton-waitress](https://cdn.myanimelist.net/images/manga/3/177739.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 100

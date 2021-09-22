@@ -1,5 +1,7 @@
 # Ichiban Ushiro no Daimaou Specials
 
+![ichiban-ushiro-no-daimaou-specials](https://cdn.myanimelist.net/images/anime/3/80505.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: いちばんうしろの大魔王

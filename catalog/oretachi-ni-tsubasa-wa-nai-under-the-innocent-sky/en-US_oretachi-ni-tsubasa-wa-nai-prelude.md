@@ -1,5 +1,7 @@
 # Oretachi ni Tsubasa wa Nai - Prelude
 
+![oretachi-ni-tsubasa-wa-nai-prelude](https://cdn.myanimelist.net/images/manga/5/36191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

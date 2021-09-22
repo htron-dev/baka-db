@@ -1,5 +1,7 @@
 # Egoist Clergyman
 
+![egoist-clergyman](https://cdn.myanimelist.net/images/manga/1/30149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

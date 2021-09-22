@@ -1,5 +1,7 @@
 # Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou
 
+![yasei-no-last-boss-ga-arawareta-kokuyoku-no-haou](https://cdn.myanimelist.net/images/manga/1/204491.jpg)
+
 -   **type**: manga
 -   **original-name**: 野生のラスボスが現れた！黒翼の覇王
 -   **start-date**: 2017-06-07

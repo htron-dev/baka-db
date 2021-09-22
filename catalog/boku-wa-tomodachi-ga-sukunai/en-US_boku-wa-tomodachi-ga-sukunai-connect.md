@@ -1,5 +1,7 @@
 # Boku wa Tomodachi ga Sukunai: Connect
 
+![boku-wa-tomodachi-ga-sukunai-connect](https://cdn.myanimelist.net/images/manga/1/151263.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

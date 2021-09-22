@@ -1,5 +1,7 @@
 # Katsute Mahou Shoujo to Aku wa Tekitai shiteita.
 
+![katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita](https://cdn.myanimelist.net/images/manga/3/131223.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

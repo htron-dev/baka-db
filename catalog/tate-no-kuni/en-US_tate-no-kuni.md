@@ -1,5 +1,7 @@
 # Tate no Kuni
 
+![tate-no-kuni](https://cdn.myanimelist.net/images/manga/1/214947.jpg)
+
 -   **type**: manga
 -   **chapters**: 120
 -   **original-name**: タテの国

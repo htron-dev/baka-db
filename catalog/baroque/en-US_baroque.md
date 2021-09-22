@@ -1,5 +1,7 @@
 # Baroque
 
+![baroque](https://cdn.myanimelist.net/images/manga/1/164491.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

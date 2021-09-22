@@ -1,5 +1,7 @@
 # Ji no Nai Hagaki
 
+![ji-no-nai-hagaki](https://cdn.myanimelist.net/images/anime/4/61747.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 字のないはがき

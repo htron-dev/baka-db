@@ -1,5 +1,7 @@
 # Shin Chimoguri Ringo to Kingyobachi Otoko
 
+![shin-chimoguri-ringo-to-kingyobachi-otoko](https://cdn.myanimelist.net/images/manga/1/194906.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

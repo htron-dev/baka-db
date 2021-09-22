@@ -1,5 +1,7 @@
 # Alice to Zouroku
 
+![alice-to-zouroku](https://cdn.myanimelist.net/images/anime/2/84598.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アリスと蔵六

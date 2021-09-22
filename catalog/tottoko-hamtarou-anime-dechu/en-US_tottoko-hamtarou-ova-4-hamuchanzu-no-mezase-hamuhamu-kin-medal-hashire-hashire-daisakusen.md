@@ -1,5 +1,7 @@
 # Tottoko Hamtarou OVA 4: Hamuchanzu no Mezase! Hamuhamu Kin Medal - Hashire! Hashire! Daisakusen
 
+![tottoko-hamtarou-ova-4-hamuchanzu-no-mezase-hamuhamu-kin-medal-hashire-hashire-daisakusen](https://cdn.myanimelist.net/images/anime/12/24829.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハムちゃんずのめざせ!ハムハム金メダル 〜はしれ!はしれ!だいさくせん〜

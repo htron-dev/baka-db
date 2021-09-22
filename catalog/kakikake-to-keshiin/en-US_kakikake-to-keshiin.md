@@ -1,5 +1,7 @@
 # Kakikake to Keshiin
 
+![kakikake-to-keshiin](https://cdn.myanimelist.net/images/manga/2/35846.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: かきかけとけしいん

@@ -1,5 +1,7 @@
 # Stella no Mahou Specials
 
+![stella-no-mahou-specials](https://cdn.myanimelist.net/images/anime/11/85628.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ステラのまほう

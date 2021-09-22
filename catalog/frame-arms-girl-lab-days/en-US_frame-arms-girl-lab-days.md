@@ -1,5 +1,7 @@
 # Frame Arms Girl: Lab Days
 
+![frame-arms-girl-lab-days](https://cdn.myanimelist.net/images/manga/3/203983.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

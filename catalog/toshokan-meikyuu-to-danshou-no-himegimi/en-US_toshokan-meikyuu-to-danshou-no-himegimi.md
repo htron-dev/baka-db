@@ -1,5 +1,7 @@
 # Toshokan Meikyuu to Danshou no Himegimi
 
+![toshokan-meikyuu-to-danshou-no-himegimi](https://cdn.myanimelist.net/images/manga/3/124909.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 図書館迷宮と断章の姫君

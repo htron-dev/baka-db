@@ -1,5 +1,7 @@
 # Sawareru Taion
 
+![sawareru-taion](https://cdn.myanimelist.net/images/manga/1/37091.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 触れる体温

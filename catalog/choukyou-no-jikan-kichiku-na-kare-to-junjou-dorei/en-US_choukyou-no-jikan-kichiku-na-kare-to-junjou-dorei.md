@@ -1,5 +1,7 @@
 # Choukyou no Jikan - Kichiku na Kare to Junjou Dorei
 
+![choukyou-no-jikan-kichiku-na-kare-to-junjou-dorei](https://cdn.myanimelist.net/images/manga/1/94763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

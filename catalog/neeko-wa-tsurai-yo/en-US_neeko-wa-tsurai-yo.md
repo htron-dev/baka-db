@@ -1,5 +1,7 @@
 # Neeko wa Tsurai yo
 
+![neeko-wa-tsurai-yo](https://cdn.myanimelist.net/images/manga/2/208224.jpg)
+
 -   **type**: manga
 -   **original-name**: ニー子はつらいよ
 -   **start-date**: 2017-08-26

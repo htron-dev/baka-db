@@ -1,5 +1,7 @@
 # Hello! Lady Lynn
 
+![hello-lady-lynn](https://cdn.myanimelist.net/images/anime/4/16819.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: ハロー! レディリン

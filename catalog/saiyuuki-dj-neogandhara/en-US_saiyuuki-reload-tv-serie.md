@@ -1,5 +1,7 @@
 # Saiyuuki Reload
 
+![saiyuuki-reload](https://cdn.myanimelist.net/images/anime/13/24719.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 最遊記 RELOAD

@@ -1,5 +1,7 @@
 # Koi no Katachi
 
+![koi-no-katachi](https://cdn.myanimelist.net/images/manga/3/2724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

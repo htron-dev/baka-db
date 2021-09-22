@@ -1,5 +1,7 @@
 # Meganebu!: Sekai wa Lens Goshi ni Kagayaku!!
 
+![meganebu-sekai-wa-lens-goshi-ni-kagayaku](https://cdn.myanimelist.net/images/manga/3/126333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: メガネブ！～世界はレンズ越しに輝く!!～

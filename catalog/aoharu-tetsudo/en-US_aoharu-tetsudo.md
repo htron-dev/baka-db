@@ -1,5 +1,7 @@
 # Aoharu Tetsudo
 
+![aoharu-tetsudo](https://cdn.myanimelist.net/images/manga/3/28172.jpg)
+
 -   **type**: manga
 -   **original-name**: 青春鉄道
 -   **start-date**: 2009-10-05

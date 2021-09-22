@@ -1,5 +1,7 @@
 # Cross Link: Zankyou Shoujo
 
+![cross-link-zankyou-shoujo](https://cdn.myanimelist.net/images/manga/1/163568.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

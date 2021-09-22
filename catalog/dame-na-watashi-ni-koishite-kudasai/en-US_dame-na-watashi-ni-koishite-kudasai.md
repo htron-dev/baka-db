@@ -1,5 +1,7 @@
 # Dame na Watashi ni Koishite Kudasai
 
+![dame-na-watashi-ni-koishite-kudasai](https://cdn.myanimelist.net/images/manga/1/163578.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 43

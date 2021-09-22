@@ -1,5 +1,7 @@
 # Yoru ga Hodokete Hana ga Saku
 
+![yoru-ga-hodokete-hana-ga-saku](https://cdn.myanimelist.net/images/manga/3/235271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

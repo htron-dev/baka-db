@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica: Concept Movie
 
+![mahou-shoujo-madoka★-magica-concept-movie](https://cdn.myanimelist.net/images/anime/12/77732.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔法少女まどか ★ マギカ コンセプトムービー

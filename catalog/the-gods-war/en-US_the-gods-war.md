@@ -1,5 +1,7 @@
 # The God's War
 
+![the-gods-war](https://cdn.myanimelist.net/images/manga/1/18537.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 무신전쟁
 

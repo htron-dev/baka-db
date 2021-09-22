@@ -1,5 +1,7 @@
 # Stella to Mille Feuille
 
+![stella-to-mille-feuille](https://cdn.myanimelist.net/images/manga/3/127423.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

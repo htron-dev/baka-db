@@ -1,5 +1,7 @@
 # Nana Toshi Monogatari: Hokkyokukai Sensen
 
+![nana-toshi-monogatari-hokkyokukai-sensen](https://cdn.myanimelist.net/images/anime/3/24572.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 七都市物語 ～北極海戦線～

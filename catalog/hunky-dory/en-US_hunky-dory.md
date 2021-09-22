@@ -1,5 +1,7 @@
 # Hunky Dory
 
+![hunky-dory](https://cdn.myanimelist.net/images/manga/2/178500.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

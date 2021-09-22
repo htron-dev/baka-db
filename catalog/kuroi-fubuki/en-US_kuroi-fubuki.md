@@ -1,5 +1,7 @@
 # Kuroi Fubuki
 
+![kuroi-fubuki](https://cdn.myanimelist.net/images/manga/1/88889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

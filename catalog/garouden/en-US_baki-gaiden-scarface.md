@@ -1,5 +1,7 @@
 # Baki Gaiden: Scarface
 
+![baki-gaiden-scarface](https://cdn.myanimelist.net/images/manga/1/128621.jpg)
+
 -   **type**: manga
 -   **original-name**: バキ外伝 疵面 －スカーフェイス－
 -   **start-date**: 2005-01-19

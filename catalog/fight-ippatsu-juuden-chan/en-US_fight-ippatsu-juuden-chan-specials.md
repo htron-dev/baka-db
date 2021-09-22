@@ -1,5 +1,7 @@
 # Fight Ippatsu! Juuden-chan!! Specials
 
+![fight-ippatsu-juuden-chan-specials](https://cdn.myanimelist.net/images/anime/2/18791.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ファイト一発！充電ちゃん！！

@@ -1,5 +1,7 @@
 # Maoyuu Maou Yuusha: Oka no Mukou e
 
+![maoyuu-maou-yuusha-oka-no-mukou-e](https://cdn.myanimelist.net/images/manga/3/119225.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

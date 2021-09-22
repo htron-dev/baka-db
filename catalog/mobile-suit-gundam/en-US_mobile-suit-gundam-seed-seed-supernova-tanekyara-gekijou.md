@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED: SEED Supernova - Tanekyara Gekijou
 
+![mobile-suit-gundam-seed-seed-supernova-tanekyara-gekijou](https://cdn.myanimelist.net/images/anime/3/52119.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: たねきゃら劇場

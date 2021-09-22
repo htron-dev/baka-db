@@ -1,5 +1,7 @@
 # Toiki yori mo Yasashii
 
+![toiki-yori-mo-yasashii](https://cdn.myanimelist.net/images/manga/2/23224.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

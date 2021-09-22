@@ -1,5 +1,7 @@
 # Bright Future
 
+![bright-future](https://cdn.myanimelist.net/images/manga/2/204867.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 16

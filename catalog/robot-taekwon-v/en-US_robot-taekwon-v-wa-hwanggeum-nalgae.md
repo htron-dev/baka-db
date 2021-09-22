@@ -1,5 +1,7 @@
 # Robot Taekwon V wa Hwanggeum Nalgae
 
+![robot-taekwon-v-wa-hwanggeum-nalgae](https://cdn.myanimelist.net/images/anime/4/44650.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 로보트 태권V와 황금날개의 대결

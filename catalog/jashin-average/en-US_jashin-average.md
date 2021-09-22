@@ -1,5 +1,7 @@
 # Jashin Average
 
+![jashin-average](https://cdn.myanimelist.net/images/manga/2/191047.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

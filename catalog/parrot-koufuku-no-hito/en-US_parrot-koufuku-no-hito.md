@@ -1,5 +1,7 @@
 # Parrot: Koufuku no Hito
 
+![parrot-koufuku-no-hito](https://cdn.myanimelist.net/images/manga/2/85161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

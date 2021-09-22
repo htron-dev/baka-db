@@ -1,5 +1,7 @@
 # Change 123
 
+![change-123](https://cdn.myanimelist.net/images/manga/2/53151.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 60

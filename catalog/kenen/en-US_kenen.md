@@ -1,5 +1,7 @@
 # Kenen.
 
+![kenen](https://cdn.myanimelist.net/images/manga/1/195376.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 46

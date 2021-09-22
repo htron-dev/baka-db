@@ -1,5 +1,7 @@
 # Koutetsu no Hanappashira
 
+![koutetsu-no-hanappashira](https://cdn.myanimelist.net/images/manga/1/42532.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 90

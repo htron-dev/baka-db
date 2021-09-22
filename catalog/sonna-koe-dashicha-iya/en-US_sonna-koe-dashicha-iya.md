@@ -1,5 +1,7 @@
 # Sonna Koe Dashicha Iya
 
+![sonna-koe-dashicha-iya](https://cdn.myanimelist.net/images/manga/3/79683.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

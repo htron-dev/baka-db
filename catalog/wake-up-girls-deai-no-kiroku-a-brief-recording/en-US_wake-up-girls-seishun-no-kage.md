@@ -1,5 +1,7 @@
 # Wake Up, Girls! Seishun no Kage
 
+![wake-up-girls-seishun-no-kage](https://cdn.myanimelist.net/images/anime/6/75337.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Wake Up, Girls！青春の影

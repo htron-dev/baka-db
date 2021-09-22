@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya 2wei! Specials
 
+![fate-kaleid-liner-prisma☆-illya-2-wei-specials](https://cdn.myanimelist.net/images/anime/11/64197.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: Fate/kaleid liner プリズマ ☆ イリヤ ツヴァイ!

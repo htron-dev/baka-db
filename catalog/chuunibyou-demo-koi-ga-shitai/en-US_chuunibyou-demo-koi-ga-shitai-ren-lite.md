@@ -1,5 +1,7 @@
 # Chuunibyou demo Koi ga Shitai! Ren Lite
 
+![chuunibyou-demo-koi-ga-shitai-ren-lite](https://cdn.myanimelist.net/images/anime/7/57457.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 中二病でも恋がしたい！戀 Lite

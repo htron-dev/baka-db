@@ -1,5 +1,7 @@
 # Wrestler Gundan Seisenshi Robin Jr.
 
+![wrestler-gundan-seisenshi-robin-jr](https://cdn.myanimelist.net/images/anime/10/17737.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: レスラー軍団＜銀河編＞ 聖戦士ロビンＪｒ．
@@ -15,7 +17,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   parody
 -   sci-fi
 -   super-power

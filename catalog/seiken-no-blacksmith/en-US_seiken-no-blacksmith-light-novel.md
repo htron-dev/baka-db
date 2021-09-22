@@ -1,5 +1,7 @@
 # Seiken no Blacksmith
 
+![seiken-no-blacksmith](https://cdn.myanimelist.net/images/manga/1/171156.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 16
 -   **chapters**: 74

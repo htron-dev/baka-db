@@ -1,5 +1,7 @@
 # Hakushaku kara no Shoutaijou
 
+![hakushaku-kara-no-shoutaijou](https://cdn.myanimelist.net/images/manga/1/227164.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 伯爵からの招待状

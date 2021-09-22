@@ -1,5 +1,7 @@
 # Gakeppuchi no Megami
 
+![gakeppuchi-no-megami](https://cdn.myanimelist.net/images/manga/1/104389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

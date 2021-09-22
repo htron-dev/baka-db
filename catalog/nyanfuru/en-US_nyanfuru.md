@@ -1,5 +1,7 @@
 # Nyanfuru
 
+![nyanfuru](https://cdn.myanimelist.net/images/anime/12/63835.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 124
 -   **original-name**: にゃん符

@@ -1,5 +1,7 @@
 # Hajimemashite no Koi
 
+![hajimemashite-no-koi](https://cdn.myanimelist.net/images/manga/2/248026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

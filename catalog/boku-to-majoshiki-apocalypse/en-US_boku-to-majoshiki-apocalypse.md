@@ -1,5 +1,7 @@
 # Boku to Majoshiki Apocalypse
 
+![boku-to-majoshiki-apocalypse](https://cdn.myanimelist.net/images/manga/1/164385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

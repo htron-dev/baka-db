@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki 4th Season
 
+![tenchi-muyou-ryououki-4th-season](https://cdn.myanimelist.net/images/anime/12/81932.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 天地無用！魎皇鬼 第四期

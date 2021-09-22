@@ -1,5 +1,7 @@
 # Ingoku no Yakata: Wana ni Hamatta Bijo-tachi
 
+![ingoku-no-yakata-wana-ni-hamatta-bijo-tachi](https://cdn.myanimelist.net/images/manga/2/196642.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 淫獄の館　罠にはまった美女たち

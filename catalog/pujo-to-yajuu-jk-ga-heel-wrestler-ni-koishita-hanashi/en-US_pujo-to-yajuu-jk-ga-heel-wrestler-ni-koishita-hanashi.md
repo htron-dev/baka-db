@@ -1,5 +1,7 @@
 # Pujo to Yajuu: JK ga Heel Wrestler ni Koishita Hanashi
 
+![pujo-to-yajuu-jk-ga-heel-wrestler-ni-koishita-hanashi](https://cdn.myanimelist.net/images/manga/1/221569.jpg)
+
 -   **type**: manga
 -   **original-name**: プ女と野獣 JK が悪役〈ヒール〉レスラーに恋した話
 -   **start-date**: 2019-01-12

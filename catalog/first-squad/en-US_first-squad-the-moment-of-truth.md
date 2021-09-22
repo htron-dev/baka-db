@@ -1,5 +1,7 @@
 # First Squad: The Moment of Truth
 
+![first-squad-the-moment-of-truth](https://cdn.myanimelist.net/images/anime/10/15653.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ファーストスクワッド

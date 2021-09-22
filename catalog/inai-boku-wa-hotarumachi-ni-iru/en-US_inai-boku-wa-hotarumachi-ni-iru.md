@@ -1,5 +1,7 @@
 # Inai Boku wa Hotarumachi ni Iru
 
+![inai-boku-wa-hotarumachi-ni-iru](https://cdn.myanimelist.net/images/manga/3/189630.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

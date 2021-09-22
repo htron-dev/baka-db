@@ -1,5 +1,7 @@
 # Ningen ni Natta Kami Figure-sama ni Nani wo Suru!
 
+![ningen-ni-natta-kami-figure-sama-ni-nani-wo-suru](https://cdn.myanimelist.net/images/manga/1/169736.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 人間になった神フィギュア様にナニをするっ！

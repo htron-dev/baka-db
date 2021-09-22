@@ -1,5 +1,7 @@
 # Dream Life: Yume no Isekai Seikatsu
 
+![dream-life-yume-no-isekai-seikatsu](https://cdn.myanimelist.net/images/manga/3/246160.jpg)
+
 -   **type**: manga
 -   **original-name**: ドリーム・ライフ~夢の異世界生活~
 -   **start-date**: 2020-03-02

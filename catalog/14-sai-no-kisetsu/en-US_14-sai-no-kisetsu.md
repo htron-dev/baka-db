@@ -1,5 +1,7 @@
 # 14-sai no Kisetsu
 
+![14-sai-no-kisetsu](https://cdn.myanimelist.net/images/manga/3/28222.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 14 歳の季節

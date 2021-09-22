@@ -1,5 +1,7 @@
 # Toaru Hi no Kuru
 
+![toaru-hi-no-kuru](https://cdn.myanimelist.net/images/manga/1/151284.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: とある日のクル

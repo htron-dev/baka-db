@@ -1,5 +1,7 @@
 # No Color
 
+![no-color](https://cdn.myanimelist.net/images/manga/3/18822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

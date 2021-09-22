@@ -1,5 +1,7 @@
 # Shiawase Haitatsu Taneko
 
+![shiawase-haitatsu-taneko](https://cdn.myanimelist.net/images/anime/2/28900.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: しあわせ配達おみくじタネコ
 -   **start-date**: 2011-03-26

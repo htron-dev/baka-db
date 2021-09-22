@@ -1,5 +1,7 @@
 # Homun no Renkinjutsu-bu
 
+![homun-no-renkinjutsu-bu](https://cdn.myanimelist.net/images/manga/1/141449.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

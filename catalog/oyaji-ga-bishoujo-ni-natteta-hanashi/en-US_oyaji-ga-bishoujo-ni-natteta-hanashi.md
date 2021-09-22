@@ -1,5 +1,7 @@
 # Oyaji ga Bishoujo ni Natteta Hanashi
 
+![oyaji-ga-bishoujo-ni-natteta-hanashi](https://cdn.myanimelist.net/images/manga/1/230354.jpg)
+
 -   **type**: manga
 -   **original-name**: オヤジが美少女になってた話
 -   **start-date**: 2019-10-25

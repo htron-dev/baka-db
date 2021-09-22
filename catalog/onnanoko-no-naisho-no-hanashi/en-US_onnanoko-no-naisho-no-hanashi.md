@@ -1,5 +1,7 @@
 # Onnanoko no Naisho no Hanashi
 
+![onnanoko-no-naisho-no-hanashi](https://cdn.myanimelist.net/images/manga/3/135187.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 25

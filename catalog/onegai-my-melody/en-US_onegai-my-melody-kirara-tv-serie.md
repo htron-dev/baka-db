@@ -1,5 +1,7 @@
 # Onegai♪My Melody Kirara★
 
+![onegai♪-my-melody-kirara★](https://cdn.myanimelist.net/images/anime/7/68501.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: おねがい ♪ マイメロディ きららっ ★

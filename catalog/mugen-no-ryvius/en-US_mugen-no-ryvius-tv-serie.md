@@ -1,5 +1,7 @@
 # Mugen no Ryvius
 
+![mugen-no-ryvius](https://cdn.myanimelist.net/images/anime/3/16734.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 無限のリヴァイアス

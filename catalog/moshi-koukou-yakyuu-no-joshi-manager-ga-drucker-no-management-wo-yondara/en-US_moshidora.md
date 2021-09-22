@@ -1,5 +1,7 @@
 # Moshidora
 
+![moshidora](https://cdn.myanimelist.net/images/anime/9/29166.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: もしドラ

@@ -1,5 +1,7 @@
 # Duel Masters Cross
 
+![duel-masters-cross](https://cdn.myanimelist.net/images/anime/1622/105190.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: デュエル・マスターズ クロス
@@ -13,7 +15,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

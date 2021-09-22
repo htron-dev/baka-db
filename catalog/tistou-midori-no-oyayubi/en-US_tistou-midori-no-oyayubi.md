@@ -1,5 +1,7 @@
 # Tistou Midori no Oyayubi
 
+![tistou-midori-no-oyayubi](https://cdn.myanimelist.net/images/anime/6/68841.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チスト　みどりのおやゆび

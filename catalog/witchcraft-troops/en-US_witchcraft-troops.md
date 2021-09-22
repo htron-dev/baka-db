@@ -1,5 +1,7 @@
 # Witchcraft Troops
 
+![witchcraft-troops](https://cdn.myanimelist.net/images/manga/2/55081.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 마법병단
 

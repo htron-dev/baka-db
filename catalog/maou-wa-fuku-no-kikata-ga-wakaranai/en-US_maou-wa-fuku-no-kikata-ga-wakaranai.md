@@ -1,5 +1,7 @@
 # Maou wa Fuku no Kikata ga Wakaranai
 
+![maou-wa-fuku-no-kikata-ga-wakaranai](https://cdn.myanimelist.net/images/manga/3/201762.jpg)
+
 -   **type**: light-novel
 -   **original-name**: の着方がわからない
 -   **start-date**: 2017-10-20

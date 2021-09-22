@@ -1,5 +1,7 @@
 # Hada Made Aishite
 
+![hada-made-aishite](https://cdn.myanimelist.net/images/manga/1/2200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

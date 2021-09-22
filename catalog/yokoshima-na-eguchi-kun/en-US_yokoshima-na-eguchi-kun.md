@@ -1,5 +1,7 @@
 # Yokoshima na Eguchi-kun
 
+![yokoshima-na-eguchi-kun](https://cdn.myanimelist.net/images/manga/1/180839.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 27

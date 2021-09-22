@@ -1,5 +1,7 @@
 # Shitsuji no Mitsuai ni Hanayome wa Aegu: Tebukuro wo Nuida Midara na Yubi
 
+![shitsuji-no-mitsuai-ni-hanayome-wa-aegu-tebukuro-wo-nuida-midara-na-yubi](https://cdn.myanimelist.net/images/manga/3/184068.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

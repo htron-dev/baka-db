@@ -1,5 +1,7 @@
 # Dämons
 
+![damons](https://cdn.myanimelist.net/images/manga/3/208631.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 116

@@ -1,5 +1,7 @@
 # Usotsuki na Cinderella
 
+![usotsuki-na-cinderella](https://cdn.myanimelist.net/images/manga/1/189500.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 嘘つきなシンデレラ

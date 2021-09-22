@@ -1,5 +1,7 @@
 # Ichigo Omelette♥
 
+![ichigo-omelette♥](https://cdn.myanimelist.net/images/manga/1/39542.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: いちごオムレツ ♥

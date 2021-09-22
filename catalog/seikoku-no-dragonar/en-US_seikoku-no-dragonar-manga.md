@@ -1,5 +1,7 @@
 # Seikoku no Dragonar
 
+![seikoku-no-dragonar](https://cdn.myanimelist.net/images/manga/3/101425.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 66

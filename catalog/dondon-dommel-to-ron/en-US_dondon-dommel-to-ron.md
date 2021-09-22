@@ -1,5 +1,7 @@
 # Dondon Dommel to Ron
 
+![dondon-dommel-to-ron](https://cdn.myanimelist.net/images/anime/8/3880.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: どんどんドメルとロン

@@ -1,5 +1,7 @@
 # Wooser no Sono Higurashi: Mugen-hen
 
+![wooser-no-sono-higurashi-mugen-hen](https://cdn.myanimelist.net/images/anime/8/75011.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うーさーのその日暮らし 夢幻編

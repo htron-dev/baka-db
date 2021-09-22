@@ -1,5 +1,7 @@
 # Shishunki na Omaera no Muda na Doryoku
 
+![shishunki-na-omaera-no-muda-na-doryoku](https://cdn.myanimelist.net/images/manga/1/222490.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 思春期なお前らの無駄な努力

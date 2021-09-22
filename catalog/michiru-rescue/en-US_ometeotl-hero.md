@@ -1,5 +1,7 @@
 # Ometeotl Hero
 
+![ometeotl-hero](https://cdn.myanimelist.net/images/anime/1129/106226.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: オメテオトル ≠HERO

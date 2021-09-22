@@ -1,5 +1,7 @@
 # Yama no Susume: Next Summit
 
+![yama-no-susume-next-summit](https://cdn.myanimelist.net/images/anime/1345/114331.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ヤマノススメ Next Summit
 -   **rating**: PG-13 - Teens 13 or older

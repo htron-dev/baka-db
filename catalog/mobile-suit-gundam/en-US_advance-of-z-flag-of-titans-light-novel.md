@@ -1,5 +1,7 @@
 # Advance of Z: Flag of Titans
 
+![advance-of-z-flag-of-titans](https://cdn.myanimelist.net/images/manga/2/54167.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: アドバンス・オブ・Z ～ティターンズの旗のもとに～

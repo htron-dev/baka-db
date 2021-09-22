@@ -1,5 +1,7 @@
 # Sekigahara de Matteru wa
 
+![sekigahara-de-matteru-wa](https://cdn.myanimelist.net/images/manga/1/177513.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 関ヶ原で待ってるわ

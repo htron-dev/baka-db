@@ -1,5 +1,7 @@
 # Raise de Aimashou
 
+![raise-de-aimashou](https://cdn.myanimelist.net/images/manga/2/35974.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 来世であいましょう

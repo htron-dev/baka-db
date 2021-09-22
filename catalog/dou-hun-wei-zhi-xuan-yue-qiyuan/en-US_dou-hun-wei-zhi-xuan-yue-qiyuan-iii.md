@@ -1,5 +1,7 @@
 # Dou Hun Wei Zhi Xuan Yue Qiyuan III
 
+![dou-hun-wei-zhi-xuan-yue-qiyuan-iii](https://cdn.myanimelist.net/images/anime/1843/106146.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 斗魂卫之玄月奇缘 III

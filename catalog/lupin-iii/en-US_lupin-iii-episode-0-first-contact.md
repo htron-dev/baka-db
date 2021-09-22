@@ -1,5 +1,7 @@
 # Lupin III: Episode 0 "First Contact"
 
+![lupin-iii-episode-0-first-contact](https://cdn.myanimelist.net/images/anime/5/27778.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世ＥＰＩＳＯＤＥ：０（ゼロ） 『ファーストコンタクト』

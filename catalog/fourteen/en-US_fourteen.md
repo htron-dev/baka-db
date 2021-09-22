@@ -1,5 +1,7 @@
 # Fourteen
 
+![fourteen](https://cdn.myanimelist.net/images/manga/5/34143.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 260

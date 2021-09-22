@@ -1,5 +1,7 @@
 # Shakunetsu no Ouji to Koorihada no Himegimi
 
+![shakunetsu-no-ouji-to-koorihada-no-himegimi](https://cdn.myanimelist.net/images/manga/1/194272.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

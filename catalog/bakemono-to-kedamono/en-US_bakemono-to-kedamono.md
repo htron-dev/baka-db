@@ -1,5 +1,7 @@
 # Bakemono to Kedamono
 
+![bakemono-to-kedamono](https://cdn.myanimelist.net/images/manga/1/225616.jpg)
+
 -   **type**: manga
 -   **original-name**: バケモノとケダモノ
 -   **start-date**: 2018-03-31

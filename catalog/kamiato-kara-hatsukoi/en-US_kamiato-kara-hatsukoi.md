@@ -1,5 +1,7 @@
 # Kamiato kara, Hatsukoi
 
+![kamiato-kara-hatsukoi](https://cdn.myanimelist.net/images/manga/1/246609.jpg)
+
 -   **type**: manga
 -   **original-name**: 噛み痕から、初恋
 -   **start-date**: 2018-10-12

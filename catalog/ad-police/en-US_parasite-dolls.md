@@ -1,5 +1,7 @@
 # Parasite Dolls
 
+![parasite-dolls](https://cdn.myanimelist.net/images/anime/1658/108902.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: パラサイトドールズ

@@ -1,5 +1,7 @@
 # Koe no Katachi Specials
 
+![koe-no-katachi-specials](https://cdn.myanimelist.net/images/anime/1231/98784.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 聲の形

@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Obake Carnival
 
+![pokemon-pikachu-no-obake-carnival](https://cdn.myanimelist.net/images/anime/12/12258.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ピカチュウのおばけカーニバル

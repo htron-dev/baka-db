@@ -1,5 +1,7 @@
 # Mafia ni Sasageru Love Song
 
+![mafia-ni-sasageru-love-song](https://cdn.myanimelist.net/images/manga/3/182084.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

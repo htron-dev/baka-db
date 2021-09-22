@@ -1,5 +1,7 @@
 # Minami no Jewel
 
+![minami-no-jewel](https://cdn.myanimelist.net/images/manga/1/4482.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

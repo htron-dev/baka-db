@@ -1,5 +1,7 @@
 # Sexy Android Butler
 
+![sexy-android-butler](https://cdn.myanimelist.net/images/manga/1/13507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: セクシーアンドロイドバトラー

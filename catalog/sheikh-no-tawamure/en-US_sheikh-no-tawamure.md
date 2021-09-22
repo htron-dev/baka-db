@@ -1,5 +1,7 @@
 # Sheikh no Tawamure
 
+![sheikh-no-tawamure](https://cdn.myanimelist.net/images/manga/3/228787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シークのたわむれ

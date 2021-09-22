@@ -1,5 +1,7 @@
 # Love Live! The School Idol Movie: Gekijou Manner CM
 
+![love-live-the-school-idol-movie-gekijou-manner-cm](https://cdn.myanimelist.net/images/anime/10/88032.jpg)
+
 -   **type**: movie
 -   **episodes**: 4
 -   **original-name**: ラブライブ！The School Idol Movie 劇場マナー CM

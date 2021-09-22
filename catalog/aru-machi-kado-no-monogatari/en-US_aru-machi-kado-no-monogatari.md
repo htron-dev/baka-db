@@ -1,5 +1,7 @@
 # Aru Machi Kado no Monogatari
 
+![aru-machi-kado-no-monogatari](https://cdn.myanimelist.net/images/anime/6/3159.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ある街角の物語

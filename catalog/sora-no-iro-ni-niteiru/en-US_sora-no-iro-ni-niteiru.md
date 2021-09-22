@@ -1,5 +1,7 @@
 # Sora no Iro ni Niteiru
 
+![sora-no-iro-ni-niteiru](https://cdn.myanimelist.net/images/manga/3/38154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 空の色ににている

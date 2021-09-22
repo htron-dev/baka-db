@@ -1,5 +1,7 @@
 # Chain Chronicle: Short Animation
 
+![chain-chronicle-short-animation](https://cdn.myanimelist.net/images/anime/13/67751.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: チェインクロニクル ~ショートアニメ~

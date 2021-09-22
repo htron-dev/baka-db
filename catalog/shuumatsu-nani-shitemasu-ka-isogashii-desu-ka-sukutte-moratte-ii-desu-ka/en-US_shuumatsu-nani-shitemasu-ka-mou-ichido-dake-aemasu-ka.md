@@ -1,5 +1,7 @@
 # Shuumatsu Nani Shitemasu ka? Mou Ichido dake, Aemasu ka?
 
+![shuumatsu-nani-shitemasu-ka-mou-ichido-dake-aemasu-ka](https://cdn.myanimelist.net/images/manga/3/174608.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 終末なにしてますか？もう一度だけ、会えますか？
 -   **start-date**: 2016-04-01

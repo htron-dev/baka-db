@@ -1,5 +1,7 @@
 # Kimi no Uta ga Aru
 
+![kimi-no-uta-ga-aru](https://cdn.myanimelist.net/images/manga/3/34311.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

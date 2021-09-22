@@ -1,5 +1,7 @@
 # Nezumi-kun no Chokki
 
+![nezumi-kun-no-chokki](https://cdn.myanimelist.net/images/anime/10/67465.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ねずみくんのチョッキ

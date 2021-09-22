@@ -1,5 +1,7 @@
 # E Bao Xiao Zhandui
 
+![e-bao-xiao-zhandui](https://cdn.myanimelist.net/images/anime/1974/115489.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 96
 -   **original-name**: 鹅堡小战队

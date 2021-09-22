@@ -1,5 +1,7 @@
 # Shishunki no Zawazawa
 
+![shishunki-no-zawazawa](https://cdn.myanimelist.net/images/manga/1/224236.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Rikudou
 
+![rikudou](https://cdn.myanimelist.net/images/manga/1/191159.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 241

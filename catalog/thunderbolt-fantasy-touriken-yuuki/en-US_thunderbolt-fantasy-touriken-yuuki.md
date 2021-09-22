@@ -1,5 +1,7 @@
 # Thunderbolt Fantasy: Touriken Yuuki
 
+![thunderbolt-fantasy-touriken-yuuki](https://cdn.myanimelist.net/images/manga/3/183822.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season
 
+![love-live-nijigasaki-gakuen-school-idol-doukoukai-2nd-season](https://cdn.myanimelist.net/images/anime/1957/114842.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ラブライブ! 虹ヶ咲学園スクールアイドル同好会
 -   **rating**: PG-13 - Teens 13 or older

@@ -1,5 +1,7 @@
 # Kenichi Tanteichou
 
+![kenichi-tanteichou](https://cdn.myanimelist.net/images/manga/5/175750.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ケン 1 探偵長

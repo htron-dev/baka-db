@@ -1,5 +1,7 @@
 # King &amp; Prince
 
+![king-amp-prince](https://cdn.myanimelist.net/images/manga/3/11314.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

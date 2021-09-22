@@ -1,5 +1,7 @@
 # El Shaddai Ceta
 
+![el-shaddai-ceta](https://cdn.myanimelist.net/images/manga/2/190881.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

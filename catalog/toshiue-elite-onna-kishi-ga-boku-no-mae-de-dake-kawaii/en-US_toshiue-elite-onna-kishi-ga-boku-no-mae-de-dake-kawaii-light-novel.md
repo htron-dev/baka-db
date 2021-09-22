@@ -1,5 +1,7 @@
 # Toshiue Elite Onna Kishi ga Boku no Mae de dake Kawaii
 
+![toshiue-elite-onna-kishi-ga-boku-no-mae-de-dake-kawaii](https://cdn.myanimelist.net/images/manga/3/235026.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 年上エリート女騎士が僕の前でだけ可愛い
 -   **start-date**: 2019-12-01

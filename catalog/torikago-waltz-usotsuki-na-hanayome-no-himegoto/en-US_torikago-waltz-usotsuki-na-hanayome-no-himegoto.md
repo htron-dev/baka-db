@@ -1,5 +1,7 @@
 # Torikago Waltz: Usotsuki na Hanayome no Himegoto
 
+![torikago-waltz-usotsuki-na-hanayome-no-himegoto](https://cdn.myanimelist.net/images/manga/1/182734.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

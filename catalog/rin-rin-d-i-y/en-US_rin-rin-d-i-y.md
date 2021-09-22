@@ -1,5 +1,7 @@
 # Rin Rin D.I.Y
 
+![rin-rin-d-i-y](https://cdn.myanimelist.net/images/manga/1/230557.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

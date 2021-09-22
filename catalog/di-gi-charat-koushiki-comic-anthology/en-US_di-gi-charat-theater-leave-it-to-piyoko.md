@@ -1,5 +1,7 @@
 # Di Gi Charat Theater: Leave it To Piyoko!
 
+![di-gi-charat-theater-leave-it-to-piyoko](https://cdn.myanimelist.net/images/manga/3/15073.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

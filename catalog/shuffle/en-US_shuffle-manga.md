@@ -1,5 +1,7 @@
 # Shuffle!
 
+![shuffle](https://cdn.myanimelist.net/images/manga/1/157292.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

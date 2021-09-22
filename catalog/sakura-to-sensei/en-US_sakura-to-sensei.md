@@ -1,5 +1,7 @@
 # Sakura to Sensei
 
+![sakura-to-sensei](https://cdn.myanimelist.net/images/manga/2/198498.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Be Born Again
 
+![be-born-again](https://cdn.myanimelist.net/images/manga/1/103909.jpg)
+
 -   **type**: manhwa
 -   **original-name**: BE BORN AGAIN - 다시 태어나라
 

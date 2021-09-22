@@ -1,5 +1,7 @@
 # Absolute Duo: Tea Party
 
+![absolute-duo-tea-party](https://cdn.myanimelist.net/images/manga/3/152728.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

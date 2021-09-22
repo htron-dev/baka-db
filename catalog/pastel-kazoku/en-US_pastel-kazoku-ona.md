@@ -1,5 +1,7 @@
 # Pastel Kazoku
 
+![pastel-kazoku](https://cdn.myanimelist.net/images/anime/3/88781.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: パステル家族

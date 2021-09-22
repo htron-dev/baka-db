@@ -1,5 +1,7 @@
 # Wan Jie Xian Zong 4th Season
 
+![wan-jie-xian-zong-4th-season](https://cdn.myanimelist.net/images/anime/1169/109280.jpg)
+
 -   **type**: ona
 -   **episodes**: 48
 -   **original-name**: 万界仙踪 第四季

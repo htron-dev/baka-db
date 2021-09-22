@@ -1,5 +1,7 @@
 # Juusannin no Shikaku
 
+![juusannin-no-shikaku](https://cdn.myanimelist.net/images/manga/2/192993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

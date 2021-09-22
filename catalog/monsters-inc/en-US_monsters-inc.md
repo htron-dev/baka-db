@@ -1,5 +1,7 @@
 # Monsters, Inc.
 
+![monsters-inc](https://cdn.myanimelist.net/images/manga/2/24868.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Oniyome wo Metotteshimatta.
 
+![oniyome-wo-metotteshimatta](https://cdn.myanimelist.net/images/manga/3/224415.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: 鬼嫁を娶ってしまった。

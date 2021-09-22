@@ -1,5 +1,7 @@
 # 12 Kounen no Motoko
 
+![12-kounen-no-motoko](https://cdn.myanimelist.net/images/manga/1/28219.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 12 光年の MOTOKO

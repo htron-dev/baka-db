@@ -1,5 +1,7 @@
 # Yashin: Shuuai ni Nureru Hakushaku Reijou
 
+![yashin-shuuai-ni-nureru-hakushaku-reijou](https://cdn.myanimelist.net/images/manga/1/194883.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

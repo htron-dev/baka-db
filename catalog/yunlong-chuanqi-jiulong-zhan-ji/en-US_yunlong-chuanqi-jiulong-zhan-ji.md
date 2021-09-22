@@ -1,5 +1,7 @@
 # Yunlong Chuanqi: Jiulong Zhan Ji
 
+![yunlong-chuanqi-jiulong-zhan-ji](https://cdn.myanimelist.net/images/anime/1829/115527.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 云龙传奇之九龙战记

@@ -1,5 +1,7 @@
 # Mugen no Juunin: Bakumatsu no Shou
 
+![mugen-no-juunin-bakumatsu-no-shou](https://cdn.myanimelist.net/images/manga/3/223739.jpg)
+
 -   **type**: manga
 -   **original-name**: 無限の住人〜幕末ノ章〜
 -   **start-date**: 2019-05-25

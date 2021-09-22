@@ -1,5 +1,7 @@
 # Shidenkai no Maki
 
+![shidenkai-no-maki](https://cdn.myanimelist.net/images/manga/1/129231.jpg)
+
 -   **type**: manga
 -   **original-name**: 紫電改のマキ
 -   **start-date**: 2013-08-19

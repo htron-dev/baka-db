@@ -1,5 +1,7 @@
 # Futari de Tappuri Aishite
 
+![futari-de-tappuri-aishite](https://cdn.myanimelist.net/images/manga/3/193650.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

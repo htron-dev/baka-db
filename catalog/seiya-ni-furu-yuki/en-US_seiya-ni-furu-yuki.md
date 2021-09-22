@@ -1,5 +1,7 @@
 # Seiya ni Furu Yuki
 
+![seiya-ni-furu-yuki](https://cdn.myanimelist.net/images/manga/1/227167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 聖夜に降る雪

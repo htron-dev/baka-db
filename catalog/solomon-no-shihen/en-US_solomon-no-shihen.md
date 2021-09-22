@@ -1,5 +1,7 @@
 # Solomon no Shihen
 
+![solomon-no-shihen](https://cdn.myanimelist.net/images/manga/2/124699.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ソロモンの詩篇

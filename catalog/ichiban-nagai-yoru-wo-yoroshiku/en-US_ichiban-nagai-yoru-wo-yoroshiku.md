@@ -1,5 +1,7 @@
 # Ichiban Nagai Yoru wo Yoroshiku
 
+![ichiban-nagai-yoru-wo-yoroshiku](https://cdn.myanimelist.net/images/manga/2/82438.jpg)
+
 -   **type**: manga
 -   **original-name**: いちばん長い夜をよろしく
 -   **start-date**: 2011-12-20

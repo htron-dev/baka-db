@@ -1,5 +1,7 @@
 # Tsubasa: Tokyo Revelations
 
+![tsubasa-tokyo-revelations](https://cdn.myanimelist.net/images/anime/4/49129.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ツバサ TOKYO REVELATIONS

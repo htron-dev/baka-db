@@ -1,5 +1,7 @@
 # Tokyo Art Month
 
+![tokyo-art-month](https://cdn.myanimelist.net/images/anime/1326/95531.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: TOKYO ART MONTH

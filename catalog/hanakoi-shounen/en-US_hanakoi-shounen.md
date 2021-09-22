@@ -1,5 +1,7 @@
 # Hanakoi Shounen
 
+![hanakoi-shounen](https://cdn.myanimelist.net/images/manga/2/241612.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

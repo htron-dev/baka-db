@@ -1,5 +1,7 @@
 # Muumin
 
+![muumin](https://cdn.myanimelist.net/images/anime/8/21297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: ムーミン
@@ -27,4 +29,4 @@ Very loosely based upon the Moomin books by Finnish author Tove Jansson. Jansson
 -   [Official Site](http://www.tms-e.com/search/index.php?pdt_no=278)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1007)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=431)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Moomin_(1969_TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Moomin_%281969_TV_series%29)

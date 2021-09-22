@@ -1,5 +1,7 @@
 # Boku wa Otasa no Hime Tokidoki Joou-sama no Pet
 
+![boku-wa-otasa-no-hime-tokidoki-joou-sama-no-pet](https://cdn.myanimelist.net/images/manga/1/172582.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

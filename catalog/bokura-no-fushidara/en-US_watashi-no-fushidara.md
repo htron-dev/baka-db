@@ -1,5 +1,7 @@
 # Watashi no Fushidara
 
+![watashi-no-fushidara](https://cdn.myanimelist.net/images/manga/2/195205.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

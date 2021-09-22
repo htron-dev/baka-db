@@ -1,5 +1,7 @@
 # Berserk: Ougon Jidai-hen III - Kourin
 
+![berserk-ougon-jidai-hen-iii-kourin](https://cdn.myanimelist.net/images/anime/12/41305.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベルセルク 黄金時代篇 Ⅲ 降臨
@@ -34,4 +36,4 @@ Griffith is a shell of his former charismatic self after a year of continuous, h
 -   [Official Site](http://www.berserkfilm.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7991)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13800)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Berserk_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Berserk_%28manga%29)

@@ -1,5 +1,7 @@
 # Gyakusatsu Kikan
 
+![gyakusatsu-kikan](https://cdn.myanimelist.net/images/anime/12/83309.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 虐殺器官

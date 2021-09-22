@@ -1,5 +1,7 @@
 # Shougeki wa Bougyo Shitsutsu Kaesu no ga Touzen desu: Tensei Reijou no Mi wo Mamoru Isekai Life Jutsu
 
+![shougeki-wa-bougyo-shitsutsu-kaesu-no-ga-touzen-desu-tensei-reijou-no-mi-wo-mamoru-isekai-life-jutsu](https://cdn.myanimelist.net/images/manga/3/221300.jpg)
+
 -   **type**: manga
 -   **original-name**: 衝撃は防御しつつ返すのが当然です～転生令嬢の身を守る異世界ライフ術～
 -   **start-date**: 2018-05-18

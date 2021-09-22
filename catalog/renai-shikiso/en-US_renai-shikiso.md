@@ -1,5 +1,7 @@
 # Renai Shikiso
 
+![renai-shikiso](https://cdn.myanimelist.net/images/manga/3/131447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

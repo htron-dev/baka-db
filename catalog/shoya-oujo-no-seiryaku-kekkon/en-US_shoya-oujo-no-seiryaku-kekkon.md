@@ -1,5 +1,7 @@
 # Shoya: Oujo no Seiryaku Kekkon
 
+![shoya-oujo-no-seiryaku-kekkon](https://cdn.myanimelist.net/images/manga/2/193312.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

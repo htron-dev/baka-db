@@ -1,5 +1,7 @@
 # Dragon Zakura 2
 
+![dragon-zakura-2](https://cdn.myanimelist.net/images/manga/1/208226.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラゴン桜 2
 -   **start-date**: 2018-01-25

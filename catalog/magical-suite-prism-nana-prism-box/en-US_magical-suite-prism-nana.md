@@ -1,5 +1,7 @@
 # Magical Suite Prism Nana
 
+![magical-suite-prism-nana](https://cdn.myanimelist.net/images/anime/4/75803.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: まじかるすいーとプリズム・ナナ

@@ -1,5 +1,7 @@
 # Harapeko Usagi to Koisuru Ookami
 
+![harapeko-usagi-to-koisuru-ookami](https://cdn.myanimelist.net/images/manga/3/171572.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

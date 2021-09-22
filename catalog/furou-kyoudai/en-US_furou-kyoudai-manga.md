@@ -1,5 +1,7 @@
 # Furou Kyoudai
 
+![furou-kyoudai](https://cdn.myanimelist.net/images/manga/4/112443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

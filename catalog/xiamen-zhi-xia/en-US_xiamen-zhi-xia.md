@@ -1,5 +1,7 @@
 # Xiamen Zhi Xia
 
+![xiamen-zhi-xia](https://cdn.myanimelist.net/images/anime/1236/115355.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: 厦门之夏

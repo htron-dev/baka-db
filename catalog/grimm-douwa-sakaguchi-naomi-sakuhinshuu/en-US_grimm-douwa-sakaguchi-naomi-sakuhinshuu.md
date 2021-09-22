@@ -1,5 +1,7 @@
 # Grimm Douwa: Sakaguchi Naomi Sakuhinshuu
 
+![grimm-douwa-sakaguchi-naomi-sakuhinshuu](https://cdn.myanimelist.net/images/manga/1/137475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

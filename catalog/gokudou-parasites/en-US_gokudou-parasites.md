@@ -1,5 +1,7 @@
 # Gokudou Parasites
 
+![gokudou-parasites](https://cdn.myanimelist.net/images/manga/2/226465.jpg)
+
 -   **type**: manga
 -   **original-name**: 極道パラサイツ
 -   **start-date**: 2019-01-18

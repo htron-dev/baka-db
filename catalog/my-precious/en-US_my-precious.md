@@ -1,5 +1,7 @@
 # My Precious
 
+![my-precious](https://cdn.myanimelist.net/images/manga/3/2138.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

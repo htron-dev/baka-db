@@ -1,5 +1,7 @@
 # Koushaku no Nigedashita Hanayome
 
+![koushaku-no-nigedashita-hanayome](https://cdn.myanimelist.net/images/manga/3/229731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 侯爵の逃げ出した花嫁

@@ -1,5 +1,7 @@
 # Hello Kitty no Santa-san ga Futari Ita
 
+![hello-kitty-no-santa-san-ga-futari-ita](https://cdn.myanimelist.net/images/anime/9/70983.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのサンタさんが二人いた

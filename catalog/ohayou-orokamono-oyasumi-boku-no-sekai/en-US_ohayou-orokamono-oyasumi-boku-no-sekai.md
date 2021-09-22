@@ -1,5 +1,7 @@
 # Ohayou, Orokamono. Oyasumi, Boku no Sekai
 
+![ohayou-orokamono-oyasumi-boku-no-sekai](https://cdn.myanimelist.net/images/manga/1/195603.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: おはよう、愚か者。おやすみ、ボクの世界

@@ -1,5 +1,7 @@
 # Kigyou Senshi Arslan
 
+![kigyou-senshi-arslan](https://cdn.myanimelist.net/images/anime/11/77775.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 企業戦士アルスラーン

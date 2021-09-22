@@ -1,5 +1,7 @@
 # Yasashisa no Ura ni wa
 
+![yasashisa-no-ura-ni-wa](https://cdn.myanimelist.net/images/manga/3/238990.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

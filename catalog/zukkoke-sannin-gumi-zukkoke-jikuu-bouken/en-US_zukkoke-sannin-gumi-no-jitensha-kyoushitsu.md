@@ -1,5 +1,7 @@
 # Zukkoke Sannin-gumi no Jitensha Kyoushitsu
 
+![zukkoke-sannin-gumi-no-jitensha-kyoushitsu](https://cdn.myanimelist.net/images/anime/10/84692.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ッコケ三人組の自転車教室

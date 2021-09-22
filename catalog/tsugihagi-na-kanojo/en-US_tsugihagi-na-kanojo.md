@@ -1,5 +1,7 @@
 # Tsugihagi na Kanojo
 
+![tsugihagi-na-kanojo](https://cdn.myanimelist.net/images/manga/1/143141.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ツギハギな彼女

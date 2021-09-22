@@ -1,5 +1,7 @@
 # Isekai ni Kita Mitai dakedo Dou Sureba Ii no Darou
 
+![isekai-ni-kita-mitai-dakedo-dou-sureba-ii-no-darou](https://cdn.myanimelist.net/images/manga/3/210477.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界に来たみたいだけど如何すれば良いのだろう
 -   **start-date**: 2017-11-17

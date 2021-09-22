@@ -1,5 +1,7 @@
 # One More Age
 
+![one-more-age](https://cdn.myanimelist.net/images/manga/3/190454.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

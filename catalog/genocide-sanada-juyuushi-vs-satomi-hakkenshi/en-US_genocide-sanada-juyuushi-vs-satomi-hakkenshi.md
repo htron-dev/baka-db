@@ -1,5 +1,7 @@
 # Genocide: Sanada Juyuushi vs. Satomi Hakkenshi
 
+![genocide-sanada-juyuushi-vs-satomi-hakkenshi](https://cdn.myanimelist.net/images/manga/2/207069.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

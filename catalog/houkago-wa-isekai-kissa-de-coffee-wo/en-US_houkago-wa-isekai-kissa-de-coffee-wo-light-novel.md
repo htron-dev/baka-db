@@ -1,5 +1,7 @@
 # Houkago wa, Isekai Kissa de Coffee wo
 
+![houkago-wa-isekai-kissa-de-coffee-wo](https://cdn.myanimelist.net/images/manga/2/197854.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 放課後は、異世界喫茶でコーヒーを
 -   **start-date**: 2017-06-20

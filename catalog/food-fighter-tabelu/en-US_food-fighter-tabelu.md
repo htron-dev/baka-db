@@ -1,5 +1,7 @@
 # Food Fighter Tabelu
 
+![food-fighter-tabelu](https://cdn.myanimelist.net/images/manga/2/172739.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 102

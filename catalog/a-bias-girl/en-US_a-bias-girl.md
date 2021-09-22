@@ -1,5 +1,7 @@
 # A Bias Girl
 
+![a-bias-girl](https://cdn.myanimelist.net/images/manga/2/150659.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 15

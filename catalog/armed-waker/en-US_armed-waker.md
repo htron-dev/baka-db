@@ -1,5 +1,7 @@
 # Armed Waker
 
+![armed-waker](https://cdn.myanimelist.net/images/manga/1/162607.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アームドウェイカー
 -   **start-date**: 2015-09-15

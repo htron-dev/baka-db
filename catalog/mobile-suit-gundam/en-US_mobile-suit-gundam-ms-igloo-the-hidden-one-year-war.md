@@ -1,5 +1,7 @@
 # Mobile Suit Gundam MS IGLOO: The Hidden One Year War
 
+![mobile-suit-gundam-ms-igloo-the-hidden-one-year-war](https://cdn.myanimelist.net/images/anime/4/4730.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 機動戦士ガンダム MS IGLOO: 1 年戦争秘録

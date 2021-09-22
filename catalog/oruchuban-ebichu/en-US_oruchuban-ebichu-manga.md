@@ -1,5 +1,7 @@
 # Oruchuban Ebichu
 
+![oruchuban-ebichu](https://cdn.myanimelist.net/images/manga/3/10470.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: おるちゅばんエビちゅ

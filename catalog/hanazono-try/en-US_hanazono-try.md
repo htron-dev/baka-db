@@ -1,5 +1,7 @@
 # Hanazono Try
 
+![hanazono-try](https://cdn.myanimelist.net/images/manga/3/32325.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 花園ﾄﾗｲ

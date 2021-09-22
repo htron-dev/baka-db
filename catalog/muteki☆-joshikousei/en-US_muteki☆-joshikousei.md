@@ -1,5 +1,7 @@
 # Muteki☆Joshikousei
 
+![muteki☆-joshikousei](https://cdn.myanimelist.net/images/manga/2/7948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 無敵 ☆ 女子高生

@@ -1,5 +1,7 @@
 # Tetsu x Rika
 
+![tetsu-x-rika](https://cdn.myanimelist.net/images/manga/1/20123.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

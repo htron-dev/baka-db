@@ -1,5 +1,7 @@
 # Real Kiss
 
+![real-kiss](https://cdn.myanimelist.net/images/manga/2/20874.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

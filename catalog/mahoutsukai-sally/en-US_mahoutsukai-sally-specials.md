@@ -1,5 +1,7 @@
 # Mahoutsukai Sally Specials
 
+![mahoutsukai-sally-specials](https://cdn.myanimelist.net/images/anime/12/78636.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 魔法使いサリースペシャル 魔女になったよし子ちゃん

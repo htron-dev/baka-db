@@ -1,5 +1,7 @@
 # Tsubasa no Hime to Shakuten no Ryuukurai/Tsunagari no Sora
 
+![tsubasa-no-hime-to-shakuten-no-ryuukurai-tsunagari-no-sora](https://cdn.myanimelist.net/images/manga/3/161671.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # BiBi Brother
 
+![bi-bi-brother](https://cdn.myanimelist.net/images/manga/3/165387.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

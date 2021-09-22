@@ -1,5 +1,7 @@
 # Arthur Pyuty wa Yoru no Majo
 
+![arthur-pyuty-wa-yoru-no-majo](https://cdn.myanimelist.net/images/manga/3/174865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

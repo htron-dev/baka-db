@@ -1,5 +1,7 @@
 # Gal☆Cleaning!
 
+![gal☆-cleaning](https://cdn.myanimelist.net/images/manga/1/210487.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

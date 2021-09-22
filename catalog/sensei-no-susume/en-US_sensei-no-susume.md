@@ -1,5 +1,7 @@
 # Sensei no Susume
 
+![sensei-no-susume](https://cdn.myanimelist.net/images/manga/2/4303.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 先生のススメ

@@ -1,5 +1,7 @@
 # Spotted Flower
 
+![spotted-flower](https://cdn.myanimelist.net/images/manga/2/119485.jpg)
+
 -   **type**: manga
 -   **original-name**: Spotted Flower
 -   **start-date**: 2010-10-30

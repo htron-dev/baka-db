@@ -1,5 +1,7 @@
 # Wake Ari
 
+![wake-ari](https://cdn.myanimelist.net/images/manga/1/75753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

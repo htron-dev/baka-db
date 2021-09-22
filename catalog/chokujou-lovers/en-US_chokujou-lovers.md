@@ -1,5 +1,7 @@
 # Chokujou Lovers
 
+![chokujou-lovers](https://cdn.myanimelist.net/images/manga/2/15768.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

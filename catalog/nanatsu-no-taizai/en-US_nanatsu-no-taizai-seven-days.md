@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Seven Days
 
+![nanatsu-no-taizai-seven-days](https://cdn.myanimelist.net/images/manga/2/189153.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

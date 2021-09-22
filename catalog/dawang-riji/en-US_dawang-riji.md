@@ -1,5 +1,7 @@
 # Dawang Riji
 
+![dawang-riji](https://cdn.myanimelist.net/images/anime/1487/115235.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 大王日记
 -   **rating**: PG - Children

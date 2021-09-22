@@ -1,5 +1,7 @@
 # 2-shuukan no Aventure
 
+![2-shuukan-no-aventure](https://cdn.myanimelist.net/images/manga/2/180176.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

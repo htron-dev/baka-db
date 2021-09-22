@@ -1,5 +1,7 @@
 # Zassou Onna
 
+![zassou-onna](https://cdn.myanimelist.net/images/manga/2/108717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 雑草女

@@ -1,5 +1,7 @@
 # Shinmai 'FUREAI' Net. Concept Movie
 
+![shinmai-fureai-net-concept-movie](https://cdn.myanimelist.net/images/anime/5/86952.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 信毎ふれあいネット Concept Movie

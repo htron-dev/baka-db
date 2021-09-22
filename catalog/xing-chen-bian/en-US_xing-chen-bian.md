@@ -1,5 +1,7 @@
 # Xing Chen Bian
 
+![xing-chen-bian](https://cdn.myanimelist.net/images/anime/1445/95414.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 星辰变

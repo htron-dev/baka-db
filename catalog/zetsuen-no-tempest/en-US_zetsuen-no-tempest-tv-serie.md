@@ -1,5 +1,7 @@
 # Zetsuen no Tempest
 
+![zetsuen-no-tempest](https://cdn.myanimelist.net/images/anime/7/42453.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 絶園のテンペスト

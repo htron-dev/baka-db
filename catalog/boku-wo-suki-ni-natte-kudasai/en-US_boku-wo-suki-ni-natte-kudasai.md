@@ -1,5 +1,7 @@
 # Boku wo Suki ni Natte Kudasai
 
+![boku-wo-suki-ni-natte-kudasai](https://cdn.myanimelist.net/images/manga/1/246025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

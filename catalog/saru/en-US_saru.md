@@ -1,5 +1,7 @@
 # Saru
 
+![saru](https://cdn.myanimelist.net/images/manga/3/40234.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: SARU

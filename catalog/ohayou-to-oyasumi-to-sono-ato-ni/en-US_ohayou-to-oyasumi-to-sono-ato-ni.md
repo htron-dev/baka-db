@@ -1,5 +1,7 @@
 # Ohayou to Oyasumi to Sono Ato ni
 
+![ohayou-to-oyasumi-to-sono-ato-ni](https://cdn.myanimelist.net/images/manga/1/181818.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: おはようとおやすみとそのあとに

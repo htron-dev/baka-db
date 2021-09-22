@@ -1,5 +1,7 @@
 # Himitsu na Kimi ni Koi wo Shita
 
+![himitsu-na-kimi-ni-koi-wo-shita](https://cdn.myanimelist.net/images/manga/2/200547.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

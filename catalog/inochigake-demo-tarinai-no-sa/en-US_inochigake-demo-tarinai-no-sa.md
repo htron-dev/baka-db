@@ -1,5 +1,7 @@
 # Inochigake demo Tarinai no sa
 
+![inochigake-demo-tarinai-no-sa](https://cdn.myanimelist.net/images/manga/1/239262.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kara no Kyoukai: Manner Movies
 
+![kara-no-kyoukai-manner-movies](https://cdn.myanimelist.net/images/anime/4/78704.jpg)
+
 -   **type**: movie
 -   **episodes**: 7
 -   **original-name**: 劇場版 空の境界 劇場鑑賞マナー CM

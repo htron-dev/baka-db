@@ -1,5 +1,7 @@
 # Kerberos x Tachiguishi: Haraharadokei no Shoujo
 
+![kerberos-x-tachiguishi-haraharadokei-no-shoujo](https://cdn.myanimelist.net/images/manga/1/46329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

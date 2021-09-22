@@ -1,5 +1,7 @@
 # Bar Lemon Heart
 
+![bar-lemon-heart](https://cdn.myanimelist.net/images/manga/3/176112.jpg)
+
 -   **type**: manga
 -   **original-name**: BAR レモン・ハート
 

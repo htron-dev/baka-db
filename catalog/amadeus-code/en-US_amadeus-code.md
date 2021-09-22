@@ -1,5 +1,7 @@
 # Amadeus Code
 
+![amadeus-code](https://cdn.myanimelist.net/images/manga/1/147845.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: アマデウスコード

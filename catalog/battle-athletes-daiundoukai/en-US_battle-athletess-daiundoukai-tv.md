@@ -1,5 +1,7 @@
 # Battle Athletess Daiundoukai (TV)
 
+![battle-athletess-daiundoukai-tv](https://cdn.myanimelist.net/images/anime/1203/117431.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: バトルアスリーテス大運動会

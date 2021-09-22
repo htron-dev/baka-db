@@ -1,5 +1,7 @@
 # Sakaime no Sumika
 
+![sakaime-no-sumika](https://cdn.myanimelist.net/images/manga/1/87391.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Juliet no Baka
 
+![juliet-no-baka](https://cdn.myanimelist.net/images/manga/1/208588.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

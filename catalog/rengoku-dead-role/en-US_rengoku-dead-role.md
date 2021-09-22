@@ -1,5 +1,7 @@
 # Rengoku Dead Role
 
+![rengoku-dead-role](https://cdn.myanimelist.net/images/manga/2/178626.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Tadaima Shuugyouchuu
 
+![tadaima-shuugyouchuu](https://cdn.myanimelist.net/images/manga/2/138765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

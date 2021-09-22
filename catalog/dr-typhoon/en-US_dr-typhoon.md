@@ -1,5 +1,7 @@
 # Dr. Typhoon
 
+![dr-typhoon](https://cdn.myanimelist.net/images/anime/11/46205.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Dr.(ドク)タイフーン

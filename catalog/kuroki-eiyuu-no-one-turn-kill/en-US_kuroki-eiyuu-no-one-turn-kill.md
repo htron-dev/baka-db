@@ -1,5 +1,7 @@
 # Kuroki Eiyuu no One Turn Kill!
 
+![kuroki-eiyuu-no-one-turn-kill](https://cdn.myanimelist.net/images/manga/2/176918.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 黒き英雄の一撃無双〈ワンターンキル!〉
 -   **start-date**: 2013-10-01

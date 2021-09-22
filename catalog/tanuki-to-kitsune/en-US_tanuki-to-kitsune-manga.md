@@ -1,5 +1,7 @@
 # Tanuki to Kitsune
 
+![tanuki-to-kitsune](https://cdn.myanimelist.net/images/manga/3/186116.jpg)
+
 -   **type**: manga
 -   **original-name**: タヌキとキツネ
 -   **start-date**: 2016-11-15

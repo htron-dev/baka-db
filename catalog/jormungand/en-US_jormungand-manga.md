@@ -1,5 +1,7 @@
 # Jormungand
 
+![jormungand](https://cdn.myanimelist.net/images/manga/2/177020.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 70

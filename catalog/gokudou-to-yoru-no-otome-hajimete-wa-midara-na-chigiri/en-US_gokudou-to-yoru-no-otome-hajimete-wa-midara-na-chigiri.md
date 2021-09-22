@@ -1,5 +1,7 @@
 # Gokudou to Yoru no Otome: Hajimete wa Midara na Chigiri
 
+![gokudou-to-yoru-no-otome-hajimete-wa-midara-na-chigiri](https://cdn.myanimelist.net/images/manga/2/192625.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

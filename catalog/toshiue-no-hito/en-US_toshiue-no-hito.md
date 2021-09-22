@@ -1,5 +1,7 @@
 # Toshiue no Hito.
 
+![toshiue-no-hito](https://cdn.myanimelist.net/images/manga/2/178237.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

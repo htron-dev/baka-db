@@ -1,5 +1,7 @@
 # Monogatari no Naka no Hito
 
+![monogatari-no-naka-no-hito](https://cdn.myanimelist.net/images/manga/2/130959.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 物語の中の人
 -   **start-date**: 2013-07-25

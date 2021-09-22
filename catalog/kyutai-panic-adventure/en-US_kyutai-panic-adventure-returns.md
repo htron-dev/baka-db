@@ -1,5 +1,7 @@
 # Kyutai Panic Adventure Returns!
 
+![kyutai-panic-adventure-returns](https://cdn.myanimelist.net/images/anime/3/62121.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 球体パニックアドベンチャーリターンズ!!!

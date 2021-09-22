@@ -1,5 +1,7 @@
 # Otoko no Ko to Nurechau!? Kagai Jugyou
 
+![otoko-no-ko-to-nurechau-kagai-jugyou](https://cdn.myanimelist.net/images/manga/1/136337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

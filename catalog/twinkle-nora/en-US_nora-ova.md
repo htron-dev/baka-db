@@ -1,5 +1,7 @@
 # Nora
 
+![nora](https://cdn.myanimelist.net/images/anime/1825/92017.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ノーラ

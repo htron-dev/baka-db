@@ -1,5 +1,7 @@
 # Isekai Hoikuen wo Hirakimashita: Fusei Skill de Saikyou Loli Seirei-tachi wa Deredere desu
 
+![isekai-hoikuen-wo-hirakimashita-fusei-skill-de-saikyou-loli-seirei-tachi-wa-deredere-desu](https://cdn.myanimelist.net/images/manga/1/241374.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 103

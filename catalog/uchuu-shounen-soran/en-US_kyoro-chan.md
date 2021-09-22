@@ -1,5 +1,7 @@
 # Kyoro-chan
 
+![kyoro-chan](https://cdn.myanimelist.net/images/anime/7/66747.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 91
 -   **original-name**: キョロちゃん

@@ -1,5 +1,7 @@
 # Ookami Ouji to Toraware no Usagi
 
+![ookami-ouji-to-toraware-no-usagi](https://cdn.myanimelist.net/images/manga/3/194842.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

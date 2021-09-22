@@ -1,5 +1,7 @@
 # Renai-gokko
 
+![renai-gokko](https://cdn.myanimelist.net/images/manga/2/152046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

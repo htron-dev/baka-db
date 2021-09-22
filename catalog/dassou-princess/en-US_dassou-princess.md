@@ -1,5 +1,7 @@
 # Dassou Princess
 
+![dassou-princess](https://cdn.myanimelist.net/images/manga/1/181316.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 脱走プリンセス

@@ -1,5 +1,7 @@
 # Ushiro: Fukigen na Shinigami.
 
+![ushiro-fukigen-na-shinigami](https://cdn.myanimelist.net/images/manga/3/196562.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: うしろ ふきげんな死神。

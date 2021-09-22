@@ -1,5 +1,7 @@
 # Poncho.
 
+![poncho](https://cdn.myanimelist.net/images/manga/1/95731.jpg)
+
 -   **type**: manga
 -   **original-name**: ポンチョ。
 

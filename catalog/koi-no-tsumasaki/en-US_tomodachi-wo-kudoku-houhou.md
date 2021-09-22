@@ -1,5 +1,7 @@
 # Tomodachi wo Kudoku Houhou
 
+![tomodachi-wo-kudoku-houhou](https://cdn.myanimelist.net/images/manga/3/248062.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

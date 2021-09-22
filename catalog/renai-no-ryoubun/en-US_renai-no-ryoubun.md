@@ -1,5 +1,7 @@
 # Renai no Ryoubun
 
+![renai-no-ryoubun](https://cdn.myanimelist.net/images/manga/3/6026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: レンアイの領分

@@ -1,5 +1,7 @@
 # Honey Come Chatka
 
+![honey-come-chatka](https://cdn.myanimelist.net/images/manga/2/205718.jpg)
+
 -   **type**: manga
 -   **original-name**: ハニカムチャッカ
 -   **start-date**: 2016-09-01

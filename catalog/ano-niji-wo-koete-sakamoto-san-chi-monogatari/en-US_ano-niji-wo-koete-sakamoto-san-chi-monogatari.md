@@ -1,5 +1,7 @@
 # Ano Niji wo Koete: Sakamoto-san Chi Monogatari
 
+![ano-niji-wo-koete-sakamoto-san-chi-monogatari](https://cdn.myanimelist.net/images/manga/3/13395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あの虹を越えて ~坂本さんち物語

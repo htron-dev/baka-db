@@ -1,5 +1,7 @@
 # Stigmata: Seikon Sousa
 
+![stigmata-seikon-sousa](https://cdn.myanimelist.net/images/manga/1/152592.jpg)
+
 -   **type**: manga
 -   **original-name**: スティグマタ ─ 聖痕捜査 ─
 -   **start-date**: 2014-04-23

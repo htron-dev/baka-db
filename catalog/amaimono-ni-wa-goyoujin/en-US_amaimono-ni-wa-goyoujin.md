@@ -1,5 +1,7 @@
 # Amaimono ni wa Goyoujin!
 
+![amaimono-ni-wa-goyoujin](https://cdn.myanimelist.net/images/manga/1/59109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

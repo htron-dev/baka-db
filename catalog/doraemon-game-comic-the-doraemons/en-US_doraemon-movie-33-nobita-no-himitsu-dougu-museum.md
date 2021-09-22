@@ -1,5 +1,7 @@
 # Doraemon Movie 33: Nobita no Himitsu Dougu Museum
 
+![doraemon-movie-33-nobita-no-himitsu-dougu-museum](https://cdn.myanimelist.net/images/anime/4/72438.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太のひみつ道具博物館[ミュージアム]
@@ -12,7 +14,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   shounen
 
 ## Sinopse

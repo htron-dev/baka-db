@@ -1,5 +1,7 @@
 # Prism
 
+![prism](https://cdn.myanimelist.net/images/manga/5/65033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

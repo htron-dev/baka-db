@@ -1,5 +1,7 @@
 # Sweet☆Mission
 
+![sweet☆-mission](https://cdn.myanimelist.net/images/manga/2/180922.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 37

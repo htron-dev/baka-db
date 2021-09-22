@@ -1,5 +1,7 @@
 # Fukumoto Nobuyuki Jisen Tanpenshuu
 
+![fukumoto-nobuyuki-jisen-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/61753.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

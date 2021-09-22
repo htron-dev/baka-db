@@ -1,5 +1,7 @@
 # Mori no Kaori x Kamiusagi Rope
 
+![mori-no-kaori-x-kamiusagi-rope](https://cdn.myanimelist.net/images/anime/12/85029.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 森の薫り × 紙兎ロペ

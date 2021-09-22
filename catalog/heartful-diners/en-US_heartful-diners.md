@@ -1,5 +1,7 @@
 # Heartful Diners
 
+![heartful-diners](https://cdn.myanimelist.net/images/manga/2/19725.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

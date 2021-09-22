@@ -1,5 +1,7 @@
 # Marry Me!
 
+![marry-me](https://cdn.myanimelist.net/images/manga/2/186497.jpg)
+
 -   **type**: manga
 -   **original-name**: マリーミー！
 -   **start-date**: 2015-07-26

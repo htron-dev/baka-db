@@ -1,5 +1,7 @@
 # Hikari to Mizu no Daphne
 
+![hikari-to-mizu-no-daphne](https://cdn.myanimelist.net/images/anime/7/49131.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 光と水のダフネ

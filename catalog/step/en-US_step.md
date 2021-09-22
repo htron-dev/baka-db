@@ -1,5 +1,7 @@
 # Step!
 
+![step](https://cdn.myanimelist.net/images/manga/2/24132.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 2007-06-30

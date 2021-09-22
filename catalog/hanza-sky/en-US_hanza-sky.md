@@ -1,5 +1,7 @@
 # Hanza Sky
 
+![hanza-sky](https://cdn.myanimelist.net/images/manga/2/148803.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 115

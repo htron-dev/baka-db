@@ -1,5 +1,7 @@
 # Masca: The Tale of the Great Mage of Hessed
 
+![masca-the-tale-of-the-great-mage-of-hessed](https://cdn.myanimelist.net/images/manga/3/19956.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **chapters**: 77

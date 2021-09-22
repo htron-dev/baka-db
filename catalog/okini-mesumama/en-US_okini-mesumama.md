@@ -1,5 +1,7 @@
 # Okini Mesumama
 
+![okini-mesumama](https://cdn.myanimelist.net/images/manga/3/29221.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: お気に召すまま

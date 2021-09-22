@@ -1,5 +1,7 @@
 # Blue Gale
 
+![blue-gale](https://cdn.myanimelist.net/images/manga/1/119449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ブルーゲイル 伊藤明弘版権物作品集

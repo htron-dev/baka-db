@@ -1,5 +1,7 @@
 # Nana-chan wa Ore no Mono
 
+![nana-chan-wa-ore-no-mono](https://cdn.myanimelist.net/images/manga/1/85435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 菜々ちゃんは俺のもの

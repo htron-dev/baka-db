@@ -1,5 +1,7 @@
 # Fushigi Pot
 
+![fushigi-pot](https://cdn.myanimelist.net/images/manga/2/236166.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

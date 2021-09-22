@@ -1,5 +1,7 @@
 # Uso to Kiss wa Houkago ni
 
+![uso-to-kiss-wa-houkago-ni](https://cdn.myanimelist.net/images/manga/2/243919.jpg)
+
 -   **type**: manga
 -   **original-name**: 嘘とキスは放課後に
 -   **start-date**: 2021-03-25

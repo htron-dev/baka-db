@@ -1,5 +1,7 @@
 # Hajime ni Oboeru Koutsuu Anzen
 
+![hajime-ni-oboeru-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/2/84777.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はじめにおぼえる交通安全

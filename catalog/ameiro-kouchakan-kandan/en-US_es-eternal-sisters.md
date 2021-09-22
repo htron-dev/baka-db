@@ -1,5 +1,7 @@
 # [es] - Eternal Sisters
 
+![es-eternal-sisters](https://cdn.myanimelist.net/images/manga/1/13459.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

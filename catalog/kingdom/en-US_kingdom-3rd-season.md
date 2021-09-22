@@ -1,5 +1,7 @@
 # Kingdom 3rd Season
 
+![kingdom-3rd-season](https://cdn.myanimelist.net/images/anime/1443/111830.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: キングダム 第 3 シリーズ
@@ -29,4 +31,4 @@ Meanwhile Li Mu—an unparalleled strategist and the newly appointed prime minis
 -   [Official Site](https://kingdom-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15259)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22931)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Kingdom_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_%28manga%29#Anime)

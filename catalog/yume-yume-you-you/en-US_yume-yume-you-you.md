@@ -1,5 +1,7 @@
 # Yume Yume \* You You
 
+![yume-yume-you-you](https://cdn.myanimelist.net/images/manga/1/1997.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

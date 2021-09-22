@@ -1,5 +1,7 @@
 # Ling Jian Zun 3rd Season
 
+![ling-jian-zun-3rd-season](https://cdn.myanimelist.net/images/anime/1272/105915.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 灵剑尊

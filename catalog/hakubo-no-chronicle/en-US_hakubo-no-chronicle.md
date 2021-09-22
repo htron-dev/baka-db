@@ -1,5 +1,7 @@
 # Hakubo no Chronicle
 
+![hakubo-no-chronicle](https://cdn.myanimelist.net/images/manga/2/166214.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 122

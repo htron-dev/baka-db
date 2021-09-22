@@ -1,5 +1,7 @@
 # Sensou ga Owatta Natsu ni 1945 Karafuto
 
+![sensou-ga-owatta-natsu-ni-1945-karafuto](https://cdn.myanimelist.net/images/anime/8/64095.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 戦争が終わった夏に 1945・樺太 [からふと]

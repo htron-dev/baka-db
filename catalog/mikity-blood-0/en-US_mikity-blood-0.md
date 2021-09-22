@@ -1,5 +1,7 @@
 # Mikity Blood 0
 
+![mikity-blood-0](https://cdn.myanimelist.net/images/manga/1/208579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

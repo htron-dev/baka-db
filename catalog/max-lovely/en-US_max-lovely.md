@@ -1,5 +1,7 @@
 # MAX Lovely!
 
+![max-lovely](https://cdn.myanimelist.net/images/manga/3/22695.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

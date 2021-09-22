@@ -1,5 +1,7 @@
 # Nightmare Catalog
 
+![nightmare-catalog](https://cdn.myanimelist.net/images/manga/2/143527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

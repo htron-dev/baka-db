@@ -1,5 +1,7 @@
 # Overlord: Ple Ple Pleiades
 
+![overlord-ple-ple-pleiades](https://cdn.myanimelist.net/images/anime/1849/100694.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: オーバーロード　ぷれぷれぷれあです
@@ -23,4 +25,4 @@ Specials bundled with the Blu-ray and DVD volumes of Overlord featuring simplifi
 -   [My Anime list](https://myanimelist.net/anime/31138/Overlord__Ple_Ple_Pleiades)
 -   [Official Site](http://overlord-anime.com/products/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10816)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Overlord_(novel_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Overlord_%28novel_series%29)

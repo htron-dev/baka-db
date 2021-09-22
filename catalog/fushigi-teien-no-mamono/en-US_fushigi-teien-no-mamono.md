@@ -1,5 +1,7 @@
 # Fushigi Teien no Mamono
 
+![fushigi-teien-no-mamono](https://cdn.myanimelist.net/images/manga/2/96865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

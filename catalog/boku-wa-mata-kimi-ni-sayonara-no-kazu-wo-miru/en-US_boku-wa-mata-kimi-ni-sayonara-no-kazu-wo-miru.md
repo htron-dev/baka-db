@@ -1,5 +1,7 @@
 # Boku wa Mata, Kimi ni Sayonara no Kazu wo Miru
 
+![boku-wa-mata-kimi-ni-sayonara-no-kazu-wo-miru](https://cdn.myanimelist.net/images/manga/3/236165.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

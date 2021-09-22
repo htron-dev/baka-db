@@ -1,5 +1,7 @@
 # Oni no Youna Love Comedy
 
+![oni-no-youna-love-comedy](https://cdn.myanimelist.net/images/manga/1/217458.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

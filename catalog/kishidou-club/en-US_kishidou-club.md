@@ -1,5 +1,7 @@
 # Kishidou Club
 
+![kishidou-club](https://cdn.myanimelist.net/images/manga/3/62029.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

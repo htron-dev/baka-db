@@ -1,5 +1,7 @@
 # Danjo Gyakuten shita Kekka, Sekai wa Choroin de Afureteimasu
 
+![danjo-gyakuten-shita-kekka-sekai-wa-choroin-de-afureteimasu](https://cdn.myanimelist.net/images/manga/1/175496.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

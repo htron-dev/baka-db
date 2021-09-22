@@ -1,5 +1,7 @@
 # Tindharia no Tane
 
+![tindharia-no-tane](https://cdn.myanimelist.net/images/manga/3/156668.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Yume no Atosaki
 
+![yume-no-atosaki](https://cdn.myanimelist.net/images/manga/2/61659.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

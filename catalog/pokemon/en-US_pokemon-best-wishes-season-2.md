@@ -1,5 +1,7 @@
 # Pokemon Best Wishes! Season 2
 
+![pokemon-best-wishes-season-2](https://cdn.myanimelist.net/images/anime/1227/113635.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ポケットモンスター ベストウイッシュ シーズン 2

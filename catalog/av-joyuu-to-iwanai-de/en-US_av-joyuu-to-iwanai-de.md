@@ -1,5 +1,7 @@
 # AV Joyuu to Iwanai de
 
+![av-joyuu-to-iwanai-de](https://cdn.myanimelist.net/images/manga/2/199074.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: AV 女優と言わないで

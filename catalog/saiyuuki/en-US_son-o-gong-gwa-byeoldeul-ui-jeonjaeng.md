@@ -1,5 +1,7 @@
 # Son O-gong gwa Byeoldeul-ui Jeonjaeng
 
+![son-o-gong-gwa-byeoldeul-ui-jeonjaeng](https://cdn.myanimelist.net/images/anime/5/45154.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 손오공과 별들의 전쟁

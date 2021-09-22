@@ -1,5 +1,7 @@
 # Bada-ui Jeonseol Jangbogo
 
+![bada-ui-jeonseol-jangbogo](https://cdn.myanimelist.net/images/anime/12/28114.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 바다의 전설 장보고

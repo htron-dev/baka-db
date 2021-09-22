@@ -1,5 +1,7 @@
 # Itsudemo Otenki Kibun
 
+![itsudemo-otenki-kibun](https://cdn.myanimelist.net/images/manga/1/11224.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: いつでもお天気気分

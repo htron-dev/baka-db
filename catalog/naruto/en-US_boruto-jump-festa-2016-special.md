@@ -1,5 +1,7 @@
 # Boruto: Jump Festa 2016 Special
 
+![boruto-jump-festa-2016-special](https://cdn.myanimelist.net/images/anime/10/84622.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: BORUTO ジャンプフェスタ 2016

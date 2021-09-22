@@ -1,5 +1,7 @@
 # Ansatsu Kyoushitsu: Deai no Jikan
 
+![ansatsu-kyoushitsu-deai-no-jikan](https://cdn.myanimelist.net/images/anime/12/68547.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 暗殺教室 episode:0 出会いの時間

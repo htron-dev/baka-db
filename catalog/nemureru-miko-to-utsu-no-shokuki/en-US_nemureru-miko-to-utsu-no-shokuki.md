@@ -1,5 +1,7 @@
 # Nemureru Miko to Utsu no Shokuki
 
+![nemureru-miko-to-utsu-no-shokuki](https://cdn.myanimelist.net/images/manga/3/196690.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 眠れる巫女と伝染の蝕鬼

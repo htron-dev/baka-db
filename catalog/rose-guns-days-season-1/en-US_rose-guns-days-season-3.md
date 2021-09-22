@@ -1,5 +1,7 @@
 # Rose Guns Days: Season 3
 
+![rose-guns-days-season-3](https://cdn.myanimelist.net/images/manga/1/125883.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # M to N no Shouzou
 
+![m-to-n-no-shouzou](https://cdn.myanimelist.net/images/manga/1/180610.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

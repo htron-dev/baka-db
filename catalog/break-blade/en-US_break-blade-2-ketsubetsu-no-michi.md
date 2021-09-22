@@ -1,5 +1,7 @@
 # Break Blade 2: Ketsubetsu no Michi
 
+![break-blade-2-ketsubetsu-no-michi](https://cdn.myanimelist.net/images/anime/2/68081.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブレイクブレイド 訣別ノ路

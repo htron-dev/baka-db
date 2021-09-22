@@ -1,5 +1,7 @@
 # Menghuan Shuyuan
 
+![menghuan-shuyuan](https://cdn.myanimelist.net/images/anime/1255/108464.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: 梦幻书院

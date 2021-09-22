@@ -1,5 +1,7 @@
 # Soshage Kanojo
 
+![soshage-kanojo](https://cdn.myanimelist.net/images/manga/2/239714.jpg)
+
 -   **type**: manga
 -   **original-name**: ソシャゲ彼女
 -   **start-date**: 2019-08-16

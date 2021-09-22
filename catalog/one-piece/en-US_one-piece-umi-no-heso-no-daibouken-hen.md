@@ -1,5 +1,7 @@
 # One Piece: Umi no Heso no Daibouken-hen
 
+![one-piece-umi-no-heso-no-daibouken-hen](https://cdn.myanimelist.net/images/anime/6/20923.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース ルフィ落下!秘境・海のヘソの大冒険

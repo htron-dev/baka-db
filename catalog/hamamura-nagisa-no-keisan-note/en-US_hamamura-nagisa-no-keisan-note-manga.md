@@ -1,5 +1,7 @@
 # Hamamura Nagisa no Keisan Note
 
+![hamamura-nagisa-no-keisan-note](https://cdn.myanimelist.net/images/manga/1/118455.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 51

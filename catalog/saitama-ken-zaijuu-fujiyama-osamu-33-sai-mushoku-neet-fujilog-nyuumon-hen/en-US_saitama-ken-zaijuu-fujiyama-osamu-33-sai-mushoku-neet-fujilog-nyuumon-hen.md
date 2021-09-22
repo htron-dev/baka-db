@@ -1,5 +1,7 @@
 # Saitama-ken Zaijuu, Fujiyama Osamu, 33-sai, Mushoku (NEET).: Fujilog Nyuumon-hen
 
+![saitama-ken-zaijuu-fujiyama-osamu-33-sai-mushoku-neet-fujilog-nyuumon-hen](https://cdn.myanimelist.net/images/anime/13/81516.jpg)
+
 -   **type**: ona
 -   **episodes**: 25
 -   **original-name**: 埼玉県在住、フジヤマオサム、33 歳、無職(ニート)。～フジログ入門編～

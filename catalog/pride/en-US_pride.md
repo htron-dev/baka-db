@@ -1,5 +1,7 @@
 # Pride
 
+![pride](https://cdn.myanimelist.net/images/manga/2/190144.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

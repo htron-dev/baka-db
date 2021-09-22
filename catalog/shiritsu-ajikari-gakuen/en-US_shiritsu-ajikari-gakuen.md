@@ -1,5 +1,7 @@
 # Shiritsu Ajikari Gakuen
 
+![shiritsu-ajikari-gakuen](https://cdn.myanimelist.net/images/manga/1/28471.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 私立味狩り学園

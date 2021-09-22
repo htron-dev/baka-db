@@ -1,5 +1,7 @@
 # Gyakusatsu Happy End
 
+![gyakusatsu-happy-end](https://cdn.myanimelist.net/images/manga/3/235356.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 55

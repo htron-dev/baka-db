@@ -1,5 +1,7 @@
 # Ebigawa-chou no Youkai Café
 
+![ebigawa-chou-no-youkai-cafe](https://cdn.myanimelist.net/images/manga/3/203263.jpg)
+
 -   **type**: manga
 -   **original-name**: えびがわ町の妖怪カフェ
 -   **start-date**: 2016-07-01

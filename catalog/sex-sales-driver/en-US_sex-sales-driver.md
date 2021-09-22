@@ -1,5 +1,7 @@
 # Sex Sales Driver
 
+![sex-sales-driver](https://cdn.myanimelist.net/images/manga/3/245243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

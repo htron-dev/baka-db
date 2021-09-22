@@ -1,5 +1,7 @@
 # Star Ocean: The Far Side of Time
 
+![star-ocean-the-far-side-of-time](https://cdn.myanimelist.net/images/manga/3/10530.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Mahou Shoujo-tai Arusu the Adventure
 
+![mahou-shoujo-tai-arusu-the-adventure](https://cdn.myanimelist.net/images/anime/10/57289.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 魔法少女隊アルス the Adventure

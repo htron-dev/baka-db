@@ -1,5 +1,7 @@
 # Ultra Kaijuu Gijinka Keikaku feat. POP Comic Code
 
+![ultra-kaijuu-gijinka-keikaku-feat-pop-comic-code](https://cdn.myanimelist.net/images/manga/1/196822.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 121

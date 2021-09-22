@@ -1,5 +1,7 @@
 # Tsubaki-sou 101-goushitsu
 
+![tsubaki-sou-101-goushitsu](https://cdn.myanimelist.net/images/manga/1/161631.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

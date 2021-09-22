@@ -1,5 +1,7 @@
 # Kamisama no Ude no Naka
 
+![kamisama-no-ude-no-naka](https://cdn.myanimelist.net/images/manga/5/210114.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

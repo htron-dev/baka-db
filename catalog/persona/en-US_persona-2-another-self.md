@@ -1,5 +1,7 @@
 # Persona 2: Another Self
 
+![persona-2-another-self](https://cdn.myanimelist.net/images/anime/7/76408.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ペルソナ 2 -Another Self-

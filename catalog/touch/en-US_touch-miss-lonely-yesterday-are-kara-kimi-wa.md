@@ -1,5 +1,7 @@
 # Touch: Miss Lonely Yesterday - Are kara, Kimi wa...
 
+![touch-miss-lonely-yesterday-are-kara-kimi-wa](https://cdn.myanimelist.net/images/anime/1300/96421.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: タッチ Miss Lonely Yesterday あれから, 君は...

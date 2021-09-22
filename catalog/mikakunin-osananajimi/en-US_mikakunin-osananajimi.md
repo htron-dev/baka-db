@@ -1,5 +1,7 @@
 # Mikakunin Osananajimi
 
+![mikakunin-osananajimi](https://cdn.myanimelist.net/images/manga/3/186636.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

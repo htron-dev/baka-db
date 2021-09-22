@@ -1,5 +1,7 @@
 # Sanzen no Yoru no Yokubou: Erotic Arabian
 
+![sanzen-no-yoru-no-yokubou-erotic-arabian](https://cdn.myanimelist.net/images/manga/2/182921.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

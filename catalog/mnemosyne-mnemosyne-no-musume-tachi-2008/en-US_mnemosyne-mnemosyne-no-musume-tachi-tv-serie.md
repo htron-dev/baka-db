@@ -1,5 +1,7 @@
 # Mnemosyne: Mnemosyne no Musume-tachi
 
+![mnemosyne-mnemosyne-no-musume-tachi](https://cdn.myanimelist.net/images/anime/10/10918.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: Mnemosyne－ムネモシュネの娘たち－

@@ -1,5 +1,7 @@
 # Bulsajo Robot Phoenix King
 
+![bulsajo-robot-phoenix-king](https://cdn.myanimelist.net/images/anime/6/45126.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 불사조 로보트 피닉스 킹

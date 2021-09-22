@@ -1,5 +1,7 @@
 # Shaman King Faust 8: Eien no Eliza
 
+![shaman-king-faust-8-eien-no-eliza](https://cdn.myanimelist.net/images/manga/2/248172.jpg)
+
 -   **type**: manga
 -   **original-name**: SHAMAN KING FAUST8 永遠のエリザ
 -   **start-date**: 2021-07-10

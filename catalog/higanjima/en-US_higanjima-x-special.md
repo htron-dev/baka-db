@@ -1,5 +1,7 @@
 # Higanjima X Special
 
+![higanjima-x-special](https://cdn.myanimelist.net/images/anime/1619/105110.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 『彼岸島 X』特別編【3 分でわかる彼岸島】

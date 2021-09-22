@@ -1,5 +1,7 @@
 # Hannin ga Wakarimasun.
 
+![hannin-ga-wakarimasun](https://cdn.myanimelist.net/images/manga/3/160546.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 犯人がわかりますん。

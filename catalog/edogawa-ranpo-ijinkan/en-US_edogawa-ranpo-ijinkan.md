@@ -1,5 +1,7 @@
 # Edogawa Ranpo Ijinkan
 
+![edogawa-ranpo-ijinkan](https://cdn.myanimelist.net/images/manga/2/202864.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 91

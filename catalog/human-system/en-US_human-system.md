@@ -1,5 +1,7 @@
 # Human System
 
+![human-system](https://cdn.myanimelist.net/images/manga/3/205574.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

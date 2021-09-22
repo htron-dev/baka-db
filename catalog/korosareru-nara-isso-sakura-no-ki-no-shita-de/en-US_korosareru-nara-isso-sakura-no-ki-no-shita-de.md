@@ -1,5 +1,7 @@
 # Korosareru nara, Isso Sakura no Ki no Shita de
 
+![korosareru-nara-isso-sakura-no-ki-no-shita-de](https://cdn.myanimelist.net/images/manga/2/45863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

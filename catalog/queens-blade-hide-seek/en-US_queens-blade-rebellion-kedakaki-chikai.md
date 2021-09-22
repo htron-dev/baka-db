@@ -1,5 +1,7 @@
 # Queen's Blade Rebellion: Kedakaki Chikai
 
+![queens-blade-rebellion-kedakaki-chikai](https://cdn.myanimelist.net/images/manga/1/161695.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

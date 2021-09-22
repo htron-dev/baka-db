@@ -1,5 +1,7 @@
 # Maou Belphegor
 
+![maou-belphegor](https://cdn.myanimelist.net/images/manga/2/171678.jpg)
+
 -   **type**: manga
 -   **chapters**: 31
 -   **original-name**: 魔王ベルフェゴール

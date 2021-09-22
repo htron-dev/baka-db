@@ -1,5 +1,7 @@
 # Double Circle
 
+![double-circle](https://cdn.myanimelist.net/images/anime/6/56319.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: ダブルサークル

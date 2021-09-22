@@ -1,5 +1,7 @@
 # Hotel R.I.P.
 
+![hotel-r-i-p](https://cdn.myanimelist.net/images/manga/3/199473.jpg)
+
 -   **type**: manga
 -   **original-name**: HOTEL R.I.P.
 -   **start-date**: 2016-04-26

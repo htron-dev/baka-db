@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Iron-Blooded Orphans - Urðr Hunt
 
+![mobile-suit-gundam-iron-blooded-orphans-urdr-hunt](https://cdn.myanimelist.net/images/anime/1573/100529.jpg)
+
 -   **type**: ona
 -   **original-name**: 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント
 -   **rating**: R - 17+ (violence & profanity)

@@ -1,5 +1,7 @@
 # Versailles no Bara: Episode-hen
 
+![versailles-no-bara-episode-hen](https://cdn.myanimelist.net/images/manga/3/138697.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

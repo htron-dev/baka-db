@@ -1,5 +1,7 @@
 # Kono Koi to, Sono Mirai.
 
+![kono-koi-to-sono-mirai](https://cdn.myanimelist.net/images/manga/3/176789.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 74

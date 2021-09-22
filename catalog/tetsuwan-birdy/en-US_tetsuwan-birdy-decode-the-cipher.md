@@ -1,5 +1,7 @@
 # Tetsuwan Birdy Decode: The Cipher
 
+![tetsuwan-birdy-decode-the-cipher](https://cdn.myanimelist.net/images/anime/3/14379.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 鉄腕バーディー DECODE -THE CIPHER-

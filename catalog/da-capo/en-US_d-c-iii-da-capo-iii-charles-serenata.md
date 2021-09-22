@@ -1,5 +1,7 @@
 # D.C.III: Da Capo III - Charles Serenata
 
+![d-c-iii-da-capo-iii-charles-serenata](https://cdn.myanimelist.net/images/manga/2/241820.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: D.C.III 〜ダ・カーポ III〜 シャルルセレナータ

@@ -1,5 +1,7 @@
 # Kaibutsu Gakushou
 
+![kaibutsu-gakushou](https://cdn.myanimelist.net/images/anime/13/84097.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 怪物学抄

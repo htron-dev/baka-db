@@ -1,5 +1,7 @@
 # Futatsu no Sekai
 
+![futatsu-no-sekai](https://cdn.myanimelist.net/images/anime/4/85270.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 二つの世界

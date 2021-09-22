@@ -1,5 +1,7 @@
 # Trigger-chan
 
+![trigger-chan](https://cdn.myanimelist.net/images/anime/7/81644.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: トリガーちゃん
@@ -20,4 +22,4 @@ The fifth anniversary of Trigger has been marked with a Uchuu Patrol Luluco mara
 
 -   [My Anime list](https://myanimelist.net/anime/33934/Trigger-chan)
 -   [Official Site](http://www.st-trigger.co.jp/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Trigger_(company)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Trigger_%28company%29)

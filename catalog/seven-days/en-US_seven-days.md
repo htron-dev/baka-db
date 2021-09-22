@@ -1,5 +1,7 @@
 # Seven Days
 
+![seven-days](https://cdn.myanimelist.net/images/manga/1/130103.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

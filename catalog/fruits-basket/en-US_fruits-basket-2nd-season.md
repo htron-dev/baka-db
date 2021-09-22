@@ -1,5 +1,7 @@
 # Fruits Basket 2nd Season
 
+![fruits-basket-2nd-season](https://cdn.myanimelist.net/images/anime/1972/111635.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: フルーツバスケット 2nd season

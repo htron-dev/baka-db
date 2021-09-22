@@ -1,5 +1,7 @@
 # Girls &amp; Panzer: Shoukai Shimasu!
 
+![girls-amp-panzer-shoukai-shimasu](https://cdn.myanimelist.net/images/anime/7/43631.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ガールズ&パンツァー 紹介します！

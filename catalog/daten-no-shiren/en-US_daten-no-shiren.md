@@ -1,5 +1,7 @@
 # Daten no Shiren
 
+![daten-no-shiren](https://cdn.myanimelist.net/images/manga/3/176328.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 堕天のシレン
 -   **start-date**: 2015-01-10

@@ -1,5 +1,7 @@
 # Itoshi no Boukun
 
+![itoshi-no-boukun](https://cdn.myanimelist.net/images/manga/1/31909.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

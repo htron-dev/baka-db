@@ -1,5 +1,7 @@
 # Karada dake, Amaku Shibirete. - Otona no Koi no Hajimekata
 
+![karada-dake-amaku-shibirete-otona-no-koi-no-hajimekata](https://cdn.myanimelist.net/images/manga/3/128209.jpg)
+
 -   **type**: manga
 -   **original-name**: カラダだけ、甘く痺れて。～オトナの恋のはじめ方～
 

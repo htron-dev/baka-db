@@ -1,5 +1,7 @@
 # Otouto no Otto
 
+![otouto-no-otto](https://cdn.myanimelist.net/images/manga/2/158104.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

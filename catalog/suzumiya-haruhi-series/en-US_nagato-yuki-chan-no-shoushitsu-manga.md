@@ -1,5 +1,7 @@
 # Nagato Yuki-chan no Shoushitsu
 
+![nagato-yuki-chan-no-shoushitsu](https://cdn.myanimelist.net/images/manga/1/153402.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 79

@@ -1,5 +1,7 @@
 # Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma
 
+![donten-ni-warau-gaiden-shukumei-soutou-no-fuuma](https://cdn.myanimelist.net/images/anime/1013/93320.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 曇天に笑う＜外伝＞ ～宿命、双頭の風魔～

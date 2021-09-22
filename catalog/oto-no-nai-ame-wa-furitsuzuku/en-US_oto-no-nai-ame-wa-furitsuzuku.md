@@ -1,5 +1,7 @@
 # Oto no Nai Ame wa Furitsuzuku
 
+![oto-no-nai-ame-wa-furitsuzuku](https://cdn.myanimelist.net/images/manga/2/73887.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

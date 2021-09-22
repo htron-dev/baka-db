@@ -1,5 +1,7 @@
 # Kurokami: Tora to Tsubasa
 
+![kurokami-tora-to-tsubasa](https://cdn.myanimelist.net/images/anime/5/23018.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒神
@@ -23,4 +25,4 @@ Half a year after the battle in Okinawa, Excel was looking for a new Mototsumita
 -   [My Anime list](https://myanimelist.net/anime/6794/Kurokami__Tora_to_Tsubasa)
 -   [Official Site](http://www.kurokami-anime.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6211)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Black_God_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Black_God_%28manga%29)

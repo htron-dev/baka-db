@@ -1,5 +1,7 @@
 # Jishin da!! Mii-chan no Bousai Kunren
 
+![jishin-da-mii-chan-no-bousai-kunren](https://cdn.myanimelist.net/images/anime/3/68945.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: じしんだ!! ミーちゃんのぼうさいくんれん

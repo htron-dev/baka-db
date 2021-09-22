@@ -1,5 +1,7 @@
 # Mitsurugi Moeka wa Meitantou!
 
+![mitsurugi-moeka-wa-meitantou](https://cdn.myanimelist.net/images/manga/3/163008.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

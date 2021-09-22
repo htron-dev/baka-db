@@ -1,5 +1,7 @@
 # Yoru no Uta
 
+![yoru-no-uta](https://cdn.myanimelist.net/images/manga/3/160464.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

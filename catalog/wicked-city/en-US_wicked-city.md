@@ -1,5 +1,7 @@
 # Wicked City
 
+![wicked-city](https://cdn.myanimelist.net/images/manga/2/39093.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 妖獣都市

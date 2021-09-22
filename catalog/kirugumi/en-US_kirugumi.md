@@ -1,5 +1,7 @@
 # Kirugumi
 
+![kirugumi](https://cdn.myanimelist.net/images/manga/2/160739.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

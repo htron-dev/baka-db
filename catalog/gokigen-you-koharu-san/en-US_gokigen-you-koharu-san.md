@@ -1,5 +1,7 @@
 # Gokigen You, Koharu-san
 
+![gokigen-you-koharu-san](https://cdn.myanimelist.net/images/manga/3/234347.jpg)
+
 -   **type**: manga
 -   **original-name**: ごきげんよう、小春さん
 -   **start-date**: 2019-06-24

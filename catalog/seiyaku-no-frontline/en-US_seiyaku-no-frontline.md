@@ -1,5 +1,7 @@
 # Seiyaku no Frontline
 
+![seiyaku-no-frontline](https://cdn.myanimelist.net/images/manga/3/175770.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

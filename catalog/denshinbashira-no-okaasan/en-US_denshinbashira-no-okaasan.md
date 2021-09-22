@@ -1,5 +1,7 @@
 # Denshinbashira no Okaasan
 
+![denshinbashira-no-okaasan](https://cdn.myanimelist.net/images/anime/7/28534.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 電信柱のお母さん

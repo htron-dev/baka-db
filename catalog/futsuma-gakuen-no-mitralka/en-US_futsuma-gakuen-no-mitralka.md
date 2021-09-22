@@ -1,5 +1,7 @@
 # Futsuma Gakuen no Mitralka
 
+![futsuma-gakuen-no-mitralka](https://cdn.myanimelist.net/images/manga/3/121003.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 祓魔学園の背教者〈ミトラルカ〉

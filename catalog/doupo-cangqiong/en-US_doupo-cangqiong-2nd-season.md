@@ -1,5 +1,7 @@
 # Doupo Cangqiong 2nd Season
 
+![doupo-cangqiong-2nd-season](https://cdn.myanimelist.net/images/anime/1283/90230.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 斗破苍穹 第二季

@@ -1,5 +1,7 @@
 # Takeda Shingen
 
+![takeda-shingen](https://cdn.myanimelist.net/images/manga/1/88323.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 武田信玄

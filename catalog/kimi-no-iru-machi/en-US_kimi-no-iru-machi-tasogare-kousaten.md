@@ -1,5 +1,7 @@
 # Kimi no Iru Machi: Tasogare Kousaten
 
+![kimi-no-iru-machi-tasogare-kousaten](https://cdn.myanimelist.net/images/anime/10/35843.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 君のいる町 黄昏交差点

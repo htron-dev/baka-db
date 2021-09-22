@@ -1,5 +1,7 @@
 # Uma no Friends
 
+![uma-no-friends](https://cdn.myanimelist.net/images/anime/11/87272.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ウマのフレンズ

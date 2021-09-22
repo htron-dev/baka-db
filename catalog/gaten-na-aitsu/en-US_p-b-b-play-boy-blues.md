@@ -1,5 +1,7 @@
 # P.B.B.: Play Boy Blues
 
+![p-b-b-play-boy-blues](https://cdn.myanimelist.net/images/manga/1/176817.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

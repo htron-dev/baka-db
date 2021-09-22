@@ -1,5 +1,7 @@
 # Asakusabito
 
+![asakusabito](https://cdn.myanimelist.net/images/manga/1/123739.jpg)
+
 -   **type**: manga
 -   **original-name**: 浅草人
 

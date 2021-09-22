@@ -1,5 +1,7 @@
 # Chou: Erotics Harem
 
+![chou-erotics-harem](https://cdn.myanimelist.net/images/manga/1/193853.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

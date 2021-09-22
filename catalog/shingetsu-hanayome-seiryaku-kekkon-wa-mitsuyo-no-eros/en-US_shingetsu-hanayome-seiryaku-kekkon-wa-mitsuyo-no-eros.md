@@ -1,5 +1,7 @@
 # Shingetsu Hanayome: Seiryaku Kekkon wa Mitsuyo no Eros
 
+![shingetsu-hanayome-seiryaku-kekkon-wa-mitsuyo-no-eros](https://cdn.myanimelist.net/images/manga/3/183330.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

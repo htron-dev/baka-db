@@ -1,5 +1,7 @@
 # Yuu☆Yuu☆Hakusho
 
+![yuu☆-yuu☆-hakusho](https://cdn.myanimelist.net/images/manga/3/250027.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 176

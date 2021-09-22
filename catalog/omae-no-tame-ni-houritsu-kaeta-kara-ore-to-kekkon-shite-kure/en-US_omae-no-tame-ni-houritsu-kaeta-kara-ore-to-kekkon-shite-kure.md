@@ -1,5 +1,7 @@
 # Omae no Tame ni Houritsu Kaeta kara, Ore to Kekkon shite Kure
 
+![omae-no-tame-ni-houritsu-kaeta-kara-ore-to-kekkon-shite-kure](https://cdn.myanimelist.net/images/manga/2/237917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

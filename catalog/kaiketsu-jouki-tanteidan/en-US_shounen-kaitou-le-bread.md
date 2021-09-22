@@ -1,5 +1,7 @@
 # Shounen Kaitou Le Bread
 
+![shounen-kaitou-le-bread](https://cdn.myanimelist.net/images/manga/2/226628.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

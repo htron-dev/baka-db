@@ -1,5 +1,7 @@
 # High-Risk Mission Therapy
 
+![high-risk-mission-therapy](https://cdn.myanimelist.net/images/manga/1/204357.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 71

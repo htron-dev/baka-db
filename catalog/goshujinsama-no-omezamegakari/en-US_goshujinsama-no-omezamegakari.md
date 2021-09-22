@@ -1,5 +1,7 @@
 # Goshujinsama no Omezamegakari
 
+![goshujinsama-no-omezamegakari](https://cdn.myanimelist.net/images/manga/2/189749.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

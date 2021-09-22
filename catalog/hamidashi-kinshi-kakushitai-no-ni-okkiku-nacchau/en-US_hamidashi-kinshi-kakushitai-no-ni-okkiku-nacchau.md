@@ -1,5 +1,7 @@
 # Hamidashi Kinshi! Kakushitai no ni Okkiku Nacchau
 
+![hamidashi-kinshi-kakushitai-no-ni-okkiku-nacchau](https://cdn.myanimelist.net/images/manga/2/182303.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Short Game: Adachi Mitsuru ga Tanpen de Tsumugu Koukou Yakyuu
 
+![short-game-adachi-mitsuru-ga-tanpen-de-tsumugu-koukou-yakyuu](https://cdn.myanimelist.net/images/manga/1/189024.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

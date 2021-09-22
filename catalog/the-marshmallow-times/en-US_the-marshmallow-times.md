@@ -1,5 +1,7 @@
 # The Marshmallow Times
 
+![the-marshmallow-times](https://cdn.myanimelist.net/images/anime/13/62589.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: マシュマロ通信 <タイムス>

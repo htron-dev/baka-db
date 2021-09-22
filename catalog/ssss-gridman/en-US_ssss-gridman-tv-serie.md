@@ -1,5 +1,7 @@
 # SSSS.Gridman
 
+![ssss-gridman](https://cdn.myanimelist.net/images/anime/1973/95616.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: SSSS.GRIDMAN

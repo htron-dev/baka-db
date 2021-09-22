@@ -1,5 +1,7 @@
 # Mad na Bokura no Kenkyuu Nisshi
 
+![mad-na-bokura-no-kenkyuu-nisshi](https://cdn.myanimelist.net/images/manga/1/241934.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: マッドな僕らの研究日誌

@@ -1,5 +1,7 @@
 # Gum Gum Punch
 
+![gum-gum-punch](https://cdn.myanimelist.net/images/manga/1/36194.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ガムガムパンチ

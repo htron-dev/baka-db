@@ -1,5 +1,7 @@
 # Joou-sama no Tamago
 
+![joou-sama-no-tamago](https://cdn.myanimelist.net/images/manga/1/14635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

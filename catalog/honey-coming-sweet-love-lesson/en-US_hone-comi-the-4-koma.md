@@ -1,5 +1,7 @@
 # HoneComi: The 4-koma
 
+![hone-comi-the-4-koma](https://cdn.myanimelist.net/images/manga/3/154187.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハニカミ The4 コマ

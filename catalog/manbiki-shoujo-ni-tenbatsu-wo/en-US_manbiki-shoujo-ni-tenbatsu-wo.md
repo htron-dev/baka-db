@@ -1,5 +1,7 @@
 # Manbiki Shoujo ni Tenbatsu wo
 
+![manbiki-shoujo-ni-tenbatsu-wo](https://cdn.myanimelist.net/images/manga/2/199427.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 万引き少女に天罰を

@@ -1,5 +1,7 @@
 # Fuyu Hanabi
 
+![fuyu-hanabi](https://cdn.myanimelist.net/images/manga/2/73517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

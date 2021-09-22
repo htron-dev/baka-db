@@ -1,5 +1,7 @@
 # Rakuen Route
 
+![rakuen-route](https://cdn.myanimelist.net/images/manga/4/100093.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 楽園ルウト

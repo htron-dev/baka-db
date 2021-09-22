@@ -1,5 +1,7 @@
 # Tensei! Aoi
 
+![tensei-aoi](https://cdn.myanimelist.net/images/manga/3/41038.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天晴！あおい

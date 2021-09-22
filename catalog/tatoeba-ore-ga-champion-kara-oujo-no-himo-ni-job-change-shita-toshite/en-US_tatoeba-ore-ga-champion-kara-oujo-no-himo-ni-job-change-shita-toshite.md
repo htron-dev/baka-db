@@ -1,5 +1,7 @@
 # Tatoeba Ore ga, Champion kara Oujo no Himo ni Job Change shita toshite.
 
+![tatoeba-ore-ga-champion-kara-oujo-no-himo-ni-job-change-shita-toshite](https://cdn.myanimelist.net/images/manga/2/244992.jpg)
+
 -   **type**: manga
 -   **original-name**: たとえば俺が、チャンピオンから王女のヒモにジョブチェンジしたとして。
 -   **start-date**: 2020-11-27

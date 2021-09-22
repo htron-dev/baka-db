@@ -1,5 +1,7 @@
 # Aggressive Retsuko (ONA) 2nd Season
 
+![aggressive-retsuko-ona-2nd-season](https://cdn.myanimelist.net/images/anime/1739/101117.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: アグレッシブ烈子第 2 期

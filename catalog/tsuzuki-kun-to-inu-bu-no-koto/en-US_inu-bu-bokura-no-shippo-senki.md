@@ -1,5 +1,7 @@
 # Inu-bu! Bokura no Shippo Senki
 
+![inu-bu-bokura-no-shippo-senki](https://cdn.myanimelist.net/images/manga/1/138773.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

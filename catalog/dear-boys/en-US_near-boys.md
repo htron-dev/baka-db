@@ -1,5 +1,7 @@
 # Near Boys
 
+![near-boys](https://cdn.myanimelist.net/images/manga/3/148855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

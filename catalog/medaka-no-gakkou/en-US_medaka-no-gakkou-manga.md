@@ -1,5 +1,7 @@
 # Medaka no Gakkou
 
+![medaka-no-gakkou](https://cdn.myanimelist.net/images/manga/2/15315.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: めだかの学校

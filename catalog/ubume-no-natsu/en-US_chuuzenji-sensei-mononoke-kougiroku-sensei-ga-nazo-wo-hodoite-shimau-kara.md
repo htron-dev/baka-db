@@ -1,5 +1,7 @@
 # Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara
 
+![chuuzenji-sensei-mononoke-kougiroku-sensei-ga-nazo-wo-hodoite-shimau-kara](https://cdn.myanimelist.net/images/manga/3/244791.jpg)
+
 -   **type**: manga
 -   **original-name**: 中禅寺先生物怪講義録　先生が謎を解いてしまうから。
 -   **start-date**: 2019-10-17

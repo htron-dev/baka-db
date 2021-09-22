@@ -1,5 +1,7 @@
 # Happy Family
 
+![happy-family](https://cdn.myanimelist.net/images/manga/3/48397.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ハッピー・ファミリー

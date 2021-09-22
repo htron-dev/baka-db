@@ -1,5 +1,7 @@
 # Minori Scramble!
 
+![minori-scramble](https://cdn.myanimelist.net/images/anime/6/31903.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みのりスクランブル!

@@ -1,5 +1,7 @@
 # Date A Live Movie: Mayuri Judgment
 
+![date-a-live-movie-mayuri-judgment](https://cdn.myanimelist.net/images/anime/9/75466.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 デート・ア・ライブ 万由里ジャッジメント

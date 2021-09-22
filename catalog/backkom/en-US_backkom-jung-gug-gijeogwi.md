@@ -1,5 +1,7 @@
 # Backkom: Jung-gug Gijeogwi
 
+![backkom-jung-gug-gijeogwi](https://cdn.myanimelist.net/images/anime/9/65803.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 빼꼼- 중국기저귀

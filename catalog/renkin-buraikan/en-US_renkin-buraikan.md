@@ -1,5 +1,7 @@
 # Renkin Buraikan
 
+![renkin-buraikan](https://cdn.myanimelist.net/images/manga/1/236458.jpg)
+
 -   **type**: manga
 -   **original-name**: 錬金ブライカン
 -   **start-date**: 2020-06-01

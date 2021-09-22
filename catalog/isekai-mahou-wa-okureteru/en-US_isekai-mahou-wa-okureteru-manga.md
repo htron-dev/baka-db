@@ -1,5 +1,7 @@
 # Isekai Mahou wa Okureteru!
 
+![isekai-mahou-wa-okureteru](https://cdn.myanimelist.net/images/manga/1/198482.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界魔法は遅れてる！
 -   **start-date**: 2016-12-22

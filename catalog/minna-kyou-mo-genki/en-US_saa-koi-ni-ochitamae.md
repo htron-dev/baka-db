@@ -1,5 +1,7 @@
 # Saa Koi ni Ochitamae
 
+![saa-koi-ni-ochitamae](https://cdn.myanimelist.net/images/manga/3/6061.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

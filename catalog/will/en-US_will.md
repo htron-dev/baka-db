@@ -1,5 +1,7 @@
 # Will
 
+![will](https://cdn.myanimelist.net/images/manga/1/14795.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 윌

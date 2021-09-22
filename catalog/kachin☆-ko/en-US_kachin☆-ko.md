@@ -1,5 +1,7 @@
 # Kachin☆Ko
 
+![kachin☆-ko](https://cdn.myanimelist.net/images/manga/1/34866.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

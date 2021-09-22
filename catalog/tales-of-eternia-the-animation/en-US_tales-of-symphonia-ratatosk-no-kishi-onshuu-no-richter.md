@@ -1,5 +1,7 @@
 # Tales of Symphonia: Ratatosk no Kishi - Onshuu no Richter
 
+![tales-of-symphonia-ratatosk-no-kishi-onshuu-no-richter](https://cdn.myanimelist.net/images/manga/3/149409.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

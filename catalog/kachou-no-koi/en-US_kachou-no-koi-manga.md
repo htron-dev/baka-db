@@ -1,5 +1,7 @@
 # Kachou no Koi
 
+![kachou-no-koi](https://cdn.myanimelist.net/images/manga/1/167290.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 課長の恋

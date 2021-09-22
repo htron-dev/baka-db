@@ -1,5 +1,7 @@
 # Soshite Fumetsu no Regnare
 
+![soshite-fumetsu-no-regnare](https://cdn.myanimelist.net/images/manga/1/161041.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Youhei Girl no Oshigoto!
 
+![youhei-girl-no-oshigoto](https://cdn.myanimelist.net/images/manga/2/226063.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

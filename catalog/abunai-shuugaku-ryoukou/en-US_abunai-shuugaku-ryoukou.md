@@ -1,5 +1,7 @@
 # Abunai Shuugaku Ryoukou
 
+![abunai-shuugaku-ryoukou](https://cdn.myanimelist.net/images/manga/2/3432.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

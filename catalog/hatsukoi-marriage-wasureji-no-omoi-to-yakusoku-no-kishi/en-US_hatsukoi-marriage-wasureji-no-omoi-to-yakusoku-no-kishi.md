@@ -1,5 +1,7 @@
 # Hatsukoi Marriage: Wasureji no Omoi to Yakusoku no Kishi
 
+![hatsukoi-marriage-wasureji-no-omoi-to-yakusoku-no-kishi](https://cdn.myanimelist.net/images/manga/1/192117.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kare to Hitokui no Nichijou
 
+![kare-to-hitokui-no-nichijou](https://cdn.myanimelist.net/images/manga/3/196970.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Namidako-sama no Iutoori
 
+![namidako-sama-no-iutoori](https://cdn.myanimelist.net/images/manga/3/243484.jpg)
+
 -   **type**: manga
 -   **original-name**: 涙子さまの言う通り
 -   **start-date**: 2021-04-15

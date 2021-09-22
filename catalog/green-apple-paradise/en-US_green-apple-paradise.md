@@ -1,5 +1,7 @@
 # Green Apple Paradise
 
+![green-apple-paradise](https://cdn.myanimelist.net/images/manga/2/245901.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 26

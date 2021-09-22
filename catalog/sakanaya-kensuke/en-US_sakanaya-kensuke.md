@@ -1,5 +1,7 @@
 # Sakanaya Kensuke
 
+![sakanaya-kensuke](https://cdn.myanimelist.net/images/manga/2/90091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

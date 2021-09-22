@@ -1,5 +1,7 @@
 # Tsumi no Shitone mo Nureru Yoru
 
+![tsumi-no-shitone-mo-nureru-yoru](https://cdn.myanimelist.net/images/manga/2/64307.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 罪の褥も濡れる夜

@@ -1,5 +1,7 @@
 # Ningen no Tantei-san
 
+![ningen-no-tantei-san](https://cdn.myanimelist.net/images/manga/2/216845.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

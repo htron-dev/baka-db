@@ -1,5 +1,7 @@
 # Shin Shinchou Kouki: Nobunaga-kun to Watashi
 
+![shin-shinchou-kouki-nobunaga-kun-to-watashi](https://cdn.myanimelist.net/images/manga/1/225987.jpg)
+
 -   **type**: manga
 -   **original-name**: 新・信長公記 〜ノブナガくんと私〜
 -   **start-date**: 2019-03-25

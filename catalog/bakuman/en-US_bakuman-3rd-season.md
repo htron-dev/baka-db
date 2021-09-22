@@ -1,5 +1,7 @@
 # Bakuman. 3rd Season
 
+![bakuman-3rd-season](https://cdn.myanimelist.net/images/anime/6/41845.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: バクマン。

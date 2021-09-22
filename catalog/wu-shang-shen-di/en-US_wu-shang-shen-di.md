@@ -1,5 +1,7 @@
 # Wu Shang Shen Di
 
+![wu-shang-shen-di](https://cdn.myanimelist.net/images/anime/1845/108003.jpg)
+
 -   **type**: ona
 -   **episodes**: 64
 -   **original-name**: 无上神帝

@@ -1,5 +1,7 @@
 # Gin no Guardian II
 
+![gin-no-guardian-ii](https://cdn.myanimelist.net/images/anime/1187/98912.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 銀の墓守り II

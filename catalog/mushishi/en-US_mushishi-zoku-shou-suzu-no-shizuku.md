@@ -1,5 +1,7 @@
 # Mushishi Zoku Shou: Suzu no Shizuku
 
+![mushishi-zoku-shou-suzu-no-shizuku](https://cdn.myanimelist.net/images/anime/9/72689.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蟲師 続章: 鈴の雫

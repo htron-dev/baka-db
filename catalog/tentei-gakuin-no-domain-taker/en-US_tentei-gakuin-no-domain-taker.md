@@ -1,5 +1,7 @@
 # Tentei Gakuin no Domain Taker
 
+![tentei-gakuin-no-domain-taker](https://cdn.myanimelist.net/images/manga/2/161062.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

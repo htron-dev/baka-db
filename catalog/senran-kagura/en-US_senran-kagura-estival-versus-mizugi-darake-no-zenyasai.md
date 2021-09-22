@@ -1,5 +1,7 @@
 # Senran Kagura Estival Versus: Mizugi-darake no Zenyasai
 
+![senran-kagura-estival-versus-mizugi-darake-no-zenyasai](https://cdn.myanimelist.net/images/anime/5/70001.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 閃乱カグラ ESTIVAL VERSUS -水着だらけの前夜祭-

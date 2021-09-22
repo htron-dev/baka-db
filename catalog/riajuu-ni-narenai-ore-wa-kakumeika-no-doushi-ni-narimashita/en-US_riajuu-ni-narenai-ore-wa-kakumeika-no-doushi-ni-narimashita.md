@@ -1,5 +1,7 @@
 # Riajuu ni Narenai Ore wa Kakumeika no Doushi ni Narimashita
 
+![riajuu-ni-narenai-ore-wa-kakumeika-no-doushi-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/172795.jpg)
+
 -   **type**: light-novel
 -   **original-name**: リア充になれない俺は革命家の同志になりました
 -   **start-date**: 2016-03-02

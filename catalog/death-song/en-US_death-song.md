@@ -1,5 +1,7 @@
 # Death Song
 
+![death-song](https://cdn.myanimelist.net/images/manga/1/26809.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 43

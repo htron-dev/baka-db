@@ -1,5 +1,7 @@
 # Chou Jikuu Senkan Mahoroba
 
+![chou-jikuu-senkan-mahoroba](https://cdn.myanimelist.net/images/manga/2/61035.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 超時空戦艦まほろば

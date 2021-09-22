@@ -1,5 +1,7 @@
 # Abyss Azure no Zainin
 
+![abyss-azure-no-zainin](https://cdn.myanimelist.net/images/manga/3/244508.jpg)
+
 -   **type**: manga
 -   **original-name**: アビスアジュールの罪人
 -   **start-date**: 2020-10-15

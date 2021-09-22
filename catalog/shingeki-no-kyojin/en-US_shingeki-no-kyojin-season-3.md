@@ -1,5 +1,7 @@
 # Shingeki no Kyojin Season 3
 
+![shingeki-no-kyojin-season-3](https://cdn.myanimelist.net/images/anime/1173/92110.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 進撃の巨人 Season3

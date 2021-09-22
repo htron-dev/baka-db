@@ -1,5 +1,7 @@
 # Little Polar Bear: Shirokuma-kun, Doko e?
 
+![little-polar-bear-shirokuma-kun-doko-e](https://cdn.myanimelist.net/images/anime/7/64087.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: リトルポーラベア しろくまくん, どこへ?
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

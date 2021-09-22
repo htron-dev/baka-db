@@ -1,5 +1,7 @@
 # Kataomoi no Hibi
 
+![kataomoi-no-hibi](https://cdn.myanimelist.net/images/manga/2/230165.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 片思いの日々

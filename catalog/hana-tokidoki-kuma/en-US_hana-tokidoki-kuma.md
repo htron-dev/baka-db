@@ -1,5 +1,7 @@
 # Hana Tokidoki Kuma
 
+![hana-tokidoki-kuma](https://cdn.myanimelist.net/images/manga/1/244677.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

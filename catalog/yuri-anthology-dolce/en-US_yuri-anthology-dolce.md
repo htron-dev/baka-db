@@ -1,5 +1,7 @@
 # Yuri Anthology Dolce
 
+![yuri-anthology-dolce](https://cdn.myanimelist.net/images/manga/1/79885.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 32

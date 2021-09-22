@@ -1,5 +1,7 @@
 # E.D.D: Eliminate Dangerous Doctors
 
+![e-d-d-eliminate-dangerous-doctors](https://cdn.myanimelist.net/images/manga/3/173961.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

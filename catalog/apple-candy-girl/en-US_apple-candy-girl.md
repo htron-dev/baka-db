@@ -1,5 +1,7 @@
 # Apple Candy Girl
 
+![apple-candy-girl](https://cdn.myanimelist.net/images/anime/1216/115321.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 애플캔디걸

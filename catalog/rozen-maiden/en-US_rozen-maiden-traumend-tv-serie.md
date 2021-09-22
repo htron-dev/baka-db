@@ -1,5 +1,7 @@
 # Rozen Maiden: Träumend
 
+![rozen-maiden-traumend](https://cdn.myanimelist.net/images/anime/4/10242.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ローゼンメイデン トロイメント

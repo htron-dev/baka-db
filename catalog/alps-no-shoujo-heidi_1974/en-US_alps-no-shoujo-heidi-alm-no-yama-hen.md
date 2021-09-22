@@ -1,5 +1,7 @@
 # Alps no Shoujo Heidi: Alm no Yama-hen
 
+![alps-no-shoujo-heidi-alm-no-yama-hen](https://cdn.myanimelist.net/images/anime/6/26448.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アルプスの少女ハイジ アルムの山編

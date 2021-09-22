@@ -1,5 +1,7 @@
 # Benkai to Ushiwakamaru
 
+![benkai-to-ushiwakamaru](https://cdn.myanimelist.net/images/anime/1514/113958.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 弁慶と牛若丸

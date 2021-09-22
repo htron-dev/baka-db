@@ -1,5 +1,7 @@
 # Hokuto no Ken
 
+![hokuto-no-ken](https://cdn.myanimelist.net/images/anime/8/18502.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 109
 -   **original-name**: 北斗の拳

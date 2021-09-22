@@ -1,5 +1,7 @@
 # Chingyo
 
+![chingyo](https://cdn.myanimelist.net/images/manga/3/167219.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 枕魚

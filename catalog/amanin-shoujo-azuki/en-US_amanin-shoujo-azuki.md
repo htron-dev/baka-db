@@ -1,5 +1,7 @@
 # Amanin Shoujo Azuki
 
+![amanin-shoujo-azuki](https://cdn.myanimelist.net/images/manga/1/18389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

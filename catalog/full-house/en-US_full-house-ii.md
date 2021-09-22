@@ -1,5 +1,7 @@
 # Full House II
 
+![full-house-ii](https://cdn.myanimelist.net/images/manga/2/62661.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 풀하우스2부

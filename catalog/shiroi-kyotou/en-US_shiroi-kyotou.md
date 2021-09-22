@@ -1,5 +1,7 @@
 # Shiroi Kyotou
 
+![shiroi-kyotou](https://cdn.myanimelist.net/images/manga/3/216661.jpg)
+
 -   **type**: manga
 -   **original-name**: 白い巨塔
 -   **start-date**: 2018-10-20

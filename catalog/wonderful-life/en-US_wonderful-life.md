@@ -1,5 +1,7 @@
 # Wonderful Life
 
+![wonderful-life](https://cdn.myanimelist.net/images/manga/3/173319.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

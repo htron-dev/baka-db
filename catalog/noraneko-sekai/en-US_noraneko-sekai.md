@@ -1,5 +1,7 @@
 # Noraneko Sekai
 
+![noraneko-sekai](https://cdn.myanimelist.net/images/manga/1/219523.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

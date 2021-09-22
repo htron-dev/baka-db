@@ -1,5 +1,7 @@
 # Getter Robo Āḥ
 
+![getter-robo-aḥ](https://cdn.myanimelist.net/images/manga/2/22320.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

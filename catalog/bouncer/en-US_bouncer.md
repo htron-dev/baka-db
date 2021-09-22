@@ -1,5 +1,7 @@
 # Bouncer
 
+![bouncer](https://cdn.myanimelist.net/images/manga/1/191308.jpg)
+
 -   **type**: manga
 -   **original-name**: バウンサー
 -   **start-date**: 2014-09-30

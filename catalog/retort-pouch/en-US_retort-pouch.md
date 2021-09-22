@@ -1,5 +1,7 @@
 # Retort Pouch!
 
+![retort-pouch](https://cdn.myanimelist.net/images/manga/2/156355.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 52

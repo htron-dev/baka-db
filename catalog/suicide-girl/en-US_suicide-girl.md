@@ -1,5 +1,7 @@
 # Suicide Girl
 
+![suicide-girl](https://cdn.myanimelist.net/images/manga/1/232528.jpg)
+
 -   **type**: manga
 -   **original-name**: スーサイドガール
 -   **start-date**: 2020-04-17

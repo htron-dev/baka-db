@@ -1,5 +1,7 @@
 # Hot Triangle
 
+![hot-triangle](https://cdn.myanimelist.net/images/manga/2/34051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

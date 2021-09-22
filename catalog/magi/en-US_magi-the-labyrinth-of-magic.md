@@ -1,5 +1,7 @@
 # Magi: The Labyrinth of Magic
 
+![magi-the-labyrinth-of-magic](https://cdn.myanimelist.net/images/anime/11/42773.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: マギ The labyrinth of magic

@@ -1,5 +1,7 @@
 # Mamoru Hikitsugu Watashitachi no Kurashi
 
+![mamoru-hikitsugu-watashitachi-no-kurashi](https://cdn.myanimelist.net/images/anime/1785/108594.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 【鉄拳 × 税関】守る 引き継ぐ 私たちの暮らし

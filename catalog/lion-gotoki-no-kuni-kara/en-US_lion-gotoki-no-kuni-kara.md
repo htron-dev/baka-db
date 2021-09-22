@@ -1,5 +1,7 @@
 # Lion-gotoki no Kuni kara
 
+![lion-gotoki-no-kuni-kara](https://cdn.myanimelist.net/images/manga/2/239507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

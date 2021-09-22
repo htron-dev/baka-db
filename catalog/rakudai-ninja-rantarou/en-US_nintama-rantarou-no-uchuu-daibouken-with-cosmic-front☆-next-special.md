@@ -1,5 +1,7 @@
 # Nintama Rantarou no Uchuu Daibouken with Cosmic Front☆Next
 
+![nintama-rantarou-no-uchuu-daibouken-with-cosmic-front☆-next](https://cdn.myanimelist.net/images/anime/12/78607.jpg)
+
 -   **type**: special
 -   **original-name**: 忍たま乱太郎の宇宙大冒険 with コズミックフロント ☆NEXT
 -   **start-date**: 2016-02-11

@@ -1,5 +1,7 @@
 # Onna Senshi Efe &amp; Jira: Gude no Monshou
 
+![onna-senshi-efe-amp-jira-gude-no-monshou](https://cdn.myanimelist.net/images/anime/1629/94547.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 女戦士エフェ&ジーラ グーデの紋章

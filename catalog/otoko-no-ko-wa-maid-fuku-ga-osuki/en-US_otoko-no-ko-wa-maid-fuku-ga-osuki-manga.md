@@ -1,5 +1,7 @@
 # Otoko no Ko wa Maid Fuku ga Osuki!?
 
+![otoko-no-ko-wa-maid-fuku-ga-osuki](https://cdn.myanimelist.net/images/manga/3/83202.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

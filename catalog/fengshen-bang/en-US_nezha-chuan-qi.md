@@ -1,5 +1,7 @@
 # Nezha Chuan Qi
 
+![nezha-chuan-qi](https://cdn.myanimelist.net/images/anime/1396/101385.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 哪吒传奇

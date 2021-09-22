@@ -1,5 +1,7 @@
 # Mizushiro Setona The Best Selection
 
+![mizushiro-setona-the-best-selection](https://cdn.myanimelist.net/images/manga/3/37637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

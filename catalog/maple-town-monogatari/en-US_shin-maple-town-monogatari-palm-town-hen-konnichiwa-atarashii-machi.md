@@ -1,5 +1,7 @@
 # Shin Maple Town Monogatari: Palm Town-hen - Konnichiwa! Atarashii Machi
 
+![shin-maple-town-monogatari-palm-town-hen-konnichiwa-atarashii-machi](https://cdn.myanimelist.net/images/anime/9/30641.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新メイプルタウン物語 パームタウン編 こんにちは! 新しい町

@@ -1,5 +1,7 @@
 # Tora-chan to Hanayome
 
+![tora-chan-to-hanayome](https://cdn.myanimelist.net/images/anime/13/35301.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トラちゃんと花嫁

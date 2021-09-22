@@ -1,5 +1,7 @@
 # Uramichi Oniisan
 
+![uramichi-oniisan](https://cdn.myanimelist.net/images/anime/1126/115635.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うらみちお兄さん

@@ -1,5 +1,7 @@
 # Mou Hitotsu no Umi
 
+![mou-hitotsu-no-umi](https://cdn.myanimelist.net/images/manga/2/61451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

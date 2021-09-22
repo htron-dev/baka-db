@@ -1,5 +1,7 @@
 # Ryuuen Tsukai no Kiba
 
+![ryuuen-tsukai-no-kiba](https://cdn.myanimelist.net/images/manga/1/162676.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

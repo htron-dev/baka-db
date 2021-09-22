@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monsters: Celebi - Toki wo Koeta Deai
 
+![gekijouban-pocket-monsters-celebi-toki-wo-koeta-deai](https://cdn.myanimelist.net/images/manga/5/105215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 劇場版 ポケットモンスター セレビィ 時を超えた遭遇（であい）
@@ -10,7 +12,6 @@
 -   adventure
 -   comedy
 -   drama
-
 -   magic
 
 ## Authors

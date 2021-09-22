@@ -1,5 +1,7 @@
 # Koigatari Raiseihen
 
+![koigatari-raiseihen](https://cdn.myanimelist.net/images/manga/1/27092.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

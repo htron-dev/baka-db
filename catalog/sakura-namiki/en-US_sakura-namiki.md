@@ -1,5 +1,7 @@
 # Sakura Namiki
 
+![sakura-namiki](https://cdn.myanimelist.net/images/manga/2/16257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

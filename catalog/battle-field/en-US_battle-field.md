@@ -1,5 +1,7 @@
 # Battle Field
 
+![battle-field](https://cdn.myanimelist.net/images/manga/2/131179.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

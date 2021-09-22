@@ -1,5 +1,7 @@
 # Tough Gaiden: Oton
 
+![tough-gaiden-oton](https://cdn.myanimelist.net/images/manga/1/16476.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

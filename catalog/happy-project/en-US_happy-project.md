@@ -1,5 +1,7 @@
 # Happy Project
 
+![happy-project](https://cdn.myanimelist.net/images/manga/3/74421.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

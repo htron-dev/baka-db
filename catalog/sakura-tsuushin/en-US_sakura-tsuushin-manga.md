@@ -1,5 +1,7 @@
 # Sakura Tsuushin
 
+![sakura-tsuushin](https://cdn.myanimelist.net/images/manga/1/53521.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 223

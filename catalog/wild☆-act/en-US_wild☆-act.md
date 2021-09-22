@@ -1,5 +1,7 @@
 # Wild☆Act
 
+![wild☆-act](https://cdn.myanimelist.net/images/manga/1/184549.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 57

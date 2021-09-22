@@ -1,5 +1,7 @@
 # Denjin N
 
+![denjin-n](https://cdn.myanimelist.net/images/manga/2/224377.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

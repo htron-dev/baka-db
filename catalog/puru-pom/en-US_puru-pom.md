@@ -1,5 +1,7 @@
 # Puru Pom
 
+![puru-pom](https://cdn.myanimelist.net/images/anime/2/84388.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: ぷるぽん

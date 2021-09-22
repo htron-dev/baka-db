@@ -1,5 +1,7 @@
 # Nana Maru San Batsu
 
+![nana-maru-san-batsu](https://cdn.myanimelist.net/images/manga/2/187861.jpg)
+
 -   **type**: manga
 -   **original-name**: ナナマル サンバツ
 -   **start-date**: 2010-11-04

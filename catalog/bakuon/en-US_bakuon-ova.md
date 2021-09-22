@@ -1,5 +1,7 @@
 # Bakuon!! OVA
 
+![bakuon-ova](https://cdn.myanimelist.net/images/anime/8/79867.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ばくおん！！OAD

@@ -1,5 +1,7 @@
 # Meruhen-chan
 
+![meruhen-chan](https://cdn.myanimelist.net/images/manga/4/34578.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: メルヘンちゃん

@@ -1,5 +1,7 @@
 # Sentiment no Yukue
 
+![sentiment-no-yukue](https://cdn.myanimelist.net/images/manga/1/204846.jpg)
+
 -   **type**: manga
 -   **original-name**: センチメントの行方
 -   **start-date**: 2017-05-30

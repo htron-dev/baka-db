@@ -1,5 +1,7 @@
 # Reporter Blues
 
+![reporter-blues](https://cdn.myanimelist.net/images/anime/6/15337.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: レポーターブルース

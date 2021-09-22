@@ -1,5 +1,7 @@
 # Malice@Doll
 
+![malice-doll](https://cdn.myanimelist.net/images/anime/1277/106345.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: Malice@doll マリスドール

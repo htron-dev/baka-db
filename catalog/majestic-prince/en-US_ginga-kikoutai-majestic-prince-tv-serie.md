@@ -1,5 +1,7 @@
 # Ginga Kikoutai Majestic Prince
 
+![ginga-kikoutai-majestic-prince](https://cdn.myanimelist.net/images/anime/10/44594.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 銀河機攻隊 マジェスティックプリンス
@@ -30,4 +32,4 @@ In the latter half of 21st century, humans leave the Earth and begin to live in 
 -   [Official Site](http://www.mjp-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9452)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14971)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Majestic_Prince_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Majestic_Prince_%28manga%29)

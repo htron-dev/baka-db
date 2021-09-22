@@ -1,5 +1,7 @@
 # Princess Army
 
+![princess-army](https://cdn.myanimelist.net/images/manga/3/7263.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: ぷりんせす ARMY

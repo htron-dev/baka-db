@@ -1,5 +1,7 @@
 # Star Ocean: The Second Story
 
+![star-ocean-the-second-story](https://cdn.myanimelist.net/images/manga/1/22278.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: スターオーシャン セカンドストーリー

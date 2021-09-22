@@ -1,5 +1,7 @@
 # Mizu ga Kooru ni Naru Toki
 
+![mizu-ga-kooru-ni-naru-toki](https://cdn.myanimelist.net/images/manga/1/61449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kamen Tantei
 
+![kamen-tantei](https://cdn.myanimelist.net/images/manga/1/180641.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

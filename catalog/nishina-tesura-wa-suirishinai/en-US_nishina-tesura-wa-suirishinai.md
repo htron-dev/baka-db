@@ -1,5 +1,7 @@
 # Nishina Tesura wa Suirishinai
 
+![nishina-tesura-wa-suirishinai](https://cdn.myanimelist.net/images/manga/2/202714.jpg)
+
 -   **type**: manga
 -   **original-name**: ニ科てすらは推理しない
 -   **start-date**: 2017-06-15

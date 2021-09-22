@@ -1,5 +1,7 @@
 # Grisaia: Phantom Trigger The Animation - Stargazer
 
+![grisaia-phantom-trigger-the-animation-stargazer](https://cdn.myanimelist.net/images/anime/1730/108516.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: グリザイア：ファントムトリガー THE ANIMATION スターゲイザー

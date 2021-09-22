@@ -1,5 +1,7 @@
 # Kunoichi Tsubaki no Mune no Uchi
 
+![kunoichi-tsubaki-no-mune-no-uchi](https://cdn.myanimelist.net/images/manga/3/210385.jpg)
+
 -   **type**: manga
 -   **original-name**: くノ一ツバキの胸の内
 -   **start-date**: 2018-01-12

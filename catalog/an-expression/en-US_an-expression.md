@@ -1,5 +1,7 @@
 # An Expression
 
+![an-expression](https://cdn.myanimelist.net/images/anime/7/85264.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: AN EXPRESSION(表現)

@@ -1,5 +1,7 @@
 # Sleeping Bug
 
+![sleeping-bug](https://cdn.myanimelist.net/images/manga/1/247450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

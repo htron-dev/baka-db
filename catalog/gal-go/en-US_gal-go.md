@@ -1,5 +1,7 @@
 # GalGo!!!!!
 
+![gal-go](https://cdn.myanimelist.net/images/manga/3/163279.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 37

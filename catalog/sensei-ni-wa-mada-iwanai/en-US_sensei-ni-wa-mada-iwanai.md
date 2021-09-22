@@ -1,5 +1,7 @@
 # Sensei ni wa Mada Iwanai
 
+![sensei-ni-wa-mada-iwanai](https://cdn.myanimelist.net/images/manga/2/236288.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

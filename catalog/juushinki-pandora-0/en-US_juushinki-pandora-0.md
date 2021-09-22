@@ -1,5 +1,7 @@
 # Juushinki Pandora 0
 
+![juushinki-pandora-0](https://cdn.myanimelist.net/images/manga/2/233721.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Amai Yubisaki
 
+![amai-yubisaki](https://cdn.myanimelist.net/images/manga/1/150870.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: あまいゆびさき

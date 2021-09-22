@@ -1,5 +1,7 @@
 # Reinousha Minato
 
+![reinousha-minato](https://cdn.myanimelist.net/images/manga/2/104577.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 0 能者ミナト
 -   **start-date**: 2011-02-25

@@ -1,5 +1,7 @@
 # Boku no Karada wa Two Out
 
+![boku-no-karada-wa-two-out](https://cdn.myanimelist.net/images/manga/3/170656.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 135

@@ -1,5 +1,7 @@
 # Shina Dark: Kuroki Tsuki no Ou to Souheki no Tsuki no Himegimi
 
+![shina-dark-kuroki-tsuki-no-ou-to-souheki-no-tsuki-no-himegimi](https://cdn.myanimelist.net/images/manga/3/175585.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

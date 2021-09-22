@@ -1,5 +1,7 @@
 # Kono Hiroi Sekai ni Futari Bocchi
 
+![kono-hiroi-sekai-ni-futari-bocchi](https://cdn.myanimelist.net/images/manga/2/163222.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

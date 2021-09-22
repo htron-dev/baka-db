@@ -1,5 +1,7 @@
 # Platinum Snow
 
+![platinum-snow](https://cdn.myanimelist.net/images/manga/3/22663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Omukae desu.
 
+![omukae-desu](https://cdn.myanimelist.net/images/manga/1/190513.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

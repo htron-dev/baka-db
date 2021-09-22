@@ -1,5 +1,7 @@
 # Goku Pen!
 
+![goku-pen](https://cdn.myanimelist.net/images/manga/2/163266.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

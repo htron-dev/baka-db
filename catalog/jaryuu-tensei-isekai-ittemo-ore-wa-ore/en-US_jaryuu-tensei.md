@@ -1,5 +1,7 @@
 # Jaryuu Tensei
 
+![jaryuu-tensei](https://cdn.myanimelist.net/images/manga/3/195684.jpg)
+
 -   **type**: manga
 -   **original-name**: 邪竜転生
 -   **start-date**: 2016-08-24

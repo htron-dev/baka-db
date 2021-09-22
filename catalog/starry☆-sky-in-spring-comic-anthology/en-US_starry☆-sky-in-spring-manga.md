@@ -1,5 +1,7 @@
 # Starry☆Sky: In Spring
 
+![starry☆-sky-in-spring](https://cdn.myanimelist.net/images/manga/2/95961.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Starry☆Sky ~in Spring~

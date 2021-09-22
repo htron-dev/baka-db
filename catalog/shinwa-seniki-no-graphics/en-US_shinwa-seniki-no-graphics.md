@@ -1,5 +1,7 @@
 # Shinwa Seniki no Graphics
 
+![shinwa-seniki-no-graphics](https://cdn.myanimelist.net/images/manga/2/201052.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

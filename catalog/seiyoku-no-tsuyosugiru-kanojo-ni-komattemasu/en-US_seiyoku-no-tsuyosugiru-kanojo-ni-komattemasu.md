@@ -1,5 +1,7 @@
 # Seiyoku no Tsuyosugiru Kanojo ni Komattemasu.
 
+![seiyoku-no-tsuyosugiru-kanojo-ni-komattemasu](https://cdn.myanimelist.net/images/manga/2/243878.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 性欲の強すぎる彼女に困ってます。

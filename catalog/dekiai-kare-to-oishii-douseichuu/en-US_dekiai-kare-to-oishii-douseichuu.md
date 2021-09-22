@@ -1,5 +1,7 @@
 # Dekiai Kare to Oishii Douseichuu
 
+![dekiai-kare-to-oishii-douseichuu](https://cdn.myanimelist.net/images/manga/1/223631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

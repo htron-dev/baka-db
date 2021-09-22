@@ -1,5 +1,7 @@
 # Yuan Shen Haojie
 
+![yuan-shen-haojie](https://cdn.myanimelist.net/images/anime/1015/115808.jpg)
+
 -   **type**: ona
 -   **episodes**: 52
 -   **original-name**: 源神浩劫

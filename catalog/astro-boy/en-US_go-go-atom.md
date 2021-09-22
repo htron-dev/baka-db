@@ -1,5 +1,7 @@
 # Go! Go! Atom
 
+![go-go-atom](https://cdn.myanimelist.net/images/anime/1793/107568.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: GO!GO!アトム
@@ -12,7 +14,6 @@
 -   action
 -   sci-fi
 -   adventure
-
 -   drama
 -   mecha
 

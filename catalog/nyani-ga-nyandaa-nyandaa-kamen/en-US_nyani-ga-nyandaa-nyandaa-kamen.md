@@ -1,5 +1,7 @@
 # Nyani ga Nyandaa Nyandaa Kamen
 
+![nyani-ga-nyandaa-nyandaa-kamen](https://cdn.myanimelist.net/images/anime/8/27206.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 83
 -   **original-name**: ニャニがニャンだー ニャンダーかめん

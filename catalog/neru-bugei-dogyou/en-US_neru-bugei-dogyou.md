@@ -1,5 +1,7 @@
 # Neru: Bugei Dogyou
 
+![neru-bugei-dogyou](https://cdn.myanimelist.net/images/manga/3/247682.jpg)
+
 -   **type**: manga
 -   **original-name**: NERU-武芸道行〈どぎょう〉-
 -   **start-date**: 2021-07-05

@@ -1,5 +1,7 @@
 # Sheikh ni Metorarete
 
+![sheikh-ni-metorarete](https://cdn.myanimelist.net/images/manga/2/247044.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シークに娶られて

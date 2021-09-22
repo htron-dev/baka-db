@@ -1,5 +1,7 @@
 # Yoru Café
 
+![yoru-cafe](https://cdn.myanimelist.net/images/manga/4/116695.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

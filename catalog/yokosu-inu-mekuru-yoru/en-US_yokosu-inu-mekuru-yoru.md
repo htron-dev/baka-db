@@ -1,5 +1,7 @@
 # Yokosu Inu, Mekuru Yoru
 
+![yokosu-inu-mekuru-yoru](https://cdn.myanimelist.net/images/manga/3/216086.jpg)
+
 -   **type**: manga
 -   **original-name**: 寄越す犬、めくる夜
 -   **start-date**: 2013-04-25

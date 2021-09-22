@@ -1,5 +1,7 @@
 # Berserk: Ougon Jidai-hen I - Haou no Tamago
 
+![berserk-ougon-jidai-hen-i-haou-no-tamago](https://cdn.myanimelist.net/images/anime/12/62179.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベルセルク 黄金時代篇 Ⅰ 覇王の卵
@@ -34,4 +36,4 @@ Now, Guts must fight alongside Griffith and his crew to help Midland defeat the 
 -   [Official Site](http://www.berserkfilm.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7991)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12397)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Berserk_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Berserk_%28manga%29)

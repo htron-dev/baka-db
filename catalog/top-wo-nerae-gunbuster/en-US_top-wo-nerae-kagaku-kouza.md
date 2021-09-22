@@ -1,5 +1,7 @@
 # Top wo Nerae! Kagaku Kouza
 
+![top-wo-nerae-kagaku-kouza](https://cdn.myanimelist.net/images/anime/4/11213.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: トップをねらえ！科学講座

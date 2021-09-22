@@ -1,5 +1,7 @@
 # Zettai Karen Children: Gentei Kaikin!! OVA Chou Sakidori Special!!
 
+![zettai-karen-children-gentei-kaikin-ova-chou-sakidori-special](https://cdn.myanimelist.net/images/anime/12/25282.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 絶対可憐チルドレン 限定解禁!! OVA 超先取りスペシャル!!

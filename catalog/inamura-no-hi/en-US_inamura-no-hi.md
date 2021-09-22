@@ -1,5 +1,7 @@
 # Inamura no Hi
 
+![inamura-no-hi](https://cdn.myanimelist.net/images/anime/1805/99412.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 稲むらの火
@@ -8,7 +10,6 @@
 ## Tags
 
 -   historical
-
 -   drama
 
 ## Sinopse

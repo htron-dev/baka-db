@@ -1,5 +1,7 @@
 # Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... OVA
 
+![otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-ova](https://cdn.myanimelist.net/images/anime/1175/116614.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… OAD

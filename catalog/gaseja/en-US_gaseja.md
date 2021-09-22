@@ -1,5 +1,7 @@
 # Gaseja!
 
+![gaseja](https://cdn.myanimelist.net/images/manga/3/164118.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

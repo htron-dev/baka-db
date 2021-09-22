@@ -1,5 +1,7 @@
 # The Catharsis of Pure Love Or Not-Pure Love
 
+![the-catharsis-of-pure-love-or-not-pure-love](https://cdn.myanimelist.net/images/manga/2/2949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Schwarzesmarken: Sekiei no Bernhard
 
+![schwarzesmarken-sekiei-no-bernhard](https://cdn.myanimelist.net/images/manga/2/165491.jpg)
+
 -   **type**: light-novel
 -   **original-name**: シュヴァルツェスマーケン 隻影のベルンハルト
 -   **start-date**: 2015-06-20

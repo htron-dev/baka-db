@@ -1,5 +1,7 @@
 # Blattodea
 
+![blattodea](https://cdn.myanimelist.net/images/manga/1/245062.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラトデア
 -   **start-date**: 2020-01-22

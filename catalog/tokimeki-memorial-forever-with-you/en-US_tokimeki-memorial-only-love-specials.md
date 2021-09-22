@@ -1,5 +1,7 @@
 # Tokimeki Memorial: Only Love Specials
 
+![tokimeki-memorial-only-love-specials](https://cdn.myanimelist.net/images/anime/6/8530.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ときめきメモリアル Only Love

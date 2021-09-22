@@ -1,5 +1,7 @@
 # Houtou Musuko to Sewagakari
 
+![houtou-musuko-to-sewagakari](https://cdn.myanimelist.net/images/manga/1/191471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

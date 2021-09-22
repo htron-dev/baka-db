@@ -1,5 +1,7 @@
 # Moromono no Jijou
 
+![moromono-no-jijou](https://cdn.myanimelist.net/images/manga/3/168719.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: モロモノの事情

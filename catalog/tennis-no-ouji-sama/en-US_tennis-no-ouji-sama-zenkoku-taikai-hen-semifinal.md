@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Zenkoku Taikai-hen - Semifinal
 
+![tennis-no-ouji-sama-zenkoku-taikai-hen-semifinal](https://cdn.myanimelist.net/images/anime/10/3713.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: テニスの王子様 全国大会篇 Semifinal

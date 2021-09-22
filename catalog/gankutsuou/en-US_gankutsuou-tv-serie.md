@@ -1,5 +1,7 @@
 # Gankutsuou
 
+![gankutsuou](https://cdn.myanimelist.net/images/anime/10/2235.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 巌窟王

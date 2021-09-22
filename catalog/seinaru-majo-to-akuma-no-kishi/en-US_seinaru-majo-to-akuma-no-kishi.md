@@ -1,5 +1,7 @@
 # Seinaru Majo to Akuma no Kishi
 
+![seinaru-majo-to-akuma-no-kishi](https://cdn.myanimelist.net/images/manga/3/196580.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 聖なる魔女と悪魔の騎士

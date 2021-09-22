@@ -1,5 +1,7 @@
 # Kokkoku
 
+![kokkoku](https://cdn.myanimelist.net/images/manga/3/167273.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 67

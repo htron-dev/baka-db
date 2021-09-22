@@ -1,5 +1,7 @@
 # Kirin Hyoketsu: Atarashiku Ikou Animation Movie
 
+![kirin-hyoketsu-atarashiku-ikou-animation-movie](https://cdn.myanimelist.net/images/anime/12/85880.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: キリン 氷結 ® あたらしくいこう アニメーションムービー

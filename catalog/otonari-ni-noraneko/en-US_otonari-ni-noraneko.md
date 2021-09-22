@@ -1,5 +1,7 @@
 # Otonari ni Noraneko
 
+![otonari-ni-noraneko](https://cdn.myanimelist.net/images/manga/1/25104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

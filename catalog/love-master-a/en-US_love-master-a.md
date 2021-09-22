@@ -1,5 +1,7 @@
 # Love Master A
 
+![love-master-a](https://cdn.myanimelist.net/images/manga/4/3880.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

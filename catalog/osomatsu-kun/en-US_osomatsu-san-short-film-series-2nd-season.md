@@ -1,5 +1,7 @@
 # Osomatsu-san Short Film Series 2nd Season
 
+![osomatsu-san-short-film-series-2nd-season](https://cdn.myanimelist.net/images/anime/7/88890.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: おそ松さん ショートフィルムシリーズ 第 2 期

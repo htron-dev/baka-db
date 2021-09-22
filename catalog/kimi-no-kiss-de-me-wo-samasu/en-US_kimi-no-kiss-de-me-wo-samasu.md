@@ -1,5 +1,7 @@
 # Kimi no Kiss de Me wo Samasu
 
+![kimi-no-kiss-de-me-wo-samasu](https://cdn.myanimelist.net/images/manga/2/120715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

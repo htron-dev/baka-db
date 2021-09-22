@@ -1,5 +1,7 @@
 # Aka no Haikyo
 
+![aka-no-haikyo](https://cdn.myanimelist.net/images/manga/1/127593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

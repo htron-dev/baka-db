@@ -1,5 +1,7 @@
 # Mori Girl
 
+![mori-girl](https://cdn.myanimelist.net/images/manga/3/232184.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Kyou kara Mongen 7:00 desu
 
+![kyou-kara-mongen-7-00-desu](https://cdn.myanimelist.net/images/manga/3/180532.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

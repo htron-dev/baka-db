@@ -1,5 +1,7 @@
 # Kyomu Senshi Miroku
 
+![kyomu-senshi-miroku](https://cdn.myanimelist.net/images/anime/9/71239.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 虚無戦史ＭＩＲＯＫＵ

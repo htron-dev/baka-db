@@ -1,5 +1,7 @@
 # Senjitsu Tasukete Itadaita 〇〇 desu!
 
+![senjitsu-tasukete-itadaita-〇〇-desu](https://cdn.myanimelist.net/images/manga/2/243616.jpg)
+
 -   **type**: manga
 -   **original-name**: 先日助けて頂いた〇〇です！
 -   **start-date**: 2019-09-09
@@ -13,7 +15,7 @@
 ## Authors
 
 -   Inaba
--   So-he- (Story & Art)
+-   So-he(Story & Art)
 
 ## Links
 

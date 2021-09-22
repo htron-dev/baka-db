@@ -1,5 +1,7 @@
 # Wakaba no: Shounenki
 
+![wakaba-no-shounenki](https://cdn.myanimelist.net/images/manga/1/77719.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 若葉の-少年期-

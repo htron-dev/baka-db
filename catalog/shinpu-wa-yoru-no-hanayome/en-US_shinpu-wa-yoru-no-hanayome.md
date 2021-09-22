@@ -1,5 +1,7 @@
 # Shinpu wa Yoru no Hanayome
 
+![shinpu-wa-yoru-no-hanayome](https://cdn.myanimelist.net/images/manga/3/42508.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 神父は夜の花嫁

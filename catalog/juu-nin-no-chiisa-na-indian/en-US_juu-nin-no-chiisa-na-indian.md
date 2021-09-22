@@ -1,5 +1,7 @@
 # Juu-nin no Chiisa na Indian
 
+![juu-nin-no-chiisa-na-indian](https://cdn.myanimelist.net/images/anime/4/70689.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 十人の小さなインディアン

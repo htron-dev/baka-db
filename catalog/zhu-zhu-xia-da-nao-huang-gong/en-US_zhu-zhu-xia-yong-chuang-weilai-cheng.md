@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Yong Chuang Weilai Cheng
 
+![zhu-zhu-xia-yong-chuang-weilai-cheng](https://cdn.myanimelist.net/images/anime/1291/93347.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 猪猪侠 勇闯未来城
@@ -12,7 +14,6 @@
 -   sci-fi
 -   sports
 -   super-power
-
 -   school
 
 ## Sinopse

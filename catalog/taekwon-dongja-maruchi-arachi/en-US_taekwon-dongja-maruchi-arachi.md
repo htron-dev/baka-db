@@ -1,5 +1,7 @@
 # Taekwon Dongja Maruchi Arachi
 
+![taekwon-dongja-maruchi-arachi](https://cdn.myanimelist.net/images/anime/2/40903.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 태권동자 마루치 아라치

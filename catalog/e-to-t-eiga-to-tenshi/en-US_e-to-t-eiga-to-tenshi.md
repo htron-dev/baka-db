@@ -1,5 +1,7 @@
 # E to T.: Eiga to Tenshi.
 
+![e-to-t-eiga-to-tenshi](https://cdn.myanimelist.net/images/manga/2/153802.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 52

@@ -1,5 +1,7 @@
 # Kowarekake no Orgel
 
+![kowarekake-no-orgel](https://cdn.myanimelist.net/images/manga/1/194887.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: こわれかけのオルゴール

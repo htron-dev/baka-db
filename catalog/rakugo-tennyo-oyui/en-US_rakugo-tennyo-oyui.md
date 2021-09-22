@@ -1,5 +1,7 @@
 # Rakugo Tennyo Oyui
 
+![rakugo-tennyo-oyui](https://cdn.myanimelist.net/images/anime/13/21222.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 落語天女おゆい

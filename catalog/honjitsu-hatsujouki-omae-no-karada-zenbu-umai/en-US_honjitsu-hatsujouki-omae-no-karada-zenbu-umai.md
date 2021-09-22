@@ -1,5 +1,7 @@
 # Honjitsu, Hatsujouki.: Omae no Karada, Zenbu Umai
 
+![honjitsu-hatsujouki-omae-no-karada-zenbu-umai](https://cdn.myanimelist.net/images/manga/3/246507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

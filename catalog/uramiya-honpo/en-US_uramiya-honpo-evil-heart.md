@@ -1,5 +1,7 @@
 # Uramiya Honpo: Evil Heart
 
+![uramiya-honpo-evil-heart](https://cdn.myanimelist.net/images/manga/3/205518.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 62

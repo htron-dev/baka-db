@@ -1,5 +1,7 @@
 # Mahou Shounen Natsuki x Loveits
 
+![mahou-shounen-natsuki-x-loveits](https://cdn.myanimelist.net/images/manga/2/193408.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

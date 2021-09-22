@@ -1,5 +1,7 @@
 # Otawamure wo! Goshujinsama
 
+![otawamure-wo-goshujinsama](https://cdn.myanimelist.net/images/manga/3/90587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

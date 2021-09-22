@@ -1,5 +1,7 @@
 # Tadareta Koi ni wa Itashimasen!
 
+![tadareta-koi-ni-wa-itashimasen](https://cdn.myanimelist.net/images/manga/3/225120.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

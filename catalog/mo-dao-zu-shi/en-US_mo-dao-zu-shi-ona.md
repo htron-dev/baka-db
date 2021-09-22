@@ -1,5 +1,7 @@
 # Mo Dao Zu Shi
 
+![mo-dao-zu-shi](https://cdn.myanimelist.net/images/anime/1253/93893.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 魔道祖师

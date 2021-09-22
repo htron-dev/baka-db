@@ -1,5 +1,7 @@
 # Houkago no Katasumi, Kiss no Zanzou.
 
+![houkago-no-katasumi-kiss-no-zanzou](https://cdn.myanimelist.net/images/manga/2/8914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

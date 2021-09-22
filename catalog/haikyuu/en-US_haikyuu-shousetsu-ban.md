@@ -1,5 +1,7 @@
 # Haikyuu!! Shousetsu-ban!!
 
+![haikyuu-shousetsu-ban](https://cdn.myanimelist.net/images/manga/3/127767.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ハイキュー!! ショーセツバン!!
 -   **start-date**: 2013-06-04

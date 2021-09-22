@@ -1,5 +1,7 @@
 # Namiuchigiwa no Muromi-san
 
+![namiuchigiwa-no-muromi-san](https://cdn.myanimelist.net/images/manga/1/184057.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 242

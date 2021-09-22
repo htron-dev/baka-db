@@ -1,5 +1,7 @@
 # Yasaotoko wa Venus
 
+![yasaotoko-wa-venus](https://cdn.myanimelist.net/images/manga/3/168226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

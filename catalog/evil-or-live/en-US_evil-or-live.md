@@ -1,5 +1,7 @@
 # Evil or Live
 
+![evil-or-live](https://cdn.myanimelist.net/images/anime/1333/90138.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: EVIL OR LIVE

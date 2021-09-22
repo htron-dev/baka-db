@@ -1,5 +1,7 @@
 # Torokeru You ni
 
+![torokeru-you-ni](https://cdn.myanimelist.net/images/manga/2/148797.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Surviving a Rebel
 
+![surviving-a-rebel](https://cdn.myanimelist.net/images/manga/3/35353.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 16
 -   **original-name**: 문제아 건드리고 살아남기

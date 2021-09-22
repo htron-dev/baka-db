@@ -1,5 +1,7 @@
 # Chikan Densha de Ochite Yuku
 
+![chikan-densha-de-ochite-yuku](https://cdn.myanimelist.net/images/manga/2/193459.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

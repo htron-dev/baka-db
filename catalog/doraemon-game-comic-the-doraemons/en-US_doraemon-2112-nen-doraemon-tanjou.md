@@ -1,5 +1,7 @@
 # Doraemon: 2112-nen Doraemon Tanjou
 
+![doraemon-2112-nen-doraemon-tanjou](https://cdn.myanimelist.net/images/anime/8/12975.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラえもん ２１１２年ドラえもん誕生

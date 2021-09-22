@@ -1,5 +1,7 @@
 # Holy Brownie
 
+![holy-brownie](https://cdn.myanimelist.net/images/manga/3/170595.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 42

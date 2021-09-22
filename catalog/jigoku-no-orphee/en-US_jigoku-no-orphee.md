@@ -1,5 +1,7 @@
 # Jigoku no Orphée
 
+![jigoku-no-orphee](https://cdn.myanimelist.net/images/manga/3/172543.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 地獄のオルフェ

@@ -1,5 +1,7 @@
 # Syrup: Yuri Anthology
 
+![syrup-yuri-anthology](https://cdn.myanimelist.net/images/manga/3/247345.jpg)
+
 -   **type**: manga
 -   **original-name**: シロップ 百合アンソロジー
 -   **start-date**: 2019-05-11

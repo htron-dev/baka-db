@@ -1,5 +1,7 @@
 # Shinyaku Ookami ga Kuru!
 
+![shinyaku-ookami-ga-kuru](https://cdn.myanimelist.net/images/manga/4/22101.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Ooyasan to Himo
 
+![ooyasan-to-himo](https://cdn.myanimelist.net/images/manga/3/225199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

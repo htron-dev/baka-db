@@ -1,5 +1,7 @@
 # Kuroi Ame ni Utarete
 
+![kuroi-ame-ni-utarete](https://cdn.myanimelist.net/images/anime/1817/112099.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 黒い雨に打たれて

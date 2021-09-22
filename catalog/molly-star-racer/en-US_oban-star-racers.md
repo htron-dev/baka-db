@@ -1,5 +1,7 @@
 # Oban Star-Racers
 
+![oban-star-racers](https://cdn.myanimelist.net/images/anime/12/3702.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: オーバン・スターレーサーズ

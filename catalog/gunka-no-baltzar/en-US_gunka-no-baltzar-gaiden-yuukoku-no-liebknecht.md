@@ -1,5 +1,7 @@
 # Gunka no Baltzar Gaiden: Yuukoku no Liebknecht
 
+![gunka-no-baltzar-gaiden-yuukoku-no-liebknecht](https://cdn.myanimelist.net/images/manga/2/154932.jpg)
+
 -   **type**: manga
 -   **original-name**: 軍靴のバルツァー外伝 憂国のリープクネヒト
 -   **start-date**: 2013-10-09

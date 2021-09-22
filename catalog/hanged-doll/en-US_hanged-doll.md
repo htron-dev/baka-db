@@ -1,5 +1,7 @@
 # Hanged Doll
 
+![hanged-doll](https://cdn.myanimelist.net/images/manga/2/64559.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 70

@@ -1,5 +1,7 @@
 # Tesoro - Ono Natsume Shoki Tanpenshuu
 
+![tesoro-ono-natsume-shoki-tanpenshuu](https://cdn.myanimelist.net/images/manga/2/41140.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

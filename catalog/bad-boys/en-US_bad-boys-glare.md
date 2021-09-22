@@ -1,5 +1,7 @@
 # Bad Boys Glare
 
+![bad-boys-glare](https://cdn.myanimelist.net/images/manga/3/193282.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 115

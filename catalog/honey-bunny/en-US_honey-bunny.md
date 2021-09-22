@@ -1,5 +1,7 @@
 # Honey Bunny!
 
+![honey-bunny](https://cdn.myanimelist.net/images/manga/1/100177.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

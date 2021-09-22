@@ -1,5 +1,7 @@
 # Arei no Kagami: Way to the Virgin Space
 
+![arei-no-kagami-way-to-the-virgin-space](https://cdn.myanimelist.net/images/anime/1901/97244.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アレイの鏡 ~ Way to the Virgin Space

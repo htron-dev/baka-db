@@ -1,5 +1,7 @@
 # Tian Xin Ge Ge 2nd Season
 
+![tian-xin-ge-ge-2nd-season](https://cdn.myanimelist.net/images/anime/7/81269.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 甜心格格 第 2 季

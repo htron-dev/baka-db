@@ -1,5 +1,7 @@
 # Yami ni Tooboe, Mune ni Toge
 
+![yami-ni-tooboe-mune-ni-toge](https://cdn.myanimelist.net/images/manga/3/23021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

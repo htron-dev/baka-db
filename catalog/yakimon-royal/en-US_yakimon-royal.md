@@ -1,5 +1,7 @@
 # Yakimon Royal
 
+![yakimon-royal](https://cdn.myanimelist.net/images/manga/3/247170.jpg)
+
 -   **type**: manga
 -   **original-name**: やきもんロワイヤル
 -   **start-date**: 2020-02-21

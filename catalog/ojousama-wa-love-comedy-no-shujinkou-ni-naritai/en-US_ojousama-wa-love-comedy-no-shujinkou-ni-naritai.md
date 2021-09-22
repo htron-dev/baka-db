@@ -1,5 +1,7 @@
 # Ojousama wa Love Comedy no Shujinkou ni Naritai!
 
+![ojousama-wa-love-comedy-no-shujinkou-ni-naritai](https://cdn.myanimelist.net/images/manga/1/230780.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

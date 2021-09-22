@@ -1,5 +1,7 @@
 # Abyss
 
+![abyss](https://cdn.myanimelist.net/images/manga/3/144377.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

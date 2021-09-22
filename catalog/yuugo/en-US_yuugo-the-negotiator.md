@@ -1,5 +1,7 @@
 # Yuugo: The Negotiator
 
+![yuugo-the-negotiator](https://cdn.myanimelist.net/images/manga/3/180339.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 187

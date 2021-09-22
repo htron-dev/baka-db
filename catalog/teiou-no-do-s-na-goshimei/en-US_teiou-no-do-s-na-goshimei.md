@@ -1,5 +1,7 @@
 # Teiou no Do S na Goshimei
 
+![teiou-no-do-s-na-goshimei](https://cdn.myanimelist.net/images/manga/3/84749.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

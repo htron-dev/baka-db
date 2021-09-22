@@ -1,5 +1,7 @@
 # Mangaka Tantei Hiyoko
 
+![mangaka-tantei-hiyoko](https://cdn.myanimelist.net/images/manga/3/161653.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

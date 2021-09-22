@@ -1,5 +1,7 @@
 # Kore wa Koi desu
 
+![kore-wa-koi-desu](https://cdn.myanimelist.net/images/manga/2/158544.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: これは恋です

@@ -1,5 +1,7 @@
 # Akusaga
 
+![akusaga](https://cdn.myanimelist.net/images/manga/2/6306.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

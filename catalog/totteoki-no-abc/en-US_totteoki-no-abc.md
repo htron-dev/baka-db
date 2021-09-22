@@ -1,5 +1,7 @@
 # Totteoki no ABC
 
+![totteoki-no-abc](https://cdn.myanimelist.net/images/manga/3/44243.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: とっておきの ABC

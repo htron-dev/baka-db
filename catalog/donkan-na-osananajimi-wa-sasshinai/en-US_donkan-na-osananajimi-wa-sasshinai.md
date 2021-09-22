@@ -1,5 +1,7 @@
 # Donkan na Osananajimi wa Sasshinai!
 
+![donkan-na-osananajimi-wa-sasshinai](https://cdn.myanimelist.net/images/manga/3/226315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

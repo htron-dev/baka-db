@@ -1,5 +1,7 @@
 # Over Rev!
 
+![over-rev](https://cdn.myanimelist.net/images/manga/3/179566.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **chapters**: 349

@@ -1,5 +1,7 @@
 # Dash! Kappei
 
+![dash-kappei](https://cdn.myanimelist.net/images/manga/3/227039.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 157

@@ -1,5 +1,7 @@
 # Shaonu Qianxian: Renxing Xiao Juchang
 
+![shaonu-qianxian-renxing-xiao-juchang](https://cdn.myanimelist.net/images/anime/1225/102606.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 少女前线 人形小剧场

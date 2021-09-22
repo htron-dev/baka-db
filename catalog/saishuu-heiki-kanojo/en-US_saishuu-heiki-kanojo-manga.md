@@ -1,5 +1,7 @@
 # Saishuu Heiki Kanojo
 
+![saishuu-heiki-kanojo](https://cdn.myanimelist.net/images/manga/1/120281.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 72

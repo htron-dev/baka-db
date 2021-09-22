@@ -1,5 +1,7 @@
 # Sousou no Frieren
 
+![sousou-no-frieren](https://cdn.myanimelist.net/images/manga/3/232121.jpg)
+
 -   **type**: manga
 -   **original-name**: 葬送のフリーレン
 -   **start-date**: 2020-04-28

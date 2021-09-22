@@ -1,5 +1,7 @@
 # Hatsukoi wa Marude Yaiba no You ni
 
+![hatsukoi-wa-marude-yaiba-no-you-ni](https://cdn.myanimelist.net/images/manga/1/173085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

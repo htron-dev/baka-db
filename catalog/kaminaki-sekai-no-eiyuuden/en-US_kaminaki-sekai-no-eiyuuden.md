@@ -1,5 +1,7 @@
 # Kaminaki Sekai no Eiyuuden
 
+![kaminaki-sekai-no-eiyuuden](https://cdn.myanimelist.net/images/manga/2/243688.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

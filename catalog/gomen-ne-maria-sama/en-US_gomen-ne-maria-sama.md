@@ -1,5 +1,7 @@
 # Gomen ne, Maria-sama
 
+![gomen-ne-maria-sama](https://cdn.myanimelist.net/images/manga/3/36881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ごめんね、マリア様

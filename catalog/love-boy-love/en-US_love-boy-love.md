@@ -1,5 +1,7 @@
 # Love Boy Love
 
+![love-boy-love](https://cdn.myanimelist.net/images/manga/1/222720.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Fukuyadou Honpo
 
+![fukuyadou-honpo](https://cdn.myanimelist.net/images/manga/2/189291.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 50

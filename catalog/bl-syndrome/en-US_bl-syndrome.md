@@ -1,5 +1,7 @@
 # BL Syndrome
 
+![bl-syndrome](https://cdn.myanimelist.net/images/manga/2/141975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

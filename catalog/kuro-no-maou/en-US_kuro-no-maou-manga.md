@@ -1,5 +1,7 @@
 # Kuro no Maou
 
+![kuro-no-maou](https://cdn.myanimelist.net/images/manga/1/216127.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

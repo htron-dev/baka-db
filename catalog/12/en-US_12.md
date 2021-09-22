@@ -1,5 +1,7 @@
 # 12
 
+![12](https://cdn.myanimelist.net/images/manga/2/70229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

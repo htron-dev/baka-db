@@ -1,5 +1,7 @@
 # Boku wa Ou-sama (TV)
 
+![boku-wa-ou-sama-tv](https://cdn.myanimelist.net/images/anime/3/48845.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ぼくは王さま (2013)

@@ -1,5 +1,7 @@
 # Shinmai
 
+![shinmai](https://cdn.myanimelist.net/images/anime/7/83673.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 新米

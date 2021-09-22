@@ -1,5 +1,7 @@
 # Sono Kuchibiru ni Yoru no Tsuyu
 
+![sono-kuchibiru-ni-yoru-no-tsuyu](https://cdn.myanimelist.net/images/manga/1/29810.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

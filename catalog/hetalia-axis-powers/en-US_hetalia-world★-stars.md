@@ -1,5 +1,7 @@
 # Hetalia World★Stars
 
+![hetalia-world★-stars](https://cdn.myanimelist.net/images/anime/1698/111088.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ヘタリア World★Stars

@@ -1,5 +1,7 @@
 # Jinryoku Senkan!? Shiokaze Sawakaze
 
+![jinryoku-senkan-shiokaze-sawakaze](https://cdn.myanimelist.net/images/anime/7/87633.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 人力戦艦！？汐風澤風

@@ -1,5 +1,7 @@
 # Tokumu Sentai Ibuki
 
+![tokumu-sentai-ibuki](https://cdn.myanimelist.net/images/manga/2/11602.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

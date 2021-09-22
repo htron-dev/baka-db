@@ -1,5 +1,7 @@
 # Koibana!: Koiseyo Hanabi
 
+![koibana-koiseyo-hanabi](https://cdn.myanimelist.net/images/manga/3/191476.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 70

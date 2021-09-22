@@ -1,5 +1,7 @@
 # Resin Cast Milk
 
+![resin-cast-milk](https://cdn.myanimelist.net/images/manga/1/148439.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: レジンキャストミルク

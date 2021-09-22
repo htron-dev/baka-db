@@ -1,5 +1,7 @@
 # Hyouketsu Kyoukai no Eden
 
+![hyouketsu-kyoukai-no-eden](https://cdn.myanimelist.net/images/manga/1/119935.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: 氷結鏡界のエデン

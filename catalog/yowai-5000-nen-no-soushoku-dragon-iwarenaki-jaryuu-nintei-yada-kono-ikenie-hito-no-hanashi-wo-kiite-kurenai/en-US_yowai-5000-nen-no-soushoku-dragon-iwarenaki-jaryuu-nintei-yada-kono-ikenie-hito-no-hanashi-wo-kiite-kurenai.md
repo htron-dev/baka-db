@@ -1,5 +1,7 @@
 # Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei: Yada Kono Ikenie, Hito no Hanashi wo Kiite Kurenai
 
+![yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei-yada-kono-ikenie-hito-no-hanashi-wo-kiite-kurenai](https://cdn.myanimelist.net/images/manga/2/217908.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

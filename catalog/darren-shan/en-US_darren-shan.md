@@ -1,5 +1,7 @@
 # Darren Shan
 
+![darren-shan](https://cdn.myanimelist.net/images/manga/1/177657.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 114

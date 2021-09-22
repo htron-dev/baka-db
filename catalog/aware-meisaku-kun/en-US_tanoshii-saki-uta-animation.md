@@ -1,5 +1,7 @@
 # Tanoshii Saki Uta Animation
 
+![tanoshii-saki-uta-animation](https://cdn.myanimelist.net/images/anime/6/84511.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 楽しいさき歌アニメーション

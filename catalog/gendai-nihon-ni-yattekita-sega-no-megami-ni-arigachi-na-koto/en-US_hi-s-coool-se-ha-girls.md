@@ -1,5 +1,7 @@
 # Hi☆sCoool! SeHa Girls
 
+![hi☆s-coool-se-ha-girls](https://cdn.myanimelist.net/images/anime/5/66173.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: Hi☆sCoool! セハガール

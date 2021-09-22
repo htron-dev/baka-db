@@ -1,5 +1,7 @@
 # Oshiete♥Maria
 
+![oshiete♥-maria](https://cdn.myanimelist.net/images/manga/2/121079.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

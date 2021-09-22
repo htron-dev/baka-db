@@ -1,5 +1,7 @@
 # Ashita Tenki ni Naare Omake
 
+![ashita-tenki-ni-naare-omake](https://cdn.myanimelist.net/images/anime/13/76381.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あした天気になあれ おまけ 「ワンポイント・レッスン」

@@ -1,5 +1,7 @@
 # Go Go Kikaku
 
+![go-go-kikaku](https://cdn.myanimelist.net/images/manga/1/2550.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

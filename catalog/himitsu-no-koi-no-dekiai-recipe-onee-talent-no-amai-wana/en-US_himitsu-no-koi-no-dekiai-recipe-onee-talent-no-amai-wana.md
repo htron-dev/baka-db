@@ -1,5 +1,7 @@
 # Himitsu no Koi no Dekiai Recipe: Onee Talent no Amai Wana
 
+![himitsu-no-koi-no-dekiai-recipe-onee-talent-no-amai-wana](https://cdn.myanimelist.net/images/manga/2/195635.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Wallaby
 
+![wallaby](https://cdn.myanimelist.net/images/manga/4/4445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

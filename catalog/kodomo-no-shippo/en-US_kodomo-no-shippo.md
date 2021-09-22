@@ -1,5 +1,7 @@
 # Kodomo no Shippo
 
+![kodomo-no-shippo](https://cdn.myanimelist.net/images/manga/2/22285.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: こどものしっぽ

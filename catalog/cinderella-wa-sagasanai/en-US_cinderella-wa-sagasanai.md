@@ -1,5 +1,7 @@
 # Cinderella wa Sagasanai.
 
+![cinderella-wa-sagasanai](https://cdn.myanimelist.net/images/manga/4/250306.jpg)
+
 -   **type**: manga
 -   **original-name**: シンデレラは探さない。
 -   **start-date**: 2020-05-24

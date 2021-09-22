@@ -1,5 +1,7 @@
 # Kawaii Joshi ga Benkyou wo Oshiete Kureru to Omotta Ore ga Baka Deshita
 
+![kawaii-joshi-ga-benkyou-wo-oshiete-kureru-to-omotta-ore-ga-baka-deshita](https://cdn.myanimelist.net/images/manga/3/128573.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 可愛い女子が勉強を教えてくれると思った俺がバカでした

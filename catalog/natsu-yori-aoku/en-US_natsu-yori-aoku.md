@@ -1,5 +1,7 @@
 # Natsu yori Aoku
 
+![natsu-yori-aoku](https://cdn.myanimelist.net/images/manga/3/237835.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Jutten!
 
+![jutten](https://cdn.myanimelist.net/images/manga/3/23946.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

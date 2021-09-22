@@ -1,5 +1,7 @@
 # Sora no Shita Yane no Naka
 
+![sora-no-shita-yane-no-naka](https://cdn.myanimelist.net/images/manga/1/111967.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

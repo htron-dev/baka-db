@@ -1,5 +1,7 @@
 # Tsumugu Otome to Taishou no Tsuki
 
+![tsumugu-otome-to-taishou-no-tsuki](https://cdn.myanimelist.net/images/manga/1/246317.jpg)
+
 -   **type**: manga
 -   **original-name**: 紡ぐ乙女と大正の月
 -   **start-date**: 2019-07-26

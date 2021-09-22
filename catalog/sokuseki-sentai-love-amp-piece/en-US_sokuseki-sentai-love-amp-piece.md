@@ -1,5 +1,7 @@
 # Sokuseki Sentai Love &amp; Piece
 
+![sokuseki-sentai-love-amp-piece](https://cdn.myanimelist.net/images/manga/2/10958.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 即席戦隊ラブ&ピース

@@ -1,5 +1,7 @@
 # Baby Princess 3D Paradise 0 [Love]
 
+![baby-princess-3-d-paradise-0-love](https://cdn.myanimelist.net/images/anime/9/85043.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ベイビー・プリンセス 3D ぱらだいす 0[ラブ]

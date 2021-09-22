@@ -1,5 +1,7 @@
 # Zettai Donkan
 
+![zettai-donkan](https://cdn.myanimelist.net/images/manga/3/150669.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

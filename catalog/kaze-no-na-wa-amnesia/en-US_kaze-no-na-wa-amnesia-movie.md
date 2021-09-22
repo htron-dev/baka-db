@@ -1,5 +1,7 @@
 # Kaze no Na wa Amnesia
 
+![kaze-no-na-wa-amnesia](https://cdn.myanimelist.net/images/anime/1/1793.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風の名はアムネジア

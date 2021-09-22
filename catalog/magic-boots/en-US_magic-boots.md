@@ -1,5 +1,7 @@
 # Magic Boots
 
+![magic-boots](https://cdn.myanimelist.net/images/manga/2/12367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Hana no Ie
 
+![hana-no-ie](https://cdn.myanimelist.net/images/manga/1/229367.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

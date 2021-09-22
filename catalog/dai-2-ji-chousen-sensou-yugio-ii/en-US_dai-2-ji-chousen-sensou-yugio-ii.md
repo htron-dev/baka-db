@@ -1,5 +1,7 @@
 # Dai 2-ji Chousen Sensou: Yugio II
 
+![dai-2-ji-chousen-sensou-yugio-ii](https://cdn.myanimelist.net/images/manga/1/131931.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 第 2 次朝鮮戦争 ユギオ II

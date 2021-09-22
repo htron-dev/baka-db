@@ -1,5 +1,7 @@
 # Makoto-chan
 
+![makoto-chan](https://cdn.myanimelist.net/images/anime/1641/109775.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まことちゃん

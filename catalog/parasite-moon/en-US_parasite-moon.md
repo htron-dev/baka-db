@@ -1,5 +1,7 @@
 # Parasite Moon
 
+![parasite-moon](https://cdn.myanimelist.net/images/manga/1/164261.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: パラサイトムーン

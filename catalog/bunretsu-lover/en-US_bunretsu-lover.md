@@ -1,5 +1,7 @@
 # Bunretsu Lover
 
+![bunretsu-lover](https://cdn.myanimelist.net/images/manga/3/215652.jpg)
+
 -   **type**: manga
 -   **original-name**: 分裂ラバー
 -   **start-date**: 2018-09-09

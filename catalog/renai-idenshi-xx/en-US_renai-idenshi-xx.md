@@ -1,5 +1,7 @@
 # Renai Idenshi XX
 
+![renai-idenshi-xx](https://cdn.myanimelist.net/images/manga/4/63877.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Shirobara-sama no Iutoori.
 
+![shirobara-sama-no-iutoori](https://cdn.myanimelist.net/images/manga/1/212362.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

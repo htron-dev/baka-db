@@ -1,5 +1,7 @@
 # Isekai de Item Collector
 
+![isekai-de-item-collector](https://cdn.myanimelist.net/images/manga/3/181833.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界でアイテムコレクター
 -   **start-date**: 2016-08-10

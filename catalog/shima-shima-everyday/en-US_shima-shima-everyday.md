@@ -1,5 +1,7 @@
 # Shima Shima Everyday
 
+![shima-shima-everyday](https://cdn.myanimelist.net/images/manga/1/72051.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: しましまえぶりでぃ

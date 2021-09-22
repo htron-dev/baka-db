@@ -1,5 +1,7 @@
 # Crayon Shin-chan x Panpaka Pants: Aeon Cinema Manner Movie Collab
 
+![crayon-shin-chan-x-panpaka-pants-aeon-cinema-manner-movie-collab](https://cdn.myanimelist.net/images/anime/8/84745.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: クレヨンしんちゃん × パンパカパンツ　イオンシネママナームービーコラボ

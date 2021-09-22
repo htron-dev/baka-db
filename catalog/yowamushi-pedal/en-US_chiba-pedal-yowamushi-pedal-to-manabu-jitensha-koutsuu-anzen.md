@@ -1,5 +1,7 @@
 # Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen
 
+![chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/13/80640.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: ちばペダル ~弱虫ペダルと学ぶ自転車交通安全~

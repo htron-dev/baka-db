@@ -1,5 +1,7 @@
 # Seinaru Hanayome no Hanran
 
+![seinaru-hanayome-no-hanran](https://cdn.myanimelist.net/images/manga/2/158456.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

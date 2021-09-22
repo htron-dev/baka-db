@@ -1,5 +1,7 @@
 # Savage Garden
 
+![savage-garden](https://cdn.myanimelist.net/images/manga/5/40142.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 29

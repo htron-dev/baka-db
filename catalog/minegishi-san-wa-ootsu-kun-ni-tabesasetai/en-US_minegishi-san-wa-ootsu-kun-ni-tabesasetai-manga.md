@@ -1,5 +1,7 @@
 # Minegishi-san wa Ootsu-kun ni Tabesasetai
 
+![minegishi-san-wa-ootsu-kun-ni-tabesasetai](https://cdn.myanimelist.net/images/manga/1/233923.jpg)
+
 -   **type**: manga
 -   **original-name**: 峰岸さんは大津くんに食べさせたい
 -   **start-date**: 2019-10-10

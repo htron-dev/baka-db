@@ -1,5 +1,7 @@
 # Narsha
 
+![narsha](https://cdn.myanimelist.net/images/manga/2/58095.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 나르샤
 -   **start-date**: 2011-10-20

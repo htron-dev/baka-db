@@ -1,5 +1,7 @@
 # Fuwari! Don Patch
 
+![fuwari-don-patch](https://cdn.myanimelist.net/images/manga/1/130273.jpg)
+
 -   **type**: manga
 -   **chapters**: 33
 -   **original-name**: ふわり!どんぱっち

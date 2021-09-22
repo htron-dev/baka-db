@@ -1,5 +1,7 @@
 # Danshi ing Girl!
 
+![danshi-ing-girl](https://cdn.myanimelist.net/images/manga/1/39550.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

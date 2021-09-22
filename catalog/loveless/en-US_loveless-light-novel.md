@@ -1,5 +1,7 @@
 # Loveless
 
+![loveless](https://cdn.myanimelist.net/images/manga/2/18136.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: LOVELESS

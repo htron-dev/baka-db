@@ -1,5 +1,7 @@
 # Kamo ga Suki
 
+![kamo-ga-suki](https://cdn.myanimelist.net/images/anime/1171/102389.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 鴨が好き

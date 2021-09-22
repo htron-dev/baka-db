@@ -1,5 +1,7 @@
 # Yume Touka End Roll
 
+![yume-touka-end-roll](https://cdn.myanimelist.net/images/manga/3/104009.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

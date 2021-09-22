@@ -1,5 +1,7 @@
 # Wagaya no Koutsuu Anzen: Chichi to no Yakusoku
 
+![wagaya-no-koutsuu-anzen-chichi-to-no-yakusoku](https://cdn.myanimelist.net/images/anime/5/84782.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 我が家の交通安全 父との約束

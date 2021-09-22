@@ -1,5 +1,7 @@
 # Utsu Gohan
 
+![utsu-gohan](https://cdn.myanimelist.net/images/manga/2/211007.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬱ごはん
 -   **start-date**: 2010-02-16

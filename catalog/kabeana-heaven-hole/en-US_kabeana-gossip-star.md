@@ -1,5 +1,7 @@
 # Kabeana Gossip Star
 
+![kabeana-gossip-star](https://cdn.myanimelist.net/images/manga/1/231379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

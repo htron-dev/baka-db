@@ -1,5 +1,7 @@
 # Mune ga Kowaresou
 
+![mune-ga-kowaresou](https://cdn.myanimelist.net/images/manga/1/181203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

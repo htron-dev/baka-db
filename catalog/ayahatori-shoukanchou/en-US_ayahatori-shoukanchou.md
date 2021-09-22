@@ -1,5 +1,7 @@
 # Ayahatori Shoukanchou
 
+![ayahatori-shoukanchou](https://cdn.myanimelist.net/images/manga/3/110699.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

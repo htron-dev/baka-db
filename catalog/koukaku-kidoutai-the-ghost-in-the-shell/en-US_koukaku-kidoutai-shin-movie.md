@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Shin Movie
 
+![koukaku-kidoutai-shin-movie](https://cdn.myanimelist.net/images/anime/2/72690.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 攻殻機動隊 新劇場版

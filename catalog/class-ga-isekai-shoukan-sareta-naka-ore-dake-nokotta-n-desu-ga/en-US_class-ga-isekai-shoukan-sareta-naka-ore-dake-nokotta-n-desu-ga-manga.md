@@ -1,5 +1,7 @@
 # Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga
 
+![class-ga-isekai-shoukan-sareta-naka-ore-dake-nokotta-n-desu-ga](https://cdn.myanimelist.net/images/manga/3/210481.jpg)
+
 -   **type**: manga
 -   **original-name**: クラスが異世界召喚されたなか俺だけ残ったんですが
 -   **start-date**: 2017-12-01

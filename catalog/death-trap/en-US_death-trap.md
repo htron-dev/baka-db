@@ -1,5 +1,7 @@
 # Death Trap
 
+![death-trap](https://cdn.myanimelist.net/images/manga/2/107241.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: DEATH TRAP

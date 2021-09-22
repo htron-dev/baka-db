@@ -1,5 +1,7 @@
 # Neko Enikki
 
+![neko-enikki](https://cdn.myanimelist.net/images/anime/7/75429.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 猫絵日記

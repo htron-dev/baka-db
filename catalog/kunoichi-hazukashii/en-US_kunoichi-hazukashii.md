@@ -1,5 +1,7 @@
 # Kunoichi Hazukashii
 
+![kunoichi-hazukashii](https://cdn.myanimelist.net/images/manga/3/240342.jpg)
+
 -   **type**: manga
 -   **original-name**: くのいちはずかしい
 -   **start-date**: 2021-01-27

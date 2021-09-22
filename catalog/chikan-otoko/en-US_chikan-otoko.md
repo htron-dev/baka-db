@@ -1,5 +1,7 @@
 # Chikan Otoko
 
+![chikan-otoko](https://cdn.myanimelist.net/images/manga/4/155148.jpg)
+
 -   **type**: manga
 -   **chapters**: 21
 -   **original-name**: 痴漢男

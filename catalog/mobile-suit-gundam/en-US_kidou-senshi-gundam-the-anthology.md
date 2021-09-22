@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: The Anthology
 
+![kidou-senshi-gundam-the-anthology](https://cdn.myanimelist.net/images/manga/3/147401.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33

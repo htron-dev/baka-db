@@ -1,5 +1,7 @@
 # Macross Δ: Kuroki Tsubasa no Shiro Kishi
 
+![macross-δ-kuroki-tsubasa-no-shiro-kishi](https://cdn.myanimelist.net/images/manga/2/185158.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

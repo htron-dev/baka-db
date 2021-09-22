@@ -1,5 +1,7 @@
 # Itsuka Minoreba
 
+![itsuka-minoreba](https://cdn.myanimelist.net/images/manga/2/196508.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

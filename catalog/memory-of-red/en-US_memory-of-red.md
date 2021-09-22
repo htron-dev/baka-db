@@ -1,5 +1,7 @@
 # Memory of Red
 
+![memory-of-red](https://cdn.myanimelist.net/images/anime/9/74283.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **start-date**: 2004-01-20

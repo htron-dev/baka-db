@@ -1,5 +1,7 @@
 # Pokemon Fushigi no Dungeon: Shutsudou Pokemon Kyuujotai Ganbaruzu!
 
+![pokemon-fushigi-no-dungeon-shutsudou-pokemon-kyuujotai-ganbaruzu](https://cdn.myanimelist.net/images/anime/1445/92964.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポケモン不思議のダンジョン 出動ポケモン救助隊ガンバルズ！

@@ -1,5 +1,7 @@
 # King of♡Gakuen Labyrinth
 
+![king-of♡-gakuen-labyrinth](https://cdn.myanimelist.net/images/manga/1/153377.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: キングオブ ♡ 学園ラビリンス

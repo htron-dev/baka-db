@@ -1,5 +1,7 @@
 # Antiliteral no Arcanist
 
+![antiliteral-no-arcanist](https://cdn.myanimelist.net/images/manga/3/164645.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: アンチリテラルの数秘術師〈アルケニスト〉

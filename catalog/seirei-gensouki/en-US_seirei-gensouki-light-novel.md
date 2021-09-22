@@ -1,5 +1,7 @@
 # Seirei Gensouki
 
+![seirei-gensouki](https://cdn.myanimelist.net/images/manga/3/164868.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 精霊幻想記
 -   **start-date**: 2015-10-01

@@ -1,5 +1,7 @@
 # Gunshi-hime
 
+![gunshi-hime](https://cdn.myanimelist.net/images/manga/1/192312.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 軍師姫

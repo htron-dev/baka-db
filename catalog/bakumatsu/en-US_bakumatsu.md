@@ -1,5 +1,7 @@
 # Bakumatsu
 
+![bakumatsu](https://cdn.myanimelist.net/images/anime/1764/95110.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: BAKUMATSU

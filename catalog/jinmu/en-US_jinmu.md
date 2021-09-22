@@ -1,5 +1,7 @@
 # Jinmu
 
+![jinmu](https://cdn.myanimelist.net/images/manga/2/166512.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 神武

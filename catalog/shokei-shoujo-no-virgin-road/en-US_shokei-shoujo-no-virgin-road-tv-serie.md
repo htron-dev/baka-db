@@ -1,5 +1,7 @@
 # Shokei Shoujo no Virgin Road
 
+![shokei-shoujo-no-virgin-road](https://cdn.myanimelist.net/images/anime/1441/116569.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 処刑少女の生きる道〈バージンロード〉
 -   **rating**: None

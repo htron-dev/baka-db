@@ -1,5 +1,7 @@
 # Lady Rose wa Heimin ni Naritai
 
+![lady-rose-wa-heimin-ni-naritai](https://cdn.myanimelist.net/images/manga/3/216678.jpg)
+
 -   **type**: light-novel
 -   **original-name**: レディローズは平民になりたい
 -   **start-date**: 2016-12-28

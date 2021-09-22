@@ -1,5 +1,7 @@
 # Tsuma wa Moto Hero
 
+![tsuma-wa-moto-hero](https://cdn.myanimelist.net/images/manga/1/246777.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

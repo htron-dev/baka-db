@@ -1,5 +1,7 @@
 # Honto ni Atta Gakkou Kaidan
 
+![honto-ni-atta-gakkou-kaidan](https://cdn.myanimelist.net/images/anime/7/89844.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ほんとにあった学校怪談

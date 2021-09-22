@@ -1,5 +1,7 @@
 # Shachou, Battle no Jikan Desu!
 
+![shachou-battle-no-jikan-desu](https://cdn.myanimelist.net/images/anime/1044/106309.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 社長, バトルの時間です!

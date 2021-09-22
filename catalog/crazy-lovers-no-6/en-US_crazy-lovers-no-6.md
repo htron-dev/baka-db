@@ -1,5 +1,7 @@
 # Crazy Lovers No.6
 
+![crazy-lovers-no-6](https://cdn.myanimelist.net/images/manga/3/7501.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: クレイジーラバーズ No.6

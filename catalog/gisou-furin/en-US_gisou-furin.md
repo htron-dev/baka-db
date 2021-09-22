@@ -1,5 +1,7 @@
 # Gisou Furin
 
+![gisou-furin](https://cdn.myanimelist.net/images/manga/1/220150.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 偽装不倫

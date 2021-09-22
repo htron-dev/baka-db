@@ -1,5 +1,7 @@
 # Kekkon wo Iwau Usagi to Tora
 
+![kekkon-wo-iwau-usagi-to-tora](https://cdn.myanimelist.net/images/anime/4/84257.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 結婚を祝う兎と虎

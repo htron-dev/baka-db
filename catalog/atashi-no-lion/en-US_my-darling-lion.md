@@ -1,5 +1,7 @@
 # My Darling Lion
 
+![my-darling-lion](https://cdn.myanimelist.net/images/manga/2/7277.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: My ダーリン・ライオン

@@ -1,5 +1,7 @@
 # Ultra Nyan: Hoshizora kara Maiorita Fushigi Neko
 
+![ultra-nyan-hoshizora-kara-maiorita-fushigi-neko](https://cdn.myanimelist.net/images/anime/2/27593.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ウルトラニャン　星空から舞い降りたふしぎネコ

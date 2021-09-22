@@ -1,5 +1,7 @@
 # Hiiro no Kakera: Mezame no Toki
 
+![hiiro-no-kakera-mezame-no-toki](https://cdn.myanimelist.net/images/manga/3/16641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

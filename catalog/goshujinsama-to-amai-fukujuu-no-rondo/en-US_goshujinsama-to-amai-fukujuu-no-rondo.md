@@ -1,5 +1,7 @@
 # Goshujinsama to Amai Fukujuu no Rondo
 
+![goshujinsama-to-amai-fukujuu-no-rondo](https://cdn.myanimelist.net/images/manga/3/182122.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

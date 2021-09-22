@@ -1,5 +1,7 @@
 # Bokura no Mura ni wa Mizuumi ga Atta
 
+![bokura-no-mura-ni-wa-mizuumi-ga-atta](https://cdn.myanimelist.net/images/manga/1/24147.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぼくらの村には湖があった

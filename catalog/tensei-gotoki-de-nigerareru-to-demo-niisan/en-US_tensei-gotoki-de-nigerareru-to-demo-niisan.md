@@ -1,5 +1,7 @@
 # Tensei Gotoki de Nigerareru to demo, Niisan?
 
+![tensei-gotoki-de-nigerareru-to-demo-niisan](https://cdn.myanimelist.net/images/manga/3/246285.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生ごときで逃げられるとでも、兄さん？
 -   **start-date**: 2020-10-02

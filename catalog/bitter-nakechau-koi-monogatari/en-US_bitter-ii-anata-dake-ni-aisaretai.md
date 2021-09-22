@@ -1,5 +1,7 @@
 # Bitter II: Anata dake ni Aisaretai
 
+![bitter-ii-anata-dake-ni-aisaretai](https://cdn.myanimelist.net/images/manga/5/108521.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

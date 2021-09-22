@@ -1,5 +1,7 @@
 # Anime Sanjuushi: Aramis no Bouken
 
+![anime-sanjuushi-aramis-no-bouken](https://cdn.myanimelist.net/images/anime/6/2601.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アニメ三銃士　アラミスの冒険

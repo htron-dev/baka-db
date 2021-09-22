@@ -1,5 +1,7 @@
 # D.Gray-man
 
+![d-gray-man](https://cdn.myanimelist.net/images/manga/3/28084.jpg)
+
 -   **type**: manga
 -   **original-name**: D.Gray-man
 -   **start-date**: 2004-05-31

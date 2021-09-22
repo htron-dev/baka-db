@@ -1,5 +1,7 @@
 # Tiger &amp; Bunny 2
 
+![tiger-amp-bunny-2](https://cdn.myanimelist.net/images/anime/1252/106838.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: TIGER & BUNNY 2
 -   **rating**: PG-13 - Teens 13 or older

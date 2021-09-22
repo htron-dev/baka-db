@@ -1,5 +1,7 @@
 # Torokeru Chouai Celluloid
 
+![torokeru-chouai-celluloid](https://cdn.myanimelist.net/images/manga/2/237929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

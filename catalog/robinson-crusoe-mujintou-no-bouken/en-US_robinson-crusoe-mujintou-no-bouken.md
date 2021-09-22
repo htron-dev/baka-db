@@ -1,5 +1,7 @@
 # Robinson Crusoe: Mujintou no Bouken
 
+![robinson-crusoe-mujintou-no-bouken](https://cdn.myanimelist.net/images/anime/13/85538.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ロビンソンクルーソー　無人島の冒険

@@ -1,5 +1,7 @@
 # World Embryo
 
+![world-embryo](https://cdn.myanimelist.net/images/manga/3/53321.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 97

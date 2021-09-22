@@ -1,5 +1,7 @@
 # Hadaka no Ouji-sama: Love Kingdom
 
+![hadaka-no-ouji-sama-love-kingdom](https://cdn.myanimelist.net/images/manga/4/35642.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

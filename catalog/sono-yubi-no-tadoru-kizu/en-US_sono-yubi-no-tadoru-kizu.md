@@ -1,5 +1,7 @@
 # Sono Yubi no Tadoru Kizu
 
+![sono-yubi-no-tadoru-kizu](https://cdn.myanimelist.net/images/manga/2/8780.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

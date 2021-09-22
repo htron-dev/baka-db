@@ -1,5 +1,7 @@
 # Ten no Ketsumyaku
 
+![ten-no-ketsumyaku](https://cdn.myanimelist.net/images/manga/1/166229.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 50

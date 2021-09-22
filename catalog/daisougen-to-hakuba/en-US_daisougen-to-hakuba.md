@@ -1,5 +1,7 @@
 # Daisougen to Hakuba
 
+![daisougen-to-hakuba](https://cdn.myanimelist.net/images/anime/1000/112502.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 大草原と白馬

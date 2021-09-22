@@ -1,5 +1,7 @@
 # Koi Kaze
 
+![koi-kaze](https://cdn.myanimelist.net/images/manga/2/194394.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

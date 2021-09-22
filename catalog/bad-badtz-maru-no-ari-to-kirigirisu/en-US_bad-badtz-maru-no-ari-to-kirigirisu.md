@@ -1,5 +1,7 @@
 # Bad Badtz-Maru no Ari to Kirigirisu
 
+![bad-badtz-maru-no-ari-to-kirigirisu](https://cdn.myanimelist.net/images/anime/9/58881.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バッドばつ丸のアリとキリギリス

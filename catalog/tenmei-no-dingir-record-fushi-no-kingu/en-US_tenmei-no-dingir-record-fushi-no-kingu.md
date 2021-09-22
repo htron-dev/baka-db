@@ -1,5 +1,7 @@
 # Tenmei no Dingir Record: Fushi no Kingu
 
+![tenmei-no-dingir-record-fushi-no-kingu](https://cdn.myanimelist.net/images/manga/2/161056.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Love &amp; Hate
 
+![love-amp-hate](https://cdn.myanimelist.net/images/manga/3/202557.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Cutie Honey a Go Go!
 
+![cutie-honey-a-go-go](https://cdn.myanimelist.net/images/manga/2/109593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

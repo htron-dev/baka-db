@@ -1,5 +1,7 @@
 # Ayakashi-san to Tagaime no Hanayome
 
+![ayakashi-san-to-tagaime-no-hanayome](https://cdn.myanimelist.net/images/manga/2/222377.jpg)
+
 -   **type**: manga
 -   **original-name**: あやかしさんと異眼の花嫁
 -   **start-date**: 2019-08-05

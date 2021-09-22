@@ -1,5 +1,7 @@
 # Precure All Stars Movie New Stage: Mirai no Tomodachi
 
+![precure-all-stars-movie-new-stage-mirai-no-tomodachi](https://cdn.myanimelist.net/images/anime/8/39609.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 プリキュアオールスターズ New Stage みらいのともだち

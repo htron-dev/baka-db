@@ -1,5 +1,7 @@
 # Chikotan, Kowareru
 
+![chikotan-kowareru](https://cdn.myanimelist.net/images/manga/3/188828.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 69

@@ -1,5 +1,7 @@
 # 3-nen B-gumi: Necromancer-sensei
 
+![3-nen-b-gumi-necromancer-sensei](https://cdn.myanimelist.net/images/manga/2/203151.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

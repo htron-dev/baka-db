@@ -1,5 +1,7 @@
 # Sora to Umi no Aida
 
+![sora-to-umi-no-aida](https://cdn.myanimelist.net/images/anime/1297/97156.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ソラとウミのアイダ

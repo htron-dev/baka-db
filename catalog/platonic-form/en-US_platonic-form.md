@@ -1,5 +1,7 @@
 # Platonic Form
 
+![platonic-form](https://cdn.myanimelist.net/images/manga/3/69499.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

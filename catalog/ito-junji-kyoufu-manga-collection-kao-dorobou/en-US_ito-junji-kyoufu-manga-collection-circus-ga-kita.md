@@ -1,5 +1,7 @@
 # Ito Junji Kyoufu Manga Collection - Circus ga Kita
 
+![ito-junji-kyoufu-manga-collection-circus-ga-kita](https://cdn.myanimelist.net/images/manga/1/185884.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

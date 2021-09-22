@@ -1,5 +1,7 @@
 # Kare wa Ima, Koi wo Shiteiru.
 
+![kare-wa-ima-koi-wo-shiteiru](https://cdn.myanimelist.net/images/manga/2/167190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

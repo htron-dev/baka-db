@@ -1,5 +1,7 @@
 # Kaichou-sama no Oose no Mama ni
 
+![kaichou-sama-no-oose-no-mama-ni](https://cdn.myanimelist.net/images/manga/1/243982.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

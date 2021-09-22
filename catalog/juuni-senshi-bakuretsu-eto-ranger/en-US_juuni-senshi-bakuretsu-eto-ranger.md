@@ -1,5 +1,7 @@
 # Juuni Senshi Bakuretsu Eto Ranger
 
+![juuni-senshi-bakuretsu-eto-ranger](https://cdn.myanimelist.net/images/anime/12/21253.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 十二戦支　爆烈エトレンジャー

@@ -1,5 +1,7 @@
 # Junai no Lilith: Das Hexen Haus
 
+![junai-no-lilith-das-hexen-haus](https://cdn.myanimelist.net/images/manga/1/85129.jpg)
+
 -   **type**: manga
 -   **original-name**: 殉愛のリリス~DasHexenHaus~
 -   **start-date**: 2011-12-20

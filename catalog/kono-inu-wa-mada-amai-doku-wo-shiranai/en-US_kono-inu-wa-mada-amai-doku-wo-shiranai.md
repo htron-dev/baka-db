@@ -1,5 +1,7 @@
 # Kono Inu wa Mada Amai Doku wo Shiranai
 
+![kono-inu-wa-mada-amai-doku-wo-shiranai](https://cdn.myanimelist.net/images/manga/2/232062.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

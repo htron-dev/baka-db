@@ -1,5 +1,7 @@
 # Tuxedo Gin
 
+![tuxedo-gin](https://cdn.myanimelist.net/images/manga/3/130629.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 136

@@ -1,5 +1,7 @@
 # Kannousei Playthings
 
+![kannousei-playthings](https://cdn.myanimelist.net/images/manga/2/246337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

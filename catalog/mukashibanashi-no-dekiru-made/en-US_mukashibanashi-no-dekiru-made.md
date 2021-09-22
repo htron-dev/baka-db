@@ -1,5 +1,7 @@
 # Mukashibanashi no Dekiru made
 
+![mukashibanashi-no-dekiru-made](https://cdn.myanimelist.net/images/manga/1/158866.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

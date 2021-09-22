@@ -1,5 +1,7 @@
 # Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai
 
+![seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai](https://cdn.myanimelist.net/images/manga/2/184333.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

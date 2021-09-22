@@ -1,5 +1,7 @@
 # Gra-P &amp; Rodeo
 
+![gra-p-amp-rodeo](https://cdn.myanimelist.net/images/anime/10/67831.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 61
 -   **original-name**: ぐらＰ＆ろで夫

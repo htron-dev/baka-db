@@ -1,5 +1,7 @@
 # Jinrui wa Suitai Shimashita: Mikakunin Seibutsu Special
 
+![jinrui-wa-suitai-shimashita-mikakunin-seibutsu-special](https://cdn.myanimelist.net/images/manga/2/183772.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

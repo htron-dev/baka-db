@@ -1,5 +1,7 @@
 # Aoki Hagane no Arpeggio: Ars Nova - Kirikumas
 
+![aoki-hagane-no-arpeggio-ars-nova-kirikumas](https://cdn.myanimelist.net/images/anime/3/62109.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: 蒼き鋼のアルペジオ ‐アルス・ノヴァ‐霧くま s

@@ -1,5 +1,7 @@
 # Qingwa Wangguo: Zhi Bingdong Da Maoxian
 
+![qingwa-wangguo-zhi-bingdong-da-maoxian](https://cdn.myanimelist.net/images/anime/1174/112669.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 青蛙王国之冰冻大冒险

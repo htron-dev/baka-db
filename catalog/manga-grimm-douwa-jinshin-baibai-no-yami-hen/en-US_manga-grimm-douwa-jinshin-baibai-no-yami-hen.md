@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Jinshin Baibai no Yami-hen
 
+![manga-grimm-douwa-jinshin-baibai-no-yami-hen](https://cdn.myanimelist.net/images/manga/1/137337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

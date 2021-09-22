@@ -1,5 +1,7 @@
 # Rokudou Tousouki
 
+![rokudou-tousouki](https://cdn.myanimelist.net/images/manga/3/245697.jpg)
+
 -   **type**: manga
 -   **original-name**: 六道闘争紀
 -   **start-date**: 2021-02-05

@@ -1,5 +1,7 @@
 # Nee, Sensei?
 
+![nee-sensei](https://cdn.myanimelist.net/images/manga/2/19587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

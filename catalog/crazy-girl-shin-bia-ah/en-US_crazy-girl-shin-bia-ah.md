@@ -1,5 +1,7 @@
 # Crazy Girl Shin Bia-Ah
 
+![crazy-girl-shin-bia-ah](https://cdn.myanimelist.net/images/manga/3/18751.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 19
 -   **original-name**: 크레이지걸 신비아 異界로 가다!!

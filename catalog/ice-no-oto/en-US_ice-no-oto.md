@@ -1,5 +1,7 @@
 # Ice no Oto
 
+![ice-no-oto](https://cdn.myanimelist.net/images/manga/1/89171.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アイスノオト

@@ -1,5 +1,7 @@
 # Koishite Frozen
 
+![koishite-frozen](https://cdn.myanimelist.net/images/manga/3/182478.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋してフローズン

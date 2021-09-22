@@ -1,5 +1,7 @@
 # Holmes Meets Lupin
 
+![holmes-meets-lupin](https://cdn.myanimelist.net/images/manga/3/164019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

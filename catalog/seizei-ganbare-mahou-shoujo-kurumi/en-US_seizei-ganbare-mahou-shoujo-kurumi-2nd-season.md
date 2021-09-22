@@ -1,5 +1,7 @@
 # Seizei Ganbare! Mahou Shoujo Kurumi 2nd Season
 
+![seizei-ganbare-mahou-shoujo-kurumi-2nd-season](https://cdn.myanimelist.net/images/anime/1880/103502.jpg)
+
 -   **type**: ona
 -   **episodes**: 25
 -   **original-name**: せいぜいがんばれ！魔法少女くるみ 第 2 期

@@ -1,5 +1,7 @@
 # Kinka 1-mai de Kawaru Boukensha Seikatsu
 
+![kinka-1-mai-de-kawaru-boukensha-seikatsu](https://cdn.myanimelist.net/images/manga/1/234668.jpg)
+
 -   **type**: manga
 -   **original-name**: 金貨 1 枚で変わる冒険者生活
 -   **start-date**: 2020-01-26

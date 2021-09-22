@@ -1,5 +1,7 @@
 # Xiong Chumo: Xiongxiong Leyuan
 
+![xiong-chumo-xiongxiong-leyuan](https://cdn.myanimelist.net/images/anime/6/90002.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 熊出没之熊熊乐园

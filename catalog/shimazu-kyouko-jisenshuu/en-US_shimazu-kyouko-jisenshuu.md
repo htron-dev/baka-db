@@ -1,5 +1,7 @@
 # Shimazu Kyouko Jisenshuu
 
+![shimazu-kyouko-jisenshuu](https://cdn.myanimelist.net/images/manga/2/229565.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 62

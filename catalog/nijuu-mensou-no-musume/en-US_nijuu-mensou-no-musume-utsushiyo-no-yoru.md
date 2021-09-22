@@ -1,5 +1,7 @@
 # Nijuu Mensou no Musume: Utsushiyo no Yoru
 
+![nijuu-mensou-no-musume-utsushiyo-no-yoru](https://cdn.myanimelist.net/images/manga/2/171194.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

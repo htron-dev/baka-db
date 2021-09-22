@@ -1,5 +1,7 @@
 # Sakanai Sakura
 
+![sakanai-sakura](https://cdn.myanimelist.net/images/manga/1/172339.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

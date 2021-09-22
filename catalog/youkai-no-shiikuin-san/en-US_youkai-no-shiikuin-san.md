@@ -1,5 +1,7 @@
 # Youkai no Shiikuin-san
 
+![youkai-no-shiikuin-san](https://cdn.myanimelist.net/images/manga/2/189208.jpg)
+
 -   **type**: manga
 -   **original-name**: 妖怪の飼育員さん
 -   **start-date**: 2015-03-27

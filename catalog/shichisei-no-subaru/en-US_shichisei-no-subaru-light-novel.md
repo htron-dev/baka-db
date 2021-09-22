@@ -1,5 +1,7 @@
 # Shichisei no Subaru
 
+![shichisei-no-subaru](https://cdn.myanimelist.net/images/manga/3/212033.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 59

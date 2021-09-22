@@ -1,5 +1,7 @@
 # Uchuu no Kishi Tekkaman Blade
 
+![uchuu-no-kishi-tekkaman-blade](https://cdn.myanimelist.net/images/anime/2/54793.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 宇宙の騎士テッカマンブレード

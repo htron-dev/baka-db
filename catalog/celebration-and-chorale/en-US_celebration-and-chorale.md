@@ -1,5 +1,7 @@
 # Celebration and Chorale
 
+![celebration-and-chorale](https://cdn.myanimelist.net/images/anime/9/77601.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: celebration and chorale

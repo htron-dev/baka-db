@@ -1,5 +1,7 @@
 # 365 Ho no Yuuki!!!
 
+![365-ho-no-yuuki](https://cdn.myanimelist.net/images/manga/1/128361.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

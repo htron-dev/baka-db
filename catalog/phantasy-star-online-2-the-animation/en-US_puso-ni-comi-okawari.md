@@ -1,5 +1,7 @@
 # Puso Ni Comi: Okawari
 
+![puso-ni-comi-okawari](https://cdn.myanimelist.net/images/anime/1466/106923.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: ぷそ煮コミおかわり

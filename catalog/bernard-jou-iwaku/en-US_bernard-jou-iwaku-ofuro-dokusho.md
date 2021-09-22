@@ -1,5 +1,7 @@
 # Bernard-jou Iwaku.: Ofuro Dokusho
 
+![bernard-jou-iwaku-ofuro-dokusho](https://cdn.myanimelist.net/images/anime/11/89664.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: バーナード嬢曰く。おふろ読書

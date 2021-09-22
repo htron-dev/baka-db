@@ -1,5 +1,7 @@
 # Gokuudou
 
+![gokuudou](https://cdn.myanimelist.net/images/manga/3/239726.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 122

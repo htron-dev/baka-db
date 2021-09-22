@@ -1,5 +1,7 @@
 # Ring ni Kakero 1: Sekai Taikai-hen
 
+![ring-ni-kakero-1-sekai-taikai-hen](https://cdn.myanimelist.net/images/anime/6/75841.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: リングにかけろ 1 世界大会編

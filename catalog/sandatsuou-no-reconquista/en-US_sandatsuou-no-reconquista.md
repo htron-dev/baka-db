@@ -1,5 +1,7 @@
 # Sandatsuou no Reconquista
 
+![sandatsuou-no-reconquista](https://cdn.myanimelist.net/images/manga/1/139709.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 簒奪王のレコンキスタ
 -   **start-date**: 2014-09-12

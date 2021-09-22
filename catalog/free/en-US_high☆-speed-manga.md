@@ -1,5 +1,7 @@
 # High☆Speed!
 
+![high☆-speed](https://cdn.myanimelist.net/images/manga/3/162274.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

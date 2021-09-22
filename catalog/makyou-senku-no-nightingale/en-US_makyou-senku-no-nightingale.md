@@ -1,5 +1,7 @@
 # Makyou Senku no Nightingale
 
+![makyou-senku-no-nightingale](https://cdn.myanimelist.net/images/manga/1/163492.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

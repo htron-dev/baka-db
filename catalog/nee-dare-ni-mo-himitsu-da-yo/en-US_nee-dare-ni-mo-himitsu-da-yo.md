@@ -1,5 +1,7 @@
 # Nee, Dare ni mo Himitsu da yo
 
+![nee-dare-ni-mo-himitsu-da-yo](https://cdn.myanimelist.net/images/manga/2/107821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

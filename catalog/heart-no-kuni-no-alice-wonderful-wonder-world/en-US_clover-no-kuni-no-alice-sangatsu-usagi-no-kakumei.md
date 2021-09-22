@@ -1,5 +1,7 @@
 # Clover no Kuni no Alice: Sangatsu Usagi no Kakumei
 
+![clover-no-kuni-no-alice-sangatsu-usagi-no-kakumei](https://cdn.myanimelist.net/images/manga/3/62823.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

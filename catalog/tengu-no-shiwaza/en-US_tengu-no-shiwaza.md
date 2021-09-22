@@ -1,5 +1,7 @@
 # Tengu no Shiwaza
 
+![tengu-no-shiwaza](https://cdn.myanimelist.net/images/manga/3/246761.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

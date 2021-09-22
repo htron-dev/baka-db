@@ -1,5 +1,7 @@
 # Shite Shite.
 
+![shite-shite](https://cdn.myanimelist.net/images/manga/1/90925.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ?????

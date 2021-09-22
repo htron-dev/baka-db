@@ -1,5 +1,7 @@
 # Tokugawa Iemitsu to Edo Bakufu
 
+![tokugawa-iemitsu-to-edo-bakufu](https://cdn.myanimelist.net/images/anime/7/66213.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 徳川家光と江戸幕府

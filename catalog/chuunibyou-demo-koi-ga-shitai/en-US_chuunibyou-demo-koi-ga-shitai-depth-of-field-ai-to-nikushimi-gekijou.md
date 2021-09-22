@@ -1,5 +1,7 @@
 # Chuunibyou demo Koi ga Shitai!: Depth of Field - Ai to Nikushimi Gekijou
 
+![chuunibyou-demo-koi-ga-shitai-depth-of-field-ai-to-nikushimi-gekijou](https://cdn.myanimelist.net/images/anime/9/43245.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 中二病でも恋がしたい！DEPTH OF FIELD ～ 愛と憎しみ劇場

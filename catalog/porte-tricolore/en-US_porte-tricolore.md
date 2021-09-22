@@ -1,5 +1,7 @@
 # Porte Tricolore
 
+![porte-tricolore](https://cdn.myanimelist.net/images/manga/2/81702.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: ポルトリコロール

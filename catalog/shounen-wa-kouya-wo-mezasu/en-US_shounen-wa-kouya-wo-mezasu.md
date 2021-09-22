@@ -1,5 +1,7 @@
 # Shounen wa Kouya wo Mezasu
 
+![shounen-wa-kouya-wo-mezasu](https://cdn.myanimelist.net/images/manga/2/165889.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 少年は荒野をめざす

@@ -1,5 +1,7 @@
 # Mononobe Koshoten Kaikitan
 
+![mononobe-koshoten-kaikitan](https://cdn.myanimelist.net/images/manga/2/169988.jpg)
+
 -   **type**: manga
 -   **original-name**: もののべ古書店怪奇譚
 -   **start-date**: 2015-01-26

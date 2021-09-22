@@ -1,5 +1,7 @@
 # Seishun yori mo Koishitai
 
+![seishun-yori-mo-koishitai](https://cdn.myanimelist.net/images/manga/2/186857.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

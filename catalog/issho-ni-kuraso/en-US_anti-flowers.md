@@ -1,5 +1,7 @@
 # Anti-Flowers
 
+![anti-flowers](https://cdn.myanimelist.net/images/manga/2/183389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アンチフラワーズ

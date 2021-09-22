@@ -1,5 +1,7 @@
 # Kage kara Mamoru!
 
+![kage-kara-mamoru](https://cdn.myanimelist.net/images/anime/8/20040.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 陰からマモル！

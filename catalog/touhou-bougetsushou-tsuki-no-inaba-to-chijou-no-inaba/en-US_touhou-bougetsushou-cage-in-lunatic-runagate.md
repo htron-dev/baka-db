@@ -1,5 +1,7 @@
 # Touhou Bougetsushou: Cage in Lunatic Runagate.
 
+![touhou-bougetsushou-cage-in-lunatic-runagate](https://cdn.myanimelist.net/images/manga/3/248835.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

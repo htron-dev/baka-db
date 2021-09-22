@@ -1,5 +1,7 @@
 # Densetsu no Yuusha no Densetsu: Iris Report
 
+![densetsu-no-yuusha-no-densetsu-iris-report](https://cdn.myanimelist.net/images/anime/11/26850.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 伝説の勇者の伝説 いりす・れぽ～と

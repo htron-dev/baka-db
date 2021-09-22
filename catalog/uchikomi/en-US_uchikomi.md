@@ -1,5 +1,7 @@
 # Uchikomi!!
 
+![uchikomi](https://cdn.myanimelist.net/images/manga/1/178608.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 63

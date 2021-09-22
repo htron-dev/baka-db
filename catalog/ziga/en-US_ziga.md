@@ -1,5 +1,7 @@
 # Ziga
 
+![ziga](https://cdn.myanimelist.net/images/manga/3/210340.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

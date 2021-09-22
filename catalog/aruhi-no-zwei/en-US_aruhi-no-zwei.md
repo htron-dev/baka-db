@@ -1,5 +1,7 @@
 # Aruhi no Zwei
 
+![aruhi-no-zwei](https://cdn.myanimelist.net/images/manga/2/150385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ある日のツヴァイ

@@ -1,5 +1,7 @@
 # Zenmai Zamurai
 
+![zenmai-zamurai](https://cdn.myanimelist.net/images/anime/11/88766.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 215
 -   **original-name**: ぜんまいざむらい

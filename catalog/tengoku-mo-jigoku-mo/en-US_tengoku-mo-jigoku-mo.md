@@ -1,5 +1,7 @@
 # Tengoku mo Jigoku mo
 
+![tengoku-mo-jigoku-mo](https://cdn.myanimelist.net/images/manga/2/74313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

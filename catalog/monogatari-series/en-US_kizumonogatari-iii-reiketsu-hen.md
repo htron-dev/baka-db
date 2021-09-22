@@ -1,5 +1,7 @@
 # Kizumonogatari III: Reiketsu-hen
 
+![kizumonogatari-iii-reiketsu-hen](https://cdn.myanimelist.net/images/anime/1084/112813.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 傷物語〈Ⅲ 冷血篇〉
@@ -32,4 +34,4 @@ Araragi is at his limit but he must come to a decision, and it may not be possib
 -   [Official Site](http://www.kizumonogatari-movie.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8357)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18896)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Monogatari_(series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Monogatari_%28series%29)

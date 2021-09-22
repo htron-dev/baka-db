@@ -1,5 +1,7 @@
 # Palace Meidi
 
+![palace-meidi](https://cdn.myanimelist.net/images/manga/1/195235.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

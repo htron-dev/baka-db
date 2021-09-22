@@ -1,5 +1,7 @@
 # Hand Maid Mai
 
+![hand-maid-mai](https://cdn.myanimelist.net/images/anime/12/2903.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハンドメイドマイ

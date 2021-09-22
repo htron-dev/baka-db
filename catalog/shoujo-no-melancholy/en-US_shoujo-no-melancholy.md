@@ -1,5 +1,7 @@
 # Shoujo no Melancholy
 
+![shoujo-no-melancholy](https://cdn.myanimelist.net/images/manga/2/171797.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

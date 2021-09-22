@@ -1,5 +1,7 @@
 # Saihate no Kimi e
 
+![saihate-no-kimi-e](https://cdn.myanimelist.net/images/manga/3/30147.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

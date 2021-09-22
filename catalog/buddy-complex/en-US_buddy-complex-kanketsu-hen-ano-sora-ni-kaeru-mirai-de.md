@@ -1,5 +1,7 @@
 # Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de
 
+![buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de](https://cdn.myanimelist.net/images/anime/3/67521.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: バディ・コンプレックス 完結編 ―あの空に還る未来で―

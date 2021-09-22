@@ -1,5 +1,7 @@
 # Otonari-san Like
 
+![otonari-san-like](https://cdn.myanimelist.net/images/manga/1/139267.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: オトナリサンライク

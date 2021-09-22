@@ -1,5 +1,7 @@
 # VeasT!!: P to Yajuu
 
+![veas-t-p-to-yajuu](https://cdn.myanimelist.net/images/manga/3/242887.jpg)
+
 -   **type**: manga
 -   **original-name**: VeasT!!-P と野獣-
 -   **start-date**: 2021-02-20

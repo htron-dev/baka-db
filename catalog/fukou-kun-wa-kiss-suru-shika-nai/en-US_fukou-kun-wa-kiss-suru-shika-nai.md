@@ -1,5 +1,7 @@
 # Fukou-kun wa Kiss suru shika Nai!
 
+![fukou-kun-wa-kiss-suru-shika-nai](https://cdn.myanimelist.net/images/manga/3/243643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

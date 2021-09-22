@@ -1,5 +1,7 @@
 # Kodomo no Niwa
 
+![kodomo-no-niwa](https://cdn.myanimelist.net/images/manga/1/34684.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

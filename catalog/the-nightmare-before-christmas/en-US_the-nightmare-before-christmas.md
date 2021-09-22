@@ -1,5 +1,7 @@
 # The Nightmare Before Christmas
 
+![the-nightmare-before-christmas](https://cdn.myanimelist.net/images/manga/1/180346.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ナイトメアー・ビフォア・クリスマス

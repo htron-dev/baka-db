@@ -1,5 +1,7 @@
 # Yoru wa Mijikashi Arukeyo Otome
 
+![yoru-wa-mijikashi-arukeyo-otome](https://cdn.myanimelist.net/images/anime/2/86940.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夜は短し歩けよ乙女

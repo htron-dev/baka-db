@@ -1,5 +1,7 @@
 # Shirotae no Kimi, Hanagasumi
 
+![shirotae-no-kimi-hanagasumi](https://cdn.myanimelist.net/images/manga/1/22050.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

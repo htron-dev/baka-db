@@ -1,5 +1,7 @@
 # Dragon Half
 
+![dragon-half](https://cdn.myanimelist.net/images/anime/12/14220.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ドラゴンハーフ

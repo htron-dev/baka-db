@@ -1,5 +1,7 @@
 # Anata de Fukuramu, Watashi no Peshanko.
 
+![anata-de-fukuramu-watashi-no-peshanko](https://cdn.myanimelist.net/images/manga/3/236031.jpg)
+
 -   **type**: manga
 -   **original-name**: あなたでふくらむ、私のぺしゃんこ。
 -   **start-date**: 2018-05-24

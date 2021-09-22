@@ -1,5 +1,7 @@
 # Thermae Romae
 
+![thermae-romae](https://cdn.myanimelist.net/images/anime/5/35635.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3
 -   **original-name**: テルマエ・ロマエ

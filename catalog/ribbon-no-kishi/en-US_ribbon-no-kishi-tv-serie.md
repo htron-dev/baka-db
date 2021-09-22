@@ -1,5 +1,7 @@
 # Ribbon no Kishi
 
+![ribbon-no-kishi](https://cdn.myanimelist.net/images/anime/2/4403.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: リボンの騎士

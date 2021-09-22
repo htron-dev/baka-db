@@ -1,5 +1,7 @@
 # Kaijuu Girls Kuro: Ultra Kaijuu Gijinka Keikaku
 
+![kaijuu-girls-kuro-ultra-kaijuu-gijinka-keikaku](https://cdn.myanimelist.net/images/anime/1511/93559.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 怪獣娘～ウルトラ怪獣擬人化計画～

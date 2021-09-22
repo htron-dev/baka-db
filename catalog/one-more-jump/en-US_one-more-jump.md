@@ -1,5 +1,7 @@
 # One More Jump
 
+![one-more-jump](https://cdn.myanimelist.net/images/manga/2/8060.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ワン・モア・ジャンプ

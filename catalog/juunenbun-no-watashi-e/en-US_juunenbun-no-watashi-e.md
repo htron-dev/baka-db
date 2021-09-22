@@ -1,5 +1,7 @@
 # Juunenbun no Watashi e
 
+![juunenbun-no-watashi-e](https://cdn.myanimelist.net/images/anime/1657/109997.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 十年分の私へ

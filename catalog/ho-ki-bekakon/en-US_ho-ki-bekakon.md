@@ -1,5 +1,7 @@
 # Ho-ki-bekakon
 
+![ho-ki-bekakon](https://cdn.myanimelist.net/images/manga/3/216862.jpg)
+
 -   **type**: manga
 -   **original-name**: ホーキーベカコン
 -   **start-date**: 2017-11-30

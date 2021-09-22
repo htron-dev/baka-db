@@ -1,5 +1,7 @@
 # Tanikamen
 
+![tanikamen](https://cdn.myanimelist.net/images/manga/1/72753.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 105

@@ -1,5 +1,7 @@
 # Hakoiri Otome to Gaten no Ouji-sama
 
+![hakoiri-otome-to-gaten-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/246659.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

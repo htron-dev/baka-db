@@ -1,5 +1,7 @@
 # Seishun no Yamai wa
 
+![seishun-no-yamai-wa](https://cdn.myanimelist.net/images/manga/2/16310.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

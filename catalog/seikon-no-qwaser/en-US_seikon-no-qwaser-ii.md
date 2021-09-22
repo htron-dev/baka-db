@@ -1,5 +1,7 @@
 # Seikon no Qwaser II
 
+![seikon-no-qwaser-ii](https://cdn.myanimelist.net/images/anime/2/75450.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 聖痕のクェイサー II

@@ -1,5 +1,7 @@
 # Omae Allergy
 
+![omae-allergy](https://cdn.myanimelist.net/images/manga/2/205332.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: オマエアレルギー

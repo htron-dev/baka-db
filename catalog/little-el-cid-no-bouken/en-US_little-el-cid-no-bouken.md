@@ -1,5 +1,7 @@
 # Little El Cid no Bouken
 
+![little-el-cid-no-bouken](https://cdn.myanimelist.net/images/anime/3/11563.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: リトル・エル・シドの冒険

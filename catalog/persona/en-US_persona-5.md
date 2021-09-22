@@ -1,5 +1,7 @@
 # Persona 5
 
+![persona-5](https://cdn.myanimelist.net/images/manga/2/199647.jpg)
+
 -   **type**: manga
 -   **original-name**: ペルソナ 5
 -   **start-date**: 2016-09-15

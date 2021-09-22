@@ -1,5 +1,7 @@
 # Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA
 
+![yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-ova](https://cdn.myanimelist.net/images/anime/1360/111228.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: やはり俺の青春ラブコメはまちがっている。結

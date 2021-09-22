@@ -1,5 +1,7 @@
 # Mutsu Enmei-ryuu Gaiden: Shura no Toki
 
+![mutsu-enmei-ryuu-gaiden-shura-no-toki](https://cdn.myanimelist.net/images/manga/1/169873.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 41

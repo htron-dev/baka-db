@@ -1,5 +1,7 @@
 # Raphael
 
+![raphael](https://cdn.myanimelist.net/images/manga/2/7722.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

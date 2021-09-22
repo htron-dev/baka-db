@@ -1,5 +1,7 @@
 # Gekiai: Motto Motometai
 
+![gekiai-motto-motometai](https://cdn.myanimelist.net/images/manga/1/128465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Koi no Unifura
 
+![koi-no-unifura](https://cdn.myanimelist.net/images/manga/2/153751.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

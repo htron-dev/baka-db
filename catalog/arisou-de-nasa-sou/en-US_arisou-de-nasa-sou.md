@@ -1,5 +1,7 @@
 # Arisou de NASA-sou
 
+![arisou-de-nasa-sou](https://cdn.myanimelist.net/images/manga/3/154546.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

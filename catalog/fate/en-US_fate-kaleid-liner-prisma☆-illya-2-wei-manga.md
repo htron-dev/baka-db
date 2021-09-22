@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya 2wei!
 
+![fate-kaleid-liner-prisma☆-illya-2-wei](https://cdn.myanimelist.net/images/manga/4/59085.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

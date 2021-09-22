@@ -1,5 +1,7 @@
 # Senya no Souai: Hanayome wa Nessa no Koutei Kyoudai ni Ubawarete
 
+![senya-no-souai-hanayome-wa-nessa-no-koutei-kyoudai-ni-ubawarete](https://cdn.myanimelist.net/images/manga/1/192359.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

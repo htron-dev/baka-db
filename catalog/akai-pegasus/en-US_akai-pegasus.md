@@ -1,5 +1,7 @@
 # Akai Pegasus
 
+![akai-pegasus](https://cdn.myanimelist.net/images/manga/3/194453.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 114

@@ -1,5 +1,7 @@
 # Animetamae! Tensei no Miko
 
+![animetamae-tensei-no-miko](https://cdn.myanimelist.net/images/manga/1/179849.jpg)
+
 -   **type**: manga
 -   **original-name**: あにめたまえ! 天声の巫女
 -   **start-date**: 2012-11-26

@@ -1,5 +1,7 @@
 # Dekiai Honey Bunch
 
+![dekiai-honey-bunch](https://cdn.myanimelist.net/images/manga/4/66469.jpg)
+
 -   **type**: manga
 -   **original-name**: 溺愛ハニーバンチ
 -   **start-date**: 2010-07-29

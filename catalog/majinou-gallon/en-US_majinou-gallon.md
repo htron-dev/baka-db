@@ -1,5 +1,7 @@
 # Majinou Gallon
 
+![majinou-gallon](https://cdn.myanimelist.net/images/manga/2/36222.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 魔神王ガロン

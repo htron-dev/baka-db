@@ -1,5 +1,7 @@
 # Shikabane Hime: Puchitto
 
+![shikabane-hime-puchitto](https://cdn.myanimelist.net/images/anime/10/16690.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 屍姫ぷちっと

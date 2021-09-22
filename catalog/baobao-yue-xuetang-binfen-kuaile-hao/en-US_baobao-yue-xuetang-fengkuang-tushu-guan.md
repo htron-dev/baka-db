@@ -1,5 +1,7 @@
 # Baobao Yue Xuetang: Fengkuang Tushu Guan
 
+![baobao-yue-xuetang-fengkuang-tushu-guan](https://cdn.myanimelist.net/images/anime/1716/115200.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 150
 -   **original-name**: 宝宝乐学堂之疯狂图书馆

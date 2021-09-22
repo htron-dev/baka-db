@@ -1,5 +1,7 @@
 # Yumeshi Alice
 
+![yumeshi-alice](https://cdn.myanimelist.net/images/manga/2/239557.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

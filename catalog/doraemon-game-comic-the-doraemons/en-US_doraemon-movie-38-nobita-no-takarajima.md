@@ -1,5 +1,7 @@
 # Doraemon Movie 38: Nobita no Takarajima
 
+![doraemon-movie-38-nobita-no-takarajima](https://cdn.myanimelist.net/images/anime/10/89830.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の宝島

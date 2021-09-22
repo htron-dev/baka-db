@@ -1,5 +1,7 @@
 # Love -Motto Aishite-
 
+![love-motto-aishite](https://cdn.myanimelist.net/images/manga/1/14899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

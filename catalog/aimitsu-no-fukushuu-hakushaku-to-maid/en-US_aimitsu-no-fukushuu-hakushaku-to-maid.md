@@ -1,5 +1,7 @@
 # Aimitsu no Fukushuu: Hakushaku to Maid
 
+![aimitsu-no-fukushuu-hakushaku-to-maid](https://cdn.myanimelist.net/images/manga/3/181560.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

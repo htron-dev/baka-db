@@ -1,5 +1,7 @@
 # Sengoku Basara Ranse Ranbu
 
+![sengoku-basara-ranse-ranbu](https://cdn.myanimelist.net/images/manga/2/9675.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

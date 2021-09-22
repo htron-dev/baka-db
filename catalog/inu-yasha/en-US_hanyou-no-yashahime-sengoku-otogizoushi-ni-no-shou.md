@@ -1,5 +1,7 @@
 # Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou
 
+![hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou](https://cdn.myanimelist.net/images/anime/1513/116926.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 半妖の夜叉姫 -戦国御伽草子- 弐の章
 -   **start-date**: 2021-10-02

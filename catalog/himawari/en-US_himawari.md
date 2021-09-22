@@ -1,5 +1,7 @@
 # Himawari
 
+![himawari](https://cdn.myanimelist.net/images/manga/2/175060.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

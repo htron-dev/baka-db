@@ -1,5 +1,7 @@
 # Higashi-Ikebukuro Stray Cats
 
+![higashi-ikebukuro-stray-cats](https://cdn.myanimelist.net/images/manga/1/202959.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

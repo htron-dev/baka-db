@@ -1,5 +1,7 @@
 # Kaze ga Tsuyoku Fuiteiru
 
+![kaze-ga-tsuyoku-fuiteiru](https://cdn.myanimelist.net/images/manga/3/115975.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

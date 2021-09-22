@@ -1,5 +1,7 @@
 # Atarashii Ashi de Kakenukero.
 
+![atarashii-ashi-de-kakenukero](https://cdn.myanimelist.net/images/manga/2/231561.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

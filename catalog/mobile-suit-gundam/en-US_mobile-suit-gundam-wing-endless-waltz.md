@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Wing: Endless Waltz
 
+![mobile-suit-gundam-wing-endless-waltz](https://cdn.myanimelist.net/images/anime/1061/97444.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 新機動戦記ガンダム W エンドレス・ワルツ

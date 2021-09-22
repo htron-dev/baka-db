@@ -1,5 +1,7 @@
 # Seiyou Kottou Yougashiten: Antique
 
+![seiyou-kottou-yougashiten-antique](https://cdn.myanimelist.net/images/anime/7/22538.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 西洋骨董洋菓子店 ~アンティーク~

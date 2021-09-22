@@ -1,5 +1,7 @@
 # Ore no Buka ga Eroi Mousou wo Yamete Kurenai
 
+![ore-no-buka-ga-eroi-mousou-wo-yamete-kurenai](https://cdn.myanimelist.net/images/manga/1/238129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

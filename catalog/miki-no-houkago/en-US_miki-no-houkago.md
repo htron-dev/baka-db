@@ -1,5 +1,7 @@
 # Miki no Houkago
 
+![miki-no-houkago](https://cdn.myanimelist.net/images/manga/2/162298.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

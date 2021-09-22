@@ -1,5 +1,7 @@
 # Kuutei Kaiko Toshi
 
+![kuutei-kaiko-toshi](https://cdn.myanimelist.net/images/manga/1/146557.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

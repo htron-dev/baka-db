@@ -1,5 +1,7 @@
 # Seishun Away
 
+![seishun-away](https://cdn.myanimelist.net/images/manga/1/196694.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

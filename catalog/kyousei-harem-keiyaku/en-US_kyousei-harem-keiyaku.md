@@ -1,5 +1,7 @@
 # Kyousei Harem Keiyaku
 
+![kyousei-harem-keiyaku](https://cdn.myanimelist.net/images/manga/2/201866.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 48

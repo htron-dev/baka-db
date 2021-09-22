@@ -1,5 +1,7 @@
 # Kinki no Karma to Seiyaku no Himegimi
 
+![kinki-no-karma-to-seiyaku-no-himegimi](https://cdn.myanimelist.net/images/manga/2/163871.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

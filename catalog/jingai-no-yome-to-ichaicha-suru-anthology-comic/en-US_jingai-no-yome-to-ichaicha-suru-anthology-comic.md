@@ -1,5 +1,7 @@
 # Jingai no Yome to Ichaicha suru: Anthology Comic
 
+![jingai-no-yome-to-ichaicha-suru-anthology-comic](https://cdn.myanimelist.net/images/manga/1/219729.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

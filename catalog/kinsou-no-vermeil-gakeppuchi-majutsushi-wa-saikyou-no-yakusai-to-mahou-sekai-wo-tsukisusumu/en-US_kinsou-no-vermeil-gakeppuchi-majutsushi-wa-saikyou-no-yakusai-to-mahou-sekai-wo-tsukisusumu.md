@@ -1,5 +1,7 @@
 # Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu
 
+![kinsou-no-vermeil-gakeppuchi-majutsushi-wa-saikyou-no-yakusai-to-mahou-sekai-wo-tsukisusumu](https://cdn.myanimelist.net/images/manga/1/226379.jpg)
+
 -   **type**: manga
 -   **original-name**: 金装のヴェルメイユ ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～
 -   **start-date**: 2018-08-10

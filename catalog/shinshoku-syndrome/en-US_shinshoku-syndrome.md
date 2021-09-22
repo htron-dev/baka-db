@@ -1,5 +1,7 @@
 # Shinshoku Syndrome
 
+![shinshoku-syndrome](https://cdn.myanimelist.net/images/manga/2/225317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Motto Midara ni Shitsukemashou
 
+![motto-midara-ni-shitsukemashou](https://cdn.myanimelist.net/images/manga/2/129367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kouya ni Kemono Doukokusu
 
+![kouya-ni-kemono-doukokusu](https://cdn.myanimelist.net/images/manga/1/186637.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 93

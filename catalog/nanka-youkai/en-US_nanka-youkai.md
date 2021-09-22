@@ -1,5 +1,7 @@
 # Nanka Youkai!?
 
+![nanka-youkai](https://cdn.myanimelist.net/images/manga/2/38909.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: なんか妖かい!?

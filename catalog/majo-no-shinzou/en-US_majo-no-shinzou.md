@@ -1,5 +1,7 @@
 # Majo no Shinzou
 
+![majo-no-shinzou](https://cdn.myanimelist.net/images/manga/2/104305.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 46

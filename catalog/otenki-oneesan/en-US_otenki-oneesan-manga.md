@@ -1,5 +1,7 @@
 # Otenki Oneesan
 
+![otenki-oneesan](https://cdn.myanimelist.net/images/manga/1/113105.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: お天気お姉さん

@@ -1,5 +1,7 @@
 # Gunjou - Ai ga Shizunda Umi no Iro
 
+![gunjou-ai-ga-shizunda-umi-no-iro](https://cdn.myanimelist.net/images/manga/3/40466.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Chikyuu Bouei Kazoku
 
+![chikyuu-bouei-kazoku](https://cdn.myanimelist.net/images/anime/6/25227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 地球防衛家族

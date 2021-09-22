@@ -1,5 +1,7 @@
 # 8 Man
 
+![8-man](https://cdn.myanimelist.net/images/manga/2/153013.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 96

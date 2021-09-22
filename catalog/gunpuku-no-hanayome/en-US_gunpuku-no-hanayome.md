@@ -1,5 +1,7 @@
 # Gunpuku no Hanayome
 
+![gunpuku-no-hanayome](https://cdn.myanimelist.net/images/manga/2/191475.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

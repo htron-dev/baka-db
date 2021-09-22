@@ -1,5 +1,7 @@
 # Petit Mignon: Juujin Omegaverse
 
+![petit-mignon-juujin-omegaverse](https://cdn.myanimelist.net/images/manga/2/226044.jpg)
+
 -   **type**: manga
 -   **original-name**: プチミニョン-獣人おめがばーす-
 -   **start-date**: 2017-12-22

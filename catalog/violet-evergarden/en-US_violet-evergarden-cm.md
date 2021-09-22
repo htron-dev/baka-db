@@ -1,5 +1,7 @@
 # Violet Evergarden CM
 
+![violet-evergarden-cm](https://cdn.myanimelist.net/images/anime/1284/108546.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「ヴァイオレット・エヴァーガーデン」

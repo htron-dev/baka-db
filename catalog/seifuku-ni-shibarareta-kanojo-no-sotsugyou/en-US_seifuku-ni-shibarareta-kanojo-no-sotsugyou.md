@@ -1,5 +1,7 @@
 # Seifuku ni Shibarareta Kanojo no Sotsugyou
 
+![seifuku-ni-shibarareta-kanojo-no-sotsugyou](https://cdn.myanimelist.net/images/manga/1/169746.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

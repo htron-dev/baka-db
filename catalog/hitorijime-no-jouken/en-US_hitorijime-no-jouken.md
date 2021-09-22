@@ -1,5 +1,7 @@
 # Hitorijime no Jouken
 
+![hitorijime-no-jouken](https://cdn.myanimelist.net/images/manga/1/166014.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

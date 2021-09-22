@@ -1,5 +1,7 @@
 # Dementia 21
 
+![dementia-21](https://cdn.myanimelist.net/images/manga/1/191015.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 37

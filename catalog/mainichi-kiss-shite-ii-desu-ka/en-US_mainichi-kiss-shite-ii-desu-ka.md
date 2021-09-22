@@ -1,5 +1,7 @@
 # Mainichi Kiss shite Ii desu ka?
 
+![mainichi-kiss-shite-ii-desu-ka](https://cdn.myanimelist.net/images/manga/2/194772.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

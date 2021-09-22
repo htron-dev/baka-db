@@ -1,5 +1,7 @@
 # Pumpkin Scissors: Power Snips
 
+![pumpkin-scissors-power-snips](https://cdn.myanimelist.net/images/manga/1/228627.jpg)
+
 -   **type**: manga
 -   **original-name**: Pumpkin Scissors: Power Snips
 -   **start-date**: 2011-10-20

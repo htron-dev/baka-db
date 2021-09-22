@@ -1,5 +1,7 @@
 # Terra Formars Gaiden: Asimov
 
+![terra-formars-gaiden-asimov](https://cdn.myanimelist.net/images/manga/3/174427.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Wakaba Hanafubuki
 
+![wakaba-hanafubuki](https://cdn.myanimelist.net/images/manga/3/15196.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: WAKABA 花ふぶき

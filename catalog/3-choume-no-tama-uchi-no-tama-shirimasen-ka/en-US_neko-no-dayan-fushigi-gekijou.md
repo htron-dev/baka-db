@@ -1,5 +1,7 @@
 # Neko no Dayan: Fushigi Gekijou
 
+![neko-no-dayan-fushigi-gekijou](https://cdn.myanimelist.net/images/anime/10/81109.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 猫のダヤン ふしぎ劇場

@@ -1,5 +1,7 @@
 # Room 1/2
 
+![room-1-2](https://cdn.myanimelist.net/images/manga/1/26752.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

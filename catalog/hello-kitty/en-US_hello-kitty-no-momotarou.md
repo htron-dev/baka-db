@@ -1,5 +1,7 @@
 # Hello Kitty no Momotarou
 
+![hello-kitty-no-momotarou](https://cdn.myanimelist.net/images/anime/11/58665.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの桃太郎

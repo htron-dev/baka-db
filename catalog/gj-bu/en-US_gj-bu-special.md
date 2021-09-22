@@ -1,5 +1,7 @@
 # GJ-bu@
 
+![gj-bu](https://cdn.myanimelist.net/images/anime/4/60319.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: GJ 部@

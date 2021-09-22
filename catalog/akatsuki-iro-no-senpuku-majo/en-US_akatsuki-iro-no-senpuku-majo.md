@@ -1,5 +1,7 @@
 # Akatsuki-iro no Senpuku Majo
 
+![akatsuki-iro-no-senpuku-majo](https://cdn.myanimelist.net/images/manga/2/165151.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

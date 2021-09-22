@@ -1,5 +1,7 @@
 # Boukun no Koijijou: Gouin na Kyuukon ni Madou Cinderella
 
+![boukun-no-koijijou-gouin-na-kyuukon-ni-madou-cinderella](https://cdn.myanimelist.net/images/manga/2/193919.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Hanabatake to Wakarebanashi
 
+![hanabatake-to-wakarebanashi](https://cdn.myanimelist.net/images/manga/3/102007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

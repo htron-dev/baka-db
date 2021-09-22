@@ -1,5 +1,7 @@
 # Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara
 
+![code-geass-boukoku-no-akito-4-nikushimi-no-kioku-kara](https://cdn.myanimelist.net/images/anime/6/74757.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コードギアス 亡国のアキト 第４章「憎しみの記憶から」

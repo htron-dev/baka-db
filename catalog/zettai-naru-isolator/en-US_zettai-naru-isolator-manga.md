@@ -1,5 +1,7 @@
 # Zettai naru Isolator
 
+![zettai-naru-isolator](https://cdn.myanimelist.net/images/manga/3/172343.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

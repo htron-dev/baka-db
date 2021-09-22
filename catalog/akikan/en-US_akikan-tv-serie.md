@@ -1,5 +1,7 @@
 # Akikan!
 
+![akikan](https://cdn.myanimelist.net/images/anime/5/47093.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アキカン!

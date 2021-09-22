@@ -1,5 +1,7 @@
 # Ottori Shinkan no Dekiai Shinan: Eien no Chikai wa Kamisama no Mae de
 
+![ottori-shinkan-no-dekiai-shinan-eien-no-chikai-wa-kamisama-no-mae-de](https://cdn.myanimelist.net/images/manga/1/195177.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: おっとり神官の溺愛指南～永遠の誓いは神様の前で～

@@ -1,5 +1,7 @@
 # Eyeshield 21: Jump Festa 2005 Special
 
+![eyeshield-21-jump-festa-2005-special](https://cdn.myanimelist.net/images/anime/12/32103.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アイシールド 21 ジャンプフェスタ 2005

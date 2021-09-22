@@ -1,5 +1,7 @@
 # Akuryou Series
 
+![akuryou-series](https://cdn.myanimelist.net/images/manga/3/28683.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 49

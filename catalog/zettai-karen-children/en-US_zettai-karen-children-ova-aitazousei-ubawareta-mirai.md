@@ -1,5 +1,7 @@
 # Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?
 
+![zettai-karen-children-ova-aitazousei-ubawareta-mirai](https://cdn.myanimelist.net/images/anime/9/25283.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 絶対可憐チルドレン OVA 〜愛多憎生! 奪われた未来?〜

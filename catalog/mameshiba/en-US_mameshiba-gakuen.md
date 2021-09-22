@@ -1,5 +1,7 @@
 # Mameshiba Gakuen
 
+![mameshiba-gakuen](https://cdn.myanimelist.net/images/anime/13/80674.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: 豆しば学園
@@ -20,4 +22,4 @@ Mameshiba commercials in a high school setting where Edamame gives life advice t
 
 -   [My Anime list](https://myanimelist.net/anime/33542/Mameshiba_Gakuen)
 -   [Official Site](http://dogatch.jp/feature/mameshiba/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Mameshiba_(character)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Mameshiba_%28character%29)

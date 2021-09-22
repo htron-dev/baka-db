@@ -1,5 +1,7 @@
 # Midashitai Giya-san to Midarenai Tadamichi
 
+![midashitai-giya-san-to-midarenai-tadamichi](https://cdn.myanimelist.net/images/manga/2/229951.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

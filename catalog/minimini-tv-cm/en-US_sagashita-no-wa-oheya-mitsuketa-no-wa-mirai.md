@@ -1,5 +1,7 @@
 # Sagashita no wa Oheya, Mitsuketa no wa Mirai
 
+![sagashita-no-wa-oheya-mitsuketa-no-wa-mirai](https://cdn.myanimelist.net/images/anime/9/61165.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 探したのはお部屋, 見つけたのは未来

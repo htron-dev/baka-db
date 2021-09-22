@@ -1,5 +1,7 @@
 # Naruto: Shippuuden Movie 5 - Blood Prison
 
+![naruto-shippuuden-movie-5-blood-prison](https://cdn.myanimelist.net/images/anime/13/41403.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 NARUTO-ナルト- ブラッド・プリズン

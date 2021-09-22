@@ -1,5 +1,7 @@
 # ARIEL Bangai-hen
 
+![ariel-bangai-hen](https://cdn.myanimelist.net/images/manga/2/228729.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 5

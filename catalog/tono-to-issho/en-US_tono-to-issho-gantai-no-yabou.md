@@ -1,5 +1,7 @@
 # Tono to Issho: Gantai no Yabou
 
+![tono-to-issho-gantai-no-yabou](https://cdn.myanimelist.net/images/anime/10/28398.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 殿といっしょ 眼帯の野望

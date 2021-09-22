@@ -1,5 +1,7 @@
 # Final Fantasy VII: Advent Children Complete
 
+![final-fantasy-vii-advent-children-complete](https://cdn.myanimelist.net/images/anime/1065/94641.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ファイナルファンタジー VII アドベントチルドレンコンプリート

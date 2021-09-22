@@ -1,5 +1,7 @@
 # Toki Henro
 
+![toki-henro](https://cdn.myanimelist.net/images/manga/2/62743.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Jewelpet: Attack Travel!
 
+![jewelpet-attack-travel](https://cdn.myanimelist.net/images/anime/1229/105793.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジュエルペット あたっくとらべる！

@@ -1,5 +1,7 @@
 # Isekai Maou to Shoukan Shoujo no Dorei Majutsu
 
+![isekai-maou-to-shoukan-shoujo-no-dorei-majutsu](https://cdn.myanimelist.net/images/anime/1649/93412.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 異世界魔王と召喚少女の奴隷魔術

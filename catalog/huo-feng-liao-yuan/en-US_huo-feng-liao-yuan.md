@@ -1,5 +1,7 @@
 # Huo Feng Liao Yuan
 
+![huo-feng-liao-yuan](https://cdn.myanimelist.net/images/anime/1171/105821.jpg)
+
 -   **type**: ona
 -   **original-name**: 火鳳燎原
 -   **rating**: None

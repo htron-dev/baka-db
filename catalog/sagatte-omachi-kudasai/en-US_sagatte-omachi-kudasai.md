@@ -1,5 +1,7 @@
 # Sagatte Omachi Kudasai
 
+![sagatte-omachi-kudasai](https://cdn.myanimelist.net/images/manga/2/57373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

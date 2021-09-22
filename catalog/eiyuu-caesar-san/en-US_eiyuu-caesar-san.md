@@ -1,5 +1,7 @@
 # Eiyuu! Caesar-san
 
+![eiyuu-caesar-san](https://cdn.myanimelist.net/images/manga/3/200255.jpg)
+
 -   **type**: manga
 -   **original-name**: 英雄！シーザーさん
 -   **start-date**: 2016-10-12

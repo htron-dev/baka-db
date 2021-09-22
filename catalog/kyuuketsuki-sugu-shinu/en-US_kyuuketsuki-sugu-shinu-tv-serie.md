@@ -1,5 +1,7 @@
 # Kyuuketsuki Sugu Shinu
 
+![kyuuketsuki-sugu-shinu](https://cdn.myanimelist.net/images/anime/1892/117151.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 吸血鬼すぐ死ぬ
 -   **start-date**: 2021-10-20

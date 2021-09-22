@@ -1,5 +1,7 @@
 # Watashi no Daikirai na Ouji-sama
 
+![watashi-no-daikirai-na-ouji-sama](https://cdn.myanimelist.net/images/manga/2/194580.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 私の大嫌いな王子さま

@@ -1,5 +1,7 @@
 # K-On! Shuffle
 
+![k-on-shuffle](https://cdn.myanimelist.net/images/manga/1/244141.jpg)
+
 -   **type**: manga
 -   **original-name**: けいおん！Shuffle
 -   **start-date**: 2018-07-09

@@ -1,5 +1,7 @@
 # Yuusha Senki: Kimi to Real wo Torimodosu RPG
 
+![yuusha-senki-kimi-to-real-wo-torimodosu-rpg](https://cdn.myanimelist.net/images/manga/2/184991.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

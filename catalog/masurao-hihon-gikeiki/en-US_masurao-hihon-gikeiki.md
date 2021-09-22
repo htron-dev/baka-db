@@ -1,5 +1,7 @@
 # Masurao: Hihon Gikeiki
 
+![masurao-hihon-gikeiki](https://cdn.myanimelist.net/images/manga/3/234242.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 84

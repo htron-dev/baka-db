@@ -1,5 +1,7 @@
 # Gakuen Tengoku Paradoxia
 
+![gakuen-tengoku-paradoxia](https://cdn.myanimelist.net/images/manga/3/148968.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 103

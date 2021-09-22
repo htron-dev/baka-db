@@ -1,5 +1,7 @@
 # Itsuka Tenma no Kuro Usagi
 
+![itsuka-tenma-no-kuro-usagi](https://cdn.myanimelist.net/images/anime/5/75197.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: いつか天魔の黒ウサギ

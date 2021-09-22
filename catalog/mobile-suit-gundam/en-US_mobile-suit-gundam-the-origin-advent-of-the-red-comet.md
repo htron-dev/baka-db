@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: The Origin - Advent of the Red Comet
 
+![mobile-suit-gundam-the-origin-advent-of-the-red-comet](https://cdn.myanimelist.net/images/anime/1897/100015.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 機動戦士ガンダム THE ORIGIN 前夜 赤い彗星

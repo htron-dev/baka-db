@@ -1,5 +1,7 @@
 # Shikabanegatana
 
+![shikabanegatana](https://cdn.myanimelist.net/images/manga/2/241687.jpg)
+
 -   **type**: manga
 -   **original-name**: 屍刀 -シカバネガタナ-
 -   **start-date**: 2020-06-26

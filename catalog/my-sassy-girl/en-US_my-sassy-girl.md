@@ -1,5 +1,7 @@
 # My Sassy Girl
 
+![my-sassy-girl](https://cdn.myanimelist.net/images/manga/2/1806.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 엽기적인 그녀

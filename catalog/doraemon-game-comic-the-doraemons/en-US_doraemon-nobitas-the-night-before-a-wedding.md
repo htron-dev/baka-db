@@ -1,5 +1,7 @@
 # Doraemon: Nobita's the Night Before a Wedding
 
+![doraemon-nobitas-the-night-before-a-wedding](https://cdn.myanimelist.net/images/anime/13/17096.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラえもん のび太の結婚前夜 The night before a wedding

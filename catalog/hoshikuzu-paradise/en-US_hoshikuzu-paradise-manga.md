@@ -1,5 +1,7 @@
 # Hoshikuzu Paradise
 
+![hoshikuzu-paradise](https://cdn.myanimelist.net/images/manga/3/65877.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 星くずパラダイス

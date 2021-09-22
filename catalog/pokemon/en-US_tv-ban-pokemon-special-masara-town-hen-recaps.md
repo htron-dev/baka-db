@@ -1,5 +1,7 @@
 # TV-ban Pokemon Special Masara Town-hen Recaps
 
+![tv-ban-pokemon-special-masara-town-hen-recaps](https://cdn.myanimelist.net/images/anime/12/76468.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: TV 版 ポケットモンスター スペシャル マサラタウン編 総集編
@@ -13,7 +15,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse
@@ -26,4 +27,4 @@ A summary compilation of the Kanto season of Pocket Monsters.
 
 -   [My Anime list](https://myanimelist.net/anime/31750/TV-ban_Pokemon_Special_Masara_Town-hen_Recaps)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9871)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Pok%C3%A9mon_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29)

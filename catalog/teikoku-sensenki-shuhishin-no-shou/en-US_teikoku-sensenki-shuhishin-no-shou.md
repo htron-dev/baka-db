@@ -1,5 +1,7 @@
 # Teikoku Sensenki: Shuhishin no Shou
 
+![teikoku-sensenki-shuhishin-no-shou](https://cdn.myanimelist.net/images/manga/1/173804.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 帝国千戦記 朱緋真の章

@@ -1,5 +1,7 @@
 # Ja Ja Uma Grooming UP!
 
+![ja-ja-uma-grooming-up](https://cdn.myanimelist.net/images/manga/1/18028.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 281

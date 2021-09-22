@@ -1,5 +1,7 @@
 # Softenni
 
+![softenni](https://cdn.myanimelist.net/images/manga/1/79233.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 56

@@ -1,5 +1,7 @@
 # Seiyuu Ka!
 
+![seiyuu-ka](https://cdn.myanimelist.net/images/manga/4/30985.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 70

@@ -1,5 +1,7 @@
 # Maicching Machiko-sensei
 
+![maicching-machiko-sensei](https://cdn.myanimelist.net/images/manga/2/182320.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: まいっちんぐマチコ先生

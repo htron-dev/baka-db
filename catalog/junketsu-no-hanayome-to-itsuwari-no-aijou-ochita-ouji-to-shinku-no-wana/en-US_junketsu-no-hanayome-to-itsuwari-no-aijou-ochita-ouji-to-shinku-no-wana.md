@@ -1,5 +1,7 @@
 # Junketsu no Hanayome to Itsuwari no Aijou: Ochita Ouji to Shinku no Wana
 
+![junketsu-no-hanayome-to-itsuwari-no-aijou-ochita-ouji-to-shinku-no-wana](https://cdn.myanimelist.net/images/manga/2/152806.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 純潔の花嫁と偽りの愛情 ～堕ちた王子と真紅の罠～

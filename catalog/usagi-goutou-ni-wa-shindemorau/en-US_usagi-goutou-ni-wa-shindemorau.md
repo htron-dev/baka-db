@@ -1,5 +1,7 @@
 # Usagi Goutou ni wa Shindemorau
 
+![usagi-goutou-ni-wa-shindemorau](https://cdn.myanimelist.net/images/manga/2/198538.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 17

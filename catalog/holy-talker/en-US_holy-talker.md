@@ -1,5 +1,7 @@
 # Holy Talker
 
+![holy-talker](https://cdn.myanimelist.net/images/manga/3/170357.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 25

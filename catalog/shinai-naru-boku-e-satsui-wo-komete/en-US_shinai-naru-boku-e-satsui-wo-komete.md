@@ -1,5 +1,7 @@
 # Shinai naru Boku e Satsui wo Komete
 
+![shinai-naru-boku-e-satsui-wo-komete](https://cdn.myanimelist.net/images/manga/1/211898.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 98

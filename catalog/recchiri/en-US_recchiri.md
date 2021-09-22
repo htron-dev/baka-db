@@ -1,5 +1,7 @@
 # Recchiri
 
+![recchiri](https://cdn.myanimelist.net/images/manga/2/223267.jpg)
+
 -   **type**: manga
 -   **original-name**: レッチリ
 -   **start-date**: 2016-01-27

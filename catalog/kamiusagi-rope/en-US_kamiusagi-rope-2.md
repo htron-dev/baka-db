@@ -1,5 +1,7 @@
 # Kamiusagi Rope 2
 
+![kamiusagi-rope-2](https://cdn.myanimelist.net/images/anime/9/72177.jpg)
+
 -   **type**: movie
 -   **episodes**: 12
 -   **original-name**: 紙兎ロペ２

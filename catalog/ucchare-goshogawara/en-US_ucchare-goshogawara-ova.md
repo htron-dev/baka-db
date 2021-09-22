@@ -1,5 +1,7 @@
 # Ucchare Goshogawara
 
+![ucchare-goshogawara](https://cdn.myanimelist.net/images/anime/6/36209.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: うっちゃれ五所瓦

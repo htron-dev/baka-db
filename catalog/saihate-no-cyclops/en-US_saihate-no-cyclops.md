@@ -1,5 +1,7 @@
 # Saihate no Cyclops
 
+![saihate-no-cyclops](https://cdn.myanimelist.net/images/manga/3/164504.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

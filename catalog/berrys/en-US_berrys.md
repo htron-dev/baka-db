@@ -1,5 +1,7 @@
 # Berry's
 
+![berrys](https://cdn.myanimelist.net/images/manga/1/150599.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Berry's

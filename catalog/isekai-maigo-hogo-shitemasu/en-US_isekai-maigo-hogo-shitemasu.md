@@ -1,5 +1,7 @@
 # Isekai Maigo, Hogo Shitemasu
 
+![isekai-maigo-hogo-shitemasu](https://cdn.myanimelist.net/images/manga/3/233908.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

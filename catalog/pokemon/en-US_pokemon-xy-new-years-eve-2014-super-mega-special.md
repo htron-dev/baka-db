@@ -1,5 +1,7 @@
 # Pokemon XY: New Year's Eve 2014 Super Mega Special
 
+![pokemon-xy-new-years-eve-2014-super-mega-special](https://cdn.myanimelist.net/images/anime/3/70715.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター 2014 大みそかメガ盛りスペシャル!!

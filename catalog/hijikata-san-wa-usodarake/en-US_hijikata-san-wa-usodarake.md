@@ -1,5 +1,7 @@
 # Hijikata-san wa Usodarake
 
+![hijikata-san-wa-usodarake](https://cdn.myanimelist.net/images/manga/2/173800.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

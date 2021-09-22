@@ -1,5 +1,7 @@
 # Siva no Yoru
 
+![siva-no-yoru](https://cdn.myanimelist.net/images/manga/3/150657.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

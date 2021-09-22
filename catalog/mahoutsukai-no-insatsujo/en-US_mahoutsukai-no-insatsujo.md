@@ -1,5 +1,7 @@
 # Mahoutsukai no Insatsujo
 
+![mahoutsukai-no-insatsujo](https://cdn.myanimelist.net/images/manga/1/245251.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法使いの印刷所
 -   **start-date**: 2017-09-30

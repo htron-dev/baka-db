@@ -1,5 +1,7 @@
 # Sensei to 17-sai
 
+![sensei-to-17-sai](https://cdn.myanimelist.net/images/manga/1/156906.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

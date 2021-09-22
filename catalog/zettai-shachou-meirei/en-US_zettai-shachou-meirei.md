@@ -1,5 +1,7 @@
 # Zettai Shachou Meirei
 
+![zettai-shachou-meirei](https://cdn.myanimelist.net/images/manga/2/132359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 絶対社長命令

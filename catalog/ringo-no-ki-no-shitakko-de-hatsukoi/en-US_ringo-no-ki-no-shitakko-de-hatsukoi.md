@@ -1,5 +1,7 @@
 # Ringo no Ki no Shitakko de: Hatsukoi
 
+![ringo-no-ki-no-shitakko-de-hatsukoi](https://cdn.myanimelist.net/images/manga/1/171736.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

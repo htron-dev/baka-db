@@ -1,5 +1,7 @@
 # Princess Principal Picture Drama
 
+![princess-principal-picture-drama](https://cdn.myanimelist.net/images/anime/13/88096.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: プリンセス・プリンシパル ピクチャードラマ

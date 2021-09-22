@@ -1,5 +1,7 @@
 # Juu to Usagi to Twintail
 
+![juu-to-usagi-to-twintail](https://cdn.myanimelist.net/images/manga/3/178462.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Halle Halle Hallelujah!
 
+![halle-halle-hallelujah](https://cdn.myanimelist.net/images/manga/2/236599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

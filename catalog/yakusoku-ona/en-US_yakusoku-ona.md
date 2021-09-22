@@ -1,5 +1,7 @@
 # Yakusoku (ONA)
 
+![yakusoku-ona](https://cdn.myanimelist.net/images/anime/10/68987.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 約束

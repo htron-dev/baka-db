@@ -1,5 +1,7 @@
 # Umi no Yami, Tsuki no Kage
 
+![umi-no-yami-tsuki-no-kage](https://cdn.myanimelist.net/images/manga/5/143707.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **original-name**: 海の闇、月の影

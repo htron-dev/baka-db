@@ -1,5 +1,7 @@
 # Doraemon: Featherplace
 
+![doraemon-featherplace](https://cdn.myanimelist.net/images/anime/10/57849.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラえもん　羽アリのゆくえ
@@ -10,7 +12,6 @@
 
 -   comedy
 -   fantasy
-
 -   sci-fi
 -   shounen
 

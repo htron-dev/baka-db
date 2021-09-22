@@ -1,5 +1,7 @@
 # Fushou Shita Senro to Tsuki
 
+![fushou-shita-senro-to-tsuki](https://cdn.myanimelist.net/images/anime/12/82207.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 負傷した線路と月

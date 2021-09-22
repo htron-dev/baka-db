@@ -1,5 +1,7 @@
 # .hack//Intermezzo
 
+![hack-intermezzo](https://cdn.myanimelist.net/images/anime/12/66499.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: .hack//Intermezzo

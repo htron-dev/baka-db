@@ -1,5 +1,7 @@
 # Bijo Spy Tsukamaru
 
+![bijo-spy-tsukamaru](https://cdn.myanimelist.net/images/manga/2/193521.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

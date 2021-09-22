@@ -1,5 +1,7 @@
 # Seibetsu "Mona Lisa" no Kimi e.
 
+![seibetsu-mona-lisa-no-kimi-e](https://cdn.myanimelist.net/images/manga/3/213427.jpg)
+
 -   **type**: manga
 -   **original-name**: 性別「モナリザ」の君へ。
 -   **start-date**: 2018-05-14

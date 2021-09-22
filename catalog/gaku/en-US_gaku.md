@@ -1,5 +1,7 @@
 # Gaku
 
+![gaku](https://cdn.myanimelist.net/images/manga/3/209662.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 159

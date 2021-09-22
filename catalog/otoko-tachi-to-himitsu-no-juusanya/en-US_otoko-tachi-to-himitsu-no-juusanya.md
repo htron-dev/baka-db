@@ -1,5 +1,7 @@
 # Otoko-tachi to Himitsu no Juusanya
 
+![otoko-tachi-to-himitsu-no-juusanya](https://cdn.myanimelist.net/images/manga/1/192137.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

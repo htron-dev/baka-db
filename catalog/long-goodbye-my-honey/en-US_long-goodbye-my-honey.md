@@ -1,5 +1,7 @@
 # Long Goodbye My Honey
 
+![long-goodbye-my-honey](https://cdn.myanimelist.net/images/manga/3/249388.jpg)
+
 -   **type**: manga
 -   **original-name**: ロンググッドバイ マイハニー
 -   **start-date**: 2021-02-26

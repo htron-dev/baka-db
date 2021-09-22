@@ -1,5 +1,7 @@
 # Ring ni Kakero
 
+![ring-ni-kakero](https://cdn.myanimelist.net/images/manga/1/187140.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 122

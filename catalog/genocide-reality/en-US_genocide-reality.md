@@ -1,5 +1,7 @@
 # Genocide Reality
 
+![genocide-reality](https://cdn.myanimelist.net/images/manga/1/198245.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ジェノサイド・リアリティー
 -   **start-date**: 2017-07-15

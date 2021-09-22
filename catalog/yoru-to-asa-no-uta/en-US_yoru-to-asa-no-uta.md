@@ -1,5 +1,7 @@
 # Yoru to Asa no Uta
 
+![yoru-to-asa-no-uta](https://cdn.myanimelist.net/images/manga/4/162252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

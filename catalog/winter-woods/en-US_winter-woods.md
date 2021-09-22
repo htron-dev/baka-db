@@ -1,5 +1,7 @@
 # Winter Woods
 
+![winter-woods](https://cdn.myanimelist.net/images/manga/3/208547.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 55

@@ -1,5 +1,7 @@
 # Tokimeki Tonight: Hoshi no Yukue
 
+![tokimeki-tonight-hoshi-no-yukue](https://cdn.myanimelist.net/images/manga/1/159408.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ときめきトゥナイト 星のゆくえ

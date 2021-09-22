@@ -1,5 +1,7 @@
 # Okaachan Gomen ne
 
+![okaachan-gomen-ne](https://cdn.myanimelist.net/images/anime/12/66035.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おかあちゃんごめんね

@@ -1,5 +1,7 @@
 # Yousei-san wa Yaritai Houdai
 
+![yousei-san-wa-yaritai-houdai](https://cdn.myanimelist.net/images/manga/2/233975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

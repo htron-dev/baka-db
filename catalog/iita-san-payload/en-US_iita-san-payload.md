@@ -1,5 +1,7 @@
 # Iita-san Payload
 
+![iita-san-payload](https://cdn.myanimelist.net/images/manga/3/180410.jpg)
+
 -   **type**: manga
 -   **original-name**: イイタさんペイロード
 -   **start-date**: 2010-11-02

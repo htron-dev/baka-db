@@ -1,5 +1,7 @@
 # Mujihi na Anata
 
+![mujihi-na-anata](https://cdn.myanimelist.net/images/manga/3/187971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

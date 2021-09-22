@@ -1,5 +1,7 @@
 # Believe in It
 
+![believe-in-it](https://cdn.myanimelist.net/images/anime/9/71458.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: believe in it

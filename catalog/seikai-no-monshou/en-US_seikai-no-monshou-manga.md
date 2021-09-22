@@ -1,5 +1,7 @@
 # Seikai no Monshou
 
+![seikai-no-monshou](https://cdn.myanimelist.net/images/manga/2/123655.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # Platinum Sonata
 
+![platinum-sonata](https://cdn.myanimelist.net/images/manga/3/168116.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

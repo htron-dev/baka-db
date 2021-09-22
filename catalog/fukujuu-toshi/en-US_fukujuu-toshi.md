@@ -1,5 +1,7 @@
 # Fukujuu Toshi
 
+![fukujuu-toshi](https://cdn.myanimelist.net/images/manga/2/227802.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

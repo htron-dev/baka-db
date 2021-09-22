@@ -1,5 +1,7 @@
 # Kimi ni Utsuru Hoshi
 
+![kimi-ni-utsuru-hoshi](https://cdn.myanimelist.net/images/manga/2/88479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Pochacco no Ninjin Hata wa Oosawagi
 
+![pochacco-no-ninjin-hata-wa-oosawagi](https://cdn.myanimelist.net/images/anime/10/58963.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ポチャッコのにんじん畑は大騒ぎ

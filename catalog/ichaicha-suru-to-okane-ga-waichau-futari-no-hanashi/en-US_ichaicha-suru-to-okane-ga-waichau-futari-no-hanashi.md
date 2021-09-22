@@ -1,5 +1,7 @@
 # Ichaicha suru to Okane ga Waichau Futari no Hanashi
 
+![ichaicha-suru-to-okane-ga-waichau-futari-no-hanashi](https://cdn.myanimelist.net/images/manga/2/234653.jpg)
+
 -   **type**: manga
 -   **original-name**: イチャイチャするとお金が湧いちゃう２人の話
 -   **start-date**: 2020-07-29

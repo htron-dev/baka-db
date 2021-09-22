@@ -1,5 +1,7 @@
 # Avenger
 
+![avenger](https://cdn.myanimelist.net/images/anime/13/19921.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アヴェンジャー
@@ -26,4 +28,4 @@ Mars has been colonized and is a world where children have been replaced by robo
 -   [Official Site](http://www.bandaivisual.co.jp/avenger/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1087)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2655)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Avenger_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Avenger_%28anime%29)

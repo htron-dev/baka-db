@@ -1,5 +1,7 @@
 # Tongari Boushi no Atelier
 
+![tongari-boushi-no-atelier](https://cdn.myanimelist.net/images/manga/3/190005.jpg)
+
 -   **type**: manga
 -   **original-name**: とんがり帽子のアトリエ
 -   **start-date**: 2016-07-22

@@ -1,5 +1,7 @@
 # Shirayukihime to 7-nin no Shuujin
 
+![shirayukihime-to-7-nin-no-shuujin](https://cdn.myanimelist.net/images/manga/2/166432.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

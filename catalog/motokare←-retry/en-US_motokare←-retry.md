@@ -1,5 +1,7 @@
 # Motokare←Retry
 
+![motokare←-retry](https://cdn.myanimelist.net/images/manga/2/161182.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

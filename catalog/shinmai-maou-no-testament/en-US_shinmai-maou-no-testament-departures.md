@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament Departures
 
+![shinmai-maou-no-testament-departures](https://cdn.myanimelist.net/images/anime/1395/95778.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 新妹魔王の契約者 DEPARTURES

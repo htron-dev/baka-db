@@ -1,5 +1,7 @@
 # Nante Zurui Otoko
 
+![nante-zurui-otoko](https://cdn.myanimelist.net/images/manga/1/10310.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

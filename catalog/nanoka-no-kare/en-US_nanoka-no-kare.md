@@ -1,5 +1,7 @@
 # Nanoka no Kare
 
+![nanoka-no-kare](https://cdn.myanimelist.net/images/manga/2/162757.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 86

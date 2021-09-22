@@ -1,5 +1,7 @@
 # The Strings Dolls
 
+![the-strings-dolls](https://cdn.myanimelist.net/images/manga/3/65627.jpg)
+
 -   **type**: manga
 -   **chapters**: 15
 -   **original-name**: the Strings Dolls

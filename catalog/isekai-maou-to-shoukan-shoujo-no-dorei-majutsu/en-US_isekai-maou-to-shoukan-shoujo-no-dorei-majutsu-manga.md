@@ -1,5 +1,7 @@
 # Isekai Maou to Shoukan Shoujo no Dorei Majutsu
 
+![isekai-maou-to-shoukan-shoujo-no-dorei-majutsu](https://cdn.myanimelist.net/images/manga/3/200741.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界魔王と召喚少女の奴隷魔術
 -   **start-date**: 2015-06-24

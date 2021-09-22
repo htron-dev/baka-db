@@ -1,5 +1,7 @@
 # Zettai Ryouiki Princess Sweet Story
 
+![zettai-ryouiki-princess-sweet-story](https://cdn.myanimelist.net/images/manga/1/40886.jpg)
+
 -   **type**: manga
 -   **original-name**: 絶対領域プリンセス　スイートホーリー
 

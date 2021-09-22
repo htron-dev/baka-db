@@ -1,5 +1,7 @@
 # Yo no Na wa Zushio
 
+![yo-no-na-wa-zushio](https://cdn.myanimelist.net/images/manga/1/130.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

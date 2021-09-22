@@ -1,5 +1,7 @@
 # Ankoku Cat VS
 
+![ankoku-cat-vs](https://cdn.myanimelist.net/images/anime/2/88532.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 暗黒キャット VS

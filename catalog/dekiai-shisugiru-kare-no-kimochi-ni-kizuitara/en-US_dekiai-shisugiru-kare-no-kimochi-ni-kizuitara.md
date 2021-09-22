@@ -1,5 +1,7 @@
 # Dekiai Shisugiru Kare no Kimochi ni Kizuitara
 
+![dekiai-shisugiru-kare-no-kimochi-ni-kizuitara](https://cdn.myanimelist.net/images/manga/2/195514.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 溺愛し過ぎる彼の気持ちに気づいたら

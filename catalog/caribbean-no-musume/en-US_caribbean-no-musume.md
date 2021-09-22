@@ -1,5 +1,7 @@
 # Caribbean no Musume
 
+![caribbean-no-musume](https://cdn.myanimelist.net/images/manga/3/229694.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カリブの娘

@@ -1,5 +1,7 @@
 # Chiro-wa Chingu-deul
 
+![chiro-wa-chingu-deul](https://cdn.myanimelist.net/images/anime/1163/93285.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 치로와 친구들

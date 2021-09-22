@@ -1,5 +1,7 @@
 # Koi ja Nai kedo
 
+![koi-ja-nai-kedo](https://cdn.myanimelist.net/images/manga/2/27339.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

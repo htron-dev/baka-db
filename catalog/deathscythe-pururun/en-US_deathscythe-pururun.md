@@ -1,5 +1,7 @@
 # Deathscythe Pururun
 
+![deathscythe-pururun](https://cdn.myanimelist.net/images/manga/2/225622.jpg)
+
 -   **type**: manga
 -   **original-name**: デスサイズぷるるん
 -   **start-date**: 2019-04-24

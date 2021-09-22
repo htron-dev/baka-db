@@ -1,5 +1,7 @@
 # Kirikago-hime to Mahoutsukai
 
+![kirikago-hime-to-mahoutsukai](https://cdn.myanimelist.net/images/manga/1/168286.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

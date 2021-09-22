@@ -1,5 +1,7 @@
 # Kakko Kawaii Sengen!
 
+![kakko-kawaii-sengen](https://cdn.myanimelist.net/images/manga/1/37213.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: カッコカワイイ宣言！

@@ -1,5 +1,7 @@
 # Daremo Oshiete Kurenakatta: Mushoku kara Eiyuu no Nakama no Shounin ni Naru Houhou
 
+![daremo-oshiete-kurenakatta-mushoku-kara-eiyuu-no-nakama-no-shounin-ni-naru-houhou](https://cdn.myanimelist.net/images/manga/2/178114.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 誰も教えてくれなかった 無職から英雄の仲間の商人になる方法

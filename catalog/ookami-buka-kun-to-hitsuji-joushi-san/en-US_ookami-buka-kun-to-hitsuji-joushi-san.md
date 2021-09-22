@@ -1,5 +1,7 @@
 # Ookami Buka-kun to Hitsuji Joushi-san
 
+![ookami-buka-kun-to-hitsuji-joushi-san](https://cdn.myanimelist.net/images/manga/1/247571.jpg)
+
 -   **type**: manga
 -   **original-name**: オオカミ部下くんとヒツジ上司さん
 -   **start-date**: 2020-09-19

@@ -1,5 +1,7 @@
 # Kisses Are to Be Taught
 
+![kisses-are-to-be-taught](https://cdn.myanimelist.net/images/manga/2/40937.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 키스는 배운대로

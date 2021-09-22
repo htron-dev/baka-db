@@ -1,5 +1,7 @@
 # Baiou Ryouran: Choushuu Bakumatsu Kyousoukyoku
 
+![baiou-ryouran-choushuu-bakumatsu-kyousoukyoku](https://cdn.myanimelist.net/images/manga/3/166317.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

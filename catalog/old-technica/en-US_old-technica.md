@@ -1,5 +1,7 @@
 # Old Technica
 
+![old-technica](https://cdn.myanimelist.net/images/manga/2/205761.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

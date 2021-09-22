@@ -1,5 +1,7 @@
 # Chan Shuo A Kuan
 
+![chan-shuo-a-kuan](https://cdn.myanimelist.net/images/anime/10/72440.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 禅说阿宽

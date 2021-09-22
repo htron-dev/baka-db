@@ -1,5 +1,7 @@
 # Sweet Recipe
 
+![sweet-recipe](https://cdn.myanimelist.net/images/manga/2/32179.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 

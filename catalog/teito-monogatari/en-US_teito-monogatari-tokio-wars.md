@@ -1,5 +1,7 @@
 # Teito Monogatari: Tokio Wars
 
+![teito-monogatari-tokio-wars](https://cdn.myanimelist.net/images/manga/2/115237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

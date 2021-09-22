@@ -1,5 +1,7 @@
 # Oh, Chunja Chunja! High School Bullying
 
+![oh-chunja-chunja-high-school-bullying](https://cdn.myanimelist.net/images/manga/2/18221.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 춘자고교 왕따 오춘자

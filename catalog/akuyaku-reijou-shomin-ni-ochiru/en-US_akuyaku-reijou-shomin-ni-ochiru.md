@@ -1,5 +1,7 @@
 # Akuyaku Reijou, Shomin ni Ochiru
 
+![akuyaku-reijou-shomin-ni-ochiru](https://cdn.myanimelist.net/images/manga/1/245358.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢、庶民に堕ちる
 -   **start-date**: 2020-01-07

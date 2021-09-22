@@ -1,5 +1,7 @@
 # Hoshino-san Chi no Aru to Kana
 
+![hoshino-san-chi-no-aru-to-kana](https://cdn.myanimelist.net/images/manga/1/180490.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

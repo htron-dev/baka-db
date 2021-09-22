@@ -1,5 +1,7 @@
 # DOKI▼DOKI
 
+![doki▼doki](https://cdn.myanimelist.net/images/manga/2/14989.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 

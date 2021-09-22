@@ -1,5 +1,7 @@
 # Shuuten Unknown
 
+![shuuten-unknown](https://cdn.myanimelist.net/images/manga/2/171024.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

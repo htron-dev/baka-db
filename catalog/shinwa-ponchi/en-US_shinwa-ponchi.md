@@ -1,5 +1,7 @@
 # Shinwa Ponchi
 
+![shinwa-ponchi](https://cdn.myanimelist.net/images/manga/3/67621.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

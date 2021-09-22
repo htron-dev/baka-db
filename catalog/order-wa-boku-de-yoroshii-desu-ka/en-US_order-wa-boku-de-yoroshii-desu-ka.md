@@ -1,5 +1,7 @@
 # Order wa Boku de Yoroshii desu ka?
 
+![order-wa-boku-de-yoroshii-desu-ka](https://cdn.myanimelist.net/images/manga/1/38363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

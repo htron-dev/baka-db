@@ -1,5 +1,7 @@
 # Joshi BL
 
+![joshi-bl](https://cdn.myanimelist.net/images/manga/1/183275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

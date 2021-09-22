@@ -1,5 +1,7 @@
 # Mahjong Hishouden: Naki no Ryuu
 
+![mahjong-hishouden-naki-no-ryuu](https://cdn.myanimelist.net/images/anime/1556/96601.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 麻雀飛翔伝 哭きの竜

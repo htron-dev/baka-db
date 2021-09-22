@@ -1,5 +1,7 @@
 # Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu
 
+![seichou-cheat-de-nandemo-dekiru-you-ni-natta-ga-mushoku-dake-wa-yamerarenai-you-desu](https://cdn.myanimelist.net/images/manga/2/181836.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 成長チートでなんでもできるようになったが、無職だけは辞められないようです
 -   **start-date**: 2016-09-10

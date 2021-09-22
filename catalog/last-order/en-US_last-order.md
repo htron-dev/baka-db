@@ -1,5 +1,7 @@
 # Last Order
 
+![last-order](https://cdn.myanimelist.net/images/manga/1/241418.jpg)
+
 -   **type**: manga
 -   **original-name**: ラストオーダー
 -   **start-date**: 2020-05-04

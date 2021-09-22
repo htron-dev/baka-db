@@ -1,5 +1,7 @@
 # Eiyuu Kyoushitsu: Girl's Mission
 
+![eiyuu-kyoushitsu-girls-mission](https://cdn.myanimelist.net/images/manga/1/238496.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

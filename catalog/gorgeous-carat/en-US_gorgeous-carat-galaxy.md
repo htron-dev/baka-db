@@ -1,5 +1,7 @@
 # Gorgeous Carat Galaxy
 
+![gorgeous-carat-galaxy](https://cdn.myanimelist.net/images/manga/3/11215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

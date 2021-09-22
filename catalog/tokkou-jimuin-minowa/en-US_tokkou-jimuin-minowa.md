@@ -1,5 +1,7 @@
 # Tokkou Jimuin Minowa
 
+![tokkou-jimuin-minowa](https://cdn.myanimelist.net/images/manga/1/138417.jpg)
+
 -   **type**: manga
 -   **original-name**: 特攻事務員ミノワ
 -   **start-date**: 2013-07-01

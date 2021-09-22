@@ -1,5 +1,7 @@
 # Slave x Slave
 
+![slave-x-slave](https://cdn.myanimelist.net/images/manga/1/26904.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

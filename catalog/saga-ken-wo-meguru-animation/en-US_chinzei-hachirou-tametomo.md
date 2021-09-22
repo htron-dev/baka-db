@@ -1,5 +1,7 @@
 # Chinzei Hachirou Tametomo
 
+![chinzei-hachirou-tametomo](https://cdn.myanimelist.net/images/anime/1614/110967.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 佐賀県上峰町ショートムービー アニメ「鎮西八郎為朝」

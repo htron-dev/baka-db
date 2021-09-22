@@ -1,5 +1,7 @@
 # Nazotokihime wa Meitantei♥
 
+![nazotokihime-wa-meitantei♥](https://cdn.myanimelist.net/images/manga/1/173127.jpg)
+
 -   **type**: manga
 -   **original-name**: ナゾトキ姫は名探偵 ♥
 -   **start-date**: 2010-01-20

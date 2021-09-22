@@ -1,5 +1,7 @@
 # Rikon Club
 
+![rikon-club](https://cdn.myanimelist.net/images/manga/2/166749.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Milk Shake!
 
+![milk-shake](https://cdn.myanimelist.net/images/manga/2/78735.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

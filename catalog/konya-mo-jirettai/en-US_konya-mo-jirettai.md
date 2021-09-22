@@ -1,5 +1,7 @@
 # Konya mo Jirettai
 
+![konya-mo-jirettai](https://cdn.myanimelist.net/images/manga/1/150344.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

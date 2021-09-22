@@ -1,5 +1,7 @@
 # Prince of Stride: Alternative
 
+![prince-of-stride-alternative](https://cdn.myanimelist.net/images/anime/6/77842.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: プリンス・オブ・ストライド　オルタナティブ

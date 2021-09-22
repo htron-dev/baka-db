@@ -1,5 +1,7 @@
 # Shin Megami Tensei Gaiten: Hato no Senki
 
+![shin-megami-tensei-gaiten-hato-no-senki](https://cdn.myanimelist.net/images/manga/3/126655.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 真・女神転生外典 鳩の戦記

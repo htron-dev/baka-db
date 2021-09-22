@@ -1,5 +1,7 @@
 # Kyuuketsuki to Yukai na Nakama-tachi
 
+![kyuuketsuki-to-yukai-na-nakama-tachi](https://cdn.myanimelist.net/images/manga/3/196499.jpg)
+
 -   **type**: manga
 -   **original-name**: 吸血鬼と愉快な仲間たち
 -   **start-date**: 2016-04-26

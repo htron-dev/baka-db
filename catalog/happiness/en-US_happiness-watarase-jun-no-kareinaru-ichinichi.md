@@ -1,5 +1,7 @@
 # Happiness!: Watarase Jun no Kareinaru Ichinichi
 
+![happiness-watarase-jun-no-kareinaru-ichinichi](https://cdn.myanimelist.net/images/anime/5/58187.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はぴねす! 渡良瀬準の華麗なる一日

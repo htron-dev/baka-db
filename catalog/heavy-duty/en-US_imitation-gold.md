@@ -1,5 +1,7 @@
 # Imitation Gold
 
+![imitation-gold](https://cdn.myanimelist.net/images/manga/1/246707.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

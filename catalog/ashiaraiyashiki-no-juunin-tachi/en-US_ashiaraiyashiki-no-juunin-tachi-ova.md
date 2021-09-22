@@ -1,5 +1,7 @@
 # Ashiaraiyashiki no Juunin-tachi.
 
+![ashiaraiyashiki-no-juunin-tachi](https://cdn.myanimelist.net/images/anime/12/19699.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 足洗邸の住人たち。

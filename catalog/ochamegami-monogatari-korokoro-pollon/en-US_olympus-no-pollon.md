@@ -1,5 +1,7 @@
 # Olympus no Pollon
 
+![olympus-no-pollon](https://cdn.myanimelist.net/images/manga/3/152955.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

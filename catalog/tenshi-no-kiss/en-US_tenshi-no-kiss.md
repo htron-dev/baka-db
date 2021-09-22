@@ -1,5 +1,7 @@
 # Tenshi no Kiss
 
+![tenshi-no-kiss](https://cdn.myanimelist.net/images/manga/3/9134.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

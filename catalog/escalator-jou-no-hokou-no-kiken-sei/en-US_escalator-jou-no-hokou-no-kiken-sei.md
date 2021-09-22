@@ -1,5 +1,7 @@
 # Escalator-jou no Hokou no Kiken-sei
 
+![escalator-jou-no-hokou-no-kiken-sei](https://cdn.myanimelist.net/images/anime/10/82098.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: エスカレータ上の歩行の危険性

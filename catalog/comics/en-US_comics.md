@@ -1,5 +1,7 @@
 # Comics
 
+![comics](https://cdn.myanimelist.net/images/anime/13/72721.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コミックス

@@ -1,5 +1,7 @@
 # The Makeup Remover
 
+![the-makeup-remover](https://cdn.myanimelist.net/images/manga/3/228132.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 화장 지워주는 남자
 -   **start-date**: 2018-05-04

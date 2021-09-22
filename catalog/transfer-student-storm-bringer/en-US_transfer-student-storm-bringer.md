@@ -1,5 +1,7 @@
 # Transfer Student Storm Bringer
 
+![transfer-student-storm-bringer](https://cdn.myanimelist.net/images/manga/2/52425.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 91

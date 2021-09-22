@@ -1,5 +1,7 @@
 # Hai Akko desu
 
+![hai-akko-desu](https://cdn.myanimelist.net/images/manga/3/130577.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **original-name**: ハーイあっこです

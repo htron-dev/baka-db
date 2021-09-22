@@ -1,5 +1,7 @@
 # Shen Qi Huan Qi Tan
 
+![shen-qi-huan-qi-tan](https://cdn.myanimelist.net/images/anime/10/88793.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 神契幻奇谭

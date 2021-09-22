@@ -1,5 +1,7 @@
 # Tamete Misema Show!
 
+![tamete-misema-show](https://cdn.myanimelist.net/images/manga/2/24427.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 貯めてみせまショウ!

@@ -1,5 +1,7 @@
 # Eiyuu Densetsu: Sora no Kiseki
 
+![eiyuu-densetsu-sora-no-kiseki](https://cdn.myanimelist.net/images/manga/1/170736.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 46

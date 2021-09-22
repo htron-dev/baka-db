@@ -1,5 +1,7 @@
 # Chikei: Utsukushiki Hanzaisha ni Misomerareta Watashi
 
+![chikei-utsukushiki-hanzaisha-ni-misomerareta-watashi](https://cdn.myanimelist.net/images/manga/1/193724.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

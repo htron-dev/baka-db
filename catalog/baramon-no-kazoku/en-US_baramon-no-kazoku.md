@@ -1,5 +1,7 @@
 # Baramon no Kazoku
 
+![baramon-no-kazoku](https://cdn.myanimelist.net/images/manga/2/29778.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Pia no Shouzou
 
+![pia-no-shouzou](https://cdn.myanimelist.net/images/manga/2/131801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Gals!
 
+![gals](https://cdn.myanimelist.net/images/manga/4/31847.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

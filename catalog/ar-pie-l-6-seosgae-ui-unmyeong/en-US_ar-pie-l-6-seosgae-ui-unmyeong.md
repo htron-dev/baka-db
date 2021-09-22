@@ -1,5 +1,7 @@
 # Ar:pieL - 6-seosgae-ui Unmyeong
 
+![ar-pie-l-6-seosgae-ui-unmyeong](https://cdn.myanimelist.net/images/anime/8/83910.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: 아르피엘 6개의 운명

@@ -1,5 +1,7 @@
 # Kankinjou: Tsumetaku Amai Himitsu no Kiss
 
+![kankinjou-tsumetaku-amai-himitsu-no-kiss](https://cdn.myanimelist.net/images/manga/2/191853.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hakuryuu Izayoi den
 
+![hakuryuu-izayoi-den](https://cdn.myanimelist.net/images/manga/2/41026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 白龍十六夜伝

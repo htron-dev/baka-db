@@ -1,5 +1,7 @@
 # Nezumi Monogatari: George to Gerald no Bouken
 
+![nezumi-monogatari-george-to-gerald-no-bouken](https://cdn.myanimelist.net/images/anime/3/27098.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ねずみ物語 ジョージとジェラルドの冒険

@@ -1,5 +1,7 @@
 # 23-ji no Time Shift
 
+![23-ji-no-time-shift](https://cdn.myanimelist.net/images/manga/1/237953.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

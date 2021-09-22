@@ -1,5 +1,7 @@
 # Boku to Roboko
 
+![boku-to-roboko](https://cdn.myanimelist.net/images/manga/4/236318.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕とロボコ
 -   **start-date**: 2020-07-06

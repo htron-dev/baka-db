@@ -1,5 +1,7 @@
 # Himitsu no Chaiharo
 
+![himitsu-no-chaiharo](https://cdn.myanimelist.net/images/manga/1/238967.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 31

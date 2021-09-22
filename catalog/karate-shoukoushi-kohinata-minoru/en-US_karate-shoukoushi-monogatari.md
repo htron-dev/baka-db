@@ -1,5 +1,7 @@
 # Karate Shoukoushi Monogatari
 
+![karate-shoukoushi-monogatari](https://cdn.myanimelist.net/images/manga/1/113661.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 空手小公子物語

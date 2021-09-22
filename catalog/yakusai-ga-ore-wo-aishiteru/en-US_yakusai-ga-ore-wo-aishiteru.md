@@ -1,5 +1,7 @@
 # Yakusai ga Ore wo Aishiteru
 
+![yakusai-ga-ore-wo-aishiteru](https://cdn.myanimelist.net/images/manga/1/230194.jpg)
+
 -   **type**: manga
 -   **original-name**: 厄災が俺を愛してる
 -   **start-date**: 2019-12-27

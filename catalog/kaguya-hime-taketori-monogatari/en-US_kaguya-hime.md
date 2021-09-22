@@ -1,5 +1,7 @@
 # Kaguya-hime
 
+![kaguya-hime](https://cdn.myanimelist.net/images/anime/1012/101075.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かぐや姫

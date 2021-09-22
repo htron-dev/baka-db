@@ -1,5 +1,7 @@
 # Saijaku Muhai no Bahamut
 
+![saijaku-muhai-no-bahamut](https://cdn.myanimelist.net/images/anime/12/76664.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 最弱無敗の神装機竜《バハムート》

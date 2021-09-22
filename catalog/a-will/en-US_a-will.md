@@ -1,5 +1,7 @@
 # A Will
 
+![a-will](https://cdn.myanimelist.net/images/manga/3/186585.jpg)
+
 -   **type**: manga
 -   **original-name**: A Will
 -   **start-date**: 2016-04-30

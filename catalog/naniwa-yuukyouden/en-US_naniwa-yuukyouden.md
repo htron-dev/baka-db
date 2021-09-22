@@ -1,5 +1,7 @@
 # Naniwa Yuukyouden
 
+![naniwa-yuukyouden](https://cdn.myanimelist.net/images/anime/9/27261.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: なにわ遊侠伝

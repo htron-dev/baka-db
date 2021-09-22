@@ -1,5 +1,7 @@
 # Nisemonogatari
 
+![nisemonogatari](https://cdn.myanimelist.net/images/anime/1044/103654.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 偽物語

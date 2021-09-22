@@ -1,5 +1,7 @@
 # Paradise e Oide yo!
 
+![paradise-e-oide-yo](https://cdn.myanimelist.net/images/manga/1/2144.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

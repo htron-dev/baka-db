@@ -1,5 +1,7 @@
 # Usagi no Mori
 
+![usagi-no-mori](https://cdn.myanimelist.net/images/manga/3/225848.jpg)
+
 -   **type**: manga
 -   **original-name**: 兎の森
 -   **start-date**: 2018-07-19

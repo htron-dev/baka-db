@@ -1,5 +1,7 @@
 # Houkago wa Itsumo Futari
 
+![houkago-wa-itsumo-futari](https://cdn.myanimelist.net/images/manga/1/179984.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

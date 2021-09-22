@@ -1,5 +1,7 @@
 # Kakugen! Kakuza Tousan
 
+![kakugen-kakuza-tousan](https://cdn.myanimelist.net/images/anime/1552/105575.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 格言! かくざ 父さん

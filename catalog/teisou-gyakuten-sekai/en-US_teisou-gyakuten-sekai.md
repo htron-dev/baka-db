@@ -1,5 +1,7 @@
 # Teisou Gyakuten Sekai
 
+![teisou-gyakuten-sekai](https://cdn.myanimelist.net/images/manga/3/208256.jpg)
+
 -   **type**: manga
 -   **original-name**: 貞操逆転世界
 -   **start-date**: 2016-04-08

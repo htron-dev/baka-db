@@ -1,5 +1,7 @@
 # Oi Pii-tan!!
 
+![oi-pii-tan](https://cdn.myanimelist.net/images/anime/1312/91013.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: おいピータン!!

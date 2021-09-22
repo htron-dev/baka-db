@@ -1,5 +1,7 @@
 # Burquat-koku
 
+![burquat-koku](https://cdn.myanimelist.net/images/manga/2/237957.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ブルクワット国

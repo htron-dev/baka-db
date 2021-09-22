@@ -1,5 +1,7 @@
 # Mitokon
 
+![mitokon](https://cdn.myanimelist.net/images/manga/1/96501.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 40

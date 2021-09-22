@@ -1,5 +1,7 @@
 # Shitsuji de Maid na Otoko no Ko
 
+![shitsuji-de-maid-na-otoko-no-ko](https://cdn.myanimelist.net/images/manga/2/152345.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

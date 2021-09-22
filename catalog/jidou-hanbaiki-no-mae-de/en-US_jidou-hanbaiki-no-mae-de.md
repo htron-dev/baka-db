@@ -1,5 +1,7 @@
 # Jidou Hanbaiki no Mae de,
 
+![jidou-hanbaiki-no-mae-de](https://cdn.myanimelist.net/images/manga/3/240981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

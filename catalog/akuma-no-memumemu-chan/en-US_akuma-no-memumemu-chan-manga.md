@@ -1,5 +1,7 @@
 # Akuma no Memumemu-chan
 
+![akuma-no-memumemu-chan](https://cdn.myanimelist.net/images/manga/1/190036.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 124

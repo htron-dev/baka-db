@@ -1,5 +1,7 @@
 # Josee to Tora to Sakana-tachi
 
+![josee-to-tora-to-sakana-tachi](https://cdn.myanimelist.net/images/manga/3/236094.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Bocchi Tenseiki
 
+![bocchi-tenseiki](https://cdn.myanimelist.net/images/manga/2/190360.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ぼっち転生記
 -   **start-date**: 2015-11-30

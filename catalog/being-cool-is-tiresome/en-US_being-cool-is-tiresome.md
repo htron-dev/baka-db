@@ -1,5 +1,7 @@
 # Being Cool is Tiresome
 
+![being-cool-is-tiresome](https://cdn.myanimelist.net/images/manga/1/19124.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 너무 멋져도 피곤해
 

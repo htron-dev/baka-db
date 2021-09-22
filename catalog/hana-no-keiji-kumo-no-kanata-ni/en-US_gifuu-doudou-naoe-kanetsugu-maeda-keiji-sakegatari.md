@@ -1,5 +1,7 @@
 # Gifuu Doudou!!: Naoe Kanetsugu - Maeda Keiji Sakegatari
 
+![gifuu-doudou-naoe-kanetsugu-maeda-keiji-sakegatari](https://cdn.myanimelist.net/images/manga/2/163030.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

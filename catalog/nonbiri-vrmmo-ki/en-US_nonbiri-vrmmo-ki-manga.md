@@ -1,5 +1,7 @@
 # Nonbiri VRMMO-ki
 
+![nonbiri-vrmmo-ki](https://cdn.myanimelist.net/images/manga/2/206354.jpg)
+
 -   **type**: manga
 -   **original-name**: のんびり VRMMO 記
 -   **start-date**: 2016-02-17

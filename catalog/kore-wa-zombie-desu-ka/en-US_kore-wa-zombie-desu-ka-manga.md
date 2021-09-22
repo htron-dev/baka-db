@@ -1,5 +1,7 @@
 # Kore wa Zombie desu ka?
 
+![kore-wa-zombie-desu-ka](https://cdn.myanimelist.net/images/manga/2/132833.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 46

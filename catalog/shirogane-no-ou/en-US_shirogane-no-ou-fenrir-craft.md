@@ -1,5 +1,7 @@
 # Shirogane no Ou: Fenrir Craft
 
+![shirogane-no-ou-fenrir-craft](https://cdn.myanimelist.net/images/manga/1/38646.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Adarshan no Hanayome
 
+![adarshan-no-hanayome](https://cdn.myanimelist.net/images/manga/1/7723.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

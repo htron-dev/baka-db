@@ -1,5 +1,7 @@
 # Ai shika Iranee yo.
 
+![ai-shika-iranee-yo](https://cdn.myanimelist.net/images/manga/2/146117.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛しかいらねえよ。

@@ -1,5 +1,7 @@
 # Cyborg 009: Call of Justice 3
 
+![cyborg-009-call-of-justice-3](https://cdn.myanimelist.net/images/anime/4/81020.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **start-date**: 2016-12-09

@@ -1,5 +1,7 @@
 # Digital Eden Attracts Humanity
 
+![digital-eden-attracts-humanity](https://cdn.myanimelist.net/images/manga/3/176341.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 21

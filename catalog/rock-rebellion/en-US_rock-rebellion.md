@@ -1,5 +1,7 @@
 # Rock Rebellion
 
+![rock-rebellion](https://cdn.myanimelist.net/images/manga/1/9348.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: ROCK 반란

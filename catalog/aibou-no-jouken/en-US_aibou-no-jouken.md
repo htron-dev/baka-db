@@ -1,5 +1,7 @@
 # Aibou no Jouken
 
+![aibou-no-jouken](https://cdn.myanimelist.net/images/manga/2/97699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

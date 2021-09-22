@@ -1,5 +1,7 @@
 # Senki Zesshou Symphogear AXZ: Senki Zesshou Shinai Symphogear
 
+![senki-zesshou-symphogear-axz-senki-zesshou-shinai-symphogear](https://cdn.myanimelist.net/images/anime/6/89564.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 戦姫絶唱シンフォギア AXZ 戦姫絶唱しないシンフォギア

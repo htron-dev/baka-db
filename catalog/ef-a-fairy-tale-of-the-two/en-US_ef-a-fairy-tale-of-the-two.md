@@ -1,5 +1,7 @@
 # ef: A Fairy Tale of the Two.
 
+![ef-a-fairy-tale-of-the-two](https://cdn.myanimelist.net/images/manga/1/153812.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 63

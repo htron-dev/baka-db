@@ -1,5 +1,7 @@
 # Mikakunin de Shinkoukei
 
+![mikakunin-de-shinkoukei](https://cdn.myanimelist.net/images/manga/5/35808.jpg)
+
 -   **type**: manga
 -   **original-name**: 未確認で進行形
 -   **start-date**: 2009-04-22

@@ -1,5 +1,7 @@
 # Ze: Haru no Yuki
 
+![ze-haru-no-yuki](https://cdn.myanimelist.net/images/manga/1/248393.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 是-ZE- 春の雪

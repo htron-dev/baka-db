@@ -1,5 +1,7 @@
 # Bloody Lily
 
+![bloody-lily](https://cdn.myanimelist.net/images/manga/3/149699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

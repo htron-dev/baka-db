@@ -1,5 +1,7 @@
 # Mini Dragon Specials
 
+![mini-dragon-specials](https://cdn.myanimelist.net/images/anime/1100/116698.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: ミニドラ

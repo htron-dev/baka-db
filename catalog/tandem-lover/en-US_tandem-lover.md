@@ -1,5 +1,7 @@
 # Tandem Lover
 
+![tandem-lover](https://cdn.myanimelist.net/images/manga/2/169817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

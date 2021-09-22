@@ -1,5 +1,7 @@
 # Kuzu na Kimi shika Aisenai
 
+![kuzu-na-kimi-shika-aisenai](https://cdn.myanimelist.net/images/manga/1/238264.jpg)
+
 -   **type**: manga
 -   **original-name**: クズな君しか愛せない
 -   **start-date**: 2020-07-13

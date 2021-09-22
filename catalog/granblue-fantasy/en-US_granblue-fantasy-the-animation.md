@@ -1,5 +1,7 @@
 # Granblue Fantasy The Animation
 
+![granblue-fantasy-the-animation](https://cdn.myanimelist.net/images/anime/2/81630.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: GRANBLUE FANTASY The Animation

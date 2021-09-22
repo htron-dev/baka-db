@@ -1,5 +1,7 @@
 # Aoiro Keiyaku
 
+![aoiro-keiyaku](https://cdn.myanimelist.net/images/manga/2/82038.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Boku ga Soba ni Iru.
 
+![boku-ga-soba-ni-iru](https://cdn.myanimelist.net/images/manga/1/8828.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

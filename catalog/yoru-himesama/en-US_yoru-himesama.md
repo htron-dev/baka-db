@@ -1,5 +1,7 @@
 # Yoru Himesama
 
+![yoru-himesama](https://cdn.myanimelist.net/images/manga/3/174051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

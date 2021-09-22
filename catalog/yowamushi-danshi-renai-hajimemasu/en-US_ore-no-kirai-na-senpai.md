@@ -1,5 +1,7 @@
 # Ore no Kirai na Senpai
 
+![ore-no-kirai-na-senpai](https://cdn.myanimelist.net/images/manga/1/225034.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

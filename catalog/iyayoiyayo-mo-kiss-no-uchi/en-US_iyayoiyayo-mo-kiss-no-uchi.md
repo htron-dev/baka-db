@@ -1,5 +1,7 @@
 # Iyayoiyayo mo Kiss no Uchi
 
+![iyayoiyayo-mo-kiss-no-uchi](https://cdn.myanimelist.net/images/manga/3/180807.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

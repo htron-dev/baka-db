@@ -1,5 +1,7 @@
 # Summer Wars: King Kazuma vs Queen Ozu
 
+![summer-wars-king-kazuma-vs-queen-ozu](https://cdn.myanimelist.net/images/manga/2/47773.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

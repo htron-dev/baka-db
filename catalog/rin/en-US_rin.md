@@ -1,5 +1,7 @@
 # Rin!
 
+![rin](https://cdn.myanimelist.net/images/manga/2/21488.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

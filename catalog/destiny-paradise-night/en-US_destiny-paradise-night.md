@@ -1,5 +1,7 @@
 # Destiny Paradise Night
 
+![destiny-paradise-night](https://cdn.myanimelist.net/images/manga/3/217591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

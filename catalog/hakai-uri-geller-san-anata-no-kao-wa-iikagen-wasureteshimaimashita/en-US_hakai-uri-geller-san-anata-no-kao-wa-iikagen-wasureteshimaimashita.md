@@ -1,5 +1,7 @@
 # Hakai: Uri Geller-san, Anata no Kao wa Iikagen Wasureteshimaimashita
 
+![hakai-uri-geller-san-anata-no-kao-wa-iikagen-wasureteshimaimashita](https://cdn.myanimelist.net/images/manga/2/229656.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

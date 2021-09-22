@@ -1,5 +1,7 @@
 # Kemono Asobi
 
+![kemono-asobi](https://cdn.myanimelist.net/images/manga/2/236171.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

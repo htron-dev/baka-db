@@ -1,5 +1,7 @@
 # Ore no Yuugai na Isekai
 
+![ore-no-yuugai-na-isekai](https://cdn.myanimelist.net/images/manga/1/222607.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

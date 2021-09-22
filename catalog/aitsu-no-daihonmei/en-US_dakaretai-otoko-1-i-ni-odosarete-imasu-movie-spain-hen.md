@@ -1,5 +1,7 @@
 # Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen
 
+![dakaretai-otoko-1-i-ni-odosarete-imasu-movie-spain-hen](https://cdn.myanimelist.net/images/anime/1062/116821.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 抱かれたい男 1 位に脅されています。～スペイン編～

@@ -1,5 +1,7 @@
 # Shin Yoroiden Samurai Troopers
 
+![shin-yoroiden-samurai-troopers](https://cdn.myanimelist.net/images/manga/2/85551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 新鎧伝サムライトルーパー

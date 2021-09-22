@@ -1,5 +1,7 @@
 # Meshinuma.
 
+![meshinuma](https://cdn.myanimelist.net/images/anime/1299/94348.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: めしぬま。

@@ -1,5 +1,7 @@
 # Seventh Hole no Majo
 
+![seventh-hole-no-majo](https://cdn.myanimelist.net/images/manga/2/160977.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Genzo Hitogata Kiwa
 
+![genzo-hitogata-kiwa](https://cdn.myanimelist.net/images/manga/3/130665.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 13

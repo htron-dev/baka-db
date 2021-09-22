@@ -1,5 +1,7 @@
 # Mazinger Z: Alter Ignition
 
+![mazinger-z-alter-ignition](https://cdn.myanimelist.net/images/manga/2/222478.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

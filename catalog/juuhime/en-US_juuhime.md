@@ -1,5 +1,7 @@
 # Juuhime
 
+![juuhime](https://cdn.myanimelist.net/images/manga/2/119195.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **original-name**: 銃姫

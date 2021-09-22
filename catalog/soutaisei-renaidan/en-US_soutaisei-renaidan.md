@@ -1,5 +1,7 @@
 # Soutaisei Renaidan
 
+![soutaisei-renaidan](https://cdn.myanimelist.net/images/manga/3/6999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

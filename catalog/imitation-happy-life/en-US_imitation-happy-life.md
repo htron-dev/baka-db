@@ -1,5 +1,7 @@
 # Imitation Happy Life
 
+![imitation-happy-life](https://cdn.myanimelist.net/images/manga/3/221771.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

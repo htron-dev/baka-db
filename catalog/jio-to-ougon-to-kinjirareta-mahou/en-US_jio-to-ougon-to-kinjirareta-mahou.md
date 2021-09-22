@@ -1,5 +1,7 @@
 # Jio to Ougon to Kinjirareta Mahou
 
+![jio-to-ougon-to-kinjirareta-mahou](https://cdn.myanimelist.net/images/manga/3/26331.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

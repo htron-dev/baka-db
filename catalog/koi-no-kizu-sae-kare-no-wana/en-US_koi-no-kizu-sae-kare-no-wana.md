@@ -1,5 +1,7 @@
 # Koi no Kizu sae Kare no Wana
 
+![koi-no-kizu-sae-kare-no-wana](https://cdn.myanimelist.net/images/manga/1/194139.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋の傷さえ彼の罠

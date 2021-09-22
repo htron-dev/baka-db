@@ -1,5 +1,7 @@
 # Inari, Konkon, Koi Iroha.
 
+![inari-konkon-koi-iroha](https://cdn.myanimelist.net/images/manga/2/161293.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

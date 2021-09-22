@@ -1,5 +1,7 @@
 # Entaku no Kishi Monogatari: Moero Arthur
 
+![entaku-no-kishi-monogatari-moero-arthur](https://cdn.myanimelist.net/images/anime/9/7757.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 円卓の騎士物語　燃えろアーサー

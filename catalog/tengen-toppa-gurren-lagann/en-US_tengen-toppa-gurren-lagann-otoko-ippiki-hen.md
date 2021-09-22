@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann: Otoko Ippiki-hen
 
+![tengen-toppa-gurren-lagann-otoko-ippiki-hen](https://cdn.myanimelist.net/images/manga/1/131499.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

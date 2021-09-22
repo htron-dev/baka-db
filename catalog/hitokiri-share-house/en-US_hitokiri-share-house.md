@@ -1,5 +1,7 @@
 # Hitokiri Share House
 
+![hitokiri-share-house](https://cdn.myanimelist.net/images/manga/2/182647.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

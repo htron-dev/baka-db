@@ -1,5 +1,7 @@
 # Double Cross The 3rd Edition Replay - Academia
 
+![double-cross-the-3rd-edition-replay-academia](https://cdn.myanimelist.net/images/manga/1/101159.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 7

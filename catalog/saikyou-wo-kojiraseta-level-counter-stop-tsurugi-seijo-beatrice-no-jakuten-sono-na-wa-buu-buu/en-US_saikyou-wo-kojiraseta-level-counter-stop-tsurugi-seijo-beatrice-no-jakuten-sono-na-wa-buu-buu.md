@@ -1,5 +1,7 @@
 # Saikyou wo Kojiraseta Level Counter Stop Tsurugi Seijo Beatrice no Jakuten Sono Na wa "Buu Buu"
 
+![saikyou-wo-kojiraseta-level-counter-stop-tsurugi-seijo-beatrice-no-jakuten-sono-na-wa-buu-buu](https://cdn.myanimelist.net/images/manga/2/173958.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 38

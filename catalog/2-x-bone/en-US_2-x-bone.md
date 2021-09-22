@@ -1,5 +1,7 @@
 # 2 x Bone
 
+![2-x-bone](https://cdn.myanimelist.net/images/manga/3/127007.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

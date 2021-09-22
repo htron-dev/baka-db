@@ -1,5 +1,7 @@
 # Quo Vadis
 
+![quo-vadis](https://cdn.myanimelist.net/images/manga/3/193910.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 118

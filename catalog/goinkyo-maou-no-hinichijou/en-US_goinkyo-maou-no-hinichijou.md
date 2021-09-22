@@ -1,5 +1,7 @@
 # Goinkyo Maou no Hinichijou
 
+![goinkyo-maou-no-hinichijou](https://cdn.myanimelist.net/images/manga/2/174642.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

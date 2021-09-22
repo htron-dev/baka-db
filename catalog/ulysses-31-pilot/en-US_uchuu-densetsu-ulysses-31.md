@@ -1,5 +1,7 @@
 # Uchuu Densetsu Ulysses 31
 
+![uchuu-densetsu-ulysses-31](https://cdn.myanimelist.net/images/anime/3/2598.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 宇宙伝説ユリシーズ 31

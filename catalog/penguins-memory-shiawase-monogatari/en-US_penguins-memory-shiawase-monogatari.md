@@ -1,5 +1,7 @@
 # Penguin's Memory: Shiawase Monogatari
 
+![penguins-memory-shiawase-monogatari](https://cdn.myanimelist.net/images/anime/10/44572.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ペンギンズ・メモリー幸福物語

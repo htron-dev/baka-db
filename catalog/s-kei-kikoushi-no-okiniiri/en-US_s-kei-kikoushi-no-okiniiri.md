@@ -1,5 +1,7 @@
 # S-kei Kikoushi no Okiniiri
 
+![s-kei-kikoushi-no-okiniiri](https://cdn.myanimelist.net/images/manga/1/192165.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

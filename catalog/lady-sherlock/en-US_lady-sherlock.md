@@ -1,5 +1,7 @@
 # Lady Sherlock
 
+![lady-sherlock](https://cdn.myanimelist.net/images/manga/2/228573.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 44
 -   **original-name**: 레이디 셜록

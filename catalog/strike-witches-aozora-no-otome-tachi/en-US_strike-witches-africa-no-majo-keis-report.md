@@ -1,5 +1,7 @@
 # Strike Witches: Africa no Majo - Kei's Report
 
+![strike-witches-africa-no-majo-keis-report](https://cdn.myanimelist.net/images/manga/2/117381.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 25

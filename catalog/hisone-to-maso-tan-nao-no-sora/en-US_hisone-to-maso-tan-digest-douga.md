@@ -1,5 +1,7 @@
 # Hisone to Maso-tan Digest Douga
 
+![hisone-to-maso-tan-digest-douga](https://cdn.myanimelist.net/images/anime/1024/101629.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: ひそねとまそたんダイジェスト動画

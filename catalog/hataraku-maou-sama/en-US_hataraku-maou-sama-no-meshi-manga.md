@@ -1,5 +1,7 @@
 # Hataraku Maou-sama no Meshi!
 
+![hataraku-maou-sama-no-meshi](https://cdn.myanimelist.net/images/manga/1/240134.jpg)
+
 -   **type**: manga
 -   **original-name**: はたらく魔王さまのメシ！
 -   **start-date**: 2019-08-28

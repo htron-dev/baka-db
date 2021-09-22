@@ -1,5 +1,7 @@
 # Idol Hakkenden: Minami no Shima no Taiyou to Hoshi
 
+![idol-hakkenden-minami-no-shima-no-taiyou-to-hoshi](https://cdn.myanimelist.net/images/manga/3/178465.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

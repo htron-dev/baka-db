@@ -1,5 +1,7 @@
 # Shurabara!
 
+![shurabara](https://cdn.myanimelist.net/images/manga/1/158596.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 96

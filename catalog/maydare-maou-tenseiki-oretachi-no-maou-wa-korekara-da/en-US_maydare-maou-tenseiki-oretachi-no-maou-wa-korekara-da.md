@@ -1,5 +1,7 @@
 # Maydare Maou Tenseiki: Oretachi no Maou wa Korekara da.
 
+![maydare-maou-tenseiki-oretachi-no-maou-wa-korekara-da](https://cdn.myanimelist.net/images/manga/3/160798.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: メイデーア魔王転生記 -俺たちの魔王はこれからだ。

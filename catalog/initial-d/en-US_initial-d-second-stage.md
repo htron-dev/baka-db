@@ -1,5 +1,7 @@
 # Initial D Second Stage
 
+![initial-d-second-stage](https://cdn.myanimelist.net/images/anime/8/12750.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 頭文字〈イニシャル〉D SECOND STAGE

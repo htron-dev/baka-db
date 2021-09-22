@@ -1,5 +1,7 @@
 # Vulgar Bingo
 
+![vulgar-bingo](https://cdn.myanimelist.net/images/manga/3/186870.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

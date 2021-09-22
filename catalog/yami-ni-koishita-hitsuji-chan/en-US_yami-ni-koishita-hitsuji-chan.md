@@ -1,5 +1,7 @@
 # Yami ni Koishita Hitsuji-chan
 
+![yami-ni-koishita-hitsuji-chan](https://cdn.myanimelist.net/images/manga/3/196423.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

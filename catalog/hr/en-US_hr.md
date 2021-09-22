@@ -1,5 +1,7 @@
 # HR
 
+![hr](https://cdn.myanimelist.net/images/manga/3/11099.jpg)
+
 -   **type**: manga
 
 ## Tags

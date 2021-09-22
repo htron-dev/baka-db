@@ -1,5 +1,7 @@
 # Otoko Doahou! Koushien
 
+![otoko-doahou-koushien](https://cdn.myanimelist.net/images/anime/4/59799.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 156
 -   **original-name**: 男どアホウ! 甲子園

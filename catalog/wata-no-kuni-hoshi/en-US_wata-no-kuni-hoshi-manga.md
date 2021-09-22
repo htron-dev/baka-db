@@ -1,5 +1,7 @@
 # Wata no Kuni Hoshi
 
+![wata-no-kuni-hoshi](https://cdn.myanimelist.net/images/manga/2/95605.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 24

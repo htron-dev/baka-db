@@ -1,5 +1,7 @@
 # Emeth Meth
 
+![emeth-meth](https://cdn.myanimelist.net/images/manga/2/182316.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

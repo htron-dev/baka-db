@@ -1,5 +1,7 @@
 # Nekomatta!
 
+![nekomatta](https://cdn.myanimelist.net/images/manga/2/151477.jpg)
+
 -   **type**: manga
 -   **original-name**: ねこまった!
 -   **start-date**: 2007-08-22

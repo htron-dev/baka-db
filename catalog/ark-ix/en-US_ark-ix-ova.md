@@ -1,5 +1,7 @@
 # Ark IX
 
+![ark-ix](https://cdn.myanimelist.net/images/anime/1755/112479.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アーク IX

@@ -1,5 +1,7 @@
 # Kasou Genjitsu Renairon
 
+![kasou-genjitsu-renairon](https://cdn.myanimelist.net/images/manga/3/2411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 仮想現実恋愛論

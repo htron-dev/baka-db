@@ -1,5 +1,7 @@
 # Shima no Kuregata no Hanashi
 
+![shima-no-kuregata-no-hanashi](https://cdn.myanimelist.net/images/anime/10/82209.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 島の暮れ方の話

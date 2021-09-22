@@ -1,5 +1,7 @@
 # Boku no Omawari-san
 
+![boku-no-omawari-san](https://cdn.myanimelist.net/images/manga/1/202055.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕のおまわりさん
 -   **start-date**: 2016-11-22

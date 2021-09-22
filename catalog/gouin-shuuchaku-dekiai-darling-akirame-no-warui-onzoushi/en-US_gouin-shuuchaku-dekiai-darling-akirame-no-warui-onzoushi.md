@@ -1,5 +1,7 @@
 # Gouin Shuuchaku Dekiai Darling: Akirame no Warui Onzoushi
 
+![gouin-shuuchaku-dekiai-darling-akirame-no-warui-onzoushi](https://cdn.myanimelist.net/images/manga/2/192666.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Princess Aya
 
+![princess-aya](https://cdn.myanimelist.net/images/anime/1361/108059.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 프린세스 아야

@@ -1,5 +1,7 @@
 # Rock Boukenki
 
+![rock-boukenki](https://cdn.myanimelist.net/images/manga/3/36212.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ロック冒険記

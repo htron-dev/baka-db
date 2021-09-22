@@ -1,5 +1,7 @@
 # Kurokami: Intermission
 
+![kurokami-intermission](https://cdn.myanimelist.net/images/anime/11/15086.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 特別編 インターミッション

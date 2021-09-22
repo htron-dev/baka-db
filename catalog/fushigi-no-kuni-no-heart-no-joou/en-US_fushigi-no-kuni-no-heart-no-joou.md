@@ -1,5 +1,7 @@
 # Fushigi no Kuni no Heart no Joou
 
+![fushigi-no-kuni-no-heart-no-joou](https://cdn.myanimelist.net/images/manga/3/237714.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

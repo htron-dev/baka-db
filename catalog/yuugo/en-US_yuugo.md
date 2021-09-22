@@ -1,5 +1,7 @@
 # Yuugo
 
+![yuugo](https://cdn.myanimelist.net/images/manga/1/180338.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 110

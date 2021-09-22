@@ -1,5 +1,7 @@
 # Chicchai Kanojo Senpai ga Kawaisugiru.
 
+![chicchai-kanojo-senpai-ga-kawaisugiru](https://cdn.myanimelist.net/images/manga/3/229264.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

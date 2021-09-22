@@ -1,5 +1,7 @@
 # Zig x Zag
 
+![zig-x-zag](https://cdn.myanimelist.net/images/manga/2/1028.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

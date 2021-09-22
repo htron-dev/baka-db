@@ -1,5 +1,7 @@
 # Cross Ange: Tenshi to Ryuu no Rondo
 
+![cross-ange-tenshi-to-ryuu-no-rondo](https://cdn.myanimelist.net/images/manga/3/148231.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

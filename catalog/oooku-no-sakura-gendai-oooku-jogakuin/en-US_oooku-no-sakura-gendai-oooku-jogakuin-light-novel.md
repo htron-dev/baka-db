@@ -1,5 +1,7 @@
 # Oooku no Sakura: Gendai Oooku Jogakuin
 
+![oooku-no-sakura-gendai-oooku-jogakuin](https://cdn.myanimelist.net/images/manga/2/162924.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: 大奥のサクラ 現代大奥女学院

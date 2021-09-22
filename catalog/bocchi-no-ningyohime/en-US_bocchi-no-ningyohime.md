@@ -1,5 +1,7 @@
 # Bocchi no Ningyohime
 
+![bocchi-no-ningyohime](https://cdn.myanimelist.net/images/manga/3/177479.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

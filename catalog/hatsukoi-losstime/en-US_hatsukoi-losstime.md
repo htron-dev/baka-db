@@ -1,5 +1,7 @@
 # Hatsukoi Losstime
 
+![hatsukoi-losstime](https://cdn.myanimelist.net/images/manga/1/223075.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

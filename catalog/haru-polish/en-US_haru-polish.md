@@ -1,5 +1,7 @@
 # Haru Polish
 
+![haru-polish](https://cdn.myanimelist.net/images/manga/2/188795.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

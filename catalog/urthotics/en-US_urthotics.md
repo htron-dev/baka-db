@@ -1,5 +1,7 @@
 # Urthotics
 
+![urthotics](https://cdn.myanimelist.net/images/manga/3/132361.jpg)
+
 -   **type**: manga
 -   **original-name**: Urthotics ウルソシス
 -   **start-date**: 2013-10-09

@@ -1,5 +1,7 @@
 # Tadashii Ace no Kouryakuhou
 
+![tadashii-ace-no-kouryakuhou](https://cdn.myanimelist.net/images/manga/1/96217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

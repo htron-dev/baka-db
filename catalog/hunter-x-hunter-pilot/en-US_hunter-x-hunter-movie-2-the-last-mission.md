@@ -1,5 +1,7 @@
 # Hunter x Hunter Movie 2: The Last Mission
 
+![hunter-x-hunter-movie-2-the-last-mission](https://cdn.myanimelist.net/images/anime/10/62337.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 HUNTERxHUNTER THE LAST MISSION

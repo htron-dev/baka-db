@@ -1,5 +1,7 @@
 # Megami to Deau Asa ni
 
+![megami-to-deau-asa-ni](https://cdn.myanimelist.net/images/manga/1/72509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

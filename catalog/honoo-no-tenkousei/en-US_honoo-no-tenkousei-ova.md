@@ -1,5 +1,7 @@
 # Honoo no Tenkousei
 
+![honoo-no-tenkousei](https://cdn.myanimelist.net/images/anime/10/79406.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 炎の転校生

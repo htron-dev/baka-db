@@ -1,5 +1,7 @@
 # Kamitsuke! Anno-chan.
 
+![kamitsuke-anno-chan](https://cdn.myanimelist.net/images/manga/1/162467.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

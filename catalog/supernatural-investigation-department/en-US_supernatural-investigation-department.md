@@ -1,5 +1,7 @@
 # Supernatural Investigation Department
 
+![supernatural-investigation-department](https://cdn.myanimelist.net/images/manga/3/64025.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 특영반
 -   **start-date**: 2010-05-06

@@ -1,5 +1,7 @@
 # Sakura Quest
 
+![sakura-quest](https://cdn.myanimelist.net/images/anime/6/85222.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: サクラクエスト

@@ -1,5 +1,7 @@
 # Fairy Tail: Final Series
 
+![fairy-tail-final-series](https://cdn.myanimelist.net/images/anime/1536/93863.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: FAIRY TAIL ファイナルシリーズ

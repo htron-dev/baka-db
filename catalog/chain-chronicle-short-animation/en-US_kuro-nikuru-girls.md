@@ -1,5 +1,7 @@
 # Kuro-Nikuru Girls
 
+![kuro-nikuru-girls](https://cdn.myanimelist.net/images/anime/10/83832.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: くろにくるがーるず

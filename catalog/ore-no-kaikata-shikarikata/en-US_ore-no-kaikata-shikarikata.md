@@ -1,5 +1,7 @@
 # Ore no Kaikata Shikarikata
 
+![ore-no-kaikata-shikarikata](https://cdn.myanimelist.net/images/manga/1/190893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

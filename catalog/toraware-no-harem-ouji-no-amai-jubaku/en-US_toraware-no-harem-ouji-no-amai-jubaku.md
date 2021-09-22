@@ -1,5 +1,7 @@
 # Toraware no Harem: Ouji no Amai Jubaku
 
+![toraware-no-harem-ouji-no-amai-jubaku](https://cdn.myanimelist.net/images/manga/3/195024.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 囚われのハーレム～王子の甘い呪縛～

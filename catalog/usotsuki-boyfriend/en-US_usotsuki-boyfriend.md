@@ -1,5 +1,7 @@
 # Usotsuki Boyfriend
 
+![usotsuki-boyfriend](https://cdn.myanimelist.net/images/manga/3/177451.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 42

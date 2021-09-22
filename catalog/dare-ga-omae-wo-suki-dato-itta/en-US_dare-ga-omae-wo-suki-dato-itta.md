@@ -1,5 +1,7 @@
 # Dare ga Omae wo Suki dato Itta
 
+![dare-ga-omae-wo-suki-dato-itta](https://cdn.myanimelist.net/images/manga/1/12433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

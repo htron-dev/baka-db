@@ -1,5 +1,7 @@
 # Naze Sonae-san wa Itsumo Iyarashii Koto Bakari Soutei shite Kiki Kanri shiteiru no?
 
+![naze-sonae-san-wa-itsumo-iyarashii-koto-bakari-soutei-shite-kiki-kanri-shiteiru-no](https://cdn.myanimelist.net/images/manga/2/225405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

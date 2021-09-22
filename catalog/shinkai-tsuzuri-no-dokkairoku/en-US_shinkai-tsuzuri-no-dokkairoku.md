@@ -1,5 +1,7 @@
 # Shinkai Tsuzuri no Dokkairoku
 
+![shinkai-tsuzuri-no-dokkairoku](https://cdn.myanimelist.net/images/manga/3/160892.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

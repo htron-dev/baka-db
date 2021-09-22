@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Raihousha-hen
 
+![mahouka-koukou-no-rettousei-raihousha-hen](https://cdn.myanimelist.net/images/manga/2/180909.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 44

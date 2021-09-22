@@ -1,5 +1,7 @@
 # Wonder Rabbit Girl
 
+![wonder-rabbit-girl](https://cdn.myanimelist.net/images/manga/2/163538.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 27

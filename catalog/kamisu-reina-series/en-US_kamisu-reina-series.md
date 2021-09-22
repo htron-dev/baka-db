@@ -1,5 +1,7 @@
 # Kamisu Reina Series
 
+![kamisu-reina-series](https://cdn.myanimelist.net/images/manga/3/117705.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

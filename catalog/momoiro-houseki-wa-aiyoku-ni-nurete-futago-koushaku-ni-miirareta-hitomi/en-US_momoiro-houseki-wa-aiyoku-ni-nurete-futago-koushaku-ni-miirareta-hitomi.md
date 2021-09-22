@@ -1,5 +1,7 @@
 # Momoiro Houseki wa Aiyoku ni Nurete: Futago Koushaku ni Miirareta Hitomi
 
+![momoiro-houseki-wa-aiyoku-ni-nurete-futago-koushaku-ni-miirareta-hitomi](https://cdn.myanimelist.net/images/manga/2/198516.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

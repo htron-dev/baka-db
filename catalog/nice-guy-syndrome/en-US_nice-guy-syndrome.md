@@ -1,5 +1,7 @@
 # Nice Guy Syndrome
 
+![nice-guy-syndrome](https://cdn.myanimelist.net/images/manga/4/208955.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 예쁜남자 신드롬

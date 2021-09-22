@@ -1,5 +1,7 @@
 # Re:␣Hamatora
 
+![re-␣-hamatora](https://cdn.myanimelist.net/images/anime/3/75641.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Re:␣ ハマトラ

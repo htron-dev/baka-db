@@ -1,5 +1,7 @@
 # Reinou Tantei Runa &amp; Saiko
 
+![reinou-tantei-runa-amp-saiko](https://cdn.myanimelist.net/images/manga/3/21177.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

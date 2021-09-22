@@ -1,5 +1,7 @@
 # Kaikan Shokunin
 
+![kaikan-shokunin](https://cdn.myanimelist.net/images/manga/3/7799.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 快感職人

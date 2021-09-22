@@ -1,5 +1,7 @@
 # h na h to A-ko no Noroi
 
+![h-na-h-to-a-ko-no-noroi](https://cdn.myanimelist.net/images/manga/3/175950.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

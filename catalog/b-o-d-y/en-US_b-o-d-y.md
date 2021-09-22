@@ -1,5 +1,7 @@
 # B.O.D.Y.
 
+![b-o-d-y](https://cdn.myanimelist.net/images/manga/1/176498.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 62

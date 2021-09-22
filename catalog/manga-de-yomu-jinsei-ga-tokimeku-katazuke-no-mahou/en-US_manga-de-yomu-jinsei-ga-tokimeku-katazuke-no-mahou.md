@@ -1,5 +1,7 @@
 # Manga de Yomu Jinsei ga Tokimeku Katazuke no Mahou
 
+![manga-de-yomu-jinsei-ga-tokimeku-katazuke-no-mahou](https://cdn.myanimelist.net/images/manga/1/220652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

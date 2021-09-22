@@ -1,5 +1,7 @@
 # Jigoku no Alice
 
+![jigoku-no-alice](https://cdn.myanimelist.net/images/manga/1/76575.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

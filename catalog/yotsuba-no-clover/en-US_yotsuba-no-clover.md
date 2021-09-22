@@ -1,5 +1,7 @@
 # Yotsuba no Clover
 
+![yotsuba-no-clover](https://cdn.myanimelist.net/images/manga/3/183524.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 四つ葉のクローバー

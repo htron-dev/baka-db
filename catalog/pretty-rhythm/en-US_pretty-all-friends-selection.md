@@ -1,5 +1,7 @@
 # Pretty All Friends Selection
 
+![pretty-all-friends-selection](https://cdn.myanimelist.net/images/anime/1968/114657.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: プリティーオールフレンズ
 -   **start-date**: 2021-06-06

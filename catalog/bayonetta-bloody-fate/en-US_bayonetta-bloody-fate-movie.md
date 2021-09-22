@@ -1,5 +1,7 @@
 # Bayonetta: Bloody Fate
 
+![bayonetta-bloody-fate](https://cdn.myanimelist.net/images/anime/1243/113390.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベヨネッタ ブラッディフェイト

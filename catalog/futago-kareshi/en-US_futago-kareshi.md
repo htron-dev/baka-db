@@ -1,5 +1,7 @@
 # Futago Kareshi
 
+![futago-kareshi](https://cdn.myanimelist.net/images/manga/1/136915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Shokugeki no Souma
 
+![shokugeki-no-souma](https://cdn.myanimelist.net/images/anime/3/72943.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 食戟のソーマ

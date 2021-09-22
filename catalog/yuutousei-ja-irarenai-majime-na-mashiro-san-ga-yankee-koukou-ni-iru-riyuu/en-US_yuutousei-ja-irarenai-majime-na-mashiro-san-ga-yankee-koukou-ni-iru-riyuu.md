@@ -1,5 +1,7 @@
 # Yuutousei ja Irarenai! Majime na Mashiro-san ga Yankee Koukou ni Iru Riyuu
 
+![yuutousei-ja-irarenai-majime-na-mashiro-san-ga-yankee-koukou-ni-iru-riyuu](https://cdn.myanimelist.net/images/manga/2/235243.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

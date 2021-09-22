@@ -1,5 +1,7 @@
 # Atsumare! Fushigi Kenkyuubu
 
+![atsumare-fushigi-kenkyuubu](https://cdn.myanimelist.net/images/manga/1/194322.jpg)
+
 -   **type**: manga
 -   **original-name**: あつまれ！ふしぎ研究部
 -   **start-date**: 2016-09-29

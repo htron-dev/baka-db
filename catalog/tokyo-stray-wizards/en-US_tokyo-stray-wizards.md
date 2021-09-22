@@ -1,5 +1,7 @@
 # Tokyo Stray Wizards
 
+![tokyo-stray-wizards](https://cdn.myanimelist.net/images/manga/3/177851.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 28

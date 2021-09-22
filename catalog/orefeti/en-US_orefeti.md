@@ -1,5 +1,7 @@
 # Orefeti
 
+![orefeti](https://cdn.myanimelist.net/images/manga/3/91787.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 俺フェチ

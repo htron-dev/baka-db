@@ -1,5 +1,7 @@
 # Eve no Ringo
 
+![eve-no-ringo](https://cdn.myanimelist.net/images/manga/2/34713.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: イヴの林檎

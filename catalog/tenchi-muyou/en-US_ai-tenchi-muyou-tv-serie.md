@@ -1,5 +1,7 @@
 # Ai Tenchi Muyou!
 
+![ai-tenchi-muyou](https://cdn.myanimelist.net/images/anime/12/67801.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 愛・天地無用!

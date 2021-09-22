@@ -1,5 +1,7 @@
 # Kyou kara, Kimi wo Share Shimasu
 
+![kyou-kara-kimi-wo-share-shimasu](https://cdn.myanimelist.net/images/manga/2/240461.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: 今日から、君をシェアします

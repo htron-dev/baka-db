@@ -1,5 +1,7 @@
 # Nurse Witch Komugi-chan Magikarte Special
 
+![nurse-witch-komugi-chan-magikarte-special](https://cdn.myanimelist.net/images/anime/4/72857.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 閑話休題すぺしゃる ～再び祭りの予感でワッショイ!～

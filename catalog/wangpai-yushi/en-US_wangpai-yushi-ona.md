@@ -1,5 +1,7 @@
 # Wangpai Yushi
 
+![wangpai-yushi](https://cdn.myanimelist.net/images/anime/13/82852.jpg)
+
 -   **type**: ona
 -   **episodes**: 39
 -   **original-name**: 王牌御史

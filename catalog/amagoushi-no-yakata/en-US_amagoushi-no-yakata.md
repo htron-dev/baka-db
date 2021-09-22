@@ -1,5 +1,7 @@
 # Amagoushi no Yakata
 
+![amagoushi-no-yakata](https://cdn.myanimelist.net/images/manga/2/30435.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 雨格子の館

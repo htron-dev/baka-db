@@ -1,5 +1,7 @@
 # Fight!!
 
+![fight](https://cdn.myanimelist.net/images/anime/1623/94539.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: FIGHT!!

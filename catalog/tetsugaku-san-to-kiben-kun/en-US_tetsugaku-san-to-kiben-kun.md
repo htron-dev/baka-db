@@ -1,5 +1,7 @@
 # Tetsugaku-san to Kiben-kun
 
+![tetsugaku-san-to-kiben-kun](https://cdn.myanimelist.net/images/manga/2/192095.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

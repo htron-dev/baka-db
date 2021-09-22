@@ -1,5 +1,7 @@
 # Fubin BL
 
+![fubin-bl](https://cdn.myanimelist.net/images/manga/3/140595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

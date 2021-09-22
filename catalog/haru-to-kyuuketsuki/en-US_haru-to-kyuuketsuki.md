@@ -1,5 +1,7 @@
 # Haru to Kyuuketsuki
 
+![haru-to-kyuuketsuki](https://cdn.myanimelist.net/images/manga/2/225333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

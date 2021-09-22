@@ -1,5 +1,7 @@
 # 100-mankai no Suki wo Ageru
 
+![100-mankai-no-suki-wo-ageru](https://cdn.myanimelist.net/images/manga/1/210235.jpg)
+
 -   **type**: manga
 -   **original-name**: 100 万回のスキをあげる
 -   **start-date**: 2017-02-13

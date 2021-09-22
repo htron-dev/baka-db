@@ -1,5 +1,7 @@
 # Bug tte Honey
 
+![bug-tte-honey](https://cdn.myanimelist.net/images/anime/7/28163.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: Bug ってハニー

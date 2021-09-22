@@ -1,5 +1,7 @@
 # Onikirimaru
 
+![onikirimaru](https://cdn.myanimelist.net/images/manga/2/136937.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **original-name**: 鬼切丸

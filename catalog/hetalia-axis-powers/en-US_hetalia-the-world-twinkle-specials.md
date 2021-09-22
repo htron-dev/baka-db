@@ -1,5 +1,7 @@
 # Hetalia: The World Twinkle Specials
 
+![hetalia-the-world-twinkle-specials](https://cdn.myanimelist.net/images/anime/1966/97333.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ヘタリア The World Twinkle エクストラエピソード

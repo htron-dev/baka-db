@@ -1,5 +1,7 @@
 # Kaze no Stigma: Kouen no Miko
 
+![kaze-no-stigma-kouen-no-miko](https://cdn.myanimelist.net/images/manga/3/24737.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

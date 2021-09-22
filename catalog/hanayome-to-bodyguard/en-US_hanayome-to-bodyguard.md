@@ -1,5 +1,7 @@
 # Hanayome to Bodyguard
 
+![hanayome-to-bodyguard](https://cdn.myanimelist.net/images/manga/3/240860.jpg)
+
 -   **type**: manga
 -   **original-name**: 花嫁とボディガード
 -   **start-date**: 2021-02-05

@@ -1,5 +1,7 @@
 # Spotlight
 
+![spotlight](https://cdn.myanimelist.net/images/manga/3/243386.jpg)
+
 -   **type**: manga
 -   **original-name**: スポットライト
 -   **start-date**: 2020-07-22

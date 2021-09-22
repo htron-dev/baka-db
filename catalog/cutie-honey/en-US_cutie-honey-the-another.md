@@ -1,5 +1,7 @@
 # Cutie Honey THE ANOTHER
 
+![cutie-honey-the-another](https://cdn.myanimelist.net/images/manga/1/218094.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

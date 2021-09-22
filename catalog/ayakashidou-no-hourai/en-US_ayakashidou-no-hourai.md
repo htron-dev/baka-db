@@ -1,5 +1,7 @@
 # Ayakashidou no Hourai
 
+![ayakashidou-no-hourai](https://cdn.myanimelist.net/images/manga/3/51483.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: あやかし堂のホウライ

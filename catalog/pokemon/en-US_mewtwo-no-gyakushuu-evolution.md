@@ -1,5 +1,7 @@
 # Mewtwo no Gyakushuu Evolution
 
+![mewtwo-no-gyakushuu-evolution](https://cdn.myanimelist.net/images/manga/2/224969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

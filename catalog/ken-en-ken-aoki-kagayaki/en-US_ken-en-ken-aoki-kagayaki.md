@@ -1,5 +1,7 @@
 # Ken En Ken: Aoki Kagayaki
 
+![ken-en-ken-aoki-kagayaki](https://cdn.myanimelist.net/images/anime/1339/95573.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 軒轅剣・蒼き曜

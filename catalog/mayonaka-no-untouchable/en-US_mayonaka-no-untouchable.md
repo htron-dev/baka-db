@@ -1,5 +1,7 @@
 # Mayonaka no Untouchable
 
+![mayonaka-no-untouchable](https://cdn.myanimelist.net/images/manga/1/16091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Op: Yoake Itaru no Iro no Nai Hibi
 
+![op-yoake-itaru-no-iro-no-nai-hibi](https://cdn.myanimelist.net/images/manga/1/206057.jpg)
+
 -   **type**: manga
 -   **original-name**: Op -オプ- 夜明至の色のない日々
 -   **start-date**: 2016-06-28

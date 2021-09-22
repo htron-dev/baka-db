@@ -1,5 +1,7 @@
 # Ku no Nijuuuichi Hotaru
 
+![ku-no-nijuuuichi-hotaru](https://cdn.myanimelist.net/images/manga/3/35370.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: くノ 21 ホタル
@@ -16,8 +18,6 @@
 
 -   Kobayashi
 -   Takumi (Story & Art)
-
-## Sinopse
 
 ## Links
 

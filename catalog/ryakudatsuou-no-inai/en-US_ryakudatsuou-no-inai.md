@@ -1,5 +1,7 @@
 # Ryakudatsuou no Inai
 
+![ryakudatsuou-no-inai](https://cdn.myanimelist.net/images/manga/2/230182.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

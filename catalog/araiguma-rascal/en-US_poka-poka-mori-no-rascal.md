@@ -1,5 +1,7 @@
 # Poka Poka Mori no Rascal
 
+![poka-poka-mori-no-rascal](https://cdn.myanimelist.net/images/anime/7/47039.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ぽかぽか森のラスカル

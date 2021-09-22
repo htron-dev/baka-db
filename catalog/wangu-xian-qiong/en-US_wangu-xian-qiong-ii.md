@@ -1,5 +1,7 @@
 # Wangu Xian Qiong II
 
+![wangu-xian-qiong-ii](https://cdn.myanimelist.net/images/anime/1102/93891.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 万古仙穹 Ⅱ

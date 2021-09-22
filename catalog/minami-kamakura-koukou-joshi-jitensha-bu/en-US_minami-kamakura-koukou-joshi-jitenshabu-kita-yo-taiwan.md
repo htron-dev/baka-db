@@ -1,5 +1,7 @@
 # Minami Kamakura Koukou Joshi Jitenshabu: Kita yo, Taiwan!
 
+![minami-kamakura-koukou-joshi-jitenshabu-kita-yo-taiwan](https://cdn.myanimelist.net/images/anime/5/83769.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 南鎌倉高校女子自転車部 特別編「来たよ、台湾!!」

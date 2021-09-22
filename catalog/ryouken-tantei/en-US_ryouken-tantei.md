@@ -1,5 +1,7 @@
 # Ryouken Tantei
 
+![ryouken-tantei](https://cdn.myanimelist.net/images/manga/3/164424.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 猟犬探偵

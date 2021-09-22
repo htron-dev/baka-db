@@ -1,5 +1,7 @@
 # Katayoku no Khronos Gear: The promise of engage
 
+![katayoku-no-khronos-gear-the-promise-of-engage](https://cdn.myanimelist.net/images/manga/2/133375.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: 片翼のクロノスギア～ The promise of engage ～

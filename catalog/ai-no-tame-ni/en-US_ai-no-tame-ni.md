@@ -1,5 +1,7 @@
 # Ai no Tame ni
 
+![ai-no-tame-ni](https://cdn.myanimelist.net/images/manga/3/11770.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Boku to Sono Tsuzuki wo
 
+![boku-to-sono-tsuzuki-wo](https://cdn.myanimelist.net/images/manga/2/238107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

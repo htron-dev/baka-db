@@ -1,5 +1,7 @@
 # A.D. Police (TV)
 
+![a-d-police-tv](https://cdn.myanimelist.net/images/anime/2/15440.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アドバンスドポリス

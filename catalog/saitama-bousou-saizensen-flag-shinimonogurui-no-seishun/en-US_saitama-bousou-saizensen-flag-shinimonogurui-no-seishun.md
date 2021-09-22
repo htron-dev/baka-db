@@ -1,5 +1,7 @@
 # Saitama Bousou Saizensen Flag! Shinimonogurui no Seishun!!
 
+![saitama-bousou-saizensen-flag-shinimonogurui-no-seishun](https://cdn.myanimelist.net/images/anime/2/60985.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 埼玉暴走最前線 フラッグ! 死にものぐるいの青春!!

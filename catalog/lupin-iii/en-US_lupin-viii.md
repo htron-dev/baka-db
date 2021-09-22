@@ -1,5 +1,7 @@
 # Lupin VIII
 
+![lupin-viii](https://cdn.myanimelist.net/images/anime/4/89537.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン 8 世

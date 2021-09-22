@@ -1,5 +1,7 @@
 # Sentou Yousei Yukikaze
 
+![sentou-yousei-yukikaze](https://cdn.myanimelist.net/images/manga/3/17543.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

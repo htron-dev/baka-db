@@ -1,5 +1,7 @@
 # Jewelry Designer wa Romanticist
 
+![jewelry-designer-wa-romanticist](https://cdn.myanimelist.net/images/manga/1/10875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジュエリーデザイナーはロマンティスト

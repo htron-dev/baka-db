@@ -1,5 +1,7 @@
 # Malta no Kamishibai
 
+![malta-no-kamishibai](https://cdn.myanimelist.net/images/anime/1397/95953.jpg)
+
 -   **type**: ona
 -   **original-name**: マルタのかみしばい
 -   **start-date**: 2018-08-01

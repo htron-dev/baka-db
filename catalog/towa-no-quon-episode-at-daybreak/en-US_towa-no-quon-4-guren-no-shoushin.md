@@ -1,5 +1,7 @@
 # Towa no Quon 4: Guren no Shoushin
 
+![towa-no-quon-4-guren-no-shoushin](https://cdn.myanimelist.net/images/anime/11/33219.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トワノクオン 第４章 紅蓮の焦心

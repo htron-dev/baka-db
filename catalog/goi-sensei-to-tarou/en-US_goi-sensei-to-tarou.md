@@ -1,5 +1,7 @@
 # Goi-sensei to Tarou
 
+![goi-sensei-to-tarou](https://cdn.myanimelist.net/images/anime/13/66205.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 五井先生と太郎
@@ -9,7 +11,6 @@
 ## Tags
 
 -   drama
-
 -   school
 
 ## Sinopse

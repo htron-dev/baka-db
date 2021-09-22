@@ -1,5 +1,7 @@
 # Kaiketsu Zorori
 
+![kaiketsu-zorori](https://cdn.myanimelist.net/images/anime/13/30991.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: かいけつゾロリ

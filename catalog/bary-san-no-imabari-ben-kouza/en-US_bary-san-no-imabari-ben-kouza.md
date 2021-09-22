@@ -1,5 +1,7 @@
 # Bary-san no Imabari-ben Kouza
 
+![bary-san-no-imabari-ben-kouza](https://cdn.myanimelist.net/images/anime/6/74539.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: バリィさんのいまばり弁講座

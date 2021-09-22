@@ -1,5 +1,7 @@
 # Boku wa Kimi no Eien ni Naru
 
+![boku-wa-kimi-no-eien-ni-naru](https://cdn.myanimelist.net/images/manga/1/36322.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕は君の永遠になる

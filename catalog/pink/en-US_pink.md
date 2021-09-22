@@ -1,5 +1,7 @@
 # Pink
 
+![pink](https://cdn.myanimelist.net/images/manga/3/73061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

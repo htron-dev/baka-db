@@ -1,5 +1,7 @@
 # Eve - New Generation
 
+![eve-new-generation](https://cdn.myanimelist.net/images/manga/3/18057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

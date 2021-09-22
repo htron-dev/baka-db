@@ -1,5 +1,7 @@
 # Psycho-Pass: Sinners of the System Case.2 - First Guardian
 
+![psycho-pass-sinners-of-the-system-case-2-first-guardian](https://cdn.myanimelist.net/images/anime/1357/96879.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PSYCHO-PASS サイコパス Sinners of the System Case.2「First Guardian」

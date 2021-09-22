@@ -1,5 +1,7 @@
 # Märchen Series
 
+![marchen-series](https://cdn.myanimelist.net/images/manga/1/238347.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 43

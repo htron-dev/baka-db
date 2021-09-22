@@ -1,5 +1,7 @@
 # Koisuru Boukun
 
+![koisuru-boukun](https://cdn.myanimelist.net/images/anime/8/26233.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 恋する暴君

@@ -1,5 +1,7 @@
 # Runal Saga
 
+![runal-saga](https://cdn.myanimelist.net/images/manga/1/162939.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 40

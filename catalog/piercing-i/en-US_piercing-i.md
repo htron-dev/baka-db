@@ -1,5 +1,7 @@
 # Piercing I
 
+![piercing-i](https://cdn.myanimelist.net/images/anime/1774/96617.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 刺痛我

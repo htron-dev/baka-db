@@ -1,5 +1,7 @@
 # Bon Courage! La Pucelle
 
+![bon-courage-la-pucelle](https://cdn.myanimelist.net/images/manga/3/168492.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

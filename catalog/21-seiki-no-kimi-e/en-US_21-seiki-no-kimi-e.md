@@ -1,5 +1,7 @@
 # 21 Seiki no Kimi e
 
+![21-seiki-no-kimi-e](https://cdn.myanimelist.net/images/manga/1/40986.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 21 世紀の君へ

@@ -1,5 +1,7 @@
 # Kanojo ga Shinjatta.
 
+![kanojo-ga-shinjatta](https://cdn.myanimelist.net/images/manga/1/165845.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Massugu ni Ikou. 2nd Season
 
+![massugu-ni-ikou-2nd-season](https://cdn.myanimelist.net/images/anime/7/76160.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: まっすぐにいこう。第 2 期

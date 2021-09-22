@@ -1,5 +1,7 @@
 # Shokugeki no Souma OVA
 
+![shokugeki-no-souma-ova](https://cdn.myanimelist.net/images/anime/1622/96638.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 食戟のソーマ

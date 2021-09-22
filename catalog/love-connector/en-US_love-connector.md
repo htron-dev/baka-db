@@ -1,5 +1,7 @@
 # Love Connector!
 
+![love-connector](https://cdn.myanimelist.net/images/manga/1/166099.jpg)
+
 -   **type**: manga
 -   **original-name**: らぶコネクタ! -Love Connector-
 -   **start-date**: 2015-01-11

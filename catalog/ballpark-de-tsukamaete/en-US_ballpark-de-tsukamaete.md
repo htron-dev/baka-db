@@ -1,5 +1,7 @@
 # Ballpark de Tsukamaete!
 
+![ballpark-de-tsukamaete](https://cdn.myanimelist.net/images/manga/1/246657.jpg)
+
 -   **type**: manga
 -   **original-name**: ボールパークでつかまえて！
 -   **start-date**: 2020-09-03

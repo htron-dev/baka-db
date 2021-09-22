@@ -1,5 +1,7 @@
 # Detective Conan Tokubetsu-hen
 
+![detective-conan-tokubetsu-hen](https://cdn.myanimelist.net/images/manga/5/78721.jpg)
+
 -   **type**: manga
 -   **original-name**: 名探偵コナン特別編
 

@@ -1,5 +1,7 @@
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 1-bu - Hon ga Nai nara Tsukureba Ii!
 
+![honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-dai-1-bu-hon-ga-nai-nara-tsukureba-ii](https://cdn.myanimelist.net/images/manga/2/171435.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 47

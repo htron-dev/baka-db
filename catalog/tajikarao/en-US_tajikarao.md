@@ -1,5 +1,7 @@
 # Tajikarao
 
+![tajikarao](https://cdn.myanimelist.net/images/manga/3/11756.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

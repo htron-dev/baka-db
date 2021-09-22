@@ -1,5 +1,7 @@
 # Decoration Disorder Disconnection
 
+![decoration-disorder-disconnection](https://cdn.myanimelist.net/images/manga/1/22535.jpg)
+
 -   **type**: light-novel
 -   **original-name**: デコレーション・ディスオーダー・ディスコネクション
 -   **start-date**: 2007-01-10

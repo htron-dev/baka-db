@@ -1,5 +1,7 @@
 # Yousei Chii-tan☆
 
+![yousei-chii-tan☆](https://cdn.myanimelist.net/images/anime/1355/98782.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 妖精ちぃたん ☆
 -   **rating**: PG - Children

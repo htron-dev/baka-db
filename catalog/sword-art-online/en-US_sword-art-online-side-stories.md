@@ -1,5 +1,7 @@
 # Sword Art Online Side Stories
 
+![sword-art-online-side-stories](https://cdn.myanimelist.net/images/manga/3/82322.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

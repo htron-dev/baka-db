@@ -1,5 +1,7 @@
 # Macross II: Lovers Again
 
+![macross-ii-lovers-again](https://cdn.myanimelist.net/images/anime/9/61069.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 超時空要塞マクロス II -Lovers Again-

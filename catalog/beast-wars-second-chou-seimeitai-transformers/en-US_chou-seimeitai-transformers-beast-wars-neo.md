@@ -1,5 +1,7 @@
 # Chou Seimeitai Transformers Beast Wars Neo
 
+![chou-seimeitai-transformers-beast-wars-neo](https://cdn.myanimelist.net/images/anime/12/57417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: 超生命体トランスフォーマー ビーストウォーズ・ネオ

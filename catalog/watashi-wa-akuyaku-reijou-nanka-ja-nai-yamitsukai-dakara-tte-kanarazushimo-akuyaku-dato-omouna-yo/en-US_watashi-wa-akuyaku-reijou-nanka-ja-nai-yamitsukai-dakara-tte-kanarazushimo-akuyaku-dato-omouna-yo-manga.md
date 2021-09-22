@@ -1,5 +1,7 @@
 # Watashi wa Akuyaku Reijou nanka ja Nai!!: Yamitsukai dakara tte Kanarazushimo Akuyaku dato Omouna yo
 
+![watashi-wa-akuyaku-reijou-nanka-ja-nai-yamitsukai-dakara-tte-kanarazushimo-akuyaku-dato-omouna-yo](https://cdn.myanimelist.net/images/manga/3/229268.jpg)
+
 -   **type**: manga
 -   **original-name**: 私は悪役令嬢なんかじゃないっ！！　闇使いだからって必ずしも悪役だと思うなよ
 -   **start-date**: 2019-07-10

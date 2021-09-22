@@ -1,5 +1,7 @@
 # Salaryman no Fushigi na Dungeon
 
+![salaryman-no-fushigi-na-dungeon](https://cdn.myanimelist.net/images/manga/1/245790.jpg)
+
 -   **type**: manga
 -   **original-name**: サラリーマンの不死戯なダンジョン
 -   **start-date**: 2021-02-03

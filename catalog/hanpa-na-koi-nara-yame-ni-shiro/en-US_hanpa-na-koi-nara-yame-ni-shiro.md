@@ -1,5 +1,7 @@
 # Hanpa na Koi nara Yame ni Shiro!
 
+![hanpa-na-koi-nara-yame-ni-shiro](https://cdn.myanimelist.net/images/manga/3/76889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

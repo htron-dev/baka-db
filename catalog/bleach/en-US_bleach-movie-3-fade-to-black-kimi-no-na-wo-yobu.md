@@ -1,5 +1,7 @@
 # Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu
 
+![bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu](https://cdn.myanimelist.net/images/anime/3/64689.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 BLEACH Fade to Black 君の名を呼ぶ
@@ -30,4 +32,4 @@ Filled with action, Kimi no Na wo Yobu follows Ichigo and Kon as they fight agai
 -   [Official Site](http://www.tv-tokyo.co.jp/bleach/2008/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6041)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10055)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Bleach_(manga)#Films>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Bleach_%28manga%29#Films)

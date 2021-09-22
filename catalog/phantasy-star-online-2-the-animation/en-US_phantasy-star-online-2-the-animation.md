@@ -1,5 +1,7 @@
 # Phantasy Star Online 2 The Animation
 
+![phantasy-star-online-2-the-animation](https://cdn.myanimelist.net/images/anime/5/78120.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ファンタシースターオンライン２ ジ アニメーション

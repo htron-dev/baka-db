@@ -1,5 +1,7 @@
 # Ribbon no Kishi (1963)
 
+![ribbon-no-kishi-1963](https://cdn.myanimelist.net/images/manga/1/130941.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: リボンの騎士

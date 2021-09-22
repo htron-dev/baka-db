@@ -1,5 +1,7 @@
 # Garou Densetsu: Senritsu no Maougai
 
+![garou-densetsu-senritsu-no-maougai](https://cdn.myanimelist.net/images/manga/1/38866.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

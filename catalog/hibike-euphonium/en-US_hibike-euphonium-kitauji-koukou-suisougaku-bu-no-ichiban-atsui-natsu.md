@@ -1,5 +1,7 @@
 # Hibike! Euphonium: Kitauji Koukou Suisougaku-bu no Ichiban Atsui Natsu
 
+![hibike-euphonium-kitauji-koukou-suisougaku-bu-no-ichiban-atsui-natsu](https://cdn.myanimelist.net/images/manga/1/182722.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Yurigurashi
 
+![yurigurashi](https://cdn.myanimelist.net/images/manga/3/213395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

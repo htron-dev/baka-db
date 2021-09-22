@@ -1,5 +1,7 @@
 # Y 十 M: Yagyuu Ninpouchou
 
+![y-十-m-yagyuu-ninpouchou](https://cdn.myanimelist.net/images/manga/3/157496.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 100

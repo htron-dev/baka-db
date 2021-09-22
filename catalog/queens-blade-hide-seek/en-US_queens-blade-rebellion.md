@@ -1,5 +1,7 @@
 # Queen's Blade: Rebellion
 
+![queens-blade-rebellion](https://cdn.myanimelist.net/images/anime/6/75502.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: クイーンズブレイド リベリオン

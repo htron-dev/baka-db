@@ -1,5 +1,7 @@
 # Cooking Papa
 
+![cooking-papa](https://cdn.myanimelist.net/images/anime/13/61713.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 151
 -   **original-name**: クッキングパパ

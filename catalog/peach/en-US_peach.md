@@ -1,5 +1,7 @@
 # Peach!
 
+![peach](https://cdn.myanimelist.net/images/manga/3/11812.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 110

@@ -1,5 +1,7 @@
 # Kino no Tabi: The Beautiful World - The Animated Series
 
+![kino-no-tabi-the-beautiful-world-the-animated-series](https://cdn.myanimelist.net/images/anime/13/87235.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: キノの旅 -the Beautiful World- the Animated Series

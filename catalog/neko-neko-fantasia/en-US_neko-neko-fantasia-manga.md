@@ -1,5 +1,7 @@
 # Neko Neko Fantasia
 
+![neko-neko-fantasia](https://cdn.myanimelist.net/images/manga/2/158130.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: ねこ・ねこ・幻想曲〈ファンタシア 〉

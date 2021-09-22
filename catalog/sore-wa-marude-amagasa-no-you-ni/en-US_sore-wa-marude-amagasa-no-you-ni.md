@@ -1,5 +1,7 @@
 # Sore wa Marude Amagasa no You ni
 
+![sore-wa-marude-amagasa-no-you-ni](https://cdn.myanimelist.net/images/manga/1/225354.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

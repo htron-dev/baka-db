@@ -1,5 +1,7 @@
 # Yuuenchi: Baki Gaiden
 
+![yuuenchi-baki-gaiden](https://cdn.myanimelist.net/images/manga/3/235643.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ゆうえんち -バキ外伝-
 -   **start-date**: 2018-05-17

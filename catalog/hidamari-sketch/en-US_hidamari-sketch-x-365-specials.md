@@ -1,5 +1,7 @@
 # Hidamari Sketch x 365 Specials
 
+![hidamari-sketch-x-365-specials](https://cdn.myanimelist.net/images/anime/13/17727.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ひだまりスケッチ ×365

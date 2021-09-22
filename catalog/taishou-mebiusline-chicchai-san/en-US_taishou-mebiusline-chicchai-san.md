@@ -1,5 +1,7 @@
 # Taishou Mebiusline: Chicchai-san
 
+![taishou-mebiusline-chicchai-san](https://cdn.myanimelist.net/images/anime/12/88029.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 大正メビウスライン ちっちゃいさん

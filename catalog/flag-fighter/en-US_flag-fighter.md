@@ -1,5 +1,7 @@
 # Flag Fighter
 
+![flag-fighter](https://cdn.myanimelist.net/images/manga/2/35625.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 覇王街

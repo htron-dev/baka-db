@@ -1,5 +1,7 @@
 # Nurse Girl: Amai Toiki de Sasayaite
 
+![nurse-girl-amai-toiki-de-sasayaite](https://cdn.myanimelist.net/images/manga/2/197136.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

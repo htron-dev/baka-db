@@ -1,5 +1,7 @@
 # Hitozuma Shikkaku: Otto Igai to Shitai Koto
 
+![hitozuma-shikkaku-otto-igai-to-shitai-koto](https://cdn.myanimelist.net/images/manga/1/193423.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

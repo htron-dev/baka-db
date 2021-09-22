@@ -1,5 +1,7 @@
 # Kanokon
 
+![kanokon](https://cdn.myanimelist.net/images/manga/3/52931.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 47

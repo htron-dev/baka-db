@@ -1,5 +1,7 @@
 # Ninpuu Kamui Gaiden
 
+![ninpuu-kamui-gaiden](https://cdn.myanimelist.net/images/anime/3/22957.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 忍風カムイ外伝

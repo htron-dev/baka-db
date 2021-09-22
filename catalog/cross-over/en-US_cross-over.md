@@ -1,5 +1,7 @@
 # Cross Over
 
+![cross-over](https://cdn.myanimelist.net/images/manga/3/56635.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 59

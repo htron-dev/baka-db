@@ -1,5 +1,7 @@
 # Boku no Kichiku Megane
 
+![boku-no-kichiku-megane](https://cdn.myanimelist.net/images/manga/2/18103.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

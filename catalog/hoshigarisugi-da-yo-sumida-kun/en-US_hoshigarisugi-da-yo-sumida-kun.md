@@ -1,5 +1,7 @@
 # Hoshigarisugi da yo, Sumida-kun!
 
+![hoshigarisugi-da-yo-sumida-kun](https://cdn.myanimelist.net/images/manga/1/246077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

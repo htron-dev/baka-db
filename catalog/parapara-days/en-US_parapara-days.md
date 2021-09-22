@@ -1,5 +1,7 @@
 # Parapara Days
 
+![parapara-days](https://cdn.myanimelist.net/images/manga/1/196666.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

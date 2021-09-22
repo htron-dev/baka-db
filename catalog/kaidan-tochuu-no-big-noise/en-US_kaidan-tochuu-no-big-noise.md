@@ -1,5 +1,7 @@
 # Kaidan Tochuu no Big Noise
 
+![kaidan-tochuu-no-big-noise](https://cdn.myanimelist.net/images/manga/3/119165.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 階段途中のビッグ・ノイズ

@@ -1,5 +1,7 @@
 # Kake kara Hajimaru Sayonara no Koi
 
+![kake-kara-hajimaru-sayonara-no-koi](https://cdn.myanimelist.net/images/manga/1/242659.jpg)
+
 -   **type**: manga
 -   **original-name**: 賭けからはじまるサヨナラの恋
 -   **start-date**: 2020-05-19

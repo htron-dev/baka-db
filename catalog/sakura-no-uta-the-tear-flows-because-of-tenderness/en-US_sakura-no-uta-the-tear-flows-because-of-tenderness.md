@@ -1,5 +1,7 @@
 # Sakura no Uta: The Tear Flows Because of Tenderness.
 
+![sakura-no-uta-the-tear-flows-because-of-tenderness](https://cdn.myanimelist.net/images/manga/5/90425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hajimari wa Naka kara
 
+![hajimari-wa-naka-kara](https://cdn.myanimelist.net/images/manga/2/199825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

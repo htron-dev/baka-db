@@ -1,5 +1,7 @@
 # Koharubara Hiyori no Ikusei Nikki
 
+![koharubara-hiyori-no-ikusei-nikki](https://cdn.myanimelist.net/images/manga/1/123859.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 24

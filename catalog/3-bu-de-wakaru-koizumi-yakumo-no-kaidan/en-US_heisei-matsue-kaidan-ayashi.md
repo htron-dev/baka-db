@@ -1,5 +1,7 @@
 # Heisei Matsue Kaidan: Ayashi
 
+![heisei-matsue-kaidan-ayashi](https://cdn.myanimelist.net/images/anime/12/84746.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 平成松江怪談～怪し～

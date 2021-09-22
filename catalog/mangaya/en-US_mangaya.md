@@ -1,5 +1,7 @@
 # Mangaya
 
+![mangaya](https://cdn.myanimelist.net/images/manga/3/149706.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

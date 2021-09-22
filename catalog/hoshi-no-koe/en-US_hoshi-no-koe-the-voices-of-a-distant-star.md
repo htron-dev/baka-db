@@ -1,5 +1,7 @@
 # Hoshi no Koe: The Voices of a Distant Star
 
+![hoshi-no-koe-the-voices-of-a-distant-star](https://cdn.myanimelist.net/images/manga/2/240830.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

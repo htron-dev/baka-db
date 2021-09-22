@@ -1,5 +1,7 @@
 # Itoshii, Hito
 
+![itoshii-hito](https://cdn.myanimelist.net/images/manga/1/165880.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

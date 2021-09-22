@@ -1,5 +1,7 @@
 # Aquarion Movie: Ippatsu Gyakuten-hen
 
+![aquarion-movie-ippatsu-gyakuten-hen](https://cdn.myanimelist.net/images/anime/9/53887.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版アクエリオン -壱発逆転篇-

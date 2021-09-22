@@ -1,5 +1,7 @@
 # Shissou Nikki
 
+![shissou-nikki](https://cdn.myanimelist.net/images/manga/2/13392.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

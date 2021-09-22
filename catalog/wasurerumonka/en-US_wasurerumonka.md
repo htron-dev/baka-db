@@ -1,5 +1,7 @@
 # Wasurerumonka!
 
+![wasurerumonka](https://cdn.myanimelist.net/images/anime/13/74519.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: わすれるもんか！

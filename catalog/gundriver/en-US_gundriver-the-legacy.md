@@ -1,5 +1,7 @@
 # Gundriver: The Legacy
 
+![gundriver-the-legacy](https://cdn.myanimelist.net/images/manga/3/244800.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ガンドライバー - 遺産（ザ・レガシィ）

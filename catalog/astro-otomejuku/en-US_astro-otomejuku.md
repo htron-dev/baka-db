@@ -1,5 +1,7 @@
 # Astro! Otomejuku!
 
+![astro-otomejuku](https://cdn.myanimelist.net/images/manga/3/124025.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 27

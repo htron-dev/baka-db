@@ -1,5 +1,7 @@
 # Nui ja Dame!
 
+![nui-ja-dame](https://cdn.myanimelist.net/images/manga/3/23272.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

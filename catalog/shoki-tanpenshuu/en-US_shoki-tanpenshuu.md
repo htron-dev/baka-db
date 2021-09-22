@@ -1,5 +1,7 @@
 # Shoki Tanpenshuu
 
+![shoki-tanpenshuu](https://cdn.myanimelist.net/images/manga/2/207666.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

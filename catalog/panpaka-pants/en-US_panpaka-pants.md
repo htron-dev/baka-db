@@ -1,5 +1,7 @@
 # Panpaka Pants
 
+![panpaka-pants](https://cdn.myanimelist.net/images/anime/13/84744.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: パンパカパンツ

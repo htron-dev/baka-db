@@ -1,5 +1,7 @@
 # Raika
 
+![raika](https://cdn.myanimelist.net/images/manga/1/36027.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 雷火―凍結

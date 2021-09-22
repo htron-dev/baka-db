@@ -1,5 +1,7 @@
 # Let's! Haikyuu!?
 
+![lets-haikyuu](https://cdn.myanimelist.net/images/manga/3/151837.jpg)
+
 -   **type**: manga
 -   **original-name**: れっつ! ハイキュー!?
 -   **start-date**: 2014-09-22

@@ -1,5 +1,7 @@
 # Hai ni Naru Made
 
+![hai-ni-naru-made](https://cdn.myanimelist.net/images/manga/2/67353.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

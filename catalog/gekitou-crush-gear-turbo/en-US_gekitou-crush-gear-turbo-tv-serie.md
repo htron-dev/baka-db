@@ -1,5 +1,7 @@
 # Gekitou! Crush Gear Turbo
 
+![gekitou-crush-gear-turbo](https://cdn.myanimelist.net/images/anime/3/39489.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 68
 -   **original-name**: 激闘! クラッシュギア TURBO

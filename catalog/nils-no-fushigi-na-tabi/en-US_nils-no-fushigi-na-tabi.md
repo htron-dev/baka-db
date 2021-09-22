@@ -1,5 +1,7 @@
 # Nils no Fushigi na Tabi
 
+![nils-no-fushigi-na-tabi](https://cdn.myanimelist.net/images/anime/1/2296.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ニルスのふしぎな旅

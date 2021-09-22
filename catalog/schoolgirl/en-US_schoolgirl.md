@@ -1,5 +1,7 @@
 # Schoolgirl
 
+![schoolgirl](https://cdn.myanimelist.net/images/manga/3/18545.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 

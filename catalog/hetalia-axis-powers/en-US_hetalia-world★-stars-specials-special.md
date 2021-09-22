@@ -1,5 +1,7 @@
 # Hetalia World★Stars Specials
 
+![hetalia-world★-stars-specials](https://cdn.myanimelist.net/images/anime/1724/115681.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ヘタリア World★Stars 初収録新作エピソード 第 13 話〜第 15 話

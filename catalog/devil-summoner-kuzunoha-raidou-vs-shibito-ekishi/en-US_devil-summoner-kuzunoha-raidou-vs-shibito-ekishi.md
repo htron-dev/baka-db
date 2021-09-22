@@ -1,5 +1,7 @@
 # Devil Summoner: Kuzunoha Raidou vs Shibito Ekishi
 
+![devil-summoner-kuzunoha-raidou-vs-shibito-ekishi](https://cdn.myanimelist.net/images/manga/3/133137.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: デビルサマナー 葛葉ライドウ 対 死人驛使

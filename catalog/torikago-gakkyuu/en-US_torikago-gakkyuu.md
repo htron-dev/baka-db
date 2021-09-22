@@ -1,5 +1,7 @@
 # Torikago Gakkyuu
 
+![torikago-gakkyuu](https://cdn.myanimelist.net/images/manga/1/22758.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 鳥籠学級

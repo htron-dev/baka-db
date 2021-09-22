@@ -1,5 +1,7 @@
 # Kurogane no Bara
 
+![kurogane-no-bara](https://cdn.myanimelist.net/images/manga/2/248483.jpg)
+
 -   **type**: manga
 -   **original-name**: 鋼鐵〈くろがね〉の薔薇
 -   **start-date**: 2021-06-18

@@ -1,5 +1,7 @@
 # Shiritsu Poseidon Gakuen Koutou-bu
 
+![shiritsu-poseidon-gakuen-koutou-bu](https://cdn.myanimelist.net/images/manga/1/184436.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

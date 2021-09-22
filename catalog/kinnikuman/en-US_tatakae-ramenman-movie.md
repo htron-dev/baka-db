@@ -1,5 +1,7 @@
 # Tatakae!! Ramenman (Movie)
 
+![tatakae-ramenman-movie](https://cdn.myanimelist.net/images/anime/1760/96433.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 闘将!!拉麺男

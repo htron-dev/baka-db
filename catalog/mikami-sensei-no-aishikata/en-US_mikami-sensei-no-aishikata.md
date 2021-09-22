@@ -1,5 +1,7 @@
 # Mikami-sensei no Aishikata
 
+![mikami-sensei-no-aishikata](https://cdn.myanimelist.net/images/manga/2/160721.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 34

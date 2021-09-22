@@ -1,5 +1,7 @@
 # Utakata ni Warau
 
+![utakata-ni-warau](https://cdn.myanimelist.net/images/manga/3/224884.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

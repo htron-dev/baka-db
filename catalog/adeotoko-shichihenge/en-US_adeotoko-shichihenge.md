@@ -1,5 +1,7 @@
 # Adeotoko Shichihenge
 
+![adeotoko-shichihenge](https://cdn.myanimelist.net/images/manga/3/66123.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

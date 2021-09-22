@@ -1,5 +1,7 @@
 # Suisei no Gargantia
 
+![suisei-no-gargantia](https://cdn.myanimelist.net/images/manga/2/161455.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 翠星のガルガンティア ‬

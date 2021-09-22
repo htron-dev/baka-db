@@ -1,5 +1,7 @@
 # Kanojo wo Iimakasu no wa Tabun Muri
 
+![kanojo-wo-iimakasu-no-wa-tabun-muri](https://cdn.myanimelist.net/images/manga/2/127817.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 彼女を言い負かすのはたぶん無理

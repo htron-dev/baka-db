@@ -1,5 +1,7 @@
 # Pororo Hanguk-e Wass-eoyo
 
+![pororo-hanguk-e-wass-eoyo](https://cdn.myanimelist.net/images/anime/11/66631.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 뽀로로가 한국에 왔어요

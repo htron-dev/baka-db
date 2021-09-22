@@ -1,5 +1,7 @@
 # Capcom Gals! Comic Anthology
 
+![capcom-gals-comic-anthology](https://cdn.myanimelist.net/images/manga/1/247240.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

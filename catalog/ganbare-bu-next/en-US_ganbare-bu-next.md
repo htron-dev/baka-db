@@ -1,5 +1,7 @@
 # Ganbare-bu Next!
 
+![ganbare-bu-next](https://cdn.myanimelist.net/images/anime/3/75881.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: ガンバレー部 NEXT！

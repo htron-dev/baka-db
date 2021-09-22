@@ -1,5 +1,7 @@
 # Marin X
 
+![marin-x](https://cdn.myanimelist.net/images/anime/13/45124.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 해저탐험대 마린 X

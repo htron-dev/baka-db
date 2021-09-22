@@ -1,5 +1,7 @@
 # Kakute Yoake no Daybreaker
 
+![kakute-yoake-no-daybreaker](https://cdn.myanimelist.net/images/manga/2/160685.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: かくて夜明けの神殺者〈デイブレイカー〉

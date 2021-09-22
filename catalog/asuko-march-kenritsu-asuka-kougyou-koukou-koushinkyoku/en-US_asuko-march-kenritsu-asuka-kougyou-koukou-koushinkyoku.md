@@ -1,5 +1,7 @@
 # Asuko March!: Kenritsu Asuka Kougyou Koukou Koushinkyoku
 
+![asuko-march-kenritsu-asuka-kougyou-koukou-koushinkyoku](https://cdn.myanimelist.net/images/manga/2/161751.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

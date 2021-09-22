@@ -1,5 +1,7 @@
 # Tetsuwan Birdy
 
+![tetsuwan-birdy](https://cdn.myanimelist.net/images/manga/3/179604.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 218

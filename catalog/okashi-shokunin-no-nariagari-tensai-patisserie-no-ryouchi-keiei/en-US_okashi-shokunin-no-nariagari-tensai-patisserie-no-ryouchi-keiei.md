@@ -1,5 +1,7 @@
 # Okashi Shokunin no Nariagari: Tensai Pâtisserie no Ryouchi Keiei
 
+![okashi-shokunin-no-nariagari-tensai-patisserie-no-ryouchi-keiei](https://cdn.myanimelist.net/images/manga/3/211097.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 127

@@ -1,5 +1,7 @@
 # Mamotte Shugogetten!
 
+![mamotte-shugogetten](https://cdn.myanimelist.net/images/manga/3/208710.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 71

@@ -1,5 +1,7 @@
 # Hoshifuru Yoru wa Shachiku wo Nagure
 
+![hoshifuru-yoru-wa-shachiku-wo-nagure](https://cdn.myanimelist.net/images/manga/1/176563.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

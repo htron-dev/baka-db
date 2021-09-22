@@ -1,5 +1,7 @@
 # Dance in the Vampire Bund: Special Edition
 
+![dance-in-the-vampire-bund-special-edition](https://cdn.myanimelist.net/images/anime/5/21014.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ダンス イン ザ ヴァンパイアバンド 特別編 ～ Special Edition ～

@@ -1,5 +1,7 @@
 # Kakedashi Maou wa Harem Ou
 
+![kakedashi-maou-wa-harem-ou](https://cdn.myanimelist.net/images/manga/1/169028.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

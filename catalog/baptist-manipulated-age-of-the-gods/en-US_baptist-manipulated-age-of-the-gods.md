@@ -1,5 +1,7 @@
 # Baptist: Manipulated Age of the Gods
 
+![baptist-manipulated-age-of-the-gods](https://cdn.myanimelist.net/images/manga/4/30347.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 37

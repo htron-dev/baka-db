@@ -1,5 +1,7 @@
 # Super Boyfriend
 
+![super-boyfriend](https://cdn.myanimelist.net/images/manga/3/7731.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 3
 

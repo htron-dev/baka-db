@@ -1,5 +1,7 @@
 # Trickster: Edogawa Ranpo "Shounen Tanteidan" yori
 
+![trickster-edogawa-ranpo-shounen-tanteidan-yori](https://cdn.myanimelist.net/images/anime/9/81133.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: TRICKSTER -江戸川乱歩「少年探偵団」より-

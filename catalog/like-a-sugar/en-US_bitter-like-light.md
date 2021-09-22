@@ -1,5 +1,7 @@
 # Bitter Like Light
 
+![bitter-like-light](https://cdn.myanimelist.net/images/manga/1/236178.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

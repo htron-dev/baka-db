@@ -1,5 +1,7 @@
 # Futsumashi na Yome desu ga.
 
+![futsumashi-na-yome-desu-ga](https://cdn.myanimelist.net/images/manga/3/190290.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

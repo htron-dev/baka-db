@@ -1,5 +1,7 @@
 # Opus
 
+![opus](https://cdn.myanimelist.net/images/manga/4/157832.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

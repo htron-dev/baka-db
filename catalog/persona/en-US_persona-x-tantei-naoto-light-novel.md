@@ -1,5 +1,7 @@
 # Persona x Tantei Naoto
 
+![persona-x-tantei-naoto](https://cdn.myanimelist.net/images/manga/1/68473.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Boku to Ane no Kekkon
 
+![boku-to-ane-no-kekkon](https://cdn.myanimelist.net/images/manga/2/177808.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: ぼくと姉の結婚

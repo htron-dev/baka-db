@@ -1,5 +1,7 @@
 # Densha Otoko: Net Hatsu, Kakueki Teisha no Love Story
 
+![densha-otoko-net-hatsu-kakueki-teisha-no-love-story](https://cdn.myanimelist.net/images/manga/1/48231.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

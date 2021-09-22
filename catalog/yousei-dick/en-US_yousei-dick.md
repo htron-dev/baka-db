@@ -1,5 +1,7 @@
 # Yousei Dick
 
+![yousei-dick](https://cdn.myanimelist.net/images/anime/4/59719.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 妖精ディック

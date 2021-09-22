@@ -1,5 +1,7 @@
 # Katakoi Paradise
 
+![katakoi-paradise](https://cdn.myanimelist.net/images/manga/1/45227.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 片恋パラダイス

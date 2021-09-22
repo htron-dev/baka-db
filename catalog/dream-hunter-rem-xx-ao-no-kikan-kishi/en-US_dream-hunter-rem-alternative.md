@@ -1,5 +1,7 @@
 # Dream Hunter Rem Alternative
 
+![dream-hunter-rem-alternative](https://cdn.myanimelist.net/images/manga/2/117843.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

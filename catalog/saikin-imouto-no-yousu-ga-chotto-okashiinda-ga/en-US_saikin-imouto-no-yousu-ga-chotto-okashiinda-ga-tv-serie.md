@@ -1,5 +1,7 @@
 # Saikin, Imouto no Yousu ga Chotto Okashiinda ga.
 
+![saikin-imouto-no-yousu-ga-chotto-okashiinda-ga](https://cdn.myanimelist.net/images/anime/3/56589.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 最近、妹のようすがちょっとおかしいんだが。

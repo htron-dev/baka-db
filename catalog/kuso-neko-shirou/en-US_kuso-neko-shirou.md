@@ -1,5 +1,7 @@
 # Kuso Neko Shirou
 
+![kuso-neko-shirou](https://cdn.myanimelist.net/images/manga/1/171675.jpg)
+
 -   **type**: manga
 -   **chapters**: 16
 -   **original-name**: クソ猫シロー

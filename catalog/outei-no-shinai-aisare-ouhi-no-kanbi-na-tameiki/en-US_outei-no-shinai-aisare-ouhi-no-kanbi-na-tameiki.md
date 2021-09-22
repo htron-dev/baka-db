@@ -1,5 +1,7 @@
 # Outei no Shinai: Aisare Ouhi no Kanbi na Tameiki
 
+![outei-no-shinai-aisare-ouhi-no-kanbi-na-tameiki](https://cdn.myanimelist.net/images/manga/1/193387.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

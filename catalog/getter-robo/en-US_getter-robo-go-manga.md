@@ -1,5 +1,7 @@
 # Getter Robo Go
 
+![getter-robo-go](https://cdn.myanimelist.net/images/manga/3/95799.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Kiryuu Senki Nargas
 
+![kiryuu-senki-nargas](https://cdn.myanimelist.net/images/manga/1/146609.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 42

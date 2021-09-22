@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou
 
+![cinderella-girls-gekijou](https://cdn.myanimelist.net/images/anime/10/89786.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シンデレラガールズ劇場

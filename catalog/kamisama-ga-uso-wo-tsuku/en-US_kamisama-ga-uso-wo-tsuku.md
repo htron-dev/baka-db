@@ -1,5 +1,7 @@
 # Kamisama ga Uso wo Tsuku.
 
+![kamisama-ga-uso-wo-tsuku](https://cdn.myanimelist.net/images/manga/1/143365.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

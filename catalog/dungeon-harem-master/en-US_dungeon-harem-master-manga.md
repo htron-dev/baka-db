@@ -1,5 +1,7 @@
 # Dungeon+Harem+Master
 
+![dungeon-harem-master](https://cdn.myanimelist.net/images/manga/2/236187.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンジョン＋ハーレム＋マスター
 -   **start-date**: 2019-12-06

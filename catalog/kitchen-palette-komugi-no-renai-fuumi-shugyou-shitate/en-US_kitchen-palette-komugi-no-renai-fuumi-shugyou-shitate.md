@@ -1,5 +1,7 @@
 # Kitchen Palette: Komugi no Renai Fuumi Shugyou Shitate
 
+![kitchen-palette-komugi-no-renai-fuumi-shugyou-shitate](https://cdn.myanimelist.net/images/manga/3/150186.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

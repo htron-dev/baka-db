@@ -1,5 +1,7 @@
 # Koisuru nante Kiitenai
 
+![koisuru-nante-kiitenai](https://cdn.myanimelist.net/images/manga/1/192619.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Whistle!
 
+![whistle](https://cdn.myanimelist.net/images/manga/3/160208.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 216

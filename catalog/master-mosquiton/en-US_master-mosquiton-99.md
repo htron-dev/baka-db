@@ -1,5 +1,7 @@
 # Master Mosquiton '99
 
+![master-mosquiton-99](https://cdn.myanimelist.net/images/anime/1/1806.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: マスターモスキートン'99

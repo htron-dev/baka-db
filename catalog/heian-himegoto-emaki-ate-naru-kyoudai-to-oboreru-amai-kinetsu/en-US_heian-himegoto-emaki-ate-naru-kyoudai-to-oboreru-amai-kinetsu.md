@@ -1,5 +1,7 @@
 # Heian Himegoto Emaki: Ate naru Kyoudai to Oboreru Amai Kinetsu
 
+![heian-himegoto-emaki-ate-naru-kyoudai-to-oboreru-amai-kinetsu](https://cdn.myanimelist.net/images/manga/2/184769.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

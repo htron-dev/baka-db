@@ -1,5 +1,7 @@
 # Nobunaga-kun no Jitensha no Rule wo Mamoru no Ja
 
+![nobunaga-kun-no-jitensha-no-rule-wo-mamoru-no-ja](https://cdn.myanimelist.net/images/anime/7/68927.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: のぶながくんの自転車のルールを守るのじゃ

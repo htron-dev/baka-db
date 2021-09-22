@@ -1,5 +1,7 @@
 # AD. Police: Shuuen Toshi
 
+![ad-police-shuuen-toshi](https://cdn.myanimelist.net/images/manga/1/3791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

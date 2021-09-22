@@ -1,5 +1,7 @@
 # Ura-ban! Uraizumi Koutou Gakkou Suisougaku-bu
 
+![ura-ban-uraizumi-koutou-gakkou-suisougaku-bu](https://cdn.myanimelist.net/images/manga/1/149126.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: うらバン! 浦和泉高等学校吹奏楽部

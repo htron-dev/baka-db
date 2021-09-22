@@ -1,5 +1,7 @@
 # Kemushi no Boro
 
+![kemushi-no-boro](https://cdn.myanimelist.net/images/anime/1377/90940.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 毛虫のボロ

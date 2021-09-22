@@ -1,5 +1,7 @@
 # Cheese in the Trap Season 2
 
+![cheese-in-the-trap-season-2](https://cdn.myanimelist.net/images/manga/2/197138.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 38

@@ -1,5 +1,7 @@
 # Hatsukoi\*Rail Trip
 
+![hatsukoi-rail-trip](https://cdn.myanimelist.net/images/manga/1/224541.jpg)
+
 -   **type**: manga
 -   **original-name**: 初恋＊れ～るとりっぷ
 -   **start-date**: 2018-06-19

@@ -1,5 +1,7 @@
 # Mofumofu Tamae-sama!
 
+![mofumofu-tamae-sama](https://cdn.myanimelist.net/images/manga/3/163078.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

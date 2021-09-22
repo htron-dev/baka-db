@@ -1,5 +1,7 @@
 # Kisshou 7
 
+![kisshou-7](https://cdn.myanimelist.net/images/manga/1/86919.jpg)
+
 -   **type**: manga
 -   **original-name**: 吉祥 7-seven-
 

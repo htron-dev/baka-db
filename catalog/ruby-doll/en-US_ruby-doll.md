@@ -1,5 +1,7 @@
 # Ruby Doll
 
+![ruby-doll](https://cdn.myanimelist.net/images/manga/1/16974.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Grander Musashi RV
 
+![grander-musashi-rv](https://cdn.myanimelist.net/images/anime/1819/94254.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: グランダー武蔵ＲＶ

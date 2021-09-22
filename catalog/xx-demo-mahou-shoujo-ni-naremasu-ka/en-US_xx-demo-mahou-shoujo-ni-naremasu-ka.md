@@ -1,5 +1,7 @@
 # xx demo Mahou Shoujo ni Naremasu ka?
 
+![xx-demo-mahou-shoujo-ni-naremasu-ka](https://cdn.myanimelist.net/images/manga/2/220653.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

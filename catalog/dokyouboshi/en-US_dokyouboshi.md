@@ -1,5 +1,7 @@
 # Dokyouboshi
 
+![dokyouboshi](https://cdn.myanimelist.net/images/manga/2/154222.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 46

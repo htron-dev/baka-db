@@ -1,5 +1,7 @@
 # Yawaraka Rock
 
+![yawaraka-rock](https://cdn.myanimelist.net/images/manga/3/151642.jpg)
+
 -   **type**: manga
 -   **chapters**: 66
 -   **original-name**: やわらかロック

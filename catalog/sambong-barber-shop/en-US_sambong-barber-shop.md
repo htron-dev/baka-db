@@ -1,5 +1,7 @@
 # Sambong Barber Shop
 
+![sambong-barber-shop](https://cdn.myanimelist.net/images/manga/2/94285.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 37

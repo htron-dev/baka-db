@@ -1,5 +1,7 @@
 # Iken Senki Völundio
 
+![iken-senki-volundio](https://cdn.myanimelist.net/images/manga/3/241050.jpg)
+
 -   **type**: manga
 -   **original-name**: 異剣戦記ヴェルンディオ
 -   **start-date**: 2020-08-24

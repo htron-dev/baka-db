@@ -1,5 +1,7 @@
 # Uta no☆Prince-sama♪Comic Anthology
 
+![uta-no☆-prince-sama♪-comic-anthology](https://cdn.myanimelist.net/images/manga/1/58135.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

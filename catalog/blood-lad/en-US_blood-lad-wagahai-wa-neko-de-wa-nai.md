@@ -1,5 +1,7 @@
 # Blood Lad: Wagahai wa Neko de wa Nai
 
+![blood-lad-wagahai-wa-neko-de-wa-nai](https://cdn.myanimelist.net/images/anime/2/52611.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ブラッドラッド 我輩は猫ではない

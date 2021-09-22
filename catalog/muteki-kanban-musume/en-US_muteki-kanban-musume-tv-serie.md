@@ -1,5 +1,7 @@
 # Muteki Kanban Musume
 
+![muteki-kanban-musume](https://cdn.myanimelist.net/images/anime/7/26444.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 無敵看板娘

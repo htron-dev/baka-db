@@ -1,5 +1,7 @@
 # Passionate Two-Face
 
+![passionate-two-face](https://cdn.myanimelist.net/images/manga/3/21180.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Akuma no Ikenie
 
+![akuma-no-ikenie](https://cdn.myanimelist.net/images/manga/3/158525.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

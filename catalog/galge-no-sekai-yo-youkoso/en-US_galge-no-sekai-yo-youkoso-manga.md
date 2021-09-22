@@ -1,5 +1,7 @@
 # Galge no Sekai yo, Youkoso!
 
+![galge-no-sekai-yo-youkoso](https://cdn.myanimelist.net/images/manga/3/62731.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

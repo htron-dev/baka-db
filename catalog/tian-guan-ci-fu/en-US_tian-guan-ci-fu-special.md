@@ -1,5 +1,7 @@
 # Tian Guan Ci Fu Special
 
+![tian-guan-ci-fu-special](https://cdn.myanimelist.net/images/anime/1043/110306.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 天官赐福特别节目

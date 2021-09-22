@@ -1,5 +1,7 @@
 # Shiritsutantei: Toki Shouzou Trouble Note - Hard & Loose
 
+![shiritsutantei-toki-shouzou-trouble-note-hard-loose](https://cdn.myanimelist.net/images/anime/8/55271.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 私立探偵・土岐正造トラブル・ノート　ハード＆ルーズ

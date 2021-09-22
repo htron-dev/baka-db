@@ -1,5 +1,7 @@
 # Gokudou-kun Manyuuki
 
+![gokudou-kun-manyuuki](https://cdn.myanimelist.net/images/anime/1483/94117.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ゴクドーくん漫遊記

@@ -1,5 +1,7 @@
 # Cantarella: Ao no Dokuyaku
 
+![cantarella-ao-no-dokuyaku](https://cdn.myanimelist.net/images/manga/3/110867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

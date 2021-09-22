@@ -1,5 +1,7 @@
 # Xin Yu Gong Yu Shan
 
+![xin-yu-gong-yu-shan](https://cdn.myanimelist.net/images/anime/1645/109108.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新愚公移山

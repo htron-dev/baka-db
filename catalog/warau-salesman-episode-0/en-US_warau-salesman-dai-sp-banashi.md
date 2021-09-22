@@ -1,5 +1,7 @@
 # Warau Salesman Dai SP-banashi
 
+![warau-salesman-dai-sp-banashi](https://cdn.myanimelist.net/images/anime/12/84709.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: 笑ゥせぇるすまん 第 SP 話

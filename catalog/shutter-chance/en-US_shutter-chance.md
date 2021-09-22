@@ -1,5 +1,7 @@
 # Shutter Chance
 
+![shutter-chance](https://cdn.myanimelist.net/images/manga/2/20886.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Koisuru Bokura wa Ichou ga Yowai
 
+![koisuru-bokura-wa-ichou-ga-yowai](https://cdn.myanimelist.net/images/manga/1/236478.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

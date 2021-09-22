@@ -1,5 +1,7 @@
 # Do Chokkyuu Kareshi x Kanojo
 
+![do-chokkyuu-kareshi-x-kanojo](https://cdn.myanimelist.net/images/manga/1/205441.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ド直球彼氏 × 彼女

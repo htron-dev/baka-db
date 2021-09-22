@@ -1,5 +1,7 @@
 # Machida-kun no Sekai
 
+![machida-kun-no-sekai](https://cdn.myanimelist.net/images/manga/3/168062.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Ookami Koushaku no Kyuukon
 
+![ookami-koushaku-no-kyuukon](https://cdn.myanimelist.net/images/manga/1/247599.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

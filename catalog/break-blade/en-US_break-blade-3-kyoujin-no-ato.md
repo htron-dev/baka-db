@@ -1,5 +1,7 @@
 # Break Blade 3: Kyoujin no Ato
 
+![break-blade-3-kyoujin-no-ato](https://cdn.myanimelist.net/images/anime/8/68083.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブレイク ブレイド 第三章 凶刃ノ痕

@@ -1,5 +1,7 @@
 # D.C.III: Da Capo III - Kazami Gakuen Koushiki Shinbun-bu - Okurairi Jikenbo
 
+![d-c-iii-da-capo-iii-kazami-gakuen-koushiki-shinbun-bu-okurairi-jikenbo](https://cdn.myanimelist.net/images/manga/2/241819.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

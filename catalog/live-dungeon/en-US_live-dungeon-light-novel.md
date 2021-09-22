@@ -1,5 +1,7 @@
 # Live Dungeon!
 
+![live-dungeon](https://cdn.myanimelist.net/images/manga/3/186101.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ライブダンジョン!
 -   **start-date**: 2016-12-10

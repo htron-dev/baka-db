@@ -1,5 +1,7 @@
 # Usakame Combo!
 
+![usakame-combo](https://cdn.myanimelist.net/images/manga/1/170635.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: うさかめコンボ!

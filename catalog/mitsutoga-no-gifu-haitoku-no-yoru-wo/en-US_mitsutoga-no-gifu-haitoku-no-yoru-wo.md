@@ -1,5 +1,7 @@
 # Mitsutoga no Gifu: Haitoku no Yoru wo
 
+![mitsutoga-no-gifu-haitoku-no-yoru-wo](https://cdn.myanimelist.net/images/manga/3/182837.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

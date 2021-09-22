@@ -1,5 +1,7 @@
 # Houkago Karte
 
+![houkago-karte](https://cdn.myanimelist.net/images/manga/2/202391.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 79

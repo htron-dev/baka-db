@@ -1,5 +1,7 @@
 # Ubawareta Kenshin: Utsukushiki Kemono no Shuuchaku ni Reijou wa Oboreru
 
+![ubawareta-kenshin-utsukushiki-kemono-no-shuuchaku-ni-reijou-wa-oboreru](https://cdn.myanimelist.net/images/manga/1/194050.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

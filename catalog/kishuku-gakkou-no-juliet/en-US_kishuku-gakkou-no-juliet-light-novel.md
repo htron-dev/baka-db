@@ -1,5 +1,7 @@
 # Kishuku Gakkou no Juliet
 
+![kishuku-gakkou-no-juliet](https://cdn.myanimelist.net/images/manga/2/196319.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

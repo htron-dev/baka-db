@@ -1,5 +1,7 @@
 # Oniichan no Koto ga Sukisugite Nyan Nyan Shitai Brocon Imouto dakedo Sunao ni Narenai no
 
+![oniichan-no-koto-ga-sukisugite-nyan-nyan-shitai-brocon-imouto-dakedo-sunao-ni-narenai-no](https://cdn.myanimelist.net/images/manga/2/117765.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

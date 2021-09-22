@@ -1,5 +1,7 @@
 # Spain Daifugou no Kekkongeki
 
+![spain-daifugou-no-kekkongeki](https://cdn.myanimelist.net/images/manga/3/227169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スペイン大富豪の結婚劇

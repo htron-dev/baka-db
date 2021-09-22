@@ -1,5 +1,7 @@
 # Hanamamoru Kemono
 
+![hanamamoru-kemono](https://cdn.myanimelist.net/images/manga/1/137721.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

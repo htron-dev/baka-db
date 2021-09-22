@@ -1,5 +1,7 @@
 # Shibito no Koe wo Kiku ga Yoi
 
+![shibito-no-koe-wo-kiku-ga-yoi](https://cdn.myanimelist.net/images/manga/2/172166.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 79

@@ -1,5 +1,7 @@
 # Origin
 
+![origin](https://cdn.myanimelist.net/images/manga/3/187163.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 87

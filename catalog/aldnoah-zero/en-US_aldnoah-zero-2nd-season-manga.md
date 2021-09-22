@@ -1,5 +1,7 @@
 # Aldnoah.Zero 2nd Season
 
+![aldnoah-zero-2nd-season](https://cdn.myanimelist.net/images/manga/1/160919.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 12

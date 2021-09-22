@@ -1,5 +1,7 @@
 # Watashi ni Mienai Koigokoro
 
+![watashi-ni-mienai-koigokoro](https://cdn.myanimelist.net/images/manga/3/165038.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

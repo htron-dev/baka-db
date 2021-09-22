@@ -1,5 +1,7 @@
 # Arcana - Akuma
 
+![arcana-akuma](https://cdn.myanimelist.net/images/manga/1/39455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

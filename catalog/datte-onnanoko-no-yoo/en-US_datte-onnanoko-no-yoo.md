@@ -1,5 +1,7 @@
 # Datte Onnanoko no yoo
 
+![datte-onnanoko-no-yoo](https://cdn.myanimelist.net/images/manga/2/152582.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

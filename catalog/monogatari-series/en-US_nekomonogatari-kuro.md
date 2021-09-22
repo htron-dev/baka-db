@@ -1,5 +1,7 @@
 # Nekomonogatari: Kuro
 
+![nekomonogatari-kuro](https://cdn.myanimelist.net/images/anime/4/84001.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 猫物語（黒）

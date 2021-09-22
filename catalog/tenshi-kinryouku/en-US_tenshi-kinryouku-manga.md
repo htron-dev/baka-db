@@ -1,5 +1,7 @@
 # Tenshi Kinryouku
 
+![tenshi-kinryouku](https://cdn.myanimelist.net/images/manga/2/176257.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 120

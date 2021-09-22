@@ -1,5 +1,7 @@
 # Shinkyoku Soukai Polyphonica White
 
+![shinkyoku-soukai-polyphonica-white](https://cdn.myanimelist.net/images/manga/2/135127.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: 神曲奏界ポリフォニカ ・ホワイト

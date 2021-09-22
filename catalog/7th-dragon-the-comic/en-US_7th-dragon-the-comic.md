@@ -1,5 +1,7 @@
 # 7th Dragon the Comic
 
+![7th-dragon-the-comic](https://cdn.myanimelist.net/images/manga/2/121185.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

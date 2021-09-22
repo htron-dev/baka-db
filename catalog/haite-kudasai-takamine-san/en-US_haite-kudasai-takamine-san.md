@@ -1,5 +1,7 @@
 # Haite Kudasai, Takamine-san
 
+![haite-kudasai-takamine-san](https://cdn.myanimelist.net/images/manga/1/222075.jpg)
+
 -   **type**: manga
 -   **original-name**: 履いてください、鷹峰さん
 -   **start-date**: 2019-01-22

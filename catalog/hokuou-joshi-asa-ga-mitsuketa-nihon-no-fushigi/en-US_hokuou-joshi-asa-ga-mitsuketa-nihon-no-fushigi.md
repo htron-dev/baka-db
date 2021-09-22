@@ -1,5 +1,7 @@
 # Hokuou Joshi Åsa ga Mitsuketa Nihon no Fushigi
 
+![hokuou-joshi-asa-ga-mitsuketa-nihon-no-fushigi](https://cdn.myanimelist.net/images/manga/1/226622.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

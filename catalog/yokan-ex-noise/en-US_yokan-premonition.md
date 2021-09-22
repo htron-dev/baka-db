@@ -1,5 +1,7 @@
 # Yokan Premonition
 
+![yokan-premonition](https://cdn.myanimelist.net/images/manga/3/31403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

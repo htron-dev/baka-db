@@ -1,5 +1,7 @@
 # Saint Seiya: Tenkai-hen Josou - Overture
 
+![saint-seiya-tenkai-hen-josou-overture](https://cdn.myanimelist.net/images/anime/5/5952.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 聖闘士星矢 天界編 序奏 ~overture~

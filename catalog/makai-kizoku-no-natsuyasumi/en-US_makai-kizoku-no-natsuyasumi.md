@@ -1,5 +1,7 @@
 # Makai Kizoku no Natsuyasumi
 
+![makai-kizoku-no-natsuyasumi](https://cdn.myanimelist.net/images/manga/2/160116.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔界貴族のなつやすみ

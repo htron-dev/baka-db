@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann 4-koma Kingdom: Yoko no Oheso-hen
 
+![tengen-toppa-gurren-lagann-4-koma-kingdom-yoko-no-oheso-hen](https://cdn.myanimelist.net/images/manga/1/35404.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

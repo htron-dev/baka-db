@@ -1,5 +1,7 @@
 # 12-sai.
 
+![12-sai](https://cdn.myanimelist.net/images/anime/6/61783.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: 12 歳。

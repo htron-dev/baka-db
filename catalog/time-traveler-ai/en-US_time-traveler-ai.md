@@ -1,5 +1,7 @@
 # Time Traveler Ai
 
+![time-traveler-ai](https://cdn.myanimelist.net/images/manga/1/165196.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

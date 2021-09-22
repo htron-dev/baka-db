@@ -1,5 +1,7 @@
 # Little Darling
 
+![little-darling](https://cdn.myanimelist.net/images/manga/1/136055.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 36

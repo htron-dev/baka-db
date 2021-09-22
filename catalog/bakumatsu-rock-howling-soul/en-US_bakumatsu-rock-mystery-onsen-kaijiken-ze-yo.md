@@ -1,5 +1,7 @@
 # Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!
 
+![bakumatsu-rock-mystery-onsen-kaijiken-ze-yo](https://cdn.myanimelist.net/images/anime/5/64137.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 幕末 Rock 湯煙推理劇[ミステリー]! 温泉怪事件ぜよ!!

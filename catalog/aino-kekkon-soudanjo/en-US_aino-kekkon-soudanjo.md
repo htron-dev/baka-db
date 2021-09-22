@@ -1,5 +1,7 @@
 # Aino Kekkon Soudanjo
 
+![aino-kekkon-soudanjo](https://cdn.myanimelist.net/images/manga/2/196948.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

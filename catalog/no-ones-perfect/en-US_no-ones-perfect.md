@@ -1,5 +1,7 @@
 # No One's Perfect
 
+![no-ones-perfect](https://cdn.myanimelist.net/images/manga/1/238387.jpg)
+
 -   **type**: manga
 -   **original-name**: No one's perfect
 -   **start-date**: 2018-05-25

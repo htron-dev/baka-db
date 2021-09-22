@@ -1,5 +1,7 @@
 # Hermes: Ai wa Kaze no Gotoku
 
+![hermes-ai-wa-kaze-no-gotoku](https://cdn.myanimelist.net/images/anime/1916/112361.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヘルメス 愛は風の如く

@@ -1,5 +1,7 @@
 # Itoshii Toshi no Oyome-sama
 
+![itoshii-toshi-no-oyome-sama](https://cdn.myanimelist.net/images/manga/2/72667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

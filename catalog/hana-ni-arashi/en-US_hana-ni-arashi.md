@@ -1,5 +1,7 @@
 # Hana ni Arashi
 
+![hana-ni-arashi](https://cdn.myanimelist.net/images/manga/2/212605.jpg)
+
 -   **type**: manga
 -   **original-name**: はなにあらし
 -   **start-date**: 2017-11-24

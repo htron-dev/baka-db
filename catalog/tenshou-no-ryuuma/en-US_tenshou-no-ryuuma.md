@@ -1,5 +1,7 @@
 # Tenshou no Ryuuma
 
+![tenshou-no-ryuuma](https://cdn.myanimelist.net/images/manga/3/27316.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 天翔の龍馬

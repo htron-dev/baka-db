@@ -1,5 +1,7 @@
 # Real Clothes
 
+![real-clothes](https://cdn.myanimelist.net/images/manga/2/147187.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 102

@@ -1,5 +1,7 @@
 # Sky Fall: Automata to Drifter
 
+![sky-fall-automata-to-drifter](https://cdn.myanimelist.net/images/manga/3/179781.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: スカイフォール 機械人形と流浪者〈オートマタとドリフター〉

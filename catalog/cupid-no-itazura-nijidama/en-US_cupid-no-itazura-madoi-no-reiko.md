@@ -1,5 +1,7 @@
 # Cupid no Itazura: Madoi no Reiko
 
+![cupid-no-itazura-madoi-no-reiko](https://cdn.myanimelist.net/images/manga/1/228285.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

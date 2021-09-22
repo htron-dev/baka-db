@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard Gaiden: If
 
+![cardfight-vanguard-gaiden-if](https://cdn.myanimelist.net/images/anime/1059/111639.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: カードファイト!! ヴァンガード外伝 イフ-if-

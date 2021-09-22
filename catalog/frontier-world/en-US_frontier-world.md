@@ -1,5 +1,7 @@
 # Frontier World
 
+![frontier-world](https://cdn.myanimelist.net/images/manga/1/173890.jpg)
+
 -   **type**: light-novel
 -   **original-name**: Frontier World
 -   **start-date**: 2016-03-30

@@ -1,5 +1,7 @@
 # Lalalacoco II
 
+![lalalacoco-ii](https://cdn.myanimelist.net/images/anime/1354/107937.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: LALALACOCO II

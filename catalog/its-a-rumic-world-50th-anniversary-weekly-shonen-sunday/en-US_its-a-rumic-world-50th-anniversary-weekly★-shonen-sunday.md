@@ -1,5 +1,7 @@
 # It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday
 
+![its-a-rumic-world-50th-anniversary-weekly★-shonen-sunday](https://cdn.myanimelist.net/images/anime/13/21119.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday

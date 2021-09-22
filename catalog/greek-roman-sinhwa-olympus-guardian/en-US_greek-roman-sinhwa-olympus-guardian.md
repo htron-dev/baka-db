@@ -1,5 +1,7 @@
 # Greek Roman Sinhwa: Olympus Guardian
 
+![greek-roman-sinhwa-olympus-guardian](https://cdn.myanimelist.net/images/anime/13/43449.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 그리스 로마 신화-올림포스 가디언

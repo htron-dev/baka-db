@@ -1,5 +1,7 @@
 # Aoi Hitomi no Bakemono
 
+![aoi-hitomi-no-bakemono](https://cdn.myanimelist.net/images/manga/3/243662.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

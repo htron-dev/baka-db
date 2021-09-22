@@ -1,5 +1,7 @@
 # Kunimatsu-sama no Otoridai
 
+![kunimatsu-sama-no-otoridai](https://cdn.myanimelist.net/images/anime/12/47149.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 国松さまのお通りだい

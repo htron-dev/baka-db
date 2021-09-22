@@ -1,5 +1,7 @@
 # Musashinosen no Shimai
 
+![musashinosen-no-shimai](https://cdn.myanimelist.net/images/manga/1/36236.jpg)
+
 -   **type**: manga
 -   **original-name**: 武蔵野線の姉妹
 -   **start-date**: 2008-06-03

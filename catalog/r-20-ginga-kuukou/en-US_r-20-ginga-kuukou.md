@@ -1,5 +1,7 @@
 # R20: Ginga Kuukou
 
+![r-20-ginga-kuukou](https://cdn.myanimelist.net/images/anime/12/72832.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Ｒ２０ 銀河空港

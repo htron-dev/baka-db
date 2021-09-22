@@ -1,5 +1,7 @@
 # Love Me Ponpoko
 
+![love-me-ponpoko](https://cdn.myanimelist.net/images/manga/1/227361.jpg)
+
 -   **type**: manga
 -   **original-name**: ラブ・ミー・ぽんぽこ！
 -   **start-date**: 2019-07-05

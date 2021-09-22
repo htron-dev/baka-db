@@ -1,5 +1,7 @@
 # Chobits
 
+![chobits](https://cdn.myanimelist.net/images/manga/3/164969.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 88

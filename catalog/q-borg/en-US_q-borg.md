@@ -1,5 +1,7 @@
 # Q-Borg
 
+![q-borg](https://cdn.myanimelist.net/images/anime/1722/109331.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 奇博少年

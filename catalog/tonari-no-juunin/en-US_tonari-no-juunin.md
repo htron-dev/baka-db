@@ -1,5 +1,7 @@
 # Tonari no Juunin
 
+![tonari-no-juunin](https://cdn.myanimelist.net/images/manga/3/105055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: となりの住人

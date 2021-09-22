@@ -1,5 +1,7 @@
 # Oam Monogatari: Sono Natsu, Watashi ga Shitta koto
 
+![oam-monogatari-sono-natsu-watashi-ga-shitta-koto](https://cdn.myanimelist.net/images/anime/1246/91826.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: おあむ物語　その夏、わたしが知ったこと

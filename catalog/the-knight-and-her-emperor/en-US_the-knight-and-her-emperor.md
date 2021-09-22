@@ -1,5 +1,7 @@
 # The Knight and Her Emperor
 
+![the-knight-and-her-emperor](https://cdn.myanimelist.net/images/manga/2/236687.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 황제와 여기사
 -   **start-date**: 2019-01-26

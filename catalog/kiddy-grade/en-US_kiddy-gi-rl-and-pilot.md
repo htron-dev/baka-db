@@ -1,5 +1,7 @@
 # Kiddy GiRL-AND Pilot
 
+![kiddy-gi-rl-and-pilot](https://cdn.myanimelist.net/images/anime/6/12294.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キディ・ガーランド

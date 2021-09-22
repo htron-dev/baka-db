@@ -1,5 +1,7 @@
 # Goshiki no Fune
 
+![goshiki-no-fune](https://cdn.myanimelist.net/images/manga/3/144155.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

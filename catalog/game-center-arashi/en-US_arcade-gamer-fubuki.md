@@ -1,5 +1,7 @@
 # Arcade Gamer Fubuki
 
+![arcade-gamer-fubuki](https://cdn.myanimelist.net/images/anime/1681/100065.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: アーケードゲーマーふぶき

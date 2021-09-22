@@ -1,5 +1,7 @@
 # Mahoraba
 
+![mahoraba](https://cdn.myanimelist.net/images/manga/3/11382.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 62

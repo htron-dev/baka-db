@@ -1,5 +1,7 @@
 # Dream Club Destiny
 
+![dream-club-destiny](https://cdn.myanimelist.net/images/manga/2/36811.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

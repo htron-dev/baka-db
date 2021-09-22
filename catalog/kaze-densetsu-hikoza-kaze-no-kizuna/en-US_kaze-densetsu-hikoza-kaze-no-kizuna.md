@@ -1,5 +1,7 @@
 # Kaze Densetsu Hikoza: Kaze no Kizuna
 
+![kaze-densetsu-hikoza-kaze-no-kizuna](https://cdn.myanimelist.net/images/manga/3/38280.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: かぜ伝説彦佐 かぜの絆

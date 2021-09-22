@@ -1,5 +1,7 @@
 # Nurse Angel Ririka SOS
 
+![nurse-angel-ririka-sos](https://cdn.myanimelist.net/images/manga/2/9983.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ナースエンジェルりりかＳＯＳ

@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Yoshiwara Densetsu
 
+![manga-grimm-douwa-yoshiwara-densetsu](https://cdn.myanimelist.net/images/manga/1/147743.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Aoi Hitsuji no Yume
 
+![aoi-hitsuji-no-yume](https://cdn.myanimelist.net/images/manga/3/168467.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 35

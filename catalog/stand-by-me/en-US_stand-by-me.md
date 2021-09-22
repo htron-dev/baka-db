@@ -1,5 +1,7 @@
 # Stand by Me
 
+![stand-by-me](https://cdn.myanimelist.net/images/manga/3/174217.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: stand by me

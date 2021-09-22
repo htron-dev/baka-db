@@ -1,5 +1,7 @@
 # Pretty Rhythm: Aurora Dream
 
+![pretty-rhythm-aurora-dream](https://cdn.myanimelist.net/images/manga/1/65761.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: プリティーリズム オーロラドリーム

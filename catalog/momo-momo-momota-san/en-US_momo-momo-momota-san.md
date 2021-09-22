@@ -1,5 +1,7 @@
 # Momo Momo Momota-san
 
+![momo-momo-momota-san](https://cdn.myanimelist.net/images/manga/2/174530.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Bokutachi no Reality Show
 
+![bokutachi-no-reality-show](https://cdn.myanimelist.net/images/manga/1/249905.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕たちのリアリティショー
 -   **start-date**: 2021-03-31

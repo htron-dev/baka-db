@@ -1,5 +1,7 @@
 # Yomigaeri no Maou
 
+![yomigaeri-no-maou](https://cdn.myanimelist.net/images/manga/1/155138.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 蘇りの魔王
 -   **start-date**: 2015-05-25

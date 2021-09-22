@@ -1,5 +1,7 @@
 # Aoki Umi no Toraware Hime
 
+![aoki-umi-no-toraware-hime](https://cdn.myanimelist.net/images/manga/2/83729.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

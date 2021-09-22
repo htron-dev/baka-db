@@ -1,5 +1,7 @@
 # Oshaberi na Amadeus
 
+![oshaberi-na-amadeus](https://cdn.myanimelist.net/images/manga/2/28448.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: おしゃべりなアマデウス

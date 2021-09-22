@@ -1,5 +1,7 @@
 # Girl Under Trial
 
+![girl-under-trial](https://cdn.myanimelist.net/images/manga/1/248362.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 소녀재판
 -   **start-date**: 2020-04-05

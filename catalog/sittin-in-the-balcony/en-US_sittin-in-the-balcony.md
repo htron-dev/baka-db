@@ -1,5 +1,7 @@
 # Sittin' in the Balcony
 
+![sittin-in-the-balcony](https://cdn.myanimelist.net/images/manga/3/164633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

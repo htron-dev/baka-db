@@ -1,5 +1,7 @@
 # Tetsuwan Atom
 
+![tetsuwan-atom](https://cdn.myanimelist.net/images/manga/2/186337.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 85

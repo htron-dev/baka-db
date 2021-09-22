@@ -1,5 +1,7 @@
 # Hellsing: The Dawn
 
+![hellsing-the-dawn](https://cdn.myanimelist.net/images/manga/2/34893.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: HELLSING THE DAWN

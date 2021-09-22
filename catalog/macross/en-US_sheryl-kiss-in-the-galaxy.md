@@ -1,5 +1,7 @@
 # Sheryl: Kiss in the Galaxy
 
+![sheryl-kiss-in-the-galaxy](https://cdn.myanimelist.net/images/manga/2/86039.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 9

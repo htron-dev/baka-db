@@ -1,5 +1,7 @@
 # Restore Garage 251: Kurumaya Jumejirou
 
+![restore-garage-251-kurumaya-jumejirou](https://cdn.myanimelist.net/images/manga/1/160632.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 344

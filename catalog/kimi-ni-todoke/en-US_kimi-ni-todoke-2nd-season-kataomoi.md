@@ -1,5 +1,7 @@
 # Kimi ni Todoke 2nd Season: Kataomoi
 
+![kimi-ni-todoke-2nd-season-kataomoi](https://cdn.myanimelist.net/images/anime/12/28011.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 君に届け 2ND SEASON 片想い

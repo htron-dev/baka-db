@@ -1,5 +1,7 @@
 # One Piece: Cry Heart
 
+![one-piece-cry-heart](https://cdn.myanimelist.net/images/anime/13/60173.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ワンピース Cry heart ～冬島に降る桜～

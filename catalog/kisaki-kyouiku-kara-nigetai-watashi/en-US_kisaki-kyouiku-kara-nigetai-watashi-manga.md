@@ -1,5 +1,7 @@
 # Kisaki Kyouiku kara Nigetai Watashi
 
+![kisaki-kyouiku-kara-nigetai-watashi](https://cdn.myanimelist.net/images/manga/2/239464.jpg)
+
 -   **type**: manga
 -   **original-name**: 妃教育から逃げたい私
 -   **start-date**: 2020-03-25

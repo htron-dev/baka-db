@@ -1,5 +1,7 @@
 # Fushidara na Hanatsumi Otoko
 
+![fushidara-na-hanatsumi-otoko](https://cdn.myanimelist.net/images/manga/2/208269.jpg)
+
 -   **type**: manga
 -   **original-name**: ふしだらな花摘み男
 -   **start-date**: 2015-09-11

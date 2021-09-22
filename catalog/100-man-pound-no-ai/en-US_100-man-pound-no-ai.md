@@ -1,5 +1,7 @@
 # 100-man Pound no Ai
 
+![100-man-pound-no-ai](https://cdn.myanimelist.net/images/manga/2/67993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Zero Tester
 
+![zero-tester](https://cdn.myanimelist.net/images/anime/1296/96987.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: ゼロテスター

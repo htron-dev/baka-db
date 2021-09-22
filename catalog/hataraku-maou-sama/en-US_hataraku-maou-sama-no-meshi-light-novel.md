@@ -1,5 +1,7 @@
 # Hataraku Maou-Sama no Meshi!
 
+![hataraku-maou-sama-no-meshi](https://cdn.myanimelist.net/images/manga/2/243763.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

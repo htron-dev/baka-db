@@ -1,5 +1,7 @@
 # Boing
 
+![boing](https://cdn.myanimelist.net/images/manga/2/232476.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 84

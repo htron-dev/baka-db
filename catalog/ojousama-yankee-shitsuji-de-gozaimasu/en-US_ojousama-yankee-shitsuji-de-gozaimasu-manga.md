@@ -1,5 +1,7 @@
 # Ojousama, Yankee Shitsuji de Gozaimasu
 
+![ojousama-yankee-shitsuji-de-gozaimasu](https://cdn.myanimelist.net/images/manga/1/244728.jpg)
+
 -   **type**: manga
 -   **original-name**: お嬢さま、ヤンキー執事でございます
 -   **start-date**: 2020-11-19

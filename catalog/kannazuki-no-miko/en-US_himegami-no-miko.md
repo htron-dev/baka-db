@@ -1,5 +1,7 @@
 # Himegami no Miko
 
+![himegami-no-miko](https://cdn.myanimelist.net/images/manga/2/239394.jpg)
+
 -   **type**: manga
 -   **original-name**: 姫神の巫女
 -   **start-date**: 2020-05-27

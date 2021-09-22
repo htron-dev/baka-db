@@ -1,5 +1,7 @@
 # 100% Perfect Girl
 
+![100-perfect-girl](https://cdn.myanimelist.net/images/manga/5/30107.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **chapters**: 83

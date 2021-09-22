@@ -1,5 +1,7 @@
 # Razoku no Hanayome
 
+![razoku-no-hanayome](https://cdn.myanimelist.net/images/manga/2/169934.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

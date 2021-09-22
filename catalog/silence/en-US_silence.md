@@ -1,5 +1,7 @@
 # Silence
 
+![silence](https://cdn.myanimelist.net/images/manga/2/41115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.
 
+![noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta](https://cdn.myanimelist.net/images/manga/2/225606.jpg)
+
 -   **type**: manga
 -   **original-name**: 農民関連のスキルばっか上げてたら何故か強くなった。
 -   **start-date**: 2018-04-06

@@ -1,5 +1,7 @@
 # Koi no Choujikuuhou
 
+![koi-no-choujikuuhou](https://cdn.myanimelist.net/images/manga/2/199116.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

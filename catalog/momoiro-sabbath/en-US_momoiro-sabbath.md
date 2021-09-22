@@ -1,5 +1,7 @@
 # Momoiro Sabbath
 
+![momoiro-sabbath](https://cdn.myanimelist.net/images/manga/4/38050.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 桃色サバス

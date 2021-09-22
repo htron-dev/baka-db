@@ -1,5 +1,7 @@
 # Shinsengumi to Issho
 
+![shinsengumi-to-issho](https://cdn.myanimelist.net/images/manga/2/245411.jpg)
+
 -   **type**: manga
 -   **original-name**: 新選組といっしょ
 -   **start-date**: 2021-05-25

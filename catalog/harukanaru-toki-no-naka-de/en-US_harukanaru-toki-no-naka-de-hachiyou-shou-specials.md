@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de: Hachiyou Shou Specials
 
+![harukanaru-toki-no-naka-de-hachiyou-shou-specials](https://cdn.myanimelist.net/images/anime/7/30559.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: 遙かなる時空の中で〜八葉抄〜 1〜9

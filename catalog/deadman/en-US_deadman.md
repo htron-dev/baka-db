@@ -1,5 +1,7 @@
 # Deadman
 
+![deadman](https://cdn.myanimelist.net/images/manga/4/3293.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 54

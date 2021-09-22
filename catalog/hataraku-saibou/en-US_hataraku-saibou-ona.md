@@ -1,5 +1,7 @@
 # Hataraku Saibou
 
+![hataraku-saibou](https://cdn.myanimelist.net/images/anime/4/86588.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: はたらく細胞

@@ -1,5 +1,7 @@
 # Umi no Cradle
 
+![umi-no-cradle](https://cdn.myanimelist.net/images/manga/1/123557.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

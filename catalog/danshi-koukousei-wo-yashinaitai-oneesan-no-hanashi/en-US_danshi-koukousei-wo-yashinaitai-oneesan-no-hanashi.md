@@ -1,5 +1,7 @@
 # Danshi Koukousei wo Yashinaitai Oneesan no Hanashi
 
+![danshi-koukousei-wo-yashinaitai-oneesan-no-hanashi](https://cdn.myanimelist.net/images/manga/3/210926.jpg)
+
 -   **type**: manga
 -   **original-name**: 男子高校生を養いたいお姉さんの話
 -   **start-date**: 2018-04-11

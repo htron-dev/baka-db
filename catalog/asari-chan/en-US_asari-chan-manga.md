@@ -1,5 +1,7 @@
 # Asari-chan
 
+![asari-chan](https://cdn.myanimelist.net/images/manga/2/24265.jpg)
+
 -   **type**: manga
 -   **volumes**: 100
 -   **chapters**: 1738

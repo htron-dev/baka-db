@@ -1,5 +1,7 @@
 # Dokidoki Majo Shinpan! Duo
 
+![dokidoki-majo-shinpan-duo](https://cdn.myanimelist.net/images/manga/1/177355.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

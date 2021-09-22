@@ -1,5 +1,7 @@
 # Sayonara Watashi no Cramer Movie: First Touch
 
+![sayonara-watashi-no-cramer-movie-first-touch](https://cdn.myanimelist.net/images/anime/1482/111436.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 さよなら私のクラマー ファーストタッチ

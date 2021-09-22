@@ -1,5 +1,7 @@
 # Sex Nanka Kyouminai
 
+![sex-nanka-kyouminai](https://cdn.myanimelist.net/images/manga/1/137427.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: セックスなんか興味ない

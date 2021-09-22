@@ -1,5 +1,7 @@
 # Ii Ko Level wa Sensei Shidai
 
+![ii-ko-level-wa-sensei-shidai](https://cdn.myanimelist.net/images/manga/3/230634.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Deaimon
 
+![deaimon](https://cdn.myanimelist.net/images/manga/1/186997.jpg)
+
 -   **type**: manga
 -   **original-name**: であいもん
 -   **start-date**: 2016-05-02

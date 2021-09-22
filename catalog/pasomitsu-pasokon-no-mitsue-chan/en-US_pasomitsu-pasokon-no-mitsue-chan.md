@@ -1,5 +1,7 @@
 # Pasomitsu: Pasokon no Mitsue-chan
 
+![pasomitsu-pasokon-no-mitsue-chan](https://cdn.myanimelist.net/images/manga/1/151485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぱそみつ ぱそこんのみつえちゃん

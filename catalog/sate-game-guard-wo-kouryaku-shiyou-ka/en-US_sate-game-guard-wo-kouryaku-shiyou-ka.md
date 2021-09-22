@@ -1,5 +1,7 @@
 # Sate, Game Guard wo Kouryaku Shiyou ka.
 
+![sate-game-guard-wo-kouryaku-shiyou-ka](https://cdn.myanimelist.net/images/manga/3/114387.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 54

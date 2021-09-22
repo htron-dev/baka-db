@@ -1,5 +1,7 @@
 # Hoshi no Tokei no Liddell
 
+![hoshi-no-tokei-no-liddell](https://cdn.myanimelist.net/images/manga/1/38012.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 星の時計のリドル; 星の時計の Liddell

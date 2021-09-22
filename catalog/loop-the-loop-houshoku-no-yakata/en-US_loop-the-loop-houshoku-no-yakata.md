@@ -1,5 +1,7 @@
 # Loop the Loop: Houshoku no Yakata
 
+![loop-the-loop-houshoku-no-yakata](https://cdn.myanimelist.net/images/manga/1/205822.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

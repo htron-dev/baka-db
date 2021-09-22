@@ -1,5 +1,7 @@
 # Meshibana Deka Tachibana
 
+![meshibana-deka-tachibana](https://cdn.myanimelist.net/images/manga/2/176876.jpg)
+
 -   **type**: manga
 -   **original-name**: めしばな刑事タチバナ
 -   **start-date**: 2010-12-21

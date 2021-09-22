@@ -1,5 +1,7 @@
 # IS: Otoko demo Onna demo Nai Sei
 
+![is-otoko-demo-onna-demo-nai-sei](https://cdn.myanimelist.net/images/manga/3/208862.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 82

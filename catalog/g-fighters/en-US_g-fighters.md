@@ -1,5 +1,7 @@
 # G Fighters
 
+![g-fighters](https://cdn.myanimelist.net/images/anime/1848/115253.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 지파이터스

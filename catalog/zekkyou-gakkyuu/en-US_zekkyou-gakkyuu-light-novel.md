@@ -1,5 +1,7 @@
 # Zekkyou Gakkyuu
 
+![zekkyou-gakkyuu](https://cdn.myanimelist.net/images/manga/1/121061.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 絶叫学級
 -   **start-date**: 2011-06-03

@@ -1,5 +1,7 @@
 # Mato Seihei no Slave
 
+![mato-seihei-no-slave](https://cdn.myanimelist.net/images/manga/2/219454.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔都精兵のスレイブ
 -   **start-date**: 2019-01-05

@@ -1,5 +1,7 @@
 # Kakera
 
+![kakera](https://cdn.myanimelist.net/images/anime/1632/99805.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カケラ

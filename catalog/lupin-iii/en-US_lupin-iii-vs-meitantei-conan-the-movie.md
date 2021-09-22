@@ -1,5 +1,7 @@
 # Lupin III vs. Meitantei Conan: The Movie
 
+![lupin-iii-vs-meitantei-conan-the-movie](https://cdn.myanimelist.net/images/manga/1/240400.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

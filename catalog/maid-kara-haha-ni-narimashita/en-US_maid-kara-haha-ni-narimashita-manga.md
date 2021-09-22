@@ -1,5 +1,7 @@
 # Maid kara Haha ni Narimashita
 
+![maid-kara-haha-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/203534.jpg)
+
 -   **type**: manga
 -   **original-name**: メイドから母になりました
 -   **start-date**: 2016-07-08

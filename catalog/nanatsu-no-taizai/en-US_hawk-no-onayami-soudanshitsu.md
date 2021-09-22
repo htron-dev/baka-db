@@ -1,5 +1,7 @@
 # Hawk no Onayami Soudanshitsu
 
+![hawk-no-onayami-soudanshitsu](https://cdn.myanimelist.net/images/anime/1622/111168.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: ホークのお悩み相談室

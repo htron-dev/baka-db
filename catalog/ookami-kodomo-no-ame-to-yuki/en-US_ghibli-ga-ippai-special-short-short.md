@@ -1,5 +1,7 @@
 # Ghibli ga Ippai Special Short Short
 
+![ghibli-ga-ippai-special-short-short](https://cdn.myanimelist.net/images/anime/4/64003.jpg)
+
 -   **type**: special
 -   **episodes**: 10
 -   **original-name**: ジブリがいっぱい SPECIAL ショート ショート

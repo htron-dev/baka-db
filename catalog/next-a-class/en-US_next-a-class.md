@@ -1,5 +1,7 @@
 # Next A-Class
 
+![next-a-class](https://cdn.myanimelist.net/images/anime/4/44099.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: NEXT A-Class

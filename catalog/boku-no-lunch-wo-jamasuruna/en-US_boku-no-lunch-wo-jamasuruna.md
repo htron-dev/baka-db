@@ -1,5 +1,7 @@
 # Boku no Lunch wo Jamasuruna!
 
+![boku-no-lunch-wo-jamasuruna](https://cdn.myanimelist.net/images/manga/3/182435.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

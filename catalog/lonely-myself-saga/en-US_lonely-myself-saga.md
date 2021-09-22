@@ -1,5 +1,7 @@
 # Lonely Myself Saga
 
+![lonely-myself-saga](https://cdn.myanimelist.net/images/manga/3/120773.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ロンリー・マイセルフ・サーガ

@@ -1,5 +1,7 @@
 # Nanaka 6/17
 
+![nanaka-6-17](https://cdn.myanimelist.net/images/manga/5/71889.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: ななか 6/17

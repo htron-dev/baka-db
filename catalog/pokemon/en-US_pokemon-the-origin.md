@@ -1,5 +1,7 @@
 # Pokemon: The Origin
 
+![pokemon-the-origin](https://cdn.myanimelist.net/images/anime/7/53701.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ポケットモンスター THE ORIGIN

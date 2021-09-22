@@ -1,5 +1,7 @@
 # Mame Sengoku Basara
 
+![mame-sengoku-basara](https://cdn.myanimelist.net/images/manga/2/114203.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

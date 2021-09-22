@@ -1,5 +1,7 @@
 # Yogen no Kemono
 
+![yogen-no-kemono](https://cdn.myanimelist.net/images/manga/1/32361.jpg)
+
 -   **type**: manga
 -   **original-name**: よげんのけもの
 

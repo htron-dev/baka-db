@@ -1,5 +1,7 @@
 # Hyakka Ryouran: Sengoku Otome - Haruna Denshou-hen
 
+![hyakka-ryouran-sengoku-otome-haruna-denshou-hen](https://cdn.myanimelist.net/images/manga/3/74201.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 百花繚乱 戦国乙女 -榛名伝承編-

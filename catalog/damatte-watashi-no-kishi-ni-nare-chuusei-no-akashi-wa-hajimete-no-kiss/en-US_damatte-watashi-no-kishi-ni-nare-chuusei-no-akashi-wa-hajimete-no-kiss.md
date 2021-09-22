@@ -1,5 +1,7 @@
 # Damatte Watashi no Kishi ni Nare! Chuusei no Akashi wa Hajimete no Kiss?
 
+![damatte-watashi-no-kishi-ni-nare-chuusei-no-akashi-wa-hajimete-no-kiss](https://cdn.myanimelist.net/images/manga/1/141141.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 黙って私の騎士になれ! 忠誠の証は初めてのキス?

@@ -1,5 +1,7 @@
 # Choujikuu Kidan Southern Cross
 
+![choujikuu-kidan-southern-cross](https://cdn.myanimelist.net/images/anime/1564/96451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 超時空騎団サザンクロス

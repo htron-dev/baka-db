@@ -1,5 +1,7 @@
 # Ikiteirutte Subarashii!
 
+![ikiteirutte-subarashii](https://cdn.myanimelist.net/images/anime/7/71598.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 生きているってすばらしい!

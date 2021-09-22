@@ -1,5 +1,7 @@
 # Abunai Oyuugi
 
+![abunai-oyuugi](https://cdn.myanimelist.net/images/manga/1/104435.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: アブナイお遊戯

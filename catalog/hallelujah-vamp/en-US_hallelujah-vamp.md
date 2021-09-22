@@ -1,5 +1,7 @@
 # Hallelujah Vamp
 
+![hallelujah-vamp](https://cdn.myanimelist.net/images/manga/3/164584.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ハレルヤ・ヴァンプ

@@ -1,5 +1,7 @@
 # Kare to Watashi no Anna Koto...
 
+![kare-to-watashi-no-anna-koto](https://cdn.myanimelist.net/images/manga/2/78071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

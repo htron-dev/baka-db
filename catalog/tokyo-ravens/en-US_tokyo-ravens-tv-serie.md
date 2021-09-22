@@ -1,5 +1,7 @@
 # Tokyo Ravens
 
+![tokyo-ravens](https://cdn.myanimelist.net/images/anime/13/75094.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 東京レイヴンズ

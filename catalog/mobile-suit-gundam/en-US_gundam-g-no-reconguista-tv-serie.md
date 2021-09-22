@@ -1,5 +1,7 @@
 # Gundam: G no Reconguista
 
+![gundam-g-no-reconguista](https://cdn.myanimelist.net/images/anime/12/63753.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ガンダム G のレコンギスタ

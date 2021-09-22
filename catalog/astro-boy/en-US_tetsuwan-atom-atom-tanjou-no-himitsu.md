@@ -1,5 +1,7 @@
 # Tetsuwan Atom: Atom Tanjou no Himitsu
 
+![tetsuwan-atom-atom-tanjou-no-himitsu](https://cdn.myanimelist.net/images/anime/2/47837.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鉄腕アトム　アトム誕生の秘密

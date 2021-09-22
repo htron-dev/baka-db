@@ -1,5 +1,7 @@
 # Nouzui Jungle
 
+![nouzui-jungle](https://cdn.myanimelist.net/images/manga/3/15321.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 脳髄ジャングル

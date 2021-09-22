@@ -1,5 +1,7 @@
 # Bakugan Battle Brawlers: Gundalian Invaders
 
+![bakugan-battle-brawlers-gundalian-invaders](https://cdn.myanimelist.net/images/anime/10/32189.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 爆丸バトルブローラーズ Gundalian Invaders

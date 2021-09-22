@@ -1,5 +1,7 @@
 # Machine Robo: Leina, The Legend of Wolf Blade
 
+![machine-robo-leina-the-legend-of-wolf-blade](https://cdn.myanimelist.net/images/anime/1101/93997.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: レイナ剣狼伝説

@@ -1,5 +1,7 @@
 # Moony: Ouka Dormitory Trilogy
 
+![moony-ouka-dormitory-trilogy](https://cdn.myanimelist.net/images/manga/3/36519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

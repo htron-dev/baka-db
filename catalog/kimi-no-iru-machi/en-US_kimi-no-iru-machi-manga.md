@@ -1,5 +1,7 @@
 # Kimi no Iru Machi
 
+![kimi-no-iru-machi](https://cdn.myanimelist.net/images/manga/2/115221.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 270

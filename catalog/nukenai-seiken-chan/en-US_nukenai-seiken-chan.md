@@ -1,5 +1,7 @@
 # Nukenai Seiken-chan
 
+![nukenai-seiken-chan](https://cdn.myanimelist.net/images/manga/3/219619.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 70

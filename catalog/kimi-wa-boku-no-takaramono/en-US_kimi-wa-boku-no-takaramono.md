@@ -1,5 +1,7 @@
 # Kimi wa Boku no Takaramono
 
+![kimi-wa-boku-no-takaramono](https://cdn.myanimelist.net/images/manga/1/44839.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キミはボクの宝物

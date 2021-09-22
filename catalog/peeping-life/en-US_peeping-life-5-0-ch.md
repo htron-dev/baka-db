@@ -1,5 +1,7 @@
 # Peeping Life 5.0ch
 
+![peeping-life-5-0-ch](https://cdn.myanimelist.net/images/anime/4/52931.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: Peeping Life 5.0ch

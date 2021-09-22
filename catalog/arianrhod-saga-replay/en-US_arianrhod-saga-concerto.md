@@ -1,5 +1,7 @@
 # Arianrhod Saga: Concerto
 
+![arianrhod-saga-concerto](https://cdn.myanimelist.net/images/manga/3/109143.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アリアンロッド・サガ・コンチェルト

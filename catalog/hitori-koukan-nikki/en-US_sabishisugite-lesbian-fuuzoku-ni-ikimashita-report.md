@@ -1,5 +1,7 @@
 # Sabishisugite Lesbian Fuuzoku ni Ikimashita Report
 
+![sabishisugite-lesbian-fuuzoku-ni-ikimashita-report](https://cdn.myanimelist.net/images/manga/2/180846.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Aa! Megami-sama!: Chichaitte Koto wa Benri da ne
 
+![aa-megami-sama-chichaitte-koto-wa-benri-da-ne](https://cdn.myanimelist.net/images/anime/1/303.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: ああっ女神さまっ 小っちゃいって事は便利だねっ

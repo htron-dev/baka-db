@@ -1,5 +1,7 @@
 # Router: Owatta Sekai to Owaranai Negai
 
+![router-owatta-sekai-to-owaranai-negai](https://cdn.myanimelist.net/images/manga/1/178438.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

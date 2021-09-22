@@ -1,5 +1,7 @@
 # Oniichan dakedo Ai sae Areba Kankeinai yo ne!
 
+![oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne](https://cdn.myanimelist.net/images/manga/1/215857.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 94

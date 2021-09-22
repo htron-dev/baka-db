@@ -1,5 +1,7 @@
 # Kakure Tsuki
 
+![kakure-tsuki](https://cdn.myanimelist.net/images/manga/1/169970.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 隠れ月

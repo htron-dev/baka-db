@@ -1,5 +1,7 @@
 # Shadaloo no Vega-san
 
+![shadaloo-no-vega-san](https://cdn.myanimelist.net/images/manga/3/203809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

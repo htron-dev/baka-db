@@ -1,5 +1,7 @@
 # Satsujin Auction
 
+![satsujin-auction](https://cdn.myanimelist.net/images/manga/1/204907.jpg)
+
 -   **type**: manga
 -   **original-name**: 殺人オークション
 -   **start-date**: 2017-12-20

@@ -1,5 +1,7 @@
 # Monster Musume no Iru Nichijou
 
+![monster-musume-no-iru-nichijou](https://cdn.myanimelist.net/images/anime/9/75104.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: モンスター娘のいる日常

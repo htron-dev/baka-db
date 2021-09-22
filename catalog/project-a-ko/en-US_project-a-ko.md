@@ -1,5 +1,7 @@
 # Project A-Ko
 
+![project-a-ko](https://cdn.myanimelist.net/images/anime/2/58391.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プロジェクトＡ子

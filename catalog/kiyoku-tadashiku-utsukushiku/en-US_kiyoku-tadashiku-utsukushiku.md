@@ -1,5 +1,7 @@
 # Kiyoku Tadashiku Utsukushiku
 
+![kiyoku-tadashiku-utsukushiku](https://cdn.myanimelist.net/images/manga/3/238015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

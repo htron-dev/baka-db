@@ -1,5 +1,7 @@
 # Shiawase no Category
 
+![shiawase-no-category](https://cdn.myanimelist.net/images/manga/1/47119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

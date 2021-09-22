@@ -1,5 +1,7 @@
 # Tensei Kusushi wa Isekai wo Meguru
 
+![tensei-kusushi-wa-isekai-wo-meguru](https://cdn.myanimelist.net/images/manga/3/236486.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生薬師は異世界を巡る
 -   **start-date**: 2020-01-29

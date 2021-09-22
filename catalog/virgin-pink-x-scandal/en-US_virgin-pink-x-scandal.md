@@ -1,5 +1,7 @@
 # Virgin Pink x Scandal
 
+![virgin-pink-x-scandal](https://cdn.myanimelist.net/images/manga/3/223781.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

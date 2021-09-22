@@ -1,5 +1,7 @@
 # Sanshoku Mazareba Kuro ni Naru
 
+![sanshoku-mazareba-kuro-ni-naru](https://cdn.myanimelist.net/images/manga/1/220458.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

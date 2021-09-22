@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: More Information on the Universal Century
 
+![mobile-suit-gundam-more-information-on-the-universal-century](https://cdn.myanimelist.net/images/anime/8/28180.jpg)
+
 -   **type**: special
 -   **episodes**: 10
 -   **original-name**: 宇宙世紀余話

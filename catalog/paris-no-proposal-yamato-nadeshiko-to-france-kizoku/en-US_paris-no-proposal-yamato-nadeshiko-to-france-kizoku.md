@@ -1,5 +1,7 @@
 # Paris no Proposal: Yamato Nadeshiko to France Kizoku
 
+![paris-no-proposal-yamato-nadeshiko-to-france-kizoku](https://cdn.myanimelist.net/images/manga/2/183246.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

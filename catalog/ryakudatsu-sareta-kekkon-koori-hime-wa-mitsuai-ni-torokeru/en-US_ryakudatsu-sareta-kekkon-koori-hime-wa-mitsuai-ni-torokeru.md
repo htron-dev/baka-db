@@ -1,5 +1,7 @@
 # Ryakudatsu sareta Kekkon: Koori-hime wa Mitsuai ni Torokeru
 
+![ryakudatsu-sareta-kekkon-koori-hime-wa-mitsuai-ni-torokeru](https://cdn.myanimelist.net/images/manga/2/192404.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

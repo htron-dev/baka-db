@@ -1,5 +1,7 @@
 # Bakuon!!
 
+![bakuon](https://cdn.myanimelist.net/images/anime/3/78914.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ばくおん!!

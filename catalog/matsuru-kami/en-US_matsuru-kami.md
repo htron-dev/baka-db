@@ -1,5 +1,7 @@
 # Matsuru Kami
 
+![matsuru-kami](https://cdn.myanimelist.net/images/manga/3/174375.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

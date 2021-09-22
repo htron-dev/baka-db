@@ -1,5 +1,7 @@
 # Date A Live: Date to Date
 
+![date-a-live-date-to-date](https://cdn.myanimelist.net/images/anime/1629/112503.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デート・ア・ライブ DATE TO DATE

@@ -1,5 +1,7 @@
 # Mouryou Senki Madara
 
+![mouryou-senki-madara](https://cdn.myanimelist.net/images/anime/1092/112279.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 魍魎戦記 MADARA[摩陀羅]

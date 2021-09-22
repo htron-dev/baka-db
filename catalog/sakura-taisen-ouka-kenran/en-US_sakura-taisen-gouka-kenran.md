@@ -1,5 +1,7 @@
 # Sakura Taisen: Gouka Kenran
 
+![sakura-taisen-gouka-kenran](https://cdn.myanimelist.net/images/anime/9/25433.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: サクラ大戦 轟華絢爛

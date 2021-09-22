@@ -1,5 +1,7 @@
 # Pokemon Movie 19: Volcanion to Karakuri no Magearna
 
+![pokemon-movie-19-volcanion-to-karakuri-no-magearna](https://cdn.myanimelist.net/images/anime/3/78818.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケモン・ザ・ムービー XY＆Z「ボルケニオンと機巧（からくり）のマギアナ」
@@ -11,7 +13,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

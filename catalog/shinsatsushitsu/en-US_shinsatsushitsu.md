@@ -1,5 +1,7 @@
 # Shinsatsushitsu
 
+![shinsatsushitsu](https://cdn.myanimelist.net/images/anime/6/59761.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 診察室

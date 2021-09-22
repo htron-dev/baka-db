@@ -1,5 +1,7 @@
 # A Clockwork Ley-Line: Unmei no Mawaru Mori
 
+![a-clockwork-ley-line-unmei-no-mawaru-mori](https://cdn.myanimelist.net/images/manga/4/90615.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: A Clockwork Ley-Line 運命の廻る森

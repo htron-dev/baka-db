@@ -1,5 +1,7 @@
 # Bokutachi wa Benkyou ga Dekinai!
 
+![bokutachi-wa-benkyou-ga-dekinai](https://cdn.myanimelist.net/images/anime/1974/102960.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ぼくたちは勉強ができない！

@@ -1,5 +1,7 @@
 # Basilisk: Ouka Ninpouchou
 
+![basilisk-ouka-ninpouchou](https://cdn.myanimelist.net/images/manga/3/202900.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 69

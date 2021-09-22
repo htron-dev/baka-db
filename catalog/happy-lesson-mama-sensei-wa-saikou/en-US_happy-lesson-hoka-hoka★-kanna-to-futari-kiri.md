@@ -1,5 +1,7 @@
 # Happy☆Lesson: Hoka Hoka★Kanna to Futari Kiri
 
+![happy☆-lesson-hoka-hoka★-kanna-to-futari-kiri](https://cdn.myanimelist.net/images/anime/3/18198.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: HAPPY☆LESSON ホカホカ ★ カンナと二人きり

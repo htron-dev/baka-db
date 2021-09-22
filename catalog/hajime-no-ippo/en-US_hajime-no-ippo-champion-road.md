@@ -1,5 +1,7 @@
 # Hajime no Ippo: Champion Road
 
+![hajime-no-ippo-champion-road](https://cdn.myanimelist.net/images/anime/9/2361.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: はじめの一歩 -Champion Road-

@@ -1,5 +1,7 @@
 # Bell Princess
 
+![bell-princess](https://cdn.myanimelist.net/images/manga/1/30369.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 방울공주
 

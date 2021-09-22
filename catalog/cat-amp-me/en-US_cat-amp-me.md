@@ -1,5 +1,7 @@
 # Cat &amp; Me
 
+![cat-amp-me](https://cdn.myanimelist.net/images/manga/3/15569.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 2
 -   **original-name**: 고양이님 과 나

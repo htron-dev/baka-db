@@ -1,5 +1,7 @@
 # Dakara Koi to Yobanaide
 
+![dakara-koi-to-yobanaide](https://cdn.myanimelist.net/images/manga/2/36631.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

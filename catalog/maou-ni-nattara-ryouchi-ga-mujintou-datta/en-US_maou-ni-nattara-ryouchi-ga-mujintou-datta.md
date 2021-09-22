@@ -1,5 +1,7 @@
 # Maou ni Nattara Ryouchi ga Mujintou datta
 
+![maou-ni-nattara-ryouchi-ga-mujintou-datta](https://cdn.myanimelist.net/images/manga/3/190667.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔王になったら領地が無人島だった
 -   **start-date**: 2016-03-30

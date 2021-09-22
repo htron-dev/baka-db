@@ -1,5 +1,7 @@
 # Kuro no Prince: Anata no Naka no Kedamono wo Kudasai
 
+![kuro-no-prince-anata-no-naka-no-kedamono-wo-kudasai](https://cdn.myanimelist.net/images/manga/1/246140.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

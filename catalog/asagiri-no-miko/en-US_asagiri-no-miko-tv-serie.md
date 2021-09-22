@@ -1,5 +1,7 @@
 # Asagiri no Miko
 
+![asagiri-no-miko](https://cdn.myanimelist.net/images/anime/3/75196.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 朝霧の巫女

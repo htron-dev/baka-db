@@ -1,5 +1,7 @@
 # Fuusen Inu Tinny
 
+![fuusen-inu-tinny](https://cdn.myanimelist.net/images/anime/10/66013.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ふうせんいぬティニー

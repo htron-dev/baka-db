@@ -1,5 +1,7 @@
 # Kiss &amp; Never Cry
 
+![kiss-amp-never-cry](https://cdn.myanimelist.net/images/manga/1/3755.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 65

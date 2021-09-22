@@ -1,5 +1,7 @@
 # Ginga Shippuu Sasuraiger
 
+![ginga-shippuu-sasuraiger](https://cdn.myanimelist.net/images/anime/7/47491.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: 銀河疾風サスライガー

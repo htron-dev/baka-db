@@ -1,5 +1,7 @@
 # Aki-Sora
 
+![aki-sora](https://cdn.myanimelist.net/images/manga/1/50775.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

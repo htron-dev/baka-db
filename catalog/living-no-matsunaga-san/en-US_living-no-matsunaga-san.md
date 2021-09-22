@@ -1,5 +1,7 @@
 # Living no Matsunaga-san
 
+![living-no-matsunaga-san](https://cdn.myanimelist.net/images/manga/1/195932.jpg)
+
 -   **type**: manga
 -   **original-name**: リビングの松永さん
 -   **start-date**: 2016-12-24

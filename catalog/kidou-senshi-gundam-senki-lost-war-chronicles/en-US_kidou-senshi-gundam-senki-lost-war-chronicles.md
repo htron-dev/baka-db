@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Senki: Lost War Chronicles
 
+![kidou-senshi-gundam-senki-lost-war-chronicles](https://cdn.myanimelist.net/images/manga/3/152342.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

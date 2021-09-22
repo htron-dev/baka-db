@@ -1,5 +1,7 @@
 # Hishosama ni Shitagae!
 
+![hishosama-ni-shitagae](https://cdn.myanimelist.net/images/manga/1/79505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 秘書さまに従え!

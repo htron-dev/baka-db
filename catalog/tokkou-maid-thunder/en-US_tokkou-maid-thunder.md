@@ -1,5 +1,7 @@
 # Tokkou! Maid Thunder
 
+![tokkou-maid-thunder](https://cdn.myanimelist.net/images/manga/5/37850.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 突攻! メイドサンダー

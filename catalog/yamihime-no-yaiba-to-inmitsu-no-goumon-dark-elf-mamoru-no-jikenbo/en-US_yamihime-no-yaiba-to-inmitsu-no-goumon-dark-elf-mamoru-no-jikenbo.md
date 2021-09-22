@@ -1,5 +1,7 @@
 # Yamihime no Yaiba to Inmitsu no Goumon: Dark Elf Mamoru no Jikenbo
 
+![yamihime-no-yaiba-to-inmitsu-no-goumon-dark-elf-mamoru-no-jikenbo](https://cdn.myanimelist.net/images/manga/3/199327.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 闇姫の刃と淫蜜の拷問 ―ダークエルフ・衛の事件簿―

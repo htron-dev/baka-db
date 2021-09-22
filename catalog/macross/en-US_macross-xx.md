@@ -1,5 +1,7 @@
 # Macross XX
 
+![macross-xx](https://cdn.myanimelist.net/images/anime/4/9862.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マクロス XX

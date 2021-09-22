@@ -1,5 +1,7 @@
 # Disney Twisted-Wonderland Anthology Comic
 
+![disney-twisted-wonderland-anthology-comic](https://cdn.myanimelist.net/images/manga/2/238379.jpg)
+
 -   **type**: manga
 -   **original-name**: 『ディズニー ツイステッドワンダーランド』アンソロジーコミック
 -   **start-date**: 2020-11-27

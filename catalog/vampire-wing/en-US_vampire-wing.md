@@ -1,5 +1,7 @@
 # Vampire Wing
 
+![vampire-wing](https://cdn.myanimelist.net/images/manga/2/130315.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: VAMPIRE WING

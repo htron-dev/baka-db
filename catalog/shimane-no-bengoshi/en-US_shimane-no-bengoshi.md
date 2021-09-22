@@ -1,5 +1,7 @@
 # Shimane no Bengoshi
 
+![shimane-no-bengoshi](https://cdn.myanimelist.net/images/manga/3/198956.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 104

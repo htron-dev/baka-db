@@ -1,5 +1,7 @@
 # Karasu no Negura
 
+![karasu-no-negura](https://cdn.myanimelist.net/images/manga/2/241875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

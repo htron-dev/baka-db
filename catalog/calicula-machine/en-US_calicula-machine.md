@@ -1,5 +1,7 @@
 # Calicula Machine
 
+![calicula-machine](https://cdn.myanimelist.net/images/anime/1069/98736.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カリキュラマシーン

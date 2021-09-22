@@ -1,5 +1,7 @@
 # Weiß Side B
 
+![weiss-side-b](https://cdn.myanimelist.net/images/manga/3/156683.jpg)
+
 -   **type**: manga
 -   **chapters**: 37
 -   **original-name**: Weiß Side B

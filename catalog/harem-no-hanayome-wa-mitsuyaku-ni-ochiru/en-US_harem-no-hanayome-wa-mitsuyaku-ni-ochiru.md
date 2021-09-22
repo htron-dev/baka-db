@@ -1,5 +1,7 @@
 # Harem no Hanayome wa Mitsuyaku ni Ochiru
 
+![harem-no-hanayome-wa-mitsuyaku-ni-ochiru](https://cdn.myanimelist.net/images/manga/2/193043.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

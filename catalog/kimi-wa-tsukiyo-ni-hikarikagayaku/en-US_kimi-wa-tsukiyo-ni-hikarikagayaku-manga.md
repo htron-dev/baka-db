@@ -1,5 +1,7 @@
 # Kimi wa Tsukiyo ni Hikarikagayaku
 
+![kimi-wa-tsukiyo-ni-hikarikagayaku](https://cdn.myanimelist.net/images/manga/2/232363.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

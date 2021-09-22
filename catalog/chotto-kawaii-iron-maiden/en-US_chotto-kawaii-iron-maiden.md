@@ -1,5 +1,7 @@
 # Chotto Kawaii Iron Maiden
 
+![chotto-kawaii-iron-maiden](https://cdn.myanimelist.net/images/manga/2/127579.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

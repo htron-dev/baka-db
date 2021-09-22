@@ -1,5 +1,7 @@
 # Touma-kun
 
+![touma-kun](https://cdn.myanimelist.net/images/manga/1/239718.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

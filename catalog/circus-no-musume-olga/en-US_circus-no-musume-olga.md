@@ -1,5 +1,7 @@
 # Circus no Musume Olga
 
+![circus-no-musume-olga](https://cdn.myanimelist.net/images/manga/2/224852.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Dankon!! Impossible
 
+![dankon-impossible](https://cdn.myanimelist.net/images/manga/3/27315.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

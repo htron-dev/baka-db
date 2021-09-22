@@ -1,5 +1,7 @@
 # Twitter-san
 
+![twitter-san](https://cdn.myanimelist.net/images/manga/1/192160.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

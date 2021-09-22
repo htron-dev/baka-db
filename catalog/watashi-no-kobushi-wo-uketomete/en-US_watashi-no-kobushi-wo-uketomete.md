@@ -1,5 +1,7 @@
 # Watashi no Kobushi wo Uketomete!
 
+![watashi-no-kobushi-wo-uketomete](https://cdn.myanimelist.net/images/manga/2/220966.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

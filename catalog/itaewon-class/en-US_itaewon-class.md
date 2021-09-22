@@ -1,5 +1,7 @@
 # Itaewon Class
 
+![itaewon-class](https://cdn.myanimelist.net/images/manga/2/235911.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 80

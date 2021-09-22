@@ -1,5 +1,7 @@
 # Dasshutsu Gasshapon
 
+![dasshutsu-gasshapon](https://cdn.myanimelist.net/images/anime/3/76335.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 脱出ガシャポン

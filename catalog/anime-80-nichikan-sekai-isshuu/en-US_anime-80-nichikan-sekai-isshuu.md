@@ -1,5 +1,7 @@
 # Anime 80-nichikan Sekai Isshuu
 
+![anime-80-nichikan-sekai-isshuu](https://cdn.myanimelist.net/images/anime/12/69559.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アニメ 80 日間世界一周
@@ -13,7 +15,6 @@
 
 -   adventure
 -   historical
-
 -   romance
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Lily Fisher no Nangi na Koi
 
+![lily-fisher-no-nangi-na-koi](https://cdn.myanimelist.net/images/manga/1/156953.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: リリー・フィッシャーの難儀な恋

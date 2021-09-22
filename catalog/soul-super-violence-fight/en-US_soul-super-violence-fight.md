@@ -1,5 +1,7 @@
 # SOUL - Super Violence Fight
 
+![soul-super-violence-fight](https://cdn.myanimelist.net/images/manga/1/106661.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

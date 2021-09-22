@@ -1,5 +1,7 @@
 # Arata naru Sekai: Kako-hen
 
+![arata-naru-sekai-kako-hen](https://cdn.myanimelist.net/images/manga/1/78681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Binbougami ga!
 
+![binbougami-ga](https://cdn.myanimelist.net/images/anime/8/39333.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 貧乏神が!

@@ -1,5 +1,7 @@
 # Mono no Kamisama Cocotama
 
+![mono-no-kamisama-cocotama](https://cdn.myanimelist.net/images/anime/1581/103230.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: モノのかみさま ここたま
@@ -10,7 +12,6 @@
 ## Tags
 
 -   slice-of-life
-
 -   magic
 -   fantasy
 

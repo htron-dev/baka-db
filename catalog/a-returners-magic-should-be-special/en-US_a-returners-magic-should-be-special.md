@@ -1,5 +1,7 @@
 # A Returner's Magic Should Be Special
 
+![a-returners-magic-should-be-special](https://cdn.myanimelist.net/images/manga/2/239089.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 귀환자의 마법은 특별해야 합니다
 -   **start-date**: 2018-05-19

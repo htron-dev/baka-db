@@ -1,5 +1,7 @@
 # Gui Mo
 
+![gui-mo](https://cdn.myanimelist.net/images/manga/3/11967.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 鬼幕

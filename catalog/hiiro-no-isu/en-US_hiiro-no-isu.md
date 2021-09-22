@@ -1,5 +1,7 @@
 # Hiiro no Isu
 
+![hiiro-no-isu](https://cdn.myanimelist.net/images/manga/2/6326.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

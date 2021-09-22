@@ -1,5 +1,7 @@
 # Higurashi Daybreak Portable
 
+![higurashi-daybreak-portable](https://cdn.myanimelist.net/images/manga/1/137923.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ひぐらしデイブレイク Portable

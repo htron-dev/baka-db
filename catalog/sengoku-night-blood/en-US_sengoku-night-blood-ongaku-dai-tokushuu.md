@@ -1,5 +1,7 @@
 # Sengoku Night Blood: Ongaku Dai Tokushuu
 
+![sengoku-night-blood-ongaku-dai-tokushuu](https://cdn.myanimelist.net/images/anime/12/89064.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 戦刻ナイトブラッド 音楽大特集

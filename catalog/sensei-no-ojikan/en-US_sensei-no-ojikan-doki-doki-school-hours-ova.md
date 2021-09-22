@@ -1,5 +1,7 @@
 # Sensei no Ojikan: Doki Doki School Hours OVA
 
+![sensei-no-ojikan-doki-doki-school-hours-ova](https://cdn.myanimelist.net/images/anime/4/13253.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: せんせいのお時間: Doki Doki School Hours

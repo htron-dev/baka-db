@@ -1,5 +1,7 @@
 # Tenshi-chan to Akuma-kun
 
+![tenshi-chan-to-akuma-kun](https://cdn.myanimelist.net/images/manga/1/117463.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

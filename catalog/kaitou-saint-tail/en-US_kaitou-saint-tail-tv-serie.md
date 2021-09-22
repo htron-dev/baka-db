@@ -1,5 +1,7 @@
 # Kaitou Saint Tail
 
+![kaitou-saint-tail](https://cdn.myanimelist.net/images/anime/6/46607.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: 怪盗セイント・テール

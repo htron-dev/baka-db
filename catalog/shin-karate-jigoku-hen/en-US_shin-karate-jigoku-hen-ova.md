@@ -1,5 +1,7 @@
 # Shin Karate Jigoku-hen
 
+![shin-karate-jigoku-hen](https://cdn.myanimelist.net/images/anime/13/28348.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 新・カラテ地獄変

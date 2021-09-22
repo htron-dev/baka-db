@@ -1,5 +1,7 @@
 # Shiro Bara to Kuro Shishi
 
+![shiro-bara-to-kuro-shishi](https://cdn.myanimelist.net/images/manga/2/142825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 白薔薇と黒獅子

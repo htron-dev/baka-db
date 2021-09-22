@@ -1,5 +1,7 @@
 # Tsumikabatsu
 
+![tsumikabatsu](https://cdn.myanimelist.net/images/manga/1/195912.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Princess Principal: Crown Handler Movie 3
 
+![princess-principal-crown-handler-movie-3](https://cdn.myanimelist.net/images/anime/1010/105623.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プリンセス・プリンシパル Crown Handler 第 3 話

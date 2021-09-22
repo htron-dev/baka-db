@@ -1,5 +1,7 @@
 # Akikan!
 
+![akikan](https://cdn.myanimelist.net/images/manga/2/154247.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 53

@@ -1,5 +1,7 @@
 # Bodyguard na Kanojo Iwaku, Sadistic-biyori nite.
 
+![bodyguard-na-kanojo-iwaku-sadistic-biyori-nite](https://cdn.myanimelist.net/images/manga/3/200419.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

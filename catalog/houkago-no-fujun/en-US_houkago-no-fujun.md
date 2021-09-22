@@ -1,5 +1,7 @@
 # Houkago no Fujun
 
+![houkago-no-fujun](https://cdn.myanimelist.net/images/manga/1/81374.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

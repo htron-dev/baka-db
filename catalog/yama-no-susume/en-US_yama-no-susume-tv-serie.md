@@ -1,5 +1,7 @@
 # Yama no Susume
 
+![yama-no-susume](https://cdn.myanimelist.net/images/anime/7/75525.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヤマノススメ

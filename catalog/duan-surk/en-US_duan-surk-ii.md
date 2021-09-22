@@ -1,5 +1,7 @@
 # Duan Surk II
 
+![duan-surk-ii](https://cdn.myanimelist.net/images/manga/3/164408.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **original-name**: デュアン・サーク II

@@ -1,5 +1,7 @@
 # Dennou Shoujo☆Mink
 
+![dennou-shoujo☆-mink](https://cdn.myanimelist.net/images/manga/3/171558.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

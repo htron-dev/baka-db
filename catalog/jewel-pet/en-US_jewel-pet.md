@@ -1,5 +1,7 @@
 # Jewel Pet
 
+![jewel-pet](https://cdn.myanimelist.net/images/manga/2/177456.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジュエルペット

@@ -1,5 +1,7 @@
 # Konmei Shakai no Kosodate Mondou: Ikumon!
 
+![konmei-shakai-no-kosodate-mondou-ikumon](https://cdn.myanimelist.net/images/manga/3/167134.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 54

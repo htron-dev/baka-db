@@ -1,5 +1,7 @@
 # Mary Godwin
 
+![mary-godwin](https://cdn.myanimelist.net/images/manga/3/12593.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 10

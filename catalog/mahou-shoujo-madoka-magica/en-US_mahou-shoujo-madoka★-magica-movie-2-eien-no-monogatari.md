@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari
 
+![mahou-shoujo-madoka★-magica-movie-2-eien-no-monogatari](https://cdn.myanimelist.net/images/anime/6/42265.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 魔法少女まどか ☆ マギカ 永遠の物語

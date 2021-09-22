@@ -1,5 +1,7 @@
 # Akogare no Ero Ero Kraken-sensei wo Zenshin Zenrei Haramasete Mita!
 
+![akogare-no-ero-ero-kraken-sensei-wo-zenshin-zenrei-haramasete-mita](https://cdn.myanimelist.net/images/manga/2/172583.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

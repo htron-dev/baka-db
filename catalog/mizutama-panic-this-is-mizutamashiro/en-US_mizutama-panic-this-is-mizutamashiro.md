@@ -1,5 +1,7 @@
 # Mizutama Panic.: This Is Mizutamashiro!!
 
+![mizutama-panic-this-is-mizutamashiro](https://cdn.myanimelist.net/images/manga/2/164523.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 21

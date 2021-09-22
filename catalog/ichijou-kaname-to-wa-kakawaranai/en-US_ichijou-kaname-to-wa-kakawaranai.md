@@ -1,5 +1,7 @@
 # Ichijou Kaname to wa Kakawaranai
 
+![ichijou-kaname-to-wa-kakawaranai](https://cdn.myanimelist.net/images/manga/1/184851.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

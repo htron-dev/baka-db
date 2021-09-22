@@ -1,5 +1,7 @@
 # Shikabane Ryouiki
 
+![shikabane-ryouiki](https://cdn.myanimelist.net/images/manga/3/203170.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

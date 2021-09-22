@@ -1,5 +1,7 @@
 # Sugar Princess
 
+![sugar-princess](https://cdn.myanimelist.net/images/manga/1/126297.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Gyakushuu Inferno
 
+![gyakushuu-inferno](https://cdn.myanimelist.net/images/manga/2/225331.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

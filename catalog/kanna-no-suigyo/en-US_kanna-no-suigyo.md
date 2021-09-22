@@ -1,5 +1,7 @@
 # Kanna no Suigyo
 
+![kanna-no-suigyo](https://cdn.myanimelist.net/images/manga/1/122281.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

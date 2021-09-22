@@ -1,5 +1,7 @@
 # Nagai Go Ecchi Manga Selection
 
+![nagai-go-ecchi-manga-selection](https://cdn.myanimelist.net/images/manga/2/11932.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 永井豪エッチまんがセレクション

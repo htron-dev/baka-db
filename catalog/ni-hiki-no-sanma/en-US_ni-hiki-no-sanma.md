@@ -1,5 +1,7 @@
 # Ni-hiki no Sanma
 
+![ni-hiki-no-sanma](https://cdn.myanimelist.net/images/anime/4/16389.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 二匹のサンマ

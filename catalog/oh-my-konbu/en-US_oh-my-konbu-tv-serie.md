@@ -1,5 +1,7 @@
 # Oh! My Konbu
 
+![oh-my-konbu](https://cdn.myanimelist.net/images/anime/10/64249.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: OH!MY コンブ

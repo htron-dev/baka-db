@@ -1,5 +1,7 @@
 # Kodama Yuki Tanpenshuu
 
+![kodama-yuki-tanpenshuu](https://cdn.myanimelist.net/images/manga/2/66805.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

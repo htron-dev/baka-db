@@ -1,5 +1,7 @@
 # Click
 
+![click](https://cdn.myanimelist.net/images/manga/2/30305.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 33

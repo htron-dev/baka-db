@@ -1,5 +1,7 @@
 # Ongaku Shoujo (TV)
 
+![ongaku-shoujo-tv](https://cdn.myanimelist.net/images/anime/1811/91043.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 音楽少女

@@ -1,5 +1,7 @@
 # Himitsu no Shitsuji-kun
 
+![himitsu-no-shitsuji-kun](https://cdn.myanimelist.net/images/manga/4/29737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

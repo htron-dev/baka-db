@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Niji no Pyramid
 
+![sore-ike-anpanman-niji-no-pyramid](https://cdn.myanimelist.net/images/anime/12/26142.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ！アンパンマン 虹のピラミッド

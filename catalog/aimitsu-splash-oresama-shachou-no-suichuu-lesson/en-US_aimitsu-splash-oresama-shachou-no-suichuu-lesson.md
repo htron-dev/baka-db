@@ -1,5 +1,7 @@
 # Aimitsu Splash: Oresama Shachou no Suichuu Lesson
 
+![aimitsu-splash-oresama-shachou-no-suichuu-lesson](https://cdn.myanimelist.net/images/manga/1/192411.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Koibito Ijou♡Yome Miman
 
+![koibito-ijou♡-yome-miman](https://cdn.myanimelist.net/images/manga/3/231078.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

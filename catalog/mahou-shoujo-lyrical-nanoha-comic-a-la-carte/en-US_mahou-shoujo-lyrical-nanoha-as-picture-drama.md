@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha A's Picture Drama
 
+![mahou-shoujo-lyrical-nanoha-as-picture-drama](https://cdn.myanimelist.net/images/anime/1237/93063.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魔法少女リリカルなのは エース ピクチャードラマ 医療少女メディカルシャマル セカンドコース

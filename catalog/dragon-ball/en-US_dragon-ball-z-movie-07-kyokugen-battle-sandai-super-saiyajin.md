@@ -1,5 +1,7 @@
 # Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin
 
+![dragon-ball-z-movie-07-kyokugen-battle-sandai-super-saiyajin](https://cdn.myanimelist.net/images/anime/1723/93670.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール Z 極限バトル!!三大超サイヤ人

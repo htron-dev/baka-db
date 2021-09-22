@@ -1,5 +1,7 @@
 # Kono Ato Mechakucha Love Comedy shita
 
+![kono-ato-mechakucha-love-comedy-shita](https://cdn.myanimelist.net/images/manga/3/238832.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

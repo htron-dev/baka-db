@@ -1,5 +1,7 @@
 # Nagisa nite
 
+![nagisa-nite](https://cdn.myanimelist.net/images/manga/1/199267.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Boku wa Tomodachi ga Sukunai: Koushiki Anthology Comic
 
+![boku-wa-tomodachi-ga-sukunai-koushiki-anthology-comic](https://cdn.myanimelist.net/images/manga/1/111381.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕は友達が少ない 公式アンソロジーコミック
 -   **start-date**: 2011-10-22

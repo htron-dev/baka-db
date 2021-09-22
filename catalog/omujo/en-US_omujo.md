@@ -1,5 +1,7 @@
 # Omujo!
 
+![omujo](https://cdn.myanimelist.net/images/manga/1/198402.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Boya Oni
 
+![boya-oni](https://cdn.myanimelist.net/images/manga/2/170354.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

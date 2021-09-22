@@ -1,5 +1,7 @@
 # Boys Break
 
+![boys-break](https://cdn.myanimelist.net/images/manga/3/40245.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 소년부서지다

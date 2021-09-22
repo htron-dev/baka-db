@@ -1,5 +1,7 @@
 # Nihon no Obake-banashi
 
+![nihon-no-obake-banashi](https://cdn.myanimelist.net/images/anime/8/84591.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 日本のおばけ話

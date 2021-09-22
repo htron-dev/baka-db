@@ -1,5 +1,7 @@
 # Touyuki
 
+![touyuki](https://cdn.myanimelist.net/images/manga/1/26026.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 東遊記

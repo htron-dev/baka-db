@@ -1,5 +1,7 @@
 # Ore ga Ikiru Raison D'être
 
+![ore-ga-ikiru-raison-detre](https://cdn.myanimelist.net/images/manga/3/97189.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺が生きる意味
 -   **start-date**: 2013-03-19

@@ -1,5 +1,7 @@
 # Douraku Kizoku Oagiz no Bouken
 
+![douraku-kizoku-oagiz-no-bouken](https://cdn.myanimelist.net/images/manga/1/159275.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 23

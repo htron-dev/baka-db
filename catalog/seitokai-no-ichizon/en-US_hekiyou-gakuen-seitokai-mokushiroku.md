@@ -1,5 +1,7 @@
 # Hekiyou Gakuen Seitokai Mokushiroku
 
+![hekiyou-gakuen-seitokai-mokushiroku](https://cdn.myanimelist.net/images/manga/1/149321.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 52

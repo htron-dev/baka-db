@@ -1,5 +1,7 @@
 # Megumi
 
+![megumi](https://cdn.myanimelist.net/images/manga/2/79173.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

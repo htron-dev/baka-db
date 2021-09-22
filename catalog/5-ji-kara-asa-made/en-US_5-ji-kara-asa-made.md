@@ -1,5 +1,7 @@
 # 5-ji kara Asa made
 
+![5-ji-kara-asa-made](https://cdn.myanimelist.net/images/manga/2/206.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Heart Cocktail
 
+![heart-cocktail](https://cdn.myanimelist.net/images/anime/9/67163.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 77
 -   **original-name**: ハートカクテル

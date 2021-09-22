@@ -1,5 +1,7 @@
 # Ginga Tetsudou no Yoru
 
+![ginga-tetsudou-no-yoru](https://cdn.myanimelist.net/images/manga/2/72323.jpg)
+
 -   **type**: manga
 -   **original-name**: 銀河鉄道の夜
 

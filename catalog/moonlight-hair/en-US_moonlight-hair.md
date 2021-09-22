@@ -1,5 +1,7 @@
 # Moonlight Hair
 
+![moonlight-hair](https://cdn.myanimelist.net/images/manga/1/204869.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 125
 -   **original-name**: 달빛머리

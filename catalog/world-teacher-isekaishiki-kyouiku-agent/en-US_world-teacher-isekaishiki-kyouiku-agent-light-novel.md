@@ -1,5 +1,7 @@
 # World Teacher: Isekaishiki Kyouiku Agent
 
+![world-teacher-isekaishiki-kyouiku-agent](https://cdn.myanimelist.net/images/manga/1/163365.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ワールド・ティーチャー 異世界式教育エージェント
 -   **start-date**: 2015-09-25

@@ -1,5 +1,7 @@
 # Yandere Bondage! Seiso na Ano Ko wa Onedari Jouzu!?
 
+![yandere-bondage-seiso-na-ano-ko-wa-onedari-jouzu](https://cdn.myanimelist.net/images/manga/1/169764.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

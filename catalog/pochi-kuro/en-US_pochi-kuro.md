@@ -1,5 +1,7 @@
 # Pochi Kuro
 
+![pochi-kuro](https://cdn.myanimelist.net/images/manga/2/162239.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

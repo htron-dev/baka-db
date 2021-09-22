@@ -1,5 +1,7 @@
 # Aijin Kyoushi
 
+![aijin-kyoushi](https://cdn.myanimelist.net/images/manga/2/69963.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

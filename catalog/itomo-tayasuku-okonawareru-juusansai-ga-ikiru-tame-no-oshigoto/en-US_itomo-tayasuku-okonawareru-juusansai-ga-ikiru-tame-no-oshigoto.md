@@ -1,5 +1,7 @@
 # Itomo Tayasuku Okonawareru Juusansai ga Ikiru Tame no Oshigoto
 
+![itomo-tayasuku-okonawareru-juusansai-ga-ikiru-tame-no-oshigoto](https://cdn.myanimelist.net/images/manga/2/239566.jpg)
+
 -   **type**: manga
 -   **original-name**: いともたやすく行われる十三歳が生きる為のお仕事
 -   **start-date**: 2020-02-27

@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume
 
+![himitsukessha-taka-no-tsume](https://cdn.myanimelist.net/images/anime/13/82755.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 秘密結社 鷹の爪
@@ -22,4 +24,4 @@ Eagle Talon is a secret society based in Kojimachi, Tokyo. With plans for world 
 -   [My Anime list](https://myanimelist.net/anime/4737/Himitsukessha_Taka_no_Tsume)
 -   [Official Site](http://www.kaeruotoko.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4408)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Eagle_Talon_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Eagle_Talon_%28anime%29)

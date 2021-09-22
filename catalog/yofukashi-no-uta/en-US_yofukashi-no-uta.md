@@ -1,5 +1,7 @@
 # Yofukashi no Uta
 
+![yofukashi-no-uta](https://cdn.myanimelist.net/images/manga/3/224212.jpg)
+
 -   **type**: manga
 -   **original-name**: よふかしのうた
 -   **start-date**: 2019-08-28

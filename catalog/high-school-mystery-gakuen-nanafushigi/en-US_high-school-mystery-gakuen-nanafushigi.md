@@ -1,5 +1,7 @@
 # High School Mystery: Gakuen Nanafushigi
 
+![high-school-mystery-gakuen-nanafushigi](https://cdn.myanimelist.net/images/anime/5/27334.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 41
 -   **original-name**: ハイスクールミステリー 学園七不思議

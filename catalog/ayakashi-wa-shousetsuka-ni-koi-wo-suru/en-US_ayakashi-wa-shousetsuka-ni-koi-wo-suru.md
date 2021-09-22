@@ -1,5 +1,7 @@
 # Ayakashi wa Shousetsuka ni Koi wo Suru
 
+![ayakashi-wa-shousetsuka-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/226570.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

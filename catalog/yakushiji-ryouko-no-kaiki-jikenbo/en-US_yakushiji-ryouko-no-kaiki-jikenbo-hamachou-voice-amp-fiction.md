@@ -1,5 +1,7 @@
 # Yakushiji Ryouko no Kaiki Jikenbo: Hamachou, Voice &amp; Fiction
 
+![yakushiji-ryouko-no-kaiki-jikenbo-hamachou-voice-amp-fiction](https://cdn.myanimelist.net/images/anime/9/71646.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 薬師寺涼子の怪奇事件簿 浜町ボイス＆フィクション

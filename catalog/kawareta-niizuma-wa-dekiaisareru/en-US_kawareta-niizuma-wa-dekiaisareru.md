@@ -1,5 +1,7 @@
 # Kawareta Niizuma wa Dekiaisareru
 
+![kawareta-niizuma-wa-dekiaisareru](https://cdn.myanimelist.net/images/manga/2/181626.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

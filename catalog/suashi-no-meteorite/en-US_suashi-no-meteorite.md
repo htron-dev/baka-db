@@ -1,5 +1,7 @@
 # Suashi no Meteorite
 
+![suashi-no-meteorite](https://cdn.myanimelist.net/images/manga/1/158585.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

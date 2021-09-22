@@ -1,5 +1,7 @@
 # Koi wa Aserazu
 
+![koi-wa-aserazu](https://cdn.myanimelist.net/images/manga/3/135811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mahiru no Junketsu Mayonaka no Yuuwaku
 
+![mahiru-no-junketsu-mayonaka-no-yuuwaku](https://cdn.myanimelist.net/images/manga/3/15274.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

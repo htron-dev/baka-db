@@ -1,5 +1,7 @@
 # Haguruma Drive.
 
+![haguruma-drive](https://cdn.myanimelist.net/images/manga/1/220587.jpg)
+
 -   **type**: light-novel
 -   **original-name**: はぐるまどらいぶ。
 -   **start-date**: 2018-02-25

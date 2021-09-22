@@ -1,5 +1,7 @@
 # UFO Robo Grendizer
 
+![ufo-robo-grendizer](https://cdn.myanimelist.net/images/manga/1/43589.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20
@@ -22,10 +24,6 @@
 ## Sinopse
 
 Although similar in name to the Go Nagai work, this version by Gosaku Ota is vastly different from Nagai's work.
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/32899/UFO_Robo_Grendizer)
 
 ## Links
 

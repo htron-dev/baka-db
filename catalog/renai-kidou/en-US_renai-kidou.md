@@ -1,5 +1,7 @@
 # Renai Kidou
 
+![renai-kidou](https://cdn.myanimelist.net/images/manga/2/139203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

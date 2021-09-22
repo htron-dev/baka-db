@@ -1,5 +1,7 @@
 # Necromanesque
 
+![necromanesque](https://cdn.myanimelist.net/images/manga/3/15762.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

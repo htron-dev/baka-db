@@ -1,5 +1,7 @@
 # Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e - Ai no Tsugumi Ryou Gekijou
 
+![kono-aozora-ni-yakusoku-wo-youkoso-tsugumi-ryou-e-ai-no-tsugumi-ryou-gekijou](https://cdn.myanimelist.net/images/anime/1672/105443.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: この青空に約束を― ～ようこそつぐみ寮へ～ 愛のつぐみ寮劇場

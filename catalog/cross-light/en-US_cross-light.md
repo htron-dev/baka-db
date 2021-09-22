@@ -1,5 +1,7 @@
 # Cross Light
 
+![cross-light](https://cdn.myanimelist.net/images/manga/2/26261.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: クロスライト

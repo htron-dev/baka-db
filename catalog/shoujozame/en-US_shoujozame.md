@@ -1,5 +1,7 @@
 # Shoujozame
 
+![shoujozame](https://cdn.myanimelist.net/images/manga/1/134081.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 少女鮫

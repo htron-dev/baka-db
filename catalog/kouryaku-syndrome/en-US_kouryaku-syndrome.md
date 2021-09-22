@@ -1,5 +1,7 @@
 # Kouryaku Syndrome
 
+![kouryaku-syndrome](https://cdn.myanimelist.net/images/manga/1/116749.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

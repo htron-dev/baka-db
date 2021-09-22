@@ -1,5 +1,7 @@
 # Kyou, Koi wo Hajimemasu
 
+![kyou-koi-wo-hajimemasu](https://cdn.myanimelist.net/images/anime/4/37023.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 今日、恋をはじめます

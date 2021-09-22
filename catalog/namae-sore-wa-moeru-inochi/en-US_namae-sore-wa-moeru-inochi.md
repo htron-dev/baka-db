@@ -1,5 +1,7 @@
 # Namae... Sore wa Moeru Inochi
 
+![namae-sore-wa-moeru-inochi](https://cdn.myanimelist.net/images/anime/5/65977.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名前... それは燃えるいのち

@@ -1,5 +1,7 @@
 # Hare Tokidoki Buta no Koutsuu Anzen
 
+![hare-tokidoki-buta-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1580/99047.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はれときどきぶたの交通安全

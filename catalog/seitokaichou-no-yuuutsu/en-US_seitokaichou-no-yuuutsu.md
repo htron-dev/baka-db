@@ -1,5 +1,7 @@
 # Seitokaichou no Yuuutsu
 
+![seitokaichou-no-yuuutsu](https://cdn.myanimelist.net/images/manga/2/186626.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # S・L・H
 
+![s・l・h](https://cdn.myanimelist.net/images/manga/5/46605.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

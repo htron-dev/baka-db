@@ -1,5 +1,7 @@
 # Sci &amp; Sorcery
 
+![sci-amp-sorcery](https://cdn.myanimelist.net/images/manga/1/160955.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

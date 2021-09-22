@@ -1,5 +1,7 @@
 # Ouji-sama no Aigan Koneko
 
+![ouji-sama-no-aigan-koneko](https://cdn.myanimelist.net/images/manga/3/192497.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

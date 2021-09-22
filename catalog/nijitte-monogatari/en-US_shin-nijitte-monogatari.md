@@ -1,5 +1,7 @@
 # Shin Nijitte Monogatari
 
+![shin-nijitte-monogatari](https://cdn.myanimelist.net/images/manga/1/222705.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: 新・弐十手物語

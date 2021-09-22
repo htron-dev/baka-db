@@ -1,5 +1,7 @@
 # Bakumatsu Gijinden Roman
 
+![bakumatsu-gijinden-roman](https://cdn.myanimelist.net/images/anime/9/43673.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 幕末義人伝 浪漫

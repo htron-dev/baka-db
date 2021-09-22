@@ -1,5 +1,7 @@
 # The Sword of Emperor
 
+![the-sword-of-emperor](https://cdn.myanimelist.net/images/manga/3/80609.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 44

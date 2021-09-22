@@ -1,5 +1,7 @@
 # Chou Dokyuu Shoujo 4946
 
+![chou-dokyuu-shoujo-4946](https://cdn.myanimelist.net/images/manga/3/65153.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

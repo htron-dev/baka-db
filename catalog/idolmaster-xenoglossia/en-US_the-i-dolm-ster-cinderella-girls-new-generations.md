@@ -1,5 +1,7 @@
 # The iDOLM@STER: Cinderella Girls - New Generations
 
+![the-i-dolm-ster-cinderella-girls-new-generations](https://cdn.myanimelist.net/images/manga/1/120163.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

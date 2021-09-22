@@ -1,5 +1,7 @@
 # Hi-Speed Jecy
 
+![hi-speed-jecy](https://cdn.myanimelist.net/images/manga/3/171585.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: ハイスピード・ジェシー

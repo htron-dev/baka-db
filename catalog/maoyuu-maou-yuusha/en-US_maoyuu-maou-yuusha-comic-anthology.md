@@ -1,5 +1,7 @@
 # Maoyuu Maou Yuusha: Comic Anthology
 
+![maoyuu-maou-yuusha-comic-anthology](https://cdn.myanimelist.net/images/manga/2/120011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

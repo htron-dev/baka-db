@@ -1,5 +1,7 @@
 # Ronri Shoujo
 
+![ronri-shoujo](https://cdn.myanimelist.net/images/manga/2/69707.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

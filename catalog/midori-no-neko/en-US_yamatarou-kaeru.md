@@ -1,5 +1,7 @@
 # Yamatarou Kaeru
 
+![yamatarou-kaeru](https://cdn.myanimelist.net/images/anime/7/32183.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 山太郎かえる

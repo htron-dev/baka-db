@@ -1,5 +1,7 @@
 # Muhoutou
 
+![muhoutou](https://cdn.myanimelist.net/images/manga/3/222222.jpg)
+
 -   **type**: manga
 -   **original-name**: 無法島
 -   **start-date**: 2019-02-08

@@ -1,5 +1,7 @@
 # Saredo Bokura no Maku wa Agaru.
 
+![saredo-bokura-no-maku-wa-agaru](https://cdn.myanimelist.net/images/manga/3/177423.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

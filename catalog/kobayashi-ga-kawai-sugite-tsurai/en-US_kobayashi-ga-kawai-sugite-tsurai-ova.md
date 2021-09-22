@@ -1,5 +1,7 @@
 # Kobayashi ga Kawai sugite Tsurai!!
 
+![kobayashi-ga-kawai-sugite-tsurai](https://cdn.myanimelist.net/images/anime/10/52439.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 小林が可愛すぎてツライっ!!

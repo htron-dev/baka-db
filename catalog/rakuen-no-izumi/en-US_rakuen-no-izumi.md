@@ -1,5 +1,7 @@
 # Rakuen no Izumi
 
+![rakuen-no-izumi](https://cdn.myanimelist.net/images/manga/2/16462.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

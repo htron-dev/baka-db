@@ -1,5 +1,7 @@
 # Yukemuri Sanctuary
 
+![yukemuri-sanctuary](https://cdn.myanimelist.net/images/manga/1/30631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

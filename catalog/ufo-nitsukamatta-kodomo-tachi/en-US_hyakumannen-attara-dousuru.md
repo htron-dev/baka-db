@@ -1,5 +1,7 @@
 # Hyakumannen Attara, Dousuru?
 
+![hyakumannen-attara-dousuru](https://cdn.myanimelist.net/images/anime/1315/112123.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 100 万円あったら、どうする？

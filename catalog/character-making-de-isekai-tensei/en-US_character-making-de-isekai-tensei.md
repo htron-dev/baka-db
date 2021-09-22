@@ -1,5 +1,7 @@
 # Character Making de Isekai Tensei!
 
+![character-making-de-isekai-tensei](https://cdn.myanimelist.net/images/manga/2/185304.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: キャラクターメイキングで異世界転生!

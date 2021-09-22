@@ -1,5 +1,7 @@
 # Ulysses 31 Pilot
 
+![ulysses-31-pilot](https://cdn.myanimelist.net/images/anime/9/29487.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ULYSSES 31

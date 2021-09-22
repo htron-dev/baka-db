@@ -1,5 +1,7 @@
 # Z no Jikan
 
+![z-no-jikan](https://cdn.myanimelist.net/images/manga/2/212286.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 8

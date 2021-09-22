@@ -1,5 +1,7 @@
 # Kouun no Kutsu wa Dare no Te ni: Yumemiru Ohariko wa Koi wo Suru
 
+![kouun-no-kutsu-wa-dare-no-te-ni-yumemiru-ohariko-wa-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/187012.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

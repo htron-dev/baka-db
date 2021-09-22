@@ -1,5 +1,7 @@
 # Zenbu Misetai! Joshi Ana Marina no Ikizama
 
+![zenbu-misetai-joshi-ana-marina-no-ikizama](https://cdn.myanimelist.net/images/manga/2/169772.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

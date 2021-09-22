@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 27: Shinkon Ryokou Hurricane - Ushinawareta Hiroshi
 
+![crayon-shin-chan-movie-27-shinkon-ryokou-hurricane-ushinawareta-hiroshi](https://cdn.myanimelist.net/images/anime/1690/99460.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画クレヨンしんちゃん 新婚旅行ハリケーン ~失われたひろし~

@@ -1,5 +1,7 @@
 # Otome no Jidai
 
+![otome-no-jidai](https://cdn.myanimelist.net/images/manga/1/22440.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: おとめの時代

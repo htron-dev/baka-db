@@ -1,5 +1,7 @@
 # Azamukareta Muku na Hanayome
 
+![azamukareta-muku-na-hanayome](https://cdn.myanimelist.net/images/manga/2/227562.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 欺かれた無垢な花嫁

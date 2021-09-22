@@ -1,5 +1,7 @@
 # Deca-Dence
 
+![deca-dence](https://cdn.myanimelist.net/images/anime/1627/107552.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: デカダンス

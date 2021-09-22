@@ -1,5 +1,7 @@
 # Umi wo Koete mo Koi wo Suru
 
+![umi-wo-koete-mo-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/11075.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 海をこえても恋をする

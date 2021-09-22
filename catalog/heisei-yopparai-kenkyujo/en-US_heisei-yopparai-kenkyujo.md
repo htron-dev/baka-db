@@ -1,5 +1,7 @@
 # Heisei Yopparai Kenkyujo
 
+![heisei-yopparai-kenkyujo](https://cdn.myanimelist.net/images/manga/2/13099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 32

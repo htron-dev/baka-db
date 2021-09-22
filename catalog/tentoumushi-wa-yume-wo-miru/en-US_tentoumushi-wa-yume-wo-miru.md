@@ -1,5 +1,7 @@
 # Tentoumushi wa Yume wo Miru
 
+![tentoumushi-wa-yume-wo-miru](https://cdn.myanimelist.net/images/manga/1/236994.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 59

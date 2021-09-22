@@ -1,5 +1,7 @@
 # Inya no Akuma to Tou no Ue no Otome
 
+![inya-no-akuma-to-tou-no-ue-no-otome](https://cdn.myanimelist.net/images/manga/1/192119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

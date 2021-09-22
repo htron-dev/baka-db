@@ -1,5 +1,7 @@
 # Kimi ni Maji Kyun!
 
+![kimi-ni-maji-kyun](https://cdn.myanimelist.net/images/anime/13/80048.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キミにマジきゅんっ！

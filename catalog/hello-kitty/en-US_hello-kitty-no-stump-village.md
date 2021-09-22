@@ -1,5 +1,7 @@
 # Hello Kitty no Stump Village
 
+![hello-kitty-no-stump-village](https://cdn.myanimelist.net/images/anime/13/27058.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ハローキティのスタンプヴィレッジ

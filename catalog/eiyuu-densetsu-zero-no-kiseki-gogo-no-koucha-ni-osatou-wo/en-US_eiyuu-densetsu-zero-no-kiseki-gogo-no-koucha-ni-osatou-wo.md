@@ -1,5 +1,7 @@
 # Eiyuu Densetsu: Zero no Kiseki - Gogo no Koucha ni Osatou wo
 
+![eiyuu-densetsu-zero-no-kiseki-gogo-no-koucha-ni-osatou-wo](https://cdn.myanimelist.net/images/manga/1/99095.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

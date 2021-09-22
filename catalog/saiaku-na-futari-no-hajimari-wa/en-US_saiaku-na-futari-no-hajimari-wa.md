@@ -1,5 +1,7 @@
 # Saiaku na Futari no Hajimari wa
 
+![saiaku-na-futari-no-hajimari-wa](https://cdn.myanimelist.net/images/manga/3/224228.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

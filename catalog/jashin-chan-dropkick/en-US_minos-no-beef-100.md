@@ -1,5 +1,7 @@
 # Minos no Beef 100%
 
+![minos-no-beef-100](https://cdn.myanimelist.net/images/manga/3/232365.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

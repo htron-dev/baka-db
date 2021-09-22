@@ -1,5 +1,7 @@
 # Cinderella Plot
 
+![cinderella-plot](https://cdn.myanimelist.net/images/manga/3/144123.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Hakuouki Hekketsuroku
 
+![hakuouki-hekketsuroku](https://cdn.myanimelist.net/images/anime/12/71797.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 薄桜鬼 碧血録

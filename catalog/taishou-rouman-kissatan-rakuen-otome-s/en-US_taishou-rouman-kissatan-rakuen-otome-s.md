@@ -1,5 +1,7 @@
 # Taishou Rouman Kissatan Rakuen Otome S
 
+![taishou-rouman-kissatan-rakuen-otome-s](https://cdn.myanimelist.net/images/manga/2/165518.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 大正浪漫喫茶譚 ラクヱンオトメ S

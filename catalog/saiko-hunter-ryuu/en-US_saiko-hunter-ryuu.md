@@ -1,5 +1,7 @@
 # Saiko Hunter Ryuu
 
+![saiko-hunter-ryuu](https://cdn.myanimelist.net/images/manga/1/160949.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 菜娘〈さいこ〉ハンター・リュウ

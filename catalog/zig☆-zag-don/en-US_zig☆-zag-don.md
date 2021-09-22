@@ -1,5 +1,7 @@
 # Zig☆Zag Don
 
+![zig☆-zag-don](https://cdn.myanimelist.net/images/manga/1/78631.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

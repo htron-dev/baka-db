@@ -1,5 +1,7 @@
 # Eisei Otome no Tatakaikata
 
+![eisei-otome-no-tatakaikata](https://cdn.myanimelist.net/images/manga/2/234174.jpg)
+
 -   **type**: manga
 -   **original-name**: 永世乙女の戦い方
 -   **start-date**: 2019-04-26

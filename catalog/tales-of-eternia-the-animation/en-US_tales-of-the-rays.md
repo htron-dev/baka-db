@@ -1,5 +1,7 @@
 # Tales of the Rays
 
+![tales-of-the-rays](https://cdn.myanimelist.net/images/anime/13/84332.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: テイルズ オブ ザ レイズ

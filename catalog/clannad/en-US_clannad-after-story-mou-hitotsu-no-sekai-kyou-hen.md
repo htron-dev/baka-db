@@ -1,5 +1,7 @@
 # Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen
 
+![clannad-after-story-mou-hitotsu-no-sekai-kyou-hen](https://cdn.myanimelist.net/images/anime/10/19621.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: クラナド　アフターストーリー　もうひとつの世界　杏編
@@ -29,4 +31,4 @@ As everything is revealed, the sisters learn the pains of love and try to decide
 -   [My Anime list](https://myanimelist.net/anime/6351/Clannad__After_Story_-_Mou_Hitotsu_no_Sekai_Kyou-hen)
 -   [Official Site](http://www.tbs.co.jp/clannad/clannad1/index-j.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5841)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Clannad_(visual_novel)#Anime_series>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Clannad_%28visual_novel%29#Anime_series)

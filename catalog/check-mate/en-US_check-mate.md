@@ -1,5 +1,7 @@
 # Check Mate
 
+![check-mate](https://cdn.myanimelist.net/images/manga/2/130643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Nodame Cantabile: Paris-hen
 
+![nodame-cantabile-paris-hen](https://cdn.myanimelist.net/images/anime/4/11918.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: のだめカンタービレ 巴里編

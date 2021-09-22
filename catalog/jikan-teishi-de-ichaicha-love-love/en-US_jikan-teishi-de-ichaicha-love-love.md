@@ -1,5 +1,7 @@
 # Jikan Teishi de Ichaicha Love Love
 
+![jikan-teishi-de-ichaicha-love-love](https://cdn.myanimelist.net/images/manga/3/199792.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 時間停止でイチャイチャラブラブ

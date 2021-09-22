@@ -1,5 +1,7 @@
 # Boku no Tezuka Osamu
 
+![boku-no-tezuka-osamu](https://cdn.myanimelist.net/images/manga/3/170336.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

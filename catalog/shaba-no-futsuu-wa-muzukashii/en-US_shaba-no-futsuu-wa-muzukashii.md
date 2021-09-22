@@ -1,5 +1,7 @@
 # Shaba no "Futsuu" wa Muzukashii
 
+![shaba-no-futsuu-wa-muzukashii](https://cdn.myanimelist.net/images/manga/1/215213.jpg)
+
 -   **type**: manga
 -   **original-name**: シャバの「普通」は難しい
 -   **start-date**: 2018-09-26

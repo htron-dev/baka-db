@@ -1,5 +1,7 @@
 # Doraemon: Obaachan no Omoide
 
+![doraemon-obaachan-no-omoide](https://cdn.myanimelist.net/images/anime/6/27416.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラえもん おばあちゃんの思い出
@@ -10,7 +12,6 @@
 
 -   comedy
 -   fantasy
-
 -   sci-fi
 -   shounen
 

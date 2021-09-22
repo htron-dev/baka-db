@@ -1,5 +1,7 @@
 # Another 0
 
+![another-0](https://cdn.myanimelist.net/images/manga/3/159691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Hitori de Shinitai
 
+![hitori-de-shinitai](https://cdn.myanimelist.net/images/manga/2/247781.jpg)
+
 -   **type**: manga
 -   **original-name**: ひとりでしにたい
 -   **start-date**: 2019-07-22

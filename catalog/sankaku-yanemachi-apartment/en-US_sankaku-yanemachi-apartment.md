@@ -1,5 +1,7 @@
 # Sankaku Yanemachi Apartment
 
+![sankaku-yanemachi-apartment](https://cdn.myanimelist.net/images/manga/1/185439.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

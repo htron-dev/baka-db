@@ -1,5 +1,7 @@
 # Touring Express Tokubetsu-hen Series
 
+![touring-express-tokubetsu-hen-series](https://cdn.myanimelist.net/images/manga/3/38952.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ツーリング・エクスプレス特別編シリーズ

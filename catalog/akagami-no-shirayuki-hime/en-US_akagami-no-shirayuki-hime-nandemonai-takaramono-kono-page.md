@@ -1,5 +1,7 @@
 # Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
 
+![akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page](https://cdn.myanimelist.net/images/anime/10/77943.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 赤髪の白雪姫 ～なんでもない宝物、この頁～

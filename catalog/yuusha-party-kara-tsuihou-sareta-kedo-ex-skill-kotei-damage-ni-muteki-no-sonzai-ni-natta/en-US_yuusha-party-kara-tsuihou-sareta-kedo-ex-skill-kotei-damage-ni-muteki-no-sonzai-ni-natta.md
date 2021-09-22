@@ -1,5 +1,7 @@
 # Yuusha Party kara Tsuihou sareta kedo, EX Skill "Kotei Damage" ni Muteki no Sonzai ni Natta
 
+![yuusha-party-kara-tsuihou-sareta-kedo-ex-skill-kotei-damage-ni-muteki-no-sonzai-ni-natta](https://cdn.myanimelist.net/images/manga/1/241357.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者パーティから追放されたけど、ＥＸスキル【固定ダメージ】で無敵の存在になった
 -   **start-date**: 2020-08-21

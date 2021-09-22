@@ -1,5 +1,7 @@
 # Nichijousahan Bi - Beautiful Life
 
+![nichijousahan-bi-beautiful-life](https://cdn.myanimelist.net/images/manga/2/32130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

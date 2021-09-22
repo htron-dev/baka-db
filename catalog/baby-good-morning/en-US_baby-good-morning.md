@@ -1,5 +1,7 @@
 # Baby, Good Morning
 
+![baby-good-morning](https://cdn.myanimelist.net/images/manga/1/190411.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

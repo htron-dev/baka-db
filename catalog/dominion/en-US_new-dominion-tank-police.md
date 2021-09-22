@@ -1,5 +1,7 @@
 # New Dominion Tank Police
 
+![new-dominion-tank-police](https://cdn.myanimelist.net/images/anime/1195/110635.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 特捜戦車隊ドミニオン

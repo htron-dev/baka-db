@@ -1,5 +1,7 @@
 # Black Clover: Abareushi no Sho
 
+![black-clover-abareushi-no-sho](https://cdn.myanimelist.net/images/manga/2/182355.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ブラッククローバー 暴牛の書

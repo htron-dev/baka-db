@@ -1,5 +1,7 @@
 # Girl Device
 
+![girl-device](https://cdn.myanimelist.net/images/manga/1/166500.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

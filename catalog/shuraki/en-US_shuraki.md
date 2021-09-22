@@ -1,5 +1,7 @@
 # Shuraki
 
+![shuraki](https://cdn.myanimelist.net/images/manga/1/37836.jpg)
+
 -   **type**: manga
 -   **original-name**: シュラキ
 -   **start-date**: 2008-08-09

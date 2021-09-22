@@ -1,5 +1,7 @@
 # Inazuma Eleven: Ares no Tenbin
 
+![inazuma-eleven-ares-no-tenbin](https://cdn.myanimelist.net/images/anime/1460/96891.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: イナズマイレブン アレスの天秤
@@ -29,4 +31,4 @@ Inazuma Eleven: Ares no Tenbin tells the tale of a group of friends whose desire
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/inazuma2018/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12292)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19384)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Inazuma_Eleven:_Ares_no_Tenbin_(2018_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Inazuma_Eleven:_Ares_no_Tenbin_%282018_series%29)

@@ -1,5 +1,7 @@
 # Sunset Rose
 
+![sunset-rose](https://cdn.myanimelist.net/images/manga/3/137659.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 64

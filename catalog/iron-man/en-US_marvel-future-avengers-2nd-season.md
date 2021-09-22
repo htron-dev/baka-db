@@ -1,5 +1,7 @@
 # Marvel Future Avengers 2nd Season
 
+![marvel-future-avengers-2nd-season](https://cdn.myanimelist.net/images/anime/1135/96838.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マーベル フューチャー・アベンジャーズ 第 2 期

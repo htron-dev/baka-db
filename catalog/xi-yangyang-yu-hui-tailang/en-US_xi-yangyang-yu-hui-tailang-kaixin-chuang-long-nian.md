@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Kaixin Chuang Long Nian
 
+![xi-yangyang-yu-hui-tailang-kaixin-chuang-long-nian](https://cdn.myanimelist.net/images/anime/8/49607.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 喜羊羊与灰太狼 之开心闯龙年

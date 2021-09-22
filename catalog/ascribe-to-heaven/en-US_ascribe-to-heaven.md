@@ -1,5 +1,7 @@
 # Ascribe to Heaven
 
+![ascribe-to-heaven](https://cdn.myanimelist.net/images/manga/3/145017.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アスクライブ・トゥ・ヘヴン

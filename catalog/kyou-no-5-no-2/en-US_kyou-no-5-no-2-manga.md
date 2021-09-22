@@ -1,5 +1,7 @@
 # Kyou no 5 no 2
 
+![kyou-no-5-no-2](https://cdn.myanimelist.net/images/manga/3/1828.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

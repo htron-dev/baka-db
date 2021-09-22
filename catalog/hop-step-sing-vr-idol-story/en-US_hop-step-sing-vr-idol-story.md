@@ -1,5 +1,7 @@
 # Hop Step Sing!: VR Idol Story
 
+![hop-step-sing-vr-idol-story](https://cdn.myanimelist.net/images/manga/3/233554.jpg)
+
 -   **type**: manga
 -   **original-name**: Hop Step Sing!～ VR アイドルストーリー～
 -   **start-date**: 2019-07-11

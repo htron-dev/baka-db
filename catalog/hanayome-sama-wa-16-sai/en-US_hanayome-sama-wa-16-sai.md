@@ -1,5 +1,7 @@
 # Hanayome-sama wa 16-sai
 
+![hanayome-sama-wa-16-sai](https://cdn.myanimelist.net/images/manga/5/15698.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Zenryousei Ginsei Gakuen Monogatari
 
+![zenryousei-ginsei-gakuen-monogatari](https://cdn.myanimelist.net/images/manga/2/152826.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

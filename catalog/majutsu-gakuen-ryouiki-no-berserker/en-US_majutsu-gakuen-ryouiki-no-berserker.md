@@ -1,5 +1,7 @@
 # Majutsu Gakuen Ryouiki no Berserker
 
+![majutsu-gakuen-ryouiki-no-berserker](https://cdn.myanimelist.net/images/manga/2/190013.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔術学園領域の拳王〈バーサーカー〉
 -   **start-date**: 2017-01-20

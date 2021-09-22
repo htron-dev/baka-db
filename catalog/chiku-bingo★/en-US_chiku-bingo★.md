@@ -1,5 +1,7 @@
 # Chiku Bingo★
 
+![chiku-bingo★](https://cdn.myanimelist.net/images/manga/2/181585.jpg)
+
 -   **type**: manga
 -   **original-name**: チク BINGO★
 -   **start-date**: 2012-09-21

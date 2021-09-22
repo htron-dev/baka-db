@@ -1,5 +1,7 @@
 # Ano Ko to Boku no Ie
 
+![ano-ko-to-boku-no-ie](https://cdn.myanimelist.net/images/manga/3/200232.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

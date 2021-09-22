@@ -1,5 +1,7 @@
 # Blood-C
 
+![blood-c](https://cdn.myanimelist.net/images/manga/3/173357.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

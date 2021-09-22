@@ -1,5 +1,7 @@
 # House Of The Horror
 
+![house-of-the-horror](https://cdn.myanimelist.net/images/manga/1/21396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

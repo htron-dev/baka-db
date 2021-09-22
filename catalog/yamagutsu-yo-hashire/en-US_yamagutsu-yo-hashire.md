@@ -1,5 +1,7 @@
 # Yamagutsu yo Hashire!!
 
+![yamagutsu-yo-hashire](https://cdn.myanimelist.net/images/manga/3/43503.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 山靴よ疾走れ!!

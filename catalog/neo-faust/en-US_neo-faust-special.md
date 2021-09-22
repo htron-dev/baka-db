@@ -1,5 +1,7 @@
 # Neo Faust
 
+![neo-faust](https://cdn.myanimelist.net/images/anime/9/72289.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ネオ・ファウスト

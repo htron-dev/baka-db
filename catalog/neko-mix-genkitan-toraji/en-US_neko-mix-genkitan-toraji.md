@@ -1,5 +1,7 @@
 # Neko Mix Genkitan Toraji
 
+![neko-mix-genkitan-toraji](https://cdn.myanimelist.net/images/manga/1/16432.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫 mix 幻奇譚とらじ
 

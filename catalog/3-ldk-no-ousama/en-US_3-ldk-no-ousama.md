@@ -1,5 +1,7 @@
 # 3LDK no Ousama
 
+![3-ldk-no-ousama](https://cdn.myanimelist.net/images/manga/3/166739.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

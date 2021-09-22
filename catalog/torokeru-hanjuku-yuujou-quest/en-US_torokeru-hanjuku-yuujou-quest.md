@@ -1,5 +1,7 @@
 # Torokeru Hanjuku Yuujou Quest
 
+![torokeru-hanjuku-yuujou-quest](https://cdn.myanimelist.net/images/manga/2/101587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

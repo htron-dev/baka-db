@@ -1,5 +1,7 @@
 # Goodbye, In-Law!
 
+![goodbye-in-law](https://cdn.myanimelist.net/images/manga/1/245899.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 81

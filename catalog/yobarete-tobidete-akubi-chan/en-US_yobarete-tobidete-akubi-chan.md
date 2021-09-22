@@ -1,5 +1,7 @@
 # Yobarete Tobidete Akubi-chan
 
+![yobarete-tobidete-akubi-chan](https://cdn.myanimelist.net/images/anime/1744/100646.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: よばれてとびでて！アクビちゃん

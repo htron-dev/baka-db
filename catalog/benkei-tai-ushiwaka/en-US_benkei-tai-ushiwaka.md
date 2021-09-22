@@ -1,5 +1,7 @@
 # Benkei tai Ushiwaka
 
+![benkei-tai-ushiwaka](https://cdn.myanimelist.net/images/anime/3/35189.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: べんけい対ウシワカ

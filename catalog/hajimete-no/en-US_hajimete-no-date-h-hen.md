@@ -1,5 +1,7 @@
 # Hajimete no: Date H-hen
 
+![hajimete-no-date-h-hen](https://cdn.myanimelist.net/images/manga/1/231664.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Genwaku no Matenrou
 
+![genwaku-no-matenrou](https://cdn.myanimelist.net/images/manga/2/33212.jpg)
+
 -   **type**: manga
 -   **original-name**: 眩惑の摩天楼
 

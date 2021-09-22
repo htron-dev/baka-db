@@ -1,5 +1,7 @@
 # Papaya Gundan★
 
+![papaya-gundan★](https://cdn.myanimelist.net/images/manga/3/29965.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

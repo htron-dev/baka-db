@@ -1,5 +1,7 @@
 # 12-gatsu ni wa Jazz wo Kiku
 
+![12-gatsu-ni-wa-jazz-wo-kiku](https://cdn.myanimelist.net/images/manga/2/197967.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

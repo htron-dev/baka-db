@@ -1,5 +1,7 @@
 # Neji
 
+![neji](https://cdn.myanimelist.net/images/manga/5/175953.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

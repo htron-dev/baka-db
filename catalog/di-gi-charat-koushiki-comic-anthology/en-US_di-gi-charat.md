@@ -1,5 +1,7 @@
 # Di Gi Charat
 
+![di-gi-charat](https://cdn.myanimelist.net/images/anime/6/18815.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: デ・ジ･キャラット

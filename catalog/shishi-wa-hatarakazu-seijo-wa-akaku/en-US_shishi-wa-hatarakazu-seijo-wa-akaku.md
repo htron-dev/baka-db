@@ -1,5 +1,7 @@
 # Shishi wa Hatarakazu: Seijo wa Akaku
 
+![shishi-wa-hatarakazu-seijo-wa-akaku](https://cdn.myanimelist.net/images/manga/2/124873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 29

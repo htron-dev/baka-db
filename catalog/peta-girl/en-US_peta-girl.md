@@ -1,5 +1,7 @@
 # Peta Girl
 
+![peta-girl](https://cdn.myanimelist.net/images/manga/3/225348.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 50

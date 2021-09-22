@@ -1,5 +1,7 @@
 # Usavich III
 
+![usavich-iii](https://cdn.myanimelist.net/images/anime/6/15659.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ウサビッチ III

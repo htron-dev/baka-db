@@ -1,5 +1,7 @@
 # Beluga
 
+![beluga](https://cdn.myanimelist.net/images/anime/1643/93895.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベールガ

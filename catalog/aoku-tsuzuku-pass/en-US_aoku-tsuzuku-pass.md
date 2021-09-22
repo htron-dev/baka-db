@@ -1,5 +1,7 @@
 # Aoku Tsuzuku Pass
 
+![aoku-tsuzuku-pass](https://cdn.myanimelist.net/images/anime/1390/95752.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 青くつづくパス

@@ -1,5 +1,7 @@
 # Yao Shen Ji Zhi Ying Yao Pian
 
+![yao-shen-ji-zhi-ying-yao-pian](https://cdn.myanimelist.net/images/anime/1134/95151.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 妖神记之影妖篇

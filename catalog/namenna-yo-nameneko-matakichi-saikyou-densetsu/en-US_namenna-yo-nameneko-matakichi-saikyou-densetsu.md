@@ -1,5 +1,7 @@
 # Namenna yo! Nameneko Matakichi Saikyou Densetsu
 
+![namenna-yo-nameneko-matakichi-saikyou-densetsu](https://cdn.myanimelist.net/images/manga/3/203097.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: なめんなよ! ―なめねこ又吉最強伝説
@@ -10,7 +12,6 @@
 
 -   action
 -   comedy
-
 -   school
 
 ## Authors

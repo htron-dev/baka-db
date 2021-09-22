@@ -1,5 +1,7 @@
 # Tokyo Godfathers
 
+![tokyo-godfathers](https://cdn.myanimelist.net/images/anime/1144/93627.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 東京ゴッドファーザーズ

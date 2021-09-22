@@ -1,5 +1,7 @@
 # Koukou Kyoushi
 
+![koukou-kyoushi](https://cdn.myanimelist.net/images/manga/2/66413.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

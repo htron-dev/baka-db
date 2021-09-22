@@ -1,5 +1,7 @@
 # Haikyuu!! Movie 2: Shousha to Haisha
 
+![haikyuu-movie-2-shousha-to-haisha](https://cdn.myanimelist.net/images/anime/2/74813.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハイキュー!! 勝者と敗者

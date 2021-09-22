@@ -1,5 +1,7 @@
 # Gogo no Ohanaya-san
 
+![gogo-no-ohanaya-san](https://cdn.myanimelist.net/images/manga/1/91553.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: 午後のお花屋さん

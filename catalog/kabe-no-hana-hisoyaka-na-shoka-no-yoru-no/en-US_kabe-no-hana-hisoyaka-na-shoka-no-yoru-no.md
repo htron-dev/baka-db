@@ -1,5 +1,7 @@
 # Kabe no Hana: Hisoyaka na Shoka no Yoru no
 
+![kabe-no-hana-hisoyaka-na-shoka-no-yoru-no](https://cdn.myanimelist.net/images/manga/3/74547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ＜壁の花＞ひそやかな初夏の夜の

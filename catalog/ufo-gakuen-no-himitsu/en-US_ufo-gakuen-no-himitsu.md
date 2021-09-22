@@ -1,5 +1,7 @@
 # UFO Gakuen no Himitsu
 
+![ufo-gakuen-no-himitsu](https://cdn.myanimelist.net/images/anime/6/74241.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: UFO 学園の秘密

@@ -1,5 +1,7 @@
 # 27-sai: Atashi, Koi ga, Shitai.
 
+![27-sai-atashi-koi-ga-shitai](https://cdn.myanimelist.net/images/manga/2/89323.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

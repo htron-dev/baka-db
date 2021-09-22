@@ -1,5 +1,7 @@
 # Futsuu no Joshikousei ga [Locodol] Yattemita. OVA
 
+![futsuu-no-joshikousei-ga-locodol-yattemita-ova](https://cdn.myanimelist.net/images/anime/4/78297.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 普通の女子校生が【ろこどる】やってみた。OVA

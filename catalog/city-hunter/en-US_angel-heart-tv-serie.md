@@ -1,5 +1,7 @@
 # Angel Heart
 
+![angel-heart](https://cdn.myanimelist.net/images/anime/1/282.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: エンジェル・ハート
@@ -29,4 +31,4 @@ The author mentioned in the first tankoubon volume that Angel Heart only shares 
 -   [Official Site](http://www.ytv.co.jp/angelheart/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2926)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5487)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Angel_Heart_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Angel_Heart_%28manga%29)

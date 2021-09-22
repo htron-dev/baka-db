@@ -1,5 +1,7 @@
 # Succubus Shimai to Sugosu, Isekai Mattari Seikatsu
 
+![succubus-shimai-to-sugosu-isekai-mattari-seikatsu](https://cdn.myanimelist.net/images/manga/3/219251.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

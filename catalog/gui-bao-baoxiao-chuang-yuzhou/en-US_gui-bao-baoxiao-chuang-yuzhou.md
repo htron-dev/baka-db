@@ -1,5 +1,7 @@
 # Gui Bao: Baoxiao Chuang Yuzhou
 
+![gui-bao-baoxiao-chuang-yuzhou](https://cdn.myanimelist.net/images/anime/1780/90322.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 桂宝之爆笑闯宇宙

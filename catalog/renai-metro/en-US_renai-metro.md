@@ -1,5 +1,7 @@
 # Renai Metro
 
+![renai-metro](https://cdn.myanimelist.net/images/manga/1/165404.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

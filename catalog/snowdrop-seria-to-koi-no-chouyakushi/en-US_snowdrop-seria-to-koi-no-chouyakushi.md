@@ -1,5 +1,7 @@
 # Snowdrop: Seria to Koi no Chouyakushi
 
+![snowdrop-seria-to-koi-no-chouyakushi](https://cdn.myanimelist.net/images/manga/2/183277.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

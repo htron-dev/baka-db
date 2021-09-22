@@ -1,5 +1,7 @@
 # Hanayasha
 
+![hanayasha](https://cdn.myanimelist.net/images/manga/1/229475.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 72

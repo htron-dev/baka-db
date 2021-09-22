@@ -1,5 +1,7 @@
 # Tetsuro no Kanata
 
+![tetsuro-no-kanata](https://cdn.myanimelist.net/images/anime/4/29238.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 鉄路の彼方

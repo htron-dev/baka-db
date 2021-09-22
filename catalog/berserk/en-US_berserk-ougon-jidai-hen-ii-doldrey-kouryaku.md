@@ -1,5 +1,7 @@
 # Berserk: Ougon Jidai-hen II - Doldrey Kouryaku
 
+![berserk-ougon-jidai-hen-ii-doldrey-kouryaku](https://cdn.myanimelist.net/images/anime/12/37193.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベルセルク 黄金時代篇 Ⅱ ドルドレイ攻略
@@ -34,4 +36,4 @@ But with members like Guts—the captain of the Hawks' raiders who can easily fe
 -   [Official Site](http://www.berserkfilm.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7991)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13799)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Berserk_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Berserk_%28manga%29)

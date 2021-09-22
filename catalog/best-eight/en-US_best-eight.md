@@ -1,5 +1,7 @@
 # Best Eight
 
+![best-eight](https://cdn.myanimelist.net/images/manga/3/215698.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

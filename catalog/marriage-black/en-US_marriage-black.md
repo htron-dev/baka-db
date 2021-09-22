@@ -1,5 +1,7 @@
 # Marriage Black
 
+![marriage-black](https://cdn.myanimelist.net/images/manga/3/50553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

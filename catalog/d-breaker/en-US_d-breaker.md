@@ -1,5 +1,7 @@
 # D-breaker
 
+![d-breaker](https://cdn.myanimelist.net/images/manga/2/163114.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 14

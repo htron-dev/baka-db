@@ -1,5 +1,7 @@
 # Nurarihyon no Mago
 
+![nurarihyon-no-mago](https://cdn.myanimelist.net/images/anime/9/75631.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ぬらりひょんの孫

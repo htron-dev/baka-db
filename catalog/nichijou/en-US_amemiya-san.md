@@ -1,5 +1,7 @@
 # Amemiya-san
 
+![amemiya-san](https://cdn.myanimelist.net/images/anime/1017/115549.jpg)
+
 -   **type**: ona
 -   **original-name**: 雨宮さん
 -   **start-date**: 2021-03-09

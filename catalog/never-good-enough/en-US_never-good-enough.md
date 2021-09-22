@@ -1,5 +1,7 @@
 # Never Good Enough
 
+![never-good-enough](https://cdn.myanimelist.net/images/manga/3/228764.jpg)
+
 -   **type**: manga
 -   **original-name**: NEVER GOOD ENOUGH
 -   **start-date**: 2019-05-28

@@ -1,5 +1,7 @@
 # Tasogare-iro no Uta Tsukai
 
+![tasogare-iro-no-uta-tsukai](https://cdn.myanimelist.net/images/manga/2/66639.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 112

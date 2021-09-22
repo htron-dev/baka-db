@@ -1,5 +1,7 @@
 # Hebikuidori
 
+![hebikuidori](https://cdn.myanimelist.net/images/manga/1/136853.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 蛇喰い鳥

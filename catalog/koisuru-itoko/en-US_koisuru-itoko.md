@@ -1,5 +1,7 @@
 # Koisuru Itoko!
 
+![koisuru-itoko](https://cdn.myanimelist.net/images/manga/3/152875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

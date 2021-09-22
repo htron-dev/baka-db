@@ -1,5 +1,7 @@
 # Jimi de Medatanai Watashi wa, Kyou de Owari ni Shimasu.
 
+![jimi-de-medatanai-watashi-wa-kyou-de-owari-ni-shimasu](https://cdn.myanimelist.net/images/manga/1/233536.jpg)
+
 -   **type**: manga
 -   **original-name**: 地味で目立たない私は、今日で終わりにします。
 -   **start-date**: 2019-08-05

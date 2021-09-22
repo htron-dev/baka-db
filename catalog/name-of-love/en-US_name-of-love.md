@@ -1,5 +1,7 @@
 # Name of Love
 
+![name-of-love](https://cdn.myanimelist.net/images/manga/1/5745.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

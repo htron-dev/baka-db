@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Inmu ni Madoromu Nemurihime
 
+![manga-grimm-douwa-inmu-ni-madoromu-nemurihime](https://cdn.myanimelist.net/images/manga/2/139177.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

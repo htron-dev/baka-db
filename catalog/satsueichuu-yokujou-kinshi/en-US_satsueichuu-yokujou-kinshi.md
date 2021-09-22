@@ -1,5 +1,7 @@
 # Satsueichuu, Yokujou Kinshi.
 
+![satsueichuu-yokujou-kinshi](https://cdn.myanimelist.net/images/manga/3/229913.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

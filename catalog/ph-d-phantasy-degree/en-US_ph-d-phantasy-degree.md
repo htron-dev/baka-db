@@ -1,5 +1,7 @@
 # PhD: Phantasy Degree
 
+![ph-d-phantasy-degree](https://cdn.myanimelist.net/images/manga/2/171568.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **chapters**: 106

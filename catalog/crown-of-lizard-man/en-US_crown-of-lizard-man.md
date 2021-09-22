@@ -1,5 +1,7 @@
 # Crown of Lizard Man
 
+![crown-of-lizard-man](https://cdn.myanimelist.net/images/manga/3/194662.jpg)
+
 -   **type**: light-novel
 -   **original-name**: クラウン・オブ・リザードマン
 -   **start-date**: 2017-04-20

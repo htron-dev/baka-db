@@ -1,5 +1,7 @@
 # Gokujou!! Mecha Mote Iinchou
 
+![gokujou-mecha-mote-iinchou](https://cdn.myanimelist.net/images/manga/3/16089.jpg)
+
 -   **type**: manga
 -   **original-name**: 極上!!めちゃモテ委員長
 

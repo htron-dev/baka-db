@@ -1,5 +1,7 @@
 # Sodaterareta Hanayome
 
+![sodaterareta-hanayome](https://cdn.myanimelist.net/images/manga/2/223458.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 育てられた花嫁

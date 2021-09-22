@@ -1,5 +1,7 @@
 # Tsuki wo Mezasu, Hoshi ni Naru
 
+![tsuki-wo-mezasu-hoshi-ni-naru](https://cdn.myanimelist.net/images/manga/3/228713.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

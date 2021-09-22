@@ -1,5 +1,7 @@
 # Huo Xing Wa: Yong Chuang Mo Jing Dao
 
+![huo-xing-wa-yong-chuang-mo-jing-dao](https://cdn.myanimelist.net/images/anime/1783/115378.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 火星娃勇闯魔晶岛

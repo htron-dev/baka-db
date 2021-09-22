@@ -1,5 +1,7 @@
 # Tantei Shounen Kageman
 
+![tantei-shounen-kageman](https://cdn.myanimelist.net/images/anime/13/46713.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 探偵少年カゲマン

@@ -1,5 +1,7 @@
 # Kasai Chousakan Nanase
 
+![kasai-chousakan-nanase](https://cdn.myanimelist.net/images/manga/3/33022.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 68

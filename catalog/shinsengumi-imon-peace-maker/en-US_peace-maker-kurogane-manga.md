@@ -1,5 +1,7 @@
 # Peace Maker Kurogane
 
+![peace-maker-kurogane](https://cdn.myanimelist.net/images/manga/2/183478.jpg)
+
 -   **type**: manga
 -   **original-name**: PEACE MAKER 鐵
 

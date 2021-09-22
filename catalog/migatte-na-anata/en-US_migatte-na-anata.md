@@ -1,5 +1,7 @@
 # Migatte na Anata
 
+![migatte-na-anata](https://cdn.myanimelist.net/images/manga/2/25792.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

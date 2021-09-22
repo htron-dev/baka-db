@@ -1,5 +1,7 @@
 # Shi Wan Ge Leng Xiaohua Movie 2
 
+![shi-wan-ge-leng-xiaohua-movie-2](https://cdn.myanimelist.net/images/anime/12/90074.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 十万个冷笑话 2

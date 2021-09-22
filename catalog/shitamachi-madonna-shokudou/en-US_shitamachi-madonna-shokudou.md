@@ -1,5 +1,7 @@
 # Shitamachi Madonna Shokudou
 
+![shitamachi-madonna-shokudou](https://cdn.myanimelist.net/images/manga/1/73667.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 下町マドンナ食堂 未亡人細腕繁盛記

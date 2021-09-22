@@ -1,5 +1,7 @@
 # Ekichika Mahoutsukai-tsuki Ikkodate
 
+![ekichika-mahoutsukai-tsuki-ikkodate](https://cdn.myanimelist.net/images/manga/3/217319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

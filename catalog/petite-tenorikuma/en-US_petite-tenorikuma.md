@@ -1,5 +1,7 @@
 # Petite! Tenorikuma
 
+![petite-tenorikuma](https://cdn.myanimelist.net/images/manga/3/22612.jpg)
+
 -   **type**: manga
 -   **original-name**: プチっと！てのりくま
 

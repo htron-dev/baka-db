@@ -1,5 +1,7 @@
 # Boushoku no Berserk: Ore dake Level to Iu Gainen wo Toppa suru the Comic
 
+![boushoku-no-berserk-ore-dake-level-to-iu-gainen-wo-toppa-suru-the-comic](https://cdn.myanimelist.net/images/manga/3/212091.jpg)
+
 -   **type**: manga
 -   **original-name**: 暴食のベルセルク～俺だけレベルという概念を突破する～ THE COMIC
 -   **start-date**: 2018-03-01

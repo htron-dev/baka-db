@@ -1,5 +1,7 @@
 # Accel World: Acchel World.
 
+![accel-world-acchel-world](https://cdn.myanimelist.net/images/anime/10/38469.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: あくちぇる・わーるど。

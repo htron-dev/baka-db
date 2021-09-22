@@ -1,5 +1,7 @@
 # Kyokou Suiri 2nd Season
 
+![kyokou-suiri-2nd-season](https://cdn.myanimelist.net/images/anime/1326/110387.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 虚構推理
 -   **rating**: R - 17+ (violence & profanity)

@@ -1,5 +1,7 @@
 # Love Mission @
 
+![love-mission](https://cdn.myanimelist.net/images/manga/3/47017.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

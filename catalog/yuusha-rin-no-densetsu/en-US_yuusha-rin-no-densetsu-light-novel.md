@@ -1,5 +1,7 @@
 # Yuusha Rin no Densetsu
 
+![yuusha-rin-no-densetsu](https://cdn.myanimelist.net/images/manga/2/177968.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 35

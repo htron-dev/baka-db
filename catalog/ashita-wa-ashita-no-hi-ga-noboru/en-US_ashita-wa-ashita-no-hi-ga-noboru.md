@@ -1,5 +1,7 @@
 # Ashita wa Ashita no Hi ga Noboru
 
+![ashita-wa-ashita-no-hi-ga-noboru](https://cdn.myanimelist.net/images/manga/1/11464.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あしたはあしたの陽がのぼる

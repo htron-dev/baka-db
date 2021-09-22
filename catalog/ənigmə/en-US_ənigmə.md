@@ -1,5 +1,7 @@
 # ənígmə
 
+![ənigmə](https://cdn.myanimelist.net/images/manga/4/39803.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 56

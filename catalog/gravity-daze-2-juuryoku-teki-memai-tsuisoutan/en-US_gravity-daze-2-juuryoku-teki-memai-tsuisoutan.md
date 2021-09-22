@@ -1,5 +1,7 @@
 # Gravity Daze 2: Juuryoku-teki Memai Tsuisoutan
 
+![gravity-daze-2-juuryoku-teki-memai-tsuisoutan](https://cdn.myanimelist.net/images/manga/3/206017.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

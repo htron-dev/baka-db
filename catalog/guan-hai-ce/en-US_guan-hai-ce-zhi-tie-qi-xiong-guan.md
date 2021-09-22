@@ -1,5 +1,7 @@
 # Guan Hai Ce Zhi Tie Qi Xiong Guan
 
+![guan-hai-ce-zhi-tie-qi-xiong-guan](https://cdn.myanimelist.net/images/anime/1686/108542.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 观海策之铁骑雄关

@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni - Episode 1: Legend of the Golden Witch
 
+![umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch](https://cdn.myanimelist.net/images/manga/3/248922.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

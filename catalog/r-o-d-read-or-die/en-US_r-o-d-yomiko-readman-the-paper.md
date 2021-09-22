@@ -1,5 +1,7 @@
 # R.O.D: Yomiko Readman "The Paper"
 
+![r-o-d-yomiko-readman-the-paper](https://cdn.myanimelist.net/images/manga/2/179672.jpg)
+
 -   **type**: light-novel
 -   **original-name**: R.O.D -READ OR DIE- YOMIKO READMAN "THE PAPER"
 -   **start-date**: 2000-07-14

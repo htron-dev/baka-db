@@ -1,5 +1,7 @@
 # Hotel
 
+![hotel](https://cdn.myanimelist.net/images/manga/4/66143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

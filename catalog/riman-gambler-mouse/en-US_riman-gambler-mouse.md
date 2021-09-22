@@ -1,5 +1,7 @@
 # Riman Gambler Mouse
 
+![riman-gambler-mouse](https://cdn.myanimelist.net/images/manga/3/17964.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: リーマンギャンブラー マウス

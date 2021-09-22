@@ -1,5 +1,7 @@
 # New Doboku
 
+![new-doboku](https://cdn.myanimelist.net/images/manga/1/80195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 24

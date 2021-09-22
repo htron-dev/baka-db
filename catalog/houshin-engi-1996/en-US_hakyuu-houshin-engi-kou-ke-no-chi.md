@@ -1,5 +1,7 @@
 # Hakyuu Houshin Engi: Kou-ke no Chi
 
+![hakyuu-houshin-engi-kou-ke-no-chi](https://cdn.myanimelist.net/images/anime/1670/96523.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 覇穹 封神演義 スペシャル・エピソード「黄家の血」

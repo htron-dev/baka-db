@@ -1,5 +1,7 @@
 # Junjou Lingerie Doll
 
+![junjou-lingerie-doll](https://cdn.myanimelist.net/images/manga/2/94975.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 純情ランジェリードール

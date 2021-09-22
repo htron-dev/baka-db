@@ -1,5 +1,7 @@
 # Watashi to Shishou to Kagetoki no Tabi
 
+![watashi-to-shishou-to-kagetoki-no-tabi](https://cdn.myanimelist.net/images/manga/2/210031.jpg)
+
 -   **type**: manga
 -   **original-name**: 私と師匠と影解きの旅
 -   **start-date**: 2017-08-05

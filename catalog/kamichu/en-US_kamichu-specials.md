@@ -1,5 +1,7 @@
 # Kamichu! Specials
 
+![kamichu-specials](https://cdn.myanimelist.net/images/anime/12/24645.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: かみちゅ!

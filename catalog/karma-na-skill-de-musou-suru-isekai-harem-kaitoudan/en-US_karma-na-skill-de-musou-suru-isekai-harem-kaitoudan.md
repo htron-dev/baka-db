@@ -1,5 +1,7 @@
 # Karma na Skill de Musou suru Isekai Harem Kaitoudan
 
+![karma-na-skill-de-musou-suru-isekai-harem-kaitoudan](https://cdn.myanimelist.net/images/manga/3/239260.jpg)
+
 -   **type**: manga
 -   **original-name**: 咎〈カルマ〉なスキルで無双する異世界ハーレム怪盗団
 -   **start-date**: 2020-06-09

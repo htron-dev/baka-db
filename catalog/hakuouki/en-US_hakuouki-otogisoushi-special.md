@@ -1,5 +1,7 @@
 # Hakuouki: Otogisoushi Special
 
+![hakuouki-otogisoushi-special](https://cdn.myanimelist.net/images/anime/2/84387.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 薄桜鬼～御伽草子～ 特別篇

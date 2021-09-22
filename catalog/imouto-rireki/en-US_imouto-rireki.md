@@ -1,5 +1,7 @@
 # Imouto Rireki
 
+![imouto-rireki](https://cdn.myanimelist.net/images/manga/2/217646.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

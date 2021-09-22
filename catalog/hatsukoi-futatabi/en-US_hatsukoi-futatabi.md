@@ -1,5 +1,7 @@
 # Hatsukoi, Futatabi.
 
+![hatsukoi-futatabi](https://cdn.myanimelist.net/images/manga/3/191672.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

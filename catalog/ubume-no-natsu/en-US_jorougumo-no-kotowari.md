@@ -1,5 +1,7 @@
 # Jorougumo no Kotowari
 
+![jorougumo-no-kotowari](https://cdn.myanimelist.net/images/manga/1/165918.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

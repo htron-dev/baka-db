@@ -1,5 +1,7 @@
 # Onpu
 
+![onpu](https://cdn.myanimelist.net/images/anime/3/77374.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おんぷ

@@ -1,5 +1,7 @@
 # Ryuusei Sanka
 
+![ryuusei-sanka](https://cdn.myanimelist.net/images/manga/3/187129.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Channel 5.5 Prologue: Shin Bangumi Start!
 
+![channel-5-5-prologue-shin-bangumi-start](https://cdn.myanimelist.net/images/anime/12/71688.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: チャンネルプロローグ「新番組スタート！」

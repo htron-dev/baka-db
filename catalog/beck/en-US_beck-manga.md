@@ -1,5 +1,7 @@
 # Beck
 
+![beck](https://cdn.myanimelist.net/images/manga/3/171795.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **chapters**: 103

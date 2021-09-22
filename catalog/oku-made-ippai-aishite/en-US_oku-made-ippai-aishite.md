@@ -1,5 +1,7 @@
 # Oku made Ippai Aishite
 
+![oku-made-ippai-aishite](https://cdn.myanimelist.net/images/manga/1/193817.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

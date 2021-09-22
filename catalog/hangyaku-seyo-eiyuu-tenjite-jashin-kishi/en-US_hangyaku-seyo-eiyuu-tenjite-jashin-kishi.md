@@ -1,5 +1,7 @@
 # Hangyaku seyo! Eiyuu, Tenjite Jashin Kishi
 
+![hangyaku-seyo-eiyuu-tenjite-jashin-kishi](https://cdn.myanimelist.net/images/manga/3/198863.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 叛逆せよ！英雄、転じて邪神騎士
 -   **start-date**: 2017-07-07

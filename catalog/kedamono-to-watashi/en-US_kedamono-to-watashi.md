@@ -1,5 +1,7 @@
 # Kedamono to Watashi
 
+![kedamono-to-watashi](https://cdn.myanimelist.net/images/manga/3/10817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ケダモノと私

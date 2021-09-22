@@ -1,5 +1,7 @@
 # Shinai Naru Omega e
 
+![shinai-naru-omega-e](https://cdn.myanimelist.net/images/manga/1/238104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Naze, Benkyou Otaku ga Inousen demo Top wo Dokusou Dekiru no ka?
 
+![naze-benkyou-otaku-ga-inousen-demo-top-wo-dokusou-dekiru-no-ka](https://cdn.myanimelist.net/images/manga/2/195985.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

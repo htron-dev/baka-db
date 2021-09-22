@@ -1,5 +1,7 @@
 # Canaria-tachi no Fune
 
+![canaria-tachi-no-fune](https://cdn.myanimelist.net/images/manga/3/180666.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

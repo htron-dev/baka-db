@@ -1,5 +1,7 @@
 # Shittori Lady to Amai Mitsu
 
+![shittori-lady-to-amai-mitsu](https://cdn.myanimelist.net/images/manga/1/231386.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

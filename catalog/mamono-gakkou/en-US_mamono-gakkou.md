@@ -1,5 +1,7 @@
 # Mamono Gakkou
 
+![mamono-gakkou](https://cdn.myanimelist.net/images/manga/1/236564.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

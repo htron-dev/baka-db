@@ -1,5 +1,7 @@
 # Inugami
 
+![inugami](https://cdn.myanimelist.net/images/manga/3/185487.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 72

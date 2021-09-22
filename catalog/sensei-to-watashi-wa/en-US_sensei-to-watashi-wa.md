@@ -1,5 +1,7 @@
 # Sensei to, Watashi wa.
 
+![sensei-to-watashi-wa](https://cdn.myanimelist.net/images/manga/3/224819.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

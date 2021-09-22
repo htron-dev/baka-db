@@ -1,5 +1,7 @@
 # GJ8man
 
+![gj-8-man](https://cdn.myanimelist.net/images/anime/9/82312.jpg)
+
 -   **type**: ona
 -   **original-name**: GJ8 マン
 -   **start-date**: 2016-10-08

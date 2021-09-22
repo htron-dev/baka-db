@@ -1,5 +1,7 @@
 # Shuxue Huang Dao Lixian Ji
 
+![shuxue-huang-dao-lixian-ji](https://cdn.myanimelist.net/images/anime/1114/115448.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 数学荒岛历险记

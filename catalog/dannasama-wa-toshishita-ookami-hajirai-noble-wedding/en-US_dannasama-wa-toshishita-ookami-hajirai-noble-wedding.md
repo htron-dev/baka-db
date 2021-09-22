@@ -1,5 +1,7 @@
 # Dannasama wa Toshishita Ookami!? Hajirai Noble Wedding
 
+![dannasama-wa-toshishita-ookami-hajirai-noble-wedding](https://cdn.myanimelist.net/images/manga/3/184801.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

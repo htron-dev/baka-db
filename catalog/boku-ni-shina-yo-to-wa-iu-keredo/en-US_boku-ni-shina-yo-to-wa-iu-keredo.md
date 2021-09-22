@@ -1,5 +1,7 @@
 # Boku ni Shina yo to wa Iu Keredo
 
+![boku-ni-shina-yo-to-wa-iu-keredo](https://cdn.myanimelist.net/images/manga/2/239842.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

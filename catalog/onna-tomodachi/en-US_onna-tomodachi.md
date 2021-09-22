@@ -1,5 +1,7 @@
 # Onna Tomodachi
 
+![onna-tomodachi](https://cdn.myanimelist.net/images/manga/2/230788.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

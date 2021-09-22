@@ -1,5 +1,7 @@
 # Mahou no Star Magical Emi: Kumo Hikaru
 
+![mahou-no-star-magical-emi-kumo-hikaru](https://cdn.myanimelist.net/images/anime/6/60083.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法のスターマジカルエミ 雲光る

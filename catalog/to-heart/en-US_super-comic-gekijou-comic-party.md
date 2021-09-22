@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Comic Party
 
+![super-comic-gekijou-comic-party](https://cdn.myanimelist.net/images/manga/3/151583.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スーパーコミック劇場 こみっくパーティー

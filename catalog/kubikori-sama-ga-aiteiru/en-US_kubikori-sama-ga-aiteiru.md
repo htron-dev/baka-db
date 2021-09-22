@@ -1,5 +1,7 @@
 # Kubikori-sama ga Aiteiru
 
+![kubikori-sama-ga-aiteiru](https://cdn.myanimelist.net/images/manga/1/247756.jpg)
+
 -   **type**: manga
 -   **original-name**: クビコリ様が飽いている
 -   **start-date**: 2020-05-27

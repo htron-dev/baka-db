@@ -1,5 +1,7 @@
 # Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou
 
+![kuroko-no-basket-movie-3-winter-cup-tobira-no-mukou](https://cdn.myanimelist.net/images/anime/7/80729.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「黒子のバスケ」ウインターカップ総集編～扉の向こう～

@@ -1,5 +1,7 @@
 # Bucchigiri
 
+![bucchigiri](https://cdn.myanimelist.net/images/manga/3/170045.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 126

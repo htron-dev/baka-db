@@ -1,5 +1,7 @@
 # Yuusha Exkaiser
 
+![yuusha-exkaiser](https://cdn.myanimelist.net/images/anime/1471/92206.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 勇者エクスカイザー

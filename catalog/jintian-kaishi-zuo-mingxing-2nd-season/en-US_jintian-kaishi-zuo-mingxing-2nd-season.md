@@ -1,5 +1,7 @@
 # Jintian Kaishi Zuo Mingxing 2nd Season
 
+![jintian-kaishi-zuo-mingxing-2nd-season](https://cdn.myanimelist.net/images/anime/1394/106617.jpg)
+
 -   **type**: ona
 -   **original-name**: 今天开始做明星 第二季
 -   **rating**: None

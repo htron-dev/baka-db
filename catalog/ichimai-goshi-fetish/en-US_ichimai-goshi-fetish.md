@@ -1,5 +1,7 @@
 # Ichimai Goshi Fetish
 
+![ichimai-goshi-fetish](https://cdn.myanimelist.net/images/manga/3/183303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

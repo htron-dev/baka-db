@@ -1,5 +1,7 @@
 # Under Ground
 
+![under-ground](https://cdn.myanimelist.net/images/manga/2/59385.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

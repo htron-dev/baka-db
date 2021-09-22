@@ -1,5 +1,7 @@
 # Inochi wo Waketa Kimi to, Jinsei Saigo no Yume wo Miru
 
+![inochi-wo-waketa-kimi-to-jinsei-saigo-no-yume-wo-miru](https://cdn.myanimelist.net/images/manga/1/196752.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

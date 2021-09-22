@@ -1,5 +1,7 @@
 # Uchuu Kyoudai: Itten no Hikari
 
+![uchuu-kyoudai-itten-no-hikari](https://cdn.myanimelist.net/images/anime/2/47201.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プラネタリウム 宇宙兄弟 ～一点のひかり～

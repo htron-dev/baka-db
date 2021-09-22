@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tai Lang: Qi Si Miao Xiang Xi Yangyang
 
+![xi-yangyang-yu-hui-tai-lang-qi-si-miao-xiang-xi-yangyang](https://cdn.myanimelist.net/images/anime/1495/115270.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之奇思妙想喜羊羊

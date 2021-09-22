@@ -1,5 +1,7 @@
 # Devil's Honey
 
+![devils-honey](https://cdn.myanimelist.net/images/manga/5/84439.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

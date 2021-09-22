@@ -1,5 +1,7 @@
 # Gogo Monster
 
+![gogo-monster](https://cdn.myanimelist.net/images/manga/2/152364.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

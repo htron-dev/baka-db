@@ -1,5 +1,7 @@
 # Kimetsu no Yaiba Movie: Mugen Ressha-hen
 
+![kimetsu-no-yaiba-movie-mugen-ressha-hen](https://cdn.myanimelist.net/images/anime/1704/106947.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 鬼滅の刃 無限列車編

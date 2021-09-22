@@ -1,5 +1,7 @@
 # Shizuru-san to Henkutsu na Shisha-tachi: The Eccentric Dead In White Sickroom
 
+![shizuru-san-to-henkutsu-na-shisha-tachi-the-eccentric-dead-in-white-sickroom](https://cdn.myanimelist.net/images/manga/2/155678.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

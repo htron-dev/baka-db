@@ -1,5 +1,7 @@
 # Kyou, Hana no Gotoshi
 
+![kyou-hana-no-gotoshi](https://cdn.myanimelist.net/images/manga/1/88023.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

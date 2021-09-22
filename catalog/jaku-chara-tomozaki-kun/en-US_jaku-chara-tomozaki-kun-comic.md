@@ -1,5 +1,7 @@
 # Jaku-Chara Tomozaki-kun Comic
 
+![jaku-chara-tomozaki-kun-comic](https://cdn.myanimelist.net/images/manga/2/209980.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

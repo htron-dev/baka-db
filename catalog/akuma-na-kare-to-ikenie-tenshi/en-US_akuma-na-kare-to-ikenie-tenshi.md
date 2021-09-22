@@ -1,5 +1,7 @@
 # Akuma na Kare to Ikenie Tenshi
 
+![akuma-na-kare-to-ikenie-tenshi](https://cdn.myanimelist.net/images/manga/2/19388.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

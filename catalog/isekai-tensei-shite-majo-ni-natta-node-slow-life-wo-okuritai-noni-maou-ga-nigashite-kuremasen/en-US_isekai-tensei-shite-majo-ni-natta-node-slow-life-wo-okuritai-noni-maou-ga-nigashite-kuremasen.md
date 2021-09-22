@@ -1,5 +1,7 @@
 # Isekai Tensei shite Majo ni Natta node Slow Life wo Okuritai noni Maou ga Nigashite Kuremasen
 
+![isekai-tensei-shite-majo-ni-natta-node-slow-life-wo-okuritai-noni-maou-ga-nigashite-kuremasen](https://cdn.myanimelist.net/images/manga/2/244933.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界転生して魔女になったのでスローライフを送りたいのに魔王が逃がしてくれません
 -   **start-date**: 2021-01-21

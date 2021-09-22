@@ -1,5 +1,7 @@
 # Mukurozumi no Volte
 
+![mukurozumi-no-volte](https://cdn.myanimelist.net/images/manga/3/226005.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

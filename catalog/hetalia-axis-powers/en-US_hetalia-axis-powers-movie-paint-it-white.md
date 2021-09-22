@@ -1,5 +1,7 @@
 # Hetalia Axis Powers Movie: Paint it, White
 
+![hetalia-axis-powers-movie-paint-it-white](https://cdn.myanimelist.net/images/anime/6/30761.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀幕ヘタリア Axis Powers Paint it, White (白くぬれ！)

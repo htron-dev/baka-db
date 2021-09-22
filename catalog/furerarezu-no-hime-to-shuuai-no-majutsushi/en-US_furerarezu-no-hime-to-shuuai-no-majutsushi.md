@@ -1,5 +1,7 @@
 # Furerarezu no Hime to Shuuai no Majutsushi
 
+![furerarezu-no-hime-to-shuuai-no-majutsushi](https://cdn.myanimelist.net/images/manga/2/198614.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

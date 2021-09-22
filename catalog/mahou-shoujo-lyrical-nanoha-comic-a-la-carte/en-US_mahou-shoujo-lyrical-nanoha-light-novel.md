@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha
 
+![mahou-shoujo-lyrical-nanoha](https://cdn.myanimelist.net/images/manga/5/112423.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔法少女リリカルなのは

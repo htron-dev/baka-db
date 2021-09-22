@@ -1,5 +1,7 @@
 # Gan to Gon
 
+![gan-to-gon](https://cdn.myanimelist.net/images/anime/5/84960.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 260
 -   **original-name**: ガンとゴン

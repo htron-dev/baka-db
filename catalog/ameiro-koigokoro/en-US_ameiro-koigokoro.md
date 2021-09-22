@@ -1,5 +1,7 @@
 # Ameiro Koigokoro
 
+![ameiro-koigokoro](https://cdn.myanimelist.net/images/manga/1/41845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

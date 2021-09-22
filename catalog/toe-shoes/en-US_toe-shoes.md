@@ -1,5 +1,7 @@
 # Toe Shoes
 
+![toe-shoes](https://cdn.myanimelist.net/images/manga/2/175884.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: トウ・シューズ

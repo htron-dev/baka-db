@@ -1,5 +1,7 @@
 # Dear Girl: Stories - Hizuki
 
+![dear-girl-stories-hizuki](https://cdn.myanimelist.net/images/manga/4/132729.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

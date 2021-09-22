@@ -1,5 +1,7 @@
 # Nina to Usagi to Mahou no Sensha
 
+![nina-to-usagi-to-mahou-no-sensha](https://cdn.myanimelist.net/images/manga/2/171410.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 62

@@ -1,5 +1,7 @@
 # Fate/Apocrypha: Unbirth
 
+![fate-apocrypha-unbirth](https://cdn.myanimelist.net/images/manga/2/88867.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: Fate/Apocrypha Unbirth

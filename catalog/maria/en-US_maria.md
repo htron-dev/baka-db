@@ -1,5 +1,7 @@
 # Maria
 
+![maria](https://cdn.myanimelist.net/images/manga/3/84357.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

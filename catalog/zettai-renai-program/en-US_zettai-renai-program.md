@@ -1,5 +1,7 @@
 # Zettai Renai Program
 
+![zettai-renai-program](https://cdn.myanimelist.net/images/manga/1/81690.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

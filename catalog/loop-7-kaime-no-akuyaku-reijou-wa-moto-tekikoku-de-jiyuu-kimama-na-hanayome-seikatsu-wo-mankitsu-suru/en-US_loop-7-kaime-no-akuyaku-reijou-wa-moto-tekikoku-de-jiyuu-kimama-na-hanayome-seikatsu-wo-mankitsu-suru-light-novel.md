@@ -1,5 +1,7 @@
 # Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru
 
+![loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru](https://cdn.myanimelist.net/images/manga/1/241432.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ループ 7 回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
 -   **start-date**: 2020-10-25

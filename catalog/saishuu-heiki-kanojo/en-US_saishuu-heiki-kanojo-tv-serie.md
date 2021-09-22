@@ -1,5 +1,7 @@
 # Saishuu Heiki Kanojo
 
+![saishuu-heiki-kanojo](https://cdn.myanimelist.net/images/anime/1/529.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 最終兵器彼女

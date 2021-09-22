@@ -1,5 +1,7 @@
 # Hallelujah Overdrive!
 
+![hallelujah-overdrive](https://cdn.myanimelist.net/images/manga/2/163926.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 84

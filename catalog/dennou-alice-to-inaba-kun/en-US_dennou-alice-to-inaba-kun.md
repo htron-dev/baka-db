@@ -1,5 +1,7 @@
 # Dennou Alice to Inaba-kun
 
+![dennou-alice-to-inaba-kun](https://cdn.myanimelist.net/images/manga/2/128677.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: 電脳アリスと因幡くん

@@ -1,5 +1,7 @@
 # Imomushi Shoujo to Comyushou Danshi
 
+![imomushi-shoujo-to-comyushou-danshi](https://cdn.myanimelist.net/images/manga/2/217537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

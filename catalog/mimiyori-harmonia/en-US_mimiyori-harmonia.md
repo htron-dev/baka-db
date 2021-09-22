@@ -1,5 +1,7 @@
 # Mimiyori Harmonia
 
+![mimiyori-harmonia](https://cdn.myanimelist.net/images/manga/3/195146.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

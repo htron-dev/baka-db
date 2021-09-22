@@ -1,5 +1,7 @@
 # Shiawase-iro no Jitensha
 
+![shiawase-iro-no-jitensha](https://cdn.myanimelist.net/images/manga/1/194620.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Gakuen Heaven
 
+![gakuen-heaven](https://cdn.myanimelist.net/images/anime/12/70143.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 学園ヘヴン

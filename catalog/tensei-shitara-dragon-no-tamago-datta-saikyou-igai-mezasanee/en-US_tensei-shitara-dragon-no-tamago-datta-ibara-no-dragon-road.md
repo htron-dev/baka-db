@@ -1,5 +1,7 @@
 # Tensei shitara Dragon no Tamago datta: Ibara no Dragon Road
 
+![tensei-shitara-dragon-no-tamago-datta-ibara-no-dragon-road](https://cdn.myanimelist.net/images/manga/3/215434.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生したらドラゴンの卵だった～イバラのドラゴンロード～
 -   **start-date**: 2017-09-28

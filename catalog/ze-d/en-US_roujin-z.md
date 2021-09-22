@@ -1,5 +1,7 @@
 # Roujin Z
 
+![roujin-z](https://cdn.myanimelist.net/images/anime/1584/93628.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 老人Ｚ

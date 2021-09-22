@@ -1,5 +1,7 @@
 # Kuroi Taiyou
 
+![kuroi-taiyou](https://cdn.myanimelist.net/images/manga/1/131975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 黒い太陽―かわぐちかいじ初期作品集

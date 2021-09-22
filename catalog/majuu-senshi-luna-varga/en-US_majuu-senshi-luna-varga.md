@@ -1,5 +1,7 @@
 # Majuu Senshi Luna Varga
 
+![majuu-senshi-luna-varga](https://cdn.myanimelist.net/images/anime/9/29832.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 魔獣戦士ルナ・ヴァルガー

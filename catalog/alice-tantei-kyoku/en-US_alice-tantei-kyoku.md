@@ -1,5 +1,7 @@
 # Alice Tantei Kyoku
 
+![alice-tantei-kyoku](https://cdn.myanimelist.net/images/anime/4/50211.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 56
 -   **original-name**: アリス 探偵局
@@ -10,7 +12,6 @@
 ## Tags
 
 -   mystery
-
 -   fantasy
 
 ## Sinopse

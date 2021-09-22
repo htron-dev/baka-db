@@ -1,5 +1,7 @@
 # Sokubaku no Shiro: Ai ni Ochita Fukushuusha
 
+![sokubaku-no-shiro-ai-ni-ochita-fukushuusha](https://cdn.myanimelist.net/images/manga/3/183329.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

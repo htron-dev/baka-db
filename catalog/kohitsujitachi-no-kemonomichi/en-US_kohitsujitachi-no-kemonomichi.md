@@ -1,5 +1,7 @@
 # Kohitsujitachi no Kemonomichi
 
+![kohitsujitachi-no-kemonomichi](https://cdn.myanimelist.net/images/manga/2/5979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 子羊たちの獣道

@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Shukufuku wo! 2
 
+![kono-subarashii-sekai-ni-shukufuku-wo-2](https://cdn.myanimelist.net/images/anime/2/83188.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: この素晴らしい世界に祝福を！ 2

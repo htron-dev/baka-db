@@ -1,5 +1,7 @@
 # Oshi no Ko
 
+![oshi-no-ko](https://cdn.myanimelist.net/images/manga/3/233991.jpg)
+
 -   **type**: manga
 -   **original-name**: 推しの子
 -   **start-date**: 2020-04-23

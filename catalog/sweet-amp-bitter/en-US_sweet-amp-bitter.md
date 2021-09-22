@@ -1,5 +1,7 @@
 # Sweet &amp; Bitter
 
+![sweet-amp-bitter](https://cdn.myanimelist.net/images/manga/3/150101.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Sweet&Bitter

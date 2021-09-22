@@ -1,5 +1,7 @@
 # Cheat dakedo Yadoya Hajimemashita.
 
+![cheat-dakedo-yadoya-hajimemashita](https://cdn.myanimelist.net/images/manga/3/201101.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 46

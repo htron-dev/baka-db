@@ -1,5 +1,7 @@
 # Hammer Session!
 
+![hammer-session](https://cdn.myanimelist.net/images/manga/2/194911.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 96

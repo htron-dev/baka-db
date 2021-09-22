@@ -1,5 +1,7 @@
 # Kore mo Oshigoto desu!
 
+![kore-mo-oshigoto-desu](https://cdn.myanimelist.net/images/manga/1/228604.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

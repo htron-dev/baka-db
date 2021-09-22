@@ -1,5 +1,7 @@
 # Toki Nazumi, Futari Nazumu.
 
+![toki-nazumi-futari-nazumu](https://cdn.myanimelist.net/images/manga/1/29750.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Wa!
 
+![wa](https://cdn.myanimelist.net/images/manga/1/3557.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 와!

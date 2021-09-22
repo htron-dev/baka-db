@@ -1,5 +1,7 @@
 # Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
 
+![ookami-to-koushinryou-ii-ookami-to-kohakuiro-no-yuuutsu](https://cdn.myanimelist.net/images/anime/12/13070.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 狼と香辛料 II 狼と琥珀色の憂鬱

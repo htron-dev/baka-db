@@ -1,5 +1,7 @@
 # Yubi wo Nusunda Onna
 
+![yubi-wo-nusunda-onna](https://cdn.myanimelist.net/images/anime/3/74292.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 指を盗んだ女

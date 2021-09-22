@@ -1,5 +1,7 @@
 # Wo Wei Ge Kuang: Xuanlu Chongqi
 
+![wo-wei-ge-kuang-xuanlu-chongqi](https://cdn.myanimelist.net/images/anime/1295/109372.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 我为歌狂之旋律重启

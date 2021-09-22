@@ -1,5 +1,7 @@
 # Grant Leauvas Monogatari
 
+![grant-leauvas-monogatari](https://cdn.myanimelist.net/images/manga/1/10912.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: グラン・ローヴァ物語

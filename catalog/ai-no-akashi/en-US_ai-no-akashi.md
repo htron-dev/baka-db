@@ -1,5 +1,7 @@
 # Ai no Akashi
 
+![ai-no-akashi](https://cdn.myanimelist.net/images/manga/3/15342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

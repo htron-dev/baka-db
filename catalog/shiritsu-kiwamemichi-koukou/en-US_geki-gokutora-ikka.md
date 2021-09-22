@@ -1,5 +1,7 @@
 # Geki!! Gokutora Ikka
 
+![geki-gokutora-ikka](https://cdn.myanimelist.net/images/manga/1/245003.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 激! ! 極虎一家

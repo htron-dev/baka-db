@@ -1,5 +1,7 @@
 # Boireko!
 
+![boireko](https://cdn.myanimelist.net/images/manga/2/165780.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

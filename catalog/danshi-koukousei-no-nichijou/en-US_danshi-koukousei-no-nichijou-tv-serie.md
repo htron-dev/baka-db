@@ -1,5 +1,7 @@
 # Danshi Koukousei no Nichijou
 
+![danshi-koukousei-no-nichijou](https://cdn.myanimelist.net/images/anime/3/33257.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 男子高校生の日常

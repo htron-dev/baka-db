@@ -1,5 +1,7 @@
 # Ranobe-bu
 
+![ranobe-bu](https://cdn.myanimelist.net/images/manga/1/162534.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 53

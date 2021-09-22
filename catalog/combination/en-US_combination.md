@@ -1,5 +1,7 @@
 # Combination
 
+![combination](https://cdn.myanimelist.net/images/manga/2/19178.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: コンビネーション

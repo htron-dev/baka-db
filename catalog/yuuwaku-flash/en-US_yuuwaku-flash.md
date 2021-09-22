@@ -1,5 +1,7 @@
 # Yuuwaku Flash
 
+![yuuwaku-flash](https://cdn.myanimelist.net/images/manga/3/166011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

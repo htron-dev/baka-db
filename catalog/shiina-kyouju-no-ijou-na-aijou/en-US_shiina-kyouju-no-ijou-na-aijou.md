@@ -1,5 +1,7 @@
 # Shiina Kyouju no Ijou na Aijou
 
+![shiina-kyouju-no-ijou-na-aijou](https://cdn.myanimelist.net/images/manga/1/90115.jpg)
+
 -   **type**: manga
 -   **original-name**: 椎名教授の異常な愛情
 

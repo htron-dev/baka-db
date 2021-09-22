@@ -1,5 +1,7 @@
 # Asuka: Mahjong Garouden
 
+![asuka-mahjong-garouden](https://cdn.myanimelist.net/images/manga/2/164234.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

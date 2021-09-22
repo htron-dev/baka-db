@@ -1,5 +1,7 @@
 # Kawareta Koi no Torimodoshikata
 
+![kawareta-koi-no-torimodoshikata](https://cdn.myanimelist.net/images/manga/2/194546.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 買われた恋の取り戻し方

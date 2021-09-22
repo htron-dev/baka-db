@@ -1,5 +1,7 @@
 # Kagami no Naka no Yami
 
+![kagami-no-naka-no-yami](https://cdn.myanimelist.net/images/manga/1/47791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

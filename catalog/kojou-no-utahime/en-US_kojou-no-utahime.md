@@ -1,5 +1,7 @@
 # Kojou no Utahime
 
+![kojou-no-utahime](https://cdn.myanimelist.net/images/manga/1/124353.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 古城の歌姫

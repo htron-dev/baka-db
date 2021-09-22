@@ -1,5 +1,7 @@
 # Devilman: Tanjou-hen
 
+![devilman-tanjou-hen](https://cdn.myanimelist.net/images/anime/1211/91770.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デビルマン 誕生編

@@ -1,5 +1,7 @@
 # Coffee no Mazui Gokudou Kissaten
 
+![coffee-no-mazui-gokudou-kissaten](https://cdn.myanimelist.net/images/manga/1/215574.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Kanojo ga Boku wo Taoshitekurenai
 
+![kanojo-ga-boku-wo-taoshitekurenai](https://cdn.myanimelist.net/images/manga/1/149570.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Desert Riot
 
+![desert-riot](https://cdn.myanimelist.net/images/manga/1/180327.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

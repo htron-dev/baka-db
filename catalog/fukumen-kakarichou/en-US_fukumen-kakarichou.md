@@ -1,5 +1,7 @@
 # Fukumen Kakarichou
 
+![fukumen-kakarichou](https://cdn.myanimelist.net/images/manga/3/227642.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

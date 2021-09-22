@@ -1,5 +1,7 @@
 # Ookami Kodomo no Ame to Yuki
 
+![ookami-kodomo-no-ame-to-yuki](https://cdn.myanimelist.net/images/manga/3/165496.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

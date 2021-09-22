@@ -1,5 +1,7 @@
 # Angel/Dust Neo
 
+![angel-dust-neo](https://cdn.myanimelist.net/images/manga/3/179774.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

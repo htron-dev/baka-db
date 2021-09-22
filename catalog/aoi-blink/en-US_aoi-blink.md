@@ -1,5 +1,7 @@
 # Aoi Blink
 
+![aoi-blink](https://cdn.myanimelist.net/images/anime/11/50063.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 青いブリンク

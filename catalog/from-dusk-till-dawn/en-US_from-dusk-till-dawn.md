@@ -1,5 +1,7 @@
 # From Dusk till Dawn
 
+![from-dusk-till-dawn](https://cdn.myanimelist.net/images/manga/3/25311.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

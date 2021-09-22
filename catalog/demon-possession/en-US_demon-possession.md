@@ -1,5 +1,7 @@
 # Demon Possession
 
+![demon-possession](https://cdn.myanimelist.net/images/manga/1/121709.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Demon Possession -デモンポゼッション-

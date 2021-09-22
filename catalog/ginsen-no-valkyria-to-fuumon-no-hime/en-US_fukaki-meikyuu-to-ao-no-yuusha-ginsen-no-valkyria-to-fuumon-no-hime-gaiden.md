@@ -1,5 +1,7 @@
 # Fukaki Meikyuu to Ao no Yuusha: Ginsen no Valkyria to Fuumon no Hime Gaiden
 
+![fukaki-meikyuu-to-ao-no-yuusha-ginsen-no-valkyria-to-fuumon-no-hime-gaiden](https://cdn.myanimelist.net/images/manga/3/135261.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 深き迷宮と蒼の勇者 -銀閃の戦乙女〈ヴァルキュリア〉と封門の姫外伝

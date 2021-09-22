@@ -1,5 +1,7 @@
 # Oyakusoku no Neverland
 
+![oyakusoku-no-neverland](https://cdn.myanimelist.net/images/manga/2/226717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

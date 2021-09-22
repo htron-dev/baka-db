@@ -1,5 +1,7 @@
 # Let's Akuma Tech Kyoushitsu
 
+![lets-akuma-tech-kyoushitsu](https://cdn.myanimelist.net/images/manga/1/9911.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

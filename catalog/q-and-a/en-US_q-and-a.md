@@ -1,5 +1,7 @@
 # Q and A
 
+![q-and-a](https://cdn.myanimelist.net/images/manga/3/77789.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

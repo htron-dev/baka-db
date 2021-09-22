@@ -1,5 +1,7 @@
 # Growlanser V Generations Characters Comic Anthology
 
+![growlanser-v-generations-characters-comic-anthology](https://cdn.myanimelist.net/images/manga/1/23702.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: グローランサー 5Generations キャラクターズコミック

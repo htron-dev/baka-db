@@ -1,5 +1,7 @@
 # Tiger & Bunny: The Beginning
 
+![tiger-bunny-the-beginning](https://cdn.myanimelist.net/images/manga/3/110429.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Houkago☆Doumei
 
+![houkago☆-doumei](https://cdn.myanimelist.net/images/manga/3/205480.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後 ☆ 同盟
 -   **start-date**: 2016-09-27

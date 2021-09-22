@@ -1,5 +1,7 @@
 # Skip Beat!
 
+![skip-beat](https://cdn.myanimelist.net/images/anime/11/84022.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: スキップ・ビート！

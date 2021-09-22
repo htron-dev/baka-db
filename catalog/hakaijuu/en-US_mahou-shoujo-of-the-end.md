@@ -1,5 +1,7 @@
 # Mahou Shoujo of the End
 
+![mahou-shoujo-of-the-end](https://cdn.myanimelist.net/images/manga/1/156267.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 64

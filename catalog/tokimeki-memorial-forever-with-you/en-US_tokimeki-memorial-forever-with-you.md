@@ -1,5 +1,7 @@
 # Tokimeki Memorial: Forever With You
 
+![tokimeki-memorial-forever-with-you](https://cdn.myanimelist.net/images/anime/3/29906.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ときめきメモリアル 〜forever with you〜

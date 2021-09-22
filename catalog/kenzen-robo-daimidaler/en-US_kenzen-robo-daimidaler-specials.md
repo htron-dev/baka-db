@@ -1,5 +1,7 @@
 # Kenzen Robo Daimidaler Specials
 
+![kenzen-robo-daimidaler-specials](https://cdn.myanimelist.net/images/anime/2/62127.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 健全ミニ OVA

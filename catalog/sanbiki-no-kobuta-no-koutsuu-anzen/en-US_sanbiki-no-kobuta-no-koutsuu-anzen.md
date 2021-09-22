@@ -1,5 +1,7 @@
 # Sanbiki no Kobuta no Koutsuu Anzen
 
+![sanbiki-no-kobuta-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1649/98570.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 三びきの子ぶたの交通安全

@@ -1,5 +1,7 @@
 # Obatalian
 
+![obatalian](https://cdn.myanimelist.net/images/anime/7/68013.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: オバタリアン

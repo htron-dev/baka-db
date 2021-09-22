@@ -1,5 +1,7 @@
 # Watashi no...... Nigate na Joshi
 
+![watashi-no-nigate-na-joshi](https://cdn.myanimelist.net/images/manga/3/199507.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

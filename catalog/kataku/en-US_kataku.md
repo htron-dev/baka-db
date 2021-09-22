@@ -1,5 +1,7 @@
 # Kataku
 
+![kataku](https://cdn.myanimelist.net/images/anime/7/81216.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 火宅

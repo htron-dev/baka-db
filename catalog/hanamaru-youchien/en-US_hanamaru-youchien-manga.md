@@ -1,5 +1,7 @@
 # Hanamaru Youchien
 
+![hanamaru-youchien](https://cdn.myanimelist.net/images/manga/2/158884.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 102

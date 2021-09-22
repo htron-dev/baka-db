@@ -1,5 +1,7 @@
 # Kirisaki Syndrome
 
+![kirisaki-syndrome](https://cdn.myanimelist.net/images/manga/3/164573.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: キリサキシンドローム

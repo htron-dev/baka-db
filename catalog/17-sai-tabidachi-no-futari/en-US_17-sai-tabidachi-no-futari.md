@@ -1,5 +1,7 @@
 # 17-sai: Tabidachi no Futari
 
+![17-sai-tabidachi-no-futari](https://cdn.myanimelist.net/images/manga/3/36153.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 17 才旅立ちのふたり

@@ -1,5 +1,7 @@
 # World End Eclipse: Tenkyuu no Gunshi
 
+![world-end-eclipse-tenkyuu-no-gunshi](https://cdn.myanimelist.net/images/manga/1/178113.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ワールド エンド エクリプス 天穹の軍師

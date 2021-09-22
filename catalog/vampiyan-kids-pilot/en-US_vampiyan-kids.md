@@ -1,5 +1,7 @@
 # Vampiyan Kids
 
+![vampiyan-kids](https://cdn.myanimelist.net/images/anime/10/22088.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: バンパイヤン・キッズ

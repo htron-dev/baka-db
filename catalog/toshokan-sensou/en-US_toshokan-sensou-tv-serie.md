@@ -1,5 +1,7 @@
 # Toshokan Sensou
 
+![toshokan-sensou](https://cdn.myanimelist.net/images/anime/1287/114435.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 図書館戦争

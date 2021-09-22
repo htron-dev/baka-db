@@ -1,5 +1,7 @@
 # Kyou kara Maou! 3rd Series
 
+![kyou-kara-maou-3rd-series](https://cdn.myanimelist.net/images/anime/7/22639.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 今日からマ王！第 3 シリーズ

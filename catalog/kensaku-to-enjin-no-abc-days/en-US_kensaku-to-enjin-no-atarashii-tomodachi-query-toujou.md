@@ -1,5 +1,7 @@
 # Kensaku to Enjin no Atarashii Tomodachi: Query Toujou!
 
+![kensaku-to-enjin-no-atarashii-tomodachi-query-toujou](https://cdn.myanimelist.net/images/anime/1702/97014.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: けんさくとえんじんの新しいともだち クエリ登場！

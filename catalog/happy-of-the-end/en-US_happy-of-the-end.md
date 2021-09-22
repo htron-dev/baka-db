@@ -1,5 +1,7 @@
 # Happy of the End
 
+![happy-of-the-end](https://cdn.myanimelist.net/images/manga/1/246731.jpg)
+
 -   **type**: manga
 -   **original-name**: ハッピー・オブ・ジ・エンド
 -   **start-date**: 2020-01-24

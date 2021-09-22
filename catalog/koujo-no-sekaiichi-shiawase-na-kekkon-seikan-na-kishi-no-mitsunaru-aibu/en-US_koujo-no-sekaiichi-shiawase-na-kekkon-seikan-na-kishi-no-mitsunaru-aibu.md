@@ -1,5 +1,7 @@
 # Koujo no Sekaiichi Shiawase na Kekkon: Seikan na Kishi no Mitsunaru Aibu
 
+![koujo-no-sekaiichi-shiawase-na-kekkon-seikan-na-kishi-no-mitsunaru-aibu](https://cdn.myanimelist.net/images/manga/1/215532.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

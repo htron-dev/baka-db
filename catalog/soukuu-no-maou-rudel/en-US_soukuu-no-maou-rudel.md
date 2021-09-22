@@ -1,5 +1,7 @@
 # Soukuu no Maou Rudel
 
+![soukuu-no-maou-rudel](https://cdn.myanimelist.net/images/manga/1/198602.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

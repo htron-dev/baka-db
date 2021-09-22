@@ -1,5 +1,7 @@
 # Junjou Romantica 2
 
+![junjou-romantica-2](https://cdn.myanimelist.net/images/anime/6/38417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 純情ロマンチカ 2(に)

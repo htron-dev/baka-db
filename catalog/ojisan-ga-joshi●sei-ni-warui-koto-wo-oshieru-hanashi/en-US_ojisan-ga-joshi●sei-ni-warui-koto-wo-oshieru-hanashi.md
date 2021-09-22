@@ -1,5 +1,7 @@
 # Ojisan ga Joshi●sei ni Warui Koto wo Oshieru Hanashi
 
+![ojisan-ga-joshi●sei-ni-warui-koto-wo-oshieru-hanashi](https://cdn.myanimelist.net/images/manga/2/233941.jpg)
+
 -   **type**: manga
 -   **original-name**: おじさんが女子 ● 生に悪いことを教える話
 -   **start-date**: 2019-05-24

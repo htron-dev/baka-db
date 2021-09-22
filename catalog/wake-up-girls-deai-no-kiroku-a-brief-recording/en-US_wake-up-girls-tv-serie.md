@@ -1,5 +1,7 @@
 # Wake Up, Girls!
 
+![wake-up-girls](https://cdn.myanimelist.net/images/anime/5/58971.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Wake Up, Girls！

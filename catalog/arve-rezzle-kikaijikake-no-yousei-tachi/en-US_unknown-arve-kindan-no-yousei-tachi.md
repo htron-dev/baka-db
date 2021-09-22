@@ -1,5 +1,7 @@
 # Unknown Arve: Kindan no Yousei-tachi
 
+![unknown-arve-kindan-no-yousei-tachi](https://cdn.myanimelist.net/images/manga/1/142467.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

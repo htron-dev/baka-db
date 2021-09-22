@@ -1,5 +1,7 @@
 # Harukawa-san wa Kyou mo Ueteiru
 
+![harukawa-san-wa-kyou-mo-ueteiru](https://cdn.myanimelist.net/images/manga/2/246633.jpg)
+
 -   **type**: manga
 -   **original-name**: 春川さんは今日も飢えている
 -   **start-date**: 2017-09-25

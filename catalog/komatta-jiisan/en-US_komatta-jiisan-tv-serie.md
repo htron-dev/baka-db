@@ -1,5 +1,7 @@
 # Komatta Jiisan
 
+![komatta-jiisan](https://cdn.myanimelist.net/images/anime/1227/106465.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 困ったじいさん

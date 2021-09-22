@@ -1,5 +1,7 @@
 # Hoshi wo Ou Kodomo
 
+![hoshi-wo-ou-kodomo](https://cdn.myanimelist.net/images/anime/4/29684.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 星を追う子ども

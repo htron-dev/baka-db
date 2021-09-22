@@ -1,5 +1,7 @@
 # Hana to Rakurai
 
+![hana-to-rakurai](https://cdn.myanimelist.net/images/manga/4/88999.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

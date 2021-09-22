@@ -1,5 +1,7 @@
 # Bokura no Himitsu.
 
+![bokura-no-himitsu](https://cdn.myanimelist.net/images/manga/3/179101.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

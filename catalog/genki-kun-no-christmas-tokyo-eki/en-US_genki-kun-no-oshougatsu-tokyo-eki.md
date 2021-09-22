@@ -1,5 +1,7 @@
 # Genki-kun no Oshougatsu @ Tokyo-eki
 
+![genki-kun-no-oshougatsu-tokyo-eki](https://cdn.myanimelist.net/images/anime/3/88865.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 原器くんのお正月 @ 東京駅

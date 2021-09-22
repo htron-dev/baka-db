@@ -1,5 +1,7 @@
 # Sensei de, Sex no Renshuu shite Ii?
 
+![sensei-de-sex-no-renshuu-shite-ii](https://cdn.myanimelist.net/images/manga/1/238105.jpg)
+
 -   **type**: manga
 -   **original-name**: 先生で、セックスの練習していい?
 -   **start-date**: 2019-03-18

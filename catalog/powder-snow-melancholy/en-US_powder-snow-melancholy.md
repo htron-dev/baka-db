@@ -1,5 +1,7 @@
 # Powder Snow Melancholy
 
+![powder-snow-melancholy](https://cdn.myanimelist.net/images/manga/3/170955.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

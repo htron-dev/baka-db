@@ -1,5 +1,7 @@
 # Sacred Seven
 
+![sacred-seven](https://cdn.myanimelist.net/images/manga/1/44105.jpg)
+
 -   **type**: manga
 -   **original-name**: セイクリットセブン
 -   **start-date**: 2011-07-26

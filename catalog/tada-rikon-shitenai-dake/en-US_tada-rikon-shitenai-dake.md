@@ -1,5 +1,7 @@
 # Tada Rikon Shitenai dake
 
+![tada-rikon-shitenai-dake](https://cdn.myanimelist.net/images/manga/1/208597.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Eikoku Koi Monogatari Emma
 
+![eikoku-koi-monogatari-emma](https://cdn.myanimelist.net/images/anime/5/80117.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 英國戀物語エマ
@@ -33,4 +35,4 @@ But the polite society of 19th century England does not take kindly to the rejec
 -   [Official Site](http://www.emma-victorian.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2695)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4506)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Emma_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Emma_%28manga%29)

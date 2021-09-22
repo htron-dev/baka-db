@@ -1,5 +1,7 @@
 # Sengoku Basara Movie: 4-Koma Gekijou - Another Last Party
 
+![sengoku-basara-movie-4-koma-gekijou-another-last-party](https://cdn.myanimelist.net/images/anime/4/49863.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 劇場版 戦国 BASARA ４コマ劇場 -Another Last Party-

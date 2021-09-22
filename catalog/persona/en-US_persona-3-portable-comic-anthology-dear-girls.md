@@ -1,5 +1,7 @@
 # Persona 3 Portable Comic Anthology ~Dear Girl's~
 
+![persona-3-portable-comic-anthology-dear-girls](https://cdn.myanimelist.net/images/manga/2/33245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

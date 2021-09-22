@@ -1,5 +1,7 @@
 # Ougon no Ringo
 
+![ougon-no-ringo](https://cdn.myanimelist.net/images/manga/1/181207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

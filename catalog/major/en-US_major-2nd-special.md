@@ -1,5 +1,7 @@
 # Major 2nd
 
+![major-2nd](https://cdn.myanimelist.net/images/anime/11/77548.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: MAJOR2 　オリジナルアニメーション CM

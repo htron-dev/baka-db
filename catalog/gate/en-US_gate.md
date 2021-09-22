@@ -1,5 +1,7 @@
 # Gate
 
+![gate](https://cdn.myanimelist.net/images/manga/2/44063.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

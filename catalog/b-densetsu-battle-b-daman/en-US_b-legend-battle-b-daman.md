@@ -1,5 +1,7 @@
 # B-Legend! Battle B-Daman
 
+![b-legend-battle-b-daman](https://cdn.myanimelist.net/images/anime/13/21634.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: B-伝説(ビーレジェンド)! バトルビーダマン

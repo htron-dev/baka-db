@@ -1,5 +1,7 @@
 # Embalming: The Another Tale of Frankenstein
 
+![embalming-the-another-tale-of-frankenstein](https://cdn.myanimelist.net/images/manga/3/89677.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

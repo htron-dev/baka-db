@@ -1,5 +1,7 @@
 # Kimajime na Kishi Taichou no Bukiyou na Proposal
 
+![kimajime-na-kishi-taichou-no-bukiyou-na-proposal](https://cdn.myanimelist.net/images/manga/2/217952.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: きまじめな騎士隊長の不器用な求婚

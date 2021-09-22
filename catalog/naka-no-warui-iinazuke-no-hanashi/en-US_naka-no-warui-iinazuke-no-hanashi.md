@@ -1,5 +1,7 @@
 # Naka no Warui Iinazuke no Hanashi
 
+![naka-no-warui-iinazuke-no-hanashi](https://cdn.myanimelist.net/images/manga/2/234261.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 45

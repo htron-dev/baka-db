@@ -1,5 +1,7 @@
 # Osananajimi Joushi ni Fall in Love
 
+![osananajimi-joushi-ni-fall-in-love](https://cdn.myanimelist.net/images/manga/2/246411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

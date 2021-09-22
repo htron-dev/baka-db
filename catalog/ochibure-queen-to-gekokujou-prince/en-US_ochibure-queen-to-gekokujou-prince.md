@@ -1,5 +1,7 @@
 # Ochibure Queen to Gekokujou Prince
 
+![ochibure-queen-to-gekokujou-prince](https://cdn.myanimelist.net/images/manga/1/243922.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

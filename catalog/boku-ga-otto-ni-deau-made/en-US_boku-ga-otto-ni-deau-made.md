@@ -1,5 +1,7 @@
 # Boku ga Otto ni Deau made
 
+![boku-ga-otto-ni-deau-made](https://cdn.myanimelist.net/images/manga/1/243238.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕が夫に出会うまで
 -   **start-date**: 2020-04-29

@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou: Kayou Cinderella Theater 4th Season
 
+![cinderella-girls-gekijou-kayou-cinderella-theater-4th-season](https://cdn.myanimelist.net/images/anime/1277/100399.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: シンデレラガールズ劇場 火曜シンデレラシアター 第 4 期

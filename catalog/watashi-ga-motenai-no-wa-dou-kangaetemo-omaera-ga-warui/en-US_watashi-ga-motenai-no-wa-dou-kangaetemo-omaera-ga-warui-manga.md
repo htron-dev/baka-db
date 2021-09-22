@@ -1,5 +1,7 @@
 # Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
 
+![watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui](https://cdn.myanimelist.net/images/manga/5/63521.jpg)
+
 -   **type**: manga
 -   **original-name**: 私がモテないのはどう考えてもお前らが悪い!
 -   **start-date**: 2011-08-04

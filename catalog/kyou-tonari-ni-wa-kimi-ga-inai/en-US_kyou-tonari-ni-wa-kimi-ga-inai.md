@@ -1,5 +1,7 @@
 # Kyou, Tonari ni wa Kimi ga Inai.
 
+![kyou-tonari-ni-wa-kimi-ga-inai](https://cdn.myanimelist.net/images/manga/2/160755.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Sexy Tenshi Yellow Cab
 
+![sexy-tenshi-yellow-cab](https://cdn.myanimelist.net/images/manga/3/36819.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: セクシー天使イエローキャブ

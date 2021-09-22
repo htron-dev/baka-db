@@ -1,5 +1,7 @@
 # Hitokuchi, Futakuchi,
 
+![hitokuchi-futakuchi](https://cdn.myanimelist.net/images/manga/1/208173.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

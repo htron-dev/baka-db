@@ -1,5 +1,7 @@
 # Detective Conan: Happy New Year Special
 
+![detective-conan-happy-new-year-special](https://cdn.myanimelist.net/images/anime/4/82692.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 特別編 「謹賀新年 毛利小五郎」

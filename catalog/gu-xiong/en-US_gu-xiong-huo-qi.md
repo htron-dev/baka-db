@@ -1,5 +1,7 @@
 # Gu Xiong: Huo Qi
 
+![gu-xiong-huo-qi](https://cdn.myanimelist.net/images/anime/1589/108484.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 孤雄 祸起

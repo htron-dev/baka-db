@@ -1,5 +1,7 @@
 # Marry Grave
 
+![marry-grave](https://cdn.myanimelist.net/images/manga/1/209180.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 52

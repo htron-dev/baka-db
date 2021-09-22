@@ -1,5 +1,7 @@
 # Albox: Towa wo Kaetara
 
+![albox-towa-wo-kaetara](https://cdn.myanimelist.net/images/manga/1/84353.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

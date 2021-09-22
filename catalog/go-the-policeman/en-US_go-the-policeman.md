@@ -1,5 +1,7 @@
 # Go! The Policeman
 
+![go-the-policeman](https://cdn.myanimelist.net/images/manga/3/18241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

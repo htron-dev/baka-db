@@ -1,5 +1,7 @@
 # Sora no Mannaka
 
+![sora-no-mannaka](https://cdn.myanimelist.net/images/manga/2/23352.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

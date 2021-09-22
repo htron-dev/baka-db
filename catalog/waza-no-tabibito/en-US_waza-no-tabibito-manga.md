@@ -1,5 +1,7 @@
 # Waza no Tabibito
 
+![waza-no-tabibito](https://cdn.myanimelist.net/images/manga/2/82724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

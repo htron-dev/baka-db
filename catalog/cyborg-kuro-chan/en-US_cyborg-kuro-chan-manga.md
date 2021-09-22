@@ -1,5 +1,7 @@
 # Cyborg Kuro-chan
 
+![cyborg-kuro-chan](https://cdn.myanimelist.net/images/manga/2/133049.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 56

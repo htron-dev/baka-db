@@ -1,5 +1,7 @@
 # Tenjiku Neppuuroku
 
+![tenjiku-neppuuroku](https://cdn.myanimelist.net/images/manga/1/196377.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

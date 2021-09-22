@@ -1,5 +1,7 @@
 # Oni to Hebi
 
+![oni-to-hebi](https://cdn.myanimelist.net/images/manga/3/248494.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

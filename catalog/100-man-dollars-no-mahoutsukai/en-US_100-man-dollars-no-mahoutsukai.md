@@ -1,5 +1,7 @@
 # 100-man Dollars no Mahoutsukai
 
+![100-man-dollars-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/1/169872.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 100 万ドルの魔法使い

@@ -1,5 +1,7 @@
 # Futaribeya
 
+![futaribeya](https://cdn.myanimelist.net/images/manga/1/154836.jpg)
+
 -   **type**: manga
 -   **original-name**: ふたりべや
 -   **start-date**: 2014-07-30

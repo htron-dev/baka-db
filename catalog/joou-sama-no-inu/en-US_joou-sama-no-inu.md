@@ -1,5 +1,7 @@
 # Joou-sama no Inu
 
+![joou-sama-no-inu](https://cdn.myanimelist.net/images/manga/3/129849.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 46

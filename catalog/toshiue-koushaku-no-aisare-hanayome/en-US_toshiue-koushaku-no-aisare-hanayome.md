@@ -1,5 +1,7 @@
 # Toshiue Koushaku no Aisare Hanayome
 
+![toshiue-koushaku-no-aisare-hanayome](https://cdn.myanimelist.net/images/manga/2/192592.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

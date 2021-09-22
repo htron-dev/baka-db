@@ -1,5 +1,7 @@
 # Dīsupo Faitazu
 
+![disupo-faitazu](https://cdn.myanimelist.net/images/manga/3/248581.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

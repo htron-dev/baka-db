@@ -1,5 +1,7 @@
 # Cheating Craft
 
+![cheating-craft](https://cdn.myanimelist.net/images/anime/9/81891.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: チーティングクラフト

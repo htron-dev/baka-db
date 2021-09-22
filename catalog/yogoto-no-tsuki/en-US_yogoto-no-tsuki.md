@@ -1,5 +1,7 @@
 # Yogoto no Tsuki
 
+![yogoto-no-tsuki](https://cdn.myanimelist.net/images/manga/2/2691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 夜ごとの月

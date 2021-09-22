@@ -1,5 +1,7 @@
 # Haitoku no Persona: Onzoushi wa Kogareru hodo Otome wo Aisu
 
+![haitoku-no-persona-onzoushi-wa-kogareru-hodo-otome-wo-aisu](https://cdn.myanimelist.net/images/manga/3/194364.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

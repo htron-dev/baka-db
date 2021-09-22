@@ -1,5 +1,7 @@
 # Poison Cherry Drive
 
+![poison-cherry-drive](https://cdn.myanimelist.net/images/manga/1/2969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

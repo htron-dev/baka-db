@@ -1,5 +1,7 @@
 # Elf 17
 
+![elf-17](https://cdn.myanimelist.net/images/manga/4/150926.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 43

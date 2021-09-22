@@ -1,5 +1,7 @@
 # Ni no Maeshii no Tsukaikata
 
+![ni-no-maeshii-no-tsukaikata](https://cdn.myanimelist.net/images/manga/3/71735.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Mind Game
 
+![mind-game](https://cdn.myanimelist.net/images/manga/2/197789.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

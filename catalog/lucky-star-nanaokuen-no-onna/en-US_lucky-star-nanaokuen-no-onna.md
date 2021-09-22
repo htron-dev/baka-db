@@ -1,5 +1,7 @@
 # Lucky Star: Nanaokuen no Onna
 
+![lucky-star-nanaokuen-no-onna](https://cdn.myanimelist.net/images/manga/2/200556.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ラッキースター～七億円の女～

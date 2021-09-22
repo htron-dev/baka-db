@@ -1,5 +1,7 @@
 # Genesis Climber Mospeada: Love, Live, Alive
 
+![genesis-climber-mospeada-love-live-alive](https://cdn.myanimelist.net/images/anime/10/6391.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 機甲創世記モスピーダ Love, Live, Alive

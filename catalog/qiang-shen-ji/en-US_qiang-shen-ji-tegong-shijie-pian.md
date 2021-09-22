@@ -1,5 +1,7 @@
 # Qiang Shen Ji: Tegong Shijie Pian
 
+![qiang-shen-ji-tegong-shijie-pian](https://cdn.myanimelist.net/images/anime/1624/108204.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 枪神记 特工世界篇

@@ -1,5 +1,7 @@
 # Mayakashi no Messiah
 
+![mayakashi-no-messiah](https://cdn.myanimelist.net/images/manga/3/169831.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 贋〈まやかし〉のメサイア
 -   **start-date**: 2016-01-15

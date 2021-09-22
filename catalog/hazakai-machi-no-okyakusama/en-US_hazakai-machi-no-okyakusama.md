@@ -1,5 +1,7 @@
 # Hazakai-machi no Okyakusama
 
+![hazakai-machi-no-okyakusama](https://cdn.myanimelist.net/images/manga/3/202765.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

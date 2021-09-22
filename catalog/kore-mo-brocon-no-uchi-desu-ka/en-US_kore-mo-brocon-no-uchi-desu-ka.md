@@ -1,5 +1,7 @@
 # Kore mo Brocon no Uchi desu ka?
 
+![kore-mo-brocon-no-uchi-desu-ka](https://cdn.myanimelist.net/images/manga/3/241245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

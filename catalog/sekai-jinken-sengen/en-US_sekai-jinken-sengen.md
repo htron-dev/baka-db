@@ -1,5 +1,7 @@
 # Sekai Jinken Sengen
 
+![sekai-jinken-sengen](https://cdn.myanimelist.net/images/anime/3/84549.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 世界人権宣言

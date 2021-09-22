@@ -1,5 +1,7 @@
 # PriPara Movie: Mi~nna no Akogare♪ Let's Go☆Prix Paris
 
+![pri-para-movie-mi-nna-no-akogare♪-lets-go☆-prix-paris](https://cdn.myanimelist.net/images/anime/2/77624.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 プリパラ み～んなのあこがれ ♪ レッツゴー ☆ プリパリ

@@ -1,5 +1,7 @@
 # Watashi wa Succubus to Kiss wo Shita
 
+![watashi-wa-succubus-to-kiss-wo-shita](https://cdn.myanimelist.net/images/manga/3/243977.jpg)
+
 -   **type**: manga
 -   **original-name**: わたしはサキュバスとキスをした
 -   **start-date**: 2020-08-27

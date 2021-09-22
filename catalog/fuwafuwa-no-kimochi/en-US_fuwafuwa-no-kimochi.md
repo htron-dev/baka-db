@@ -1,5 +1,7 @@
 # Fuwafuwa no Kimochi
 
+![fuwafuwa-no-kimochi](https://cdn.myanimelist.net/images/manga/3/141511.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

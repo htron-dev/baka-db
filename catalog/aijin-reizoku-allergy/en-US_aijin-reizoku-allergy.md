@@ -1,5 +1,7 @@
 # Aijin Reizoku Allergy
 
+![aijin-reizoku-allergy](https://cdn.myanimelist.net/images/manga/2/71509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

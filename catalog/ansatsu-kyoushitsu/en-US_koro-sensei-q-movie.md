@@ -1,5 +1,7 @@
 # Koro-sensei Q!
 
+![koro-sensei-q](https://cdn.myanimelist.net/images/anime/4/80626.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 殺せんせー Q!

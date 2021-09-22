@@ -1,5 +1,7 @@
 # A Story of Heroes
 
+![a-story-of-heroes](https://cdn.myanimelist.net/images/manga/1/205786.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 37
 -   **original-name**: 江湖覇道記 [강호패도기]

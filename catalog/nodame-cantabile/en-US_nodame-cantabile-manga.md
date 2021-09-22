@@ -1,5 +1,7 @@
 # Nodame Cantabile
 
+![nodame-cantabile](https://cdn.myanimelist.net/images/manga/2/153962.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 150

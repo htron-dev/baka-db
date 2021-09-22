@@ -1,5 +1,7 @@
 # Maku Musubi
 
+![maku-musubi](https://cdn.myanimelist.net/images/manga/1/225679.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

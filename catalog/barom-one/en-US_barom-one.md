@@ -1,5 +1,7 @@
 # Barom One
 
+![barom-one](https://cdn.myanimelist.net/images/anime/1/1667.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: バロムワン

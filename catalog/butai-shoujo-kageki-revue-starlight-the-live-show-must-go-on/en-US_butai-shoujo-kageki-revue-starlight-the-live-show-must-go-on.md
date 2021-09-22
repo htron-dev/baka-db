@@ -1,5 +1,7 @@
 # Butai Shoujo☆Kageki Revue Starlight: The Live - Show Must Go On
 
+![butai-shoujo☆-kageki-revue-starlight-the-live-show-must-go-on](https://cdn.myanimelist.net/images/manga/2/222046.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

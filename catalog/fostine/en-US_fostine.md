@@ -1,5 +1,7 @@
 # Fostine
 
+![fostine](https://cdn.myanimelist.net/images/manga/2/21058.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: フォスティーヌ

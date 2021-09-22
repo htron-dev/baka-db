@@ -1,5 +1,7 @@
 # Hamelin no Violin Hiki
 
+![hamelin-no-violin-hiki](https://cdn.myanimelist.net/images/anime/7/20972.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ハーメルンのバイオリン弾き

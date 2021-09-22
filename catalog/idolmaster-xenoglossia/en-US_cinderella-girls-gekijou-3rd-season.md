@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou 3rd Season
 
+![cinderella-girls-gekijou-3rd-season](https://cdn.myanimelist.net/images/anime/1618/90871.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シンデレラガールズ劇場 第 3 期

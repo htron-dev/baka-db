@@ -1,5 +1,7 @@
 # Ouma ga Toki no Karasu Otoko
 
+![ouma-ga-toki-no-karasu-otoko](https://cdn.myanimelist.net/images/manga/2/20014.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

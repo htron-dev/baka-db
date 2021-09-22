@@ -1,5 +1,7 @@
 # Josou Shounen Anthology
 
+![josou-shounen-anthology](https://cdn.myanimelist.net/images/manga/2/96043.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

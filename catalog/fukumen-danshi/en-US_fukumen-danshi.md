@@ -1,5 +1,7 @@
 # Fukumen Danshi
 
+![fukumen-danshi](https://cdn.myanimelist.net/images/manga/3/177459.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

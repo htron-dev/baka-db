@@ -1,5 +1,7 @@
 # Ouji-sama no Neko
 
+![ouji-sama-no-neko](https://cdn.myanimelist.net/images/manga/3/185686.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 王子様の猫

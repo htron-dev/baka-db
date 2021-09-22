@@ -1,5 +1,7 @@
 # Citrus: Comic Anthology
 
+![citrus-comic-anthology](https://cdn.myanimelist.net/images/manga/1/222948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

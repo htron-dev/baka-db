@@ -1,5 +1,7 @@
 # Maou no Migiude ni Natta node Gensaku Kaiakushimasu
 
+![maou-no-migiude-ni-natta-node-gensaku-kaiakushimasu](https://cdn.myanimelist.net/images/manga/3/241551.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

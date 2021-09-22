@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary
 
+![code-geass-hangyaku-no-lelouch-picture-drama-kiseki-no-anniversary](https://cdn.myanimelist.net/images/anime/1633/102839.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ キセキのアニバーサリー

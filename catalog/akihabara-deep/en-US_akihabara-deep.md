@@ -1,5 +1,7 @@
 # Akihabara@DEEP
 
+![akihabara-deep](https://cdn.myanimelist.net/images/manga/4/76323.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 61

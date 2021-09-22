@@ -1,5 +1,7 @@
 # Sansan Roku
 
+![sansan-roku](https://cdn.myanimelist.net/images/manga/2/31181.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

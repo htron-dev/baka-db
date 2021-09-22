@@ -1,5 +1,7 @@
 # Katsugeki/Touken Ranbu Movie
 
+![katsugeki-touken-ranbu-movie](https://cdn.myanimelist.net/images/anime/4/87874.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 活撃/刀剣乱舞

@@ -1,5 +1,7 @@
 # Odoriko Clinoppe
 
+![odoriko-clinoppe](https://cdn.myanimelist.net/images/anime/7/49447.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 踊り子クリノッペ

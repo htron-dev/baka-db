@@ -1,5 +1,7 @@
 # Daisan Ouji wa Hakkoubutsu ni Tsuki, Chokushi Chuui!
 
+![daisan-ouji-wa-hakkoubutsu-ni-tsuki-chokushi-chuui](https://cdn.myanimelist.net/images/manga/3/234852.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: 第三王子は発光ブツにつき、直視注意！

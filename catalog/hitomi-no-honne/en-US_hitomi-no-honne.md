@@ -1,5 +1,7 @@
 # Hitomi no Honne
 
+![hitomi-no-honne](https://cdn.myanimelist.net/images/manga/1/2809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

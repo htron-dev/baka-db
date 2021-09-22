@@ -1,5 +1,7 @@
 # Double Section
 
+![double-section](https://cdn.myanimelist.net/images/manga/2/222267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

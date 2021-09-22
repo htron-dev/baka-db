@@ -1,5 +1,7 @@
 # Futari no Tame ni Sekai wa Aru no.
 
+![futari-no-tame-ni-sekai-wa-aru-no](https://cdn.myanimelist.net/images/manga/2/161125.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

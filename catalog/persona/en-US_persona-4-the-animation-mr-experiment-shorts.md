@@ -1,5 +1,7 @@
 # Persona 4 the Animation: Mr. Experiment Shorts
 
+![persona-4-the-animation-mr-experiment-shorts](https://cdn.myanimelist.net/images/anime/7/64957.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: ミスターじっけん

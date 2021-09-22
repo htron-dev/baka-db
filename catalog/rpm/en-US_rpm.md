@@ -1,5 +1,7 @@
 # RPM
 
+![rpm](https://cdn.myanimelist.net/images/manga/3/237694.jpg)
+
 -   **type**: manga
 -   **chapters**: 31
 -   **original-name**: RPM

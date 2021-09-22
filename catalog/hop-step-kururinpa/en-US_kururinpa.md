@@ -1,5 +1,7 @@
 # Kururinpa!
 
+![kururinpa](https://cdn.myanimelist.net/images/manga/1/16090.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: くるりんぱっ!

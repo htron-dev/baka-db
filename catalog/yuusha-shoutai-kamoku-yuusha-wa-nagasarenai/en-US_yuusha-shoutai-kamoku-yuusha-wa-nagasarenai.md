@@ -1,5 +1,7 @@
 # Yuusha Shoutai: Kamoku Yuusha wa Nagasarenai
 
+![yuusha-shoutai-kamoku-yuusha-wa-nagasarenai](https://cdn.myanimelist.net/images/manga/1/248894.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者小隊 寡黙勇者は流されない
 -   **start-date**: 2021-04-18

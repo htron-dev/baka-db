@@ -1,5 +1,7 @@
 # Fushigi no Kuni no Bird
 
+![fushigi-no-kuni-no-bird](https://cdn.myanimelist.net/images/manga/3/157913.jpg)
+
 -   **type**: manga
 -   **original-name**: ふしぎの国のバード
 -   **start-date**: 2013-03-15

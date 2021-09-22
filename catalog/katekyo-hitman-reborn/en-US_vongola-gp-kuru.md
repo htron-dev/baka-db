@@ -1,5 +1,7 @@
 # Vongola GP Kuru
 
+![vongola-gp-kuru](https://cdn.myanimelist.net/images/manga/3/38029.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ボンゴレ GP 来る!

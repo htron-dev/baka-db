@@ -1,5 +1,7 @@
 # Melty Lancer
 
+![melty-lancer](https://cdn.myanimelist.net/images/anime/5/20564.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: メルティランサー

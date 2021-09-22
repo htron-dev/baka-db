@@ -1,5 +1,7 @@
 # Kirino-kun ni wa Kanojo ga Inai!?
 
+![kirino-kun-ni-wa-kanojo-ga-inai](https://cdn.myanimelist.net/images/manga/2/163984.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

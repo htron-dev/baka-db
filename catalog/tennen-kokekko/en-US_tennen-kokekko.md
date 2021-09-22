@@ -1,5 +1,7 @@
 # Tennen Kokekko
 
+![tennen-kokekko](https://cdn.myanimelist.net/images/manga/1/105083.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 70

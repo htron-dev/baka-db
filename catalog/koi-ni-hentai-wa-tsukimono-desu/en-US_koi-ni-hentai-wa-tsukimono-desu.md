@@ -1,5 +1,7 @@
 # Koi ni Hentai wa Tsukimono desu.
 
+![koi-ni-hentai-wa-tsukimono-desu](https://cdn.myanimelist.net/images/manga/1/241786.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Kuroisha no Dessert
 
+![kuroisha-no-dessert](https://cdn.myanimelist.net/images/manga/2/226901.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

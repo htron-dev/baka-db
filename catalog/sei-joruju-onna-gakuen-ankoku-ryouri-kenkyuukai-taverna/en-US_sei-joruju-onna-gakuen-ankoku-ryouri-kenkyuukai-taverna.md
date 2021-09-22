@@ -1,5 +1,7 @@
 # Sei Joruju Onna Gakuen Ankoku Ryouri Kenkyuukai Taverna
 
+![sei-joruju-onna-gakuen-ankoku-ryouri-kenkyuukai-taverna](https://cdn.myanimelist.net/images/manga/2/80547.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖ジョルジュ女学園暗黒料理研究会タベルナ
 -   **start-date**: 2010-05-28

@@ -1,5 +1,7 @@
 # Dorothy wa Gokigennaname?
 
+![dorothy-wa-gokigennaname](https://cdn.myanimelist.net/images/manga/1/168565.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

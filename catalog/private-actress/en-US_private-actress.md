@@ -1,5 +1,7 @@
 # Private Actress
 
+![private-actress](https://cdn.myanimelist.net/images/manga/3/150860.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

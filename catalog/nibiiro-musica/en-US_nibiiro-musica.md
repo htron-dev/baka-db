@@ -1,5 +1,7 @@
 # Nibiiro Musica
 
+![nibiiro-musica](https://cdn.myanimelist.net/images/manga/3/150568.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

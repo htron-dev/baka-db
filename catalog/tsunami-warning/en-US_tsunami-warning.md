@@ -1,5 +1,7 @@
 # Tsunami Warning
 
+![tsunami-warning](https://cdn.myanimelist.net/images/manga/3/10312.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: つなみ注意報

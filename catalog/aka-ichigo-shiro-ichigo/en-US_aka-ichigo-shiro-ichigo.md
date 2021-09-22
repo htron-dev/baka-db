@@ -1,5 +1,7 @@
 # Aka Ichigo, Shiro Ichigo
 
+![aka-ichigo-shiro-ichigo](https://cdn.myanimelist.net/images/manga/3/29834.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アカイチゴシロイチゴ

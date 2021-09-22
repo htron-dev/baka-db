@@ -1,5 +1,7 @@
 # Tsugumomo
 
+![tsugumomo](https://cdn.myanimelist.net/images/manga/1/187764.jpg)
+
 -   **type**: manga
 -   **original-name**: つぐもも
 -   **start-date**: 2007-11-20

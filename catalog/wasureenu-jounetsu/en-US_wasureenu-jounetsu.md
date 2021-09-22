@@ -1,5 +1,7 @@
 # Wasureenu Jounetsu
 
+![wasureenu-jounetsu](https://cdn.myanimelist.net/images/manga/2/229060.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 忘れえぬ情熱

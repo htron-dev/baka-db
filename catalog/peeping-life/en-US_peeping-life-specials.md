@@ -1,5 +1,7 @@
 # Peeping Life Specials
 
+![peeping-life-specials](https://cdn.myanimelist.net/images/anime/13/45819.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ピーピング・ライフ

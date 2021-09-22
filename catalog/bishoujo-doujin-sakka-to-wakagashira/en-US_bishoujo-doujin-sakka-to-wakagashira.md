@@ -1,5 +1,7 @@
 # Bishoujo Doujin Sakka to Wakagashira
 
+![bishoujo-doujin-sakka-to-wakagashira](https://cdn.myanimelist.net/images/manga/2/203264.jpg)
+
 -   **type**: manga
 -   **original-name**: 美少女同人作家と若頭
 -   **start-date**: 2017-06-29

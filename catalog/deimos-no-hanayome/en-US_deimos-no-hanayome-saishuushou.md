@@ -1,5 +1,7 @@
 # Deimos no Hanayome: Saishuushou
 
+![deimos-no-hanayome-saishuushou](https://cdn.myanimelist.net/images/manga/3/60603.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪魔の花嫁 最終章
 -   **start-date**: 2007-05-07

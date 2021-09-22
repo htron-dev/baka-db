@@ -1,5 +1,7 @@
 # Granblue Fantasy
 
+![granblue-fantasy](https://cdn.myanimelist.net/images/anime/7/83025.jpg)
+
 -   **type**: ona
 -   **original-name**: グランブルーファンタジー
 -   **start-date**: 2013-11-08

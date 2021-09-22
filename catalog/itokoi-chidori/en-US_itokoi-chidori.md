@@ -1,5 +1,7 @@
 # Itokoi Chidori
 
+![itokoi-chidori](https://cdn.myanimelist.net/images/manga/3/60155.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

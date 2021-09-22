@@ -1,5 +1,7 @@
 # Otoko no Ichimai: Red Card
 
+![otoko-no-ichimai-red-card](https://cdn.myanimelist.net/images/manga/1/235482.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

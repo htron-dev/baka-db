@@ -1,5 +1,7 @@
 # Kuroko no Basket: Oshaberi Shiyokka
 
+![kuroko-no-basket-oshaberi-shiyokka](https://cdn.myanimelist.net/images/anime/11/46071.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒子のバスケ お喋りしよっか

@@ -1,5 +1,7 @@
 # Ten Count
 
+![ten-count](https://cdn.myanimelist.net/images/anime/1464/99977.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: テンカウント
 -   **rating**: None

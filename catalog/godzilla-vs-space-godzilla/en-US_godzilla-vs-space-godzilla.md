@@ -1,5 +1,7 @@
 # Godzilla vs. Space Godzilla
 
+![godzilla-vs-space-godzilla](https://cdn.myanimelist.net/images/manga/3/86297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ゴジラ vs スペースゴジラ

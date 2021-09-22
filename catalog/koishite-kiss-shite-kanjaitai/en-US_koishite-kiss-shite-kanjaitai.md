@@ -1,5 +1,7 @@
 # Koishite Kiss shite Kanjaitai
 
+![koishite-kiss-shite-kanjaitai](https://cdn.myanimelist.net/images/manga/3/245712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

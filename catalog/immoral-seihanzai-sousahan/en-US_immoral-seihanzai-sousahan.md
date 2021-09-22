@@ -1,5 +1,7 @@
 # Immoral: Seihanzai Sousahan
 
+![immoral-seihanzai-sousahan](https://cdn.myanimelist.net/images/manga/1/181614.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

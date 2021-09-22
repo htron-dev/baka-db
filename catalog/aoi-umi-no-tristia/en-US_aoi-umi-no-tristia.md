@@ -1,5 +1,7 @@
 # Aoi Umi no Tristia
 
+![aoi-umi-no-tristia](https://cdn.myanimelist.net/images/anime/2/18760.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 蒼い海のトリスティア

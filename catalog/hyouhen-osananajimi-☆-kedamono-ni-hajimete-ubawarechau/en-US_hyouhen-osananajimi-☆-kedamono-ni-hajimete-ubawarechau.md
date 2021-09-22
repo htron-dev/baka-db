@@ -1,5 +1,7 @@
 # Hyouhen Osananajimi ☆ Kedamono ni Hajimete Ubawarechau!?
 
+![hyouhen-osananajimi-☆-kedamono-ni-hajimete-ubawarechau](https://cdn.myanimelist.net/images/manga/2/243735.jpg)
+
 -   **type**: manga
 -   **original-name**: 豹変おさななじみ ☆ ケダモノにハジメテ奪われちゃう!?
 -   **start-date**: 2016-07-08

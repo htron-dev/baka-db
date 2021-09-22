@@ -1,5 +1,7 @@
 # Meirenyu: Haidao Laixi
 
+![meirenyu-haidao-laixi](https://cdn.myanimelist.net/images/anime/1160/115613.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 美人鱼之海盗来袭
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Kedama no Gonjirou
 
+![kedama-no-gonjirou](https://cdn.myanimelist.net/images/manga/3/233601.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   supernatural
 
 ## Authors

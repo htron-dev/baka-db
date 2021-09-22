@@ -1,5 +1,7 @@
 # Oinari JK Tamamo-chan!
 
+![oinari-jk-tamamo-chan](https://cdn.myanimelist.net/images/manga/1/205422.jpg)
+
 -   **type**: manga
 -   **original-name**: お稲荷 JK たまもちゃん！
 -   **start-date**: 2017-01-27

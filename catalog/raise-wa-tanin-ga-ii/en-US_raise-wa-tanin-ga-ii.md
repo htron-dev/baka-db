@@ -1,5 +1,7 @@
 # Raise wa Tanin ga Ii
 
+![raise-wa-tanin-ga-ii](https://cdn.myanimelist.net/images/manga/2/203176.jpg)
+
 -   **type**: manga
 -   **original-name**: 来世は他人がいい
 -   **start-date**: 2017-08-25

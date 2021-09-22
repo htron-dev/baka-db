@@ -1,5 +1,7 @@
 # Obaachan to Game
 
+![obaachan-to-game](https://cdn.myanimelist.net/images/manga/3/201804.jpg)
+
 -   **type**: manga
 -   **original-name**: おばあちゃんとゲーム
 -   **start-date**: 2015-12-25

@@ -1,5 +1,7 @@
 # Seigi Keikan Monju
 
+![seigi-keikan-monju](https://cdn.myanimelist.net/images/manga/1/194907.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 81

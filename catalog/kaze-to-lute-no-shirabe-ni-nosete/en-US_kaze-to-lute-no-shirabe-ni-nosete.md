@@ -1,5 +1,7 @@
 # Kaze to Lute no Shirabe ni Nosete
 
+![kaze-to-lute-no-shirabe-ni-nosete](https://cdn.myanimelist.net/images/manga/3/149623.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 風とリュートの調べにのせて

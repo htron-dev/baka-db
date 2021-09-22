@@ -1,5 +1,7 @@
 # Shimajirou to Tanjoubi no Ohoshi-sama
 
+![shimajirou-to-tanjoubi-no-ohoshi-sama](https://cdn.myanimelist.net/images/anime/10/88888.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: しまじろうとおたんじょうびのおほしさま
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   space
 
 ## Sinopse

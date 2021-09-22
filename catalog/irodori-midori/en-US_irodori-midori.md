@@ -1,5 +1,7 @@
 # Irodori Midori
 
+![irodori-midori](https://cdn.myanimelist.net/images/manga/1/14619.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

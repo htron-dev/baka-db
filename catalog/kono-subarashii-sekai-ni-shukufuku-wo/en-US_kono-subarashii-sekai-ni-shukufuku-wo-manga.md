@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Shukufuku wo!
 
+![kono-subarashii-sekai-ni-shukufuku-wo](https://cdn.myanimelist.net/images/manga/1/154542.jpg)
+
 -   **type**: manga
 -   **original-name**: この素晴らしい世界に祝福を！
 -   **start-date**: 2014-09-09

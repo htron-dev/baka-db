@@ -1,5 +1,7 @@
 # Umi wo Miagete
 
+![umi-wo-miagete](https://cdn.myanimelist.net/images/manga/3/164644.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 海をみあげて

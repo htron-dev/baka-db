@@ -1,5 +1,7 @@
 # Mingwang Huan Shi Lu
 
+![mingwang-huan-shi-lu](https://cdn.myanimelist.net/images/anime/1353/114702.jpg)
+
 -   **type**: ona
 -   **original-name**: 明王幻世录
 -   **rating**: None

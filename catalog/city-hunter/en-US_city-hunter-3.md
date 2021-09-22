@@ -1,5 +1,7 @@
 # City Hunter 3
 
+![city-hunter-3](https://cdn.myanimelist.net/images/anime/1147/94393.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シティーハンター 3

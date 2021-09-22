@@ -1,5 +1,7 @@
 # Renai Kaidan Sayoko-san
 
+![renai-kaidan-sayoko-san](https://cdn.myanimelist.net/images/manga/2/152741.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 54

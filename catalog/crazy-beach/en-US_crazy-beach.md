@@ -1,5 +1,7 @@
 # Crazy Beach~
 
+![crazy-beach](https://cdn.myanimelist.net/images/manga/1/6637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Netsuzou TRap
 
+![netsuzou-t-rap](https://cdn.myanimelist.net/images/manga/1/158981.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

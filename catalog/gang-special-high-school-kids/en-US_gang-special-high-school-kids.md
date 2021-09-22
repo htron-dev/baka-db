@@ -1,5 +1,7 @@
 # Gang Special High School Kids
 
+![gang-special-high-school-kids](https://cdn.myanimelist.net/images/manga/2/32201.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 강특고 아이들

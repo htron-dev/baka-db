@@ -1,5 +1,7 @@
 # Anata ja Nai to
 
+![anata-ja-nai-to](https://cdn.myanimelist.net/images/manga/2/4549.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

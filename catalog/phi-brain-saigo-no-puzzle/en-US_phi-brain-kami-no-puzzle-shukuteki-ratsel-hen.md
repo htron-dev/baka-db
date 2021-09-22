@@ -1,5 +1,7 @@
 # Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen
 
+![phi-brain-kami-no-puzzle-shukuteki-ratsel-hen](https://cdn.myanimelist.net/images/anime/12/54099.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ファイ・ブレイン 〜神のパズル 宿敵！レイツェル編

@@ -1,5 +1,7 @@
 # Kaichou to Fukukaichou
 
+![kaichou-to-fukukaichou](https://cdn.myanimelist.net/images/manga/2/65373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

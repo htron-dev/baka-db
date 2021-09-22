@@ -1,5 +1,7 @@
 # Yagate Kimi ni Naru
 
+![yagate-kimi-ni-naru](https://cdn.myanimelist.net/images/anime/1783/96153.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: やがて君になる

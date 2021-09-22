@@ -1,5 +1,7 @@
 # Sicilia Daifugou no Gosan
 
+![sicilia-daifugou-no-gosan](https://cdn.myanimelist.net/images/manga/1/228789.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シチリア大富豪の誤算

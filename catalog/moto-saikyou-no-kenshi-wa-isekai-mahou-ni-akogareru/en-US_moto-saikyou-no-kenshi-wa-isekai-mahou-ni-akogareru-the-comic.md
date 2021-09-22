@@ -1,5 +1,7 @@
 # Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru the Comic
 
+![moto-saikyou-no-kenshi-wa-isekai-mahou-ni-akogareru-the-comic](https://cdn.myanimelist.net/images/manga/3/215157.jpg)
+
 -   **type**: manga
 -   **original-name**: 元最強の剣士は、異世界魔法に憧れる THE COMIC
 -   **start-date**: 2018-01-31

@@ -1,5 +1,7 @@
 # 25-ji, Akasaka de
 
+![25-ji-akasaka-de](https://cdn.myanimelist.net/images/manga/2/216571.jpg)
+
 -   **type**: manga
 -   **original-name**: 25 時、赤坂で
 -   **start-date**: 2017-11-25

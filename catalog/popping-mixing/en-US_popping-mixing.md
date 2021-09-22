@@ -1,5 +1,7 @@
 # Popping, Mixing
 
+![popping-mixing](https://cdn.myanimelist.net/images/anime/1148/114960.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: POPPING, MIXING

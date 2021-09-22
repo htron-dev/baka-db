@@ -1,5 +1,7 @@
 # Call Number X
 
+![call-number-x](https://cdn.myanimelist.net/images/manga/3/40030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: コールナンバー"X”

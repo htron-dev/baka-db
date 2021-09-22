@@ -1,5 +1,7 @@
 # Charao-kun to Haraguro-kun no Himitsu
 
+![charao-kun-to-haraguro-kun-no-himitsu](https://cdn.myanimelist.net/images/manga/1/224738.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

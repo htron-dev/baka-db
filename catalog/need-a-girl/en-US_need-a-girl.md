@@ -1,5 +1,7 @@
 # Need a Girl!
 
+![need-a-girl](https://cdn.myanimelist.net/images/manga/3/201114.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **chapters**: 66

@@ -1,5 +1,7 @@
 # Getsuyoubi no Tomodachi
 
+![getsuyoubi-no-tomodachi](https://cdn.myanimelist.net/images/manga/1/203203.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

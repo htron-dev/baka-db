@@ -1,5 +1,7 @@
 # Rockman &amp; Forte
 
+![rockman-amp-forte](https://cdn.myanimelist.net/images/manga/3/35088.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ロックマン&フォルテ
@@ -7,7 +9,6 @@
 ## Tags
 
 -   action
-
 -   sci-fi
 
 ## Authors

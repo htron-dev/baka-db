@@ -1,5 +1,7 @@
 # Smoky God Express
 
+![smoky-god-express](https://cdn.myanimelist.net/images/manga/2/154185.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

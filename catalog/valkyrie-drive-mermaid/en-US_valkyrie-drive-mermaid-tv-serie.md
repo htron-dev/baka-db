@@ -1,5 +1,7 @@
 # Valkyrie Drive: Mermaid
 
+![valkyrie-drive-mermaid](https://cdn.myanimelist.net/images/anime/13/75528.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヴァルキリードライヴ　マーメイド

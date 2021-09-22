@@ -1,5 +1,7 @@
 # Senpai! Imakara Kokurimasu!
 
+![senpai-imakara-kokurimasu](https://cdn.myanimelist.net/images/manga/2/199041.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

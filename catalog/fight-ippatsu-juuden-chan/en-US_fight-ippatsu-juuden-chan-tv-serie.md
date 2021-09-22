@@ -1,5 +1,7 @@
 # Fight Ippatsu! Juuden-chan!!
 
+![fight-ippatsu-juuden-chan](https://cdn.myanimelist.net/images/anime/2/12946.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ファイト一発！充電ちゃん！！

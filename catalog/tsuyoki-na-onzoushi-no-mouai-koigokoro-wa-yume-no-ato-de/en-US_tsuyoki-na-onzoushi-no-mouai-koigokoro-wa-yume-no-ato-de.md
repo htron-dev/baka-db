@@ -1,5 +1,7 @@
 # Tsuyoki na Onzoushi no Mouai: Koigokoro wa Yume no Ato de
 
+![tsuyoki-na-onzoushi-no-mouai-koigokoro-wa-yume-no-ato-de](https://cdn.myanimelist.net/images/manga/1/195495.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 強気な御曹司の盲愛～恋心は夢のあとで～

@@ -1,5 +1,7 @@
 # Saeki-kun ni Tsunagacchau!
 
+![saeki-kun-ni-tsunagacchau](https://cdn.myanimelist.net/images/manga/2/221785.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

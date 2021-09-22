@@ -1,5 +1,7 @@
 # Enami-kun wa Ikiru no ga Tsurai
 
+![enami-kun-wa-ikiru-no-ga-tsurai](https://cdn.myanimelist.net/images/manga/2/220658.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

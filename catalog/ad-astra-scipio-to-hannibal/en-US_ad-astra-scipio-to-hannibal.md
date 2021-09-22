@@ -1,5 +1,7 @@
 # Ad Astra: Scipio to Hannibal
 
+![ad-astra-scipio-to-hannibal](https://cdn.myanimelist.net/images/manga/1/132419.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 81

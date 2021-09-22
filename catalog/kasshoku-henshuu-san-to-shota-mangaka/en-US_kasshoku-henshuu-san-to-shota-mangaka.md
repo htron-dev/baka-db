@@ -1,5 +1,7 @@
 # Kasshoku Henshuu-san to Shota Mangaka
 
+![kasshoku-henshuu-san-to-shota-mangaka](https://cdn.myanimelist.net/images/manga/3/238010.jpg)
+
 -   **type**: manga
 -   **original-name**: 褐色編集さんとショタ漫画家
 -   **start-date**: 2020-02-27

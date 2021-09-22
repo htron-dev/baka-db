@@ -1,5 +1,7 @@
 # Ryuuguu Renbu: Hime to Ouji to Panda
 
+![ryuuguu-renbu-hime-to-ouji-to-panda](https://cdn.myanimelist.net/images/manga/2/187182.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

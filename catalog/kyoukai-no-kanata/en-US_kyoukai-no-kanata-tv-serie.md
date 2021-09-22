@@ -1,5 +1,7 @@
 # Kyoukai no Kanata
 
+![kyoukai-no-kanata](https://cdn.myanimelist.net/images/anime/3/85468.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 境界の彼方

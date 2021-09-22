@@ -1,5 +1,7 @@
 # Okoshiyasu, Chitose-chan Recaps
 
+![okoshiyasu-chitose-chan-recaps](https://cdn.myanimelist.net/images/anime/1802/98078.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: おこしやす, ちとせちゃん

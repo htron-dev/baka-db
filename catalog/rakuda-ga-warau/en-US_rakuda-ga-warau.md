@@ -1,5 +1,7 @@
 # Rakuda ga Warau
 
+![rakuda-ga-warau](https://cdn.myanimelist.net/images/manga/1/45343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

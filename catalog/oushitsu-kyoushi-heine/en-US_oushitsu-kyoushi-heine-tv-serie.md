@@ -1,5 +1,7 @@
 # Oushitsu Kyoushi Heine
 
+![oushitsu-kyoushi-heine](https://cdn.myanimelist.net/images/anime/11/85517.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 王室教師ハイネ

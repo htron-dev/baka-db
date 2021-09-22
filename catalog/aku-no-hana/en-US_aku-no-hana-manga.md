@@ -1,5 +1,7 @@
 # Aku no Hana
 
+![aku-no-hana](https://cdn.myanimelist.net/images/manga/2/188918.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 58

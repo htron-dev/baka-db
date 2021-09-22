@@ -1,5 +1,7 @@
 # Hanasakeru Seishounen
 
+![hanasakeru-seishounen](https://cdn.myanimelist.net/images/manga/3/7497.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 花咲ける青少年

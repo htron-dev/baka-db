@@ -1,5 +1,7 @@
 # Oshiri Tantei
 
+![oshiri-tantei](https://cdn.myanimelist.net/images/anime/1415/107368.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: おしりたんてい
@@ -12,7 +14,6 @@
 
 -   mystery
 -   comedy
-
 -   fantasy
 
 ## Sinopse

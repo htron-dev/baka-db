@@ -1,5 +1,7 @@
 # Akuma-sama Help☆
 
+![akuma-sama-help☆](https://cdn.myanimelist.net/images/manga/3/85999.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 悪魔様へるぷ ☆

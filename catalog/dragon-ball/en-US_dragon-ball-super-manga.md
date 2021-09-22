@@ -1,5 +1,7 @@
 # Dragon Ball Super
 
+![dragon-ball-super](https://cdn.myanimelist.net/images/manga/2/176933.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラゴンボール超〈スーパー〉
 -   **start-date**: 2015-06-20

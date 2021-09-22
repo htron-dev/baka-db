@@ -1,5 +1,7 @@
 # Hikagemushi
 
+![hikagemushi](https://cdn.myanimelist.net/images/manga/1/197895.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 飛火夏虫 -HIKAGEMUSHI-

@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Arc-V: Saikyou Duelist Yuuya!!
 
+![yu☆-gi☆-oh-arc-v-saikyou-duelist-yuuya](https://cdn.myanimelist.net/images/manga/3/235995.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15
@@ -11,7 +13,6 @@
 
 -   comedy
 -   game
-
 -   shounen
 
 ## Authors

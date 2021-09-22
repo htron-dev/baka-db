@@ -1,5 +1,7 @@
 # Buddy System
 
+![buddy-system](https://cdn.myanimelist.net/images/manga/5/7478.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

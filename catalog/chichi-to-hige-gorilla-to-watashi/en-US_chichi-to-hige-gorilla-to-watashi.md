@@ -1,5 +1,7 @@
 # Chichi to Hige-Gorilla to Watashi
 
+![chichi-to-hige-gorilla-to-watashi](https://cdn.myanimelist.net/images/manga/2/147377.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 父とヒゲゴリラと私

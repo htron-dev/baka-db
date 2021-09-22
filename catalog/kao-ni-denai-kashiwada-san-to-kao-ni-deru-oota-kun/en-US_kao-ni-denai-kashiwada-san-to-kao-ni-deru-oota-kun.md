@@ -1,5 +1,7 @@
 # Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun
 
+![kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun](https://cdn.myanimelist.net/images/manga/1/221271.jpg)
+
 -   **type**: manga
 -   **original-name**: 顔に出ない柏田さんと顔に出る太田君
 -   **start-date**: 2018-06-22

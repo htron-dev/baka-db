@@ -1,5 +1,7 @@
 # Kobayashi-san Chi no Maid Dragon
 
+![kobayashi-san-chi-no-maid-dragon](https://cdn.myanimelist.net/images/manga/3/138919.jpg)
+
 -   **type**: manga
 -   **original-name**: 小林さんちのメイドラゴン
 -   **start-date**: 2013-05-25

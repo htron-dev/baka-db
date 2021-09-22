@@ -1,5 +1,7 @@
 # Seishin Bunseki Nyuumon Yumehandan
 
+![seishin-bunseki-nyuumon-yumehandan](https://cdn.myanimelist.net/images/manga/2/160705.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

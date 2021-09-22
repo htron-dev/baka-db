@@ -1,5 +1,7 @@
 # Wakusei Robo Dangard Ace
 
+![wakusei-robo-dangard-ace](https://cdn.myanimelist.net/images/manga/1/162449.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 惑星ロボ ダンガード A

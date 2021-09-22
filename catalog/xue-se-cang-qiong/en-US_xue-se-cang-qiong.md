@@ -1,5 +1,7 @@
 # Xue Se Cang Qiong
 
+![xue-se-cang-qiong](https://cdn.myanimelist.net/images/anime/8/88891.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 血色苍穹

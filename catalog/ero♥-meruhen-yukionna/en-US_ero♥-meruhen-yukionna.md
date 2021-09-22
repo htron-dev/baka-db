@@ -1,5 +1,7 @@
 # Ero♥Meruhen: Yukionna
 
+![ero♥-meruhen-yukionna](https://cdn.myanimelist.net/images/manga/2/150571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: えろ ♥ めるへん 雪女

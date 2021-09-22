@@ -1,5 +1,7 @@
 # Inazuma Eleven Go
 
+![inazuma-eleven-go](https://cdn.myanimelist.net/images/anime/2/48959.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: イナズマイレブン Go

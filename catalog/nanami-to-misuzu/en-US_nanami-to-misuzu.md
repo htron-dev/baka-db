@@ -1,5 +1,7 @@
 # Nanami to Misuzu
 
+![nanami-to-misuzu](https://cdn.myanimelist.net/images/manga/3/167432.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

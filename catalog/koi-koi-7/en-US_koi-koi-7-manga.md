@@ -1,5 +1,7 @@
 # Koi Koi 7
 
+![koi-koi-7](https://cdn.myanimelist.net/images/manga/2/118643.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 52

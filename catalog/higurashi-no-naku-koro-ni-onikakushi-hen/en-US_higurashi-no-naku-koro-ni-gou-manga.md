@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Gou
 
+![higurashi-no-naku-koro-ni-gou](https://cdn.myanimelist.net/images/manga/2/237112.jpg)
+
 -   **type**: manga
 -   **original-name**: ひぐらしのなく頃に 業
 -   **start-date**: 2020-10-02

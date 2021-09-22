@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de 5
 
+![harukanaru-toki-no-naka-de-5](https://cdn.myanimelist.net/images/manga/3/193420.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

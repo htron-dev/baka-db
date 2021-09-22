@@ -1,5 +1,7 @@
 # Shinobi no Kuni: Anthology-ban
 
+![shinobi-no-kuni-anthology-ban](https://cdn.myanimelist.net/images/manga/1/213316.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

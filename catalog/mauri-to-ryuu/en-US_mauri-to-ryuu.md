@@ -1,5 +1,7 @@
 # Mauri to Ryuu
 
+![mauri-to-ryuu](https://cdn.myanimelist.net/images/manga/2/183771.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

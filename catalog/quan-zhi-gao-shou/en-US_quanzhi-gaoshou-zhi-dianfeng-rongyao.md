@@ -1,5 +1,7 @@
 # Quanzhi Gaoshou Zhi Dianfeng Rongyao
 
+![quanzhi-gaoshou-zhi-dianfeng-rongyao](https://cdn.myanimelist.net/images/anime/1960/102480.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 全职高手之巅峰荣耀

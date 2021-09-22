@@ -1,5 +1,7 @@
 # Ryuu to Sobakasu no Hime
 
+![ryuu-to-sobakasu-no-hime](https://cdn.myanimelist.net/images/anime/1081/115716.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 竜とそばかすの姫

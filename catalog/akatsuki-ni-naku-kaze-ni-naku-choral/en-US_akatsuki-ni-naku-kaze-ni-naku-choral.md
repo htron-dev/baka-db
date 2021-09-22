@@ -1,5 +1,7 @@
 # Akatsuki ni Naku, Kaze ni Naku Choral
 
+![akatsuki-ni-naku-kaze-ni-naku-choral](https://cdn.myanimelist.net/images/manga/1/42393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

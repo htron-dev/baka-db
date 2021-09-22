@@ -1,5 +1,7 @@
 # Yoidore Koi wo Sezu
 
+![yoidore-koi-wo-sezu](https://cdn.myanimelist.net/images/manga/3/213495.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

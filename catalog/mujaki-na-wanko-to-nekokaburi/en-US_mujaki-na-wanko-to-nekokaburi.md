@@ -1,5 +1,7 @@
 # Mujaki na Wanko to Nekokaburi
 
+![mujaki-na-wanko-to-nekokaburi](https://cdn.myanimelist.net/images/manga/2/184327.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

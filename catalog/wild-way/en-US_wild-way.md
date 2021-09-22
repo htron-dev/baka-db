@@ -1,5 +1,7 @@
 # Wild Way
 
+![wild-way](https://cdn.myanimelist.net/images/manga/2/74223.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ワイルドウェイ

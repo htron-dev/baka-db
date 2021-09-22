@@ -1,5 +1,7 @@
 # Wagashi no Anne
 
+![wagashi-no-anne](https://cdn.myanimelist.net/images/manga/1/177792.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

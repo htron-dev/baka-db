@@ -1,5 +1,7 @@
 # Techno Police 21C
 
+![techno-police-21-c](https://cdn.myanimelist.net/images/anime/1335/112413.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: テクノポリス 21C

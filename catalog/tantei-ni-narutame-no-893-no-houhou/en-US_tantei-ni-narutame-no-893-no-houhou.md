@@ -1,5 +1,7 @@
 # Tantei ni Narutame no 893 no Houhou
 
+![tantei-ni-narutame-no-893-no-houhou](https://cdn.myanimelist.net/images/manga/1/20355.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

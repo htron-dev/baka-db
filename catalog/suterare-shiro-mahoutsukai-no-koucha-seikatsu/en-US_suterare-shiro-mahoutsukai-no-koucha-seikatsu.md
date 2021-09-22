@@ -1,5 +1,7 @@
 # Suterare Shiro Mahoutsukai no Koucha Seikatsu
 
+![suterare-shiro-mahoutsukai-no-koucha-seikatsu](https://cdn.myanimelist.net/images/manga/2/249732.jpg)
+
 -   **type**: manga
 -   **original-name**: 捨てられ白魔法使いの紅茶生活
 -   **start-date**: 2021-02-26

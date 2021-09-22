@@ -1,5 +1,7 @@
 # Infinity Blade: Saigen naki Kyuusaisha
 
+![infinity-blade-saigen-naki-kyuusaisha](https://cdn.myanimelist.net/images/manga/2/122061.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: インフィニティ・ブレヱド-際限なき救済者-

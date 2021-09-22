@@ -1,5 +1,7 @@
 # Hero Mask 2nd Season
 
+![hero-mask-2nd-season](https://cdn.myanimelist.net/images/anime/1960/102191.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: ヒーローマスク

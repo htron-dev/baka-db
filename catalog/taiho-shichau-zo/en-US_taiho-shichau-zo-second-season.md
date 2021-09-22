@@ -1,5 +1,7 @@
 # Taiho Shichau zo: Second Season
 
+![taiho-shichau-zo-second-season](https://cdn.myanimelist.net/images/anime/9/21852.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 逮捕しちゃうぞ SECOND SEASON

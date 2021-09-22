@@ -1,5 +1,7 @@
 # Akai Sora Shiroi Umi
 
+![akai-sora-shiroi-umi](https://cdn.myanimelist.net/images/manga/2/198782.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

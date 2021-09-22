@@ -1,5 +1,7 @@
 # Pokemon
 
+![pokemon](https://cdn.myanimelist.net/images/anime/13/73834.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 276
 -   **original-name**: ポケットモンスター
@@ -14,7 +16,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

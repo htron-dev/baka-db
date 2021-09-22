@@ -1,5 +1,7 @@
 # Koharu Haru!
 
+![koharu-haru](https://cdn.myanimelist.net/images/manga/1/236931.jpg)
+
 -   **type**: manga
 -   **original-name**: こはる はる!
 -   **start-date**: 2020-04-20

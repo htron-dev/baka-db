@@ -1,5 +1,7 @@
 # Dachi no Imouto
 
+![dachi-no-imouto](https://cdn.myanimelist.net/images/manga/3/249749.jpg)
+
 -   **type**: manga
 -   **original-name**: 友人〈ダチ〉の妹
 -   **start-date**: 2020-10-30

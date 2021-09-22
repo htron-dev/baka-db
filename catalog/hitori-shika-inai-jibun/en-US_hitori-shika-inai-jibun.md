@@ -1,5 +1,7 @@
 # Hitori Shika Inai Jibun
 
+![hitori-shika-inai-jibun](https://cdn.myanimelist.net/images/anime/10/83682.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 一人しかいない自分

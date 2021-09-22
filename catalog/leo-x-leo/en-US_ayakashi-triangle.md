@@ -1,5 +1,7 @@
 # Ayakashi Triangle
 
+![ayakashi-triangle](https://cdn.myanimelist.net/images/manga/2/236888.jpg)
+
 -   **type**: manga
 -   **original-name**: あやかしトライアングル
 -   **start-date**: 2020-06-15

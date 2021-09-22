@@ -1,5 +1,7 @@
 # Haja Taisei Dangaiou
 
+![haja-taisei-dangaiou](https://cdn.myanimelist.net/images/anime/1262/92742.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 破邪大星弾劾凰 [ダンガイオー]

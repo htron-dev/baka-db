@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Special Techniques
 
+![rurouni-kenshin-special-techniques](https://cdn.myanimelist.net/images/anime/4/8997.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: るろうに剣心－明治剣客浪漫譚－

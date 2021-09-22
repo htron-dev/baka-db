@@ -1,5 +1,7 @@
 # Chii-chan to Hige Ojisan
 
+![chii-chan-to-hige-ojisan](https://cdn.myanimelist.net/images/anime/3/70645.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ちぃちゃんとヒゲおじさん

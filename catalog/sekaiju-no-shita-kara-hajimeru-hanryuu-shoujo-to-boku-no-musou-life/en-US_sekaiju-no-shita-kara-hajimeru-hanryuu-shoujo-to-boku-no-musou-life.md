@@ -1,5 +1,7 @@
 # Sekaiju no Shita kara Hajimeru: Hanryuu Shoujo to Boku no Musou Life
 
+![sekaiju-no-shita-kara-hajimeru-hanryuu-shoujo-to-boku-no-musou-life](https://cdn.myanimelist.net/images/manga/1/246863.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界樹の下から始める半竜少女と僕の無双ライフ
 -   **start-date**: 2020-12-25

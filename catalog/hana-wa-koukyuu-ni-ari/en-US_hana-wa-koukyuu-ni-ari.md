@@ -1,5 +1,7 @@
 # Hana wa Koukyuu ni Ari!
 
+![hana-wa-koukyuu-ni-ari](https://cdn.myanimelist.net/images/manga/2/169893.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 31

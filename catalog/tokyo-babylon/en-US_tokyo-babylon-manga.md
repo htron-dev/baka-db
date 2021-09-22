@@ -1,5 +1,7 @@
 # Tokyo Babylon
 
+![tokyo-babylon](https://cdn.myanimelist.net/images/manga/3/19812.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 18

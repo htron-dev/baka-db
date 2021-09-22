@@ -1,5 +1,7 @@
 # Anime Document: München e no Michi
 
+![anime-document-munchen-e-no-michi](https://cdn.myanimelist.net/images/anime/10/53859.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: アニメドキュメント ミュンヘンへの道

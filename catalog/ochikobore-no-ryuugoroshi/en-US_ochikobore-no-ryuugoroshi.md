@@ -1,5 +1,7 @@
 # Ochikobore no Ryuugoroshi
 
+![ochikobore-no-ryuugoroshi](https://cdn.myanimelist.net/images/manga/1/160876.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

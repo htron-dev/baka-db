@@ -1,5 +1,7 @@
 # Qing Chi Hong Xiaodou Ba! Wai Zhuan: Mo Xiang Wang
 
+![qing-chi-hong-xiaodou-ba-wai-zhuan-mo-xiang-wang](https://cdn.myanimelist.net/images/anime/1326/102464.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 请吃红小豆吧！外传 莫相忘

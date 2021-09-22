@@ -1,5 +1,7 @@
 # Guild no Cheat na Uketsukejou
 
+![guild-no-cheat-na-uketsukejou](https://cdn.myanimelist.net/images/manga/2/168339.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ギルドのチートな受付嬢
 -   **start-date**: 2014-09-30

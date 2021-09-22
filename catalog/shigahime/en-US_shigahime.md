@@ -1,5 +1,7 @@
 # Shigahime
 
+![shigahime](https://cdn.myanimelist.net/images/manga/2/203507.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

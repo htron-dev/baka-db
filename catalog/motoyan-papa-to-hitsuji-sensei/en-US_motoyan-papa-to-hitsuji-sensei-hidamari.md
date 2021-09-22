@@ -1,5 +1,7 @@
 # Motoyan Papa to Hitsuji-sensei: Hidamari
 
+![motoyan-papa-to-hitsuji-sensei-hidamari](https://cdn.myanimelist.net/images/manga/1/219708.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

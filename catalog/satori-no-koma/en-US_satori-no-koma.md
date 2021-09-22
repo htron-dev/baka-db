@@ -1,5 +1,7 @@
 # Satori no Koma
 
+![satori-no-koma](https://cdn.myanimelist.net/images/manga/3/236708.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

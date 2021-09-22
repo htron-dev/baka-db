@@ -1,5 +1,7 @@
 # Nico Says
 
+![nico-says](https://cdn.myanimelist.net/images/manga/3/95989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

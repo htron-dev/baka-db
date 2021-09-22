@@ -1,5 +1,7 @@
 # Jiyi U-Pan
 
+![jiyi-u-pan](https://cdn.myanimelist.net/images/anime/1880/113954.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 记忆 U 盘

@@ -1,5 +1,7 @@
 # Golden★Kids
 
+![golden★-kids](https://cdn.myanimelist.net/images/anime/3/28397.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ゴールデン ★ キッズ

@@ -1,5 +1,7 @@
 # Porno Graffiti
 
+![porno-graffiti](https://cdn.myanimelist.net/images/manga/2/35310.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Renai Shoshinsha de Otesuu wo Okake Shimasu
 
+![renai-shoshinsha-de-otesuu-wo-okake-shimasu](https://cdn.myanimelist.net/images/manga/3/222035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

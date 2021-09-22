@@ -1,5 +1,7 @@
 # Onikiri Shoujo
 
+![onikiri-shoujo](https://cdn.myanimelist.net/images/anime/1909/91251.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 鬼斬少女

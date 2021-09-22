@@ -1,5 +1,7 @@
 # Hakui no Kanojo
 
+![hakui-no-kanojo](https://cdn.myanimelist.net/images/manga/1/189998.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 51

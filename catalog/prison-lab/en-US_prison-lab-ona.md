@@ -1,5 +1,7 @@
 # Prison Lab
 
+![prison-lab](https://cdn.myanimelist.net/images/anime/1192/97875.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 監獄実験〈プリズンラボ〉
@@ -23,4 +25,4 @@ As Eyama administers his sadistic revenge and "divine" retribution, he encounter
 
 -   [My Anime list](https://myanimelist.net/anime/38902/Prison_Lab)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14562)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E7%9B%A3%E7%8D%84%E5%AE%9F%E9%A8%93_%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3%E3%83%A9%E3%83%9C_(%E6%BC%AB%E7%94%BB)#Web%E3%82%A2%E3%83%8B%E3%83%A1>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E7%9B%A3%E7%8D%84%E5%AE%9F%E9%A8%93_%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3%E3%83%A9%E3%83%9C_%28%E6%BC%AB%E7%94%BB%29#Web%E3%82%A2%E3%83%8B%E3%83%A1)

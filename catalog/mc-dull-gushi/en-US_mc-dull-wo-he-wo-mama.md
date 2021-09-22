@@ -1,5 +1,7 @@
 # McDull: Wo He Wo Mama
 
+![mc-dull-wo-he-wo-mama](https://cdn.myanimelist.net/images/anime/1569/112736.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 麥兜我和我媽媽

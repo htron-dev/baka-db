@@ -1,5 +1,7 @@
 # Kurohyou no Chigiri
 
+![kurohyou-no-chigiri](https://cdn.myanimelist.net/images/manga/1/167559.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 黒豹の契り

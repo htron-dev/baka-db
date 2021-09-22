@@ -1,5 +1,7 @@
 # Kudoki - Shinyaku Kabukie Maki
 
+![kudoki-shinyaku-kabukie-maki](https://cdn.myanimelist.net/images/manga/3/72191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: クドキ 新訳歌舞伎絵巻

@@ -1,5 +1,7 @@
 # Yoroi to OL-san
 
+![yoroi-to-ol-san](https://cdn.myanimelist.net/images/manga/3/239173.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 鎧と OL さん

@@ -1,5 +1,7 @@
 # Pocket Monsters Special: Shirogane-Yama Shuugyou-hen
 
+![pocket-monsters-special-shirogane-yama-shuugyou-hen](https://cdn.myanimelist.net/images/manga/3/234861.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ポケットモンスター SPECIAL シロガネ山修業編

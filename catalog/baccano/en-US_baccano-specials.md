@@ -1,5 +1,7 @@
 # Baccano! Specials
 
+![baccano-specials](https://cdn.myanimelist.net/images/anime/7/9129.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: バッカーノ!

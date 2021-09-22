@@ -1,5 +1,7 @@
 # Flag
 
+![flag](https://cdn.myanimelist.net/images/anime/1274/90483.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: FLAG（フラッグ）
@@ -26,4 +28,4 @@ In 20xx, a civil war broke out in a small country in Asia in spite of the dispat
 -   [Official Site](http://www.flag20xx.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4476)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6617)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Flag_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Flag_%28anime%29)

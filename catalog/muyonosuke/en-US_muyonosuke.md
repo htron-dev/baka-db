@@ -1,5 +1,7 @@
 # Muyonosuke
 
+![muyonosuke](https://cdn.myanimelist.net/images/manga/1/45379.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: 無用ノ介

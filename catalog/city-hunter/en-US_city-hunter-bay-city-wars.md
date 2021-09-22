@@ -1,5 +1,7 @@
 # City Hunter: Bay City Wars
 
+![city-hunter-bay-city-wars](https://cdn.myanimelist.net/images/anime/10/61669.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シティーハンター ベイシティウォーズ

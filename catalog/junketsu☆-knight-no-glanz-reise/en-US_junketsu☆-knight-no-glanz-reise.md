@@ -1,5 +1,7 @@
 # Junketsu☆Knight no Glanz Reise
 
+![junketsu☆-knight-no-glanz-reise](https://cdn.myanimelist.net/images/manga/1/227121.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

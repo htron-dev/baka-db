@@ -1,5 +1,7 @@
 # Detective Conan: The Scarlet Alibi
 
+![detective-conan-the-scarlet-alibi](https://cdn.myanimelist.net/images/anime/1692/111598.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 緋色の不在証明

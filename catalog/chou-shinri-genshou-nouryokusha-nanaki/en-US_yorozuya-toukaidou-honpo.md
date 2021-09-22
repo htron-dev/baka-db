@@ -1,5 +1,7 @@
 # Yorozuya Toukaidou Honpo
 
+![yorozuya-toukaidou-honpo](https://cdn.myanimelist.net/images/manga/1/112115.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: よろず屋東海道本舗

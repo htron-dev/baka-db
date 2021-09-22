@@ -1,5 +1,7 @@
 # Hadaka no Boyfriend: Nounai Kareshi wa Koibito Miman
 
+![hadaka-no-boyfriend-nounai-kareshi-wa-koibito-miman](https://cdn.myanimelist.net/images/manga/3/193518.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

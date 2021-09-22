@@ -1,5 +1,7 @@
 # Kaisei no Caricature
 
+![kaisei-no-caricature](https://cdn.myanimelist.net/images/manga/2/173941.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

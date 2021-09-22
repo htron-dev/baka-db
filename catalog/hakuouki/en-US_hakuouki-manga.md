@@ -1,5 +1,7 @@
 # Hakuouki
 
+![hakuouki](https://cdn.myanimelist.net/images/manga/1/194858.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

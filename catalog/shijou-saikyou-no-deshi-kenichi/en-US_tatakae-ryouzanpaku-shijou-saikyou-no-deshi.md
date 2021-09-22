@@ -1,5 +1,7 @@
 # Tatakae! Ryouzanpaku Shijou Saikyou no Deshi
 
+![tatakae-ryouzanpaku-shijou-saikyou-no-deshi](https://cdn.myanimelist.net/images/manga/4/30037.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Kiznaiver
 
+![kiznaiver](https://cdn.myanimelist.net/images/anime/6/78466.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: キズナイーバー

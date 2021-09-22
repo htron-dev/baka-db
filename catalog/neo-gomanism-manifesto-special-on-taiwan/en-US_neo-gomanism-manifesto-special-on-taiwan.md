@@ -1,5 +1,7 @@
 # Neo Gomanism Manifesto Special - On Taiwan
 
+![neo-gomanism-manifesto-special-on-taiwan](https://cdn.myanimelist.net/images/manga/4/17025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

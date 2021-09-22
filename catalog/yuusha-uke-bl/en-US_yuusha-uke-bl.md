@@ -1,5 +1,7 @@
 # Yuusha-uke BL
 
+![yuusha-uke-bl](https://cdn.myanimelist.net/images/manga/1/180952.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

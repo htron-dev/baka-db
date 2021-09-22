@@ -1,5 +1,7 @@
 # Gerbera
 
+![gerbera](https://cdn.myanimelist.net/images/manga/2/164432.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

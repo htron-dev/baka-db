@@ -1,5 +1,7 @@
 # Hyakka Ryouran: Samurai After Specials
 
+![hyakka-ryouran-samurai-after-specials](https://cdn.myanimelist.net/images/anime/8/72354.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 百花繚乱 サムライアフター

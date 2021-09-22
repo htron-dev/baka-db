@@ -1,5 +1,7 @@
 # Ero Lover
 
+![ero-lover](https://cdn.myanimelist.net/images/manga/1/216972.jpg)
+
 -   **type**: manga
 -   **original-name**: エロ ◆ ラバ
 

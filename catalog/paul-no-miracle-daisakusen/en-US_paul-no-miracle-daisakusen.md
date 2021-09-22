@@ -1,5 +1,7 @@
 # Paul no Miracle Daisakusen
 
+![paul-no-miracle-daisakusen](https://cdn.myanimelist.net/images/anime/3/56407.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ポールのミラクル大作戦

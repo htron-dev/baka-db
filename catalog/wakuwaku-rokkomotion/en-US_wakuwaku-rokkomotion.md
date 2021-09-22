@@ -1,5 +1,7 @@
 # Wakuwaku Rokkomotion
 
+![wakuwaku-rokkomotion](https://cdn.myanimelist.net/images/manga/1/159904.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

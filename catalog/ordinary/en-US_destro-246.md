@@ -1,5 +1,7 @@
 # Destro 246
 
+![destro-246](https://cdn.myanimelist.net/images/manga/4/78153.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 49

@@ -1,5 +1,7 @@
 # POINT-D
 
+![point-d](https://cdn.myanimelist.net/images/manga/3/41557.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: POINT・D

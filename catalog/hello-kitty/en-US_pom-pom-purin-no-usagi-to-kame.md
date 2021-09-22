@@ -1,5 +1,7 @@
 # Pom Pom Purin no Usagi to Kame
 
+![pom-pom-purin-no-usagi-to-kame](https://cdn.myanimelist.net/images/anime/12/58885.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ポムポムプリンのウサギとカメ

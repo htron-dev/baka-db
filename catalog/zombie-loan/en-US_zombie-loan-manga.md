@@ -1,5 +1,7 @@
 # Zombie-Loan
 
+![zombie-loan](https://cdn.myanimelist.net/images/manga/3/183676.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 83

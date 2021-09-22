@@ -1,5 +1,7 @@
 # Zero: Taiheiyou Senki - Kaisen-hen
 
+![zero-taiheiyou-senki-kaisen-hen](https://cdn.myanimelist.net/images/manga/2/204719.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

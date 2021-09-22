@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Dokufu-tachi no Hanzai Hakusho
 
+![manga-grimm-douwa-dokufu-tachi-no-hanzai-hakusho](https://cdn.myanimelist.net/images/manga/1/137413.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

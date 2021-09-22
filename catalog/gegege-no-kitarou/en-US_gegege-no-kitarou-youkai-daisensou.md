@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Youkai Daisensou
 
+![gegege-no-kitarou-youkai-daisensou](https://cdn.myanimelist.net/images/anime/5/27354.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲゲゲの鬼太郎 妖怪大戦争

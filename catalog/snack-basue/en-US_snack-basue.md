@@ -1,5 +1,7 @@
 # Snack Basue
 
+![snack-basue](https://cdn.myanimelist.net/images/manga/3/223413.jpg)
+
 -   **type**: manga
 -   **original-name**: スナックバス江
 -   **start-date**: 2017-07-13

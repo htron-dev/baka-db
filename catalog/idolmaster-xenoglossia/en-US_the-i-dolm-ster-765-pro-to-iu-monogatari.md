@@ -1,5 +1,7 @@
 # The iDOLM@STER: 765 Pro to Iu Monogatari
 
+![the-i-dolm-ster-765-pro-to-iu-monogatari](https://cdn.myanimelist.net/images/anime/3/70521.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アイドルマスター 765 プロという物語

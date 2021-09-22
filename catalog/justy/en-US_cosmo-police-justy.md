@@ -1,5 +1,7 @@
 # Cosmo Police Justy
 
+![cosmo-police-justy](https://cdn.myanimelist.net/images/anime/11/54771.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: COSMO POLICE ジャスティ

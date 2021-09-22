@@ -1,5 +1,7 @@
 # Boarding House of Hunks
 
+![boarding-house-of-hunks](https://cdn.myanimelist.net/images/manga/4/18743.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 17
 -   **original-name**: 물좋은 하숙집

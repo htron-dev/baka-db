@@ -1,5 +1,7 @@
 # Turning Point
 
+![turning-point](https://cdn.myanimelist.net/images/manga/2/19517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

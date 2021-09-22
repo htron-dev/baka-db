@@ -1,5 +1,7 @@
 # Kaitou Joker 4th Season
 
+![kaitou-joker-4th-season](https://cdn.myanimelist.net/images/anime/13/80551.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 怪盗ジョーカー シーズン

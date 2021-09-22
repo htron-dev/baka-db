@@ -1,5 +1,7 @@
 # Caste Heaven
 
+![caste-heaven](https://cdn.myanimelist.net/images/manga/3/158991.jpg)
+
 -   **type**: manga
 -   **original-name**: カーストヘヴン
 -   **start-date**: 2014-03-07

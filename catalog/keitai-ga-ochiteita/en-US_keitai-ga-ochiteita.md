@@ -1,5 +1,7 @@
 # Keitai ga Ochiteita
 
+![keitai-ga-ochiteita](https://cdn.myanimelist.net/images/manga/2/24670.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

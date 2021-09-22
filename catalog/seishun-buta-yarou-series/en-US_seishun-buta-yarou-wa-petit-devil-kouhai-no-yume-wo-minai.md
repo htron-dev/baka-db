@@ -1,5 +1,7 @@
 # Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai
 
+![seishun-buta-yarou-wa-petit-devil-kouhai-no-yume-wo-minai](https://cdn.myanimelist.net/images/manga/1/223645.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

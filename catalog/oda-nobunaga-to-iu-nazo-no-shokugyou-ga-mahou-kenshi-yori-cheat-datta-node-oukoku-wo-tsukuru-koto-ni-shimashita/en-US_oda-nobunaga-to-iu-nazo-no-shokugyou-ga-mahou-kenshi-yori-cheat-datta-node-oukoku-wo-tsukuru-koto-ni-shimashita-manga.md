@@ -1,5 +1,7 @@
 # Oda Nobunaga to Iu Nazo no Shokugyou ga Mahou Kenshi yori Cheat Datta node, Oukoku wo Tsukuru Koto ni Shimashita
 
+![oda-nobunaga-to-iu-nazo-no-shokugyou-ga-mahou-kenshi-yori-cheat-datta-node-oukoku-wo-tsukuru-koto-ni-shimashita](https://cdn.myanimelist.net/images/manga/3/242415.jpg)
+
 -   **type**: manga
 -   **original-name**: 織田信長という謎の職業が魔法剣士よりチートだったので、王国を作ることにしました
 -   **start-date**: 2018-07-29

@@ -1,5 +1,7 @@
 # Swing!!
 
+![swing](https://cdn.myanimelist.net/images/manga/1/244504.jpg)
+
 -   **type**: manga
 -   **original-name**: すいんぐ!!
 -   **start-date**: 2019-07-26

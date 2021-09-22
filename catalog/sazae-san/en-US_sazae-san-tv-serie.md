@@ -1,5 +1,7 @@
 # Sazae-san
 
+![sazae-san](https://cdn.myanimelist.net/images/anime/9/25502.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: サザエさん
 -   **start-date**: 1969-10-05

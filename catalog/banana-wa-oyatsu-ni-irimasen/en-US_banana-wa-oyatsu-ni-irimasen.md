@@ -1,5 +1,7 @@
 # Banana wa Oyatsu ni Irimasen
 
+![banana-wa-oyatsu-ni-irimasen](https://cdn.myanimelist.net/images/manga/1/100611.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

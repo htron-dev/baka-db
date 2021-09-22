@@ -1,5 +1,7 @@
 # Kämpfer Picture Drama
 
+![kampfer-picture-drama](https://cdn.myanimelist.net/images/anime/6/25042.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: けんぷファー ピクチャードラマ

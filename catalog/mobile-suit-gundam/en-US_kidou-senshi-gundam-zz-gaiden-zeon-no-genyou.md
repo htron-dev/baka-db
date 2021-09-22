@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam ZZ Gaiden: Zeon no Genyou
 
+![kidou-senshi-gundam-zz-gaiden-zeon-no-genyou](https://cdn.myanimelist.net/images/manga/1/153923.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Umibe no Usagi
 
+![umibe-no-usagi](https://cdn.myanimelist.net/images/manga/2/164575.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 海辺のウサギ

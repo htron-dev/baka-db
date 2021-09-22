@@ -1,5 +1,7 @@
 # Heat Guy J
 
+![heat-guy-j](https://cdn.myanimelist.net/images/manga/3/164806.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

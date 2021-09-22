@@ -1,5 +1,7 @@
 # Tokyo Spirit Jaeger
 
+![tokyo-spirit-jaeger](https://cdn.myanimelist.net/images/manga/3/125029.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 東京スピリット・イエーガー

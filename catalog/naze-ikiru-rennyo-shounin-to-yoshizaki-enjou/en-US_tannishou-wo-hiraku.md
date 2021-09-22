@@ -1,5 +1,7 @@
 # Tannishou wo Hiraku
 
+![tannishou-wo-hiraku](https://cdn.myanimelist.net/images/anime/1053/99642.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 歎異抄をひらく

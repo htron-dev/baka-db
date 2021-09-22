@@ -1,5 +1,7 @@
 # Jormungand: Perfect Order
 
+![jormungand-perfect-order](https://cdn.myanimelist.net/images/anime/4/73278.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヨルムンガンド PERFECT ORDER
@@ -31,4 +33,4 @@ Jormungand: Perfect Order follows Koko and the rest of her crew as they take on 
 -   [Official Site](http://www.jormungand.tv/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9076)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14729)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Jormungand_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Jormungand_%28manga%29)

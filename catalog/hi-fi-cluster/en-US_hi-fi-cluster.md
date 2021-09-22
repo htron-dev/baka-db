@@ -1,5 +1,7 @@
 # Hi-Fi Cluster
 
+![hi-fi-cluster](https://cdn.myanimelist.net/images/manga/1/149273.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

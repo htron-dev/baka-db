@@ -1,5 +1,7 @@
 # Blood Stain
 
+![blood-stain](https://cdn.myanimelist.net/images/manga/2/31877.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラッドステイン 〜血液感染〜
 

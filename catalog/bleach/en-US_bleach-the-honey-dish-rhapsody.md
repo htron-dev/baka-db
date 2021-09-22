@@ -1,5 +1,7 @@
 # Bleach: The Honey Dish Rhapsody
 
+![bleach-the-honey-dish-rhapsody](https://cdn.myanimelist.net/images/manga/5/78797.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

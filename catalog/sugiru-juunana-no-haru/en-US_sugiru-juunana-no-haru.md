@@ -1,5 +1,7 @@
 # Sugiru Juunana no Haru
 
+![sugiru-juunana-no-haru](https://cdn.myanimelist.net/images/manga/3/22545.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

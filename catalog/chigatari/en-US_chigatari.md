@@ -1,5 +1,7 @@
 # Chigatari.
 
+![chigatari](https://cdn.myanimelist.net/images/manga/3/162977.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Genkai Toppa no Dekiai
 
+![genkai-toppa-no-dekiai](https://cdn.myanimelist.net/images/manga/1/180938.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Suki ni Naranai yo, Senpai
 
+![suki-ni-naranai-yo-senpai](https://cdn.myanimelist.net/images/manga/2/160767.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

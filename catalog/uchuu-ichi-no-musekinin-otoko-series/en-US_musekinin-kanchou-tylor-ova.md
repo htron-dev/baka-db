@@ -1,5 +1,7 @@
 # Musekinin Kanchou Tylor OVA
 
+![musekinin-kanchou-tylor-ova](https://cdn.myanimelist.net/images/anime/5/30471.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 無責任艦長タイラー OVA

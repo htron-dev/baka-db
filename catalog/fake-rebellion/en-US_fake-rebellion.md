@@ -1,5 +1,7 @@
 # Fake Rebellion
 
+![fake-rebellion](https://cdn.myanimelist.net/images/manga/3/224487.jpg)
+
 -   **type**: manga
 -   **original-name**: フェイク・リベリオン
 -   **start-date**: 2018-11-24

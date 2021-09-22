@@ -1,5 +1,7 @@
 # The Sexy Simpleton
 
+![the-sexy-simpleton](https://cdn.myanimelist.net/images/manga/2/9344.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 

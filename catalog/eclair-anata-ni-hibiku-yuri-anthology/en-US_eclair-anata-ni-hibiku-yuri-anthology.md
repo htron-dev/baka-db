@@ -1,5 +1,7 @@
 # Éclair: Anata ni Hibiku Yuri Anthology
 
+![eclair-anata-ni-hibiku-yuri-anthology](https://cdn.myanimelist.net/images/manga/3/189131.jpg)
+
 -   **type**: manga
 -   **original-name**: エクレア あなたに響く百合アンソロジー
 -   **start-date**: 2016-11-26

@@ -1,5 +1,7 @@
 # Nene-chan to Oneechan
 
+![nene-chan-to-oneechan](https://cdn.myanimelist.net/images/manga/2/159492.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

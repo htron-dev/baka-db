@@ -1,5 +1,7 @@
 # Moira
 
+![moira](https://cdn.myanimelist.net/images/manga/1/165711.jpg)
+
 -   **type**: manga
 -   **original-name**: Moira
 -   **start-date**: 2015-12-19

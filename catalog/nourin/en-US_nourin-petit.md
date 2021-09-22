@@ -1,5 +1,7 @@
 # Nourin Petit
 
+![nourin-petit](https://cdn.myanimelist.net/images/manga/2/147677.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

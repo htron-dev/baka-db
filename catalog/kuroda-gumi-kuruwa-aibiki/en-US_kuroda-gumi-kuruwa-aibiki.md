@@ -1,5 +1,7 @@
 # Kuroda-gumi Kuruwa Aibiki
 
+![kuroda-gumi-kuruwa-aibiki](https://cdn.myanimelist.net/images/manga/1/190403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

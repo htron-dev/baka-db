@@ -1,5 +1,7 @@
 # Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.
 
+![uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai](https://cdn.myanimelist.net/images/manga/2/189919.jpg)
+
 -   **type**: manga
 -   **original-name**: うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。
 -   **start-date**: 2016-07-22

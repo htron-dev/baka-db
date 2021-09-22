@@ -1,5 +1,7 @@
 # Hataraku Saibou!!: Saikyou no Teki, Futatabi. Karada no Naka wa "Chou" Oosawagi!
 
+![hataraku-saibou-saikyou-no-teki-futatabi-karada-no-naka-wa-chou-oosawagi](https://cdn.myanimelist.net/images/anime/1413/108382.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 『はたらく細胞!!』最強の敵、再び。体の中は“腸”大騒ぎ！

@@ -1,5 +1,7 @@
 # Akaiito
 
+![akaiito](https://cdn.myanimelist.net/images/manga/3/87333.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 39

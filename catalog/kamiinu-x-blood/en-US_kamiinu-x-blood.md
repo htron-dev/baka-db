@@ -1,5 +1,7 @@
 # Kamiinu x Blood
 
+![kamiinu-x-blood](https://cdn.myanimelist.net/images/manga/2/173342.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 神狗 ×BLOOD

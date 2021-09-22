@@ -1,5 +1,7 @@
 # Dennou Boukenki Webdiver
 
+![dennou-boukenki-webdiver](https://cdn.myanimelist.net/images/anime/12/5989.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 電脳冒険記ウェブダイバー

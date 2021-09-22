@@ -1,5 +1,7 @@
 # Gongitsune
 
+![gongitsune](https://cdn.myanimelist.net/images/anime/1334/112728.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ごんぎつね

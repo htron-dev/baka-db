@@ -1,5 +1,7 @@
 # Ginyuu Mokushiroku Meine Liebe
 
+![ginyuu-mokushiroku-meine-liebe](https://cdn.myanimelist.net/images/anime/11/75547.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 吟遊黙示録 マイネリーベ

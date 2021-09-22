@@ -1,5 +1,7 @@
 # Boukensha A no Himatsubushi
 
+![boukensha-a-no-himatsubushi](https://cdn.myanimelist.net/images/manga/1/201067.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 冒険者 A の暇つぶし
 -   **start-date**: 2017-08-12

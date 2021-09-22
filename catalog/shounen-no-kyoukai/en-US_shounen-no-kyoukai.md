@@ -1,5 +1,7 @@
 # Shounen no Kyoukai
 
+![shounen-no-kyoukai](https://cdn.myanimelist.net/images/manga/3/200785.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

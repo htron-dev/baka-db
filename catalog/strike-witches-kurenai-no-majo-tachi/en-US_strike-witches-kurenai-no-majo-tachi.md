@@ -1,5 +1,7 @@
 # Strike Witches: Kurenai no Majo-tachi
 
+![strike-witches-kurenai-no-majo-tachi](https://cdn.myanimelist.net/images/manga/1/139511.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Nekojima Nyanderful
 
+![nekojima-nyanderful](https://cdn.myanimelist.net/images/manga/2/215890.jpg)
+
 -   **type**: manga
 -   **original-name**: ネコじまにゃんだフル
 -   **start-date**: 2017-03-28

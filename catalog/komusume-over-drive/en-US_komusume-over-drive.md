@@ -1,5 +1,7 @@
 # Komusume Over Drive
 
+![komusume-over-drive](https://cdn.myanimelist.net/images/manga/3/155601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

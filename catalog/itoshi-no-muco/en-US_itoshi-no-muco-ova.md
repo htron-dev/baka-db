@@ -1,5 +1,7 @@
 # Itoshi no Muco OVA
 
+![itoshi-no-muco-ova](https://cdn.myanimelist.net/images/anime/5/77180.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いとしのムーコ OAD

@@ -1,5 +1,7 @@
 # Natsu to Mikoshi to Kyodai Kaijuu
 
+![natsu-to-mikoshi-to-kyodai-kaijuu](https://cdn.myanimelist.net/images/manga/3/115505.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 夏と神輿と巨大怪獣

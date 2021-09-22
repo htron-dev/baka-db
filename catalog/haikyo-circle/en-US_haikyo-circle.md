@@ -1,5 +1,7 @@
 # Haikyo Circle
 
+![haikyo-circle](https://cdn.myanimelist.net/images/manga/1/66679.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 廃墟サークル

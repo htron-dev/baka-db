@@ -1,5 +1,7 @@
 # Jormungand: Perfect Order Recap
 
+![jormungand-perfect-order-recap](https://cdn.myanimelist.net/images/anime/3/43073.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ヨルムンガンド PERFECT ORDER 第 1 期総集編

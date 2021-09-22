@@ -1,5 +1,7 @@
 # Ryuugajou Nanana no Maizoukin
 
+![ryuugajou-nanana-no-maizoukin](https://cdn.myanimelist.net/images/manga/3/109169.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10
@@ -20,11 +22,6 @@
 -   Kazuma (Story)
 -   Akagawara
 -   Modomu (Art)
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/72515/Ryuugajou_Nanana_no_Maizoukin)
-    beautiful but NEET girl. A boy named Juugo was disowned by his father and forced to transfer to a high school on the "Special Student Zone," an artificial island. With only 40,000 yen a month to live on, Juugo chooses a low-rent apartment that happens to be haunted by Nanana. Juugo and members of the school's adventure club join a "treasure hunt royale" on the island for the Nanana Collection, a treasure that possesses a mysterious power.
 
 ## Links
 

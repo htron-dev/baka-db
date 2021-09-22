@@ -1,5 +1,7 @@
 # Sumedo Jigoku no Inferno
 
+![sumedo-jigoku-no-inferno](https://cdn.myanimelist.net/images/manga/1/168918.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

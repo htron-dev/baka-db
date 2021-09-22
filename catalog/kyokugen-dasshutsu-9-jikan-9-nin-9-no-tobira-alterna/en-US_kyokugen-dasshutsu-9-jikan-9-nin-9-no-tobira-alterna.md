@@ -1,5 +1,7 @@
 # Kyokugen Dasshutsu 9-jikan 9-nin 9 no Tobira: Alterna
 
+![kyokugen-dasshutsu-9-jikan-9-nin-9-no-tobira-alterna](https://cdn.myanimelist.net/images/manga/1/172187.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 極限脱出 9 時間 9 人 9 の扉 オルタナ

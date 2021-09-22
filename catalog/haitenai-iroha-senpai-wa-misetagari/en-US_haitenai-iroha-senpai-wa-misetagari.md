@@ -1,5 +1,7 @@
 # Haitenai! Iroha-senpai wa Misetagari!?
 
+![haitenai-iroha-senpai-wa-misetagari](https://cdn.myanimelist.net/images/manga/2/169767.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

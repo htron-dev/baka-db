@@ -1,5 +1,7 @@
 # Shin Bannou Bunka Neko-Musume: Tanjou-hen
 
+![shin-bannou-bunka-neko-musume-tanjou-hen](https://cdn.myanimelist.net/images/manga/2/132449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

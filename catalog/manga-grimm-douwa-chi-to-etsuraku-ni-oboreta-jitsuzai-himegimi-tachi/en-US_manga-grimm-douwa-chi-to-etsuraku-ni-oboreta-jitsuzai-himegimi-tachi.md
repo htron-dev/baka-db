@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Chi to Etsuraku ni Oboreta Jitsuzai Himegimi-tachi
 
+![manga-grimm-douwa-chi-to-etsuraku-ni-oboreta-jitsuzai-himegimi-tachi](https://cdn.myanimelist.net/images/manga/1/40402.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

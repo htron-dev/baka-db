@@ -1,5 +1,7 @@
 # Sarutobi Ecchan
 
+![sarutobi-ecchan](https://cdn.myanimelist.net/images/anime/12/59333.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: さるとびエッちゃん
@@ -12,7 +14,6 @@
 ## Tags
 
 -   comedy
-
 -   magic
 -   school
 

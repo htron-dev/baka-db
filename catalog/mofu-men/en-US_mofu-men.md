@@ -1,5 +1,7 @@
 # Mofu Men
 
+![mofu-men](https://cdn.myanimelist.net/images/manga/4/91265.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Ginga Ojousama Densetsu Yuna: Kanashimi no Siren
 
+![ginga-ojousama-densetsu-yuna-kanashimi-no-siren](https://cdn.myanimelist.net/images/anime/1402/94331.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 銀河お嬢様伝説ユナ ～哀しみのセイレーン～

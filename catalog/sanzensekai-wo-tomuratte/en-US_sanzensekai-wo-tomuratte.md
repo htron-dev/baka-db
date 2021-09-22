@@ -1,5 +1,7 @@
 # Sanzensekai wo Tomuratte
 
+![sanzensekai-wo-tomuratte](https://cdn.myanimelist.net/images/manga/3/246823.jpg)
+
 -   **type**: manga
 -   **original-name**: 三千世界を弔って
 -   **start-date**: 2020-08-25

@@ -1,5 +1,7 @@
 # Ani to Otouto no Niizuma Shoya Kentei
 
+![ani-to-otouto-no-niizuma-shoya-kentei](https://cdn.myanimelist.net/images/manga/3/198136.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 兄と弟の新妻初夜検定

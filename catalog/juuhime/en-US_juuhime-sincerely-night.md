@@ -1,5 +1,7 @@
 # Juuhime: Sincerely Night
 
+![juuhime-sincerely-night](https://cdn.myanimelist.net/images/manga/1/119199.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

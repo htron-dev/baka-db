@@ -1,5 +1,7 @@
 # Isuca: Gokuraku
 
+![isuca-gokuraku](https://cdn.myanimelist.net/images/anime/5/77080.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ISUCA 第拾壱話「極楽」

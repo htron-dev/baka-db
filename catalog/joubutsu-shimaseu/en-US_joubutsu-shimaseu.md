@@ -1,5 +1,7 @@
 # Joubutsu Shimaseu
 
+![joubutsu-shimaseu](https://cdn.myanimelist.net/images/manga/3/33663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 成仏しませぅ。

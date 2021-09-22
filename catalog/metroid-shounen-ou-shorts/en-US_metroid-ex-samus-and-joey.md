@@ -1,5 +1,7 @@
 # Metroid EX: Samus and Joey
 
+![metroid-ex-samus-and-joey](https://cdn.myanimelist.net/images/manga/2/230718.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: メトロイド EX サムス&ジョイ
@@ -9,7 +11,6 @@
 ## Tags
 
 -   action
-
 -   mecha
 -   sci-fi
 -   shounen

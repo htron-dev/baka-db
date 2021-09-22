@@ -1,5 +1,7 @@
 # Vivy: Fluorite Eye's Song
 
+![vivy-fluorite-eyes-song](https://cdn.myanimelist.net/images/manga/1/249035.jpg)
+
 -   **type**: manga
 -   **original-name**: Vivy -Fluorite Eye's Song-
 -   **start-date**: 2021-04-10

@@ -1,5 +1,7 @@
 # Onegai Roommate!
 
+![onegai-roommate](https://cdn.myanimelist.net/images/manga/2/32595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 同居人におねがい！

@@ -1,5 +1,7 @@
 # Metamorphose
 
+![metamorphose](https://cdn.myanimelist.net/images/manga/3/215395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

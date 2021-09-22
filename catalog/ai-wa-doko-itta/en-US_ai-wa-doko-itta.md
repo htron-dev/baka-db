@@ -1,5 +1,7 @@
 # Ai wa Doko Itta?
 
+![ai-wa-doko-itta](https://cdn.myanimelist.net/images/manga/5/147067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

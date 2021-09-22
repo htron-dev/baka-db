@@ -1,5 +1,7 @@
 # Keiyaku no Kiss Mark
 
+![keiyaku-no-kiss-mark](https://cdn.myanimelist.net/images/manga/2/171340.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 契約の ×××〈キス〉マーク

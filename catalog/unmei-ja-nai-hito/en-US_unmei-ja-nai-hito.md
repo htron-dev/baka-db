@@ -1,5 +1,7 @@
 # Unmei ja Nai Hito
 
+![unmei-ja-nai-hito](https://cdn.myanimelist.net/images/manga/2/208340.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

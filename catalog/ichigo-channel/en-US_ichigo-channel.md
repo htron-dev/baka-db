@@ -1,5 +1,7 @@
 # Ichigo Channel
 
+![ichigo-channel](https://cdn.myanimelist.net/images/manga/1/10125.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 49

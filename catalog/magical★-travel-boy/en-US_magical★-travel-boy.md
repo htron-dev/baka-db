@@ -1,5 +1,7 @@
 # Magical★Travel Boy
 
+![magical★-travel-boy](https://cdn.myanimelist.net/images/manga/3/2432.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Namida no Ame no Ato de
 
+![namida-no-ame-no-ato-de](https://cdn.myanimelist.net/images/manga/3/229514.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 涙の雨のあとで

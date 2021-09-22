@@ -1,5 +1,7 @@
 # Shin Yami no Koe: Kaidan
 
+![shin-yami-no-koe-kaidan](https://cdn.myanimelist.net/images/manga/1/235816.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

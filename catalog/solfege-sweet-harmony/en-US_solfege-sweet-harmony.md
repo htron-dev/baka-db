@@ -1,5 +1,7 @@
 # Solfège ~Sweet Harmony~
 
+![solfege-sweet-harmony](https://cdn.myanimelist.net/images/manga/1/28360.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ソルフェージュ Sweet harmony

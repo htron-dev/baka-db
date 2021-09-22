@@ -1,5 +1,7 @@
 # Haou Densetsu Lion
 
+![haou-densetsu-lion](https://cdn.myanimelist.net/images/manga/1/180082.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

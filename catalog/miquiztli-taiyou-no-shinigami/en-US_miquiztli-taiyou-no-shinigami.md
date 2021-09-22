@@ -1,5 +1,7 @@
 # Miquiztli: Taiyou no Shinigami
 
+![miquiztli-taiyou-no-shinigami](https://cdn.myanimelist.net/images/manga/2/203564.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: ミキストリ -太陽の死神-

@@ -1,5 +1,7 @@
 # Kyoushoku Soukou Guyver
 
+![kyoushoku-soukou-guyver](https://cdn.myanimelist.net/images/anime/1833/94524.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 強殖装甲ガイバー

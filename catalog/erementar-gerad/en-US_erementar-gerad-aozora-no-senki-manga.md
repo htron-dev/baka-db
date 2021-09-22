@@ -1,5 +1,7 @@
 # Erementar Gerad: Aozora no Senki
 
+![erementar-gerad-aozora-no-senki](https://cdn.myanimelist.net/images/manga/2/158740.jpg)
+
 -   **type**: manga
 -   **original-name**: EREMENTAR GERAD －蒼空の戦旗－
 -   **start-date**: 2003-06-16

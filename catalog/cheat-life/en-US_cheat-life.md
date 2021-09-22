@@ -1,5 +1,7 @@
 # Cheat Life
 
+![cheat-life](https://cdn.myanimelist.net/images/manga/3/176202.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 31

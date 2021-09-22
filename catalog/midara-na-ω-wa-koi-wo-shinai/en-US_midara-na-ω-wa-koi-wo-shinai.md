@@ -1,5 +1,7 @@
 # Midara na Ω wa Koi wo Shinai
 
+![midara-na-ω-wa-koi-wo-shinai](https://cdn.myanimelist.net/images/manga/2/238046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

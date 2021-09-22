@@ -1,5 +1,7 @@
 # Kimi wa Haru ni Me wo Samasu
 
+![kimi-wa-haru-ni-me-wo-samasu](https://cdn.myanimelist.net/images/manga/2/202726.jpg)
+
 -   **type**: manga
 -   **original-name**: 君は春に目を醒ます
 -   **start-date**: 2017-05-24

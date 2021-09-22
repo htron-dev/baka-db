@@ -1,5 +1,7 @@
 # Kabushiki Joujou wo Mezashite Daihyou Torishimariyaku Oniichan ni Shuunin Itashimashita
 
+![kabushiki-joujou-wo-mezashite-daihyou-torishimariyaku-oniichan-ni-shuunin-itashimashita](https://cdn.myanimelist.net/images/manga/3/165422.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

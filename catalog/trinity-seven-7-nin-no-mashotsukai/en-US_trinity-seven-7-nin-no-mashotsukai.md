@@ -1,5 +1,7 @@
 # Trinity Seven: 7-nin no Mashotsukai
 
+![trinity-seven-7-nin-no-mashotsukai](https://cdn.myanimelist.net/images/manga/1/63963.jpg)
+
 -   **type**: manga
 -   **original-name**: トリニティセブン 7 人の魔書使い
 -   **start-date**: 2010-12-09

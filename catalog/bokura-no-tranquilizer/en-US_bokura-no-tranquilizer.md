@@ -1,5 +1,7 @@
 # Bokura no Tranquilizer
 
+![bokura-no-tranquilizer](https://cdn.myanimelist.net/images/manga/2/198566.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

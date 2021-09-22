@@ -1,5 +1,7 @@
 # Wanpaku Oomukashi Kum Kum
 
+![wanpaku-oomukashi-kum-kum](https://cdn.myanimelist.net/images/anime/9/65433.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: わんぱく大昔クムクム

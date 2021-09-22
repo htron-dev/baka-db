@@ -1,5 +1,7 @@
 # Koi no Rule wo Wasuretara
 
+![koi-no-rule-wo-wasuretara](https://cdn.myanimelist.net/images/manga/5/147091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋のルールを忘れたら

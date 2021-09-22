@@ -1,5 +1,7 @@
 # Wild☆Pitch
 
+![wild☆-pitch](https://cdn.myanimelist.net/images/manga/1/13335.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

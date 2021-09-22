@@ -1,5 +1,7 @@
 # Houkago Midnighters
 
+![houkago-midnighters](https://cdn.myanimelist.net/images/anime/13/41059.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 放課後ミッドナイターズ

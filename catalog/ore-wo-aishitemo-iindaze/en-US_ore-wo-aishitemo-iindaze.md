@@ -1,5 +1,7 @@
 # Ore wo Aishitemo Iindaze?
 
+![ore-wo-aishitemo-iindaze](https://cdn.myanimelist.net/images/manga/1/71777.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺を愛してもいいんだぜ?
 -   **start-date**: 2011-01-20

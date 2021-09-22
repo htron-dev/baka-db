@@ -1,5 +1,7 @@
 # Norimono Atsumare: Hit Song-shuu
 
+![norimono-atsumare-hit-song-shuu](https://cdn.myanimelist.net/images/anime/2/78925.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: のりものあつまれ ヒット・ソング集

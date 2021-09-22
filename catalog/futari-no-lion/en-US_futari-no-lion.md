@@ -1,5 +1,7 @@
 # Futari no Lion
 
+![futari-no-lion](https://cdn.myanimelist.net/images/manga/2/224576.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

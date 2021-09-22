@@ -1,5 +1,7 @@
 # Fura Sailor
 
+![fura-sailor](https://cdn.myanimelist.net/images/manga/2/33424.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ふらせら

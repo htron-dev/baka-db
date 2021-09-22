@@ -1,5 +1,7 @@
 # Maken-Ki! OVA
 
+![maken-ki-ova](https://cdn.myanimelist.net/images/anime/7/36929.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: マケン姫っ！ OVA

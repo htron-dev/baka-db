@@ -1,5 +1,7 @@
 # Kohinata-san Chi no Chounan wa Fukigen
 
+![kohinata-san-chi-no-chounan-wa-fukigen](https://cdn.myanimelist.net/images/manga/4/246302.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

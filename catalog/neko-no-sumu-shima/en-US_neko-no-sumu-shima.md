@@ -1,5 +1,7 @@
 # Neko no Sumu Shima
 
+![neko-no-sumu-shima](https://cdn.myanimelist.net/images/anime/9/37685.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 猫の棲む島

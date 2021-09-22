@@ -1,5 +1,7 @@
 # Iscariot
 
+![iscariot](https://cdn.myanimelist.net/images/manga/3/97329.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: イスカリオテ

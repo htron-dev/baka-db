@@ -1,5 +1,7 @@
 # Otonari Complex
 
+![otonari-complex](https://cdn.myanimelist.net/images/manga/1/181140.jpg)
+
 -   **type**: manga
 -   **original-name**: おとなりコンプレックス
 -   **start-date**: 2014-11-13

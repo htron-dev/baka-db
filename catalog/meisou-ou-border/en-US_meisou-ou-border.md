@@ -1,5 +1,7 @@
 # Meisou-Ou Border
 
+![meisou-ou-border](https://cdn.myanimelist.net/images/anime/4/43745.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 迷走王 ボーダー

@@ -1,5 +1,7 @@
 # Guardians of the Video Game
 
+![guardians-of-the-video-game](https://cdn.myanimelist.net/images/manga/1/167685.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 전자오락수호대
 -   **start-date**: 2014-10-15

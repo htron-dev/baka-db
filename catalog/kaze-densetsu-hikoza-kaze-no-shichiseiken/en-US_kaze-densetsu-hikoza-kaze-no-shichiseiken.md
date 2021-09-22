@@ -1,5 +1,7 @@
 # Kaze Densetsu Hikoza: Kaze no Shichiseiken
 
+![kaze-densetsu-hikoza-kaze-no-shichiseiken](https://cdn.myanimelist.net/images/manga/1/38279.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 疾風(カゼ)伝説彦佐 疾風の七星剣

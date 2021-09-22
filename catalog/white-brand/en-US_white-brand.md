@@ -1,5 +1,7 @@
 # White Brand
 
+![white-brand](https://cdn.myanimelist.net/images/manga/3/11140.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Koneko Mata Hiroimashita
 
+![koneko-mata-hiroimashita](https://cdn.myanimelist.net/images/manga/1/197708.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

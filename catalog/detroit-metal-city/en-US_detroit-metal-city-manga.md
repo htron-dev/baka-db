@@ -1,5 +1,7 @@
 # Detroit Metal City
 
+![detroit-metal-city](https://cdn.myanimelist.net/images/manga/1/207424.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 114

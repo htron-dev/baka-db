@@ -1,5 +1,7 @@
 # Imouto no Oshigoto wa Jikyuu 2000-en
 
+![imouto-no-oshigoto-wa-jikyuu-2000-en](https://cdn.myanimelist.net/images/manga/2/205227.jpg)
+
 -   **type**: manga
 -   **original-name**: 妹のおシゴトは時給 2000 円
 -   **start-date**: 2016-09-17

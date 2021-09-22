@@ -1,5 +1,7 @@
 # Home Sweet Home
 
+![home-sweet-home](https://cdn.myanimelist.net/images/manga/1/177262.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

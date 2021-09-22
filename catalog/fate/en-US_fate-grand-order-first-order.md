@@ -1,5 +1,7 @@
 # Fate/Grand Order: First Order
 
+![fate-grand-order-first-order](https://cdn.myanimelist.net/images/anime/6/82651.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Fate/Grand Order -First Order-

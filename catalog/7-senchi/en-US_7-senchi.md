@@ -1,5 +1,7 @@
 # 7 Senchi!
 
+![7-senchi](https://cdn.myanimelist.net/images/manga/5/69637.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

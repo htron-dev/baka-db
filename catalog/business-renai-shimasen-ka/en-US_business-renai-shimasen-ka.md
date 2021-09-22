@@ -1,5 +1,7 @@
 # Business Renai Shimasen ka?
 
+![business-renai-shimasen-ka](https://cdn.myanimelist.net/images/manga/1/197079.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ビジネス恋愛しませんか？

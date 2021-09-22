@@ -1,5 +1,7 @@
 # ARP Backstage Pass Special
 
+![arp-backstage-pass-special](https://cdn.myanimelist.net/images/anime/1108/107861.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ARP Backstage Pass

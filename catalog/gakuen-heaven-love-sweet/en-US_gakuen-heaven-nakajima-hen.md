@@ -1,5 +1,7 @@
 # Gakuen Heaven: Nakajima-hen
 
+![gakuen-heaven-nakajima-hen](https://cdn.myanimelist.net/images/manga/3/2833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

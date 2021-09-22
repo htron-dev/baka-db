@@ -1,5 +1,7 @@
 # Kowashiya Shimai no Koufuku na Zenmetsu: Yuusha-tachi no D-kyuu na Nichijou
 
+![kowashiya-shimai-no-koufuku-na-zenmetsu-yuusha-tachi-no-d-kyuu-na-nichijou](https://cdn.myanimelist.net/images/manga/3/201716.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

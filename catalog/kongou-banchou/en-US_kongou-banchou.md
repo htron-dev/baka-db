@@ -1,5 +1,7 @@
 # Kongou Banchou
 
+![kongou-banchou](https://cdn.myanimelist.net/images/manga/2/202645.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 115

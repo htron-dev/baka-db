@@ -1,5 +1,7 @@
 # Sadosuto na Fujiwara-kun
 
+![sadosuto-na-fujiwara-kun](https://cdn.myanimelist.net/images/manga/3/189614.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

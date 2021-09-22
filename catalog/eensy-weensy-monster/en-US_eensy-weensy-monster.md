@@ -1,5 +1,7 @@
 # Eensy-Weensy Monster
 
+![eensy-weensy-monster](https://cdn.myanimelist.net/images/manga/1/180612.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

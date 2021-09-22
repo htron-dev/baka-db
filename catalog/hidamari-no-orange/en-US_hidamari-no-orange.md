@@ -1,5 +1,7 @@
 # Hidamari no Orange
 
+![hidamari-no-orange](https://cdn.myanimelist.net/images/manga/1/244633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

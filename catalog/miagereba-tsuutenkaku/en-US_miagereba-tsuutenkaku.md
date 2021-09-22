@@ -1,5 +1,7 @@
 # Miagereba Tsuutenkaku
 
+![miagereba-tsuutenkaku](https://cdn.myanimelist.net/images/manga/1/116289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

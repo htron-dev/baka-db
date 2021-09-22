@@ -1,5 +1,7 @@
 # Shinkyoku Soukai Polyphonica Crimson S
 
+![shinkyoku-soukai-polyphonica-crimson-s](https://cdn.myanimelist.net/images/anime/1550/95575.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 神曲奏界ポリフォニカ crimsonS

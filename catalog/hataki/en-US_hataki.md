@@ -1,5 +1,7 @@
 # Hataki
 
+![hataki](https://cdn.myanimelist.net/images/manga/2/21120.jpg)
+
 -   **type**: manga
 -   **original-name**: ハタキ
 

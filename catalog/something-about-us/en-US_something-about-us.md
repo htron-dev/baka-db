@@ -1,5 +1,7 @@
 # Something About Us
 
+![something-about-us](https://cdn.myanimelist.net/images/manga/3/189603.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 101

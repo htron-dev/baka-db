@@ -1,5 +1,7 @@
 # Meitantei Conan: Ijigen no Sniper
 
+![meitantei-conan-ijigen-no-sniper](https://cdn.myanimelist.net/images/manga/3/240664.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

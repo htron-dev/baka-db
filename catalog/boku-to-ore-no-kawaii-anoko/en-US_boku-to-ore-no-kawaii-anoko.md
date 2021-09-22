@@ -1,5 +1,7 @@
 # Boku to Ore no Kawaii Anoko
 
+![boku-to-ore-no-kawaii-anoko](https://cdn.myanimelist.net/images/manga/1/27321.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

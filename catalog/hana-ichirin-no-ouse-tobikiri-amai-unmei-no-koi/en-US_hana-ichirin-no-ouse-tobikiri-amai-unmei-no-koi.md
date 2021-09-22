@@ -1,5 +1,7 @@
 # Hana Ichirin no Ouse: Tobikiri Amai Unmei no Koi
 
+![hana-ichirin-no-ouse-tobikiri-amai-unmei-no-koi](https://cdn.myanimelist.net/images/manga/1/194138.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Buddy Spirits
 
+![buddy-spirits](https://cdn.myanimelist.net/images/manga/3/114833.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

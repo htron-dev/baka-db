@@ -1,5 +1,7 @@
 # Kain
 
+![kain](https://cdn.myanimelist.net/images/manga/3/178910.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Gamble Witch Kingdom
 
+![gamble-witch-kingdom](https://cdn.myanimelist.net/images/manga/2/185116.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ギャンブル・ウィッチ・キングダム
 -   **start-date**: 2016-11-15

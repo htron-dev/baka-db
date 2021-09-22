@@ -1,5 +1,7 @@
 # Sengoku Otome: Momoiro Paradox
 
+![sengoku-otome-momoiro-paradox](https://cdn.myanimelist.net/images/anime/12/75231.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 戦国乙女～桃色パラドックス～

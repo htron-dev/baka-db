@@ -1,5 +1,7 @@
 # Shuuchaku Ouji no Amai Sokubaku: Houseki to Hitomishiri Otome
 
+![shuuchaku-ouji-no-amai-sokubaku-houseki-to-hitomishiri-otome](https://cdn.myanimelist.net/images/manga/3/153349.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 執着王子の甘い束縛 ～宝石と人みしり乙女～

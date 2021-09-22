@@ -1,5 +1,7 @@
 # Kiss Dum R: Meguriahi
 
+![kiss-dum-r-meguriahi](https://cdn.myanimelist.net/images/anime/7/69103.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: キスダム R:　メグリアヒ

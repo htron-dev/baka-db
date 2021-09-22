@@ -1,5 +1,7 @@
 # Cyborg 009: Chou Ginga Densetsu
 
+![cyborg-009-chou-ginga-densetsu](https://cdn.myanimelist.net/images/anime/3/17466.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サイボーグ００９・超銀河伝説

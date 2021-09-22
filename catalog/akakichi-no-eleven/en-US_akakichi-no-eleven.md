@@ -1,5 +1,7 @@
 # Akakichi no Eleven
 
+![akakichi-no-eleven](https://cdn.myanimelist.net/images/anime/4/23205.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 赤き血のイレブン

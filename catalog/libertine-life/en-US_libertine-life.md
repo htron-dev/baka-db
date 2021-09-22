@@ -1,5 +1,7 @@
 # Libertine Life
 
+![libertine-life](https://cdn.myanimelist.net/images/manga/3/14960.jpg)
+
 -   **type**: manga
 
 ## Tags

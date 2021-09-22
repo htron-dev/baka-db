@@ -1,5 +1,7 @@
 # Qiang Shen Ji
 
+![qiang-shen-ji](https://cdn.myanimelist.net/images/anime/1323/98958.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 枪神记

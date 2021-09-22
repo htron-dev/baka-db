@@ -1,5 +1,7 @@
 # Shakugan no Shana: Ballroom
 
+![shakugan-no-shana-ballroom](https://cdn.myanimelist.net/images/manga/3/181580.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: 灼眼のシャナ ボールルーム

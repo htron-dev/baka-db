@@ -1,5 +1,7 @@
 # Persona Q: Shadow of the Labyrinth - Side:P3
 
+![persona-q-shadow-of-the-labyrinth-side-p-3](https://cdn.myanimelist.net/images/manga/2/163821.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

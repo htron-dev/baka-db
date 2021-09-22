@@ -1,5 +1,7 @@
 # Air Kare
 
+![air-kare](https://cdn.myanimelist.net/images/manga/1/215013.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

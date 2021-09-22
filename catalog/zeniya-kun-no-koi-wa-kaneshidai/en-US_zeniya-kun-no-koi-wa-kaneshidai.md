@@ -1,5 +1,7 @@
 # Zeniya-kun no Koi wa Kaneshidai
 
+![zeniya-kun-no-koi-wa-kaneshidai](https://cdn.myanimelist.net/images/manga/2/204075.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

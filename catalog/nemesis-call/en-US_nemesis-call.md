@@ -1,5 +1,7 @@
 # Nemesis Call
 
+![nemesis-call](https://cdn.myanimelist.net/images/manga/2/219515.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

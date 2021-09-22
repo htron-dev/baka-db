@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch DVD Magazine Picture Drama
 
+![code-geass-hangyaku-no-lelouch-dvd-magazine-picture-drama](https://cdn.myanimelist.net/images/anime/1566/105441.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: コードギアス 反逆のルルーシュ DVD マガジン

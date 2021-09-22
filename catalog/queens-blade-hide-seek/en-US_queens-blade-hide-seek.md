@@ -1,5 +1,7 @@
 # Queen's Blade: Hide & Seek
 
+![queens-blade-hide-seek](https://cdn.myanimelist.net/images/manga/4/26099.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

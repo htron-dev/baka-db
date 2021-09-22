@@ -1,5 +1,7 @@
 # Dead Heat
 
+![dead-heat](https://cdn.myanimelist.net/images/anime/6/51885.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: デッドヒート
@@ -25,4 +27,4 @@ Failed driver Makoto is ready to quit the business until he is approached by Hay
 -   [Official Site](http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=117)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2351)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7100)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/デッドヒート_(OVA)>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/デッドヒート_%28OVA%29)

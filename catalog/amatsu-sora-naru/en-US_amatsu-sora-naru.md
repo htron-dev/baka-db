@@ -1,5 +1,7 @@
 # Amatsu Sora Naru
 
+![amatsu-sora-naru](https://cdn.myanimelist.net/images/manga/2/80849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

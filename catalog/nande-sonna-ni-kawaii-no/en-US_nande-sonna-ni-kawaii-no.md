@@ -1,5 +1,7 @@
 # Nande Sonna ni Kawaii no
 
+![nande-sonna-ni-kawaii-no](https://cdn.myanimelist.net/images/manga/3/177453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

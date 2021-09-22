@@ -1,5 +1,7 @@
 # Pa-peki! Oneesan
 
+![pa-peki-oneesan](https://cdn.myanimelist.net/images/manga/2/36292.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パーペキ!お姉さん
@@ -14,8 +16,6 @@
 
 -   Nagano
 -   Akane (Story & Art)
-
-## Sinopse
 
 ## Links
 

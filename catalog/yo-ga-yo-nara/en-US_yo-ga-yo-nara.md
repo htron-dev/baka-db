@@ -1,5 +1,7 @@
 # Yo ga Yo nara!
 
+![yo-ga-yo-nara](https://cdn.myanimelist.net/images/manga/1/247755.jpg)
+
 -   **type**: manga
 -   **original-name**: 世が夜なら！
 -   **start-date**: 2020-06-24

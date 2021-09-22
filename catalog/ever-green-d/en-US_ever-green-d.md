@@ -1,5 +1,7 @@
 # EVER GREEN:D
 
+![ever-green-d](https://cdn.myanimelist.net/images/manga/1/39301.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: エバーグリード EVER GREEN:D

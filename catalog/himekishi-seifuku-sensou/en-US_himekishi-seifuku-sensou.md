@@ -1,5 +1,7 @@
 # Himekishi Seifuku Sensou
 
+![himekishi-seifuku-sensou](https://cdn.myanimelist.net/images/manga/1/159290.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

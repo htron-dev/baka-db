@@ -1,5 +1,7 @@
 # Submarine Super 99
 
+![submarine-super-99](https://cdn.myanimelist.net/images/anime/7/49109.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: サブマリン スーパー９９

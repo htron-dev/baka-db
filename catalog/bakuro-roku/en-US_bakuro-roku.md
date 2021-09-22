@@ -1,5 +1,7 @@
 # Bakuro Roku
 
+![bakuro-roku](https://cdn.myanimelist.net/images/manga/2/129027.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

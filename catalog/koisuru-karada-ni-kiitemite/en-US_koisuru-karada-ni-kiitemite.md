@@ -1,5 +1,7 @@
 # Koisuru Karada ni Kiitemite
 
+![koisuru-karada-ni-kiitemite](https://cdn.myanimelist.net/images/manga/1/91747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

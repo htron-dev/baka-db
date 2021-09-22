@@ -1,5 +1,7 @@
 # Tsuki wo mo Kudaku Onahole: Shijou Saidai no Techno Break
 
+![tsuki-wo-mo-kudaku-onahole-shijou-saidai-no-techno-break](https://cdn.myanimelist.net/images/manga/1/169769.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 月をも砕くオナホール－史上最大のテクノブレイク－

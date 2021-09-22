@@ -1,5 +1,7 @@
 # Taimadou Gakuen 35 Shiken Shoutai
 
+![taimadou-gakuen-35-shiken-shoutai](https://cdn.myanimelist.net/images/manga/1/174986.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 100

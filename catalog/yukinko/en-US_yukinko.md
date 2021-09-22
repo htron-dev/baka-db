@@ -1,5 +1,7 @@
 # Yukinko!!
 
+![yukinko](https://cdn.myanimelist.net/images/manga/1/36422.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

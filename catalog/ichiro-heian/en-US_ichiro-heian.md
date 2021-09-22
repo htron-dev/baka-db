@@ -1,5 +1,7 @@
 # Ichiro Heian!
 
+![ichiro-heian](https://cdn.myanimelist.net/images/manga/2/58165.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

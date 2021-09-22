@@ -1,5 +1,7 @@
 # Ashita, Boku wa Shinu. Kimi wa Ikikaeru.
 
+![ashita-boku-wa-shinu-kimi-wa-ikikaeru](https://cdn.myanimelist.net/images/manga/2/195032.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 26

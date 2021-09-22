@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica: Anthology Comic
 
+![mahou-shoujo-madoka★-magica-anthology-comic](https://cdn.myanimelist.net/images/manga/3/110093.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法少女まどか ★ マギカ [アンソロジーコミック]
 -   **start-date**: 2011-09-12

@@ -1,5 +1,7 @@
 # Sengoku Jieitai 1549
 
+![sengoku-jieitai-1549](https://cdn.myanimelist.net/images/manga/3/86427.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Toko no Nagai Gogo
 
+![toko-no-nagai-gogo](https://cdn.myanimelist.net/images/manga/2/98289.jpg)
+
 -   **type**: manga
 -   **original-name**: トコの長い午後
 -   **start-date**: 2012-11-16

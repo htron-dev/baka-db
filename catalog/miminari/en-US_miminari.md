@@ -1,5 +1,7 @@
 # Miminari
 
+![miminari](https://cdn.myanimelist.net/images/anime/1849/108142.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 耳鳴り

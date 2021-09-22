@@ -1,5 +1,7 @@
 # Yurumates wa?
 
+![yurumates-wa](https://cdn.myanimelist.net/images/anime/7/32647.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゆるめいつ は?

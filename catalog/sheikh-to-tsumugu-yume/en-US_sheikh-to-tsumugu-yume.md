@@ -1,5 +1,7 @@
 # Sheikh to Tsumugu Yume
 
+![sheikh-to-tsumugu-yume](https://cdn.myanimelist.net/images/manga/1/230999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シークと紡ぐ夢

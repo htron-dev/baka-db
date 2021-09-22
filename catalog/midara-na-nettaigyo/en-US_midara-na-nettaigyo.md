@@ -1,5 +1,7 @@
 # Midara na Nettaigyo
 
+![midara-na-nettaigyo](https://cdn.myanimelist.net/images/manga/1/116385.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 33

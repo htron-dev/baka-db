@@ -1,5 +1,7 @@
 # Awa Koi
 
+![awa-koi](https://cdn.myanimelist.net/images/manga/1/190274.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

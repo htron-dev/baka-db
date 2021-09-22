@@ -1,5 +1,7 @@
 # Yumemi Douji
 
+![yumemi-douji](https://cdn.myanimelist.net/images/anime/12/71597.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夢見童子

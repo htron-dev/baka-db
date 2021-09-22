@@ -1,5 +1,7 @@
 # Eomaia
 
+![eomaia](https://cdn.myanimelist.net/images/manga/3/218076.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

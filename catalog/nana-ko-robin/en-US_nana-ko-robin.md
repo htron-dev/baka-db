@@ -1,5 +1,7 @@
 # NanaKo Robin
 
+![nana-ko-robin](https://cdn.myanimelist.net/images/manga/2/15136.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

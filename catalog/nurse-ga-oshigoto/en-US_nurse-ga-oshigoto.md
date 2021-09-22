@@ -1,5 +1,7 @@
 # Nurse ga Oshigoto
 
+![nurse-ga-oshigoto](https://cdn.myanimelist.net/images/manga/2/186392.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

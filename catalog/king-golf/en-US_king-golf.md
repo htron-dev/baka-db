@@ -1,5 +1,7 @@
 # King Golf
 
+![king-golf](https://cdn.myanimelist.net/images/manga/5/47939.jpg)
+
 -   **type**: manga
 -   **original-name**: KING GOLF
 -   **start-date**: 2008-08-06

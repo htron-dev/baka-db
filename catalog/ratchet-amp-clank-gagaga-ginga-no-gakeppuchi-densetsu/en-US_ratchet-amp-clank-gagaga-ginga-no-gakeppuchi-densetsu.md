@@ -1,5 +1,7 @@
 # Ratchet &amp; Clank - Gagaga! Ginga no Gakeppuchi Densetsu
 
+![ratchet-amp-clank-gagaga-ginga-no-gakeppuchi-densetsu](https://cdn.myanimelist.net/images/manga/1/17662.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24
@@ -11,7 +13,6 @@
 
 -   action
 -   comedy
-
 -   sci-fi
 
 ## Authors

@@ -1,5 +1,7 @@
 # Meitantei Holmes: Aoi Ruby no Maki / Kaitei no Zaihou no Maki
 
+![meitantei-holmes-aoi-ruby-no-maki-kaitei-no-zaihou-no-maki](https://cdn.myanimelist.net/images/anime/10/42601.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵ホームズ 青い紅玉の巻/海底の財宝の巻

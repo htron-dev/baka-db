@@ -1,5 +1,7 @@
 # Ojisan to Ore no Koiwazurai
 
+![ojisan-to-ore-no-koiwazurai](https://cdn.myanimelist.net/images/manga/1/244628.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

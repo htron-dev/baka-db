@@ -1,5 +1,7 @@
 # Mad Cinderella
 
+![mad-cinderella](https://cdn.myanimelist.net/images/manga/2/174368.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

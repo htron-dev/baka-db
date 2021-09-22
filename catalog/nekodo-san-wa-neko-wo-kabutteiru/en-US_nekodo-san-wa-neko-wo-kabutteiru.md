@@ -1,5 +1,7 @@
 # Nekodo-san wa Neko wo Kabutteiru
 
+![nekodo-san-wa-neko-wo-kabutteiru](https://cdn.myanimelist.net/images/manga/1/195204.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

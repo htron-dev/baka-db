@@ -1,5 +1,7 @@
 # Maru-san no Snack
 
+![maru-san-no-snack](https://cdn.myanimelist.net/images/manga/3/158101.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
 
+![re-zero-kara-hajimeru-isekai-seikatsu-2nd-season](https://cdn.myanimelist.net/images/anime/1444/108005.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: Re：ゼロから始める異世界生活

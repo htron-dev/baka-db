@@ -1,5 +1,7 @@
 # M, comicer
 
+![m-comicer](https://cdn.myanimelist.net/images/manga/3/170063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 29

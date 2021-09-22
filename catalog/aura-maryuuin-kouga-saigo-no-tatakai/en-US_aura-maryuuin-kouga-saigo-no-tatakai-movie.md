@@ -1,5 +1,7 @@
 # Aura: Maryuuin Kouga Saigo no Tatakai
 
+![aura-maryuuin-kouga-saigo-no-tatakai](https://cdn.myanimelist.net/images/anime/12/67107.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: AURA ～魔竜院光牙最後の闘い～

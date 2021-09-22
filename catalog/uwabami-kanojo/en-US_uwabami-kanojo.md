@@ -1,5 +1,7 @@
 # Uwabami Kanojo
 
+![uwabami-kanojo](https://cdn.myanimelist.net/images/manga/1/166215.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 78

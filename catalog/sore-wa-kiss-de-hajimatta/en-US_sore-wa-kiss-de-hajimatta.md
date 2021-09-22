@@ -1,5 +1,7 @@
 # Sore wa Kiss de Hajimatta
 
+![sore-wa-kiss-de-hajimatta](https://cdn.myanimelist.net/images/manga/2/94463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: それはキスで始まった

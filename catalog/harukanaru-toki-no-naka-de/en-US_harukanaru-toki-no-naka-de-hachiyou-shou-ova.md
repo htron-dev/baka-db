@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de: Hachiyou Shou OVA
 
+![harukanaru-toki-no-naka-de-hachiyou-shou-ova](https://cdn.myanimelist.net/images/anime/7/72169.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 遙かなる時空の中で〜八葉抄〜

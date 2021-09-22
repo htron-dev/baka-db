@@ -1,5 +1,7 @@
 # Oushuu Youitan
 
+![oushuu-youitan](https://cdn.myanimelist.net/images/manga/2/239240.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 25
 -   **chapters**: 151

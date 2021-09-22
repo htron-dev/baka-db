@@ -1,5 +1,7 @@
 # Hokenshitsu e Irasshai
 
+![hokenshitsu-e-irasshai](https://cdn.myanimelist.net/images/manga/2/79443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 保健室へいらっしゃい

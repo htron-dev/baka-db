@@ -1,5 +1,7 @@
 # 50 Million Km
 
+![50-million-km](https://cdn.myanimelist.net/images/manga/5/144543.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 23

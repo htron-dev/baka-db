@@ -1,5 +1,7 @@
 # Nijiiro Tougarashi
 
+![nijiiro-tougarashi](https://cdn.myanimelist.net/images/manga/4/9782.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 109

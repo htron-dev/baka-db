@@ -1,5 +1,7 @@
 # Kawaii Darling
 
+![kawaii-darling](https://cdn.myanimelist.net/images/manga/1/17705.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

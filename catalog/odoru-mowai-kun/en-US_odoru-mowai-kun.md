@@ -1,5 +1,7 @@
 # Odoru Mowai-kun
 
+![odoru-mowai-kun](https://cdn.myanimelist.net/images/anime/1123/102544.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: おどるモワイくん

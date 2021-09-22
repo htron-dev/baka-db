@@ -1,5 +1,7 @@
 # Hajimete Koibito ga Dekimashita.
 
+![hajimete-koibito-ga-dekimashita](https://cdn.myanimelist.net/images/manga/3/243077.jpg)
+
 -   **type**: manga
 -   **original-name**: 初めて恋人ができました。
 -   **start-date**: 2021-02-26

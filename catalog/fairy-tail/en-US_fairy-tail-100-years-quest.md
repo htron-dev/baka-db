@@ -1,5 +1,7 @@
 # Fairy Tail: 100 Years Quest
 
+![fairy-tail-100-years-quest](https://cdn.myanimelist.net/images/manga/1/213604.jpg)
+
 -   **type**: manga
 -   **original-name**: FAIRY TAIL 100 YEARS QUEST
 -   **start-date**: 2018-07-25

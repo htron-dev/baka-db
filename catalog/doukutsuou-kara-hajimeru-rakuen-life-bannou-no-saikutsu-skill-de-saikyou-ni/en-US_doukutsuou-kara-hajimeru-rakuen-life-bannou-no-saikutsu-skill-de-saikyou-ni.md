@@ -1,5 +1,7 @@
 # Doukutsuou kara Hajimeru Rakuen Life: Bannou no Saikutsu Skill de Saikyou ni
 
+![doukutsuou-kara-hajimeru-rakuen-life-bannou-no-saikutsu-skill-de-saikyou-ni](https://cdn.myanimelist.net/images/manga/3/234757.jpg)
+
 -   **type**: manga
 -   **original-name**: 洞窟王からはじめる楽園ライフ ～万能の採掘スキルで最強に!?～
 -   **start-date**: 2020-04-19

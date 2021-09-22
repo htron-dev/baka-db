@@ -1,5 +1,7 @@
 # Muv-Luv Alternative
 
+![muv-luv-alternative](https://cdn.myanimelist.net/images/anime/1188/117359.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: マブラヴ オルタネイティヴ
 -   **start-date**: 2021-10-20

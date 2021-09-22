@@ -1,5 +1,7 @@
 # Crazy for It
 
+![crazy-for-it](https://cdn.myanimelist.net/images/anime/8/71832.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: crazy for it

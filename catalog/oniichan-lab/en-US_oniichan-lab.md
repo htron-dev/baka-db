@@ -1,5 +1,7 @@
 # Oniichan Lab.
 
+![oniichan-lab](https://cdn.myanimelist.net/images/manga/1/30001.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

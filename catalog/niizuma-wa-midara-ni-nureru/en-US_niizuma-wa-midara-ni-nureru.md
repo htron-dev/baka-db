@@ -1,5 +1,7 @@
 # Niizuma wa Midara ni Nureru
 
+![niizuma-wa-midara-ni-nureru](https://cdn.myanimelist.net/images/manga/1/181363.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

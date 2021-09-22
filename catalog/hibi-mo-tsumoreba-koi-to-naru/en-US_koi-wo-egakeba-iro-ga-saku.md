@@ -1,5 +1,7 @@
 # Koi wo Egakeba Iro ga Saku
 
+![koi-wo-egakeba-iro-ga-saku](https://cdn.myanimelist.net/images/manga/1/244736.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

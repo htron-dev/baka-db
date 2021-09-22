@@ -1,5 +1,7 @@
 # Warui Yume wo Miteita
 
+![warui-yume-wo-miteita](https://cdn.myanimelist.net/images/manga/2/199485.jpg)
+
 -   **type**: manga
 -   **original-name**: わるい夢をみていた
 -   **start-date**: 2017-07-28

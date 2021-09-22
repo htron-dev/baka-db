@@ -1,5 +1,7 @@
 # Spy Kyoushitsu
 
+![spy-kyoushitsu](https://cdn.myanimelist.net/images/manga/2/247351.jpg)
+
 -   **type**: manga
 -   **original-name**: スパイ教室
 -   **start-date**: 2020-05-27

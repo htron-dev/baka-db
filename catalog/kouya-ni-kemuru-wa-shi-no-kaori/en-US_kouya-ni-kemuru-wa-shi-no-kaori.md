@@ -1,5 +1,7 @@
 # Kouya ni Kemuru wa Shi no Kaori
 
+![kouya-ni-kemuru-wa-shi-no-kaori](https://cdn.myanimelist.net/images/manga/3/221770.jpg)
+
 -   **type**: manga
 -   **original-name**: 荒野に煙るは死の香り
 -   **start-date**: 2018-09-28

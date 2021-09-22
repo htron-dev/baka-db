@@ -1,5 +1,7 @@
 # Kokuhaku Cupid
 
+![kokuhaku-cupid](https://cdn.myanimelist.net/images/manga/3/179104.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

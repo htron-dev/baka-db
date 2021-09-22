@@ -1,5 +1,7 @@
 # Kimera
 
+![kimera](https://cdn.myanimelist.net/images/manga/2/25427.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: KIMERA

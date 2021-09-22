@@ -1,5 +1,7 @@
 # Tonari no Shibafu
 
+![tonari-no-shibafu](https://cdn.myanimelist.net/images/manga/2/26323.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

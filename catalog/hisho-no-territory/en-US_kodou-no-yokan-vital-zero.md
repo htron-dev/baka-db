@@ -1,5 +1,7 @@
 # Kodou no Yokan - Vital Zero
 
+![kodou-no-yokan-vital-zero](https://cdn.myanimelist.net/images/manga/1/35766.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kakuu Izon
 
+![kakuu-izon](https://cdn.myanimelist.net/images/manga/1/199037.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

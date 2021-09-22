@@ -1,5 +1,7 @@
 # Fukafuka Dungeon Kouryakuki: Ore no Isekai Tensei Boukentan
 
+![fukafuka-dungeon-kouryakuki-ore-no-isekai-tensei-boukentan](https://cdn.myanimelist.net/images/manga/3/245384.jpg)
+
 -   **type**: manga
 -   **original-name**: ふかふかダンジョン攻略記～俺の異世界転生冒険譚～
 -   **start-date**: 2019-09-20

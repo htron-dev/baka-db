@@ -1,5 +1,7 @@
 # Sayonara no Asa ni Yakusoku no Hana wo Kazarou
 
+![sayonara-no-asa-ni-yakusoku-no-hana-wo-kazarou](https://cdn.myanimelist.net/images/manga/1/220810.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

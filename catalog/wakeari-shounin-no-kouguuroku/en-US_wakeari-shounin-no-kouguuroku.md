@@ -1,5 +1,7 @@
 # Wakeari Shounin no Kouguuroku
 
+![wakeari-shounin-no-kouguuroku](https://cdn.myanimelist.net/images/manga/3/152790.jpg)
+
 -   **type**: light-novel
 -   **original-name**: わけあり商人の皇宮録
 -   **start-date**: 2015-04-15

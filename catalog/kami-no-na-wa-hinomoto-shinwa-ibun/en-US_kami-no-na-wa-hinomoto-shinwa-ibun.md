@@ -1,5 +1,7 @@
 # Kami no Na wa: Hinomoto Shinwa Ibun
 
+![kami-no-na-wa-hinomoto-shinwa-ibun](https://cdn.myanimelist.net/images/manga/1/15257.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

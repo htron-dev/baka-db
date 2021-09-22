@@ -1,5 +1,7 @@
 # RGB Adventure
 
+![rgb-adventure](https://cdn.myanimelist.net/images/anime/12/30308.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: RGB アドベンチャ

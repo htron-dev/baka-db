@@ -1,5 +1,7 @@
 # Lady Lady!! (1988)
 
+![lady-lady-1988](https://cdn.myanimelist.net/images/anime/4/27066.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: レディレディ!! (1988)

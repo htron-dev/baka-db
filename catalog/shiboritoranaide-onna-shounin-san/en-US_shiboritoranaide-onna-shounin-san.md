@@ -1,5 +1,7 @@
 # Shiboritoranaide, Onna Shounin-san!!
 
+![shiboritoranaide-onna-shounin-san](https://cdn.myanimelist.net/images/manga/1/232871.jpg)
+
 -   **type**: manga
 -   **original-name**: 搾り取らないで、女商人さん!!
 -   **start-date**: 2019-11-15

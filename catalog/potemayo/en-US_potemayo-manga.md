@@ -1,5 +1,7 @@
 # Potemayo
 
+![potemayo](https://cdn.myanimelist.net/images/manga/1/168937.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 76

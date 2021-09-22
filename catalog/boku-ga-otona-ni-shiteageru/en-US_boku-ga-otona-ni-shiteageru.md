@@ -1,5 +1,7 @@
 # Boku ga Otona ni Shiteageru
 
+![boku-ga-otona-ni-shiteageru](https://cdn.myanimelist.net/images/manga/1/205495.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

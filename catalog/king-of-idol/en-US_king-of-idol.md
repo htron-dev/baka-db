@@ -1,5 +1,7 @@
 # King of Idol
 
+![king-of-idol](https://cdn.myanimelist.net/images/manga/1/200939.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 61

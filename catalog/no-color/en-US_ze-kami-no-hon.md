@@ -1,5 +1,7 @@
 # Ze: Kami no Hon
 
+![ze-kami-no-hon](https://cdn.myanimelist.net/images/manga/4/137113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Tonari no Seki-kun
 
+![tonari-no-seki-kun](https://cdn.myanimelist.net/images/manga/2/74647.jpg)
+
 -   **type**: manga
 -   **original-name**: となりの関くん
 -   **start-date**: 2010-07-05

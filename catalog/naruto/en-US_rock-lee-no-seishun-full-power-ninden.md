@@ -1,5 +1,7 @@
 # Rock Lee no Seishun Full-Power Ninden
 
+![rock-lee-no-seishun-full-power-ninden](https://cdn.myanimelist.net/images/manga/2/127187.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 39

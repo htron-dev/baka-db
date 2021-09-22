@@ -1,5 +1,7 @@
 # Sugar Sister 1/2
 
+![sugar-sister-1-2](https://cdn.myanimelist.net/images/manga/3/122269.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: シュガーシスター 1/2

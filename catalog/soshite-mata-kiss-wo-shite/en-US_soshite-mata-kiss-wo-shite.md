@@ -1,5 +1,7 @@
 # Soshite Mata Kiss wo Shite
 
+![soshite-mata-kiss-wo-shite](https://cdn.myanimelist.net/images/manga/2/238657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

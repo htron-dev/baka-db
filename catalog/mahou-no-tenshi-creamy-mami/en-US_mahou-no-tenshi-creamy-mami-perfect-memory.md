@@ -1,5 +1,7 @@
 # Mahou no Tenshi Creamy Mami: Perfect Memory
 
+![mahou-no-tenshi-creamy-mami-perfect-memory](https://cdn.myanimelist.net/images/anime/8/77437.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法の天使 クリィミーマミ パーフェクトメモリー
@@ -20,4 +22,4 @@ An OVA supercut of Eien no Once More, Long Goodbye, and Curtain Call. One new an
 
 -   [My Anime list](https://myanimelist.net/anime/32259/Mahou_no_Tenshi_Creamy_Mami__Perfect_Memory)
 -   [Official Site](https://bvc.bandaivisual.co.jp/special/005_mami/index.html)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E3%81%AE%E5%A4%A9%E4%BD%BF%E3%82%AF%E3%83%AA%E3%82%A3%E3%83%9F%E3%83%BC%E3%83%9E%E3%83%9F_(OVA)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E3%81%AE%E5%A4%A9%E4%BD%BF%E3%82%AF%E3%83%AA%E3%82%A3%E3%83%9F%E3%83%BC%E3%83%9E%E3%83%9F_%28OVA%29)

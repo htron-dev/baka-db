@@ -1,5 +1,7 @@
 # Love Knife
 
+![love-knife](https://cdn.myanimelist.net/images/manga/2/11081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

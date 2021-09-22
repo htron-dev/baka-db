@@ -1,5 +1,7 @@
 # Menou no Ryuu
 
+![menou-no-ryuu](https://cdn.myanimelist.net/images/manga/2/115229.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

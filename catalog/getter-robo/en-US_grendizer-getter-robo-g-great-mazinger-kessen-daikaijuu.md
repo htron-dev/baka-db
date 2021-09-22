@@ -1,5 +1,7 @@
 # Grendizer: Getter Robo G - Great Mazinger Kessen! Daikaijuu
 
+![grendizer-getter-robo-g-great-mazinger-kessen-daikaijuu](https://cdn.myanimelist.net/images/anime/1125/99760.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: グレンダイザー・ゲッターロボＧ・グレートマジンガー 決戦！大海獣

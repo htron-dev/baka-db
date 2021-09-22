@@ -1,5 +1,7 @@
 # LR Shoujo Tanteidan
 
+![lr-shoujo-tanteidan](https://cdn.myanimelist.net/images/manga/2/47987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: LR 少女探偵団

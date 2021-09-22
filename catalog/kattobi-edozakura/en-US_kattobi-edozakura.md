@@ -1,5 +1,7 @@
 # Kattobi Edozakura!!
 
+![kattobi-edozakura](https://cdn.myanimelist.net/images/manga/1/30905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: かっ飛び江戸桜!!

@@ -1,5 +1,7 @@
 # Aokishi: Tetsuwan Atom Aokishi yori
 
+![aokishi-tetsuwan-atom-aokishi-yori](https://cdn.myanimelist.net/images/manga/2/181643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

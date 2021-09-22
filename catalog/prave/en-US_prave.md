@@ -1,5 +1,7 @@
 # Prave!
 
+![prave](https://cdn.myanimelist.net/images/manga/2/164373.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ぷれいぶっ！

@@ -1,5 +1,7 @@
 # Rose Meets Rose
 
+![rose-meets-rose](https://cdn.myanimelist.net/images/manga/3/34645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

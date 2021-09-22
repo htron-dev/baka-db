@@ -1,5 +1,7 @@
 # Sakurairo Kiss Holic
 
+![sakurairo-kiss-holic](https://cdn.myanimelist.net/images/manga/2/223756.jpg)
+
 -   **type**: manga
 -   **original-name**: 桜色キスホリック
 -   **start-date**: 2018-04-28

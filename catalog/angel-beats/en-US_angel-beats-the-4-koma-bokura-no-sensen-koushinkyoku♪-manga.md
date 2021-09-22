@@ -1,5 +1,7 @@
 # Angel Beats! The 4-koma: Bokura no Sensen Koushinkyoku♪
 
+![angel-beats-the-4-koma-bokura-no-sensen-koushinkyoku♪](https://cdn.myanimelist.net/images/manga/3/176837.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 52

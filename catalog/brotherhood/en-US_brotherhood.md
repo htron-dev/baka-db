@@ -1,5 +1,7 @@
 # Brotherhood
 
+![brotherhood](https://cdn.myanimelist.net/images/manga/1/199952.jpg)
+
 -   **type**: manga
 -   **original-name**: ブラザーフッド
 -   **start-date**: 2016-05-08

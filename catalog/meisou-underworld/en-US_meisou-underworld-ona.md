@@ -1,5 +1,7 @@
 # Meisou! Underworld
 
+![meisou-underworld](https://cdn.myanimelist.net/images/anime/10/61637.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 迷走！アンダーワールド

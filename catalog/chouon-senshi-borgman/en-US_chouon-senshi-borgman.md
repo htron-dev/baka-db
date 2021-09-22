@@ -1,5 +1,7 @@
 # Chouon Senshi Borgman
 
+![chouon-senshi-borgman](https://cdn.myanimelist.net/images/anime/11/23045.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: 超音戦士ボーグマン

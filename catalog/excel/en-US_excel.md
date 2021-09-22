@@ -1,5 +1,7 @@
 # Excel
 
+![excel](https://cdn.myanimelist.net/images/manga/1/6161.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 9

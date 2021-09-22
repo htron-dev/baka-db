@@ -1,5 +1,7 @@
 # Kitsune no Konoha
 
+![kitsune-no-konoha](https://cdn.myanimelist.net/images/manga/1/200493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

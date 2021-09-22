@@ -1,5 +1,7 @@
 # Killing Member: Haruka Kanata to Fuyu no Oto
 
+![killing-member-haruka-kanata-to-fuyu-no-oto](https://cdn.myanimelist.net/images/manga/2/197307.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: キリングメンバー ～遙か彼方と冬の音～

@@ -1,5 +1,7 @@
 # Mako-chan no Koutsuu Anzen
 
+![mako-chan-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/8/77373.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: まこちゃんのこうつうあんぜん

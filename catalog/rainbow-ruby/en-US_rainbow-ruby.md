@@ -1,5 +1,7 @@
 # Rainbow Ruby
 
+![rainbow-ruby](https://cdn.myanimelist.net/images/anime/1050/105963.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **start-date**: 2017-03-02

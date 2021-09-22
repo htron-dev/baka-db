@@ -1,5 +1,7 @@
 # Pelican Road Club Caroucha
 
+![pelican-road-club-caroucha](https://cdn.myanimelist.net/images/anime/2/21894.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ペリカンロード　クラブ・カルーチャ

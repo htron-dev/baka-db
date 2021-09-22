@@ -1,5 +1,7 @@
 # Ao Ashi
 
+![ao-ashi](https://cdn.myanimelist.net/images/manga/1/185325.jpg)
+
 -   **type**: manga
 -   **original-name**: アオアシ
 -   **start-date**: 2015-01-05

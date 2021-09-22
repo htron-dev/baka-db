@@ -1,5 +1,7 @@
 # Sakuranbo Syndrome - Cupid no Itazura II
 
+![sakuranbo-syndrome-cupid-no-itazura-ii](https://cdn.myanimelist.net/images/manga/1/51571.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 98

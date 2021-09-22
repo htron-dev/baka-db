@@ -1,5 +1,7 @@
 # Naturize
 
+![naturize](https://cdn.myanimelist.net/images/manga/1/154701.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Donyatsu
 
+![donyatsu](https://cdn.myanimelist.net/images/anime/9/50109.jpg)
+
 -   **type**: movie
 -   **episodes**: 12
 -   **original-name**: どーにゃつ

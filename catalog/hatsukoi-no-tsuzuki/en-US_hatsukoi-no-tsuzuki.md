@@ -1,5 +1,7 @@
 # Hatsukoi no Tsuzuki
 
+![hatsukoi-no-tsuzuki](https://cdn.myanimelist.net/images/manga/1/39293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

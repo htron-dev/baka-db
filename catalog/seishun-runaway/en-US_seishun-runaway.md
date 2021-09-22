@@ -1,5 +1,7 @@
 # Seishun Runaway
 
+![seishun-runaway](https://cdn.myanimelist.net/images/manga/1/224332.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

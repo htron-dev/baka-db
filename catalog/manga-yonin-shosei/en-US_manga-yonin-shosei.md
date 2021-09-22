@@ -1,5 +1,7 @@
 # Manga Yonin Shosei
 
+![manga-yonin-shosei](https://cdn.myanimelist.net/images/manga/4/168433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 52

@@ -1,5 +1,7 @@
 # Shinigami ni Sodaterareta Shoujo wa Shikkoku no Ken wo Mune ni Idaku
 
+![shinigami-ni-sodaterareta-shoujo-wa-shikkoku-no-ken-wo-mune-ni-idaku](https://cdn.myanimelist.net/images/manga/1/227084.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 死神に育てられた少女は漆黒の剣を胸に抱く
 -   **start-date**: 2018-07-25

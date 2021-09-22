@@ -1,5 +1,7 @@
 # Oaji wa Dou desu ka?
 
+![oaji-wa-dou-desu-ka](https://cdn.myanimelist.net/images/manga/2/86489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

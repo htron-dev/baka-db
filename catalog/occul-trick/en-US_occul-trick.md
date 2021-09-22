@@ -1,5 +1,7 @@
 # Occul Trick
 
+![occul-trick](https://cdn.myanimelist.net/images/manga/3/123861.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: オカルトリック

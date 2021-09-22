@@ -1,9 +1,10 @@
 # Mameshi-Pamyu-Pamyu
 
+![mameshi-pamyu-pamyu](https://cdn.myanimelist.net/images/anime/6/80696.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 豆しぱみゅぱみゅ
-
 -   **rating**: G - All Ages
 
 ## Tags

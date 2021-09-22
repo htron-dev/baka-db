@@ -1,5 +1,7 @@
 # Wakusei Robo Danguard Ace tai Konchuu Robot Gundan
 
+![wakusei-robo-danguard-ace-tai-konchuu-robot-gundan](https://cdn.myanimelist.net/images/anime/13/24010.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 惑星ロボ ダンガード A[エース]対昆虫ロボット軍団

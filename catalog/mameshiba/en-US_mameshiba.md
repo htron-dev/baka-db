@@ -1,5 +1,7 @@
 # Mameshiba
 
+![mameshiba](https://cdn.myanimelist.net/images/anime/5/63601.jpg)
+
 -   **type**: special
 -   **episodes**: 24
 -   **original-name**: 豆しば

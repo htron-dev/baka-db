@@ -1,5 +1,7 @@
 # Mushibugyou
 
+![mushibugyou](https://cdn.myanimelist.net/images/manga/3/169920.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Tobacco to Hai
 
+![tobacco-to-hai](https://cdn.myanimelist.net/images/anime/1186/107251.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たばこと灰

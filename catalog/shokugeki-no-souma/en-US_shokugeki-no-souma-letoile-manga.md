@@ -1,5 +1,7 @@
 # Shokugeki no Souma: L'étoile
 
+![shokugeki-no-souma-letoile](https://cdn.myanimelist.net/images/manga/3/182528.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 50

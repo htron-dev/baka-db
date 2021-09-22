@@ -1,5 +1,7 @@
 # Kakugo no Susume
 
+![kakugo-no-susume](https://cdn.myanimelist.net/images/manga/1/196756.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 100

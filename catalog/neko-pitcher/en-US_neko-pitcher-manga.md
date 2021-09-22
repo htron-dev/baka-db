@@ -1,5 +1,7 @@
 # Neko Pitcher
 
+![neko-pitcher](https://cdn.myanimelist.net/images/manga/2/116383.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫ピッチャー
 -   **start-date**: 2013-04-07

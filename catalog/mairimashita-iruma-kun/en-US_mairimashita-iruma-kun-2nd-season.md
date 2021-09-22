@@ -1,5 +1,7 @@
 # Mairimashita! Iruma-kun 2nd Season
 
+![mairimashita-iruma-kun-2nd-season](https://cdn.myanimelist.net/images/anime/1527/113656.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: 魔入りました！入間くん

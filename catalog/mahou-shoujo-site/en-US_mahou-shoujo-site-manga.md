@@ -1,5 +1,7 @@
 # Mahou Shoujo Site
 
+![mahou-shoujo-site](https://cdn.myanimelist.net/images/manga/2/118501.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 141

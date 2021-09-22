@@ -1,5 +1,7 @@
 # Ryuugajou Nanana no Maizoukin (TV): Nanana Nippon Mukashibanashi
 
+![ryuugajou-nanana-no-maizoukin-tv-nanana-nippon-mukashibanashi](https://cdn.myanimelist.net/images/anime/7/64191.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 龍ヶ嬢七々々の埋蔵金 SD キャラショートムービー

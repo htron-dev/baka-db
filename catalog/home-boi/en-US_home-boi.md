@@ -1,5 +1,7 @@
 # Home Boi
 
+![home-boi](https://cdn.myanimelist.net/images/manga/3/86107.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: HOME 보이

@@ -1,5 +1,7 @@
 # Xiongmao He Xiao Yan Shu
 
+![xiongmao-he-xiao-yan-shu](https://cdn.myanimelist.net/images/anime/1664/90310.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 熊猫和小鼹鼠

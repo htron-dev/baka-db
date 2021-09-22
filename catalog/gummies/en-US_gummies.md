@@ -1,5 +1,7 @@
 # Gummies
 
+![gummies](https://cdn.myanimelist.net/images/anime/1331/109078.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Gummies

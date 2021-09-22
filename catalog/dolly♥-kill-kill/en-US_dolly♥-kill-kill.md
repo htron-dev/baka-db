@@ -1,5 +1,7 @@
 # Dolly♥Kill Kill
 
+![dolly♥-kill-kill](https://cdn.myanimelist.net/images/manga/3/152513.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 155

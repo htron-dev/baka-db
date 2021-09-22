@@ -1,5 +1,7 @@
 # GM ga Isekai ni Login Shimashita.
 
+![gm-ga-isekai-ni-login-shimashita](https://cdn.myanimelist.net/images/manga/2/203355.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 38

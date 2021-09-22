@@ -1,5 +1,7 @@
 # Sanctuary
 
+![sanctuary](https://cdn.myanimelist.net/images/anime/1795/105898.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サンクチュアリ

@@ -1,5 +1,7 @@
 # Marugoto Nekokke
 
+![marugoto-nekokke](https://cdn.myanimelist.net/images/manga/1/167170.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まるごとねこっけ～雲田はるこ｢いとしの猫っ毛｣ トリビュートブック～

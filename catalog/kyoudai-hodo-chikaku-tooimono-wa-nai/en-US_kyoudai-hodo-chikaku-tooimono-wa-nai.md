@@ -1,5 +1,7 @@
 # Kyoudai hodo Chikaku Tooimono wa Nai
 
+![kyoudai-hodo-chikaku-tooimono-wa-nai](https://cdn.myanimelist.net/images/manga/1/136601.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 123

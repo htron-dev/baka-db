@@ -1,5 +1,7 @@
 # Midara na Kimi ni Kamaretai
 
+![midara-na-kimi-ni-kamaretai](https://cdn.myanimelist.net/images/manga/1/240977.jpg)
+
 -   **type**: manga
 -   **original-name**: 淫らな君に咬まれたい
 -   **start-date**: 2017-12-30

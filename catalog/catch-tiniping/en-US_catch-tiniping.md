@@ -1,5 +1,7 @@
 # Catch! Tiniping
 
+![catch-tiniping](https://cdn.myanimelist.net/images/anime/1414/114460.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 캐치! 티니핑

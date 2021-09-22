@@ -1,5 +1,7 @@
 # Baby★Love
 
+![baby★-love](https://cdn.myanimelist.net/images/manga/4/19225.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 44

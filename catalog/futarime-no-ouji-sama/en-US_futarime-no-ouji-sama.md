@@ -1,5 +1,7 @@
 # Futarime no Ouji-sama
 
+![futarime-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/179269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

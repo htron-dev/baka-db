@@ -1,5 +1,7 @@
 # Budou no Ki
 
+![budou-no-ki](https://cdn.myanimelist.net/images/manga/1/94389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぶどうの木

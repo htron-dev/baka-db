@@ -1,5 +1,7 @@
 # Solty Rei: Surechigau Kimochi de, Omoi Au Kokoro de.
 
+![solty-rei-surechigau-kimochi-de-omoi-au-kokoro-de](https://cdn.myanimelist.net/images/anime/6/69657.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ソルティレイ すれ違うキモチで, 想い合うココロで.

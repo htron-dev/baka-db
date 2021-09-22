@@ -1,5 +1,7 @@
 # Waltz
 
+![waltz](https://cdn.myanimelist.net/images/manga/2/201258.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Mirai Nikki
 
+![mirai-nikki](https://cdn.myanimelist.net/images/manga/5/16174.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 59

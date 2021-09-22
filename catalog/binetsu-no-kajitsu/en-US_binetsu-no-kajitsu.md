@@ -1,5 +1,7 @@
 # Binetsu no Kajitsu
 
+![binetsu-no-kajitsu](https://cdn.myanimelist.net/images/manga/3/54085.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 微热的果实

@@ -1,5 +1,7 @@
 # Hyakunen no Valkyrie
 
+![hyakunen-no-valkyrie](https://cdn.myanimelist.net/images/manga/2/197323.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

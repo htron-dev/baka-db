@@ -1,5 +1,7 @@
 # Umineko no Naku Party ni: Tea Party of the Witches
 
+![umineko-no-naku-party-ni-tea-party-of-the-witches](https://cdn.myanimelist.net/images/manga/1/51077.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: うみねこのなく宴に Tea party of the witches

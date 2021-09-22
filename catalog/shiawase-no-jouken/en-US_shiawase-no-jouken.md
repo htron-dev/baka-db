@@ -1,5 +1,7 @@
 # Shiawase no Jouken
 
+![shiawase-no-jouken](https://cdn.myanimelist.net/images/manga/3/79445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 幸せの条件

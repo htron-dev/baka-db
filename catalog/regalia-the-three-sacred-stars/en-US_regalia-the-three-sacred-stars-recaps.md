@@ -1,5 +1,7 @@
 # Regalia: The Three Sacred Stars Recaps
 
+![regalia-the-three-sacred-stars-recaps](https://cdn.myanimelist.net/images/anime/1913/116144.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: レガリア The Three Sacred Stars ダイジェスト

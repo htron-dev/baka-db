@@ -1,5 +1,7 @@
 # Chinpui: Eri-sama Katsudou Daishashin
 
+![chinpui-eri-sama-katsudou-daishashin](https://cdn.myanimelist.net/images/anime/11/27735.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チンプイ エリさま活動大写真

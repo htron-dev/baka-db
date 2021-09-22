@@ -1,5 +1,7 @@
 # Yingxiong Zai Lin
 
+![yingxiong-zai-lin](https://cdn.myanimelist.net/images/anime/1494/109747.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 英雄再临

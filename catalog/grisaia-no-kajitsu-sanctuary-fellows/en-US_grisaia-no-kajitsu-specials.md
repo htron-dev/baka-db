@@ -1,5 +1,7 @@
 # Grisaia no Kajitsu Specials
 
+![grisaia-no-kajitsu-specials](https://cdn.myanimelist.net/images/anime/9/71683.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: グリザイアの果実

@@ -1,5 +1,7 @@
 # Norakuro
 
+![norakuro](https://cdn.myanimelist.net/images/anime/12/74987.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: のらくろ

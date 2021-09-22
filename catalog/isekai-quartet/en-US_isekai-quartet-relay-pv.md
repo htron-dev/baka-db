@@ -1,5 +1,7 @@
 # Isekai Quartet Relay PV
 
+![isekai-quartet-relay-pv](https://cdn.myanimelist.net/images/anime/1761/101647.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 『異世界かるてっと』 リレー PV

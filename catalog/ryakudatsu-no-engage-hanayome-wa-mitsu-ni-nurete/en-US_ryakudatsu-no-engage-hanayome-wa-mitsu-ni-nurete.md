@@ -1,5 +1,7 @@
 # Ryakudatsu no Engage: Hanayome wa Mitsu ni Nurete
 
+![ryakudatsu-no-engage-hanayome-wa-mitsu-ni-nurete](https://cdn.myanimelist.net/images/manga/3/182807.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

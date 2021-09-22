@@ -1,5 +1,7 @@
 # Mind Assassin
 
+![mind-assassin](https://cdn.myanimelist.net/images/manga/1/177644.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

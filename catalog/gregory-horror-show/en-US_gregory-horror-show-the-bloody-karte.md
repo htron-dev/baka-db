@@ -1,5 +1,7 @@
 # Gregory Horror Show: The Bloody Karte
 
+![gregory-horror-show-the-bloody-karte](https://cdn.myanimelist.net/images/anime/5/35061.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: グレゴリーホラーショー - The Bloody Karte

@@ -1,5 +1,7 @@
 # Chrome Shelled Regios 4-Koma: Felli's Song Plus
 
+![chrome-shelled-regios-4-koma-fellis-song-plus](https://cdn.myanimelist.net/images/manga/3/32939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Seikon no Qwaser
 
+![seikon-no-qwaser](https://cdn.myanimelist.net/images/manga/1/181116.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 119

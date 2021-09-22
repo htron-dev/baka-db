@@ -1,5 +1,7 @@
 # Usagi Drop
 
+![usagi-drop](https://cdn.myanimelist.net/images/anime/2/29665.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: うさぎドロップ

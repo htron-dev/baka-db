@@ -1,5 +1,7 @@
 # Osen
 
+![osen](https://cdn.myanimelist.net/images/manga/4/161985.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: おせん

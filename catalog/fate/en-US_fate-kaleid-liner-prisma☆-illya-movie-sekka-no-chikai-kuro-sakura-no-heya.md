@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai - Kuro Sakura no Heya
 
+![fate-kaleid-liner-prisma☆-illya-movie-sekka-no-chikai-kuro-sakura-no-heya](https://cdn.myanimelist.net/images/anime/1047/103495.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 劇場版 Fate/kaleid liner プリズマ ☆ イリヤ 雪下の誓い 黒桜の部屋

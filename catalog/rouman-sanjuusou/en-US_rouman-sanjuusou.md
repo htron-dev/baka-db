@@ -1,5 +1,7 @@
 # Rouman Sanjuusou
 
+![rouman-sanjuusou](https://cdn.myanimelist.net/images/manga/5/35280.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

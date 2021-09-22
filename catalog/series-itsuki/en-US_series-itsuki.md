@@ -1,5 +1,7 @@
 # Series Itsuki
 
+![series-itsuki](https://cdn.myanimelist.net/images/manga/3/25361.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

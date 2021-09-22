@@ -1,5 +1,7 @@
 # Makai no Ossan
 
+![makai-no-ossan](https://cdn.myanimelist.net/images/manga/1/89755.jpg)
+
 -   **type**: manga
 -   **chapters**: 370
 -   **original-name**: 魔界のオッサン

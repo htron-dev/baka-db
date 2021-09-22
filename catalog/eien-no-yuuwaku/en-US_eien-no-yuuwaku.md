@@ -1,5 +1,7 @@
 # Eien no Yuuwaku
 
+![eien-no-yuuwaku](https://cdn.myanimelist.net/images/manga/3/15728.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 永遠の誘惑

@@ -1,5 +1,7 @@
 # Koi ga Bokura wo Yurusu Hani
 
+![koi-ga-bokura-wo-yurusu-hani](https://cdn.myanimelist.net/images/manga/5/30176.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

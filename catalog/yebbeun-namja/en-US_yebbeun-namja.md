@@ -1,5 +1,7 @@
 # Yebbeun Namja
 
+![yebbeun-namja](https://cdn.myanimelist.net/images/manga/1/96273.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 17
 -   **original-name**: 예쁜 남자

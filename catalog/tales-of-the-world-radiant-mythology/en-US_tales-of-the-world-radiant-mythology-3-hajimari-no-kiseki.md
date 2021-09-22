@@ -1,5 +1,7 @@
 # Tales of the World: Radiant Mythology 3 - Hajimari no Kiseki
 
+![tales-of-the-world-radiant-mythology-3-hajimari-no-kiseki](https://cdn.myanimelist.net/images/manga/3/155636.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: テイルズ オブ ザ ワールド レディアント マイソロジー 3 はじまりの軌跡

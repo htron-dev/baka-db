@@ -1,5 +1,7 @@
 # Bijin, Hajimemashita!
 
+![bijin-hajimemashita](https://cdn.myanimelist.net/images/manga/2/191963.jpg)
+
 -   **type**: manga
 -   **original-name**: 美人、はじめました!
 -   **start-date**: 2015-05-22

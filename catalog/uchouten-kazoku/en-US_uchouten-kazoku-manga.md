@@ -1,5 +1,7 @@
 # Uchouten Kazoku
 
+![uchouten-kazoku](https://cdn.myanimelist.net/images/manga/2/157964.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

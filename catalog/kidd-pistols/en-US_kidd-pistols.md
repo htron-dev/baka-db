@@ -1,5 +1,7 @@
 # Kidd Pistols
 
+![kidd-pistols](https://cdn.myanimelist.net/images/manga/3/15482.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キッド・ピストルズ

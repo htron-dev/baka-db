@@ -1,5 +1,7 @@
 # Burn Up Scramble
 
+![burn-up-scramble](https://cdn.myanimelist.net/images/anime/12/75500.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: バーンナップスクランブル

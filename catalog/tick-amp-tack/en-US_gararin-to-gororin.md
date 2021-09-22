@@ -1,5 +1,7 @@
 # Gararin to Gororin
 
+![gararin-to-gororin](https://cdn.myanimelist.net/images/anime/11/78485.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ガラリンとゴロリン

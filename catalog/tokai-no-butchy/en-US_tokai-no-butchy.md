@@ -1,5 +1,7 @@
 # Tokai no Butchy
 
+![tokai-no-butchy](https://cdn.myanimelist.net/images/anime/12/71945.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 都会のブッチー

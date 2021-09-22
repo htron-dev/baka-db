@@ -1,5 +1,7 @@
 # Taiya
 
+![taiya](https://cdn.myanimelist.net/images/manga/1/35848.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: タイヤ

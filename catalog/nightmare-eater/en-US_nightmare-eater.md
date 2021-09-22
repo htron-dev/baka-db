@@ -1,5 +1,7 @@
 # Nightmare Eater
 
+![nightmare-eater](https://cdn.myanimelist.net/images/manga/2/241193.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

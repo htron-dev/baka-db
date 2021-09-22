@@ -1,5 +1,7 @@
 # Tunnels
 
+![tunnels](https://cdn.myanimelist.net/images/manga/1/34598.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: トンネル

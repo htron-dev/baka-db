@@ -1,5 +1,7 @@
 # Shift: Sekai wa Clear wo Matteiru
 
+![shift-sekai-wa-clear-wo-matteiru](https://cdn.myanimelist.net/images/manga/2/164248.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: シフト 世界はクリアを待っている

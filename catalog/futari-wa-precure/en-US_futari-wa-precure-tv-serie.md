@@ -1,5 +1,7 @@
 # Futari wa Precure
 
+![futari-wa-precure](https://cdn.myanimelist.net/images/anime/9/7533.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: ふたりはプリキュア

@@ -1,5 +1,7 @@
 # Kimi no Hikari: Asagao to Kase-san.
 
+![kimi-no-hikari-asagao-to-kase-san](https://cdn.myanimelist.net/images/anime/13/84882.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キミノヒカリ ～あさがおと加瀬さん。～

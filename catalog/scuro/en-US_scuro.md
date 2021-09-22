@@ -1,5 +1,7 @@
 # Scuro
 
+![scuro](https://cdn.myanimelist.net/images/manga/2/121499.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: SCURO スク一ロ

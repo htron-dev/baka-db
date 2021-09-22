@@ -1,5 +1,7 @@
 # Tokkou no Shima
 
+![tokkou-no-shima](https://cdn.myanimelist.net/images/manga/2/204380.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 70

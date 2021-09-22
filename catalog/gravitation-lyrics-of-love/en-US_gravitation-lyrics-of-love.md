@@ -1,5 +1,7 @@
 # Gravitation: Lyrics of Love
 
+![gravitation-lyrics-of-love](https://cdn.myanimelist.net/images/anime/1656/94257.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: グラビテーション

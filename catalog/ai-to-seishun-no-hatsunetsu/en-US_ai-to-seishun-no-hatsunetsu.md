@@ -1,5 +1,7 @@
 # Ai to Seishun no Hatsunetsu
 
+![ai-to-seishun-no-hatsunetsu](https://cdn.myanimelist.net/images/manga/1/163447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛と青春の発熱

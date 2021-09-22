@@ -1,5 +1,7 @@
 # Siren: ReBIRTH
 
+![siren-re-birth](https://cdn.myanimelist.net/images/manga/1/223629.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

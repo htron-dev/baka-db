@@ -1,5 +1,7 @@
 # Fujiidera-san to Hirano-kun: Atami no Koto
 
+![fujiidera-san-to-hirano-kun-atami-no-koto](https://cdn.myanimelist.net/images/manga/1/179143.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

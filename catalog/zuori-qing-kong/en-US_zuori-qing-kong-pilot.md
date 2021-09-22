@@ -1,5 +1,7 @@
 # Zuori Qing Kong Pilot
 
+![zuori-qing-kong-pilot](https://cdn.myanimelist.net/images/anime/1885/93648.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 昨日青空（动画样片）

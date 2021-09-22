@@ -1,5 +1,7 @@
 # Fate/Prototype: Sougin no Fragments
 
+![fate-prototype-sougin-no-fragments](https://cdn.myanimelist.net/images/manga/1/139339.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 36

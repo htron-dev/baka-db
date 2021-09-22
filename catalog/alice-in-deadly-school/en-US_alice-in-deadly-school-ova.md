@@ -1,5 +1,7 @@
 # Alice in Deadly School
 
+![alice-in-deadly-school](https://cdn.myanimelist.net/images/anime/1614/110455.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アリスインデッドリースクール

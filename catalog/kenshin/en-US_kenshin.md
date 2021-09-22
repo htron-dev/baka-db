@@ -1,5 +1,7 @@
 # Kenshin
 
+![kenshin](https://cdn.myanimelist.net/images/manga/1/76713.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **original-name**: 拳神

@@ -1,5 +1,7 @@
 # Susume! Kaijin Kurabu
 
+![susume-kaijin-kurabu](https://cdn.myanimelist.net/images/manga/1/9202.jpg)
+
 -   **type**: manga
 -   **original-name**: 進め！怪人くらぶ
 -   **start-date**: 2007-10-20

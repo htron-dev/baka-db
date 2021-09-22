@@ -1,5 +1,7 @@
 # 2nd House
 
+![2nd-house](https://cdn.myanimelist.net/images/manga/1/35748.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 2nd ハウス

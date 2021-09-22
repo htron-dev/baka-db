@@ -1,5 +1,7 @@
 # Soul Eater
 
+![soul-eater](https://cdn.myanimelist.net/images/anime/9/7804.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ソウルイーター

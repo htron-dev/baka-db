@@ -1,5 +1,7 @@
 # Kyuukanchou Deka: Asu wa Wagami no Kyuukanchou
 
+![kyuukanchou-deka-asu-wa-wagami-no-kyuukanchou](https://cdn.myanimelist.net/images/manga/2/140869.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 九官鳥刑事（デカ） 明日は我が身の九官鳥

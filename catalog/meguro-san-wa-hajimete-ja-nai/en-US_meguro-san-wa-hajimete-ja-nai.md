@@ -1,5 +1,7 @@
 # Meguro-san wa Hajimete ja Nai
 
+![meguro-san-wa-hajimete-ja-nai](https://cdn.myanimelist.net/images/manga/2/217790.jpg)
+
 -   **type**: manga
 -   **original-name**: 目黒さんは初めてじゃない
 -   **start-date**: 2018-03-19

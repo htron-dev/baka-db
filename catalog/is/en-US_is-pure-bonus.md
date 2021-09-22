@@ -1,5 +1,7 @@
 # I''s Pure Bonus
 
+![is-pure-bonus](https://cdn.myanimelist.net/images/anime/1/1235.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: アイズピュア Bonus

@@ -1,5 +1,7 @@
 # Tate no Yuusha no Nariagari Season 2
 
+![tate-no-yuusha-no-nariagari-season-2](https://cdn.myanimelist.net/images/anime/1245/111800.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 盾の勇者の成り上がり Season2
 -   **start-date**: 2022-04-20

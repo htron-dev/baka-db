@@ -1,5 +1,7 @@
 # Merry-chan to Hitsuji
 
+![merry-chan-to-hitsuji](https://cdn.myanimelist.net/images/manga/1/73209.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: メリーちゃんと羊

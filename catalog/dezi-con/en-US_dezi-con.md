@@ -1,5 +1,7 @@
 # Dezi-con
 
+![dezi-con](https://cdn.myanimelist.net/images/manga/3/165391.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

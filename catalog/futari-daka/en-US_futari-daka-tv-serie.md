@@ -1,5 +1,7 @@
 # Futari Daka
 
+![futari-daka](https://cdn.myanimelist.net/images/anime/2/59891.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: ふたり鷹

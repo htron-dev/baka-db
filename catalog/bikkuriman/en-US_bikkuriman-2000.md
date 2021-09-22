@@ -1,5 +1,7 @@
 # Bikkuriman 2000
 
+![bikkuriman-2000](https://cdn.myanimelist.net/images/anime/1477/96439.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 68
 -   **original-name**: ビックリマン 2000

@@ -1,5 +1,7 @@
 # Tezuka Osamu Monogatari: Boku wa Son Gokuu
 
+![tezuka-osamu-monogatari-boku-wa-son-gokuu](https://cdn.myanimelist.net/images/anime/2/26398.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 手塚治虫物語 ぼくは孫悟空

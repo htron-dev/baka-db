@@ -1,5 +1,7 @@
 # Haru no Ashioto The Movie: Ourin Dakkan
 
+![haru-no-ashioto-the-movie-ourin-dakkan](https://cdn.myanimelist.net/images/anime/1888/112336.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はるのあしおと The Movie - 桜鈴奪還

@@ -1,5 +1,7 @@
 # Aoi Haru, Akai Ito
 
+![aoi-haru-akai-ito](https://cdn.myanimelist.net/images/manga/2/189105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

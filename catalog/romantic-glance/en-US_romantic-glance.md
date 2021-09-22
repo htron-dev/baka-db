@@ -1,5 +1,7 @@
 # Romantic Glance
 
+![romantic-glance](https://cdn.myanimelist.net/images/manga/1/22967.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

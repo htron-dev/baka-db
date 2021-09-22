@@ -1,5 +1,7 @@
 # Sasurai-kun
 
+![sasurai-kun](https://cdn.myanimelist.net/images/anime/5/67005.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: さすらいくん

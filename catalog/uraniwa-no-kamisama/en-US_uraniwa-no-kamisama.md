@@ -1,5 +1,7 @@
 # Uraniwa no Kamisama
 
+![uraniwa-no-kamisama](https://cdn.myanimelist.net/images/manga/1/110573.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: うらにわのかみさま

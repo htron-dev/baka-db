@@ -1,5 +1,7 @@
 # Gokinjo no Naguri Cleric: Senki Ursula no Koukai
 
+![gokinjo-no-naguri-cleric-senki-ursula-no-koukai](https://cdn.myanimelist.net/images/manga/3/186740.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ご近所の殴りクレリック 戦鬼ウルスラの後悔

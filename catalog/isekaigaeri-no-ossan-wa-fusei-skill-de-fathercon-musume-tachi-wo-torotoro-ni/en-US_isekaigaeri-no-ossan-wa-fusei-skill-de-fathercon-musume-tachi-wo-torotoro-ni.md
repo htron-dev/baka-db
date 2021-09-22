@@ -1,5 +1,7 @@
 # Isekaigaeri no Ossan wa Fusei Skill de Fathercon Musume-tachi wo Torotoro ni
 
+![isekaigaeri-no-ossan-wa-fusei-skill-de-fathercon-musume-tachi-wo-torotoro-ni](https://cdn.myanimelist.net/images/manga/1/230404.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界帰りのおっさんは父性スキルでファザコン娘達をトロトロに
 -   **start-date**: 2019-06-27

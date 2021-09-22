@@ -1,5 +1,7 @@
 # Boku to Do S to Fujoshi to Noukin
 
+![boku-to-do-s-to-fujoshi-to-noukin](https://cdn.myanimelist.net/images/manga/3/159752.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 僕とドＳと腐女子と脳筋
 -   **start-date**: 2015-04-24

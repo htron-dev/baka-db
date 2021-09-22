@@ -1,5 +1,7 @@
 # Getsuyoubi wa 2-gen kara
 
+![getsuyoubi-wa-2-gen-kara](https://cdn.myanimelist.net/images/manga/1/192534.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 90

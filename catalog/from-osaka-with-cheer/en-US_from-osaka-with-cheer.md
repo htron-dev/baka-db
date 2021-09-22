@@ -1,5 +1,7 @@
 # From Osaka with Cheer!
 
+![from-osaka-with-cheer](https://cdn.myanimelist.net/images/anime/11/66287.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: FROM OSAKA WITH CHEER!

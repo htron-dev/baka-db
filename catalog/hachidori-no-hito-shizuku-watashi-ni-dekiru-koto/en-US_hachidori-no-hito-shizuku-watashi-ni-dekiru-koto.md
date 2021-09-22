@@ -1,5 +1,7 @@
 # Hachidori no Hito Shizuku: Watashi ni Dekiru koto
 
+![hachidori-no-hito-shizuku-watashi-ni-dekiru-koto](https://cdn.myanimelist.net/images/anime/1561/98614.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハチドリのひとしずく 私にできること

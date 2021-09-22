@@ -1,5 +1,7 @@
 # Tsuruta Buchou wa Itsumo Nebusoku
 
+![tsuruta-buchou-wa-itsumo-nebusoku](https://cdn.myanimelist.net/images/manga/1/191928.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

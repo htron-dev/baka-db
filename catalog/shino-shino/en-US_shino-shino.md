@@ -1,5 +1,7 @@
 # Shino Shino
 
+![shino-shino](https://cdn.myanimelist.net/images/manga/1/122223.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: シノシノ

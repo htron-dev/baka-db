@@ -1,5 +1,7 @@
 # Ouji to Kojiki
 
+![ouji-to-kojiki](https://cdn.myanimelist.net/images/manga/3/100613.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

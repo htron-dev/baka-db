@@ -1,5 +1,7 @@
 # Futari Ecchi
 
+![futari-ecchi](https://cdn.myanimelist.net/images/anime/10/20029.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ふたりエッチ

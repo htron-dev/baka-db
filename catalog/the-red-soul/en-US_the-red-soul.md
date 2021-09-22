@@ -1,5 +1,7 @@
 # The Red Soul
 
+![the-red-soul](https://cdn.myanimelist.net/images/manga/1/39483.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 21

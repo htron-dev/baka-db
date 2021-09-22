@@ -1,5 +1,7 @@
 # Love All!
 
+![love-all](https://cdn.myanimelist.net/images/manga/2/134895.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

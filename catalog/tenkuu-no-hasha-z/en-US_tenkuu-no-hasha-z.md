@@ -1,5 +1,7 @@
 # Tenkuu no Hasha Z
 
+![tenkuu-no-hasha-z](https://cdn.myanimelist.net/images/manga/2/183444.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: 天空の覇者 Z

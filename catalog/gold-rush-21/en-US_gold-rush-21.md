@@ -1,5 +1,7 @@
 # Gold Rush 21
 
+![gold-rush-21](https://cdn.myanimelist.net/images/manga/3/82186.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

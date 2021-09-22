@@ -1,5 +1,7 @@
 # First Experience
 
+![first-experience](https://cdn.myanimelist.net/images/manga/2/18215.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **original-name**: 첫경험

@@ -1,5 +1,7 @@
 # Full Dozer
 
+![full-dozer](https://cdn.myanimelist.net/images/manga/3/161977.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

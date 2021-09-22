@@ -1,5 +1,7 @@
 # Ahiru no Ballet
 
+![ahiru-no-ballet](https://cdn.myanimelist.net/images/manga/3/164804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # MIB
 
+![mib](https://cdn.myanimelist.net/images/manga/2/175939.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: MIB

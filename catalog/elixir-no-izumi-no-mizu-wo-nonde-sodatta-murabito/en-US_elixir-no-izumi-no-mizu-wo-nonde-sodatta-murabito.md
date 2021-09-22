@@ -1,5 +1,7 @@
 # Elixir no Izumi no Mizu wo Nonde Sodatta Murabito
 
+![elixir-no-izumi-no-mizu-wo-nonde-sodatta-murabito](https://cdn.myanimelist.net/images/manga/3/234830.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 37

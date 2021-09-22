@@ -1,5 +1,7 @@
 # Oretachi wa Koko de Koi wo Suru
 
+![oretachi-wa-koko-de-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/31112.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kuusen Madoushi Kouhosei no Kyoukan
 
+![kuusen-madoushi-kouhosei-no-kyoukan](https://cdn.myanimelist.net/images/anime/6/74541.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 空戦魔導士候補生の教官

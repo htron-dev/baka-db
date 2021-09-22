@@ -1,5 +1,7 @@
 # Tokiwa Kitareri!!
 
+![tokiwa-kitareri](https://cdn.myanimelist.net/images/manga/1/149851.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 123

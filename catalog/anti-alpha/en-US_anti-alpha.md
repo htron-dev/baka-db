@@ -1,5 +1,7 @@
 # Anti Alpha
 
+![anti-alpha](https://cdn.myanimelist.net/images/manga/3/225016.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

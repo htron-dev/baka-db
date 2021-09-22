@@ -1,5 +1,7 @@
 # Sonna Hitomi de Minaide
 
+![sonna-hitomi-de-minaide](https://cdn.myanimelist.net/images/manga/2/154537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

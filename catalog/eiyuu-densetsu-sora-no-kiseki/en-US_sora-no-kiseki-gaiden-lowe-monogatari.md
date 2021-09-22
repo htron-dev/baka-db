@@ -1,5 +1,7 @@
 # Sora no Kiseki Gaiden: Löwe Monogatari
 
+![sora-no-kiseki-gaiden-lowe-monogatari](https://cdn.myanimelist.net/images/manga/3/170740.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

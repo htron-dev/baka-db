@@ -1,5 +1,7 @@
 # REACH x Thermae Romae: Pietrada no Kekkon
 
+![reach-x-thermae-romae-pietrada-no-kekkon](https://cdn.myanimelist.net/images/anime/6/61879.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: REACH x テルマエ・ロマエ「ピエトラーダの結婚」

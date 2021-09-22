@@ -1,5 +1,7 @@
 # Working!!
 
+![working](https://cdn.myanimelist.net/images/manga/1/3306.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 281

@@ -1,5 +1,7 @@
 # Owari no Seraph: Ichinose Guren, 19-sai no Sekai Resurrection
 
+![owari-no-seraph-ichinose-guren-19-sai-no-sekai-resurrection](https://cdn.myanimelist.net/images/manga/1/208254.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 終わりのセラフ 一瀬グレン、19 歳の世界再誕〈リザレクション〉
 -   **start-date**: 2017-12-27

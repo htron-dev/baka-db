@@ -1,5 +1,7 @@
 # Ame no Hi no Iris
 
+![ame-no-hi-no-iris](https://cdn.myanimelist.net/images/manga/3/164392.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

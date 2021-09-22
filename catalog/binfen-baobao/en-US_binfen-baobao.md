@@ -1,5 +1,7 @@
 # Binfen Baobao
 
+![binfen-baobao](https://cdn.myanimelist.net/images/anime/1034/115196.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 200
 -   **original-name**: 缤纷宝宝

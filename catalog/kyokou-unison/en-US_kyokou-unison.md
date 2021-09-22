@@ -1,5 +1,7 @@
 # Kyokou Unison
 
+![kyokou-unison](https://cdn.myanimelist.net/images/manga/3/246503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Norakuro Nitouhei: Kyouren no Maki
 
+![norakuro-nitouhei-kyouren-no-maki](https://cdn.myanimelist.net/images/anime/8/12514.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: のらくろ二等兵 教練の巻

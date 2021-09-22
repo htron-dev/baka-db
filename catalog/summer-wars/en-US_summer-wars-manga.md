@@ -1,5 +1,7 @@
 # Summer Wars
 
+![summer-wars](https://cdn.myanimelist.net/images/manga/3/26238.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

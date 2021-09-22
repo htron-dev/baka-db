@@ -1,5 +1,7 @@
 # The Bathroom
 
+![the-bathroom](https://cdn.myanimelist.net/images/anime/9/27375.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ザ・バスルーム

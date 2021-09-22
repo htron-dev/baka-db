@@ -1,5 +1,7 @@
 # Crusher Joe
 
+![crusher-joe](https://cdn.myanimelist.net/images/anime/7/24514.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クラッシャージョウ

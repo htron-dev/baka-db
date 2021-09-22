@@ -1,5 +1,7 @@
 # Seikai no Senki
 
+![seikai-no-senki](https://cdn.myanimelist.net/images/anime/11/61111.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 星界の戦旗

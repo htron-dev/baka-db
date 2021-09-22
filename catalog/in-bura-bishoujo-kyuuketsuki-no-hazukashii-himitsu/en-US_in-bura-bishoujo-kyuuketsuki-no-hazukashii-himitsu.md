@@ -1,5 +1,7 @@
 # In Bura!: Bishoujo Kyuuketsuki no Hazukashii Himitsu
 
+![in-bura-bishoujo-kyuuketsuki-no-hazukashii-himitsu](https://cdn.myanimelist.net/images/manga/1/78873.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

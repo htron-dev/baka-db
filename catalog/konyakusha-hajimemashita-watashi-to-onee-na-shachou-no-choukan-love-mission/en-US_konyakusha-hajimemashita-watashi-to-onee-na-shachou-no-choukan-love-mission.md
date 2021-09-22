@@ -1,5 +1,7 @@
 # Konyakusha, Hajimemashita.: Watashi to Onee na Shachou no Choukan Love Mission!
 
+![konyakusha-hajimemashita-watashi-to-onee-na-shachou-no-choukan-love-mission](https://cdn.myanimelist.net/images/manga/3/181271.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 婚約者、はじめました。: 私とオネエな社長の超甘ラブ・ミッション!

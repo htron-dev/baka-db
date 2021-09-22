@@ -1,5 +1,7 @@
 # Tetsujin 28-gou
 
+![tetsujin-28-gou](https://cdn.myanimelist.net/images/anime/8/71758.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 96
 -   **original-name**: 鉄人２８号

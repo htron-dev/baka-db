@@ -1,5 +1,7 @@
 # Yozakura-san Chi no Daisakusen
 
+![yozakura-san-chi-no-daisakusen](https://cdn.myanimelist.net/images/manga/1/226602.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜桜さんちの大作戦
 -   **start-date**: 2019-08-26

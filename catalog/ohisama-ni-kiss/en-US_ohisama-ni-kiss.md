@@ -1,5 +1,7 @@
 # Ohisama ni Kiss
 
+![ohisama-ni-kiss](https://cdn.myanimelist.net/images/manga/2/225191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

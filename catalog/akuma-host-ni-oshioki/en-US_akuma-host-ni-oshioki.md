@@ -1,5 +1,7 @@
 # Akuma Host ni Oshioki!!
 
+![akuma-host-ni-oshioki](https://cdn.myanimelist.net/images/manga/3/60651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

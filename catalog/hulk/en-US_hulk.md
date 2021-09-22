@@ -1,5 +1,7 @@
 # Hulk
 
+![hulk](https://cdn.myanimelist.net/images/manga/3/150460.jpg)
+
 -   **type**: manga
 -   **chapters**: 23
 -   **original-name**: ハルク

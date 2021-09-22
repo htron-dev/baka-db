@@ -1,5 +1,7 @@
 # Sensual Trigger
 
+![sensual-trigger](https://cdn.myanimelist.net/images/manga/2/5605.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

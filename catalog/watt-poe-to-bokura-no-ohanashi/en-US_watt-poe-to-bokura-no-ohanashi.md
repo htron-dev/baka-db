@@ -1,5 +1,7 @@
 # Watt Poe to Bokura no Ohanashi
 
+![watt-poe-to-bokura-no-ohanashi](https://cdn.myanimelist.net/images/anime/12/52595.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ワット・ボーとぼくらのお話

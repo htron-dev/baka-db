@@ -1,5 +1,7 @@
 # Koukaku no Pandora
 
+![koukaku-no-pandora](https://cdn.myanimelist.net/images/manga/1/100773.jpg)
+
 -   **type**: manga
 -   **original-name**: 紅殻のパンドラ
 -   **start-date**: 2012-10-10

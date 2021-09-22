@@ -1,5 +1,7 @@
 # Honey Lemon Soda
 
+![honey-lemon-soda](https://cdn.myanimelist.net/images/manga/1/179110.jpg)
+
 -   **type**: manga
 -   **original-name**: ハニーレモンソーダ
 -   **start-date**: 2015-12-28

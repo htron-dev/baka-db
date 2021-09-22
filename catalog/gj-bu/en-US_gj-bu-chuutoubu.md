@@ -1,5 +1,7 @@
 # GJ-bu Chuutoubu
 
+![gj-bu-chuutoubu](https://cdn.myanimelist.net/images/manga/1/206036.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 288

@@ -1,5 +1,7 @@
 # Setsuna Graffiti
 
+![setsuna-graffiti](https://cdn.myanimelist.net/images/manga/1/168232.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

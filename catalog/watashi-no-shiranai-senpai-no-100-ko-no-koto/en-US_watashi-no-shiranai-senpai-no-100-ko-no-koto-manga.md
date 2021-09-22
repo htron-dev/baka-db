@@ -1,5 +1,7 @@
 # Watashi no Shiranai, Senpai no 100-ko no Koto
 
+![watashi-no-shiranai-senpai-no-100-ko-no-koto](https://cdn.myanimelist.net/images/manga/2/244964.jpg)
+
 -   **type**: manga
 -   **original-name**: わたしの知らない、先輩の 100 コのこと
 -   **start-date**: 2020-05-19

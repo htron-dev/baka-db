@@ -1,5 +1,7 @@
 # Norimono Man: Mobile Land no Car-kun
 
+![norimono-man-mobile-land-no-car-kun](https://cdn.myanimelist.net/images/anime/1612/106288.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: のりものまん モービルランドのカークン
 -   **start-date**: 2020-04-02

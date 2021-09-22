@@ -1,5 +1,7 @@
 # Moto Ryuuhou Kishi Madeleine no Tenshoku
 
+![moto-ryuuhou-kishi-madeleine-no-tenshoku](https://cdn.myanimelist.net/images/manga/3/181829.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 元・竜砲騎士マデリーンの転職
 -   **start-date**: 2016-08-30

@@ -1,5 +1,7 @@
 # Shion no Ketsuzoku
 
+![shion-no-ketsuzoku](https://cdn.myanimelist.net/images/manga/3/127643.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: シオンの血族

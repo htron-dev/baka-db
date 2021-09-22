@@ -1,5 +1,7 @@
 # Onnanoko no Ho-n-ki
 
+![onnanoko-no-ho-n-ki](https://cdn.myanimelist.net/images/manga/3/28373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 女の子のホ・ン・キ

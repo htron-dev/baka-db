@@ -1,5 +1,7 @@
 # All Job the World
 
+![all-job-the-world](https://cdn.myanimelist.net/images/manga/1/200866.jpg)
+
 -   **type**: light-novel
 -   **original-name**: オール・ジョブ・ザ・ワールド
 -   **start-date**: 2017-09-20

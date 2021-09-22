@@ -1,5 +1,7 @@
 # Reborn no Kishi
 
+![reborn-no-kishi](https://cdn.myanimelist.net/images/manga/3/221333.jpg)
+
 -   **type**: manga
 -   **original-name**: リボーンの棋士
 -   **start-date**: 2018-05-21

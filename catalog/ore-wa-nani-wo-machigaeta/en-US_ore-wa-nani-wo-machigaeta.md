@@ -1,5 +1,7 @@
 # Ore wa Nani wo Machigaeta!?
 
+![ore-wa-nani-wo-machigaeta](https://cdn.myanimelist.net/images/manga/2/146767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

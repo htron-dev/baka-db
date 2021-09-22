@@ -1,5 +1,7 @@
 # Sora no Kane no Hibiku Hoshi de
 
+![sora-no-kane-no-hibiku-hoshi-de](https://cdn.myanimelist.net/images/manga/3/196711.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 86

@@ -1,5 +1,7 @@
 # Tasogare, Kimi ni Ai ni Iku
 
+![tasogare-kimi-ni-ai-ni-iku](https://cdn.myanimelist.net/images/manga/1/180862.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

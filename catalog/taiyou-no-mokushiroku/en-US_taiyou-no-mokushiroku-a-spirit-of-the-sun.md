@@ -1,5 +1,7 @@
 # Taiyou no Mokushiroku: A Spirit of the Sun
 
+![taiyou-no-mokushiroku-a-spirit-of-the-sun](https://cdn.myanimelist.net/images/anime/11/24990.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 太陽の黙示録 A Spirit of the Sun

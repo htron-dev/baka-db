@@ -1,5 +1,7 @@
 # The Kabocha Wine: Nita no Aijou Monogatari
 
+![the-kabocha-wine-nita-no-aijou-monogatari](https://cdn.myanimelist.net/images/anime/7/23073.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Ｔｈｅかぼちゃワイン ニタの愛情物語

@@ -1,5 +1,7 @@
 # Pokémon Platinum: Aim to Be Battle King!!
 
+![pokemon-platinum-aim-to-be-battle-king](https://cdn.myanimelist.net/images/manga/2/36380.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

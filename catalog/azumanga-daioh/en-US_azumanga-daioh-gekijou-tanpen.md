@@ -1,5 +1,7 @@
 # Azumanga Daioh: Gekijou Tanpen
 
+![azumanga-daioh-gekijou-tanpen](https://cdn.myanimelist.net/images/anime/12/59965.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あずまんが大王（劇場短編）

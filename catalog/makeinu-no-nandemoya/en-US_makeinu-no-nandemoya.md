@@ -1,5 +1,7 @@
 # Makeinu no Nandemoya
 
+![makeinu-no-nandemoya](https://cdn.myanimelist.net/images/manga/2/25451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

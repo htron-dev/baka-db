@@ -1,5 +1,7 @@
 # Boku no Mura no Hanashi
 
+![boku-no-mura-no-hanashi](https://cdn.myanimelist.net/images/manga/2/213269.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 76

@@ -1,5 +1,7 @@
 # S Love
 
+![s-love](https://cdn.myanimelist.net/images/manga/3/150066.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

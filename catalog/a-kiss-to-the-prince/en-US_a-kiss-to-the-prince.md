@@ -1,5 +1,7 @@
 # A Kiss to the Prince
 
+![a-kiss-to-the-prince](https://cdn.myanimelist.net/images/manga/5/43797.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 22

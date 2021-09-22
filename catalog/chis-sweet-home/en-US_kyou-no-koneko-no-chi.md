@@ -1,5 +1,7 @@
 # Kyou no Koneko no Chi
 
+![kyou-no-koneko-no-chi](https://cdn.myanimelist.net/images/manga/2/209158.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 54

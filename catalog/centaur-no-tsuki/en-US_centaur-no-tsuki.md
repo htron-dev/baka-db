@@ -1,5 +1,7 @@
 # Centaur no Tsuki
 
+![centaur-no-tsuki](https://cdn.myanimelist.net/images/manga/2/79557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

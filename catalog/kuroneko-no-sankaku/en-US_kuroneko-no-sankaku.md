@@ -1,5 +1,7 @@
 # Kuroneko no Sankaku
 
+![kuroneko-no-sankaku](https://cdn.myanimelist.net/images/manga/1/81436.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 黒猫の三角

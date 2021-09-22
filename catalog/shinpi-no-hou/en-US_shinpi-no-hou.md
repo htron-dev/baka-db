@@ -1,5 +1,7 @@
 # Shinpi no Hou
 
+![shinpi-no-hou](https://cdn.myanimelist.net/images/anime/7/56551.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 神秘の法

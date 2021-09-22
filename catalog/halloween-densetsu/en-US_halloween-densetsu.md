@@ -1,5 +1,7 @@
 # Halloween Densetsu
 
+![halloween-densetsu](https://cdn.myanimelist.net/images/manga/3/47945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

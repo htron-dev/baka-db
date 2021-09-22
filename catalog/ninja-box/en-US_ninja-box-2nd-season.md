@@ -1,5 +1,7 @@
 # Ninja Box 2nd Season
 
+![ninja-box-2nd-season](https://cdn.myanimelist.net/images/anime/1688/105773.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: ニンジャボックス　シーズン 2
@@ -11,7 +13,6 @@
 
 -   action
 -   comedy
-
 -   fantasy
 
 ## Sinopse

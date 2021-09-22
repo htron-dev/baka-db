@@ -1,5 +1,7 @@
 # Tonari no Onna no Okage de Itsunomanika Daigaku Seikatsu ga Tanoshiku Natteita
 
+![tonari-no-onna-no-okage-de-itsunomanika-daigaku-seikatsu-ga-tanoshiku-natteita](https://cdn.myanimelist.net/images/manga/3/246380.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 38

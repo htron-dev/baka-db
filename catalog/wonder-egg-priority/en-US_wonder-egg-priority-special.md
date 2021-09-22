@@ -1,5 +1,7 @@
 # Wonder Egg Priority Special
 
+![wonder-egg-priority-special](https://cdn.myanimelist.net/images/anime/1527/113849.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンダーエッグ・プライオリティ 特別編

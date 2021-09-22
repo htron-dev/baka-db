@@ -1,5 +1,7 @@
 # Pan de Peace!
 
+![pan-de-peace](https://cdn.myanimelist.net/images/anime/4/79400.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: パンで Peace！

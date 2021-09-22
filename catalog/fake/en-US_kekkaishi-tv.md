@@ -1,5 +1,7 @@
 # Kekkaishi (TV)
 
+![kekkaishi-tv](https://cdn.myanimelist.net/images/anime/7/75191.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 結界師

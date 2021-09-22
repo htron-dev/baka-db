@@ -1,5 +1,7 @@
 # Mahoutsukai Precure! Movie: Kiseki no Henshin! Cure Mofurun!
 
+![mahoutsukai-precure-movie-kiseki-no-henshin-cure-mofurun](https://cdn.myanimelist.net/images/anime/4/84453.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画魔法つかいプリキュア！奇跡の変身！キュアモフルン！

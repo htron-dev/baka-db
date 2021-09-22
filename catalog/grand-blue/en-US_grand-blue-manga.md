@@ -1,5 +1,7 @@
 # Grand Blue
 
+![grand-blue](https://cdn.myanimelist.net/images/manga/2/166124.jpg)
+
 -   **type**: manga
 -   **original-name**: ぐらんぶる
 -   **start-date**: 2014-04-07

@@ -1,5 +1,7 @@
 # Sousei no Onmyouji
 
+![sousei-no-onmyouji](https://cdn.myanimelist.net/images/manga/2/188935.jpg)
+
 -   **type**: manga
 -   **original-name**: 双星の陰陽師
 -   **start-date**: 2013-11-02

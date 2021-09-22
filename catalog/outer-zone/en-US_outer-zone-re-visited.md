@@ -1,5 +1,7 @@
 # Outer Zone: Re:Visited
 
+![outer-zone-re-visited](https://cdn.myanimelist.net/images/manga/3/189008.jpg)
+
 -   **type**: manga
 -   **original-name**: アウターゾーン リ:ビジテッド
 -   **start-date**: 2011-10-17

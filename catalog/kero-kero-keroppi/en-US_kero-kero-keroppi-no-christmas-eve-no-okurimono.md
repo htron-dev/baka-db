@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Christmas Eve no Okurimono
 
+![kero-kero-keroppi-no-christmas-eve-no-okurimono](https://cdn.myanimelist.net/images/anime/2/47855.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのクリスマス・イブのおくりもの

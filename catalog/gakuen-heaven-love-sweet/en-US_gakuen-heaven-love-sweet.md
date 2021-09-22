@@ -1,5 +1,7 @@
 # Gakuen Heaven: Love & Sweet
 
+![gakuen-heaven-love-sweet](https://cdn.myanimelist.net/images/manga/2/22125.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

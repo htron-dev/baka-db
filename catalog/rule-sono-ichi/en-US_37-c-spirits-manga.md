@@ -1,5 +1,7 @@
 # 37°C Spirits
 
+![37-c-spirits](https://cdn.myanimelist.net/images/manga/2/205396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Bokutachi wa Benkyou ga Dekinai: Nagisa ni Usemono Arite Senjin wa Enzen to [X] Suru
 
+![bokutachi-wa-benkyou-ga-dekinai-nagisa-ni-usemono-arite-senjin-wa-enzen-to-x-suru](https://cdn.myanimelist.net/images/anime/1530/102782.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぼくたちは勉強ができない「渚に失せものありて先人は艶然と[X]する」

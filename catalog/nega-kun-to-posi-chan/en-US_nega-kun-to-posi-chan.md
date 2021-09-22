@@ -1,5 +1,7 @@
 # Nega-kun to Posi-chan
 
+![nega-kun-to-posi-chan](https://cdn.myanimelist.net/images/manga/3/229178.jpg)
+
 -   **type**: manga
 -   **original-name**: ネガくんとポジちゃん
 -   **start-date**: 2019-08-16

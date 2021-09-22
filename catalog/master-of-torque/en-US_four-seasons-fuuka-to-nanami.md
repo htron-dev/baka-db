@@ -1,5 +1,7 @@
 # Four Seasons: Fuuka to Nanami
 
+![four-seasons-fuuka-to-nanami](https://cdn.myanimelist.net/images/anime/10/86102.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Four Seasons 楓花と七波

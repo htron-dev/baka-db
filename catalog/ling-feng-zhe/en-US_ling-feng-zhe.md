@@ -1,5 +1,7 @@
 # Ling Feng Zhe
 
+![ling-feng-zhe](https://cdn.myanimelist.net/images/anime/1851/98296.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: 领风者
@@ -24,4 +26,4 @@ The Leader will talk about how Marx met his wife Jenny and their thwarted love s
 
 -   [My Anime list](https://myanimelist.net/anime/39022/Ling_Feng_Zhe)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14646)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Leader_(web_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Leader_%28web_series%29)

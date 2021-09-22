@@ -1,5 +1,7 @@
 # Aware! Meisaku-kun: Q&amp;A Corner
 
+![aware-meisaku-kun-q-amp-a-corner](https://cdn.myanimelist.net/images/anime/1025/95978.jpg)
+
 -   **type**: ona
 -   **original-name**: あはれ！名作くん Ｑ＆Ａコーナー
 -   **start-date**: 2018-08-03
@@ -8,7 +10,6 @@
 ## Tags
 
 -   comedy
-
 -   parody
 -   school
 

@@ -1,5 +1,7 @@
 # Twinkle Nora
 
+![twinkle-nora](https://cdn.myanimelist.net/images/manga/1/230105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トゥインクル・ノーラ

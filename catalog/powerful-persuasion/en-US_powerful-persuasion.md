@@ -1,5 +1,7 @@
 # Powerful Persuasion
 
+![powerful-persuasion](https://cdn.myanimelist.net/images/manga/2/42652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Lily to Kaeru to (Otouto)
 
+![lily-to-kaeru-to-otouto](https://cdn.myanimelist.net/images/anime/5/28159.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: リリとカエルと(弟)

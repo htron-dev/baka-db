@@ -1,5 +1,7 @@
 # Cowboy Bebop: Yose Atsume Blues
 
+![cowboy-bebop-yose-atsume-blues](https://cdn.myanimelist.net/images/anime/10/54341.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: カウボーイビバップ よせあつめブルース

@@ -1,5 +1,7 @@
 # Kiriwo Terrible
 
+![kiriwo-terrible](https://cdn.myanimelist.net/images/manga/3/134415.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

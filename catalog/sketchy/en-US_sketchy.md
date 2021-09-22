@@ -1,5 +1,7 @@
 # Sketchy
 
+![sketchy](https://cdn.myanimelist.net/images/manga/3/225888.jpg)
+
 -   **type**: manga
 -   **original-name**: スケッチー
 -   **start-date**: 2019-04-05

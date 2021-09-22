@@ -1,5 +1,7 @@
 # Pekosetora
 
+![pekosetora](https://cdn.myanimelist.net/images/manga/1/150729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

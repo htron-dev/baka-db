@@ -1,5 +1,7 @@
 # Norn9: Norn+Nonet
 
+![norn-9-norn-nonet](https://cdn.myanimelist.net/images/manga/3/141065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

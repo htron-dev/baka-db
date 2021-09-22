@@ -1,5 +1,7 @@
 # Shachiku to Gal ga Irekawarimashite
 
+![shachiku-to-gal-ga-irekawarimashite](https://cdn.myanimelist.net/images/manga/3/234222.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

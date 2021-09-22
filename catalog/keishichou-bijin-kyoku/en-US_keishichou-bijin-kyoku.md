@@ -1,5 +1,7 @@
 # Keishichou Bijin-kyoku
 
+![keishichou-bijin-kyoku](https://cdn.myanimelist.net/images/manga/2/143911.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 52

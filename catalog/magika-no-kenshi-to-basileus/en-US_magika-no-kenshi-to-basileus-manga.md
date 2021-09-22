@@ -1,5 +1,7 @@
 # Magika no Kenshi to Basileus
 
+![magika-no-kenshi-to-basileus](https://cdn.myanimelist.net/images/manga/1/143619.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔技科の剣士と召喚魔王〈ヴァシレウス〉
 -   **start-date**: 2013-10-26

@@ -1,5 +1,7 @@
 # Boku no Ie ni Oide
 
+![boku-no-ie-ni-oide](https://cdn.myanimelist.net/images/manga/2/159611.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 僕の家においで

@@ -1,5 +1,7 @@
 # Koukyuu no Chouki: Haou ni Ubawareta Akai Kotori
 
+![koukyuu-no-chouki-haou-ni-ubawareta-akai-kotori](https://cdn.myanimelist.net/images/manga/2/194855.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

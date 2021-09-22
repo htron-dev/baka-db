@@ -1,5 +1,7 @@
 # Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi
 
+![precure-miracle-leap-movie-minna-to-no-fushigi-na-ichinichi](https://cdn.myanimelist.net/images/anime/1313/105361.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画プリキュアミラクルリープ みんなとの不思議な 1 日

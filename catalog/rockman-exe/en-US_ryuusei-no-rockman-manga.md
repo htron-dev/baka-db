@@ -1,5 +1,7 @@
 # Ryuusei no Rockman
 
+![ryuusei-no-rockman](https://cdn.myanimelist.net/images/manga/2/36832.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18
@@ -10,7 +12,6 @@
 ## Tags
 
 -   action
-
 -   sci-fi
 
 ## Authors

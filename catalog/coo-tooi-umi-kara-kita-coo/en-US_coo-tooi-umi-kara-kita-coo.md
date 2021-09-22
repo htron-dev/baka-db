@@ -1,5 +1,7 @@
 # Coo: Tooi Umi kara Kita Coo
 
+![coo-tooi-umi-kara-kita-coo](https://cdn.myanimelist.net/images/anime/2/49723.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Coo 遠い海から来たクー

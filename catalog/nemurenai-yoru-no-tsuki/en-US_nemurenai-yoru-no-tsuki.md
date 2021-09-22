@@ -1,5 +1,7 @@
 # Nemurenai Yoru no Tsuki
 
+![nemurenai-yoru-no-tsuki](https://cdn.myanimelist.net/images/anime/1153/110691.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 眠れない夜の月

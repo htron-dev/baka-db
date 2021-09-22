@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch R2
 
+![code-geass-hangyaku-no-lelouch-r-2](https://cdn.myanimelist.net/images/anime/4/9391.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: コードギアス 反逆のルルーシュ 続編

@@ -1,5 +1,7 @@
 # Devil-chi
 
+![devil-chi](https://cdn.myanimelist.net/images/manga/1/194258.jpg)
+
 -   **type**: manga
 -   **original-name**: でびるち
 -   **start-date**: 2016-01-03

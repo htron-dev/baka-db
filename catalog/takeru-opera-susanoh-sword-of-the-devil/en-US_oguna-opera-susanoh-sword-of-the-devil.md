@@ -1,5 +1,7 @@
 # Oguna ~ Opera Susanoh Sword of the Devil
 
+![oguna-opera-susanoh-sword-of-the-devil](https://cdn.myanimelist.net/images/manga/3/34484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

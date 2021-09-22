@@ -1,5 +1,7 @@
 # Kashoku no Tsuisou
 
+![kashoku-no-tsuisou](https://cdn.myanimelist.net/images/manga/1/219214.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 華燭の追想

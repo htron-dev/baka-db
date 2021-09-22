@@ -1,5 +1,7 @@
 # Chikyuu Ningen Terra-chan
 
+![chikyuu-ningen-terra-chan](https://cdn.myanimelist.net/images/manga/1/196382.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: 地球人間テラちゃん

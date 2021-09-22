@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue Zhi: Luosheng Tangxia
 
+![qin-shi-ming-yue-zhi-luosheng-tangxia](https://cdn.myanimelist.net/images/anime/10/71825.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 秦时明月之罗生堂下

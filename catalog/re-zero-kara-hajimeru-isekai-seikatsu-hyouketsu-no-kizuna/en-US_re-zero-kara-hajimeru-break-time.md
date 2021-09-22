@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Break Time
 
+![re-zero-kara-hajimeru-break-time](https://cdn.myanimelist.net/images/anime/8/81258.jpg)
+
 -   **type**: special
 -   **episodes**: 11
 -   **original-name**: Re:ゼロから始める休憩時間〈ブレイクタイム〉

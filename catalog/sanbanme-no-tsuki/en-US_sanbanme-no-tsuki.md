@@ -1,5 +1,7 @@
 # Sanbanme no Tsuki
 
+![sanbanme-no-tsuki](https://cdn.myanimelist.net/images/manga/3/146783.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

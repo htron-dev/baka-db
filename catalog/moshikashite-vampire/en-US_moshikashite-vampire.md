@@ -1,5 +1,7 @@
 # Moshikashite Vampire
 
+![moshikashite-vampire](https://cdn.myanimelist.net/images/manga/2/4977.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: もしかしてヴァンプ

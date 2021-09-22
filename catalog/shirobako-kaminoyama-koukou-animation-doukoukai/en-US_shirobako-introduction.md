@@ -1,5 +1,7 @@
 # Shirobako: Introduction
 
+![shirobako-introduction](https://cdn.myanimelist.net/images/manga/2/147343.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

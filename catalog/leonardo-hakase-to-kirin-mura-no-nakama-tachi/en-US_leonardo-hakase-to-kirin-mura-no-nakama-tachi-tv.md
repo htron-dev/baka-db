@@ -1,5 +1,7 @@
 # Leonardo Hakase to Kirin-mura no Nakama-tachi (TV)
 
+![leonardo-hakase-to-kirin-mura-no-nakama-tachi-tv](https://cdn.myanimelist.net/images/anime/1206/105676.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: レオナルド博士とキリン村のなかまたち

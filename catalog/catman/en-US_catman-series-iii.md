@@ -1,5 +1,7 @@
 # Catman Series III
 
+![catman-series-iii](https://cdn.myanimelist.net/images/anime/8/8316.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: キャットマン

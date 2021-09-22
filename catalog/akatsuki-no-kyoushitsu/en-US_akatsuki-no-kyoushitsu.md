@@ -1,5 +1,7 @@
 # Akatsuki no Kyoushitsu
 
+![akatsuki-no-kyoushitsu](https://cdn.myanimelist.net/images/manga/3/54861.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: あかつきの教室

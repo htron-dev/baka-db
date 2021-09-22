@@ -1,5 +1,7 @@
 # Koisuru Taka wa Tsume wo Kakusu
 
+![koisuru-taka-wa-tsume-wo-kakusu](https://cdn.myanimelist.net/images/manga/2/189107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

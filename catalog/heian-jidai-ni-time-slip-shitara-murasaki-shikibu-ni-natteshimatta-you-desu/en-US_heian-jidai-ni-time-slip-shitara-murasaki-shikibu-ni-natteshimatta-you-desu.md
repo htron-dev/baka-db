@@ -1,5 +1,7 @@
 # Heian Jidai ni Time-slip shitara Murasaki Shikibu ni Natteshimatta you desu
 
+![heian-jidai-ni-time-slip-shitara-murasaki-shikibu-ni-natteshimatta-you-desu](https://cdn.myanimelist.net/images/manga/1/219215.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 31

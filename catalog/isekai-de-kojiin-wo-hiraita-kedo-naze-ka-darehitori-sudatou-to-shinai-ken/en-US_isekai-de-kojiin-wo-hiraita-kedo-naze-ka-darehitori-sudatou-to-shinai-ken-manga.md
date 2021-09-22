@@ -1,5 +1,7 @@
 # Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken
 
+![isekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken](https://cdn.myanimelist.net/images/manga/1/215384.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界で孤児院を開いたけど、なぜか誰一人巣立とうとしない件
 -   **start-date**: 2018-06-05

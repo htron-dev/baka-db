@@ -1,5 +1,7 @@
 # Ling Yu 4th Season
 
+![ling-yu-4th-season](https://cdn.myanimelist.net/images/anime/1753/92962.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 灵域 第四季

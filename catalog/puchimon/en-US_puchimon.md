@@ -1,5 +1,7 @@
 # Puchimon
 
+![puchimon](https://cdn.myanimelist.net/images/manga/2/3381.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 81

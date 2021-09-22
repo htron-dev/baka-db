@@ -1,5 +1,7 @@
 # The Way I Am
 
+![the-way-i-am](https://cdn.myanimelist.net/images/manga/3/73081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

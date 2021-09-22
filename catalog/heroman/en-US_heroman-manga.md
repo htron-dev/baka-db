@@ -1,5 +1,7 @@
 # Heroman
 
+![heroman](https://cdn.myanimelist.net/images/manga/1/29478.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Midori-chan
 
+![midori-chan](https://cdn.myanimelist.net/images/anime/1943/92898.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: みどりちゃん

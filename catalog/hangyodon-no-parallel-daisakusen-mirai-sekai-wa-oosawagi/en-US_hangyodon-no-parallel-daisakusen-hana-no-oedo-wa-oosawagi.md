@@ -1,5 +1,7 @@
 # Hangyodon no Parallel Daisakusen: Hana no Oedo wa Oosawagi
 
+![hangyodon-no-parallel-daisakusen-hana-no-oedo-wa-oosawagi](https://cdn.myanimelist.net/images/anime/4/84565.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハンギョドンのパラレル大作戦 (花のお江戸は大さわぎ)

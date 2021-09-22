@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Kaguya-hime
 
+![manga-grimm-douwa-kaguya-hime](https://cdn.myanimelist.net/images/manga/2/137373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

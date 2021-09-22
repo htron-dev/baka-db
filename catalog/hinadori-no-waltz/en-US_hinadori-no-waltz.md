@@ -1,5 +1,7 @@
 # Hinadori no Waltz
 
+![hinadori-no-waltz](https://cdn.myanimelist.net/images/manga/2/187418.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 58

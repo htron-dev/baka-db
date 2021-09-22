@@ -1,5 +1,7 @@
 # Slow Start
 
+![slow-start](https://cdn.myanimelist.net/images/manga/2/157435.jpg)
+
 -   **type**: manga
 -   **original-name**: スロウスタート
 -   **start-date**: 2013-06-07

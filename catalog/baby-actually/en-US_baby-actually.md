@@ -1,5 +1,7 @@
 # Baby Actually
 
+![baby-actually](https://cdn.myanimelist.net/images/manga/3/227522.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ベイビー・アクチュアリー

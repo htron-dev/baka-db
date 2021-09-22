@@ -1,5 +1,7 @@
 # En En Nikoli
 
+![en-en-nikoli](https://cdn.myanimelist.net/images/anime/12/70719.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: エんエんニコリ

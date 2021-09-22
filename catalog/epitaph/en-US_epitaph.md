@@ -1,5 +1,7 @@
 # Epitaph
 
+![epitaph](https://cdn.myanimelist.net/images/manga/5/40160.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ueki no Housoku
 
+![ueki-no-housoku](https://cdn.myanimelist.net/images/anime/8/20596.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: うえきの法則

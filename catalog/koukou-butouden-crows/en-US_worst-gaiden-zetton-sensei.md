@@ -1,5 +1,7 @@
 # Worst Gaiden: Zetton-sensei
 
+![worst-gaiden-zetton-sensei](https://cdn.myanimelist.net/images/manga/1/236662.jpg)
+
 -   **type**: manga
 -   **original-name**: WORST 外伝 ゼットン先生
 -   **start-date**: 2020-07-06

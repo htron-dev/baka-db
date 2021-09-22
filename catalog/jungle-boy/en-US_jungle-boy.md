@@ -1,5 +1,7 @@
 # Jungle Boy
 
+![jungle-boy](https://cdn.myanimelist.net/images/manga/2/28363.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 

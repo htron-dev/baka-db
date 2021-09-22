@@ -1,5 +1,7 @@
 # Greek Roman Sinhwa: Olympus Guardian (Movie)
 
+![greek-roman-sinhwa-olympus-guardian-movie](https://cdn.myanimelist.net/images/anime/5/26269.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 그리스 로마 신화-올림포스 가디언

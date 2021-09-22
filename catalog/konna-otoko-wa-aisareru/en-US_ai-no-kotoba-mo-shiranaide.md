@@ -1,5 +1,7 @@
 # Ai no Kotoba mo Shiranaide
 
+![ai-no-kotoba-mo-shiranaide](https://cdn.myanimelist.net/images/manga/3/10326.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

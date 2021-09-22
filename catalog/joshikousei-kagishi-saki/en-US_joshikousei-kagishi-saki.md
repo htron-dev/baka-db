@@ -1,5 +1,7 @@
 # Joshikousei Kagishi Saki
 
+![joshikousei-kagishi-saki](https://cdn.myanimelist.net/images/manga/5/35274.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

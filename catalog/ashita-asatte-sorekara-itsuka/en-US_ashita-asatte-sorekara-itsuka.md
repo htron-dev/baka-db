@@ -1,5 +1,7 @@
 # Ashita Asatte Sorekara Itsuka
 
+![ashita-asatte-sorekara-itsuka](https://cdn.myanimelist.net/images/manga/2/225134.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

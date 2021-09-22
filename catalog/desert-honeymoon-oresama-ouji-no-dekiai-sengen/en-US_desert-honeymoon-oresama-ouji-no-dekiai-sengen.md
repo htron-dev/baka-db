@@ -1,5 +1,7 @@
 # Desert Honeymoon: Oresama Ouji no Dekiai Sengen!?
 
+![desert-honeymoon-oresama-ouji-no-dekiai-sengen](https://cdn.myanimelist.net/images/manga/2/182597.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 熱砂の蜜月〈デザートハネムーン〉 俺様王子の溺愛宣言!?

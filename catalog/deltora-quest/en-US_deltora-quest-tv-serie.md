@@ -1,5 +1,7 @@
 # Deltora Quest
 
+![deltora-quest](https://cdn.myanimelist.net/images/anime/12/88164.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: デルトラクエスト
@@ -12,7 +14,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse
@@ -31,4 +32,4 @@ The Shadow Lord now reigns over Deltora and many years pass under his tyrannical
 -   [Official Site](https://web.archive.org/web/20080912130844/http://www.deltoraquest.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4595)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6907)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Deltora_Quest_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Deltora_Quest_%28anime%29)

@@ -1,5 +1,7 @@
 # Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete
 
+![ushinawareta-mirai-wo-motomete-ushinawareta-natsuyasumi-wo-motomete](https://cdn.myanimelist.net/images/anime/1584/112511.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 失われた未来を求めて　第十三話「失われた夏休みを求めて」

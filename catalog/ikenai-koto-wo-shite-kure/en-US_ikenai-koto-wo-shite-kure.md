@@ -1,5 +1,7 @@
 # Ikenai Koto wo Shite Kure
 
+![ikenai-koto-wo-shite-kure](https://cdn.myanimelist.net/images/manga/2/228591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

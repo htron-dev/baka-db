@@ -1,5 +1,7 @@
 # Astarotte no Omocha! EX
 
+![astarotte-no-omocha-ex](https://cdn.myanimelist.net/images/anime/11/30853.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アスタロッテのおもちゃ! EX

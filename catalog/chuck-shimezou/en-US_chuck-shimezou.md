@@ -1,5 +1,7 @@
 # Chuck Shimezou
 
+![chuck-shimezou](https://cdn.myanimelist.net/images/anime/1171/97419.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チャックシメゾウ

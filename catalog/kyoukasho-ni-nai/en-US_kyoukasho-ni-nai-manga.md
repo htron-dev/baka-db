@@ -1,5 +1,7 @@
 # Kyoukasho ni Nai!
 
+![kyoukasho-ni-nai](https://cdn.myanimelist.net/images/manga/1/188888.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 179

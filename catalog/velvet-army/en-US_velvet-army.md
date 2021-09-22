@@ -1,5 +1,7 @@
 # Velvet Army
 
+![velvet-army](https://cdn.myanimelist.net/images/manga/3/165478.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ベルベット・アーミー

@@ -1,5 +1,7 @@
 # Kie Saranu Kizuato: Hi no Umi Osaka
 
+![kie-saranu-kizuato-hi-no-umi-osaka](https://cdn.myanimelist.net/images/anime/13/66029.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 消えさらぬ傷あと 火の海・大阪

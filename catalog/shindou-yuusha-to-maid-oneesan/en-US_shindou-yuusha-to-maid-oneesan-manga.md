@@ -1,5 +1,7 @@
 # Shindou Yuusha to Maid Oneesan
 
+![shindou-yuusha-to-maid-oneesan](https://cdn.myanimelist.net/images/manga/1/233485.jpg)
+
 -   **type**: manga
 -   **original-name**: 神童勇者とメイドおねえさん
 -   **start-date**: 2019-11-27

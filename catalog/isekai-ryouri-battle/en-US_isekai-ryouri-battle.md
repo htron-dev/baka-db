@@ -1,5 +1,7 @@
 # Isekai Ryouri Battle
 
+![isekai-ryouri-battle](https://cdn.myanimelist.net/images/manga/2/169646.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界料理バトル
 -   **start-date**: 2015-12-25

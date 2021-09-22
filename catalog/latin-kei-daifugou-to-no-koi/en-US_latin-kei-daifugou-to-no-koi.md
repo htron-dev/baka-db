@@ -1,5 +1,7 @@
 # Latin-kei Daifugou to no Koi
 
+![latin-kei-daifugou-to-no-koi](https://cdn.myanimelist.net/images/manga/2/231687.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ラテン系大富豪との恋

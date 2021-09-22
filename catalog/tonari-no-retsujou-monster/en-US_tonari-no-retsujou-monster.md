@@ -1,5 +1,7 @@
 # Tonari no Retsujou Monster
 
+![tonari-no-retsujou-monster](https://cdn.myanimelist.net/images/manga/2/237105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

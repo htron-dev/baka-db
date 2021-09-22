@@ -1,5 +1,7 @@
 # GRANDEEK ReeL
 
+![grandeek-ree-l](https://cdn.myanimelist.net/images/manga/2/16732.jpg)
+
 -   **type**: manga
 -   **original-name**: グランディーク・リール
 -   **start-date**: 2005-10-19

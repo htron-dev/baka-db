@@ -1,5 +1,7 @@
 # Uwasa no Blonde Musume
 
+![uwasa-no-blonde-musume](https://cdn.myanimelist.net/images/manga/1/227549.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 噂のブロンド娘

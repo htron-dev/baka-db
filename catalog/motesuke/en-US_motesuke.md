@@ -1,5 +1,7 @@
 # Motesuke
 
+![motesuke](https://cdn.myanimelist.net/images/manga/1/130753.jpg)
+
 -   **type**: manga
 -   **original-name**: もて介
 -   **start-date**: 2013-08-27

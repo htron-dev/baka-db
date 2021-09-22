@@ -1,5 +1,7 @@
 # Freezing: Pair Love Stories
 
+![freezing-pair-love-stories](https://cdn.myanimelist.net/images/manga/3/96873.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

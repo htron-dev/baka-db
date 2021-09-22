@@ -1,5 +1,7 @@
 # Dance Dance Danseur
 
+![dance-dance-danseur](https://cdn.myanimelist.net/images/manga/2/190277.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンス・ダンス・ダンスール
 -   **start-date**: 2015-09-14

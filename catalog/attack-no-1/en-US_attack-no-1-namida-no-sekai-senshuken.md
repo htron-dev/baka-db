@@ -1,5 +1,7 @@
 # Attack No.1: Namida no Sekai Senshuken
 
+![attack-no-1-namida-no-sekai-senshuken](https://cdn.myanimelist.net/images/anime/5/25379.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アタック No.1 涙の世界選手権

@@ -1,5 +1,7 @@
 # Roselia Oukoku Monogatari
 
+![roselia-oukoku-monogatari](https://cdn.myanimelist.net/images/manga/3/58201.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ローゼリア王国物語

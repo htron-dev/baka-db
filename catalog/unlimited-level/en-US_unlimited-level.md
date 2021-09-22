@@ -1,5 +1,7 @@
 # Unlimited Level
 
+![unlimited-level](https://cdn.myanimelist.net/images/manga/3/189079.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アンリミテッド・レベル
 -   **start-date**: 2017-01-18

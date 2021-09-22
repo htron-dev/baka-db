@@ -1,5 +1,7 @@
 # Ryuu - Ron
 
+![ryuu-ron](https://cdn.myanimelist.net/images/manga/1/75915.jpg)
+
 -   **type**: manga
 -   **volumes**: 42
 -   **original-name**: 龍-RON-

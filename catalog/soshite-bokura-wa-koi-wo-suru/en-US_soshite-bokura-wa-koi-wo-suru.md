@@ -1,5 +1,7 @@
 # Soshite Bokura wa Koi wo Suru
 
+![soshite-bokura-wa-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/81211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

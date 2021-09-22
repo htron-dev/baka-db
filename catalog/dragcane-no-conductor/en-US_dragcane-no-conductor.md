@@ -1,5 +1,7 @@
 # Dragcane no Conductor
 
+![dragcane-no-conductor](https://cdn.myanimelist.net/images/manga/3/162847.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 竜魔杖〈ドラグケイン〉のコンダクター

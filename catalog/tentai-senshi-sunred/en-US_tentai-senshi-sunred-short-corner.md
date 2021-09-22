@@ -1,5 +1,7 @@
 # Tentai Senshi Sunred: Short Corner
 
+![tentai-senshi-sunred-short-corner](https://cdn.myanimelist.net/images/anime/5/21807.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 天体戦士サンレッド ショートコーナー

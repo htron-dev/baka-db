@@ -1,5 +1,7 @@
 # Iruka-ryou no Shoujo-tachi wa Koi Dekinai
 
+![iruka-ryou-no-shoujo-tachi-wa-koi-dekinai](https://cdn.myanimelist.net/images/manga/2/164507.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: いるか寮の少女たちは恋できない

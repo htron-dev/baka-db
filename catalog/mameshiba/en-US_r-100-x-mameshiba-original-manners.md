@@ -1,5 +1,7 @@
 # "R100" x Mameshiba Original Manners
 
+![r-100-x-mameshiba-original-manners](https://cdn.myanimelist.net/images/anime/1135/92193.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 映画『R100』×「豆しば」オリジナルマナ

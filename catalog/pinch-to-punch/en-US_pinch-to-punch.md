@@ -1,5 +1,7 @@
 # Pinch to Punch
 
+![pinch-to-punch](https://cdn.myanimelist.net/images/anime/9/53315.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 156
 -   **original-name**: ピンチとパンチ

@@ -1,5 +1,7 @@
 # Halfmoon Emotion
 
+![halfmoon-emotion](https://cdn.myanimelist.net/images/manga/2/7325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

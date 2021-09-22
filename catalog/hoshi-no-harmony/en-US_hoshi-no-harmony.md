@@ -1,5 +1,7 @@
 # Hoshi no Harmony
 
+![hoshi-no-harmony](https://cdn.myanimelist.net/images/manga/1/185732.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

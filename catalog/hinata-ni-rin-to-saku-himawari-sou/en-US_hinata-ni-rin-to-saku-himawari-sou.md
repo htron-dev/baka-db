@@ -1,5 +1,7 @@
 # Hinata ni Rin to Saku Himawari-sou
 
+![hinata-ni-rin-to-saku-himawari-sou](https://cdn.myanimelist.net/images/manga/2/229326.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

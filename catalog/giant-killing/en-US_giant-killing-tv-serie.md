@@ -1,5 +1,7 @@
 # Giant Killing
 
+![giant-killing](https://cdn.myanimelist.net/images/anime/13/30191.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ジャイアントキリング

@@ -1,5 +1,7 @@
 # Kimi wa Girlfriend
 
+![kimi-wa-girlfriend](https://cdn.myanimelist.net/images/manga/2/179812.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

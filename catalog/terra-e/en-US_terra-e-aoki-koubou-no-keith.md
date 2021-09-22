@@ -1,5 +1,7 @@
 # Terra e... ~Aoki Koubou no Keith~
 
+![terra-e-aoki-koubou-no-keith](https://cdn.myanimelist.net/images/manga/2/57857.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 地球へ…～青き光芒のキース～

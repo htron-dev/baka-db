@@ -1,5 +1,7 @@
 # Nishino: Gakunai Caste Saikai ni shite Inou Sekai Saikyou no Shounen
 
+![nishino-gakunai-caste-saikai-ni-shite-inou-sekai-saikyou-no-shounen](https://cdn.myanimelist.net/images/manga/1/244636.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

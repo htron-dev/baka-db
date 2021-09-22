@@ -1,5 +1,7 @@
 # Haguruma Kyousou
 
+![haguruma-kyousou](https://cdn.myanimelist.net/images/manga/3/59465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

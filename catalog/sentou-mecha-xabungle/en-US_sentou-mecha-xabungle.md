@@ -1,5 +1,7 @@
 # Sentou Mecha Xabungle
 
+![sentou-mecha-xabungle](https://cdn.myanimelist.net/images/anime/7/51455.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 戦闘メカザブングル

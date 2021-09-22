@@ -1,5 +1,7 @@
 # Menghuan Shuyuan: Youxue Ji
 
+![menghuan-shuyuan-youxue-ji](https://cdn.myanimelist.net/images/anime/1830/108465.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: 梦幻书院 游学季

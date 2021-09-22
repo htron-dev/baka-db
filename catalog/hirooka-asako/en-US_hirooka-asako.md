@@ -1,5 +1,7 @@
 # Hirooka Asako
 
+![hirooka-asako](https://cdn.myanimelist.net/images/anime/1612/97987.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 広岡浅子

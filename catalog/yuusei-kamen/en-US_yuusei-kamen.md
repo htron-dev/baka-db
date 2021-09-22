@@ -1,5 +1,7 @@
 # Yuusei Kamen
 
+![yuusei-kamen](https://cdn.myanimelist.net/images/anime/13/56383.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 遊星仮面

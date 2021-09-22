@@ -1,5 +1,7 @@
 # Shiawase no Kizuna
 
+![shiawase-no-kizuna](https://cdn.myanimelist.net/images/manga/1/246995.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: しあわせの絆

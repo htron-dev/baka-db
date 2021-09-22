@@ -1,5 +1,7 @@
 # Alexander Senki Movie
 
+![alexander-senki-movie](https://cdn.myanimelist.net/images/anime/1831/95687.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アレクサンダー戦記 劇場版

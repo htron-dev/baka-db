@@ -1,5 +1,7 @@
 # Playroom 108
 
+![playroom-108](https://cdn.myanimelist.net/images/manga/3/245145.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

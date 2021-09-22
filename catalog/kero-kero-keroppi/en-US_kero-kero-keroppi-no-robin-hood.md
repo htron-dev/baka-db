@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Robin Hood
 
+![kero-kero-keroppi-no-robin-hood](https://cdn.myanimelist.net/images/anime/1681/112477.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのロビンフッド

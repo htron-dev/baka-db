@@ -1,5 +1,7 @@
 # End of Balor
 
+![end-of-balor](https://cdn.myanimelist.net/images/manga/2/238789.jpg)
+
 -   **type**: manga
 -   **original-name**: エンド・オブ・バロル
 -   **start-date**: 2020-06-27

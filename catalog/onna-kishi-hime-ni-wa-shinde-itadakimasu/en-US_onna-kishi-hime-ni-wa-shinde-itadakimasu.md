@@ -1,5 +1,7 @@
 # Onna Kishi: "Hime ni wa Shinde Itadakimasu."
 
+![onna-kishi-hime-ni-wa-shinde-itadakimasu](https://cdn.myanimelist.net/images/manga/3/224946.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

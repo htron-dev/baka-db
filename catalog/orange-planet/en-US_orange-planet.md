@@ -1,5 +1,7 @@
 # Orange Planet
 
+![orange-planet](https://cdn.myanimelist.net/images/manga/2/8896.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

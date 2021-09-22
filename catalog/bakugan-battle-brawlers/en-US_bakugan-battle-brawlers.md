@@ -1,5 +1,7 @@
 # Bakugan Battle Brawlers
 
+![bakugan-battle-brawlers](https://cdn.myanimelist.net/images/anime/7/21568.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 爆丸バトルブローラーズ

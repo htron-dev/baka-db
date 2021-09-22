@@ -1,5 +1,7 @@
 # Galaxy Angel S
 
+![galaxy-angel-s](https://cdn.myanimelist.net/images/anime/12/34441.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ギャラクシーエンジェル S

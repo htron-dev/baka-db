@@ -1,5 +1,7 @@
 # Undead Unluck
 
+![undead-unluck](https://cdn.myanimelist.net/images/manga/2/228641.jpg)
+
 -   **type**: manga
 -   **original-name**: アンデッドアンラック
 -   **start-date**: 2020-01-20

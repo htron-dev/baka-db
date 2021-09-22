@@ -1,5 +1,7 @@
 # Eiyuu ni wa Narenai Bokura Dakara
 
+![eiyuu-ni-wa-narenai-bokura-dakara](https://cdn.myanimelist.net/images/anime/13/83666.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 英雄にはなれない僕らだから

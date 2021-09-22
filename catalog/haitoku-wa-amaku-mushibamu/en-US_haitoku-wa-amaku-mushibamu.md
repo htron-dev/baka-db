@@ -1,5 +1,7 @@
 # Haitoku wa Amaku Mushibamu
 
+![haitoku-wa-amaku-mushibamu](https://cdn.myanimelist.net/images/manga/2/5765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

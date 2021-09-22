@@ -1,5 +1,7 @@
 # Ookami wa Ookamida
 
+![ookami-wa-ookamida](https://cdn.myanimelist.net/images/anime/1090/92231.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 狼は狼だ

@@ -1,5 +1,7 @@
 # Uchuu no Swan
 
+![uchuu-no-swan](https://cdn.myanimelist.net/images/manga/4/34360.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12
@@ -11,7 +13,6 @@
 
 -   adventure
 -   comedy
-
 -   school
 -   sci-fi
 

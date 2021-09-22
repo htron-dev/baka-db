@@ -1,5 +1,7 @@
 # Mabeob Chunjamun
 
+![mabeob-chunjamun](https://cdn.myanimelist.net/images/anime/1701/100458.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 마법천자문
@@ -10,7 +12,6 @@
 ## Tags
 
 -   adventure
-
 -   magic
 -   martial-arts
 

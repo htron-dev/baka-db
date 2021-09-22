@@ -1,5 +1,7 @@
 # Chiisana Koi no Monogatari: Chichi to Sally Hatsukoi no Shiki
 
+![chiisana-koi-no-monogatari-chichi-to-sally-hatsukoi-no-shiki](https://cdn.myanimelist.net/images/anime/1125/106813.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 小さな恋のものがたり チッチとサリー初恋の四季

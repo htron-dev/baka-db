@@ -1,5 +1,7 @@
 # Super Robot Taisen OG - Divine Wars
 
+![super-robot-taisen-og-divine-wars](https://cdn.myanimelist.net/images/manga/3/46125.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: スーパーロボット大戦 OG - ディバイン・ウォーズ

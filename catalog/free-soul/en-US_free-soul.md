@@ -1,5 +1,7 @@
 # Free Soul
 
+![free-soul](https://cdn.myanimelist.net/images/manga/3/158125.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

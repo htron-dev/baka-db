@@ -1,5 +1,7 @@
 # Hamelin no Violin Hiki: The Movie
 
+![hamelin-no-violin-hiki-the-movie](https://cdn.myanimelist.net/images/anime/1260/94835.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハーメルンのバイオリン弾き

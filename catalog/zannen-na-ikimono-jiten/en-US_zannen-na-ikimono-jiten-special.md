@@ -1,5 +1,7 @@
 # Zannen na Ikimono Jiten (Special)
 
+![zannen-na-ikimono-jiten-special](https://cdn.myanimelist.net/images/anime/1678/99514.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ざんねんないきもの事典

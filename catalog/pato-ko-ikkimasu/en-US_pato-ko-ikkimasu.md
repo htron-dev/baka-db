@@ -1,5 +1,7 @@
 # Pato-ko Ikkimasu!
 
+![pato-ko-ikkimasu](https://cdn.myanimelist.net/images/manga/1/171884.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

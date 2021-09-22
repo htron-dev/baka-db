@@ -1,5 +1,7 @@
 # Gorgeous Carat: La Esperanza – Kibou no Seibo
 
+![gorgeous-carat-la-esperanza-kibou-no-seibo](https://cdn.myanimelist.net/images/manga/2/72697.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

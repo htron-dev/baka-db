@@ -1,5 +1,7 @@
 # Taabou no Ryuuguusei Daitanken
 
+![taabou-no-ryuuguusei-daitanken](https://cdn.myanimelist.net/images/anime/12/64157.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たあ坊の竜宮星大探険
@@ -10,7 +12,6 @@
 
 -   sci-fi
 -   space
-
 -   fantasy
 
 ## Sinopse

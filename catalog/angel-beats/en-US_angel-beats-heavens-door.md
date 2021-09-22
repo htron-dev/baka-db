@@ -1,5 +1,7 @@
 # Angel Beats!: Heaven's Door
 
+![angel-beats-heavens-door](https://cdn.myanimelist.net/images/manga/1/153985.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 77

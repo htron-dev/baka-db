@@ -1,5 +1,7 @@
 # Smoking Savage
 
+![smoking-savage](https://cdn.myanimelist.net/images/manga/1/217103.jpg)
+
 -   **type**: manga
 -   **original-name**: スモーキング・サベージ
 -   **start-date**: 2018-02-26

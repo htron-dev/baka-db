@@ -1,5 +1,7 @@
 # Kamen Byoutou
 
+![kamen-byoutou](https://cdn.myanimelist.net/images/manga/2/238256.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Shinjuku Shin-chan: Yoiko no Koutsuu Anzen
 
+![shinjuku-shin-chan-yoiko-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/11/38831.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 新宿シンちゃん　よいこの交通安全

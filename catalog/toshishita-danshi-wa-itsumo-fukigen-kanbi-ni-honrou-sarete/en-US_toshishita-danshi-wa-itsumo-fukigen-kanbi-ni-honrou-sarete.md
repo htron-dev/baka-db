@@ -1,5 +1,7 @@
 # Toshishita Danshi wa Itsumo Fukigen: Kanbi ni Honrou Sarete
 
+![toshishita-danshi-wa-itsumo-fukigen-kanbi-ni-honrou-sarete](https://cdn.myanimelist.net/images/manga/3/194671.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 年下男子はいつも不機嫌～甘美に翻弄されて～

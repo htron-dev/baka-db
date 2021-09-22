@@ -1,5 +1,7 @@
 # Kedamono Kareshi ni Hoshoku Saremashita
 
+![kedamono-kareshi-ni-hoshoku-saremashita](https://cdn.myanimelist.net/images/manga/1/181320.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ケダモノ彼氏に捕食されました

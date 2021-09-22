@@ -1,5 +1,7 @@
 # Assembler 0X
 
+![assembler-0-x](https://cdn.myanimelist.net/images/manga/3/30614.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: アセンブラ０Ｘ

@@ -1,5 +1,7 @@
 # Aoi Horus no Hitomi: Dansou no Joou no Monogatari
 
+![aoi-horus-no-hitomi-dansou-no-joou-no-monogatari](https://cdn.myanimelist.net/images/manga/3/164010.jpg)
+
 -   **type**: manga
 -   **original-name**: 碧いホルスの瞳 -男装の女王の物語-
 -   **start-date**: 2014-12-15

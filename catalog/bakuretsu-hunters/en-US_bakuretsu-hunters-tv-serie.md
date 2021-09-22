@@ -1,5 +1,7 @@
 # Bakuretsu Hunters
 
+![bakuretsu-hunters](https://cdn.myanimelist.net/images/anime/1607/96463.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 爆れつハンター

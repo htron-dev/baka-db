@@ -1,5 +1,7 @@
 # Ou no Kemono: Enpei no Arcana
 
+![ou-no-kemono-enpei-no-arcana](https://cdn.myanimelist.net/images/manga/2/235255.jpg)
+
 -   **type**: manga
 -   **original-name**: 王の獣～掩蔽のアルカナ～
 -   **start-date**: 2019-01-24

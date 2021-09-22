@@ -1,5 +1,7 @@
 # 1+2=Paradise
 
+![1-2-paradise](https://cdn.myanimelist.net/images/manga/1/101309.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

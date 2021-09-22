@@ -1,5 +1,7 @@
 # Norman the Snowman: Kita no Kuni no Aurora
 
+![norman-the-snowman-kita-no-kuni-no-aurora](https://cdn.myanimelist.net/images/anime/1573/111019.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ノーマン・ザ・スノーマン ~北の国のオーロラ~
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Uranaishi no Nayamigoto
 
+![uranaishi-no-nayamigoto](https://cdn.myanimelist.net/images/manga/2/238458.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 29

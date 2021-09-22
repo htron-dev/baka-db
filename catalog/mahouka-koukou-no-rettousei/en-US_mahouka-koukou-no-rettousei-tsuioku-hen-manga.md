@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Tsuioku-hen
 
+![mahouka-koukou-no-rettousei-tsuioku-hen](https://cdn.myanimelist.net/images/manga/2/128657.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

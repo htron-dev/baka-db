@@ -1,5 +1,7 @@
 # Nakigao ni Kiss
 
+![nakigao-ni-kiss](https://cdn.myanimelist.net/images/manga/3/45669.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 泣き顔にＫＩＳＳ

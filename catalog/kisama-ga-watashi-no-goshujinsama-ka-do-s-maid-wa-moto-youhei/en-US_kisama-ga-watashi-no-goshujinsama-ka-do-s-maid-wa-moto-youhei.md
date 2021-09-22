@@ -1,5 +1,7 @@
 # Kisama ga Watashi no Goshujinsama ka! Do S Maid wa Moto Youhei!?
 
+![kisama-ga-watashi-no-goshujinsama-ka-do-s-maid-wa-moto-youhei](https://cdn.myanimelist.net/images/manga/3/198247.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Mako to Rumi to Chii
 
+![mako-to-rumi-to-chii](https://cdn.myanimelist.net/images/manga/2/44585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

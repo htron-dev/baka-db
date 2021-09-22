@@ -1,5 +1,7 @@
 # Majo wa Nido Aegu
 
+![majo-wa-nido-aegu](https://cdn.myanimelist.net/images/manga/2/206687.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

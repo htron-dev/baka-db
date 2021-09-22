@@ -1,5 +1,7 @@
 # Renji de Chin!
 
+![renji-de-chin](https://cdn.myanimelist.net/images/manga/2/62653.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: レンジでチン!

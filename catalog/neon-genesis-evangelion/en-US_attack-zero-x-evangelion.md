@@ -1,5 +1,7 @@
 # Attack Zero x Evangelion
 
+![attack-zero-x-evangelion](https://cdn.myanimelist.net/images/anime/1662/110189.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 花王 アタック ZERO エヴァンゲリオン

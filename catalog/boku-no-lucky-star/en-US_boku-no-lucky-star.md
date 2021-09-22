@@ -1,5 +1,7 @@
 # Boku no Lucky Star
 
+![boku-no-lucky-star](https://cdn.myanimelist.net/images/manga/2/236720.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

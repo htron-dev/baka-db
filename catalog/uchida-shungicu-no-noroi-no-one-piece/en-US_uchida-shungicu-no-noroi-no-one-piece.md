@@ -1,5 +1,7 @@
 # Uchida Shungicu no Noroi no One-Piece
 
+![uchida-shungicu-no-noroi-no-one-piece](https://cdn.myanimelist.net/images/anime/1524/107399.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 内田春菊の呪いのワンピース

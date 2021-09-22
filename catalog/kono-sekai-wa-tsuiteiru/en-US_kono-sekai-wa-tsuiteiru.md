@@ -1,5 +1,7 @@
 # Kono Sekai wa Tsuiteiru
 
+![kono-sekai-wa-tsuiteiru](https://cdn.myanimelist.net/images/manga/3/210478.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

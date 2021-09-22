@@ -1,5 +1,7 @@
 # Kujakuou
 
+![kujakuou](https://cdn.myanimelist.net/images/manga/3/144663.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: 孔雀王

@@ -1,5 +1,7 @@
 # Majo ga Koisuru 5-byoumae
 
+![majo-ga-koisuru-5-byoumae](https://cdn.myanimelist.net/images/manga/2/235090.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Himalaya no Hikari no Oukoku
 
+![himalaya-no-hikari-no-oukoku](https://cdn.myanimelist.net/images/anime/10/58469.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヒマラヤの光の王国

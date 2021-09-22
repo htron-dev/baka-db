@@ -1,5 +1,7 @@
 # Kemonomimi Loli Yuusha wa Ecchi na Shuusei ni Komatteiru
 
+![kemonomimi-loli-yuusha-wa-ecchi-na-shuusei-ni-komatteiru](https://cdn.myanimelist.net/images/manga/2/225692.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

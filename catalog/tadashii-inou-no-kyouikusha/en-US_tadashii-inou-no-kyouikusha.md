@@ -1,5 +1,7 @@
 # Tadashii Inou no Kyouikusha
 
+![tadashii-inou-no-kyouikusha](https://cdn.myanimelist.net/images/manga/1/191419.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 正しい異能の教育者
 -   **start-date**: 2017-03-02

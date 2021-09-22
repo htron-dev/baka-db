@@ -1,5 +1,7 @@
 # Puchi Puri
 
+![puchi-puri](https://cdn.myanimelist.net/images/manga/1/14371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

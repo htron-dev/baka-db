@@ -1,5 +1,7 @@
 # Ouji-sama no Yuganda Chouai: Kawareta Lady
 
+![ouji-sama-no-yuganda-chouai-kawareta-lady](https://cdn.myanimelist.net/images/manga/2/181169.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

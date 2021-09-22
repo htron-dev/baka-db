@@ -1,5 +1,7 @@
 # Teekyuu 8
 
+![teekyuu-8](https://cdn.myanimelist.net/images/anime/8/81424.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: てーきゅう 8 期

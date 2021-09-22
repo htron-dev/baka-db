@@ -1,5 +1,7 @@
 # Otogi no Mago
 
+![otogi-no-mago](https://cdn.myanimelist.net/images/manga/3/224850.jpg)
+
 -   **type**: manga
 -   **original-name**: おとぎの孫
 -   **start-date**: 2018-01-20

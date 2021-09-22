@@ -1,5 +1,7 @@
 # JK-domo, Kouya wo Yuke
 
+![jk-domo-kouya-wo-yuke](https://cdn.myanimelist.net/images/manga/3/229045.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

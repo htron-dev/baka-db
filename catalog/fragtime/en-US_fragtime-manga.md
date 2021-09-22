@@ -1,5 +1,7 @@
 # Fragtime
 
+![fragtime](https://cdn.myanimelist.net/images/manga/3/118505.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Flowers
 
+![flowers](https://cdn.myanimelist.net/images/manga/2/103061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

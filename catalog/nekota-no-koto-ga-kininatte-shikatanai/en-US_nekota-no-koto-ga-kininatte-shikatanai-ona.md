@@ -1,5 +1,7 @@
 # Nekota no Koto ga Kininatte Shikatanai. (ONA)
 
+![nekota-no-koto-ga-kininatte-shikatanai-ona](https://cdn.myanimelist.net/images/anime/6/74227.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 猫田のことが気になって仕方ない。

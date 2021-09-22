@@ -1,5 +1,7 @@
 # Shingetsutan Tsukihime
 
+![shingetsutan-tsukihime](https://cdn.myanimelist.net/images/manga/1/147479.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 74

@@ -1,5 +1,7 @@
 # Senpai, Danjite Koi dewa!: Brush Up
 
+![senpai-danjite-koi-dewa-brush-up](https://cdn.myanimelist.net/images/manga/1/245963.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

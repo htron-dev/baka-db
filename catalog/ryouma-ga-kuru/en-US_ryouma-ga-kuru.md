@@ -1,5 +1,7 @@
 # Ryouma ga Kuru
 
+![ryouma-ga-kuru](https://cdn.myanimelist.net/images/manga/1/235673.jpg)
+
 -   **type**: manga
 -   **original-name**: 竜馬がくる
 -   **start-date**: 2020-07-17

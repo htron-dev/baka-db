@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: C.D.A. - Wakaki Suisei no Shouzou
 
+![kidou-senshi-gundam-c-d-a-wakaki-suisei-no-shouzou](https://cdn.myanimelist.net/images/manga/4/12944.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 69

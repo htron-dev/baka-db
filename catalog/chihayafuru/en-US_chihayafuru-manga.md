@@ -1,5 +1,7 @@
 # Chihayafuru
 
+![chihayafuru](https://cdn.myanimelist.net/images/manga/2/135341.jpg)
+
 -   **type**: manga
 -   **original-name**: ちはやふる
 -   **start-date**: 2007-12-28

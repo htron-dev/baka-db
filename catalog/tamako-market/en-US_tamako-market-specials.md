@@ -1,5 +1,7 @@
 # Tamako Market Specials
 
+![tamako-market-specials](https://cdn.myanimelist.net/images/anime/12/47771.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: たまこまーけっと ぺったんこアニメ

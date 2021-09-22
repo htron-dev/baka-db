@@ -1,5 +1,7 @@
 # Haruiro Koigokoro
 
+![haruiro-koigokoro](https://cdn.myanimelist.net/images/manga/3/243092.jpg)
+
 -   **type**: manga
 -   **original-name**: 春色恋ゴコロ
 -   **start-date**: 2015-04-24

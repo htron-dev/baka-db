@@ -1,5 +1,7 @@
 # Hagure Seireii no Shinsatsu Kiroku: Seijo Kishidan to Iyashi no Kamiwaza
 
+![hagure-seireii-no-shinsatsu-kiroku-seijo-kishidan-to-iyashi-no-kamiwaza](https://cdn.myanimelist.net/images/manga/2/227892.jpg)
+
 -   **type**: manga
 -   **original-name**: はぐれ精霊医の診察記録 ～聖女騎士団と癒やしの神業～
 -   **start-date**: 2018-12-10

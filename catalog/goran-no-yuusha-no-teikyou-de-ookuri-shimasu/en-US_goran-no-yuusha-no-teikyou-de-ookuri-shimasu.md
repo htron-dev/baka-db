@@ -1,5 +1,7 @@
 # Goran no Yuusha no Teikyou de Ookuri Shimasu
 
+![goran-no-yuusha-no-teikyou-de-ookuri-shimasu](https://cdn.myanimelist.net/images/manga/1/159304.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Jounetsu no English Rose
 
+![jounetsu-no-english-rose](https://cdn.myanimelist.net/images/manga/1/40307.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

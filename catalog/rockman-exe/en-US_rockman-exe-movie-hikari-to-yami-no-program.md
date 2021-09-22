@@ -1,5 +1,7 @@
 # Rockman.EXE Movie: Hikari to Yami no Program
 
+![rockman-exe-movie-hikari-to-yami-no-program](https://cdn.myanimelist.net/images/anime/1/2203.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ロックマン エグゼ: 光と闇の遺産

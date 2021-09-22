@@ -1,5 +1,7 @@
 # Oresama wa Koi no Dorei
 
+![oresama-wa-koi-no-dorei](https://cdn.myanimelist.net/images/manga/3/31353.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5
