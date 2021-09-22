@@ -1,5 +1,9 @@
 {
     "title": "Kick &amp; Slide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1340/115899.jpg",
+        "alt": "kick-amp-slide"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "KICK&SLIDE",

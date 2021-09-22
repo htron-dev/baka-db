@@ -1,5 +1,9 @@
 {
     "title": "Cinderella wa Sagasanai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/250306.jpg",
+        "alt": "cinderella-wa-sagasanai"
+    },
     "type": "manga",
     "original_name": "シンデレラは探さない。",
     "start_date": "2020-05-24",

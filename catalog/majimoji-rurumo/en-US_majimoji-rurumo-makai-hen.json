@@ -1,5 +1,9 @@
 {
     "title": "Majimoji Rurumo: Makai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122557.jpg",
+        "alt": "majimoji-rurumo-makai-hen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

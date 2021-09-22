@@ -1,5 +1,9 @@
 {
     "title": "Ippatsu Kiki Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236868.jpg",
+        "alt": "ippatsu-kiki-musume"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "81",

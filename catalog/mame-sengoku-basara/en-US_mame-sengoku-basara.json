@@ -1,5 +1,9 @@
 {
     "title": "Mame Sengoku Basara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114203.jpg",
+        "alt": "mame-sengoku-basara"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

@@ -1,5 +1,9 @@
 {
     "title": "Oni ga Shitau wa Tatarigami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246245.jpg",
+        "alt": "oni-ga-shitau-wa-tatarigami"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

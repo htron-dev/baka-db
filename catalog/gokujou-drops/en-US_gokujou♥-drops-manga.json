@@ -1,5 +1,9 @@
 {
     "title": "Gokujou♥Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163085.jpg",
+        "alt": "gokujou♥-drops"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

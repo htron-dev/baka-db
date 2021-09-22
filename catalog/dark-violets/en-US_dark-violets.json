@@ -1,5 +1,9 @@
 {
     "title": "Dark Violets",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95501.jpg",
+        "alt": "dark-violets"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "30",

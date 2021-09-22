@@ -1,5 +1,9 @@
 {
     "title": "Cheon Gwan Nyeo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44711.jpg",
+        "alt": "cheon-gwan-nyeo"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "천관녀",

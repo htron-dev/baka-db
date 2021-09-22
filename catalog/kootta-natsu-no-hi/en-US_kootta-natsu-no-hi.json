@@ -1,5 +1,9 @@
 {
     "title": "Kootta Natsu no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22446.jpg",
+        "alt": "kootta-natsu-no-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "凍った夏の日",

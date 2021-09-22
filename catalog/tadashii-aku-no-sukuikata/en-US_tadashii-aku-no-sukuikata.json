@@ -1,5 +1,9 @@
 {
     "title": "Tadashii Aku no Sukuikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162591.jpg",
+        "alt": "tadashii-aku-no-sukuikata"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "The Legend of Maian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54967.jpg",
+        "alt": "the-legend-of-maian"
+    },
     "type": "manhwa",
     "volumes": "14",
     "chapters": "75",

@@ -1,5 +1,9 @@
 {
     "title": "Haikara-san ga Tooru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/22741.jpg",
+        "alt": "haikara-san-ga-tooru"
+    },
     "type": "tv-serie",
     "episodes": "42",
     "original_name": "はいからさんが通る",

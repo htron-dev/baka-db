@@ -1,5 +1,9 @@
 {
     "title": "Hoshizora no Violin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/27524.jpg",
+        "alt": "hoshizora-no-violin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "星空のバイオリン",

@@ -1,5 +1,9 @@
 {
     "title": "Strike Fall",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178564.jpg",
+        "alt": "strike-fall"
+    },
     "type": "light-novel",
     "original_name": "ストライクフォール",
     "start_date": "2016-06-17",

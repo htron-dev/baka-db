@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi no Katachi wa △",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192631.jpg",
+        "alt": "hatsukoi-no-katachi-wa-△"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

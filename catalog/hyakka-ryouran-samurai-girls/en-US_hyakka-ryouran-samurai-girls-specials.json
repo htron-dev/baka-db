@@ -1,5 +1,9 @@
 {
     "title": "Hyakka Ryouran: Samurai Girls Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/25950.jpg",
+        "alt": "hyakka-ryouran-samurai-girls-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "百花繚乱 ～乙女 嬉し恥ずかし将士の契り～",

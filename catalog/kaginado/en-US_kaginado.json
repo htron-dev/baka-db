@@ -1,5 +1,9 @@
 {
     "title": "Kaginado",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1724/114487.jpg",
+        "alt": "kaginado"
+    },
     "type": "tv-serie",
     "original_name": "かぎなど",
     "start_date": "2021-10-20",

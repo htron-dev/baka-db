@@ -1,5 +1,9 @@
 {
     "title": "Maoujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156095.jpg",
+        "alt": "maoujou"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "魔王城",

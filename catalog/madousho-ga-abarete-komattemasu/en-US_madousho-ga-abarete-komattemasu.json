@@ -1,5 +1,9 @@
 {
     "title": "Madousho ga Abarete Komattemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125607.jpg",
+        "alt": "madousho-ga-abarete-komattemasu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "魔導書が暴れて困ってます。",

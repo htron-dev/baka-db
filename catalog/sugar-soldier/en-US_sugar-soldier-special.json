@@ -1,5 +1,9 @@
 {
     "title": "Sugar\\*Soldier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/57959.jpg",
+        "alt": "sugar-soldier"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "シュガー＊ソルジャー",

@@ -1,5 +1,9 @@
 {
     "title": "Miho to Yuuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189428.jpg",
+        "alt": "miho-to-yuuko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

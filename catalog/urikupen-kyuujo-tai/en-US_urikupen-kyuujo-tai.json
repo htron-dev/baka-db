@@ -1,5 +1,9 @@
 {
     "title": "Urikupen Kyuujo-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/8798.jpg",
+        "alt": "urikupen-kyuujo-tai"
+    },
     "type": "tv-serie",
     "episodes": "156",
     "original_name": "ウリクペン救助隊",

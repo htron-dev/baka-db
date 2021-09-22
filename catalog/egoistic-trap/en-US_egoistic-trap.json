@@ -1,5 +1,9 @@
 {
     "title": "Egoistic Trap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153439.jpg",
+        "alt": "egoistic-trap"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

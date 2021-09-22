@@ -1,5 +1,9 @@
 {
     "title": "E.T.O.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203700.jpg",
+        "alt": "e-t-o"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

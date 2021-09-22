@@ -1,5 +1,9 @@
 {
     "title": "Shouki no Gas Masquerade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193620.jpg",
+        "alt": "shouki-no-gas-masquerade"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

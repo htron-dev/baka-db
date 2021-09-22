@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Birdy Decode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1242/95178.jpg",
+        "alt": "tetsuwan-birdy-decode"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "鉄腕バーディー (2008)",

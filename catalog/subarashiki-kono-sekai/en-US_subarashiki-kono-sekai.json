@@ -1,5 +1,9 @@
 {
     "title": "Subarashiki Kono Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11540.jpg",
+        "alt": "subarashiki-kono-sekai"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "すばらしきこのせかい",

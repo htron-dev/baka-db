@@ -1,8 +1,12 @@
 {
     "title": "Power Battle Watch Car: Watch Gamyeon-ui Yeogseub",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1669/95956.jpg",
+        "alt": "power-battle-watch-car-watch-gamyeon-ui-yeogseub"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "파워배틀 와치카",
+    "original_name": "파워배틀 와치카: 와치가면의 역습",
     "start_date": "2017-06-01",
     "rating": "G - All Ages",
     "tags": [

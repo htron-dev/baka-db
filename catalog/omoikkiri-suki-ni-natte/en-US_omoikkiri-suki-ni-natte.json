@@ -1,5 +1,9 @@
 {
     "title": "Omoikkiri Suki ni Natte!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214.jpg",
+        "alt": "omoikkiri-suki-ni-natte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

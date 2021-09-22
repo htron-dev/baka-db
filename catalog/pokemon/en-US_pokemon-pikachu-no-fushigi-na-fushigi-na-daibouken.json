@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu no Fushigi na Fushigi na Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/30651.jpg",
+        "alt": "pokemon-pikachu-no-fushigi-na-fushigi-na-daibouken"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ピカチュウのふしぎなふしぎな大冒険",

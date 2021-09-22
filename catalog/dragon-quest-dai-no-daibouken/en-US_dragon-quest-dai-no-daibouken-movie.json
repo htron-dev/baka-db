@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest: Dai no Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1998/106052.jpg",
+        "alt": "dragon-quest-dai-no-daibouken"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラゴンクエスト ダイの大冒険",

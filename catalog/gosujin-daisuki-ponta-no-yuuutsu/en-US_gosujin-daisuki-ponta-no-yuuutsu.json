@@ -1,5 +1,9 @@
 {
     "title": "Gosujin Daisuki Ponta no Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233769.jpg",
+        "alt": "gosujin-daisuki-ponta-no-yuuutsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

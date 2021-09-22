@@ -1,5 +1,9 @@
 {
     "title": "Ameya Tanuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/85238.jpg",
+        "alt": "ameya-tanuki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "あめやたぬき",

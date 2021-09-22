@@ -1,5 +1,9 @@
 {
     "title": "Semegui Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197065.jpg",
+        "alt": "semegui-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

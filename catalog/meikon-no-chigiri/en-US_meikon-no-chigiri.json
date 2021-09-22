@@ -1,5 +1,9 @@
 {
     "title": "Meikon no Chigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221839.jpg",
+        "alt": "meikon-no-chigiri"
+    },
     "type": "manga",
     "original_name": "冥婚の契",
     "start_date": "2018-07-28",

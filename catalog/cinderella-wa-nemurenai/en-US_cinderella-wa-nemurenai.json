@@ -1,5 +1,9 @@
 {
     "title": "Cinderella wa Nemurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112403.jpg",
+        "alt": "cinderella-wa-nemurenai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "シンデレラは眠れない",

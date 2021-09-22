@@ -1,5 +1,9 @@
 {
     "title": "Wagamama na Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153067.jpg",
+        "alt": "wagamama-na-kiss"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ワガママな KISS",

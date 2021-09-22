@@ -1,5 +1,9 @@
 {
     "title": "Mainichi Kaasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/70931.jpg",
+        "alt": "mainichi-kaasan"
+    },
     "type": "tv-serie",
     "episodes": "142",
     "original_name": "毎日かあさん",

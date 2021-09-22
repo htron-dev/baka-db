@@ -1,5 +1,9 @@
 {
     "title": "Koi to Keiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41947.jpg",
+        "alt": "koi-to-keiji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

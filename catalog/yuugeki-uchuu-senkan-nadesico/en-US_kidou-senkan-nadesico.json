@@ -1,12 +1,16 @@
 {
     "title": "Kidou Senkan Nadesico",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/53955.jpg",
+        "alt": "kidou-senkan-nadesico"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "機動戦艦ナデシコ",
     "start_date": "1996-10-01",
     "end_date": "1996-10-01",
     "opening_song": "\"You Get to Burning\" by Yumi Matsuzawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Watashi Rashiku (私らしく)\" by Houko Kawashima (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "4-daime no Hanamuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204605.jpg",
+        "alt": "4-daime-no-hanamuko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Nonomeme, Heartbreak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171370.jpg",
+        "alt": "nonomeme-heartbreak"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

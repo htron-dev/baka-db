@@ -1,5 +1,9 @@
 {
     "title": "Tsuyokiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46299.jpg",
+        "alt": "tsuyokiss"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

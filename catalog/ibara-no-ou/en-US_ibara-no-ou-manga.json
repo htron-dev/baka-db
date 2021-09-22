@@ -1,5 +1,9 @@
 {
     "title": "Ibara no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180829.jpg",
+        "alt": "ibara-no-ou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "37",

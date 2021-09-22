@@ -1,5 +1,9 @@
 {
     "title": "Video J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24785.jpg",
+        "alt": "video-j"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

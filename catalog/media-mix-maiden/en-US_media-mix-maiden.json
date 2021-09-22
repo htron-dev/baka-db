@@ -1,5 +1,9 @@
 {
     "title": "Media Mix Maiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246223.jpg",
+        "alt": "media-mix-maiden"
+    },
     "type": "manga",
     "original_name": "メディアミックスメイデン",
     "start_date": "2021-01-05",

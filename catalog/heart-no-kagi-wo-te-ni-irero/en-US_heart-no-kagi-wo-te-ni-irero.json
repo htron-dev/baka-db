@@ -1,5 +1,9 @@
 {
     "title": "Heart no Kagi wo Te ni Irero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224936.jpg",
+        "alt": "heart-no-kagi-wo-te-ni-irero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kataomoi no Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230165.jpg",
+        "alt": "kataomoi-no-hibi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "片思いの日々",

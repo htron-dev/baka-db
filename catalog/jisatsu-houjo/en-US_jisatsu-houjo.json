@@ -1,5 +1,9 @@
 {
     "title": "Jisatsu Houjo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241259.jpg",
+        "alt": "jisatsu-houjo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

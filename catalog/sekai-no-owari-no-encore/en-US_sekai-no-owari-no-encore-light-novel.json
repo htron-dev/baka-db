@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Owari no Encore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196487.jpg",
+        "alt": "sekai-no-owari-no-encore"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "89",

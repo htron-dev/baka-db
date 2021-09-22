@@ -1,5 +1,9 @@
 {
     "title": "Confession Under a Clear Sky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12000.jpg",
+        "alt": "confession-under-a-clear-sky"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

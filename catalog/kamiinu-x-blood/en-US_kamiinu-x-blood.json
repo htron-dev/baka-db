@@ -1,5 +1,9 @@
 {
     "title": "Kamiinu x Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173342.jpg",
+        "alt": "kamiinu-x-blood"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "神狗 ×BLOOD",

@@ -1,5 +1,9 @@
 {
     "title": "Ballroom e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186664.jpg",
+        "alt": "ballroom-e-youkoso"
+    },
     "type": "manga",
     "original_name": "ボールルームへようこそ",
     "start_date": "2011-11-05",

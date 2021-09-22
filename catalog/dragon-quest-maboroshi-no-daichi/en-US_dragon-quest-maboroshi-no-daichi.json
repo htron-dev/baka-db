@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest: Maboroshi no Daichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25115.jpg",
+        "alt": "dragon-quest-maboroshi-no-daichi"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "52",

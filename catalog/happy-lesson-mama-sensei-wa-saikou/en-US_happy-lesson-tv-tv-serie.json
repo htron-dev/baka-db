@@ -1,5 +1,9 @@
 {
     "title": "Happy☆Lesson (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75576.jpg",
+        "alt": "happy☆-lesson-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "HAPPY☆LESSON",

@@ -1,12 +1,16 @@
 {
     "title": "Yuragi-sou no Yuuna-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1483/93141.jpg",
+        "alt": "yuragi-sou-no-yuuna-san"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゆらぎ荘の幽奈さん",
     "start_date": "2018-07-14",
     "end_date": "2018-07-14",
     "opening_song": "\"Momoiro Typhoon (桃色タイフーン)\" by Luna Haruna (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Happen ~Kogarashi ni Fukarete~ (Happen?木枯らしに吹かれて?)\" by Yuuna Yunohana (Miyuri Shimabukuro), Chisaki Miyazaki (Eri Suzuki), and Sagiri Ameno (Rie Takahashi)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

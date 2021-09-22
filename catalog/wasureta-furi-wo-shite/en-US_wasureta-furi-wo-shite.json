@@ -1,5 +1,9 @@
 {
     "title": "Wasureta Furi wo Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1384/108596.jpg",
+        "alt": "wasureta-furi-wo-shite"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "忘れたフリをして",

@@ -1,5 +1,9 @@
 {
     "title": "Renzu-sou no Sankaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196301.jpg",
+        "alt": "renzu-sou-no-sankaku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

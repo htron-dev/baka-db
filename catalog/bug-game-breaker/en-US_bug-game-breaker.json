@@ -1,5 +1,9 @@
 {
     "title": "Bug Game Breaker!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176199.jpg",
+        "alt": "bug-game-breaker"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

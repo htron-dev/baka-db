@@ -1,5 +1,9 @@
 {
     "title": "Suntory Minami Alps no Tennensui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/81596.jpg",
+        "alt": "suntory-minami-alps-no-tennensui"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "サントリー 南アルプスの天然水",

@@ -1,5 +1,9 @@
 {
     "title": "Sentou Mecha Xabungle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/51455.jpg",
+        "alt": "sentou-mecha-xabungle"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "戦闘メカザブングル",

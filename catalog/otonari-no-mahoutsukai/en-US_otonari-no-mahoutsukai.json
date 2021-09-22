@@ -1,5 +1,9 @@
 {
     "title": "Otonari no Mahoutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159759.jpg",
+        "alt": "otonari-no-mahoutsukai"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "お隣の魔法使い",

@@ -1,5 +1,9 @@
 {
     "title": "Riuu wo Machinagara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197606.jpg",
+        "alt": "riuu-wo-machinagara"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

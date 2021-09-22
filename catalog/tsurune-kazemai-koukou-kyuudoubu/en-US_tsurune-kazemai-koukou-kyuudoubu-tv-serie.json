@@ -1,5 +1,9 @@
 {
     "title": "Tsurune: Kazemai Koukou Kyuudoubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1360/93571.jpg",
+        "alt": "tsurune-kazemai-koukou-kyuudoubu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ツルネ ―風舞高校弓道部―",

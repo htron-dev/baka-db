@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Yoru no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/67925.jpg",
+        "alt": "yuki-no-yoru-no-yume"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "雪の夜の夢",

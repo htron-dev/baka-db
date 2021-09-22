@@ -1,5 +1,9 @@
 {
     "title": "Idol no Tamago wa Benkyouchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201998.jpg",
+        "alt": "idol-no-tamago-wa-benkyouchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

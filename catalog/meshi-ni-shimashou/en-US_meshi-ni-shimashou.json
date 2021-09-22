@@ -1,5 +1,9 @@
 {
     "title": "Meshi ni Shimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217044.jpg",
+        "alt": "meshi-ni-shimashou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "80",

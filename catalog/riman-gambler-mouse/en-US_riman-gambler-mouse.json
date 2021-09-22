@@ -1,5 +1,9 @@
 {
     "title": "Riman Gambler Mouse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17964.jpg",
+        "alt": "riman-gambler-mouse"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "リーマンギャンブラー マウス",

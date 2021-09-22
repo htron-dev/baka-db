@@ -1,5 +1,9 @@
 {
     "title": "Akuyaku Reijou ni Narimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234615.jpg",
+        "alt": "akuyaku-reijou-ni-narimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

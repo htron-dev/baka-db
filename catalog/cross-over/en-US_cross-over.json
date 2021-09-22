@@ -1,5 +1,9 @@
 {
     "title": "Cross Over",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56635.jpg",
+        "alt": "cross-over"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "59",

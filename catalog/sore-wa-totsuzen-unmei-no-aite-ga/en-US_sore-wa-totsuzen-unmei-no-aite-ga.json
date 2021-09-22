@@ -1,5 +1,9 @@
 {
     "title": "Sore wa Totsuzen, Unmei no Aite ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109607.jpg",
+        "alt": "sore-wa-totsuzen-unmei-no-aite-ga"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

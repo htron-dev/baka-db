@@ -1,5 +1,9 @@
 {
     "title": "Miko no Tsutome!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1085/117744.jpg",
+        "alt": "miko-no-tsutome"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "みこのつとめっ！",

@@ -1,5 +1,9 @@
 {
     "title": "Nekoronde ID",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/81497.jpg",
+        "alt": "nekoronde-id"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ねころんで ID",

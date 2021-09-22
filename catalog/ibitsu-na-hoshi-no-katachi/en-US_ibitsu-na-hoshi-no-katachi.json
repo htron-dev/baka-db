@@ -1,5 +1,9 @@
 {
     "title": "Ibitsu na Hoshi no Katachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29030.jpg",
+        "alt": "ibitsu-na-hoshi-no-katachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

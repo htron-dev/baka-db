@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Hikari mo Todokudarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153452.jpg",
+        "alt": "tsuki-no-hikari-mo-todokudarou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

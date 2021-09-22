@@ -1,5 +1,9 @@
 {
     "title": "Oyoge ya Oyoge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/15846.jpg",
+        "alt": "oyoge-ya-oyoge"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "泳げや泳げ",

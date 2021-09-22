@@ -1,12 +1,16 @@
 {
     "title": "Layton Mystery Tanteisha: Katri no Nazotoki File",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1115/90222.jpg",
+        "alt": "layton-mystery-tanteisha-katri-no-nazotoki-file"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "レイトン ミステリー探偵社~カトリーのナゾトキファイル~",
     "start_date": "2018-04-08",
     "end_date": "2018-04-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Change! (チェンジっ！)\" by Kana Adachi (足立佳奈) (eps 1-25)",
+    "ending_song": "#1: \"Daijoubu (大丈夫)\" by Kana Hanazawa (花澤香菜) (eps 1-25)",
     "rating": "PG - Children",
     "tags": [
         "mystery",

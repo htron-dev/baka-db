@@ -1,5 +1,9 @@
 {
     "title": "Oshaberi na Amadeus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28448.jpg",
+        "alt": "oshaberi-na-amadeus"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "おしゃべりなアマデウス",

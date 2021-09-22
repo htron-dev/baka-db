@@ -1,5 +1,9 @@
 {
     "title": "Liu Xing Huan Jian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1729/111278.jpg",
+        "alt": "liu-xing-huan-jian"
+    },
     "type": "ona",
     "episodes": "60",
     "original_name": "流星幻剑",

@@ -1,5 +1,9 @@
 {
     "title": "Fate/Extra: Last Encore - Illustrias Tendousetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1280/93468.jpg",
+        "alt": "fate-extra-last-encore-illustrias-tendousetsu"
+    },
     "type": "tv-serie",
     "episodes": "3",
     "original_name": "Fate/EXTRA Last Encore イルステリアス天動説",

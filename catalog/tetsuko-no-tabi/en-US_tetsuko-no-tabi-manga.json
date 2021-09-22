@@ -1,5 +1,9 @@
 {
     "title": "Tetsuko no Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44395.jpg",
+        "alt": "tetsuko-no-tabi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "48",

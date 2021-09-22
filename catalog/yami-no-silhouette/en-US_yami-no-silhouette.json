@@ -1,5 +1,9 @@
 {
     "title": "Yami No Silhouette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20801.jpg",
+        "alt": "yami-no-silhouette"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "闇のシルエット",

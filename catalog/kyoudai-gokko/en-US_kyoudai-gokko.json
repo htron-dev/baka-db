@@ -1,5 +1,9 @@
 {
     "title": "Kyoudai Gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222837.jpg",
+        "alt": "kyoudai-gokko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

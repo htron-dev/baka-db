@@ -1,5 +1,9 @@
 {
     "title": "T.V. Eye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18648.jpg",
+        "alt": "t-v-eye"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

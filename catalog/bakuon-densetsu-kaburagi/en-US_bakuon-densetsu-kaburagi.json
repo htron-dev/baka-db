@@ -1,5 +1,9 @@
 {
     "title": "Bakuon Densetsu Kaburagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208252.jpg",
+        "alt": "bakuon-densetsu-kaburagi"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "96",

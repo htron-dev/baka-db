@@ -1,5 +1,9 @@
 {
     "title": "Marry Grave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209180.jpg",
+        "alt": "marry-grave"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "52",

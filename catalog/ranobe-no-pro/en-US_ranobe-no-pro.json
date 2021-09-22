@@ -1,5 +1,9 @@
 {
     "title": "Ranobe no Pro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187016.jpg",
+        "alt": "ranobe-no-pro"
+    },
     "type": "light-novel",
     "original_name": "ラノベのプロ！",
     "start_date": "2016-12-20",

@@ -1,5 +1,9 @@
 {
     "title": "Azur Lane Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235438.jpg",
+        "alt": "azur-lane-comic-anthology"
+    },
     "type": "manga",
     "original_name": "アズールレーン コミックアンソロジー",
     "start_date": "2018-01-31",

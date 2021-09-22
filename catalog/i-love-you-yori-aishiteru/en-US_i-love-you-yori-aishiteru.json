@@ -1,5 +1,9 @@
 {
     "title": "I Love You yori Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154699.jpg",
+        "alt": "i-love-you-yori-aishiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

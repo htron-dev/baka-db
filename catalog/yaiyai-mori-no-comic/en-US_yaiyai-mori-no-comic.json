@@ -1,5 +1,9 @@
 {
     "title": "Yaiyai Mori no Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/84256.jpg",
+        "alt": "yaiyai-mori-no-comic"
+    },
     "type": "ona",
     "episodes": "15",
     "original_name": "ヤイヤイ森のコミー",

@@ -1,10 +1,14 @@
 {
     "title": "New Dream Hunter Rem: Yume no Kishitachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1452/94153.jpg",
+        "alt": "new-dream-hunter-rem-yume-no-kishitachi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "NEW DREAM HUNTER 麗夢 夢の騎士達",
     "start_date": "1990-12-16",
-    "opening_song": "\"Yume no Kishitachi",
+    "opening_song": "\"Yume no Kishitachi: Theme (夢の騎士達~テーマ)\"",
     "ending_song": "\"Yume no Ikidomari (夢の行き止まり)\" by Matsui Naoko",
     "rating": "R+ - Mild Nudity",
     "tags": [

@@ -1,12 +1,16 @@
 {
     "title": "Love Live! Sunshine!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/80791.jpg",
+        "alt": "love-live-sunshine"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ラブライブ！サンシャイン!!",
     "start_date": "2016-07-02",
     "end_date": "2016-07-02",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Aozora Jumping Heart (青空 Jumping Heart)\" by Aqours",
+    "ending_song": "#01: \"Kimeta yo Hand in Hand (決めたよ Hand in Hand)\" by Chika Takami (Anju Inami), Riko Sakurauchi (Rikako Aida) & You Watanabe (Shuka Saitou) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

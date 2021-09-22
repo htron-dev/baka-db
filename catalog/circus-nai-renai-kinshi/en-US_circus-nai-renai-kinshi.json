@@ -1,5 +1,9 @@
 {
     "title": "Circus Nai Renai Kinshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239616.jpg",
+        "alt": "circus-nai-renai-kinshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

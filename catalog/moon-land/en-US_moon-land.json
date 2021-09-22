@@ -1,5 +1,9 @@
 {
     "title": "Moon Land",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219927.jpg",
+        "alt": "moon-land"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "85",

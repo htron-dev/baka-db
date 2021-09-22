@@ -1,5 +1,9 @@
 {
     "title": "13 Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139023.jpg",
+        "alt": "13-game"
+    },
     "type": "manga",
     "original_name": "13GAME",
     "start_date": "2012-02-29",

@@ -1,5 +1,9 @@
 {
     "title": "Asatte Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/202582.jpg",
+        "alt": "asatte-dance"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "89",

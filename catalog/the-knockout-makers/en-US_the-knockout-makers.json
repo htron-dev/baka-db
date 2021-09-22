@@ -1,5 +1,9 @@
 {
     "title": "The Knockout Makers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5134.jpg",
+        "alt": "the-knockout-makers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

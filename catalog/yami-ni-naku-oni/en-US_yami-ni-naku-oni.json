@@ -1,5 +1,9 @@
 {
     "title": "Yami ni Naku Oni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2901.jpg",
+        "alt": "yami-ni-naku-oni"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "獣闇に哭く鬼",

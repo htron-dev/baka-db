@@ -1,5 +1,9 @@
 {
     "title": "Freezing Tokuten Manga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194826.jpg",
+        "alt": "freezing-tokuten-manga"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "フリージング 特典漫画",

@@ -1,5 +1,9 @@
 {
     "title": "Yamato Gensouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5672.jpg",
+        "alt": "yamato-gensouki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

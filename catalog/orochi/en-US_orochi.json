@@ -1,5 +1,9 @@
 {
     "title": "Orochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27194.jpg",
+        "alt": "orochi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "9",

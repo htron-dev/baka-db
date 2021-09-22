@@ -1,5 +1,9 @@
 {
     "title": "Blau Sakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131917.jpg",
+        "alt": "blau-sakusen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ブラウ作戦",

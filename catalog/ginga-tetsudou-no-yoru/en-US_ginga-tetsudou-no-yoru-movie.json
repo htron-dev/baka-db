@@ -1,5 +1,9 @@
 {
     "title": "Ginga Tetsudou no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/64861.jpg",
+        "alt": "ginga-tetsudou-no-yoru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "銀河鉄道の夜",

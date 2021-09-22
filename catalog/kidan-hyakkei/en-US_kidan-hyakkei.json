@@ -1,5 +1,9 @@
 {
     "title": "Kidan Hyakkei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125209.jpg",
+        "alt": "kidan-hyakkei"
+    },
     "type": "manga",
     "original_name": "鬼談百景",
     "start_date": "2013-04-19",

@@ -1,5 +1,9 @@
 {
     "title": "Omega Megaera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215493.jpg",
+        "alt": "omega-megaera"
+    },
     "type": "manga",
     "original_name": "オメガ・メガエラ",
     "start_date": "2018-02-07",

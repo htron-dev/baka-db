@@ -1,5 +1,9 @@
 {
     "title": "Petit Eva Bokura Tanken Doukoukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41715.jpg",
+        "alt": "petit-eva-bokura-tanken-doukoukai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

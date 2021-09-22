@@ -1,5 +1,9 @@
 {
     "title": "Kakaru Sora no ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3474.jpg",
+        "alt": "kakaru-sora-no-ne"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Hi Izuru Tokoro no Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17866.jpg",
+        "alt": "hi-izuru-tokoro-no-tenshi"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "日出処の天子",

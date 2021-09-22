@@ -1,5 +1,9 @@
 {
     "title": "Chocolatier wa Koi ni Torokeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167593.jpg",
+        "alt": "chocolatier-wa-koi-ni-torokeru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ショコラティエは恋に蕩ける",

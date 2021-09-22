@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ga Flag wo Oraretara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171359.jpg",
+        "alt": "kanojo-ga-flag-wo-oraretara"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "42",

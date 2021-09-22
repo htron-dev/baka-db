@@ -1,5 +1,9 @@
 {
     "title": "Tobita-kun to Sudou-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183408.jpg",
+        "alt": "tobita-kun-to-sudou-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "46",

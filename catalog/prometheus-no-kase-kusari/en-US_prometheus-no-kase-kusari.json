@@ -1,5 +1,9 @@
 {
     "title": "Prometheus no Kase Kusari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236659.jpg",
+        "alt": "prometheus-no-kase-kusari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

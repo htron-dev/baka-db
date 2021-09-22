@@ -1,5 +1,9 @@
 {
     "title": "Solty Rei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75582.jpg",
+        "alt": "solty-rei"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ソルティレイ",

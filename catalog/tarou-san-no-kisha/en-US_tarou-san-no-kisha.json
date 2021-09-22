@@ -1,5 +1,9 @@
 {
     "title": "Tarou-san no Kisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/12516.jpg",
+        "alt": "tarou-san-no-kisha"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "太郎さんの汽車",

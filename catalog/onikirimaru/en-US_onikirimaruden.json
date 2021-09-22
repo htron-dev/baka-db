@@ -1,5 +1,9 @@
 {
     "title": "Onikirimaruden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136939.jpg",
+        "alt": "onikirimaruden"
+    },
     "type": "manga",
     "original_name": "鬼切丸伝",
     "start_date": "2013-08-26",

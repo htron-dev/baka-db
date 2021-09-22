@@ -1,5 +1,9 @@
 {
     "title": "One Off",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/86727.jpg",
+        "alt": "one-off"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

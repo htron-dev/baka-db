@@ -1,5 +1,9 @@
 {
     "title": "Souten no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/829.jpg",
+        "alt": "souten-no-ken"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "260",

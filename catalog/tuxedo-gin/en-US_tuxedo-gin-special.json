@@ -1,5 +1,9 @@
 {
     "title": "Tuxedo Gin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1587/102857.jpg",
+        "alt": "tuxedo-gin"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "CM 小学館 少年サンデー「タキシード銀」編",

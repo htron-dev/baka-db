@@ -1,5 +1,9 @@
 {
     "title": "Border 66",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/218995.jpg",
+        "alt": "border-66"
+    },
     "type": "manga",
     "original_name": "BORDER66",
     "start_date": "2019-05-22",

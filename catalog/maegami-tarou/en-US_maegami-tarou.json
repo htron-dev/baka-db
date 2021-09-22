@@ -1,5 +1,9 @@
 {
     "title": "Maegami Tarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/29237.jpg",
+        "alt": "maegami-tarou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "まえがみ太郎",

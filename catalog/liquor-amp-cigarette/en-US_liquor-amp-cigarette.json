@@ -1,5 +1,9 @@
 {
     "title": "Liquor &amp; Cigarette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210079.jpg",
+        "alt": "liquor-amp-cigarette"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

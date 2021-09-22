@@ -1,5 +1,9 @@
 {
     "title": "Animal Sense",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34043.jpg",
+        "alt": "animal-sense"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

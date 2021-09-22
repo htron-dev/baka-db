@@ -1,5 +1,9 @@
 {
     "title": "1, 2, 3 GO!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20814.jpg",
+        "alt": "1-2-3-go"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

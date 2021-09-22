@@ -1,5 +1,9 @@
 {
     "title": "Go! Princess Precure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227326.jpg",
+        "alt": "go-princess-precure"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

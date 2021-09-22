@@ -1,5 +1,9 @@
 {
     "title": "Kiss Kiss Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161760.jpg",
+        "alt": "kiss-kiss-kiss"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

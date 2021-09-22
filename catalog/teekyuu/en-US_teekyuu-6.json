@@ -1,5 +1,9 @@
 {
     "title": "Teekyuu 6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/76645.jpg",
+        "alt": "teekyuu-6"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てーきゅう 6 期",

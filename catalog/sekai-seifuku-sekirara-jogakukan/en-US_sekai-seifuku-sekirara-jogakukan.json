@@ -1,5 +1,9 @@
 {
     "title": "Sekai Seifuku Sekirara Jogakukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167948.jpg",
+        "alt": "sekai-seifuku-sekirara-jogakukan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

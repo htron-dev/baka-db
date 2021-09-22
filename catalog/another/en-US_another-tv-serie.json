@@ -1,5 +1,9 @@
 {
     "title": "Another",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
+        "alt": "another"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アナザー",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Another_(novel"
+            "link": "http://en.wikipedia.org/wiki/Another_%28novel%29"
         }
     ]
 }

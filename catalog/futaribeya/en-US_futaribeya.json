@@ -1,5 +1,9 @@
 {
     "title": "Futaribeya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154836.jpg",
+        "alt": "futaribeya"
+    },
     "type": "manga",
     "original_name": "ふたりべや",
     "start_date": "2014-07-30",

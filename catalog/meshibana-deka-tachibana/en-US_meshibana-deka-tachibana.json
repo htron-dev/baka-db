@@ -1,5 +1,9 @@
 {
     "title": "Meshibana Deka Tachibana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176876.jpg",
+        "alt": "meshibana-deka-tachibana"
+    },
     "type": "manga",
     "original_name": "めしばな刑事タチバナ",
     "start_date": "2010-12-21",

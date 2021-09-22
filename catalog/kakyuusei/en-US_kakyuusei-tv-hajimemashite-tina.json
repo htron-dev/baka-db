@@ -1,5 +1,9 @@
 {
     "title": "Kakyuusei (TV): Hajimemashite Tina!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/88233.jpg",
+        "alt": "kakyuusei-tv-hajimemashite-tina"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "下級生はじめまして ティナ!",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%B4%9A%E7%94%9F_(%E3%82%B2%E3%83%BC%E3%83%A0"
+            "link": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%B4%9A%E7%94%9F_%28%E3%82%B2%E3%83%BC%E3%83%A0%29#TV.E3.82.A2.E3.83.8B.E3.83.A1"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Shingeki! Kyojin Chuugakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178950.jpg",
+        "alt": "shingeki-kyojin-chuugakkou"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "96",

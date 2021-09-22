@@ -1,5 +1,9 @@
 {
     "title": "Ookami Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46363.jpg",
+        "alt": "ookami-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

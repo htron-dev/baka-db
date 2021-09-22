@@ -1,5 +1,9 @@
 {
     "title": "Ikai no Majutsushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233944.jpg",
+        "alt": "ikai-no-majutsushi"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "異界の魔術士",

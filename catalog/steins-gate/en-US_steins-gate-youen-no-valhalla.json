@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Youen no Valhalla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83621.jpg",
+        "alt": "steins-gate-youen-no-valhalla"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "1",

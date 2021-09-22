@@ -1,5 +1,9 @@
 {
     "title": "Bishounen no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2708.jpg",
+        "alt": "bishounen-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

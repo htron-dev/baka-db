@@ -1,5 +1,9 @@
 {
     "title": "Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169441.jpg",
+        "alt": "complex"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

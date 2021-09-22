@@ -1,5 +1,9 @@
 {
     "title": "Gokigen Naname na Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155729.jpg",
+        "alt": "gokigen-naname-na-series"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ご機嫌ナナメなシーリス",

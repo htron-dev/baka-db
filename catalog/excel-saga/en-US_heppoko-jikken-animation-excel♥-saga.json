@@ -1,12 +1,16 @@
 {
     "title": "Heppoko Jikken Animation Excel♥Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1728/97423.jpg",
+        "alt": "heppoko-jikken-animation-excel♥-saga"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "へっぽこ実験アニメーション エクセル ♥ サーガ",
     "start_date": "1999-10-08",
     "end_date": "1999-10-08",
     "opening_song": "\"Ai (Chuuseishin)\" by Excel Girls",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Menchi Aishou no Bolero\" by Excel Girls (eps 1-25)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

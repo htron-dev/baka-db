@@ -1,5 +1,9 @@
 {
     "title": "Classmate Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160013.jpg",
+        "alt": "classmate-collection"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "16",

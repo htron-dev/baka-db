@@ -1,5 +1,9 @@
 {
     "title": "Gin no Saji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231500.jpg",
+        "alt": "gin-no-saji"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "131",

@@ -1,5 +1,9 @@
 {
     "title": "Oyome ni Ikenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166209.jpg",
+        "alt": "oyome-ni-ikenai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

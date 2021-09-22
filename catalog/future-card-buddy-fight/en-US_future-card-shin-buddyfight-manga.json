@@ -1,5 +1,9 @@
 {
     "title": "Future Card Shin Buddyfight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230435.jpg",
+        "alt": "future-card-shin-buddyfight"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

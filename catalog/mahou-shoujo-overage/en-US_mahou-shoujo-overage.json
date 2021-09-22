@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Overage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160785.jpg",
+        "alt": "mahou-shoujo-overage"
+    },
     "type": "light-novel",
     "original_name": "魔法少女オーバーエイジ",
     "start_date": "2015-02-03",

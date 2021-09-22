@@ -1,5 +1,9 @@
 {
     "title": "Chocolate Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174825.jpg",
+        "alt": "chocolate-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

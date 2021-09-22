@@ -1,5 +1,9 @@
 {
     "title": "Coming Up!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229327.jpg",
+        "alt": "coming-up"
+    },
     "type": "manhwa",
     "chapters": "84",
     "original_name": "커밍업",

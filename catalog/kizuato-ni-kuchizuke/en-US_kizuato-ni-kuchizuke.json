@@ -1,5 +1,9 @@
 {
     "title": "Kizuato ni Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240404.jpg",
+        "alt": "kizuato-ni-kuchizuke"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

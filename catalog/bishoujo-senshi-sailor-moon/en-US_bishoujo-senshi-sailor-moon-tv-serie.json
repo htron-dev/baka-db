@@ -1,12 +1,16 @@
 {
     "title": "Bishoujo Senshi Sailor Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg",
+        "alt": "bishoujo-senshi-sailor-moon"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "美少女戦士セーラームーン",
     "start_date": "1992-03-07",
     "end_date": "1992-03-07",
     "opening_song": "\"Moonlight Densetsu\" by DALI",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Heart Moving\" by Misae Takamatsu (eps 1-26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "demons",

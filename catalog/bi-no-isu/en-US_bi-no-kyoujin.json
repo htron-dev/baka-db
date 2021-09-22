@@ -1,5 +1,9 @@
 {
     "title": "Bi no Kyoujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159790.jpg",
+        "alt": "bi-no-kyoujin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

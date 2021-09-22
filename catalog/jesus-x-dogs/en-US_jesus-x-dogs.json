@@ -1,5 +1,9 @@
 {
     "title": "Jesus x Dogs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96823.jpg",
+        "alt": "jesus-x-dogs"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

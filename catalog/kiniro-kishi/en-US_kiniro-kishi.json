@@ -1,5 +1,9 @@
 {
     "title": "Kiniro Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51113.jpg",
+        "alt": "kiniro-kishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

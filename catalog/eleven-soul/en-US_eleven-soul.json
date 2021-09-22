@@ -1,5 +1,9 @@
 {
     "title": "Eleven Soul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10975.jpg",
+        "alt": "eleven-soul"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "イレブンソウル",

@@ -1,5 +1,9 @@
 {
     "title": "Ultras",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26598.jpg",
+        "alt": "ultras"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163052.jpg",
+        "alt": "fushigi-tsukai"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

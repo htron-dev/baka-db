@@ -1,5 +1,9 @@
 {
     "title": "Sekai Jinken Sengen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/84549.jpg",
+        "alt": "sekai-jinken-sengen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "世界人権宣言",

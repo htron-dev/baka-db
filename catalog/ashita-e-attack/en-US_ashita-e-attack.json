@@ -1,5 +1,9 @@
 {
     "title": "Ashita e Attack!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/8206.jpg",
+        "alt": "ashita-e-attack"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "あしたへアタック！",

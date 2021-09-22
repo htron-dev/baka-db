@@ -1,5 +1,9 @@
 {
     "title": "Oroka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/82091.jpg",
+        "alt": "oroka"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "OROKA",

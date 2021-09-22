@@ -1,5 +1,9 @@
 {
     "title": "Oshiire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18436.jpg",
+        "alt": "oshiire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

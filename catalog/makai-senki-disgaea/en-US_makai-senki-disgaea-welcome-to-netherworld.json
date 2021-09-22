@@ -1,5 +1,9 @@
 {
     "title": "Makai Senki Disgaea: Welcome to Netherworld",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24187.jpg",
+        "alt": "makai-senki-disgaea-welcome-to-netherworld"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "魔界戦記ディスガイア 魔界への招待状",

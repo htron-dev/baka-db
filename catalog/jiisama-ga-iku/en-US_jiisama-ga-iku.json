@@ -1,5 +1,9 @@
 {
     "title": "Jiisama ga Iku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220790.jpg",
+        "alt": "jiisama-ga-iku"
+    },
     "type": "manga",
     "original_name": "じい様が行く",
     "start_date": "2018-04-25",

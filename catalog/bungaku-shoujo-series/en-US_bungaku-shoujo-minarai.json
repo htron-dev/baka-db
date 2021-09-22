@@ -1,5 +1,9 @@
 {
     "title": "\"Bungaku Shoujo\" Minarai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/27656.jpg",
+        "alt": "bungaku-shoujo-minarai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",

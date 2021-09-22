@@ -1,5 +1,9 @@
 {
     "title": "Stitch! Perfect Memory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1677/100545.jpg",
+        "alt": "stitch-perfect-memory"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "スティッチ! パーフェクト・メモリー",

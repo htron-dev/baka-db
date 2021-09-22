@@ -1,12 +1,16 @@
 {
     "title": "Monkey Turn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75223.jpg",
+        "alt": "monkey-turn"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "モンキーターン",
     "start_date": "2004-01-11",
     "end_date": "2004-01-11",
     "opening_song": "\"Kokoro ga Tomaranai (ココロが止まらない)\" by JEWELRY",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hikari to Kaze to Kimi no Naka de (光と風と君の中で)\" by Ai Takaoka",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

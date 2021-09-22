@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Naita kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/115583.jpg",
+        "alt": "kimi-ga-naita-kara"
+    },
     "type": "manga",
     "original_name": "きみが泣いたから",
     "start_date": "2012-07-19",

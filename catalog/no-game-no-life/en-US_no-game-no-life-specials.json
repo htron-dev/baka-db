@@ -1,5 +1,9 @@
 {
     "title": "No Game No Life Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/71783.jpg",
+        "alt": "no-game-no-life-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "ノーゲーム・ノーライフ ミニ",

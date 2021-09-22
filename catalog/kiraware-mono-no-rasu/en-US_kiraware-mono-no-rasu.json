@@ -1,5 +1,9 @@
 {
     "title": "Kiraware Mono no Rasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/82093.jpg",
+        "alt": "kiraware-mono-no-rasu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "嫌われ者のラス",

@@ -1,5 +1,9 @@
 {
     "title": "Seiseki no Shito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151143.jpg",
+        "alt": "seiseki-no-shito"
+    },
     "type": "light-novel",
     "original_name": "聖石の使徒",
     "start_date": "2001-08-20",

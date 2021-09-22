@@ -1,5 +1,9 @@
 {
     "title": "Wushen Zhuzai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
+        "alt": "wushen-zhuzai"
+    },
     "type": "ona",
     "episodes": "160",
     "original_name": "武神主宰",

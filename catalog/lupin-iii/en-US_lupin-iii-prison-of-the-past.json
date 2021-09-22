@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Prison of the Past",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1534/105213.jpg",
+        "alt": "lupin-iii-prison-of-the-past"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世 プリズン・オブ・ザ・パスト",

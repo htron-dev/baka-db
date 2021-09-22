@@ -1,5 +1,9 @@
 {
     "title": "Tennen! Zetsumetsu Hero!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177936.jpg",
+        "alt": "tennen-zetsumetsu-hero"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

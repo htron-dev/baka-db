@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Tsuite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44583.jpg",
+        "alt": "koi-ni-tsuite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

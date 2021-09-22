@@ -1,5 +1,9 @@
 {
     "title": "Shounen no Zankyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196071.jpg",
+        "alt": "shounen-no-zankyou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

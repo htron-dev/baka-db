@@ -1,5 +1,9 @@
 {
     "title": "Number",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10957.jpg",
+        "alt": "number"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "41",

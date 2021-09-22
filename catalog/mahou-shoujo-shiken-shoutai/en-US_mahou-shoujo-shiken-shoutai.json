@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Shiken Shoutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108373.jpg",
+        "alt": "mahou-shoujo-shiken-shoutai"
+    },
     "type": "light-novel",
     "original_name": "魔法少女試験小隊",
     "start_date": "2013-12-10",

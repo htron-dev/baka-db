@@ -1,5 +1,9 @@
 {
     "title": "Yuyushiki: Nyanyashiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/51019.jpg",
+        "alt": "yuyushiki-nyanyashiki"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "ゆゆ式　にゃにゃ式",

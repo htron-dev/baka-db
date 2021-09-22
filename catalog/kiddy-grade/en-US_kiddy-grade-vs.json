@@ -1,5 +1,9 @@
 {
     "title": "Kiddy Grade VS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/112349.jpg",
+        "alt": "kiddy-grade-vs"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

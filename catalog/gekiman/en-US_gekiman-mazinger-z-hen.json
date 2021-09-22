@@ -1,5 +1,9 @@
 {
     "title": "Gekiman!: Mazinger Z-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201415.jpg",
+        "alt": "gekiman-mazinger-z-hen"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "激マン！マジンガー Z 編",

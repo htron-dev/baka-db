@@ -1,5 +1,9 @@
 {
     "title": "Ryouri Danshi no Kakushi Aji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74359.jpg",
+        "alt": "ryouri-danshi-no-kakushi-aji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

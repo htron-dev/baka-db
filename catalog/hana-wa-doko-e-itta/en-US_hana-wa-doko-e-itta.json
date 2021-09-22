@@ -1,5 +1,9 @@
 {
     "title": "Hana wa Doko e Itta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32114.jpg",
+        "alt": "hana-wa-doko-e-itta"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "花はどこへ行った",

@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Tategoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73033.jpg",
+        "alt": "hoshi-no-tategoto"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "星のたてごと",

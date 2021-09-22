@@ -1,5 +1,9 @@
 {
     "title": "Setsuna Trip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158627.jpg",
+        "alt": "setsuna-trip"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

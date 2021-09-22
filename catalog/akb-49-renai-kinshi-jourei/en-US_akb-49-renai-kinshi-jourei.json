@@ -1,5 +1,9 @@
 {
     "title": "AKB49: Renai Kinshi Jourei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167252.jpg",
+        "alt": "akb-49-renai-kinshi-jourei"
+    },
     "type": "manga",
     "volumes": "29",
     "chapters": "263",

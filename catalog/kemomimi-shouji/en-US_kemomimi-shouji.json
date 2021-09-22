@@ -1,5 +1,9 @@
 {
     "title": "Kemomimi Shouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20557.jpg",
+        "alt": "kemomimi-shouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

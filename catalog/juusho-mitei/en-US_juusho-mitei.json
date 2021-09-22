@@ -1,5 +1,9 @@
 {
     "title": "Juusho Mitei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36752.jpg",
+        "alt": "juusho-mitei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

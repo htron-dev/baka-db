@@ -1,5 +1,9 @@
 {
     "title": "Lupin III T",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222840.jpg",
+        "alt": "lupin-iii-t"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

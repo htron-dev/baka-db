@@ -1,12 +1,16 @@
 {
     "title": "Nanatsu no Taizai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
+        "alt": "nanatsu-no-taizai"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "七つの大罪",
     "start_date": "2014-10-05",
     "end_date": "2014-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Netsujou no Spectrum (熱情のスペクトラム)\" by Ikimonogakari (eps 2-12)",
+    "ending_song": "#1: \"Netsujou no Spectrum (熱情のスペクトラム)\" by Ikimono-gakari (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga"
+            "link": "http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29"
         }
     ]
 }

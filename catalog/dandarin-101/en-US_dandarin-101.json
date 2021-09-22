@@ -1,5 +1,9 @@
 {
     "title": "Dandarin 101",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225527.jpg",
+        "alt": "dandarin-101"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

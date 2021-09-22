@@ -1,5 +1,9 @@
 {
     "title": "Haitoku no Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151879.jpg",
+        "alt": "haitoku-no-niwa"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "背徳の庭",

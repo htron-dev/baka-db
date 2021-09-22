@@ -1,5 +1,9 @@
 {
     "title": "Tomorrow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228245.jpg",
+        "alt": "tomorrow"
+    },
     "type": "manhwa",
     "original_name": "내일",
     "start_date": "2017-05-20",

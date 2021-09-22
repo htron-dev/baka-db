@@ -1,5 +1,9 @@
 {
     "title": "Tsuma Koi Senka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182373.jpg",
+        "alt": "tsuma-koi-senka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

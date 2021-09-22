@@ -1,5 +1,9 @@
 {
     "title": "Jungle Taitei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163741.jpg",
+        "alt": "jungle-taitei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

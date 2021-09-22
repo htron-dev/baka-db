@@ -1,5 +1,9 @@
 {
     "title": "Adekan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175521.jpg",
+        "alt": "adekan"
+    },
     "type": "manga",
     "original_name": "艶漢",
     "start_date": "2007-07-14",

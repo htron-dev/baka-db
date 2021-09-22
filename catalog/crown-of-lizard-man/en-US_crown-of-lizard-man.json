@@ -1,5 +1,9 @@
 {
     "title": "Crown of Lizard Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194662.jpg",
+        "alt": "crown-of-lizard-man"
+    },
     "type": "light-novel",
     "original_name": "クラウン・オブ・リザードマン",
     "start_date": "2017-04-20",

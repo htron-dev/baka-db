@@ -1,5 +1,9 @@
 {
     "title": "Diavolo no Sahanji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160132.jpg",
+        "alt": "diavolo-no-sahanji"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "13",

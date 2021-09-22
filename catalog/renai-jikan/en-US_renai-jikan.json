@@ -1,5 +1,9 @@
 {
     "title": "Renai Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/91991.jpg",
+        "alt": "renai-jikan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni: Himatsubushi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/249320.jpg",
+        "alt": "higurashi-no-naku-koro-ni-himatsubushi-hen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

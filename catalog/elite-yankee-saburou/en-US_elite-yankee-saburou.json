@@ -1,5 +1,9 @@
 {
     "title": "Elite Yankee Saburou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224876.jpg",
+        "alt": "elite-yankee-saburou"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "251",

@@ -1,5 +1,9 @@
 {
     "title": "Tsurezure Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155605.jpg",
+        "alt": "tsurezure-children"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "212",

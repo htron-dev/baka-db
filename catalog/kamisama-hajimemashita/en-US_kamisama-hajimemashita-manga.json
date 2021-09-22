@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Hajimemashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167521.jpg",
+        "alt": "kamisama-hajimemashita"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "154",

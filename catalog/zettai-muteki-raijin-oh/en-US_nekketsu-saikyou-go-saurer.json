@@ -1,11 +1,15 @@
 {
     "title": "Nekketsu Saikyou Go-Saurer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1138/100815.jpg",
+        "alt": "nekketsu-saikyou-go-saurer"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "熱血最強ゴウザウラー",
     "start_date": "1993-03-03",
     "end_date": "1993-03-03",
-    "opening_song": "#1",
+    "opening_song": "#1: \"KEEP ON DREAMING\" by Seraphim (eps 1-28)",
     "ending_song": "\"OUR GOOD DAY… Bokura no GOOD DAY\" by Megumi Hayashibara (eps 1-51)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

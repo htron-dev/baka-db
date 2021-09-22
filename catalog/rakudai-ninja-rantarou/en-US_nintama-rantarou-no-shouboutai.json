@@ -1,5 +1,9 @@
 {
     "title": "Nintama Rantarou no Shouboutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/68963.jpg",
+        "alt": "nintama-rantarou-no-shouboutai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "忍たま乱太郎の消防隊",

@@ -1,5 +1,9 @@
 {
     "title": "Kago no Tori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/14444.jpg",
+        "alt": "kago-no-tori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

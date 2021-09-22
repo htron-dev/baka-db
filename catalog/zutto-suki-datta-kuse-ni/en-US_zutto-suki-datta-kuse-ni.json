@@ -1,5 +1,9 @@
 {
     "title": "Zutto Suki datta Kuse ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38297.jpg",
+        "alt": "zutto-suki-datta-kuse-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

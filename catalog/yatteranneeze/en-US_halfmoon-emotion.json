@@ -1,5 +1,9 @@
 {
     "title": "Halfmoon Emotion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7325.jpg",
+        "alt": "halfmoon-emotion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

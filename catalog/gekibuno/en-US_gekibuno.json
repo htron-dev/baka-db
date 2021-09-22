@@ -1,5 +1,9 @@
 {
     "title": "Gekibuno.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221786.jpg",
+        "alt": "gekibuno"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "61",

@@ -1,5 +1,9 @@
 {
     "title": "Komorebi no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/68053.jpg",
+        "alt": "komorebi-no-kuni"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

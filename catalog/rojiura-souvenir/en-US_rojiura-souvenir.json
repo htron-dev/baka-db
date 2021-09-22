@@ -1,5 +1,9 @@
 {
     "title": "Rojiura Souvenir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96163.jpg",
+        "alt": "rojiura-souvenir"
+    },
     "type": "manga",
     "original_name": "路地裏スーベニール",
     "tags": [

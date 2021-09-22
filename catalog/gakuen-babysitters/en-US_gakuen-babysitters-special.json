@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Babysitters Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1925/100826.jpg",
+        "alt": "gakuen-babysitters-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "学園ベビーシッターズ",

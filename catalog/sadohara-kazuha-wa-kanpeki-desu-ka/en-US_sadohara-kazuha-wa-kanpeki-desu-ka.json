@@ -1,5 +1,9 @@
 {
     "title": "Sadohara Kazuha wa Kanpeki desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210567.jpg",
+        "alt": "sadohara-kazuha-wa-kanpeki-desu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Wotajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242287.jpg",
+        "alt": "wotajuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

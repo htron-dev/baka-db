@@ -1,5 +1,9 @@
 {
     "title": "Anime-ban Toukaidou Yotsuya Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/82369.jpg",
+        "alt": "anime-ban-toukaidou-yotsuya-kaidan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アニメ版 東海道・四谷怪談",

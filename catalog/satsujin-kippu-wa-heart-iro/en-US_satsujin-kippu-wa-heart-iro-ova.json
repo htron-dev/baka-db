@@ -1,10 +1,14 @@
 {
     "title": "Satsujin Kippu wa Heart-iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/43729.jpg",
+        "alt": "satsujin-kippu-wa-heart-iro"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "殺人切符はハート色",
     "start_date": "1990-02-03",
-    "ending_song": "\"Magician",
+    "ending_song": "\"Magician: In the Midnight\" by Takako Oota",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

@@ -1,5 +1,9 @@
 {
     "title": "Eguchi-kun wa Minogasanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195212.jpg",
+        "alt": "eguchi-kun-wa-minogasanai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "101",

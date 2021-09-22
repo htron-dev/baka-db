@@ -1,5 +1,9 @@
 {
     "title": "Ice Forest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/20139.jpg",
+        "alt": "ice-forest"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "アイス フォレスト",

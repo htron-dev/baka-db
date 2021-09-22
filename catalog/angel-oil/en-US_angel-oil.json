@@ -1,5 +1,9 @@
 {
     "title": "Angel Oil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155212.jpg",
+        "alt": "angel-oil"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "ANGEL OIL",

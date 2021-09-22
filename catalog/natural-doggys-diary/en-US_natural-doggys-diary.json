@@ -1,5 +1,9 @@
 {
     "title": "Natural Doggy's Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30067.jpg",
+        "alt": "natural-doggys-diary"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "NATURAL DOGGY'S DIARY",

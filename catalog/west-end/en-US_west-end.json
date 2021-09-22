@@ -1,5 +1,9 @@
 {
     "title": "West End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/22644.jpg",
+        "alt": "west-end"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Haitoku no Love Sick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30166.jpg",
+        "alt": "haitoku-no-love-sick"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Dolce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17854.jpg",
+        "alt": "dolce"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

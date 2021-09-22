@@ -1,5 +1,9 @@
 {
     "title": "Houkago Lucky Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174577.jpg",
+        "alt": "houkago-lucky-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

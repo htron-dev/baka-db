@@ -1,5 +1,9 @@
 {
     "title": "ChäoS;HEAd",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/15443.jpg",
+        "alt": "chao-s-he-ad"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "カオスヘッド",

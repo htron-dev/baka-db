@@ -1,5 +1,9 @@
 {
     "title": "Aphorism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187771.jpg",
+        "alt": "aphorism"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "84",

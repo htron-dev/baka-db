@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Teki no Over Spec!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177507.jpg",
+        "alt": "sekai-no-teki-no-over-spec"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "37",

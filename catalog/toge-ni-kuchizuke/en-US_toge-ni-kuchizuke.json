@@ -1,5 +1,9 @@
 {
     "title": "Toge ni Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203458.jpg",
+        "alt": "toge-ni-kuchizuke"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

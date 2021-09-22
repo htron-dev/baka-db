@@ -1,5 +1,9 @@
 {
     "title": "Aisaretaino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40555.jpg",
+        "alt": "aisaretaino"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

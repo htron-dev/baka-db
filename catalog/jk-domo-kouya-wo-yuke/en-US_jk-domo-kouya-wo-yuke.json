@@ -1,5 +1,9 @@
 {
     "title": "JK-domo, Kouya wo Yuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229045.jpg",
+        "alt": "jk-domo-kouya-wo-yuke"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

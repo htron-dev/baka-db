@@ -1,5 +1,9 @@
 {
     "title": "± Junkie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112127.jpg",
+        "alt": "junkie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

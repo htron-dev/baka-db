@@ -1,5 +1,9 @@
 {
     "title": "Kuusen Madoushi Kouhosei no Kyoukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156091.jpg",
+        "alt": "kuusen-madoushi-kouhosei-no-kyoukan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

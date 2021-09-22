@@ -1,5 +1,9 @@
 {
     "title": "Kurayami Neko no Aishikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237870.jpg",
+        "alt": "kurayami-neko-no-aishikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

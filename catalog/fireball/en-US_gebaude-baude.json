@@ -1,5 +1,9 @@
 {
     "title": "Gebäude Bäude",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1631/112290.jpg",
+        "alt": "gebaude-baude"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ゲボイデ＝ボイデ",

@@ -1,12 +1,16 @@
 {
     "title": "Saint Beast: Kouin Jojishi Tenshi Tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75557.jpg",
+        "alt": "saint-beast-kouin-jojishi-tenshi-tan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "セイント・ビースト～光陰叙事詩天使譚～",
     "start_date": "2007-04-04",
     "end_date": "2007-04-04",
     "opening_song": "\"Divine Love\" by JAM Project feat. Kitadani Hiroshi",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Kouin Jojishi Tenshi Tan ~angel chronicles~\" by Tatsuhisa Suzuki, Takuma Terashima, Wataru Hatano (eps 01-04)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "fantasy"

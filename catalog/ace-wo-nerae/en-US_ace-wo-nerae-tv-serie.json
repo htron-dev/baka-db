@@ -1,5 +1,9 @@
 {
     "title": "Ace wo Nerae!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1414/91264.jpg",
+        "alt": "ace-wo-nerae"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "エースをねらえ!",

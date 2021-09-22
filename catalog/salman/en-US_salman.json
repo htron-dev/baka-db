@@ -1,5 +1,9 @@
 {
     "title": "Salman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196556.jpg",
+        "alt": "salman"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

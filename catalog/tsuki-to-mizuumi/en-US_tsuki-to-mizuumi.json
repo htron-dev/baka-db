@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Mizuumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36722.jpg",
+        "alt": "tsuki-to-mizuumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

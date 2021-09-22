@@ -1,5 +1,9 @@
 {
     "title": "Lolicon Phoenix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152508.jpg",
+        "alt": "lolicon-phoenix"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

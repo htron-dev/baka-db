@@ -1,5 +1,9 @@
 {
     "title": "Innocent Rouge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167646.jpg",
+        "alt": "innocent-rouge"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "88",

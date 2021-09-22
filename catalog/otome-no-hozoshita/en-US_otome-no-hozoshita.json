@@ -1,5 +1,9 @@
 {
     "title": "Otome no Hozoshita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233082.jpg",
+        "alt": "otome-no-hozoshita"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

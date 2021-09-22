@@ -1,5 +1,9 @@
 {
     "title": "Hareta Sora ni Kujira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164666.jpg",
+        "alt": "hareta-sora-ni-kujira"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "晴れた空にくじら",

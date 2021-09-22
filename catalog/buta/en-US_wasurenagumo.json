@@ -1,5 +1,9 @@
 {
     "title": "Wasurenagumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/38877.jpg",
+        "alt": "wasurenagumo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "わすれなぐも",

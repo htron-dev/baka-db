@@ -1,5 +1,9 @@
 {
     "title": "Shoukoku no Altair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172104.jpg",
+        "alt": "shoukoku-no-altair"
+    },
     "type": "manga",
     "original_name": "将国のアルタイル",
     "start_date": "2007-07-26",

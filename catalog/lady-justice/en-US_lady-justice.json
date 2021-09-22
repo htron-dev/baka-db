@@ -1,5 +1,9 @@
 {
     "title": "Lady Justice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163657.jpg",
+        "alt": "lady-justice"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

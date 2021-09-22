@@ -1,5 +1,9 @@
 {
     "title": "Ikkitousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180440.jpg",
+        "alt": "ikkitousen"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "187",

@@ -1,5 +1,9 @@
 {
     "title": "Versailles no Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/57043.jpg",
+        "alt": "versailles-no-bara"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "ベルサイユのばら",

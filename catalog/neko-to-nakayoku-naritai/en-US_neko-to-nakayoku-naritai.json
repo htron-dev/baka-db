@@ -1,5 +1,9 @@
 {
     "title": "Neko to Nakayoku Naritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206056.jpg",
+        "alt": "neko-to-nakayoku-naritai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

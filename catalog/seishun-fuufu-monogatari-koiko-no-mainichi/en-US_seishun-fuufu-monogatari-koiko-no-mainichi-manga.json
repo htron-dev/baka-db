@@ -1,5 +1,9 @@
 {
     "title": "Seishun Fuufu Monogatari: Koiko no Mainichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239753.jpg",
+        "alt": "seishun-fuufu-monogatari-koiko-no-mainichi"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "346",

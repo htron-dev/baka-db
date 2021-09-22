@@ -1,5 +1,9 @@
 {
     "title": "Amada Anime Series: Super Mario Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/8326.jpg",
+        "alt": "amada-anime-series-super-mario-brothers"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "アマダアニメシリーズ スーパーマリオブラザーズ",

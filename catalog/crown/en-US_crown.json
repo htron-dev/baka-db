@@ -1,5 +1,9 @@
 {
     "title": "Crown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10955.jpg",
+        "alt": "crown"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

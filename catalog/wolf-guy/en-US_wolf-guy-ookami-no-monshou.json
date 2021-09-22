@@ -1,5 +1,9 @@
 {
     "title": "Wolf Guy: Ookami no Monshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248873.jpg",
+        "alt": "wolf-guy-ookami-no-monshou"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "117",

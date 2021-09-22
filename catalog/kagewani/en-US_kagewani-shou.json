@@ -1,5 +1,9 @@
 {
     "title": "Kagewani: Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/78601.jpg",
+        "alt": "kagewani-shou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "影鰐-KAGEWANI-承",

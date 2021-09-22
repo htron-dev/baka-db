@@ -1,5 +1,9 @@
 {
     "title": "L'Arc~en~Ciel Maximum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4942.jpg",
+        "alt": "l-arc-en-ciel-maximum"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "L'Arc ～ en ～ Ciel マキシマム",

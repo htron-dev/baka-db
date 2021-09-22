@@ -1,12 +1,16 @@
 {
     "title": "Tennis no Ouji-sama: Zenkoku Taikai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/10572.jpg",
+        "alt": "tennis-no-ouji-sama-zenkoku-taikai-hen"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "テニスの王子様 Original Video Animation 全国大会編",
     "start_date": "2006-03-24",
     "end_date": "2006-03-24",
-    "opening_song": "#2",
-    "ending_song": "#2",
+    "opening_song": "#2: \"Kakaeta Kiseki (抱えたキセキ)\" by AOZU (eps 10-13)",
+    "ending_song": "#2: \"Fujouri\" by Hyoutei Eternity (eps 10-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

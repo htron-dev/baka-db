@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Oukoubakko no Poriomania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/36531.jpg",
+        "alt": "steins-gate-oukoubakko-no-poriomania"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "シュタインズ ゲート 横行跋扈のポリオマニア",

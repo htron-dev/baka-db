@@ -1,5 +1,9 @@
 {
     "title": "Rifle Is Beautiful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1874/100747.jpg",
+        "alt": "rifle-is-beautiful"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ライフル・イズ・ビューティフル",

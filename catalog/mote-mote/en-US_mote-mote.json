@@ -1,5 +1,9 @@
 {
     "title": "Mote? Mote!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163079.jpg",
+        "alt": "mote-mote"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "36",

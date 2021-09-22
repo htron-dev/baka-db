@@ -1,5 +1,9 @@
 {
     "title": "Ivory Dark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160094.jpg",
+        "alt": "ivory-dark"
+    },
     "type": "manga",
     "original_name": "IVORY DARK",
     "start_date": "2015-04-20",

@@ -1,5 +1,9 @@
 {
     "title": "Shitsuren no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46169.jpg",
+        "alt": "shitsuren-no-susume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

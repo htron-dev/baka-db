@@ -1,5 +1,9 @@
 {
     "title": "Buddy Go!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156140.jpg",
+        "alt": "buddy-go"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "58",

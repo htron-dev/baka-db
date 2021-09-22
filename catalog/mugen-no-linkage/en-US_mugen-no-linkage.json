@@ -1,5 +1,9 @@
 {
     "title": "Mugen no Linkage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163413.jpg",
+        "alt": "mugen-no-linkage"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "40",

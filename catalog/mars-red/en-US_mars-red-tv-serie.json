@@ -1,5 +1,9 @@
 {
     "title": "Mars Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1212/113448.jpg",
+        "alt": "mars-red"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "MARS RED",

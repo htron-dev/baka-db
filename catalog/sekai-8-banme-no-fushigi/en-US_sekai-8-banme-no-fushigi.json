@@ -1,5 +1,9 @@
 {
     "title": "Sekai 8-banme no Fushigi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203266.jpg",
+        "alt": "sekai-8-banme-no-fushigi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

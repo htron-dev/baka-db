@@ -1,5 +1,9 @@
 {
     "title": "Megane-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67685.jpg",
+        "alt": "megane-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Change 123",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53151.jpg",
+        "alt": "change-123"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "60",

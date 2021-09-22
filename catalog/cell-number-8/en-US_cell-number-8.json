@@ -1,5 +1,9 @@
 {
     "title": "Cell Number 8",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24666.jpg",
+        "alt": "cell-number-8"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "セルナンバー８",

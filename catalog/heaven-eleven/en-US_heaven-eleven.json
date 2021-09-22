@@ -1,5 +1,9 @@
 {
     "title": "Heaven Eleven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5684.jpg",
+        "alt": "heaven-eleven"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

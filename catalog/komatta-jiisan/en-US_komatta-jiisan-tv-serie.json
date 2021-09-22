@@ -1,5 +1,9 @@
 {
     "title": "Komatta Jiisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
+        "alt": "komatta-jiisan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "困ったじいさん",

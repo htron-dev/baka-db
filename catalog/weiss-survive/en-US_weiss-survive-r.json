@@ -1,5 +1,9 @@
 {
     "title": "Weiß Survive R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24032.jpg",
+        "alt": "weiss-survive-r"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヴァイス・サヴァイヴ R",

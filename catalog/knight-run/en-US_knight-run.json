@@ -1,5 +1,9 @@
 {
     "title": "Knight Run",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/70641.jpg",
+        "alt": "knight-run"
+    },
     "type": "manhwa",
     "original_name": "나이트런",
     "start_date": "2009-05-04",

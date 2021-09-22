@@ -1,5 +1,9 @@
 {
     "title": "Virtual Beast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3260.jpg",
+        "alt": "virtual-beast"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ヴァーチャル・ビースト",

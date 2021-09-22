@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Vamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182274.jpg",
+        "alt": "sengoku-vamp"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

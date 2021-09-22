@@ -1,5 +1,9 @@
 {
     "title": "Mirai no Dannasama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238502.jpg",
+        "alt": "mirai-no-dannasama"
+    },
     "type": "manga",
     "original_name": "みらいのダンナさま",
     "start_date": "2019-01-12",

@@ -1,5 +1,9 @@
 {
     "title": "Youkai Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149388.jpg",
+        "alt": "youkai-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

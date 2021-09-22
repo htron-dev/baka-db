@@ -1,5 +1,9 @@
 {
     "title": "Ten yori mo Hoshi yori mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16343.jpg",
+        "alt": "ten-yori-mo-hoshi-yori-mo"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "天よりも星よりも",

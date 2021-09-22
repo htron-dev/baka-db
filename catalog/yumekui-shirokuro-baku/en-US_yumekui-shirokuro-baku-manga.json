@@ -1,5 +1,9 @@
 {
     "title": "Yumekui Shirokuro Baku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231063.jpg",
+        "alt": "yumekui-shirokuro-baku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "夢喰い白黒バク",

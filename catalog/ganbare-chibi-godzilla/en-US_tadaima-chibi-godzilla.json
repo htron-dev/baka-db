@@ -1,5 +1,9 @@
 {
     "title": "Tadaima! Chibi Godzilla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1339/108564.jpg",
+        "alt": "tadaima-chibi-godzilla"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ただいま！ちびゴジラ",

@@ -1,5 +1,9 @@
 {
     "title": "Gunpuku no Shoudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178025.jpg",
+        "alt": "gunpuku-no-shoudou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

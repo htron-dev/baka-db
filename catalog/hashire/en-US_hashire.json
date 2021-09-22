@@ -1,5 +1,9 @@
 {
     "title": "Hashire!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/68991.jpg",
+        "alt": "hashire"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "走れ！",

@@ -1,5 +1,9 @@
 {
     "title": "Hidamari Sketch Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/14372.jpg",
+        "alt": "hidamari-sketch-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ひだまりスケッチ 特別編",

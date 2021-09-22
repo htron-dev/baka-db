@@ -1,5 +1,9 @@
 {
     "title": "Sukima Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/23511.jpg",
+        "alt": "sukima-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

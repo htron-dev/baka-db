@@ -1,5 +1,9 @@
 {
     "title": "Kaze Densetsu: Bukkomi no Taku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183368.jpg",
+        "alt": "kaze-densetsu-bukkomi-no-taku"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "259",

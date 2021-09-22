@@ -1,5 +1,9 @@
 {
     "title": "Jii Coro Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85459.jpg",
+        "alt": "jii-coro-comic"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "じーコロコミック",

@@ -1,5 +1,9 @@
 {
     "title": "Kakuu Izon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199037.jpg",
+        "alt": "kakuu-izon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

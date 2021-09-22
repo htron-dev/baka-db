@@ -1,5 +1,9 @@
 {
     "title": "Furare Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225425.jpg",
+        "alt": "furare-girl"
+    },
     "type": "manga",
     "original_name": "フラレガール",
     "start_date": "2018-03-05",

@@ -1,5 +1,9 @@
 {
     "title": "Ousama ni Kiss!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15481.jpg",
+        "alt": "ousama-ni-kiss"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "38",

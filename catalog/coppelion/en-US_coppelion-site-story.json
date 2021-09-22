@@ -1,5 +1,9 @@
 {
     "title": "Coppelion Site Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139019.jpg",
+        "alt": "coppelion-site-story"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "COPPELION SITE STORY",

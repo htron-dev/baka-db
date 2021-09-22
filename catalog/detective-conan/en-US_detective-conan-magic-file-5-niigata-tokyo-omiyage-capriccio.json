@@ -1,10 +1,14 @@
 {
     "title": "Detective Conan Magic File 5: Niigata - Tokyo Omiyage Capriccio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/28938.jpg",
+        "alt": "detective-conan-magic-file-5-niigata-tokyo-omiyage-capriccio"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "名探偵コナン MAGIC FILE 2011 ～新潟～東京 おみやげ狂騒曲（カプリチオ）～",
     "start_date": "2011-04-16",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Juugoya Crisis ~Kimi ni Aitai~\" by Hundred Percent Free",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

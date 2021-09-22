@@ -1,12 +1,16 @@
 {
     "title": "Carnival Phantasm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1018/92921.jpg",
+        "alt": "carnival-phantasm"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "カーニバル・ファンタズム",
     "start_date": "2011-08-14",
     "end_date": "2011-08-14",
     "opening_song": "\"Super☆Affection (すーぱー ☆ あふぇくしょん)\" by Minami Kuribayashi, Miyuki Hashimoto, Faylan, Aki Misato, yozuca\\*, rino",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Fellows\" by Masaaki Endoh (eps 1-10, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

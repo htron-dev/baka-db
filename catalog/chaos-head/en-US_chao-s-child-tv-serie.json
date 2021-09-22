@@ -1,5 +1,9 @@
 {
     "title": "ChäoS;Child",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1310/90137.jpg",
+        "alt": "chao-s-child"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "CHAOS;CHILD",

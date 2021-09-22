@@ -1,5 +1,9 @@
 {
     "title": "Gakkou no Jikan - Hot na Onnanoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/110561.jpg",
+        "alt": "gakkou-no-jikan-hot-na-onnanoko"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "学校の時間 ホットな女の子",

@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi wa Gunjou ni Tokeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165505.jpg",
+        "alt": "hatsukoi-wa-gunjou-ni-tokeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

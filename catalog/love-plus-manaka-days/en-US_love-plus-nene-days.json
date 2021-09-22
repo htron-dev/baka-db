@@ -1,5 +1,9 @@
 {
     "title": "Love Plus: Nene Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/43535.jpg",
+        "alt": "love-plus-nene-days"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

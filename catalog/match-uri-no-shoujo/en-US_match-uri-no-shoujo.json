@@ -1,5 +1,9 @@
 {
     "title": "Match Uri no Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/32635.jpg",
+        "alt": "match-uri-no-shoujo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マッチ売りの少女",

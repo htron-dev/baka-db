@@ -1,5 +1,9 @@
 {
     "title": "SF Shinseiki Lensman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/35347.jpg",
+        "alt": "sf-shinseiki-lensman"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "SF 新世紀 レンズマン",

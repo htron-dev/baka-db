@@ -1,12 +1,16 @@
 {
     "title": "Shuffle! Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/19624.jpg",
+        "alt": "shuffle-memories"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "シャッフル！メモリーズ",
     "start_date": "2007-01-08",
     "end_date": "2007-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Fateful Encounters\" by YURIA (ep 1)",
+    "ending_song": "#1: \"innocence\" by Miyuki Hashimoto (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

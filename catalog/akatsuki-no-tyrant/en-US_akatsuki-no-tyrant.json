@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki no Tyrant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173866.jpg",
+        "alt": "akatsuki-no-tyrant"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "46",

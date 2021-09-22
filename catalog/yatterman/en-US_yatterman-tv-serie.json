@@ -1,12 +1,16 @@
 {
     "title": "Yatterman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/44217.jpg",
+        "alt": "yatterman"
+    },
     "type": "tv-serie",
     "episodes": "60",
     "original_name": "ヤッターマン",
     "start_date": "2008-01-14",
     "end_date": "2008-01-14",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yatterman no Uta (ヤッターマンの歌)\" by Otoyakichiemon (eps 1-10)",
+    "ending_song": "#1: \"diverge\" by mihimaru GT (eps 1-10)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

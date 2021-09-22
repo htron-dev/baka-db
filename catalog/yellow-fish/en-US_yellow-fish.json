@@ -1,5 +1,9 @@
 {
     "title": "Yellow Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1063/108144.jpg",
+        "alt": "yellow-fish"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "YELLOW FISH",

@@ -1,5 +1,9 @@
 {
     "title": "Spy x Family: Kazoku no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248768.jpg",
+        "alt": "spy-x-family-kazoku-no-shouzou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

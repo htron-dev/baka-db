@@ -1,5 +1,9 @@
 {
     "title": "D-Frag!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188780.jpg",
+        "alt": "d-frag"
+    },
     "type": "manga",
     "original_name": "ディーふらぐ！",
     "start_date": "2008-07-27",

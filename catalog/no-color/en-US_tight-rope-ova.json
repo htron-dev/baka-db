@@ -1,5 +1,9 @@
 {
     "title": "Tight-rope",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/38305.jpg",
+        "alt": "tight-rope"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "タイトロープ",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/タイトロープ_(漫画"
+            "link": "http://ja.wikipedia.org/wiki/タイトロープ_%28漫画%29"
         }
     ]
 }

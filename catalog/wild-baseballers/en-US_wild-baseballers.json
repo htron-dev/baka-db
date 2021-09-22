@@ -1,5 +1,9 @@
 {
     "title": "Wild Baseballers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92415.jpg",
+        "alt": "wild-baseballers"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "48",

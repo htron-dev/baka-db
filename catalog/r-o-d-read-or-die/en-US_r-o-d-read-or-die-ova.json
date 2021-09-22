@@ -1,12 +1,16 @@
 {
     "title": "R.O.D: Read or Die",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/208.jpg",
+        "alt": "r-o-d-read-or-die"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "R.O.D リード・オア・ダイ",
     "start_date": "2001-05-23",
     "end_date": "2001-05-23",
     "opening_song": "\"R.O.D Theme\" by Taku Iwasaki",
-    "ending_song": "#02",
+    "ending_song": "#02: \"Bring All the Wisdom to Britain!\" by Taku Iwasaki (eps 2-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

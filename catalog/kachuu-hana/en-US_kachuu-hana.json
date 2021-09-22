@@ -1,5 +1,9 @@
 {
     "title": "Kachuu Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40955.jpg",
+        "alt": "kachuu-hana"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "153",

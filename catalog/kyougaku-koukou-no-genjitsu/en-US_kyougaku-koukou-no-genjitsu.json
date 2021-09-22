@@ -1,5 +1,9 @@
 {
     "title": "Kyougaku Koukou no Genjitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204431.jpg",
+        "alt": "kyougaku-koukou-no-genjitsu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "91",

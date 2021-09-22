@@ -1,11 +1,15 @@
 {
     "title": "Tsuki ga Michibiku Isekai Douchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1950/116474.jpg",
+        "alt": "tsuki-ga-michibiku-isekai-douchuu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "月が導く異世界道中",
     "start_date": "2021-07-07",
     "opening_song": "\"Gamble (ギャンブル)\" by syudou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Aa Jinsei ni Namida Ari (ああ人生に涙あり) by Makoto Misumi (Natsuki Hanae) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

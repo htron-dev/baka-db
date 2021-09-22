@@ -1,5 +1,9 @@
 {
     "title": "Oishinbo: Kyuukyoku tai Shikou, Chouju Ryouri Taiketsu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24464.jpg",
+        "alt": "oishinbo-kyuukyoku-tai-shikou-chouju-ryouri-taiketsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "美味しんぼ　究極対至高　長寿料理対決!!",

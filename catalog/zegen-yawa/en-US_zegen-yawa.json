@@ -1,5 +1,9 @@
 {
     "title": "Zegen-Yawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51551.jpg",
+        "alt": "zegen-yawa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Hinmin, Seihitsu, Daifugou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200779.jpg",
+        "alt": "hinmin-seihitsu-daifugou"
+    },
     "type": "manga",
     "original_name": "貧民、聖櫃、大富豪",
     "start_date": "2016-12-19",

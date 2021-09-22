@@ -1,5 +1,9 @@
 {
     "title": "Super Fishing Grander Musashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/21184.jpg",
+        "alt": "super-fishing-grander-musashi"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "スーパーフィッシング グランダー武蔵",

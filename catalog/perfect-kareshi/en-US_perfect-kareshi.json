@@ -1,5 +1,9 @@
 {
     "title": "Perfect Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156700.jpg",
+        "alt": "perfect-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

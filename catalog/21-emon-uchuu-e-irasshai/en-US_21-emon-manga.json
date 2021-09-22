@@ -1,5 +1,9 @@
 {
     "title": "21 Emon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229765.jpg",
+        "alt": "21-emon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "52",

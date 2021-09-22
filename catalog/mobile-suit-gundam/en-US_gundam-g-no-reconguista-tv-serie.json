@@ -1,11 +1,15 @@
 {
     "title": "Gundam: G no Reconguista",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/63753.jpg",
+        "alt": "gundam-g-no-reconguista"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ガンダム G のレコンギスタ",
     "start_date": "2014-10-03",
     "end_date": "2014-10-03",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Blazing\" by GARNiDELiA (eps 1-13)",
     "ending_song": "\"G no Senkou (G の閃光)\" by Daisuke Hasegawa (ハセガワダイスケ)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

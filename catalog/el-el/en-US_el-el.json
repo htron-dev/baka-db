@@ -1,5 +1,9 @@
 {
     "title": "El El",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/102489.jpg",
+        "alt": "el-el"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

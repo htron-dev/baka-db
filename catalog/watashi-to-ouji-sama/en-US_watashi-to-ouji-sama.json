@@ -1,5 +1,9 @@
 {
     "title": "Watashi to Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143539.jpg",
+        "alt": "watashi-to-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "私と王子様",

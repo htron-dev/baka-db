@@ -1,5 +1,9 @@
 {
     "title": "Zelda no Densetsu: Mugen no Sunadokei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126103.jpg",
+        "alt": "zelda-no-densetsu-mugen-no-sunadokei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Kono Heya de, Bokura wa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52245.jpg",
+        "alt": "kono-heya-de-bokura-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

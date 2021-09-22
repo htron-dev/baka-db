@@ -1,5 +1,9 @@
 {
     "title": "Kurusu Alice wa Cool de Itai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237402.jpg",
+        "alt": "kurusu-alice-wa-cool-de-itai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

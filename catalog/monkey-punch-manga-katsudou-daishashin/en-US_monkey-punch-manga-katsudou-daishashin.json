@@ -1,5 +1,9 @@
 {
     "title": "Monkey Punch: Manga Katsudou Daishashin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/10873.jpg",
+        "alt": "monkey-punch-manga-katsudou-daishashin"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "モンキー・パンチ　漫画活動大写真",

@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Shachou wa Cherry desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147317.jpg",
+        "alt": "uchi-no-shachou-wa-cherry-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Futarigurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197030.jpg",
+        "alt": "futarigurashi"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "180",

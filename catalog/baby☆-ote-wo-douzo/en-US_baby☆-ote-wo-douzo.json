@@ -1,5 +1,9 @@
 {
     "title": "Baby☆Ote wo Douzo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40801.jpg",
+        "alt": "baby☆-ote-wo-douzo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

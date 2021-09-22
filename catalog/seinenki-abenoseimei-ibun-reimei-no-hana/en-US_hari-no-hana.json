@@ -1,5 +1,9 @@
 {
     "title": "Hari no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193145.jpg",
+        "alt": "hari-no-hana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "29",

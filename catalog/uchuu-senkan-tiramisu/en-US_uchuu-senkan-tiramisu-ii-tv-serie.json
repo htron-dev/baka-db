@@ -1,11 +1,15 @@
 {
     "title": "Uchuu Senkan Tiramisù II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1665/93614.jpg",
+        "alt": "uchuu-senkan-tiramisu-ii"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "宇宙戦艦ティラミス Ⅱ（ツヴァイ）",
     "start_date": "2018-10-02",
     "end_date": "2018-10-02",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Breakthrough\" by Subaru Ichinose (Kaito Ishikawa) (ep 1)",
     "ending_song": "\"DURANDAL New ver.\" by Subaru Ichinose (Kaito Ichinose) & others",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

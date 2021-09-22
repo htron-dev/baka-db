@@ -1,5 +1,9 @@
 {
     "title": "MVP wa Yuzurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3756.jpg",
+        "alt": "mvp-wa-yuzurenai"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "MVP は譲れない!",

@@ -1,5 +1,9 @@
 {
     "title": "Mini Dragon Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1100/116698.jpg",
+        "alt": "mini-dragon-specials"
+    },
     "type": "special",
     "episodes": "8",
     "original_name": "ミニドラ",

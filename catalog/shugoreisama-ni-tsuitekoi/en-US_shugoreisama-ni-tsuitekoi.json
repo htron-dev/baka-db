@@ -1,5 +1,9 @@
 {
     "title": "Shugoreisama ni Tsuitekoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2183.jpg",
+        "alt": "shugoreisama-ni-tsuitekoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

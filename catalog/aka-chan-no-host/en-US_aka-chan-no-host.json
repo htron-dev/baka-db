@@ -1,5 +1,9 @@
 {
     "title": "Aka-chan no Host",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192571.jpg",
+        "alt": "aka-chan-no-host"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "45",

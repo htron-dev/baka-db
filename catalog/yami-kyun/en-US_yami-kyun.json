@@ -1,5 +1,9 @@
 {
     "title": "Yami Kyun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82380.jpg",
+        "alt": "yami-kyun"
+    },
     "type": "manga",
     "original_name": "やみキュン!",
     "start_date": "2011-11-08",

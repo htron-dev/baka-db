@@ -1,5 +1,9 @@
 {
     "title": "Chou Kuse ni Narisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/49689.jpg",
+        "alt": "chou-kuse-ni-narisou"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "超くせになりそう",

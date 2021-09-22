@@ -1,5 +1,9 @@
 {
     "title": "The World Is Mine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1287.jpg",
+        "alt": "the-world-is-mine"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "163",

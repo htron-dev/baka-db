@@ -1,5 +1,9 @@
 {
     "title": "My Favorite Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14512.jpg",
+        "alt": "my-favorite-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

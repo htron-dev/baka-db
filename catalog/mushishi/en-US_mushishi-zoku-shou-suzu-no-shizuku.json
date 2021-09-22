@@ -1,8 +1,12 @@
 {
     "title": "Mushishi Zoku Shou: Suzu no Shizuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72689.jpg",
+        "alt": "mushishi-zoku-shou-suzu-no-shizuku"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "蟲師 続章",
+    "original_name": "蟲師 続章: 鈴の雫",
     "start_date": "2015-05-16",
     "opening_song": "\"Shiver\" by Lucy Rose",
     "ending_song": "\"Suzu no Shizuku\" (鈴の雫) by Toshio Masuda",

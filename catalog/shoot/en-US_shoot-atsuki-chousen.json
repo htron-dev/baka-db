@@ -1,5 +1,9 @@
 {
     "title": "Shoot!: Atsuki Chousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38319.jpg",
+        "alt": "shoot-atsuki-chousen"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "シュート! ～熱き挑戦～",

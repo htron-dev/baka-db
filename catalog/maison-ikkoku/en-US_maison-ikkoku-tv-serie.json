@@ -1,12 +1,16 @@
 {
     "title": "Maison Ikkoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/17576.jpg",
+        "alt": "maison-ikkoku"
+    },
     "type": "tv-serie",
     "episodes": "96",
     "original_name": "めぞん一刻",
     "start_date": "1986-03-26",
     "end_date": "1986-03-26",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kanashimi yo Konnichiwa\" by Yuki Saito (eps 1-23, 25-37)",
+    "ending_song": "#1: \"Ashita Hareru ka\" by Takao Kisugi (eps 1-14)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "slice-of-life",

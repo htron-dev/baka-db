@@ -1,5 +1,9 @@
 {
     "title": "LSD",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152489.jpg",
+        "alt": "lsd"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "LSD ～ろんぐすろーでぃすたんす～",

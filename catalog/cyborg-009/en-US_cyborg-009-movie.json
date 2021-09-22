@@ -1,5 +1,9 @@
 {
     "title": "Cyborg 009",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76035.jpg",
+        "alt": "cyborg-009"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "サイボーグ 009",

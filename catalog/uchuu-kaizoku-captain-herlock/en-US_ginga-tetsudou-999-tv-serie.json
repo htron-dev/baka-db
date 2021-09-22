@@ -1,5 +1,9 @@
 {
     "title": "Ginga Tetsudou 999",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1685/104554.jpg",
+        "alt": "ginga-tetsudou-999"
+    },
     "type": "tv-serie",
     "episodes": "113",
     "original_name": "銀河鉄道９９９",

@@ -1,5 +1,9 @@
 {
     "title": "Aisopos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182690.jpg",
+        "alt": "aisopos"
+    },
     "type": "manhwa",
     "chapters": "130",
     "original_name": "아이소포스",

@@ -1,5 +1,9 @@
 {
     "title": "Onegai, Sore wo Yamenaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161178.jpg",
+        "alt": "onegai-sore-wo-yamenaide"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

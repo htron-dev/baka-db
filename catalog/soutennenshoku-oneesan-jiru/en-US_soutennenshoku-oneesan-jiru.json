@@ -1,5 +1,9 @@
 {
     "title": "Soutennenshoku Oneesan-jiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158870.jpg",
+        "alt": "soutennenshoku-oneesan-jiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

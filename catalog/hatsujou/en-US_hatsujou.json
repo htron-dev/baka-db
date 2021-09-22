@@ -1,5 +1,9 @@
 {
     "title": "Hatsujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165848.jpg",
+        "alt": "hatsujou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

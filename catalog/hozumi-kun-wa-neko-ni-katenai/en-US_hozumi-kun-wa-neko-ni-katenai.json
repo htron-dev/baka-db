@@ -1,5 +1,9 @@
 {
     "title": "Hozumi-kun wa Neko ni Katenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207658.jpg",
+        "alt": "hozumi-kun-wa-neko-ni-katenai"
+    },
     "type": "manga",
     "chapters": "27",
     "original_name": "穂積くんは猫に勝てない",

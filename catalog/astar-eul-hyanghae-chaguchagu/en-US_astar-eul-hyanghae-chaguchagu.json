@@ -1,5 +1,9 @@
 {
     "title": "Astar-eul Hyanghae Chaguchagu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/85801.jpg",
+        "alt": "astar-eul-hyanghae-chaguchagu"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "아스타를 향해 차구차구",

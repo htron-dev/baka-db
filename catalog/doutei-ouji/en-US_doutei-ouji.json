@@ -1,5 +1,9 @@
 {
     "title": "Doutei Ouji!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/68431.jpg",
+        "alt": "doutei-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

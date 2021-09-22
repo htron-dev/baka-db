@@ -1,5 +1,9 @@
 {
     "title": "Shut Hell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180153.jpg",
+        "alt": "shut-hell"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "90",

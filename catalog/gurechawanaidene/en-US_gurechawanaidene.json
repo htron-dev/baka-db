@@ -1,5 +1,9 @@
 {
     "title": "Gurechawanaidene",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152448.jpg",
+        "alt": "gurechawanaidene"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

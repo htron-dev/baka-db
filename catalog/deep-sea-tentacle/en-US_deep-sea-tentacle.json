@@ -1,5 +1,9 @@
 {
     "title": "Deep Sea Tentacle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1318/111012.jpg",
+        "alt": "deep-sea-tentacle"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Deep Sea Tentacle",

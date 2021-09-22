@@ -1,5 +1,9 @@
 {
     "title": "Ongeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1143/92107.jpg",
+        "alt": "ongeki"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "オンゲキ",

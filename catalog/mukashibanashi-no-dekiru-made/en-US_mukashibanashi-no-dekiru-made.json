@@ -1,5 +1,9 @@
 {
     "title": "Mukashibanashi no Dekiru made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158866.jpg",
+        "alt": "mukashibanashi-no-dekiru-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

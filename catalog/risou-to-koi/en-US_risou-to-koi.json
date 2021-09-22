@@ -1,5 +1,9 @@
 {
     "title": "Risou to Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226680.jpg",
+        "alt": "risou-to-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

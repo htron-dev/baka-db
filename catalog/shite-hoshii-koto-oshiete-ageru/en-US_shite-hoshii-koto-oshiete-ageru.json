@@ -1,5 +1,9 @@
 {
     "title": "Shite Hoshii Koto, Oshiete Ageru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217694.jpg",
+        "alt": "shite-hoshii-koto-oshiete-ageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

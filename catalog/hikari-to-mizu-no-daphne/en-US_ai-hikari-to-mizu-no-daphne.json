@@ -1,5 +1,9 @@
 {
     "title": "Ai: Hikari to Mizu no Daphne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89127.jpg",
+        "alt": "ai-hikari-to-mizu-no-daphne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Paradise Residence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125691.jpg",
+        "alt": "paradise-residence"
+    },
     "type": "light-novel",
     "original_name": "パラダイスレジデンス",
     "start_date": "2011-12-02",

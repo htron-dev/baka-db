@@ -1,5 +1,9 @@
 {
     "title": "Touhou Sangetsusei: Oriental Sacred Place",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171905.jpg",
+        "alt": "touhou-sangetsusei-oriental-sacred-place"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Nemurihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153041.jpg",
+        "alt": "nemurihime"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

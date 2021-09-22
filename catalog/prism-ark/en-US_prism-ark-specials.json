@@ -1,5 +1,9 @@
 {
     "title": "Prism Ark Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/8747.jpg",
+        "alt": "prism-ark-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "プリズム・アーク ぷりあーく",

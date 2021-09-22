@@ -1,12 +1,16 @@
 {
     "title": "Isshuukan Friends.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/61891.jpg",
+        "alt": "isshuukan-friends"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "一週間フレンズ。",
     "start_date": "2014-04-07",
     "end_date": "2014-04-07",
     "opening_song": "“Niji no Kakera (虹のかけら)” by Natsumi Kon",
-    "ending_song": "\"Kanade (奏 (かなで))\" by Kaori Fujimiya (CV",
+    "ending_song": "\"Kanade (奏 (かなで))\" by Kaori Fujimiya (CV: Sora Amamiya)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

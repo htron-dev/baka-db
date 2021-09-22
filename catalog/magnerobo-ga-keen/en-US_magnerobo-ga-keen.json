@@ -1,5 +1,9 @@
 {
     "title": "Magnerobo Ga-Keen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/60861.jpg",
+        "alt": "magnerobo-ga-keen"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "マグネロボ・ガ・キーン",

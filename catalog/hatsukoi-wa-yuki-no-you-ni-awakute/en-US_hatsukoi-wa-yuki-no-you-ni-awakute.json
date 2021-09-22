@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi wa Yuki no You ni Awakute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123763.jpg",
+        "alt": "hatsukoi-wa-yuki-no-you-ni-awakute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

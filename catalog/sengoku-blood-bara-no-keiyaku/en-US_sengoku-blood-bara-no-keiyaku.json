@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Blood: Bara no Keiyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161941.jpg",
+        "alt": "sengoku-blood-bara-no-keiyaku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

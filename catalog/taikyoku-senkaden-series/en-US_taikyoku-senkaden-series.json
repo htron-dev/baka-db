@@ -1,5 +1,9 @@
 {
     "title": "Taikyoku Senkaden Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167640.jpg",
+        "alt": "taikyoku-senkaden-series"
+    },
     "type": "light-novel",
     "original_name": "太極仙華伝シリーズ",
     "start_date": "2015-07-15",

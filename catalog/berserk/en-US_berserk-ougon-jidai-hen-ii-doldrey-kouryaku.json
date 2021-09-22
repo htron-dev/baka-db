@@ -1,5 +1,9 @@
 {
     "title": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/37193.jpg",
+        "alt": "berserk-ougon-jidai-hen-ii-doldrey-kouryaku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ベルセルク 黄金時代篇 Ⅱ ドルドレイ攻略",
@@ -38,7 +42,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Berserk_(manga"
+            "link": "http://en.wikipedia.org/wiki/Berserk_%28manga%29"
         }
     ]
 }

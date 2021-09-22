@@ -1,5 +1,9 @@
 {
     "title": "Maiko no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13639.jpg",
+        "alt": "maiko-no-uta"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "舞子の詩",

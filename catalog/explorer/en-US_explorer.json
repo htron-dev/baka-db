@@ -1,5 +1,9 @@
 {
     "title": "Explorer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162726.jpg",
+        "alt": "explorer"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "47",

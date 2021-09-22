@@ -1,12 +1,16 @@
 {
     "title": "Tatakau Shisho: The Book of Bantorra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/22769.jpg",
+        "alt": "tatakau-shisho-the-book-of-bantorra"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "戦う司書 The Book of Bantorra",
     "start_date": "2009-10-02",
     "end_date": "2009-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Datengoku Sensen (堕天國宣戦)\" by ALI PROJECT (eps 1-16)",
+    "ending_song": "#1: \"Light of Dawn\" by Annabel (eps 1-16)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

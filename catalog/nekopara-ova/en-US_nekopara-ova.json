@@ -1,5 +1,9 @@
 {
     "title": "Nekopara OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/89829.jpg",
+        "alt": "nekopara-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ネコぱら OVA",

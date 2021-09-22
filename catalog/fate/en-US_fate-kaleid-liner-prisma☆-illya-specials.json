@@ -1,5 +1,9 @@
 {
     "title": "Fate/kaleid liner Prisma☆Illya Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/51235.jpg",
+        "alt": "fate-kaleid-liner-prisma☆-illya-specials"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "Fate/kaleid liner プリズマ ☆ イリヤ",

@@ -1,5 +1,9 @@
 {
     "title": "Maid Goshuu Show-sama!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149943.jpg",
+        "alt": "maid-goshuu-show-sama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

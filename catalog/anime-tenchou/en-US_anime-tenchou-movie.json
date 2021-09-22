@@ -1,5 +1,9 @@
 {
     "title": "Anime Tenchou Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/27282.jpg",
+        "alt": "anime-tenchou-movie"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アニメ店長 激情版",

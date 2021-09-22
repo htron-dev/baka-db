@@ -1,5 +1,9 @@
 {
     "title": "Oretacha Youkai Ningen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/87310.jpg",
+        "alt": "oretacha-youkai-ningen"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "俺たちゃ妖怪人間",

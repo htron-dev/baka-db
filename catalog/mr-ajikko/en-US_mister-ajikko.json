@@ -1,5 +1,9 @@
 {
     "title": "Mister Ajikko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76433.jpg",
+        "alt": "mister-ajikko"
+    },
     "type": "tv-serie",
     "episodes": "99",
     "original_name": "ミスター味っ子",

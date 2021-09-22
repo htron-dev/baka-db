@@ -1,5 +1,9 @@
 {
     "title": "Nazo no Mrs.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227565.jpg",
+        "alt": "nazo-no-mrs"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "謎のミセス",

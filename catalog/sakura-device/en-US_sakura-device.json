@@ -1,5 +1,9 @@
 {
     "title": "Sakura Device",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165364.jpg",
+        "alt": "sakura-device"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

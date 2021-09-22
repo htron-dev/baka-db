@@ -1,5 +1,9 @@
 {
     "title": "Gallery Fake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187752.jpg",
+        "alt": "gallery-fake"
+    },
     "type": "manga",
     "original_name": "ギャラリーフェイク",
     "tags": [

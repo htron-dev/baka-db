@@ -1,5 +1,9 @@
 {
     "title": "Tsuzuki wa Asa made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207176.jpg",
+        "alt": "tsuzuki-wa-asa-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

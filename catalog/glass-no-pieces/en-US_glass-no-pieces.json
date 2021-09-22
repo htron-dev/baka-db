@@ -1,5 +1,9 @@
 {
     "title": "Glass no Pieces",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223017.jpg",
+        "alt": "glass-no-pieces"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "硝子のピーシズ",

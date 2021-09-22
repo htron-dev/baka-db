@@ -1,5 +1,9 @@
 {
     "title": "Dokgo 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222167.jpg",
+        "alt": "dokgo-2"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "독고2",

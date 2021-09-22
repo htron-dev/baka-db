@@ -1,5 +1,9 @@
 {
     "title": "Damasarete mo Suki na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2533.jpg",
+        "alt": "damasarete-mo-suki-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

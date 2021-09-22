@@ -1,5 +1,9 @@
 {
     "title": "Houkago Teibou Nisshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
+        "alt": "houkago-teibou-nisshi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "放課後ていぼう日誌",

@@ -1,5 +1,9 @@
 {
     "title": "Kuşlar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78901.jpg",
+        "alt": "kuslar"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

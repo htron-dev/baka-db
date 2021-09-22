@@ -1,5 +1,9 @@
 {
     "title": "Majo no Moribito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233698.jpg",
+        "alt": "majo-no-moribito"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Berubara Kids",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197781.jpg",
+        "alt": "berubara-kids"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "133",

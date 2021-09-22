@@ -1,5 +1,9 @@
 {
     "title": "Love You!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163759.jpg",
+        "alt": "love-you"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

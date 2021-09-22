@@ -1,5 +1,9 @@
 {
     "title": "Hito wa Sore wo Koi to Yobu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33253.jpg",
+        "alt": "hito-wa-sore-wo-koi-to-yobu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

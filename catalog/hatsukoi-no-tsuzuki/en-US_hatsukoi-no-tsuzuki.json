@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi no Tsuzuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39293.jpg",
+        "alt": "hatsukoi-no-tsuzuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

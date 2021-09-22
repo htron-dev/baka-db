@@ -1,5 +1,9 @@
 {
     "title": "Pochama ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195236.jpg",
+        "alt": "pochama-ni"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "46",

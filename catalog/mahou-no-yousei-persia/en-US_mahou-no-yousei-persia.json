@@ -1,12 +1,16 @@
 {
     "title": "Mahou no Yousei Persia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/41447.jpg",
+        "alt": "mahou-no-yousei-persia"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "魔法の妖精 ペルシャ",
     "start_date": "1984-07-06",
     "end_date": "1984-07-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Mishiranu Kuni no Tripper (見知らぬ国のトリッパー)\" by Maiko Okamoto (eps 1-31)",
+    "ending_song": "#1: \"Lovely Dream (ラブリードリーム)\" by Maiko Okamoto (eps 1-31)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

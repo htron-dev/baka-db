@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Oto ga Shinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207178.jpg",
+        "alt": "sekai-no-oto-ga-shinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

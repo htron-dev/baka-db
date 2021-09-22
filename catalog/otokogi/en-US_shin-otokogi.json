@@ -1,5 +1,9 @@
 {
     "title": "Shin Otokogi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/26995.jpg",
+        "alt": "shin-otokogi"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "新・男樹",

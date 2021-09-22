@@ -1,5 +1,9 @@
 {
     "title": "Osomatsu-san VR",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1128/93245.jpg",
+        "alt": "osomatsu-san-vr"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おそ松さん VR",

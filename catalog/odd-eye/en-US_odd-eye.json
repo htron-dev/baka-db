@@ -1,5 +1,9 @@
 {
     "title": "Odd Eye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44235.jpg",
+        "alt": "odd-eye"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オッド・アイ",

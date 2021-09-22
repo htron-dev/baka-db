@@ -1,5 +1,9 @@
 {
     "title": "Hotel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161359.jpg",
+        "alt": "hotel"
+    },
     "type": "manga",
     "volumes": "37",
     "chapters": "331",

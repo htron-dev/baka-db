@@ -1,5 +1,9 @@
 {
     "title": "Fuuto Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208532.jpg",
+        "alt": "fuuto-tantei"
+    },
     "type": "manga",
     "original_name": "風都探偵",
     "start_date": "2017-08-07",

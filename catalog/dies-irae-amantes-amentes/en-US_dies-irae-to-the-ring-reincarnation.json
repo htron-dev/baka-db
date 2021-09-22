@@ -1,8 +1,12 @@
 {
     "title": "Dies Irae: To the Ring Reincarnation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1244/93395.jpg",
+        "alt": "dies-irae-to-the-ring-reincarnation"
+    },
     "type": "ona",
     "episodes": "6",
-    "original_name": "Dies irae",
+    "original_name": "Dies irae: To the ring reincarnation",
     "start_date": "2018-07-01",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Dies_irae_(visual_novel"
+            "link": "https://en.wikipedia.org/wiki/Dies_irae_%28visual_novel%29"
         }
     ]
 }

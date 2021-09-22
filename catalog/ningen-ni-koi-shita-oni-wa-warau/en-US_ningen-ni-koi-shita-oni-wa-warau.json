@@ -1,5 +1,9 @@
 {
     "title": "Ningen ni Koi shita Oni wa Warau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193121.jpg",
+        "alt": "ningen-ni-koi-shita-oni-wa-warau"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

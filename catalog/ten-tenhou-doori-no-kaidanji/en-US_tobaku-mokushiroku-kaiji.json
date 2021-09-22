@@ -1,5 +1,9 @@
 {
     "title": "Tobaku Mokushiroku Kaiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22377.jpg",
+        "alt": "tobaku-mokushiroku-kaiji"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "158",

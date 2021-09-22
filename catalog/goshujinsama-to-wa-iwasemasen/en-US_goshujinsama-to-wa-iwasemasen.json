@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama to wa Iwasemasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223117.jpg",
+        "alt": "goshujinsama-to-wa-iwasemasen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

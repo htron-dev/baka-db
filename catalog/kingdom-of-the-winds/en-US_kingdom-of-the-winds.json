@@ -1,5 +1,9 @@
 {
     "title": "Kingdom of the Winds",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36233.jpg",
+        "alt": "kingdom-of-the-winds"
+    },
     "type": "manhwa",
     "volumes": "26",
     "original_name": "바람의 나라",

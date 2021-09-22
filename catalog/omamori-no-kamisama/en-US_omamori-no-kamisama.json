@@ -1,5 +1,9 @@
 {
     "title": "Omamori no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21606.jpg",
+        "alt": "omamori-no-kamisama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

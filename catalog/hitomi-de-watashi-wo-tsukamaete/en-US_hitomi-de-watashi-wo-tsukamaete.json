@@ -1,5 +1,9 @@
 {
     "title": "Hitomi de Watashi wo Tsukamaete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19399.jpg",
+        "alt": "hitomi-de-watashi-wo-tsukamaete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Hot Gimmick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142813.jpg",
+        "alt": "hot-gimmick"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "54",

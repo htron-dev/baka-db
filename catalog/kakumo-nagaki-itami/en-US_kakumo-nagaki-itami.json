@@ -1,5 +1,9 @@
 {
     "title": "Kakumo Nagaki Itami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21145.jpg",
+        "alt": "kakumo-nagaki-itami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

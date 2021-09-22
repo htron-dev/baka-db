@@ -1,5 +1,9 @@
 {
     "title": "Ooedo Youkai Kawaraban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152164.jpg",
+        "alt": "ooedo-youkai-kawaraban"
+    },
     "type": "manga",
     "original_name": "大江戸妖怪かわら版",
     "start_date": "2013-10-26",

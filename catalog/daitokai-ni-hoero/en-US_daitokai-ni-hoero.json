@@ -1,5 +1,9 @@
 {
     "title": "Daitokai ni Hoero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30714.jpg",
+        "alt": "daitokai-ni-hoero"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "大都会にほえろ",

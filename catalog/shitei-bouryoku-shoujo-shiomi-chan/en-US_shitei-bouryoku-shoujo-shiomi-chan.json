@@ -1,5 +1,9 @@
 {
     "title": "Shitei Bouryoku Shoujo Shiomi-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215826.jpg",
+        "alt": "shitei-bouryoku-shoujo-shiomi-chan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

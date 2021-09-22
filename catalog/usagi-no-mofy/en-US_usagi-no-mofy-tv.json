@@ -1,5 +1,9 @@
 {
     "title": "Usagi no Mofy (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1223/104115.jpg",
+        "alt": "usagi-no-mofy-tv"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "うさぎのモフィ",

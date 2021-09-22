@@ -1,5 +1,9 @@
 {
     "title": "Miniforce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1526/96881.jpg",
+        "alt": "miniforce"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "최강전사 미니특공대",

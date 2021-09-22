@@ -1,5 +1,9 @@
 {
     "title": "Iguana no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/43269.jpg",
+        "alt": "iguana-no-musume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

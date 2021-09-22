@@ -1,5 +1,9 @@
 {
     "title": "Hitorimi Haduki-san to.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130813.jpg",
+        "alt": "hitorimi-haduki-san-to"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

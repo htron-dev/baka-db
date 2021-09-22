@@ -1,5 +1,9 @@
 {
     "title": "Ohana Moyou no One-Piece",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39133.jpg",
+        "alt": "ohana-moyou-no-one-piece"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

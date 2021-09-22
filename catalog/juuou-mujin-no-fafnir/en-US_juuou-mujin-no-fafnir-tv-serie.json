@@ -1,12 +1,16 @@
 {
     "title": "Juuou Mujin no Fafnir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/69085.jpg",
+        "alt": "juuou-mujin-no-fafnir"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "銃皇無尽のファフニール",
     "start_date": "2015-01-09",
     "end_date": "2015-01-09",
     "opening_song": "\"FLYING FAFNIR\" by TRUSTRICK (Sayaka Kanda & Billy)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ray of bullet\" by Iris Freyja (Rina Hidaka) & Mitsuki Mononobe (Manami Numakura) (ep1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "fantasy",

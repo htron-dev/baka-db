@@ -1,5 +1,9 @@
 {
     "title": "Seiketsu -Holy Blood-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19074.jpg",
+        "alt": "seiketsu-holy-blood"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

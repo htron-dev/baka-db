@@ -1,5 +1,9 @@
 {
     "title": "Wild Way",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74223.jpg",
+        "alt": "wild-way"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ワイルドウェイ",

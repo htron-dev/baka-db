@@ -1,12 +1,16 @@
 {
     "title": "Choujuu Kishin Dancougar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/30451.jpg",
+        "alt": "choujuu-kishin-dancougar"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "超獣機神ダンクーガ",
     "start_date": "1985-04-05",
     "end_date": "1985-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ai yo Far Away\" by Rie Fujiwara (eps 1-33)",
+    "ending_song": "#1: \"Burning Love\" by Takeshi Ike (eps 1-33)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

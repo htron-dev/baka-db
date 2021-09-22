@@ -1,5 +1,9 @@
 {
     "title": "Boku no Tezuka Osamu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170336.jpg",
+        "alt": "boku-no-tezuka-osamu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

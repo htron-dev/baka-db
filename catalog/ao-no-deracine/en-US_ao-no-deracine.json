@@ -1,5 +1,9 @@
 {
     "title": "Ao no Deracine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9399.jpg",
+        "alt": "ao-no-deracine"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Senkan Yamato: Fukkatsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83052.jpg",
+        "alt": "uchuu-senkan-yamato-fukkatsu-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "宇宙戦艦ヤマト 復活篇",

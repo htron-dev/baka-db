@@ -1,5 +1,9 @@
 {
     "title": "Hanasakeru Seishounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1094/116584.jpg",
+        "alt": "hanasakeru-seishounen"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "花咲ける青少年",

@@ -1,5 +1,9 @@
 {
     "title": "Kedamono Arashi: Kiss Me Baby!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225118.jpg",
+        "alt": "kedamono-arashi-kiss-me-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Hatsukoi wo Kimi ni Sasagu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202476.jpg",
+        "alt": "boku-no-hatsukoi-wo-kimi-ni-sasagu"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "71",

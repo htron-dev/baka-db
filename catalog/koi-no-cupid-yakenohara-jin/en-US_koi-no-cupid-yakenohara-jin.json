@@ -1,5 +1,9 @@
 {
     "title": "Koi no Cupid: Yakenohara Jin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/110293.jpg",
+        "alt": "koi-no-cupid-yakenohara-jin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Goth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173681.jpg",
+        "alt": "goth"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

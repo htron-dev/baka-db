@@ -1,5 +1,9 @@
 {
     "title": "Black Night Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187215.jpg",
+        "alt": "black-night-parade"
+    },
     "type": "manga",
     "original_name": "ブラックナイトパレード",
     "start_date": "2016-11-02",

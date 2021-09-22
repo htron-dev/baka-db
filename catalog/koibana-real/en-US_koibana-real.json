@@ -1,5 +1,9 @@
 {
     "title": "Koibana Real",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177248.jpg",
+        "alt": "koibana-real"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋バナリアル",

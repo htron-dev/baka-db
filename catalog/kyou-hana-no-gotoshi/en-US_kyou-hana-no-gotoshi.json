@@ -1,5 +1,9 @@
 {
     "title": "Kyou, Hana no Gotoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88023.jpg",
+        "alt": "kyou-hana-no-gotoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

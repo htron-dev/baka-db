@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Kizu wa Shindemo Kesanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240223.jpg",
+        "alt": "watashi-no-kizu-wa-shindemo-kesanai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

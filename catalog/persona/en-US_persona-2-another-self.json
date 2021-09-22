@@ -1,5 +1,9 @@
 {
     "title": "Persona 2: Another Self",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/76408.jpg",
+        "alt": "persona-2-another-self"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ペルソナ 2 -Another Self-",

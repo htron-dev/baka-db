@@ -1,5 +1,9 @@
 {
     "title": "Oniwaban Mochizuki Soushirou Mairu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154785.jpg",
+        "alt": "oniwaban-mochizuki-soushirou-mairu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

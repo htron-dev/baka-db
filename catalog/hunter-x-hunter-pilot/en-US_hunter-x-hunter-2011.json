@@ -1,12 +1,16 @@
 {
     "title": "Hunter x Hunter (2011)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/33657.jpg",
+        "alt": "hunter-x-hunter-2011"
+    },
     "type": "tv-serie",
     "episodes": "148",
     "original_name": "HUNTER×HUNTER（ハンター × ハンター）",
     "start_date": "2011-10-02",
     "end_date": "2011-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"departure!\" by Ono Masatoshi (eps 1-26, 50-52, 62-75, 137-147)",
+    "ending_song": "#1: \"Just Awake\" by Fear, and Loathing in Las Vegas (eps 1-26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Stage Fancy Lala",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13119.jpg",
+        "alt": "mahou-no-stage-fancy-lala"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

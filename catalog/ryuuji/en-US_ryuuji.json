@@ -1,5 +1,9 @@
 {
     "title": "Ryuuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19262.jpg",
+        "alt": "ryuuji"
+    },
     "type": "manga",
     "original_name": "龍時",
     "start_date": "2005-03-17",

@@ -1,5 +1,9 @@
 {
     "title": "Donketsu Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234191.jpg",
+        "alt": "donketsu-gaiden"
+    },
     "type": "manga",
     "original_name": "ドンケツ外伝",
     "start_date": "2013-04-08",

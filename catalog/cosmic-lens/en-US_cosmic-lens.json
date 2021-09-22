@@ -1,5 +1,9 @@
 {
     "title": "Cosmic Lens",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200460.jpg",
+        "alt": "cosmic-lens"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

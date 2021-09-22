@@ -1,5 +1,9 @@
 {
     "title": "Kururinpa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16090.jpg",
+        "alt": "kururinpa"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "くるりんぱっ!",

@@ -1,5 +1,9 @@
 {
     "title": "To Attract a Junior",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40188.jpg",
+        "alt": "to-attract-a-junior"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "한살연하 유혹하기",

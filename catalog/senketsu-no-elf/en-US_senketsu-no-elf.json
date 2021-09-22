@@ -1,5 +1,9 @@
 {
     "title": "Senketsu no Elf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177578.jpg",
+        "alt": "senketsu-no-elf"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "鮮血のエルフ",

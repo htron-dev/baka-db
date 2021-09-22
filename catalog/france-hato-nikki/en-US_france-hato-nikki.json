@@ -1,5 +1,9 @@
 {
     "title": "France Hato Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245257.jpg",
+        "alt": "france-hato-nikki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

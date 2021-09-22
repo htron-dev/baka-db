@@ -1,5 +1,9 @@
 {
     "title": "Houtou Kizoku wo Aishitara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228843.jpg",
+        "alt": "houtou-kizoku-wo-aishitara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "放蕩貴族を愛したら",

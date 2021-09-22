@@ -1,5 +1,9 @@
 {
     "title": "K: Ao no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170197.jpg",
+        "alt": "k-ao-no-jikenbo"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "K 青の事件簿",

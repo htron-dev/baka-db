@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Kiss Shite Ii desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28646.jpg",
+        "alt": "sensei-kiss-shite-ii-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

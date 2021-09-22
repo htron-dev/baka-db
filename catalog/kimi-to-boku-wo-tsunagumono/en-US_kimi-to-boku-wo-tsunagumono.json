@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Boku wo Tsunagumono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33858.jpg",
+        "alt": "kimi-to-boku-wo-tsunagumono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

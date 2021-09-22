@@ -1,5 +1,9 @@
 {
     "title": "Hyakujuu Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22431.jpg",
+        "alt": "hyakujuu-kingdom"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

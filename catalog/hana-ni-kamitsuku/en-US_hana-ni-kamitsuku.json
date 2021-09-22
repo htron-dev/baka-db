@@ -1,5 +1,9 @@
 {
     "title": "Hana ni, Kamitsuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165654.jpg",
+        "alt": "hana-ni-kamitsuku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

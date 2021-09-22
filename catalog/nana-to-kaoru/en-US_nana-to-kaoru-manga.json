@@ -1,5 +1,9 @@
 {
     "title": "Nana to Kaoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188984.jpg",
+        "alt": "nana-to-kaoru"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "160",

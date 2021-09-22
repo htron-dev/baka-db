@@ -1,5 +1,9 @@
 {
     "title": "Yuusha Exkaiser",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1471/92206.jpg",
+        "alt": "yuusha-exkaiser"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "勇者エクスカイザー",

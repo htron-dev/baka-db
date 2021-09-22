@@ -1,5 +1,9 @@
 {
     "title": "Petit Clover Advance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1752/101126.jpg",
+        "alt": "petit-clover-advance"
+    },
     "type": "special",
     "original_name": "プチット・クローバー あどばんす",
     "start_date": "2018-02-23",

@@ -1,5 +1,9 @@
 {
     "title": "Yozakura Quartet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/74266.jpg",
+        "alt": "yozakura-quartet"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "夜桜四重奏 ～ヨザクラカルテット～",

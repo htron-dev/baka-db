@@ -1,5 +1,9 @@
 {
     "title": "Jimoto ga Japan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/214050.jpg",
+        "alt": "jimoto-ga-japan"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "61",

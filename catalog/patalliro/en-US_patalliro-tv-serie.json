@@ -1,12 +1,16 @@
 {
     "title": "Patalliro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/56443.jpg",
+        "alt": "patalliro"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "パタリロ！",
     "start_date": "1982-04-09",
     "end_date": "1982-04-09",
     "opening_song": "\"Patalliro!\" by Fusako Fujimoto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Utsukushisa wa Tsumi\" by Eri Takeda (eps 1-20)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

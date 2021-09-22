@@ -1,5 +1,9 @@
 {
     "title": "Bus Hashiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181327.jpg",
+        "alt": "bus-hashiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

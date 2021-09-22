@@ -1,5 +1,9 @@
 {
     "title": "Kamen Rider Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185784.jpg",
+        "alt": "kamen-rider-black"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "23",

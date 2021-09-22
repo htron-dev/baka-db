@@ -1,5 +1,9 @@
 {
     "title": "Homura-sensei wa Tabun Motenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233788.jpg",
+        "alt": "homura-sensei-wa-tabun-motenai"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ほむら先生はたぶんモテない",

@@ -1,5 +1,9 @@
 {
     "title": "Boku wo Warui Ko ni Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206373.jpg",
+        "alt": "boku-wo-warui-ko-ni-shite"
+    },
     "type": "manga",
     "original_name": "僕を悪い子にして",
     "start_date": "2017-05-30",

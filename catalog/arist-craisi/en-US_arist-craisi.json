@@ -1,5 +1,9 @@
 {
     "title": "Arist Craisi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159872.jpg",
+        "alt": "arist-craisi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "アリストクライシ",

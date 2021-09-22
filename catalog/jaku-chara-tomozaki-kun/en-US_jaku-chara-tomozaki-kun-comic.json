@@ -1,5 +1,9 @@
 {
     "title": "Jaku-Chara Tomozaki-kun Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209980.jpg",
+        "alt": "jaku-chara-tomozaki-kun-comic"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

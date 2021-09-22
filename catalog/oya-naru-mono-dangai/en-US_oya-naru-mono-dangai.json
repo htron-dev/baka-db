@@ -1,5 +1,9 @@
 {
     "title": "Oya Naru Mono Dangai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179373.jpg",
+        "alt": "oya-naru-mono-dangai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

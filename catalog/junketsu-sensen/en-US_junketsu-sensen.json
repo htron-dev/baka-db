@@ -1,5 +1,9 @@
 {
     "title": "Junketsu Sensen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194334.jpg",
+        "alt": "junketsu-sensen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

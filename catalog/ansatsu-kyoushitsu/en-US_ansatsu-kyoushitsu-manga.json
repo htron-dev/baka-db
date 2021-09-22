@@ -1,5 +1,9 @@
 {
     "title": "Ansatsu Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243932.jpg",
+        "alt": "ansatsu-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "187",

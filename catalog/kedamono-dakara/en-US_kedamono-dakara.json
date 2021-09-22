@@ -1,5 +1,9 @@
 {
     "title": "Kedamono Dakara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59017.jpg",
+        "alt": "kedamono-dakara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ケダモノだから。",

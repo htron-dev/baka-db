@@ -1,5 +1,9 @@
 {
     "title": "Nozo x Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78073.jpg",
+        "alt": "nozo-x-kimi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "63",

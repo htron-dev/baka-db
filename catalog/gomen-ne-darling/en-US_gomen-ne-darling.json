@@ -1,5 +1,9 @@
 {
     "title": "Gomen ne Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136773.jpg",
+        "alt": "gomen-ne-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

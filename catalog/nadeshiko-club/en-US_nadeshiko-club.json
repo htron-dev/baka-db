@@ -1,5 +1,9 @@
 {
     "title": "Nadeshiko Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25130.jpg",
+        "alt": "nadeshiko-club"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

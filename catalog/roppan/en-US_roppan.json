@@ -1,5 +1,9 @@
 {
     "title": "Roppan!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81868.jpg",
+        "alt": "roppan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

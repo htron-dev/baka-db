@@ -1,5 +1,9 @@
 {
     "title": "Teen Spirit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27272.jpg",
+        "alt": "teen-spirit"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Good Morning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70839.jpg",
+        "alt": "good-morning"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

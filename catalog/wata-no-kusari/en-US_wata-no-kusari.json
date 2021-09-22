@@ -1,5 +1,9 @@
 {
     "title": "Wata no Kusari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5917.jpg",
+        "alt": "wata-no-kusari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

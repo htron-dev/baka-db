@@ -1,5 +1,9 @@
 {
     "title": "The Passion of Gengoroh Tagame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87615.jpg",
+        "alt": "the-passion-of-gengoroh-tagame"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

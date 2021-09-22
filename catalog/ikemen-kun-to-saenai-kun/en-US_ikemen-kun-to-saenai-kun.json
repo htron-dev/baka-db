@@ -1,5 +1,9 @@
 {
     "title": "Ikemen-kun to Saenai-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34865.jpg",
+        "alt": "ikemen-kun-to-saenai-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

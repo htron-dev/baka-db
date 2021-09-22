@@ -1,5 +1,9 @@
 {
     "title": "Vinland Saga Season 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1833/116404.jpg",
+        "alt": "vinland-saga-season-2"
+    },
     "type": "tv-serie",
     "original_name": "ヴィンランド・サガ SEASON2",
     "rating": "R - 17+ (violence & profanity)",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Vinland_Saga_(manga"
+            "link": "https://en.wikipedia.org/wiki/Vinland_Saga_%28manga%29#Anime"
         }
     ]
 }

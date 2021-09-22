@@ -1,5 +1,9 @@
 {
     "title": "Chinatsu no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175689.jpg",
+        "alt": "chinatsu-no-uta"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

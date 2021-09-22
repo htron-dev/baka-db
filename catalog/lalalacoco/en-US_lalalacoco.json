@@ -1,5 +1,9 @@
 {
     "title": "Lalalacoco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1171/108294.jpg",
+        "alt": "lalalacoco"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "LALALACOCO",

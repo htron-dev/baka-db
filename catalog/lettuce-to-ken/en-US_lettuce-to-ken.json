@@ -1,5 +1,9 @@
 {
     "title": "Lettuce to Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28597.jpg",
+        "alt": "lettuce-to-ken"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "レタスと剣",

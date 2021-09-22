@@ -1,5 +1,9 @@
 {
     "title": "Inu Koi Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/86725.jpg",
+        "alt": "inu-koi-series"
+    },
     "type": "manga",
     "original_name": "「犬恋」シリーズ",
     "tags": [

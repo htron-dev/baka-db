@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Anoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96315.jpg",
+        "alt": "kawaii-anoko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "可愛いあの子",

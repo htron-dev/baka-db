@@ -1,5 +1,9 @@
 {
     "title": "Okama Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/28453.jpg",
+        "alt": "okama-hakusho"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "おカマ白書",

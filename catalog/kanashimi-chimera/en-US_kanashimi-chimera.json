@@ -1,5 +1,9 @@
 {
     "title": "Kanashimi Chimera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164980.jpg",
+        "alt": "kanashimi-chimera"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "哀しみキメラ",

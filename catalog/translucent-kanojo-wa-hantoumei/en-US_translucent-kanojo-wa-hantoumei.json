@@ -1,5 +1,9 @@
 {
     "title": "Translucent: Kanojo wa Hantoumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/708.jpg",
+        "alt": "translucent-kanojo-wa-hantoumei"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

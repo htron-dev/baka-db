@@ -1,5 +1,9 @@
 {
     "title": "Versailles no Bara Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13142.jpg",
+        "alt": "versailles-no-bara-gaiden"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

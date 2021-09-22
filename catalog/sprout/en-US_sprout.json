@@ -1,5 +1,9 @@
 {
     "title": "Sprout",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10457.jpg",
+        "alt": "sprout"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

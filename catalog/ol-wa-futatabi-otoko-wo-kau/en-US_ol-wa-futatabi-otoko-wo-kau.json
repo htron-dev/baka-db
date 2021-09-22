@@ -1,5 +1,9 @@
 {
     "title": "OL wa Futatabi Otoko wo Kau.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128191.jpg",
+        "alt": "ol-wa-futatabi-otoko-wo-kau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

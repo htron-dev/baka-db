@@ -1,5 +1,9 @@
 {
     "title": "Aa toka Uu shika Ienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246040.jpg",
+        "alt": "aa-toka-uu-shika-ienai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

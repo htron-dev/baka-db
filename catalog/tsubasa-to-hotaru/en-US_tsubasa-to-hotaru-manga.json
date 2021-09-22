@@ -1,5 +1,9 @@
 {
     "title": "Tsubasa to Hotaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168284.jpg",
+        "alt": "tsubasa-to-hotaru"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "55",

@@ -1,5 +1,9 @@
 {
     "title": "Prefect no Hakoniwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237291.jpg",
+        "alt": "prefect-no-hakoniwa"
+    },
     "type": "manga",
     "original_name": "プリフェクトの箱庭",
     "start_date": "2018-12-29",

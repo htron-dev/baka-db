@@ -1,5 +1,9 @@
 {
     "title": "Tatamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/64973.jpg",
+        "alt": "tatamp"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "TATAMP",

@@ -1,5 +1,9 @@
 {
     "title": "Nishi no Yoki Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140421.jpg",
+        "alt": "nishi-no-yoki-majo"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "39",

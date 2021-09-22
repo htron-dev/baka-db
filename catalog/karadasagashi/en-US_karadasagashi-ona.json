@@ -1,5 +1,9 @@
 {
     "title": "Karadasagashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/87141.jpg",
+        "alt": "karadasagashi"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "カラダ探し",

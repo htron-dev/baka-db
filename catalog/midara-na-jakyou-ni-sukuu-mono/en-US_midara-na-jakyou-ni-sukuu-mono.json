@@ -1,5 +1,9 @@
 {
     "title": "Midara na Jakyou ni Sukuu Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222265.jpg",
+        "alt": "midara-na-jakyou-ni-sukuu-mono"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

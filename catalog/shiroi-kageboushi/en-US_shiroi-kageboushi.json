@@ -1,5 +1,9 @@
 {
     "title": "Shiroi Kageboushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156163.jpg",
+        "alt": "shiroi-kageboushi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "白い影法師",

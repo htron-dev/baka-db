@@ -1,5 +1,9 @@
 {
     "title": "Karesen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228101.jpg",
+        "alt": "karesen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

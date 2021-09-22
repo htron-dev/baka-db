@@ -1,5 +1,9 @@
 {
     "title": "Freudstein no Futago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220964.jpg",
+        "alt": "freudstein-no-futago"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

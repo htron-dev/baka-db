@@ -1,5 +1,9 @@
 {
     "title": "Iyagi Yeohaeng",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1551/114508.jpg",
+        "alt": "iyagi-yeohaeng"
+    },
     "type": "tv-serie",
     "episodes": "96",
     "original_name": "이야기여행",

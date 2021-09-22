@@ -1,5 +1,9 @@
 {
     "title": "Watashitachi wa Douka shiteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194771.jpg",
+        "alt": "watashitachi-wa-douka-shiteiru"
+    },
     "type": "manga",
     "original_name": "私たちはどうかしている",
     "start_date": "2016-12-01",

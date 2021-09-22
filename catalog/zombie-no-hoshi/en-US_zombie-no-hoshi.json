@@ -1,5 +1,9 @@
 {
     "title": "Zombie no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226947.jpg",
+        "alt": "zombie-no-hoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Inma no Kuni no Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193920.jpg",
+        "alt": "inma-no-kuni-no-alice"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

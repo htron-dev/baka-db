@@ -1,12 +1,16 @@
 {
     "title": "Saint Beast: Seijuu Kourin-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/23705.jpg",
+        "alt": "saint-beast-seijuu-kourin-hen"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "セイント・ビースト～聖獣降臨編～",
     "start_date": "2003-05-08",
     "end_date": "2003-05-08",
     "opening_song": "\"Seinaru Kemonotachi\" by Hiroshi Kitadani",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Owaranai Yume no Hitotoki\" by Toshiyuki Morikawa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

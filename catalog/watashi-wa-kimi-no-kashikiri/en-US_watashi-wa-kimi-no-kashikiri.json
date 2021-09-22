@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Kimi no Kashikiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193490.jpg",
+        "alt": "watashi-wa-kimi-no-kashikiri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

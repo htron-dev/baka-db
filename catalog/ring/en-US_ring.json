@@ -1,5 +1,9 @@
 {
     "title": "Ring",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153094.jpg",
+        "alt": "ring"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

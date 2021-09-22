@@ -1,5 +1,9 @@
 {
     "title": "Pop in Q",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1720/107397.jpg",
+        "alt": "pop-in-q"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポッピン Q",

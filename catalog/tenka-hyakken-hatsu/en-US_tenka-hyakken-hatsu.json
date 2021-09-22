@@ -1,5 +1,9 @@
 {
     "title": "Tenka Hyakken: Hatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202675.jpg",
+        "alt": "tenka-hyakken-hatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

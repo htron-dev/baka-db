@@ -1,5 +1,9 @@
 {
     "title": "Musume. Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13123.jpg",
+        "alt": "musume-monogatari"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "26",

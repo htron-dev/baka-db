@@ -1,5 +1,9 @@
 {
     "title": "Trattoria Yamiichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152765.jpg",
+        "alt": "trattoria-yamiichi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi mo Mata, Otaku da toshitemo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176941.jpg",
+        "alt": "kimi-mo-mata-otaku-da-toshitemo"
+    },
     "type": "light-novel",
     "original_name": "キミもまた、偽恋〈オタク〉だとしても。",
     "start_date": "2016-05-25",

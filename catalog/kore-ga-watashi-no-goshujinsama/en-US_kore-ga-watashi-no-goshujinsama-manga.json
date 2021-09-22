@@ -1,5 +1,9 @@
 {
     "title": "Kore ga Watashi no Goshujinsama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56039.jpg",
+        "alt": "kore-ga-watashi-no-goshujinsama"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

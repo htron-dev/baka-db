@@ -1,5 +1,9 @@
 {
     "title": "Pawa Kuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36662.jpg",
+        "alt": "pawa-kuri"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "パワくり",

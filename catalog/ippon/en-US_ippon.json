@@ -1,5 +1,9 @@
 {
     "title": "Ippon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214598.jpg",
+        "alt": "ippon"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "124",

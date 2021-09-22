@@ -1,5 +1,9 @@
 {
     "title": "Cold Fever",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30520.jpg",
+        "alt": "cold-fever"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

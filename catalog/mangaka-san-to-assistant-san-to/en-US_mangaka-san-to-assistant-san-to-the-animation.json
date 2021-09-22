@@ -1,12 +1,16 @@
 {
     "title": "Mangaka-san to Assistant-san to The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/62219.jpg",
+        "alt": "mangaka-san-to-assistant-san-to-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "マンガ家さんとアシスタントさんと THE ANIMATION",
     "start_date": "2014-04-08",
     "end_date": "2014-04-08",
     "opening_song": "\"Junsui na Fujunbutsu (純粋なフジュンブツ)\" by StylipS",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Spica.\" by StylipS (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

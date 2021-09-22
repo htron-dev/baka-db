@@ -1,5 +1,9 @@
 {
     "title": "Kokoro Toshokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/21207.jpg",
+        "alt": "kokoro-toshokan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ココロ図書館",

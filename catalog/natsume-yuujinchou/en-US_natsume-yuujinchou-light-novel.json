@@ -1,5 +1,9 @@
 {
     "title": "Natsume Yuujinchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98121.jpg",
+        "alt": "natsume-yuujinchou"
+    },
     "type": "light-novel",
     "original_name": "小説・夏目友人帳",
     "start_date": "2013-01-04",

@@ -1,12 +1,16 @@
 {
     "title": "Kero Kero Chime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/26176.jpg",
+        "alt": "kero-kero-chime"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "ケロケロちゃいむ",
     "start_date": "1997-03-06",
     "end_date": "1997-03-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"You're the Only One\" by Love Connection (eps 1-18)",
+    "ending_song": "#1: \"Something (サムシング)\" by Miho Chikazawa (eps 1-18)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "W Change!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/48379.jpg",
+        "alt": "w-change"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "31",

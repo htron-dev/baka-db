@@ -1,5 +1,9 @@
 {
     "title": "Tadaima no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171394.jpg",
+        "alt": "tadaima-no-uta"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "31",

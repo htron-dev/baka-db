@@ -1,5 +1,9 @@
 {
     "title": "Meme Iroiro Yume no Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/53527.jpg",
+        "alt": "meme-iroiro-yume-no-tabi"
+    },
     "type": "tv-serie",
     "episodes": "127",
     "original_name": "ミームいろいろ夢の旅",

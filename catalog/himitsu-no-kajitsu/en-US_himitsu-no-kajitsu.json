@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Kajitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227279.jpg",
+        "alt": "himitsu-no-kajitsu"
+    },
     "type": "manga",
     "original_name": "秘密の果実",
     "start_date": "2019-11-07",

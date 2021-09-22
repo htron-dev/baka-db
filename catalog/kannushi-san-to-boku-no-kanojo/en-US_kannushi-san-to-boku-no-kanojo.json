@@ -1,5 +1,9 @@
 {
     "title": "Kannushi-san to Boku no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227932.jpg",
+        "alt": "kannushi-san-to-boku-no-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

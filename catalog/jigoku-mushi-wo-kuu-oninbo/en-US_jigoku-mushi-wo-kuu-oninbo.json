@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Mushi wo Kuu! Oninbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27942.jpg",
+        "alt": "jigoku-mushi-wo-kuu-oninbo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

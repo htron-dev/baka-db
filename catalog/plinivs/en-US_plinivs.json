@@ -1,5 +1,9 @@
 {
     "title": "Plinivs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150433.jpg",
+        "alt": "plinivs"
+    },
     "type": "manga",
     "original_name": "プリニウス",
     "start_date": "2013-12-18",

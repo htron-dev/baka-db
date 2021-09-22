@@ -1,12 +1,16 @@
 {
     "title": "Shirobako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1918/93511.jpg",
+        "alt": "shirobako"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "SHIROBAKO",
     "start_date": "2014-10-09",
     "end_date": "2014-10-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"I'm Sorry EXODUS (あいむそーりー EXODUS)\" by Tracy (トレイシー) (Mai Nakahara, Shizuka Itou, Ai Kayano) (ep 1)",
+    "ending_song": "#1: \"COLORFUL BOX\" by Yoko Ishida (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

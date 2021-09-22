@@ -1,5 +1,9 @@
 {
     "title": "Samayou Maboroshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235801.jpg",
+        "alt": "samayou-maboroshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

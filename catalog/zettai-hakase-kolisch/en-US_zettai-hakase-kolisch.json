@@ -1,5 +1,9 @@
 {
     "title": "Zettai Hakase Kolisch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/101341.jpg",
+        "alt": "zettai-hakase-kolisch"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Kimi no Te no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159402.jpg",
+        "alt": "sekai-wa-kimi-no-te-no-naka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

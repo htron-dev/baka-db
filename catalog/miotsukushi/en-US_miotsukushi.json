@@ -1,5 +1,9 @@
 {
     "title": "Miotsukushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196160.jpg",
+        "alt": "miotsukushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

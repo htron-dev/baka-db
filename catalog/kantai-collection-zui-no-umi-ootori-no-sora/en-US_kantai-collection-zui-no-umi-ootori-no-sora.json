@@ -1,5 +1,9 @@
 {
     "title": "Kantai Collection: Zui no Umi, Ootori no Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161636.jpg",
+        "alt": "kantai-collection-zui-no-umi-ootori-no-sora"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Kuraku Naru made Matenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114657.jpg",
+        "alt": "kuraku-naru-made-matenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

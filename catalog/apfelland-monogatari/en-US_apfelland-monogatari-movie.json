@@ -1,5 +1,9 @@
 {
     "title": "Apfelland Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/11782.jpg",
+        "alt": "apfelland-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アップフェルラント物語",

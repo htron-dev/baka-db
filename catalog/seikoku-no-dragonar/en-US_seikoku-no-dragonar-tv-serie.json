@@ -1,12 +1,16 @@
 {
     "title": "Seikoku no Dragonar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/56419.jpg",
+        "alt": "seikoku-no-dragonar"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "星刻の竜騎士",
     "start_date": "2014-04-05",
     "end_date": "2014-04-05",
     "opening_song": "\"Seiken nante Iranai (聖剣なんていらない)\" by Yui Sakakibara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"MOST Ijou no \"MOSTEST\" (MOST 以上の“MOSTEST”)\" by Eco (CV: Mariya Ise), Silvia (CV: Ayane Sakura), Rebecca (CV: Marina Inoue) (eps 1-6)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Kieta Santa-san no Boushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/58939.jpg",
+        "alt": "hello-kitty-no-kieta-santa-san-no-boushi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのきえたサンタさんの帽子",

@@ -1,5 +1,9 @@
 {
     "title": "Gate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44063.jpg",
+        "alt": "gate"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

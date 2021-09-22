@@ -1,5 +1,9 @@
 {
     "title": "Ashita no Jirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209374.jpg",
+        "alt": "ashita-no-jirou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

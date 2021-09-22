@@ -1,5 +1,9 @@
 {
     "title": "Usagi wa Seigi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234662.jpg",
+        "alt": "usagi-wa-seigi"
+    },
     "type": "manga",
     "original_name": "うさぎは正義",
     "start_date": "2016-02-23",

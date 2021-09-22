@@ -1,5 +1,9 @@
 {
     "title": "Sex Battle Royal!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123065.jpg",
+        "alt": "sex-battle-royal"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "セックス・バトルロイヤル!",

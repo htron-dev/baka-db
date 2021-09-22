@@ -1,5 +1,9 @@
 {
     "title": "Girly Air Force",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176464.jpg",
+        "alt": "girly-air-force"
+    },
     "type": "light-novel",
     "original_name": "ガーリー・エアフォース",
     "start_date": "2014-09-10",

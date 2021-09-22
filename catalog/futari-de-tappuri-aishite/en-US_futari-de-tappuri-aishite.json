@@ -1,5 +1,9 @@
 {
     "title": "Futari de Tappuri Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193650.jpg",
+        "alt": "futari-de-tappuri-aishite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

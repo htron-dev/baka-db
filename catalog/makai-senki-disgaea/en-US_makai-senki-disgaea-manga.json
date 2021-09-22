@@ -1,5 +1,9 @@
 {
     "title": "Makai Senki Disgaea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172721.jpg",
+        "alt": "makai-senki-disgaea"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Death Jam!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18197.jpg",
+        "alt": "death-jam"
+    },
     "type": "manga",
     "original_name": "내츄럴리드미컬",
     "tags": [

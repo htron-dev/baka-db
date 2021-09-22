@@ -1,5 +1,9 @@
 {
     "title": "Ookiku Furikabutte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27786.jpg",
+        "alt": "ookiku-furikabutte"
+    },
     "type": "manga",
     "original_name": "おおきく振りかぶって",
     "start_date": "2003-09-25",

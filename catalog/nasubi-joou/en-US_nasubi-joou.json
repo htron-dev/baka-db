@@ -1,5 +1,9 @@
 {
     "title": "Nasubi Joou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/175754.jpg",
+        "alt": "nasubi-joou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ナスビ女王",

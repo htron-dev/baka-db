@@ -1,5 +1,9 @@
 {
     "title": "Nichoume Rojiura Tantei Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/83897.jpg",
+        "alt": "nichoume-rojiura-tantei-kitan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "59",

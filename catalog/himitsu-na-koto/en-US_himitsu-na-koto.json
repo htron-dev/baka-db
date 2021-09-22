@@ -1,5 +1,9 @@
 {
     "title": "Himitsu na Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10428.jpg",
+        "alt": "himitsu-na-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ヒミツなこと",

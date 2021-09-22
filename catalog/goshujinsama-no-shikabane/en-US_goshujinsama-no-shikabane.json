@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama no Shikabane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226936.jpg",
+        "alt": "goshujinsama-no-shikabane"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

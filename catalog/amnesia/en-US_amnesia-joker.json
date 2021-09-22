@@ -1,5 +1,9 @@
 {
     "title": "Amnesia Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144873.jpg",
+        "alt": "amnesia-joker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

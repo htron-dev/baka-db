@@ -1,5 +1,9 @@
 {
     "title": "Kachou Fuugetsu: Touhou Project Hitori Sakuhinshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228525.jpg",
+        "alt": "kachou-fuugetsu-touhou-project-hitori-sakuhinshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

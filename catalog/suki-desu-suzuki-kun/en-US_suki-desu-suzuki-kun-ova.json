@@ -1,5 +1,9 @@
 {
     "title": "Suki Desu Suzuki-kun!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/19059.jpg",
+        "alt": "suki-desu-suzuki-kun"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "好きです鈴木くん!!",

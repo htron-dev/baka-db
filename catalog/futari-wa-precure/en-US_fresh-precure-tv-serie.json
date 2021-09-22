@@ -1,12 +1,16 @@
 {
     "title": "Fresh Precure!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/21267.jpg",
+        "alt": "fresh-precure"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "フレッシュプリキュア！",
     "start_date": "2009-02-01",
     "end_date": "2009-02-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Let's! Fresh Precure!\" by Moie Mizuki (01-25)",
+    "ending_song": "#1: \"You Make Me Happy!\" by Momoko Hayashi (eps. 01-25)",
     "rating": "G - All Ages",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Mahou Hitozuma Manami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186587.jpg",
+        "alt": "mahou-hitozuma-manami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

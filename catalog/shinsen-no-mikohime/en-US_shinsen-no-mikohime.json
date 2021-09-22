@@ -1,5 +1,9 @@
 {
     "title": "Shinsen no Mikohime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152808.jpg",
+        "alt": "shinsen-no-mikohime"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "神泉の巫女姫",

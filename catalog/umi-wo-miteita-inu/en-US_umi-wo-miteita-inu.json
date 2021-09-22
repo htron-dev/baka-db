@@ -1,5 +1,9 @@
 {
     "title": "Umi wo Miteita Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53485.jpg",
+        "alt": "umi-wo-miteita-inu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "海をみていた犬",

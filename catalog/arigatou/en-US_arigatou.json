@@ -1,5 +1,9 @@
 {
     "title": "Arigatou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22394.jpg",
+        "alt": "arigatou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "47",

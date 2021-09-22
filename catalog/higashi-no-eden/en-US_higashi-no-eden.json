@@ -1,5 +1,9 @@
 {
     "title": "Higashi no Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20167.jpg",
+        "alt": "higashi-no-eden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "東のエデン",

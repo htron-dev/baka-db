@@ -1,5 +1,9 @@
 {
     "title": "Hachimitsu ni Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151460.jpg",
+        "alt": "hachimitsu-ni-hatsukoi"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "73",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoukotsu no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120953.jpg",
+        "alt": "kyoukotsu-no-yume"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Kono Uchi de Kimi to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89275.jpg",
+        "alt": "kono-uchi-de-kimi-to"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

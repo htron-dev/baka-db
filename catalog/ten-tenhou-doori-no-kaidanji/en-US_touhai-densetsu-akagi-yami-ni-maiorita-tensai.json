@@ -1,12 +1,16 @@
 {
     "title": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/53587.jpg",
+        "alt": "touhai-densetsu-akagi-yami-ni-maiorita-tensai"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "闘牌伝説アカギ　闇に舞い降りた天才",
     "start_date": "2005-10-05",
     "end_date": "2005-10-05",
     "opening_song": "\"Nantoka Nare\" by Furuido",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Akagi\" by MAXIMUM THE HORMONE (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "game",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Akagi_(manga"
+            "link": "http://en.wikipedia.org/wiki/Akagi_%28manga%29"
         }
     ]
 }

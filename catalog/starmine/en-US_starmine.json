@@ -1,5 +1,9 @@
 {
     "title": "Starmine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202410.jpg",
+        "alt": "starmine"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "140",

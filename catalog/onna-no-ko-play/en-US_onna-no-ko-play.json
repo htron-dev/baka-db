@@ -1,5 +1,9 @@
 {
     "title": "Onna no Ko Play",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81748.jpg",
+        "alt": "onna-no-ko-play"
+    },
     "type": "manga",
     "original_name": "おんなのこプレイ",
     "start_date": "2012-07-25",

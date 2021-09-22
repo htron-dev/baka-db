@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Minna no Tanoshii Natsuyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/70981.jpg",
+        "alt": "hello-kitty-no-minna-no-tanoshii-natsuyasumi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのみんなの楽しい夏休み",

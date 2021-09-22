@@ -1,5 +1,9 @@
 {
     "title": "Tabishi Kawaran!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240370.jpg",
+        "alt": "tabishi-kawaran"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

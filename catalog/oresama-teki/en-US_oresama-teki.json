@@ -1,5 +1,9 @@
 {
     "title": "Oresama-teki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172803.jpg",
+        "alt": "oresama-teki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

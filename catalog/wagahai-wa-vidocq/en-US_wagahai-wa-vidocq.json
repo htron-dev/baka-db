@@ -1,5 +1,9 @@
 {
     "title": "Wagahai wa Vidocq",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140169.jpg",
+        "alt": "wagahai-wa-vidocq"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "わが輩はヴィドック",

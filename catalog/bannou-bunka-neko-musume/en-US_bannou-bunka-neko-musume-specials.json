@@ -1,5 +1,9 @@
 {
     "title": "Bannou Bunka Neko-Musume Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/5124.jpg",
+        "alt": "bannou-bunka-neko-musume-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "万能文化猫娘",

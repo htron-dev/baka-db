@@ -1,5 +1,9 @@
 {
     "title": "Gokudou-kun Manyuuki Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168986.jpg",
+        "alt": "gokudou-kun-manyuuki-gaiden"
+    },
     "type": "light-novel",
     "volumes": "10",
     "original_name": "ゴクドーくん漫遊記 外伝",

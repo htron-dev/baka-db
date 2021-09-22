@@ -1,12 +1,16 @@
 {
     "title": "Kakuriyo no Yadomeshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1035/95056.jpg",
+        "alt": "kakuriyo-no-yadomeshi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "かくりよの宿飯",
     "start_date": "2018-04-02",
     "end_date": "2018-04-02",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Tomoshibi no Manimani (灯火のまにまに)\" by Nao Touyama (eps 1-9, 11-14)",
+    "ending_song": "#01: \"Color (彩 -color-)\" by Manami Numakura (eps 1-2, 4, 6-7, 9-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "demons",

@@ -1,5 +1,9 @@
 {
     "title": "Manten Iroha Komachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33830.jpg",
+        "alt": "manten-iroha-komachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

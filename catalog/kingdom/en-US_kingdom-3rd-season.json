@@ -1,11 +1,15 @@
 {
     "title": "Kingdom 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1443/111830.jpg",
+        "alt": "kingdom-3rd-season"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "キングダム 第 3 シリーズ",
     "start_date": "2020-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"TOMORROW\" by BiSH",
+    "ending_song": "#1: \"Deep inside\" by waterweed",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Kingdom_(manga"
+            "link": "https://en.wikipedia.org/wiki/Kingdom_%28manga%29#Anime"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Maji! Bangai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231358.jpg",
+        "alt": "maji-bangai-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

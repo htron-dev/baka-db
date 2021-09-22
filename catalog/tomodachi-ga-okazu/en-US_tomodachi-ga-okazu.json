@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi ga Okazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159791.jpg",
+        "alt": "tomodachi-ga-okazu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Ludwig Gensoukyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120059.jpg",
+        "alt": "ludwig-gensoukyoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

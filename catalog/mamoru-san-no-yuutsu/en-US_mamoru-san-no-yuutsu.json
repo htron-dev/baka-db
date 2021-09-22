@@ -1,5 +1,9 @@
 {
     "title": "Mamoru-san no Yuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17487.jpg",
+        "alt": "mamoru-san-no-yuutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Mitsu no Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204398.jpg",
+        "alt": "mitsu-no-oukoku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "80",

@@ -1,5 +1,9 @@
 {
     "title": "Shiosai no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243152.jpg",
+        "alt": "shiosai-no-majo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

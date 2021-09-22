@@ -1,5 +1,9 @@
 {
     "title": "Material Polka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206950.jpg",
+        "alt": "material-polka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

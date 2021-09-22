@@ -1,5 +1,9 @@
 {
     "title": "The World of Golden Eggs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/20808.jpg",
+        "alt": "the-world-of-golden-eggs"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ザ・ワールド・オブ・ゴールデン・エッグス",

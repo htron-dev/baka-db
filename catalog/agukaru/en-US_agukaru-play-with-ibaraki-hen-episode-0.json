@@ -1,5 +1,9 @@
 {
     "title": "Agukaru: Play with Ibaraki-hen Episode 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/73822.jpg",
+        "alt": "agukaru-play-with-ibaraki-hen-episode-0"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "あぐかる PLAY WITH IBARAKI 編 第 0 話",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "http://+wiki: http://ja.wikipedia.org/wiki/%E3%81%82%E3%81%90%E3%81%8B%E3%82%8B"
+            "link": "http://ja.wikipedia.org/wiki/%E3%81%82%E3%81%90%E3%81%8B%E3%82%8B"
         }
     ]
 }

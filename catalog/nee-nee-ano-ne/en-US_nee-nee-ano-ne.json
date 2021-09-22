@@ -1,5 +1,9 @@
 {
     "title": "Nee Nee. Ano ne,",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200353.jpg",
+        "alt": "nee-nee-ano-ne"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

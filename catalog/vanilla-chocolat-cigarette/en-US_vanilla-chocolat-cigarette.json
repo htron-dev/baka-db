@@ -1,5 +1,9 @@
 {
     "title": "Vanilla Chocolat Cigarette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224998.jpg",
+        "alt": "vanilla-chocolat-cigarette"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

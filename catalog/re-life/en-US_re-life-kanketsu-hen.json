@@ -1,11 +1,15 @@
 {
     "title": "ReLIFE: Kanketsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1566/91061.jpg",
+        "alt": "re-life-kanketsu-hen"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ReLIFE 完結編",
     "start_date": "2018-03-21",
     "opening_song": "\"Button (ボタン)\" by PENGUIN RESEARCH (1-3)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hana (花)\" by ORANGE RANGE",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "romance",

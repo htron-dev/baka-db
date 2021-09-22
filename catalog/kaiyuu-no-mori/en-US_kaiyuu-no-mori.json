@@ -1,5 +1,9 @@
 {
     "title": "Kaiyuu no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167953.jpg",
+        "alt": "kaiyuu-no-mori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

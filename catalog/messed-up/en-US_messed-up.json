@@ -1,5 +1,9 @@
 {
     "title": "Messed Up",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240812.jpg",
+        "alt": "messed-up"
+    },
     "type": "manga",
     "original_name": "メストアップ",
     "start_date": "2021-02-05",

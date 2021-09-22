@@ -1,5 +1,9 @@
 {
     "title": "Kemono Friends: Comic à la Carte - Japari Park-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227963.jpg",
+        "alt": "kemono-friends-comic-a-la-carte-japari-park-hen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "62",

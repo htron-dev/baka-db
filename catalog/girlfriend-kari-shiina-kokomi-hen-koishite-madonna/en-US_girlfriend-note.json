@@ -1,12 +1,16 @@
 {
     "title": "Girlfriend (Note)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/82065.jpg",
+        "alt": "girlfriend-note"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "ガールフレンド(♪)",
     "start_date": "2016-10-22",
     "end_date": "2016-10-22",
     "opening_song": "\"Now On Stage!!\" by nonet",
-    "ending_song": "#1",
+    "ending_song": "#1: \"HAJI Kete Synapse Cinnamon Roll.\" by Neuron Cream Soft (eps 1-2)",
     "rating": "G - All Ages",
     "tags": [
         "music",

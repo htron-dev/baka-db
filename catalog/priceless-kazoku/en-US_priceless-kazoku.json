@@ -1,5 +1,9 @@
 {
     "title": "Priceless Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154649.jpg",
+        "alt": "priceless-kazoku"
+    },
     "type": "manga",
     "original_name": "プライスレス家族",
     "tags": [

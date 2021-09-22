@@ -1,5 +1,9 @@
 {
     "title": "Amai Hari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41660.jpg",
+        "alt": "amai-hari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

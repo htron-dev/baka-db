@@ -1,5 +1,9 @@
 {
     "title": "Shuuen no Shiori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87555.jpg",
+        "alt": "shuuen-no-shiori"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "23",

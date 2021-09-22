@@ -1,5 +1,9 @@
 {
     "title": "Yokokuhan: The Copycat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159022.jpg",
+        "alt": "yokokuhan-the-copycat"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

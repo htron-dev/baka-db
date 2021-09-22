@@ -1,5 +1,9 @@
 {
     "title": "Fate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11996.jpg",
+        "alt": "fate"
+    },
     "type": "manhwa",
     "volumes": "13",
     "original_name": "인연",

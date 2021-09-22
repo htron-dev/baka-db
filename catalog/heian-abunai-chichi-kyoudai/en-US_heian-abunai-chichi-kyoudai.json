@@ -1,5 +1,9 @@
 {
     "title": "Heian Abunai Chichi Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6060.jpg",
+        "alt": "heian-abunai-chichi-kyoudai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

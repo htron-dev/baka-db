@@ -1,5 +1,9 @@
 {
     "title": "Masuraou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10052.jpg",
+        "alt": "masuraou"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "71",

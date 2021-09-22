@@ -1,5 +1,9 @@
 {
     "title": "Qian Tongxing Jiazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1153/115357.jpg",
+        "alt": "qian-tongxing-jiazu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "千童星家族",

@@ -1,5 +1,9 @@
 {
     "title": "Isekai Yakkyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193111.jpg",
+        "alt": "isekai-yakkyoku"
+    },
     "type": "manga",
     "original_name": "異世界薬局",
     "start_date": "2016-11-19",

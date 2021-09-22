@@ -1,5 +1,9 @@
 {
     "title": "Power!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144007.jpg",
+        "alt": "power"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "44",

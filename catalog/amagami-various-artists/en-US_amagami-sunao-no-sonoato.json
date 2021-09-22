@@ -1,5 +1,9 @@
 {
     "title": "Amagami: Sunao no Sonoato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160636.jpg",
+        "alt": "amagami-sunao-no-sonoato"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

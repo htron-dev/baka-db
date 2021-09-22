@@ -1,5 +1,9 @@
 {
     "title": "Yutori-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/38359.jpg",
+        "alt": "yutori-chan"
+    },
     "type": "ona",
     "episodes": "25",
     "original_name": "ゆとりちゃん",

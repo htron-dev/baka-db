@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki na Shisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42653.jpg",
+        "alt": "usotsuki-na-shisen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

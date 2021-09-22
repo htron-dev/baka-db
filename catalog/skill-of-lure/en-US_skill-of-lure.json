@@ -1,5 +1,9 @@
 {
     "title": "Skill of Lure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155593.jpg",
+        "alt": "skill-of-lure"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "36",

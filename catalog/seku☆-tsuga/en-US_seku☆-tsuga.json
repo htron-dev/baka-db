@@ -1,5 +1,9 @@
 {
     "title": "Seku☆Tsuga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224371.jpg",
+        "alt": "seku☆-tsuga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

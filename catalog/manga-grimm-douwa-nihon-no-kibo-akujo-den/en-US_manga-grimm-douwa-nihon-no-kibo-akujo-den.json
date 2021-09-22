@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Nihon no Kibo - Akujo Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141949.jpg",
+        "alt": "manga-grimm-douwa-nihon-no-kibo-akujo-den"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

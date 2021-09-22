@@ -1,5 +1,9 @@
 {
     "title": "Jikkyou!! Izumi-kun no Koi Moyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207162.jpg",
+        "alt": "jikkyou-izumi-kun-no-koi-moyou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

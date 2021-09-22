@@ -1,5 +1,9 @@
 {
     "title": "Sono Toki made wa, Kimi no Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238306.jpg",
+        "alt": "sono-toki-made-wa-kimi-no-tomodachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

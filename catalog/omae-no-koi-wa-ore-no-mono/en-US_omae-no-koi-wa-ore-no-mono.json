@@ -1,5 +1,9 @@
 {
     "title": "Omae no Koi wa Ore no Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220475.jpg",
+        "alt": "omae-no-koi-wa-ore-no-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

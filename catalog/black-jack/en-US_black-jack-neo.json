@@ -1,5 +1,9 @@
 {
     "title": "Black Jack Neo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14919.jpg",
+        "alt": "black-jack-neo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

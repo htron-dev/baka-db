@@ -1,5 +1,9 @@
 {
     "title": "Kantoku, Neko na Ore wa Dame desu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245804.jpg",
+        "alt": "kantoku-neko-na-ore-wa-dame-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

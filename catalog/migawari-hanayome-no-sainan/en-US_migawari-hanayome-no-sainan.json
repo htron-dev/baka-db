@@ -1,5 +1,9 @@
 {
     "title": "Migawari Hanayome no Sainan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164412.jpg",
+        "alt": "migawari-hanayome-no-sainan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

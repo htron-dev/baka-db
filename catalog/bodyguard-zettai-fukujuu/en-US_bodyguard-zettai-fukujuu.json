@@ -1,5 +1,9 @@
 {
     "title": "Bodyguard Zettai Fukujuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80463.jpg",
+        "alt": "bodyguard-zettai-fukujuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

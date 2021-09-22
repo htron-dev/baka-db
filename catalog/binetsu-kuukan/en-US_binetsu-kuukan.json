@@ -1,5 +1,9 @@
 {
     "title": "Binetsu Kuukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176726.jpg",
+        "alt": "binetsu-kuukan"
+    },
     "type": "manga",
     "original_name": "微熱空間",
     "start_date": "2014-02-28",

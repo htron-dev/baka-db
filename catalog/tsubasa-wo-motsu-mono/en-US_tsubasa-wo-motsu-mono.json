@@ -1,5 +1,9 @@
 {
     "title": "Tsubasa wo Motsu Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5326.jpg",
+        "alt": "tsubasa-wo-motsu-mono"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "V.B. Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5322.jpg",
+        "alt": "v-b-rose"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "83",

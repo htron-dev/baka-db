@@ -1,12 +1,16 @@
 {
     "title": "Ranma ½",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/6441.jpg",
+        "alt": "ranma"
+    },
     "type": "tv-serie",
     "episodes": "161",
     "original_name": "らんま 1/2",
     "start_date": "1989-04-15",
     "end_date": "1989-04-15",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Jaja Uma ni Sasenai de\" by Etsuko Nishio (eps 1-18)",
+    "ending_song": "#1: \"Platonic Tsuranuite\" by Kaori Sakagami (eps 1-13).",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Doraemon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/33865.jpg",
+        "alt": "doraemon"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ドラえもん",

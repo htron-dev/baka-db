@@ -1,5 +1,9 @@
 {
     "title": "Joshiraku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122429.jpg",
+        "alt": "joshiraku"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "53",

@@ -1,5 +1,9 @@
 {
     "title": "Captain Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29157.jpg",
+        "alt": "captain-tsubasa"
+    },
     "type": "manga",
     "volumes": "37",
     "chapters": "114",

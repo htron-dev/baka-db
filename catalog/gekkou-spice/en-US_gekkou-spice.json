@@ -1,5 +1,9 @@
 {
     "title": "Gekkou Spice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10933.jpg",
+        "alt": "gekkou-spice"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

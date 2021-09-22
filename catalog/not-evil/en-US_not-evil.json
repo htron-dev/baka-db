@@ -1,5 +1,9 @@
 {
     "title": "Not Evil!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195321.jpg",
+        "alt": "not-evil"
+    },
     "type": "manga",
     "original_name": "ノットイーヴィル！",
     "start_date": "2015-06-24",

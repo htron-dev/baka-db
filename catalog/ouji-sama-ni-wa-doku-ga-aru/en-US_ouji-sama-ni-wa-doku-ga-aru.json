@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama ni wa Doku ga Aru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163932.jpg",
+        "alt": "ouji-sama-ni-wa-doku-ga-aru"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

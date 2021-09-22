@@ -1,5 +1,9 @@
 {
     "title": "Tasuuketsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228307.jpg",
+        "alt": "tasuuketsu"
+    },
     "type": "manga",
     "original_name": "多数欠",
     "start_date": "2013-09-11",

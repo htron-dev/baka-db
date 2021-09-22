@@ -1,5 +1,9 @@
 {
     "title": "Joushi no Kuse ni Namaiki da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/99035.jpg",
+        "alt": "joushi-no-kuse-ni-namaiki-da"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Aruite Ikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152632.jpg",
+        "alt": "aruite-ikou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

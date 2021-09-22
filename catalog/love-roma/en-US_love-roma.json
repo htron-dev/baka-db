@@ -1,5 +1,9 @@
 {
     "title": "Love Roma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138067.jpg",
+        "alt": "love-roma"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

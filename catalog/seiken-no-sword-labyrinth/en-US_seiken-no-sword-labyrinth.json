@@ -1,5 +1,9 @@
 {
     "title": "Seiken no Sword Labyrinth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159453.jpg",
+        "alt": "seiken-no-sword-labyrinth"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "聖剣のソードラビリンス",

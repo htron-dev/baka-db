@@ -1,5 +1,9 @@
 {
     "title": "Super Taiheiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237784.jpg",
+        "alt": "super-taiheiki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スーパー太平記",

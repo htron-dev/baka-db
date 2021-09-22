@@ -1,5 +1,9 @@
 {
     "title": "Garo: Guren no Tsuki - Yurugaro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/81488.jpg",
+        "alt": "garo-guren-no-tsuki-yurugaro"
+    },
     "type": "special",
     "episodes": "21",
     "original_name": "ゆるがろ",

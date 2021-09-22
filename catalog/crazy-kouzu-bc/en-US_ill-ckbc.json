@@ -1,11 +1,15 @@
 {
     "title": "I'll/CKBC",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/359.jpg",
+        "alt": "ill-ckbc"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "I'll/CKBC",
     "start_date": "2002-12-18",
     "end_date": "2002-12-18",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Migite\" by Ellegarden",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Yume kara, Samenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/27220.jpg",
+        "alt": "yume-kara-samenai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "夢から、さめない",

@@ -1,11 +1,15 @@
 {
     "title": "I★Chu: Halfway Through the Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1212/113946.jpg",
+        "alt": "i★-chu-halfway-through-the-idol"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アイ ★ チュウ HALFWAY THROUGH THE IDOL",
     "start_date": "2021-01-06",
     "end_date": "2021-01-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Ichiban Boshi no Uta ~Mirai no Legend Densetsu~ (一番星の歌～未来のレジェンド伝説～)\" by I★Chu (ep 1)",
     "ending_song": "\"Singing! Swinging!\" by I★Chu Leaders",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

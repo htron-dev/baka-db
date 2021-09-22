@@ -1,5 +1,9 @@
 {
     "title": "Hito no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207634.jpg",
+        "alt": "hito-no-ko"
+    },
     "type": "manga",
     "original_name": "ひとのこ",
     "start_date": "2017-08-21",

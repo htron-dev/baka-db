@@ -1,5 +1,9 @@
 {
     "title": "Dash! Kappei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1319/90363.jpg",
+        "alt": "dash-kappei"
+    },
     "type": "tv-serie",
     "episodes": "65",
     "original_name": "ダッシュ勝平",

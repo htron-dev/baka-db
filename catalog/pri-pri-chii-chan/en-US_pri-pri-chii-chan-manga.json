@@ -1,5 +1,9 @@
 {
     "title": "PriPri Chii-chan!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180508.jpg",
+        "alt": "pri-pri-chii-chan"
+    },
     "type": "manga",
     "original_name": "プリプリちぃちゃん!!",
     "start_date": "2015-03-03",

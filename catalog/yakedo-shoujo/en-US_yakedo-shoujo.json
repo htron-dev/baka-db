@@ -1,5 +1,9 @@
 {
     "title": "Yakedo Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192527.jpg",
+        "alt": "yakedo-shoujo"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "火傷少女",

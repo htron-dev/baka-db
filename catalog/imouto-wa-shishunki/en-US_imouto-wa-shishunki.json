@@ -1,5 +1,9 @@
 {
     "title": "Imouto wa Shishunki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155489.jpg",
+        "alt": "imouto-wa-shishunki"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "妹は思春期",

@@ -1,5 +1,9 @@
 {
     "title": "Kuroi Ame ni Utarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166268.jpg",
+        "alt": "kuroi-ame-ni-utarete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

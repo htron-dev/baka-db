@@ -1,5 +1,9 @@
 {
     "title": "No Guns Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161444.jpg",
+        "alt": "no-guns-life"
+    },
     "type": "manga",
     "original_name": "ノー・ガンズ・ライフ",
     "start_date": "2014-09-19",

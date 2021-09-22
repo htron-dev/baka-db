@@ -1,5 +1,9 @@
 {
     "title": "Akuma demo I Love You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9237.jpg",
+        "alt": "akuma-demo-i-love-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Mousou Fuuki Iin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35041.jpg",
+        "alt": "mousou-fuuki-iin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

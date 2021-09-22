@@ -1,5 +1,9 @@
 {
     "title": "Hibi Kore...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35786.jpg",
+        "alt": "hibi-kore"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "日々是…",

@@ -1,5 +1,9 @@
 {
     "title": "Hitsuji wo Kazoete Dokomademo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12268.jpg",
+        "alt": "hitsuji-wo-kazoete-dokomademo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

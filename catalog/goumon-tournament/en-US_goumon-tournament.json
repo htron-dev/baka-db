@@ -1,5 +1,9 @@
 {
     "title": "Goumon Tournament",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219918.jpg",
+        "alt": "goumon-tournament"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

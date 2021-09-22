@@ -1,5 +1,9 @@
 {
     "title": "Gurenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31821.jpg",
+        "alt": "gurenki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

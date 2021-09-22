@@ -1,5 +1,9 @@
 {
     "title": "Angel Clock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119427.jpg",
+        "alt": "angel-clock"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

@@ -1,12 +1,16 @@
 {
     "title": "Bungou Stray Dogs 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/88585.jpg",
+        "alt": "bungou-stray-dogs-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "文豪ストレイドッグス",
     "start_date": "2016-10-06",
     "end_date": "2016-10-06",
     "opening_song": "\"Reason Living\" by SCREEN mode (eps 2, 3, 5-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Reason Living\" by SCREEN mode (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

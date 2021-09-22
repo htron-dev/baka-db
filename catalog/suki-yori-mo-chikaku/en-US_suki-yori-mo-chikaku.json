@@ -1,5 +1,9 @@
 {
     "title": "Suki yori mo Chikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116707.jpg",
+        "alt": "suki-yori-mo-chikaku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

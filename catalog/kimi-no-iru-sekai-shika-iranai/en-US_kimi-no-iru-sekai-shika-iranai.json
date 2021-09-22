@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Iru Sekai shika Iranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42678.jpg",
+        "alt": "kimi-no-iru-sekai-shika-iranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kuro Hakubutsukan: Springald",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161363.jpg",
+        "alt": "kuro-hakubutsukan-springald"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Rokudou Juku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1349/91849.jpg",
+        "alt": "rokudou-juku"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "六道塾",

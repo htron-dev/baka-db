@@ -1,5 +1,9 @@
 {
     "title": "Submarine Super 99",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/49109.jpg",
+        "alt": "submarine-super-99"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "サブマリン スーパー９９",

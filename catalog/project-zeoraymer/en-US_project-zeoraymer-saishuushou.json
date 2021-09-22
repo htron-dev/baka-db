@@ -1,5 +1,9 @@
 {
     "title": "Project Zeoraymer Saishuushou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6522.jpg",
+        "alt": "project-zeoraymer-saishuushou"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "冥王計画〈プロジェクト〉ゼオライマー 最終章",

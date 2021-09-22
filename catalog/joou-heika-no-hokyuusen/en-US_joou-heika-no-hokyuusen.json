@@ -1,5 +1,9 @@
 {
     "title": "Joou Heika no Hokyuusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186855.jpg",
+        "alt": "joou-heika-no-hokyuusen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

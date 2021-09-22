@@ -1,5 +1,9 @@
 {
     "title": "Oruchuban Ebichu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10470.jpg",
+        "alt": "oruchuban-ebichu"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "おるちゅばんエビちゅ",

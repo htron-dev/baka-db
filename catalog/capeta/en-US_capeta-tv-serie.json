@@ -1,12 +1,16 @@
 {
     "title": "Capeta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/17667.jpg",
+        "alt": "capeta"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "カペタ",
     "start_date": "2005-10-04",
     "end_date": "2005-10-04",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Never Ever\" by Tsubasa Imai (eps 1-35)",
+    "ending_song": "#01: \"Bokura\" by BAZRA (eps 1-14)",
     "rating": "PG - Children",
     "tags": [
         "cars",

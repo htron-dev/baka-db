@@ -1,5 +1,9 @@
 {
     "title": "Yokohama Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180342.jpg",
+        "alt": "yokohama-monogatari"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "ヨコハマ物語",

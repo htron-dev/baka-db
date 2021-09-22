@@ -1,5 +1,9 @@
 {
     "title": "Don Dracula",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16628.jpg",
+        "alt": "don-dracula"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

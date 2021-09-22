@@ -1,5 +1,9 @@
 {
     "title": "Yoru mo, Hiru mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31210.jpg",
+        "alt": "yoru-mo-hiru-mo"
+    },
     "type": "manga",
     "original_name": "夜も、昼も",
     "tags": [

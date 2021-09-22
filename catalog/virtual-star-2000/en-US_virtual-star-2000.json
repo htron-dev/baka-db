@@ -1,5 +1,9 @@
 {
     "title": "Virtual Star 2000",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/58877.jpg",
+        "alt": "virtual-star-2000"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "バーチャルスター 2000",

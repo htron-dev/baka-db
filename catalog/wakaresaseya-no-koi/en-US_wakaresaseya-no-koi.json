@@ -1,5 +1,9 @@
 {
     "title": "Wakaresaseya no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66215.jpg",
+        "alt": "wakaresaseya-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

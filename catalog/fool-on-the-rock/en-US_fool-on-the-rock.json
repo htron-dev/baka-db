@@ -1,5 +1,9 @@
 {
     "title": "Fool on the Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171748.jpg",
+        "alt": "fool-on-the-rock"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

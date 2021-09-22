@@ -1,12 +1,16 @@
 {
     "title": "Nurse Angel Ririka SOS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/10506.jpg",
+        "alt": "nurse-angel-ririka-sos"
+    },
     "type": "tv-serie",
     "episodes": "35",
     "original_name": "ナースエンジェルりりかＳＯＳ",
     "start_date": "1995-07-07",
     "end_date": "1995-07-07",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Koi wo Suru Tabi ni Kizutsuki Yasuku...\" by Cuiling (eps 01-26)",
+    "ending_song": "#01: \"Ririka SOS\" by Kaori Asou (eps 01-23)",
     "rating": "PG - Children",
     "tags": [
         "drama",

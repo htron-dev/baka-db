@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Shinan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41253.jpg",
+        "alt": "hatsukoi-shinan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

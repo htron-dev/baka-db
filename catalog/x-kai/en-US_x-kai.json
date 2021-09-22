@@ -1,5 +1,9 @@
 {
     "title": "X: Kai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21386.jpg",
+        "alt": "x-kai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

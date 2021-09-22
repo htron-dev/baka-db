@@ -1,5 +1,9 @@
 {
     "title": "Papa wa Warumono!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13804.jpg",
+        "alt": "papa-wa-warumono"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "パパは悪者!?",

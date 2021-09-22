@@ -1,12 +1,16 @@
 {
     "title": "Black Cat (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1485/110010.jpg",
+        "alt": "black-cat-tv"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "ブラックキャット",
     "start_date": "2005-10-07",
     "end_date": "2005-10-07",
     "opening_song": "\"Daia no Hana\" by Yorico",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Namidaboshi\" by PUPPYPET (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

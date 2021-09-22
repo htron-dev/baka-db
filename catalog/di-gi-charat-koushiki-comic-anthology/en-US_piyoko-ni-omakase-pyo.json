@@ -1,5 +1,9 @@
 {
     "title": "Piyoko ni Omakase pyo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/57029.jpg",
+        "alt": "piyoko-ni-omakase-pyo"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "ぴよこにおまかせぴょ！",

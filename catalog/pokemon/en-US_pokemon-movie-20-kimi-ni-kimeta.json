@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Movie 20: Kimi ni Kimeta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/85787.jpg",
+        "alt": "pokemon-movie-20-kimi-ni-kimeta"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版ポケットモンスター キミにきめた！",

@@ -1,5 +1,9 @@
 {
     "title": "The Experiment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72929.jpg",
+        "alt": "the-experiment"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "The Experiment",

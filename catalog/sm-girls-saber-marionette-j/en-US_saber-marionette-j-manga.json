@@ -1,5 +1,9 @@
 {
     "title": "Saber Marionette J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138531.jpg",
+        "alt": "saber-marionette-j"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

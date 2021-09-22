@@ -1,5 +1,9 @@
 {
     "title": "Iroha wa Renge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156305.jpg",
+        "alt": "iroha-wa-renge"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "いろはにれんげ",

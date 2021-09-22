@@ -1,5 +1,9 @@
 {
     "title": "Kanojo-iro no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205810.jpg",
+        "alt": "kanojo-iro-no-kanojo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Yoake Mae ni Shinu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222068.jpg",
+        "alt": "yoake-mae-ni-shinu"
+    },
     "type": "manga",
     "original_name": "夜明け前に死ぬ",
     "start_date": "2019-02-28",

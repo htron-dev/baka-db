@@ -1,5 +1,9 @@
 {
     "title": "Bannou Kanteishi Q no Tanteitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/107619.jpg",
+        "alt": "bannou-kanteishi-q-no-tanteitan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "38",

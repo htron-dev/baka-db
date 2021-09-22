@@ -1,5 +1,9 @@
 {
     "title": "Maji! II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231361.jpg",
+        "alt": "maji-ii"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "44",

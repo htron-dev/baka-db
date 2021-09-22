@@ -1,5 +1,9 @@
 {
     "title": "Shin Angyo Onshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/23992.jpg",
+        "alt": "shin-angyo-onshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "新暗行御史",

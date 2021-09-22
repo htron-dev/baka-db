@@ -1,12 +1,16 @@
 {
     "title": "Maoyuu Maou Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/46041.jpg",
+        "alt": "maoyuu-maou-yuusha"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "まおゆう魔王勇者",
     "start_date": "2013-01-05",
     "end_date": "2013-01-05",
     "opening_song": "\"Mukai Kaze (向かい風)\" by YOHKO (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Unknown Vision\" by Akino Arai (eps 1-10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

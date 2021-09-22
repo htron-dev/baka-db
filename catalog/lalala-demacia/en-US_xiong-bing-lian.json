@@ -1,5 +1,9 @@
 {
     "title": "Xiong Bing Lian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1809/91541.jpg",
+        "alt": "xiong-bing-lian"
+    },
     "type": "ona",
     "episodes": "33",
     "original_name": "雄兵连",

@@ -1,5 +1,9 @@
 {
     "title": "Buchou Shima Kousaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129001.jpg",
+        "alt": "buchou-shima-kousaku"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "163",

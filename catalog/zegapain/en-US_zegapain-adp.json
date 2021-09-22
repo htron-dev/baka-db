@@ -1,5 +1,9 @@
 {
     "title": "Zegapain ADP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/81701.jpg",
+        "alt": "zegapain-adp"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゼーガペイン ADP",

@@ -1,5 +1,9 @@
 {
     "title": "Yajikita in Deep",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248088.jpg",
+        "alt": "yajikita-in-deep"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "57",

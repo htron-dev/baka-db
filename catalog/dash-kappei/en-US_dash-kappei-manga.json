@@ -1,5 +1,9 @@
 {
     "title": "Dash! Kappei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227039.jpg",
+        "alt": "dash-kappei"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "157",

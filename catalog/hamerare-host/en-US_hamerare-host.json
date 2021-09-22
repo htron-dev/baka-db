@@ -1,5 +1,9 @@
 {
     "title": "Hamerare Host",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177069.jpg",
+        "alt": "hamerare-host"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

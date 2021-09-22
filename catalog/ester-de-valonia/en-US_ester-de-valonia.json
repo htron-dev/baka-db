@@ -1,5 +1,9 @@
 {
     "title": "Ester De Valonia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241666.jpg",
+        "alt": "ester-de-valonia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

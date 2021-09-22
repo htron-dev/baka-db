@@ -1,5 +1,9 @@
 {
     "title": "Military! Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/73505.jpg",
+        "alt": "military-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "みりたり!",

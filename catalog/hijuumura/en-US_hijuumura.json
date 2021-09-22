@@ -1,5 +1,9 @@
 {
     "title": "Hijuumura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247538.jpg",
+        "alt": "hijuumura"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Hello! Sandybell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/42653.jpg",
+        "alt": "hello-sandybell"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "ハロー！サンディベル",

@@ -1,5 +1,9 @@
 {
     "title": "Magical†Death Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160777.jpg",
+        "alt": "magical-death-game"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "24",

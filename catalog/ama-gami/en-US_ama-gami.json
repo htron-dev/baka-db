@@ -1,5 +1,9 @@
 {
     "title": "Ama-gami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35796.jpg",
+        "alt": "ama-gami"
+    },
     "type": "manga",
     "volumes": "2",
     "start_date": "2009-03-02",

@@ -1,5 +1,9 @@
 {
     "title": "Brotherhood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199952.jpg",
+        "alt": "brotherhood"
+    },
     "type": "manga",
     "original_name": "ブラザーフッド",
     "start_date": "2016-05-08",

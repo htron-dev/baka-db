@@ -1,5 +1,9 @@
 {
     "title": "Poguri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63343.jpg",
+        "alt": "poguri"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ポグリ",

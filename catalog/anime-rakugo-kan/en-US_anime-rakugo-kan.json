@@ -1,5 +1,9 @@
 {
     "title": "Anime Rakugo Kan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/24102.jpg",
+        "alt": "anime-rakugo-kan"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "アニメ落語館",

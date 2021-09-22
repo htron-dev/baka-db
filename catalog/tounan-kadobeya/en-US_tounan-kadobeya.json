@@ -1,5 +1,9 @@
 {
     "title": "Tounan Kadobeya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139589.jpg",
+        "alt": "tounan-kadobeya"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "東南角部屋",

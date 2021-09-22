@@ -1,5 +1,9 @@
 {
     "title": "Blue Ramun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4412.jpg",
+        "alt": "blue-ramun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

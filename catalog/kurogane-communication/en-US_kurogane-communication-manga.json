@@ -1,5 +1,9 @@
 {
     "title": "Kurogane Communication",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206888.jpg",
+        "alt": "kurogane-communication"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

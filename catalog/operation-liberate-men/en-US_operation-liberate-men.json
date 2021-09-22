@@ -1,5 +1,9 @@
 {
     "title": "Operation Liberate Men",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4884.jpg",
+        "alt": "operation-liberate-men"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "남성해방 대작전",

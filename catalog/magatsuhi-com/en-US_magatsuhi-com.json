@@ -1,5 +1,9 @@
 {
     "title": "Magatsuhi.com",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37160.jpg",
+        "alt": "magatsuhi-com"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

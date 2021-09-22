@@ -1,5 +1,9 @@
 {
     "title": "Golden Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53253.jpg",
+        "alt": "golden-boy"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "104",

@@ -1,5 +1,9 @@
 {
     "title": "Konna Watashi ni Kitai Shinaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245340.jpg",
+        "alt": "konna-watashi-ni-kitai-shinaide"
+    },
     "type": "manga",
     "original_name": "こんな私に期待しないデ",
     "start_date": "2020-08-27",

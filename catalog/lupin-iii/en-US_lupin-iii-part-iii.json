@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Part III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1441/100440.jpg",
+        "alt": "lupin-iii-part-iii"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ルパン三世 - Part III",

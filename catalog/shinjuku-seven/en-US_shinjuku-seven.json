@@ -1,5 +1,9 @@
 {
     "title": "Shinjuku Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245678.jpg",
+        "alt": "shinjuku-seven"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "94",

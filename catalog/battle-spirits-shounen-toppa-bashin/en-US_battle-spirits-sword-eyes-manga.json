@@ -1,5 +1,9 @@
 {
     "title": "Battle Spirits: Sword Eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143767.jpg",
+        "alt": "battle-spirits-sword-eyes"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

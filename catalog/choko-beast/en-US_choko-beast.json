@@ -1,5 +1,9 @@
 {
     "title": "Choko Beast!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115369.jpg",
+        "alt": "choko-beast"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "CHOKO・ビースト!!",

@@ -1,5 +1,9 @@
 {
     "title": "Damatte Manga Kaite Kudasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209891.jpg",
+        "alt": "damatte-manga-kaite-kudasai"
+    },
     "type": "manga",
     "original_name": "黙って漫画描いてくださいっ！",
     "start_date": "2016-01-08",

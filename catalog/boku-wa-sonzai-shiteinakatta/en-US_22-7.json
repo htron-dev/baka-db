@@ -1,12 +1,16 @@
 {
     "title": "22/7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1485/108385.jpg",
+        "alt": "22-7"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "22/7",
     "start_date": "2020-01-11",
     "end_date": "2020-01-11",
     "opening_song": "\"Muzui (ムズイ)\" by 22/7",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sora no Emerald (空のエメラルド)\" by 22/7 (eps 1-2, 10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music"
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/22/7_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/22/7_%28TV_series%29"
         }
     ]
 }

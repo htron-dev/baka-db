@@ -1,5 +1,9 @@
 {
     "title": "Boku no Adelia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245192.jpg",
+        "alt": "boku-no-adelia"
+    },
     "type": "manga",
     "original_name": "ぼくのアデリア",
     "start_date": "2021-04-26",

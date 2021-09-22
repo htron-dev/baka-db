@@ -1,5 +1,9 @@
 {
     "title": "Ouran Koukou Host Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/19240.jpg",
+        "alt": "ouran-koukou-host-club"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "87",

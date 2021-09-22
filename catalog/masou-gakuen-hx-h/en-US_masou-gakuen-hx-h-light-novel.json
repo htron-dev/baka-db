@@ -1,5 +1,9 @@
 {
     "title": "Masou Gakuen HxH",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210964.jpg",
+        "alt": "masou-gakuen-hx-h"
+    },
     "type": "light-novel",
     "volumes": "14",
     "chapters": "85",

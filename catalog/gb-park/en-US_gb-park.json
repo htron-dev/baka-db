@@ -1,5 +1,9 @@
 {
     "title": "GB Park",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60559.jpg",
+        "alt": "gb-park"
+    },
     "type": "manga",
     "chapters": "25",
     "original_name": "GB パーク",

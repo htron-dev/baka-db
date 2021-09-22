@@ -1,5 +1,9 @@
 {
     "title": "Shinai naru Koroshiya-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215404.jpg",
+        "alt": "shinai-naru-koroshiya-sama"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

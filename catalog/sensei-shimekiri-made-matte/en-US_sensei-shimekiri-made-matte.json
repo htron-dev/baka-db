@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Shimekiri made Matte!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204790.jpg",
+        "alt": "sensei-shimekiri-made-matte"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

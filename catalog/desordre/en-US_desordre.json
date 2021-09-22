@@ -1,5 +1,9 @@
 {
     "title": "Désordre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207023.jpg",
+        "alt": "desordre"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

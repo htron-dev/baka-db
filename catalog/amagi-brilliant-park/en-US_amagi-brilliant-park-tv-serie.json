@@ -1,5 +1,9 @@
 {
     "title": "Amagi Brilliant Park",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85435.jpg",
+        "alt": "amagi-brilliant-park"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "甘城ブリリアントパーク",

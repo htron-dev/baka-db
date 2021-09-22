@@ -1,5 +1,9 @@
 {
     "title": "Kaihou no Jumon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22711.jpg",
+        "alt": "kaihou-no-jumon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "解放の呪文",

@@ -1,5 +1,9 @@
 {
     "title": "Warui Otona Mihon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59173.jpg",
+        "alt": "warui-otona-mihon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

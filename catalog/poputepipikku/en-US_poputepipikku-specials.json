@@ -1,5 +1,9 @@
 {
     "title": "Poputepipikku Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1444/92651.jpg",
+        "alt": "poputepipikku-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ポプテピピック 【映像特典】",

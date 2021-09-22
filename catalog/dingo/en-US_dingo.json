@@ -1,5 +1,9 @@
 {
     "title": "Dingo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45381.jpg",
+        "alt": "dingo"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "ディンゴ",

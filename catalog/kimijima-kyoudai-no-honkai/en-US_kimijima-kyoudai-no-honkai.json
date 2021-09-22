@@ -1,5 +1,9 @@
 {
     "title": "Kimijima Kyoudai no Honkai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225003.jpg",
+        "alt": "kimijima-kyoudai-no-honkai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

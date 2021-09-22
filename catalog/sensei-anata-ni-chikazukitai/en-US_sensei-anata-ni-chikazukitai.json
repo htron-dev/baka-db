@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Anata ni Chikazukitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222188.jpg",
+        "alt": "sensei-anata-ni-chikazukitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

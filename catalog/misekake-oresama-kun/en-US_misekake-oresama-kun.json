@@ -1,5 +1,9 @@
 {
     "title": "Misekake Oresama-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231110.jpg",
+        "alt": "misekake-oresama-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

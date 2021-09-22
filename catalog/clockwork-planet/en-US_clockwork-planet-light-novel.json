@@ -1,5 +1,9 @@
 {
     "title": "Clockwork Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132635.jpg",
+        "alt": "clockwork-planet"
+    },
     "type": "light-novel",
     "original_name": "クロックワーク・プラネット",
     "start_date": "2013-04-02",

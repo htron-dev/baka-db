@@ -1,5 +1,9 @@
 {
     "title": "Mahoujin Guruguru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198207.jpg",
+        "alt": "mahoujin-guruguru"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "168",

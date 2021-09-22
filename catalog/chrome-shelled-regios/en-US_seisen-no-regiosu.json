@@ -1,11 +1,15 @@
 {
     "title": "Seisen no regiosu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244747.jpg",
+        "alt": "seisen-no-regiosu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",
+    "original_name": "聖戦のレギオス",
     "start_date": "2011-09-17",
     "end_date": "2011-09-17",
-    "original_name": "聖戦のレギオス",
     "tags": [
         "sci-fi"
     ],

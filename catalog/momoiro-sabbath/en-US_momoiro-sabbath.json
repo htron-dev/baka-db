@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Sabbath",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/38050.jpg",
+        "alt": "momoiro-sabbath"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "桃色サバス",

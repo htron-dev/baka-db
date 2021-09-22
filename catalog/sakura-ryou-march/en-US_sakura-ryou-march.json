@@ -1,5 +1,9 @@
 {
     "title": "Sakura Ryou March",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118657.jpg",
+        "alt": "sakura-ryou-march"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

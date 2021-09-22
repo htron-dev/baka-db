@@ -1,5 +1,9 @@
 {
     "title": "Field Trip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84347.jpg",
+        "alt": "field-trip"
+    },
     "type": "manhwa",
     "original_name": "필드 트립",
     "start_date": "2012-04-20",

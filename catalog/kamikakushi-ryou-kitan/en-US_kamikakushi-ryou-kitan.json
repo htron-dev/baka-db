@@ -1,5 +1,9 @@
 {
     "title": "Kamikakushi Ryou Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59051.jpg",
+        "alt": "kamikakushi-ryou-kitan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

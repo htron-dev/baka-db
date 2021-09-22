@@ -1,5 +1,9 @@
 {
     "title": "A New Journey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1549/98385.jpg",
+        "alt": "a-new-journey"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "A New Journey",

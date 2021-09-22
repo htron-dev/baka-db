@@ -1,5 +1,9 @@
 {
     "title": "Usawaltz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/78346.jpg",
+        "alt": "usawaltz"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "USAWALTZ",

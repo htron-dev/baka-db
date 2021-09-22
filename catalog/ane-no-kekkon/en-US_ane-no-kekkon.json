@@ -1,5 +1,9 @@
 {
     "title": "Ane no Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41661.jpg",
+        "alt": "ane-no-kekkon"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "48",

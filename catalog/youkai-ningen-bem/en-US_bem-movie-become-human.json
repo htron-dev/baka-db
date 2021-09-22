@@ -1,5 +1,9 @@
 {
     "title": "Bem Movie: Become Human",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1078/108925.jpg",
+        "alt": "bem-movie-become-human"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 BEM 〜BECOME HUMAN〜",

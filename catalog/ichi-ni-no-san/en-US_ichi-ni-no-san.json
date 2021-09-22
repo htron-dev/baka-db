@@ -1,5 +1,9 @@
 {
     "title": "Ichi Ni no San!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85387.jpg",
+        "alt": "ichi-ni-no-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

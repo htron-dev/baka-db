@@ -1,12 +1,16 @@
 {
     "title": "Time Bokan 24",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82232.jpg",
+        "alt": "time-bokan-24"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "タイムボカン 24",
     "start_date": "2016-10-01",
     "end_date": "2016-10-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Fantastic Time\" by Hey! Say! JUMP (eps 1-13)",
+    "ending_song": "#1: \"TRUE LOVE\" by Ai Shinozaki (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

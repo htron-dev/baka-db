@@ -1,5 +1,9 @@
 {
     "title": "Bud Boy Bangai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194171.jpg",
+        "alt": "bud-boy-bangai-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

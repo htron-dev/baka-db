@@ -1,5 +1,9 @@
 {
     "title": "Haruyuki Bus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9376.jpg",
+        "alt": "haruyuki-bus"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Of Mf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19019.jpg",
+        "alt": "of-mf"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

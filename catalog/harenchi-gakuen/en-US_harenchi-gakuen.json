@@ -1,5 +1,9 @@
 {
     "title": "Harenchi Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185611.jpg",
+        "alt": "harenchi-gakuen"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "ハレンチ学園",

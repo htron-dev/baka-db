@@ -1,5 +1,9 @@
 {
     "title": "Romantica Clock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179832.jpg",
+        "alt": "romantica-clock"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "53",

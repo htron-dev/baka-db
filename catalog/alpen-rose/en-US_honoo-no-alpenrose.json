@@ -1,11 +1,15 @@
 {
     "title": "Honoo no Alpenrose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/30729.jpg",
+        "alt": "honoo-no-alpenrose"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ドラマチックメモリー 炎のアルペンローゼ",
     "start_date": "1986-02-15",
     "end_date": "1986-02-15",
-    "opening_song": "\"Yume no Tsubasa",
+    "opening_song": "\"Yume no Tsubasa: Alpen Rose (夢の翼~アルペンローゼ~)\" by Konii",
     "ending_song": "\"Yancha na Angel (やんちゃなエンジェル)\" by Konii",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

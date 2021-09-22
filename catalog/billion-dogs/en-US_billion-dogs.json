@@ -1,5 +1,9 @@
 {
     "title": "Billion Dogs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128605.jpg",
+        "alt": "billion-dogs"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "70",

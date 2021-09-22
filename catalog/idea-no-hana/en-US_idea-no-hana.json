@@ -1,5 +1,9 @@
 {
     "title": "Idea no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154726.jpg",
+        "alt": "idea-no-hana"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

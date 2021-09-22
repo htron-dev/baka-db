@@ -1,5 +1,9 @@
 {
     "title": "Arina no Tane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91313.jpg",
+        "alt": "arina-no-tane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "42",

@@ -1,5 +1,9 @@
 {
     "title": "Hokuto no Ken - Juuza Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37606.jpg",
+        "alt": "hokuto-no-ken-juuza-gaiden"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

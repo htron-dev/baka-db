@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Taka wa Tsume wo Kakusu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189107.jpg",
+        "alt": "koisuru-taka-wa-tsume-wo-kakusu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

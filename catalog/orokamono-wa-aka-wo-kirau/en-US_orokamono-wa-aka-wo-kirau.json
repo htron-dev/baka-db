@@ -1,5 +1,9 @@
 {
     "title": "Orokamono wa Aka wo Kirau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/65291.jpg",
+        "alt": "orokamono-wa-aka-wo-kirau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

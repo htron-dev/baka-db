@@ -1,5 +1,9 @@
 {
     "title": "Ingoku ni Ochita Kunoichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199361.jpg",
+        "alt": "ingoku-ni-ochita-kunoichi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "淫獄に堕ちたくノ一",

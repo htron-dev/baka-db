@@ -1,5 +1,9 @@
 {
     "title": "Seitokai wa Megami wo Sagashiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230521.jpg",
+        "alt": "seitokai-wa-megami-wo-sagashiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

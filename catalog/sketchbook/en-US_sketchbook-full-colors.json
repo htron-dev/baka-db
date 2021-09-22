@@ -1,12 +1,16 @@
 {
     "title": "Sketchbook: Full Color's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/14706.jpg",
+        "alt": "sketchbook-full-colors"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "スケッチブック ～ full color's ～",
     "start_date": "2007-10-02",
     "end_date": "2007-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kaze Sagashi (風さがし)\" by Natsumi Kiyoura (eps 01-11, 13)",
+    "ending_song": "#1: \"Sketchbook o Motta mama (スケッチブックを持ったまま)\" by Yui Makino (eps 01-12)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Sketchbook_(manga"
+            "link": "http://en.wikipedia.org/wiki/Sketchbook_%28manga%29"
         }
     ]
 }

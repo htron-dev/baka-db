@@ -1,5 +1,9 @@
 {
     "title": "Sarision",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34387.jpg",
+        "alt": "sarision"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

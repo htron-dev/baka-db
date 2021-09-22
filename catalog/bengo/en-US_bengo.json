@@ -1,5 +1,9 @@
 {
     "title": "Bengo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182657.jpg",
+        "alt": "bengo"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "BENGO!",

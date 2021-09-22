@@ -1,5 +1,9 @@
 {
     "title": "Kyokou Suiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167329.jpg",
+        "alt": "kyokou-suiri"
+    },
     "type": "manga",
     "original_name": "虚構推理",
     "start_date": "2015-04-20",

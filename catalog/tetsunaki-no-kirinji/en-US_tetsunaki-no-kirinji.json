@@ -1,5 +1,9 @@
 {
     "title": "Tetsunaki no Kirinji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165304.jpg",
+        "alt": "tetsunaki-no-kirinji"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "42",

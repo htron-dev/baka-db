@@ -1,5 +1,9 @@
 {
     "title": "Bakudan! - Bakumatsu Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/73149.jpg",
+        "alt": "bakudan-bakumatsu-danshi"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ばくだん!～幕末男子～",

@@ -1,5 +1,9 @@
 {
     "title": "Aizawa-san Zoushoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188837.jpg",
+        "alt": "aizawa-san-zoushoku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "39",

@@ -1,12 +1,16 @@
 {
     "title": "Sora no Method",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/62485.jpg",
+        "alt": "sora-no-method"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "天体のメソッド",
     "start_date": "2014-10-05",
     "end_date": "2014-10-05",
     "opening_song": "\"Stargazer\" by Larval Stage Planning",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hoshikuzu no Interlude (星屑のインターリュード)\" by fhána (eps 1-6, 8-10, 12-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

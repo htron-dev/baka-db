@@ -1,5 +1,9 @@
 {
     "title": "Jarinko Chie (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/77065.jpg",
+        "alt": "jarinko-chie-tv"
+    },
     "type": "tv-serie",
     "episodes": "64",
     "original_name": "じゃりン子チエ",

@@ -1,5 +1,9 @@
 {
     "title": "Rifle Is Beautiful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201996.jpg",
+        "alt": "rifle-is-beautiful"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "180",

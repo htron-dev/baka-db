@@ -1,5 +1,9 @@
 {
     "title": "Reijou wa Mattari wo Goshomou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230018.jpg",
+        "alt": "reijou-wa-mattari-wo-goshomou"
+    },
     "type": "light-novel",
     "original_name": "令嬢はまったりをご所望。",
     "start_date": "2018-03-29",

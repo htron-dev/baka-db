@@ -1,5 +1,9 @@
 {
     "title": "Tenshi ni Narumon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1671/94180.jpg",
+        "alt": "tenshi-ni-narumon"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "天使になるもんっ！",

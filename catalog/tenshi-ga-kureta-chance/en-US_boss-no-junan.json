@@ -1,5 +1,9 @@
 {
     "title": "Boss no Junan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227487.jpg",
+        "alt": "boss-no-junan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ボスの受難",

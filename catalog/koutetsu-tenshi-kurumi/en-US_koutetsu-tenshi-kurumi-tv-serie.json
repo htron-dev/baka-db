@@ -1,12 +1,16 @@
 {
     "title": "Koutetsu Tenshi Kurumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1036/97570.jpg",
+        "alt": "koutetsu-tenshi-kurumi"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "鋼鉄天使くるみ",
     "start_date": "1999-10-05",
     "end_date": "1999-10-05",
     "opening_song": "\"Kiss Kara Hajimaru Miracle\" by Steel Angels (eps.1-23)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Eien no Kotetsu Tenshi\" by Steel Angels (eps.1-23)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "9S? SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128229.jpg",
+        "alt": "9-s-ss"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,12 +1,16 @@
 {
     "title": "Nogizaka Haruka no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/56965.jpg",
+        "alt": "nogizaka-haruka-no-himitsu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "乃木坂春香の秘密",
     "start_date": "2008-07-03",
     "end_date": "2008-07-03",
     "opening_song": "\"Tomadoi Bitter Tune (とまどいビターチューン)\" by Miran Himemiya and Chocolate Rockers",
-    "ending_song": "\"Hitosashiyubi Quiet! (ひとさしゆびクワイエット!)\" by N's",
+    "ending_song": "\"Hitosashiyubi Quiet! (ひとさしゆびクワイエット!)\" by N's: Kana Ueda, Mai Goto, Rina Satou, Kaori Shimizu, Mamiko Noto",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

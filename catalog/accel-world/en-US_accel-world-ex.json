@@ -1,12 +1,16 @@
 {
     "title": "Accel World EX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/41815.jpg",
+        "alt": "accel-world-ex"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "アクセル・ワールド EX",
     "start_date": "2012-09-13",
     "end_date": "2012-09-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Chase the world\" by May'n (ep 1)",
+    "ending_song": "#1: \"→unfinished→\" by KOTOKO (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

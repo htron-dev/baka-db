@@ -1,5 +1,9 @@
 {
     "title": "Homunculus no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114535.jpg",
+        "alt": "homunculus-no-musume"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

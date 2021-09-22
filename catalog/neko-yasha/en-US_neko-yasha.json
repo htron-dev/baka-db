@@ -1,5 +1,9 @@
 {
     "title": "Neko Yasha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40034.jpg",
+        "alt": "neko-yasha"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "猫夜叉",

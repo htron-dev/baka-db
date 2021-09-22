@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam SEED",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/733.jpg",
+        "alt": "mobile-suit-gundam-seed"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

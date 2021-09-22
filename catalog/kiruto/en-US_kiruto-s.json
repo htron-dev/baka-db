@@ -1,5 +1,9 @@
 {
     "title": "Kiruto S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164800.jpg",
+        "alt": "kiruto-s"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "53",

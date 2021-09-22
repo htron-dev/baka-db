@@ -1,5 +1,9 @@
 {
     "title": "Kokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150759.jpg",
+        "alt": "kokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

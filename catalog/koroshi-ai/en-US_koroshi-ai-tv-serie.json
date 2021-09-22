@@ -1,5 +1,9 @@
 {
     "title": "Koroshi Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1959/116458.jpg",
+        "alt": "koroshi-ai"
+    },
     "type": "tv-serie",
     "original_name": "殺し愛",
     "rating": "None",

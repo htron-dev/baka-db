@@ -1,5 +1,9 @@
 {
     "title": "Yami no Tenkuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39008.jpg",
+        "alt": "yami-no-tenkuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

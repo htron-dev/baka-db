@@ -1,5 +1,9 @@
 {
     "title": "Pokémon 4Koma: Gold and Silver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80063.jpg",
+        "alt": "pokemon-4-koma-gold-and-silver"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ポケモン 4 コマ大百科 金・銀",

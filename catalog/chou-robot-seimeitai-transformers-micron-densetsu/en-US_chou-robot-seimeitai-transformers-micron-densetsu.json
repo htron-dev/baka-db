@@ -1,12 +1,16 @@
 {
     "title": "Chou Robot Seimeitai Transformers Micron Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1231/104729.jpg",
+        "alt": "chou-robot-seimeitai-transformers-micron-densetsu"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "超ロボット生命体トランスフォーマー マイクロン伝説",
     "start_date": "2003-01-10",
     "end_date": "2003-01-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Dream Again\" by Psychic Lover",
+    "ending_song": "#1: \"Never Ending Road\" by Psychic Lover",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Oniichan.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20959.jpg",
+        "alt": "boku-wa-oniichan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

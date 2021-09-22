@@ -1,5 +1,9 @@
 {
     "title": "Nanumu no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/84973.jpg",
+        "alt": "nanumu-no-ie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ナヌムの家",

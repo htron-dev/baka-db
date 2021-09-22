@@ -1,5 +1,9 @@
 {
     "title": "House Of The Horror",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21396.jpg",
+        "alt": "house-of-the-horror"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

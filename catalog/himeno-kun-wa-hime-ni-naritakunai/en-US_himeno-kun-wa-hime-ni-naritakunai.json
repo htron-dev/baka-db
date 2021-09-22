@@ -1,5 +1,9 @@
 {
     "title": "Himeno-kun wa Hime ni Naritakunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245029.jpg",
+        "alt": "himeno-kun-wa-hime-ni-naritakunai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

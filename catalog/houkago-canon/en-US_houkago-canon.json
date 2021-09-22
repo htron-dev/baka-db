@@ -1,5 +1,9 @@
 {
     "title": "Houkago Canon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150574.jpg",
+        "alt": "houkago-canon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

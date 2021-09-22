@@ -1,5 +1,9 @@
 {
     "title": "Godeath: Megami no Ketsumyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169213.jpg",
+        "alt": "godeath-megami-no-ketsumyaku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

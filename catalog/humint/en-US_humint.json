@@ -1,5 +1,9 @@
 {
     "title": "Humint",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205771.jpg",
+        "alt": "humint"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

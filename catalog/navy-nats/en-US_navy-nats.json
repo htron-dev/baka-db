@@ -1,5 +1,9 @@
 {
     "title": "Navy Nats!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67675.jpg",
+        "alt": "navy-nats"
+    },
     "type": "manga",
     "original_name": "ネイビー ☆NATS！",
     "start_date": "2010-07-05",

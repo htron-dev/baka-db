@@ -1,5 +1,9 @@
 {
     "title": "Mirai Kara no Message",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/74556.jpg",
+        "alt": "mirai-kara-no-message"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "未来からのメッセージ",

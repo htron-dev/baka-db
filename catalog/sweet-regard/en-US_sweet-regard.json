@@ -1,5 +1,9 @@
 {
     "title": "Sweet Regard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13152.jpg",
+        "alt": "sweet-regard"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

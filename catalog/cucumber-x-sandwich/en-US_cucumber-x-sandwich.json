@@ -1,5 +1,9 @@
 {
     "title": "Cucumber x Sandwich",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26581.jpg",
+        "alt": "cucumber-x-sandwich"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kenma Kensou Kensei Kenbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172792.jpg",
+        "alt": "kenma-kensou-kensei-kenbu"
+    },
     "type": "light-novel",
     "original_name": "剣魔剣奏剣聖剣舞",
     "start_date": "2016-02-25",

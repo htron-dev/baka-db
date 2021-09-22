@@ -1,5 +1,9 @@
 {
     "title": "Aegis in the Dark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76265.jpg",
+        "alt": "aegis-in-the-dark"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "264",

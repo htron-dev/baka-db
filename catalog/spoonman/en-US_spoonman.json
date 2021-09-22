@@ -1,5 +1,9 @@
 {
     "title": "Spoonman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147823.jpg",
+        "alt": "spoonman"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スプーンマン",

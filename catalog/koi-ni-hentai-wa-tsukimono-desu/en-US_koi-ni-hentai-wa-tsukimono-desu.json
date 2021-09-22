@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Hentai wa Tsukimono desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241786.jpg",
+        "alt": "koi-ni-hentai-wa-tsukimono-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

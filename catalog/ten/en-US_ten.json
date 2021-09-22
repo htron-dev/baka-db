@@ -1,5 +1,9 @@
 {
     "title": "Ten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/71327.jpg",
+        "alt": "ten"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "点",

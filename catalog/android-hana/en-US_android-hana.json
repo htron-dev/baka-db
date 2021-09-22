@@ -1,5 +1,9 @@
 {
     "title": "Android HANA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37045.jpg",
+        "alt": "android-hana"
+    },
     "type": "manga",
     "tags": [
         "comedy",

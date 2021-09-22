@@ -1,5 +1,9 @@
 {
     "title": "Seinen 14-sai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33572.jpg",
+        "alt": "seinen-14-sai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

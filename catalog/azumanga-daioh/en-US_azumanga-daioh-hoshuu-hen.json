@@ -1,5 +1,9 @@
 {
     "title": "Azumanga Daioh: Hoshuu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19903.jpg",
+        "alt": "azumanga-daioh-hoshuu-hen"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "あずまんが大王 補習編",

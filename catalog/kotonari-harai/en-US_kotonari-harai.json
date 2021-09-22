@@ -1,5 +1,9 @@
 {
     "title": "Kotonari Harai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144665.jpg",
+        "alt": "kotonari-harai"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "ことなり祓い",

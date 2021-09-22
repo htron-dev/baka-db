@@ -1,5 +1,9 @@
 {
     "title": "Onara Gorou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/79963.jpg",
+        "alt": "onara-gorou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "おなら吾郎",

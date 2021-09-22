@@ -1,5 +1,9 @@
 {
     "title": "Buddha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/941.jpg",
+        "alt": "buddha"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "66",

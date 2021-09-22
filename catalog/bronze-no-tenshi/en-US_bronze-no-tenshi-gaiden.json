@@ -1,5 +1,9 @@
 {
     "title": "Bronze no Tenshi Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151360.jpg",
+        "alt": "bronze-no-tenshi-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

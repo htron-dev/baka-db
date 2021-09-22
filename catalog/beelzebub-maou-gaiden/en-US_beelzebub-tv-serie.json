@@ -1,12 +1,16 @@
 {
     "title": "Beelzebub",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/28013.jpg",
+        "alt": "beelzebub"
+    },
     "type": "tv-serie",
     "episodes": "60",
     "original_name": "べるぜバブ",
     "start_date": "2011-01-09",
     "end_date": "2011-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Dadada\" by GROUP Tamashii (eps 1-10)",
+    "ending_song": "#1: \"Answer\" by NO3B (eps 1-10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

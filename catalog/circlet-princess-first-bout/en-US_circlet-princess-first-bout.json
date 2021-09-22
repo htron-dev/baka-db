@@ -1,5 +1,9 @@
 {
     "title": "Circlet Princess: First Bout",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215504.jpg",
+        "alt": "circlet-princess-first-bout"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

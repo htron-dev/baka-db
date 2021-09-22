@@ -1,5 +1,9 @@
 {
     "title": "Hero Shigan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179522.jpg",
+        "alt": "hero-shigan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

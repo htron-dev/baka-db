@@ -1,5 +1,9 @@
 {
     "title": "F",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204736.jpg",
+        "alt": "f"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "329",

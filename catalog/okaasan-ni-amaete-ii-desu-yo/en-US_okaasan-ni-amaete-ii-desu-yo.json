@@ -1,5 +1,9 @@
 {
     "title": "Okaasan ni Amaete Ii desu yo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203901.jpg",
+        "alt": "okaasan-ni-amaete-ii-desu-yo"
+    },
     "type": "light-novel",
     "original_name": "年下寮母〈おかーさん〉に甘えていいですよ？",
     "start_date": "2017-11-17",

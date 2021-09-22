@@ -1,5 +1,9 @@
 {
     "title": "101-ninme no Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150999.jpg",
+        "alt": "101-ninme-no-alice"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "101 人目のアリス",

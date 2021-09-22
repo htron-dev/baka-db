@@ -1,5 +1,9 @@
 {
     "title": "Zeitaku na Mi no Ue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151135.jpg",
+        "alt": "zeitaku-na-mi-no-ue"
+    },
     "type": "light-novel",
     "original_name": "贅沢な身の上",
     "start_date": "2011-06-01",

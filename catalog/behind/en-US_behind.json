@@ -1,5 +1,9 @@
 {
     "title": "Behind",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23140.jpg",
+        "alt": "behind"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ビハインド",

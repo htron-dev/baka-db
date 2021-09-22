@@ -1,5 +1,9 @@
 {
     "title": "Go! Go! Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32146.jpg",
+        "alt": "go-go-heaven"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

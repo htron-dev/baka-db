@@ -1,5 +1,9 @@
 {
     "title": "Kimi wo Shinryaku Seyo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219207.jpg",
+        "alt": "kimi-wo-shinryaku-seyo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

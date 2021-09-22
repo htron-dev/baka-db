@@ -1,5 +1,9 @@
 {
     "title": "7-gatsu no Mahou Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83426.jpg",
+        "alt": "7-gatsu-no-mahou-tsukai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

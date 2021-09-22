@@ -1,5 +1,9 @@
 {
     "title": "Kanchigai, Tokidoki Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217573.jpg",
+        "alt": "kanchigai-tokidoki-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

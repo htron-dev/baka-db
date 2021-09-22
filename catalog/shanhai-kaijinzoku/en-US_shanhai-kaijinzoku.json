@@ -1,5 +1,9 @@
 {
     "title": "Shanhai Kaijinzoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45341.jpg",
+        "alt": "shanhai-kaijinzoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

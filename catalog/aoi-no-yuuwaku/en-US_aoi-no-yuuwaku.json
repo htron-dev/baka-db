@@ -1,5 +1,9 @@
 {
     "title": "Aoi no Yuuwaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/56215.jpg",
+        "alt": "aoi-no-yuuwaku"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "碧いの誘惑",

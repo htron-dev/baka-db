@@ -1,5 +1,9 @@
 {
     "title": "Ouke no Monshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195439.jpg",
+        "alt": "ouke-no-monshou"
+    },
     "type": "manga",
     "original_name": "王家の紋章",
     "start_date": "1976-07-19",

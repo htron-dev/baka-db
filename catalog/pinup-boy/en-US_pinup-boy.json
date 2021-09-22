@@ -1,5 +1,9 @@
 {
     "title": "Pinup Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181706.jpg",
+        "alt": "pinup-boy"
+    },
     "type": "manga",
     "original_name": "ピンナップボーイ",
     "start_date": "2016-06-24",

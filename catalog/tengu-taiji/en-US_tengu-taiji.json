@@ -1,5 +1,9 @@
 {
     "title": "Tengu Taiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/15841.jpg",
+        "alt": "tengu-taiji"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "天狗退治",

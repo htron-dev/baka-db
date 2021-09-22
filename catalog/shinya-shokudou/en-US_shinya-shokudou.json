@@ -1,5 +1,9 @@
 {
     "title": "Shinya Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27502.jpg",
+        "alt": "shinya-shokudou"
+    },
     "type": "manga",
     "original_name": "深夜食堂",
     "start_date": "2006-10-12",

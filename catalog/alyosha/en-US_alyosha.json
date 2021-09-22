@@ -1,5 +1,9 @@
 {
     "title": "Alyosha!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/68283.jpg",
+        "alt": "alyosha"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Boku ga Nametai no wa, Kimi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158343.jpg",
+        "alt": "boku-ga-nametai-no-wa-kimi"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "109",

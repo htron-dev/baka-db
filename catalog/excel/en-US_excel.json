@@ -1,5 +1,9 @@
 {
     "title": "Excel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6161.jpg",
+        "alt": "excel"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Hashi-hime Play Senka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151938.jpg",
+        "alt": "hashi-hime-play-senka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

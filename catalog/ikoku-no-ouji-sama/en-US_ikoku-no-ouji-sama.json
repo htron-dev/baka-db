@@ -1,5 +1,9 @@
 {
     "title": "Ikoku no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228812.jpg",
+        "alt": "ikoku-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "異国の王子さま",

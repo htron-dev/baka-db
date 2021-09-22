@@ -1,5 +1,9 @@
 {
     "title": "Kenji no Trunk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/55711.jpg",
+        "alt": "kenji-no-trunk"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "賢治のトランク",

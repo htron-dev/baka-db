@@ -1,5 +1,9 @@
 {
     "title": "The Hakkenden: Shin Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1592/92509.jpg",
+        "alt": "the-hakkenden-shin-shou"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "THE 八犬伝 新章",

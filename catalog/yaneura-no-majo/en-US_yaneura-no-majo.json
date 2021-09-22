@@ -1,5 +1,9 @@
 {
     "title": "Yaneura no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149547.jpg",
+        "alt": "yaneura-no-majo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

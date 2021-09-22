@@ -1,5 +1,9 @@
 {
     "title": "Petshop of Horrors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/64543.jpg",
+        "alt": "petshop-of-horrors"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "Pet Shop of Horrors (ペットショップ・オブ・ホラーズ)",

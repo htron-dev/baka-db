@@ -1,5 +1,9 @@
 {
     "title": "Super Beautiful Dreamers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16553.jpg",
+        "alt": "super-beautiful-dreamers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

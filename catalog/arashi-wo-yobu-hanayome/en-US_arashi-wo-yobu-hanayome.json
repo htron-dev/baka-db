@@ -1,5 +1,9 @@
 {
     "title": "Arashi wo Yobu Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191593.jpg",
+        "alt": "arashi-wo-yobu-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

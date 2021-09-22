@@ -1,5 +1,9 @@
 {
     "title": "Danshi-Kon Manual",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225024.jpg",
+        "alt": "danshi-kon-manual"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Sodatechi Maou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190004.jpg",
+        "alt": "sodatechi-maou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "161",

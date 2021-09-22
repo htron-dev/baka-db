@@ -1,5 +1,9 @@
 {
     "title": "Nono Zu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1556/115515.jpg",
+        "alt": "nono-zu"
+    },
     "type": "ona",
     "episodes": "380",
     "original_name": "喏喏族",

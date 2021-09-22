@@ -1,5 +1,9 @@
 {
     "title": "Adeotoko Shichihenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66123.jpg",
+        "alt": "adeotoko-shichihenge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

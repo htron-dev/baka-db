@@ -1,5 +1,9 @@
 {
     "title": "Tsuyoku Hakanai Monotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14005.jpg",
+        "alt": "tsuyoku-hakanai-monotachi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "強く儚い者たち",

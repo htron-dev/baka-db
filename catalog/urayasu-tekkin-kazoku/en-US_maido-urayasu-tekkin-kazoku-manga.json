@@ -1,5 +1,9 @@
 {
     "title": "Maido! Urayasu Tekkin Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46049.jpg",
+        "alt": "maido-urayasu-tekkin-kazoku"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "362",

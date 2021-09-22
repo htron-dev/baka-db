@@ -1,5 +1,9 @@
 {
     "title": "Route 225",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/40367.jpg",
+        "alt": "route-225"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

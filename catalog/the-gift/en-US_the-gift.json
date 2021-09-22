@@ -1,5 +1,9 @@
 {
     "title": "The Gift",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/87225.jpg",
+        "alt": "the-gift"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "THE GIFT",

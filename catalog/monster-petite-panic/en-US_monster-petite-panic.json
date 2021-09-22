@@ -1,5 +1,9 @@
 {
     "title": "Monster Petite Panic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152421.jpg",
+        "alt": "monster-petite-panic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

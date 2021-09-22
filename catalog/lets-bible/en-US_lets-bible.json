@@ -1,5 +1,9 @@
 {
     "title": "Let's Bible!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/10093.jpg",
+        "alt": "lets-bible"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "Let's BIBLE！",

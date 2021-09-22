@@ -1,5 +1,9 @@
 {
     "title": "Kin no Tamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190995.jpg",
+        "alt": "kin-no-tamago"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

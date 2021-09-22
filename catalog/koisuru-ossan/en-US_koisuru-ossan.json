@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Ossan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35853.jpg",
+        "alt": "koisuru-ossan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

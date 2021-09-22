@@ -1,5 +1,9 @@
 {
     "title": "Puppy, My Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63871.jpg",
+        "alt": "puppy-my-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Koibito wa Oresama Sakka!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153346.jpg",
+        "alt": "koibito-wa-oresama-sakka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋人はオレ様作家!?",

@@ -1,5 +1,9 @@
 {
     "title": "Battle Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/36619.jpg",
+        "alt": "battle-break"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "バトルブレイク",

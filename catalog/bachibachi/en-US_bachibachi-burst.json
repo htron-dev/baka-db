@@ -1,5 +1,9 @@
 {
     "title": "Bachibachi Burst",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226878.jpg",
+        "alt": "bachibachi-burst"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "109",

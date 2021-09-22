@@ -1,12 +1,16 @@
 {
     "title": "Soul Eater NOT!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61889.jpg",
+        "alt": "soul-eater-not"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ソウルイーターノット！",
     "start_date": "2014-04-09",
     "end_date": "2014-04-09",
     "opening_song": "\"monochrome\" by Dancing Dolls!!",
-    "ending_song": "\"Yuugure Happy Call (夕暮れハッピーゴー)\" by Tsugumi Harudori (CV",
+    "ending_song": "\"Yuugure Happy Call (夕暮れハッピーゴー)\" by Tsugumi Harudori (CV: Haruka Chisuga), Meme Tatane (CV: Aoi Yuuki), Anya Hepburn (CV: Saori Hayami)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

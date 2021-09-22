@@ -1,5 +1,9 @@
 {
     "title": "Ijiwaru Baasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/53517.jpg",
+        "alt": "ijiwaru-baasan"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "いじわるばあさん",

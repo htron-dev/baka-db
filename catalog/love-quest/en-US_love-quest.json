@@ -1,5 +1,9 @@
 {
     "title": "Love Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2279.jpg",
+        "alt": "love-quest"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

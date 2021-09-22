@@ -1,5 +1,9 @@
 {
     "title": "Boku no Osananajimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4674.jpg",
+        "alt": "boku-no-osananajimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

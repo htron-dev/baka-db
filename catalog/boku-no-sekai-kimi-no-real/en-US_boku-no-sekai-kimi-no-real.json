@@ -1,5 +1,9 @@
 {
     "title": "Boku no Sekai Kimi no Real",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125503.jpg",
+        "alt": "boku-no-sekai-kimi-no-real"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

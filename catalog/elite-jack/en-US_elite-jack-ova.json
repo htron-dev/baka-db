@@ -1,5 +1,9 @@
 {
     "title": "Elite Jack!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1925/107136.jpg",
+        "alt": "elite-jack"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "エリートジャック!!",

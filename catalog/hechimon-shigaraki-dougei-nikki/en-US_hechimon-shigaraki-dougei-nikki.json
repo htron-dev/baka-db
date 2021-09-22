@@ -1,5 +1,9 @@
 {
     "title": "Hechimon: Shigaraki Dougei Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208023.jpg",
+        "alt": "hechimon-shigaraki-dougei-nikki"
+    },
     "type": "manga",
     "original_name": "へちもん～信楽陶芸日記～",
     "start_date": "2018-02-08",

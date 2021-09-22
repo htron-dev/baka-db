@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Sisters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/15422.jpg",
+        "alt": "momoiro-sisters"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ももいろシスターズ",

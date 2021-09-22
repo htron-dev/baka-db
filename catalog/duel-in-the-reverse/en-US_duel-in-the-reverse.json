@@ -1,5 +1,9 @@
 {
     "title": "Duel in the Reverse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173703.jpg",
+        "alt": "duel-in-the-reverse"
+    },
     "type": "light-novel",
     "original_name": "デュエル・イン・ザ・リヴァース",
     "start_date": "2016-03-25",

@@ -1,5 +1,9 @@
 {
     "title": "Fengshen Bang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/85212.jpg",
+        "alt": "fengshen-bang"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "封神榜",

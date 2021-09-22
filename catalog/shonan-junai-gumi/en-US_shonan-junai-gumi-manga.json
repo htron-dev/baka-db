@@ -1,5 +1,9 @@
 {
     "title": "Shonan Junai Gumi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216051.jpg",
+        "alt": "shonan-junai-gumi"
+    },
     "type": "manga",
     "volumes": "31",
     "chapters": "267",

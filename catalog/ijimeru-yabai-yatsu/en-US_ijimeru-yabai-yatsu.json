@@ -1,5 +1,9 @@
 {
     "title": "Ijimeru Yabai Yatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224536.jpg",
+        "alt": "ijimeru-yabai-yatsu"
+    },
     "type": "manga",
     "original_name": "いじめるヤバイ奴",
     "start_date": "2018-08-24",

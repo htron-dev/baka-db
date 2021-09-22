@@ -1,5 +1,9 @@
 {
     "title": "Toma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21755.jpg",
+        "alt": "toma"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

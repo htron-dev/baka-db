@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Saibou Black (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1837/110799.jpg",
+        "alt": "hataraku-saibou-black-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "はたらく細胞 BLACK",

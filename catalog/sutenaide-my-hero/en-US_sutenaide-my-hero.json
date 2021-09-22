@@ -1,5 +1,9 @@
 {
     "title": "Sutenaide My Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221832.jpg",
+        "alt": "sutenaide-my-hero"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

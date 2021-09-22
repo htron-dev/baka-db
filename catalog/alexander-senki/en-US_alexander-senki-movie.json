@@ -1,5 +1,9 @@
 {
     "title": "Alexander Senki Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1831/95687.jpg",
+        "alt": "alexander-senki-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アレクサンダー戦記 劇場版",

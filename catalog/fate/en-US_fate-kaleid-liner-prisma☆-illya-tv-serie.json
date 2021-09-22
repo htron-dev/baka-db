@@ -1,12 +1,16 @@
 {
     "title": "Fate/kaleid liner Prisma☆Illya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/52603.jpg",
+        "alt": "fate-kaleid-liner-prisma☆-illya"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "Fate/kaleid liner プリズマ ☆ イリヤ",
     "start_date": "2013-07-13",
     "end_date": "2013-07-13",
     "opening_song": "\"starlog\" by ChouCho",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Prism Sympathy\" by StylipS (eps 1-8)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

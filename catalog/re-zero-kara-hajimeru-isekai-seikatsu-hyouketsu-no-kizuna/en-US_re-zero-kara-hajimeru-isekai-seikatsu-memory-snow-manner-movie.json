@@ -1,8 +1,12 @@
 {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow - Manner Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1213/101332.jpg",
+        "alt": "re-zero-kara-hajimeru-isekai-seikatsu-memory-snow-manner-movie"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "Re",
+    "original_name": "Re:ゼロから始める異世界生活 Memory Snow マナームービー",
     "start_date": "2018-10-06",
     "rating": "G - All Ages",
     "tags": [

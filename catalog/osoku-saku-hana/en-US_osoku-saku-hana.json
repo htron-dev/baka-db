@@ -1,5 +1,9 @@
 {
     "title": "Osoku Saku Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18411.jpg",
+        "alt": "osoku-saku-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

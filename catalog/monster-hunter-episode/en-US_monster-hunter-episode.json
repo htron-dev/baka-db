@@ -1,5 +1,9 @@
 {
     "title": "Monster Hunter Episode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63675.jpg",
+        "alt": "monster-hunter-episode"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

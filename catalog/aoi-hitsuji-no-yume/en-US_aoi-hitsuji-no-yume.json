@@ -1,5 +1,9 @@
 {
     "title": "Aoi Hitsuji no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168467.jpg",
+        "alt": "aoi-hitsuji-no-yume"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "35",

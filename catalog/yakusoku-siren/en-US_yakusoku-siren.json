@@ -1,5 +1,9 @@
 {
     "title": "Yakusoku Siren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19642.jpg",
+        "alt": "yakusoku-siren"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "約束サイレン",

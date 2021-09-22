@@ -1,5 +1,9 @@
 {
     "title": "Zangetsu, Kage Yokotawaru Atari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236544.jpg",
+        "alt": "zangetsu-kage-yokotawaru-atari"
+    },
     "type": "manga",
     "original_name": "残月、影横たはる辺",
     "start_date": "2019-12-24",

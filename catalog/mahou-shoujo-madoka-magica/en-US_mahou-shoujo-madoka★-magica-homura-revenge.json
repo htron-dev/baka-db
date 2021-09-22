@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Madoka★Magica: Homura Revenge!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149731.jpg",
+        "alt": "mahou-shoujo-madoka★-magica-homura-revenge"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

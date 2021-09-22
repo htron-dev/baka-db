@@ -1,5 +1,9 @@
 {
     "title": "Oyajina! ~Chinatsu to Tomoe no Baai~",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33914.jpg",
+        "alt": "oyajina-chinatsu-to-tomoe-no-baai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

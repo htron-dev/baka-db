@@ -1,5 +1,9 @@
 {
     "title": "Domestic na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196863.jpg",
+        "alt": "domestic-na-kanojo"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "292",

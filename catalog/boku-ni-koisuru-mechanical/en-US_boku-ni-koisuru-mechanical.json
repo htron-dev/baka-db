@@ -1,5 +1,9 @@
 {
     "title": "Boku ni Koisuru Mechanical",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105469.jpg",
+        "alt": "boku-ni-koisuru-mechanical"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

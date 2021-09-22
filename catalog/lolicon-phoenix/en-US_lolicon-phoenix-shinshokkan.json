@@ -1,5 +1,9 @@
 {
     "title": "Lolicon Phoenix Shinshokkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/60749.jpg",
+        "alt": "lolicon-phoenix-shinshokkan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

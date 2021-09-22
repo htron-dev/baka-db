@@ -1,5 +1,9 @@
 {
     "title": "Anta Nante Daikirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220712.jpg",
+        "alt": "anta-nante-daikirai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

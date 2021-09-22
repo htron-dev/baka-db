@@ -1,5 +1,9 @@
 {
     "title": "Schoolmate Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190136.jpg",
+        "alt": "schoolmate-kiss"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

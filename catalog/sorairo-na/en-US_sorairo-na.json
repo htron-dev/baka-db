@@ -1,5 +1,9 @@
 {
     "title": "Sorairo na",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176031.jpg",
+        "alt": "sorairo-na"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "そらいろな",

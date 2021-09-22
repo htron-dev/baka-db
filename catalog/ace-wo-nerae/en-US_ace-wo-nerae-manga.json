@@ -1,5 +1,9 @@
 {
     "title": "Ace wo Nerae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/63599.jpg",
+        "alt": "ace-wo-nerae"
+    },
     "type": "manga",
     "volumes": "18",
     "original_name": "エースをねらえ！",

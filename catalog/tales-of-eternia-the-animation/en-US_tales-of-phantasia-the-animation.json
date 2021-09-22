@@ -1,5 +1,9 @@
 {
     "title": "Tales of Phantasia The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/78319.jpg",
+        "alt": "tales-of-phantasia-the-animation"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "テイルズ オブ ファンタジア THE ANIMATION",

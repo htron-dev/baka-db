@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Kao ga Suki da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238411.jpg",
+        "alt": "kimi-no-kao-ga-suki-da"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

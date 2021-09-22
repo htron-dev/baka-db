@@ -1,5 +1,9 @@
 {
     "title": "The Snail in My House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228133.jpg",
+        "alt": "the-snail-in-my-house"
+    },
     "type": "manhwa",
     "original_name": "우리 집 우렁이는",
     "start_date": "2018-01-22",

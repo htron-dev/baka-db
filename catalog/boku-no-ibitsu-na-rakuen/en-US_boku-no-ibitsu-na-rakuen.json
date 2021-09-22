@@ -1,5 +1,9 @@
 {
     "title": "Boku no Ibitsu na Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237879.jpg",
+        "alt": "boku-no-ibitsu-na-rakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Sore wa Tabun Itoshii tte Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178907.jpg",
+        "alt": "sore-wa-tabun-itoshii-tte-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

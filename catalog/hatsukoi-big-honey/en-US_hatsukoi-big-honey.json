@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Big Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246071.jpg",
+        "alt": "hatsukoi-big-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

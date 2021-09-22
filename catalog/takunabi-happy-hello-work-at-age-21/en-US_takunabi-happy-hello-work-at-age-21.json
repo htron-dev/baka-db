@@ -1,5 +1,9 @@
 {
     "title": "Takunabi: Happy Hello Work at Age 21",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/99387.jpg",
+        "alt": "takunabi-happy-hello-work-at-age-21"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

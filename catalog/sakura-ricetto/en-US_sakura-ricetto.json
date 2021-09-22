@@ -1,5 +1,9 @@
 {
     "title": "Sakura Ricetto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40605.jpg",
+        "alt": "sakura-ricetto"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "さくらりちぇっと",

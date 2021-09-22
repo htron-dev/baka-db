@@ -1,5 +1,9 @@
 {
     "title": "Nee, Mama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201228.jpg",
+        "alt": "nee-mama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

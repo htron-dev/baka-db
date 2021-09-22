@@ -1,5 +1,9 @@
 {
     "title": "Ari &amp; Kirigirisu: Assortment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42274.jpg",
+        "alt": "ari-amp-kirigirisu-assortment"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

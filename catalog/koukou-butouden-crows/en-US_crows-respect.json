@@ -1,5 +1,9 @@
 {
     "title": "Crows Respect",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227065.jpg",
+        "alt": "crows-respect"
+    },
     "type": "manga",
     "original_name": "クローズ リスペクト",
     "start_date": "2015-11-26",

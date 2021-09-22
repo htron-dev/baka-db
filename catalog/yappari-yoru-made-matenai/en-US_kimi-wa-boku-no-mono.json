@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Boku no Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40534.jpg",
+        "alt": "kimi-wa-boku-no-mono"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

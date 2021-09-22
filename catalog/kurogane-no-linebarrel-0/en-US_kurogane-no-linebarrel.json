@@ -1,5 +1,9 @@
 {
     "title": "Kurogane no Linebarrel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188887.jpg",
+        "alt": "kurogane-no-linebarrel"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "128",

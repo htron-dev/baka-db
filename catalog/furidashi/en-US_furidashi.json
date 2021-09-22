@@ -1,5 +1,9 @@
 {
     "title": "Furidashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1956/104622.jpg",
+        "alt": "furidashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ふりだし",

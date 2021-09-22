@@ -1,5 +1,9 @@
 {
     "title": "Rakka Ryuusui no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224006.jpg",
+        "alt": "rakka-ryuusui-no-hoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

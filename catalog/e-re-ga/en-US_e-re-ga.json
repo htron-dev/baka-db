@@ -1,5 +1,9 @@
 {
     "title": "E.re.ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61463.jpg",
+        "alt": "e-re-ga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

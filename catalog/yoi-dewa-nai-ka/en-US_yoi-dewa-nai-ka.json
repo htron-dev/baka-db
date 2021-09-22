@@ -1,5 +1,9 @@
 {
     "title": "Yoi dewa Nai ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153659.jpg",
+        "alt": "yoi-dewa-nai-ka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "よいではないか",

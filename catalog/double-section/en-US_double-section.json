@@ -1,5 +1,9 @@
 {
     "title": "Double Section",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222267.jpg",
+        "alt": "double-section"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

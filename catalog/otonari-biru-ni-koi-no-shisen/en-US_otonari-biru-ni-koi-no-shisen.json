@@ -1,5 +1,9 @@
 {
     "title": "Otonari Biru ni Koi no Shisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5542.jpg",
+        "alt": "otonari-biru-ni-koi-no-shisen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

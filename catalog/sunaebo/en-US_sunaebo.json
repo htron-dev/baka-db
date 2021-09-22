@@ -1,5 +1,9 @@
 {
     "title": "Sunaebo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32727.jpg",
+        "alt": "sunaebo"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "26",

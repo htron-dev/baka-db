@@ -1,5 +1,9 @@
 {
     "title": "Pink Prisoner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7396.jpg",
+        "alt": "pink-prisoner"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

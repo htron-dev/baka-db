@@ -1,5 +1,9 @@
 {
     "title": "Gakkou Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137929.jpg",
+        "alt": "gakkou-kaidan"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "265",

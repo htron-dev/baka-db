@@ -1,5 +1,9 @@
 {
     "title": "Babelheim no Shounin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137309.jpg",
+        "alt": "babelheim-no-shounin"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

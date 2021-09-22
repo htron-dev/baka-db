@@ -1,5 +1,9 @@
 {
     "title": "Karakuri No Face",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163632.jpg",
+        "alt": "karakuri-no-face"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "カラクリ・ノーフェイス",

@@ -1,5 +1,9 @@
 {
     "title": "Let's! Haikyuu!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151837.jpg",
+        "alt": "lets-haikyuu"
+    },
     "type": "manga",
     "original_name": "れっつ! ハイキュー!?",
     "start_date": "2014-09-22",

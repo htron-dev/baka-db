@@ -1,5 +1,9 @@
 {
     "title": "Ikkitousen Will Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160666.jpg",
+        "alt": "ikkitousen-will-drive"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

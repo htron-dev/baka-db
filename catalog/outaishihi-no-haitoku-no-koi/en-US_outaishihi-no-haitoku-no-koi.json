@@ -1,5 +1,9 @@
 {
     "title": "Outaishihi no Haitoku no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181105.jpg",
+        "alt": "outaishihi-no-haitoku-no-koi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

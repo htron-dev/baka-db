@@ -1,5 +1,9 @@
 {
     "title": "Asayake no Diamond Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65143.jpg",
+        "alt": "asayake-no-diamond-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

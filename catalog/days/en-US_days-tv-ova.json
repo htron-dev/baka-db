@@ -1,5 +1,9 @@
 {
     "title": "Days (TV) OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1752/96673.jpg",
+        "alt": "days-tv-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "DAYS",

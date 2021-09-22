@@ -1,5 +1,9 @@
 {
     "title": "Agnes Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131389.jpg",
+        "alt": "agnes-kamen"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "86",

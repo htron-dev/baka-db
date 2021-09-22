@@ -1,5 +1,9 @@
 {
     "title": "Legend of the Moles: The Frozen Horror",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/72612.jpg",
+        "alt": "legend-of-the-moles-the-frozen-horror"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "摩爾莊園冰世紀",

@@ -1,5 +1,9 @@
 {
     "title": "Zubaban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240857.jpg",
+        "alt": "zubaban"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Toriko no Toriko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181475.jpg",
+        "alt": "toriko-no-toriko"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "囚の囚",

@@ -1,5 +1,9 @@
 {
     "title": "Totsugeki! Pappara-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/89027.jpg",
+        "alt": "totsugeki-pappara-tai"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "突撃! パッパラ隊",

@@ -1,12 +1,16 @@
 {
     "title": "Shoujo Kakumei Utena",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg",
+        "alt": "shoujo-kakumei-utena"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "少女革命ウテナ",
     "start_date": "1997-04-02",
     "end_date": "1997-04-02",
     "opening_song": "\"Rinbu Revolution\" by Masami Okui",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Truth\" by Luca Yumi (eps 1-24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

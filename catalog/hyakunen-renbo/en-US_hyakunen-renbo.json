@@ -1,5 +1,9 @@
 {
     "title": "Hyakunen Renbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29434.jpg",
+        "alt": "hyakunen-renbo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

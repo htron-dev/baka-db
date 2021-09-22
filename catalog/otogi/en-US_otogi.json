@@ -1,5 +1,9 @@
 {
     "title": "Otogi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225645.jpg",
+        "alt": "otogi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Ichigo 100%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51695.jpg",
+        "alt": "ichigo-100"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "167",

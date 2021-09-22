@@ -1,5 +1,9 @@
 {
     "title": "Evil Heart: Ki-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154930.jpg",
+        "alt": "evil-heart-ki-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

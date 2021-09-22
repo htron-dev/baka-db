@@ -1,5 +1,9 @@
 {
     "title": "Trap You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232325.jpg",
+        "alt": "trap-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

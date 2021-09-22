@@ -1,5 +1,9 @@
 {
     "title": "Sicilia de Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39593.jpg",
+        "alt": "sicilia-de-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "シチリアで愛して",

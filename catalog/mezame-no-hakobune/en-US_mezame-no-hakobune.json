@@ -1,5 +1,9 @@
 {
     "title": "Mezame no Hakobune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/5386.jpg",
+        "alt": "mezame-no-hakobune"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "めざめの方舟",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Loop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/24467.jpg",
+        "alt": "tokyo-loop"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "トーキョー・ループ",

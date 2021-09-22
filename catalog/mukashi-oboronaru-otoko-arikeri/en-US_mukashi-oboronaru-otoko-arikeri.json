@@ -1,5 +1,9 @@
 {
     "title": "Mukashi, Oboronaru Otoko Arikeri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36209.jpg",
+        "alt": "mukashi-oboronaru-otoko-arikeri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

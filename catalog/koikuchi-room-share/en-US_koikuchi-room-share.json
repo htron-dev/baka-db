@@ -1,5 +1,9 @@
 {
     "title": "Koikuchi Room Share",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244430.jpg",
+        "alt": "koikuchi-room-share"
+    },
     "type": "manga",
     "original_name": "こいくちルームシェア",
     "start_date": "2017-08-10",

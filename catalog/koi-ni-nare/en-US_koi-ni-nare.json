@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Nare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163638.jpg",
+        "alt": "koi-ni-nare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

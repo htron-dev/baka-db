@@ -1,12 +1,16 @@
 {
     "title": "Shigatsu wa Kimi no Uso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/67177.jpg",
+        "alt": "shigatsu-wa-kimi-no-uso"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "四月は君の嘘",
     "start_date": "2014-10-10",
     "end_date": "2014-10-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hikaru nara (光るなら)\" by Goose house (eps 1-11)",
+    "ending_song": "#1: \"Kirameki (キラメキ)\" by wacci (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

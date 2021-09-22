@@ -1,5 +1,9 @@
 {
     "title": "Dungeon Seeker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193576.jpg",
+        "alt": "dungeon-seeker"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

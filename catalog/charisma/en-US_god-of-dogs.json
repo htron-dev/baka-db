@@ -1,5 +1,9 @@
 {
     "title": "God of Dogs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11039.jpg",
+        "alt": "god-of-dogs"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "犬の王",

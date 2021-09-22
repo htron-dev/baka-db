@@ -1,5 +1,9 @@
 {
     "title": "Nemurenu Ou ni Sasagu Yogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171046.jpg",
+        "alt": "nemurenu-ou-ni-sasagu-yogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

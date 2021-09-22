@@ -1,11 +1,15 @@
 {
     "title": "Shin Hokuto no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/2901.jpg",
+        "alt": "shin-hokuto-no-ken"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "新・北斗の拳",
     "start_date": "2003-07-24",
     "end_date": "2003-07-24",
-    "opening_song": "\"Lu",
+    "opening_song": "\"Lu:Na\" by Gackt",
     "ending_song": "\"Oasis\" by Gackt",
     "rating": "R+ - Mild Nudity",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Coffee Mou Ippai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203401.jpg",
+        "alt": "coffee-mou-ippai"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "コーヒーもう一杯",

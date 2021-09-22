@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Joushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165623.jpg",
+        "alt": "watashi-no-joushi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "34",

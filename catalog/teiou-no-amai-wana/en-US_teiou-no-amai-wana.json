@@ -1,5 +1,9 @@
 {
     "title": "Teiou no Amai Wana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161821.jpg",
+        "alt": "teiou-no-amai-wana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

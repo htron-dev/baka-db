@@ -1,5 +1,9 @@
 {
     "title": "Gokuudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239726.jpg",
+        "alt": "gokuudou"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "122",

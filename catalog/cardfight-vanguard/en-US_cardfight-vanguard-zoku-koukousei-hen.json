@@ -1,5 +1,9 @@
 {
     "title": "Cardfight!! Vanguard: Zoku Koukousei-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1334/100989.jpg",
+        "alt": "cardfight-vanguard-zoku-koukousei-hen"
+    },
     "type": "tv-serie",
     "episodes": "14",
     "original_name": "CARDFIGHT!! Vanguard 続・高校生編",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!_%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!_%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89_%28%E3%82%A2%E3%83%8B%E3%83%A1%29#%E3%80%8E%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!"
         }
     ]
 }

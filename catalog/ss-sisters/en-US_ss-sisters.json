@@ -1,5 +1,9 @@
 {
     "title": "SS Sisters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158584.jpg",
+        "alt": "ss-sisters"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

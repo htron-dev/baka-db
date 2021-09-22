@@ -1,5 +1,9 @@
 {
     "title": "Hana to Sumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234836.jpg",
+        "alt": "hana-to-sumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

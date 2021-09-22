@@ -1,5 +1,9 @@
 {
     "title": "Kuromaku Oneesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36297.jpg",
+        "alt": "kuromaku-oneesan"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "黒幕お姉さん",

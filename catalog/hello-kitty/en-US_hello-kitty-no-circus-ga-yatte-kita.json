@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Circus ga Yatte Kita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/58775.jpg",
+        "alt": "hello-kitty-no-circus-ga-yatte-kita"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのサーカスがやってきた",

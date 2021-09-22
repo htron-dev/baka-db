@@ -1,5 +1,9 @@
 {
     "title": "Misoji to Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190614.jpg",
+        "alt": "misoji-to-lady"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "58",

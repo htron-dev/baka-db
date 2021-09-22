@@ -1,5 +1,9 @@
 {
     "title": "Midori no Makibao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1986/111232.jpg",
+        "alt": "midori-no-makibao"
+    },
     "type": "tv-serie",
     "episodes": "61",
     "original_name": "みどりのマキバオー",

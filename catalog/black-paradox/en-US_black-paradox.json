@@ -1,5 +1,9 @@
 {
     "title": "Black Paradox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/34929.jpg",
+        "alt": "black-paradox"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

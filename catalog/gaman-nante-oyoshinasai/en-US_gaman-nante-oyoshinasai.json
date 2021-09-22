@@ -1,5 +1,9 @@
 {
     "title": "Gaman nante Oyoshinasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246250.jpg",
+        "alt": "gaman-nante-oyoshinasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

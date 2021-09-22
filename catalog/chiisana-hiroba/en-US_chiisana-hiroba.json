@@ -1,5 +1,9 @@
 {
     "title": "Chiisana Hiroba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/94705.jpg",
+        "alt": "chiisana-hiroba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

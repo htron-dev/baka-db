@@ -1,5 +1,9 @@
 {
     "title": "Dat Revenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171749.jpg",
+        "alt": "dat-revenge"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

@@ -1,12 +1,16 @@
 {
     "title": "Magic Kaito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/46095.jpg",
+        "alt": "magic-kaito"
+    },
     "type": "special",
     "episodes": "12",
     "original_name": "まじっく快斗",
     "start_date": "2010-04-17",
     "end_date": "2010-04-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Misty Mystery\" by GARNET CROW (eps 2-6)",
+    "ending_song": "#1: \"Pilgrim (ピルグリム)\" by B'z (eps 2-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

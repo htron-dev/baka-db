@@ -1,5 +1,9 @@
 {
     "title": "Ganba! Fly High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76467.jpg",
+        "alt": "ganba-fly-high"
+    },
     "type": "manga",
     "volumes": "34",
     "original_name": "ガンバ!FLY HIGH",

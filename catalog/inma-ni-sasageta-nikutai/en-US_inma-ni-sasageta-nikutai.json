@@ -1,5 +1,9 @@
 {
     "title": "Inma ni Sasageta Nikutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198028.jpg",
+        "alt": "inma-ni-sasageta-nikutai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

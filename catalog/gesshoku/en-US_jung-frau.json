@@ -1,5 +1,9 @@
 {
     "title": "Jung Frau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38975.jpg",
+        "alt": "jung-frau"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ユングフラウ",

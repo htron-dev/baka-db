@@ -1,5 +1,9 @@
 {
     "title": "Ningen Shikkaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166769.jpg",
+        "alt": "ningen-shikkaku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

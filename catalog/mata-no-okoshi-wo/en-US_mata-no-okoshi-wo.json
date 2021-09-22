@@ -1,5 +1,9 @@
 {
     "title": "Mata no Okoshi wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222505.jpg",
+        "alt": "mata-no-okoshi-wo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

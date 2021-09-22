@@ -1,5 +1,9 @@
 {
     "title": "Warui Ko dakedo Aishite yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227053.jpg",
+        "alt": "warui-ko-dakedo-aishite-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

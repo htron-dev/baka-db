@@ -1,5 +1,9 @@
 {
     "title": "Jib",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/46023.jpg",
+        "alt": "jib"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "집",

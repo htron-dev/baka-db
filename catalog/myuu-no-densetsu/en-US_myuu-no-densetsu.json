@@ -1,5 +1,9 @@
 {
     "title": "Myuu no Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/66689.jpg",
+        "alt": "myuu-no-densetsu"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "71",

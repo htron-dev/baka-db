@@ -1,5 +1,9 @@
 {
     "title": "Kocchi no Mizu wa Amai no da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190250.jpg",
+        "alt": "kocchi-no-mizu-wa-amai-no-da"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

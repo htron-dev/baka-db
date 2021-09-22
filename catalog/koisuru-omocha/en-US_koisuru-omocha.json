@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Omocha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79379.jpg",
+        "alt": "koisuru-omocha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

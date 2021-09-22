@@ -1,5 +1,9 @@
 {
     "title": "Akadou Suzunosuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46359.jpg",
+        "alt": "akadou-suzunosuke"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "赤胴鈴之助",

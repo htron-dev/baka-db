@@ -1,5 +1,9 @@
 {
     "title": "The Devil's Trill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21540.jpg",
+        "alt": "the-devils-trill"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "4",

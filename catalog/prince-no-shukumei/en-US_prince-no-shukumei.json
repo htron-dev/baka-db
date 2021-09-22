@@ -1,5 +1,9 @@
 {
     "title": "Prince no Shukumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/84405.jpg",
+        "alt": "prince-no-shukumei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Nakittsura ni Hug",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238132.jpg",
+        "alt": "nakittsura-ni-hug"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

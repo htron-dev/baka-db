@@ -1,5 +1,9 @@
 {
     "title": "Otohime Connection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1579/112673.jpg",
+        "alt": "otohime-connection"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "乙姫 CONNECTION",

@@ -1,5 +1,9 @@
 {
     "title": "Holo no Graffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1259/110227.jpg",
+        "alt": "holo-no-graffiti"
+    },
     "type": "ona",
     "original_name": "ホロのぐらふぃてぃ",
     "start_date": "2019-05-05",

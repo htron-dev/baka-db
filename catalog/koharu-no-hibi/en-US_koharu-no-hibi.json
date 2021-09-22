@@ -1,5 +1,9 @@
 {
     "title": "Koharu no Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56255.jpg",
+        "alt": "koharu-no-hibi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

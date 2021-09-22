@@ -1,5 +1,9 @@
 {
     "title": "Dakedo, Amanojaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84465.jpg",
+        "alt": "dakedo-amanojaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "T-Rex na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157113.jpg",
+        "alt": "t-rex-na-kanojo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

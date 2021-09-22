@@ -1,12 +1,16 @@
 {
     "title": "Maria-sama ga Miteru 3rd",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75209.jpg",
+        "alt": "maria-sama-ga-miteru-3rd"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "マリア様がみてる〜３ rd〜",
     "start_date": "2006-12-29",
     "end_date": "2006-12-29",
     "opening_song": "\"pastel pure\" by Mikiya Katakura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Chercher ～シャルシェ～\" by KOTOKO (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

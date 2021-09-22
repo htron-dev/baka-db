@@ -1,5 +1,9 @@
 {
     "title": "Manga Shin-Shirakawa Genjin: Uupa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212264.jpg",
+        "alt": "manga-shin-shirakawa-genjin-uupa"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "194",

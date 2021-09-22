@@ -1,5 +1,9 @@
 {
     "title": "Suki desu Suzuki-kun!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203322.jpg",
+        "alt": "suki-desu-suzuki-kun"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "95",

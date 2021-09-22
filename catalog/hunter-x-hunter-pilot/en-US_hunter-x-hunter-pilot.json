@@ -1,5 +1,9 @@
 {
     "title": "Hunter x Hunter Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/63917.jpg",
+        "alt": "hunter-x-hunter-pilot"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハンター x ハンター",

@@ -1,5 +1,9 @@
 {
     "title": "Tanoshii Youheidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189080.jpg",
+        "alt": "tanoshii-youheidan"
+    },
     "type": "light-novel",
     "original_name": "たのしい傭兵団",
     "start_date": "2017-01-18",

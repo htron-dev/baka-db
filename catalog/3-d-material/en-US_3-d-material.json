@@ -1,5 +1,9 @@
 {
     "title": "3D Material",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20734.jpg",
+        "alt": "3-d-material"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

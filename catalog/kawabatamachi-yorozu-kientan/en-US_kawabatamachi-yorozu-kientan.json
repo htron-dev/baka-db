@@ -1,5 +1,9 @@
 {
     "title": "Kawabatamachi Yorozu Kientan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166399.jpg",
+        "alt": "kawabatamachi-yorozu-kientan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

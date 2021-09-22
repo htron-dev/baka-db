@@ -1,5 +1,9 @@
 {
     "title": "Ohayou Survive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198332.jpg",
+        "alt": "ohayou-survive"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

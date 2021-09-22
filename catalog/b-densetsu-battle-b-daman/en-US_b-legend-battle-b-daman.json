@@ -1,5 +1,9 @@
 {
     "title": "B-Legend! Battle B-Daman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/21634.jpg",
+        "alt": "b-legend-battle-b-daman"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "B-伝説(ビーレジェンド)! バトルビーダマン",

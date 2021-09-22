@@ -1,5 +1,9 @@
 {
     "title": "Full Metal Panic!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/111469.jpg",
+        "alt": "full-metal-panic"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "58",

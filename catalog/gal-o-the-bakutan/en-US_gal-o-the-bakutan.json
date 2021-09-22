@@ -1,5 +1,9 @@
 {
     "title": "Gal-O: The Bakutan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205144.jpg",
+        "alt": "gal-o-the-bakutan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

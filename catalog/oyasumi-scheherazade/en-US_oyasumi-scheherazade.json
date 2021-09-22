@@ -1,5 +1,9 @@
 {
     "title": "Oyasumi Scheherazade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222576.jpg",
+        "alt": "oyasumi-scheherazade"
+    },
     "type": "manga",
     "original_name": "おやすみシェヘラザード",
     "start_date": "2018-03-06",

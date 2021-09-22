@@ -1,12 +1,16 @@
 {
     "title": "Baki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1979/93135.jpg",
+        "alt": "baki"
+    },
     "type": "ona",
     "episodes": "26",
     "original_name": "バキ",
     "start_date": "2018-06-25",
     "end_date": "2018-06-25",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"BEASTFUL\" by GRANRODEO",
+    "ending_song": "#1: \"RESOLVE\" by Azusa Tadokoro",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

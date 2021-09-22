@@ -1,5 +1,9 @@
 {
     "title": "Kiraboshi Dial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29241.jpg",
+        "alt": "kiraboshi-dial"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

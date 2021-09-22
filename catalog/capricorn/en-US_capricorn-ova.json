@@ -1,5 +1,9 @@
 {
     "title": "Capricorn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/2954.jpg",
+        "alt": "capricorn"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "カプリコン",

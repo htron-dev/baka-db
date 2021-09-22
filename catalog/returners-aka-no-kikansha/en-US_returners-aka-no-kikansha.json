@@ -1,5 +1,9 @@
 {
     "title": "Returners: Aka no Kikansha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112629.jpg",
+        "alt": "returners-aka-no-kikansha"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

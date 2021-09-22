@@ -1,5 +1,9 @@
 {
     "title": "RPM",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237694.jpg",
+        "alt": "rpm"
+    },
     "type": "manga",
     "chapters": "31",
     "original_name": "RPM",

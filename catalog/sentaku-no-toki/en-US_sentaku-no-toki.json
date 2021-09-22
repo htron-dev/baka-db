@@ -1,5 +1,9 @@
 {
     "title": "Sentaku no Toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203156.jpg",
+        "alt": "sentaku-no-toki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

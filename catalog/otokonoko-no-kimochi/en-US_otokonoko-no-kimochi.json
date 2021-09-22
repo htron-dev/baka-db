@@ -1,5 +1,9 @@
 {
     "title": "Otokonoko no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23273.jpg",
+        "alt": "otokonoko-no-kimochi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オトコノコの気持ち",

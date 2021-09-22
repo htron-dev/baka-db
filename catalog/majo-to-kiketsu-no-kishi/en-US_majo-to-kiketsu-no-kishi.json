@@ -1,5 +1,9 @@
 {
     "title": "Majo to Kiketsu no Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191473.jpg",
+        "alt": "majo-to-kiketsu-no-kishi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "22",

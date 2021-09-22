@@ -1,12 +1,16 @@
 {
     "title": "5-toubun no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1819/97947.jpg",
+        "alt": "5-toubun-no-hanayome"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "五等分の花嫁",
     "start_date": "2019-01-11",
     "end_date": "2019-01-11",
     "opening_song": "\"Gotoubun no Kimochi (五等分の気持ち)\" by Nakanoke no Itsuzugo (中野家の五つ子) (Kana Hanazawa, Ayana Taketatsu, Miku Itou, Ayane Sakura, Inori Minase) (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sign\" by Aya Uchida (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

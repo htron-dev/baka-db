@@ -1,5 +1,9 @@
 {
     "title": "Fairial Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11001.jpg",
+        "alt": "fairial-garden"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "フェアリアルガーデン",

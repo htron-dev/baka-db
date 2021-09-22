@@ -1,5 +1,9 @@
 {
     "title": "Karasu no Puuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/70849.jpg",
+        "alt": "karasu-no-puuta"
+    },
     "type": "tv-serie",
     "episodes": "2",
     "original_name": "カラスのプータ",

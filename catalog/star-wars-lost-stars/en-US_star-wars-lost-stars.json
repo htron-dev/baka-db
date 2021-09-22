@@ -1,5 +1,9 @@
 {
     "title": "Star Wars: Lost Stars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221568.jpg",
+        "alt": "star-wars-lost-stars"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

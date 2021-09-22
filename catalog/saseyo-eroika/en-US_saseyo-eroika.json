@@ -1,5 +1,9 @@
 {
     "title": "Saseyo Eroika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166326.jpg",
+        "alt": "saseyo-eroika"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "42",

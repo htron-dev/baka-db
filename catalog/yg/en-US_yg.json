@@ -1,5 +1,9 @@
 {
     "title": "YG",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46269.jpg",
+        "alt": "yg"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ワイ・ジー",

@@ -1,5 +1,9 @@
 {
     "title": "Aromatic Bitters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114685.jpg",
+        "alt": "aromatic-bitters"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Flying Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116515.jpg",
+        "alt": "flying-witch"
+    },
     "type": "manga",
     "original_name": "ふらいんぐうぃっち",
     "start_date": "2012-08-09",

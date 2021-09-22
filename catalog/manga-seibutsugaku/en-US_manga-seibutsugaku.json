@@ -1,5 +1,9 @@
 {
     "title": "Manga Seibutsugaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82600.jpg",
+        "alt": "manga-seibutsugaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "漫画生物学",

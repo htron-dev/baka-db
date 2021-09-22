@@ -1,5 +1,9 @@
 {
     "title": "Girl Under Trial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248362.jpg",
+        "alt": "girl-under-trial"
+    },
     "type": "manhwa",
     "original_name": "소녀재판",
     "start_date": "2020-04-05",

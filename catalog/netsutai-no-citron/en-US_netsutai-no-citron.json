@@ -1,5 +1,9 @@
 {
     "title": "Netsutai no Citron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/22594.jpg",
+        "alt": "netsutai-no-citron"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

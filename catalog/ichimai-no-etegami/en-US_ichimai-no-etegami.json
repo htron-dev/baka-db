@@ -1,5 +1,9 @@
 {
     "title": "Ichimai no Etegami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/66247.jpg",
+        "alt": "ichimai-no-etegami"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "一枚の絵てがみ",

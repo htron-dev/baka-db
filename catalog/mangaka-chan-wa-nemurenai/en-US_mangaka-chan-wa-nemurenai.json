@@ -1,5 +1,9 @@
 {
     "title": "Mangaka-chan wa Nemurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241569.jpg",
+        "alt": "mangaka-chan-wa-nemurenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

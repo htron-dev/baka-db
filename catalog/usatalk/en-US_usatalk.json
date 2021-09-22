@@ -1,5 +1,9 @@
 {
     "title": "Usatalk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/87636.jpg",
+        "alt": "usatalk"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "usatalk",

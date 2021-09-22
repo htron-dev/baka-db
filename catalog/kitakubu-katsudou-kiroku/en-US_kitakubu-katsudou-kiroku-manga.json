@@ -1,5 +1,9 @@
 {
     "title": "Kitakubu Katsudou Kiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67425.jpg",
+        "alt": "kitakubu-katsudou-kiroku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "65",

@@ -1,5 +1,9 @@
 {
     "title": "Aquaman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228244.jpg",
+        "alt": "aquaman"
+    },
     "type": "manhwa",
     "original_name": "아쿠아맨",
     "start_date": "2016-07-09",

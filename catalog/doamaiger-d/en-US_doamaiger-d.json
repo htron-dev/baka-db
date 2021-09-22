@@ -1,5 +1,9 @@
 {
     "title": "Doamaiger D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/70995.jpg",
+        "alt": "doamaiger-d"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ドアマイガー D",

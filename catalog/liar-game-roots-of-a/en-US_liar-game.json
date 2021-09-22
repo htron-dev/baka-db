@@ -1,5 +1,9 @@
 {
     "title": "Liar Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149018.jpg",
+        "alt": "liar-game"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "203",

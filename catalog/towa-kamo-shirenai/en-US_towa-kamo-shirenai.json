@@ -1,5 +1,9 @@
 {
     "title": "Towa Kamo Shirenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4098.jpg",
+        "alt": "towa-kamo-shirenai"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "31",

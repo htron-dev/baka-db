@@ -1,5 +1,9 @@
 {
     "title": "Shinreki no Apocrypha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160984.jpg",
+        "alt": "shinreki-no-apocrypha"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

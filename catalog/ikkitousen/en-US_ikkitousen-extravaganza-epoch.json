@@ -1,5 +1,9 @@
 {
     "title": "Ikkitousen: Extravaganza Epoch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/70993.jpg",
+        "alt": "ikkitousen-extravaganza-epoch"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "一騎当千 Extravaganza Epoch",

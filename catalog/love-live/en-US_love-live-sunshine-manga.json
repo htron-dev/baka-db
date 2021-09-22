@@ -1,5 +1,9 @@
 {
     "title": "Love Live! Sunshine!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183983.jpg",
+        "alt": "love-live-sunshine"
+    },
     "type": "manga",
     "original_name": "ラブライブ！サンシャイン!!",
     "start_date": "2016-03-30",

@@ -1,5 +1,9 @@
 {
     "title": "Lovely Mari-Chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83114.jpg",
+        "alt": "lovely-mari-chan"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "ラブリーまりちゃん",

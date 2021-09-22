@@ -1,5 +1,9 @@
 {
     "title": "Honkai Impact 3 Animation: Seele",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1601/108639.jpg",
+        "alt": "honkai-impact-3-animation-seele"
+    },
     "type": "special",
     "episodes": "1",
     "start_date": "2019-10-12",

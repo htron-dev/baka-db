@@ -1,5 +1,9 @@
 {
     "title": "Hissatsu Osagashinin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159276.jpg",
+        "alt": "hissatsu-osagashinin"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "106",

@@ -1,5 +1,9 @@
 {
     "title": "Pokemon XY: Koukoku no Princess Diancie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/64727.jpg",
+        "alt": "pokemon-xy-koukoku-no-princess-diancie"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "鉱国のプリンセス ディアンシー",

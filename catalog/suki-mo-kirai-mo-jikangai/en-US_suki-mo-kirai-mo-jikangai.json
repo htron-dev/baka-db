@@ -1,5 +1,9 @@
 {
     "title": "Suki mo Kirai mo Jikangai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32631.jpg",
+        "alt": "suki-mo-kirai-mo-jikangai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

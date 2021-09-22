@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Doctor Coat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/75471.jpg",
+        "alt": "itoshi-no-doctor-coat"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

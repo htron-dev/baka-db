@@ -1,5 +1,9 @@
 {
     "title": "IS: Infinite Stratos - Sugar & Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134905.jpg",
+        "alt": "is-infinite-stratos-sugar-honey"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

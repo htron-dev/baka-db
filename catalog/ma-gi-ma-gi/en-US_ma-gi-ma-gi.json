@@ -1,5 +1,9 @@
 {
     "title": "MAGiMAGi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5858.jpg",
+        "alt": "ma-gi-ma-gi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

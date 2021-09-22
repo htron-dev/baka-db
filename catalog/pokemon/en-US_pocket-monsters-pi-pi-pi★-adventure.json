@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters: PiPiPi★Adventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/200375.jpg",
+        "alt": "pocket-monsters-pi-pi-pi★-adventure"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "89",

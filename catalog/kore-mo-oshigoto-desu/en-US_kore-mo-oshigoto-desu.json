@@ -1,5 +1,9 @@
 {
     "title": "Kore mo Oshigoto desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228604.jpg",
+        "alt": "kore-mo-oshigoto-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

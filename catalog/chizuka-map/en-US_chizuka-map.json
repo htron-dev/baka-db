@@ -1,5 +1,9 @@
 {
     "title": "Chizuka Map",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133047.jpg",
+        "alt": "chizuka-map"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ちづかマップ",

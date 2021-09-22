@@ -1,5 +1,9 @@
 {
     "title": "Souta-kun no Akihabara Funtouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3678.jpg",
+        "alt": "souta-kun-no-akihabara-funtouki"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "壮太君のアキハバラ奮闘記",

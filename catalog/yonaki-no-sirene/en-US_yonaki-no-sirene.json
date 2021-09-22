@@ -1,5 +1,9 @@
 {
     "title": "Yonaki no Sirene",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184392.jpg",
+        "alt": "yonaki-no-sirene"
+    },
     "type": "manga",
     "original_name": "夜鳴きのシィレエヌ",
     "start_date": "2015-03-30",

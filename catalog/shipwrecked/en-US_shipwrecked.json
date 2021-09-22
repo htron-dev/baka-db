@@ -1,5 +1,9 @@
 {
     "title": "Shipwrecked!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7707.jpg",
+        "alt": "shipwrecked"
+    },
     "type": "manhwa",
     "volumes": "14",
     "original_name": "탐나는도다",

@@ -1,5 +1,9 @@
 {
     "title": "Minori Scramble!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/31903.jpg",
+        "alt": "minori-scramble"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "みのりスクランブル!",

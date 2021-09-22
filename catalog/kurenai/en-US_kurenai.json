@@ -1,5 +1,9 @@
 {
     "title": "Kurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32483.jpg",
+        "alt": "kurenai"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "紅",

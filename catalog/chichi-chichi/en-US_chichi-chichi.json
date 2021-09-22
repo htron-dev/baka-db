@@ -1,5 +1,9 @@
 {
     "title": "Chichi Chichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159848.jpg",
+        "alt": "chichi-chichi"
+    },
     "type": "manga",
     "original_name": "チチチチ",
     "start_date": "2013-10-15",

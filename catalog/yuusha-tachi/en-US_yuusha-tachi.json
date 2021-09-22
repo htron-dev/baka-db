@@ -1,5 +1,9 @@
 {
     "title": "Yuusha-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215135.jpg",
+        "alt": "yuusha-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Aiganken Inu wa Mate ga Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89181.jpg",
+        "alt": "aiganken-inu-wa-mate-ga-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

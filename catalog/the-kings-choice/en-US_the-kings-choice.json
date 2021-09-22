@@ -1,5 +1,9 @@
 {
     "title": "The King's Choice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4466.jpg",
+        "alt": "the-kings-choice"
+    },
     "type": "manhwa",
     "chapters": "1",
     "tags": [

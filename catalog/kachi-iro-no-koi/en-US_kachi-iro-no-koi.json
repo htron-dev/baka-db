@@ -1,5 +1,9 @@
 {
     "title": "Kachi-iro no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129903.jpg",
+        "alt": "kachi-iro-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "勝色の恋",

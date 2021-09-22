@@ -1,5 +1,9 @@
 {
     "title": "The Silvery Crow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157088.jpg",
+        "alt": "the-silvery-crow"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

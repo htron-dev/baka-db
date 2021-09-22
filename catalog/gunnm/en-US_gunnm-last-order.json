@@ -1,5 +1,9 @@
 {
     "title": "Gunnm: Last Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145645.jpg",
+        "alt": "gunnm-last-order"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "124",

@@ -1,5 +1,9 @@
 {
     "title": "Dakedo Happy Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20748.jpg",
+        "alt": "dakedo-happy-paradise"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

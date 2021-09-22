@@ -1,5 +1,9 @@
 {
     "title": "Eikoku Mother Goose Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80221.jpg",
+        "alt": "eikoku-mother-goose-monogatari"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "英国マザーグース物語",

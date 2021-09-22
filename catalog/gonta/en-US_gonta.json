@@ -1,5 +1,9 @@
 {
     "title": "Gonta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43020.jpg",
+        "alt": "gonta"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

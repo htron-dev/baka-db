@@ -1,5 +1,9 @@
 {
     "title": "Kurumi-tic☆Miracle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/29774.jpg",
+        "alt": "kurumi-tic☆-miracle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

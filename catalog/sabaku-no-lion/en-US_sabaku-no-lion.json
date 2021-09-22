@@ -1,5 +1,9 @@
 {
     "title": "Sabaku no Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79211.jpg",
+        "alt": "sabaku-no-lion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

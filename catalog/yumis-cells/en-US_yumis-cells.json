@@ -1,5 +1,9 @@
 {
     "title": "Yumi's Cells",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207447.jpg",
+        "alt": "yumis-cells"
+    },
     "type": "manhwa",
     "original_name": "유미의 세포들",
     "start_date": "2015-04-01",

@@ -1,5 +1,9 @@
 {
     "title": "PistStar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/37547.jpg",
+        "alt": "pist-star"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ぴすとっ ☆",

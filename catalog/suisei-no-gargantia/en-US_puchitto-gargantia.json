@@ -1,5 +1,9 @@
 {
     "title": "Puchitto Gargantia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/49979.jpg",
+        "alt": "puchitto-gargantia"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "ぷちっとがるがんてぃあ",

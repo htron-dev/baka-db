@@ -1,5 +1,9 @@
 {
     "title": "Angel no Oka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73093.jpg",
+        "alt": "angel-no-oka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

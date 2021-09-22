@@ -1,5 +1,9 @@
 {
     "title": "Sasurai Emanon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116171.jpg",
+        "alt": "sasurai-emanon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

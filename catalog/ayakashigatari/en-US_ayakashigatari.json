@@ -1,5 +1,9 @@
 {
     "title": "Ayakashigatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171721.jpg",
+        "alt": "ayakashigatari"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Writer x Writer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210358.jpg",
+        "alt": "writer-x-writer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

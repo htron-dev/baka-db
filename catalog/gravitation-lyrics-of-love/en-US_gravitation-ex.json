@@ -1,5 +1,9 @@
 {
     "title": "Gravitation EX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180139.jpg",
+        "alt": "gravitation-ex"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

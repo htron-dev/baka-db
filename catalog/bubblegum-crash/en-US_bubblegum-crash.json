@@ -1,12 +1,16 @@
 {
     "title": "Bubblegum Crash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/2845.jpg",
+        "alt": "bubblegum-crash"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "バブルガムクラッシュ",
     "start_date": "1991-05-25",
     "end_date": "1991-05-25",
-    "opening_song": "\"Hatenai Tabi",
-    "ending_song": "#1",
+    "opening_song": "\"Hatenai Tabi: Hajimari no Toki (果てない旅 ~始まりの時)\" by Ryouko Tachikawa",
+    "ending_song": "#1: \"Cool Eyes\" by Ryooko Tachikawa (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

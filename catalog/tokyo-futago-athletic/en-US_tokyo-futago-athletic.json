@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Futago Athletic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1266/112142.jpg",
+        "alt": "tokyo-futago-athletic"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "東京ふたごアスレチック",

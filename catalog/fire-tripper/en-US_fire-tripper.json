@@ -1,5 +1,9 @@
 {
     "title": "Fire Tripper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/11984.jpg",
+        "alt": "fire-tripper"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "炎トリッパー",

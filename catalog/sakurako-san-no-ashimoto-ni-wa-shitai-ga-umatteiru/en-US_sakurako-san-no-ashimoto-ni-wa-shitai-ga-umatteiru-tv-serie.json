@@ -1,12 +1,16 @@
 {
     "title": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/76116.jpg",
+        "alt": "sakurako-san-no-ashimoto-ni-wa-shitai-ga-umatteiru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "櫻子さんの足下には死体が埋まっている",
     "start_date": "2015-10-08",
     "end_date": "2015-10-08",
     "opening_song": "\"Dear answer\" by TRUE (eps 2-7, 9-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dear answer\" by TRUE (ep 1, 12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "drama",

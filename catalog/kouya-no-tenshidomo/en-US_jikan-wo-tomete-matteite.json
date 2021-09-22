@@ -1,5 +1,9 @@
 {
     "title": "Jikan wo Tomete Matteite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/218090.jpg",
+        "alt": "jikan-wo-tomete-matteite"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

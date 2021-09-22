@@ -1,5 +1,9 @@
 {
     "title": "Eightman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/73670.jpg",
+        "alt": "eightman"
+    },
     "type": "tv-serie",
     "episodes": "56",
     "original_name": "エイトマン",

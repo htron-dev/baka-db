@@ -1,5 +1,9 @@
 {
     "title": "Yasha Gozen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18100.jpg",
+        "alt": "yasha-gozen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "夜叉御前",

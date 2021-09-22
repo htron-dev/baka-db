@@ -1,5 +1,9 @@
 {
     "title": "Xiong Chumo: Huanqiu Da Maoxian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/78681.jpg",
+        "alt": "xiong-chumo-huanqiu-da-maoxian"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "熊出没之环球大冒险",

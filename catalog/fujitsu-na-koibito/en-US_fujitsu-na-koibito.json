@@ -1,5 +1,9 @@
 {
     "title": "Fujitsu Na Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42478.jpg",
+        "alt": "fujitsu-na-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

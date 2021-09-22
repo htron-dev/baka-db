@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi Miitsuketa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82210.jpg",
+        "alt": "tomodachi-miitsuketa"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ともだちみーつけた",

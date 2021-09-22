@@ -1,5 +1,9 @@
 {
     "title": "Oshiete Hokusai! The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1655/111767.jpg",
+        "alt": "oshiete-hokusai-the-animation"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "おしえて北斎！ -THE ANIMATION-",

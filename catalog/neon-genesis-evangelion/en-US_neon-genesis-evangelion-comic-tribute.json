@@ -1,5 +1,9 @@
 {
     "title": "Neon Genesis Evangelion: Comic Tribute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181288.jpg",
+        "alt": "neon-genesis-evangelion-comic-tribute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Radio Heads",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62239.jpg",
+        "alt": "radio-heads"
+    },
     "type": "manga",
     "original_name": "ラジオヘッズ",
     "tags": [

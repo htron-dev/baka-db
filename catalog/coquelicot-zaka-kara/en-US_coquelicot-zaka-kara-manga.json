@@ -1,5 +1,9 @@
 {
     "title": "Coquelicot-zaka kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/50379.jpg",
+        "alt": "coquelicot-zaka-kara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

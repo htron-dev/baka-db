@@ -1,5 +1,9 @@
 {
     "title": "Shushokukatsudou no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41972.jpg",
+        "alt": "shushokukatsudou-no-susume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

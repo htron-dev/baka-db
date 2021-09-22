@@ -1,5 +1,9 @@
 {
     "title": "Ikemensugi desu Shiki-senpai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219486.jpg",
+        "alt": "ikemensugi-desu-shiki-senpai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

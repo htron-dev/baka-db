@@ -1,5 +1,9 @@
 {
     "title": "Nagi to Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155154.jpg",
+        "alt": "nagi-to-arashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Haunted Junction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17565.jpg",
+        "alt": "haunted-junction"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "65",

@@ -1,5 +1,9 @@
 {
     "title": "Sailor Suit to Kikanbou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35386.jpg",
+        "alt": "sailor-suit-to-kikanbou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "セーラー服ときかん坊",
@@ -12,7 +16,6 @@
         "Asada",
         "Okina (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

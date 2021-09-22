@@ -1,5 +1,9 @@
 {
     "title": "Dokidoki Shitei Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151409.jpg",
+        "alt": "dokidoki-shitei-life"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "73",

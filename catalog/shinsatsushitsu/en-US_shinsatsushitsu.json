@@ -1,5 +1,9 @@
 {
     "title": "Shinsatsushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/59761.jpg",
+        "alt": "shinsatsushitsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "診察室",

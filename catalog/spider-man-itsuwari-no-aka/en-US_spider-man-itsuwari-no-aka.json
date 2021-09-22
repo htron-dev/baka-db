@@ -1,5 +1,9 @@
 {
     "title": "Spider-Man: Itsuwari no Aka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228866.jpg",
+        "alt": "spider-man-itsuwari-no-aka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

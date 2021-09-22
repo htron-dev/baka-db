@@ -1,5 +1,9 @@
 {
     "title": "Hohoemi no Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152719.jpg",
+        "alt": "hohoemi-no-nichijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

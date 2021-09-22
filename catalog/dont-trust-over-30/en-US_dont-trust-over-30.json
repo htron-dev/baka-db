@@ -1,5 +1,9 @@
 {
     "title": "Don't Trust Over 30",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33965.jpg",
+        "alt": "dont-trust-over-30"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

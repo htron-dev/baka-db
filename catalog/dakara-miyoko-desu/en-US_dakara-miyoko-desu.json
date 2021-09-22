@@ -1,5 +1,9 @@
 {
     "title": "Dakara Miyoko Desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211349.jpg",
+        "alt": "dakara-miyoko-desu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "66",

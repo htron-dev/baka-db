@@ -1,5 +1,9 @@
 {
     "title": "Rumi-chan no Jishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172493.jpg",
+        "alt": "rumi-chan-no-jishou"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "181",

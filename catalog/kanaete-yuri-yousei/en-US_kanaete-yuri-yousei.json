@@ -1,5 +1,9 @@
 {
     "title": "Kanaete! Yuri Yousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195987.jpg",
+        "alt": "kanaete-yuri-yousei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

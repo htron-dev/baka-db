@@ -1,5 +1,9 @@
 {
     "title": "Chihou Kishi Hans no Junan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188827.jpg",
+        "alt": "chihou-kishi-hans-no-junan"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "54",

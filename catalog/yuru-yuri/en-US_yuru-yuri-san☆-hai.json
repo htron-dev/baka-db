@@ -1,12 +1,16 @@
 {
     "title": "Yuru Yuri San☆Hai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/76667.jpg",
+        "alt": "yuru-yuri-san☆-hai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゆるゆり さん ☆ ハイ！",
     "start_date": "2015-10-06",
     "end_date": "2015-10-06",
     "opening_song": "\"Chochocho! Yuru Yuri☆Capriccio!!! (ちょちょちょ！ゆるゆり ☆ かぷりっちょ!!!)\" by Nanamori Chu☆Goraku Bu (七森中 ☆ ごらく部)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Acchu~ma Seishun! (あっちゅ～ま青春！)\" by Nanamori Chu☆Goraku Bu (七森中 ☆ ごらく部)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

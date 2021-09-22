@@ -1,5 +1,9 @@
 {
     "title": "Suna no Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/175777.jpg",
+        "alt": "suna-no-shiro"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

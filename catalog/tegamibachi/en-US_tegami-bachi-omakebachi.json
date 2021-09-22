@@ -1,5 +1,9 @@
 {
     "title": "Tegami Bachi: Omakebachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/26809.jpg",
+        "alt": "tegami-bachi-omakebachi"
+    },
     "type": "special",
     "episodes": "25",
     "original_name": "裏テガミバチ",

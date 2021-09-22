@@ -1,5 +1,9 @@
 {
     "title": "Daydream Nation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11017.jpg",
+        "alt": "daydream-nation"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "77",

@@ -1,5 +1,9 @@
 {
     "title": "Ikoku de Mitsuketa Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246979.jpg",
+        "alt": "ikoku-de-mitsuketa-koi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "異国で見つけた恋",

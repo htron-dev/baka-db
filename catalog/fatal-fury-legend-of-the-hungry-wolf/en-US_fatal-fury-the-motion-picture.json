@@ -1,5 +1,9 @@
 {
     "title": "Fatal Fury: The Motion Picture",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1460/92435.jpg",
+        "alt": "fatal-fury-the-motion-picture"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "餓狼伝説",

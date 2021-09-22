@@ -1,5 +1,9 @@
 {
     "title": "The☆Doraemons Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131861.jpg",
+        "alt": "the☆-doraemons-special"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "ザ ☆ ドラえもんズスペシャル",

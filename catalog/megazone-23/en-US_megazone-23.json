@@ -1,11 +1,15 @@
 {
     "title": "Megazone 23",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1153/94528.jpg",
+        "alt": "megazone-23"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "メガゾーン 23",
     "start_date": "1985-03-09",
     "end_date": "1985-03-09",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Samishikute Nemurenai (淋しくて眠れない)\" by Yuka Takeuchi (タケウチユカ) (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

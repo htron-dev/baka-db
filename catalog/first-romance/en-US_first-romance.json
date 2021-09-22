@@ -1,5 +1,9 @@
 {
     "title": "First Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29154.jpg",
+        "alt": "first-romance"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ファーストロマンス; ファースト・ロマンス",

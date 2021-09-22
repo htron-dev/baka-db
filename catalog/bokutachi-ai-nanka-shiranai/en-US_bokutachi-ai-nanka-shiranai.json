@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi, Ai Nanka Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/53993.jpg",
+        "alt": "bokutachi-ai-nanka-shiranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

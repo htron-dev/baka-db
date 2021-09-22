@@ -1,5 +1,9 @@
 {
     "title": "Boku no Koi no Hanashi Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7392.jpg",
+        "alt": "boku-no-koi-no-hanashi-himegoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

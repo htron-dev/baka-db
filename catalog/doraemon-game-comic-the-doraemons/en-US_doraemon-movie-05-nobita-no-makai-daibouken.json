@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 05: Nobita no Makai Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/72410.jpg",
+        "alt": "doraemon-movie-05-nobita-no-makai-daibouken"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太の魔界大冒険",

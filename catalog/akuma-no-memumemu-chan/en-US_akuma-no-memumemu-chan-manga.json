@@ -1,5 +1,9 @@
 {
     "title": "Akuma no Memumemu-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190036.jpg",
+        "alt": "akuma-no-memumemu-chan"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "124",

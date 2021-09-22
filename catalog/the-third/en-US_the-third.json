@@ -1,5 +1,9 @@
 {
     "title": "The Third",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/84049.jpg",
+        "alt": "the-third"
+    },
     "type": "light-novel",
     "original_name": "ザ・サード",
     "start_date": "1999-03-19",

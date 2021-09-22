@@ -1,5 +1,9 @@
 {
     "title": "Tengoku ni Musubu Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207553.jpg",
+        "alt": "tengoku-ni-musubu-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "天国に結ぶ恋",

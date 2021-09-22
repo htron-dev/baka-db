@@ -1,10 +1,14 @@
 {
     "title": "Black Jack (TV): Hizouban Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/7416.jpg",
+        "alt": "black-jack-tv-hizouban-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ブラックジャック 秘蔵版スペシャル",
     "start_date": "2006-07-17",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Gekkouka\" by Janne da Arc (ep 1)",
     "ending_song": "\"Careless Breath\" by EXILE",
     "rating": "G - All Ages",
     "tags": [

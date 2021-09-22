@@ -1,5 +1,9 @@
 {
     "title": "Shin Happy Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172051.jpg",
+        "alt": "shin-happy-seven"
+    },
     "type": "light-novel",
     "volumes": "9",
     "original_name": "新・はっぴぃセブン",

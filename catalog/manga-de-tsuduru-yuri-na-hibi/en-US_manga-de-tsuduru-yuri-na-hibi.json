@@ -1,5 +1,9 @@
 {
     "title": "Manga de Tsuduru Yuri na Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154342.jpg",
+        "alt": "manga-de-tsuduru-yuri-na-hibi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "まんがで綴る百合な日々",

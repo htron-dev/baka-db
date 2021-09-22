@@ -1,5 +1,9 @@
 {
     "title": "Tenohira ni Suisei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151267.jpg",
+        "alt": "tenohira-ni-suisei"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "てのひらに彗星",

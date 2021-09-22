@@ -1,12 +1,16 @@
 {
     "title": "Little Busters!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/43757.jpg",
+        "alt": "little-busters"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "リトルバスターズ!",
     "start_date": "2012-10-06",
     "end_date": "2012-10-06",
     "opening_song": "\"Little Busters! ~TV animation ver.~\" by Rita",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Alicemagic ~TV animation ver.~\" by Rita (eps 1-5, 7-13, 15-17, 19-22, 24-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Puu-Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51479.jpg",
+        "alt": "puu-neko"
+    },
     "type": "manga",
     "original_name": "プ～ねこ",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Junjou Romantica OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/60389.jpg",
+        "alt": "junjou-romantica-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "純情ロマンチカ",

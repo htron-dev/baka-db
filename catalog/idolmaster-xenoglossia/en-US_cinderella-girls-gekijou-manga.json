@@ -1,5 +1,9 @@
 {
     "title": "Cinderella Girls Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201839.jpg",
+        "alt": "cinderella-girls-gekijou"
+    },
     "type": "manga",
     "original_name": "シンデレラガールズ劇場",
     "start_date": "2012-03-28",

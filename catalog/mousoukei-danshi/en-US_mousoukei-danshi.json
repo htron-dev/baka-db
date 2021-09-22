@@ -1,5 +1,9 @@
 {
     "title": "Mousoukei Danshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51685.jpg",
+        "alt": "mousoukei-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

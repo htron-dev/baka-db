@@ -1,5 +1,9 @@
 {
     "title": "Dan Dan Dunk!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58981.jpg",
+        "alt": "dan-dan-dunk"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "44",

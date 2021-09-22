@@ -1,5 +1,9 @@
 {
     "title": "Kiseki no Koibana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14582.jpg",
+        "alt": "kiseki-no-koibana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

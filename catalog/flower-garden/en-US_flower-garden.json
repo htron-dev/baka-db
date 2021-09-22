@@ -1,5 +1,9 @@
 {
     "title": "Flower Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40623.jpg",
+        "alt": "flower-garden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "フラワー・ガーデン",

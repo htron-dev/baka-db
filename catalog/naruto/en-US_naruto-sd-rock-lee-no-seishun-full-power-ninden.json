@@ -1,12 +1,16 @@
 {
     "title": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/36475.jpg",
+        "alt": "naruto-sd-rock-lee-no-seishun-full-power-ninden"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ナルト SD ロック・リーの青春フルパワー忍伝",
     "start_date": "2012-04-03",
     "end_date": "2012-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Give Lee Give Lee Rock Lee\" by ANIMETAL USA and Kageyama Hironobu (eps 1-26)",
+    "ending_song": "#1: \"Twinkle Twinkle\" by Secret (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Akane-kun no Kokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189418.jpg",
+        "alt": "akane-kun-no-kokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

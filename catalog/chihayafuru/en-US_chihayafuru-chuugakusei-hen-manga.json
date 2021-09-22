@@ -1,5 +1,9 @@
 {
     "title": "Chihayafuru: Chuugakusei-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206838.jpg",
+        "alt": "chihayafuru-chuugakusei-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

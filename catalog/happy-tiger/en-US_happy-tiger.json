@@ -1,5 +1,9 @@
 {
     "title": "Happy Tiger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131893.jpg",
+        "alt": "happy-tiger"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ハッピータイガー",

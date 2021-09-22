@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu no Reacta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185826.jpg",
+        "alt": "shuumatsu-no-reacta"
+    },
     "type": "light-novel",
     "original_name": "終末ノ再生者〈リアクター〉",
     "start_date": "2016-11-19",

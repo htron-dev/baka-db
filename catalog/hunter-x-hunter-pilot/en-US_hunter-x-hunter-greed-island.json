@@ -1,8 +1,12 @@
 {
     "title": "Hunter x Hunter: Greed Island",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/37203.jpg",
+        "alt": "hunter-x-hunter-greed-island"
+    },
     "type": "ova",
     "episodes": "8",
-    "original_name": "ハンターｘハンター",
+    "original_name": "ハンターｘハンター: Greed Island",
     "start_date": "2003-02-05",
     "end_date": "2003-02-05",
     "opening_song": "\"Pray\" by Wish\\*",

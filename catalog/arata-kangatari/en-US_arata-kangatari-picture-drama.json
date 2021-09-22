@@ -1,5 +1,9 @@
 {
     "title": "Arata Kangatari Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/52145.jpg",
+        "alt": "arata-kangatari-picture-drama"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "アラタ カンガタリ ~革神語~ ピクチャードラマ",

@@ -1,5 +1,9 @@
 {
     "title": "Furyou Taimashi Reina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229161.jpg",
+        "alt": "furyou-taimashi-reina"
+    },
     "type": "manga",
     "original_name": "不良退魔師レイナ",
     "start_date": "2018-10-23",

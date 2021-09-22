@@ -1,5 +1,9 @@
 {
     "title": "The Aurora: Umi no Aurora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1021/94476.jpg",
+        "alt": "the-aurora-umi-no-aurora"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "海のオーロラ",

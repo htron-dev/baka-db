@@ -1,5 +1,9 @@
 {
     "title": "Playground",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/71618.jpg",
+        "alt": "playground"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "PLAYGROUND",

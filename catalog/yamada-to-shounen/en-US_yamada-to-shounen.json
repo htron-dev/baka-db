@@ -1,5 +1,9 @@
 {
     "title": "Yamada to Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165493.jpg",
+        "alt": "yamada-to-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

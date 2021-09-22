@@ -1,5 +1,9 @@
 {
     "title": "Watashi ga Kieta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/54081.jpg",
+        "alt": "watashi-ga-kieta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

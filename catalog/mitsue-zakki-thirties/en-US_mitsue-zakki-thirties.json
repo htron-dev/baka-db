@@ -1,5 +1,9 @@
 {
     "title": "Mitsue Zakki Thirties",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151663.jpg",
+        "alt": "mitsue-zakki-thirties"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "87",

@@ -1,5 +1,9 @@
 {
     "title": "Fools",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230324.jpg",
+        "alt": "fools"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "74",

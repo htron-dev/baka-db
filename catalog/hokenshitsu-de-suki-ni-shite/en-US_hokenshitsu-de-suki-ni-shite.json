@@ -1,5 +1,9 @@
 {
     "title": "Hokenshitsu de Suki ni Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177400.jpg",
+        "alt": "hokenshitsu-de-suki-ni-shite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Shachou-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136251.jpg",
+        "alt": "boku-no-shachou-sama"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ボクの社長サマ",

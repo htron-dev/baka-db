@@ -1,5 +1,9 @@
 {
     "title": "Ikkitousen: Gekirin Kousatsu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180442.jpg",
+        "alt": "ikkitousen-gekirin-kousatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

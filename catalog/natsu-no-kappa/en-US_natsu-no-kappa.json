@@ -1,5 +1,9 @@
 {
     "title": "Natsu no Kappa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129907.jpg",
+        "alt": "natsu-no-kappa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

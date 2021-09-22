@@ -1,5 +1,9 @@
 {
     "title": "Yuutai Nova: Kanketsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/97599.jpg",
+        "alt": "yuutai-nova-kanketsu-hen"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ユウタイノヴァ 完結編",

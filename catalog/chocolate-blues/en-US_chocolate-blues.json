@@ -1,5 +1,9 @@
 {
     "title": "Chocolate Blues",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81568.jpg",
+        "alt": "chocolate-blues"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Mong han paek soe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44119.jpg",
+        "alt": "mong-han-paek-soe"
+    },
     "type": "manhwa",
     "original_name": "몽환백서",
     "tags": [

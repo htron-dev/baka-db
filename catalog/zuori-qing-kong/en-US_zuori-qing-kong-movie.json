@@ -1,5 +1,9 @@
 {
     "title": "Zuori Qing Kong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1895/93644.jpg",
+        "alt": "zuori-qing-kong"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "昨日青空",

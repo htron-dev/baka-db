@@ -1,5 +1,9 @@
 {
     "title": "Kagerou Nostalgia: Shin Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208722.jpg",
+        "alt": "kagerou-nostalgia-shin-shou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

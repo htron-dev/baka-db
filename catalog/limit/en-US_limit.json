@@ -1,5 +1,9 @@
 {
     "title": "Limit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/87819.jpg",
+        "alt": "limit"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Yuru Yuri Nachuyachumi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/73281.jpg",
+        "alt": "yuru-yuri-nachuyachumi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ゆるゆり なちゅやちゅみ！",

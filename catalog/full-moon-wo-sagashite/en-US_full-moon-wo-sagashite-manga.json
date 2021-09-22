@@ -1,5 +1,9 @@
 {
     "title": "Full Moon wo Sagashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175970.jpg",
+        "alt": "full-moon-wo-sagashite"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

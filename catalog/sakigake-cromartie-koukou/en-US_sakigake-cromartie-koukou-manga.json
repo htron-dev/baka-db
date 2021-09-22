@@ -1,5 +1,9 @@
 {
     "title": "Sakigake!! Cromartie Koukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157310.jpg",
+        "alt": "sakigake-cromartie-koukou"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "335",

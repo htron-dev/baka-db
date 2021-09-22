@@ -1,5 +1,9 @@
 {
     "title": "Naka made Yasashiku Hotte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184709.jpg",
+        "alt": "naka-made-yasashiku-hotte"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "中まで優しく掘って",

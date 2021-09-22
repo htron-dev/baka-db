@@ -1,5 +1,9 @@
 {
     "title": "Circle Crash!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193249.jpg",
+        "alt": "circle-crash"
+    },
     "type": "manga",
     "chapters": "155",
     "original_name": "サークルクラッシュ！",

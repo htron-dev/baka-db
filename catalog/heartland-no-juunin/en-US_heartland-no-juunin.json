@@ -1,5 +1,9 @@
 {
     "title": "Heartland no Juunin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20188.jpg",
+        "alt": "heartland-no-juunin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

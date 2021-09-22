@@ -1,5 +1,9 @@
 {
     "title": "Check Mate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130643.jpg",
+        "alt": "check-mate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

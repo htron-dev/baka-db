@@ -1,5 +1,9 @@
 {
     "title": "Ikaryaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189457.jpg",
+        "alt": "ikaryaku"
+    },
     "type": "manga",
     "chapters": "33",
     "original_name": "以下略",

@@ -1,5 +1,9 @@
 {
     "title": "Sen no Kiss ni Nurete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7741.jpg",
+        "alt": "sen-no-kiss-ni-nurete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

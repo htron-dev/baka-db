@@ -1,5 +1,9 @@
 {
     "title": "Koroshiya to Freeter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247215.jpg",
+        "alt": "koroshiya-to-freeter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

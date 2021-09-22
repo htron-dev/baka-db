@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Show e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41256.jpg",
+        "alt": "uchuu-show-e-youkoso"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "宇宙ショーへようこそ",

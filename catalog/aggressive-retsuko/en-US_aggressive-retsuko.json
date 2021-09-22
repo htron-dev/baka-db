@@ -1,5 +1,9 @@
 {
     "title": "Aggressive Retsuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/84193.jpg",
+        "alt": "aggressive-retsuko"
+    },
     "type": "tv-serie",
     "episodes": "100",
     "original_name": "アグレッシブ烈子",

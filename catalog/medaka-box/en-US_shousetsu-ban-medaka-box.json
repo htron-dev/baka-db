@@ -1,5 +1,9 @@
 {
     "title": "Shousetsu Ban Medaka Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74351.jpg",
+        "alt": "shousetsu-ban-medaka-box"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "小説版 めだかボックス",

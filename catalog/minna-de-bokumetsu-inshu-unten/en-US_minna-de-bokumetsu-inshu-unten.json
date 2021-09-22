@@ -1,5 +1,9 @@
 {
     "title": "Minna de Bokumetsu Inshu Unten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/82103.jpg",
+        "alt": "minna-de-bokumetsu-inshu-unten"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "みんなで撲滅飲酒運転",

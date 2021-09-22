@@ -1,5 +1,9 @@
 {
     "title": "Souka no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67331.jpg",
+        "alt": "souka-no-ori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

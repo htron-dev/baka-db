@@ -1,5 +1,9 @@
 {
     "title": "Go and Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14996.jpg",
+        "alt": "go-and-go"
+    },
     "type": "manga",
     "volumes": "30",
     "tags": [

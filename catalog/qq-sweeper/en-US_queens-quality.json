@@ -1,5 +1,9 @@
 {
     "title": "Queen's Quality",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172099.jpg",
+        "alt": "queens-quality"
+    },
     "type": "manga",
     "original_name": "クイーンズ・クオリティ",
     "start_date": "2015-07-13",

@@ -1,5 +1,9 @@
 {
     "title": "Tenka Sange: Tennyo wa Ai ni Ochiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193386.jpg",
+        "alt": "tenka-sange-tennyo-wa-ai-ni-ochiru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

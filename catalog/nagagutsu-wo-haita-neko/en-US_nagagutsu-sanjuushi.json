@@ -1,5 +1,9 @@
 {
     "title": "Nagagutsu Sanjuushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/9746.jpg",
+        "alt": "nagagutsu-sanjuushi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ながぐつ三銃士",

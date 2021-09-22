@@ -1,12 +1,16 @@
 {
     "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1009/100450.jpg",
+        "alt": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "この世の果てで恋を唄う少女 YU-NO",
     "start_date": "2019-04-02",
     "end_date": "2019-04-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kono Yo no Hate de Koi wo Utau Shoujo (この世の果てで恋を唄う少女)\" by Asaka (eps 1-17)",
+    "ending_song": "#1: \"Shinri no Kagami, Tsurugi no You ni (真理の鏡、剣乃ように)\" by Konomi Suzuki (eps 1-17)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

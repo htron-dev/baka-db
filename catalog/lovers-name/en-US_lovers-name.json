@@ -1,5 +1,9 @@
 {
     "title": "Lover's Name",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2385.jpg",
+        "alt": "lovers-name"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

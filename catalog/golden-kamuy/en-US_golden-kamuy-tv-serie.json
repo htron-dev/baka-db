@@ -1,5 +1,9 @@
 {
     "title": "Golden Kamuy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg",
+        "alt": "golden-kamuy"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゴールデンカムイ",

@@ -1,5 +1,9 @@
 {
     "title": "Ilya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136125.jpg",
+        "alt": "ilya"
+    },
     "type": "manhwa",
     "original_name": "ilya 일리아",
     "start_date": "2013-11-11",

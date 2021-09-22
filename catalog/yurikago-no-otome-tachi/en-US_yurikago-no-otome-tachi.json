@@ -1,5 +1,9 @@
 {
     "title": "Yurikago no Otome-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149751.jpg",
+        "alt": "yurikago-no-otome-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

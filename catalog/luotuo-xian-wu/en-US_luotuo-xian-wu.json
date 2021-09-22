@@ -1,5 +1,9 @@
 {
     "title": "Luotuo Xian Wu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1667/115465.jpg",
+        "alt": "luotuo-xian-wu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "駱駝獻舞",

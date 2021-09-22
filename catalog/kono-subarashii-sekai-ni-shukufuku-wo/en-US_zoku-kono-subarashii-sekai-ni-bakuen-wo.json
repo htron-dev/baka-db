@@ -1,5 +1,9 @@
 {
     "title": "Zoku Kono Subarashii Sekai ni Bakuen wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217951.jpg",
+        "alt": "zoku-kono-subarashii-sekai-ni-bakuen-wo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

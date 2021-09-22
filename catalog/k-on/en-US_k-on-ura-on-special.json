@@ -1,5 +1,9 @@
 {
     "title": "K-On!!: Ura-On!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/25513.jpg",
+        "alt": "k-on-ura-on"
+    },
     "type": "special",
     "episodes": "9",
     "original_name": "うらおん!!",

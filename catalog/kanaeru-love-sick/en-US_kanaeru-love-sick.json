@@ -1,5 +1,9 @@
 {
     "title": "Kanaeru Love Sick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192621.jpg",
+        "alt": "kanaeru-love-sick"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Home Sweet Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177262.jpg",
+        "alt": "home-sweet-home"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

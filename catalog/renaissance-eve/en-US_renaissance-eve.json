@@ -1,5 +1,9 @@
 {
     "title": "Renaissance Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/94421.jpg",
+        "alt": "renaissance-eve"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

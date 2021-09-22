@@ -1,5 +1,9 @@
 {
     "title": "Elfen Lied",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/6883.jpg",
+        "alt": "elfen-lied"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "エルフェンリート",

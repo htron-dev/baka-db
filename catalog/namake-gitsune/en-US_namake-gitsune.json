@@ -1,5 +1,9 @@
 {
     "title": "Namake Gitsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/84496.jpg",
+        "alt": "namake-gitsune"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "なまけぎつね",

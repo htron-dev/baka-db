@@ -1,5 +1,9 @@
 {
     "title": "Bokura no 17-On!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164419.jpg",
+        "alt": "bokura-no-17-on"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

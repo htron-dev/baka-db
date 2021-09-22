@@ -1,5 +1,9 @@
 {
     "title": "Juuhime: Phantom Pain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119197.jpg",
+        "alt": "juuhime-phantom-pain"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "39",

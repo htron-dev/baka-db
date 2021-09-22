@@ -1,5 +1,9 @@
 {
     "title": "Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21429.jpg",
+        "alt": "hikari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

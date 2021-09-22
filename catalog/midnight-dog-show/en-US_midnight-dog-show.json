@@ -1,5 +1,9 @@
 {
     "title": "Midnight Dog Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/87739.jpg",
+        "alt": "midnight-dog-show"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

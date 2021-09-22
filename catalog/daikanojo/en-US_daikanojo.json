@@ -1,5 +1,9 @@
 {
     "title": "Daikanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226557.jpg",
+        "alt": "daikanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

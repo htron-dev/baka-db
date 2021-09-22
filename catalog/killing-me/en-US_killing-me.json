@@ -1,5 +1,9 @@
 {
     "title": "Killing Me!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210996.jpg",
+        "alt": "killing-me"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

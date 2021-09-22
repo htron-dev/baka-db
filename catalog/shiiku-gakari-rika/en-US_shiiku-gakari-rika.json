@@ -1,5 +1,9 @@
 {
     "title": "Shiiku Gakari Rika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30203.jpg",
+        "alt": "shiiku-gakari-rika"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

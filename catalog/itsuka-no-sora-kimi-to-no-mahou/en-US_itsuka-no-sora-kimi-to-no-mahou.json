@@ -1,5 +1,9 @@
 {
     "title": "Itsuka no Sora, Kimi to no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200310.jpg",
+        "alt": "itsuka-no-sora-kimi-to-no-mahou"
+    },
     "type": "light-novel",
     "original_name": "いつかの空、君との魔法",
     "start_date": "2016-09-01",

@@ -1,5 +1,9 @@
 {
     "title": "Xiaomi De Senlin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1516/115457.jpg",
+        "alt": "xiaomi-de-senlin"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "小米的森林",

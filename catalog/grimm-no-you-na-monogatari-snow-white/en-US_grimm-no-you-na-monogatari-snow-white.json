@@ -1,5 +1,9 @@
 {
     "title": "Grimm no You na Monogatari: Snow White",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/108197.jpg",
+        "alt": "grimm-no-you-na-monogatari-snow-white"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

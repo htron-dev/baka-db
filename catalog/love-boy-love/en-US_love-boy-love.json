@@ -1,5 +1,9 @@
 {
     "title": "Love Boy Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222720.jpg",
+        "alt": "love-boy-love"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "44",

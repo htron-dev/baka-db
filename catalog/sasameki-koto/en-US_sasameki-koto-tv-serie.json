@@ -1,5 +1,9 @@
 {
     "title": "Sasameki Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75225.jpg",
+        "alt": "sasameki-koto"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ささめきこと",

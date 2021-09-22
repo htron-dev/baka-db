@@ -1,8 +1,12 @@
 {
     "title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1021/116787.jpg",
+        "alt": "dragon-ball-z-saiya-jin-zetsumetsu-keikaku"
+    },
     "type": "ova",
     "episodes": "2",
-    "original_name": "ドラゴンボールＺ",
+    "original_name": "ドラゴンボールＺ: 外伝・サイヤ人絶滅計画",
     "start_date": "1993-07-23",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

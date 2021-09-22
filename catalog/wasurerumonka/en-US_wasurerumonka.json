@@ -1,5 +1,9 @@
 {
     "title": "Wasurerumonka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/74519.jpg",
+        "alt": "wasurerumonka"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "わすれるもんか！",

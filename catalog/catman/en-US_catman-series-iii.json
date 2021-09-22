@@ -1,5 +1,9 @@
 {
     "title": "Catman Series III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/8316.jpg",
+        "alt": "catman-series-iii"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "キャットマン",

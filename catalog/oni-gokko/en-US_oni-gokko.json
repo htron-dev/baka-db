@@ -1,5 +1,9 @@
 {
     "title": "Oni-gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167735.jpg",
+        "alt": "oni-gokko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

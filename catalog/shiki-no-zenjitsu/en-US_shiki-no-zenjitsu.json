@@ -1,5 +1,9 @@
 {
     "title": "Shiki no Zenjitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181264.jpg",
+        "alt": "shiki-no-zenjitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

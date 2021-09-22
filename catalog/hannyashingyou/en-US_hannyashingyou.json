@@ -1,5 +1,9 @@
 {
     "title": "Hannyashingyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1584/97665.jpg",
+        "alt": "hannyashingyou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "般若心経",

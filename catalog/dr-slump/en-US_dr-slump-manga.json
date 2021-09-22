@@ -1,5 +1,9 @@
 {
     "title": "Dr. Slump",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156408.jpg",
+        "alt": "dr-slump"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "236",

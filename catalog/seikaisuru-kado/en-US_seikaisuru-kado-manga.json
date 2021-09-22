@@ -1,5 +1,9 @@
 {
     "title": "Seikaisuru Kado",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197608.jpg",
+        "alt": "seikaisuru-kado"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

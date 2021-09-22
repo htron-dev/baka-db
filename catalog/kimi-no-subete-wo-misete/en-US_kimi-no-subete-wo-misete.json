@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Subete wo Misete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12463.jpg",
+        "alt": "kimi-no-subete-wo-misete"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キミのすべてを見せて",

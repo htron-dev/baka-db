@@ -1,12 +1,16 @@
 {
     "title": "Yojouhan Shinwa Taikei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/50457.jpg",
+        "alt": "yojouhan-shinwa-taikei"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "四畳半神話大系",
     "start_date": "2010-04-23",
     "end_date": "2010-04-23",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Maigo Inu to Ame no Beat (迷子犬と雨のビート)\" by Asian Kung-Fu Generation (eps 1- 10)",
+    "ending_song": "#1: \"Kamisama no Iutoori (神様のいうとおり)\" by Juuji Ishiwatari & Yoshinori Sunahara + Etsuko Yakushimaru (eps 1 - 10)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

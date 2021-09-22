@@ -1,5 +1,9 @@
 {
     "title": "Mia: Unjou no Neverland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205002.jpg",
+        "alt": "mia-unjou-no-neverland"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Joou-sama no Wagamama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144035.jpg",
+        "alt": "joou-sama-no-wagamama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "女王様のワガママ",

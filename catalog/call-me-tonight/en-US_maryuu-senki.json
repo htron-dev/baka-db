@@ -1,5 +1,9 @@
 {
     "title": "Maryuu Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/13235.jpg",
+        "alt": "maryuu-senki"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "魔龍戦紀",

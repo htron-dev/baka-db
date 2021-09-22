@@ -1,5 +1,9 @@
 {
     "title": "Kuro Ane Insomnia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211723.jpg",
+        "alt": "kuro-ane-insomnia"
+    },
     "type": "manga",
     "original_name": "黒姉インソムニア",
     "start_date": "2018-01-09",

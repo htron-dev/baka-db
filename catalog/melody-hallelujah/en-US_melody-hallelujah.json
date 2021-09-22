@@ -1,5 +1,9 @@
 {
     "title": "Melody Hallelujah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6332.jpg",
+        "alt": "melody-hallelujah"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

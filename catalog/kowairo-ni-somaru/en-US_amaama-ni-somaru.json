@@ -1,5 +1,9 @@
 {
     "title": "Amaama ni Somaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222063.jpg",
+        "alt": "amaama-ni-somaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,12 +1,16 @@
 {
     "title": "Ao no Kanata no Four Rhythm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/77839.jpg",
+        "alt": "ao-no-kanata-no-four-rhythm"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "蒼の彼方のフォーリズム",
     "start_date": "2016-01-12",
     "end_date": "2016-01-12",
     "opening_song": "\"Contrail ~Kiseki~ (Contrail〜軌跡〜)\" by Mami Kawada",
-    "ending_song": "#1",
+    "ending_song": "#1: \"a-gain\" by Ray (eps 2-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

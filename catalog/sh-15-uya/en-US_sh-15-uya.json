@@ -1,5 +1,9 @@
 {
     "title": "Sh15uya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131285.jpg",
+        "alt": "sh-15-uya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

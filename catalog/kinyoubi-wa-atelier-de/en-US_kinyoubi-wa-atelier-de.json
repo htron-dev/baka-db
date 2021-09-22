@@ -1,5 +1,9 @@
 {
     "title": "Kinyoubi wa Atelier de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236538.jpg",
+        "alt": "kinyoubi-wa-atelier-de"
+    },
     "type": "manga",
     "original_name": "金曜日はアトリエで",
     "start_date": "2019-02-15",

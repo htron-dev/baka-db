@@ -1,5 +1,9 @@
 {
     "title": "Raika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36027.jpg",
+        "alt": "raika"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "雷火―凍結",

@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Konya, Ogikei-chan ni Muriyari ni......",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193723.jpg",
+        "alt": "watashi-wa-konya-ogikei-chan-ni-muriyari-ni"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

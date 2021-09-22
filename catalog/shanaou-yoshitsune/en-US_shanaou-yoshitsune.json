@@ -1,5 +1,9 @@
 {
     "title": "Shanaou Yoshitsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4661.jpg",
+        "alt": "shanaou-yoshitsune"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "78",

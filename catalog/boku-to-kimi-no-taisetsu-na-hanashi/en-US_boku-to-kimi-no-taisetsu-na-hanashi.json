@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kimi no Taisetsu na Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174432.jpg",
+        "alt": "boku-to-kimi-no-taisetsu-na-hanashi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "37",

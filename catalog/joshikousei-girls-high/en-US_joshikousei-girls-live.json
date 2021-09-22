@@ -1,5 +1,9 @@
 {
     "title": "Joshikousei: Girls-Live",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152454.jpg",
+        "alt": "joshikousei-girls-live"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "女子高生 Girls-Live",

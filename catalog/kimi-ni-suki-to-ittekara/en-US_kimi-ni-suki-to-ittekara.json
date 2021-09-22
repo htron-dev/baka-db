@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Suki to Ittekara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20440.jpg",
+        "alt": "kimi-ni-suki-to-ittekara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

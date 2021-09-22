@@ -1,5 +1,9 @@
 {
     "title": "Seirei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215375.jpg",
+        "alt": "seirei"
+    },
     "type": "manga",
     "original_name": "蜻蛉",
     "start_date": "2015-02-28",

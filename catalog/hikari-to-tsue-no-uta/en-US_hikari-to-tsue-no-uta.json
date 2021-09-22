@@ -1,5 +1,9 @@
 {
     "title": "Hikari to Tsue no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189010.jpg",
+        "alt": "hikari-to-tsue-no-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

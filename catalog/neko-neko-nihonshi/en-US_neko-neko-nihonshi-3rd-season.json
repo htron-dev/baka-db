@@ -1,5 +1,9 @@
 {
     "title": "Neko Neko Nihonshi 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1689/90730.jpg",
+        "alt": "neko-neko-nihonshi-3rd-season"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "ねこねこ日本史 第 3 期",

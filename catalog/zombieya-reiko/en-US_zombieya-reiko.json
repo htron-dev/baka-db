@@ -1,5 +1,9 @@
 {
     "title": "Zombieya Reiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4672.jpg",
+        "alt": "zombieya-reiko"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "58",

@@ -1,5 +1,9 @@
 {
     "title": "Owarai Team",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42807.jpg",
+        "alt": "owarai-team"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

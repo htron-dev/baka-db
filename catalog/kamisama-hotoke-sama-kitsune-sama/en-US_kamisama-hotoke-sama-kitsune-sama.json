@@ -1,5 +1,9 @@
 {
     "title": "Kamisama! Hotoke-sama! Kitsune-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153682.jpg",
+        "alt": "kamisama-hotoke-sama-kitsune-sama"
+    },
     "type": "light-novel",
     "original_name": "神様!仏様!きつね様!",
     "start_date": "2014-11-29",

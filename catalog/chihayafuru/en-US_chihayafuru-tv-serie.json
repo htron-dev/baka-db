@@ -1,12 +1,16 @@
 {
     "title": "Chihayafuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/35749.jpg",
+        "alt": "chihayafuru"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ちはやふる",
     "start_date": "2011-10-05",
     "end_date": "2011-10-05",
     "opening_song": "\"YOUTHFUL\" by 99RadioService",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Soshite Ima (そしていま)\" by Asami Seto (eps 1-24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

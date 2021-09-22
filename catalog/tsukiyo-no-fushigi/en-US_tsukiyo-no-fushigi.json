@@ -1,5 +1,9 @@
 {
     "title": "Tsukiyo no Fushigi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7660.jpg",
+        "alt": "tsukiyo-no-fushigi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

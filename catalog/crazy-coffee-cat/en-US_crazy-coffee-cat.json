@@ -1,5 +1,9 @@
 {
     "title": "Crazy Coffee Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46289.jpg",
+        "alt": "crazy-coffee-cat"
+    },
     "type": "manhwa",
     "chapters": "217",
     "original_name": "크레이지 커피 캣",

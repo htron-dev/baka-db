@@ -1,5 +1,9 @@
 {
     "title": "Tennen Hachimitsu Ryou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112289.jpg",
+        "alt": "tennen-hachimitsu-ryou"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "39",

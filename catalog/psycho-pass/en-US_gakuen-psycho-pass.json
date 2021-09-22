@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Psycho-Pass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155882.jpg",
+        "alt": "gakuen-psycho-pass"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

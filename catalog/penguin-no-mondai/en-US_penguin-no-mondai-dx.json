@@ -1,5 +1,9 @@
 {
     "title": "Penguin no Mondai DX?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/29984.jpg",
+        "alt": "penguin-no-mondai-dx"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ペンギンの問題 DX?",

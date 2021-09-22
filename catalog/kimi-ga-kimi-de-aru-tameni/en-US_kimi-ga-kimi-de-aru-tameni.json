@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Kimi de Aru Tameni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/61675.jpg",
+        "alt": "kimi-ga-kimi-de-aru-tameni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

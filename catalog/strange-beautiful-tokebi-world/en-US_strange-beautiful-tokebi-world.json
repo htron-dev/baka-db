@@ -1,5 +1,9 @@
 {
     "title": "Strange, Beautiful Tokebi World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/52495.jpg",
+        "alt": "strange-beautiful-tokebi-world"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "10",

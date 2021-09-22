@@ -1,5 +1,9 @@
 {
     "title": "Akuma na Juuboku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24391.jpg",
+        "alt": "akuma-na-juuboku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

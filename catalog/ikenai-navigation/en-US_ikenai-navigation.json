@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Navigation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3152.jpg",
+        "alt": "ikenai-navigation"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

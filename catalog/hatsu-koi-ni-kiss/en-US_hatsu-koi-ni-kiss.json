@@ -1,5 +1,9 @@
 {
     "title": "Hatsu-koi ni Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142197.jpg",
+        "alt": "hatsu-koi-ni-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

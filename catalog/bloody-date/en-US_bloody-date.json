@@ -1,5 +1,9 @@
 {
     "title": "Bloody Date",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/32603.jpg",
+        "alt": "bloody-date"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "血みどろデート",

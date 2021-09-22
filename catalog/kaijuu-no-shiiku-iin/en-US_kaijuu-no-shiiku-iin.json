@@ -1,5 +1,9 @@
 {
     "title": "Kaijuu no Shiiku Iin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200644.jpg",
+        "alt": "kaijuu-no-shiiku-iin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

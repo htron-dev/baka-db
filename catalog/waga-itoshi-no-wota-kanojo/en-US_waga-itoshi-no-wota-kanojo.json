@@ -1,5 +1,9 @@
 {
     "title": "Waga Itoshi no Wota Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221272.jpg",
+        "alt": "waga-itoshi-no-wota-kanojo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

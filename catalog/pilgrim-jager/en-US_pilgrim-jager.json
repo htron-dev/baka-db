@@ -1,5 +1,9 @@
 {
     "title": "Pilgrim Jager",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9102.jpg",
+        "alt": "pilgrim-jager"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ピルグリム・イェーガー",

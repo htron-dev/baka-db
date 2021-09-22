@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi - Host",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12522.jpg",
+        "alt": "hatsukoi-host"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

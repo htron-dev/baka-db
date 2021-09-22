@@ -1,8 +1,12 @@
 {
     "title": "Space☆Dandy Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/65313.jpg",
+        "alt": "space☆-dandy-picture-drama"
+    },
     "type": "special",
     "episodes": "2",
-    "original_name": "スペース☆ダンディ ピクチャードラマ",
+    "original_name": "スペース ☆ ダンディ ピクチャードラマ",
     "start_date": "2014-07-25",
     "end_date": "2014-07-25",
     "rating": "PG-13 - Teens 13 or older",

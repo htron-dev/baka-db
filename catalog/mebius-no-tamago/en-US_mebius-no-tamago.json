@@ -1,5 +1,9 @@
 {
     "title": "Mebius no Tamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6363.jpg",
+        "alt": "mebius-no-tamago"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "メビウスの卵",

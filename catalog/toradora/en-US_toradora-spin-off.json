@@ -1,5 +1,9 @@
 {
     "title": "Toradora Spin-off!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148449.jpg",
+        "alt": "toradora-spin-off"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167936.jpg",
+        "alt": "kamisama-no-joker"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

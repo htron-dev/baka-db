@@ -1,5 +1,9 @@
 {
     "title": "Love Live! School Idol Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163591.jpg",
+        "alt": "love-live-school-idol-diary"
+    },
     "type": "manga",
     "original_name": "ラブライブ! School idol diary",
     "start_date": "2014-04-30",

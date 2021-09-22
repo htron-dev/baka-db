@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Atom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79582.jpg",
+        "alt": "tetsuwan-atom"
+    },
     "type": "tv-serie",
     "episodes": "193",
     "original_name": "鉄腕アトム",

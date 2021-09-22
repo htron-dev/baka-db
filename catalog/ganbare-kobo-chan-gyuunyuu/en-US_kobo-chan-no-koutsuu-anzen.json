@@ -1,5 +1,9 @@
 {
     "title": "Kobo-chan no Koutsuu Anzen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1725/99317.jpg",
+        "alt": "kobo-chan-no-koutsuu-anzen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "コボちゃんの交通安全",

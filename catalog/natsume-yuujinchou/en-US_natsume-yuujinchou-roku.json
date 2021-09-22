@@ -1,5 +1,9 @@
 {
     "title": "Natsume Yuujinchou Roku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/84416.jpg",
+        "alt": "natsume-yuujinchou-roku"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "夏目友人帳 陸",

@@ -1,5 +1,9 @@
 {
     "title": "Eien no Shichigatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20584.jpg",
+        "alt": "eien-no-shichigatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

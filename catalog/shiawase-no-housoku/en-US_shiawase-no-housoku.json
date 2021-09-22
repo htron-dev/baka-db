@@ -1,5 +1,9 @@
 {
     "title": "Shiawase no Housoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2680.jpg",
+        "alt": "shiawase-no-housoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

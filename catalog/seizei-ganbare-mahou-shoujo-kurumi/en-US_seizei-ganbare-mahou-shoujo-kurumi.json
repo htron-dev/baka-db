@@ -1,12 +1,16 @@
 {
     "title": "Seizei Ganbare! Mahou Shoujo Kurumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1571/90319.jpg",
+        "alt": "seizei-ganbare-mahou-shoujo-kurumi"
+    },
     "type": "ona",
     "episodes": "25",
     "original_name": "せいぜいがんばれ！魔法少女くるみ",
     "start_date": "2017-07-30",
     "end_date": "2017-07-30",
     "opening_song": "\"Girls Only Miracle! (ガールズ・オンリー・ミラクル！)\" by Mia Regina",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shiritsu Egaogaoka Chuugakkou Kouka (私立笑顔ヶ丘中学校 校歌)\" by Kiyoshi Suzuki (Yuu Hayashi), Isamu Takahashi (Wataru Hatano), Shigeru Satou (Takuma Terashima)",
     "rating": "G - All Ages",
     "tags": [
         "magic",

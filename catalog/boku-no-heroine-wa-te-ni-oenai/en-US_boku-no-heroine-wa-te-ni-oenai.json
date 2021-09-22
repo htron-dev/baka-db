@@ -1,5 +1,9 @@
 {
     "title": "Boku no Heroine wa Te ni Oenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162854.jpg",
+        "alt": "boku-no-heroine-wa-te-ni-oenai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "26",

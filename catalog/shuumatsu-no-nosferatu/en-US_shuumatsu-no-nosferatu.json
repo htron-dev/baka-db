@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu no Nosferatu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212657.jpg",
+        "alt": "shuumatsu-no-nosferatu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

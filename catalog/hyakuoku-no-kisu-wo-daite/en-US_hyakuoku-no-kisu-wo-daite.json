@@ -1,5 +1,9 @@
 {
     "title": "Hyakuoku no Kisu wo Daite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/8836.jpg",
+        "alt": "hyakuoku-no-kisu-wo-daite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

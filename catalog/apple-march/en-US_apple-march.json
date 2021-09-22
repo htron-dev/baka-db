@@ -1,5 +1,9 @@
 {
     "title": "Apple March",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131641.jpg",
+        "alt": "apple-march"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "アップルマーチ",

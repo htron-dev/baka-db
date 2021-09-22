@@ -1,5 +1,9 @@
 {
     "title": "Nagatachou ni Koi no Amefuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13977.jpg",
+        "alt": "nagatachou-ni-koi-no-amefuru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

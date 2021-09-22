@@ -1,5 +1,9 @@
 {
     "title": "Train+Train",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4731.jpg",
+        "alt": "train-train"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

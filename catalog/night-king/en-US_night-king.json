@@ -1,5 +1,9 @@
 {
     "title": "Night King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195325.jpg",
+        "alt": "night-king"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

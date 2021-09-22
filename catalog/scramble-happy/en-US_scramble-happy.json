@@ -1,5 +1,9 @@
 {
     "title": "Scramble Happy!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21151.jpg",
+        "alt": "scramble-happy"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "18",

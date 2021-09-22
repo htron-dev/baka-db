@@ -1,5 +1,9 @@
 {
     "title": "Ze Tian Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/79002.jpg",
+        "alt": "ze-tian-ji"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "择天记",

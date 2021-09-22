@@ -1,5 +1,9 @@
 {
     "title": "Chloe no Ryuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181863.jpg",
+        "alt": "chloe-no-ryuugi"
+    },
     "type": "manga",
     "original_name": "クロエの流儀",
     "start_date": "2013-02-20",

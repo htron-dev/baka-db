@@ -1,5 +1,9 @@
 {
     "title": "Crimson Spell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171499.jpg",
+        "alt": "crimson-spell"
+    },
     "type": "manga",
     "original_name": "クリムゾン・スペル",
     "start_date": "2004-05-22",

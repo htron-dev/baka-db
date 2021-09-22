@@ -1,5 +1,9 @@
 {
     "title": "Hoshizora e Kakaru Hashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/100113.jpg",
+        "alt": "hoshizora-e-kakaru-hashi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

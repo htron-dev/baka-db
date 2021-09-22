@@ -1,5 +1,9 @@
 {
     "title": "Kidou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1908/108140.jpg",
+        "alt": "kidou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "気動",

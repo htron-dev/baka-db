@@ -1,5 +1,9 @@
 {
     "title": "Wild Wight West",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203186.jpg",
+        "alt": "wild-wight-west"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

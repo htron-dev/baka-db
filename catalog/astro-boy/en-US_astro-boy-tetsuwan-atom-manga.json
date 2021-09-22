@@ -1,5 +1,9 @@
 {
     "title": "Astro Boy: Tetsuwan Atom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132309.jpg",
+        "alt": "astro-boy-tetsuwan-atom"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

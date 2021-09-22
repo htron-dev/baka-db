@@ -1,5 +1,9 @@
 {
     "title": "Ayashi Kazokukeikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79347.jpg",
+        "alt": "ayashi-kazokukeikaku"
+    },
     "type": "manga",
     "original_name": "あやしい家族計画",
     "tags": [

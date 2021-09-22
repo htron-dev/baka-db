@@ -1,5 +1,9 @@
 {
     "title": "Abarenbou Rikishi!! Matsutarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/65897.jpg",
+        "alt": "abarenbou-rikishi-matsutarou"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "暴れん坊力士！！松太郎",

@@ -1,5 +1,9 @@
 {
     "title": "Gambo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/53167.jpg",
+        "alt": "gambo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "GAMBO",

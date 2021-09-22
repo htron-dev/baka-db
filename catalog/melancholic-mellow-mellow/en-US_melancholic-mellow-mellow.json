@@ -1,5 +1,9 @@
 {
     "title": "Melancholic Mellow Mellow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30466.jpg",
+        "alt": "melancholic-mellow-mellow"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

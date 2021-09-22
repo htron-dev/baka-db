@@ -1,12 +1,16 @@
 {
     "title": "Fukumenkei Noise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/85350.jpg",
+        "alt": "fukumenkei-noise"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "覆面系ノイズ",
     "start_date": "2017-04-11",
     "end_date": "2017-04-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"High School [ANIME SIDE] -Bootleg- (ハイスクール[ANIME SIDE] -Bootleg-)\" by Miou Suguri (Ayahi Takagaki) (eps. 2, 3)",
+    "ending_song": "#1: \"Allegro (アレグロ)\" by Nino Arisugawa (Saori Hayami) (eps 1-10, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

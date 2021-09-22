@@ -1,5 +1,9 @@
 {
     "title": "Kagefumi Merry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159669.jpg",
+        "alt": "kagefumi-merry"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

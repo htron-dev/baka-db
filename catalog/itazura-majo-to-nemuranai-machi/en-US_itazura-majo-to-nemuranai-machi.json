@@ -1,10 +1,14 @@
 {
     "title": "Itazura Majo to Nemuranai Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/89169.jpg",
+        "alt": "itazura-majo-to-nemuranai-machi"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "いたずら魔女と眠らない街",
     "start_date": "2017-12-01",
-    "ending_song": "\"Wishing\" by Haitoku Pistols [Vo. Lucifer (CV",
+    "ending_song": "\"Wishing\" by Haitoku Pistols [Vo. Lucifer (CV: Yoko Hikasa)]",
     "rating": "G - All Ages",
     "tags": [
         "action",

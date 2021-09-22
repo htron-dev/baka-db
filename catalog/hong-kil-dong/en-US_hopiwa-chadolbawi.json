@@ -1,5 +1,9 @@
 {
     "title": "Hopiwa Chadolbawi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/49137.jpg",
+        "alt": "hopiwa-chadolbawi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "홍길동 호피와 차돌바위",

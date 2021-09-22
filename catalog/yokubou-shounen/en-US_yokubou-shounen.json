@@ -1,5 +1,9 @@
 {
     "title": "Yokubou Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23003.jpg",
+        "alt": "yokubou-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

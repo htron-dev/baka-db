@@ -1,5 +1,9 @@
 {
     "title": "Yuri Anthology Dolce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79885.jpg",
+        "alt": "yuri-anthology-dolce"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Kakumeiki Valvrave Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115187.jpg",
+        "alt": "kakumeiki-valvrave-anthology-comic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Henachoko Banchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/112129.jpg",
+        "alt": "henachoko-banchou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "へなちょこ番長",

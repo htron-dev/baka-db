@@ -1,12 +1,16 @@
 {
     "title": "Gaiking: Legend of Daiku-Maryu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/74215.jpg",
+        "alt": "gaiking-legend-of-daiku-maryu"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ガイキング Legend of Daiku-Maryu",
     "start_date": "2005-11-12",
     "end_date": "2005-11-12",
     "opening_song": "\"GAIKING\" by Psychic Lover",
-    "ending_song": "#1",
+    "ending_song": "#1:\"Boku ni Dekiru Koto (ボクニデキルコト)\" by Hideaki Tokunaga (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "action",

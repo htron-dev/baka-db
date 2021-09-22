@@ -1,12 +1,16 @@
 {
     "title": "Monster Farm: Legend e no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/48023.jpg",
+        "alt": "monster-farm-legend-e-no-michi"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "モンスターファーム～伝説[レジェンド]への道～",
     "start_date": "2000-04-01",
     "end_date": "2000-04-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Name\" by Takashi Utsunomiya (ep 1)",
+    "ending_song": "#1: \"Tada Sugiyuku Tameni (ただ過ぎ行くために)\" by Takashi Utsunomiya (ep 1)",
     "rating": "PG - Children",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Gin no Sereira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58199.jpg",
+        "alt": "gin-no-sereira"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "銀のセレイラ",

@@ -1,5 +1,9 @@
 {
     "title": "D.D.D.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235110.jpg",
+        "alt": "d-d-d"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

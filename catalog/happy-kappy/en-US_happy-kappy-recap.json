@@ -1,5 +1,9 @@
 {
     "title": "Happy Kappy Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/31771.jpg",
+        "alt": "happy-kappy-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "はっぴ〜カッピ",

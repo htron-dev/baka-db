@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu Oujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/20946.jpg",
+        "alt": "kaibutsu-oujo"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "怪物王女",

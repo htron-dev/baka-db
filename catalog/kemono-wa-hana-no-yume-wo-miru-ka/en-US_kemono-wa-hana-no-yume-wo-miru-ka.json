@@ -1,5 +1,9 @@
 {
     "title": "Kemono wa Hana no Yume wo Miru ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146529.jpg",
+        "alt": "kemono-wa-hana-no-yume-wo-miru-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

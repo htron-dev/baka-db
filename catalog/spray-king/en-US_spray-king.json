@@ -1,5 +1,9 @@
 {
     "title": "Spray King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170363.jpg",
+        "alt": "spray-king"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

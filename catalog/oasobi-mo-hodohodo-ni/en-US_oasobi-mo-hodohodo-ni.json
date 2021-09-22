@@ -1,5 +1,9 @@
 {
     "title": "Oasobi mo Hodohodo ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229791.jpg",
+        "alt": "oasobi-mo-hodohodo-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

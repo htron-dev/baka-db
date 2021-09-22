@@ -1,5 +1,9 @@
 {
     "title": "Watashi wo Kuruwasu Haitatsu Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192342.jpg",
+        "alt": "watashi-wo-kuruwasu-haitatsu-danshi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

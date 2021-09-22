@@ -1,5 +1,9 @@
 {
     "title": "Bucchouzura ni Koi wo Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2316.jpg",
+        "alt": "bucchouzura-ni-koi-wo-shite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Bi Jia Zhu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1342/115198.jpg",
+        "alt": "bi-jia-zhu"
+    },
     "type": "tv-serie",
     "episodes": "53",
     "original_name": "毕加猪",

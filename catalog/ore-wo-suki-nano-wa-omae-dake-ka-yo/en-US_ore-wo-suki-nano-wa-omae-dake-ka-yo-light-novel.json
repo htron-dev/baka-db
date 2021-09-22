@@ -1,5 +1,9 @@
 {
     "title": "Ore wo Suki nano wa Omae dake ka yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172464.jpg",
+        "alt": "ore-wo-suki-nano-wa-omae-dake-ka-yo"
+    },
     "type": "light-novel",
     "original_name": "俺を好きなのはお前だけかよ",
     "start_date": "2016-02-10",

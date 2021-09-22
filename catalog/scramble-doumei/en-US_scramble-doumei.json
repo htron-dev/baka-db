@@ -1,5 +1,9 @@
 {
     "title": "Scramble Doumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30063.jpg",
+        "alt": "scramble-doumei"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "すくらんぶる同盟",

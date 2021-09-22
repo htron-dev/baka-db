@@ -1,5 +1,9 @@
 {
     "title": "Hoshi-iro Girldrop: Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223610.jpg",
+        "alt": "hoshi-iro-girldrop-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Aogeba Toutoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129897.jpg",
+        "alt": "aogeba-toutoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Let's Akuma Tech Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9911.jpg",
+        "alt": "lets-akuma-tech-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

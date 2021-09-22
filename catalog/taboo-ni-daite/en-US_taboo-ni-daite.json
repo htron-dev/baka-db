@@ -1,5 +1,9 @@
 {
     "title": "Taboo ni Daite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5356.jpg",
+        "alt": "taboo-ni-daite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

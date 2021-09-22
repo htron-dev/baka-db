@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ga Tonda Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23530.jpg",
+        "alt": "kanojo-ga-tonda-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

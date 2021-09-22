@@ -1,5 +1,9 @@
 {
     "title": "Influence Incident",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247516.jpg",
+        "alt": "influence-incident"
+    },
     "type": "light-novel",
     "original_name": "インフルエンス・インシデント",
     "start_date": "2021-03-10",

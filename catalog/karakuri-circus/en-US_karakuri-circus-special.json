@@ -1,5 +1,9 @@
 {
     "title": "Karakuri Circus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1533/102851.jpg",
+        "alt": "karakuri-circus"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "CM 少年サンデー「からくりサーカス」編",

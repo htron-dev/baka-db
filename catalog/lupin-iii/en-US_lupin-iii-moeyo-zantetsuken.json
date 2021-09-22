@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Moeyo Zantetsuken!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/77771.jpg",
+        "alt": "lupin-iii-moeyo-zantetsuken"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世『燃えよ斬鉄剣』",

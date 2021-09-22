@@ -1,5 +1,9 @@
 {
     "title": "Charlotte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188823.jpg",
+        "alt": "charlotte"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "45",

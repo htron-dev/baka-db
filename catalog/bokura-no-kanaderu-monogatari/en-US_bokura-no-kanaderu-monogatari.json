@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Kanaderu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242854.jpg",
+        "alt": "bokura-no-kanaderu-monogatari"
+    },
     "type": "manga",
     "original_name": "僕らの奏でる物語",
     "start_date": "2019-04-27",

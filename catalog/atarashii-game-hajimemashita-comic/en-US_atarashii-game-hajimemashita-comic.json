@@ -1,5 +1,9 @@
 {
     "title": "Atarashii Game Hajimemashita. @comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229738.jpg",
+        "alt": "atarashii-game-hajimemashita-comic"
+    },
     "type": "manga",
     "original_name": "新しいゲーム始めました。@COMIC",
     "start_date": "2019-04-08",

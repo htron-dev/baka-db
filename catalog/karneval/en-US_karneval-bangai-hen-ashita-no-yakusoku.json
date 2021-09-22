@@ -1,5 +1,9 @@
 {
     "title": "Karneval Bangai-hen: Ashita no Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172707.jpg",
+        "alt": "karneval-bangai-hen-ashita-no-yakusoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

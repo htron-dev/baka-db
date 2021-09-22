@@ -1,5 +1,9 @@
 {
     "title": "Gakusen Toshi Asterisk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183816.jpg",
+        "alt": "gakusen-toshi-asterisk"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "37",

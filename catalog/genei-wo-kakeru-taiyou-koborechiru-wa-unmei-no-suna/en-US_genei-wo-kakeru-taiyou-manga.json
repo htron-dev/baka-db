@@ -1,5 +1,9 @@
 {
     "title": "Genei wo Kakeru Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125897.jpg",
+        "alt": "genei-wo-kakeru-taiyou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

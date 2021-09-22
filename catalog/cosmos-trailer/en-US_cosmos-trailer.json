@@ -1,5 +1,9 @@
 {
     "title": "Cosmos Trailer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1854/108243.jpg",
+        "alt": "cosmos-trailer"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "「宇宙」予告編アニメ映像",

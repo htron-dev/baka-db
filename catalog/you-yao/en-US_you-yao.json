@@ -1,5 +1,9 @@
 {
     "title": "You Yao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1821/108124.jpg",
+        "alt": "you-yao"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "有药",

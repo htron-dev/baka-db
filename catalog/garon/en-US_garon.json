@@ -1,5 +1,9 @@
 {
     "title": "Garon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/72666.jpg",
+        "alt": "garon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ガロン",

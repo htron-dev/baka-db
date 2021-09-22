@@ -1,5 +1,9 @@
 {
     "title": "Oshushi da yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247614.jpg",
+        "alt": "oshushi-da-yo"
+    },
     "type": "manga",
     "original_name": "おしゅしだよ",
     "start_date": "2014-04-28",

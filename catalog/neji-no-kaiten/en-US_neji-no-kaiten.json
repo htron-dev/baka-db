@@ -1,5 +1,9 @@
 {
     "title": "Neji no Kaiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164993.jpg",
+        "alt": "neji-no-kaiten"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

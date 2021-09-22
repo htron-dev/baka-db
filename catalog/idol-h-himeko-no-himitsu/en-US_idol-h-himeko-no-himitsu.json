@@ -1,5 +1,9 @@
 {
     "title": "Idol H: Himeko no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151935.jpg",
+        "alt": "idol-h-himeko-no-himitsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

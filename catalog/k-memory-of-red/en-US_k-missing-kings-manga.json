@@ -1,5 +1,9 @@
 {
     "title": "K: Missing Kings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165916.jpg",
+        "alt": "k-missing-kings"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

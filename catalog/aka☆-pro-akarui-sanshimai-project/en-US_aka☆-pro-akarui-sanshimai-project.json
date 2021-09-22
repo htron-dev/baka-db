@@ -1,5 +1,9 @@
 {
     "title": "Aka☆Pro!!!: Akarui Sanshimai Project!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161724.jpg",
+        "alt": "aka☆-pro-akarui-sanshimai-project"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "35",

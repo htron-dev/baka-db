@@ -1,5 +1,9 @@
 {
     "title": "Tokyogurashi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/79575.jpg",
+        "alt": "tokyogurashi"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "凍京ぐらし！",

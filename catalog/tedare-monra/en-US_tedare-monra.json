@@ -1,5 +1,9 @@
 {
     "title": "Tedare Monra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226346.jpg",
+        "alt": "tedare-monra"
+    },
     "type": "manga",
     "original_name": "てだれもんら",
     "start_date": "2019-02-12",

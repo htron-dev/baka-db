@@ -1,5 +1,9 @@
 {
     "title": "Kono Mahou ga Sugoi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3624.jpg",
+        "alt": "kono-mahou-ga-sugoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

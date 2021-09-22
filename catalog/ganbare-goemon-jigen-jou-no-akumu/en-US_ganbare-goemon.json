@@ -1,11 +1,15 @@
 {
     "title": "Ganbare Goemon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/65107.jpg",
+        "alt": "ganbare-goemon"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "がんばれゴエモン",
     "start_date": "1997-10-04",
     "end_date": "1997-10-04",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Shonen no Hane\" by Saru Ganseki (ep 1-12)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

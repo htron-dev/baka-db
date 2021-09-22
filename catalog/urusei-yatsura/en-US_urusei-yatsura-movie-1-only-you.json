@@ -1,5 +1,9 @@
 {
     "title": "Urusei Yatsura Movie 1: Only You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/10127.jpg",
+        "alt": "urusei-yatsura-movie-1-only-you"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "うる星やつら オンリーユー",

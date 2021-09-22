@@ -1,5 +1,9 @@
 {
     "title": "Vandread: Taidou-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75448.jpg",
+        "alt": "vandread-taidou-hen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ヴァンドレッド 胎動篇",

@@ -1,5 +1,9 @@
 {
     "title": "Love App",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212634.jpg",
+        "alt": "love-app"
+    },
     "type": "manga",
     "original_name": "ラブアプリ",
     "start_date": "2018-03-19",

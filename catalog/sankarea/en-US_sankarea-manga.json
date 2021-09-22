@@ -1,5 +1,9 @@
 {
     "title": "Sankarea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137969.jpg",
+        "alt": "sankarea"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "59",

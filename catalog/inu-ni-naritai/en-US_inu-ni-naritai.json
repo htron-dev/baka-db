@@ -1,5 +1,9 @@
 {
     "title": "Inu ni Naritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150753.jpg",
+        "alt": "inu-ni-naritai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

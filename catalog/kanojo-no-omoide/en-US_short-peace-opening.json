@@ -1,5 +1,9 @@
 {
     "title": "Short Peace Opening",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/55731.jpg",
+        "alt": "short-peace-opening"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "武器よさらばオープニング",

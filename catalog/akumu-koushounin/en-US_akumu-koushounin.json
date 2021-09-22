@@ -1,5 +1,9 @@
 {
     "title": "Akumu Koushounin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148233.jpg",
+        "alt": "akumu-koushounin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

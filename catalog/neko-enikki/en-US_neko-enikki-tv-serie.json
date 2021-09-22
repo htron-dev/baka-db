@@ -1,5 +1,9 @@
 {
     "title": "Neko Enikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75429.jpg",
+        "alt": "neko-enikki"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "猫絵日記",

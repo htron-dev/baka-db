@@ -1,5 +1,9 @@
 {
     "title": "G Joshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165139.jpg",
+        "alt": "g-joshi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Shimotsuma Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155944.jpg",
+        "alt": "shimotsuma-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

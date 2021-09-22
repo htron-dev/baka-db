@@ -1,5 +1,9 @@
 {
     "title": "Kodomo wa Tomaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18372.jpg",
+        "alt": "kodomo-wa-tomaranai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

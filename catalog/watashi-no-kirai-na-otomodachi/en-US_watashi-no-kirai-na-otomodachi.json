@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Kirai na Otomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152026.jpg",
+        "alt": "watashi-no-kirai-na-otomodachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

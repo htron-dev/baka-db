@@ -1,5 +1,9 @@
 {
     "title": "My Love Tiger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149888.jpg",
+        "alt": "my-love-tiger"
+    },
     "type": "manhwa",
     "original_name": "나와 호랑이님",
     "start_date": "2014-07-05",

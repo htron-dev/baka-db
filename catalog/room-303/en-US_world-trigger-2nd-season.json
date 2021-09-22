@@ -1,5 +1,9 @@
 {
     "title": "World Trigger 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1598/110462.jpg",
+        "alt": "world-trigger-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ワールドトリガー",

@@ -1,5 +1,9 @@
 {
     "title": "Oukoku Shinwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162733.jpg",
+        "alt": "oukoku-shinwa"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Smuggler",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138187.jpg",
+        "alt": "smuggler"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoushi mo Iroiro Aru Wake de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/17266.jpg",
+        "alt": "kyoushi-mo-iroiro-aru-wake-de"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

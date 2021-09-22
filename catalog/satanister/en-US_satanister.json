@@ -1,5 +1,9 @@
 {
     "title": "Satanister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46793.jpg",
+        "alt": "satanister"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

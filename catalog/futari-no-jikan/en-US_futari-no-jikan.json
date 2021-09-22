@@ -1,5 +1,9 @@
 {
     "title": "Futari no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215070.jpg",
+        "alt": "futari-no-jikan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Tabegoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224400.jpg",
+        "alt": "kimi-no-tabegoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

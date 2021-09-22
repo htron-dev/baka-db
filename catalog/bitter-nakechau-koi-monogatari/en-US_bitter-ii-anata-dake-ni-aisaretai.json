@@ -1,5 +1,9 @@
 {
     "title": "Bitter II: Anata dake ni Aisaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/108521.jpg",
+        "alt": "bitter-ii-anata-dake-ni-aisaretai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

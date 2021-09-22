@@ -1,5 +1,9 @@
 {
     "title": "Joushuu Touzoku Aratamegata Hinagiku Kenzan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29316.jpg",
+        "alt": "joushuu-touzoku-aratamegata-hinagiku-kenzan"
+    },
     "type": "manga",
     "volumes": "3",
     "tags": [

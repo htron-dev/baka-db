@@ -1,5 +1,9 @@
 {
     "title": "Carino Coni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61725.jpg",
+        "alt": "carino-coni"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "カリーノ・コニ",

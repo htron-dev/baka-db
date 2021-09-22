@@ -1,5 +1,9 @@
 {
     "title": "Iede Musume Hiroimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178295.jpg",
+        "alt": "iede-musume-hiroimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

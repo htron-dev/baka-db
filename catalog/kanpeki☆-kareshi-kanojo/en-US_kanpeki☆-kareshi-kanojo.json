@@ -1,5 +1,9 @@
 {
     "title": "Kanpeki☆Kareshi Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105175.jpg",
+        "alt": "kanpeki☆-kareshi-kanojo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

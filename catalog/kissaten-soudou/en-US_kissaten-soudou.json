@@ -1,5 +1,9 @@
 {
     "title": "Kissaten Soudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/81518.jpg",
+        "alt": "kissaten-soudou"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "喫茶店騒動",

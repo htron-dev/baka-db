@@ -1,5 +1,9 @@
 {
     "title": "Igyou Yorozu no Kouzuya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213180.jpg",
+        "alt": "igyou-yorozu-no-kouzuya-san"
+    },
     "type": "manga",
     "original_name": "異形萬乃好事屋さん",
     "start_date": "2018-04-04",

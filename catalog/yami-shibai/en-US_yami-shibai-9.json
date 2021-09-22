@@ -1,5 +1,9 @@
 {
     "title": "Yami Shibai 9",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1880/115566.jpg",
+        "alt": "yami-shibai-9"
+    },
     "type": "tv-serie",
     "original_name": "闇芝居 九期",
     "start_date": "2021-07-12",

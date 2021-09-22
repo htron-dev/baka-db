@@ -1,5 +1,9 @@
 {
     "title": "Noraneko to Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237804.jpg",
+        "alt": "noraneko-to-ookami"
+    },
     "type": "manga",
     "original_name": "野良猫と狼",
     "start_date": "2019-07-25",

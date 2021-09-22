@@ -1,5 +1,9 @@
 {
     "title": "Battle Royal High School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/6209.jpg",
+        "alt": "battle-royal-high-school"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "真魔神伝　バトルロイヤルハイスクール",

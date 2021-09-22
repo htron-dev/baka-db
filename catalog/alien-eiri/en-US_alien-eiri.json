@@ -1,5 +1,9 @@
 {
     "title": "Alien Eiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173419.jpg",
+        "alt": "alien-eiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "31",

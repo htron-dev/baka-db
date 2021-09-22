@@ -1,12 +1,16 @@
 {
     "title": "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/84463.jpg",
+        "alt": "uchuu-senkan-yamato-2202-ai-no-senshi-tachi"
+    },
     "type": "ova",
     "episodes": "26",
     "original_name": "宇宙戦艦ヤマト 2202 愛の戦士たち",
     "start_date": "2017-02-25",
     "end_date": "2017-02-25",
     "opening_song": "\"Uchuu Senkan Yamato 2202 (宇宙戦艦ヤマト 2202)\" by Isao Sasaki (ep 4)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yamato yori Ai wo Komete (ヤマトより愛をこめて)\" by Kenji Sawada (沢田研二) (eps 1-2, 26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

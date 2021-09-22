@@ -1,5 +1,9 @@
 {
     "title": "Kodomo x Otona no Houteishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190989.jpg",
+        "alt": "kodomo-x-otona-no-houteishiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

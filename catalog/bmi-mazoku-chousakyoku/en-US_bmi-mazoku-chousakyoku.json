@@ -1,5 +1,9 @@
 {
     "title": "BMI - Mazoku Chousakyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115663.jpg",
+        "alt": "bmi-mazoku-chousakyoku"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "BMI ～魔族調査局",

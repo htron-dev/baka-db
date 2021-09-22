@@ -1,5 +1,9 @@
 {
     "title": "Rockabye Dear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238038.jpg",
+        "alt": "rockabye-dear"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Paper Braver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185302.jpg",
+        "alt": "paper-braver"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "64",

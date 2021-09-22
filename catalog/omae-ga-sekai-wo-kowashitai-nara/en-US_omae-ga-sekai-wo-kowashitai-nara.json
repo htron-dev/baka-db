@@ -1,5 +1,9 @@
 {
     "title": "Omae ga Sekai wo Kowashitai nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165245.jpg",
+        "alt": "omae-ga-sekai-wo-kowashitai-nara"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

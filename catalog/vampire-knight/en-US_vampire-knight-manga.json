@@ -1,5 +1,9 @@
 {
     "title": "Vampire Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167748.jpg",
+        "alt": "vampire-knight"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "102",

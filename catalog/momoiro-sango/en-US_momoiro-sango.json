@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Sango",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173125.jpg",
+        "alt": "momoiro-sango"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "185",

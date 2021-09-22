@@ -1,5 +1,9 @@
 {
     "title": "Yuureisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222770.jpg",
+        "alt": "yuureisen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "幽霊船",

@@ -1,5 +1,9 @@
 {
     "title": "Color Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210391.jpg",
+        "alt": "color-recipe"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "カラーレシピ",

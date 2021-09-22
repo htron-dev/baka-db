@@ -1,5 +1,9 @@
 {
     "title": "HoneComi: The 4-koma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154187.jpg",
+        "alt": "hone-comi-the-4-koma"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ハニカミ The4 コマ",

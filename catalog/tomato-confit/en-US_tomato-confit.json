@@ -1,5 +1,9 @@
 {
     "title": "Tomato Confit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1040/109982.jpg",
+        "alt": "tomato-confit"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "トマトコンフィ",

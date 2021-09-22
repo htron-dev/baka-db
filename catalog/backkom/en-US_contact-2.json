@@ -1,5 +1,9 @@
 {
     "title": "Contact 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/65741.jpg",
+        "alt": "contact-2"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Contact 2",

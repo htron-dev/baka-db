@@ -1,5 +1,9 @@
 {
     "title": "Tokumei OL Abakareta Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195937.jpg",
+        "alt": "tokumei-ol-abakareta-himitsu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "特命 OL 暴かれた秘蜜",

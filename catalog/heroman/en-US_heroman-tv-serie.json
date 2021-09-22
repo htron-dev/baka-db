@@ -1,12 +1,16 @@
 {
     "title": "Heroman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23841.jpg",
+        "alt": "heroman"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ヒーローマン",
     "start_date": "2010-04-01",
     "end_date": "2010-04-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Roulette\" by Tetsuya (eps 1-12)",
+    "ending_song": "#1: \"CALLING\" by FLOW (eps 1-12)",
     "rating": "PG - Children",
     "tags": [
         "action",

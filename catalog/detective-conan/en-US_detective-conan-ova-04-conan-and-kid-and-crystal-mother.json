@@ -1,8 +1,12 @@
 {
     "title": "Detective Conan OVA 04: Conan and Kid and Crystal Mother",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/31141.jpg",
+        "alt": "detective-conan-ova-04-conan-and-kid-and-crystal-mother"
+    },
     "type": "ova",
     "episodes": "1",
-    "original_name": "名探偵コナン",
+    "original_name": "名探偵コナン: コナンとキッドとクリスタルマザー",
     "start_date": "2004-01-20",
     "ending_song": "\"Nemuru Kimi no Yokogao ni Hohoemi wo (眠る君の横顔に微笑みを)\" by Yuuka Saegusa",
     "rating": "PG-13 - Teens 13 or older",

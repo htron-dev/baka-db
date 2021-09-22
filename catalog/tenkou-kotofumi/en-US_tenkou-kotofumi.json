@@ -1,5 +1,9 @@
 {
     "title": "Tenkou Kotofumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/77496.jpg",
+        "alt": "tenkou-kotofumi"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "天紅事記",

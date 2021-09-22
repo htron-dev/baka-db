@@ -1,5 +1,9 @@
 {
     "title": "Ore, No-ryokusha ni Tsuki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198105.jpg",
+        "alt": "ore-no-ryokusha-ni-tsuki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

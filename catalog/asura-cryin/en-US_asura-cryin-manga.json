@@ -1,5 +1,9 @@
 {
     "title": "Asura Cryin'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148523.jpg",
+        "alt": "asura-cryin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

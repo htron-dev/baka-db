@@ -1,5 +1,9 @@
 {
     "title": "Vanilla Frosting",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137431.jpg",
+        "alt": "vanilla-frosting"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "13",

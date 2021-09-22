@@ -1,5 +1,9 @@
 {
     "title": "Genba Kantoku Inkei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85531.jpg",
+        "alt": "genba-kantoku-inkei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

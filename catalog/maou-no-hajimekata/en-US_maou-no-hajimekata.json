@@ -1,5 +1,9 @@
 {
     "title": "Maou no Hajimekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177050.jpg",
+        "alt": "maou-no-hajimekata"
+    },
     "type": "light-novel",
     "original_name": "魔王の始め方",
     "start_date": "2015-02-03",

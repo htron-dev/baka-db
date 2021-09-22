@@ -1,5 +1,9 @@
 {
     "title": "Yuusha no Kokoroe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163914.jpg",
+        "alt": "yuusha-no-kokoroe"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

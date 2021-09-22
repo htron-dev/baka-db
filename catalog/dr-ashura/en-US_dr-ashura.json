@@ -1,5 +1,9 @@
 {
     "title": "Dr. Ashura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168580.jpg",
+        "alt": "dr-ashura"
+    },
     "type": "manga",
     "original_name": "Dr.アシュラ",
     "start_date": "2015-03-27",

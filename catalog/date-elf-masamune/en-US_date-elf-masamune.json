@@ -1,5 +1,9 @@
 {
     "title": "Date Elf Masamune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175725.jpg",
+        "alt": "date-elf-masamune"
+    },
     "type": "light-novel",
     "original_name": "伊達エルフ政宗",
     "start_date": "2016-04-15",

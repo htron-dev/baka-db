@@ -1,5 +1,9 @@
 {
     "title": "Cloth Weaver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170351.jpg",
+        "alt": "cloth-weaver"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

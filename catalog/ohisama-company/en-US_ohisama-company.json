@@ -1,5 +1,9 @@
 {
     "title": "Ohisama Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14758.jpg",
+        "alt": "ohisama-company"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "お日様カンパニー",

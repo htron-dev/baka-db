@@ -1,5 +1,9 @@
 {
     "title": "Kaden Tantei wa Shizuka ni Warau.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96167.jpg",
+        "alt": "kaden-tantei-wa-shizuka-ni-warau"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

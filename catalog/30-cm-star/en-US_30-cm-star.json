@@ -1,5 +1,9 @@
 {
     "title": "30cm Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143059.jpg",
+        "alt": "30-cm-star"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

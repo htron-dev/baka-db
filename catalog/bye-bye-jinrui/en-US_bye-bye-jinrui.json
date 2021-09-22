@@ -1,5 +1,9 @@
 {
     "title": "Bye-bye Jinrui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179925.jpg",
+        "alt": "bye-bye-jinrui"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "Happy Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27431.jpg",
+        "alt": "happy-seven"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "はっぴぃセブン",

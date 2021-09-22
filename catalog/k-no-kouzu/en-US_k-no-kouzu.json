@@ -1,5 +1,9 @@
 {
     "title": "K no Kouzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20804.jpg",
+        "alt": "k-no-kouzu"
+    },
     "type": "manga",
     "original_name": "K の構図",
     "start_date": "2009-03-20",

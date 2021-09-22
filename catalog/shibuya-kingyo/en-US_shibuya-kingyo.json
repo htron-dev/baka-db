@@ -1,5 +1,9 @@
 {
     "title": "Shibuya Kingyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193624.jpg",
+        "alt": "shibuya-kingyo"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "55",

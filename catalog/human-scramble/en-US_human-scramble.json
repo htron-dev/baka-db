@@ -1,5 +1,9 @@
 {
     "title": "Human Scramble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185235.jpg",
+        "alt": "human-scramble"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "212",

@@ -1,5 +1,9 @@
 {
     "title": "Smells Like Green Spirit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109555.jpg",
+        "alt": "smells-like-green-spirit"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

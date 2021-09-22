@@ -1,5 +1,9 @@
 {
     "title": "Tasukete Megami-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199223.jpg",
+        "alt": "tasukete-megami-sama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

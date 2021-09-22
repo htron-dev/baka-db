@@ -1,5 +1,9 @@
 {
     "title": "NPC to Kurasou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194247.jpg",
+        "alt": "npc-to-kurasou"
+    },
     "type": "light-novel",
     "original_name": "NPC と暮らそう！",
     "start_date": "2016-06-11",

@@ -1,5 +1,9 @@
 {
     "title": "Rin Rin D.I.Y",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230557.jpg",
+        "alt": "rin-rin-d-i-y"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

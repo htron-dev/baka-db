@@ -1,12 +1,16 @@
 {
     "title": "Bobobo-bo Bo-bobo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/44540.jpg",
+        "alt": "bobobo-bo-bo-bobo"
+    },
     "type": "tv-serie",
     "episodes": "76",
     "original_name": "ボボボーボ・ボーボボ",
     "start_date": "2003-11-08",
     "end_date": "2003-11-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Wild Challenger\" by Jindou",
+    "ending_song": "#1: \"Shiawase (Happiness)\" by Mani Laba",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

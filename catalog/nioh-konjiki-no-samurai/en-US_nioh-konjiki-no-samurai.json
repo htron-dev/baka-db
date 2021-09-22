@@ -1,5 +1,9 @@
 {
     "title": "Nioh: Konjiki no Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194320.jpg",
+        "alt": "nioh-konjiki-no-samurai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

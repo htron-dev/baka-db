@@ -1,5 +1,9 @@
 {
     "title": "Hitoyo Hitoyo ni Otomegoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139531.jpg",
+        "alt": "hitoyo-hitoyo-ni-otomegoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

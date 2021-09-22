@@ -1,5 +1,9 @@
 {
     "title": "Just Because!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/88234.jpg",
+        "alt": "just-because"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Just Because!",

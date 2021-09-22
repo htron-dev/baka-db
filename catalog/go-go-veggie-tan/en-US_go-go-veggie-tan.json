@@ -1,5 +1,9 @@
 {
     "title": "Go! Go! Veggie-tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/70857.jpg",
+        "alt": "go-go-veggie-tan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Ｇｏ！Ｇｏ！ベジタン",

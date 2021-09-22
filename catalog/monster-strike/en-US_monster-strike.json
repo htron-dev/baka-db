@@ -1,11 +1,15 @@
 {
     "title": "Monster Strike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/78835.jpg",
+        "alt": "monster-strike"
+    },
     "type": "ona",
     "episodes": "51",
     "original_name": "モンスターストライク",
     "start_date": "2015-10-10",
     "end_date": "2015-10-10",
-    "ending_song": "#1",
+    "ending_song": "#1: \"We Will Rock You\" by GLORIA (eps 1-12, 14)",
     "rating": "PG - Children",
     "tags": [
         "action",

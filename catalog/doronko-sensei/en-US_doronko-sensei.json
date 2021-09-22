@@ -1,5 +1,9 @@
 {
     "title": "Doronko-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36129.jpg",
+        "alt": "doronko-sensei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "どろんこ先生",

@@ -1,5 +1,9 @@
 {
     "title": "Paris-Paris Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198094.jpg",
+        "alt": "paris-paris-densetsu"
+    },
     "type": "manga",
     "original_name": "パリパリ伝説",
     "start_date": "2004-12-08",

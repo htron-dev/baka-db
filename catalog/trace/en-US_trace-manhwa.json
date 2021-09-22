@@ -1,5 +1,9 @@
 {
     "title": "Trace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144971.jpg",
+        "alt": "trace"
+    },
     "type": "manhwa",
     "chapters": "177",
     "original_name": "트레이스",

@@ -1,5 +1,9 @@
 {
     "title": "Digimon Survive: Prologue Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1099/102198.jpg",
+        "alt": "digimon-survive-prologue-movie"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "『デジモンサヴァイブ』プロローグムービー",

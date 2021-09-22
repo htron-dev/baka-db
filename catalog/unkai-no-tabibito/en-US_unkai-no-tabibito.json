@@ -1,5 +1,9 @@
 {
     "title": "Unkai no Tabibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136343.jpg",
+        "alt": "unkai-no-tabibito"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

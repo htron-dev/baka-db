@@ -1,5 +1,9 @@
 {
     "title": "Gensou Shounen Koimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62357.jpg",
+        "alt": "gensou-shounen-koimonogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

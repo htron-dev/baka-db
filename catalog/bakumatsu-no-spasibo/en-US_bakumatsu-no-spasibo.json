@@ -1,5 +1,9 @@
 {
     "title": "Bakumatsu no Spasibo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/71979.jpg",
+        "alt": "bakumatsu-no-spasibo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "幕末のスパシーボ",

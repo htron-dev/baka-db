@@ -1,5 +1,9 @@
 {
     "title": "Koibito 8-gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/103489.jpg",
+        "alt": "koibito-8-gou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

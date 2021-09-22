@@ -1,12 +1,16 @@
 {
     "title": "Digimon Tamers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/73696.jpg",
+        "alt": "digimon-tamers"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "デジモンテイマーズ",
     "start_date": "2001-04-01",
     "end_date": "2001-04-01",
     "opening_song": "\"The Biggest Dreamer\" by Kouji Wada",
-    "ending_song": "#1",
+    "ending_song": "#1: \"My Tomorrow\" by AiM (eps 1-23)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

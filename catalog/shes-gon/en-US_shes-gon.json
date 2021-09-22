@@ -1,5 +1,9 @@
 {
     "title": "She's Gon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61655.jpg",
+        "alt": "shes-gon"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "25",

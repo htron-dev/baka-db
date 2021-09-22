@@ -1,5 +1,9 @@
 {
     "title": "Great Pretender",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235245.jpg",
+        "alt": "great-pretender"
+    },
     "type": "manga",
     "original_name": "GREAT PRETENDER",
     "start_date": "2020-06-10",

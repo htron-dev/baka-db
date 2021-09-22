@@ -1,5 +1,9 @@
 {
     "title": "Yoroshiku Mechadoc",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234611.jpg",
+        "alt": "yoroshiku-mechadoc"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "114",

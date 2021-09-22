@@ -1,5 +1,9 @@
 {
     "title": "Inuwari-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1815/111535.jpg",
+        "alt": "inuwari-san"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "いぬわりさん",

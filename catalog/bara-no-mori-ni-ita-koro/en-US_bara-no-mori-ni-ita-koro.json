@@ -1,5 +1,9 @@
 {
     "title": "Bara no Mori ni Ita Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225859.jpg",
+        "alt": "bara-no-mori-ni-ita-koro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

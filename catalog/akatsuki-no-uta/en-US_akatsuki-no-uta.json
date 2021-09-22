@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164682.jpg",
+        "alt": "akatsuki-no-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Yuki ni Tsubasa: Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131589.jpg",
+        "alt": "yuki-ni-tsubasa-haru"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "71",

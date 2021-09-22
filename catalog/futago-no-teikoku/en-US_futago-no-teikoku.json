@@ -1,5 +1,9 @@
 {
     "title": "Futago no Teikoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194336.jpg",
+        "alt": "futago-no-teikoku"
+    },
     "type": "manga",
     "original_name": "双子の帝國",
     "start_date": "2015-08-21",

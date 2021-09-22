@@ -1,5 +1,9 @@
 {
     "title": "Tenshi wo Hirotta Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247161.jpg",
+        "alt": "tenshi-wo-hirotta-yoru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "天使を拾った夜",

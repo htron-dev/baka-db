@@ -1,5 +1,9 @@
 {
     "title": "Yakimochi Caprice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/42233.jpg",
+        "alt": "yakimochi-caprice"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "やきもち狂想曲",

@@ -1,12 +1,16 @@
 {
     "title": "Kabukichou Sherlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1657/111622.jpg",
+        "alt": "kabukichou-sherlock"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "歌舞伎町シャーロック",
     "start_date": "2019-10-12",
     "end_date": "2019-10-12",
     "opening_song": "\"CAPTURE\" by EGO-WRAPPIN'",
-    "ending_song": "#1",
+    "ending_song": "#1: \"CAPTURE\" by EGO-WRAPPIN' (eps 1, 24)",
     "rating": "None",
     "tags": [
         "mystery",

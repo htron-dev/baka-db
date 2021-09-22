@@ -1,5 +1,9 @@
 {
     "title": "Thanatos no Futago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38239.jpg",
+        "alt": "thanatos-no-futago"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "19",

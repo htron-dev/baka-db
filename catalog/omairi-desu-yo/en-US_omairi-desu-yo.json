@@ -1,5 +1,9 @@
 {
     "title": "Omairi desu yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77891.jpg",
+        "alt": "omairi-desu-yo"
+    },
     "type": "manga",
     "original_name": "お参りですよ",
     "start_date": "2011-08-20",

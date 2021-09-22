@@ -1,5 +1,9 @@
 {
     "title": "Inbi na Doukutsu no Sono Oku de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207289.jpg",
+        "alt": "inbi-na-doukutsu-no-sono-oku-de"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "24",

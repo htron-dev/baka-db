@@ -1,5 +1,9 @@
 {
     "title": "Sil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222665.jpg",
+        "alt": "sil"
+    },
     "type": "manhwa",
     "chapters": "102",
     "original_name": "실",

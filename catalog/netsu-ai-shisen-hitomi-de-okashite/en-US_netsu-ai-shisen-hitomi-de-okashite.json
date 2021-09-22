@@ -1,5 +1,9 @@
 {
     "title": "Netsu-Ai Shisen: Hitomi de Okashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182515.jpg",
+        "alt": "netsu-ai-shisen-hitomi-de-okashite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

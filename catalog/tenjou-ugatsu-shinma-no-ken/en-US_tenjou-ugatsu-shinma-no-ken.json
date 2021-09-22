@@ -1,5 +1,9 @@
 {
     "title": "Tenjou Ugatsu Shinma no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177799.jpg",
+        "alt": "tenjou-ugatsu-shinma-no-ken"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

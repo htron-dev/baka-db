@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Yankee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/41185.jpg",
+        "alt": "sengoku-yankee"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "戦国ヤンキー",

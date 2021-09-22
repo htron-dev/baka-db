@@ -1,5 +1,9 @@
 {
     "title": "Natsu no Kakera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89041.jpg",
+        "alt": "natsu-no-kakera"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

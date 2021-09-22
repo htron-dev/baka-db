@@ -1,5 +1,9 @@
 {
     "title": "Akai Ringo no Nakami Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231800.jpg",
+        "alt": "akai-ringo-no-nakami-jijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

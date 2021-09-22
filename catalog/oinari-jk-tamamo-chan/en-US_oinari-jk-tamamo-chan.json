@@ -1,5 +1,9 @@
 {
     "title": "Oinari JK Tamamo-chan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205422.jpg",
+        "alt": "oinari-jk-tamamo-chan"
+    },
     "type": "manga",
     "original_name": "お稲荷 JK たまもちゃん！",
     "start_date": "2017-01-27",

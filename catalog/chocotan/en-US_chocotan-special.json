@@ -1,5 +1,9 @@
 {
     "title": "Chocotan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/49925.jpg",
+        "alt": "chocotan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "チョコタン!",

@@ -1,5 +1,9 @@
 {
     "title": "TaoTao Ehonkan Sekai Doubutsu Banashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/3365.jpg",
+        "alt": "tao-tao-ehonkan-sekai-doubutsu-banashi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "タオタオ絵本館",

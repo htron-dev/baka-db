@@ -1,5 +1,9 @@
 {
     "title": "Tora-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208081.jpg",
+        "alt": "tora-san"
+    },
     "type": "manga",
     "original_name": "トラさん",
     "start_date": "2013-12-14",

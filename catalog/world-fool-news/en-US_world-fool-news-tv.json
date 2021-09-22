@@ -1,5 +1,9 @@
 {
     "title": "World Fool News (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/62235.jpg",
+        "alt": "world-fool-news-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ワールド フールニュース",

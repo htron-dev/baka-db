@@ -1,5 +1,9 @@
 {
     "title": "Tama◇Nama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163574.jpg",
+        "alt": "tama◇-nama"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "63",

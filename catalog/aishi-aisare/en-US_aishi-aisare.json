@@ -1,5 +1,9 @@
 {
     "title": "Aishi Aisare.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17343.jpg",
+        "alt": "aishi-aisare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Beatles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39786.jpg",
+        "alt": "boku-wa-beatles"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "93",

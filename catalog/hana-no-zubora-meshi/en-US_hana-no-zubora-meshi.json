@@ -1,5 +1,9 @@
 {
     "title": "Hana no Zubora Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168115.jpg",
+        "alt": "hana-no-zubora-meshi"
+    },
     "type": "manga",
     "original_name": "花のズボラ飯",
     "start_date": "2009-04-25",

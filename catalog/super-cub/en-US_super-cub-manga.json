@@ -1,5 +1,9 @@
 {
     "title": "Super Cub",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224755.jpg",
+        "alt": "super-cub"
+    },
     "type": "manga",
     "original_name": "スーパーカブ",
     "start_date": "2017-12-29",

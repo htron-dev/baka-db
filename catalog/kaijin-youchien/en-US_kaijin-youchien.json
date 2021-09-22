@@ -1,5 +1,9 @@
 {
     "title": "Kaijin Youchien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227972.jpg",
+        "alt": "kaijin-youchien"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "50",

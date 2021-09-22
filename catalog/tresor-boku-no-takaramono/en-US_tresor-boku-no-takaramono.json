@@ -1,5 +1,9 @@
 {
     "title": "Tresor: Boku no Takaramono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245693.jpg",
+        "alt": "tresor-boku-no-takaramono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

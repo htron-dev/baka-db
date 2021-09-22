@@ -1,5 +1,9 @@
 {
     "title": "Teito Kage Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244569.jpg",
+        "alt": "teito-kage-monogatari"
+    },
     "type": "manga",
     "original_name": "帝都影物語",
     "start_date": "2020-08-12",

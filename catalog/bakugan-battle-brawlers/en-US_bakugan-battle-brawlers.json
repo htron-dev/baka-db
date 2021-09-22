@@ -1,12 +1,16 @@
 {
     "title": "Bakugan Battle Brawlers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/21568.jpg",
+        "alt": "bakugan-battle-brawlers"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "爆丸バトルブローラーズ",
     "start_date": "2007-04-05",
     "end_date": "2007-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Number One Battle Brawlers\" by Psychic Lover (eps 1-30)",
+    "ending_song": "#1: \"Air Drive\" by ELEPHANT GIRL",
     "rating": "PG - Children",
     "tags": [
         "action",

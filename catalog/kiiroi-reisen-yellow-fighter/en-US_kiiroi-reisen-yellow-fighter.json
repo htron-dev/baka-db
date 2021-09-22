@@ -1,5 +1,9 @@
 {
     "title": "Kiiroi Reisen: Yellow Fighter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170401.jpg",
+        "alt": "kiiroi-reisen-yellow-fighter"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "黄色い零戦 イエロー・ファイター",
@@ -12,7 +16,6 @@
         "Ozawa",
         "Satoru (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

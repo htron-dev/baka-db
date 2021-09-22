@@ -1,5 +1,9 @@
 {
     "title": "Baffle to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231829.jpg",
+        "alt": "baffle-to-boku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

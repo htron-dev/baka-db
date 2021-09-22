@@ -1,5 +1,9 @@
 {
     "title": "Edo of the Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114463.jpg",
+        "alt": "edo-of-the-dead"
+    },
     "type": "manga",
     "original_name": "EDO of the DEAD エド オブ ザ デッド",
     "start_date": "2013-08-09",

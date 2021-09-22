@@ -1,5 +1,9 @@
 {
     "title": "Ouji ka Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172899.jpg",
+        "alt": "ouji-ka-prince"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

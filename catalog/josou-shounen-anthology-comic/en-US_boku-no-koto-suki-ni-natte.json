@@ -1,5 +1,9 @@
 {
     "title": "Boku no Koto Suki ni Natte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142553.jpg",
+        "alt": "boku-no-koto-suki-ni-natte"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ボクのことスキになって",

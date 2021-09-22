@@ -1,5 +1,9 @@
 {
     "title": "Innocent World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23929.jpg",
+        "alt": "innocent-world"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

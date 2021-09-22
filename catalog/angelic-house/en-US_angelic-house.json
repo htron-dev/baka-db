@@ -1,5 +1,9 @@
 {
     "title": "Angelic House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42656.jpg",
+        "alt": "angelic-house"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "エンジェリック・ハウス",

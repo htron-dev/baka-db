@@ -1,5 +1,9 @@
 {
     "title": "Nekketsu Tantei Jimusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/54617.jpg",
+        "alt": "nekketsu-tantei-jimusho"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "熱血探偵事務所",

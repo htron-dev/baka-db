@@ -1,5 +1,9 @@
 {
     "title": "Fukaku Utsukushiki Asia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240706.jpg",
+        "alt": "fukaku-utsukushiki-asia"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

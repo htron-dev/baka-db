@@ -1,5 +1,9 @@
 {
     "title": "Kirihoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192336.jpg",
+        "alt": "kirihoushi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

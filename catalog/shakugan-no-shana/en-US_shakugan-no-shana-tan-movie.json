@@ -1,5 +1,9 @@
 {
     "title": "Shakugan no Shana-tan Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/17218.jpg",
+        "alt": "shakugan-no-shana-tan-movie"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "灼眼のシャナたん＠劇場版 Ver",

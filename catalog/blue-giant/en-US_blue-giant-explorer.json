@@ -1,5 +1,9 @@
 {
     "title": "Blue Giant Explorer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237480.jpg",
+        "alt": "blue-giant-explorer"
+    },
     "type": "manga",
     "original_name": "BLUE GIANT EXPLORER",
     "start_date": "2020-05-25",

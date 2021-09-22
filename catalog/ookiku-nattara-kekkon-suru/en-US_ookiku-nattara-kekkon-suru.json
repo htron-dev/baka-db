@@ -1,5 +1,9 @@
 {
     "title": "Ookiku Nattara Kekkon suru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229374.jpg",
+        "alt": "ookiku-nattara-kekkon-suru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "39",

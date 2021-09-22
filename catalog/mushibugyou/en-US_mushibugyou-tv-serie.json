@@ -1,12 +1,16 @@
 {
     "title": "Mushibugyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/48827.jpg",
+        "alt": "mushibugyou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ムシブギョー 蟲奉行",
     "start_date": "2013-04-08",
     "end_date": "2013-04-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Tomo yo (友よ)\" by GaGaGa SP (eps 1-13)",
+    "ending_song": "#1: \"Ichizu (イチズ)\" by i☆Ris (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

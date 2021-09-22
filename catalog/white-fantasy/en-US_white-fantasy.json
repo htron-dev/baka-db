@@ -1,5 +1,9 @@
 {
     "title": "White Fantasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/69485.jpg",
+        "alt": "white-fantasy"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "#KSWISS_ALLWHITE PROJECT 「WHITE FANTASY」",

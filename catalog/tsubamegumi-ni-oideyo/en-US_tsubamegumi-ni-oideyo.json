@@ -1,5 +1,9 @@
 {
     "title": "Tsubamegumi ni Oideyo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30854.jpg",
+        "alt": "tsubamegumi-ni-oideyo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "つばめ組においでよ!",

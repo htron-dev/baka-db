@@ -1,5 +1,9 @@
 {
     "title": "Torikago no Naka no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226452.jpg",
+        "alt": "torikago-no-naka-no-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

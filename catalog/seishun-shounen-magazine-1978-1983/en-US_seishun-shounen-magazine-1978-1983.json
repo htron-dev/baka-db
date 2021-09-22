@@ -1,5 +1,9 @@
 {
     "title": "Seishun Shounen Magazine 1978~1983",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228197.jpg",
+        "alt": "seishun-shounen-magazine-1978-1983"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

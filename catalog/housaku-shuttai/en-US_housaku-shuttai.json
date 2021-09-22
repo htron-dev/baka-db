@@ -1,5 +1,9 @@
 {
     "title": "Housaku Shuttai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183376.jpg",
+        "alt": "housaku-shuttai"
+    },
     "type": "light-novel",
     "original_name": "豊作出来!",
     "start_date": "2016-09-21",

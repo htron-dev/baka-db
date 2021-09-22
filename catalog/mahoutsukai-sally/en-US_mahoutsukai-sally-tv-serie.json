@@ -1,12 +1,16 @@
 {
     "title": "Mahoutsukai Sally",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/67001.jpg",
+        "alt": "mahoutsukai-sally"
+    },
     "type": "tv-serie",
     "episodes": "109",
     "original_name": "魔法使いサリー",
     "start_date": "1966-12-05",
     "end_date": "1966-12-05",
     "opening_song": "\"Mahoutsukai Sally no Uta (魔法使いサリーのうた)\" by Three Graces",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mahou no Mambo (魔法のマンボ)\" by Yoko Maekawa (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "magic",

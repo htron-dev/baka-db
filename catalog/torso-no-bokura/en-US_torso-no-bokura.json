@@ -1,5 +1,9 @@
 {
     "title": "Torso no Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221188.jpg",
+        "alt": "torso-no-bokura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

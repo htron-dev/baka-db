@@ -1,5 +1,9 @@
 {
     "title": "Burn the Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238094.jpg",
+        "alt": "burn-the-witch"
+    },
     "type": "manga",
     "original_name": "BURN THE WITCH",
     "start_date": "2020-08-24",

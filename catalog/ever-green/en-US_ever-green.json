@@ -1,5 +1,9 @@
 {
     "title": "Ever Green",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150961.jpg",
+        "alt": "ever-green"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

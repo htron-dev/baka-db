@@ -1,5 +1,9 @@
 {
     "title": "Seinen wa Ai wo Kou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/60181.jpg",
+        "alt": "seinen-wa-ai-wo-kou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

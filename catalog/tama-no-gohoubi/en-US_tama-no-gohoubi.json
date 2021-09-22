@@ -1,5 +1,9 @@
 {
     "title": "Tama no Gohoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244157.jpg",
+        "alt": "tama-no-gohoubi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

@@ -1,12 +1,16 @@
 {
     "title": "Mechakko Dotakon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/61425.jpg",
+        "alt": "mechakko-dotakon"
+    },
     "type": "tv-serie",
     "episodes": "28",
     "original_name": "めちゃっこドタコン",
     "start_date": "1981-04-04",
     "end_date": "1981-04-04",
     "opening_song": "\"Oira Dotakon (おいらドタコン)\" by Isao Taira",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Chobiko wa Idol (チョビ子はアイドル)\" by Kaoru Fujikado (藤門かおる)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

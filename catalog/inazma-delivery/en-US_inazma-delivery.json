@@ -1,5 +1,9 @@
 {
     "title": "Inazma Delivery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1556/112264.jpg",
+        "alt": "inazma-delivery"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "イナズマデリバリー",

@@ -1,5 +1,9 @@
 {
     "title": "Akaku Saku Koe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21321.jpg",
+        "alt": "akaku-saku-koe"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

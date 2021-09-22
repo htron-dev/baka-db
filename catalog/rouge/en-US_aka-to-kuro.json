@@ -1,5 +1,9 @@
 {
     "title": "Aka to Kuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200786.jpg",
+        "alt": "aka-to-kuro"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

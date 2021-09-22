@@ -1,5 +1,9 @@
 {
     "title": "Oni wo Tadorite Ikuseisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202251.jpg",
+        "alt": "oni-wo-tadorite-ikuseisou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

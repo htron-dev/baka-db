@@ -1,5 +1,9 @@
 {
     "title": "Destro 246",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/78153.jpg",
+        "alt": "destro-246"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "49",

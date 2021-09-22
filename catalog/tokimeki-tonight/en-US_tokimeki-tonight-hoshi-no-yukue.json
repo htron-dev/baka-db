@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki Tonight: Hoshi no Yukue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159408.jpg",
+        "alt": "tokimeki-tonight-hoshi-no-yukue"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ときめきトゥナイト 星のゆくえ",

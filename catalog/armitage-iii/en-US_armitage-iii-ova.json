@@ -1,12 +1,16 @@
 {
     "title": "Armitage III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1398/94072.jpg",
+        "alt": "armitage-iii"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "アミテージ・ザ・サード",
     "start_date": "1995-02-25",
     "end_date": "1995-02-25",
     "opening_song": "\"Main Theme\" by Hiroyuki Namba",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Ii Yume o Omoidesenai (いい夢を思い出せない)\" by Hiroko Kasahara (eps 1-3)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

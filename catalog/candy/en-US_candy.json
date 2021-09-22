@@ -1,5 +1,9 @@
 {
     "title": "Candy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112595.jpg",
+        "alt": "candy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

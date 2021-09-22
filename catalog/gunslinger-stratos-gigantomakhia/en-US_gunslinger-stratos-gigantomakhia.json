@@ -1,5 +1,9 @@
 {
     "title": "Gunslinger Stratos: Gigantomakhia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174573.jpg",
+        "alt": "gunslinger-stratos-gigantomakhia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Keishichou Tokuhanka 007",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191474.jpg",
+        "alt": "keishichou-tokuhanka-007"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "43",

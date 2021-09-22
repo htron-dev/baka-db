@@ -1,5 +1,9 @@
 {
     "title": "Tales of Eternia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/37618.jpg",
+        "alt": "tales-of-eternia"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "56",

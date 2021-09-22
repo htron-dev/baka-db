@@ -1,5 +1,9 @@
 {
     "title": "Kami no Hidarite Akuma no Migite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16904.jpg",
+        "alt": "kami-no-hidarite-akuma-no-migite"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "77",

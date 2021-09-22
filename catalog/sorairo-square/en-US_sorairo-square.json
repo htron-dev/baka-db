@@ -1,5 +1,9 @@
 {
     "title": "Sorairo Square.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141275.jpg",
+        "alt": "sorairo-square"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Dekiai Chuudoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39902.jpg",
+        "alt": "dekiai-chuudoku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "溺愛中毒",

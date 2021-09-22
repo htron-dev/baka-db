@@ -1,5 +1,9 @@
 {
     "title": "Raven Burai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227653.jpg",
+        "alt": "raven-burai"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "レイブン無頼",

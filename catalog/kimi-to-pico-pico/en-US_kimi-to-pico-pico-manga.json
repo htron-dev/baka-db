@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Pico-Pico",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/249723.jpg",
+        "alt": "kimi-to-pico-pico"
+    },
     "type": "manga",
     "original_name": "きみとピコピコ",
     "start_date": "2021-03-28",

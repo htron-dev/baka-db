@@ -1,5 +1,9 @@
 {
     "title": "Extrastrous★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/140487.jpg",
+        "alt": "extrastrous★"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

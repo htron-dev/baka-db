@@ -1,5 +1,9 @@
 {
     "title": "Takahashi Yoichi Tanpenshu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31988.jpg",
+        "alt": "takahashi-yoichi-tanpenshu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

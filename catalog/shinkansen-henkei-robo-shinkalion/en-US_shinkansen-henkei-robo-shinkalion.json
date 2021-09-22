@@ -1,5 +1,9 @@
 {
     "title": "Shinkansen Henkei Robo Shinkalion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/84483.jpg",
+        "alt": "shinkansen-henkei-robo-shinkalion"
+    },
     "type": "ona",
     "episodes": "11",
     "original_name": "新幹線変形ロボ シンカリオン",

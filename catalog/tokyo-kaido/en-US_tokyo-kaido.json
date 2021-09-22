@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Kaido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21102.jpg",
+        "alt": "tokyo-kaido"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Suki Suki!! Gokudou Papa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34736.jpg",
+        "alt": "suki-suki-gokudou-papa"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "极道爸爸",

@@ -1,5 +1,9 @@
 {
     "title": "Zero: The Man of the Creation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62325.jpg",
+        "alt": "zero-the-man-of-the-creation"
+    },
     "type": "manga",
     "volumes": "78",
     "chapters": "488",

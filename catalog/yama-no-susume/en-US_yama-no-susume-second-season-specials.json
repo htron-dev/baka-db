@@ -1,12 +1,16 @@
 {
     "title": "Yama no Susume: Second Season Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/67577.jpg",
+        "alt": "yama-no-susume-second-season-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ヤマノススメ セカンドシーズン",
     "start_date": "2014-10-24",
     "end_date": "2014-10-24",
     "opening_song": "\"Natsu-iro Present (夏色プレゼント)\" by Aoi (Yuka Iguchi), Hinata (Kana Asumi), Kaede (Yoko Hikasa), Kokona (Yui Ogura) (ep 1)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tinkling Smile\" by Yui Ogura (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

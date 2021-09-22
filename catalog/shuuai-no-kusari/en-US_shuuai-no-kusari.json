@@ -1,5 +1,9 @@
 {
     "title": "Shuuai no Kusari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185111.jpg",
+        "alt": "shuuai-no-kusari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

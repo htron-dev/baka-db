@@ -1,5 +1,9 @@
 {
     "title": "Oshite Dame nara Oshitemiro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243657.jpg",
+        "alt": "oshite-dame-nara-oshitemiro"
+    },
     "type": "manga",
     "original_name": "押して駄目なら押してみろ！",
     "start_date": "2019-10-26",

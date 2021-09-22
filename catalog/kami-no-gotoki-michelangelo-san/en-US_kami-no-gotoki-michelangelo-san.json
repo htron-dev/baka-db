@@ -1,5 +1,9 @@
 {
     "title": "Kami no Gotoki Michelangelo-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149635.jpg",
+        "alt": "kami-no-gotoki-michelangelo-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

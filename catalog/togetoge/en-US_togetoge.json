@@ -1,5 +1,9 @@
 {
     "title": "Togetoge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241847.jpg",
+        "alt": "togetoge"
+    },
     "type": "manga",
     "original_name": "とげとげ",
     "start_date": "2020-12-21",

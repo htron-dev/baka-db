@@ -1,5 +1,9 @@
 {
     "title": "Kaette Hoshii no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247262.jpg",
+        "alt": "kaette-hoshii-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

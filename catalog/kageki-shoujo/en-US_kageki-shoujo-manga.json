@@ -1,5 +1,9 @@
 {
     "title": "Kageki Shoujo!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167045.jpg",
+        "alt": "kageki-shoujo"
+    },
     "type": "manga",
     "original_name": "かげきしょうじょ!!",
     "start_date": "2015-02-28",

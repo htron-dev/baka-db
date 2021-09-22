@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10027.jpg",
+        "alt": "watashi-no-koibito"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

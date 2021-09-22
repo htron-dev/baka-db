@@ -1,5 +1,9 @@
 {
     "title": "Cleopatra na Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206412.jpg",
+        "alt": "cleopatra-na-hibi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "52",

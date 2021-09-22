@@ -1,5 +1,9 @@
 {
     "title": "Futsuu ni Kawaii?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96177.jpg",
+        "alt": "futsuu-ni-kawaii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

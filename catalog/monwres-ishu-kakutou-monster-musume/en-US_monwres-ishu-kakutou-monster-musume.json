@@ -1,5 +1,9 @@
 {
     "title": "Monwres: Ishu Kakutou Monster Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215850.jpg",
+        "alt": "monwres-ishu-kakutou-monster-musume"
+    },
     "type": "manga",
     "original_name": "もんれす -異種格闘モンスター娘-",
     "start_date": "2017-10-30",

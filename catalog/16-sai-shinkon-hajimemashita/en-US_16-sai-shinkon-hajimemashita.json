@@ -1,5 +1,9 @@
 {
     "title": "16-sai, Shinkon Hajimemashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135185.jpg",
+        "alt": "16-sai-shinkon-hajimemashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

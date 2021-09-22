@@ -1,5 +1,9 @@
 {
     "title": "Risou no Are, Sagashitemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187944.jpg",
+        "alt": "risou-no-are-sagashitemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

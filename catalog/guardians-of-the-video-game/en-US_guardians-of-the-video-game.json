@@ -1,5 +1,9 @@
 {
     "title": "Guardians of the Video Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167685.jpg",
+        "alt": "guardians-of-the-video-game"
+    },
     "type": "manhwa",
     "original_name": "전자오락수호대",
     "start_date": "2014-10-15",

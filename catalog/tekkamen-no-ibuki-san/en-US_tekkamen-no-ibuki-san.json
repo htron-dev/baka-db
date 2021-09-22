@@ -1,5 +1,9 @@
 {
     "title": "Tekkamen no Ibuki-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182346.jpg",
+        "alt": "tekkamen-no-ibuki-san"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "鉄仮面のイブキさん",

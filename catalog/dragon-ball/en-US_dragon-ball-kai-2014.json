@@ -1,12 +1,16 @@
 {
     "title": "Dragon Ball Kai (2014)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/59275.jpg",
+        "alt": "dragon-ball-kai-2014"
+    },
     "type": "tv-serie",
     "episodes": "61",
     "original_name": "ドラゴンボール改",
     "start_date": "2014-04-06",
     "end_date": "2014-04-06",
     "opening_song": "“Kuu-Zen-Zetsu-Go (空•前•絶•後)” by Takayoshi Tanimoto (Dragon Soul)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Haikei, Tsuratsusutora (拝啓、ツラツストラ)\" by Good Morning America (グッドモーニングアメリカ) (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

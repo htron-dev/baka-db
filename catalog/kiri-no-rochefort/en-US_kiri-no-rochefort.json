@@ -1,5 +1,9 @@
 {
     "title": "Kiri no Rochefort",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227455.jpg",
+        "alt": "kiri-no-rochefort"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "霧のロシュフォール",

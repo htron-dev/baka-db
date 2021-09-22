@@ -1,12 +1,16 @@
 {
     "title": "Mamotte Shugogetten!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/14827.jpg",
+        "alt": "mamotte-shugogetten"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "まもって守護月天！",
     "start_date": "1998-10-17",
     "end_date": "1998-10-17",
     "opening_song": "\"Saa!\" by Surface",
-    "ending_song": "#1",
+    "ending_song": "#1: \"I Just Feel so Love Again ~soba ni iru dake de~\" by Sweet Velvet (eps 1-21)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

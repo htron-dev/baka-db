@@ -1,5 +1,9 @@
 {
     "title": "My Life as an Internet Novel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234083.jpg",
+        "alt": "my-life-as-an-internet-novel"
+    },
     "type": "manhwa",
     "original_name": "인소의 법칙",
     "start_date": "2019-04-01",

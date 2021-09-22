@@ -1,5 +1,9 @@
 {
     "title": "Musketeer Rouge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155098.jpg",
+        "alt": "musketeer-rouge"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

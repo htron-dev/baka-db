@@ -1,12 +1,16 @@
 {
     "title": "Saenai Heroine no Sodatekata ♭",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/84797.jpg",
+        "alt": "saenai-heroine-no-sodatekata-♭"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "冴えない彼女〈ヒロイン〉の育てかた ♭",
     "start_date": "2017-04-14",
     "end_date": "2017-04-14",
     "opening_song": "\"Stella Breeze (ステラブリーズ)\" by Luna Haruna",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sakura-iro Diary (桜色ダイアリー)\" by Moso Calibration (妄想キャリブレーション) (eps 1-10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

@@ -1,5 +1,9 @@
 {
     "title": "Moekare wa Orange-iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194187.jpg",
+        "alt": "moekare-wa-orange-iro"
+    },
     "type": "manga",
     "original_name": "モエカレはオレンジ色",
     "start_date": "2016-05-24",

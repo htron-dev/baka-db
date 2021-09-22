@@ -1,5 +1,9 @@
 {
     "title": "Ikusen no Toki wo Koete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118497.jpg",
+        "alt": "ikusen-no-toki-wo-koete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

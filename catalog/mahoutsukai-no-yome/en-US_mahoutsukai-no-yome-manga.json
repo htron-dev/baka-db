@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121263.jpg",
+        "alt": "mahoutsukai-no-yome"
+    },
     "type": "manga",
     "original_name": "魔法使いの嫁",
     "start_date": "2013-11-30",

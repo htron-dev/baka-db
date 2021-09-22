@@ -1,5 +1,9 @@
 {
     "title": "Namaikizakari.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128825.jpg",
+        "alt": "namaikizakari"
+    },
     "type": "manga",
     "original_name": "なまいきざかり。",
     "start_date": "2013-10-19",

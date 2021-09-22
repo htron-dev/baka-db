@@ -1,5 +1,9 @@
 {
     "title": "Sex and World's End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236257.jpg",
+        "alt": "sex-and-worlds-end"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

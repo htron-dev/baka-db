@@ -1,5 +1,9 @@
 {
     "title": "Sore wa Yappari Koi no Sei!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20571.jpg",
+        "alt": "sore-wa-yappari-koi-no-sei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,8 +1,12 @@
 {
     "title": "Indie Anibox: Selma Danbaekjil Coffee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/68279.jpg",
+        "alt": "indie-anibox-selma-danbaekjil-coffee"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "인디애니박스",
+    "original_name": "인디애니박스: 셀마의 단백질 커피",
     "start_date": "2008-06-20",
     "rating": "G - All Ages",
     "tags": [

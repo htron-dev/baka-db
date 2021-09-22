@@ -1,5 +1,9 @@
 {
     "title": "Ichi kara Hajimeru Saikyou Yuusha Ikusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176585.jpg",
+        "alt": "ichi-kara-hajimeru-saikyou-yuusha-ikusei"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

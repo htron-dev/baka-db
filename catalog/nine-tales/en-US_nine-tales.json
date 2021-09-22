@@ -1,5 +1,9 @@
 {
     "title": "Nine Tales",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105657.jpg",
+        "alt": "nine-tales"
+    },
     "type": "manhwa",
     "original_name": "NINE TALES 나인테일즈",
     "start_date": "2012-05-01",

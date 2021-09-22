@@ -1,5 +1,9 @@
 {
     "title": "Setsuri: Sinner's Ambition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147267.jpg",
+        "alt": "setsuri-sinners-ambition"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

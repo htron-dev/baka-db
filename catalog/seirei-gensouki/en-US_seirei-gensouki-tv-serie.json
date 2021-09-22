@@ -1,5 +1,9 @@
 {
     "title": "Seirei Gensouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1453/116276.jpg",
+        "alt": "seirei-gensouki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "精霊幻想記",

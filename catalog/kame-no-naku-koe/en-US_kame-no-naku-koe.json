@@ -1,5 +1,9 @@
 {
     "title": "Kame no Naku Koe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13992.jpg",
+        "alt": "kame-no-naku-koe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "RideBack: Cannonball Run",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172041.jpg",
+        "alt": "ride-back-cannonball-run"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

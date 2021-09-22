@@ -1,5 +1,9 @@
 {
     "title": "Gokudou Otoko ni Sensen Fukoku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84965.jpg",
+        "alt": "gokudou-otoko-ni-sensen-fukoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

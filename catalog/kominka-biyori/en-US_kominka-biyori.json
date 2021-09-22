@@ -1,5 +1,9 @@
 {
     "title": "Kominka Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125711.jpg",
+        "alt": "kominka-biyori"
+    },
     "type": "manga",
     "original_name": "コミンカビヨリ",
     "start_date": "2011-10-25",

@@ -1,5 +1,9 @@
 {
     "title": "Shinigami-tachi no Raison d'Être",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168038.jpg",
+        "alt": "shinigami-tachi-no-raison-d-etre"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

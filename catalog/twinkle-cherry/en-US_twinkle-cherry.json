@@ -1,5 +1,9 @@
 {
     "title": "Twinkle Cherry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23380.jpg",
+        "alt": "twinkle-cherry"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

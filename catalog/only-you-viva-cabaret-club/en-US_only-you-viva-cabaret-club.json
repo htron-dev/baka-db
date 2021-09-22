@@ -1,5 +1,9 @@
 {
     "title": "Only You: Viva! Cabaret Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/53529.jpg",
+        "alt": "only-you-viva-cabaret-club"
+    },
     "type": "tv-serie",
     "episodes": "15",
     "original_name": "Only You ビバ! キャバクラ",

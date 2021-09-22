@@ -1,5 +1,9 @@
 {
     "title": "Sangai no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247873.jpg",
+        "alt": "sangai-no-majo"
+    },
     "type": "manga",
     "original_name": "第三内科外来〈サンガイ〉の魔女",
     "start_date": "2021-07-09",

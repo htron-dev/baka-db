@@ -1,5 +1,9 @@
 {
     "title": "Rurouni Kenshin: Review Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/26996.jpg",
+        "alt": "rurouni-kenshin-review-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "るろうに剣心",

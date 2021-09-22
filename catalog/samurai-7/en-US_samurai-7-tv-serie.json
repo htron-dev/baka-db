@@ -1,5 +1,9 @@
 {
     "title": "Samurai 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1190/95421.jpg",
+        "alt": "samurai-7"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "サムライセブン",

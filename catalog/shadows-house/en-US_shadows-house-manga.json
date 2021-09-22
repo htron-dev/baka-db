@@ -1,5 +1,9 @@
 {
     "title": "Shadows House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215750.jpg",
+        "alt": "shadows-house"
+    },
     "type": "manga",
     "original_name": "シャドーハウス",
     "start_date": "2018-09-06",

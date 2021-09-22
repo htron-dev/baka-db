@@ -1,11 +1,15 @@
 {
     "title": "With You: Mitsumeteitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1038/96384.jpg",
+        "alt": "with-you-mitsumeteitai"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "With You ~みつめていたい~",
     "start_date": "2000-12-25",
     "end_date": "2000-12-25",
-    "ending_song": "#1",
+    "ending_song": "#1: \"I say I Love You\" by Anni",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

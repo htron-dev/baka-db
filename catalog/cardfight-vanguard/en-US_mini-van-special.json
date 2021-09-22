@@ -1,5 +1,9 @@
 {
     "title": "Mini Van Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/55439.jpg",
+        "alt": "mini-van-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "みにヴぁん",

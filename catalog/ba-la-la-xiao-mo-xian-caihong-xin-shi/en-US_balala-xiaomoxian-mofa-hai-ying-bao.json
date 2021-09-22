@@ -1,8 +1,12 @@
 {
     "title": "Balala Xiaomoxian: Mofa Hai Ying Bao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1463/102588.jpg",
+        "alt": "balala-xiaomoxian-mofa-hai-ying-bao"
+    },
     "type": "tv-serie",
     "episodes": "26",
-    "original_name": "巴啦啦小魔仙之",
+    "original_name": "巴啦啦小魔仙之: 魔法海萤堡",
     "start_date": "2018-11-16",
     "end_date": "2018-11-16",
     "rating": "G - All Ages",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Balala_the_Fairies_(series"
+            "link": "https://en.wikipedia.org/wiki/Balala_the_Fairies_%28series%29"
         }
     ]
 }

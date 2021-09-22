@@ -1,5 +1,9 @@
 {
     "title": "Gunparade March",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112051.jpg",
+        "alt": "gunparade-march"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

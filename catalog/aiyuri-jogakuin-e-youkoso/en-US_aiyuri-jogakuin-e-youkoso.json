@@ -1,5 +1,9 @@
 {
     "title": "Aiyuri Jogakuin e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182552.jpg",
+        "alt": "aiyuri-jogakuin-e-youkoso"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

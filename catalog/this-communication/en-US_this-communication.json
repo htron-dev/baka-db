@@ -1,5 +1,9 @@
 {
     "title": "This Communication",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244844.jpg",
+        "alt": "this-communication"
+    },
     "type": "manga",
     "original_name": "This コミュニケーション",
     "start_date": "2020-04-03",

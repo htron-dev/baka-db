@@ -1,5 +1,9 @@
 {
     "title": "Padak Padak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/79860.jpg",
+        "alt": "padak-padak"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "파닥파닥",

@@ -1,5 +1,9 @@
 {
     "title": "Hatsujoukei Drags",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21962.jpg",
+        "alt": "hatsujoukei-drags"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

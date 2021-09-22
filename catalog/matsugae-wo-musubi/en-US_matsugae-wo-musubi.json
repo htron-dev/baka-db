@@ -1,5 +1,9 @@
 {
     "title": "Matsugae wo Musubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1135/101498.jpg",
+        "alt": "matsugae-wo-musubi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "松が枝を結び",

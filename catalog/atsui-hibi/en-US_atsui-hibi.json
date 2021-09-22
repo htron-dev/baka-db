@@ -1,5 +1,9 @@
 {
     "title": "Atsui Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177888.jpg",
+        "alt": "atsui-hibi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Nervous Venus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5361.jpg",
+        "alt": "nervous-venus"
+    },
     "type": "manga",
     "start_date": "1997-02-19",
     "tags": [

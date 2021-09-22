@@ -1,5 +1,9 @@
 {
     "title": "Shinseiki Evangelion: Ikari Shinji Tantei Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145055.jpg",
+        "alt": "shinseiki-evangelion-ikari-shinji-tantei-nikki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

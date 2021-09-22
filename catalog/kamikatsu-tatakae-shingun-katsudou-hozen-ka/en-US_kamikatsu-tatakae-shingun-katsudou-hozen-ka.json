@@ -1,5 +1,9 @@
 {
     "title": "Kamikatsu! Tatakae! Shingun Katsudou Hozen-ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163705.jpg",
+        "alt": "kamikatsu-tatakae-shingun-katsudou-hozen-ka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

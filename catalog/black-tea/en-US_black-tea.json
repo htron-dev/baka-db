@@ -1,5 +1,9 @@
 {
     "title": "Black Tea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165019.jpg",
+        "alt": "black-tea"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ブラック・ティー",

@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Yuutousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81456.jpg",
+        "alt": "mahouka-koukou-no-yuutousei"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "81",

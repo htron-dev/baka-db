@@ -1,5 +1,9 @@
 {
     "title": "Daru-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226322.jpg",
+        "alt": "daru-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "52",

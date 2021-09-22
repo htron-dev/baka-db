@@ -1,5 +1,9 @@
 {
     "title": "Sheikh ni Metorarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247044.jpg",
+        "alt": "sheikh-ni-metorarete"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "シークに娶られて",

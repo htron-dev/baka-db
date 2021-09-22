@@ -1,5 +1,9 @@
 {
     "title": "Kore wa Oukoku no Kagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95633.jpg",
+        "alt": "kore-wa-oukoku-no-kagi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

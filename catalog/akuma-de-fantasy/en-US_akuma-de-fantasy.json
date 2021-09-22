@@ -1,5 +1,9 @@
 {
     "title": "Akuma de Fantasy!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97229.jpg",
+        "alt": "akuma-de-fantasy"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

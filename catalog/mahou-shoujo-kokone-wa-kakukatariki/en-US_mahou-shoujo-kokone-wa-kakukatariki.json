@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Kokone wa Kakukatariki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173861.jpg",
+        "alt": "mahou-shoujo-kokone-wa-kakukatariki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

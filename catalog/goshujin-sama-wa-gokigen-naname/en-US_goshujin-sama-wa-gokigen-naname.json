@@ -1,5 +1,9 @@
 {
     "title": "Goshujin-sama wa Gokigen Naname",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165944.jpg",
+        "alt": "goshujin-sama-wa-gokigen-naname"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

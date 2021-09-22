@@ -1,5 +1,9 @@
 {
     "title": "Gundam vs Hello Kitty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1466/100431.jpg",
+        "alt": "gundam-vs-hello-kitty"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "ガンダム vs ハローキティ",

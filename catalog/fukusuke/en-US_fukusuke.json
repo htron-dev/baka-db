@@ -1,5 +1,9 @@
 {
     "title": "Fukusuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109225.jpg",
+        "alt": "fukusuke"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

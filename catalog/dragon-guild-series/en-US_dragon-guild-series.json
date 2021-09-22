@@ -1,5 +1,9 @@
 {
     "title": "Dragon Guild Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241961.jpg",
+        "alt": "dragon-guild-series"
+    },
     "type": "light-novel",
     "volumes": "10",
     "original_name": "ドラゴンギルドシリーズ",

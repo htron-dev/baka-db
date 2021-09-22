@@ -1,5 +1,9 @@
 {
     "title": "Kanshakudama no Yuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34453.jpg",
+        "alt": "kanshakudama-no-yuutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

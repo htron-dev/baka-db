@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Silver Bullet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78275.jpg",
+        "alt": "mahou-no-silver-bullet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

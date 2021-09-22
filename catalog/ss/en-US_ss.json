@@ -1,5 +1,9 @@
 {
     "title": "SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122989.jpg",
+        "alt": "ss"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "84",

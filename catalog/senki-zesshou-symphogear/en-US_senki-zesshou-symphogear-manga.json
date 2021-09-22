@@ -1,5 +1,9 @@
 {
     "title": "Senki Zesshou Symphogear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96399.jpg",
+        "alt": "senki-zesshou-symphogear"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

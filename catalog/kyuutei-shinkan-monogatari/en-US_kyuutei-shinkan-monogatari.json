@@ -1,5 +1,9 @@
 {
     "title": "Kyuutei Shinkan Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35760.jpg",
+        "alt": "kyuutei-shinkan-monogatari"
+    },
     "type": "manga",
     "tags": [
         "adventure",

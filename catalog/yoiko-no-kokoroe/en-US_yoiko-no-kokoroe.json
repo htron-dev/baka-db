@@ -1,5 +1,9 @@
 {
     "title": "Yoiko no Kokoroe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77905.jpg",
+        "alt": "yoiko-no-kokoroe"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

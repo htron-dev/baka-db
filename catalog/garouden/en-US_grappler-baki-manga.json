@@ -1,5 +1,9 @@
 {
     "title": "Grappler Baki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76249.jpg",
+        "alt": "grappler-baki"
+    },
     "type": "manga",
     "volumes": "42",
     "chapters": "371",

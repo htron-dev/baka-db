@@ -1,5 +1,9 @@
 {
     "title": "Gakkou de Atta Kowai Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25690.jpg",
+        "alt": "gakkou-de-atta-kowai-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Nobara (OVA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84590.jpg",
+        "alt": "nobara-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "野ばら",

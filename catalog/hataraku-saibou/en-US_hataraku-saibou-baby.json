@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Saibou Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225974.jpg",
+        "alt": "hataraku-saibou-baby"
+    },
     "type": "manga",
     "original_name": "はたらく細胞 BABY",
     "start_date": "2019-10-17",

@@ -1,5 +1,9 @@
 {
     "title": "Itadaki! Nariagari Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231837.jpg",
+        "alt": "itadaki-nariagari-meshi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "39",

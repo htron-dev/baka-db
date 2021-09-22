@@ -1,5 +1,9 @@
 {
     "title": "Nettai Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/90079.jpg",
+        "alt": "nettai-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

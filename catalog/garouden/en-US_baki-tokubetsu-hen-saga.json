@@ -1,5 +1,9 @@
 {
     "title": "Baki Tokubetsu-hen Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126055.jpg",
+        "alt": "baki-tokubetsu-hen-saga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Ka-Non",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136267.jpg",
+        "alt": "ka-non"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

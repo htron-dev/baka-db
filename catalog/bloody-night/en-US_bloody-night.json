@@ -1,5 +1,9 @@
 {
     "title": "Bloody Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/33341.jpg",
+        "alt": "bloody-night"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "血みどろの夜",

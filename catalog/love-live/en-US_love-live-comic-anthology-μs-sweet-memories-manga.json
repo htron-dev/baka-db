@@ -1,5 +1,9 @@
 {
     "title": "Love Live! Comic Anthology μ's Sweet Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235600.jpg",
+        "alt": "love-live-comic-anthology-μs-sweet-memories"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

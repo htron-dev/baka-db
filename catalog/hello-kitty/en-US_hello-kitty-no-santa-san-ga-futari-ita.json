@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Santa-san ga Futari Ita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/70983.jpg",
+        "alt": "hello-kitty-no-santa-san-ga-futari-ita"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのサンタさんが二人いた",

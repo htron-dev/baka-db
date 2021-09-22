@@ -1,12 +1,16 @@
 {
     "title": "Patapata Hikousen no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1340/110804.jpg",
+        "alt": "patapata-hikousen-no-bouken"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "パタパタ飛行船の冒険",
     "start_date": "2002-01-05",
     "end_date": "2002-01-05",
     "opening_song": "\"Naked Story\" by Garnet Crow",
-    "ending_song": "#1",
+    "ending_song": "#1: \"What Can I Do\" by Michael Africk with Mai-K (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

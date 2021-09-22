@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Kigo Tanpou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186430.jpg",
+        "alt": "tokyo-kigo-tanpou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

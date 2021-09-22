@@ -1,5 +1,9 @@
 {
     "title": "Under Ninja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220916.jpg",
+        "alt": "under-ninja"
+    },
     "type": "manga",
     "original_name": "アンダーニンジャ",
     "start_date": "2018-07-23",

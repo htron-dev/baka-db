@@ -1,5 +1,9 @@
 {
     "title": "No Guns Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1531/102113.jpg",
+        "alt": "no-guns-life"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ノー・ガンズ・ライフ",

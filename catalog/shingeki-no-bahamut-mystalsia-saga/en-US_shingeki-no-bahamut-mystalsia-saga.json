@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Bahamut: Mystalsia Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201201.jpg",
+        "alt": "shingeki-no-bahamut-mystalsia-saga"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "65",

@@ -1,5 +1,9 @@
 {
     "title": "Yume Mitai na Hoshi Mitai na",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16679.jpg",
+        "alt": "yume-mitai-na-hoshi-mitai-na"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

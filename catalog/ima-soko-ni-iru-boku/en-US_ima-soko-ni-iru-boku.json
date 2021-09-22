@@ -1,5 +1,9 @@
 {
     "title": "Ima, Soko ni Iru Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1094/109008.jpg",
+        "alt": "ima-soko-ni-iru-boku"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "今、そこにいる僕",

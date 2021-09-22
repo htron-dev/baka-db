@@ -1,5 +1,9 @@
 {
     "title": "Babysitter Gin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113097.jpg",
+        "alt": "babysitter-gin"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "36",

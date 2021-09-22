@@ -1,5 +1,9 @@
 {
     "title": "The Green Wind",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/38303.jpg",
+        "alt": "the-green-wind"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "The green wind",

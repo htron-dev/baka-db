@@ -1,5 +1,9 @@
 {
     "title": "Digimon World Re:Digitize Encode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109061.jpg",
+        "alt": "digimon-world-re-digitize-encode"
+    },
     "type": "manga",
     "original_name": "デジモンワールド リ：デジタイズ エンコード",
     "start_date": "2013-04-20",

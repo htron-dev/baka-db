@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Yamanote Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71743.jpg",
+        "alt": "tokyo-yamanote-boys"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

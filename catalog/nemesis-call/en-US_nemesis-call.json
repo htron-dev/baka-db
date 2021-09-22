@@ -1,5 +1,9 @@
 {
     "title": "Nemesis Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219515.jpg",
+        "alt": "nemesis-call"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

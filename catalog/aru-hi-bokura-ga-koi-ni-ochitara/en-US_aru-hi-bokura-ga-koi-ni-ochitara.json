@@ -1,5 +1,9 @@
 {
     "title": "Aru Hi, Bokura ga Koi ni Ochitara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/214863.jpg",
+        "alt": "aru-hi-bokura-ga-koi-ni-ochitara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

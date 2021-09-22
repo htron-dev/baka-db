@@ -1,5 +1,9 @@
 {
     "title": "4 Spirits Plus 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150377.jpg",
+        "alt": "4-spirits-plus-2"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

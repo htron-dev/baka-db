@@ -1,5 +1,9 @@
 {
     "title": "Kaiki Hakubutsukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24807.jpg",
+        "alt": "kaiki-hakubutsukan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

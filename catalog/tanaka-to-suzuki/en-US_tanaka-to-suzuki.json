@@ -1,5 +1,9 @@
 {
     "title": "Tanaka to Suzuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241467.jpg",
+        "alt": "tanaka-to-suzuki"
+    },
     "type": "manga",
     "original_name": "田中と鈴木",
     "start_date": "2020-04-22",

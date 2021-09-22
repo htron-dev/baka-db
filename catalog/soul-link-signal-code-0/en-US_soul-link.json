@@ -1,5 +1,9 @@
 {
     "title": "Soul Link",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/854.jpg",
+        "alt": "soul-link"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Soul Link",

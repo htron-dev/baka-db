@@ -1,5 +1,9 @@
 {
     "title": "Croket!: Black Label",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232732.jpg",
+        "alt": "croket-black-label"
+    },
     "type": "manga",
     "original_name": "コロッケ! BLACK LABEL",
     "start_date": "2017-12-15",

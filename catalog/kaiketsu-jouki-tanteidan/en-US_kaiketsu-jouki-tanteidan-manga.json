@@ -1,5 +1,9 @@
 {
     "title": "Kaiketsu Jouki Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133301.jpg",
+        "alt": "kaiketsu-jouki-tanteidan"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "52",

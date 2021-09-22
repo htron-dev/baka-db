@@ -1,5 +1,9 @@
 {
     "title": "Shrink: Seishinkai Yowai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227482.jpg",
+        "alt": "shrink-seishinkai-yowai"
+    },
     "type": "manga",
     "original_name": "Shrink ～精神科医ヨワイ～",
     "start_date": "2019-06-05",

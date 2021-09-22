@@ -1,5 +1,9 @@
 {
     "title": "NEET Meshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200504.jpg",
+        "alt": "neet-meshi"
+    },
     "type": "manga",
     "original_name": "ニートめし！",
     "start_date": "2016-05-02",

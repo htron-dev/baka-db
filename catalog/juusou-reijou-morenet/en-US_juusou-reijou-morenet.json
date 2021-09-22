@@ -1,5 +1,9 @@
 {
     "title": "Juusou Reijou Morenet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233768.jpg",
+        "alt": "juusou-reijou-morenet"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

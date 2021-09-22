@@ -1,5 +1,9 @@
 {
     "title": "Koi no Uta wo Utaimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17788.jpg",
+        "alt": "koi-no-uta-wo-utaimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

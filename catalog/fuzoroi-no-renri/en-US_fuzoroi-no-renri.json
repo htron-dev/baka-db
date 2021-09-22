@@ -1,5 +1,9 @@
 {
     "title": "Fuzoroi no Renri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224789.jpg",
+        "alt": "fuzoroi-no-renri"
+    },
     "type": "manga",
     "original_name": "不揃いの連理",
     "start_date": "2019-03-14",

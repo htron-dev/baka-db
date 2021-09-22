@@ -1,5 +1,9 @@
 {
     "title": "15-sai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128405.jpg",
+        "alt": "15-sai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

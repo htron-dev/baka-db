@@ -1,5 +1,9 @@
 {
     "title": "Kongou Banchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202645.jpg",
+        "alt": "kongou-banchou"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "115",

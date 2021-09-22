@@ -1,5 +1,9 @@
 {
     "title": "Zettai Chouwa☆Orisaki-chan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163341.jpg",
+        "alt": "zettai-chouwa☆-orisaki-chan"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "23",

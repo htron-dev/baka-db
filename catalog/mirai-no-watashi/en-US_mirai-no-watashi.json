@@ -1,5 +1,9 @@
 {
     "title": "Mirai no Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/79144.jpg",
+        "alt": "mirai-no-watashi"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "未来のワタシ",

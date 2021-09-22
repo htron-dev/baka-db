@@ -1,8 +1,12 @@
 {
     "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Tachikoma na Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/5799.jpg",
+        "alt": "koukaku-kidoutai-stand-alone-complex-2nd-gig-tachikoma-na-hibi"
+    },
     "type": "special",
     "episodes": "26",
-    "original_name": "攻殻機動隊 STAND ALONE COMPLEX",
+    "original_name": "攻殻機動隊 STAND ALONE COMPLEX: Section9 Science File “タチコマな日々”",
     "start_date": "2004-09-10",
     "end_date": "2004-09-10",
     "rating": "PG - Children",

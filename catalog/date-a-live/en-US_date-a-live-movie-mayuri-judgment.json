@@ -1,5 +1,9 @@
 {
     "title": "Date A Live Movie: Mayuri Judgment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75466.jpg",
+        "alt": "date-a-live-movie-mayuri-judgment"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 デート・ア・ライブ 万由里ジャッジメント",

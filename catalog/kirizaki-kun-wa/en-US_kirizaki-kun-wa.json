@@ -1,5 +1,9 @@
 {
     "title": "Kirizaki-kun wa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226499.jpg",
+        "alt": "kirizaki-kun-wa"
+    },
     "type": "manga",
     "original_name": "キリザキ君は。",
     "start_date": "2018-08-16",

@@ -1,5 +1,9 @@
 {
     "title": "Fusuma no Oku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1509/108578.jpg",
+        "alt": "fusuma-no-oku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "襖の奥",

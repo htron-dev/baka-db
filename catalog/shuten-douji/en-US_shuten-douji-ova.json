@@ -1,5 +1,9 @@
 {
     "title": "Shuten Douji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/18492.jpg",
+        "alt": "shuten-douji"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "手天童子",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Shutendoji_(manga"
+            "link": "http://en.wikipedia.org/wiki/Shutendoji_%28manga%29#OVAs"
         }
     ]
 }

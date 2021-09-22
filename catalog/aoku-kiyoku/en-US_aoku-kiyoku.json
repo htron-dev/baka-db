@@ -1,5 +1,9 @@
 {
     "title": "Aoku Kiyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194357.jpg",
+        "alt": "aoku-kiyoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

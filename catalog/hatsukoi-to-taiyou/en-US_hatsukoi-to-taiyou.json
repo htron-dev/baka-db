@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi to Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217864.jpg",
+        "alt": "hatsukoi-to-taiyou"
+    },
     "type": "manga",
     "original_name": "ハツコイと太陽",
     "start_date": "2018-08-03",

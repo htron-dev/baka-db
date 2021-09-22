@@ -1,5 +1,9 @@
 {
     "title": "Uragiri wa Boku no Namae wo Shitteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195145.jpg",
+        "alt": "uragiri-wa-boku-no-namae-wo-shitteiru"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "68",

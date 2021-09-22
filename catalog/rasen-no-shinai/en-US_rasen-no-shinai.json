@@ -1,5 +1,9 @@
 {
     "title": "Rasen no Shinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194978.jpg",
+        "alt": "rasen-no-shinai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

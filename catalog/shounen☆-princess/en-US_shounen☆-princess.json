@@ -1,5 +1,9 @@
 {
     "title": "Shounen☆Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139323.jpg",
+        "alt": "shounen☆-princess"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

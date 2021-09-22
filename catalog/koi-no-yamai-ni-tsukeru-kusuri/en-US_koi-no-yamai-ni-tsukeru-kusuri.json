@@ -1,5 +1,9 @@
 {
     "title": "Koi no Yamai ni Tsukeru Kusuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207978.jpg",
+        "alt": "koi-no-yamai-ni-tsukeru-kusuri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

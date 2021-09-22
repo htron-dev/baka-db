@@ -1,5 +1,9 @@
 {
     "title": "Sexy Voice and Robo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28197.jpg",
+        "alt": "sexy-voice-and-robo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

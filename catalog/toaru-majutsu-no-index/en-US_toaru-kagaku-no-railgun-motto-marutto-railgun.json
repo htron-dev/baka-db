@@ -1,11 +1,15 @@
 {
     "title": "Toaru Kagaku no Railgun: Motto Marutto Railgun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/21780.jpg",
+        "alt": "toaru-kagaku-no-railgun-motto-marutto-railgun"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "もっとまるっと超電磁砲",
     "start_date": "2010-01-29",
     "end_date": "2010-01-29",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dear My Friend -Mada Minu Mirai he-\" by ELISA",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy"

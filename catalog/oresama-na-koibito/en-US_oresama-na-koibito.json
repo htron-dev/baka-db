@@ -1,5 +1,9 @@
 {
     "title": "Oresama na Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6016.jpg",
+        "alt": "oresama-na-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "俺様な恋人",

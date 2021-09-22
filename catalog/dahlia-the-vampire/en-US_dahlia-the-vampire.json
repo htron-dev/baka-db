@@ -1,5 +1,9 @@
 {
     "title": "Dahlia the Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194892.jpg",
+        "alt": "dahlia-the-vampire"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

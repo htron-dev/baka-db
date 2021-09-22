@@ -1,5 +1,9 @@
 {
     "title": "U19",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197241.jpg",
+        "alt": "u-19"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

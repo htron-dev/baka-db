@@ -1,5 +1,9 @@
 {
     "title": "Kiken na Otonari-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39734.jpg",
+        "alt": "kiken-na-otonari-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

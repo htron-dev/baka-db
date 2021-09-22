@@ -1,5 +1,9 @@
 {
     "title": "Job &amp; Joy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195316.jpg",
+        "alt": "job-amp-joy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

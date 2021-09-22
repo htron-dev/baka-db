@@ -1,5 +1,9 @@
 {
     "title": "Hit wo Nerae! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/5357.jpg",
+        "alt": "hit-wo-nerae-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ヒットをねらえ!",

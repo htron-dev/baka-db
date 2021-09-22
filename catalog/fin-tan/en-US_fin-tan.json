@@ -1,5 +1,9 @@
 {
     "title": "Fin-tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/84480.jpg",
+        "alt": "fin-tan"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "フィンたん",

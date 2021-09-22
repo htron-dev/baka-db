@@ -1,5 +1,9 @@
 {
     "title": "Unmei to Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151467.jpg",
+        "alt": "unmei-to-yuuutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

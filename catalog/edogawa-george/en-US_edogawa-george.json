@@ -1,5 +1,9 @@
 {
     "title": "Edogawa George",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175246.jpg",
+        "alt": "edogawa-george"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

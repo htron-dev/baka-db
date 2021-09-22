@@ -1,5 +1,9 @@
 {
     "title": "Tiger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73131.jpg",
+        "alt": "tiger"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "19",

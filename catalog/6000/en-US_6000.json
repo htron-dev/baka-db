@@ -1,5 +1,9 @@
 {
     "title": "6000",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181998.jpg",
+        "alt": "6000"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

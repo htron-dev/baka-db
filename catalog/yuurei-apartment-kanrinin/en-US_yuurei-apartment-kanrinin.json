@@ -1,5 +1,9 @@
 {
     "title": "Yuurei Apartment Kanrinin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171202.jpg",
+        "alt": "yuurei-apartment-kanrinin"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

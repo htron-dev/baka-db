@@ -1,5 +1,9 @@
 {
     "title": "Boku no Shiranai Love Comedy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203761.jpg",
+        "alt": "boku-no-shiranai-love-comedy"
+    },
     "type": "light-novel",
     "original_name": "僕の知らないラブコメ",
     "start_date": "2017-11-25",

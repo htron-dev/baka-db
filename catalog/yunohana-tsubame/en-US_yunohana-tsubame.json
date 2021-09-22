@@ -1,5 +1,9 @@
 {
     "title": "Yunohana Tsubame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33050.jpg",
+        "alt": "yunohana-tsubame"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

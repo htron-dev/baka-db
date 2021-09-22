@@ -1,5 +1,9 @@
 {
     "title": "Dakishimetemo Okorimasenka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40539.jpg",
+        "alt": "dakishimetemo-okorimasenka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

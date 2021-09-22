@@ -1,5 +1,9 @@
 {
     "title": "Bobby ni Kubittake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/61349.jpg",
+        "alt": "bobby-ni-kubittake"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ボビーに首ったけ",

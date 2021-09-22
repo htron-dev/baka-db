@@ -1,5 +1,9 @@
 {
     "title": "Eregy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163853.jpg",
+        "alt": "eregy"
+    },
     "type": "manga",
     "original_name": "エレ GY",
     "start_date": "2012-06-19",

@@ -1,5 +1,9 @@
 {
     "title": "Ninja Box 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1688/105773.jpg",
+        "alt": "ninja-box-2nd-season"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "ニンジャボックス　シーズン 2",

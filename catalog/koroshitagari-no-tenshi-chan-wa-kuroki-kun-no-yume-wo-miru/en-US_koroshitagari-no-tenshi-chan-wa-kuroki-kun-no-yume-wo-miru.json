@@ -1,5 +1,9 @@
 {
     "title": "Koroshitagari no Tenshi-chan wa Kuroki-kun no Yume wo Miru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160746.jpg",
+        "alt": "koroshitagari-no-tenshi-chan-wa-kuroki-kun-no-yume-wo-miru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

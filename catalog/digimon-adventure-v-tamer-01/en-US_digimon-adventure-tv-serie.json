@@ -1,11 +1,15 @@
 {
     "title": "Digimon Adventure:",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1745/105558.jpg",
+        "alt": "digimon-adventure"
+    },
     "type": "tv-serie",
     "episodes": "66",
-    "original_name": "デジモンアドベンチャー",
+    "original_name": "デジモンアドベンチャー:",
     "start_date": "2020-04-05",
     "opening_song": "\"Mikakunin Hikousen (未確認飛行船)\" by Takayoshi Tanimoto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kuyashisa wa Tane (悔しさは種)\" by Chiai Fujikawa (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "action",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Digimon_Adventure_(2020_TV_series"
+            "link": "https://en.wikipedia.org/wiki/Digimon_Adventure_%282020_TV_series%29"
         }
     ]
 }

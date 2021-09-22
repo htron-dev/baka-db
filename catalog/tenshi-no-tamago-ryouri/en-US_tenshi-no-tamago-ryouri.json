@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Tamago-ryouri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153446.jpg",
+        "alt": "tenshi-no-tamago-ryouri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

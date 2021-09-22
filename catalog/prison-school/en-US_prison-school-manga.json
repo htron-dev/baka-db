@@ -1,5 +1,9 @@
 {
     "title": "Prison School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/102683.jpg",
+        "alt": "prison-school"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "278",

@@ -1,5 +1,9 @@
 {
     "title": "Tau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4562.jpg",
+        "alt": "tau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ooki-sensei to Kosame-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209794.jpg",
+        "alt": "ooki-sensei-to-kosame-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

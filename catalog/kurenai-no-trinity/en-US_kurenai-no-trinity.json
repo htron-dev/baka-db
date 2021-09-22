@@ -1,5 +1,9 @@
 {
     "title": "Kurenai no Trinity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132485.jpg",
+        "alt": "kurenai-no-trinity"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "紅のトリニティ",

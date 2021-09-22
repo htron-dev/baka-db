@@ -1,5 +1,9 @@
 {
     "title": "Doraemon and Itchy the Stray",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/57845.jpg",
+        "alt": "doraemon-and-itchy-the-stray"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ドラえもん のら犬「イチ」の国",

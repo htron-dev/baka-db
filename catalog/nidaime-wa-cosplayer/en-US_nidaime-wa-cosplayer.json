@@ -1,5 +1,9 @@
 {
     "title": "Nidaime wa Cosplayer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38030.jpg",
+        "alt": "nidaime-wa-cosplayer"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "49",

@@ -1,5 +1,9 @@
 {
     "title": "Union!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136933.jpg",
+        "alt": "union"
+    },
     "type": "manga",
     "original_name": "ゆにおん！",
     "start_date": "2014-08-27",

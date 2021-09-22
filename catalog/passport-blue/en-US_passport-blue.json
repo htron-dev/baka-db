@@ -1,5 +1,9 @@
 {
     "title": "Passport Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205427.jpg",
+        "alt": "passport-blue"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "110",

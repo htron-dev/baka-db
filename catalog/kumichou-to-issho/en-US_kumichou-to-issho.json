@@ -1,5 +1,9 @@
 {
     "title": "Kumichou to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38144.jpg",
+        "alt": "kumichou-to-issho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

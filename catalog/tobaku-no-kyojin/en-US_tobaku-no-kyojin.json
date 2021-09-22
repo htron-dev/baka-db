@@ -1,5 +1,9 @@
 {
     "title": "Tobaku no Kyojin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194480.jpg",
+        "alt": "tobaku-no-kyojin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

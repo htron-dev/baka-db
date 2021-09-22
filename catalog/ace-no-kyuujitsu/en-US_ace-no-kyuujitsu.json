@@ -1,5 +1,9 @@
 {
     "title": "Ace no Kyuujitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91109.jpg",
+        "alt": "ace-no-kyuujitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

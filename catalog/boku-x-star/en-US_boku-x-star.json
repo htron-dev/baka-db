@@ -1,5 +1,9 @@
 {
     "title": "Boku x Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247797.jpg",
+        "alt": "boku-x-star"
+    },
     "type": "manga",
     "original_name": "僕 × スター",
     "start_date": "2019-09-24",

@@ -1,5 +1,9 @@
 {
     "title": "Neko Konogoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1877/91297.jpg",
+        "alt": "neko-konogoro"
+    },
     "type": "tv-serie",
     "original_name": "ネコこのゴロ",
     "start_date": "2016-06-08",

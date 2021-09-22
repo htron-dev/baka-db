@@ -1,5 +1,9 @@
 {
     "title": "Chiryokumaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/82646.jpg",
+        "alt": "chiryokumaru"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "知力丸",

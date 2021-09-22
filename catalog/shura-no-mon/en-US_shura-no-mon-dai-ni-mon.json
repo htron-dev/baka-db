@@ -1,5 +1,9 @@
 {
     "title": "Shura no Mon: Dai Ni Mon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157719.jpg",
+        "alt": "shura-no-mon-dai-ni-mon"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "53",

@@ -1,5 +1,9 @@
 {
     "title": "Shishunki Seimeitai Vega",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129561.jpg",
+        "alt": "shishunki-seimeitai-vega"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Sand Storm Slugger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202389.jpg",
+        "alt": "sand-storm-slugger"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "35",

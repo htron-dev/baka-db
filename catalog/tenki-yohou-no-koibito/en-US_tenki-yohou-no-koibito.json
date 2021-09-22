@@ -1,5 +1,9 @@
 {
     "title": "Tenki Yohou no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195202.jpg",
+        "alt": "tenki-yohou-no-koibito"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

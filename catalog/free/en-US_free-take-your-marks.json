@@ -1,11 +1,15 @@
 {
     "title": "Free!: Take Your Marks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/87928.jpg",
+        "alt": "free-take-your-marks"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "特別版 Free!-Take Your Marks-",
     "start_date": "2017-10-28",
     "opening_song": "\"FREE-STYLE SPIRIT\" by STYLE FIVE (Nobunaga Shimazaki, Tatsuhisa Suzuki, Mamoru Miyano, Tsubasa Yonaga, Daisuke Hirakawa)",
-    "ending_song": "\"What Wonderful Days!!\" by Iwatobi-chou no Yukai na Nakama-tachi (Sung",
+    "ending_song": "\"What Wonderful Days!!\" by Iwatobi-chou no Yukai na Nakama-tachi (Sung: Nobunaga Shimazaki, Tatsuhisa Suzuki, Tsubasa Yonaga, Daisuke Hirakawa, Mamoru Miyano,",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "school",

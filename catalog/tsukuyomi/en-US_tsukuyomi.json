@@ -1,5 +1,9 @@
 {
     "title": "Tsukuyomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22541.jpg",
+        "alt": "tsukuyomi"
+    },
     "type": "manga",
     "original_name": "月読",
     "start_date": "2009-01-20",

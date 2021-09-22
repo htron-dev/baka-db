@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79157.jpg",
+        "alt": "mahoutsukai-na-kanojo"
+    },
     "type": "manga",
     "original_name": "魔法使いな彼女",
     "tags": [

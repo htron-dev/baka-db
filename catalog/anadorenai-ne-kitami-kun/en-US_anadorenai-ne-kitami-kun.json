@@ -1,5 +1,9 @@
 {
     "title": "Anadorenai ne Kitami-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200108.jpg",
+        "alt": "anadorenai-ne-kitami-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

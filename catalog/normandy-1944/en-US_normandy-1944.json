@@ -1,5 +1,9 @@
 {
     "title": "Normandy 1944",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132745.jpg",
+        "alt": "normandy-1944"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ノルマンディー 1944",

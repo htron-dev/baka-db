@@ -1,5 +1,9 @@
 {
     "title": "Mizuki Shigeru no Kodai Izumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230365.jpg",
+        "alt": "mizuki-shigeru-no-kodai-izumo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

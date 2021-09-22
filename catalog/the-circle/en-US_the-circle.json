@@ -1,5 +1,9 @@
 {
     "title": "The Circle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42565.jpg",
+        "alt": "the-circle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

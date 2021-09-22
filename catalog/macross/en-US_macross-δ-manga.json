@@ -1,5 +1,9 @@
 {
     "title": "Macross Δ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183796.jpg",
+        "alt": "macross-δ"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

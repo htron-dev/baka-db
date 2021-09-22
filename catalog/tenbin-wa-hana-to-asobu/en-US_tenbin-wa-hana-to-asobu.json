@@ -1,5 +1,9 @@
 {
     "title": "Tenbin wa Hana to Asobu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24952.jpg",
+        "alt": "tenbin-wa-hana-to-asobu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

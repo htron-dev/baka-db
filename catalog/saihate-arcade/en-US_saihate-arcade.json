@@ -1,5 +1,9 @@
 {
     "title": "Saihate Arcade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222344.jpg",
+        "alt": "saihate-arcade"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

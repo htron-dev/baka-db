@@ -1,5 +1,9 @@
 {
     "title": "Kozure Doushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155065.jpg",
+        "alt": "kozure-doushin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

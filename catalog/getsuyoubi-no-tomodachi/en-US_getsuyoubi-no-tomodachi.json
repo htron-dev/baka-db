@@ -1,5 +1,9 @@
 {
     "title": "Getsuyoubi no Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203203.jpg",
+        "alt": "getsuyoubi-no-tomodachi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Hajime Ningen Gon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/24193.jpg",
+        "alt": "hajime-ningen-gon"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "はじめ人間ゴン",

@@ -1,5 +1,9 @@
 {
     "title": "Henjin Henkutsu Retsuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25411.jpg",
+        "alt": "henjin-henkutsu-retsuden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

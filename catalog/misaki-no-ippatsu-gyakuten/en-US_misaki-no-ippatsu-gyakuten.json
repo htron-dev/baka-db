@@ -1,5 +1,9 @@
 {
     "title": "Misaki no Ippatsu Gyakuten!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163009.jpg",
+        "alt": "misaki-no-ippatsu-gyakuten"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

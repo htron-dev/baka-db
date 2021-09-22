@@ -1,5 +1,9 @@
 {
     "title": "Love-yan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115031.jpg",
+        "alt": "love-yan"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "158",

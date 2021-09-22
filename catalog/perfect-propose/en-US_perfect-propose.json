@@ -1,5 +1,9 @@
 {
     "title": "Perfect Propose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246307.jpg",
+        "alt": "perfect-propose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

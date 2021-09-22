@@ -1,5 +1,9 @@
 {
     "title": "Setagaya Synchronicity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228213.jpg",
+        "alt": "setagaya-synchronicity"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

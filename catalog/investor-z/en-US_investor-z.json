@@ -1,5 +1,9 @@
 {
     "title": "Investor Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118975.jpg",
+        "alt": "investor-z"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "187",

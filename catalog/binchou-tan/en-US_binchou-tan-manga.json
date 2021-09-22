@@ -1,5 +1,9 @@
 {
     "title": "Binchou-tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11000.jpg",
+        "alt": "binchou-tan"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "びんちょうタン",

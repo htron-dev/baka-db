@@ -1,5 +1,9 @@
 {
     "title": "Aniki no Shigoki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223934.jpg",
+        "alt": "aniki-no-shigoki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

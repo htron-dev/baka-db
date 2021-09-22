@@ -1,5 +1,9 @@
 {
     "title": "Giga Tokyo Toy Box: SP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115035.jpg",
+        "alt": "giga-tokyo-toy-box-sp"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

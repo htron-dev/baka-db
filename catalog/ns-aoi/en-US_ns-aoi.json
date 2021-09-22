@@ -1,5 +1,9 @@
 {
     "title": "Ns' Aoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76763.jpg",
+        "alt": "ns-aoi"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "290",

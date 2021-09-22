@@ -1,5 +1,9 @@
 {
     "title": "Koibumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140651.jpg",
+        "alt": "koibumi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋文",

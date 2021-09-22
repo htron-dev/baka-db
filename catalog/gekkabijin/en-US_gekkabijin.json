@@ -1,5 +1,9 @@
 {
     "title": "Gekkabijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44829.jpg",
+        "alt": "gekkabijin"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "月下美人",

@@ -1,12 +1,16 @@
 {
     "title": "Sakura Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/85222.jpg",
+        "alt": "sakura-quest"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "サクラクエスト",
     "start_date": "2017-04-06",
     "end_date": "2017-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Morning Glory\" by (K)NoW_NAME (eps 1-13)",
+    "ending_song": "#1: \"Freesia\" by (K)NoW_NAME (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Young, Alive, in Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142855.jpg",
+        "alt": "young-alive-in-love"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

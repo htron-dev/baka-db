@@ -1,5 +1,9 @@
 {
     "title": "Meido no Koi wa Enma Shidai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202311.jpg",
+        "alt": "meido-no-koi-wa-enma-shidai"
+    },
     "type": "manga",
     "original_name": "冥土の恋は閻魔次第！",
     "start_date": "2016-12-17",

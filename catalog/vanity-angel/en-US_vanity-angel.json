@@ -1,5 +1,9 @@
 {
     "title": "Vanity Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13842.jpg",
+        "alt": "vanity-angel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

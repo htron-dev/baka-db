@@ -1,5 +1,9 @@
 {
     "title": "Egoism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18388.jpg",
+        "alt": "egoism"
+    },
     "type": "manga",
     "volumes": "4",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Kickers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1322/90364.jpg",
+        "alt": "ganbare-kickers"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "がんばれ！キッカーズ",

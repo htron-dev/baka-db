@@ -1,5 +1,9 @@
 {
     "title": "Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46457.jpg",
+        "alt": "chronicle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

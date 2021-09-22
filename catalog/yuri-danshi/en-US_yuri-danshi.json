@@ -1,5 +1,9 @@
 {
     "title": "Yuri Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128981.jpg",
+        "alt": "yuri-danshi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

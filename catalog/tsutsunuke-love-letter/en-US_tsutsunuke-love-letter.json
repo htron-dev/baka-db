@@ -1,5 +1,9 @@
 {
     "title": "Tsutsunuke Love Letter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232378.jpg",
+        "alt": "tsutsunuke-love-letter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

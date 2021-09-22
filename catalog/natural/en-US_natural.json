@@ -1,5 +1,9 @@
 {
     "title": "Natural",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100385.jpg",
+        "alt": "natural"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "51",

@@ -1,5 +1,9 @@
 {
     "title": "Nirameba Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150617.jpg",
+        "alt": "nirameba-koi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

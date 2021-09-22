@@ -1,5 +1,9 @@
 {
     "title": "Yatsugare!! Otokojuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224807.jpg",
+        "alt": "yatsugare-otokojuku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Prism Ark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3767.jpg",
+        "alt": "prism-ark"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "プリズムアーク",
@@ -12,12 +16,6 @@
         "None"
     ],
     "links": [
-        {
-            "text": "My Anime list",
-            "link": "https://myanimelist.net/manga/23570/Prism_Ark"
-        },
-        "the Prism Ark Manga.",
-        "## Links",
         {
             "text": "My Anime list",
             "link": "https://myanimelist.net/manga/3394/Prism_Ark"

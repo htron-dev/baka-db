@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Raider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125785.jpg",
+        "alt": "tetsuwan-raider"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "テツワンレイダ",

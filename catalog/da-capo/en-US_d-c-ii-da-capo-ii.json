@@ -1,5 +1,9 @@
 {
     "title": "D.C.II: Da Capo II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75305.jpg",
+        "alt": "d-c-ii-da-capo-ii"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "D.C.II ～ダ・カーポ II ～",

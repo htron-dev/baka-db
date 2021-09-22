@@ -1,5 +1,9 @@
 {
     "title": "Yurutto Hunter☆Wantan-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217467.jpg",
+        "alt": "yurutto-hunter☆-wantan-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

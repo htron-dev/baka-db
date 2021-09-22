@@ -1,12 +1,16 @@
 {
     "title": "Shakunetsu no Takkyuu Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/80746.jpg",
+        "alt": "shakunetsu-no-takkyuu-musume"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "灼熱の卓球娘",
     "start_date": "2016-10-04",
     "end_date": "2016-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Shakunetsu Switch (灼熱スイッチ)\" by Suzumegahara Chuugaku Takkyuu-bu (Yumiri Hanamori, Minami Tanaka, Ayaka Imamura, Hisako Tojo, Marika Kouno, Yuuki Kuwahara) (eps 1-4, 6-)",
+    "ending_song": "#1: \"Bokura no Frontier (僕らのフロンティア)\" by Wake Up, Girls! (eps 1-4, 6-)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports"

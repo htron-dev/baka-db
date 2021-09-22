@@ -1,5 +1,9 @@
 {
     "title": "Sekaino Owariga Furu Yoruni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2322.jpg",
+        "alt": "sekaino-owariga-furu-yoruni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

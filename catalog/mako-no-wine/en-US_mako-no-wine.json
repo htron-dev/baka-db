@@ -1,5 +1,9 @@
 {
     "title": "Mako no Wine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235701.jpg",
+        "alt": "mako-no-wine"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

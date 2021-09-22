@@ -1,5 +1,9 @@
 {
     "title": "Rosemary Hotel Akishitsuari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181651.jpg",
+        "alt": "rosemary-hotel-akishitsuari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

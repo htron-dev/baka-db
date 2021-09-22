@@ -1,5 +1,9 @@
 {
     "title": "Perfect World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175525.jpg",
+        "alt": "perfect-world"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "59",

@@ -1,5 +1,9 @@
 {
     "title": "Tondemo Senshi Muteking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/88117.jpg",
+        "alt": "tondemo-senshi-muteking"
+    },
     "type": "tv-serie",
     "episodes": "56",
     "original_name": "とんでも戦士ムテキング",

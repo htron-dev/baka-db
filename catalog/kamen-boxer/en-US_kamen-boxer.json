@@ -1,5 +1,9 @@
 {
     "title": "Kamen Boxer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95525.jpg",
+        "alt": "kamen-boxer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

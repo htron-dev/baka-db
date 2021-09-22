@@ -1,5 +1,9 @@
 {
     "title": "Otokomae Ikusei Katei!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21465.jpg",
+        "alt": "otokomae-ikusei-katei"
+    },
     "type": "manga",
     "original_name": "オトコマエ育成課程！",
     "start_date": "2008-06-20",

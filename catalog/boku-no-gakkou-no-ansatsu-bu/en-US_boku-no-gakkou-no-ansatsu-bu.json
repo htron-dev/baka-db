@@ -1,5 +1,9 @@
 {
     "title": "Boku no Gakkou no Ansatsu-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163868.jpg",
+        "alt": "boku-no-gakkou-no-ansatsu-bu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "僕の学校の暗殺部",

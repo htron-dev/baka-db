@@ -1,5 +1,9 @@
 {
     "title": "Midara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98215.jpg",
+        "alt": "midara"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

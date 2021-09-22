@@ -1,5 +1,9 @@
 {
     "title": "Appleseed XIII",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/28796.jpg",
+        "alt": "appleseed-xiii"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "アップルシード XIII",

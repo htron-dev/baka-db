@@ -1,12 +1,16 @@
 {
     "title": "Chihayafuru 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/47435.jpg",
+        "alt": "chihayafuru-2"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ちはやふる 2",
     "start_date": "2013-01-12",
     "end_date": "2013-01-12",
     "opening_song": "\"STAR\" by 99RadioService",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Akanezora (茜空)\" by Asami Seto (eps 1-24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

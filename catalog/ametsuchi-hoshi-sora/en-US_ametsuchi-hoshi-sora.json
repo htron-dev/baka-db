@@ -1,5 +1,9 @@
 {
     "title": "Ametsuchi Hoshi Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172944.jpg",
+        "alt": "ametsuchi-hoshi-sora"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "あめつちほしそら",

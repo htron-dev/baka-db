@@ -1,5 +1,9 @@
 {
     "title": "Dolls' Frontline",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1013/116968.jpg",
+        "alt": "dolls-frontline"
+    },
     "type": "tv-serie",
     "original_name": "ドールズフロントライン",
     "rating": "None",

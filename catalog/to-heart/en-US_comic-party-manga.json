@@ -1,5 +1,9 @@
 {
     "title": "Comic Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/755.jpg",
+        "alt": "comic-party"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "49",

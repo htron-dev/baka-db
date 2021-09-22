@@ -1,12 +1,16 @@
 {
     "title": "Hakushon Daimaou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/30200.jpg",
+        "alt": "hakushon-daimaou"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ハクション大魔王",
     "start_date": "1969-10-05",
     "end_date": "1969-10-05",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Hakushon Daimaou no Uta (ハクション大魔王のうた)\" by Yuri Shimazaki",
+    "ending_song": "#01: \"Akubi Musume (アクビ娘)\" by Mitsuko Horie",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

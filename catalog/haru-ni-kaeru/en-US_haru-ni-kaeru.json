@@ -1,5 +1,9 @@
 {
     "title": "Haru ni Kaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/70037.jpg",
+        "alt": "haru-ni-kaeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

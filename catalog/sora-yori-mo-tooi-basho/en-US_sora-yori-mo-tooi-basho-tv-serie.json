@@ -1,5 +1,9 @@
 {
     "title": "Sora yori mo Tooi Basho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/89879.jpg",
+        "alt": "sora-yori-mo-tooi-basho"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "宇宙よりも遠い場所",

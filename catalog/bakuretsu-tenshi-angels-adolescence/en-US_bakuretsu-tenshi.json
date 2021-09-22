@@ -1,5 +1,9 @@
 {
     "title": "Bakuretsu Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22647.jpg",
+        "alt": "bakuretsu-tenshi"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "爆裂天使",

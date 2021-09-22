@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Captain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122527.jpg",
+        "alt": "ore-wa-captain"
+    },
     "type": "manga",
     "volumes": "35",
     "chapters": "140",

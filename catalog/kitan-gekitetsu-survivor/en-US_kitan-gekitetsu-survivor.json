@@ -1,5 +1,9 @@
 {
     "title": "Kitan Gekitetsu Survivor!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216935.jpg",
+        "alt": "kitan-gekitetsu-survivor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

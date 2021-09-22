@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki Mille Feuille",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248097.jpg",
+        "alt": "usotsuki-mille-feuille"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

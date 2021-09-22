@@ -1,5 +1,9 @@
 {
     "title": "Radiata Stories: The Song of Ridley",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37234.jpg",
+        "alt": "radiata-stories-the-song-of-ridley"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

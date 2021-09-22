@@ -1,5 +1,9 @@
 {
     "title": "Otonari no Tengai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245159.jpg",
+        "alt": "otonari-no-tengai"
+    },
     "type": "manga",
     "original_name": "おとなりの天涯",
     "start_date": "2020-11-14",

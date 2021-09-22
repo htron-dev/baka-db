@@ -1,5 +1,9 @@
 {
     "title": "Cabbage na Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28288.jpg",
+        "alt": "cabbage-na-futari"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "キャベツな 2 人",

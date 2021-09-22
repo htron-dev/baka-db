@@ -1,5 +1,9 @@
 {
     "title": "Futago no Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36133.jpg",
+        "alt": "futago-no-kishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Yamiyo Mori no Guuwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184052.jpg",
+        "alt": "yamiyo-mori-no-guuwa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

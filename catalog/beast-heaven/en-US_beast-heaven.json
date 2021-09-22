@@ -1,5 +1,9 @@
 {
     "title": "Beast Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167522.jpg",
+        "alt": "beast-heaven"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

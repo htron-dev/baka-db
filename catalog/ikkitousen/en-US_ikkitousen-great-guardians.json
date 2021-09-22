@@ -1,8 +1,12 @@
 {
     "title": "Ikkitousen: Great Guardians",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/22922.jpg",
+        "alt": "ikkitousen-great-guardians"
+    },
     "type": "tv-serie",
     "episodes": "12",
-    "original_name": "一騎当千",
+    "original_name": "一騎当千: Great Guardians",
     "start_date": "2008-06-11",
     "end_date": "2008-06-11",
     "opening_song": "\"No x Limit!\" by Ami",

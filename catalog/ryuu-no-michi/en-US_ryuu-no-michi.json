@@ -1,5 +1,9 @@
 {
     "title": "Ryuu no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178069.jpg",
+        "alt": "ryuu-no-michi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "28",

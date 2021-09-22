@@ -1,5 +1,9 @@
 {
     "title": "Kyoaku Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160917.jpg",
+        "alt": "kyoaku-gakuen"
+    },
     "type": "manga",
     "original_name": "巨悪学園",
     "start_date": "2011-01-11",

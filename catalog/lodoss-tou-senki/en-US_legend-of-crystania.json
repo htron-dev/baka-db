@@ -1,11 +1,15 @@
 {
     "title": "Legend of Crystania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/2764.jpg",
+        "alt": "legend-of-crystania"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "レジェンド・オブ・クリスタニア",
     "start_date": "1996-11-21",
     "end_date": "1996-11-21",
-    "opening_song": "\"Hajimari no Boukensha-tachi",
+    "opening_song": "\"Hajimari no Boukensha-tachi: Kou no Chizu (はじまりの冒険者たち~光の地図~)\" by Hitomi Mieno",
     "ending_song": "\"Save My Love\" by Satoko Shimonari",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Spoon Oba-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/3531.jpg",
+        "alt": "spoon-oba-san"
+    },
     "type": "tv-serie",
     "episodes": "130",
     "original_name": "スプーンおばさん",

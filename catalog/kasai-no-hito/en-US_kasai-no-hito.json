@@ -1,5 +1,9 @@
 {
     "title": "Kasai no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168725.jpg",
+        "alt": "kasai-no-hito"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "136",

@@ -1,5 +1,9 @@
 {
     "title": "Dirty Pair: The Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1855/92685.jpg",
+        "alt": "dirty-pair-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ダーティペア the Movie",

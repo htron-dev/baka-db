@@ -1,5 +1,9 @@
 {
     "title": "Karada de Shibaranaide★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161795.jpg",
+        "alt": "karada-de-shibaranaide★"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

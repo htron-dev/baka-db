@@ -1,5 +1,9 @@
 {
     "title": "Gate Keepers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125123.jpg",
+        "alt": "gate-keepers"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ゲートキーパーズ",

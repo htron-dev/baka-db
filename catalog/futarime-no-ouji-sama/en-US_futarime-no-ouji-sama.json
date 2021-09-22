@@ -1,5 +1,9 @@
 {
     "title": "Futarime no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179269.jpg",
+        "alt": "futarime-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kageno datte Seishun Shitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160768.jpg",
+        "alt": "kageno-datte-seishun-shitai"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "46",

@@ -1,5 +1,9 @@
 {
     "title": "Mister Convenience",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182939.jpg",
+        "alt": "mister-convenience"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

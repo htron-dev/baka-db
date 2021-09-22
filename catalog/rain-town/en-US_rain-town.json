@@ -1,5 +1,9 @@
 {
     "title": "Rain Town",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/29062.jpg",
+        "alt": "rain-town"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "rain town",

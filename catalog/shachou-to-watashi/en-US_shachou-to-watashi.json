@@ -1,5 +1,9 @@
 {
     "title": "Shachou to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15327.jpg",
+        "alt": "shachou-to-watashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

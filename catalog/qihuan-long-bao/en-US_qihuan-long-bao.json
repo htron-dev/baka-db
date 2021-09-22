@@ -1,5 +1,9 @@
 {
     "title": "Qihuan Long Bao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1295/114596.jpg",
+        "alt": "qihuan-long-bao"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "奇幻龙宝",

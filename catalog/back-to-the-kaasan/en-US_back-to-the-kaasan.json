@@ -1,5 +1,9 @@
 {
     "title": "Back to the Kaasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204353.jpg",
+        "alt": "back-to-the-kaasan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

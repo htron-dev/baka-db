@@ -1,5 +1,9 @@
 {
     "title": "Seishun wa Zombie deshita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190433.jpg",
+        "alt": "seishun-wa-zombie-deshita"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

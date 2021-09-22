@@ -1,5 +1,9 @@
 {
     "title": "One Operation Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239480.jpg",
+        "alt": "one-operation-joker"
+    },
     "type": "manga",
     "original_name": "ワンオペ JOKER",
     "start_date": "2021-01-07",

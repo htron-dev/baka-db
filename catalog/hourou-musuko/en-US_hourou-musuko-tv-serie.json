@@ -1,12 +1,16 @@
 {
     "title": "Hourou Musuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/53945.jpg",
+        "alt": "hourou-musuko"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "放浪息子",
     "start_date": "2011-01-14",
     "end_date": "2011-01-14",
     "opening_song": "\"Itsudatte\" by Daisuke (eps 1-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"For You\" by Rie Fu",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

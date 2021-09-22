@@ -1,5 +1,9 @@
 {
     "title": "Otome no Iroha!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16710.jpg",
+        "alt": "otome-no-iroha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

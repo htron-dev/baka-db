@@ -1,5 +1,9 @@
 {
     "title": "Hasha no Gyokuhai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81802.jpg",
+        "alt": "hasha-no-gyokuhai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

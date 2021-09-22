@@ -1,5 +1,9 @@
 {
     "title": "Teppeki Honeymoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236938.jpg",
+        "alt": "teppeki-honeymoon"
+    },
     "type": "manga",
     "original_name": "鉄壁ハニームーン",
     "start_date": "2018-10-20",

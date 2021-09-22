@@ -1,12 +1,16 @@
 {
     "title": "Jormungand",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73280.jpg",
+        "alt": "jormungand"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヨルムンガンド",
     "start_date": "2012-04-11",
     "end_date": "2012-04-11",
     "opening_song": "\"Borderland\" by Mami Kawada",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ambivalentidea\" by Nagi Yanagi (eps 1-3, 5-12)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Jormungand_(manga"
+            "link": "http://en.wikipedia.org/wiki/Jormungand_%28manga%29"
         }
     ]
 }

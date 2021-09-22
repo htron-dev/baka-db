@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Owari no Encore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175306.jpg",
+        "alt": "sekai-no-owari-no-encore"
+    },
     "type": "manga",
     "original_name": "世界の終わりの世界録〈アンコール〉",
     "start_date": "2015-10-27",

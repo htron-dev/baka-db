@@ -1,5 +1,9 @@
 {
     "title": "7-nenme no Junai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246408.jpg",
+        "alt": "7-nenme-no-junai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

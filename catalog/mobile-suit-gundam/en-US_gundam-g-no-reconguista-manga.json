@@ -1,5 +1,9 @@
 {
     "title": "Gundam: G no Reconguista",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148969.jpg",
+        "alt": "gundam-g-no-reconguista"
+    },
     "type": "manga",
     "original_name": "ガンダム G のレコンギスタ",
     "start_date": "2014-08-26",

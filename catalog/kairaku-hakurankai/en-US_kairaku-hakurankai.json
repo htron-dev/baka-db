@@ -1,5 +1,9 @@
 {
     "title": "Kairaku Hakurankai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150308.jpg",
+        "alt": "kairaku-hakurankai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

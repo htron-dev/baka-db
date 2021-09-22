@@ -1,5 +1,9 @@
 {
     "title": "Gun Dolls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34855.jpg",
+        "alt": "gun-dolls"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

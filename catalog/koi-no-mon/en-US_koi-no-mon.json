@@ -1,5 +1,9 @@
 {
     "title": "Koi no Mon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141503.jpg",
+        "alt": "koi-no-mon"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

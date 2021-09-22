@@ -1,5 +1,9 @@
 {
     "title": "Shibai Taroka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29877.jpg",
+        "alt": "shibai-taroka"
+    },
     "type": "manga",
     "volumes": "20",
     "original_name": "しばいたろか",

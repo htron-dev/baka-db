@@ -1,5 +1,9 @@
 {
     "title": "Saki Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/18976.jpg",
+        "alt": "saki-picture-drama"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "咲-Saki- ピクチャードラマ",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Saki_(manga"
+            "link": "http://en.wikipedia.org/wiki/Saki_%28manga%29#Anime"
         }
     ]
 }

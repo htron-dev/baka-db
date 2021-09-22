@@ -1,5 +1,9 @@
 {
     "title": "Bambino! Secondo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/74875.jpg",
+        "alt": "bambino-secondo"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "149",

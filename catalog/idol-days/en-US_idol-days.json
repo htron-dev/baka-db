@@ -1,5 +1,9 @@
 {
     "title": "Idol Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155092.jpg",
+        "alt": "idol-days"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "あいどる Days",

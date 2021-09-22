@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Shinobi Squad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224194.jpg",
+        "alt": "tokyo-shinobi-squad"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

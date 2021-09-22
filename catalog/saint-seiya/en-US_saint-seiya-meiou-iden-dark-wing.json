@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya: Meiou Iden - Dark Wing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246667.jpg",
+        "alt": "saint-seiya-meiou-iden-dark-wing"
+    },
     "type": "manga",
     "original_name": "聖闘士星矢 冥王異伝 ダークウィング",
     "start_date": "2020-12-19",

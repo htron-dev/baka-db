@@ -1,5 +1,9 @@
 {
     "title": "Go Go! Purin Teikoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29874.jpg",
+        "alt": "go-go-purin-teikoku"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "GOGO!ぷりん帝国",

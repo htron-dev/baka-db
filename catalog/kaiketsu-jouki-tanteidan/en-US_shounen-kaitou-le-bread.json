@@ -1,5 +1,9 @@
 {
     "title": "Shounen Kaitou Le Bread",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226628.jpg",
+        "alt": "shounen-kaitou-le-bread"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Kurokami Miko Maria Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235338.jpg",
+        "alt": "kurokami-miko-maria-witch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

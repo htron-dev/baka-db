@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Tsuma wo Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164438.jpg",
+        "alt": "bokura-wa-tsuma-wo-aishiteru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

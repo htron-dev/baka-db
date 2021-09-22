@@ -1,5 +1,9 @@
 {
     "title": "Kohaku no Riddle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171923.jpg",
+        "alt": "kohaku-no-riddle"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "41",

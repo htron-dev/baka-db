@@ -1,5 +1,9 @@
 {
     "title": "Kurozakuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15634.jpg",
+        "alt": "kurozakuro"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "67",

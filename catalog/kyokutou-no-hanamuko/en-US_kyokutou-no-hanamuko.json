@@ -1,5 +1,9 @@
 {
     "title": "Kyokutou no Hanamuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16604.jpg",
+        "alt": "kyokutou-no-hanamuko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

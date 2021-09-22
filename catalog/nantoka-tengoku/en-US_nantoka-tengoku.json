@@ -1,5 +1,9 @@
 {
     "title": "Nantoka Tengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1420/104123.jpg",
+        "alt": "nantoka-tengoku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ナントカ天国",

@@ -1,5 +1,9 @@
 {
     "title": "Normal City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81356.jpg",
+        "alt": "normal-city"
+    },
     "type": "manhwa",
     "volumes": "15",
     "chapters": "121",

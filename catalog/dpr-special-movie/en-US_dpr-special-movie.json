@@ -1,5 +1,9 @@
 {
     "title": "DPR Special Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/56803.jpg",
+        "alt": "dpr-special-movie"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "DPR スペシャルムービー",

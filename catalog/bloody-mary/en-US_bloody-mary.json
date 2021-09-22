@@ -1,5 +1,9 @@
 {
     "title": "Bloody†Mary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130979.jpg",
+        "alt": "bloody-mary"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

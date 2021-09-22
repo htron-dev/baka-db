@@ -1,5 +1,9 @@
 {
     "title": "Ame no Hi no Iris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164392.jpg",
+        "alt": "ame-no-hi-no-iris"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ninin ga Shinobuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143955.jpg",
+        "alt": "ninin-ga-shinobuden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "68",

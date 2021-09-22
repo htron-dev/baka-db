@@ -1,5 +1,9 @@
 {
     "title": "Noisy Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27041.jpg",
+        "alt": "noisy-girl"
+    },
     "type": "manga",
     "original_name": "ノイジィ・ガール",
     "start_date": "2008-07-26",

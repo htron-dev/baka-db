@@ -1,5 +1,9 @@
 {
     "title": "Houkago Hachimitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198854.jpg",
+        "alt": "houkago-hachimitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

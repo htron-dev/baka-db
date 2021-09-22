@@ -1,5 +1,9 @@
 {
     "title": "Sore Ike! Zukkoke Sannin-gumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/32083.jpg",
+        "alt": "sore-ike-zukkoke-sannin-gumi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "それいけ! ズッコケ三人組",

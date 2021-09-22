@@ -1,5 +1,9 @@
 {
     "title": "Tamatama! Kingyosou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127759.jpg",
+        "alt": "tamatama-kingyosou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "たまたま! きんぎょ荘",

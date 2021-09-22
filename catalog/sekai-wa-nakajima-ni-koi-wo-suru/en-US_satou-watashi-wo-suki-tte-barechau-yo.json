@@ -1,5 +1,9 @@
 {
     "title": "Satou, Watashi wo Suki tte Barechau yo!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237185.jpg",
+        "alt": "satou-watashi-wo-suki-tte-barechau-yo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

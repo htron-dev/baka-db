@@ -1,5 +1,9 @@
 {
     "title": "Douchuushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190076.jpg",
+        "alt": "douchuushi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "11",

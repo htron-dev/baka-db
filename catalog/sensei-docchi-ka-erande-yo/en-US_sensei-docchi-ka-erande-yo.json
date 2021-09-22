@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Docchi ka Erande yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223627.jpg",
+        "alt": "sensei-docchi-ka-erande-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170506.jpg",
+        "alt": "ze"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "66",

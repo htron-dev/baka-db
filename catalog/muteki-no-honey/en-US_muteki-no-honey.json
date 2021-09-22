@@ -1,5 +1,9 @@
 {
     "title": "Muteki no Honey!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10156.jpg",
+        "alt": "muteki-no-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "無敵のハニー!",

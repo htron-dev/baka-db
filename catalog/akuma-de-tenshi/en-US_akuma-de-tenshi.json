@@ -1,5 +1,9 @@
 {
     "title": "Akuma de Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36896.jpg",
+        "alt": "akuma-de-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あくまで天使",

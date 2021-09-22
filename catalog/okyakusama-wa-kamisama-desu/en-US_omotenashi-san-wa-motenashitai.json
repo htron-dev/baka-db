@@ -1,5 +1,9 @@
 {
     "title": "Omotenashi-san wa Motenashitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210617.jpg",
+        "alt": "omotenashi-san-wa-motenashitai"
+    },
     "type": "manga",
     "original_name": "オモテナシさんはもてなしたい",
     "start_date": "2018-02-26",

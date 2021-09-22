@@ -1,5 +1,9 @@
 {
     "title": "Kiss: Kyoujin, Sora wo Tobu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205645.jpg",
+        "alt": "kiss-kyoujin-sora-wo-tobu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Gosenzo-sama Banbanzai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/19785.jpg",
+        "alt": "gosenzo-sama-banbanzai"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "御先祖様万々歳!",

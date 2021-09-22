@@ -1,5 +1,9 @@
 {
     "title": "Kami x Kami Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239041.jpg",
+        "alt": "kami-x-kami-series"
+    },
     "type": "light-novel",
     "original_name": "神 × 神シリーズ",
     "start_date": "2015-04-28",

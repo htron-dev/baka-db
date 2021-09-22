@@ -1,5 +1,9 @@
 {
     "title": "Bakunetsu Tenshi X-Sun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148529.jpg",
+        "alt": "bakunetsu-tenshi-x-sun"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Andante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191299.jpg",
+        "alt": "andante"
+    },
     "type": "light-novel",
     "original_name": "アンダンテ",
     "start_date": "2017-02-17",

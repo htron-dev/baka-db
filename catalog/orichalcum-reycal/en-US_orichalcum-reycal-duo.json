@@ -1,5 +1,9 @@
 {
     "title": "Orichalcum Reycal Duo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176733.jpg",
+        "alt": "orichalcum-reycal-duo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Zoids Shinseiki/Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/58755.jpg",
+        "alt": "zoids-shinseiki-zero"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "ゾイド新世紀／ゼロ",

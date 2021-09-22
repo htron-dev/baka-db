@@ -1,5 +1,9 @@
 {
     "title": "YuReRururu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180533.jpg",
+        "alt": "yu-re-rururu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

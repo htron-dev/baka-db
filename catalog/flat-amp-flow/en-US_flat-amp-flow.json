@@ -1,5 +1,9 @@
 {
     "title": "Flat &amp; Flow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24631.jpg",
+        "alt": "flat-amp-flow"
+    },
     "type": "manga",
     "original_name": "ふら・ふろ",
     "start_date": "2007-11-20",

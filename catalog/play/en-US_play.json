@@ -1,5 +1,9 @@
 {
     "title": "PLAY!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/18955.jpg",
+        "alt": "play"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "▷ プレイ！",

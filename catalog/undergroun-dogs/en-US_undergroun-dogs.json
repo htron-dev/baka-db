@@ -1,5 +1,9 @@
 {
     "title": "Undergroun' Dogs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151712.jpg",
+        "alt": "undergroun-dogs"
+    },
     "type": "manga",
     "original_name": "UNDERGROUN'DOGS",
     "start_date": "2014-09-27",

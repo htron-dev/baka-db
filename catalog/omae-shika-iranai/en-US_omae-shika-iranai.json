@@ -1,5 +1,9 @@
 {
     "title": "Omae Shika Iranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16808.jpg",
+        "alt": "omae-shika-iranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

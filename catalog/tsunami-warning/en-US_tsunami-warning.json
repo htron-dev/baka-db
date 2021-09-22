@@ -1,5 +1,9 @@
 {
     "title": "Tsunami Warning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10312.jpg",
+        "alt": "tsunami-warning"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "つなみ注意報",

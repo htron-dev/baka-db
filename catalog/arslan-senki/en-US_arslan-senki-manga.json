@@ -1,5 +1,9 @@
 {
     "title": "Arslan Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149815.jpg",
+        "alt": "arslan-senki"
+    },
     "type": "manga",
     "original_name": "アルスラーン戦記",
     "start_date": "2013-07-09",

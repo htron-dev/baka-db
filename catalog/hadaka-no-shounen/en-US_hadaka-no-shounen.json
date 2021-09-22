@@ -1,5 +1,9 @@
 {
     "title": "Hadaka no Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131363.jpg",
+        "alt": "hadaka-no-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "裸の少年",

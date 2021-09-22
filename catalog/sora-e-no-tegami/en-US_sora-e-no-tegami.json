@@ -1,5 +1,9 @@
 {
     "title": "Sora e no Tegami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229445.jpg",
+        "alt": "sora-e-no-tegami"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "47",

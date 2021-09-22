@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Mienakutemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153573.jpg",
+        "alt": "kimi-ga-mienakutemo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Tayutau Shushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235173.jpg",
+        "alt": "tayutau-shushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

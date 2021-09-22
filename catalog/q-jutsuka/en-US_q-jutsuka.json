@@ -1,5 +1,9 @@
 {
     "title": "Q-Jutsuka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163880.jpg",
+        "alt": "q-jutsuka"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "32",

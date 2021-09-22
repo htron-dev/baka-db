@@ -1,5 +1,9 @@
 {
     "title": "Lunar: Vheen Hikuusen Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139643.jpg",
+        "alt": "lunar-vheen-hikuusen-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

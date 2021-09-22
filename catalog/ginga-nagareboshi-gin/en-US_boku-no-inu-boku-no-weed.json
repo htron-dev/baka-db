@@ -1,5 +1,9 @@
 {
     "title": "Boku no Inu, Boku no Weed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/39059.jpg",
+        "alt": "boku-no-inu-boku-no-weed"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

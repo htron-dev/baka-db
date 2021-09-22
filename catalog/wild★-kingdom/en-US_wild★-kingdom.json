@@ -1,5 +1,9 @@
 {
     "title": "Wild★Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180826.jpg",
+        "alt": "wild★-kingdom"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

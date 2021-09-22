@@ -1,12 +1,16 @@
 {
     "title": "Black Jack 21",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/24046.jpg",
+        "alt": "black-jack-21"
+    },
     "type": "tv-serie",
     "episodes": "17",
     "original_name": "ブラック・ジャック 21",
     "start_date": "2006-04-10",
     "end_date": "2006-04-10",
     "opening_song": "\"Destiny -Taiyou no Hana-\" by Hitomi Shimatani",
-    "ending_song": "#1",
+    "ending_song": "#1: \"careless breath\" by EXILE (eps 1-8)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

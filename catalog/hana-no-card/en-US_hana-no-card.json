@@ -1,5 +1,9 @@
 {
     "title": "Hana no Card",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43033.jpg",
+        "alt": "hana-no-card"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "はなのカード",

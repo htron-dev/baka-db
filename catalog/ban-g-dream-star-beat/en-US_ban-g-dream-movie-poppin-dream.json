@@ -1,5 +1,9 @@
 {
     "title": "BanG Dream! Movie: Poppin' Dream!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1636/115768.jpg",
+        "alt": "ban-g-dream-movie-poppin-dream"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 BanG Dream! ぽっぴん'どりーむ！",

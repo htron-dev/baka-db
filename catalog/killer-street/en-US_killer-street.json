@@ -1,5 +1,9 @@
 {
     "title": "Killer Street",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22486.jpg",
+        "alt": "killer-street"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

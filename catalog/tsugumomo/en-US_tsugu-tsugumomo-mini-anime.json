@@ -1,5 +1,9 @@
 {
     "title": "Tsugu Tsugumomo Mini Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1469/114202.jpg",
+        "alt": "tsugu-tsugumomo-mini-anime"
+    },
     "type": "ona",
     "episodes": "67",
     "original_name": "継つぐももミニアニメ",

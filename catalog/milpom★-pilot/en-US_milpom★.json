@@ -1,5 +1,9 @@
 {
     "title": "MILPOM★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/79018.jpg",
+        "alt": "milpom★"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "MILPOM★",

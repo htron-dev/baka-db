@@ -1,5 +1,9 @@
 {
     "title": "Emma no Omokage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79303.jpg",
+        "alt": "emma-no-omokage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

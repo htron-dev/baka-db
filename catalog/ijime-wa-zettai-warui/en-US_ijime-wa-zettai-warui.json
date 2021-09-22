@@ -1,5 +1,9 @@
 {
     "title": "Ijime wa Zettai Warui!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/68767.jpg",
+        "alt": "ijime-wa-zettai-warui"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "いじめはゼッタイわるい!",

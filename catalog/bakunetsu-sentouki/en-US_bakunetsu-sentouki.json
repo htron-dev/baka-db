@@ -1,5 +1,9 @@
 {
     "title": "Bakunetsu Sentouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191261.jpg",
+        "alt": "bakunetsu-sentouki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

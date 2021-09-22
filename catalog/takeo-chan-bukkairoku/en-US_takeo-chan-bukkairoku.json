@@ -1,5 +1,9 @@
 {
     "title": "Takeo-chan Bukkairoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229859.jpg",
+        "alt": "takeo-chan-bukkairoku"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

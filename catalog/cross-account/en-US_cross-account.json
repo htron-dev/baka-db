@@ -1,5 +1,9 @@
 {
     "title": "Cross Account",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201588.jpg",
+        "alt": "cross-account"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

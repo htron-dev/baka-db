@@ -1,5 +1,9 @@
 {
     "title": "Utae! Erinna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221464.jpg",
+        "alt": "utae-erinna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "5-tsu Kazoereba Kimi no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135475.jpg",
+        "alt": "5-tsu-kazoereba-kimi-no-yume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

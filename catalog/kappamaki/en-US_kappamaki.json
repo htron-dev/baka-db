@@ -1,5 +1,9 @@
 {
     "title": "Kappamaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/53617.jpg",
+        "alt": "kappamaki"
+    },
     "type": "tv-serie",
     "episodes": "130",
     "original_name": "かっぱまき",

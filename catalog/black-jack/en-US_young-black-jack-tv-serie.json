@@ -1,5 +1,9 @@
 {
     "title": "Young Black Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76125.jpg",
+        "alt": "young-black-jack"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヤング ブラック・ジャック",

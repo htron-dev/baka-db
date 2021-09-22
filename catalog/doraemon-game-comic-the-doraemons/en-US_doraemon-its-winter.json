@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: It's Winter!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1580/109535.jpg",
+        "alt": "doraemon-its-winter"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "冬だ！一番ドラえもん祭り",

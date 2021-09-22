@@ -1,5 +1,9 @@
 {
     "title": "Heart of the Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200542.jpg",
+        "alt": "heart-of-the-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

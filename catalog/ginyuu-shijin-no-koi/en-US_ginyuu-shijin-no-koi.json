@@ -1,5 +1,9 @@
 {
     "title": "Ginyuu Shijin no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2461.jpg",
+        "alt": "ginyuu-shijin-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

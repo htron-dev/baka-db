@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Hohoemi, Akuma no Namida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46627.jpg",
+        "alt": "tenshi-no-hohoemi-akuma-no-namida"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

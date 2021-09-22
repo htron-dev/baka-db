@@ -1,5 +1,9 @@
 {
     "title": "Hadashi de Bara wo Fume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16663.jpg",
+        "alt": "hadashi-de-bara-wo-fume"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "57",

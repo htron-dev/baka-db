@@ -1,5 +1,9 @@
 {
     "title": "Akame ga Kill! Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130745.jpg",
+        "alt": "akame-ga-kill-zero"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "60",

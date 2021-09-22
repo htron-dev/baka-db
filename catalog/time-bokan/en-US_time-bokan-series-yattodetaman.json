@@ -1,12 +1,16 @@
 {
     "title": "Time Bokan Series: Yattodetaman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/7645.jpg",
+        "alt": "time-bokan-series-yattodetaman"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "タイムボカンシリーズ　ヤットデタマン",
     "start_date": "1981-02-07",
     "end_date": "1981-02-07",
     "opening_song": "\"Yattodaman no Uta\" by Tosshu",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yattodetaman Boogie Woogie Lady (ヤットデタマン・ブギウギ・レディ)\" by Hiromitsu Suzuki",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

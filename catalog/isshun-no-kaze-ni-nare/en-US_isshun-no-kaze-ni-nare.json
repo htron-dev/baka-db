@@ -1,5 +1,9 @@
 {
     "title": "Isshun no Kaze ni Nare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199608.jpg",
+        "alt": "isshun-no-kaze-ni-nare"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

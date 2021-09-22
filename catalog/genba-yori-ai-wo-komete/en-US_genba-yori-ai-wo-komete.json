@@ -1,5 +1,9 @@
 {
     "title": "Genba yori Ai wo Komete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32145.jpg",
+        "alt": "genba-yori-ai-wo-komete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Panikuru Iko-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31769.jpg",
+        "alt": "panikuru-iko-san"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ぱにくるイ子さん！",

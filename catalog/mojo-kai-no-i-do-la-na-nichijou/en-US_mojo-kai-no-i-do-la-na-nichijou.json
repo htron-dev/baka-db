@@ -1,5 +1,9 @@
 {
     "title": "Mojo-kai no I-do-la na Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163859.jpg",
+        "alt": "mojo-kai-no-i-do-la-na-nichijou"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "27",

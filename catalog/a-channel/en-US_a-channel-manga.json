@@ -1,5 +1,9 @@
 {
     "title": "A-Channel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57067.jpg",
+        "alt": "a-channel"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "A チャンネル",

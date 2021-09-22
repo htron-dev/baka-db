@@ -1,5 +1,9 @@
 {
     "title": "Kami wa Game ni Ueteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240696.jpg",
+        "alt": "kami-wa-game-ni-ueteiru"
+    },
     "type": "light-novel",
     "original_name": "神は遊戯〈ゲーム〉に飢えている。",
     "start_date": "2021-01-25",

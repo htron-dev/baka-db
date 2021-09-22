@@ -1,5 +1,9 @@
 {
     "title": "Matierica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1171/113745.jpg",
+        "alt": "matierica"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マチェーリカ",

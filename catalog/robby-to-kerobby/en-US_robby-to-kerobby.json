@@ -1,11 +1,15 @@
 {
     "title": "Robby to Kerobby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/67973.jpg",
+        "alt": "robby-to-kerobby"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ロビーとケロビー",
     "start_date": "2007-04-01",
     "end_date": "2007-04-01",
-    "opening_song": "#01",
+    "opening_song": "#01:\"Koko ni Iruzee!\" by Nozomi Tsuji",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

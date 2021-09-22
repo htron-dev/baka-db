@@ -1,5 +1,9 @@
 {
     "title": "Darling in the FranXX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206289.jpg",
+        "alt": "darling-in-the-fran-xx"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "60",

@@ -1,5 +1,9 @@
 {
     "title": "T-Rex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/57903.jpg",
+        "alt": "t-rex"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "T-レックス",

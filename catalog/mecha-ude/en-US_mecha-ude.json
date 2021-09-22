@@ -1,5 +1,9 @@
 {
     "title": "Mecha-ude",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1625/92925.jpg",
+        "alt": "mecha-ude"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "メカウデ",

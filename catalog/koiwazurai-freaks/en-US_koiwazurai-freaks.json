@@ -1,5 +1,9 @@
 {
     "title": "Koiwazurai Freaks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149729.jpg",
+        "alt": "koiwazurai-freaks"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

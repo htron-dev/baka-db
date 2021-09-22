@@ -1,5 +1,9 @@
 {
     "title": "E:capriccio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151454.jpg",
+        "alt": "e-capriccio"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

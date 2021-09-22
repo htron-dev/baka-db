@@ -1,5 +1,9 @@
 {
     "title": "Aku no Yuuwaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174443.jpg",
+        "alt": "aku-no-yuuwaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

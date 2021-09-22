@@ -1,5 +1,9 @@
 {
     "title": "Fate/kaleid liner Prisma☆Illya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/151202.jpg",
+        "alt": "fate-kaleid-liner-prisma☆-illya"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

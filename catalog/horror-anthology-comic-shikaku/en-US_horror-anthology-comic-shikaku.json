@@ -1,5 +1,9 @@
 {
     "title": "Horror Anthology Comic Shikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239618.jpg",
+        "alt": "horror-anthology-comic-shikaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

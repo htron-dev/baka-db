@@ -1,5 +1,9 @@
 {
     "title": "Hi no Tori: Uchuu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/14209.jpg",
+        "alt": "hi-no-tori-uchuu-hen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "火の鳥　宇宙編",

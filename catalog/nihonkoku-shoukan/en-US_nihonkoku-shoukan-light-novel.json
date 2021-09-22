@@ -1,5 +1,9 @@
 {
     "title": "Nihonkoku Shoukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219366.jpg",
+        "alt": "nihonkoku-shoukan"
+    },
     "type": "light-novel",
     "original_name": "日本国召喚",
     "start_date": "2017-03-17",

@@ -1,5 +1,9 @@
 {
     "title": "Chninkel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16363.jpg",
+        "alt": "chninkel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

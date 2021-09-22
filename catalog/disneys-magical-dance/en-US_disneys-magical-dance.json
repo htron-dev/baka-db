@@ -1,5 +1,9 @@
 {
     "title": "Disney's Magical Dance!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197012.jpg",
+        "alt": "disneys-magical-dance"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Platinum End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1992/116576.jpg",
+        "alt": "platinum-end"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "プラチナエンド",

@@ -1,5 +1,9 @@
 {
     "title": "Aisaretagari no Shohousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239015.jpg",
+        "alt": "aisaretagari-no-shohousen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

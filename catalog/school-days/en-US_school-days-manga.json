@@ -1,5 +1,9 @@
 {
     "title": "School Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11091.jpg",
+        "alt": "school-days"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

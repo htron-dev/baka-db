@@ -1,5 +1,9 @@
 {
     "title": "Buttobi!! CPU",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/53479.jpg",
+        "alt": "buttobi-cpu"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ぶっとび!!CPU",

@@ -1,5 +1,9 @@
 {
     "title": "Kaijuu Sakaba Kanpai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74081.jpg",
+        "alt": "kaijuu-sakaba-kanpai"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "怪獣酒場カンパーイ!",

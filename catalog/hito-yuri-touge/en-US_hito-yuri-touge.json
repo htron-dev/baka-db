@@ -1,5 +1,9 @@
 {
     "title": "Hito Yuri Touge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72337.jpg",
+        "alt": "hito-yuri-touge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Gingitsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159800.jpg",
+        "alt": "gingitsune"
+    },
     "type": "manga",
     "original_name": "ぎんぎつね",
     "start_date": "2008-02-19",

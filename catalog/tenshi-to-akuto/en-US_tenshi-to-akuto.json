@@ -1,5 +1,9 @@
 {
     "title": "Tenshi to Akuto!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168134.jpg",
+        "alt": "tenshi-to-akuto"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "166",

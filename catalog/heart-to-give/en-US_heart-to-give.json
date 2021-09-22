@@ -1,5 +1,9 @@
 {
     "title": "Heart to Give",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/97501.jpg",
+        "alt": "heart-to-give"
+    },
     "type": "manhwa",
     "volumes": "8",
     "original_name": "심장에게 주다",

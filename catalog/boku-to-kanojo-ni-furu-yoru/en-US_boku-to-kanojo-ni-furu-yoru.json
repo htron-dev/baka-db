@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kanojo ni Furu Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162473.jpg",
+        "alt": "boku-to-kanojo-ni-furu-yoru"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "52",

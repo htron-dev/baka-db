@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237062.jpg",
+        "alt": "boku-no-kanojo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

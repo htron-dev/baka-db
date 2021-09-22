@@ -1,5 +1,9 @@
 {
     "title": "Dash! Yonkurou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187746.jpg",
+        "alt": "dash-yonkurou"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "ダッシュ！四駆郎",

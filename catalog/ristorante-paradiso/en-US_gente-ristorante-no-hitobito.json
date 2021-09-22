@@ -1,5 +1,9 @@
 {
     "title": "Gente: Ristorante no Hitobito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202788.jpg",
+        "alt": "gente-ristorante-no-hitobito"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

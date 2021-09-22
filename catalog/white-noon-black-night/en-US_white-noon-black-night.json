@@ -1,5 +1,9 @@
 {
     "title": "White Noon, Black Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224331.jpg",
+        "alt": "white-noon-black-night"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

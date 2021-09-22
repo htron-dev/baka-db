@@ -1,5 +1,9 @@
 {
     "title": "Mone-san no Majimesugiru Tsukiaikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202579.jpg",
+        "alt": "mone-san-no-majimesugiru-tsukiaikata"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "82",

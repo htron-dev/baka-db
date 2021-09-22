@@ -1,5 +1,9 @@
 {
     "title": "Aoki Jupiter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114083.jpg",
+        "alt": "aoki-jupiter"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Rosen Garten Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240421.jpg",
+        "alt": "rosen-garten-saga"
+    },
     "type": "manga",
     "original_name": "ローゼンガーテン・サーガ",
     "start_date": "2020-08-21",

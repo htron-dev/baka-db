@@ -1,12 +1,16 @@
 {
     "title": "School Rumble Ni Gakki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75490.jpg",
+        "alt": "school-rumble-ni-gakki"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "スクールランブル 二学期",
     "start_date": "2006-04-03",
     "end_date": "2006-04-03",
     "opening_song": "\"Sentimental Generation\" by Ami Tokito",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kono Namida ga Arukara Tsugi no Ippo to Naru\" by Ami Tokito (eps 1-12, 14-16)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

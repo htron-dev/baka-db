@@ -1,5 +1,9 @@
 {
     "title": "Sekisei Inko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156243.jpg",
+        "alt": "sekisei-inko"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

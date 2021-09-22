@@ -1,5 +1,9 @@
 {
     "title": "Pokemon the Movie XY&Z: Volcanion to Karakuri no Magiana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192451.jpg",
+        "alt": "pokemon-the-movie-xy-z-volcanion-to-karakuri-no-magiana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

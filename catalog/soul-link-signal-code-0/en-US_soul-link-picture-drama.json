@@ -1,5 +1,9 @@
 {
     "title": "Soul Link Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/28530.jpg",
+        "alt": "soul-link-picture-drama"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "Soul Link",

@@ -1,5 +1,9 @@
 {
     "title": "Mousugu Shinu Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114985.jpg",
+        "alt": "mousugu-shinu-hito"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

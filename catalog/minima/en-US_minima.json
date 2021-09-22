@@ -1,5 +1,9 @@
 {
     "title": "Minima!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6869.jpg",
+        "alt": "minima"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

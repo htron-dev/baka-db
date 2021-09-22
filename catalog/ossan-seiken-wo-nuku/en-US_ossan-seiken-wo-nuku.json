@@ -1,5 +1,9 @@
 {
     "title": "Ossan, Seiken wo Nuku.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195427.jpg",
+        "alt": "ossan-seiken-wo-nuku"
+    },
     "type": "light-novel",
     "original_name": "おっさん、聖剣を抜く。",
     "start_date": "2017-05-15",

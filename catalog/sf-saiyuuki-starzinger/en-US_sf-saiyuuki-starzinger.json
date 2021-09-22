@@ -1,12 +1,16 @@
 {
     "title": "SF Saiyuuki Starzinger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/45698.jpg",
+        "alt": "sf-saiyuuki-starzinger"
+    },
     "type": "tv-serie",
     "episodes": "73",
     "original_name": "ＳＦ西遊記 スタージンガー",
     "start_date": "1978-04-02",
     "end_date": "1978-04-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Starzinger no Uta (スタージンガーの歌)\" by Isao Sasaki and Koorogi '73 (eps 1-29)",
+    "ending_song": "#1: \"Hime no Tame nara (姫のためなら)\" by Koorogi '73 (eps 1-64)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

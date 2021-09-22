@@ -1,12 +1,16 @@
 {
     "title": "Muv-Luv Alternative: Total Eclipse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/44462.jpg",
+        "alt": "muv-luv-alternative-total-eclipse"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "マブラヴ オルタネイティヴ トータル・イクリプス",
     "start_date": "2012-07-02",
     "end_date": "2012-07-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Go to the top\" by Kumi Kouda (eps 2-19)",
+    "ending_song": "#1: \"Go to the top\" by Kumi Kouda (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

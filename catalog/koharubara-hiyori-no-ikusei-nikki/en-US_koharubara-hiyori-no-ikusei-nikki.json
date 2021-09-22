@@ -1,5 +1,9 @@
 {
     "title": "Koharubara Hiyori no Ikusei Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123859.jpg",
+        "alt": "koharubara-hiyori-no-ikusei-nikki"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "24",

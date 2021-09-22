@@ -1,5 +1,9 @@
 {
     "title": "Life no Color",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/14118.jpg",
+        "alt": "life-no-color"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "LIFE NO COLOR",

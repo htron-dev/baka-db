@@ -1,5 +1,9 @@
 {
     "title": "Hoshikuzu Lemonade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148579.jpg",
+        "alt": "hoshikuzu-lemonade"
+    },
     "type": "manga",
     "original_name": "星屑レモネード",
     "start_date": "2013-08-29",

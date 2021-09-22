@@ -1,5 +1,9 @@
 {
     "title": "Lovers Only",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6099.jpg",
+        "alt": "lovers-only"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

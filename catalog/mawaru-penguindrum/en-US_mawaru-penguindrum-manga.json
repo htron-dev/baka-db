@@ -1,5 +1,9 @@
 {
     "title": "Mawaru Penguindrum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167525.jpg",
+        "alt": "mawaru-penguindrum"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

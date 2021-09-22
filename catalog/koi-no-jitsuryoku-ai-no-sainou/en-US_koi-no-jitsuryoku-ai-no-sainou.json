@@ -1,5 +1,9 @@
 {
     "title": "Koi no Jitsuryoku Ai no Sainou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82088.jpg",
+        "alt": "koi-no-jitsuryoku-ai-no-sainou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

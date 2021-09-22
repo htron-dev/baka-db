@@ -1,5 +1,9 @@
 {
     "title": "Dakedo, Ashita no Hanashi wo Shiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223241.jpg",
+        "alt": "dakedo-ashita-no-hanashi-wo-shiyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

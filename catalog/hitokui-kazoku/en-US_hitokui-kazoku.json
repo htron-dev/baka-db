@@ -1,5 +1,9 @@
 {
     "title": "Hitokui Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246717.jpg",
+        "alt": "hitokui-kazoku"
+    },
     "type": "manga",
     "original_name": "ひとくい家族",
     "start_date": "2020-04-03",

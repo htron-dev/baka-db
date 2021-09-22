@@ -1,5 +1,9 @@
 {
     "title": "Engimon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1806/112738.jpg",
+        "alt": "engimon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "えんぎもん",

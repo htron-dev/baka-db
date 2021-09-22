@@ -1,12 +1,16 @@
 {
     "title": "3-gatsu no Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/82898.jpg",
+        "alt": "3-gatsu-no-lion"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "3 月のライオン",
     "start_date": "2016-10-08",
     "end_date": "2016-10-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Answer (アンサー)\" by BUMP OF CHICKEN (eps 1-11)",
+    "ending_song": "#1: \"Fighter (ファイター)\" by BUMP OF CHICKEN (eps 1-6, 8-11, 22)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

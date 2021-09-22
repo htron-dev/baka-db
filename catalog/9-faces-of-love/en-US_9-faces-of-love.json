@@ -1,5 +1,9 @@
 {
     "title": "9 Faces of Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21537.jpg",
+        "alt": "9-faces-of-love"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "9",

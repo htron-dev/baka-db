@@ -1,5 +1,9 @@
 {
     "title": "Kawatare no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39385.jpg",
+        "alt": "kawatare-no-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "かわたれの街",

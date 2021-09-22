@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Missile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163045.jpg",
+        "alt": "kanojo-wa-missile"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Shinshi-tachi no Aigan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184972.jpg",
+        "alt": "shinshi-tachi-no-aigan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

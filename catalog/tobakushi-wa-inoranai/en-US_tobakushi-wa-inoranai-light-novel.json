@@ -1,5 +1,9 @@
 {
     "title": "Tobakushi wa Inoranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192269.jpg",
+        "alt": "tobakushi-wa-inoranai"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "29",

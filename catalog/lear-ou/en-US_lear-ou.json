@@ -1,5 +1,9 @@
 {
     "title": "Lear-ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159316.jpg",
+        "alt": "lear-ou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

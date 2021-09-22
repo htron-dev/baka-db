@@ -1,5 +1,9 @@
 {
     "title": "Ranobe-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162534.jpg",
+        "alt": "ranobe-bu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "53",

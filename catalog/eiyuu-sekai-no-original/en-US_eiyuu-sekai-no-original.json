@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Sekai no Original",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199657.jpg",
+        "alt": "eiyuu-sekai-no-original"
+    },
     "type": "light-novel",
     "original_name": "英雄世界の英雄譚〈オリジナル〉",
     "start_date": "2017-08-25",

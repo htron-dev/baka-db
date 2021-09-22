@@ -1,5 +1,9 @@
 {
     "title": "Buchou no Nyanko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222622.jpg",
+        "alt": "buchou-no-nyanko"
+    },
     "type": "manga",
     "original_name": "部長のにゃんこ",
     "start_date": "2017-04-01",

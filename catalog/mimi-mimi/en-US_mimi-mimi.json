@@ -1,5 +1,9 @@
 {
     "title": "Mimi Mimi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180779.jpg",
+        "alt": "mimi-mimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Ecstatic Trading",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87993.jpg",
+        "alt": "ecstatic-trading"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,12 +1,16 @@
 {
     "title": "Rokujouma no Shinryakusha!? (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/62655.jpg",
+        "alt": "rokujouma-no-shinryakusha-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "六畳間の侵略者！？",
     "start_date": "2014-07-12",
     "end_date": "2014-07-12",
     "opening_song": "\"Koukan win-win Mujouken (好感 win-win 無条件)\" by Heart♡Invader (ハート ♡ インベーダー)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koukan win-win Mujouken (好感 win-win 無条件)\" by Heart♡Invader (ハート ♡ インベーダー) (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

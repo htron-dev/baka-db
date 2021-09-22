@@ -1,5 +1,9 @@
 {
     "title": "Portus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/25789.jpg",
+        "alt": "portus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

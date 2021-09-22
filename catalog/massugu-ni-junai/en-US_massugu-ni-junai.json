@@ -1,5 +1,9 @@
 {
     "title": "Massugu ni Junai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144037.jpg",
+        "alt": "massugu-ni-junai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

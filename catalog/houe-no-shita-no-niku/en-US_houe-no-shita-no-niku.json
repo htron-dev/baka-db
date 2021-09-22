@@ -1,5 +1,9 @@
 {
     "title": "Houe no Shita no Niku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183200.jpg",
+        "alt": "houe-no-shita-no-niku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

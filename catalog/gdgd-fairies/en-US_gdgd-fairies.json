@@ -1,5 +1,9 @@
 {
     "title": "gdgd Fairies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/34963.jpg",
+        "alt": "gdgd-fairies"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "gdgd 妖精 s（ぐだぐだふぇありーず）",

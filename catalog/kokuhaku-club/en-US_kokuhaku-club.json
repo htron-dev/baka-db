@@ -1,5 +1,9 @@
 {
     "title": "Kokuhaku Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112135.jpg",
+        "alt": "kokuhaku-club"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

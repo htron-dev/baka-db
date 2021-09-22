@@ -1,5 +1,9 @@
 {
     "title": "Shin Dokonjou Gaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/56689.jpg",
+        "alt": "shin-dokonjou-gaeru"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "新・ど根性ガエル",

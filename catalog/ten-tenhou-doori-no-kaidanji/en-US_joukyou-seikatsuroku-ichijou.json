@@ -1,5 +1,9 @@
 {
     "title": "Joukyou Seikatsuroku Ichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/250314.jpg",
+        "alt": "joukyou-seikatsuroku-ichijou"
+    },
     "type": "manga",
     "original_name": "上京生活録イチジョウ",
     "start_date": "2021-01-21",

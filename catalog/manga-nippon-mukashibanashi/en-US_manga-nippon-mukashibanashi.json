@@ -1,5 +1,9 @@
 {
     "title": "Manga Nippon Mukashibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/28281.jpg",
+        "alt": "manga-nippon-mukashibanashi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "まんが日本昔ばなし",

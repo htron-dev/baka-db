@@ -1,5 +1,9 @@
 {
     "title": "Skirt Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246625.jpg",
+        "alt": "skirt-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スカートダーリン",

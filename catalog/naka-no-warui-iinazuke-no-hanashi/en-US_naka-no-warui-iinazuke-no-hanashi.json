@@ -1,5 +1,9 @@
 {
     "title": "Naka no Warui Iinazuke no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234261.jpg",
+        "alt": "naka-no-warui-iinazuke-no-hanashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "45",

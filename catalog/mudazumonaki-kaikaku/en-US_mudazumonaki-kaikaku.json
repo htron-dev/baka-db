@@ -1,5 +1,9 @@
 {
     "title": "Mudazumonaki Kaikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165537.jpg",
+        "alt": "mudazumonaki-kaikaku"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "144",

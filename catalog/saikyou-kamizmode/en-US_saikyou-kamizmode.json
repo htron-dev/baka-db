@@ -1,5 +1,9 @@
 {
     "title": "Saikyou Kamizmode!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
+        "alt": "saikyou-kamizmode"
+    },
     "type": "ona",
     "episodes": "26",
     "original_name": "最響カミズモード！",

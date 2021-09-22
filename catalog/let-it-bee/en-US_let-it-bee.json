@@ -1,5 +1,9 @@
 {
     "title": "Let it Bee!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164339.jpg",
+        "alt": "let-it-bee"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "Let it BEE！",

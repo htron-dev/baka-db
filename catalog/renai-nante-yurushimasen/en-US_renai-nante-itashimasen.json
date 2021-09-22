@@ -1,5 +1,9 @@
 {
     "title": "Renai Nante Itashimasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208312.jpg",
+        "alt": "renai-nante-itashimasen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

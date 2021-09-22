@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi: Japanese Classic Horror",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/11746.jpg",
+        "alt": "ayakashi-japanese-classic-horror"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "怪～ ayakashi ～ Japanese Classic Horror",

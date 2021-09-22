@@ -1,5 +1,9 @@
 {
     "title": "Love Blog!! Next",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26793.jpg",
+        "alt": "love-blog-next"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

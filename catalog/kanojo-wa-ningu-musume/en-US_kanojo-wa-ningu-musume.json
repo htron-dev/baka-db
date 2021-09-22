@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Ningu Musume!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24533.jpg",
+        "alt": "kanojo-wa-ningu-musume"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

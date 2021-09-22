@@ -1,5 +1,9 @@
 {
     "title": "Kuroake no Yakushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244003.jpg",
+        "alt": "kuroake-no-yakushi"
+    },
     "type": "manga",
     "original_name": "黒緋の薬師",
     "start_date": "2020-08-25",

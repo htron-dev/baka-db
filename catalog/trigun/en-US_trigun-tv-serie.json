@@ -1,5 +1,9 @@
 {
     "title": "Trigun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/20310.jpg",
+        "alt": "trigun"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "トライガン",

@@ -1,5 +1,9 @@
 {
     "title": "Gundriver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128347.jpg",
+        "alt": "gundriver"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "ガンドライバー",

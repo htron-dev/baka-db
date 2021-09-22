@@ -1,5 +1,9 @@
 {
     "title": "Mako-san wa Shindemo Jiritsu Shinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215472.jpg",
+        "alt": "mako-san-wa-shindemo-jiritsu-shinai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "108",

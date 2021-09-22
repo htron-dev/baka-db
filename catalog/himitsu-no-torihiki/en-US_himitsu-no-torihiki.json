@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Torihiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185001.jpg",
+        "alt": "himitsu-no-torihiki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

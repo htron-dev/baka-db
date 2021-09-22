@@ -1,5 +1,9 @@
 {
     "title": "Banhonsa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4751.jpg",
+        "alt": "banhonsa"
+    },
     "type": "manhwa",
     "volumes": "7",
     "original_name": "반혼사",

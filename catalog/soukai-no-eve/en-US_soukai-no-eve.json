@@ -1,5 +1,9 @@
 {
     "title": "Soukai no Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121373.jpg",
+        "alt": "soukai-no-eve"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Kahei no Umi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/80827.jpg",
+        "alt": "kahei-no-umi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "嘉兵衛の海",

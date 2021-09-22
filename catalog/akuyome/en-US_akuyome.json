@@ -1,5 +1,9 @@
 {
     "title": "Akuyome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222483.jpg",
+        "alt": "akuyome"
+    },
     "type": "manga",
     "original_name": "あくヨメ",
     "start_date": "2016-09-02",

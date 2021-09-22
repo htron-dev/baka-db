@@ -1,5 +1,9 @@
 {
     "title": "Hanaotoshi no Itsuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212599.jpg",
+        "alt": "hanaotoshi-no-itsuka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

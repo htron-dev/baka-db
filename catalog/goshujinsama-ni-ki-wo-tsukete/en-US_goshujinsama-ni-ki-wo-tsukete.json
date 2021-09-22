@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama ni Ki wo Tsukete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123123.jpg",
+        "alt": "goshujinsama-ni-ki-wo-tsukete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

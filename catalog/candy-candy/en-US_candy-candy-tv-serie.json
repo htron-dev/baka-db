@@ -1,5 +1,9 @@
 {
     "title": "Candy Candy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/35051.jpg",
+        "alt": "candy-candy"
+    },
     "type": "tv-serie",
     "episodes": "115",
     "original_name": "キャンディ・キャンディ",

@@ -1,5 +1,9 @@
 {
     "title": "Satsuriku no Matrix Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177470.jpg",
+        "alt": "satsuriku-no-matrix-edge"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "17",

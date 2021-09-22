@@ -1,5 +1,9 @@
 {
     "title": "Chika-chan to!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226198.jpg",
+        "alt": "chika-chan-to"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

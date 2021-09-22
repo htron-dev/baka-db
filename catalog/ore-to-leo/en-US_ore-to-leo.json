@@ -1,5 +1,9 @@
 {
     "title": "Ore to Leo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221890.jpg",
+        "alt": "ore-to-leo"
+    },
     "type": "manga",
     "original_name": "オレとレオ",
     "start_date": "2018-08-23",

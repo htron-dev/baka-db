@@ -1,5 +1,9 @@
 {
     "title": "Ore no Pet wa Seijo-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190023.jpg",
+        "alt": "ore-no-pet-wa-seijo-sama"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "77",

@@ -1,5 +1,9 @@
 {
     "title": "Fune wo Amu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198562.jpg",
+        "alt": "fune-wo-amu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "D.Gray-man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28084.jpg",
+        "alt": "d-gray-man"
+    },
     "type": "manga",
     "original_name": "D.Gray-man",
     "start_date": "2004-05-31",

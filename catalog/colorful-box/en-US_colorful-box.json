@@ -1,5 +1,9 @@
 {
     "title": "Colorful Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28217.jpg",
+        "alt": "colorful-box"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "カラフルＢＯＸ",

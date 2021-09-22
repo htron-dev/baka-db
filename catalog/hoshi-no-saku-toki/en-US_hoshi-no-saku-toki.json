@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Saku Toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17564.jpg",
+        "alt": "hoshi-no-saku-toki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

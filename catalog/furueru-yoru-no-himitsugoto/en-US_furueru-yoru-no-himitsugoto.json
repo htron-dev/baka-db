@@ -1,5 +1,9 @@
 {
     "title": "Furueru Yoru no Himitsugoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/18374.jpg",
+        "alt": "furueru-yoru-no-himitsugoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

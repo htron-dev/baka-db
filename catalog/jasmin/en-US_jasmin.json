@@ -1,5 +1,9 @@
 {
     "title": "Jasmin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152048.jpg",
+        "alt": "jasmin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

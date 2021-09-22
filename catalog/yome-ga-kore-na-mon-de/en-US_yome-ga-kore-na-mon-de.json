@@ -1,5 +1,9 @@
 {
     "title": "Yome ga Kore na mon de.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113883.jpg",
+        "alt": "yome-ga-kore-na-mon-de"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Ne-to-ge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168977.jpg",
+        "alt": "ne-to-ge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

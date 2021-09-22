@@ -1,5 +1,9 @@
 {
     "title": "Ginpei Hankachou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215291.jpg",
+        "alt": "ginpei-hankachou"
+    },
     "type": "manga",
     "original_name": "銀平飯科帳",
     "start_date": "2015-02-13",

@@ -1,5 +1,9 @@
 {
     "title": "Dare ga Sore wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192203.jpg",
+        "alt": "dare-ga-sore-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

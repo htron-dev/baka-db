@@ -1,5 +1,9 @@
 {
     "title": "Home Room",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215699.jpg",
+        "alt": "home-room"
+    },
     "type": "manga",
     "original_name": "ホームルーム",
     "start_date": "2018-03-01",

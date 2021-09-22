@@ -1,11 +1,15 @@
 {
     "title": "Edens Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+        "alt": "edens-zero"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "EDENS ZERO",
     "start_date": "2021-04-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Eden through the rough\" by Takanori Nishikawa (eps 2-12)",
+    "ending_song": "#1: \"Eden through the rough\" by Takanori Nishikawa (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

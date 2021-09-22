@@ -1,5 +1,9 @@
 {
     "title": "Lives",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180611.jpg",
+        "alt": "lives"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

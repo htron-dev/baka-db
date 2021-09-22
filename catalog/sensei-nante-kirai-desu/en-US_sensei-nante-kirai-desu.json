@@ -1,5 +1,9 @@
 {
     "title": "Sensei nante Kirai desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196978.jpg",
+        "alt": "sensei-nante-kirai-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

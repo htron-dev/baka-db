@@ -1,5 +1,9 @@
 {
     "title": "Tonde Saitama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170716.jpg",
+        "alt": "tonde-saitama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

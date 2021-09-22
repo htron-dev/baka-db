@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki wa Koi wo Suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38404.jpg",
+        "alt": "usotsuki-wa-koi-wo-suru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

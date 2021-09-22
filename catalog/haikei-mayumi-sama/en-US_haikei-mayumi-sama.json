@@ -1,5 +1,9 @@
 {
     "title": "Haikei, Mayumi-sama.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189260.jpg",
+        "alt": "haikei-mayumi-sama"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "拝啓、真弓様。",

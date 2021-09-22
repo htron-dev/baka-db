@@ -1,5 +1,9 @@
 {
     "title": "Aa! Megami-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58483.jpg",
+        "alt": "aa-megami-sama"
+    },
     "type": "manga",
     "volumes": "48",
     "chapters": "308",

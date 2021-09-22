@@ -1,12 +1,16 @@
 {
     "title": "Karakuri Circus (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1518/110450.jpg",
+        "alt": "karakuri-circus-tv"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "からくりサーカス",
     "start_date": "2018-10-11",
     "end_date": "2018-10-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Gekkou (月虹)\" by BUMP OF CHICKEN (eps 1-12)",
+    "ending_song": "#1: \"Marionette (マリオネット)\" by Lozareena",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

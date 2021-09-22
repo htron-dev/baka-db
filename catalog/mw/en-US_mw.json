@@ -1,5 +1,9 @@
 {
     "title": "MW",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176646.jpg",
+        "alt": "mw"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

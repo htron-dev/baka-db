@@ -1,5 +1,9 @@
 {
     "title": "Bakemono to Kedamono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225616.jpg",
+        "alt": "bakemono-to-kedamono"
+    },
     "type": "manga",
     "original_name": "バケモノとケダモノ",
     "start_date": "2018-03-31",

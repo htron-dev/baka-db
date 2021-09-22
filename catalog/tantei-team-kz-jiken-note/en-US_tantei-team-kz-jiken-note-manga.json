@@ -1,5 +1,9 @@
 {
     "title": "Tantei Team KZ Jiken Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171076.jpg",
+        "alt": "tantei-team-kz-jiken-note"
+    },
     "type": "manga",
     "original_name": "探偵チーム KZ 事件ノート",
     "start_date": "2015-10-03",

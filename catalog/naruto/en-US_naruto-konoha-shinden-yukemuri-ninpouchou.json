@@ -1,5 +1,9 @@
 {
     "title": "Naruto: Konoha Shinden - Yukemuri Ninpouchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204432.jpg",
+        "alt": "naruto-konoha-shinden-yukemuri-ninpouchou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

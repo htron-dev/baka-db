@@ -1,12 +1,16 @@
 {
     "title": "Outbreak Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/54343.jpg",
+        "alt": "outbreak-company"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アウトブレイク・カンパニー",
     "start_date": "2013-10-04",
     "end_date": "2013-10-04",
     "opening_song": "\"Univer Page (ユニバーページ)\" by Suzuko Mimori",
-    "ending_song": "\"Watashi no Houseibako (私の宝石箱)\" by Petrarca Ann Erudanto III (CV",
+    "ending_song": "\"Watashi no Houseibako (私の宝石箱)\" by Petrarca Ann Erudanto III (CV: Fuchigami Mai)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

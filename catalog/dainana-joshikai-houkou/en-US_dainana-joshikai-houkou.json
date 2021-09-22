@@ -1,5 +1,9 @@
 {
     "title": "Dainana Joshikai Houkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171589.jpg",
+        "alt": "dainana-joshikai-houkou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "87",

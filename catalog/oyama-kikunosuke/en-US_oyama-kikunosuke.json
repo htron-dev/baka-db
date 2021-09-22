@@ -1,5 +1,9 @@
 {
     "title": "Oyama! Kikunosuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200524.jpg",
+        "alt": "oyama-kikunosuke"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "250",

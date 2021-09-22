@@ -1,5 +1,9 @@
 {
     "title": "Legend of Basara: Shinbashi Theater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/61723.jpg",
+        "alt": "legend-of-basara-shinbashi-theater"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "新橋劇場 新橋の一番長い一日",

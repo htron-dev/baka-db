@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Angelique",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40292.jpg",
+        "alt": "sengoku-angelique"
+    },
     "type": "manga",
     "original_name": "戦国アンジェリーク",
     "tags": [

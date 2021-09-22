@@ -1,5 +1,9 @@
 {
     "title": "Cha-K-Ra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2590.jpg",
+        "alt": "cha-k-ra"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

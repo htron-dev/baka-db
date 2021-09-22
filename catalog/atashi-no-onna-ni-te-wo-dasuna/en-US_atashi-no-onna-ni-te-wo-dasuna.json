@@ -1,5 +1,9 @@
 {
     "title": "Atashi no Onna ni Te wo Dasuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9438.jpg",
+        "alt": "atashi-no-onna-ni-te-wo-dasuna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

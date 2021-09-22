@@ -1,5 +1,9 @@
 {
     "title": "Kutsunashi-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134897.jpg",
+        "alt": "kutsunashi-hime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,12 +1,16 @@
 {
     "title": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75297.jpg",
+        "alt": "fate-kaleid-liner-prisma☆-illya-2-wei-herz"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "Fate/kaleid liner プリズマ ☆ イリヤ ツヴァイ ヘルツ！",
     "start_date": "2015-07-25",
     "end_date": "2015-07-25",
     "opening_song": "\"Wonder Stella (ワンダーステラ)\" by fhána",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Happening☆diary (ハプニング ☆ ダイアリー)\" by Yumeha Kouda (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

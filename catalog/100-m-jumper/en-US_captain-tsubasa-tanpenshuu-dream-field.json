@@ -1,5 +1,9 @@
 {
     "title": "Captain Tsubasa Tanpenshuu: Dream Field",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155029.jpg",
+        "alt": "captain-tsubasa-tanpenshuu-dream-field"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

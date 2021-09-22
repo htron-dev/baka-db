@@ -1,5 +1,9 @@
 {
     "title": "Ishura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246915.jpg",
+        "alt": "ishura"
+    },
     "type": "light-novel",
     "original_name": "異修羅",
     "start_date": "2019-09-17",

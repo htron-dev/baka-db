@@ -1,5 +1,9 @@
 {
     "title": "Danganronpa 3: Monokuma Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/90004.jpg",
+        "alt": "danganronpa-3-monokuma-gekijou"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ダンガンロンパ 3 モノクマ劇場",

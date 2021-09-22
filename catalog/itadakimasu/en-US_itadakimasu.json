@@ -1,5 +1,9 @@
 {
     "title": "Itadakimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/15572.jpg",
+        "alt": "itadakimasu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

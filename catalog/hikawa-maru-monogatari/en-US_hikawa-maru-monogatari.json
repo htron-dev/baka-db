@@ -1,5 +1,9 @@
 {
     "title": "Hikawa Maru Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75075.jpg",
+        "alt": "hikawa-maru-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "氷川丸ものがたり",

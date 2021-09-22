@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Ani Imouto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165355.jpg",
+        "alt": "kyou-no-ani-imouto"
+    },
     "type": "manga",
     "original_name": "きょうのあにいもうと",
     "start_date": "2015-10-07",

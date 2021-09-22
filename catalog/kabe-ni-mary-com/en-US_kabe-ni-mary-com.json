@@ -1,5 +1,9 @@
 {
     "title": "Kabe ni Mary.com",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175571.jpg",
+        "alt": "kabe-ni-mary-com"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

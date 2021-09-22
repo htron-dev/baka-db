@@ -1,5 +1,9 @@
 {
     "title": "Hien Dokuritsu Sentoutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237373.jpg",
+        "alt": "hien-dokuritsu-sentoutai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "飛燕独立戦闘隊",

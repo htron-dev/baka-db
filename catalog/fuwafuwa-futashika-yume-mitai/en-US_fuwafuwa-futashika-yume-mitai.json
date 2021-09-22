@@ -1,5 +1,9 @@
 {
     "title": "Fuwafuwa, Futashika, Yume Mitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/218949.jpg",
+        "alt": "fuwafuwa-futashika-yume-mitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,11 +1,15 @@
 {
     "title": "Senyuu. Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/51475.jpg",
+        "alt": "senyuu-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "戦勇。",
     "start_date": "2013-04-24",
     "end_date": "2013-04-24",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Believe ~Eien no Link~ (Believe ～永遠の Link ～)\" by JAM Project (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

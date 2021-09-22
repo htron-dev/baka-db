@@ -1,5 +1,9 @@
 {
     "title": "Haretara Ashita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231082.jpg",
+        "alt": "haretara-ashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

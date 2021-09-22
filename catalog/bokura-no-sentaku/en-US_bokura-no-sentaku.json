@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Sentaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204602.jpg",
+        "alt": "bokura-no-sentaku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

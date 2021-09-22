@@ -1,5 +1,9 @@
 {
     "title": "Oodorobou Porta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227260.jpg",
+        "alt": "oodorobou-porta"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

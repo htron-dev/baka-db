@@ -1,5 +1,9 @@
 {
     "title": "Shirokuma wa Shaker wo Furemasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211672.jpg",
+        "alt": "shirokuma-wa-shaker-wo-furemasen"
+    },
     "type": "manga",
     "original_name": "シロクマはシェーカーを振れません",
     "start_date": "2016-08-17",

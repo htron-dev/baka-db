@@ -1,5 +1,9 @@
 {
     "title": "Witch Village Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/76384.jpg",
+        "alt": "witch-village-story"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ウィッチ ヴィレッジ ストーリー",

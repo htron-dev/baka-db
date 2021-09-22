@@ -1,5 +1,9 @@
 {
     "title": "Chuizhi Shijie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1850/100436.jpg",
+        "alt": "chuizhi-shijie"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "垂直世界",

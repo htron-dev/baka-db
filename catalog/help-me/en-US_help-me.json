@@ -1,5 +1,9 @@
 {
     "title": "Help Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2675.jpg",
+        "alt": "help-me"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

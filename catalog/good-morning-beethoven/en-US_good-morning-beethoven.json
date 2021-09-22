@@ -1,5 +1,9 @@
 {
     "title": "Good Morning Beethoven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205475.jpg",
+        "alt": "good-morning-beethoven"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

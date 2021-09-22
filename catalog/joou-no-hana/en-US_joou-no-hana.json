@@ -1,5 +1,9 @@
 {
     "title": "Joou no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169614.jpg",
+        "alt": "joou-no-hana"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "44",

@@ -1,5 +1,9 @@
 {
     "title": "Adventures in Beauty Wonderland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/71884.jpg",
+        "alt": "adventures-in-beauty-wonderland"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Adventures in Beauty Wonderland",

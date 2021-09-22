@@ -1,5 +1,9 @@
 {
     "title": "Kamisama x Oresama x Dannasama!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123341.jpg",
+        "alt": "kamisama-x-oresama-x-dannasama"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Kedakaki Ouji no Itoshiki Dorei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185110.jpg",
+        "alt": "kedakaki-ouji-no-itoshiki-dorei"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

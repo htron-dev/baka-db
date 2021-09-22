@@ -1,5 +1,9 @@
 {
     "title": "Sore wa Boku no Ai ja nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20296.jpg",
+        "alt": "sore-wa-boku-no-ai-ja-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Apocripha/0: Infinite Fortune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134279.jpg",
+        "alt": "apocripha-0-infinite-fortune"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Fujimoto Anzu wa Gokigen Naname",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160147.jpg",
+        "alt": "fujimoto-anzu-wa-gokigen-naname"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

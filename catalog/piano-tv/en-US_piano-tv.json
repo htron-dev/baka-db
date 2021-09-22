@@ -1,5 +1,9 @@
 {
     "title": "Piano (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/12834.jpg",
+        "alt": "piano-tv"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "PIANO",

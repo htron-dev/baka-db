@@ -1,5 +1,9 @@
 {
     "title": "Yakusoku no Nanaya Matsuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1473/94594.jpg",
+        "alt": "yakusoku-no-nanaya-matsuri"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "約束の七夜祭り",

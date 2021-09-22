@@ -1,5 +1,9 @@
 {
     "title": "Bara no Hanabira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81057.jpg",
+        "alt": "bara-no-hanabira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

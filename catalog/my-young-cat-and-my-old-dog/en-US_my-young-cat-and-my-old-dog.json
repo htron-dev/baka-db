@@ -1,5 +1,9 @@
 {
     "title": "My Young Cat and My Old Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/110527.jpg",
+        "alt": "my-young-cat-and-my-old-dog"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "215",

@@ -1,5 +1,9 @@
 {
     "title": "Konna Nekomimi, Suki desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31604.jpg",
+        "alt": "konna-nekomimi-suki-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

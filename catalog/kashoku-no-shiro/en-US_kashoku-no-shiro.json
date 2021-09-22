@@ -1,5 +1,9 @@
 {
     "title": "Kashoku no Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248203.jpg",
+        "alt": "kashoku-no-shiro"
+    },
     "type": "manga",
     "original_name": "花燭の白",
     "start_date": "2019-12-28",

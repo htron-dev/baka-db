@@ -1,5 +1,9 @@
 {
     "title": "Nezumi no Yomeiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71636.jpg",
+        "alt": "nezumi-no-yomeiri"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ねずみのよめいり",

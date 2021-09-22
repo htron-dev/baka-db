@@ -1,5 +1,9 @@
 {
     "title": "Sono Te wo Toreba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37648.jpg",
+        "alt": "sono-te-wo-toreba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

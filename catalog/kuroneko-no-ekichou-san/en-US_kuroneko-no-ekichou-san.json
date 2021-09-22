@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko no Ekichou-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142993.jpg",
+        "alt": "kuroneko-no-ekichou-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "51",

@@ -1,5 +1,9 @@
 {
     "title": "Shikiru no? Kasukabe-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164826.jpg",
+        "alt": "shikiru-no-kasukabe-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "54",

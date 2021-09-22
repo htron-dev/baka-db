@@ -1,5 +1,9 @@
 {
     "title": "Durarara!! SH",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119931.jpg",
+        "alt": "durarara-sh"
+    },
     "type": "light-novel",
     "original_name": "デュラララ!!SH",
     "start_date": "2014-04-10",

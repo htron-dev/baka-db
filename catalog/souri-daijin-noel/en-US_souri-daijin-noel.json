@@ -1,5 +1,9 @@
 {
     "title": "Souri Daijin Noel!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166788.jpg",
+        "alt": "souri-daijin-noel"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "70",

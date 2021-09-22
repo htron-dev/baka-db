@@ -1,5 +1,9 @@
 {
     "title": "High-heel Cop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28456.jpg",
+        "alt": "high-heel-cop"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

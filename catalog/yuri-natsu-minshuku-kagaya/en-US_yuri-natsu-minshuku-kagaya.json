@@ -1,5 +1,9 @@
 {
     "title": "Yuri-Natsu: Minshuku Kagaya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212849.jpg",
+        "alt": "yuri-natsu-minshuku-kagaya"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "103",

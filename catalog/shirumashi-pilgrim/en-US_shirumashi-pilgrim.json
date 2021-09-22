@@ -1,5 +1,9 @@
 {
     "title": "Shirumashi Pilgrim",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73771.jpg",
+        "alt": "shirumashi-pilgrim"
+    },
     "type": "manga",
     "original_name": "怪ピルグリム",
     "start_date": "2011-09-12",

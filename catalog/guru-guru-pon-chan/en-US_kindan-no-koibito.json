@@ -1,5 +1,9 @@
 {
     "title": "Kindan no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38719.jpg",
+        "alt": "kindan-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

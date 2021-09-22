@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Kyou mo Mawatteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204693.jpg",
+        "alt": "sekai-wa-kyou-mo-mawatteru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

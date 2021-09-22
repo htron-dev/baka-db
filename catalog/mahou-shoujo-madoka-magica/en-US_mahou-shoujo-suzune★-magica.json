@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Suzune★Magica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/107537.jpg",
+        "alt": "mahou-shoujo-suzune★-magica"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

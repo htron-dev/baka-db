@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Tsukaikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77331.jpg",
+        "alt": "mahou-no-tsukaikata"
+    },
     "type": "manga",
     "original_name": "魔法のつかいかた",
     "start_date": "2011-06-20",

@@ -1,5 +1,9 @@
 {
     "title": "High School Fleet Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1569/110726.jpg",
+        "alt": "high-school-fleet-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 ハイスクール・フリート",

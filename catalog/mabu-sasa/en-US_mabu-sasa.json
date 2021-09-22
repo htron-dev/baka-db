@@ -1,5 +1,9 @@
 {
     "title": "MabuSasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225652.jpg",
+        "alt": "mabu-sasa"
+    },
     "type": "manga",
     "original_name": "まぶささ",
     "start_date": "2018-05-02",

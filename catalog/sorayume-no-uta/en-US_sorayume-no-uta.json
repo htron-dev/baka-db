@@ -1,5 +1,9 @@
 {
     "title": "Sorayume no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1508.jpg",
+        "alt": "sorayume-no-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

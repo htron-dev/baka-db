@@ -1,5 +1,9 @@
 {
     "title": "Mimi wo Sumaseba: Shiawase na Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/133335.jpg",
+        "alt": "mimi-wo-sumaseba-shiawase-na-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

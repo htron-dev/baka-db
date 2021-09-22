@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Maken ga Shihai suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231023.jpg",
+        "alt": "nanatsu-no-maken-ga-shihai-suru"
+    },
     "type": "manga",
     "original_name": "七つの魔剣が支配する",
     "start_date": "2019-05-25",

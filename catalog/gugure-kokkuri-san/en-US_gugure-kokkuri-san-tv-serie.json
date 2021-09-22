@@ -1,12 +1,16 @@
 {
     "title": "Gugure! Kokkuri-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/65665.jpg",
+        "alt": "gugure-kokkuri-san"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "繰繰れ！コックリさん",
     "start_date": "2014-10-06",
     "end_date": "2014-10-06",
-    "opening_song": "\"Welcome!! DISCO Kemo Kemo Ke (Welcome!!DISCO けもけもけ)\" by Kokkuri-san (CV",
-    "ending_song": "#1",
+    "opening_song": "\"Welcome!! DISCO Kemo Kemo Ke (Welcome!!DISCO けもけもけ)\" by Kokkuri-san (CV: Daisuke Ono). Narration by Inugami (CV: Takahiro Sakurai), Shigaraki (CV: Jouji Nakata) (eps 2-11)",
+    "ending_song": "#1: \"Welcome!! DISCO Kemo Kemo Ke (Welcome!!DISCO けもけもけ)\" by Kokkuri-san (CV: Daisuke Ono). Narration by Inugami (CV: Takahiro Sakurai), Shigaraki (CV: Jouji Nakata) (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

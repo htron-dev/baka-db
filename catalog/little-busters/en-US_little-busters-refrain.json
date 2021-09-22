@@ -1,12 +1,16 @@
 {
     "title": "Little Busters!: Refrain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/55049.jpg",
+        "alt": "little-busters-refrain"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "リトルバスターズ！～ Refrain ～",
     "start_date": "2013-10-05",
     "end_date": "2013-10-05",
     "opening_song": "\"Boys be Smile\" by Suzuyu (鈴湯) (eps 1-9, 11-13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi to no Nakushi Mono (君とのなくしもの)\" by Ayaka Kitazawa (北沢綾香) (eps 1-2, 4-5, 7, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

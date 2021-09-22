@@ -1,5 +1,9 @@
 {
     "title": "Onigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127581.jpg",
+        "alt": "onigiri"
+    },
     "type": "manga",
     "original_name": "鬼斬",
     "start_date": "2013-10-25",

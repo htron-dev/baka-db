@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei: Shizoku Kaigi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246068.jpg",
+        "alt": "mahouka-koukou-no-rettousei-shizoku-kaigi-hen"
+    },
     "type": "manga",
     "original_name": "魔法科高校の劣等生 師族会議編",
     "start_date": "2020-03-18",

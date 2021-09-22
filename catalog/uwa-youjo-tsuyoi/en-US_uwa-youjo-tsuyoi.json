@@ -1,5 +1,9 @@
 {
     "title": "Uwa Youjo Tsuyoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229618.jpg",
+        "alt": "uwa-youjo-tsuyoi"
+    },
     "type": "manga",
     "original_name": "うわようじょつよい",
     "start_date": "2015-11-11",

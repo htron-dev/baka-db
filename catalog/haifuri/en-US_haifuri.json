@@ -1,5 +1,9 @@
 {
     "title": "Haifuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176327.jpg",
+        "alt": "haifuri"
+    },
     "type": "manga",
     "original_name": "はいふり",
     "start_date": "2015-10-27",

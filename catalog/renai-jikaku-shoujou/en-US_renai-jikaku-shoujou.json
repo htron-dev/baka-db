@@ -1,5 +1,9 @@
 {
     "title": "Ren'ai Jikaku Shoujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2208.jpg",
+        "alt": "renai-jikaku-shoujou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,12 +1,16 @@
 {
     "title": "Mobile Suit Gundam 0083: Stardust Memory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26654.jpg",
+        "alt": "mobile-suit-gundam-0083-stardust-memory"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "機動戦士ガンダム 0083 STARDUST MEMORY",
     "start_date": "1991-05-23",
     "end_date": "1991-05-23",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"The Winner\" by Miki Matsubara (eps 2-7)",
+    "ending_song": "#1: \"Magic\" by Jacob Wheeler (eps 1-7)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "military",

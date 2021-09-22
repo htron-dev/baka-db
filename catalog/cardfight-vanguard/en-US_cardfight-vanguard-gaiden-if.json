@@ -1,12 +1,16 @@
 {
     "title": "Cardfight!! Vanguard Gaiden: If",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1059/111639.jpg",
+        "alt": "cardfight-vanguard-gaiden-if"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "カードファイト!! ヴァンガード外伝 イフ-if-",
     "start_date": "2020-05-30",
     "end_date": "2020-05-30",
     "opening_song": "\"What-if Wonderland!!\" by Argonavis",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gonna be right\" by Peaky P-key (eps 2-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

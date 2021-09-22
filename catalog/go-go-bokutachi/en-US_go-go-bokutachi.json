@@ -1,5 +1,9 @@
 {
     "title": "Go Go Bokutachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95947.jpg",
+        "alt": "go-go-bokutachi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ゴーゴー僕たち",

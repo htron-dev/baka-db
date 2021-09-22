@@ -1,5 +1,9 @@
 {
     "title": "Koroshiya S no Yuragi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232031.jpg",
+        "alt": "koroshiya-s-no-yuragi"
+    },
     "type": "manga",
     "original_name": "殺し屋 S のゆらぎ",
     "start_date": "2018-12-12",

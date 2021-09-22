@@ -1,5 +1,9 @@
 {
     "title": "Aria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171280.jpg",
+        "alt": "aria"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "小説 ARIA",

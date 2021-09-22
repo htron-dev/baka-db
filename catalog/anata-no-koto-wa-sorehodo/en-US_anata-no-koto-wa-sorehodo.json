@@ -1,5 +1,9 @@
 {
     "title": "Anata no Koto wa Sorehodo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204322.jpg",
+        "alt": "anata-no-koto-wa-sorehodo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

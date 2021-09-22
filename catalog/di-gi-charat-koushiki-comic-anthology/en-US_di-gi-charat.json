@@ -1,5 +1,9 @@
 {
     "title": "Di Gi Charat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/18815.jpg",
+        "alt": "di-gi-charat"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "デ・ジ･キャラット",

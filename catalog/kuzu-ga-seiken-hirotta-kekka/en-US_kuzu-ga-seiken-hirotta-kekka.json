@@ -1,5 +1,9 @@
 {
     "title": "Kuzu ga Seiken Hirotta Kekka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132083.jpg",
+        "alt": "kuzu-ga-seiken-hirotta-kekka"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "28",

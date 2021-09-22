@@ -1,5 +1,9 @@
 {
     "title": "Tonari wa Nani wo Kuu Hito zo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208172.jpg",
+        "alt": "tonari-wa-nani-wo-kuu-hito-zo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

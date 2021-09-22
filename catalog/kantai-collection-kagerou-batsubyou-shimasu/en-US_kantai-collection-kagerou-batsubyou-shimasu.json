@@ -1,5 +1,9 @@
 {
     "title": "Kantai Collection: Kagerou, Batsubyou shimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115101.jpg",
+        "alt": "kantai-collection-kagerou-batsubyou-shimasu"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "39",

@@ -1,5 +1,9 @@
 {
     "title": "Liang Bu Yi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1040/113645.jpg",
+        "alt": "liang-bu-yi"
+    },
     "type": "ona",
     "episodes": "24",
     "original_name": "两不疑",

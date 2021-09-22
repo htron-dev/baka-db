@@ -1,5 +1,9 @@
 {
     "title": "Juuni Taisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202583.jpg",
+        "alt": "juuni-taisen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

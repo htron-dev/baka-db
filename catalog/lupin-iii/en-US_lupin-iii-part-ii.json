@@ -1,12 +1,16 @@
 {
     "title": "Lupin III: Part II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/34035.jpg",
+        "alt": "lupin-iii-part-ii"
+    },
     "type": "tv-serie",
     "episodes": "155",
     "original_name": "新・ルパン三世",
     "start_date": "1977-10-03",
     "end_date": "1977-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Theme from Lupin III '77\" by Yuji Ohno (eps 1-26)",
+    "ending_song": "#1: \"Love Theme\" by Yuji Ohno (eps 1-26)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

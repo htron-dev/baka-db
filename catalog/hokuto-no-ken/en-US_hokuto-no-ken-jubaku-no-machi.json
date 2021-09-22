@@ -1,5 +1,9 @@
 {
     "title": "Hokuto no Ken: Jubaku no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78795.jpg",
+        "alt": "hokuto-no-ken-jubaku-no-machi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "北斗の拳 呪縛の街",

@@ -1,11 +1,15 @@
 {
     "title": "Manga Hajimete Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/28068.jpg",
+        "alt": "manga-hajimete-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "305",
     "original_name": "まんがはじめて物語",
     "start_date": "1978-05-06",
     "end_date": "1978-05-06",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Fushigi na Tabi\" Utsumi Miyatsuchi",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

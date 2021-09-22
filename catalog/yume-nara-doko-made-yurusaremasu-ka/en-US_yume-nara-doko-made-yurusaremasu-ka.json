@@ -1,5 +1,9 @@
 {
     "title": "Yume nara Doko made Yurusaremasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238332.jpg",
+        "alt": "yume-nara-doko-made-yurusaremasu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

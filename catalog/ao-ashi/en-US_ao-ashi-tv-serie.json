@@ -1,5 +1,9 @@
 {
     "title": "Ao Ashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1709/115184.jpg",
+        "alt": "ao-ashi"
+    },
     "type": "tv-serie",
     "original_name": "アオアシ",
     "start_date": "2022-04-20",

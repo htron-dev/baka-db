@@ -1,5 +1,9 @@
 {
     "title": "Crystal☆Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/71087.jpg",
+        "alt": "crystal☆-dragon"
+    },
     "type": "manga",
     "original_name": "クリスタル ☆ ドラゴン",
     "start_date": "1981-02-24",

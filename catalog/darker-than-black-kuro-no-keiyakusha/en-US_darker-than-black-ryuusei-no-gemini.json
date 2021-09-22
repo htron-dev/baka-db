@@ -1,5 +1,9 @@
 {
     "title": "Darker than Black: Ryuusei no Gemini",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/50373.jpg",
+        "alt": "darker-than-black-ryuusei-no-gemini"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "DARKER THAN BLACK 流星の双子",

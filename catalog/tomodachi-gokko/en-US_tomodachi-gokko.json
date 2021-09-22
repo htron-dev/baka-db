@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi Gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204652.jpg",
+        "alt": "tomodachi-gokko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

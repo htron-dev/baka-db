@@ -1,12 +1,16 @@
 {
     "title": "Jaku-Chara Tomozaki-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1120/109232.jpg",
+        "alt": "jaku-chara-tomozaki-kun"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "弱キャラ友崎くん",
     "start_date": "2021-01-08",
     "end_date": "2021-01-08",
     "opening_song": "\"Jinsei Easy? (人生イージー？)\" by DIALOGUE+",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ayafuwa Asterisk (あやふわアスタリスク)\" by DIALOGUE+",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

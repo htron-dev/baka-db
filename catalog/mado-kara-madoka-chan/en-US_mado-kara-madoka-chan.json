@@ -1,5 +1,9 @@
 {
     "title": "Mado kara Madoka-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196588.jpg",
+        "alt": "mado-kara-madoka-chan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "75",

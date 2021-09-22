@@ -1,5 +1,9 @@
 {
     "title": "Furinjima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238074.jpg",
+        "alt": "furinjima"
+    },
     "type": "manga",
     "original_name": "不倫島",
     "start_date": "2020-01-29",

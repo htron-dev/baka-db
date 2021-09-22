@@ -1,5 +1,9 @@
 {
     "title": "Juuni Taisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233664.jpg",
+        "alt": "juuni-taisen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "十二大戦",

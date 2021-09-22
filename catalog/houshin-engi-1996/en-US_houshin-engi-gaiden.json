@@ -1,5 +1,9 @@
 {
     "title": "Houshin Engi Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223143.jpg",
+        "alt": "houshin-engi-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

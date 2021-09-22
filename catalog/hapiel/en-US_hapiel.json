@@ -1,5 +1,9 @@
 {
     "title": "Hapiel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239578.jpg",
+        "alt": "hapiel"
+    },
     "type": "manga",
     "original_name": "ハピエル",
     "start_date": "2020-08-16",

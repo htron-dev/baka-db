@@ -1,5 +1,9 @@
 {
     "title": "Kengan Ashura 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1546/102680.jpg",
+        "alt": "kengan-ashura-2nd-season"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ケンガンアシュラ Part 2",

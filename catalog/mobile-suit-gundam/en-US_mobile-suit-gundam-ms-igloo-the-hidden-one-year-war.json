@@ -1,8 +1,12 @@
 {
     "title": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/4730.jpg",
+        "alt": "mobile-suit-gundam-ms-igloo-the-hidden-one-year-war"
+    },
     "type": "ova",
     "episodes": "3",
-    "original_name": "機動戦士ガンダム MS IGLOO",
+    "original_name": "機動戦士ガンダム MS IGLOO: 1 年戦争秘録",
     "start_date": "2004-07-19",
     "end_date": "2004-07-19",
     "opening_song": "\"Sora no Tamoto\" by TAJA",

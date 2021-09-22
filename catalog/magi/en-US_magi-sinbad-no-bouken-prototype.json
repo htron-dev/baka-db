@@ -1,5 +1,9 @@
 {
     "title": "Magi: Sinbad no Bouken - Prototype",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104553.jpg",
+        "alt": "magi-sinbad-no-bouken-prototype"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

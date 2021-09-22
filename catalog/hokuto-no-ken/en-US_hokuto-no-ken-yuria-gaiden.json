@@ -1,5 +1,9 @@
 {
     "title": "Hokuto no Ken - Yuria Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57689.jpg",
+        "alt": "hokuto-no-ken-yuria-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Grisaia no Kajitsu: L'Oiseau bleu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143423.jpg",
+        "alt": "grisaia-no-kajitsu-l-oiseau-bleu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

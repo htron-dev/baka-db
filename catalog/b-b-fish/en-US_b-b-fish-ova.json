@@ -1,5 +1,9 @@
 {
     "title": "B.B. Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/39325.jpg",
+        "alt": "b-b-fish"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "B.B. フィッシュ",

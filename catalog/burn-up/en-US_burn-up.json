@@ -1,5 +1,9 @@
 {
     "title": "Burn Up!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/2888.jpg",
+        "alt": "burn-up"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "バーンナップ",

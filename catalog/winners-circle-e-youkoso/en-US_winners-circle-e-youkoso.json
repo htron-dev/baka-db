@@ -1,5 +1,9 @@
 {
     "title": "Winner's Circle e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185184.jpg",
+        "alt": "winners-circle-e-youkoso"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "81",

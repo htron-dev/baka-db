@@ -1,5 +1,9 @@
 {
     "title": "Senpai to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136409.jpg",
+        "alt": "senpai-to-issho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

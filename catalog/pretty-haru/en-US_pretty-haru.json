@@ -1,5 +1,9 @@
 {
     "title": "Pretty Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52273.jpg",
+        "alt": "pretty-haru"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "12",

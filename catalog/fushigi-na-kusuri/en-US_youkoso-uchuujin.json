@@ -1,5 +1,9 @@
 {
     "title": "Youkoso Uchuujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/36695.jpg",
+        "alt": "youkoso-uchuujin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ようこそ宇宙人",

@@ -1,5 +1,9 @@
 {
     "title": "Beast Wars Metals",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35696.jpg",
+        "alt": "beast-wars-metals"
+    },
     "type": "manga",
     "chapters": "6",
     "start_date": "1999-11-19",

@@ -1,5 +1,9 @@
 {
     "title": "Hagane no Shirousagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162038.jpg",
+        "alt": "hagane-no-shirousagi"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "80",

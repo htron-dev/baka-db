@@ -1,5 +1,9 @@
 {
     "title": "Ai tte Yatsu wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171781.jpg",
+        "alt": "ai-tte-yatsu-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

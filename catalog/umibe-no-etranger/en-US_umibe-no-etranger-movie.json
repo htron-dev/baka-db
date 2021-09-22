@@ -1,5 +1,9 @@
 {
     "title": "Umibe no Étranger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1668/108792.jpg",
+        "alt": "umibe-no-etranger"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "海辺のエトランゼ",

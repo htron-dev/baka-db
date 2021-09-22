@@ -1,5 +1,9 @@
 {
     "title": "Wedding Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13518.jpg",
+        "alt": "wedding-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ウエディング・キッス",

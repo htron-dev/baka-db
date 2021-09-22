@@ -1,5 +1,9 @@
 {
     "title": "Shio no Koe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18434.jpg",
+        "alt": "shio-no-koe"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "1982-11-19",

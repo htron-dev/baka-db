@@ -1,5 +1,9 @@
 {
     "title": "Boku ga Otona ni Shiteageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205495.jpg",
+        "alt": "boku-ga-otona-ni-shiteageru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

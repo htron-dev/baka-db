@@ -1,5 +1,9 @@
 {
     "title": "Wandal Wandering!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84705.jpg",
+        "alt": "wandal-wandering"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ワンダルワンダリング!",

@@ -1,5 +1,9 @@
 {
     "title": "Tsuriya Nagare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/35793.jpg",
+        "alt": "tsuriya-nagare"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "釣り屋ナガレ",

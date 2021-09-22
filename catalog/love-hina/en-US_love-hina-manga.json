@@ -1,5 +1,9 @@
 {
     "title": "Love Hina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52139.jpg",
+        "alt": "love-hina"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "120",

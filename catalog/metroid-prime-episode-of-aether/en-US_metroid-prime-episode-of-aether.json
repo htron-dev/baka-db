@@ -1,5 +1,9 @@
 {
     "title": "Metroid Prime: Episode of Aether",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139973.jpg",
+        "alt": "metroid-prime-episode-of-aether"
+    },
     "type": "manga",
     "chapters": "7",
     "original_name": "メトロイド プライム EPISODE OF AETHER",

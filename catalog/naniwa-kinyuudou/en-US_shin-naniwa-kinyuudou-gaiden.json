@@ -1,5 +1,9 @@
 {
     "title": "Shin Naniwa Kinyuudou Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226762.jpg",
+        "alt": "shin-naniwa-kinyuudou-gaiden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "48",

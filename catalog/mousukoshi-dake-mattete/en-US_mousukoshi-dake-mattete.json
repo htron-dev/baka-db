@@ -1,5 +1,9 @@
 {
     "title": "Mousukoshi dake Mattete.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192278.jpg",
+        "alt": "mousukoshi-dake-mattete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

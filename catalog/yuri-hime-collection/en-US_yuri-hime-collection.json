@@ -1,5 +1,9 @@
 {
     "title": "Yuri Hime Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119555.jpg",
+        "alt": "yuri-hime-collection"
+    },
     "type": "manga",
     "original_name": "百合姫 Collection",
     "start_date": "2010-07-17",

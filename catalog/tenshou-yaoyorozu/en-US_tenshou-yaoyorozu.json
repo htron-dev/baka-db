@@ -1,5 +1,9 @@
 {
     "title": "Tenshou Yaoyorozu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112627.jpg",
+        "alt": "tenshou-yaoyorozu"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "57",

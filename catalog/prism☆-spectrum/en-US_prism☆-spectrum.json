@@ -1,5 +1,9 @@
 {
     "title": "Prism☆Spectrum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33816.jpg",
+        "alt": "prism☆-spectrum"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

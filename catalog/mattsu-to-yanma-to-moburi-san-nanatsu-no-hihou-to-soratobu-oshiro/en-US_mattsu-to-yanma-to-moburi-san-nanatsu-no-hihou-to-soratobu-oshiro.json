@@ -1,5 +1,9 @@
 {
     "title": "Mattsu to Yanma to Moburi-san: Nanatsu no Hihou to Soratobu Oshiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/67755.jpg",
+        "alt": "mattsu-to-yanma-to-moburi-san-nanatsu-no-hihou-to-soratobu-oshiro"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "マッツとヤンマとモブリさん ―七つの秘宝と空飛ぶお城―",
@@ -21,7 +25,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88_(%E4%BC%81%E6%A5%AD"
+            "link": "http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88_%28%E4%BC%81%E6%A5%AD%29"
         }
     ]
 }

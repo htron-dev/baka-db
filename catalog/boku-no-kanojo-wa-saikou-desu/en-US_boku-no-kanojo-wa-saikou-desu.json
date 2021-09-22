@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kanojo wa Saikou desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201607.jpg",
+        "alt": "boku-no-kanojo-wa-saikou-desu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "56",

@@ -1,5 +1,9 @@
 {
     "title": "Buna no Mori no Aria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228792.jpg",
+        "alt": "buna-no-mori-no-aria"
+    },
     "type": "manga",
     "original_name": "ブナの森のアリア",
     "start_date": "2020-01-24",

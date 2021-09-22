@@ -1,5 +1,9 @@
 {
     "title": "Nare no Hate no Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231154.jpg",
+        "alt": "nare-no-hate-no-bokura"
+    },
     "type": "manga",
     "original_name": "なれの果ての僕ら",
     "start_date": "2020-01-15",

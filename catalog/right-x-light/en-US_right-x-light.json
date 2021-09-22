@@ -1,5 +1,9 @@
 {
     "title": "Right x Light",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134599.jpg",
+        "alt": "right-x-light"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "74",

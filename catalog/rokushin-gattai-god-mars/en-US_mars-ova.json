@@ -1,5 +1,9 @@
 {
     "title": "Mars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/29308.jpg",
+        "alt": "mars"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "マーズ",

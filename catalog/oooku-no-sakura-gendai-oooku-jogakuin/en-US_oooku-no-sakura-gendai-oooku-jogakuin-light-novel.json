@@ -1,5 +1,9 @@
 {
     "title": "Oooku no Sakura: Gendai Oooku Jogakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162924.jpg",
+        "alt": "oooku-no-sakura-gendai-oooku-jogakuin"
+    },
     "type": "light-novel",
     "volumes": "7",
     "original_name": "大奥のサクラ 現代大奥女学院",

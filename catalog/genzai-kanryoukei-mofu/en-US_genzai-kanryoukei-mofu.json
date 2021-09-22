@@ -1,5 +1,9 @@
 {
     "title": "Genzai Kanryoukei Mofu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30666.jpg",
+        "alt": "genzai-kanryoukei-mofu"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "78",

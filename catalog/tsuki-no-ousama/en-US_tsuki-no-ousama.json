@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20508.jpg",
+        "alt": "tsuki-no-ousama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

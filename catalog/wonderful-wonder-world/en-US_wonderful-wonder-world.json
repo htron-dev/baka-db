@@ -1,5 +1,9 @@
 {
     "title": "Wonderful Wonder World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193946.jpg",
+        "alt": "wonderful-wonder-world"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

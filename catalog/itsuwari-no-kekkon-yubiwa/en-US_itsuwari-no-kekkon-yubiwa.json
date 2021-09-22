@@ -1,5 +1,9 @@
 {
     "title": "Itsuwari no Kekkon Yubiwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63569.jpg",
+        "alt": "itsuwari-no-kekkon-yubiwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

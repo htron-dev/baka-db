@@ -1,5 +1,9 @@
 {
     "title": "Samurai Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17060.jpg",
+        "alt": "samurai-baby"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

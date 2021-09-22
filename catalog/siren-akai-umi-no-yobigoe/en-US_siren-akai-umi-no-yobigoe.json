@@ -1,5 +1,9 @@
 {
     "title": "Siren: Akai Umi no Yobigoe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174760.jpg",
+        "alt": "siren-akai-umi-no-yobigoe"
+    },
     "type": "manga",
     "original_name": "SIREN ―赤イ海ノ呼ビ声―",
     "start_date": "2014-07-17",

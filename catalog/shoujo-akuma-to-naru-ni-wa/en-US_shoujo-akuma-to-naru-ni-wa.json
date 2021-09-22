@@ -1,5 +1,9 @@
 {
     "title": "Shoujo, Akuma to Naru ni wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225277.jpg",
+        "alt": "shoujo-akuma-to-naru-ni-wa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Rozen Maiden (2008)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113855.jpg",
+        "alt": "rozen-maiden-2008"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "68",

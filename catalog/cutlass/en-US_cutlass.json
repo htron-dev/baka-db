@@ -1,5 +1,9 @@
 {
     "title": "Cutlass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3442.jpg",
+        "alt": "cutlass"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

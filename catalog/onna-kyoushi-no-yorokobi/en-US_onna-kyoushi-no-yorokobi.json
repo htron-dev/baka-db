@@ -1,5 +1,9 @@
 {
     "title": "Onna Kyoushi no Yorokobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35543.jpg",
+        "alt": "onna-kyoushi-no-yorokobi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "女教師の悦び",
@@ -12,7 +16,6 @@
         "Asada",
         "Okina (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

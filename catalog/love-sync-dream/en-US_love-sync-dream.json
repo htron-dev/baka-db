@@ -1,5 +1,9 @@
 {
     "title": "Love Sync Dream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179466.jpg",
+        "alt": "love-sync-dream"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "LOVE SYNC DREAM",

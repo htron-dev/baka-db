@@ -1,5 +1,9 @@
 {
     "title": "Spriggan (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1114/116908.jpg",
+        "alt": "spriggan-ona"
+    },
     "type": "ona",
     "original_name": "スプリガン",
     "start_date": "2022-01-20",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Spriggan_(manga"
+            "link": "https://en.wikipedia.org/wiki/Spriggan_%28manga%29#Anime_series"
         }
     ]
 }

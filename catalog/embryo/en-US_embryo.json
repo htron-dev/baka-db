@@ -1,5 +1,9 @@
 {
     "title": "Embryo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71617.jpg",
+        "alt": "embryo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

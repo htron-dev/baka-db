@@ -1,11 +1,15 @@
 {
     "title": "Jungle Taitei: Susume Leo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76173.jpg",
+        "alt": "jungle-taitei-susume-leo"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ジャングル大帝・進めレオ",
     "start_date": "1966-10-05",
     "end_date": "1966-10-05",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Jungle Taitei Susume Leo! (ジャングル大帝 進めレオ!)\" by Happy Beans",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

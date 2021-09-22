@@ -1,5 +1,9 @@
 {
     "title": "Zouressha ga Yatte Kita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/30719.jpg",
+        "alt": "zouressha-ga-yatte-kita"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "象列車がやってきた",

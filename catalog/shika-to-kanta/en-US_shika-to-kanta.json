@@ -1,5 +1,9 @@
 {
     "title": "Shika to Kanta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72849.jpg",
+        "alt": "shika-to-kanta"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "シカとカンタ",

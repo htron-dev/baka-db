@@ -1,5 +1,9 @@
 {
     "title": "Itsuwari no Wedding",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191901.jpg",
+        "alt": "itsuwari-no-wedding"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

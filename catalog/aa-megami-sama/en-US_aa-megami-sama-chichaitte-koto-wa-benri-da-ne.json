@@ -1,11 +1,15 @@
 {
     "title": "Aa! Megami-sama!: Chichaitte Koto wa Benri da ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/303.jpg",
+        "alt": "aa-megami-sama-chichaitte-koto-wa-benri-da-ne"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "ああっ女神さまっ 小っちゃいって事は便利だねっ",
     "start_date": "1998-04-06",
     "end_date": "1998-04-06",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Denwa Shite Iwa-chan\" by Yuki Ishii (eps 01-24)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

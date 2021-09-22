@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Ochita Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/10363.jpg",
+        "alt": "koi-ni-ochita-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

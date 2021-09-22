@@ -1,5 +1,9 @@
 {
     "title": "Para☆Labo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173157.jpg",
+        "alt": "para☆-labo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

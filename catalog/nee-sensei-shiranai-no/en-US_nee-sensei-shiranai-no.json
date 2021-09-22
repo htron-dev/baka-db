@@ -1,5 +1,9 @@
 {
     "title": "Nee Sensei, Shiranai no?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244870.jpg",
+        "alt": "nee-sensei-shiranai-no"
+    },
     "type": "manga",
     "original_name": "ねぇ先生、知らないの?",
     "start_date": "2018-11-05",

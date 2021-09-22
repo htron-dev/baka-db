@@ -1,5 +1,9 @@
 {
     "title": "Agukaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/26860.jpg",
+        "alt": "agukaru"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "あぐかる",

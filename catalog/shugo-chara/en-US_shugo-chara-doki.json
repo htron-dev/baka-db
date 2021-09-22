@@ -1,12 +1,16 @@
 {
     "title": "Shugo Chara!! Doki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/10645.jpg",
+        "alt": "shugo-chara-doki"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "しゅごキャラ！！どきっ",
     "start_date": "2008-10-04",
     "end_date": "2008-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Minna no Tamago (みんなのたまご)\" by Shugo Chara Egg (eps 1-13)",
+    "ending_song": "#1: \"Rottara Rottara (ロッタラ ロッタラ)\" by Buono! (eps 1-17)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Danzai no Warlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114495.jpg",
+        "alt": "danzai-no-warlock"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "断罪のワーロック",

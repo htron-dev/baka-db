@@ -1,5 +1,9 @@
 {
     "title": "Cheers!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216122.jpg",
+        "alt": "cheers"
+    },
     "type": "light-novel",
     "original_name": "チアーズ!",
     "start_date": "2017-09-25",

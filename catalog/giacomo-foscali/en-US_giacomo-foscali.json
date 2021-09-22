@@ -1,5 +1,9 @@
 {
     "title": "Giacomo Foscali",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85727.jpg",
+        "alt": "giacomo-foscali"
+    },
     "type": "manga",
     "original_name": "ジャコモ・フォスカリ",
     "start_date": "2011-10-22",

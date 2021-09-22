@@ -1,5 +1,9 @@
 {
     "title": "Milk Crown H!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149311.jpg",
+        "alt": "milk-crown-h"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

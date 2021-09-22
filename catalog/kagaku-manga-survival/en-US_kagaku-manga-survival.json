@@ -1,5 +1,9 @@
 {
     "title": "Kagaku Manga Survival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1228/102592.jpg",
+        "alt": "kagaku-manga-survival"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "科学漫画サバイバル",

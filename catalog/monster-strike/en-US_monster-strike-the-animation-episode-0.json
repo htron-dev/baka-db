@@ -1,5 +1,9 @@
 {
     "title": "Monster Strike The Animation Episode 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1014/93215.jpg",
+        "alt": "monster-strike-the-animation-episode-0"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "モンスターストライク The Animation",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Monster_Strike_(anime"
+            "link": "https://en.wikipedia.org/wiki/Monster_Strike_%28anime%29"
         }
     ]
 }

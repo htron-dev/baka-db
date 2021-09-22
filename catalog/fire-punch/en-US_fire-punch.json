@@ -1,5 +1,9 @@
 {
     "title": "Fire Punch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180430.jpg",
+        "alt": "fire-punch"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "83",

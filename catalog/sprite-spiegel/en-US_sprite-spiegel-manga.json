@@ -1,5 +1,9 @@
 {
     "title": "Sprite Spiegel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154551.jpg",
+        "alt": "sprite-spiegel"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "スプライトシュピーゲル",

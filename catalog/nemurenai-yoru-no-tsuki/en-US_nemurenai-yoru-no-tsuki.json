@@ -1,5 +1,9 @@
 {
     "title": "Nemurenai Yoru no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1153/110691.jpg",
+        "alt": "nemurenai-yoru-no-tsuki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "眠れない夜の月",

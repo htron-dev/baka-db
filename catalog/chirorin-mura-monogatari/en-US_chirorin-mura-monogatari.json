@@ -1,5 +1,9 @@
 {
     "title": "Chirorin Mura Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/25274.jpg",
+        "alt": "chirorin-mura-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "170",
     "original_name": "チロリン村物語",

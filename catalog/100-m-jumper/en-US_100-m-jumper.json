@@ -1,5 +1,9 @@
 {
     "title": "100m Jumper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203069.jpg",
+        "alt": "100-m-jumper"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

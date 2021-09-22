@@ -1,5 +1,9 @@
 {
     "title": "Neko-Sis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105029.jpg",
+        "alt": "neko-sis"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

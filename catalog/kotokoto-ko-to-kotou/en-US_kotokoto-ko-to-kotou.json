@@ -1,5 +1,9 @@
 {
     "title": "Kotokoto.: Ko to Kotou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164494.jpg",
+        "alt": "kotokoto-ko-to-kotou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

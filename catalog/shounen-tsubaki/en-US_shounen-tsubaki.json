@@ -1,5 +1,9 @@
 {
     "title": "Shounen Tsubaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158662.jpg",
+        "alt": "shounen-tsubaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

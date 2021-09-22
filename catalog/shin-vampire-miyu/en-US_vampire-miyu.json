@@ -1,5 +1,9 @@
 {
     "title": "Vampire Miyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142499.jpg",
+        "alt": "vampire-miyu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "48",

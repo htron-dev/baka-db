@@ -1,5 +1,9 @@
 {
     "title": "Sukidarake no Anta ga Warui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246271.jpg",
+        "alt": "sukidarake-no-anta-ga-warui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

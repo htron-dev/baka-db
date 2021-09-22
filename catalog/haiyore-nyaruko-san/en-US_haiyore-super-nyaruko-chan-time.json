@@ -1,5 +1,9 @@
 {
     "title": "Haiyore! Super Nyaruko-chan Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187026.jpg",
+        "alt": "haiyore-super-nyaruko-chan-time"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

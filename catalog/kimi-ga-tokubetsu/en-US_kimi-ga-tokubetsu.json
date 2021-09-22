@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Tokubetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220012.jpg",
+        "alt": "kimi-ga-tokubetsu"
+    },
     "type": "manga",
     "original_name": "君がトクベツ",
     "start_date": "2019-03-13",

@@ -1,5 +1,9 @@
 {
     "title": "Kuroki Yodomi no Hedoro-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232787.jpg",
+        "alt": "kuroki-yodomi-no-hedoro-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

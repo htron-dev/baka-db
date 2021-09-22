@@ -1,5 +1,9 @@
 {
     "title": "Wakeari Madoushi wa Shizuka ni Kurashitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223783.jpg",
+        "alt": "wakeari-madoushi-wa-shizuka-ni-kurashitai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

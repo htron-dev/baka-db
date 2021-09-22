@@ -1,5 +1,9 @@
 {
     "title": "Kakegurui Midari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198486.jpg",
+        "alt": "kakegurui-midari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "59",

@@ -1,5 +1,9 @@
 {
     "title": "Anomalies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/69593.jpg",
+        "alt": "anomalies"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Anomalies",

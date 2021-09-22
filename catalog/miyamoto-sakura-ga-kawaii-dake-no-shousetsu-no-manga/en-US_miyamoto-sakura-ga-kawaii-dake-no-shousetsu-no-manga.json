@@ -1,5 +1,9 @@
 {
     "title": "Miyamoto Sakura ga Kawaii dake no Shousetsu no Manga.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243909.jpg",
+        "alt": "miyamoto-sakura-ga-kawaii-dake-no-shousetsu-no-manga"
+    },
     "type": "manga",
     "original_name": "宮本サクラが可愛いだけの小説の漫画。",
     "start_date": "2020-01-17",

@@ -1,12 +1,16 @@
 {
     "title": "Arata Kangatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/47011.jpg",
+        "alt": "arata-kangatari"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アラタカンガタリ～革神語～",
     "start_date": "2013-04-09",
     "end_date": "2013-04-09",
     "opening_song": "\"GENESIS ARIA\" by Sphere",
-    "ending_song": "#1",
+    "ending_song": "#1: \"The Misfit Go\" by OLDCODEX (eps 1-8)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

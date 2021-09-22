@@ -1,5 +1,9 @@
 {
     "title": "Yakozen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41949.jpg",
+        "alt": "yakozen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,12 +1,16 @@
 {
     "title": "Saiyuuki Reload",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/24719.jpg",
+        "alt": "saiyuuki-reload"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "最遊記 RELOAD",
     "start_date": "2003-10-02",
     "end_date": "2003-10-02",
     "opening_song": "\"Wild Rock\" by BUZZLIP",
-    "ending_song": "#1",
+    "ending_song": "#1: \"ID\" by flow-war (eps 01-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

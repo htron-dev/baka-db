@@ -1,5 +1,9 @@
 {
     "title": "Shikabane 13-gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171672.jpg",
+        "alt": "shikabane-13-gou"
+    },
     "type": "manga",
     "chapters": "9",
     "original_name": "シカバネ 13 号",

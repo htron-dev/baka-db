@@ -1,5 +1,9 @@
 {
     "title": "Ranker's High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196015.jpg",
+        "alt": "rankers-high"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "52",

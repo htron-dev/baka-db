@@ -1,5 +1,9 @@
 {
     "title": "Etotama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149277.jpg",
+        "alt": "etotama"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

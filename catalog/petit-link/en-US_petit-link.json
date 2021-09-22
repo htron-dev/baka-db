@@ -1,5 +1,9 @@
 {
     "title": "Petit Link",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36317.jpg",
+        "alt": "petit-link"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "プチりんく",
@@ -13,7 +17,6 @@
         "Nagano",
         "Akane (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

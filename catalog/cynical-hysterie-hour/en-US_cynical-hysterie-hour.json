@@ -1,5 +1,9 @@
 {
     "title": "Cynical Hysterie Hour",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21452.jpg",
+        "alt": "cynical-hysterie-hour"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "シニカル・ヒステリー・アワー",

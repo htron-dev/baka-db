@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Sarutobi da！",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175807.jpg",
+        "alt": "ore-wa-sarutobi-da！"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "おれは猿飛だ！",

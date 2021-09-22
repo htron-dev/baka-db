@@ -1,5 +1,9 @@
 {
     "title": "Tamayura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46421.jpg",
+        "alt": "tamayura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

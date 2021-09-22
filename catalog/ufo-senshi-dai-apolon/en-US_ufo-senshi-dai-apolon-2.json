@@ -1,5 +1,9 @@
 {
     "title": "UFO Senshi Dai Apolon 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/29869.jpg",
+        "alt": "ufo-senshi-dai-apolon-2"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "UFO 戦士ダイアポロン II",

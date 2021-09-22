@@ -1,5 +1,9 @@
 {
     "title": "Shobo-nyan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167153.jpg",
+        "alt": "shobo-nyan"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "しょぼにゃん",

@@ -1,5 +1,9 @@
 {
     "title": "Sentimental: Aizome Gorou Sakuhinshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247131.jpg",
+        "alt": "sentimental-aizome-gorou-sakuhinshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

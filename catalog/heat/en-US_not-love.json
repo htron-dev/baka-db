@@ -1,5 +1,9 @@
 {
     "title": "Not/Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36812.jpg",
+        "alt": "not-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu Gakushou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/84097.jpg",
+        "alt": "kaibutsu-gakushou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "怪物学抄",

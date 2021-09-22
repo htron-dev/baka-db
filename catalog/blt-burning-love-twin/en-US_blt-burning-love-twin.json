@@ -1,5 +1,9 @@
 {
     "title": "BLT: Burning Love Twin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4243.jpg",
+        "alt": "blt-burning-love-twin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

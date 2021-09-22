@@ -1,5 +1,9 @@
 {
     "title": "Card Wang: Mix Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/20195.jpg",
+        "alt": "card-wang-mix-master"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "카드왕 믹스마스터",

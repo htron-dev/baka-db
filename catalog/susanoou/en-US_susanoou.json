@@ -1,5 +1,9 @@
 {
     "title": "Susanoou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75563.jpg",
+        "alt": "susanoou"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "凄ノ王",

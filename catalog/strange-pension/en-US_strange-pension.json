@@ -1,5 +1,9 @@
 {
     "title": "Strange Pension",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28723.jpg",
+        "alt": "strange-pension"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

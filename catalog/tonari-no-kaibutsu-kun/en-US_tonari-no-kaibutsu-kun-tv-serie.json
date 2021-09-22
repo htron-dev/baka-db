@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Kaibutsu-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/39779.jpg",
+        "alt": "tonari-no-kaibutsu-kun"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "となりの怪物くん",

@@ -1,5 +1,9 @@
 {
     "title": "Haguruma Drive.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220587.jpg",
+        "alt": "haguruma-drive"
+    },
     "type": "light-novel",
     "original_name": "はぐるまどらいぶ。",
     "start_date": "2018-02-25",

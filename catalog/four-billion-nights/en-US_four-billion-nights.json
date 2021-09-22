@@ -1,5 +1,9 @@
 {
     "title": "Four Billion Nights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155069.jpg",
+        "alt": "four-billion-nights"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

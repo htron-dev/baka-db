@@ -1,5 +1,9 @@
 {
     "title": "Danzai no Regalia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160029.jpg",
+        "alt": "danzai-no-regalia"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "断罪のレガリア",

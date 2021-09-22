@@ -1,5 +1,9 @@
 {
     "title": "Ito Junji Kyoufu Manga Collection - Namekuji no Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185642.jpg",
+        "alt": "ito-junji-kyoufu-manga-collection-namekuji-no-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

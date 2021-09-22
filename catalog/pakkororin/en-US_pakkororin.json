@@ -1,5 +1,9 @@
 {
     "title": "Pakkororin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1134/93318.jpg",
+        "alt": "pakkororin"
+    },
     "type": "tv-serie",
     "original_name": "パッコロリン",
     "start_date": "2011-03-28",

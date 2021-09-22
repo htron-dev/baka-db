@@ -1,5 +1,9 @@
 {
     "title": "Kantai Collection: Shimakaze Tsumujikaze no Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164274.jpg",
+        "alt": "kantai-collection-shimakaze-tsumujikaze-no-shoujo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

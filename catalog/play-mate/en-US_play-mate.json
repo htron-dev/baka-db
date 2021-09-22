@@ -1,5 +1,9 @@
 {
     "title": "Play Mate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35499.jpg",
+        "alt": "play-mate"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "プレイ・メイト",

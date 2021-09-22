@@ -1,5 +1,9 @@
 {
     "title": "Under the Sun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1037/115089.jpg",
+        "alt": "under-the-sun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アンダー・ザ・サン",

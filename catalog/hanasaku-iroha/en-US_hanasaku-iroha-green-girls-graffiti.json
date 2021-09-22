@@ -1,5 +1,9 @@
 {
     "title": "Hanasaku Iroha: Green Girls Graffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153535.jpg",
+        "alt": "hanasaku-iroha-green-girls-graffiti"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

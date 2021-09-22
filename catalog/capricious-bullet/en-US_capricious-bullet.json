@@ -1,5 +1,9 @@
 {
     "title": "Capricious Bullet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38946.jpg",
+        "alt": "capricious-bullet"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "カプリシャス·ブレット",

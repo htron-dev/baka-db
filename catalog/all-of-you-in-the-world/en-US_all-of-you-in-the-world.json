@@ -1,5 +1,9 @@
 {
     "title": "All of You in the World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25301.jpg",
+        "alt": "all-of-you-in-the-world"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "니가 세상의 전부다",

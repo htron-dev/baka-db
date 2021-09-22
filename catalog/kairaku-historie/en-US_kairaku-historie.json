@@ -1,5 +1,9 @@
 {
     "title": "Kairaku Historie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228523.jpg",
+        "alt": "kairaku-historie"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "31",

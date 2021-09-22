@@ -1,5 +1,9 @@
 {
     "title": "Ice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2329.jpg",
+        "alt": "ice"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ICE - アイス -",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/ICE_(anime"
+            "link": "http://en.wikipedia.org/wiki/ICE_%28anime%29"
         }
     ]
 }

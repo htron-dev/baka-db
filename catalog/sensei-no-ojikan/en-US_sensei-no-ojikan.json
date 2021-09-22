@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Ojikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197266.jpg",
+        "alt": "sensei-no-ojikan"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "212",

@@ -1,12 +1,16 @@
 {
     "title": "Sakura Taisen: New York",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2328.jpg",
+        "alt": "sakura-taisen-new-york"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "サクラ大戦 ニューヨーク・紐育",
     "start_date": "2007-04-04",
     "end_date": "2007-04-04",
     "opening_song": "\"Chijo no Senshi (地上の戦士; Warriors of the Earth)\" by Sanae Kobayashi, Junko Minagawa, Ayaka Saito, Kaya Masutani, and Mie Sonozaki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Taboo (タブー)\" by Kaya Masutani and Hisayoshi Suganuma (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Yami no Naka no Crown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92211.jpg",
+        "alt": "yami-no-naka-no-crown"
+    },
     "type": "manga",
     "original_name": "闇の中のクラウン",
     "start_date": "2013-04-24",

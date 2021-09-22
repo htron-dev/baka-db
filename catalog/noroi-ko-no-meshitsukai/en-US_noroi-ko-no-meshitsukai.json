@@ -1,5 +1,9 @@
 {
     "title": "Noroi Ko no Meshitsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236269.jpg",
+        "alt": "noroi-ko-no-meshitsukai"
+    },
     "type": "manga",
     "original_name": "呪い子の召使い",
     "start_date": "2020-03-05",

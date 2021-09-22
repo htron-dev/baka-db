@@ -1,5 +1,9 @@
 {
     "title": "Hirusagari ni, Mata.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232374.jpg",
+        "alt": "hirusagari-ni-mata"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

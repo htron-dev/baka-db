@@ -1,5 +1,9 @@
 {
     "title": "Dancing Baby Karin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16124.jpg",
+        "alt": "dancing-baby-karin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

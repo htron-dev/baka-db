@@ -1,5 +1,9 @@
 {
     "title": "Natsu-iro Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78249.jpg",
+        "alt": "natsu-iro-kiseki"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "夏色キセキ",

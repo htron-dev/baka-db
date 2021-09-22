@@ -1,5 +1,9 @@
 {
     "title": "Boku no Hero Academia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209370.jpg",
+        "alt": "boku-no-hero-academia"
+    },
     "type": "manga",
     "original_name": "僕のヒーローアカデミア",
     "start_date": "2014-07-07",

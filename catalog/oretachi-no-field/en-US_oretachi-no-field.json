@@ -1,5 +1,9 @@
 {
     "title": "Oretachi no Field",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237170.jpg",
+        "alt": "oretachi-no-field"
+    },
     "type": "manga",
     "volumes": "34",
     "original_name": "俺たちのフィールド",

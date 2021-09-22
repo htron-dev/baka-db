@@ -1,5 +1,9 @@
 {
     "title": "Kekkon suru kamo Shirenai Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223700.jpg",
+        "alt": "kekkon-suru-kamo-shirenai-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

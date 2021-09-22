@@ -1,5 +1,9 @@
 {
     "title": "Kuzu no Honkai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193442.jpg",
+        "alt": "kuzu-no-honkai"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "60",

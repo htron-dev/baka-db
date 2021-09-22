@@ -1,5 +1,9 @@
 {
     "title": "Lion to Neko no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154005.jpg",
+        "alt": "lion-to-neko-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

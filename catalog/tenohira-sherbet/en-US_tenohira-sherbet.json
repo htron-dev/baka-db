@@ -1,5 +1,9 @@
 {
     "title": "Tenohira Sherbet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174455.jpg",
+        "alt": "tenohira-sherbet"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Ai no Konseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37296.jpg",
+        "alt": "ai-no-konseki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

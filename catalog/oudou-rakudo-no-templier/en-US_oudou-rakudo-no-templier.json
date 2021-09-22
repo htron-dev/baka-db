@@ -1,5 +1,9 @@
 {
     "title": "Oudou Rakudo no Templier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160899.jpg",
+        "alt": "oudou-rakudo-no-templier"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

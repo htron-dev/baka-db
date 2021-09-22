@@ -1,5 +1,9 @@
 {
     "title": "Kusumoto Maki Senshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29455.jpg",
+        "alt": "kusumoto-maki-senshuu"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "楠本まき選集",

@@ -1,5 +1,9 @@
 {
     "title": "Seifuku no Ragnarok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202905.jpg",
+        "alt": "seifuku-no-ragnarok"
+    },
     "type": "manga",
     "original_name": "制服のラグナロク",
     "start_date": "2017-06-28",

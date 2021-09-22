@@ -1,9 +1,13 @@
 {
     "title": "Ultraman: The First",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79987.jpg",
+        "alt": "ultraman-the-first"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",
-    "original_name": "ウルトラマン",
+    "original_name": "ウルトラマン: THE FIRST",
     "tags": [
         "action",
         "drama",

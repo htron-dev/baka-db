@@ -1,5 +1,9 @@
 {
     "title": "Hametarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1417/100156.jpg",
+        "alt": "hametarou"
+    },
     "type": "special",
     "original_name": "はめたろう",
     "start_date": "2019-03-10",

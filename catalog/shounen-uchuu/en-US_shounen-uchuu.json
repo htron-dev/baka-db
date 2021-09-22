@@ -1,5 +1,9 @@
 {
     "title": "Shounen Uchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28224.jpg",
+        "alt": "shounen-uchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "少年宇宙",

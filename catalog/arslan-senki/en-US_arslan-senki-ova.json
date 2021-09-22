@@ -1,11 +1,15 @@
 {
     "title": "Arslan Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22254.jpg",
+        "alt": "arslan-senki"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "アルスラーン戦記",
     "start_date": "1991-08-17",
     "end_date": "1991-08-17",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kutsuato no hana\" by Mimori Yusa (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

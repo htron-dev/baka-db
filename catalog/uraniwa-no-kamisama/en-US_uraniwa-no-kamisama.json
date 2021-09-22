@@ -1,5 +1,9 @@
 {
     "title": "Uraniwa no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/110573.jpg",
+        "alt": "uraniwa-no-kamisama"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "うらにわのかみさま",

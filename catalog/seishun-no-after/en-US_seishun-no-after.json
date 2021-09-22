@@ -1,5 +1,9 @@
 {
     "title": "Seishun no After",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162135.jpg",
+        "alt": "seishun-no-after"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

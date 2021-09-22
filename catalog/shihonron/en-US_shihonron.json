@@ -1,5 +1,9 @@
 {
     "title": "Shihonron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196861.jpg",
+        "alt": "shihonron"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

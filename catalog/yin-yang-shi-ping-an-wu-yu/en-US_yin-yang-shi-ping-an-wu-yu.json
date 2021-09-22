@@ -1,5 +1,9 @@
 {
     "title": "Yin Yang Shi: Ping An Wu Yu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1159/91533.jpg",
+        "alt": "yin-yang-shi-ping-an-wu-yu"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "阴阳师：平安物语",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E5%B8%AB_(%E3%82%B2%E3%83%BC%E3%83%A0"
+            "link": "https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E5%B8%AB_%28%E3%82%B2%E3%83%BC%E3%83%A0%29#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
         }
     ]
 }

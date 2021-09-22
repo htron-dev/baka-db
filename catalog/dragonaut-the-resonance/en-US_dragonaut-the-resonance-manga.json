@@ -1,5 +1,9 @@
 {
     "title": "Dragonaut: The Resonance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45373.jpg",
+        "alt": "dragonaut-the-resonance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

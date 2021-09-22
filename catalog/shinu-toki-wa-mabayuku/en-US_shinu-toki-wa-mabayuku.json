@@ -1,5 +1,9 @@
 {
     "title": "Shinu Toki wa Mabayuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216065.jpg",
+        "alt": "shinu-toki-wa-mabayuku"
+    },
     "type": "manga",
     "original_name": "死ぬときはまばゆく",
     "start_date": "2018-09-06",

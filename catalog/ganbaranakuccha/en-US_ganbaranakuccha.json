@@ -1,5 +1,9 @@
 {
     "title": "Ganbaranakuccha!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36833.jpg",
+        "alt": "ganbaranakuccha"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "がんばらなくっチャ！",

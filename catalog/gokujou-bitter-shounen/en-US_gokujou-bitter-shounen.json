@@ -1,5 +1,9 @@
 {
     "title": "Gokujou Bitter Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109195.jpg",
+        "alt": "gokujou-bitter-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

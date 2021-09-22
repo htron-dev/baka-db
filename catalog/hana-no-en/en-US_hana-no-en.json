@@ -1,5 +1,9 @@
 {
     "title": "Hana no En",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14073.jpg",
+        "alt": "hana-no-en"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

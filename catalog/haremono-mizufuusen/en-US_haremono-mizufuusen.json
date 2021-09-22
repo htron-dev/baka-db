@@ -1,5 +1,9 @@
 {
     "title": "Haremono Mizufuusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183397.jpg",
+        "alt": "haremono-mizufuusen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "はれもの水風船",

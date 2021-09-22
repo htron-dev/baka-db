@@ -1,5 +1,9 @@
 {
     "title": "Junai Romantica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154814.jpg",
+        "alt": "junai-romantica"
+    },
     "type": "light-novel",
     "original_name": "純愛ロマンチカ",
     "start_date": "2004-10-30",

@@ -1,5 +1,9 @@
 {
     "title": "Heroine Voice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174706.jpg",
+        "alt": "heroine-voice"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

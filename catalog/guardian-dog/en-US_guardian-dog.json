@@ -1,5 +1,9 @@
 {
     "title": "Guardian Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212093.jpg",
+        "alt": "guardian-dog"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

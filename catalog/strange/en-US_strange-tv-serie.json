@@ -1,5 +1,9 @@
 {
     "title": "Strange+",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/57481.jpg",
+        "alt": "strange"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ストレンジ・プラス",

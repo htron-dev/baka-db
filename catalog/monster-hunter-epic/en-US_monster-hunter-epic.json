@@ -1,5 +1,9 @@
 {
     "title": "Monster Hunter Epic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155128.jpg",
+        "alt": "monster-hunter-epic"
+    },
     "type": "manga",
     "original_name": "モンスターハンターエピック",
     "start_date": "2011-09-20",

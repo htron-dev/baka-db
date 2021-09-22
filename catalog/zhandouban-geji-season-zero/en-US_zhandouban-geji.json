@@ -1,5 +1,9 @@
 {
     "title": "Zhandouban Geji!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1553/108589.jpg",
+        "alt": "zhandouban-geji"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "战斗吧歌姬！ 第一季",

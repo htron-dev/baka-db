@@ -1,5 +1,9 @@
 {
     "title": "Masaki no Pan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181879.jpg",
+        "alt": "masaki-no-pan"
+    },
     "type": "manga",
     "original_name": "聖樹のパン",
     "start_date": "2015-08-21",

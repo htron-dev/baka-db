@@ -1,5 +1,9 @@
 {
     "title": "Giant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154232.jpg",
+        "alt": "giant"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "82",

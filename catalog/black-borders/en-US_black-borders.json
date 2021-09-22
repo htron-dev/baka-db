@@ -1,5 +1,9 @@
 {
     "title": "Black Borders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24644.jpg",
+        "alt": "black-borders"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ブラックボーダーズ",

@@ -1,5 +1,9 @@
 {
     "title": "Kagami no Naka no Yami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47791.jpg",
+        "alt": "kagami-no-naka-no-yami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Hana to Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240026.jpg",
+        "alt": "hana-to-kuchizuke"
+    },
     "type": "manga",
     "original_name": "花とくちづけ",
     "start_date": "2020-08-23",

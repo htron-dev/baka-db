@@ -1,5 +1,9 @@
 {
     "title": "Inou Maze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196662.jpg",
+        "alt": "inou-maze"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Fukurou-kun to Kare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130133.jpg",
+        "alt": "fukurou-kun-to-kare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

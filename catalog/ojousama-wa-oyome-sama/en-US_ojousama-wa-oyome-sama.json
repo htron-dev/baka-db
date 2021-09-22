@@ -1,5 +1,9 @@
 {
     "title": "Ojousama wa Oyome-sama.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187759.jpg",
+        "alt": "ojousama-wa-oyome-sama"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "122",

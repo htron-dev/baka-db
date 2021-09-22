@@ -1,5 +1,9 @@
 {
     "title": "Kibun wa Mou Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167570.jpg",
+        "alt": "kibun-wa-mou-sensou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

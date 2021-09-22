@@ -1,5 +1,9 @@
 {
     "title": "W x Y",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124723.jpg",
+        "alt": "w-x-y"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "73",

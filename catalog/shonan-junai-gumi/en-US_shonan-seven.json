@@ -1,5 +1,9 @@
 {
     "title": "Shonan Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130213.jpg",
+        "alt": "shonan-seven"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "67",

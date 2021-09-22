@@ -1,5 +1,9 @@
 {
     "title": "Heisei Tensai Bakabon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/60843.jpg",
+        "alt": "heisei-tensai-bakabon"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "平成天才バカボン",

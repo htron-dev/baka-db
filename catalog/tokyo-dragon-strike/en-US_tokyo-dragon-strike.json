@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Dragon Strike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161753.jpg",
+        "alt": "tokyo-dragon-strike"
+    },
     "type": "light-novel",
     "original_name": "東京ドラゴンストライク",
     "start_date": "2015-08-08",

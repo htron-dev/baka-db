@@ -1,5 +1,9 @@
 {
     "title": "Toumei Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22775.jpg",
+        "alt": "toumei-shounen"
+    },
     "type": "manga",
     "original_name": "透明少年",
     "tags": [

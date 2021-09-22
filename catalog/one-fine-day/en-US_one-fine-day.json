@@ -1,5 +1,9 @@
 {
     "title": "One Fine Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31137.jpg",
+        "alt": "one-fine-day"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "28",

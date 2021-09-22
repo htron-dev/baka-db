@@ -1,5 +1,9 @@
 {
     "title": "Ninja Shinobu-san no Junjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192532.jpg",
+        "alt": "ninja-shinobu-san-no-junjou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

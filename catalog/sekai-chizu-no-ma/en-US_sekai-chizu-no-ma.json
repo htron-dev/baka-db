@@ -1,5 +1,9 @@
 {
     "title": "Sekai Chizu no Ma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134769.jpg",
+        "alt": "sekai-chizu-no-ma"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "世界地図の間",

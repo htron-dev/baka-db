@@ -1,5 +1,9 @@
 {
     "title": "Motto! Hinekure Chaser",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208628.jpg",
+        "alt": "motto-hinekure-chaser"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

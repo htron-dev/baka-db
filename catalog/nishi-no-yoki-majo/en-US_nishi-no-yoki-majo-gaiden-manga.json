@@ -1,5 +1,9 @@
 {
     "title": "Nishi no Yoki Majo Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140477.jpg",
+        "alt": "nishi-no-yoki-majo-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

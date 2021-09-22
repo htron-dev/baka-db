@@ -1,5 +1,9 @@
 {
     "title": "Kara no Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238897.jpg",
+        "alt": "kara-no-kioku"
+    },
     "type": "manga",
     "original_name": "虚の記憶",
     "start_date": "2020-04-15",

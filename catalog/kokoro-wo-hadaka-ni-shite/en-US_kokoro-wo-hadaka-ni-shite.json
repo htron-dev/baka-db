@@ -1,5 +1,9 @@
 {
     "title": "Kokoro wo Hadaka ni Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/6681.jpg",
+        "alt": "kokoro-wo-hadaka-ni-shite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

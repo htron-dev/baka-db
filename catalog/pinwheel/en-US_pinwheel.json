@@ -1,5 +1,9 @@
 {
     "title": "Pinwheel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18222.jpg",
+        "alt": "pinwheel"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "바람개비",

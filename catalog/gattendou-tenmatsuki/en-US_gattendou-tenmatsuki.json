@@ -1,5 +1,9 @@
 {
     "title": "Gattendou Tenmatsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149089.jpg",
+        "alt": "gattendou-tenmatsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

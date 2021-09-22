@@ -1,5 +1,9 @@
 {
     "title": "Captain Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/175749.jpg",
+        "alt": "captain-ken"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "キャプテン Ken",

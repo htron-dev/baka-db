@@ -1,5 +1,9 @@
 {
     "title": "Gokudou Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45425.jpg",
+        "alt": "gokudou-meshi"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "極道めし",

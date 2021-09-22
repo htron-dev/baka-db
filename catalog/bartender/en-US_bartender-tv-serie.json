@@ -1,5 +1,9 @@
 {
     "title": "Bartender",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/67397.jpg",
+        "alt": "bartender"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "バーテンダー",

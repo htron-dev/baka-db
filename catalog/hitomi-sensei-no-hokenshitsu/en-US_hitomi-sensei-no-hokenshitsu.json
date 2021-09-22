@@ -1,5 +1,9 @@
 {
     "title": "Hitomi-sensei no Hokenshitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118953.jpg",
+        "alt": "hitomi-sensei-no-hokenshitsu"
+    },
     "type": "manga",
     "original_name": "ヒトミ先生の保健室",
     "start_date": "2013-09-19",

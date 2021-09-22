@@ -1,5 +1,9 @@
 {
     "title": "Megami-sama to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236611.jpg",
+        "alt": "megami-sama-to-watashi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Gegege no Kitarou: Chisougan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84231.jpg",
+        "alt": "gegege-no-kitarou-chisougan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゲゲゲの鬼太郎 地相眼",

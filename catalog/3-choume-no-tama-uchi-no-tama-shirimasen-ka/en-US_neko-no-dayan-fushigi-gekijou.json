@@ -1,5 +1,9 @@
 {
     "title": "Neko no Dayan: Fushigi Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/81109.jpg",
+        "alt": "neko-no-dayan-fushigi-gekijou"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "猫のダヤン ふしぎ劇場",

@@ -1,5 +1,9 @@
 {
     "title": "Hitsuji no Kawa wo Kita Kemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246668.jpg",
+        "alt": "hitsuji-no-kawa-wo-kita-kemono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

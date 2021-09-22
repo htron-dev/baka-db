@@ -1,5 +1,9 @@
 {
     "title": "Hametsu no Mars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/68855.jpg",
+        "alt": "hametsu-no-mars"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "破滅のマルス",

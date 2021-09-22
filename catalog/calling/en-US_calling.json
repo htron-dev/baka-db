@@ -1,5 +1,9 @@
 {
     "title": "Calling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21914.jpg",
+        "alt": "calling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

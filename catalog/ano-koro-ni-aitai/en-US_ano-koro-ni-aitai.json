@@ -1,5 +1,9 @@
 {
     "title": "Ano Koro ni Aitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43297.jpg",
+        "alt": "ano-koro-ni-aitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Mahou wo Shinjiru kai?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158668.jpg",
+        "alt": "mahou-wo-shinjiru-kai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

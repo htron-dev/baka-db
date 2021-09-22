@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi no Tsumeato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185848.jpg",
+        "alt": "hatsukoi-no-tsumeato"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Makoto-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1641/109775.jpg",
+        "alt": "makoto-chan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "まことちゃん",

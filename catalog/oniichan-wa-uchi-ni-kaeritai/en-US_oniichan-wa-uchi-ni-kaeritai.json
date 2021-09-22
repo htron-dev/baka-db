@@ -1,5 +1,9 @@
 {
     "title": "Oniichan wa Uchi ni Kaeritai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169597.jpg",
+        "alt": "oniichan-wa-uchi-ni-kaeritai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

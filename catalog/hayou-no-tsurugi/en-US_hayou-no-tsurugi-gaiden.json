@@ -1,5 +1,9 @@
 {
     "title": "Hayou no Tsurugi Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128413.jpg",
+        "alt": "hayou-no-tsurugi-gaiden"
+    },
     "type": "light-novel",
     "original_name": "破妖の剣 外伝",
     "start_date": "1990-11-02",

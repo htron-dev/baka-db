@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama no Omezamegakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189749.jpg",
+        "alt": "goshujinsama-no-omezamegakari"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

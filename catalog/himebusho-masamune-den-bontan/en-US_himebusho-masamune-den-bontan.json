@@ -1,5 +1,9 @@
 {
     "title": "Himebusho Masamune Den Bontan!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155106.jpg",
+        "alt": "himebusho-masamune-den-bontan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "46",

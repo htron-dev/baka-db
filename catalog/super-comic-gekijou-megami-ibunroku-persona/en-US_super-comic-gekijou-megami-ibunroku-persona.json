@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: Megami Ibunroku Persona",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151604.jpg",
+        "alt": "super-comic-gekijou-megami-ibunroku-persona"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "スーパーコミック劇場 女神異聞録ペルソナ",

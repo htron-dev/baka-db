@@ -1,5 +1,9 @@
 {
     "title": "Sangatsu Boujitsu, Kuma wo Hirotta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42570.jpg",
+        "alt": "sangatsu-boujitsu-kuma-wo-hirotta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

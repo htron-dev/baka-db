@@ -1,5 +1,9 @@
 {
     "title": "Gekka no Hazure Gedou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196957.jpg",
+        "alt": "gekka-no-hazure-gedou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

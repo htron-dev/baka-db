@@ -1,5 +1,9 @@
 {
     "title": "Marin to Yuurei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164288.jpg",
+        "alt": "marin-to-yuurei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

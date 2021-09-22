@@ -1,11 +1,15 @@
 {
     "title": "Beast Wars Second Chou Seimeitai Transformers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1285/94077.jpg",
+        "alt": "beast-wars-second-chou-seimeitai-transformers"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "ビーストウォーズ Ⅱ（セカンド） 超生命体トランスフォーマー",
     "start_date": "1998-04-01",
     "end_date": "1998-04-01",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Get my future\" by Cyber Nation Network (eps 1-27)",
     "ending_song": "\"Places Where Dreams Go (夢のいる場所)\" by Jun Yoneya",
     "rating": "PG - Children",
     "tags": [

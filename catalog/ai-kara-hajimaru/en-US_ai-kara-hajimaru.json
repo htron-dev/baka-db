@@ -1,5 +1,9 @@
 {
     "title": "Ai kara Hajimaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125511.jpg",
+        "alt": "ai-kara-hajimaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

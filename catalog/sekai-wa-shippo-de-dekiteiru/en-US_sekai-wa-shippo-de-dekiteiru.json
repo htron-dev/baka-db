@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Shippo de Dekiteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224279.jpg",
+        "alt": "sekai-wa-shippo-de-dekiteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

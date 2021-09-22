@@ -1,5 +1,9 @@
 {
     "title": "Sasurai no Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235206.jpg",
+        "alt": "sasurai-no-taiyou"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "さすらいの太陽",

@@ -1,5 +1,9 @@
 {
     "title": "Buchou ni Igen wa Arimasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132963.jpg",
+        "alt": "buchou-ni-igen-wa-arimasen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

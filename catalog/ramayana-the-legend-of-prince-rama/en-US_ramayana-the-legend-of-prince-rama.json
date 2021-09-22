@@ -1,5 +1,9 @@
 {
     "title": "Ramayana: The Legend of Prince Rama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1070/104671.jpg",
+        "alt": "ramayana-the-legend-of-prince-rama"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ラーマヤーナ ラーマ王子伝説",

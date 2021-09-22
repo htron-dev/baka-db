@@ -1,5 +1,9 @@
 {
     "title": "Sora no Kiseki Gaiden: Löwe Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170740.jpg",
+        "alt": "sora-no-kiseki-gaiden-lowe-monogatari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

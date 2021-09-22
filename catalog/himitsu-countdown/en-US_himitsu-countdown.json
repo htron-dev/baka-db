@@ -1,5 +1,9 @@
 {
     "title": "Himitsu Countdown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/101583.jpg",
+        "alt": "himitsu-countdown"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Sono Futari, Enjouchuu ni Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224348.jpg",
+        "alt": "sono-futari-enjouchuu-ni-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

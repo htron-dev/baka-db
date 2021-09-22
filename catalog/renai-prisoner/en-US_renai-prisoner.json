@@ -1,5 +1,9 @@
 {
     "title": "Renai Prisoner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23293.jpg",
+        "alt": "renai-prisoner"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋愛プリズナー",

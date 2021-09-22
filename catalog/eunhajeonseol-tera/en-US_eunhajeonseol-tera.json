@@ -1,5 +1,9 @@
 {
     "title": "Eunhajeonseol Tera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/49073.jpg",
+        "alt": "eunhajeonseol-tera"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "은하전설 테라",

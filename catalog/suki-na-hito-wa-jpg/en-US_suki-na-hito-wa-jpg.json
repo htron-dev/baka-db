@@ -1,5 +1,9 @@
 {
     "title": "Suki na Hito wa.jpg",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226046.jpg",
+        "alt": "suki-na-hito-wa-jpg"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

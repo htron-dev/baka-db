@@ -1,5 +1,9 @@
 {
     "title": "Mitsukuniden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/148485.jpg",
+        "alt": "mitsukuniden"
+    },
     "type": "manga",
     "original_name": "光圀伝",
     "start_date": "2012-06-26",

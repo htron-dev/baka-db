@@ -1,5 +1,9 @@
 {
     "title": "Ani Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118903.jpg",
+        "alt": "ani-koi"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "アニコイ",

@@ -1,5 +1,9 @@
 {
     "title": "Koro-sensei Q!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/80626.jpg",
+        "alt": "koro-sensei-q"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "殺せんせー Q!",

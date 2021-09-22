@@ -1,5 +1,9 @@
 {
     "title": "School Days ONA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/23042.jpg",
+        "alt": "school-days-ona"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "スクールデイズ",

@@ -1,12 +1,16 @@
 {
     "title": "Full Moon wo Sagashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/6265.jpg",
+        "alt": "full-moon-wo-sagashite"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "満月をさがして",
     "start_date": "2002-04-06",
     "end_date": "2002-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"I ♥ U\" by THE\\*SCANTY (eps 1-26)",
+    "ending_song": "#1: \"New Future\" by Changin' My Life (eps 01-06,52)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

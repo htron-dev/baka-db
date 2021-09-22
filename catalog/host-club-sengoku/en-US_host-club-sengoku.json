@@ -1,5 +1,9 @@
 {
     "title": "Host Club Sengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164101.jpg",
+        "alt": "host-club-sengoku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ホストクラブ SENGOKU",

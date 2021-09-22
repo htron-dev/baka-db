@@ -1,5 +1,9 @@
 {
     "title": "Itazura Neko ni Goyoujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/14155.jpg",
+        "alt": "itazura-neko-ni-goyoujin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

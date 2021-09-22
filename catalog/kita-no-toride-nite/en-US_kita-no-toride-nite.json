@@ -1,5 +1,9 @@
 {
     "title": "Kita no Toride nite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152165.jpg",
+        "alt": "kita-no-toride-nite"
+    },
     "type": "light-novel",
     "original_name": "北の砦にて",
     "start_date": "2015-03-09",

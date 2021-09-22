@@ -1,5 +1,9 @@
 {
     "title": "Physical Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10869.jpg",
+        "alt": "physical-age"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "フィジカルエイジ",

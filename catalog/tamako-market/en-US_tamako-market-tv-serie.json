@@ -1,12 +1,16 @@
 {
     "title": "Tamako Market",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/79594.jpg",
+        "alt": "tamako-market"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "たまこまーけっと",
     "start_date": "2013-01-10",
     "end_date": "2013-01-10",
     "opening_song": "\"Dramatic Market Ride (ドラマチックマーケットライド)\" by Tamako Kitashirakawa (Aya Suzaki)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Neguse (ねぐせ)\" by Tamako Kitashirakawa (Aya Suzaki) (eps 1-8, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

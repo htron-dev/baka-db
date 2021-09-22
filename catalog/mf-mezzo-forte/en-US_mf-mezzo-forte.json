@@ -1,5 +1,9 @@
 {
     "title": "mf: Mezzo Forte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130277.jpg",
+        "alt": "mf-mezzo-forte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

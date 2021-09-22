@@ -1,5 +1,9 @@
 {
     "title": "Medusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232026.jpg",
+        "alt": "medusa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

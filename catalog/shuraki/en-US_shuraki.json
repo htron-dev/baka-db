@@ -1,5 +1,9 @@
 {
     "title": "Shuraki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37836.jpg",
+        "alt": "shuraki"
+    },
     "type": "manga",
     "original_name": "シュラキ",
     "start_date": "2008-08-09",

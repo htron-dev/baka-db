@@ -1,5 +1,9 @@
 {
     "title": "Idol no Oheya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125917.jpg",
+        "alt": "idol-no-oheya"
+    },
     "type": "manga",
     "original_name": "アイドルのお部屋",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Tadashii Hentai Seiyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62301.jpg",
+        "alt": "tadashii-hentai-seiyoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

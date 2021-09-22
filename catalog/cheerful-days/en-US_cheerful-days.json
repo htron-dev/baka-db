@@ -1,5 +1,9 @@
 {
     "title": "Cheerful Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113435.jpg",
+        "alt": "cheerful-days"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

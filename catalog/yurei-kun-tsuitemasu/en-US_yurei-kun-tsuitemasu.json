@@ -1,5 +1,9 @@
 {
     "title": "Yurei-kun Tsuitemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243301.jpg",
+        "alt": "yurei-kun-tsuitemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

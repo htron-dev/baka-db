@@ -1,5 +1,9 @@
 {
     "title": "Makai Senki Disgaea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/20439.jpg",
+        "alt": "makai-senki-disgaea"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔界戦記ディスガイア",

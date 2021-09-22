@@ -1,5 +1,9 @@
 {
     "title": "Kyouryuu no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246388.jpg",
+        "alt": "kyouryuu-no-jikan"
+    },
     "type": "manga",
     "original_name": "恐竜の時間",
     "start_date": "2006-05-10",

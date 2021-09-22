@@ -1,5 +1,9 @@
 {
     "title": "Mazinger Z tai Ankoku Daishougun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1653/99762.jpg",
+        "alt": "mazinger-z-tai-ankoku-daishougun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マジンガーＺ対暗黒大将軍",

@@ -1,5 +1,9 @@
 {
     "title": "Shichi Oukoku no Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226862.jpg",
+        "alt": "shichi-oukoku-no-bara"
+    },
     "type": "manga",
     "original_name": "七王国のバラ",
     "start_date": "2019-01-25",

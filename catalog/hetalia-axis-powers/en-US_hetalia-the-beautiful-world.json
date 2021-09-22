@@ -1,5 +1,9 @@
 {
     "title": "Hetalia: The Beautiful World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/46073.jpg",
+        "alt": "hetalia-the-beautiful-world"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "ヘタリア The Beautiful World",

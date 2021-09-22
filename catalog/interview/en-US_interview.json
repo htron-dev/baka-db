@@ -1,5 +1,9 @@
 {
     "title": "Interview",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204889.jpg",
+        "alt": "interview"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "8",

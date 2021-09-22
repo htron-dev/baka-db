@@ -1,5 +1,9 @@
 {
     "title": "Shingeki! Kyojin Chuugakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75467.jpg",
+        "alt": "shingeki-kyojin-chuugakkou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "進撃！巨人中学校",

@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Kakemochi Shitennou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160754.jpg",
+        "alt": "kyou-kara-kakemochi-shitennou"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "今日からかけもち四天王!",

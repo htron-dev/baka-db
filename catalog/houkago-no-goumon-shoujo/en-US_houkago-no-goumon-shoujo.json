@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Goumon Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220991.jpg",
+        "alt": "houkago-no-goumon-shoujo"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "176",

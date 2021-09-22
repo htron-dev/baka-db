@@ -1,5 +1,9 @@
 {
     "title": "Game Yaru kara 100-en Kashite!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197340.jpg",
+        "alt": "game-yaru-kara-100-en-kashite"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

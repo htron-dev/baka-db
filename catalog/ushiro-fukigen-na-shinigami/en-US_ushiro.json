@@ -1,5 +1,9 @@
 {
     "title": "Ushiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169928.jpg",
+        "alt": "ushiro"
+    },
     "type": "manga",
     "original_name": "うしろ",
     "start_date": "2015-12-01",

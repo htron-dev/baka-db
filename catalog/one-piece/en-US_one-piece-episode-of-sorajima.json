@@ -1,5 +1,9 @@
 {
     "title": "One Piece: Episode of Sorajima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1533/92968.jpg",
+        "alt": "one-piece-episode-of-sorajima"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ONE PIECE エピソードオブ空島",

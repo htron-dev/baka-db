@@ -1,5 +1,9 @@
 {
     "title": "Niji ni Mukatte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/18572.jpg",
+        "alt": "niji-ni-mukatte"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "虹に向って",

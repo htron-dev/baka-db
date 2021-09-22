@@ -1,5 +1,9 @@
 {
     "title": "Ai ja Tarinai?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18186.jpg",
+        "alt": "ai-ja-tarinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

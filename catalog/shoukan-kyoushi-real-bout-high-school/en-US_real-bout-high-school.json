@@ -1,5 +1,9 @@
 {
     "title": "Real Bout High School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166934.jpg",
+        "alt": "real-bout-high-school"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "46",

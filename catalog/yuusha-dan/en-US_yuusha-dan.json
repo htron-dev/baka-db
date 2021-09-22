@@ -1,5 +1,9 @@
 {
     "title": "Yuusha Dan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36118.jpg",
+        "alt": "yuusha-dan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Aishiteru nante Iwanaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247310.jpg",
+        "alt": "aishiteru-nante-iwanaide"
+    },
     "type": "manga",
     "original_name": "愛してるなんて言わないで",
     "start_date": "2021-06-25",

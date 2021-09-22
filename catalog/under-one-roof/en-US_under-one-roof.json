@@ -1,5 +1,9 @@
 {
     "title": "Under One Roof",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132767.jpg",
+        "alt": "under-one-roof"
+    },
     "type": "manga",
     "chapters": "11",
     "original_name": "under one roof",

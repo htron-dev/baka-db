@@ -1,5 +1,9 @@
 {
     "title": "Sugar Addiction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30272.jpg",
+        "alt": "sugar-addiction"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "38",

@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Armageddon☆",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164083.jpg",
+        "alt": "hajimete-no-armageddon☆"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

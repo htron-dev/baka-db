@@ -1,5 +1,9 @@
 {
     "title": "7-jikanme no Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188842.jpg",
+        "alt": "7-jikanme-no-note"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

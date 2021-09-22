@@ -1,12 +1,16 @@
 {
     "title": "Kikou Senki Dragonar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/11236.jpg",
+        "alt": "kikou-senki-dragonar"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "機甲戦記ドラグナー",
     "start_date": "1987-02-07",
     "end_date": "1987-02-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yume-iro Chaser\" by Mami Ayukawa (eps 1-26)",
+    "ending_song": "#1: \"Illusion wo Sagashite\" by Mami Ayukawa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

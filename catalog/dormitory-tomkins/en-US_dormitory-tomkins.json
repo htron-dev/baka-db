@@ -1,5 +1,9 @@
 {
     "title": "Dormitory Tomkins",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148819.jpg",
+        "alt": "dormitory-tomkins"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

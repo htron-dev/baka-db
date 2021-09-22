@@ -1,5 +1,9 @@
 {
     "title": "No Game No Life: Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1085/90759.jpg",
+        "alt": "no-game-no-life-zero"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ノーゲーム・ノーライフ ゼロ",

@@ -1,5 +1,9 @@
 {
     "title": "Hana yori Joshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174461.jpg",
+        "alt": "hana-yori-joshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

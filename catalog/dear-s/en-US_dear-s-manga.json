@@ -1,5 +1,9 @@
 {
     "title": "DearS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173815.jpg",
+        "alt": "dear-s"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "47",

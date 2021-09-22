@@ -1,5 +1,9 @@
 {
     "title": "Nekoe Juubee Otogisoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175459.jpg",
+        "alt": "nekoe-juubee-otogisoushi"
+    },
     "type": "manga",
     "original_name": "猫絵十兵衛 御伽草紙",
     "start_date": "2007-04-20",

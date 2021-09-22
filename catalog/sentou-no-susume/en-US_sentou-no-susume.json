@@ -1,5 +1,9 @@
 {
     "title": "Sentou no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215126.jpg",
+        "alt": "sentou-no-susume"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "セントウのススメ",

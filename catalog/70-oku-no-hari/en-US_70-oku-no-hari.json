@@ -1,5 +1,9 @@
 {
     "title": "70-oku no Hari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177559.jpg",
+        "alt": "70-oku-no-hari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

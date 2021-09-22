@@ -1,5 +1,9 @@
 {
     "title": "Koibitogokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184259.jpg",
+        "alt": "koibitogokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Dame na Yatsu Hodo Kawaii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192034.jpg",
+        "alt": "dame-na-yatsu-hodo-kawaii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

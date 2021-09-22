@@ -1,5 +1,9 @@
 {
     "title": "Koharubiyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191447.jpg",
+        "alt": "koharubiyori"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "71",

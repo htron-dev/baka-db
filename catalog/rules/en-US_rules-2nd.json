@@ -1,5 +1,9 @@
 {
     "title": "Rules 2nd",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178607.jpg",
+        "alt": "rules-2nd"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

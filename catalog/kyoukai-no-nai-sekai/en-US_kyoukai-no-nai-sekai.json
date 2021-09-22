@@ -1,5 +1,9 @@
 {
     "title": "Kyoukai no Nai Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155672.jpg",
+        "alt": "kyoukai-no-nai-sekai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Mada Yakyuu wo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200268.jpg",
+        "alt": "boku-wa-mada-yakyuu-wo-shiranai"
+    },
     "type": "manga",
     "original_name": "僕はまだ野球を知らない",
     "start_date": "2017-01-21",

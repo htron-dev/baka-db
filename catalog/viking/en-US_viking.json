@@ -1,5 +1,9 @@
 {
     "title": "Viking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62927.jpg",
+        "alt": "viking"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

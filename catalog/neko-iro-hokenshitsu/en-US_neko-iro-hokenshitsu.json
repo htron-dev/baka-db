@@ -1,5 +1,9 @@
 {
     "title": "Neko-iro Hokenshitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200715.jpg",
+        "alt": "neko-iro-hokenshitsu"
+    },
     "type": "manga",
     "original_name": "ねこ色保健室",
     "start_date": "2017-03-03",

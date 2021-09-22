@@ -1,5 +1,9 @@
 {
     "title": "Kizutsuite Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175422.jpg",
+        "alt": "kizutsuite-romance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

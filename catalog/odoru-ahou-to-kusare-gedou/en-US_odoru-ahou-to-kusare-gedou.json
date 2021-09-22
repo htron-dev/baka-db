@@ -1,5 +1,9 @@
 {
     "title": "Odoru Ahou to Kusare Gedou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246470.jpg",
+        "alt": "odoru-ahou-to-kusare-gedou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

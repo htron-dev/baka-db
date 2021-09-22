@@ -1,5 +1,9 @@
 {
     "title": "Baron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205546.jpg",
+        "alt": "baron"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "107",

@@ -1,5 +1,9 @@
 {
     "title": "Warui Onnanoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226793.jpg",
+        "alt": "warui-onnanoko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

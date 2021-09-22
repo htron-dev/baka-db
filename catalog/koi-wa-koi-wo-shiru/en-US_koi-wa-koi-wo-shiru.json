@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Koi wo Shiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31052.jpg",
+        "alt": "koi-wa-koi-wo-shiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

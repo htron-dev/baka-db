@@ -1,5 +1,9 @@
 {
     "title": "Crystal Harem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23875.jpg",
+        "alt": "crystal-harem"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

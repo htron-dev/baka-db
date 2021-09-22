@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Koisuru Meitantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229015.jpg",
+        "alt": "soredemo-koisuru-meitantei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

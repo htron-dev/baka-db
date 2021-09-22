@@ -1,5 +1,9 @@
 {
     "title": "Eien no Ai wo, Waga Hanayome ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7690.jpg",
+        "alt": "eien-no-ai-wo-waga-hanayome-ni"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

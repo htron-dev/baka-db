@@ -1,5 +1,9 @@
 {
     "title": "Dansai Bunri no Crime Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161317.jpg",
+        "alt": "dansai-bunri-no-crime-edge"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "67",

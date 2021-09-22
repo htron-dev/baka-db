@@ -1,5 +1,9 @@
 {
     "title": "Boku to Miraiya no Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85247.jpg",
+        "alt": "boku-to-miraiya-no-natsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

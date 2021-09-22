@@ -1,5 +1,9 @@
 {
     "title": "Kirisaki Kiseki no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123749.jpg",
+        "alt": "kirisaki-kiseki-no-kiseki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "桐咲キセキのキセキ",

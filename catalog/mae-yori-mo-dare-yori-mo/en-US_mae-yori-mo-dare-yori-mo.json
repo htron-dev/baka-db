@@ -1,5 +1,9 @@
 {
     "title": "Mae yori mo Dare yori mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185970.jpg",
+        "alt": "mae-yori-mo-dare-yori-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

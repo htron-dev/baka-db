@@ -1,11 +1,15 @@
 {
     "title": "Tamako Love Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1417/91333.jpg",
+        "alt": "tamako-love-story"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "たまこラブストーリー",
     "start_date": "2014-04-26",
     "opening_song": "\"Koi no Uta (恋の歌)\" by Mamedai Kitashirakawa (Keiji Fujiwara)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Principle (プリンシプル)\" by Aya Suzaki",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

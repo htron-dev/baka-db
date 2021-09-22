@@ -1,5 +1,9 @@
 {
     "title": "Beppu x Peeping Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71491.jpg",
+        "alt": "beppu-x-peeping-life"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "別府市 × Peeping Life",

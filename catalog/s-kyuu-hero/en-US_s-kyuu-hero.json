@@ -1,5 +1,9 @@
 {
     "title": "S Kyuu Hero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17623.jpg",
+        "alt": "s-kyuu-hero"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "28",

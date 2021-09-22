@@ -1,5 +1,9 @@
 {
     "title": "RD Sennou Chousashitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40351.jpg",
+        "alt": "rd-sennou-chousashitsu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "RD 潜脳調査室",

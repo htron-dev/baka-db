@@ -1,5 +1,9 @@
 {
     "title": "Joushi no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59459.jpg",
+        "alt": "joushi-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

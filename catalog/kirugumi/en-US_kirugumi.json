@@ -1,5 +1,9 @@
 {
     "title": "Kirugumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160739.jpg",
+        "alt": "kirugumi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "13",

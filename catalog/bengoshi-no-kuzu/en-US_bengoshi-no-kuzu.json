@@ -1,5 +1,9 @@
 {
     "title": "Bengoshi no Kuzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199494.jpg",
+        "alt": "bengoshi-no-kuzu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "88",

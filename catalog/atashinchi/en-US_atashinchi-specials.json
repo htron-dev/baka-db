@@ -1,5 +1,9 @@
 {
     "title": "Atashin'chi Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1666/115433.jpg",
+        "alt": "atashinchi-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "あたしンち SP",

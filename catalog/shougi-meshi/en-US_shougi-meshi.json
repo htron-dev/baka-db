@@ -1,5 +1,9 @@
 {
     "title": "Shougi Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198543.jpg",
+        "alt": "shougi-meshi"
+    },
     "type": "manga",
     "original_name": "将棋めし",
     "start_date": "2016-07-05",

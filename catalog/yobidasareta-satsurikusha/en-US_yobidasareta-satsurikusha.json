@@ -1,5 +1,9 @@
 {
     "title": "Yobidasareta Satsurikusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179868.jpg",
+        "alt": "yobidasareta-satsurikusha"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "69",

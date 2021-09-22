@@ -1,5 +1,9 @@
 {
     "title": "Saikou no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152829.jpg",
+        "alt": "saikou-no-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

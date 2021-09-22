@@ -1,5 +1,9 @@
 {
     "title": "Shin Onimusha: Night of Genesis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196862.jpg",
+        "alt": "shin-onimusha-night-of-genesis"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

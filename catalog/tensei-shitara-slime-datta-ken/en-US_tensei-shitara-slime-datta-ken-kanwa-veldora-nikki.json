@@ -1,8 +1,12 @@
 {
     "title": "Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1672/100144.jpg",
+        "alt": "tensei-shitara-slime-datta-ken-kanwa-veldora-nikki"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "転生したらスライムだった件 閑話",
+    "original_name": "転生したらスライムだった件 閑話: ヴェルドラ日記",
     "start_date": "2019-03-26",
     "opening_song": "\"Meguru Mono (メグルモノ)\" by Takuma Terashima",
     "ending_song": "\"Little Soldier (リトルソルジャー)\" by Azusa Tadokoro",

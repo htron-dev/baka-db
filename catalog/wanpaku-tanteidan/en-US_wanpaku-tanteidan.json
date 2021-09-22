@@ -1,5 +1,9 @@
 {
     "title": "Wanpaku Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/59651.jpg",
+        "alt": "wanpaku-tanteidan"
+    },
     "type": "tv-serie",
     "episodes": "35",
     "original_name": "わんぱく探偵団",

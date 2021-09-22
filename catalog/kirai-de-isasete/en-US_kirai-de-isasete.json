@@ -1,5 +1,9 @@
 {
     "title": "Kirai de Isasete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223115.jpg",
+        "alt": "kirai-de-isasete"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

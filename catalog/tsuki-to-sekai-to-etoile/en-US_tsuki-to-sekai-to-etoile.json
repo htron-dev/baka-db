@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Sekai to Étoile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125229.jpg",
+        "alt": "tsuki-to-sekai-to-etoile"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

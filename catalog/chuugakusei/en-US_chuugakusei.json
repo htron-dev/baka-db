@@ -1,5 +1,9 @@
 {
     "title": "√Chuugakusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147853.jpg",
+        "alt": "√-chuugakusei"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "√ 中学生",

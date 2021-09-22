@@ -1,5 +1,9 @@
 {
     "title": "Kimitachi wa Dou Ikiru ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224004.jpg",
+        "alt": "kimitachi-wa-dou-ikiru-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

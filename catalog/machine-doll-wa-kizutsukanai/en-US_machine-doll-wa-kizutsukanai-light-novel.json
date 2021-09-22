@@ -1,5 +1,9 @@
 {
     "title": "Machine-Doll wa Kizutsukanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120687.jpg",
+        "alt": "machine-doll-wa-kizutsukanai"
+    },
     "type": "light-novel",
     "volumes": "17",
     "chapters": "141",

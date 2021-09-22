@@ -1,5 +1,9 @@
 {
     "title": "Koi Shika Dekinai yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22040.jpg",
+        "alt": "koi-shika-dekinai-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

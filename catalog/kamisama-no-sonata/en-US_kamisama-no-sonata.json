@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Sonata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184461.jpg",
+        "alt": "kamisama-no-sonata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Love Plus: Kanojo no Kako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176823.jpg",
+        "alt": "love-plus-kanojo-no-kako"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

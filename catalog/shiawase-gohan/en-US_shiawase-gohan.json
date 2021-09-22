@@ -1,5 +1,9 @@
 {
     "title": "Shiawase Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158980.jpg",
+        "alt": "shiawase-gohan"
+    },
     "type": "manga",
     "original_name": "しあわせゴハン",
     "start_date": "2014-04-23",

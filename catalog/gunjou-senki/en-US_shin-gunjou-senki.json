@@ -1,5 +1,9 @@
 {
     "title": "Shin Gunjou Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241857.jpg",
+        "alt": "shin-gunjou-senki"
+    },
     "type": "manga",
     "original_name": "真・群青戦記",
     "start_date": "2021-01-07",

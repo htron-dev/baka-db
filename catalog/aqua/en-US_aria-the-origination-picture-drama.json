@@ -1,5 +1,9 @@
 {
     "title": "Aria the Origination Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/36237.jpg",
+        "alt": "aria-the-origination-picture-drama"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "ARIA The ORIGINATION (アリア ジ・オリジネーション ピクチャードラマ)",

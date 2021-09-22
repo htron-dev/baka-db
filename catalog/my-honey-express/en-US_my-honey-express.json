@@ -1,5 +1,9 @@
 {
     "title": "My Honey Express",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134821.jpg",
+        "alt": "my-honey-express"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

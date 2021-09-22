@@ -1,5 +1,9 @@
 {
     "title": "Priest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/558.jpg",
+        "alt": "priest"
+    },
     "type": "manhwa",
     "volumes": "16",
     "chapters": "160",

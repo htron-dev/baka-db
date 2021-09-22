@@ -1,5 +1,9 @@
 {
     "title": "Saotome Senshu, Hitakakusu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189746.jpg",
+        "alt": "saotome-senshu-hitakakusu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "124",

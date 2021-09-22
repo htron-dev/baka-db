@@ -1,5 +1,9 @@
 {
     "title": "Kori Senman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229269.jpg",
+        "alt": "kori-senman"
+    },
     "type": "manga",
     "original_name": "こりせんまん",
     "start_date": "2018-07-15",

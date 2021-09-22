@@ -1,5 +1,9 @@
 {
     "title": "Love Ring",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3068.jpg",
+        "alt": "love-ring"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

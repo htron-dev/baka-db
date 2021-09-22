@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Touge, Tsurugi no Mai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32634.jpg",
+        "alt": "yuki-no-touge-tsurugi-no-mai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

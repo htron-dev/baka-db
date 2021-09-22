@@ -1,5 +1,9 @@
 {
     "title": "Fuck S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11219.jpg",
+        "alt": "fuck-s"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

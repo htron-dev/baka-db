@@ -1,12 +1,16 @@
 {
     "title": "Monster Farm: Enbanseki no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1044/113641.jpg",
+        "alt": "monster-farm-enbanseki-no-himitsu"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "モンスターファーム",
     "start_date": "1999-04-17",
     "end_date": "1999-04-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kaze ga Soyogu Basho\" by Miho Komatsu (eps 1-28)",
+    "ending_song": "#1: \"Flame of Love\" by Sweet Velvet",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

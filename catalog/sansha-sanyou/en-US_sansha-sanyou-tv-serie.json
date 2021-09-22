@@ -1,5 +1,9 @@
 {
     "title": "Sansha Sanyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79415.jpg",
+        "alt": "sansha-sanyou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "三者三葉",

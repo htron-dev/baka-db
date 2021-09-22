@@ -1,5 +1,9 @@
 {
     "title": "20 Seiki Shounen Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159298.jpg",
+        "alt": "20-seiki-shounen-tanteidan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

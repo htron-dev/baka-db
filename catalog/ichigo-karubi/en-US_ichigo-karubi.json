@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Karubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144317.jpg",
+        "alt": "ichigo-karubi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

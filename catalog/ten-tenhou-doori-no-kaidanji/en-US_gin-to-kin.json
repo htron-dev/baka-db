@@ -1,5 +1,9 @@
 {
     "title": "Gin to Kin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229454.jpg",
+        "alt": "gin-to-kin"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "108",

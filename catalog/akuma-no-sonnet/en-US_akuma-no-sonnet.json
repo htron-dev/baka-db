@@ -1,5 +1,9 @@
 {
     "title": "Akuma no Sonnet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33030.jpg",
+        "alt": "akuma-no-sonnet"
+    },
     "type": "light-novel",
     "original_name": "悪魔のソネット",
     "start_date": "2008-10-01",

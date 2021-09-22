@@ -1,5 +1,9 @@
 {
     "title": "Karasu ni Diamond",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84791.jpg",
+        "alt": "karasu-ni-diamond"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

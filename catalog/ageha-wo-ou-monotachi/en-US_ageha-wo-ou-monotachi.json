@@ -1,5 +1,9 @@
 {
     "title": "Ageha wo Ou Monotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118833.jpg",
+        "alt": "ageha-wo-ou-monotachi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

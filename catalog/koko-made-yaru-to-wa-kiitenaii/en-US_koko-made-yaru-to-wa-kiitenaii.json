@@ -1,5 +1,9 @@
 {
     "title": "Koko made Yaru to wa Kiitenaii!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247308.jpg",
+        "alt": "koko-made-yaru-to-wa-kiitenaii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Idea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226052.jpg",
+        "alt": "kanojo-no-idea"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Kindaichi Shounen no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210559.jpg",
+        "alt": "kindaichi-shounen-no-jikenbo"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "62",

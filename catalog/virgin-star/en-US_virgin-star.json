@@ -1,5 +1,9 @@
 {
     "title": "Virgin Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26348.jpg",
+        "alt": "virgin-star"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

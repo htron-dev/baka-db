@@ -1,5 +1,9 @@
 {
     "title": "Pia♥kyarotto e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28000.jpg",
+        "alt": "pia♥kyarotto-e-youkoso"
+    },
     "type": "manga",
     "tags": [
         "shounen"

@@ -1,5 +1,9 @@
 {
     "title": "Mori no Yonkenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179577.jpg",
+        "alt": "mori-no-yonkenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "森の四剣士",

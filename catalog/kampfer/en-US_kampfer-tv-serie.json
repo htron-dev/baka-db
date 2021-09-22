@@ -1,5 +1,9 @@
 {
     "title": "Kämpfer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/35423.jpg",
+        "alt": "kampfer"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "けんぷファー",

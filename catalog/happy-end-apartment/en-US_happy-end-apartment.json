@@ -1,5 +1,9 @@
 {
     "title": "Happy End Apartment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57417.jpg",
+        "alt": "happy-end-apartment"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

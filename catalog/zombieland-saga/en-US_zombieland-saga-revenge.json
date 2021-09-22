@@ -1,12 +1,16 @@
 {
     "title": "Zombieland Saga: Revenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1118/115156.jpg",
+        "alt": "zombieland-saga-revenge"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゾンビランドサガ リベンジ",
     "start_date": "2021-04-08",
     "end_date": "2021-04-08",
     "opening_song": "\"Taiga yo Tomo ni Naitekure (大河よ共に泣いてくれ) by Fran Chou Chou (フランシュシュ) [Sakura Minamoto (Kaede Hondo), Saki Nikaidou (Asami Tano), Ai Mizuno (Risa Taneda), Junko Konno (Maki Kawase), Yuugiri (Rika Kinugawa), Lily Hoshikawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Revenge\" by FranChouChou (フランシュシュ) [Sakura Minamoto (Kaede Hondo), Saki Nikaidou (Asami Tano), Ai Mizuno (Risa Taneda), Junko Konno (Maki Kawase), Yuugiri (Rika Kinugawa), Lily Hoshikawa (Minami Tanaka)] (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

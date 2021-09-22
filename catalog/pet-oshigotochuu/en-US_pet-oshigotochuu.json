@@ -1,5 +1,9 @@
 {
     "title": "Pet Oshigotochuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/84717.jpg",
+        "alt": "pet-oshigotochuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

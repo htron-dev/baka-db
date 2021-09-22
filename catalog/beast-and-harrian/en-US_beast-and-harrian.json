@@ -1,5 +1,9 @@
 {
     "title": "Beast and Harrian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28738.jpg",
+        "alt": "beast-and-harrian"
+    },
     "type": "manhwa",
     "volumes": "1",
     "original_name": "야수와 헤르헨",

@@ -1,5 +1,9 @@
 {
     "title": "Shaman King: Red Crimson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223675.jpg",
+        "alt": "shaman-king-red-crimson"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

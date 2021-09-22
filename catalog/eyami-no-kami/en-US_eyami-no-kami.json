@@ -1,5 +1,9 @@
 {
     "title": "Eyami-no-Kami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171395.jpg",
+        "alt": "eyami-no-kami"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

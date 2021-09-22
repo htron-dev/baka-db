@@ -1,5 +1,9 @@
 {
     "title": "Minna no Okayama-ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/83720.jpg",
+        "alt": "minna-no-okayama-ken"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "みんなのおかやま犬",

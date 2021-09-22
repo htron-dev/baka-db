@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190173.jpg",
+        "alt": "eiyuu-kyoushitsu"
+    },
     "type": "manga",
     "original_name": "英雄教室",
     "start_date": "2016-09-12",

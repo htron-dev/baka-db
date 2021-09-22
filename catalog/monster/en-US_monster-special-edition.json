@@ -1,5 +1,9 @@
 {
     "title": "Monster Special Edition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1226/99268.jpg",
+        "alt": "monster-special-edition"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "モンスター スペシャルバージョン",

@@ -1,5 +1,9 @@
 {
     "title": "Myu-con!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236021.jpg",
+        "alt": "myu-con"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Hachimitsu to Clover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184591.jpg",
+        "alt": "hachimitsu-to-clover"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "71",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kanojo-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234962.jpg",
+        "alt": "boku-no-kanojo-sensei"
+    },
     "type": "manga",
     "original_name": "僕のカノジョ先生",
     "start_date": "2019-04-05",

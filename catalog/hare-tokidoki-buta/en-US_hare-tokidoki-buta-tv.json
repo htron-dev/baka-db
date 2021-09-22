@@ -1,12 +1,16 @@
 {
     "title": "Hare Tokidoki Buta (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2515.jpg",
+        "alt": "hare-tokidoki-buta-tv"
+    },
     "type": "tv-serie",
     "episodes": "61",
     "original_name": "はれときどきぶた",
     "start_date": "1997-07-03",
     "end_date": "1997-07-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"強気なふたり (Tsuyoki na futari)\" by Yumi Yoshimura (eps 1-17)",
+    "ending_song": "#1: \"ただいま (Tadaima)\" by Ami Onuki (eps 1-17)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Old Fashion Love Song",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31024.jpg",
+        "alt": "old-fashion-love-song"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "OurTube",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151731.jpg",
+        "alt": "our-tube"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あわーちゅーぶ",

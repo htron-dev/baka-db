@@ -1,5 +1,9 @@
 {
     "title": "Karasu to Kuma, Soshite Sakana.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224813.jpg",
+        "alt": "karasu-to-kuma-soshite-sakana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

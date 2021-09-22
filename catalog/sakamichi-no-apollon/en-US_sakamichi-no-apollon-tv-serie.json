@@ -1,5 +1,9 @@
 {
     "title": "Sakamichi no Apollon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/79781.jpg",
+        "alt": "sakamichi-no-apollon"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "坂道のアポロン",

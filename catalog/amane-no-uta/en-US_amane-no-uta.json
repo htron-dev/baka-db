@@ -1,5 +1,9 @@
 {
     "title": "Amane no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33904.jpg",
+        "alt": "amane-no-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

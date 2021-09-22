@@ -1,5 +1,9 @@
 {
     "title": "Mahou to Yoru no Wanted!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204407.jpg",
+        "alt": "mahou-to-yoru-no-wanted"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "魔法と夜のウォンテッド！",

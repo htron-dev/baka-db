@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Super Sheikh-sama!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240846.jpg",
+        "alt": "tokyo-super-sheikh-sama"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "49",

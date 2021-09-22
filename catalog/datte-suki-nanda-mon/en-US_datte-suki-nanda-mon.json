@@ -1,5 +1,9 @@
 {
     "title": "Datte Suki Nanda mon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141223.jpg",
+        "alt": "datte-suki-nanda-mon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

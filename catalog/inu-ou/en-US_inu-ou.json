@@ -1,5 +1,9 @@
 {
     "title": "Inu-Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1200/108266.jpg",
+        "alt": "inu-ou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "犬王",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%8E%8B_(%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB"
+            "link": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%8E%8B_%28%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB%29"
         }
     ]
 }

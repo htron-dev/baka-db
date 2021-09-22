@@ -1,5 +1,9 @@
 {
     "title": "Choujikuu Robo Meguru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/68593.jpg",
+        "alt": "choujikuu-robo-meguru"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "超時空ロボ MEGURU",

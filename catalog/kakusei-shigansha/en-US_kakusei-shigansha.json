@@ -1,5 +1,9 @@
 {
     "title": "Kakusei Shigansha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79375.jpg",
+        "alt": "kakusei-shigansha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

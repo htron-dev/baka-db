@@ -1,5 +1,9 @@
 {
     "title": "Kyou mo Futari wa Nakayoshi desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152096.jpg",
+        "alt": "kyou-mo-futari-wa-nakayoshi-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

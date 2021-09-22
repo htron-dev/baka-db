@@ -1,5 +1,9 @@
 {
     "title": "Penguin Loves Mev in the UK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167686.jpg",
+        "alt": "penguin-loves-mev-in-the-uk"
+    },
     "type": "manhwa",
     "original_name": "펭귄 러브스 메브 in the UK",
     "start_date": "2013-12-20",

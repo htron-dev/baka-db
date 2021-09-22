@@ -1,5 +1,9 @@
 {
     "title": "Marine Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39671.jpg",
+        "alt": "marine-hunter"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

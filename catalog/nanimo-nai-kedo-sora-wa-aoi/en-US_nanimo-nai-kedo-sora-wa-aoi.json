@@ -1,5 +1,9 @@
 {
     "title": "Nanimo Nai kedo Sora wa Aoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162018.jpg",
+        "alt": "nanimo-nai-kedo-sora-wa-aoi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "69",

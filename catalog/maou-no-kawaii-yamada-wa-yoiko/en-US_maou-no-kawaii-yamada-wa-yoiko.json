@@ -1,5 +1,9 @@
 {
     "title": "Maou no Kawaii Yamada wa Yoiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232183.jpg",
+        "alt": "maou-no-kawaii-yamada-wa-yoiko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

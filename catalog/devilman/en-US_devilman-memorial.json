@@ -1,5 +1,9 @@
 {
     "title": "Devilman Memorial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1713/106970.jpg",
+        "alt": "devilman-memorial"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "デビルマン メモリアル",

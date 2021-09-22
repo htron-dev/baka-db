@@ -1,5 +1,9 @@
 {
     "title": "Manatsu Labyrinth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72117.jpg",
+        "alt": "manatsu-labyrinth"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "まなつラビリンス",

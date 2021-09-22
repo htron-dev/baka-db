@@ -1,5 +1,9 @@
 {
     "title": "Inui-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159706.jpg",
+        "alt": "inui-san"
+    },
     "type": "manga",
     "original_name": "イヌイさんッ!",
     "start_date": "2008-12-01",

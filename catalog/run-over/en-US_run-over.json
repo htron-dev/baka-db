@@ -1,5 +1,9 @@
 {
     "title": "Run Over",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201111.jpg",
+        "alt": "run-over"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

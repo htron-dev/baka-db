@@ -1,5 +1,9 @@
 {
     "title": "Cat and Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189407.jpg",
+        "alt": "cat-and-dog"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "81",

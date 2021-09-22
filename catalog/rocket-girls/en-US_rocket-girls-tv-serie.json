@@ -1,12 +1,16 @@
 {
     "title": "Rocket Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/79894.jpg",
+        "alt": "rocket-girls"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ロケットガール",
     "start_date": "2007-02-22",
     "end_date": "2007-02-22",
     "opening_song": "\"RISE\" by ICHIKO (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ashita Iki no Bus ni Notte (明日行きのバスに乗って)\" by misae (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

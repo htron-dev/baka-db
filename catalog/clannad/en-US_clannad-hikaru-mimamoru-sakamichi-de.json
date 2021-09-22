@@ -1,5 +1,9 @@
 {
     "title": "Clannad: Hikaru Mimamoru Sakamichi de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162583.jpg",
+        "alt": "clannad-hikaru-mimamoru-sakamichi-de"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

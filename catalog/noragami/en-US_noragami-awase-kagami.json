@@ -1,5 +1,9 @@
 {
     "title": "Noragami: Awase Kagami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123163.jpg",
+        "alt": "noragami-awase-kagami"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ノラガミ アワセ禍神",

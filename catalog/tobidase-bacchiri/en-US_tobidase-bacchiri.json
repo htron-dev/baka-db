@@ -1,5 +1,9 @@
 {
     "title": "Tobidase! Bacchiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/53341.jpg",
+        "alt": "tobidase-bacchiri"
+    },
     "type": "tv-serie",
     "episodes": "132",
     "original_name": "とびだせ! バッチリ",

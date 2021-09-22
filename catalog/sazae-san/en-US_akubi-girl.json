@@ -1,5 +1,9 @@
 {
     "title": "Akubi Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1921/100647.jpg",
+        "alt": "akubi-girl"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アクビガール",

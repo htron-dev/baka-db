@@ -1,5 +1,9 @@
 {
     "title": "Heian Zankoku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155591.jpg",
+        "alt": "heian-zankoku-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

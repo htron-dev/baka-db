@@ -1,5 +1,9 @@
 {
     "title": "Try Knights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228145.jpg",
+        "alt": "try-knights"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Venus Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1598/97574.jpg",
+        "alt": "venus-senki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ヴィナス戦記",

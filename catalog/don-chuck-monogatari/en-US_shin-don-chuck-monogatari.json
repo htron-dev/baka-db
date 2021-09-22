@@ -1,5 +1,9 @@
 {
     "title": "Shin Don Chuck Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/60419.jpg",
+        "alt": "shin-don-chuck-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "73",
     "original_name": "新ドン・チャック物語",

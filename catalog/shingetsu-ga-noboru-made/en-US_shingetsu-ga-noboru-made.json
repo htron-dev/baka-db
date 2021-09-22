@@ -1,5 +1,9 @@
 {
     "title": "Shingetsu ga Noboru made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241244.jpg",
+        "alt": "shingetsu-ga-noboru-made"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "16",

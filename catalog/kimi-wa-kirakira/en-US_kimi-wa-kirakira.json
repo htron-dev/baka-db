@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Kirakira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/178201.jpg",
+        "alt": "kimi-wa-kirakira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

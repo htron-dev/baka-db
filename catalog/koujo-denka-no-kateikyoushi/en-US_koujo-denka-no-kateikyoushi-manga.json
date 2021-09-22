@@ -1,5 +1,9 @@
 {
     "title": "Koujo Denka no Kateikyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234471.jpg",
+        "alt": "koujo-denka-no-kateikyoushi"
+    },
     "type": "manga",
     "original_name": "公女殿下の家庭教師",
     "start_date": "2019-09-13",

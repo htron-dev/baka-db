@@ -1,5 +1,9 @@
 {
     "title": "Kakafukaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178713.jpg",
+        "alt": "kakafukaka"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "60",

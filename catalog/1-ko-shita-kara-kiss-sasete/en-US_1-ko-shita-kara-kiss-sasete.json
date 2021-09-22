@@ -1,5 +1,9 @@
 {
     "title": "1-ko Shita kara, Kiss sasete.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225777.jpg",
+        "alt": "1-ko-shita-kara-kiss-sasete"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

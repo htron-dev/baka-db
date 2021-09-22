@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Ai wa Mienikui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5905.jpg",
+        "alt": "kimi-no-ai-wa-mienikui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

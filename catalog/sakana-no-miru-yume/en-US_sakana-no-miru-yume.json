@@ -1,5 +1,9 @@
 {
     "title": "Sakana no Miru Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122895.jpg",
+        "alt": "sakana-no-miru-yume"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

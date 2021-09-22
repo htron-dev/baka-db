@@ -1,5 +1,9 @@
 {
     "title": "Lovers Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6088.jpg",
+        "alt": "lovers-night"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ラヴァーズ・ナイト",

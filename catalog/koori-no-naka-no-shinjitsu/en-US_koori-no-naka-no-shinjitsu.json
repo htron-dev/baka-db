@@ -1,5 +1,9 @@
 {
     "title": "Koori no Naka no Shinjitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231861.jpg",
+        "alt": "koori-no-naka-no-shinjitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "氷の中の真実",

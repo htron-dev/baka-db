@@ -1,5 +1,9 @@
 {
     "title": "Coquelicot-zaka kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/32547.jpg",
+        "alt": "coquelicot-zaka-kara"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "コクリコ坂から",

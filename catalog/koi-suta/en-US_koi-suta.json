@@ -1,5 +1,9 @@
 {
     "title": "Koi Suta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10951.jpg",
+        "alt": "koi-suta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

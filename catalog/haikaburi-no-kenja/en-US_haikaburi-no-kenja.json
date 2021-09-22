@@ -1,5 +1,9 @@
 {
     "title": "Haikaburi no Kenja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193734.jpg",
+        "alt": "haikaburi-no-kenja"
+    },
     "type": "light-novel",
     "original_name": "灰かぶりの賢者",
     "start_date": "2017-03-25",

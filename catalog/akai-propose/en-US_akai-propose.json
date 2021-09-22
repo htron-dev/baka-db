@@ -1,5 +1,9 @@
 {
     "title": "Akai Propose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20515.jpg",
+        "alt": "akai-propose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

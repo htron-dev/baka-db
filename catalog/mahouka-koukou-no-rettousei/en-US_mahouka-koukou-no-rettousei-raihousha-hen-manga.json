@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180909.jpg",
+        "alt": "mahouka-koukou-no-rettousei-raihousha-hen"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "44",

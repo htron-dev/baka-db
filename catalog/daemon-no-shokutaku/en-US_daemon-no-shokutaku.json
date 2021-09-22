@@ -1,5 +1,9 @@
 {
     "title": "Daemon no Shokutaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108793.jpg",
+        "alt": "daemon-no-shokutaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

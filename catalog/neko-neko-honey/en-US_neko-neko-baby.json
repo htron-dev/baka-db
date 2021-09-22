@@ -1,5 +1,9 @@
 {
     "title": "Neko Neko Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236416.jpg",
+        "alt": "neko-neko-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

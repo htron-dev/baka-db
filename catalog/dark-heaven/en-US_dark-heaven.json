@@ -1,5 +1,9 @@
 {
     "title": "Dark Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226431.jpg",
+        "alt": "dark-heaven"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "84",

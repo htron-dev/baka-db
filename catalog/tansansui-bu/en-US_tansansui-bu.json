@@ -1,5 +1,9 @@
 {
     "title": "Tansansui-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171979.jpg",
+        "alt": "tansansui-bu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "44",

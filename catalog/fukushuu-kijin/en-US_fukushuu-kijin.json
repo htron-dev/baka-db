@@ -1,5 +1,9 @@
 {
     "title": "Fukushuu Kijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76159.jpg",
+        "alt": "fukushuu-kijin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "復讐鬼人",

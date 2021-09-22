@@ -1,5 +1,9 @@
 {
     "title": "Cinderella Fella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10550.jpg",
+        "alt": "cinderella-fella"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "20",

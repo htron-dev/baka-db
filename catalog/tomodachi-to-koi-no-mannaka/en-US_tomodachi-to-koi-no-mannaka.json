@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi to Koi no Mannaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149225.jpg",
+        "alt": "tomodachi-to-koi-no-mannaka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

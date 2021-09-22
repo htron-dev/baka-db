@@ -1,5 +1,9 @@
 {
     "title": "Omotenashi Seitokai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224713.jpg",
+        "alt": "omotenashi-seitokai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

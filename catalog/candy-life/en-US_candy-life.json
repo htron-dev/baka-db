@@ -1,5 +1,9 @@
 {
     "title": "Candy Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23732.jpg",
+        "alt": "candy-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

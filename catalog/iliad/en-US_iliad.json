@@ -1,5 +1,9 @@
 {
     "title": "Iliad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83693.jpg",
+        "alt": "iliad"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "120",

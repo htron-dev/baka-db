@@ -1,5 +1,9 @@
 {
     "title": "Yama Fu-Tang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40922.jpg",
+        "alt": "yama-fu-tang"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

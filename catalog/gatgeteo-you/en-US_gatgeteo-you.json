@@ -1,5 +1,9 @@
 {
     "title": "Gatgeteo You!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25278.jpg",
+        "alt": "gatgeteo-you"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

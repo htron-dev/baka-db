@@ -1,5 +1,9 @@
 {
     "title": "Shakugan no Shana Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133561.jpg",
+        "alt": "shakugan-no-shana-zero"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

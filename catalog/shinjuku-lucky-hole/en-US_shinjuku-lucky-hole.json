@@ -1,5 +1,9 @@
 {
     "title": "Shinjuku Lucky Hole",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78295.jpg",
+        "alt": "shinjuku-lucky-hole"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

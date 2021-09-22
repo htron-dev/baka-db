@@ -1,5 +1,9 @@
 {
     "title": "Burning Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/42743.jpg",
+        "alt": "burning-blood"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "Ｂ・Ｂ BURNING BLOOD",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/B.B._(manga"
+            "link": "https://en.wikipedia.org/wiki/B.B._%28manga%29"
         }
     ]
 }

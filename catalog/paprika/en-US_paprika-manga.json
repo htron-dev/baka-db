@@ -1,5 +1,9 @@
 {
     "title": "Paprika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149513.jpg",
+        "alt": "paprika"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "パプリカ",

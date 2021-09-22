@@ -1,5 +1,9 @@
 {
     "title": "Sininryu Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26497.jpg",
+        "alt": "sininryu-love"
+    },
     "type": "manga",
     "tags": [
         "comedy",

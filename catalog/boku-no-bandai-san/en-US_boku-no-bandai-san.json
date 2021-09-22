@@ -1,5 +1,9 @@
 {
     "title": "Boku no Bandai-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53737.jpg",
+        "alt": "boku-no-bandai-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

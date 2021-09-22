@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest Retsuden: Roto no Monshou Returns",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104741.jpg",
+        "alt": "dragon-quest-retsuden-roto-no-monshou-returns"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

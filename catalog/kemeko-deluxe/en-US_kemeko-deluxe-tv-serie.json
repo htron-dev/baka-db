@@ -1,12 +1,16 @@
 {
     "title": "Kemeko Deluxe!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75538.jpg",
+        "alt": "kemeko-deluxe"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ケメコデラックス！",
     "start_date": "2008-10-05",
     "end_date": "2008-10-05",
-    "opening_song": "\"Kemeko Deluxe! (ケメコデラックス！)\" by Kemeko to Deluxe",
-    "ending_song": "\"Purippurin Taisou (プリップリン体操)\" by Kemeko",
+    "opening_song": "\"Kemeko Deluxe! (ケメコデラックス！)\" by Kemeko to Deluxe: Chiwa Saito, Haruka Tomatsu, Mikako Takahashi, Rie Kugimiya, Ryoko Shiraishi, Ayako Kawasumi and Mai Goto",
+    "ending_song": "\"Purippurin Taisou (プリップリン体操)\" by Kemeko: Chiwa Saito",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

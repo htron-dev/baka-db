@@ -1,5 +1,9 @@
 {
     "title": "Okubyou na Shihaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185684.jpg",
+        "alt": "okubyou-na-shihaisha"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

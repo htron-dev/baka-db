@@ -1,5 +1,9 @@
 {
     "title": "War Elf Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173275.jpg",
+        "alt": "war-elf-online"
+    },
     "type": "light-novel",
     "original_name": "ウォーエルフ・オンライン",
     "start_date": "2016-03-15",

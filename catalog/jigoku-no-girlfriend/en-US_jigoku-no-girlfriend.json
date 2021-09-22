@@ -1,5 +1,9 @@
 {
     "title": "Jigoku no Girlfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169947.jpg",
+        "alt": "jigoku-no-girlfriend"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

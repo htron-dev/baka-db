@@ -1,5 +1,9 @@
 {
     "title": "Digimon Tamers: Bousou Digimon Tokkyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/4418.jpg",
+        "alt": "digimon-tamers-bousou-digimon-tokkyuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デジモンテイマーズ 暴走デジモン特急",

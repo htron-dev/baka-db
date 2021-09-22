@@ -1,5 +1,9 @@
 {
     "title": "Tantei Monogatari Cabu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131985.jpg",
+        "alt": "tantei-monogatari-cabu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "探偵物語カブ",

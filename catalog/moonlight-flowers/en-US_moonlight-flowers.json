@@ -1,5 +1,9 @@
 {
     "title": "Moonlight Flowers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14170.jpg",
+        "alt": "moonlight-flowers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

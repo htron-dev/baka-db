@@ -1,5 +1,9 @@
 {
     "title": "Cocktail Ponytail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24647.jpg",
+        "alt": "cocktail-ponytail"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

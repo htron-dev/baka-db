@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Heroine wo Kouryaku Dekinai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184271.jpg",
+        "alt": "boku-wa-heroine-wo-kouryaku-dekinai"
+    },
     "type": "light-novel",
     "original_name": "僕は彼女〈ヒロイン〉を攻略できない。",
     "start_date": "2016-10-25",

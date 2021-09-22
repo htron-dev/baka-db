@@ -1,12 +1,16 @@
 {
     "title": "Mikan Enikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/29836.jpg",
+        "alt": "mikan-enikki"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "みかん絵日記",
     "start_date": "1992-10-16",
     "end_date": "1992-10-16",
     "opening_song": "\"Naisho! no Bairin Cat (ないしょ!のバイリン・キャット)\" by Chisa Yokoyama",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ojii-san e no Otegami (おじいさんへのおてがみ)\" by Tarako (eps 1-10, 21, 30)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Yuuki no Omamori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74018.jpg",
+        "alt": "yuuki-no-omamori"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "勇気のお守り",

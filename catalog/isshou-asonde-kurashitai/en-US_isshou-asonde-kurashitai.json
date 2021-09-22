@@ -1,5 +1,9 @@
 {
     "title": "Isshou Asonde Kurashitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112401.jpg",
+        "alt": "isshou-asonde-kurashitai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

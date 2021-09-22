@@ -1,5 +1,9 @@
 {
     "title": "Youkoso Lodoss-tou e!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17027.jpg",
+        "alt": "youkoso-lodoss-tou-e"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ようこそロードス島へ!",

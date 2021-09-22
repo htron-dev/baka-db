@@ -1,5 +1,9 @@
 {
     "title": "My Hero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77901.jpg",
+        "alt": "my-hero"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

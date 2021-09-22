@@ -1,5 +1,9 @@
 {
     "title": "Lesson XX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/25994.jpg",
+        "alt": "lesson-xx"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "Lesson XX",

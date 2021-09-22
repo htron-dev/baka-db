@@ -1,10 +1,14 @@
 {
     "title": "Gintama: Yorinuki Gintama-san on Theater 2D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1172/90571.jpg",
+        "alt": "gintama-yorinuki-gintama-san-on-theater-2-d"
+    },
     "type": "movie",
     "episodes": "2",
     "original_name": "銀魂 よりぬき銀魂さんオンシアター 2D",
     "start_date": "2012-08-26",
-    "ending_song": "#1",
+    "ending_song": "#1: \"DONTEN (曇天)\" by DOES ( Shinsengumi Douran Hen)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

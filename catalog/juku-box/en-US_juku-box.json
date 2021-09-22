@@ -1,5 +1,9 @@
 {
     "title": "Juku Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172531.jpg",
+        "alt": "juku-box"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ジュクボックス",

@@ -1,5 +1,9 @@
 {
     "title": "Datte, Kimi ga Warau kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64567.jpg",
+        "alt": "datte-kimi-ga-warau-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

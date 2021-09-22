@@ -1,5 +1,9 @@
 {
     "title": "Hitomishiri-bu wa Kenzen desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164745.jpg",
+        "alt": "hitomishiri-bu-wa-kenzen-desu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "人見知り部は健全です",

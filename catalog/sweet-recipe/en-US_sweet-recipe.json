@@ -1,5 +1,9 @@
 {
     "title": "Sweet Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32179.jpg",
+        "alt": "sweet-recipe"
+    },
     "type": "manhwa",
     "volumes": "2",
     "tags": [

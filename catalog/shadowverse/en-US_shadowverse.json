@@ -1,5 +1,9 @@
 {
     "title": "Shadowverse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/88535.jpg",
+        "alt": "shadowverse"
+    },
     "type": "ona",
     "original_name": "Shadowverse シャドウバース",
     "start_date": "2015-10-16",

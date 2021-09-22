@@ -1,5 +1,9 @@
 {
     "title": "Toutoi. 4P Short Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233397.jpg",
+        "alt": "toutoi-4-p-short-stories"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "25",

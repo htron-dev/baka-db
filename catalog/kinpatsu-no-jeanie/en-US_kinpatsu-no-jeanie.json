@@ -1,5 +1,9 @@
 {
     "title": "Kinpatsu no Jeanie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/58201.jpg",
+        "alt": "kinpatsu-no-jeanie"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "金髪のジェニー",

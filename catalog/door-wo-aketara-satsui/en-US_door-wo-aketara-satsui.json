@@ -1,5 +1,9 @@
 {
     "title": "Door wo Aketara Satsui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/52747.jpg",
+        "alt": "door-wo-aketara-satsui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

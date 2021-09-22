@@ -1,5 +1,9 @@
 {
     "title": "God Animal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174719.jpg",
+        "alt": "god-animal"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

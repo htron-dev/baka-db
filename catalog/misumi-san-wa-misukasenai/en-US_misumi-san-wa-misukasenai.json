@@ -1,5 +1,9 @@
 {
     "title": "Misumi-san wa Misukasenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245180.jpg",
+        "alt": "misumi-san-wa-misukasenai"
+    },
     "type": "manga",
     "original_name": "ミスミさんは見透かせない",
     "start_date": "2021-04-19",

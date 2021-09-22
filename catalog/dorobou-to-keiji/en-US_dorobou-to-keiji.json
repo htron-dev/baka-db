@@ -1,5 +1,9 @@
 {
     "title": "Dorobou to Keiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/60943.jpg",
+        "alt": "dorobou-to-keiji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

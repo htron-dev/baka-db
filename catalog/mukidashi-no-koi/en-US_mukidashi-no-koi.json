@@ -1,5 +1,9 @@
 {
     "title": "Mukidashi no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153998.jpg",
+        "alt": "mukidashi-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

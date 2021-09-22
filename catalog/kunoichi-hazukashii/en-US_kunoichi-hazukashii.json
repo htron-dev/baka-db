@@ -1,5 +1,9 @@
 {
     "title": "Kunoichi Hazukashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240342.jpg",
+        "alt": "kunoichi-hazukashii"
+    },
     "type": "manga",
     "original_name": "くのいちはずかしい",
     "start_date": "2021-01-27",

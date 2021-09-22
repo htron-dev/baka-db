@@ -1,5 +1,9 @@
 {
     "title": "Kodomotachi wa Kyou mo Taihen!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79559.jpg",
+        "alt": "kodomotachi-wa-kyou-mo-taihen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

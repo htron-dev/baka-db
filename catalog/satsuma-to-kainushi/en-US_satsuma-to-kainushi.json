@@ -1,5 +1,9 @@
 {
     "title": "Satsuma to Kainushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239138.jpg",
+        "alt": "satsuma-to-kainushi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "さつまと飼い主",

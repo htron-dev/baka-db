@@ -1,5 +1,9 @@
 {
     "title": "Nyanpire The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/46147.jpg",
+        "alt": "nyanpire-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "にゃんぱいあ The Animation",

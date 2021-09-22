@@ -1,5 +1,9 @@
 {
     "title": "Gekkou SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106921.jpg",
+        "alt": "gekkou-ss"
+    },
     "type": "light-novel",
     "chapters": "2",
     "original_name": "月光 SS",

@@ -1,5 +1,9 @@
 {
     "title": "Renshenguo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26076.jpg",
+        "alt": "renshenguo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "人參果",

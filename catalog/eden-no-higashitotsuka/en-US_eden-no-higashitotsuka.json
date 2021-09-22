@@ -1,5 +1,9 @@
 {
     "title": "Eden no Higashitotsuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149769.jpg",
+        "alt": "eden-no-higashitotsuka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

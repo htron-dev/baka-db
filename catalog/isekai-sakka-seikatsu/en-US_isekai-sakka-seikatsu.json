@@ -1,5 +1,9 @@
 {
     "title": "Isekai Sakka Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178211.jpg",
+        "alt": "isekai-sakka-seikatsu"
+    },
     "type": "light-novel",
     "original_name": "異世界作家生活",
     "start_date": "2016-05-25",

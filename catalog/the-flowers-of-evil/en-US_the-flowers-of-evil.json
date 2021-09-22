@@ -1,5 +1,9 @@
 {
     "title": "The Flowers of Evil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7387.jpg",
+        "alt": "the-flowers-of-evil"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Dakatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168511.jpg",
+        "alt": "dakatsu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

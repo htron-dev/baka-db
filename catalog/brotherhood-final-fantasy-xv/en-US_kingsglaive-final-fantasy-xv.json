@@ -1,5 +1,9 @@
 {
     "title": "Kingsglaive: Final Fantasy XV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/79392.jpg",
+        "alt": "kingsglaive-final-fantasy-xv"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "KINGSGLAIVE FINAL FANTASY XV",

@@ -1,5 +1,9 @@
 {
     "title": "Kanabun no Koushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1429/95533.jpg",
+        "alt": "kanabun-no-koushin"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "カナブンの行進",

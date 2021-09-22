@@ -1,5 +1,9 @@
 {
     "title": "Berserk 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/85296.jpg",
+        "alt": "berserk-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ベルセルク",

@@ -1,5 +1,9 @@
 {
     "title": "Juumonji Renji no Kunan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79733.jpg",
+        "alt": "juumonji-renji-no-kunan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

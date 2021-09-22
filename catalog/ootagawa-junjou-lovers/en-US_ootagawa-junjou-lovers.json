@@ -1,5 +1,9 @@
 {
     "title": "Ootagawa Junjou Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184542.jpg",
+        "alt": "ootagawa-junjou-lovers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

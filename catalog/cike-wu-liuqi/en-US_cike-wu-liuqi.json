@@ -1,12 +1,16 @@
 {
     "title": "Cike Wu Liuqi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1620/94968.jpg",
+        "alt": "cike-wu-liuqi"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "刺客伍六七",
     "start_date": "2018-04-25",
     "end_date": "2018-04-25",
     "opening_song": "\"Jiandao Cike (剪刀刺客)\" (eps 1-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Wulun Ni Duo Guaiyi Wo Hai Shi Hui Xihuan Ni (无论你多怪异我还是会喜欢你)\" by Hulian Jiang (江惠莲) (eps 1, 3-4, 7-8)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "You are Responsible!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158550.jpg",
+        "alt": "you-are-responsible"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "너책임질거야",

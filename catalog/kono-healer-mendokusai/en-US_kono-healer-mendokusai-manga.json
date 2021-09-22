@@ -1,5 +1,9 @@
 {
     "title": "Kono Healer, Mendokusai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228186.jpg",
+        "alt": "kono-healer-mendokusai"
+    },
     "type": "manga",
     "original_name": "このヒーラー、めんどくさい",
     "start_date": "2019-07-31",

@@ -1,5 +1,9 @@
 {
     "title": "Pico-Pico Shounen Super",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149901.jpg",
+        "alt": "pico-pico-shounen-super"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

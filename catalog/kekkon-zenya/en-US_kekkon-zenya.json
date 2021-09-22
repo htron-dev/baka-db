@@ -1,5 +1,9 @@
 {
     "title": "Kekkon Zenya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84833.jpg",
+        "alt": "kekkon-zenya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

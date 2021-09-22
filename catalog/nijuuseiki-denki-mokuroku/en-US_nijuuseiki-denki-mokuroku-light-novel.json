@@ -1,5 +1,9 @@
 {
     "title": "Nijuuseiki Denki Mokuroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231194.jpg",
+        "alt": "nijuuseiki-denki-mokuroku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "二十世紀電氣目録",

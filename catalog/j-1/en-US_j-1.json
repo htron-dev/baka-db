@@ -1,5 +1,9 @@
 {
     "title": "J1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21341.jpg",
+        "alt": "j-1"
+    },
     "type": "manga",
     "volumes": "2",
     "start_date": "1991-05-19",

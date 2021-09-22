@@ -1,5 +1,9 @@
 {
     "title": "Sono Koi, Seiritsu Naru ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223133.jpg",
+        "alt": "sono-koi-seiritsu-naru-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

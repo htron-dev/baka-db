@@ -1,5 +1,9 @@
 {
     "title": "Aishiteru tte Iinasai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223500.jpg",
+        "alt": "aishiteru-tte-iinasai"
+    },
     "type": "manga",
     "original_name": "愛してるって言いなさい。",
     "start_date": "2017-10-20",

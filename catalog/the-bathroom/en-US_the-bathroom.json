@@ -1,5 +1,9 @@
 {
     "title": "The Bathroom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/27375.jpg",
+        "alt": "the-bathroom"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ザ・バスルーム",

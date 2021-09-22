@@ -1,5 +1,9 @@
 {
     "title": "Missing Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/18847.jpg",
+        "alt": "missing-code"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

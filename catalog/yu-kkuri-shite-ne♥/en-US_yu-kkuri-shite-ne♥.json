@@ -1,5 +1,9 @@
 {
     "title": "Yu-kkuri Shite ne♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122797.jpg",
+        "alt": "yu-kkuri-shite-ne♥"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

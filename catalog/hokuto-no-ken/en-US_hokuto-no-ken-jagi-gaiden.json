@@ -1,5 +1,9 @@
 {
     "title": "Hokuto no Ken - Jagi Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/22239.jpg",
+        "alt": "hokuto-no-ken-jagi-gaiden"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

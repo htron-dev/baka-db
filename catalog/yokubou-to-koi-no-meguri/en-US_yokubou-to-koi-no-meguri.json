@@ -1,5 +1,9 @@
 {
     "title": "Yokubou to Koi no Meguri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83757.jpg",
+        "alt": "yokubou-to-koi-no-meguri"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

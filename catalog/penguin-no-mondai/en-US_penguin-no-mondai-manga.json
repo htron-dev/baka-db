@@ -1,5 +1,9 @@
 {
     "title": "Penguin no Mondai+",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148995.jpg",
+        "alt": "penguin-no-mondai"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ペンギンの問題+",

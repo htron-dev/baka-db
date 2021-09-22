@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Mini ni Koishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180808.jpg",
+        "alt": "boku-wa-mini-ni-koishiteru"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "43",

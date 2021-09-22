@@ -1,5 +1,9 @@
 {
     "title": "Genjuu no Seiza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126579.jpg",
+        "alt": "genjuu-no-seiza"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "70",

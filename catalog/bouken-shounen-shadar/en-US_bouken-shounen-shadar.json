@@ -1,5 +1,9 @@
 {
     "title": "Bouken Shounen Shadar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/20774.jpg",
+        "alt": "bouken-shounen-shadar"
+    },
     "type": "tv-serie",
     "episodes": "156",
     "original_name": "冒険少年シャダー",

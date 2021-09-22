@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Seishun wa Shindenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231653.jpg",
+        "alt": "bokura-no-seishun-wa-shindenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

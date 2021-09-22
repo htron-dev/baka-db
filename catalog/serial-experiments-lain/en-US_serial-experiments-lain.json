@@ -1,5 +1,9 @@
 {
     "title": "Serial Experiments Lain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1718/91550.jpg",
+        "alt": "serial-experiments-lain"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "シリアルエクスペリメンツレイン",

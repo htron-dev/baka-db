@@ -1,5 +1,9 @@
 {
     "title": "Tsunbaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/66635.jpg",
+        "alt": "tsunbaka"
+    },
     "type": "manga",
     "chapters": "9",
     "original_name": "ツンバカ",

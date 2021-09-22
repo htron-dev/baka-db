@@ -1,5 +1,9 @@
 {
     "title": "Ace!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32332.jpg",
+        "alt": "ace"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "エース！",

@@ -1,5 +1,9 @@
 {
     "title": "Ima, Koi wo Shiteimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233772.jpg",
+        "alt": "ima-koi-wo-shiteimasu"
+    },
     "type": "manga",
     "original_name": "今、恋をしています。",
     "start_date": "2019-12-13",

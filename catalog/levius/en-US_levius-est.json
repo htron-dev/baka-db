@@ -1,5 +1,9 @@
 {
     "title": "Levius/est",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170654.jpg",
+        "alt": "levius-est"
+    },
     "type": "manga",
     "original_name": "Levius/est",
     "start_date": "2015-04-18",

@@ -1,5 +1,9 @@
 {
     "title": "Profumo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204924.jpg",
+        "alt": "profumo"
+    },
     "type": "manga",
     "original_name": "プロフーモ！",
     "start_date": "2017-12-11",

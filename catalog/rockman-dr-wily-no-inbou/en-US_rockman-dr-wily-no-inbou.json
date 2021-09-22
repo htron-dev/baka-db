@@ -1,5 +1,9 @@
 {
     "title": "Rockman: Dr. Wily no Inbou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115917.jpg",
+        "alt": "rockman-dr-wily-no-inbou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

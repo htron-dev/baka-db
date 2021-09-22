@@ -1,5 +1,9 @@
 {
     "title": "Okojo-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229788.jpg",
+        "alt": "okojo-san"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "オコジョさん",

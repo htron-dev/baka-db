@@ -1,5 +1,9 @@
 {
     "title": "Hino-san no Baka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219126.jpg",
+        "alt": "hino-san-no-baka"
+    },
     "type": "manga",
     "original_name": "飛野さんのバカ",
     "start_date": "2017-10-30",

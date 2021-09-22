@@ -1,5 +1,9 @@
 {
     "title": "Oshiete! Galko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/77845.jpg",
+        "alt": "oshiete-galko-chan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "おしえて! ギャル子ちゃん",

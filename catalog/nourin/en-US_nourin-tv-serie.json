@@ -1,12 +1,16 @@
 {
     "title": "Nourin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/57563.jpg",
+        "alt": "nourin"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "のうりん",
     "start_date": "2014-01-11",
     "end_date": "2014-01-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Cordless☆Dere☆PHONE (コードレス ☆ 照れ ☆PHONE)\" by Yuka Kusakabe (Yukari Tamura) (ep 1)",
+    "ending_song": "#1: \"Himitsu no Door kara Ai ni Kite (秘密の扉から会いにきて)\" by Yukari Tamura (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

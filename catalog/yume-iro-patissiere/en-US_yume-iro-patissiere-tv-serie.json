@@ -1,5 +1,9 @@
 {
     "title": "Yume-iro Pâtissière",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/21674.jpg",
+        "alt": "yume-iro-patissiere"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "夢色パティシエール",

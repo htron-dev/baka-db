@@ -1,5 +1,9 @@
 {
     "title": "Grimms Notes The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1708/96962.jpg",
+        "alt": "grimms-notes-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "グリムノーツ",

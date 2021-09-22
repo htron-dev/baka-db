@@ -1,5 +1,9 @@
 {
     "title": "Dante Shinkyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18728.jpg",
+        "alt": "dante-shinkyoku"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ダンテ神曲",

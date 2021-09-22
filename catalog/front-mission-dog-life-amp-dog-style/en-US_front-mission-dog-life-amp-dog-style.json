@@ -1,5 +1,9 @@
 {
     "title": "Front Mission: Dog Life &amp; Dog Style",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9610.jpg",
+        "alt": "front-mission-dog-life-amp-dog-style"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "86",

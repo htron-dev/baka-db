@@ -1,5 +1,9 @@
 {
     "title": "Cobra: The Psychogun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41549.jpg",
+        "alt": "cobra-the-psychogun"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "COBRA ザ・サイコガン",

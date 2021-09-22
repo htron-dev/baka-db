@@ -1,5 +1,9 @@
 {
     "title": "Gokudou Parasites",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226465.jpg",
+        "alt": "gokudou-parasites"
+    },
     "type": "manga",
     "original_name": "極道パラサイツ",
     "start_date": "2019-01-18",

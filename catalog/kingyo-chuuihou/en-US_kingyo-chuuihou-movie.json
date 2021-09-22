@@ -1,5 +1,9 @@
 {
     "title": "Kingyo Chuuihou! (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1920/104412.jpg",
+        "alt": "kingyo-chuuihou-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "きんぎょ注意報！",

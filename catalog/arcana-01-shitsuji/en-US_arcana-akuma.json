@@ -1,5 +1,9 @@
 {
     "title": "Arcana - Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39455.jpg",
+        "alt": "arcana-akuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

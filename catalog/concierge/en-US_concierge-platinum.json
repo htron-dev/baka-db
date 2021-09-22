@@ -1,5 +1,9 @@
 {
     "title": "Concierge Platinum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186830.jpg",
+        "alt": "concierge-platinum"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "49",

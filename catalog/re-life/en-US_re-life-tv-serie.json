@@ -1,12 +1,16 @@
 {
     "title": "ReLIFE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/82149.jpg",
+        "alt": "re-life"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ReLIFE",
     "start_date": "2016-07-02",
     "end_date": "2016-07-02",
     "opening_song": "\"Button\" by PENGUIN RESEARCH",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Iijuu★Rider (イ―ジュ－★ ライダー)\" by Tamio Okuda (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

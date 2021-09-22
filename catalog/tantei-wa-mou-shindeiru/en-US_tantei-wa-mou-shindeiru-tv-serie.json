@@ -1,11 +1,15 @@
 {
     "title": "Tantei wa Mou, Shindeiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1843/115815.jpg",
+        "alt": "tantei-wa-mou-shindeiru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "探偵はもう、死んでいる。",
     "start_date": "2021-07-04",
     "opening_song": "\"Koko de Ikiteru. (ここで生きてる。)\" by Mary x jon-YAKITORY (めありー ×jon-YAKITORY) (eps 2-??)",
-    "ending_song": "#1",
+    "ending_song": "#1:\"Koko de Ikiteru. (ここで生きてる。)\" by Mary x jon-YAKITORY (めありー ×jon-YAKITORY) (ep 1)",
     "rating": "None",
     "tags": [
         "mystery",

@@ -1,5 +1,9 @@
 {
     "title": "Boku to Majo no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/47895.jpg",
+        "alt": "boku-to-majo-no-jikan"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

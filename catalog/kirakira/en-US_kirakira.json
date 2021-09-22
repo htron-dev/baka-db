@@ -1,5 +1,9 @@
 {
     "title": "Kirakira!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230426.jpg",
+        "alt": "kirakira"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "70",

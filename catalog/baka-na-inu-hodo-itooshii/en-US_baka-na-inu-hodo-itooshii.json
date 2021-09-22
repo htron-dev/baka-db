@@ -1,5 +1,9 @@
 {
     "title": "Baka na Inu hodo Itooshii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245709.jpg",
+        "alt": "baka-na-inu-hodo-itooshii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

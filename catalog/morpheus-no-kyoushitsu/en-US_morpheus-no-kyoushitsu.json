@@ -1,5 +1,9 @@
 {
     "title": "Morpheus no Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175937.jpg",
+        "alt": "morpheus-no-kyoushitsu"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "モーフィアスの教室",

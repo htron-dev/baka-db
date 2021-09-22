@@ -1,5 +1,9 @@
 {
     "title": "38 Degrees C",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3313.jpg",
+        "alt": "38-degrees-c"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

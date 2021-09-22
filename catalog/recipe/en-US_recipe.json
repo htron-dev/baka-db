@@ -1,5 +1,9 @@
 {
     "title": "Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26050.jpg",
+        "alt": "recipe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

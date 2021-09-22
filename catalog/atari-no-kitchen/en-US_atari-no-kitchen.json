@@ -1,5 +1,9 @@
 {
     "title": "Atari no Kitchen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202210.jpg",
+        "alt": "atari-no-kitchen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Shireikan Leon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162524.jpg",
+        "alt": "shireikan-leon"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

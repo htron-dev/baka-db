@@ -1,5 +1,9 @@
 {
     "title": "Haru no Mienai Bouenkyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155879.jpg",
+        "alt": "haru-no-mienai-bouenkyou"
+    },
     "type": "manga",
     "chapters": "18",
     "original_name": "ハルの見えない望遠鏡",

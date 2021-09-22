@@ -1,5 +1,9 @@
 {
     "title": "Koume-chan ga Iku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/15018.jpg",
+        "alt": "koume-chan-ga-iku"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "小梅ちゃんが行く!!",

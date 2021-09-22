@@ -1,5 +1,9 @@
 {
     "title": "Mewkledreamy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
+        "alt": "mewkledreamy"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "ミュークルドリーミー",

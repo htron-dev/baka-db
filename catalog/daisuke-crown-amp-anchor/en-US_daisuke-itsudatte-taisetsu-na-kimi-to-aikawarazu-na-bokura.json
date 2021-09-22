@@ -1,5 +1,9 @@
 {
     "title": "Daisuke!: Itsudatte Taisetsu na Kimi to, Aikawarazu na Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149003.jpg",
+        "alt": "daisuke-itsudatte-taisetsu-na-kimi-to-aikawarazu-na-bokura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

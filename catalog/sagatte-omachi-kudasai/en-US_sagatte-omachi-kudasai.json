@@ -1,5 +1,9 @@
 {
     "title": "Sagatte Omachi Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57373.jpg",
+        "alt": "sagatte-omachi-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

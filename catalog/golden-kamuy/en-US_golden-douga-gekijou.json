@@ -1,5 +1,9 @@
 {
     "title": "Golden Douga Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1946/93002.jpg",
+        "alt": "golden-douga-gekijou"
+    },
     "type": "ona",
     "episodes": "33",
     "original_name": "ゴールデン道画劇場",

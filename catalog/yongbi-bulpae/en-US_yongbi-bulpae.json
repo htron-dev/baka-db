@@ -1,5 +1,9 @@
 {
     "title": "Yongbi Bulpae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88293.jpg",
+        "alt": "yongbi-bulpae"
+    },
     "type": "manhwa",
     "volumes": "23",
     "original_name": "용비불패",

@@ -1,5 +1,9 @@
 {
     "title": "Hanashippanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/68427.jpg",
+        "alt": "hanashippanashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "45",

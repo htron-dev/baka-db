@@ -1,5 +1,9 @@
 {
     "title": "Fashion no Hajimari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/38301.jpg",
+        "alt": "fashion-no-hajimari"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ファッションのはじまり",

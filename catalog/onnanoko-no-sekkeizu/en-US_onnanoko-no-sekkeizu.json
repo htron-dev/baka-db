@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko no Sekkeizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168917.jpg",
+        "alt": "onnanoko-no-sekkeizu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

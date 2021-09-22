@@ -1,5 +1,9 @@
 {
     "title": "Afurete Koborete, Gaman Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237928.jpg",
+        "alt": "afurete-koborete-gaman-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

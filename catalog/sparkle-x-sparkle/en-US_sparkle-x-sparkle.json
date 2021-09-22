@@ -1,5 +1,9 @@
 {
     "title": "Sparkle x Sparkle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26262.jpg",
+        "alt": "sparkle-x-sparkle"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "14",

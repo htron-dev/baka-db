@@ -1,5 +1,9 @@
 {
     "title": "Shinjou Mayu - The Best Selection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16020.jpg",
+        "alt": "shinjou-mayu-the-best-selection"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Natsukage ni, Sayonara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225015.jpg",
+        "alt": "natsukage-ni-sayonara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

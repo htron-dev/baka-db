@@ -1,5 +1,9 @@
 {
     "title": "Hannin wa Yasurai Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162984.jpg",
+        "alt": "hannin-wa-yasurai-alice"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

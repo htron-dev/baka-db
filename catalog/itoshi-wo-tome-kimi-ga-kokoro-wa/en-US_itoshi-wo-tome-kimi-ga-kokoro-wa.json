@@ -1,5 +1,9 @@
 {
     "title": "Itoshi wo Tome - Kimi ga Kokoro wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22981.jpg",
+        "alt": "itoshi-wo-tome-kimi-ga-kokoro-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Acid Flower",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5920.jpg",
+        "alt": "acid-flower"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

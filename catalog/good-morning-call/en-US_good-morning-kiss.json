@@ -1,5 +1,9 @@
 {
     "title": "Good Morning Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172511.jpg",
+        "alt": "good-morning-kiss"
+    },
     "type": "manga",
     "original_name": "グッドモーニング・キス",
     "start_date": "2006-05-09",

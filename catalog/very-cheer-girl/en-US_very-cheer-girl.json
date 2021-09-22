@@ -1,5 +1,9 @@
 {
     "title": "Very Cheer Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22912.jpg",
+        "alt": "very-cheer-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ベリィ ♪ チアガール",

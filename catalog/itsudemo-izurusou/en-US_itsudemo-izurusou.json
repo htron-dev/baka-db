@@ -1,5 +1,9 @@
 {
     "title": "Itsudemo Izurusou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166103.jpg",
+        "alt": "itsudemo-izurusou"
+    },
     "type": "manga",
     "original_name": "いつでもイヅル荘",
     "start_date": "2015-01-25",

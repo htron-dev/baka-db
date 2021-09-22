@@ -1,5 +1,9 @@
 {
     "title": "Yumemiru July Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16833.jpg",
+        "alt": "yumemiru-july-cat"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

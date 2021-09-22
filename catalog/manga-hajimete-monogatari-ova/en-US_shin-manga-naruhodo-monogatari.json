@@ -1,5 +1,9 @@
 {
     "title": "Shin Manga Naruhodo Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1129/91822.jpg",
+        "alt": "shin-manga-naruhodo-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "新まんがなるほど物語",

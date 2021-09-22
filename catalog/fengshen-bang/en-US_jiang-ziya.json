@@ -1,5 +1,9 @@
 {
     "title": "Jiang Ziya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1545/107810.jpg",
+        "alt": "jiang-ziya"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "姜子牙",

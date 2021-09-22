@@ -1,5 +1,9 @@
 {
     "title": "Sousei no Aquarion: Mirai Shinwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27413.jpg",
+        "alt": "sousei-no-aquarion-mirai-shinwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

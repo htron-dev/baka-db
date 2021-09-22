@@ -1,5 +1,9 @@
 {
     "title": "Shitou Sensen EX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190283.jpg",
+        "alt": "shitou-sensen-ex"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "48",

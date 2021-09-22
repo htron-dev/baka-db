@@ -1,5 +1,9 @@
 {
     "title": "Takkun ni Koishiteru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128393.jpg",
+        "alt": "takkun-ni-koishiteru"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "56",

@@ -1,5 +1,9 @@
 {
     "title": "Jugemu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195402.jpg",
+        "alt": "jugemu"
+    },
     "type": "manga",
     "original_name": "ジュゲム",
     "start_date": "2017-04-28",

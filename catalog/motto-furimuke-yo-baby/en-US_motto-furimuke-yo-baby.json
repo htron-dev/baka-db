@@ -1,5 +1,9 @@
 {
     "title": "Motto Furimuke yo Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33878.jpg",
+        "alt": "motto-furimuke-yo-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

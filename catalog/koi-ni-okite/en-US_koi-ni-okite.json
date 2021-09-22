@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Okite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114701.jpg",
+        "alt": "koi-ni-okite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

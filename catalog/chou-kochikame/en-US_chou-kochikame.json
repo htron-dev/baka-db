@@ -1,5 +1,9 @@
 {
     "title": "Chou Kochikame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170714.jpg",
+        "alt": "chou-kochikame"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

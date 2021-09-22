@@ -1,5 +1,9 @@
 {
     "title": "Mammoth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151376.jpg",
+        "alt": "mammoth"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "36",

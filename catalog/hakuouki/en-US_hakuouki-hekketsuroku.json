@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki Hekketsuroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71797.jpg",
+        "alt": "hakuouki-hekketsuroku"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "薄桜鬼 碧血録",

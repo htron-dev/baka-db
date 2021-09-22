@@ -1,5 +1,9 @@
 {
     "title": "Xiao Hua Xian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1902/90321.jpg",
+        "alt": "xiao-hua-xian"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "小花仙",

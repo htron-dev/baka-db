@@ -1,5 +1,9 @@
 {
     "title": "Shining Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1712/101318.jpg",
+        "alt": "shining-star"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "샤이닝스타",

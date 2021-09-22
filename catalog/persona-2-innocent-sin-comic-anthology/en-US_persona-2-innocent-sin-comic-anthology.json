@@ -1,5 +1,9 @@
 {
     "title": "Persona 2: Innocent Sin Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147957.jpg",
+        "alt": "persona-2-innocent-sin-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

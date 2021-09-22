@@ -1,5 +1,9 @@
 {
     "title": "Hakai no Utage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158856.jpg",
+        "alt": "hakai-no-utage"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

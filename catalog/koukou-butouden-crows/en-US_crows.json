@@ -1,5 +1,9 @@
 {
     "title": "Crows",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77965.jpg",
+        "alt": "crows"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "98",

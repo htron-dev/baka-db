@@ -1,5 +1,9 @@
 {
     "title": "Omae wa Mada Gunma wo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1433/90426.jpg",
+        "alt": "omae-wa-mada-gunma-wo-shiranai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "お前はまだグンマを知らない",

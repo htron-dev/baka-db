@@ -1,5 +1,9 @@
 {
     "title": "Utakata Dialog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204231.jpg",
+        "alt": "utakata-dialog"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

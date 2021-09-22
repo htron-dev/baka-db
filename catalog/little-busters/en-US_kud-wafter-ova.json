@@ -1,10 +1,14 @@
 {
     "title": "Kud Wafter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1575/113371.jpg",
+        "alt": "kud-wafter"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "クドわふたー",
     "start_date": "2020-11-28",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hoshikuzu (星屑)\" by Haruka Shimotsuki",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Sorairo Pandemic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123865.jpg",
+        "alt": "sorairo-pandemic"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

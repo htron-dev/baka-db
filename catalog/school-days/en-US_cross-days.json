@@ -1,5 +1,9 @@
 {
     "title": "Cross Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100765.jpg",
+        "alt": "cross-days"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,12 +1,16 @@
 {
     "title": "Plastic Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/72750.jpg",
+        "alt": "plastic-memories"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "プラスティック・メモリーズ",
     "start_date": "2015-04-05",
     "end_date": "2015-04-05",
     "opening_song": "\"Ring of Fortune\" by Eri Sasaki (佐々木恵梨) (eps 2-7, 9-13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"again & again\" by Melody Chubak (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

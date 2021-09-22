@@ -1,5 +1,9 @@
 {
     "title": "Ake no Suisei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167753.jpg",
+        "alt": "ake-no-suisei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

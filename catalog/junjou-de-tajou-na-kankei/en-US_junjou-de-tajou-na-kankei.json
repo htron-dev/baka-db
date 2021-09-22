@@ -1,5 +1,9 @@
 {
     "title": "Junjou de Tajou na Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153391.jpg",
+        "alt": "junjou-de-tajou-na-kankei"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "純情で多情な関係",

@@ -1,5 +1,9 @@
 {
     "title": "Charady no Joke na Mainichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/13420.jpg",
+        "alt": "charady-no-joke-na-mainichi"
+    },
     "type": "tv-serie",
     "episodes": "365",
     "original_name": "キャラディのジョークな毎日",

@@ -1,5 +1,9 @@
 {
     "title": "Chainsaw Maid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/32575.jpg",
+        "alt": "chainsaw-maid"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "チェーンソー・メイド",

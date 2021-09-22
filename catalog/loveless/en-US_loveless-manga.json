@@ -1,5 +1,9 @@
 {
     "title": "Loveless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171051.jpg",
+        "alt": "loveless"
+    },
     "type": "manga",
     "original_name": "LOVELESS",
     "start_date": "2001-11-17",

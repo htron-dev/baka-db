@@ -1,5 +1,9 @@
 {
     "title": "Never Let Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/94401.jpg",
+        "alt": "never-let-go"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

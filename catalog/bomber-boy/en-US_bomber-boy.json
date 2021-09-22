@@ -1,5 +1,9 @@
 {
     "title": "Bomber Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248441.jpg",
+        "alt": "bomber-boy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

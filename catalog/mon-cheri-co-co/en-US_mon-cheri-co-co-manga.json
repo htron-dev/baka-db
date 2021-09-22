@@ -1,5 +1,9 @@
 {
     "title": "Mon Cheri CoCo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117291.jpg",
+        "alt": "mon-cheri-co-co"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "モンシェリ CoCo",

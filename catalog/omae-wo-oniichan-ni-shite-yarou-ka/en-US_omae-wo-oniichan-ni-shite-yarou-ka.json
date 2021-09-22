@@ -1,5 +1,9 @@
 {
     "title": "Omae wo Oniichan ni Shite Yarou ka!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158560.jpg",
+        "alt": "omae-wo-oniichan-ni-shite-yarou-ka"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "45",

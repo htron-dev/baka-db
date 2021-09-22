@@ -1,5 +1,9 @@
 {
     "title": "Yamato III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61023.jpg",
+        "alt": "yamato-iii"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "宇宙戦艦ヤマト III",

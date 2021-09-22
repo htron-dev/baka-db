@@ -1,5 +1,9 @@
 {
     "title": "Run, Bong-Gu, Run",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13818.jpg",
+        "alt": "run-bong-gu-run"
+    },
     "type": "manhwa",
     "volumes": "1",
     "original_name": "달려라, 봉구야!",

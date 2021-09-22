@@ -1,5 +1,9 @@
 {
     "title": "Konyaku 0-nichikon wa Dou desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191018.jpg",
+        "alt": "konyaku-0-nichikon-wa-dou-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

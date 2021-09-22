@@ -1,5 +1,9 @@
 {
     "title": "Adagio of Parrots",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25275.jpg",
+        "alt": "adagio-of-parrots"
+    },
     "type": "manhwa",
     "volumes": "11",
     "original_name": "앵무새의 아다지오",

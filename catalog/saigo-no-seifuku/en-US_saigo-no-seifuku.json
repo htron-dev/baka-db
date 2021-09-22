@@ -1,5 +1,9 @@
 {
     "title": "Saigo no Seifuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160708.jpg",
+        "alt": "saigo-no-seifuku"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "最後の制服",

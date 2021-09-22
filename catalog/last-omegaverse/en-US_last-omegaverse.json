@@ -1,5 +1,9 @@
 {
     "title": "Last Omegaverse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226321.jpg",
+        "alt": "last-omegaverse"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

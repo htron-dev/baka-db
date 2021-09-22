@@ -1,5 +1,9 @@
 {
     "title": "Makka na Freesia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232058.jpg",
+        "alt": "makka-na-freesia"
+    },
     "type": "manga",
     "original_name": "真っ赤なフリージア",
     "start_date": "2018-10-29",

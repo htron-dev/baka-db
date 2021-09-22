@@ -1,5 +1,9 @@
 {
     "title": "Papa no Suki na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236958.jpg",
+        "alt": "papa-no-suki-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Happy☆Lesson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/15349.jpg",
+        "alt": "happy☆-lesson"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "HAPPY☆LESSON",

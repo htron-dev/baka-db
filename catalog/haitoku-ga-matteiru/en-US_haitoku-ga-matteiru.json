@@ -1,5 +1,9 @@
 {
     "title": "Haitoku Ga Matteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18857.jpg",
+        "alt": "haitoku-ga-matteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "背徳が待っている",

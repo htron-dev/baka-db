@@ -1,12 +1,16 @@
 {
     "title": "Tottoko Hamtarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/21562.jpg",
+        "alt": "tottoko-hamtarou"
+    },
     "type": "tv-serie",
     "episodes": "296",
     "original_name": "とっとこハム太郎",
     "start_date": "2000-07-07",
     "end_date": "2000-07-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Tottoko no Uta\" by Hamuchanzu",
+    "ending_song": "#1: \"200% no Jumon\" by Team le TAO",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

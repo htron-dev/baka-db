@@ -1,5 +1,9 @@
 {
     "title": "Boukyou Tarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226301.jpg",
+        "alt": "boukyou-tarou"
+    },
     "type": "manga",
     "original_name": "望郷太郎",
     "start_date": "2019-09-05",

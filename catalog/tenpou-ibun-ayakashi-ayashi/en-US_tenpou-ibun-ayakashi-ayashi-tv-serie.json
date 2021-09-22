@@ -1,12 +1,16 @@
 {
     "title": "Tenpou Ibun: Ayakashi Ayashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/4452.jpg",
+        "alt": "tenpou-ibun-ayakashi-ayashi"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "天保異聞 妖奇士",
     "start_date": "2006-10-07",
     "end_date": "2006-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ryuusei Miracle\" by Ikimonogakari (eps 1-12)",
+    "ending_song": "#1: \"Winding Road\" by Porno Graffitti (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "supernatural",

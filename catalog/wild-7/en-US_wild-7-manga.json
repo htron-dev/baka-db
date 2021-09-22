@@ -1,5 +1,9 @@
 {
     "title": "Wild 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195178.jpg",
+        "alt": "wild-7"
+    },
     "type": "manga",
     "volumes": "48",
     "original_name": "ワイルド 7",

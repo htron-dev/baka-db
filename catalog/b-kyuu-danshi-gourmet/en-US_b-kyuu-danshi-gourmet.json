@@ -1,5 +1,9 @@
 {
     "title": "B-kyuu Danshi Gourmet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46161.jpg",
+        "alt": "b-kyuu-danshi-gourmet"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "B 級男子グルメ",

@@ -1,5 +1,9 @@
 {
     "title": "Renai Sophisticate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177458.jpg",
+        "alt": "renai-sophisticate"
+    },
     "type": "manga",
     "original_name": "恋愛ソフィスティケート",
     "start_date": "2013-08-08",

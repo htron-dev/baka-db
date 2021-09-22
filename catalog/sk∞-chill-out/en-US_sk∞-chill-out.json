@@ -1,5 +1,9 @@
 {
     "title": "SK∞: Chill Out!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240484.jpg",
+        "alt": "sk∞-chill-out"
+    },
     "type": "manga",
     "original_name": "SK∞ エスケーエイト チルアウト！",
     "start_date": "2021-01-11",

@@ -1,5 +1,9 @@
 {
     "title": "Tales of the Abyss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/21243.jpg",
+        "alt": "tales-of-the-abyss"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "テイルズ オブ ジ アビス",

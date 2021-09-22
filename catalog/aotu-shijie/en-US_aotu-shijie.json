@@ -1,5 +1,9 @@
 {
     "title": "AOTU Shijie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/81494.jpg",
+        "alt": "aotu-shijie"
+    },
     "type": "ona",
     "episodes": "32",
     "original_name": "凹凸世界",

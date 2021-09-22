@@ -1,5 +1,9 @@
 {
     "title": "Mr. Applicant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198462.jpg",
+        "alt": "mr-applicant"
+    },
     "type": "manga",
     "original_name": "MR.APPLICANT",
     "start_date": "2011-05-10",

@@ -1,5 +1,9 @@
 {
     "title": "Isshou ni Kurasou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20593.jpg",
+        "alt": "isshou-ni-kurasou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

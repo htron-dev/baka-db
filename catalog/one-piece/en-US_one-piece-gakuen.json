@@ -1,5 +1,9 @@
 {
     "title": "One Piece Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233977.jpg",
+        "alt": "one-piece-gakuen"
+    },
     "type": "manga",
     "original_name": "ONE PIECE 学園",
     "start_date": "2019-08-02",

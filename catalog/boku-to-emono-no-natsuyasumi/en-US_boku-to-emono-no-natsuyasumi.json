@@ -1,5 +1,9 @@
 {
     "title": "Boku to Emono no Natsuyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236108.jpg",
+        "alt": "boku-to-emono-no-natsuyasumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

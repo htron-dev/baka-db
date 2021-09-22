@@ -1,5 +1,9 @@
 {
     "title": "Sanshoku Mazareba Kuro ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220458.jpg",
+        "alt": "sanshoku-mazareba-kuro-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

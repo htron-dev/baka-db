@@ -1,5 +1,9 @@
 {
     "title": "Ninkuu (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/4007.jpg",
+        "alt": "ninkuu-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "忍空",

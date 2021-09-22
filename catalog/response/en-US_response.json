@@ -1,5 +1,9 @@
 {
     "title": "Response",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11584.jpg",
+        "alt": "response"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

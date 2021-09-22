@@ -1,12 +1,16 @@
 {
     "title": "Yagate Kimi ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1783/96153.jpg",
+        "alt": "yagate-kimi-ni-naru"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "やがて君になる",
     "start_date": "2018-10-05",
     "end_date": "2018-10-05",
     "opening_song": "\"Kimi ni Furete (君にふれて)\" by Riko Azuna",
-    "ending_song": "#1",
+    "ending_song": "#1: \"hectopascal\" by Yuu Koito (Yuuki Takada), Touko Nanami (Minako Kotobuki) (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

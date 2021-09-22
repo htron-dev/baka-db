@@ -1,5 +1,9 @@
 {
     "title": "Kemomusu Shoutai ni Yarukinashi Shireikan ga Chakunin shimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160173.jpg",
+        "alt": "kemomusu-shoutai-ni-yarukinashi-shireikan-ga-chakunin-shimashita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

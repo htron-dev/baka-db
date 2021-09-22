@@ -1,5 +1,9 @@
 {
     "title": "Goblin Koushaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36136.jpg",
+        "alt": "goblin-koushaku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ゴブリン公爵",

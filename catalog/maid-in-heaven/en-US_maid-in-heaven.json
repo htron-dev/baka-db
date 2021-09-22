@@ -1,5 +1,9 @@
 {
     "title": "Maid in Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146671.jpg",
+        "alt": "maid-in-heaven"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

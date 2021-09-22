@@ -1,5 +1,9 @@
 {
     "title": "Utsukushii Tamashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238430.jpg",
+        "alt": "utsukushii-tamashii"
+    },
     "type": "manga",
     "original_name": "うつくしいたましい",
     "start_date": "2016-06-22",

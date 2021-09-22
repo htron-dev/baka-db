@@ -1,5 +1,9 @@
 {
     "title": "Maiko Makemai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240277.jpg",
+        "alt": "maiko-makemai"
+    },
     "type": "manga",
     "chapters": "15",
     "original_name": "まいこ負けまい",

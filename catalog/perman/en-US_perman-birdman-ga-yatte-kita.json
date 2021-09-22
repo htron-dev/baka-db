@@ -1,5 +1,9 @@
 {
     "title": "Perman: Birdman ga Yatte Kita!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71231.jpg",
+        "alt": "perman-birdman-ga-yatte-kita"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "パーマン バードマンがやって来た!!",

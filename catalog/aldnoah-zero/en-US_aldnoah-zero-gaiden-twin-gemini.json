@@ -1,5 +1,9 @@
 {
     "title": "Aldnoah.Zero Gaiden: Twin Gemini",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145365.jpg",
+        "alt": "aldnoah-zero-gaiden-twin-gemini"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "14",

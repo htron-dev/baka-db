@@ -1,5 +1,9 @@
 {
     "title": "Souken Tsukai no Lost Magika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174016.jpg",
+        "alt": "souken-tsukai-no-lost-magika"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "双剣使いの封呪結界〈ロストマギカ〉",

@@ -1,5 +1,9 @@
 {
     "title": "Pucca (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/7414.jpg",
+        "alt": "pucca-ona"
+    },
     "type": "ona",
     "episodes": "46",
     "original_name": "プッカ",

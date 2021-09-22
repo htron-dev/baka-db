@@ -1,5 +1,9 @@
 {
     "title": "Xenogears 4-koma Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144899.jpg",
+        "alt": "xenogears-4-koma-comic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

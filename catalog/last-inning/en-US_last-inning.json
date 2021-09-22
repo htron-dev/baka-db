@@ -1,5 +1,9 @@
 {
     "title": "Last Inning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120023.jpg",
+        "alt": "last-inning"
+    },
     "type": "manga",
     "volumes": "44",
     "chapters": "440",

@@ -1,5 +1,9 @@
 {
     "title": "Haru Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200258.jpg",
+        "alt": "haru-rock"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "47",

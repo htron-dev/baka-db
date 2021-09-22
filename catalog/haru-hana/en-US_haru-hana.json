@@ -1,5 +1,9 @@
 {
     "title": "HaruHana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/31528.jpg",
+        "alt": "haru-hana"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

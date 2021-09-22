@@ -1,5 +1,9 @@
 {
     "title": "Kabedon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234720.jpg",
+        "alt": "kabedon"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

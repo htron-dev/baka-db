@@ -1,12 +1,16 @@
 {
     "title": "Sugar Sugar Rune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/74728.jpg",
+        "alt": "sugar-sugar-rune"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "シュガシュガルーン",
     "start_date": "2005-07-02",
     "end_date": "2005-07-02",
     "opening_song": "\"Chocolate ni Muchuu\" by Karia Nomoto",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Tsuki no Mukou no Sekai\" by Karia Nomoto",
     "rating": "PG - Children",
     "tags": [
         "fantasy",

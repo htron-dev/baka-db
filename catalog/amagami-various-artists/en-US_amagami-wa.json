@@ -1,5 +1,9 @@
 {
     "title": "Amagami Wa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160637.jpg",
+        "alt": "amagami-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

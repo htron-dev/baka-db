@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Hito ni Natte Kuremasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194544.jpg",
+        "alt": "hajimete-no-hito-ni-natte-kuremasen-ka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "初めての人になってくれませんか?",

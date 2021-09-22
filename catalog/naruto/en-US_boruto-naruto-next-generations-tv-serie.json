@@ -1,10 +1,14 @@
 {
     "title": "Boruto: Naruto Next Generations",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/84460.jpg",
+        "alt": "boruto-naruto-next-generations"
+    },
     "type": "tv-serie",
     "original_name": "BORUTO -NARUTO NEXT GENERATIONS-",
     "start_date": "2017-04-05",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Baton Road (バトンロード)\" by KANA-BOON (eps 1-26)",
+    "ending_song": "#01: \"Dreamy Journey (ドリーミージャーニー)\" by the peggies (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

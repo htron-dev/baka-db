@@ -1,5 +1,9 @@
 {
     "title": "Iruka to Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/31835.jpg",
+        "alt": "iruka-to-shounen"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "イルカと少年",

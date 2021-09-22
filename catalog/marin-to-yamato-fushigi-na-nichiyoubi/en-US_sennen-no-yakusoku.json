@@ -1,5 +1,9 @@
 {
     "title": "Sennen no Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/54971.jpg",
+        "alt": "sennen-no-yakusoku"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "千年の約束",

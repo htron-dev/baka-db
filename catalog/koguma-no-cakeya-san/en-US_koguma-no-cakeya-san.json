@@ -1,5 +1,9 @@
 {
     "title": "Koguma no Cakeya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243492.jpg",
+        "alt": "koguma-no-cakeya-san"
+    },
     "type": "manga",
     "original_name": "こぐまのケーキ屋さん",
     "start_date": "2018-03-02",

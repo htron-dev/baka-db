@@ -1,5 +1,9 @@
 {
     "title": "Ashigei Shoujo Komura-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219493.jpg",
+        "alt": "ashigei-shoujo-komura-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "57",

@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Sylphid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174490.jpg",
+        "alt": "kaze-no-sylphid"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "203",

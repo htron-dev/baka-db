@@ -1,5 +1,9 @@
 {
     "title": "Manga Nihonshi (NHK Han)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/59271.jpg",
+        "alt": "manga-nihonshi-nhk-han"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "まんが日本史[NHK 版]",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/%E3%81%BE%E3%82%93%E3%81%8C%E6%97%A5%E6%9C%AC%E5%8F%B2_(NHK"
+            "link": "http://ja.wikipedia.org/wiki/%E3%81%BE%E3%82%93%E3%81%8C%E6%97%A5%E6%9C%AC%E5%8F%B2_%28NHK%29"
         }
     ]
 }

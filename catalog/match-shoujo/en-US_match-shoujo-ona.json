@@ -1,5 +1,9 @@
 {
     "title": "Match Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78478.jpg",
+        "alt": "match-shoujo"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "燐寸少女",

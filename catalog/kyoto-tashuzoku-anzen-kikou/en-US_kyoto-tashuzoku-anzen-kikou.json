@@ -1,5 +1,9 @@
 {
     "title": "Kyoto Tashuzoku Anzen Kikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160753.jpg",
+        "alt": "kyoto-tashuzoku-anzen-kikou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

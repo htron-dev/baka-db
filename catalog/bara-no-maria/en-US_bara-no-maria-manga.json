@@ -1,5 +1,9 @@
 {
     "title": "Bara no Maria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/49499.jpg",
+        "alt": "bara-no-maria"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

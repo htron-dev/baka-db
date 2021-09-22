@@ -1,5 +1,9 @@
 {
     "title": "M nano? Baka nano? Hentai nano?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/101593.jpg",
+        "alt": "m-nano-baka-nano-hentai-nano"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

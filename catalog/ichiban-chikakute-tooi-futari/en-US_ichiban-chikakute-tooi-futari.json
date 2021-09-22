@@ -1,5 +1,9 @@
 {
     "title": "Ichiban Chikakute, Tooi Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124255.jpg",
+        "alt": "ichiban-chikakute-tooi-futari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

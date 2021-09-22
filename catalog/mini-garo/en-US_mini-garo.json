@@ -1,5 +1,9 @@
 {
     "title": "MiniGARO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83547.jpg",
+        "alt": "mini-garo"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "miniGARO",

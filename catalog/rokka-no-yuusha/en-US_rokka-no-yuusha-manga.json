@@ -1,5 +1,9 @@
 {
     "title": "Rokka no Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161314.jpg",
+        "alt": "rokka-no-yuusha"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

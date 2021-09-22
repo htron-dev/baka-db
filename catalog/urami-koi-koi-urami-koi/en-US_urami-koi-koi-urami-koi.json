@@ -1,5 +1,9 @@
 {
     "title": "Urami Koi, Koi, Urami Koi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188933.jpg",
+        "alt": "urami-koi-koi-urami-koi"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "64",

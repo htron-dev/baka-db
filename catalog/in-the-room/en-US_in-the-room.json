@@ -1,5 +1,9 @@
 {
     "title": "In the Room",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223964.jpg",
+        "alt": "in-the-room"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

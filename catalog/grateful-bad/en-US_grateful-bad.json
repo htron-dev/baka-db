@@ -1,5 +1,9 @@
 {
     "title": "Grateful Bad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186297.jpg",
+        "alt": "grateful-bad"
+    },
     "type": "light-novel",
     "original_name": "グレイトフル・バッド",
     "start_date": "2016-12-01",

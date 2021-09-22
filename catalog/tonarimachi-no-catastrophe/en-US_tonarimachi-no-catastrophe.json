@@ -1,5 +1,9 @@
 {
     "title": "Tonarimachi no Catastrophe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196664.jpg",
+        "alt": "tonarimachi-no-catastrophe"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

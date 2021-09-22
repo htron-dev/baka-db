@@ -1,5 +1,9 @@
 {
     "title": "Switch Girl!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128769.jpg",
+        "alt": "switch-girl"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "170",

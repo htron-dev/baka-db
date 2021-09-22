@@ -1,5 +1,9 @@
 {
     "title": "Ohmi-sensei no Binetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37212.jpg",
+        "alt": "ohmi-sensei-no-binetsu"
+    },
     "type": "manga",
     "original_name": "オーミ先生の微熱",
     "tags": [

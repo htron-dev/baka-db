@@ -1,5 +1,9 @@
 {
     "title": "Ani ga Kareshi de, Gomen.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243099.jpg",
+        "alt": "ani-ga-kareshi-de-gomen"
+    },
     "type": "manga",
     "original_name": "兄が彼氏で、ごめん。",
     "start_date": "2020-06-20",

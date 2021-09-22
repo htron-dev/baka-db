@@ -1,12 +1,16 @@
 {
     "title": "Pretty Rhythm: All Star Selection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/60581.jpg",
+        "alt": "pretty-rhythm-all-star-selection"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "プリティーリズム・オールスターセレクション",
     "start_date": "2014-04-05",
     "end_date": "2014-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"You May Dream\" by LISP (eps 1,5)",
+    "ending_song": "#1: \"Happy GO Lucky! ~Happy☆Lucky de GO!~\" (Happy GO Lucky! 〜ハピ ☆ ラキでゴー!〜) by SUPER☆GiRLS (ep 1)",
     "rating": "PG - Children",
     "tags": [
         "music",

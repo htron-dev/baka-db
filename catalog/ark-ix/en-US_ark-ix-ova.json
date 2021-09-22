@@ -1,5 +1,9 @@
 {
     "title": "Ark IX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1755/112479.jpg",
+        "alt": "ark-ix"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アーク IX",

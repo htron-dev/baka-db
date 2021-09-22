@@ -1,5 +1,9 @@
 {
     "title": "Yesterday, Yes a Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/69535.jpg",
+        "alt": "yesterday-yes-a-day"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,12 +1,16 @@
 {
     "title": "Shinkai Densetsu Meremanoid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1972/94176.jpg",
+        "alt": "shinkai-densetsu-meremanoid"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "深海伝説 MEREMANOID",
     "start_date": "1997-10-09",
     "end_date": "1997-10-09",
     "opening_song": "\"Wild Moon\" by Vanilla",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Let Me Drive\" by RHYTHM Remedyz (eps 01-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Yotsunoha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62975.jpg",
+        "alt": "yotsunoha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

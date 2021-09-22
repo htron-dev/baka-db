@@ -1,5 +1,9 @@
 {
     "title": "Lolisen?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41365.jpg",
+        "alt": "lolisen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "36",

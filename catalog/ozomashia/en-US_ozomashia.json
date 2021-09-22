@@ -1,5 +1,9 @@
 {
     "title": "Ozomashia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200789.jpg",
+        "alt": "ozomashia"
+    },
     "type": "manga",
     "original_name": "オゾマシア",
     "start_date": "2016-12-27",

@@ -1,5 +1,9 @@
 {
     "title": "Shouta no Sushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/74905.jpg",
+        "alt": "shouta-no-sushi"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "214",

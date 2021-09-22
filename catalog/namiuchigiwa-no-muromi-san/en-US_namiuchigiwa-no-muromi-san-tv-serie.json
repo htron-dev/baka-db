@@ -1,12 +1,16 @@
 {
     "title": "Namiuchigiwa no Muromi-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74998.jpg",
+        "alt": "namiuchigiwa-no-muromi-san"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "波打際のむろみさん",
     "start_date": "2013-04-07",
     "end_date": "2013-04-07",
     "opening_song": "\"Nanatsu no Umi yori Kimi no Umi (七つの海よりキミの海)\" by Sumire Uesaka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Seaside 99\" by Muromi-san (Yukari Tamura), Hii-chan (Ai Nonaka) & Sumida-san (Sumire Uesaka) (ep 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

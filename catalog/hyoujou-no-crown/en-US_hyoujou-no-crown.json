@@ -1,5 +1,9 @@
 {
     "title": "Hyoujou no Crown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173826.jpg",
+        "alt": "hyoujou-no-crown"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

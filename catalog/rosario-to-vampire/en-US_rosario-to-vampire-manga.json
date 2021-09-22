@@ -1,5 +1,9 @@
 {
     "title": "Rosario to Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54787.jpg",
+        "alt": "rosario-to-vampire"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

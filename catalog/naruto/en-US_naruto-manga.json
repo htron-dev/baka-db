@@ -1,5 +1,9 @@
 {
     "title": "Naruto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117681.jpg",
+        "alt": "naruto"
+    },
     "type": "manga",
     "volumes": "72",
     "chapters": "700",

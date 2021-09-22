@@ -1,5 +1,9 @@
 {
     "title": "Katsugeki/Touken Ranbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202585.jpg",
+        "alt": "katsugeki-touken-ranbu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

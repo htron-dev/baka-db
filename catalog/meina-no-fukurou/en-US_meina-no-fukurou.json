@@ -1,5 +1,9 @@
 {
     "title": "Meina no Fukurou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/93773.jpg",
+        "alt": "meina-no-fukurou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

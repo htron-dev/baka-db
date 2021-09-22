@@ -1,5 +1,9 @@
 {
     "title": "Sekitou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163939.jpg",
+        "alt": "sekitou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

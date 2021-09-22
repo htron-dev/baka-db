@@ -1,9 +1,13 @@
 {
     "title": "Koukaku Kidoutai 2: Manmachine Interface",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/421.jpg",
+        "alt": "koukaku-kidoutai-2-manmachine-interface"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",
-    "original_name": "攻殻機動隊2 MANMACHINE INTERFACE",
+    "original_name": "攻殻機動隊 2 MANMACHINE INTERFACE",
     "start_date": "2001-06-28",
     "tags": [
         "action",

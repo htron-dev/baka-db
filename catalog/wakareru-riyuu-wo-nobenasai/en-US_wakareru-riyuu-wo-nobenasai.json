@@ -1,5 +1,9 @@
 {
     "title": "Wakareru Riyuu wo Nobenasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124303.jpg",
+        "alt": "wakareru-riyuu-wo-nobenasai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

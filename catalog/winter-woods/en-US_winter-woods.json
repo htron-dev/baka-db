@@ -1,5 +1,9 @@
 {
     "title": "Winter Woods",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208547.jpg",
+        "alt": "winter-woods"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "55",

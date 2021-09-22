@@ -1,5 +1,9 @@
 {
     "title": "Nakai-kun-tachi no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247595.jpg",
+        "alt": "nakai-kun-tachi-no-himegoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

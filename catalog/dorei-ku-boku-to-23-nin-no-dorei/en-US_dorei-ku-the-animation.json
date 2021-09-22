@@ -1,5 +1,9 @@
 {
     "title": "Dorei-ku The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1801/90264.jpg",
+        "alt": "dorei-ku-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "奴隷区 The Animation",

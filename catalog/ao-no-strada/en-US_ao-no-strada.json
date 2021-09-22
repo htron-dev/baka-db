@@ -1,5 +1,9 @@
 {
     "title": "Ao no Strada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/84500.jpg",
+        "alt": "ao-no-strada"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "青のストラーダ",

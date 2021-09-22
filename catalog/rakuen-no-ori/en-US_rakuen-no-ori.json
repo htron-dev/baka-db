@@ -1,5 +1,9 @@
 {
     "title": "Rakuen no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158207.jpg",
+        "alt": "rakuen-no-ori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

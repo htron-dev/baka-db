@@ -1,5 +1,9 @@
 {
     "title": "Kouboku no Keibu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/94457.jpg",
+        "alt": "kouboku-no-keibu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

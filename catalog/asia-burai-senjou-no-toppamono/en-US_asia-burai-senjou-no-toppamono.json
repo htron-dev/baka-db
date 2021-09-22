@@ -1,5 +1,9 @@
 {
     "title": "Asia Burai: Senjou no Toppamono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166845.jpg",
+        "alt": "asia-burai-senjou-no-toppamono"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

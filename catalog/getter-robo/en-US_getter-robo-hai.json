@@ -1,5 +1,9 @@
 {
     "title": "Getter Robo Hai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223799.jpg",
+        "alt": "getter-robo-hai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ゲッターロボ牌",

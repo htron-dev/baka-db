@@ -1,5 +1,9 @@
 {
     "title": "Sheikh to Doko Made mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63249.jpg",
+        "alt": "sheikh-to-doko-made-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

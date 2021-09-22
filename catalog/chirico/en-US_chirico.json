@@ -1,5 +1,9 @@
 {
     "title": "Chirico",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75035.jpg",
+        "alt": "chirico"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キリコ",

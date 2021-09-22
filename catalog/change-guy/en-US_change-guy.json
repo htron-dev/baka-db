@@ -1,5 +1,9 @@
 {
     "title": "Change Guy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67463.jpg",
+        "alt": "change-guy"
+    },
     "type": "manhwa",
     "volumes": "31",
     "chapters": "338",

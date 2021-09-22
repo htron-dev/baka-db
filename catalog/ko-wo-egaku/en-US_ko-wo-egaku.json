@@ -1,5 +1,9 @@
 {
     "title": "Ko wo Egaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233757.jpg",
+        "alt": "ko-wo-egaku"
+    },
     "type": "manga",
     "original_name": "弧を描く",
     "start_date": "2019-08-24",

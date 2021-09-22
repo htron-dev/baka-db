@@ -1,5 +1,9 @@
 {
     "title": "Vahlia no Hanamuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193026.jpg",
+        "alt": "vahlia-no-hanamuko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

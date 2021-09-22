@@ -1,12 +1,16 @@
 {
     "title": "Awake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/30685.jpg",
+        "alt": "awake"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "AWAKE",
     "start_date": "1984-08-16",
     "end_date": "1984-08-16",
     "opening_song": "“Battle In Outer Space” by Akira Ifukube",
-    "ending_song": "#01",
+    "ending_song": "#01: “Overture” by Trevor Jones",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

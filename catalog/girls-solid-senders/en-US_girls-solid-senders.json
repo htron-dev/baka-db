@@ -1,5 +1,9 @@
 {
     "title": "Girls Solid Senders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110401.jpg",
+        "alt": "girls-solid-senders"
+    },
     "type": "manga",
     "original_name": "ガールズ・ソリッドセンダーズ",
     "start_date": "2013-12-25",

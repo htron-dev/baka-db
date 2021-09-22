@@ -1,12 +1,16 @@
 {
     "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/79414.jpg",
+        "alt": "netoge-no-yome-wa-onnanoko-ja-nai-to-omotta"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ネトゲの嫁は女の子じゃないと思った？",
     "start_date": "2016-04-07",
     "end_date": "2016-04-07",
     "opening_song": "\"1st Love Story\" by Luce Twinkle Wink☆ (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"1st Love Story\" by Luce Twinkle Wink☆ (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game",

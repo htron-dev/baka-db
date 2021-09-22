@@ -1,5 +1,9 @@
 {
     "title": "Seifuumaroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35701.jpg",
+        "alt": "seifuumaroku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "聖封魔録",

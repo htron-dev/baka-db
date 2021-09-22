@@ -1,5 +1,9 @@
 {
     "title": "Yume no Akichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137501.jpg",
+        "alt": "yume-no-akichi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

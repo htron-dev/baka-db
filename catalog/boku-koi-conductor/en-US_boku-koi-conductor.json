@@ -1,5 +1,9 @@
 {
     "title": "Boku Koi Conductor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188805.jpg",
+        "alt": "boku-koi-conductor"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ボク恋コンダクター",

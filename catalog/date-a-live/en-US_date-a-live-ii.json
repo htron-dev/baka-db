@@ -1,12 +1,16 @@
 {
     "title": "Date A Live II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/76003.jpg",
+        "alt": "date-a-live-ii"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "デート・ア・ライブ Ⅱ",
     "start_date": "2014-04-12",
     "end_date": "2014-04-12",
     "opening_song": "\"Trust in you\" by sweet ARMS",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Day to Story\" by Kaori Sadohara (eps 1 - 9)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

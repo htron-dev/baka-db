@@ -1,5 +1,9 @@
 {
     "title": "Archaic Chain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206845.jpg",
+        "alt": "archaic-chain"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

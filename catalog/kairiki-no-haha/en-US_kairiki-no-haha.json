@@ -1,5 +1,9 @@
 {
     "title": "Kairiki no haha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234127.jpg",
+        "alt": "kairiki-no-haha"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "怪力の母",

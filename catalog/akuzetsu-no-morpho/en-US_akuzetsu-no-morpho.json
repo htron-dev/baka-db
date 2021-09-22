@@ -1,5 +1,9 @@
 {
     "title": "Akuzetsu no Morpho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205374.jpg",
+        "alt": "akuzetsu-no-morpho"
+    },
     "type": "manga",
     "original_name": "悪舌のモルフォ",
     "start_date": "2017-06-26",

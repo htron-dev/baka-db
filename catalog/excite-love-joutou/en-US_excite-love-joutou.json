@@ -1,5 +1,9 @@
 {
     "title": "Excite Love Joutou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31333.jpg",
+        "alt": "excite-love-joutou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

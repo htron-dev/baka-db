@@ -1,5 +1,9 @@
 {
     "title": "Qui Shui Yi Yun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/81276.jpg",
+        "alt": "qui-shui-yi-yun"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "诡水疑云",

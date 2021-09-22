@@ -1,5 +1,9 @@
 {
     "title": "Wilderness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/76253.jpg",
+        "alt": "wilderness"
+    },
     "type": "manga",
     "original_name": "ワイルダネス",
     "start_date": "2000-08-19",

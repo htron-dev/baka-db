@@ -1,5 +1,9 @@
 {
     "title": "Binkan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66235.jpg",
+        "alt": "binkan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ore no Zutto Suki na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6248.jpg",
+        "alt": "ore-no-zutto-suki-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

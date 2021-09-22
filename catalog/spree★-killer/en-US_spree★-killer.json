@@ -1,5 +1,9 @@
 {
     "title": "Spree★Killer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53487.jpg",
+        "alt": "spree★-killer"
+    },
     "type": "manga",
     "original_name": "SPREE★KILLER スプリーキラー",
     "start_date": "2011-07-23",

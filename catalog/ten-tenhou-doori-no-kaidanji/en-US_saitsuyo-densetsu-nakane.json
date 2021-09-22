@@ -1,5 +1,9 @@
 {
     "title": "Saitsuyo Densetsu Nakane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224195.jpg",
+        "alt": "saitsuyo-densetsu-nakane"
+    },
     "type": "manga",
     "original_name": "最強〈さいつよ〉伝説 仲根",
     "start_date": "2017-12-06",

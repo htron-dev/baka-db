@@ -1,5 +1,9 @@
 {
     "title": "Eiga Daisuki Pompo-san (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1893/109683.jpg",
+        "alt": "eiga-daisuki-pompo-san-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画大好きポンポさん",

@@ -1,5 +1,9 @@
 {
     "title": "Yama to Shokuyoku to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185831.jpg",
+        "alt": "yama-to-shokuyoku-to-watashi"
+    },
     "type": "manga",
     "original_name": "山と食欲と私",
     "start_date": "2015-09-18",

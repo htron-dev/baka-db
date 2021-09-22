@@ -1,5 +1,9 @@
 {
     "title": "Kamitsukitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33058.jpg",
+        "alt": "kamitsukitai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

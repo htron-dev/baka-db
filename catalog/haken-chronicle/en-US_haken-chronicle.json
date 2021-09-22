@@ -1,5 +1,9 @@
 {
     "title": "Haken Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176523.jpg",
+        "alt": "haken-chronicle"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "20",

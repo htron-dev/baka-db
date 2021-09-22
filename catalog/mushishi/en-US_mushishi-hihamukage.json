@@ -1,5 +1,9 @@
 {
     "title": "Mushishi: Hihamukage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/59315.jpg",
+        "alt": "mushishi-hihamukage"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "蟲師 特別篇「日蝕む翳」",

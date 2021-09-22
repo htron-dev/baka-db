@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Kaguya-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1744/108568.jpg",
+        "alt": "hello-kitty-no-kaguya-hime"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのかぐや姫",

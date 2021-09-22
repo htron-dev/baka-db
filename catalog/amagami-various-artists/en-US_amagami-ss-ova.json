@@ -1,5 +1,9 @@
 {
     "title": "Amagami SS OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/29939.jpg",
+        "alt": "amagami-ss-ova"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "アマガミ SS",

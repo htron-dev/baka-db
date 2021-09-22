@@ -1,12 +1,16 @@
 {
     "title": "Hiatari Ryoukou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/29624.jpg",
+        "alt": "hiatari-ryoukou"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "陽あたり良好！",
     "start_date": "1987-03-29",
     "end_date": "1987-03-29",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hiatari Ryôkô\" by Aki Asakura (eps 1-17)",
+    "ending_song": "#1: \"Shitauchi no Maria\" by Yume Kôba (eps 1-17)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

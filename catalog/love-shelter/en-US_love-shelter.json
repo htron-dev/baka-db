@@ -1,5 +1,9 @@
 {
     "title": "Love Shelter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/250400.jpg",
+        "alt": "love-shelter"
+    },
     "type": "manga",
     "original_name": "らぶしぇるたぁ",
     "tags": [

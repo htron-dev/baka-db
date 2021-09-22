@@ -1,5 +1,9 @@
 {
     "title": "Amai Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116895.jpg",
+        "alt": "amai-seikatsu"
+    },
     "type": "manga",
     "volumes": "40",
     "chapters": "480",

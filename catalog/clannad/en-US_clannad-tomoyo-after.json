@@ -1,5 +1,9 @@
 {
     "title": "Clannad: Tomoyo After",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6141.jpg",
+        "alt": "clannad-tomoyo-after"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Fortune Fortune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152450.jpg",
+        "alt": "fortune-fortune"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

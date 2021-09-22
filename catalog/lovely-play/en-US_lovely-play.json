@@ -1,5 +1,9 @@
 {
     "title": "Lovely Play",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228434.jpg",
+        "alt": "lovely-play"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

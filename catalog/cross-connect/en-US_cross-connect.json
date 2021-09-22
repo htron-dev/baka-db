@@ -1,5 +1,9 @@
 {
     "title": "Cross Connect",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228281.jpg",
+        "alt": "cross-connect"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "20",

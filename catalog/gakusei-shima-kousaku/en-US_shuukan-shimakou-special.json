@@ -1,5 +1,9 @@
 {
     "title": "Shuukan Shimakou Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/32357.jpg",
+        "alt": "shuukan-shimakou-special"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "大怪獣島耕作の巻",

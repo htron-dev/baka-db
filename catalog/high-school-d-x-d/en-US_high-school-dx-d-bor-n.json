@@ -1,12 +1,16 @@
 {
     "title": "High School DxD BorN",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/73642.jpg",
+        "alt": "high-school-dx-d-bor-n"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハイスクール D×D BorN",
     "start_date": "2015-04-04",
     "end_date": "2015-04-04",
     "opening_song": "\"BLESS YoUr NAME\" by ChouCho",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Give Me Secret (ギブミー・シークレット)\" by StylipS (eps 1-11)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

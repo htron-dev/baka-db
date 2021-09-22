@@ -1,5 +1,9 @@
 {
     "title": "Holmes-san wa Suiri Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197325.jpg",
+        "alt": "holmes-san-wa-suiri-dekinai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

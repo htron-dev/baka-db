@@ -1,5 +1,9 @@
 {
     "title": "Shuffle!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/19622.jpg",
+        "alt": "shuffle"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "SHUFFLE! (シャッフル!)",

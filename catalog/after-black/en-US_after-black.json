@@ -1,5 +1,9 @@
 {
     "title": "After Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160170.jpg",
+        "alt": "after-black"
+    },
     "type": "light-novel",
     "original_name": "アフターブラック",
     "start_date": "2015-07-31",

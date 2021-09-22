@@ -1,5 +1,9 @@
 {
     "title": "Miss Poppyseed no Märchen Yokochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225098.jpg",
+        "alt": "miss-poppyseed-no-marchen-yokochou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

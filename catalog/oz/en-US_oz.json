@@ -1,5 +1,9 @@
 {
     "title": "OZ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116793.jpg",
+        "alt": "oz"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Rutta to Kodama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34226.jpg",
+        "alt": "rutta-to-kodama"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

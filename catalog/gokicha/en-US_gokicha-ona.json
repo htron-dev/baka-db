@@ -1,5 +1,9 @@
 {
     "title": "Gokicha!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/77941.jpg",
+        "alt": "gokicha"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ごきチャ!!",

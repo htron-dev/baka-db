@@ -1,5 +1,9 @@
 {
     "title": "Ringo, Ki kara Ochiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191472.jpg",
+        "alt": "ringo-ki-kara-ochiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

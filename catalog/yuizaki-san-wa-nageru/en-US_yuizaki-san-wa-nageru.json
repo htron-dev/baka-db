@@ -1,5 +1,9 @@
 {
     "title": "Yuizaki-san wa Nageru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191158.jpg",
+        "alt": "yuizaki-san-wa-nageru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "65",

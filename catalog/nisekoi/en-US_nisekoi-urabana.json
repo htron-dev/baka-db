@@ -1,5 +1,9 @@
 {
     "title": "Nisekoi: Urabana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/111109.jpg",
+        "alt": "nisekoi-urabana"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "12",

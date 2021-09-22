@@ -1,5 +1,9 @@
 {
     "title": "Card Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79395.jpg",
+        "alt": "card-master"
+    },
     "type": "manga",
     "original_name": "カードマスター",
     "tags": [

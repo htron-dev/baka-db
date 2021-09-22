@@ -1,5 +1,9 @@
 {
     "title": "Nakagami-ke no Ichizoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31109.jpg",
+        "alt": "nakagami-ke-no-ichizoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

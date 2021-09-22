@@ -1,5 +1,9 @@
 {
     "title": "Flaver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208334.jpg",
+        "alt": "flaver"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

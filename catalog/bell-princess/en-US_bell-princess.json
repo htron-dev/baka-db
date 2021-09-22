@@ -1,5 +1,9 @@
 {
     "title": "Bell Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30369.jpg",
+        "alt": "bell-princess"
+    },
     "type": "manhwa",
     "original_name": "방울공주",
     "tags": [

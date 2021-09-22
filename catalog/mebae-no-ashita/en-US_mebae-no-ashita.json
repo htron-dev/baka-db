@@ -1,5 +1,9 @@
 {
     "title": "Mebae no Ashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/66151.jpg",
+        "alt": "mebae-no-ashita"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "めばえの朝（あした）",

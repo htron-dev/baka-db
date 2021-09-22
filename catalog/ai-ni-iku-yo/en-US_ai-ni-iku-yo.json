@@ -1,5 +1,9 @@
 {
     "title": "Ai ni Iku yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152352.jpg",
+        "alt": "ai-ni-iku-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Ore wa!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/156533.jpg",
+        "alt": "kyou-kara-ore-wa"
+    },
     "type": "manga",
     "volumes": "38",
     "chapters": "366",

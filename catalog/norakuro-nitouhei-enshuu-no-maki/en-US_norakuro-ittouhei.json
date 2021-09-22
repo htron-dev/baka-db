@@ -1,5 +1,9 @@
 {
     "title": "Norakuro Ittouhei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71978.jpg",
+        "alt": "norakuro-ittouhei"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "のらくろ一等兵",

@@ -1,5 +1,9 @@
 {
     "title": "Zipang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75740.jpg",
+        "alt": "zipang"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ジパング",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Zipang_(manga"
+            "link": "http://en.wikipedia.org/wiki/Zipang_%28manga%29#Anime"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Muv-Luv Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196056.jpg",
+        "alt": "muv-luv-alternative"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "101",

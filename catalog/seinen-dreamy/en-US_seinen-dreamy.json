@@ -1,5 +1,9 @@
 {
     "title": "Seinen Dreamy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206974.jpg",
+        "alt": "seinen-dreamy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

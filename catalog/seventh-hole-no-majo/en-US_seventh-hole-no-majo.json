@@ -1,5 +1,9 @@
 {
     "title": "Seventh Hole no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160977.jpg",
+        "alt": "seventh-hole-no-majo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Grimoire wa Oshiete Kurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164188.jpg",
+        "alt": "grimoire-wa-oshiete-kurenai"
+    },
     "type": "light-novel",
     "original_name": "魔導書姫〈グリモワール〉は教えてくれない",
     "start_date": "2015-09-19",

@@ -1,5 +1,9 @@
 {
     "title": "Ai (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/77494.jpg",
+        "alt": "ai-ona"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "愛",

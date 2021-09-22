@@ -1,5 +1,9 @@
 {
     "title": "Viva Love You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156341.jpg",
+        "alt": "viva-love-you"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "비바 러브 유",

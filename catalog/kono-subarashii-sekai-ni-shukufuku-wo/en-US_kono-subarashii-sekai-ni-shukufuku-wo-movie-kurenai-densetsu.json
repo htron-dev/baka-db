@@ -1,10 +1,14 @@
 {
     "title": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1129/117109.jpg",
+        "alt": "kono-subarashii-sekai-ni-shukufuku-wo-movie-kurenai-densetsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 この素晴らしい世界に祝福を！紅伝説",
     "start_date": "2019-08-30",
-    "ending_song": "#1",
+    "ending_song": "#1: \"My Home Town (マイ・ホーム・タウン)\" by Aqua (Sora Amamiya), Megumin (Rie Takahashi), Darkness (Ai Kayano)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

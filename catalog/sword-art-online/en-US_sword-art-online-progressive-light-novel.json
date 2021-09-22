@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Progressive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/77447.jpg",
+        "alt": "sword-art-online-progressive"
+    },
     "type": "light-novel",
     "original_name": "ソードアート・オンライン プログレッシブ",
     "start_date": "2012-10-10",

@@ -1,5 +1,9 @@
 {
     "title": "OidemaSeri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180004.jpg",
+        "alt": "oidema-seri"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

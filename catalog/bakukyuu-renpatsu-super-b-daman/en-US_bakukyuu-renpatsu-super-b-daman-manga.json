@@ -1,5 +1,9 @@
 {
     "title": "Bakukyuu Renpatsu!! Super B-Daman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35102.jpg",
+        "alt": "bakukyuu-renpatsu-super-b-daman"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "82",

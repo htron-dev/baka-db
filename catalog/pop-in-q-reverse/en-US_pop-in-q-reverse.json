@@ -1,5 +1,9 @@
 {
     "title": "Pop in Q Reverse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191906.jpg",
+        "alt": "pop-in-q-reverse"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

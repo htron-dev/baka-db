@@ -1,5 +1,9 @@
 {
     "title": "Sora no Mannaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23352.jpg",
+        "alt": "sora-no-mannaka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

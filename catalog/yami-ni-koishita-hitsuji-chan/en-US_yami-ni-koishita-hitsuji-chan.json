@@ -1,5 +1,9 @@
 {
     "title": "Yami ni Koishita Hitsuji-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196423.jpg",
+        "alt": "yami-ni-koishita-hitsuji-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

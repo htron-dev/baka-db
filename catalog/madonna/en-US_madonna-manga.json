@@ -1,5 +1,9 @@
 {
     "title": "Madonna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/214047.jpg",
+        "alt": "madonna"
+    },
     "type": "manga",
     "volumes": "22",
     "original_name": "マドンナ",

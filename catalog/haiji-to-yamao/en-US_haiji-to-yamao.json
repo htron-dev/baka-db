@@ -1,5 +1,9 @@
 {
     "title": "Haiji to Yamao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174053.jpg",
+        "alt": "haiji-to-yamao"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

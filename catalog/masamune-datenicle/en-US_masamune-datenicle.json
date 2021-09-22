@@ -1,5 +1,9 @@
 {
     "title": "Masamune Datenicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83821.jpg",
+        "alt": "masamune-datenicle"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "政宗ダテニクル",

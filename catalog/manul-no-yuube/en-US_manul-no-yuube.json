@@ -1,5 +1,9 @@
 {
     "title": "Manul no Yuube",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1980/96936.jpg",
+        "alt": "manul-no-yuube"
+    },
     "type": "tv-serie",
     "original_name": "マヌ～ルのゆうべ",
     "start_date": "2018-11-11",

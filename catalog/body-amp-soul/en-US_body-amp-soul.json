@@ -1,5 +1,9 @@
 {
     "title": "Body &amp; Soul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7811.jpg",
+        "alt": "body-amp-soul"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

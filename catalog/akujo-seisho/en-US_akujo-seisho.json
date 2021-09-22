@@ -1,5 +1,9 @@
 {
     "title": "Akujo Seisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17566.jpg",
+        "alt": "akujo-seisho"
+    },
     "type": "manga",
     "volumes": "27",
     "original_name": "悪女聖書",

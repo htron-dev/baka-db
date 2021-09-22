@@ -1,5 +1,9 @@
 {
     "title": "Lucky Star Pocket Travelers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6659.jpg",
+        "alt": "lucky-star-pocket-travelers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

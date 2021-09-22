@@ -1,5 +1,9 @@
 {
     "title": "Amadeus Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147845.jpg",
+        "alt": "amadeus-code"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "アマデウスコード",

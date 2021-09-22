@@ -1,5 +1,9 @@
 {
     "title": "Wait! Wolf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18230.jpg",
+        "alt": "wait-wolf"
+    },
     "type": "manhwa",
     "volumes": "18",
     "tags": [

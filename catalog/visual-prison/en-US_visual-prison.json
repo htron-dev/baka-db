@@ -1,5 +1,9 @@
 {
     "title": "Visual Prison",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1872/117664.jpg",
+        "alt": "visual-prison"
+    },
     "type": "tv-serie",
     "original_name": "ヴィジュアルプリズン",
     "start_date": "2021-10-20",

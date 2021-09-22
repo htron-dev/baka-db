@@ -1,5 +1,9 @@
 {
     "title": "Sparrow's Hotel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1185/112171.jpg",
+        "alt": "sparrows-hotel"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "スパロウズホテル",

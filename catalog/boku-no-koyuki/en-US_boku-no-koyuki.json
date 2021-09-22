@@ -1,5 +1,9 @@
 {
     "title": "Boku no Koyuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174151.jpg",
+        "alt": "boku-no-koyuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Kannou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192974.jpg",
+        "alt": "kannou-shoujo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

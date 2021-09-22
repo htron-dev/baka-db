@@ -1,10 +1,14 @@
 {
     "title": "Black Magic M-66",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1645/94523.jpg",
+        "alt": "black-magic-m-66"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ブラックマジックＭ（マリオ）－６６",
     "start_date": "1987-06-28",
-    "ending_song": "\"Finaly",
+    "ending_song": "\"Finaly: Street Dancer ni Ai wo Komete (FINALY~ストリート・ダンサーに愛をこめて)\" by Yuuki Kitahara",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Pro Golfer Saru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/46521.jpg",
+        "alt": "shin-pro-golfer-saru"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "新プロゴルファー猿",

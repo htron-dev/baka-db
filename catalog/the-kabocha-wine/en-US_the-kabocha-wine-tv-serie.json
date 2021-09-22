@@ -1,12 +1,16 @@
 {
     "title": "The Kabocha Wine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/26634.jpg",
+        "alt": "the-kabocha-wine"
+    },
     "type": "tv-serie",
     "episodes": "95",
     "original_name": "Ｔｈｅかぼちゃワイン",
     "start_date": "1982-07-05",
     "end_date": "1982-07-05",
     "opening_song": "\"L wa Lovely (L はラブリー)\" by The Chirps, Kumiko Kaori",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Aoba Shunsuke The Konjou (青葉春助 ザ・根性)\" by Columbia Yurikago Kai, Toshio Furukawa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

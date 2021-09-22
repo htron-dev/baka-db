@@ -1,5 +1,9 @@
 {
     "title": "Burakonzu! - Niichan, Kareshi ga Dekimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41786.jpg",
+        "alt": "burakonzu-niichan-kareshi-ga-dekimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

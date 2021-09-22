@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Senshi Baldios (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/61937.jpg",
+        "alt": "uchuu-senshi-baldios-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "宇宙戦士バルディオス",

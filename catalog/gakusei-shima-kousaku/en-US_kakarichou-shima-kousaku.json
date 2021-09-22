@@ -1,5 +1,9 @@
 {
     "title": "Kakarichou Shima Kousaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128997.jpg",
+        "alt": "kakarichou-shima-kousaku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

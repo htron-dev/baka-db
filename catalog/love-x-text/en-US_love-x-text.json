@@ -1,5 +1,9 @@
 {
     "title": "Love x Text!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83583.jpg",
+        "alt": "love-x-text"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

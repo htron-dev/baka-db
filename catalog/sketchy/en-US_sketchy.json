@@ -1,5 +1,9 @@
 {
     "title": "Sketchy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225888.jpg",
+        "alt": "sketchy"
+    },
     "type": "manga",
     "original_name": "スケッチー",
     "start_date": "2019-04-05",

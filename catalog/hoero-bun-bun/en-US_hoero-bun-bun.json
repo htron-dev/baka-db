@@ -1,5 +1,9 @@
 {
     "title": "Hoero! Bun Bun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/28908.jpg",
+        "alt": "hoero-bun-bun"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ほえろブンブン",

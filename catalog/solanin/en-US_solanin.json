@@ -1,5 +1,9 @@
 {
     "title": "Solanin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179699.jpg",
+        "alt": "solanin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

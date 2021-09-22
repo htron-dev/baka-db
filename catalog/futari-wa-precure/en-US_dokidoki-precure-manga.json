@@ -1,5 +1,9 @@
 {
     "title": "Dokidoki! Precure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235678.jpg",
+        "alt": "dokidoki-precure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

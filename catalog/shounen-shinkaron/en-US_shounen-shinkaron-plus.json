@@ -1,5 +1,9 @@
 {
     "title": "Shounen Shinkaron Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155708.jpg",
+        "alt": "shounen-shinkaron-plus"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

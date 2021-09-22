@@ -1,5 +1,9 @@
 {
     "title": "Backstage Idol Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/42817.jpg",
+        "alt": "backstage-idol-story"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "バックステージ・アイドル・ストーリー",

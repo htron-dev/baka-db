@@ -1,5 +1,9 @@
 {
     "title": "Singularity wa Kumo wo Tsukamu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198504.jpg",
+        "alt": "singularity-wa-kumo-wo-tsukamu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

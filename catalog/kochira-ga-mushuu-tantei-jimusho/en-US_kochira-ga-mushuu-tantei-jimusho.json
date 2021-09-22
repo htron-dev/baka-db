@@ -1,5 +1,9 @@
 {
     "title": "Kochira ga Mushuu Tantei Jimusho!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35907.jpg",
+        "alt": "kochira-ga-mushuu-tantei-jimusho"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "こちらがむしゅ～探偵事務所!",

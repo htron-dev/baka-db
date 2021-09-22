@@ -1,5 +1,9 @@
 {
     "title": "Diamond Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/158802.jpg",
+        "alt": "diamond-life"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

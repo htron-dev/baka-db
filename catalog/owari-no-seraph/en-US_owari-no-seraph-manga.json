@@ -1,5 +1,9 @@
 {
     "title": "Owari no Seraph",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137573.jpg",
+        "alt": "owari-no-seraph"
+    },
     "type": "manga",
     "original_name": "終わりのセラフ",
     "start_date": "2012-09-03",

@@ -1,5 +1,9 @@
 {
     "title": "Akizuki-san wa Otona ni Narenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209045.jpg",
+        "alt": "akizuki-san-wa-otona-ni-narenai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

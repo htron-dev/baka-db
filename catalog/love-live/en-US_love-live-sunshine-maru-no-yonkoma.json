@@ -1,5 +1,9 @@
 {
     "title": "Love Live! Sunshine!!: Maru no Yonkoma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230423.jpg",
+        "alt": "love-live-sunshine-maru-no-yonkoma"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

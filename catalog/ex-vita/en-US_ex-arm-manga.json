@@ -1,5 +1,9 @@
 {
     "title": "Ex-Arm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163539.jpg",
+        "alt": "ex-arm"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "98",

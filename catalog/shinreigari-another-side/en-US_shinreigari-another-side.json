@@ -1,5 +1,9 @@
 {
     "title": "Shinreigari: Another Side",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/99699.jpg",
+        "alt": "shinreigari-another-side"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "神霊狩 ANOTHER SIDE",

@@ -1,5 +1,9 @@
 {
     "title": "Jikan Teishi Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227533.jpg",
+        "alt": "jikan-teishi-yuusha"
+    },
     "type": "manga",
     "original_name": "時間停止勇者",
     "start_date": "2019-09-26",

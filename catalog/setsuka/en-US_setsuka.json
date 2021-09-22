@@ -1,5 +1,9 @@
 {
     "title": "Setsuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28508.jpg",
+        "alt": "setsuka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

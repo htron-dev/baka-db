@@ -1,5 +1,9 @@
 {
     "title": "Hoshifuri Mura Jiken File",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163786.jpg",
+        "alt": "hoshifuri-mura-jiken-file"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "星降り村事件ファイル",

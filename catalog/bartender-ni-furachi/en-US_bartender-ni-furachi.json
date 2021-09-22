@@ -1,5 +1,9 @@
 {
     "title": "Bartender ni Furachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72239.jpg",
+        "alt": "bartender-ni-furachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

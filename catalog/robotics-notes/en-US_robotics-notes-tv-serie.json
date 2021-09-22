@@ -1,12 +1,16 @@
 {
     "title": "Robotics;Notes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/42013.jpg",
+        "alt": "robotics-notes"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "ロボティクス・ノーツ",
     "start_date": "2012-10-12",
     "end_date": "2012-10-12",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Junjou Spectra (純情スペクトラ)\" by Zwei (eps 1-11)",
+    "ending_song": "#1: \"Umikaze no Brave (海風のブレイブ)\" by fumika (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

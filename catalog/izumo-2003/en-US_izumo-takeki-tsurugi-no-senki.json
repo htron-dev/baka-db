@@ -1,5 +1,9 @@
 {
     "title": "Izumo: Takeki Tsurugi no Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/18482.jpg",
+        "alt": "izumo-takeki-tsurugi-no-senki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "IZUMO -猛き剣の閃記-",

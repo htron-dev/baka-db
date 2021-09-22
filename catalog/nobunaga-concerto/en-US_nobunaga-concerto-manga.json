@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga Concerto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62217.jpg",
+        "alt": "nobunaga-concerto"
+    },
     "type": "manga",
     "original_name": "信長協奏曲〈コンツェルト〉",
     "start_date": "2009-05-12",

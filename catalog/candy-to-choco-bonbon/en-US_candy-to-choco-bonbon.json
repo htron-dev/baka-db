@@ -1,5 +1,9 @@
 {
     "title": "Candy to Choco Bonbon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138199.jpg",
+        "alt": "candy-to-choco-bonbon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キャンディとチョコボンボン 大矢ちき傑作集",

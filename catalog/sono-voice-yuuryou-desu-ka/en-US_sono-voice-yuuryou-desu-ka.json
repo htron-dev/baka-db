@@ -1,5 +1,9 @@
 {
     "title": "Sono Voice, Yuuryou desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203946.jpg",
+        "alt": "sono-voice-yuuryou-desu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "China Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56993.jpg",
+        "alt": "china-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174932.jpg",
+        "alt": "kono-subarashii-sekai-ni-shukufuku-wo"
+    },
     "type": "light-novel",
     "volumes": "17",
     "chapters": "127",

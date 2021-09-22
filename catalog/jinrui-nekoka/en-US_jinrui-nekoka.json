@@ -1,5 +1,9 @@
 {
     "title": "Jinrui Nekoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78897.jpg",
+        "alt": "jinrui-nekoka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

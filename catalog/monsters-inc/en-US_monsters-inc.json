@@ -1,5 +1,9 @@
 {
     "title": "Monsters, Inc.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24868.jpg",
+        "alt": "monsters-inc"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

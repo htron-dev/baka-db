@@ -1,5 +1,9 @@
 {
     "title": "Mystical",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244674.jpg",
+        "alt": "mystical"
+    },
     "type": "manhwa",
     "original_name": "신비",
     "start_date": "2020-02-20",

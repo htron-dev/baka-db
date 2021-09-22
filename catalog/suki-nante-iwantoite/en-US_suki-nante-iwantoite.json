@@ -1,5 +1,9 @@
 {
     "title": "Suki nante Iwantoite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225936.jpg",
+        "alt": "suki-nante-iwantoite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

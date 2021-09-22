@@ -1,5 +1,9 @@
 {
     "title": "Sirius to Mayu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225428.jpg",
+        "alt": "sirius-to-mayu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

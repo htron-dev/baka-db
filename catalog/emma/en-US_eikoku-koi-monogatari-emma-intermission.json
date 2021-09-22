@@ -1,11 +1,15 @@
 {
     "title": "Eikoku Koi Monogatari Emma: Intermission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/3091.jpg",
+        "alt": "eikoku-koi-monogatari-emma-intermission"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "英國戀物語エマ",
     "start_date": "2007-04-21",
     "opening_song": "\"Silhouette of a Breeze\" by Kunihiko Ryo",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Silhouette of a Breeze - Celtic version\" by Kunihiko Ryo (ep 1)",
     "rating": "G - All Ages",
     "tags": [
         "drama",

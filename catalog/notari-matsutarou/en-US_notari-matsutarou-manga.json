@@ -1,5 +1,9 @@
 {
     "title": "Notari Matsutarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116689.jpg",
+        "alt": "notari-matsutarou"
+    },
     "type": "manga",
     "volumes": "36",
     "chapters": "360",

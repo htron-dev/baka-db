@@ -1,5 +1,9 @@
 {
     "title": "Lady Georgie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1271/92965.jpg",
+        "alt": "lady-georgie"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "レディジョージィ",

@@ -1,5 +1,9 @@
 {
     "title": "Arcana Famiglia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/39495.jpg",
+        "alt": "arcana-famiglia"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アルカナ・ファミリア －La storia della Arcana Famiglia－",

@@ -1,5 +1,9 @@
 {
     "title": "Kaikan Trap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96821.jpg",
+        "alt": "kaikan-trap"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

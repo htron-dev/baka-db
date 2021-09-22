@@ -1,5 +1,9 @@
 {
     "title": "Pretty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2344.jpg",
+        "alt": "pretty"
+    },
     "type": "manhwa",
     "volumes": "8",
     "tags": [

@@ -1,12 +1,16 @@
 {
     "title": "Shingeki no Bahamut: Genesis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/67513.jpg",
+        "alt": "shingeki-no-bahamut-genesis"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "神撃のバハムート GENESIS",
     "start_date": "2014-10-06",
     "end_date": "2014-10-06",
     "opening_song": "\"EXiSTENCE\" by SiM (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Rage of Bahamut\" by Yoshihiro Ike (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

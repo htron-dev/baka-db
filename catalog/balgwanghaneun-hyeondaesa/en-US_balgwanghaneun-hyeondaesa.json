@@ -1,5 +1,9 @@
 {
     "title": "Balgwanghaneun Hyeondaesa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1173/112333.jpg",
+        "alt": "balgwanghaneun-hyeondaesa"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "발광하는 현대사",

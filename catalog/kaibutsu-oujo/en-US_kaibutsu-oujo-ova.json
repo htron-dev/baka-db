@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu Oujo (OVA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/27643.jpg",
+        "alt": "kaibutsu-oujo-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "怪物王女",

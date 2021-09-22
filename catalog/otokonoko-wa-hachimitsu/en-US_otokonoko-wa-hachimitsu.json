@@ -1,5 +1,9 @@
 {
     "title": "Otokonoko wa Hachimitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/28767.jpg",
+        "alt": "otokonoko-wa-hachimitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

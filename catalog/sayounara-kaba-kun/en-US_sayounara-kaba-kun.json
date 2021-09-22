@@ -1,5 +1,9 @@
 {
     "title": "Sayounara Kaba-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/67881.jpg",
+        "alt": "sayounara-kaba-kun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "さようならカバくん",

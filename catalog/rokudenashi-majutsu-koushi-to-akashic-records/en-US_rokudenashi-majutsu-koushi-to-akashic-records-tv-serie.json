@@ -1,12 +1,16 @@
 {
     "title": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/85593.jpg",
+        "alt": "rokudenashi-majutsu-koushi-to-akashic-records"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ロクでなし魔術講師と禁忌教典",
     "start_date": "2017-04-04",
     "end_date": "2017-04-04",
     "opening_song": "\"Blow out\" by Konomi Suzuki (eps 4-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Blow out\" by Konomi Suzuki (ep 3)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

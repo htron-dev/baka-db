@@ -1,5 +1,9 @@
 {
     "title": "Akai Ichigo ni Kuchibiru wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14700.jpg",
+        "alt": "akai-ichigo-ni-kuchibiru-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

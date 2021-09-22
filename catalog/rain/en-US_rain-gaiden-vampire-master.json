@@ -1,5 +1,9 @@
 {
     "title": "Rain Gaiden: Vampire Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125391.jpg",
+        "alt": "rain-gaiden-vampire-master"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Ordinary School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152711.jpg",
+        "alt": "ordinary-school"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "보통학교",

@@ -1,5 +1,9 @@
 {
     "title": "Yuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/23625.jpg",
+        "alt": "yuki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゆき",

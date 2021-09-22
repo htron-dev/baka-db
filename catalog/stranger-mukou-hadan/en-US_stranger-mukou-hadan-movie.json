@@ -1,5 +1,9 @@
 {
     "title": "Stranger: Mukou Hadan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/87066.jpg",
+        "alt": "stranger-mukou-hadan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ストレンヂア -無皇刃譚-",

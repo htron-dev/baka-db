@@ -1,5 +1,9 @@
 {
     "title": "Marry Me!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186497.jpg",
+        "alt": "marry-me"
+    },
     "type": "manga",
     "original_name": "マリーミー！",
     "start_date": "2015-07-26",

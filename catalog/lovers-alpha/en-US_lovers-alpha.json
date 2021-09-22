@@ -1,5 +1,9 @@
 {
     "title": "Lovers Alpha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135929.jpg",
+        "alt": "lovers-alpha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,8 +1,12 @@
 {
     "title": "Kamen Rider Den-O: Imagin Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/7059.jpg",
+        "alt": "kamen-rider-den-o-imagin-anime"
+    },
     "type": "ova",
     "episodes": "10",
-    "original_name": "仮面ライダー電王",
+    "original_name": "仮面ライダー電王: イマジンあにめ",
     "start_date": "2008-04-25",
     "rating": "G - All Ages",
     "tags": [

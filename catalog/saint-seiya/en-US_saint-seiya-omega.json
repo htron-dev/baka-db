@@ -1,11 +1,15 @@
 {
     "title": "Saint Seiya Omega",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76052.jpg",
+        "alt": "saint-seiya-omega"
+    },
     "type": "tv-serie",
     "episodes": "97",
     "original_name": "聖闘士星矢 Ω",
     "start_date": "2012-04-01",
     "end_date": "2012-04-01",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Pegasus Fantasy ~Omega version~ (ペガサス幻想 ver.Ω)\" by Make-up feat. Nakagawa Shoko (eps 1-27)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Choujikuu Kyuuai Exoman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210489.jpg",
+        "alt": "choujikuu-kyuuai-exoman"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

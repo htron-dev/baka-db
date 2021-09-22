@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Deshi ga Warau Toki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146533.jpg",
+        "alt": "mahoutsukai-no-deshi-ga-warau-toki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

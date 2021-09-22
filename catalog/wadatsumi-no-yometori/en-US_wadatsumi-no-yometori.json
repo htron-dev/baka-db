@@ -1,5 +1,9 @@
 {
     "title": "Wadatsumi no Yometori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236582.jpg",
+        "alt": "wadatsumi-no-yometori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

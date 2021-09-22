@@ -1,12 +1,16 @@
 {
     "title": "Saki Zenkoku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/57979.jpg",
+        "alt": "saki-zenkoku-hen"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "咲-Saki-全国編",
     "start_date": "2014-01-06",
     "end_date": "2014-01-06",
     "opening_song": "\"New SPARKS!\" by Miyuki Hashimoto (eps 2, 4-11, 13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"New SPARKS\" by Miyuki Hashimoto (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Saki_(manga"
+            "link": "http://en.wikipedia.org/wiki/Saki_%28manga%29"
         }
     ]
 }

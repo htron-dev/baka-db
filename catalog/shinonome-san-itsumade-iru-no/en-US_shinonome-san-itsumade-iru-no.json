@@ -1,5 +1,9 @@
 {
     "title": "Shinonome-san, Itsumade Iru no?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208314.jpg",
+        "alt": "shinonome-san-itsumade-iru-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

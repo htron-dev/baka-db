@@ -1,5 +1,9 @@
 {
     "title": "Koi no Myouyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/14322.jpg",
+        "alt": "koi-no-myouyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋の妙薬",

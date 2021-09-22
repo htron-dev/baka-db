@@ -1,5 +1,9 @@
 {
     "title": "Dear Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226377.jpg",
+        "alt": "dear-call"
+    },
     "type": "manga",
     "original_name": "Dear CALL ─ ディアコール ─",
     "start_date": "2019-11-02",

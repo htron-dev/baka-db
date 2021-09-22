@@ -1,5 +1,9 @@
 {
     "title": "Ueki no Housoku Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5593.jpg",
+        "alt": "ueki-no-housoku-plus"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "46",

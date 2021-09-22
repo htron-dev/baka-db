@@ -1,5 +1,9 @@
 {
     "title": "Tenmusu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211009.jpg",
+        "alt": "tenmusu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "90",

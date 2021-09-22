@@ -1,5 +1,9 @@
 {
     "title": "Phantom Bullet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152957.jpg",
+        "alt": "phantom-bullet"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "Phantom BULLET",

@@ -1,5 +1,9 @@
 {
     "title": "Dokonjougaeru no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192068.jpg",
+        "alt": "dokonjougaeru-no-musume"
+    },
     "type": "manga",
     "original_name": "ど根性ガエルの娘",
     "start_date": "2016-06-17",

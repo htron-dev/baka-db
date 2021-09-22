@@ -1,5 +1,9 @@
 {
     "title": "Deltora Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169566.jpg",
+        "alt": "deltora-quest"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "47",

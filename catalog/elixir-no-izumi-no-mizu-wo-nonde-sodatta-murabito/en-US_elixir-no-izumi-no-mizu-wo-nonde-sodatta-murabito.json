@@ -1,5 +1,9 @@
 {
     "title": "Elixir no Izumi no Mizu wo Nonde Sodatta Murabito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234830.jpg",
+        "alt": "elixir-no-izumi-no-mizu-wo-nonde-sodatta-murabito"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "37",

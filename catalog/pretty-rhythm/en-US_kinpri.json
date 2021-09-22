@@ -1,5 +1,9 @@
 {
     "title": "Kinpri!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225383.jpg",
+        "alt": "kinpri"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

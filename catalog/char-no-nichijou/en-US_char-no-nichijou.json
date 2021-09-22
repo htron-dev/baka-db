@@ -1,5 +1,9 @@
 {
     "title": "Char no Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120465.jpg",
+        "alt": "char-no-nichijou"
+    },
     "type": "manga",
     "original_name": "シャアの日常",
     "start_date": "2012-07-26",

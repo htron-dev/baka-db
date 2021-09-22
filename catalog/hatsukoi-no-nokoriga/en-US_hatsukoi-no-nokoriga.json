@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi no Nokoriga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227555.jpg",
+        "alt": "hatsukoi-no-nokoriga"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "初恋の残り香",

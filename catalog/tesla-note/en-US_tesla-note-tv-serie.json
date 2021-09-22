@@ -1,5 +1,9 @@
 {
     "title": "Tesla Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1511/116890.jpg",
+        "alt": "tesla-note"
+    },
     "type": "tv-serie",
     "original_name": "テスラノート",
     "rating": "None",

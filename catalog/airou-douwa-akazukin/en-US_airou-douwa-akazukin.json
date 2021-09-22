@@ -1,5 +1,9 @@
 {
     "title": "Airou Douwa Akazukin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203348.jpg",
+        "alt": "airou-douwa-akazukin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

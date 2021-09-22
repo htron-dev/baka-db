@@ -1,12 +1,16 @@
 {
     "title": "Starmyu OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/80195.jpg",
+        "alt": "starmyu-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "高校星歌劇［スタミュ］OVA",
     "start_date": "2016-07-27",
     "end_date": "2016-07-27",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: Yume Iro ~team Ootori ver.~ (ユメ・イロ～ team 鳳 Ver.～)\" by team Ootori",
+    "ending_song": "#1: \"C☆ngratulations!~team Hiiragi Ver.~ (C☆ngratulations!～ team 柊 Ver.～)\" by team Hiiragi",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

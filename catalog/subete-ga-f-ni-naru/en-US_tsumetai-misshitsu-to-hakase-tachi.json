@@ -1,5 +1,9 @@
 {
     "title": "Tsumetai Misshitsu to Hakase-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149500.jpg",
+        "alt": "tsumetai-misshitsu-to-hakase-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

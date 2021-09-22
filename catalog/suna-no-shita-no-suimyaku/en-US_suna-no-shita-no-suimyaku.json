@@ -1,5 +1,9 @@
 {
     "title": "Suna no Shita no Suimyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30417.jpg",
+        "alt": "suna-no-shita-no-suimyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

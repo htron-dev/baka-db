@@ -1,5 +1,9 @@
 {
     "title": "Manga Daigaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226932.jpg",
+        "alt": "manga-daigaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "漫画大學",

@@ -1,5 +1,9 @@
 {
     "title": "Sex Therapist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/61145.jpg",
+        "alt": "sex-therapist"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

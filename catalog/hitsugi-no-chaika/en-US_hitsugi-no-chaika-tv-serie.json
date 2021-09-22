@@ -1,12 +1,16 @@
 {
     "title": "Hitsugi no Chaika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/61781.jpg",
+        "alt": "hitsugi-no-chaika"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "棺姫のチャイカ",
     "start_date": "2014-04-10",
     "end_date": "2014-04-10",
     "opening_song": "\"DARAKENA\" by Iori Nomizu",
-    "ending_song": "\"Kairaku Genri (快楽原理)\" by coffin princess (CV",
+    "ending_song": "\"Kairaku Genri (快楽原理)\" by coffin princess (CV: Chika Anzai, Saeko Zougou, Yui Makino)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

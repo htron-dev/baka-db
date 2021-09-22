@@ -1,5 +1,9 @@
 {
     "title": "Fukumoto All Stars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224617.jpg",
+        "alt": "fukumoto-all-stars"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "98",

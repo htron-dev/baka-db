@@ -1,5 +1,9 @@
 {
     "title": "Kono Musume Urimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12536.jpg",
+        "alt": "kono-musume-urimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "この娘うります!",

@@ -1,5 +1,9 @@
 {
     "title": "Speedy Wonder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171733.jpg",
+        "alt": "speedy-wonder"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "153",

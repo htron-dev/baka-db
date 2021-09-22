@@ -1,5 +1,9 @@
 {
     "title": "Aki-Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/50775.jpg",
+        "alt": "aki-sora"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

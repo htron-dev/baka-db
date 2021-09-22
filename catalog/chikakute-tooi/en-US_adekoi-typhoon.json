@@ -1,5 +1,9 @@
 {
     "title": "Adekoi Typhoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42033.jpg",
+        "alt": "adekoi-typhoon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "艶恋タイフーン",

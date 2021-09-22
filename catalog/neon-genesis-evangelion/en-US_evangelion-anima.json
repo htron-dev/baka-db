@@ -1,5 +1,9 @@
 {
     "title": "Evangelion: ANIMA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244538.jpg",
+        "alt": "evangelion-anima"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "45",

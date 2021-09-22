@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Genta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203990.jpg",
+        "alt": "tetsuwan-genta"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "鉄腕げん太",

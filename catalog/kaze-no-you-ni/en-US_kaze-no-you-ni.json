@@ -1,5 +1,9 @@
 {
     "title": "Kaze no You ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/80842.jpg",
+        "alt": "kaze-no-you-ni"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "風のように",

@@ -1,11 +1,15 @@
 {
     "title": "Deltora Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/88164.jpg",
+        "alt": "deltora-quest"
+    },
     "type": "tv-serie",
     "episodes": "65",
     "original_name": "デルトラクエスト",
     "start_date": "2007-01-06",
     "end_date": "2007-01-06",
-    "opening_song": "#01",
+    "opening_song": "#01: \"HEART☆BEAT\" by MARIA (eps 1-28)",
     "ending_song": "#01. \"Sakura Uta (桜唄)\" by Rythem (eps1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Deltora_Quest_(anime"
+            "link": "http://en.wikipedia.org/wiki/Deltora_Quest_%28anime%29"
         }
     ]
 }

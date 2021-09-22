@@ -1,5 +1,9 @@
 {
     "title": "Mars Gaiden: Namae no Nai Uma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191264.jpg",
+        "alt": "mars-gaiden-namae-no-nai-uma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Sachiko to Neko-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37357.jpg",
+        "alt": "sachiko-to-neko-sama"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

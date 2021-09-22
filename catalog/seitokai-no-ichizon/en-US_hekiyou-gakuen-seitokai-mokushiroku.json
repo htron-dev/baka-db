@@ -1,5 +1,9 @@
 {
     "title": "Hekiyou Gakuen Seitokai Mokushiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149321.jpg",
+        "alt": "hekiyou-gakuen-seitokai-mokushiroku"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "52",

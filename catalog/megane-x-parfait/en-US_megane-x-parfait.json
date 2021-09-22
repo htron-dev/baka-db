@@ -1,5 +1,9 @@
 {
     "title": "Megane x Parfait!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/65221.jpg",
+        "alt": "megane-x-parfait"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

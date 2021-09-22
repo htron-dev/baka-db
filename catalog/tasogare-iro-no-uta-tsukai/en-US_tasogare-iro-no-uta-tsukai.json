@@ -1,5 +1,9 @@
 {
     "title": "Tasogare-iro no Uta Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66639.jpg",
+        "alt": "tasogare-iro-no-uta-tsukai"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "112",

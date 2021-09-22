@@ -1,5 +1,9 @@
 {
     "title": "Shiro no Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118343.jpg",
+        "alt": "shiro-no-koro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

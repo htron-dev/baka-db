@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Ma no Tsuku Jiyuugyou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167622.jpg",
+        "alt": "kyou-kara-ma-no-tsuku-jiyuugyou"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "133",

@@ -1,5 +1,9 @@
 {
     "title": "Tada, Soredake de Yokatta ndesu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172463.jpg",
+        "alt": "tada-soredake-de-yokatta-ndesu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

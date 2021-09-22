@@ -1,5 +1,9 @@
 {
     "title": "Deimos no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158105.jpg",
+        "alt": "deimos-no-hanayome"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "102",

@@ -1,5 +1,9 @@
 {
     "title": "Her",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32839.jpg",
+        "alt": "her"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

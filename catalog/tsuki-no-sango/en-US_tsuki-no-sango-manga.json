@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Sango",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219399.jpg",
+        "alt": "tsuki-no-sango"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "4",

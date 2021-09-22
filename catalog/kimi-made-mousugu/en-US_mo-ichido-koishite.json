@@ -1,5 +1,9 @@
 {
     "title": "Mo Ichido Koishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6779.jpg",
+        "alt": "mo-ichido-koishite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

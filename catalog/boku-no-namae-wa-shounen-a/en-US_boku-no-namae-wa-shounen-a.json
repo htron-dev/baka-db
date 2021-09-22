@@ -1,5 +1,9 @@
 {
     "title": "Boku no Namae wa \"Shounen A\"",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207953.jpg",
+        "alt": "boku-no-namae-wa-shounen-a"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Ano Kado wo Magatta Tokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6149.jpg",
+        "alt": "ano-kado-wo-magatta-tokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

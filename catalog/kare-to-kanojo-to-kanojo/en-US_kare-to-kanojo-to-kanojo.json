@@ -1,5 +1,9 @@
 {
     "title": "Kare to Kanojo to Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130625.jpg",
+        "alt": "kare-to-kanojo-to-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

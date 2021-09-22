@@ -1,5 +1,9 @@
 {
     "title": "Denpa no Hito yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58725.jpg",
+        "alt": "denpa-no-hito-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

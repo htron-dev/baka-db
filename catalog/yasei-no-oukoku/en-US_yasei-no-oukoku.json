@@ -1,5 +1,9 @@
 {
     "title": "Yasei no Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21329.jpg",
+        "alt": "yasei-no-oukoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

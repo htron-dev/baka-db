@@ -1,5 +1,9 @@
 {
     "title": "Zenryaku. Neko to Tenshi to Doukyo Hajimemashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163582.jpg",
+        "alt": "zenryaku-neko-to-tenshi-to-doukyo-hajimemashita"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "41",

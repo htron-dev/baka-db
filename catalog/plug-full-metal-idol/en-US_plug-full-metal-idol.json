@@ -1,5 +1,9 @@
 {
     "title": "Plug: Full Metal Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149985.jpg",
+        "alt": "plug-full-metal-idol"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "PLUG FULL METAL IDOL",

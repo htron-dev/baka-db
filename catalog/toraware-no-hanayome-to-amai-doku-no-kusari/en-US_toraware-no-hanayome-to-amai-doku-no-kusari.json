@@ -1,5 +1,9 @@
 {
     "title": "Toraware no Hanayome to Amai Doku no Kusari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194214.jpg",
+        "alt": "toraware-no-hanayome-to-amai-doku-no-kusari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Gishin Eiyuu no Amadeus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228160.jpg",
+        "alt": "gishin-eiyuu-no-amadeus"
+    },
     "type": "manga",
     "original_name": "偽神英雄のアマデウス",
     "start_date": "2019-02-21",

@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Housoukyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/21390.jpg",
+        "alt": "pokemon-housoukyoku"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "ポケモン放送局",

@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Patrol Luluco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79073.jpg",
+        "alt": "uchuu-patrol-luluco"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "宇宙パトロールルル子",

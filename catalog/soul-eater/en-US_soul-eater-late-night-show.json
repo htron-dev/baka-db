@@ -1,12 +1,16 @@
 {
     "title": "Soul Eater: Late Night Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/60791.jpg",
+        "alt": "soul-eater-late-night-show"
+    },
     "type": "special",
     "episodes": "51",
     "original_name": "ソウルイーターレイトショー",
     "start_date": "2008-04-20",
     "end_date": "2008-04-20",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Counter Identity\" by UNISON SQUARE GARDEN",
+    "ending_song": "#1: \"Ao no Kaori\" by Yui Makino",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

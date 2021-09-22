@@ -1,5 +1,9 @@
 {
     "title": "Tajikarao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11756.jpg",
+        "alt": "tajikarao"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

@@ -1,5 +1,9 @@
 {
     "title": "Donbe Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/32415.jpg",
+        "alt": "donbe-monogatari"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "どんべえ物語",

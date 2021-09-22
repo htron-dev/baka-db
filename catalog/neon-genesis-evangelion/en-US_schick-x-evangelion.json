@@ -1,5 +1,9 @@
 {
     "title": "Schick x Evangelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/74747.jpg",
+        "alt": "schick-x-evangelion"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "Schick × エヴァンゲリオン",

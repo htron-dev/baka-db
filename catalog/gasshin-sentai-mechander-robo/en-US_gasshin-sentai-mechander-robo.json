@@ -1,5 +1,9 @@
 {
     "title": "Gasshin Sentai Mechander Robo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/29474.jpg",
+        "alt": "gasshin-sentai-mechander-robo"
+    },
     "type": "tv-serie",
     "episodes": "35",
     "original_name": "合身戦隊メカンダーロボ",

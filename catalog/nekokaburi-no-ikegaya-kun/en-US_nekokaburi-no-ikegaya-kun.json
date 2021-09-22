@@ -1,5 +1,9 @@
 {
     "title": "Nekokaburi no Ikegaya-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203951.jpg",
+        "alt": "nekokaburi-no-ikegaya-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

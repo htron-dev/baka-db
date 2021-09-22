@@ -1,5 +1,9 @@
 {
     "title": "Appuppu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131407.jpg",
+        "alt": "appuppu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "あっぷっぷっ",

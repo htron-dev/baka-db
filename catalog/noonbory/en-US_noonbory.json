@@ -1,5 +1,9 @@
 {
     "title": "Noonbory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/55481.jpg",
+        "alt": "noonbory"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "눈보리",

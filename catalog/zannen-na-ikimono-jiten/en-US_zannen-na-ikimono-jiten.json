@@ -1,5 +1,9 @@
 {
     "title": "Zannen na Ikimono Jiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1201/93208.jpg",
+        "alt": "zannen-na-ikimono-jiten"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ざんねんないきもの事典",

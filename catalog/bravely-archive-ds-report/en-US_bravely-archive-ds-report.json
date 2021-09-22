@@ -1,5 +1,9 @@
 {
     "title": "Bravely Archive: D's Report",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175841.jpg",
+        "alt": "bravely-archive-ds-report"
+    },
     "type": "light-novel",
     "original_name": "ブレイブリーアーカイブ ディーズレポート",
     "start_date": "2015-11-05",

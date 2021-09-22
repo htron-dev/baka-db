@@ -1,5 +1,9 @@
 {
     "title": "Love Berry Raspberry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16577.jpg",
+        "alt": "love-berry-raspberry"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

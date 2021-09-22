@@ -1,5 +1,9 @@
 {
     "title": "Sweet Room?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235069.jpg",
+        "alt": "sweet-room"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "89",

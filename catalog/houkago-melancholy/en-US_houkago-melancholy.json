@@ -1,5 +1,9 @@
 {
     "title": "Houkago Melancholy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220716.jpg",
+        "alt": "houkago-melancholy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

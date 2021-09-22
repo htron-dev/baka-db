@@ -1,5 +1,9 @@
 {
     "title": "Zenmaijikake no Tina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2777.jpg",
+        "alt": "zenmaijikake-no-tina"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ぜんまいじかけのティナ",

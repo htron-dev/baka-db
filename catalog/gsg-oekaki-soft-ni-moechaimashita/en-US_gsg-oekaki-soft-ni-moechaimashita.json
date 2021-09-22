@@ -1,5 +1,9 @@
 {
     "title": "GSG! - Oekaki Soft ni Moechaimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44589.jpg",
+        "alt": "gsg-oekaki-soft-ni-moechaimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

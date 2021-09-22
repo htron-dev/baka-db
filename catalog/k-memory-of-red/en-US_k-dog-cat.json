@@ -1,5 +1,9 @@
 {
     "title": "K: Dog & Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177112.jpg",
+        "alt": "k-dog-cat"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Nulu-chan to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/55135.jpg",
+        "alt": "nulu-chan-to-boku"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ヌルちゃんとぼく",

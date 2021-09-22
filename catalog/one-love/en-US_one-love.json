@@ -1,5 +1,9 @@
 {
     "title": "One Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36836.jpg",
+        "alt": "one-love"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2006-07-29",
@@ -11,7 +15,6 @@
         "Yuuki",
         "Ryo (Story)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

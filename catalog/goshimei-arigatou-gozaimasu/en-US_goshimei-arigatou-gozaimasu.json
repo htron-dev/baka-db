@@ -1,5 +1,9 @@
 {
     "title": "Goshimei Arigatou Gozaimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186358.jpg",
+        "alt": "goshimei-arigatou-gozaimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

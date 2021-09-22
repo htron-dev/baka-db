@@ -1,5 +1,9 @@
 {
     "title": "High School DxD",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203327.jpg",
+        "alt": "high-school-dx-d"
+    },
     "type": "light-novel",
     "volumes": "25",
     "chapters": "240",

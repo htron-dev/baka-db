@@ -1,8 +1,12 @@
 {
     "title": "Italia Kazoku: Fuurin Kazan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85725.jpg",
+        "alt": "italia-kazoku-fuurin-kazan"
+    },
     "type": "manga",
     "volumes": "1",
-    "original_name": "イタリア家族",
+    "original_name": "イタリア家族: 風林火山",
     "start_date": "2008-01-20",
     "tags": [
         "comedy",

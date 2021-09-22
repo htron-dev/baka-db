@@ -1,5 +1,9 @@
 {
     "title": "Honey Mustard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152219.jpg",
+        "alt": "honey-mustard"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "23",

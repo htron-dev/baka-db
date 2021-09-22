@@ -1,5 +1,9 @@
 {
     "title": "Da Capo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/31756.jpg",
+        "alt": "da-capo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Magma Taishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/21135.jpg",
+        "alt": "magma-taishi"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "マグマ大使",

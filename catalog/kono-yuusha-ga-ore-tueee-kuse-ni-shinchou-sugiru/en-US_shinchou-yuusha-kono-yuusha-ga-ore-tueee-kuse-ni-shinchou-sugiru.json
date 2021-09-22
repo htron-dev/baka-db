@@ -1,12 +1,16 @@
 {
     "title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1715/103419.jpg",
+        "alt": "shinchou-yuusha-kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "慎重勇者 ～この勇者が俺 TUEEE くせに慎重すぎる～",
     "start_date": "2019-10-02",
     "end_date": "2019-10-02",
     "opening_song": "\"TIT FOR TAT\" by MYTH & ROID (eps 1-5, 7-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"be perfect, plz!\" by Riko Azuna (eps 1-10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

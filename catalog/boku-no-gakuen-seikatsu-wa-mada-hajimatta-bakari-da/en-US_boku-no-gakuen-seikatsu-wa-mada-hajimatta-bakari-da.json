@@ -1,5 +1,9 @@
 {
     "title": "Boku no Gakuen Seikatsu wa Mada Hajimatta Bakari da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163867.jpg",
+        "alt": "boku-no-gakuen-seikatsu-wa-mada-hajimatta-bakari-da"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

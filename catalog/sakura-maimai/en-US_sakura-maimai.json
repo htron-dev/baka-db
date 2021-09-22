@@ -1,5 +1,9 @@
 {
     "title": "Sakura Maimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236134.jpg",
+        "alt": "sakura-maimai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "38",

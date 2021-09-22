@@ -1,5 +1,9 @@
 {
     "title": "Ayakari-Zoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100315.jpg",
+        "alt": "ayakari-zoushi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

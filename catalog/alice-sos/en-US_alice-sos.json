@@ -1,5 +1,9 @@
 {
     "title": "Alice SOS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24323.jpg",
+        "alt": "alice-sos"
+    },
     "type": "tv-serie",
     "episodes": "28",
     "original_name": "アリスＳＯＳ",

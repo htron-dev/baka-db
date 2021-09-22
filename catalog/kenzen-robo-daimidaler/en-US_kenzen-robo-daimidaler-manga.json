@@ -1,5 +1,9 @@
 {
     "title": "Kenzen Robo Daimidaler",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/110393.jpg",
+        "alt": "kenzen-robo-daimidaler"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

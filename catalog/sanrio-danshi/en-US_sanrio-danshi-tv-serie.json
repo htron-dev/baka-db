@@ -1,12 +1,16 @@
 {
     "title": "Sanrio Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/89890.jpg",
+        "alt": "sanrio-danshi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "サンリオ男子",
     "start_date": "2018-01-06",
     "end_date": "2018-01-06",
     "opening_song": "\"Seishun Interlude (青春インターリュード)\" by Sanrio Danshi [Kouta Hasegawa (Takuya Eguchi), Yuu Mizuno (Soma Saito), Shunsuke Hoshino (Jun Ootsuka), Ryou Nishimiya (Hiroyuki Kagura), Seiichirou Minamoto (Yuuma Uchida)]",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Now on dream!\" by Sanrio Danshi [Kouta Hasegawa (Takuya Eguchi), Yuu Mizuno (Soma Saito), Shunsuke Hoshino (Jun Ootsuka), Ryou Nishimiya (Hiroyuki Kagura), Seiichirou Minamoto (Yuuma Uchida)] (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

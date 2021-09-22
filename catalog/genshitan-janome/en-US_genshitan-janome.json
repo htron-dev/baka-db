@@ -1,5 +1,9 @@
 {
     "title": "Genshitan Janome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117091.jpg",
+        "alt": "genshitan-janome"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "61",

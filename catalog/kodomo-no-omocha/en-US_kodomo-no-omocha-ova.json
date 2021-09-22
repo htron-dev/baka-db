@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Omocha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1461/105879.jpg",
+        "alt": "kodomo-no-omocha"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "こどものおもちゃ OVA",

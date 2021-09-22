@@ -1,5 +1,9 @@
 {
     "title": "Trance x Ecstasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206203.jpg",
+        "alt": "trance-x-ecstasy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

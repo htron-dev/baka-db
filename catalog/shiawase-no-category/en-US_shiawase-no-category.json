@@ -1,5 +1,9 @@
 {
     "title": "Shiawase no Category",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47119.jpg",
+        "alt": "shiawase-no-category"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

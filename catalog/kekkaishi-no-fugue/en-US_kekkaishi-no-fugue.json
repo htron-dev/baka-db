@@ -1,5 +1,9 @@
 {
     "title": "Kekkaishi no Fugue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164572.jpg",
+        "alt": "kekkaishi-no-fugue"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "結界師のフーガ",

@@ -1,5 +1,9 @@
 {
     "title": "Saijaku Muhai no Bahamut",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145157.jpg",
+        "alt": "saijaku-muhai-no-bahamut"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "46",

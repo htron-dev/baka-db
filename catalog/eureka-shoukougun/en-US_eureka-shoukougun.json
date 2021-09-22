@@ -1,5 +1,9 @@
 {
     "title": "Eureka Shoukougun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174650.jpg",
+        "alt": "eureka-shoukougun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

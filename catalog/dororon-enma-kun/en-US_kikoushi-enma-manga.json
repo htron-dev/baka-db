@@ -1,5 +1,9 @@
 {
     "title": "Kikoushi Enma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32614.jpg",
+        "alt": "kikoushi-enma"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "鬼公子炎魔 永井豪怪奇短編集",

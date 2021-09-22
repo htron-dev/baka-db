@@ -1,5 +1,9 @@
 {
     "title": "Koko dake no Hanashi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158110.jpg",
+        "alt": "koko-dake-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

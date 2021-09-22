@@ -1,5 +1,9 @@
 {
     "title": "Maruko to Suugaku Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193254.jpg",
+        "alt": "maruko-to-suugaku-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

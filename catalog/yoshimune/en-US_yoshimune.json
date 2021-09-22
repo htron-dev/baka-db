@@ -1,5 +1,9 @@
 {
     "title": "Yoshimune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2243.jpg",
+        "alt": "yoshimune"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "吉宗",

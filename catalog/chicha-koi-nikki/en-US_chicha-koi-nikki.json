@@ -1,5 +1,9 @@
 {
     "title": "Chicha Koi Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188826.jpg",
+        "alt": "chicha-koi-nikki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

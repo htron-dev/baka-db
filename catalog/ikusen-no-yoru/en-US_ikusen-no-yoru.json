@@ -1,5 +1,9 @@
 {
     "title": "Ikusen no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/130101.jpg",
+        "alt": "ikusen-no-yoru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

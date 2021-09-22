@@ -1,5 +1,9 @@
 {
     "title": "Uwabaki Cook",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/76059.jpg",
+        "alt": "uwabaki-cook"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "うわばきクック",

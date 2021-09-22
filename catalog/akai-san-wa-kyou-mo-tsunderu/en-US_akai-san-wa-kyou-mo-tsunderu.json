@@ -1,5 +1,9 @@
 {
     "title": "Akai-san wa Kyou mo Tsunderu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183736.jpg",
+        "alt": "akai-san-wa-kyou-mo-tsunderu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "37",

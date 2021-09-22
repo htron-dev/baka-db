@@ -1,5 +1,9 @@
 {
     "title": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/80173.jpg",
+        "alt": "overlord-ple-ple-pleiades-nazarick-saidai-no-kiki"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "オーバーロード　ぷれぷれぷれあです 『なざりっく最大の危機』",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Overlord_(novel_series"
+            "link": "https://en.wikipedia.org/wiki/Overlord_%28novel_series%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Detective Conan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97267.jpg",
+        "alt": "detective-conan"
+    },
     "type": "manga",
     "original_name": "名探偵 コナン",
     "start_date": "1994-01-05",

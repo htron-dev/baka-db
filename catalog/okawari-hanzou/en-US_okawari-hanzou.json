@@ -1,5 +1,9 @@
 {
     "title": "Okawari Hanzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67165.jpg",
+        "alt": "okawari-hanzou"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "おかわり飯蔵",

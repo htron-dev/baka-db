@@ -1,5 +1,9 @@
 {
     "title": "So wa Reirei no Yuki ni Mai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113225.jpg",
+        "alt": "so-wa-reirei-no-yuki-ni-mai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

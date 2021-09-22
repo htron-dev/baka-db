@@ -1,5 +1,9 @@
 {
     "title": "Manga Aesop Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1446/112287.jpg",
+        "alt": "manga-aesop-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "まんがイソップ物語",

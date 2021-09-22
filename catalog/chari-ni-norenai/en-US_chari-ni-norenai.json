@@ -1,5 +1,9 @@
 {
     "title": "Chari ni Norenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131075.jpg",
+        "alt": "chari-ni-norenai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "94",

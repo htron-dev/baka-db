@@ -1,5 +1,9 @@
 {
     "title": "Cosmetic Play Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245531.jpg",
+        "alt": "cosmetic-play-lover"
+    },
     "type": "manga",
     "original_name": "コスメティック・プレイラバー",
     "start_date": "2017-12-07",

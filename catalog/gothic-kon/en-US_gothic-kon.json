@@ -1,5 +1,9 @@
 {
     "title": "Gothic-kon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163764.jpg",
+        "alt": "gothic-kon"
+    },
     "type": "manga",
     "chapters": "9",
     "original_name": "ごすこん",

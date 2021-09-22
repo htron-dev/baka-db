@@ -1,5 +1,9 @@
 {
     "title": "Renai Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22020.jpg",
+        "alt": "renai-club"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "レンアイ ☆ 倶楽部",

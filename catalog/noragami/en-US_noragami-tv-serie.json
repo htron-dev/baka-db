@@ -1,5 +1,9 @@
 {
     "title": "Noragami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/77809.jpg",
+        "alt": "noragami"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ノラガミ",

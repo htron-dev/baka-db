@@ -1,5 +1,9 @@
 {
     "title": "Makai Toshi Shinjuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/25337.jpg",
+        "alt": "makai-toshi-shinjuku"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "魔界都市〈新宿〉",

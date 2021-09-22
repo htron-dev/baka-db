@@ -1,5 +1,9 @@
 {
     "title": "Youkai Watch Busters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165201.jpg",
+        "alt": "youkai-watch-busters"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

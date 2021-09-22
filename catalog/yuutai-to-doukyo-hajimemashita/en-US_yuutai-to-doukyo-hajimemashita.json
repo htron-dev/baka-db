@@ -1,5 +1,9 @@
 {
     "title": "Yuutai to Doukyo Hajimemashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174158.jpg",
+        "alt": "yuutai-to-doukyo-hajimemashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

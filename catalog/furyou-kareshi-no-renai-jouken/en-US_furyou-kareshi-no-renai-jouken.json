@@ -1,5 +1,9 @@
 {
     "title": "Furyou Kareshi no Renai Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223119.jpg",
+        "alt": "furyou-kareshi-no-renai-jouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

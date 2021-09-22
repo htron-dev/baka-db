@@ -1,5 +1,9 @@
 {
     "title": "Toshokan Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1287/114435.jpg",
+        "alt": "toshokan-sensou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "図書館戦争",

@@ -1,5 +1,9 @@
 {
     "title": "Collapse Zen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1189/102043.jpg",
+        "alt": "collapse-zen"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Collapse Zen",

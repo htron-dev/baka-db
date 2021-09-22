@@ -1,5 +1,9 @@
 {
     "title": "Genei Toshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71323.jpg",
+        "alt": "genei-toshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "幻影都市",

@@ -1,5 +1,9 @@
 {
     "title": "Ciel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4768.jpg",
+        "alt": "ciel"
+    },
     "type": "manhwa",
     "volumes": "23",
     "original_name": "씨엘",

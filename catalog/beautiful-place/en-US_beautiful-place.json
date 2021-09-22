@@ -1,5 +1,9 @@
 {
     "title": "Beautiful Place",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245374.jpg",
+        "alt": "beautiful-place"
+    },
     "type": "manga",
     "original_name": "beautiful place",
     "start_date": "2021-04-30",

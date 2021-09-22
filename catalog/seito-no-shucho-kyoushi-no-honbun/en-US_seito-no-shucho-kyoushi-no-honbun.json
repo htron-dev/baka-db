@@ -1,5 +1,9 @@
 {
     "title": "Seito no Shucho Kyoushi no Honbun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5913.jpg",
+        "alt": "seito-no-shucho-kyoushi-no-honbun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

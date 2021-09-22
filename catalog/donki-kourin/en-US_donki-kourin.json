@@ -1,5 +1,9 @@
 {
     "title": "Donki Kourin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216903.jpg",
+        "alt": "donki-kourin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "75",

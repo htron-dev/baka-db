@@ -1,12 +1,16 @@
 {
     "title": "Pretty Rhythm: Rainbow Live",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/73957.jpg",
+        "alt": "pretty-rhythm-rainbow-live"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "プリティーリズム・レインボーライブ",
     "start_date": "2013-04-06",
     "end_date": "2013-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"BOY MEETS GIRL\" by Prizmmy☆ (eps 1-13)",
+    "ending_song": "#1: \"RainBowxRainBow\" by Prism☆Box (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "slice-of-life",

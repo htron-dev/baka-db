@@ -1,5 +1,9 @@
 {
     "title": "Planetarian: Chiisana Hoshi no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33542.jpg",
+        "alt": "planetarian-chiisana-hoshi-no-yume"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

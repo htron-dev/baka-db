@@ -1,12 +1,16 @@
 {
     "title": "Kakushigoto (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1046/114345.jpg",
+        "alt": "kakushigoto-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "かくしごと",
     "start_date": "2020-04-02",
     "end_date": "2020-04-02",
     "opening_song": "“Chiisana Hibi (ちいさな日々)\" by flumpool (eps 1-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi wa Tennenshoku (君は天然色)\" by Eiichi Ootaki (大滝詠一) (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Isekai Ace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183209.jpg",
+        "alt": "isekai-ace"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "59",

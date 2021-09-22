@@ -1,5 +1,9 @@
 {
     "title": "Ocha-ken: Chokotto Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/54633.jpg",
+        "alt": "ocha-ken-chokotto-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "お茶犬 ちょこっとものがたり",

@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 17: Nobita to Ginga Express",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/72422.jpg",
+        "alt": "doraemon-movie-17-nobita-to-ginga-express"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太と銀河超特急[エクスプレス]",

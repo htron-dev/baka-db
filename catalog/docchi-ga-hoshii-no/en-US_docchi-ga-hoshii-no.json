@@ -1,5 +1,9 @@
 {
     "title": "Docchi ga Hoshii no?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46349.jpg",
+        "alt": "docchi-ga-hoshii-no"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "どっちが欲しいの?",

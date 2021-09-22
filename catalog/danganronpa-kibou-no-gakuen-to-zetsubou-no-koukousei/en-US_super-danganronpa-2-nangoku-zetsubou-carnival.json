@@ -1,5 +1,9 @@
 {
     "title": "Super Danganronpa 2: Nangoku Zetsubou Carnival!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238958.jpg",
+        "alt": "super-danganronpa-2-nangoku-zetsubou-carnival"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Ginban Kaleidoscope",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/19926.jpg",
+        "alt": "ginban-kaleidoscope"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "銀盤カレイドスコープ",

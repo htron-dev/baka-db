@@ -1,5 +1,9 @@
 {
     "title": "Akuma-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61467.jpg",
+        "alt": "akuma-kun"
+    },
     "type": "tv-serie",
     "episodes": "42",
     "original_name": "悪魔くん",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Aliens",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234828.jpg",
+        "alt": "tokyo-aliens"
+    },
     "type": "manga",
     "original_name": "東京エイリアンズ",
     "start_date": "2020-04-17",

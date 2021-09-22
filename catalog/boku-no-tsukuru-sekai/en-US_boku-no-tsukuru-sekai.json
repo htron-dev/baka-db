@@ -1,5 +1,9 @@
 {
     "title": "Boku no Tsukuru Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/249321.jpg",
+        "alt": "boku-no-tsukuru-sekai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Ochita Daifugou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247212.jpg",
+        "alt": "koi-ni-ochita-daifugou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋に落ちた大富豪",

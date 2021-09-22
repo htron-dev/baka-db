@@ -1,5 +1,9 @@
 {
     "title": "Noraneko Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219523.jpg",
+        "alt": "noraneko-sekai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

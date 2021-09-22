@@ -1,12 +1,16 @@
 {
     "title": "Akai Koudan Zillion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/41797.jpg",
+        "alt": "akai-koudan-zillion"
+    },
     "type": "tv-serie",
     "episodes": "31",
     "original_name": "赤い光弾ジリオン",
     "start_date": "1987-04-12",
     "end_date": "1987-04-12",
     "opening_song": "\"Pure Stone\" by Risa Yuuki",
-    "ending_song": "#1",
+    "ending_song": "#1: “Push!” by Risa Yuuki (eps 1–20)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

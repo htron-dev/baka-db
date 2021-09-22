@@ -1,5 +1,9 @@
 {
     "title": "Ore Yome. Ore no Yome ni Nare yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167574.jpg",
+        "alt": "ore-yome-ore-no-yome-ni-nare-yo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "60",

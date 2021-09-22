@@ -1,5 +1,9 @@
 {
     "title": "Midnight Rhapsody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/106173.jpg",
+        "alt": "midnight-rhapsody"
+    },
     "type": "manhwa",
     "volumes": "2",
     "original_name": "골방환상곡",

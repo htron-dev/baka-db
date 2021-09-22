@@ -1,5 +1,9 @@
 {
     "title": "Miserarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6629.jpg",
+        "alt": "miserarete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Akihabara@DEEP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/76323.jpg",
+        "alt": "akihabara-deep"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "61",

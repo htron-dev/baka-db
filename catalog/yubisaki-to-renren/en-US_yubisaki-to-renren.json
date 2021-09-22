@@ -1,5 +1,9 @@
 {
     "title": "Yubisaki to Renren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226867.jpg",
+        "alt": "yubisaki-to-renren"
+    },
     "type": "manga",
     "original_name": "ゆびさきと恋々",
     "start_date": "2019-07-24",

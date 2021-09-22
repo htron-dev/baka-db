@@ -1,5 +1,9 @@
 {
     "title": "Maihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/13677.jpg",
+        "alt": "maihime"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "舞姫",

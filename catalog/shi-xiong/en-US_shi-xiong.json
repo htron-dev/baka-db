@@ -1,5 +1,9 @@
 {
     "title": "Shi Xiong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/72773.jpg",
+        "alt": "shi-xiong"
+    },
     "type": "ona",
     "episodes": "41",
     "original_name": "尸兄",

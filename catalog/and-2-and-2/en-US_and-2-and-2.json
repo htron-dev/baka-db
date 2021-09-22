@@ -1,5 +1,9 @@
 {
     "title": "And2! And2!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1937/93875.jpg",
+        "alt": "and-2-and-2"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "安菟！安菟！",

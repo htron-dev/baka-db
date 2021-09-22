@@ -1,5 +1,9 @@
 {
     "title": "Sabaki no Chi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32293.jpg",
+        "alt": "sabaki-no-chi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "密約の血　裁きの血",

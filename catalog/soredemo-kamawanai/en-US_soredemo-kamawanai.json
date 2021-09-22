@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Kamawanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/106505.jpg",
+        "alt": "soredemo-kamawanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

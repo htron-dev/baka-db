@@ -1,5 +1,9 @@
 {
     "title": "GetBackers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169369.jpg",
+        "alt": "get-backers"
+    },
     "type": "manga",
     "volumes": "39",
     "chapters": "344",

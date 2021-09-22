@@ -1,5 +1,9 @@
 {
     "title": "Raspberry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21327.jpg",
+        "alt": "raspberry"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

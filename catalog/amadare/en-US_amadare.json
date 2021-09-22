@@ -1,5 +1,9 @@
 {
     "title": "Amadare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21678.jpg",
+        "alt": "amadare"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "あまだれ！",

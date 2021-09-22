@@ -1,5 +1,9 @@
 {
     "title": "Live Machine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159907.jpg",
+        "alt": "live-machine"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ライブマシーン",

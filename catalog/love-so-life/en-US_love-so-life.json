@@ -1,5 +1,9 @@
 {
     "title": "Love So Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162281.jpg",
+        "alt": "love-so-life"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "111",

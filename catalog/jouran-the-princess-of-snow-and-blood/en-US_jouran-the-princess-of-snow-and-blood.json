@@ -1,12 +1,16 @@
 {
     "title": "Jouran: The Princess of Snow and Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1289/115673.jpg",
+        "alt": "jouran-the-princess-of-snow-and-blood"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "擾乱 THE PRINCESS OF SNOW AND BLOOD",
     "start_date": "2021-04-07",
     "end_date": "2021-04-07",
     "opening_song": "\"Exist\" by RAISE A SUILEN (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Exist\" by RAISE A SUILEN (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

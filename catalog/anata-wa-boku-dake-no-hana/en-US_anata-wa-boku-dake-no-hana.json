@@ -1,5 +1,9 @@
 {
     "title": "Anata wa Boku dake no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2196.jpg",
+        "alt": "anata-wa-boku-dake-no-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

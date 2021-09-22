@@ -1,5 +1,9 @@
 {
     "title": "Otokokemono desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104445.jpg",
+        "alt": "otokokemono-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

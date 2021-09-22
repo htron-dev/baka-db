@@ -1,5 +1,9 @@
 {
     "title": "Kodoku no Naka no Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136517.jpg",
+        "alt": "kodoku-no-naka-no-watashi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "コドクの中のワタシ",

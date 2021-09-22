@@ -1,5 +1,9 @@
 {
     "title": "Omoi no Kakera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144565.jpg",
+        "alt": "omoi-no-kakera"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

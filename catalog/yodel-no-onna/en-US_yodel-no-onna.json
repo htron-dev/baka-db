@@ -1,5 +1,9 @@
 {
     "title": "Yodel no Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/87843.jpg",
+        "alt": "yodel-no-onna"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "ヨーデルの女",

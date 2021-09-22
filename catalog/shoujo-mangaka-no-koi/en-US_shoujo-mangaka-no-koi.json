@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Mangaka no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230141.jpg",
+        "alt": "shoujo-mangaka-no-koi"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "少女漫画家の恋",

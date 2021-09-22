@@ -1,5 +1,9 @@
 {
     "title": "Inoru Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66497.jpg",
+        "alt": "inoru-hito"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

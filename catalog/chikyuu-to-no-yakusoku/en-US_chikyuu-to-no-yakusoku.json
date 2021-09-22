@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu to no Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1282/91113.jpg",
+        "alt": "chikyuu-to-no-yakusoku"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "地球との約束",

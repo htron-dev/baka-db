@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34697.jpg",
+        "alt": "sword-art-online"
+    },
     "type": "light-novel",
     "original_name": "ソードアート・オンライン",
     "start_date": "2009-04-10",

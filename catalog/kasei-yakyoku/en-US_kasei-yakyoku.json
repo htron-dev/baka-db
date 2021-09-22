@@ -1,5 +1,9 @@
 {
     "title": "Kasei Yakyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/50129.jpg",
+        "alt": "kasei-yakyoku"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "華星夜曲",

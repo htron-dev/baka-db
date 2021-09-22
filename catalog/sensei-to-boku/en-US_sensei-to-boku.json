@@ -1,5 +1,9 @@
 {
     "title": "Sensei to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91045.jpg",
+        "alt": "sensei-to-boku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

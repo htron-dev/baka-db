@@ -1,5 +1,9 @@
 {
     "title": "Chocotto Sister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/16825.jpg",
+        "alt": "chocotto-sister"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ちょこッと Sister",

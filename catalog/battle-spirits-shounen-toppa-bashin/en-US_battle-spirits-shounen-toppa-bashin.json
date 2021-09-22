@@ -1,12 +1,16 @@
 {
     "title": "Battle Spirits: Shounen Toppa Bashin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/21150.jpg",
+        "alt": "battle-spirits-shounen-toppa-bashin"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "バトルスピリッツ 少年突破バシン",
     "start_date": "2008-09-07",
     "end_date": "2008-09-07",
     "opening_song": "\"Go Ahead!!\" by Mitsuhiro Oikawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"冒険記録 Bouken Kiroku (Adventure Record)\" by Little Non",
     "rating": "PG - Children",
     "tags": [
         "game",

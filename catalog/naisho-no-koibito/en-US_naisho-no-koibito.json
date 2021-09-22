@@ -1,5 +1,9 @@
 {
     "title": "Naisho no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10839.jpg",
+        "alt": "naisho-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ナイショの恋人",

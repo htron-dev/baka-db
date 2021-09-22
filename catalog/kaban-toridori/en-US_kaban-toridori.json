@@ -1,5 +1,9 @@
 {
     "title": "Kaban Toridori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126863.jpg",
+        "alt": "kaban-toridori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

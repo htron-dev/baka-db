@@ -1,12 +1,16 @@
 {
     "title": "Darker than Black: Kuro no Keiyakusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/19570.jpg",
+        "alt": "darker-than-black-kuro-no-keiyakusha"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "Darker than BLACK -黒の契約者-",
     "start_date": "2007-04-06",
     "end_date": "2007-04-06",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Howling\" by Abingdon Boys School (eps 1-14)",
+    "ending_song": "#01: \"Tsuki Akari\" by Rie Fu (eps 1-14)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

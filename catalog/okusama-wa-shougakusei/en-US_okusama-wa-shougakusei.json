@@ -1,5 +1,9 @@
 {
     "title": "Okusama wa Shougakusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201864.jpg",
+        "alt": "okusama-wa-shougakusei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

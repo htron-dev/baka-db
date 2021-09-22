@@ -1,5 +1,9 @@
 {
     "title": "Fushigi no Kuni no Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/22277.jpg",
+        "alt": "fushigi-no-kuni-no-alice"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ふしぎの国のアリス",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%97%E3%81%8E%E3%81%AE%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9_(%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%97%E3%81%8E%E3%81%AE%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9_%28%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1%29"
         }
     ]
 }

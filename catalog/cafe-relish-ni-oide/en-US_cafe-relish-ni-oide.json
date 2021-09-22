@@ -1,5 +1,9 @@
 {
     "title": "Café Relish ni Oide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16923.jpg",
+        "alt": "cafe-relish-ni-oide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

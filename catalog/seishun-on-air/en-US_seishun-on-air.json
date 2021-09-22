@@ -1,5 +1,9 @@
 {
     "title": "Seishun on Air",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223966.jpg",
+        "alt": "seishun-on-air"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Kuro Shinshi no Yuuwaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185003.jpg",
+        "alt": "kuro-shinshi-no-yuuwaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

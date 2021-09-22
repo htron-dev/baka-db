@@ -1,5 +1,9 @@
 {
     "title": "Magarikado no Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/27866.jpg",
+        "alt": "magarikado-no-bokura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

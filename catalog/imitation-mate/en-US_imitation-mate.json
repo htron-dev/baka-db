@@ -1,5 +1,9 @@
 {
     "title": "Imitation Mate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226942.jpg",
+        "alt": "imitation-mate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

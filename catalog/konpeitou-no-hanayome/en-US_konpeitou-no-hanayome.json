@@ -1,5 +1,9 @@
 {
     "title": "Konpeitou no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175322.jpg",
+        "alt": "konpeitou-no-hanayome"
+    },
     "type": "manga",
     "original_name": "金平糖の花嫁",
     "start_date": "2015-07-25",

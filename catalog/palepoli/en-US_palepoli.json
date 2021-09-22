@@ -1,5 +1,9 @@
 {
     "title": "Palepoli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27293.jpg",
+        "alt": "palepoli"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Maker Hikoushiki Hatsune Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157197.jpg",
+        "alt": "maker-hikoushiki-hatsune-mix"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

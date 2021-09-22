@@ -1,5 +1,9 @@
 {
     "title": "Youjo Shachou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236251.jpg",
+        "alt": "youjo-shachou"
+    },
     "type": "manga",
     "original_name": "幼女社長",
     "start_date": "2019-04-26",

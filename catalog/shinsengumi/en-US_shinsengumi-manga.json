@@ -1,5 +1,9 @@
 {
     "title": "Shinsengumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175756.jpg",
+        "alt": "shinsengumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

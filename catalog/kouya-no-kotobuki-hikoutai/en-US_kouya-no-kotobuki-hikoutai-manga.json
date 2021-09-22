@@ -1,5 +1,9 @@
 {
     "title": "Kouya no Kotobuki Hikoutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241547.jpg",
+        "alt": "kouya-no-kotobuki-hikoutai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

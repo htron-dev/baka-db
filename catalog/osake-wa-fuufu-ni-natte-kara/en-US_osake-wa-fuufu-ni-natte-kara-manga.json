@@ -1,5 +1,9 @@
 {
     "title": "Osake wa Fuufu ni Natte kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195485.jpg",
+        "alt": "osake-wa-fuufu-ni-natte-kara"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "144",

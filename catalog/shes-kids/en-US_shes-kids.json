@@ -1,5 +1,9 @@
 {
     "title": "She's Kids",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11327.jpg",
+        "alt": "shes-kids"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

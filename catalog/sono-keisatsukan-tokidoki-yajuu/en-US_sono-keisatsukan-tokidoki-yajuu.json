@@ -1,5 +1,9 @@
 {
     "title": "Sono Keisatsukan, Tokidoki Yajuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246072.jpg",
+        "alt": "sono-keisatsukan-tokidoki-yajuu"
+    },
     "type": "manga",
     "original_name": "その警察官、ときどき野獣!",
     "start_date": "2019-12-01",

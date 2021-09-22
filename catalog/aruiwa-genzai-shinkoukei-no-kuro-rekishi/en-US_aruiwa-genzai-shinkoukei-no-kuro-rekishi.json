@@ -1,5 +1,9 @@
 {
     "title": "Aruiwa Genzai Shinkoukei no Kuro Rekishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163487.jpg",
+        "alt": "aruiwa-genzai-shinkoukei-no-kuro-rekishi"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "70",

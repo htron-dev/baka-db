@@ -1,5 +1,9 @@
 {
     "title": "Ippiki Ookami!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180419.jpg",
+        "alt": "ippiki-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

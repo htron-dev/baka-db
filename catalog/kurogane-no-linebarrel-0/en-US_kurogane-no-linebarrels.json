@@ -1,12 +1,16 @@
 {
     "title": "Kurogane no Linebarrels",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/50375.jpg",
+        "alt": "kurogane-no-linebarrels"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "鉄のラインバレル",
     "start_date": "2008-10-03",
     "end_date": "2008-10-03",
     "opening_song": "\"Kitei no Tsurugi\" by ALI PROJECT",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ame ga Furu (雨が降る)\" by Maaya Sakamoto (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

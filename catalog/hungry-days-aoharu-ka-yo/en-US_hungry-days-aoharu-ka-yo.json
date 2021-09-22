@@ -1,5 +1,9 @@
 {
     "title": "Hungry Days: Aoharu ka yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1637/105124.jpg",
+        "alt": "hungry-days-aoharu-ka-yo"
+    },
     "type": "special",
     "episodes": "11",
     "original_name": "HUNGRY DAYS 　アオハルかよ。",

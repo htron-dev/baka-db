@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku no Kaori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2616.jpg",
+        "alt": "yuuwaku-no-kaori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

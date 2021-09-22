@@ -1,5 +1,9 @@
 {
     "title": "Cross Manage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85841.jpg",
+        "alt": "cross-manage"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

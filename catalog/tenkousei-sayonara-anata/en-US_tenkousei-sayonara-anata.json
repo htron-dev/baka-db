@@ -1,5 +1,9 @@
 {
     "title": "Tenkousei Sayonara Anata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88941.jpg",
+        "alt": "tenkousei-sayonara-anata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

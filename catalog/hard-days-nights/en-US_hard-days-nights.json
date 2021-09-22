@@ -1,5 +1,9 @@
 {
     "title": "Hard Days Nights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157867.jpg",
+        "alt": "hard-days-nights"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "61",

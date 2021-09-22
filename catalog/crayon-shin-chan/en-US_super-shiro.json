@@ -1,5 +1,9 @@
 {
     "title": "Super Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1555/103542.jpg",
+        "alt": "super-shiro"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "SUPER SHIRO (スーパーシロ)",

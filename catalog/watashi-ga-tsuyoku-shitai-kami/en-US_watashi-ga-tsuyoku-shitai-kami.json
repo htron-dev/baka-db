@@ -1,5 +1,9 @@
 {
     "title": "Watashi ga Tsuyoku shitai Kami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211724.jpg",
+        "alt": "watashi-ga-tsuyoku-shitai-kami"
+    },
     "type": "manga",
     "original_name": "わたしが強くしたい神",
     "start_date": "2018-02-07",

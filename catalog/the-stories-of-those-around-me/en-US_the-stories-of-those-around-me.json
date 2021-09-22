@@ -1,5 +1,9 @@
 {
     "title": "The Stories of Those Around Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90983.jpg",
+        "alt": "the-stories-of-those-around-me"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "60",

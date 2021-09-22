@@ -1,5 +1,9 @@
 {
     "title": "Another Sky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67391.jpg",
+        "alt": "another-sky"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

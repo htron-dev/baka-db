@@ -1,5 +1,9 @@
 {
     "title": "Zombie Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/110287.jpg",
+        "alt": "zombie-anthology-comic"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ゾンビアンソロジーコミック",

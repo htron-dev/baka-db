@@ -1,5 +1,9 @@
 {
     "title": "Suki da Nante Ienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14548.jpg",
+        "alt": "suki-da-nante-ienai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

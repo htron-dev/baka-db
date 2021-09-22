@@ -1,5 +1,9 @@
 {
     "title": "Haru Natsu Aki Fuyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22591.jpg",
+        "alt": "haru-natsu-aki-fuyu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

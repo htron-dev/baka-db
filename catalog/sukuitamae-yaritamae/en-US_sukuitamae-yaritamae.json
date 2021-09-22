@@ -1,5 +1,9 @@
 {
     "title": "Sukuitamae, Yaritamae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234813.jpg",
+        "alt": "sukuitamae-yaritamae"
+    },
     "type": "manga",
     "original_name": "救い給え、殺り給え",
     "start_date": "2020-02-20",

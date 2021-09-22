@@ -1,5 +1,9 @@
 {
     "title": "Mada Koi to wa Shirazu ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13985.jpg",
+        "alt": "mada-koi-to-wa-shirazu-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

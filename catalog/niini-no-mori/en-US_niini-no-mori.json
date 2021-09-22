@@ -1,5 +1,9 @@
 {
     "title": "Niini no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175508.jpg",
+        "alt": "niini-no-mori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

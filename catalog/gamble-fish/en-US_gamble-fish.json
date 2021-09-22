@@ -1,5 +1,9 @@
 {
     "title": "Gamble Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164909.jpg",
+        "alt": "gamble-fish"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "168",

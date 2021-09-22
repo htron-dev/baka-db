@@ -1,5 +1,9 @@
 {
     "title": "Akuma no Kimuraa-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1986/91788.jpg",
+        "alt": "akuma-no-kimuraa-hen"
+    },
     "type": "special",
     "original_name": "アクマのキムラー 篇",
     "start_date": "2018-04-06",

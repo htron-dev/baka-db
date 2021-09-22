@@ -1,5 +1,9 @@
 {
     "title": "Ousama Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116343.jpg",
+        "alt": "ousama-game"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

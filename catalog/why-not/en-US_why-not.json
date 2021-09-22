@@ -1,5 +1,9 @@
 {
     "title": "Why Not?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145083.jpg",
+        "alt": "why-not"
+    },
     "type": "manhwa",
     "chapters": "1",
     "start_date": "2010-01-25",

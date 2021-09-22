@@ -1,5 +1,9 @@
 {
     "title": "Aremoshitai, Koremoshitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78091.jpg",
+        "alt": "aremoshitai-koremoshitai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あれもしたい、これもしたい",

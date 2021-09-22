@@ -1,5 +1,9 @@
 {
     "title": "Lion Books",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44661.jpg",
+        "alt": "lion-books"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "14",

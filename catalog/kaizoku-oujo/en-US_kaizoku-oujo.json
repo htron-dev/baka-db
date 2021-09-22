@@ -1,5 +1,9 @@
 {
     "title": "Kaizoku Oujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1214/116660.jpg",
+        "alt": "kaizoku-oujo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "海賊王女",

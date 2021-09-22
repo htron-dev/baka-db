@@ -1,5 +1,9 @@
 {
     "title": "Scissor Sisters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/78147.jpg",
+        "alt": "scissor-sisters"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Saigi Ou no Keiyaku Ouhi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235582.jpg",
+        "alt": "saigi-ou-no-keiyaku-ouhi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

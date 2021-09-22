@@ -1,5 +1,9 @@
 {
     "title": "Shinshikyoutei wo Musubou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38305.jpg",
+        "alt": "shinshikyoutei-wo-musubou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "紳士協定を結ぼう!",

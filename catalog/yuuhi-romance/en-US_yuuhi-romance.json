@@ -1,5 +1,9 @@
 {
     "title": "Yuuhi Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/9784.jpg",
+        "alt": "yuuhi-romance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

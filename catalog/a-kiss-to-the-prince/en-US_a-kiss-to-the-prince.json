@@ -1,5 +1,9 @@
 {
     "title": "A Kiss to the Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/43797.jpg",
+        "alt": "a-kiss-to-the-prince"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "22",

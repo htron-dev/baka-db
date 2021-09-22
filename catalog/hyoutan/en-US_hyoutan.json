@@ -1,5 +1,9 @@
 {
     "title": "Hyoutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/71329.jpg",
+        "alt": "hyoutan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ひょうたん",

@@ -1,5 +1,9 @@
 {
     "title": "Gomen, Soredemo Kimi ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231391.jpg",
+        "alt": "gomen-soredemo-kimi-ga-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

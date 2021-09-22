@@ -1,5 +1,9 @@
 {
     "title": "Juuippiki no Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1329/96647.jpg",
+        "alt": "juuippiki-no-neko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "１１ぴきのねこ",

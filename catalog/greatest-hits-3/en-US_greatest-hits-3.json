@@ -1,5 +1,9 @@
 {
     "title": "Greatest Hits +3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195011.jpg",
+        "alt": "greatest-hits-3"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Greatest Hits +3",

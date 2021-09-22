@@ -1,5 +1,9 @@
 {
     "title": "Mengyou Dunhuang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1611/108293.jpg",
+        "alt": "mengyou-dunhuang"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "梦游敦煌",

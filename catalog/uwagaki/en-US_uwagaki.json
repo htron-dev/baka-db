@@ -1,5 +1,9 @@
 {
     "title": "Uwagaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118945.jpg",
+        "alt": "uwagaki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

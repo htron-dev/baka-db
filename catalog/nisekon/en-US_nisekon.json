@@ -1,5 +1,9 @@
 {
     "title": "Nisekon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206582.jpg",
+        "alt": "nisekon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

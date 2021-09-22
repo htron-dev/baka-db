@@ -1,5 +1,9 @@
 {
     "title": "Ohayou, Orokamono. Oyasumi, Boku no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195603.jpg",
+        "alt": "ohayou-orokamono-oyasumi-boku-no-sekai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "おはよう、愚か者。おやすみ、ボクの世界",

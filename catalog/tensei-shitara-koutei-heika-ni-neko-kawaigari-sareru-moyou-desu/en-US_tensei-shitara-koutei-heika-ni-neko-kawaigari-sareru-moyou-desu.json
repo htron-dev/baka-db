@@ -1,5 +1,9 @@
 {
     "title": "Tensei shitara Koutei Heika ni Neko Kawaigari sareru Moyou desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183721.jpg",
+        "alt": "tensei-shitara-koutei-heika-ni-neko-kawaigari-sareru-moyou-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

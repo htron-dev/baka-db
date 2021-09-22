@@ -1,5 +1,9 @@
 {
     "title": "Furuginuya Monyouchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164349.jpg",
+        "alt": "furuginuya-monyouchou"
+    },
     "type": "manga",
     "original_name": "ふるぎぬや紋様帳",
     "start_date": "2014-04-28",

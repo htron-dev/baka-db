@@ -1,12 +1,16 @@
 {
     "title": "Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/53235.jpg",
+        "alt": "ore-no-nounai-sentakushi-ga-gakuen-love-comedy-wo-zenryoku-de-jama-shiteiru"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
     "start_date": "2013-10-10",
     "end_date": "2013-10-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"S・M・L☆\" by Afilia Saga (eps 1-9)",
+    "ending_song": "#1: \"Taiyou to Tsuki no Cross\" (太陽と月の CROSS) by TWO-FORMULA (Kaori Sadohara & Saeko Zougou) (eps 1-9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

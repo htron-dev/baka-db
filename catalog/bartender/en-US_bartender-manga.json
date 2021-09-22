@@ -1,5 +1,9 @@
 {
     "title": "Bartender",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/5866.jpg",
+        "alt": "bartender"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "167",

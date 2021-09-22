@@ -1,5 +1,9 @@
 {
     "title": "Double Face",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21397.jpg",
+        "alt": "double-face"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ダブルフェイス",

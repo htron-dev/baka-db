@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Hiera-Glaphicos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176909.jpg",
+        "alt": "kuro-no-hiera-glaphicos"
+    },
     "type": "light-novel",
     "volumes": "13",
     "chapters": "94",

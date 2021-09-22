@@ -1,5 +1,9 @@
 {
     "title": "Loan Wolf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32216.jpg",
+        "alt": "loan-wolf"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "LOAN WOLF",

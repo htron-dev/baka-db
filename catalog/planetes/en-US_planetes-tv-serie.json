@@ -1,12 +1,16 @@
 {
     "title": "Planetes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50463.jpg",
+        "alt": "planetes"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "プラネテス",
     "start_date": "2003-10-04",
     "end_date": "2003-10-04",
     "opening_song": "\"Dive in the Sky\" by Mikio Sakai",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Wonderful Life\" by Mikio Sakai (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoukaisenjou no Horizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150960.jpg",
+        "alt": "kyoukaisenjou-no-horizon"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "42",

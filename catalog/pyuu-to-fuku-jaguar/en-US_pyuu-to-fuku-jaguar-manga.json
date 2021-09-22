@@ -1,5 +1,9 @@
 {
     "title": "Pyuu to Fuku! Jaguar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169091.jpg",
+        "alt": "pyuu-to-fuku-jaguar"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "438",

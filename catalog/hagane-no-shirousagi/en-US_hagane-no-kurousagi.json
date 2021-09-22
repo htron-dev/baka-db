@@ -1,5 +1,9 @@
 {
     "title": "Hagane no Kurousagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162039.jpg",
+        "alt": "hagane-no-kurousagi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

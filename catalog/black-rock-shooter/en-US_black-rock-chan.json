@@ -1,5 +1,9 @@
 {
     "title": "Black Rock-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76905.jpg",
+        "alt": "black-rock-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Aru Hi, Burikko Akuyaku Reijou ni Narimashite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239475.jpg",
+        "alt": "aru-hi-burikko-akuyaku-reijou-ni-narimashite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

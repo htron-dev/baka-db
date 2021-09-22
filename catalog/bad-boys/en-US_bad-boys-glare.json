@@ -1,5 +1,9 @@
 {
     "title": "Bad Boys Glare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193282.jpg",
+        "alt": "bad-boys-glare"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "115",

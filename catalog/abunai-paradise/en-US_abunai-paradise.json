@@ -1,5 +1,9 @@
 {
     "title": "Abunai Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34881.jpg",
+        "alt": "abunai-paradise"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あぶない・パラダイス",

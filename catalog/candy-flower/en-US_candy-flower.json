@@ -1,5 +1,9 @@
 {
     "title": "Candy Flower",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172822.jpg",
+        "alt": "candy-flower"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

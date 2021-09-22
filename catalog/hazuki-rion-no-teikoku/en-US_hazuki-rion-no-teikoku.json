@@ -1,5 +1,9 @@
 {
     "title": "Hazuki Rion no Teikoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171307.jpg",
+        "alt": "hazuki-rion-no-teikoku"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "56",

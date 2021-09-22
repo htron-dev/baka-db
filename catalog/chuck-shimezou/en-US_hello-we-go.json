@@ -1,5 +1,9 @@
 {
     "title": "Hello WeGo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1974/97417.jpg",
+        "alt": "hello-we-go"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハローウィーゴ!",

@@ -1,12 +1,16 @@
 {
     "title": "Shamanic Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1408/94311.jpg",
+        "alt": "shamanic-princess"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "シャーマニックプリンセス",
     "start_date": "1996-06-25",
     "end_date": "1996-06-25",
     "opening_song": "\"Inori no Asa (祈りの朝)\" by Miwako Saitou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Omoide no Mori (想い出の森)\" by Miwako Saitou",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

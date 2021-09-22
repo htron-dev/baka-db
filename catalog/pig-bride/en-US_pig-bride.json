@@ -1,5 +1,9 @@
 {
     "title": "Pig Bride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30366.jpg",
+        "alt": "pig-bride"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "22",

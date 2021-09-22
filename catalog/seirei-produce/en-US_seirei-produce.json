@@ -1,5 +1,9 @@
 {
     "title": "Seirei Produce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65029.jpg",
+        "alt": "seirei-produce"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

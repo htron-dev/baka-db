@@ -1,12 +1,16 @@
 {
     "title": "Space☆Dandy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/56611.jpg",
+        "alt": "space☆-dandy"
+    },
     "type": "tv-serie",
     "episodes": "13",
-    "original_name": "スペース☆ダンディ",
+    "original_name": "スペース ☆ ダンディ",
     "start_date": "2014-01-05",
     "end_date": "2014-01-05",
     "opening_song": "\"Viva Namida (ビバナミダ)\" by Yasuyuki Okamura",
-    "ending_song": "\"X Jigen e Youkoso (X次元へようこそ)\" by Etsuko Yakushimaru",
+    "ending_song": "\"X Jigen e Youkoso (X 次元へようこそ)\" by Etsuko Yakushimaru",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

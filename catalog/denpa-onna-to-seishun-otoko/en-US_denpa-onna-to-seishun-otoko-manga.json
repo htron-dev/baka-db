@@ -1,5 +1,9 @@
 {
     "title": "Denpa Onna to Seishun Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136111.jpg",
+        "alt": "denpa-onna-to-seishun-otoko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

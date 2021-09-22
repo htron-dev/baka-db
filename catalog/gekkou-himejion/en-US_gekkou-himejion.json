@@ -1,5 +1,9 @@
 {
     "title": "Gekkou Himejion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24882.jpg",
+        "alt": "gekkou-himejion"
+    },
     "type": "manga",
     "original_name": "月光ヒメジオン",
     "tags": [

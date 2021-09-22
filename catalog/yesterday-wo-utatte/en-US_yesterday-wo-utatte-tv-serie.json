@@ -1,11 +1,15 @@
 {
     "title": "Yesterday wo Utatte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1553/107721.jpg",
+        "alt": "yesterday-wo-utatte"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "イエスタデイをうたって",
     "start_date": "2020-04-05",
     "end_date": "2020-04-05",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kago no Naka ni Tori (籠の中に鳥)\" by yourness (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

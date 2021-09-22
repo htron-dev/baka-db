@@ -1,5 +1,9 @@
 {
     "title": "Oh! My Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17008.jpg",
+        "alt": "oh-my-darling"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "Ｏｈ！ｍｙダーリン",

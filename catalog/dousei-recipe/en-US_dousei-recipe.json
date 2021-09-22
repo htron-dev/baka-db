@@ -1,5 +1,9 @@
 {
     "title": "Dousei Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125135.jpg",
+        "alt": "dousei-recipe"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "64",

@@ -1,5 +1,9 @@
 {
     "title": "Mizuiro Splash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172884.jpg",
+        "alt": "mizuiro-splash"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

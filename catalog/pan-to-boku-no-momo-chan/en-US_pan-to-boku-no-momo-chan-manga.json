@@ -1,5 +1,9 @@
 {
     "title": "Pan to Boku no Momo-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223493.jpg",
+        "alt": "pan-to-boku-no-momo-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

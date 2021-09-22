@@ -1,5 +1,9 @@
 {
     "title": "Shousetsuou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226922.jpg",
+        "alt": "shousetsuou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

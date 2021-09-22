@@ -1,5 +1,9 @@
 {
     "title": "Hana-san wa Minorasetai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243095.jpg",
+        "alt": "hana-san-wa-minorasetai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Gyoukaikei no Jijou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125625.jpg",
+        "alt": "gyoukaikei-no-jijou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "業界系ノジジョウ。",

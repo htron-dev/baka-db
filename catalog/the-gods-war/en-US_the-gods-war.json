@@ -1,5 +1,9 @@
 {
     "title": "The God's War",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18537.jpg",
+        "alt": "the-gods-war"
+    },
     "type": "manhwa",
     "original_name": "무신전쟁",
     "tags": [

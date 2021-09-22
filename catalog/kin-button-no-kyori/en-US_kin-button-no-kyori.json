@@ -1,5 +1,9 @@
 {
     "title": "Kin-Button no Kyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153375.jpg",
+        "alt": "kin-button-no-kyori"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "金ボタンの距離",

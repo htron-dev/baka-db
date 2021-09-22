@@ -1,5 +1,9 @@
 {
     "title": "Miseru, Mitsumeru, Futari dake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220823.jpg",
+        "alt": "miseru-mitsumeru-futari-dake"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "見せる、見つめる、ふたりだけ",

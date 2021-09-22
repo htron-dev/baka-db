@@ -1,5 +1,9 @@
 {
     "title": "Hidan no Aria-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150288.jpg",
+        "alt": "hidan-no-aria-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

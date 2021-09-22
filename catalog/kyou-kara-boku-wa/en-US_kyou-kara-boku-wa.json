@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Boku wa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139809.jpg",
+        "alt": "kyou-kara-boku-wa"
+    },
     "type": "light-novel",
     "original_name": "今日から僕は!",
     "start_date": "2014-10-24",

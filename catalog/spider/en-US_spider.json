@@ -1,5 +1,9 @@
 {
     "title": "Spider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79149.jpg",
+        "alt": "spider"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "内田一奈",

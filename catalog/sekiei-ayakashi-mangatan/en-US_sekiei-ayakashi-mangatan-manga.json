@@ -1,5 +1,9 @@
 {
     "title": "Sekiei Ayakashi Mangatan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198880.jpg",
+        "alt": "sekiei-ayakashi-mangatan"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "114",

@@ -1,5 +1,9 @@
 {
     "title": "Pita-Ten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5743.jpg",
+        "alt": "pita-ten"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ぴたテン",

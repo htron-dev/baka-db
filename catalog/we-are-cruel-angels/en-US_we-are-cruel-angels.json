@@ -1,5 +1,9 @@
 {
     "title": "We/Are Cruel Angel's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14570.jpg",
+        "alt": "we-are-cruel-angels"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

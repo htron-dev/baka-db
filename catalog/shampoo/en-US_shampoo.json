@@ -1,5 +1,9 @@
 {
     "title": "Shampoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24447.jpg",
+        "alt": "shampoo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Anata no, Toriko.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11160.jpg",
+        "alt": "anata-no-toriko"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "あなたの、とりこ。",

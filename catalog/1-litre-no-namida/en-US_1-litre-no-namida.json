@@ -1,5 +1,9 @@
 {
     "title": "1 Litre no Namida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88485.jpg",
+        "alt": "1-litre-no-namida"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Oretachi no Chuunibyou wa Mada Hajimatta Bakari da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160896.jpg",
+        "alt": "oretachi-no-chuunibyou-wa-mada-hajimatta-bakari-da"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "俺達の中二病はまだ始まったばかりだ!",

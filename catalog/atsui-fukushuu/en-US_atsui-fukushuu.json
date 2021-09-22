@@ -1,5 +1,9 @@
 {
     "title": "Atsui Fukushuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62091.jpg",
+        "alt": "atsui-fukushuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

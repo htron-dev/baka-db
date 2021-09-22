@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Warlike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110685.jpg",
+        "alt": "kanojo-wa-warlike"
+    },
     "type": "light-novel",
     "volumes": "9",
     "original_name": "彼女は戦争妖精〈ウォーライク〉",

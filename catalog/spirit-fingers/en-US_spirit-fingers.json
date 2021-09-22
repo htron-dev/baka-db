@@ -1,5 +1,9 @@
 {
     "title": "Spirit Fingers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206123.jpg",
+        "alt": "spirit-fingers"
+    },
     "type": "manhwa",
     "volumes": "13",
     "chapters": "163",

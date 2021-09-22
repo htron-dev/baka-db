@@ -1,5 +1,9 @@
 {
     "title": "AI no Idenshi: Red Queen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222644.jpg",
+        "alt": "ai-no-idenshi-red-queen"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "K-On!!: Keikaku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/26965.jpg",
+        "alt": "k-on-keikaku"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "けいおん!! 計画!",

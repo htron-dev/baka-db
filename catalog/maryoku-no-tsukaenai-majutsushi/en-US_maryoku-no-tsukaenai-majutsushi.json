@@ -1,5 +1,9 @@
 {
     "title": "Maryoku no Tsukaenai Majutsushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134367.jpg",
+        "alt": "maryoku-no-tsukaenai-majutsushi"
+    },
     "type": "light-novel",
     "original_name": "魔力の使えない魔術師",
     "start_date": "2014-07-30",

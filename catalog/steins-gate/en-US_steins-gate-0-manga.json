@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208537.jpg",
+        "alt": "steins-gate-0"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "41",

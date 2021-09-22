@@ -1,5 +1,9 @@
 {
     "title": "Baikoku Kikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215767.jpg",
+        "alt": "baikoku-kikan"
+    },
     "type": "manga",
     "original_name": "売国機関",
     "start_date": "2018-06-29",

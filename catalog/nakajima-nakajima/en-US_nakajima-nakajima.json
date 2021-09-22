@@ -1,5 +1,9 @@
 {
     "title": "Nakajima Nakajima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164347.jpg",
+        "alt": "nakajima-nakajima"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

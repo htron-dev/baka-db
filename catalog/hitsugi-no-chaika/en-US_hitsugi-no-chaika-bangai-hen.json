@@ -1,5 +1,9 @@
 {
     "title": "Hitsugi no Chaika Bangai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165219.jpg",
+        "alt": "hitsugi-no-chaika-bangai-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "棺姫のチャイカ 番外編",

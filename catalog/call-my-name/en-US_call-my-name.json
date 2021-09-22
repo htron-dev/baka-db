@@ -1,5 +1,9 @@
 {
     "title": "Call My Name",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10026.jpg",
+        "alt": "call-my-name"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マーガレットコミックス",

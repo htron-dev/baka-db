@@ -1,5 +1,9 @@
 {
     "title": "Kiss ni Juuzoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38076.jpg",
+        "alt": "kiss-ni-juuzoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

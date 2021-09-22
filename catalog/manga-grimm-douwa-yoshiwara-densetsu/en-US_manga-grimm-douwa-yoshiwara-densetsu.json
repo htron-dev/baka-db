@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Yoshiwara Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147743.jpg",
+        "alt": "manga-grimm-douwa-yoshiwara-densetsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

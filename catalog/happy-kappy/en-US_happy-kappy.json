@@ -1,5 +1,9 @@
 {
     "title": "Happy Kappy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/32993.jpg",
+        "alt": "happy-kappy"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "はっぴ〜カッピ",

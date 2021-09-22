@@ -1,5 +1,9 @@
 {
     "title": "Frame Saber",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14926.jpg",
+        "alt": "frame-saber"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

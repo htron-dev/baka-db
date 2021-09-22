@@ -1,5 +1,9 @@
 {
     "title": "Big Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179733.jpg",
+        "alt": "big-order"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "55",

@@ -1,12 +1,16 @@
 {
     "title": "Bakuman. 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/34923.jpg",
+        "alt": "bakuman-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "バクマン。2nd シーズン",
     "start_date": "2011-10-01",
     "end_date": "2011-10-01",
     "opening_song": "\"Dream of Life\" by Shohei Itou (伊藤祥平)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"monochrome rainbow\" by Tommy heavenly6 (eps 1-16)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

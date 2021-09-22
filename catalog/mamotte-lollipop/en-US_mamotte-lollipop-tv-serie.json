@@ -1,5 +1,9 @@
 {
     "title": "Mamotte! Lollipop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1509.jpg",
+        "alt": "mamotte-lollipop"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "まもって！ロリポップ",

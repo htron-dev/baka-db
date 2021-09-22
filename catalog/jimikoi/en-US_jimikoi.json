@@ -1,5 +1,9 @@
 {
     "title": "Jimikoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144785.jpg",
+        "alt": "jimikoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

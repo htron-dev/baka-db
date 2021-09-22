@@ -1,5 +1,9 @@
 {
     "title": "Dennou Kaikitan Cyberone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151366.jpg",
+        "alt": "dennou-kaikitan-cyberone"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "電脳怪奇譚サイバーワン",

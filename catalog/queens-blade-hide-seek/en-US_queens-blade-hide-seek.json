@@ -1,5 +1,9 @@
 {
     "title": "Queen's Blade: Hide & Seek",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/26099.jpg",
+        "alt": "queens-blade-hide-seek"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Sweet Pool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39598.jpg",
+        "alt": "sweet-pool"
+    },
     "type": "manga",
     "original_name": "sweet pool",
     "tags": [

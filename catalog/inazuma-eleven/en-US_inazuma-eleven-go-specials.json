@@ -1,5 +1,9 @@
 {
     "title": "Inazuma Eleven Go Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/86762.jpg",
+        "alt": "inazuma-eleven-go-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "イナズマイレブン GO 特別編",

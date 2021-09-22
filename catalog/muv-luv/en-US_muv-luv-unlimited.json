@@ -1,5 +1,9 @@
 {
     "title": "Muv-Luv Unlimited",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/135019.jpg",
+        "alt": "muv-luv-unlimited"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

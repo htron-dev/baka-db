@@ -1,5 +1,9 @@
 {
     "title": "Raku Mote",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5456.jpg",
+        "alt": "raku-mote"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ラク ♥ モテ (ラクしてモテる恋愛術)",

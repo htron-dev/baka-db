@@ -1,5 +1,9 @@
 {
     "title": "Juu Ou Sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/14079.jpg",
+        "alt": "juu-ou-sei"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "獣王星",

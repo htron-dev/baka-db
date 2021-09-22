@@ -1,5 +1,9 @@
 {
     "title": "Hagane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177452.jpg",
+        "alt": "hagane"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "110",

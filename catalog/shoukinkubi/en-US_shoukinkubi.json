@@ -1,5 +1,9 @@
 {
     "title": "Shoukinkubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192528.jpg",
+        "alt": "shoukinkubi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "賞金首",

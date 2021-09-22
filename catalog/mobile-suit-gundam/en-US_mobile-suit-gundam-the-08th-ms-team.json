@@ -1,12 +1,16 @@
 {
     "title": "Mobile Suit Gundam: The 08th MS Team",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75618.jpg",
+        "alt": "mobile-suit-gundam-the-08th-ms-team"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "機動戦士ガンダム 第 08MS 小隊",
     "start_date": "1996-01-25",
     "end_date": "1996-01-25",
     "opening_song": "\"Arashi no Naka de Kagayaite\" by Chihiro Yonekura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ten Years After\" by Chihiro Yonekura (eps 1-10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

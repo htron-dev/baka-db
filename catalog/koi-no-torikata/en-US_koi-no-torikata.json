@@ -1,5 +1,9 @@
 {
     "title": "Koi no Torikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247768.jpg",
+        "alt": "koi-no-torikata"
+    },
     "type": "manga",
     "original_name": "恋の撮りかた",
     "start_date": "2017-05-27",

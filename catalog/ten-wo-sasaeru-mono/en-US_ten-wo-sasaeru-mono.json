@@ -1,5 +1,9 @@
 {
     "title": "Ten wo Sasaeru Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151144.jpg",
+        "alt": "ten-wo-sasaeru-mono"
+    },
     "type": "light-novel",
     "volumes": "10",
     "original_name": "天を支える者",

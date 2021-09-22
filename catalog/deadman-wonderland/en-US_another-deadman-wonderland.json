@@ -1,5 +1,9 @@
 {
     "title": "Another. Deadman Wonderland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193599.jpg",
+        "alt": "another-deadman-wonderland"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あなざー。デッドマン・ワンダーランド",

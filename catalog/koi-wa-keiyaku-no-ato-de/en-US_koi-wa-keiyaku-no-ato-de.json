@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Keiyaku no Ato de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18912.jpg",
+        "alt": "koi-wa-keiyaku-no-ato-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

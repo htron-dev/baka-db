@@ -1,5 +1,9 @@
 {
     "title": "Kedamono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185109.jpg",
+        "alt": "kedamono"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

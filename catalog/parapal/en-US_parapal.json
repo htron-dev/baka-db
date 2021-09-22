@@ -1,5 +1,9 @@
 {
     "title": "Parapal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173720.jpg",
+        "alt": "parapal"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "45",

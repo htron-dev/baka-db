@@ -1,5 +1,9 @@
 {
     "title": "The Mark of Watzel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198954.jpg",
+        "alt": "the-mark-of-watzel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

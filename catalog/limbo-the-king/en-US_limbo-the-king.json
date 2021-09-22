@@ -1,5 +1,9 @@
 {
     "title": "Limbo the King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204233.jpg",
+        "alt": "limbo-the-king"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "37",

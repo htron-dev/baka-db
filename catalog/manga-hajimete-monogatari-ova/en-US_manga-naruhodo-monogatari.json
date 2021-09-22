@@ -1,5 +1,9 @@
 {
     "title": "Manga Naruhodo Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/28066.jpg",
+        "alt": "manga-naruhodo-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "102",
     "original_name": "まんがなるほど物語",

@@ -1,5 +1,9 @@
 {
     "title": "Mairimashita, Senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189612.jpg",
+        "alt": "mairimashita-senpai"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

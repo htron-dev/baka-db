@@ -1,5 +1,9 @@
 {
     "title": "Otoko Oidon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62865.jpg",
+        "alt": "otoko-oidon"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "124",

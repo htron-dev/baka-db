@@ -1,5 +1,9 @@
 {
     "title": "Jigokuraku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1457/111253.jpg",
+        "alt": "jigokuraku"
+    },
     "type": "tv-serie",
     "original_name": "地獄楽",
     "rating": "None",

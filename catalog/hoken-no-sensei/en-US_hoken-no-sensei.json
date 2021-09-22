@@ -1,5 +1,9 @@
 {
     "title": "Hoken no Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65585.jpg",
+        "alt": "hoken-no-sensei"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "48",

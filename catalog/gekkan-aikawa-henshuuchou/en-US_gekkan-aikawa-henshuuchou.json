@@ -1,5 +1,9 @@
 {
     "title": "Gekkan Aikawa Henshuuchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51915.jpg",
+        "alt": "gekkan-aikawa-henshuuchou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "42",

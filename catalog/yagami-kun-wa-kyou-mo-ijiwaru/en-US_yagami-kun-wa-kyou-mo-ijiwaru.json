@@ -1,5 +1,9 @@
 {
     "title": "Yagami-kun wa, Kyou mo Ijiwaru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186148.jpg",
+        "alt": "yagami-kun-wa-kyou-mo-ijiwaru"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "67",

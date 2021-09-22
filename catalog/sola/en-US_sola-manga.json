@@ -1,5 +1,9 @@
 {
     "title": "Sola",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135985.jpg",
+        "alt": "sola"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

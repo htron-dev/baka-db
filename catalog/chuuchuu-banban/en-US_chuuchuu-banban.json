@@ -1,5 +1,9 @@
 {
     "title": "Chuuchuu Banban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/63951.jpg",
+        "alt": "chuuchuu-banban"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チュウチュウバンバン",

@@ -1,5 +1,9 @@
 {
     "title": "Apartment!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/23993.jpg",
+        "alt": "apartment"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Apartment!",

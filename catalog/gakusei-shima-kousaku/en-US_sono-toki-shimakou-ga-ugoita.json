@@ -1,5 +1,9 @@
 {
     "title": "Sono Toki, Shimakou ga Ugoita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1136/96544.jpg",
+        "alt": "sono-toki-shimakou-ga-ugoita"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "その時、シマコーが動いた!",

@@ -1,5 +1,9 @@
 {
     "title": "Hashire! Shiroi Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/29878.jpg",
+        "alt": "hashire-shiroi-ookami"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "走れ! 白いオオカミ",

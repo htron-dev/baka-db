@@ -1,5 +1,9 @@
 {
     "title": "Kanwa Mahoutsukai no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240749.jpg",
+        "alt": "kanwa-mahoutsukai-no-yome"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "閑話 魔法使いの嫁",

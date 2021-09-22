@@ -1,5 +1,9 @@
 {
     "title": "Kyoryuu Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235641.jpg",
+        "alt": "kyoryuu-senki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

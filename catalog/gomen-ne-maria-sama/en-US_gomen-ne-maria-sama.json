@@ -1,5 +1,9 @@
 {
     "title": "Gomen ne, Maria-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36881.jpg",
+        "alt": "gomen-ne-maria-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ごめんね、マリア様",

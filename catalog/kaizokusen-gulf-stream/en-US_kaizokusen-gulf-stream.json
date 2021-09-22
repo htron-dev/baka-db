@@ -1,5 +1,9 @@
 {
     "title": "Kaizokusen Gulf Stream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158918.jpg",
+        "alt": "kaizokusen-gulf-stream"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

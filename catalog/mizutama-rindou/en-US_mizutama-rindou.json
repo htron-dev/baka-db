@@ -1,5 +1,9 @@
 {
     "title": "Mizutama Rindou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76931.jpg",
+        "alt": "mizutama-rindou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

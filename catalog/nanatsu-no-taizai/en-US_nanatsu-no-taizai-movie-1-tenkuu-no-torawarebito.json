@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1444/91899.jpg",
+        "alt": "nanatsu-no-taizai-movie-1-tenkuu-no-torawarebito"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 七つの大罪 天空の囚われ人",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga"
+            "link": "http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29"
         }
     ]
 }

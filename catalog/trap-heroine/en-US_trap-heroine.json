@@ -1,5 +1,9 @@
 {
     "title": "Trap Heroine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210473.jpg",
+        "alt": "trap-heroine"
+    },
     "type": "manga",
     "original_name": "トラップヒロイン",
     "start_date": "2017-12-31",

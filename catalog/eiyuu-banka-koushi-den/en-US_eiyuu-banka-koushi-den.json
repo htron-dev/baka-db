@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Banka Koushi-den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/61727.jpg",
+        "alt": "eiyuu-banka-koushi-den"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "英雄挽歌 孔子傳",

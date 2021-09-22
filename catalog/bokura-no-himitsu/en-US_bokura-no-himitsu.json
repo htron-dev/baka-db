@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Himitsu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179101.jpg",
+        "alt": "bokura-no-himitsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

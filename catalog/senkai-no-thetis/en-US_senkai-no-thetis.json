@@ -1,5 +1,9 @@
 {
     "title": "Senkai no Thetis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174472.jpg",
+        "alt": "senkai-no-thetis"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "戦海のテティス",

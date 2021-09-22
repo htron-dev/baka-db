@@ -1,5 +1,9 @@
 {
     "title": "Giant Killing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/30191.jpg",
+        "alt": "giant-killing"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ジャイアントキリング",

@@ -1,5 +1,9 @@
 {
     "title": "Ookami wa Hana no Kaori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225043.jpg",
+        "alt": "ookami-wa-hana-no-kaori"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

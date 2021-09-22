@@ -1,5 +1,9 @@
 {
     "title": "Private",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2679.jpg",
+        "alt": "private"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

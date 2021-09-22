@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198367.jpg",
+        "alt": "tomodachi-no-uta"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ともだちのうた",

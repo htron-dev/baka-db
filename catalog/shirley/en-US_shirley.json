@@ -1,5 +1,9 @@
 {
     "title": "Shirley",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138339.jpg",
+        "alt": "shirley"
+    },
     "type": "manga",
     "original_name": "シャーリー",
     "tags": [

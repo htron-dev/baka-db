@@ -1,5 +1,9 @@
 {
     "title": "Henteko na Volunteer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/68489.jpg",
+        "alt": "henteko-na-volunteer"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "へんてこなボランティア",

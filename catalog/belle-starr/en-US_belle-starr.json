@@ -1,5 +1,9 @@
 {
     "title": "Belle Starr",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6817.jpg",
+        "alt": "belle-starr"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ベル ☆ スタア強盗団",

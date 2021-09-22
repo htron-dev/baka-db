@@ -1,5 +1,9 @@
 {
     "title": "Hi Me KO l",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79339.jpg",
+        "alt": "hi-me-ko-l"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ヒメコイ",

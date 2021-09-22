@@ -1,5 +1,9 @@
 {
     "title": "Noramimi 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/9950.jpg",
+        "alt": "noramimi-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "のらみみ 2",

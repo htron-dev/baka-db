@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam AGE: Memories of Sid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74135.jpg",
+        "alt": "mobile-suit-gundam-age-memories-of-sid"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

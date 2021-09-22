@@ -1,5 +1,9 @@
 {
     "title": "Bye-Bye, Earth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123851.jpg",
+        "alt": "bye-bye-earth"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "12",

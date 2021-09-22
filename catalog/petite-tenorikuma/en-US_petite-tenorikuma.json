@@ -1,5 +1,9 @@
 {
     "title": "Petite! Tenorikuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22612.jpg",
+        "alt": "petite-tenorikuma"
+    },
     "type": "manga",
     "original_name": "プチっと！てのりくま",
     "tags": [

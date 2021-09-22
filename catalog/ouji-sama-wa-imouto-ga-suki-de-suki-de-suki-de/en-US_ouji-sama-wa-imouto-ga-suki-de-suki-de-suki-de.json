@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama wa Imouto ga, Suki de, Suki de, Suki de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183714.jpg",
+        "alt": "ouji-sama-wa-imouto-ga-suki-de-suki-de-suki-de"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

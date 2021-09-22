@@ -1,5 +1,9 @@
 {
     "title": "Wild Fancy Dynamite!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172483.jpg",
+        "alt": "wild-fancy-dynamite"
+    },
     "type": "manga",
     "chapters": "39",
     "original_name": "ワイルド ファンシー ダイナマイト!",

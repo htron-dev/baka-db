@@ -1,5 +1,9 @@
 {
     "title": "Beyond Creation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1123/99276.jpg",
+        "alt": "beyond-creation"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Beyond Creation",

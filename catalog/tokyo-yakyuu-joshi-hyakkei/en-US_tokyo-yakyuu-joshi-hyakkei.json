@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Yakyuu Joshi Hyakkei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227621.jpg",
+        "alt": "tokyo-yakyuu-joshi-hyakkei"
+    },
     "type": "manga",
     "original_name": "東京野球女子百景",
     "start_date": "2017-10-16",

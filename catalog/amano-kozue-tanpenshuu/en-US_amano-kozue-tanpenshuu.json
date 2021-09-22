@@ -1,5 +1,9 @@
 {
     "title": "Amano Kozue Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28194.jpg",
+        "alt": "amano-kozue-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "天野こずえ短編集",

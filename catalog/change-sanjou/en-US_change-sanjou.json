@@ -1,5 +1,9 @@
 {
     "title": "Change Sanjou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79397.jpg",
+        "alt": "change-sanjou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

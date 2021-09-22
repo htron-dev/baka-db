@@ -1,5 +1,9 @@
 {
     "title": "Kimusume.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202396.jpg",
+        "alt": "kimusume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

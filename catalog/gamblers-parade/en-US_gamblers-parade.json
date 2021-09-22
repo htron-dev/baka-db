@@ -1,5 +1,9 @@
 {
     "title": "Gamblers Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215270.jpg",
+        "alt": "gamblers-parade"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

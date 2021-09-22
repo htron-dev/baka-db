@@ -1,5 +1,9 @@
 {
     "title": "Westwood Vibrato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62363.jpg",
+        "alt": "westwood-vibrato"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

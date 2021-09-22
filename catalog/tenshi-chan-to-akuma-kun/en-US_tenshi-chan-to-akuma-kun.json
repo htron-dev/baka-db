@@ -1,5 +1,9 @@
 {
     "title": "Tenshi-chan to Akuma-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117463.jpg",
+        "alt": "tenshi-chan-to-akuma-kun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

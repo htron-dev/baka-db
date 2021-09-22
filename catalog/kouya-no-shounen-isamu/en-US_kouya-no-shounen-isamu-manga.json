@@ -1,5 +1,9 @@
 {
     "title": "Kouya no Shounen Isamu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184297.jpg",
+        "alt": "kouya-no-shounen-isamu"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "37",

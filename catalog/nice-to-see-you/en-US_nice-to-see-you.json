@@ -1,5 +1,9 @@
 {
     "title": "Nice to See You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/72723.jpg",
+        "alt": "nice-to-see-you"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ナイス･トゥー･シー･ユー",

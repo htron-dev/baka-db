@@ -1,5 +1,9 @@
 {
     "title": "Break Back",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208936.jpg",
+        "alt": "break-back"
+    },
     "type": "manga",
     "original_name": "BREAK BACK",
     "start_date": "2017-12-06",

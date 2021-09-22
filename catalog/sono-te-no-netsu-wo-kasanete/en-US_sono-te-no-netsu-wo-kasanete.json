@@ -1,5 +1,9 @@
 {
     "title": "Sono Te no Netsu wo Kasanete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/96767.jpg",
+        "alt": "sono-te-no-netsu-wo-kasanete"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

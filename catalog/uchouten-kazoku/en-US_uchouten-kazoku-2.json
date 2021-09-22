@@ -1,5 +1,9 @@
 {
     "title": "Uchouten Kazoku 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/85354.jpg",
+        "alt": "uchouten-kazoku-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "有頂天家族 2",

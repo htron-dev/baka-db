@@ -1,5 +1,9 @@
 {
     "title": "Kodoku na Yoru no Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232067.jpg",
+        "alt": "kodoku-na-yoru-no-cinderella"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "孤独な夜のシンデレラ",

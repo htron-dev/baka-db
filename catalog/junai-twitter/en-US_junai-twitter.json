@@ -1,5 +1,9 @@
 {
     "title": "Junai Twitter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40848.jpg",
+        "alt": "junai-twitter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

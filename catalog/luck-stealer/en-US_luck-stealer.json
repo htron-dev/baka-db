@@ -1,5 +1,9 @@
 {
     "title": "Luck Stealer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156075.jpg",
+        "alt": "luck-stealer"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "49",

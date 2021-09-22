@@ -1,5 +1,9 @@
 {
     "title": "Kare Kura!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12971.jpg",
+        "alt": "kare-kura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

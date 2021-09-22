@@ -1,11 +1,15 @@
 {
     "title": "Air Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/26507.jpg",
+        "alt": "air-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 AIR",
     "start_date": "2005-02-05",
     "opening_song": "\"Tori no Uta (鳥の詩; Bird's Poem)\" by Lia",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Farewell song\" by Lia",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Samurai High School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144525.jpg",
+        "alt": "samurai-high-school"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

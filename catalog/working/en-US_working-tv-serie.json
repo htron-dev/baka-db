@@ -1,12 +1,16 @@
 {
     "title": "Working!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/73886.jpg",
+        "alt": "working"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ワーキング!!!",
     "start_date": "2015-07-05",
     "end_date": "2015-07-05",
     "opening_song": "\"NOW!!!GAMBLE\" by Popura Taneshima (Kana Asumi), Mahiru Inami (Saki Fujita), Yachiyo Todoroki (Eri Kitamura) (eps 2-13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"NOW!!!GAMBLE\" by Popura Taneshima (Kana Asumi), Mahiru Inami (Saki Fujita), Yachiyo Todoroki (Eri Kitamura) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

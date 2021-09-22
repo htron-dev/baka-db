@@ -1,5 +1,9 @@
 {
     "title": "Soukou Kihei Votoms",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1295/91064.jpg",
+        "alt": "soukou-kihei-votoms"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "装甲騎兵ボトムズ",

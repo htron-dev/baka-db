@@ -1,5 +1,9 @@
 {
     "title": "Dokidoki Majo Shinpan! Duo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177355.jpg",
+        "alt": "dokidoki-majo-shinpan-duo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

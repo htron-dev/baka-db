@@ -1,5 +1,9 @@
 {
     "title": "Yami no Alexandra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106249.jpg",
+        "alt": "yami-no-alexandra"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

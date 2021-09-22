@@ -1,5 +1,9 @@
 {
     "title": "Grand Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166124.jpg",
+        "alt": "grand-blue"
+    },
     "type": "manga",
     "original_name": "ぐらんぶる",
     "start_date": "2014-04-07",

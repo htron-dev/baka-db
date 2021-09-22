@@ -1,5 +1,9 @@
 {
     "title": "Otameshi Delivery Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221861.jpg",
+        "alt": "otameshi-delivery-lover"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Shinreigari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/22691.jpg",
+        "alt": "shinreigari"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "神霊狩 GHOST HOUND",

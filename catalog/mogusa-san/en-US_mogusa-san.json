@@ -1,5 +1,9 @@
 {
     "title": "Mogusa-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178117.jpg",
+        "alt": "mogusa-san"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "88",

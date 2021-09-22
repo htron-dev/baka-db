@@ -1,5 +1,9 @@
 {
     "title": "Ima, Futari no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72147.jpg",
+        "alt": "ima-futari-no-michi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "今、ふたりの道",

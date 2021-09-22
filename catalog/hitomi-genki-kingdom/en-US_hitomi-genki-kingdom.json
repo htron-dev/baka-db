@@ -1,5 +1,9 @@
 {
     "title": "Hitomi Genki: Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/88321.jpg",
+        "alt": "hitomi-genki-kingdom"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "57",

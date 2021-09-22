@@ -1,5 +1,9 @@
 {
     "title": "Ao Ringo Meikyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13141.jpg",
+        "alt": "ao-ringo-meikyuu"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "青りんご迷宮",

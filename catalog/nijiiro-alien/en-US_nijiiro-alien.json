@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro Alien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160875.jpg",
+        "alt": "nijiiro-alien"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "One Piece: Heart of Gold",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/80109.jpg",
+        "alt": "one-piece-heart-of-gold"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ワンピース ～ハートオブ ゴールド～",

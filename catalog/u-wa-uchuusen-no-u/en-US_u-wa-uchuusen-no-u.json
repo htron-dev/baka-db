@@ -1,5 +1,9 @@
 {
     "title": "U wa Uchuusen no U",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/37718.jpg",
+        "alt": "u-wa-uchuusen-no-u"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

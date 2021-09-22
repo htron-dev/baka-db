@@ -1,5 +1,9 @@
 {
     "title": "Kyoto Animation: Meiji-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1470/116471.jpg",
+        "alt": "kyoto-animation-meiji-hen"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "京都アニメーション CM「明治編」",

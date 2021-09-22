@@ -1,5 +1,9 @@
 {
     "title": "Ganbare Genki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38437.jpg",
+        "alt": "ganbare-genki"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "225",

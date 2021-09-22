@@ -1,12 +1,16 @@
 {
     "title": "Burn Up! W",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1805/96595.jpg",
+        "alt": "burn-up-w"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "バーンナップ W",
     "start_date": "1996-04-10",
     "end_date": "1996-04-10",
     "opening_song": "\"Flash Your Dream\" by Wonder Love (eps 2-4)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Itsumo Soba ni Iru Kara (いつもそばにいるから)\" by Chika Nakamura & Wonder Love (ep 2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "sci-fi",

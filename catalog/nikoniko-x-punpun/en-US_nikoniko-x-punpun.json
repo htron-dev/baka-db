@@ -1,5 +1,9 @@
 {
     "title": "Nikoniko x Punpun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146779.jpg",
+        "alt": "nikoniko-x-punpun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

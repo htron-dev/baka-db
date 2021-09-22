@@ -1,5 +1,9 @@
 {
     "title": "Highway Jenny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/52723.jpg",
+        "alt": "highway-jenny"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "Highway Jenny",

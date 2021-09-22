@@ -1,5 +1,9 @@
 {
     "title": "Produce Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191498.jpg",
+        "alt": "produce-online"
+    },
     "type": "light-novel",
     "original_name": "プロデュース・オンライン",
     "start_date": "2017-02-18",

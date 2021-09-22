@@ -1,5 +1,9 @@
 {
     "title": "B-Shock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11408.jpg",
+        "alt": "b-shock"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "52",

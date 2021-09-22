@@ -1,5 +1,9 @@
 {
     "title": "Kizu-Ato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14436.jpg",
+        "alt": "kizu-ato"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "KIZU-ATO キズアト",

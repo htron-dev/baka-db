@@ -1,5 +1,9 @@
 {
     "title": "Dokkan Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/103947.jpg",
+        "alt": "dokkan-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

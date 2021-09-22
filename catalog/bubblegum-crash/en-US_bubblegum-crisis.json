@@ -1,12 +1,16 @@
 {
     "title": "Bubblegum Crisis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/27361.jpg",
+        "alt": "bubblegum-crisis"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "バブルガムクライシス",
     "start_date": "1987-02-25",
     "end_date": "1987-02-25",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Konya wa Hurricane (今夜はハリケーン)\" by Kinuko Oomori (ep 1)",
+    "ending_song": "#1: \"Mr. Dandy\" by Bluew (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

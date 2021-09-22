@@ -1,5 +1,9 @@
 {
     "title": "Ao Oni: Genshi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230704.jpg",
+        "alt": "ao-oni-genshi-hen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

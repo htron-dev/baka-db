@@ -1,5 +1,9 @@
 {
     "title": "Black Yome ni Yoroshiku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188980.jpg",
+        "alt": "black-yome-ni-yoroshiku"
+    },
     "type": "manga",
     "original_name": "ブラック嫁によろしく！",
     "start_date": "2013-07-09",

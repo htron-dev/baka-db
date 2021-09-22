@@ -1,5 +1,9 @@
 {
     "title": "Saiko Kuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208623.jpg",
+        "alt": "saiko-kuro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

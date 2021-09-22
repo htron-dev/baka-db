@@ -1,5 +1,9 @@
 {
     "title": "RAPPA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27059.jpg",
+        "alt": "rappa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Y no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164433.jpg",
+        "alt": "y-no-rakuen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

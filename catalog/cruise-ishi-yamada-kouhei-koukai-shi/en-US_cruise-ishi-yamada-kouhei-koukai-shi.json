@@ -1,5 +1,9 @@
 {
     "title": "Cruise - Ishi Yamada Kouhei Koukai-shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/102161.jpg",
+        "alt": "cruise-ishi-yamada-kouhei-koukai-shi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

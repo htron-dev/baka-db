@@ -1,5 +1,9 @@
 {
     "title": "Chuuken wa Hana wo Matsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59319.jpg",
+        "alt": "chuuken-wa-hana-wo-matsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

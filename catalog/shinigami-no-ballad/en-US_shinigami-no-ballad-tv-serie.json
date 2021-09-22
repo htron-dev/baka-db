@@ -1,5 +1,9 @@
 {
     "title": "Shinigami no Ballad.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/16086.jpg",
+        "alt": "shinigami-no-ballad"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "しにがみのバラッド。",

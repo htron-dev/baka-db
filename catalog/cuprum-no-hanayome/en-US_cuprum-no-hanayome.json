@@ -1,5 +1,9 @@
 {
     "title": "Cuprum no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239731.jpg",
+        "alt": "cuprum-no-hanayome"
+    },
     "type": "manga",
     "original_name": "クプルムの花嫁",
     "start_date": "2020-05-15",

@@ -1,12 +1,16 @@
 {
     "title": "Sekirei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/15182.jpg",
+        "alt": "sekirei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "セキレイ",
     "start_date": "2008-07-02",
     "end_date": "2008-07-02",
     "opening_song": "\"Sekirei (セキレイ)\" by Saori Hayami, Marina Inoue, Kana Hanazawa, and Aya Endo",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dear sweet heart\" by Saori Hayami, Marina Inoue, Kana Hanazawa, and Aya Endo (ep 1-10)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

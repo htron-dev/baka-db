@@ -1,12 +1,16 @@
 {
     "title": "YAT Anshin! Uchuu Ryokou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/20271.jpg",
+        "alt": "yat-anshin-uchuu-ryokou"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ＹＡＴ　安心！宇宙旅行",
     "start_date": "1996-10-05",
     "end_date": "1996-10-05",
     "opening_song": "\"Heaven\" by HIM",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dame yo! Dame yo! Dame yo!! (だめよ!だめよ!だめよ!!)\" by Hekiru Shiina",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

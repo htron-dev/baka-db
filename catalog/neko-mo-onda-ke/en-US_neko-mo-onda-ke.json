@@ -1,5 +1,9 @@
 {
     "title": "Neko mo, Onda-ke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/79161.jpg",
+        "alt": "neko-mo-onda-ke"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "猫も、オンダケ",

@@ -1,5 +1,9 @@
 {
     "title": "Sheep in the Island",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/65743.jpg",
+        "alt": "sheep-in-the-island"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "Sheep in the Island",

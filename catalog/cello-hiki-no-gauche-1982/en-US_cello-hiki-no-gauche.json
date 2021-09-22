@@ -1,5 +1,9 @@
 {
     "title": "Cello Hiki no Gauche",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/80127.jpg",
+        "alt": "cello-hiki-no-gauche"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "セロひきのゴーシュ",

@@ -1,5 +1,9 @@
 {
     "title": "Super Robot Retsuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67733.jpg",
+        "alt": "super-robot-retsuden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

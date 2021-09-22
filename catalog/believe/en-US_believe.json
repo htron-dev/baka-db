@@ -1,5 +1,9 @@
 {
     "title": "Believe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241647.jpg",
+        "alt": "believe"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "Believe",

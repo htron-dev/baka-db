@@ -1,5 +1,9 @@
 {
     "title": "Super Double",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2280.jpg",
+        "alt": "super-double"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

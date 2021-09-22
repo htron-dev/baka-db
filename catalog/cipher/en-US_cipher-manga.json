@@ -1,5 +1,9 @@
 {
     "title": "Cipher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/185355.jpg",
+        "alt": "cipher"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "65",

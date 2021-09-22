@@ -1,5 +1,9 @@
 {
     "title": "Mejirobana no Saku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239406.jpg",
+        "alt": "mejirobana-no-saku"
+    },
     "type": "manga",
     "original_name": "メジロバナの咲く",
     "start_date": "2017-10-31",

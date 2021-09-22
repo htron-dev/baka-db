@@ -1,5 +1,9 @@
 {
     "title": "Assari Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4647.jpg",
+        "alt": "assari-chocolate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

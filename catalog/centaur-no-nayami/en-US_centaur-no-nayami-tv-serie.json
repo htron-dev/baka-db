@@ -1,5 +1,9 @@
 {
     "title": "Centaur no Nayami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/86767.jpg",
+        "alt": "centaur-no-nayami"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "セントールの悩み",

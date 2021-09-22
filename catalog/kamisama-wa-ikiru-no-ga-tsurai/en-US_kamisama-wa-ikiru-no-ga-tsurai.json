@@ -1,5 +1,9 @@
 {
     "title": "Kamisama wa Ikiru no ga Tsurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161320.jpg",
+        "alt": "kamisama-wa-ikiru-no-ga-tsurai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

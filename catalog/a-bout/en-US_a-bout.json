@@ -1,5 +1,9 @@
 {
     "title": "A-bout!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/74997.jpg",
+        "alt": "a-bout"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "165",

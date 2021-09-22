@@ -1,12 +1,16 @@
 {
     "title": "Papa no Iukoto wo Kikinasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/35039.jpg",
+        "alt": "papa-no-iukoto-wo-kikinasai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "パパのいうことを聞きなさい！",
     "start_date": "2012-01-11",
     "end_date": "2012-01-11",
     "opening_song": "\"Happy Girl\" by Eri Kitamura (eps 2-13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Happy Girl\" by Eri Kitamura (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

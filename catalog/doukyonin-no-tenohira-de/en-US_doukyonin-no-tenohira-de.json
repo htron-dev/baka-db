@@ -1,5 +1,9 @@
 {
     "title": "Doukyonin no Tenohira de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227253.jpg",
+        "alt": "doukyonin-no-tenohira-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

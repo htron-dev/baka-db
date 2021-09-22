@@ -1,5 +1,9 @@
 {
     "title": "Junai Rosen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23615.jpg",
+        "alt": "junai-rosen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Anti-Romantic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17787.jpg",
+        "alt": "anti-romantic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

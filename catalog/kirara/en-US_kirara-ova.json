@@ -1,5 +1,9 @@
 {
     "title": "Kirara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1335/94553.jpg",
+        "alt": "kirara"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "KIRARA",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Kirara_(manga"
+            "link": "http://en.wikipedia.org/wiki/Kirara_%28manga%29"
         }
     ]
 }

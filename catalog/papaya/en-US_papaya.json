@@ -1,5 +1,9 @@
 {
     "title": "Papaya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155644.jpg",
+        "alt": "papaya"
+    },
     "type": "manhwa",
     "volumes": "3",
     "original_name": "파파야",

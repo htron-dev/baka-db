@@ -1,5 +1,9 @@
 {
     "title": "Project Doll Phone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118329.jpg",
+        "alt": "project-doll-phone"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

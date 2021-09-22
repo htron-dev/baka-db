@@ -1,5 +1,9 @@
 {
     "title": "Shuuten wa Tokyo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227799.jpg",
+        "alt": "shuuten-wa-tokyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

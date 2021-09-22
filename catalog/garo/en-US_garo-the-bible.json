@@ -1,5 +1,9 @@
 {
     "title": "Garo: The Bible",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149347.jpg",
+        "alt": "garo-the-bible"
+    },
     "type": "manga",
     "original_name": "牙狼－GARO the BIBLE－",
     "start_date": "2014-12-26",

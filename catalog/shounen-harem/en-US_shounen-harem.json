@@ -1,5 +1,9 @@
 {
     "title": "Shounen Harem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11027.jpg",
+        "alt": "shounen-harem"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "少年ハーレム",

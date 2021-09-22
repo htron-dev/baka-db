@@ -1,5 +1,9 @@
 {
     "title": "Ryuuichi Manga Gekijou Onbu Obake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/23928.jpg",
+        "alt": "ryuuichi-manga-gekijou-onbu-obake"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "おんぶおばけ",

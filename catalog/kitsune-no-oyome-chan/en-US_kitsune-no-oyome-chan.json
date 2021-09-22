@@ -1,5 +1,9 @@
 {
     "title": "Kitsune no Oyome-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229498.jpg",
+        "alt": "kitsune-no-oyome-chan"
+    },
     "type": "manga",
     "original_name": "狐のお嫁ちゃん",
     "start_date": "2016-04-26",

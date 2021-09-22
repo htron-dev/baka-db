@@ -1,5 +1,9 @@
 {
     "title": "Yukuyuku Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212855.jpg",
+        "alt": "yukuyuku-futari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

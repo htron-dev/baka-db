@@ -1,5 +1,9 @@
 {
     "title": "Gintama x Mameshiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1370/110954.jpg",
+        "alt": "gintama-x-mameshiba"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "銀魂 × 豆しば",

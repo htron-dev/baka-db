@@ -1,5 +1,9 @@
 {
     "title": "Hari to Orange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152528.jpg",
+        "alt": "hari-to-orange"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "針とオレンジ",

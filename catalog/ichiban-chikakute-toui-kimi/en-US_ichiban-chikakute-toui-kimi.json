@@ -1,5 +1,9 @@
 {
     "title": "Ichiban Chikakute Toui Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38303.jpg",
+        "alt": "ichiban-chikakute-toui-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

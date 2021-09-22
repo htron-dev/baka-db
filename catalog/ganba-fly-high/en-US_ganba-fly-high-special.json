@@ -1,5 +1,9 @@
 {
     "title": "Ganba! Fly High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1352/102861.jpg",
+        "alt": "ganba-fly-high"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "CM 小学館 少年サンデー「ガンバ！Fly high」編",

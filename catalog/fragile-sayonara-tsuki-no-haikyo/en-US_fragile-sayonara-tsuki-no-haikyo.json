@@ -1,5 +1,9 @@
 {
     "title": "Fragile - Sayonara Tsuki no Haikyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34971.jpg",
+        "alt": "fragile-sayonara-tsuki-no-haikyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

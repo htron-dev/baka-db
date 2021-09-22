@@ -1,5 +1,9 @@
 {
     "title": "Money Fight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171767.jpg",
+        "alt": "money-fight"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "55",

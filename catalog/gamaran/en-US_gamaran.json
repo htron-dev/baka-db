@@ -1,5 +1,9 @@
 {
     "title": "Gamaran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122963.jpg",
+        "alt": "gamaran"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "194",

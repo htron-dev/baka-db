@@ -1,5 +1,9 @@
 {
     "title": "Aru Otoko no Ikikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1990/98312.jpg",
+        "alt": "aru-otoko-no-ikikata"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ある男の生き方",

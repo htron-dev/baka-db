@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko no Me ga Yami ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36088.jpg",
+        "alt": "kuroneko-no-me-ga-yami-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Game no Naka ni Iru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243813.jpg",
+        "alt": "game-no-naka-ni-iru"
+    },
     "type": "manga",
     "chapters": "12",
     "original_name": "ゲームの中にいる！",

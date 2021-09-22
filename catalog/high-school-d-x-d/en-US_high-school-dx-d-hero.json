@@ -1,5 +1,9 @@
 {
     "title": "High School DxD Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1189/93528.jpg",
+        "alt": "high-school-dx-d-hero"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハイスクール DxD HERO",

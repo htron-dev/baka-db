@@ -1,5 +1,9 @@
 {
     "title": "Kabocha Atama no Lanthan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176711.jpg",
+        "alt": "kabocha-atama-no-lanthan"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

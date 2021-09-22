@@ -1,5 +1,9 @@
 {
     "title": "Pink Choudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/126513.jpg",
+        "alt": "pink-choudai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

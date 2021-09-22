@@ -1,5 +1,9 @@
 {
     "title": "Nepos Napos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72768.jpg",
+        "alt": "nepos-napos"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ネポス・ナポス",

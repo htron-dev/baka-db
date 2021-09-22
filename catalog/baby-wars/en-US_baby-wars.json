@@ -1,5 +1,9 @@
 {
     "title": "Baby Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40028.jpg",
+        "alt": "baby-wars"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ベイビー・ウォーズ",

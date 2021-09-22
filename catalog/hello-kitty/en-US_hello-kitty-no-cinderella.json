@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72447.jpg",
+        "alt": "hello-kitty-no-cinderella"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハローキティのシンデレラ",

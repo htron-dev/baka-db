@@ -1,5 +1,9 @@
 {
     "title": "Hadaka yori mo Okufukaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238112.jpg",
+        "alt": "hadaka-yori-mo-okufukaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Black Fox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1217/103378.jpg",
+        "alt": "black-fox"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "BLACKFOX",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Blackfox_(2019_film"
+            "link": "https://en.wikipedia.org/wiki/Blackfox_%282019_film%29"
         }
     ]
 }

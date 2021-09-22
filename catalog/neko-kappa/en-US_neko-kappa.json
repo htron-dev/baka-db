@@ -1,5 +1,9 @@
 {
     "title": "Neko Kappa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21077.jpg",
+        "alt": "neko-kappa"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ネコカッパ",

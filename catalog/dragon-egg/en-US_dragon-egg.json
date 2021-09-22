@@ -1,5 +1,9 @@
 {
     "title": "Dragon Egg",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/88840.jpg",
+        "alt": "dragon-egg"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "드래곤에그",

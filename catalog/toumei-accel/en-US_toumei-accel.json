@@ -1,5 +1,9 @@
 {
     "title": "Toumei Accel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162600.jpg",
+        "alt": "toumei-accel"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

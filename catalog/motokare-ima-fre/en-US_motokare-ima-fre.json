@@ -1,5 +1,9 @@
 {
     "title": "Motokare Ima-fre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154831.jpg",
+        "alt": "motokare-ima-fre"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

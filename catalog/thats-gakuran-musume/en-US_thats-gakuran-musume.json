@@ -1,5 +1,9 @@
 {
     "title": "That's Gakuran Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28434.jpg",
+        "alt": "thats-gakuran-musume"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "THAT'S 学らん娘",

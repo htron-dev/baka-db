@@ -1,5 +1,9 @@
 {
     "title": "Arabian de Naito!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14188.jpg",
+        "alt": "arabian-de-naito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

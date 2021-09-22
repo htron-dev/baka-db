@@ -1,5 +1,9 @@
 {
     "title": "Sora ni Omou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207056.jpg",
+        "alt": "sora-ni-omou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

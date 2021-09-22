@@ -1,5 +1,9 @@
 {
     "title": "A Cup of...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100619.jpg",
+        "alt": "a-cup-of"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

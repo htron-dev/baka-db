@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Nusumareta Lupin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/27610.jpg",
+        "alt": "lupin-iii-nusumareta-lupin"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世 「盗まれたルパン ～コピーキャットは真夏の蝶～」",

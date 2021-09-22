@@ -1,5 +1,9 @@
 {
     "title": "Presents",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199114.jpg",
+        "alt": "presents"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

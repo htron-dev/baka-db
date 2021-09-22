@@ -1,5 +1,9 @@
 {
     "title": "NanaKo Robin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15136.jpg",
+        "alt": "nana-ko-robin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

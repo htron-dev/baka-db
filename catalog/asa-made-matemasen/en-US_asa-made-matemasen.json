@@ -1,5 +1,9 @@
 {
     "title": "Asa made Matemasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168422.jpg",
+        "alt": "asa-made-matemasen"
+    },
     "type": "manga",
     "original_name": "朝まで待てません",
     "start_date": "2013-09-05",

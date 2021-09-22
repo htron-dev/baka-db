@@ -1,5 +1,9 @@
 {
     "title": "Dragon Fist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/55907.jpg",
+        "alt": "dragon-fist"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ドラゴンフィスト",

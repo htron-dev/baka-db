@@ -1,5 +1,9 @@
 {
     "title": "100 Days in Europe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222734.jpg",
+        "alt": "100-days-in-europe"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "유럽에서 100일",

@@ -1,5 +1,9 @@
 {
     "title": "...no Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/817.jpg",
+        "alt": "no-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

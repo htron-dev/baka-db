@@ -1,5 +1,9 @@
 {
     "title": "Oni-Deka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186231.jpg",
+        "alt": "oni-deka"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

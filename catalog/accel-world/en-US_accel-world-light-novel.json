@@ -1,5 +1,9 @@
 {
     "title": "Accel World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156321.jpg",
+        "alt": "accel-world"
+    },
     "type": "light-novel",
     "original_name": "アクセル・ワールド",
     "start_date": "2009-02-10",

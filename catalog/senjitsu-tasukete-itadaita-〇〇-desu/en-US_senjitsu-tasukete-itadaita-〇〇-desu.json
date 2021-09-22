@@ -1,5 +1,9 @@
 {
     "title": "Senjitsu Tasukete Itadaita 〇〇 desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243616.jpg",
+        "alt": "senjitsu-tasukete-itadaita-〇〇-desu"
+    },
     "type": "manga",
     "original_name": "先日助けて頂いた〇〇です！",
     "start_date": "2019-09-09",

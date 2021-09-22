@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Hokenshitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25965.jpg",
+        "alt": "ikenai-hokenshitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "イケない・保健室",

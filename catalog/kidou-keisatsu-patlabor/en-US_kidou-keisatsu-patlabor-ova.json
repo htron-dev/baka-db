@@ -1,5 +1,9 @@
 {
     "title": "Kidou Keisatsu Patlabor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/24151.jpg",
+        "alt": "kidou-keisatsu-patlabor"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "機動警察パトレイバー",

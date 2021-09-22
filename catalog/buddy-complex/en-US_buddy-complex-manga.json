@@ -1,5 +1,9 @@
 {
     "title": "Buddy Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141865.jpg",
+        "alt": "buddy-complex"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

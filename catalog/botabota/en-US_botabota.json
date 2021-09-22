@@ -1,5 +1,9 @@
 {
     "title": "Botabota",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243281.jpg",
+        "alt": "botabota"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Jiu Se Lu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/38793.jpg",
+        "alt": "jiu-se-lu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "九色鹿",

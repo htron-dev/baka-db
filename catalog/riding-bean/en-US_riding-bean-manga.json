@@ -1,5 +1,9 @@
 {
     "title": "Riding Bean",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66105.jpg",
+        "alt": "riding-bean"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "ライディング・ビーン",

@@ -1,5 +1,9 @@
 {
     "title": "Yoru wo Utau Kodomotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17413.jpg",
+        "alt": "yoru-wo-utau-kodomotachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

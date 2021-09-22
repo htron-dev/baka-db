@@ -1,5 +1,9 @@
 {
     "title": "Inugami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185487.jpg",
+        "alt": "inugami"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "72",

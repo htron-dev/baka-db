@@ -1,5 +1,9 @@
 {
     "title": "Planet With",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210430.jpg",
+        "alt": "planet-with"
+    },
     "type": "manga",
     "original_name": "プラネット・ウィズ",
     "start_date": "2018-04-28",

@@ -1,5 +1,9 @@
 {
     "title": "Taiyou Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143133.jpg",
+        "alt": "taiyou-ouji"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

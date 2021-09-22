@@ -1,5 +1,9 @@
 {
     "title": "An-Andoro-Doro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227459.jpg",
+        "alt": "an-andoro-doro"
+    },
     "type": "manga",
     "original_name": "あんアンドロどろ",
     "start_date": "2016-10-19",

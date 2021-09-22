@@ -1,5 +1,9 @@
 {
     "title": "Kono Negai ga Kanau nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174392.jpg",
+        "alt": "kono-negai-ga-kanau-nara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

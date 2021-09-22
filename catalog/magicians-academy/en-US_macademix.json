@@ -1,5 +1,9 @@
 {
     "title": "Macademix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163876.jpg",
+        "alt": "macademix"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "32",

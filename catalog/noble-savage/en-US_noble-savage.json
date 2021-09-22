@@ -1,5 +1,9 @@
 {
     "title": "Noble Savage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30438.jpg",
+        "alt": "noble-savage"
+    },
     "type": "manga",
     "tags": [
         "shoujo"

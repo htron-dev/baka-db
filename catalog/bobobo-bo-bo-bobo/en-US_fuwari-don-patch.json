@@ -1,5 +1,9 @@
 {
     "title": "Fuwari! Don Patch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130273.jpg",
+        "alt": "fuwari-don-patch"
+    },
     "type": "manga",
     "chapters": "33",
     "original_name": "ふわり!どんぱっち",

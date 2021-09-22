@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Hayakawa San",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32472.jpg",
+        "alt": "kyou-no-hayakawa-san"
+    },
     "type": "manga",
     "original_name": "今日の早川さん",
     "start_date": "2007-09-07",

@@ -1,5 +1,9 @@
 {
     "title": "Sankaku Yanemachi Apartment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185439.jpg",
+        "alt": "sankaku-yanemachi-apartment"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

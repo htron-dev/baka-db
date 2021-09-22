@@ -1,5 +1,9 @@
 {
     "title": "Long For",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226753.jpg",
+        "alt": "long-for"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239994.jpg",
+        "alt": "gokko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

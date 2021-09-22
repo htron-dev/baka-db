@@ -1,5 +1,9 @@
 {
     "title": "Noise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215430.jpg",
+        "alt": "noise"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

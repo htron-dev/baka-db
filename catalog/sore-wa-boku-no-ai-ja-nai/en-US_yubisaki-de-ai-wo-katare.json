@@ -1,5 +1,9 @@
 {
     "title": "Yubisaki de Ai wo Katare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42109.jpg",
+        "alt": "yubisaki-de-ai-wo-katare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

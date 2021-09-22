@@ -1,5 +1,9 @@
 {
     "title": "Ki ga Au to Iu Koto wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172797.jpg",
+        "alt": "ki-ga-au-to-iu-koto-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

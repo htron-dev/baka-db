@@ -1,5 +1,9 @@
 {
     "title": "Yagate, Ai ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120865.jpg",
+        "alt": "yagate-ai-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Pil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125651.jpg",
+        "alt": "pil"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

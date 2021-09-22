@@ -1,5 +1,9 @@
 {
     "title": "Akenai Yoru no Sugoshikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238585.jpg",
+        "alt": "akenai-yoru-no-sugoshikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

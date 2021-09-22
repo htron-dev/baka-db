@@ -1,5 +1,9 @@
 {
     "title": "Rifujin na Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216307.jpg",
+        "alt": "rifujin-na-futari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "72",

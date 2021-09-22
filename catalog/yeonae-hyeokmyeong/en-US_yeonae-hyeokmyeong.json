@@ -1,5 +1,9 @@
 {
     "title": "Yeonae Hyeokmyeong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132129.jpg",
+        "alt": "yeonae-hyeokmyeong"
+    },
     "type": "manhwa",
     "original_name": "연애혁명",
     "start_date": "2013-09-04",

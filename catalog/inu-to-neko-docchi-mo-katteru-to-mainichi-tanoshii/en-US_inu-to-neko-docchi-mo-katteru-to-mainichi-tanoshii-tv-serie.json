@@ -1,11 +1,15 @@
 {
     "title": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1332/109356.jpg",
+        "alt": "inu-to-neko-docchi-mo-katteru-to-mainichi-tanoshii"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "犬と猫どっちも飼ってると毎日たのしい",
     "start_date": "2020-10-03",
     "end_date": "2020-10-03",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Nyander Wonder Days (にゃんだーわんだーデイズ)\" by Ayaka Ohashi",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

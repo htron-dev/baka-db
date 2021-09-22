@@ -1,5 +1,9 @@
 {
     "title": "Retsujou Love Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/207999.jpg",
+        "alt": "retsujou-love-cross"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

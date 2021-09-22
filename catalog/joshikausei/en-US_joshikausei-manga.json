@@ -1,5 +1,9 @@
 {
     "title": "Joshikausei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121107.jpg",
+        "alt": "joshikausei"
+    },
     "type": "manga",
     "original_name": "女子かう生",
     "start_date": "2013-09-27",

@@ -1,5 +1,9 @@
 {
     "title": "Hanako@Lavatory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208031.jpg",
+        "alt": "hanako-lavatory"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

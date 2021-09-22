@@ -1,11 +1,15 @@
 {
     "title": "Busou Shinki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/43155.jpg",
+        "alt": "busou-shinki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "武装神姫",
     "start_date": "2012-10-05",
     "end_date": "2012-10-05",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Install x Dream\" by Kana Asumi, Minori Chihara, Kaori Mizuhashi, and Megumi Nakajima (eps 1-7, 12)",
     "ending_song": "\"Taiyou no Sign (太陽のサイン)\" by azusa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

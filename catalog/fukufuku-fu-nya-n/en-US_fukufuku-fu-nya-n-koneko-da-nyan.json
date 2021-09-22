@@ -1,5 +1,9 @@
 {
     "title": "Fukufuku Fu-nya~n: Koneko da Nyan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144735.jpg",
+        "alt": "fukufuku-fu-nya-n-koneko-da-nyan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "48",

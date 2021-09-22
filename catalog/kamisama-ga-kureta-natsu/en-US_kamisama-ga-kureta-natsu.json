@@ -1,5 +1,9 @@
 {
     "title": "Kamisama ga Kureta Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44117.jpg",
+        "alt": "kamisama-ga-kureta-natsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

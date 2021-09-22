@@ -1,5 +1,9 @@
 {
     "title": "Innocent Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196131.jpg",
+        "alt": "innocent-devil"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

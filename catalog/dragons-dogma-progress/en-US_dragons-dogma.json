@@ -1,5 +1,9 @@
 {
     "title": "Dragon's Dogma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1519/109068.jpg",
+        "alt": "dragons-dogma"
+    },
     "type": "ona",
     "episodes": "7",
     "original_name": "ドラゴンズドグマ",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Dragon%27s_Dogma_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Dragon%27s_Dogma_%28TV_series%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Mayi Gongzhu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1492/114513.jpg",
+        "alt": "mayi-gongzhu"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "蚂蚁公主",

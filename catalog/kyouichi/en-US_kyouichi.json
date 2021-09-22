@@ -1,5 +1,9 @@
 {
     "title": "Kyouichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/91947.jpg",
+        "alt": "kyouichi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi no Kanata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87673.jpg",
+        "alt": "hatsukoi-no-kanata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Sensei to Boku: Natsume Souseki wo Kakomu Hitobito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192287.jpg",
+        "alt": "sensei-to-boku-natsume-souseki-wo-kakomu-hitobito"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Juuhan Shuttai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/108705.jpg",
+        "alt": "juuhan-shuttai"
+    },
     "type": "manga",
     "original_name": "重版出来！",
     "start_date": "2012-09-27",

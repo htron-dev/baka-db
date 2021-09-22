@@ -1,5 +1,9 @@
 {
     "title": "Hajime-chan ga Ichiban!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148323.jpg",
+        "alt": "hajime-chan-ga-ichiban"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "はじめちゃんが一番！",

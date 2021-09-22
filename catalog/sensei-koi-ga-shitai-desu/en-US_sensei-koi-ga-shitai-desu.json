@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Koi ga Shitai desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96363.jpg",
+        "alt": "sensei-koi-ga-shitai-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

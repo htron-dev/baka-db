@@ -1,5 +1,9 @@
 {
     "title": "Shinju no Nectar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196132.jpg",
+        "alt": "shinju-no-nectar"
+    },
     "type": "manga",
     "original_name": "神呪のネクタール",
     "start_date": "2016-11-19",

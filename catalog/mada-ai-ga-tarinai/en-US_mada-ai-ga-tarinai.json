@@ -1,5 +1,9 @@
 {
     "title": "Mada Ai ga Tarinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82556.jpg",
+        "alt": "mada-ai-ga-tarinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Akegata ni Yamu Ame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119645.jpg",
+        "alt": "akegata-ni-yamu-ame"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

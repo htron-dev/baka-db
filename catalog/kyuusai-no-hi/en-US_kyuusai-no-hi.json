@@ -1,5 +1,9 @@
 {
     "title": "Kyuusai no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166506.jpg",
+        "alt": "kyuusai-no-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

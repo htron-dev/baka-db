@@ -1,5 +1,9 @@
 {
     "title": "Dokkouren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134791.jpg",
+        "alt": "dokkouren"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "182",

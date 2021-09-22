@@ -1,5 +1,9 @@
 {
     "title": "Sugarless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169589.jpg",
+        "alt": "sugarless"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "159",

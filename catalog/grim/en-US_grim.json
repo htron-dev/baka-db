@@ -1,5 +1,9 @@
 {
     "title": "Grim",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75689.jpg",
+        "alt": "grim"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "GRIM",

@@ -1,5 +1,9 @@
 {
     "title": "Minwa Anime Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/84584.jpg",
+        "alt": "minwa-anime-series"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "民話アニメシリーズ",

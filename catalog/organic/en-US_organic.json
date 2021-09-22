@@ -1,5 +1,9 @@
 {
     "title": "Organic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/38001.jpg",
+        "alt": "organic"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "オーガニック",

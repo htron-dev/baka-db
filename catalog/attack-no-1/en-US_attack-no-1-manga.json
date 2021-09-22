@@ -1,5 +1,9 @@
 {
     "title": "Attack No.1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13640.jpg",
+        "alt": "attack-no-1"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "アタック No.1",

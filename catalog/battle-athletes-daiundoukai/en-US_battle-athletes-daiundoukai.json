@@ -1,5 +1,9 @@
 {
     "title": "Battle Athletes Daiundoukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72969.jpg",
+        "alt": "battle-athletes-daiundoukai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

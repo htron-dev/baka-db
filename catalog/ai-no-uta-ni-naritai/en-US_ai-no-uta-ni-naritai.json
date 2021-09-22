@@ -1,5 +1,9 @@
 {
     "title": "Ai no Uta ni Naritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133641.jpg",
+        "alt": "ai-no-uta-ni-naritai"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "愛の歌になりたい",

@@ -1,5 +1,9 @@
 {
     "title": "Guruguru Petit Anime Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/86796.jpg",
+        "alt": "guruguru-petit-anime-gekijou"
+    },
     "type": "ona",
     "episodes": "24",
     "original_name": "グルグル ぷちあにめ劇場",

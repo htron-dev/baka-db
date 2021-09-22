@@ -1,5 +1,9 @@
 {
     "title": "Aitsu to Lullaby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183641.jpg",
+        "alt": "aitsu-to-lullaby"
+    },
     "type": "manga",
     "volumes": "39",
     "original_name": "あいつとララバイ",

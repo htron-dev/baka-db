@@ -1,12 +1,16 @@
 {
     "title": "Idol Densetsu Eriko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/20173.jpg",
+        "alt": "idol-densetsu-eriko"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "アイドル伝説えり子",
     "start_date": "1989-04-03",
     "end_date": "1989-04-03",
     "opening_song": "\"Namida no Hanbun\" by Eriko Tamura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Unchained Heart\" by Maiko Hashimoto (eps 1-50)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music"

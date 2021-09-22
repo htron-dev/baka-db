@@ -1,5 +1,9 @@
 {
     "title": "Renai Ruby no Tadashii Furikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165378.jpg",
+        "alt": "renai-ruby-no-tadashii-furikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

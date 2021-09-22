@@ -1,5 +1,9 @@
 {
     "title": "Mongrel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139225.jpg",
+        "alt": "mongrel"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

@@ -1,5 +1,9 @@
 {
     "title": "Niko-iro no Canvas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227041.jpg",
+        "alt": "niko-iro-no-canvas"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

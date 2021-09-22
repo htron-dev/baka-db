@@ -1,5 +1,9 @@
 {
     "title": "Randou-ke no Hitobito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215091.jpg",
+        "alt": "randou-ke-no-hitobito"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "72",

@@ -1,5 +1,9 @@
 {
     "title": "Chio-chan no Tsuugakuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145163.jpg",
+        "alt": "chio-chan-no-tsuugakuro"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "53",

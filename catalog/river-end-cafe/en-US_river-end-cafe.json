@@ -1,5 +1,9 @@
 {
     "title": "River End Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212669.jpg",
+        "alt": "river-end-cafe"
+    },
     "type": "manga",
     "original_name": "リバーエンド・カフェ",
     "start_date": "2017-07-18",

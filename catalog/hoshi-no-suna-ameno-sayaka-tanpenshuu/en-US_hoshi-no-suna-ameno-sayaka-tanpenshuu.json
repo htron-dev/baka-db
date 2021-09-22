@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Suna: Ameno Sayaka Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225508.jpg",
+        "alt": "hoshi-no-suna-ameno-sayaka-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

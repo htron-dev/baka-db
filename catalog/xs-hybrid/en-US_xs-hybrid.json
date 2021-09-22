@@ -1,5 +1,9 @@
 {
     "title": "XS Hybrid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1517.jpg",
+        "alt": "xs-hybrid"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "35",

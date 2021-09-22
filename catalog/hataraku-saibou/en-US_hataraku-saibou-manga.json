@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Saibou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200497.jpg",
+        "alt": "hataraku-saibou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

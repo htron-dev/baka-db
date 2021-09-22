@@ -1,5 +1,9 @@
 {
     "title": "En Passant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/35506.jpg",
+        "alt": "en-passant"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

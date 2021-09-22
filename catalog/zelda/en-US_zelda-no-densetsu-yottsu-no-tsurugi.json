@@ -1,5 +1,9 @@
 {
     "title": "Zelda no Densetsu: Yottsu no Tsurugi+",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126031.jpg",
+        "alt": "zelda-no-densetsu-yottsu-no-tsurugi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

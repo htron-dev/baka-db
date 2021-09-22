@@ -1,5 +1,9 @@
 {
     "title": "Shiritsu! Sanjuusangen Dougakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148433.jpg",
+        "alt": "shiritsu-sanjuusangen-dougakuin"
+    },
     "type": "light-novel",
     "original_name": "私立!三十三間堂学院",
     "start_date": "2005-02-10",

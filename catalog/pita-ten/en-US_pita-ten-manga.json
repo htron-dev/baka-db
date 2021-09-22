@@ -1,5 +1,9 @@
 {
     "title": "Pita-Ten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191236.jpg",
+        "alt": "pita-ten"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "47",

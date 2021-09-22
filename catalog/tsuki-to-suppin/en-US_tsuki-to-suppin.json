@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Suppin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228595.jpg",
+        "alt": "tsuki-to-suppin"
+    },
     "type": "manga",
     "original_name": "月とすっぴん",
     "start_date": "2019-06-13",

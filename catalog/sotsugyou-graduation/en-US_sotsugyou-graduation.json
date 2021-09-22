@@ -1,5 +1,9 @@
 {
     "title": "Sotsugyou: Graduation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1855/96094.jpg",
+        "alt": "sotsugyou-graduation"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "卒業~Graduation~",

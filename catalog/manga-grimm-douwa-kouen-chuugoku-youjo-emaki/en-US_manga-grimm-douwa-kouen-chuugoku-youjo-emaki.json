@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Kouen Chuugoku Youjo Emaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142367.jpg",
+        "alt": "manga-grimm-douwa-kouen-chuugoku-youjo-emaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

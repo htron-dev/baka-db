@@ -1,12 +1,16 @@
 {
     "title": "Karakai Jouzu no Takagi-san 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1393/107033.jpg",
+        "alt": "karakai-jouzu-no-takagi-san-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "からかい上手の高木さん 2",
     "start_date": "2019-07-07",
     "end_date": "2019-07-07",
     "opening_song": "\"Zero Centimeter\" by Yuiko Oohara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kanade (奏（かなで）)\" by Takagi-san (Rie Takahashi) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

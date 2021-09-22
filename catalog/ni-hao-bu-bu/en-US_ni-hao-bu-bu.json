@@ -1,5 +1,9 @@
 {
     "title": "Ni Hao! Bu Bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1412/115232.jpg",
+        "alt": "ni-hao-bu-bu"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "你好！卟卟",

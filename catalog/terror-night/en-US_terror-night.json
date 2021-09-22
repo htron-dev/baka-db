@@ -1,5 +1,9 @@
 {
     "title": "Terror Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198724.jpg",
+        "alt": "terror-night"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "52",

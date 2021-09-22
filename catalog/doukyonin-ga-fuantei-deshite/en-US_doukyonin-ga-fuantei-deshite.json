@@ -1,5 +1,9 @@
 {
     "title": "Doukyonin ga Fuantei deshite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206128.jpg",
+        "alt": "doukyonin-ga-fuantei-deshite"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Gurazeni: Tokyo Dome-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149159.jpg",
+        "alt": "gurazeni-tokyo-dome-hen"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "151",

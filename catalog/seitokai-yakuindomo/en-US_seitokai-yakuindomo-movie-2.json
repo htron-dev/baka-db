@@ -1,5 +1,9 @@
 {
     "title": "Seitokai Yakuindomo Movie 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1738/116883.jpg",
+        "alt": "seitokai-yakuindomo-movie-2"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 生徒会役員共 2",

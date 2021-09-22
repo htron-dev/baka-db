@@ -1,5 +1,9 @@
 {
     "title": "Warlock x Holmes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158576.jpg",
+        "alt": "warlock-x-holmes"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "魔探偵〈ウォーロック〉× ホームズ",

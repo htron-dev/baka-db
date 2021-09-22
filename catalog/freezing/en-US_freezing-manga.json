@@ -1,5 +1,9 @@
 {
     "title": "Freezing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51021.jpg",
+        "alt": "freezing"
+    },
     "type": "manga",
     "original_name": "フリージング",
     "start_date": "2007-01-27",

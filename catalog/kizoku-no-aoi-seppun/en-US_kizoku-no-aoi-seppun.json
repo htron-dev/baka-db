@@ -1,5 +1,9 @@
 {
     "title": "Kizoku no Aoi Seppun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9940.jpg",
+        "alt": "kizoku-no-aoi-seppun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

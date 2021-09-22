@@ -1,5 +1,9 @@
 {
     "title": "Kami no Shizuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157426.jpg",
+        "alt": "kami-no-shizuku"
+    },
     "type": "manga",
     "volumes": "44",
     "chapters": "439",

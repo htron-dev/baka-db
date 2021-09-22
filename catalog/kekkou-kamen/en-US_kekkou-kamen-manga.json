@@ -1,5 +1,9 @@
 {
     "title": "Kekkou Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159061.jpg",
+        "alt": "kekkou-kamen"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Signal 100 Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228207.jpg",
+        "alt": "signal-100-zero"
+    },
     "type": "manga",
     "original_name": "シグナル 100 零",
     "start_date": "2019-09-05",

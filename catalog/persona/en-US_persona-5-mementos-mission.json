@@ -1,5 +1,9 @@
 {
     "title": "Persona 5: Mementos Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221876.jpg",
+        "alt": "persona-5-mementos-mission"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ペルソナ 5 メメントスミッション",

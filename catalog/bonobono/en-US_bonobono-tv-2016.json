@@ -1,5 +1,9 @@
 {
     "title": "Bonobono (TV 2016)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/77617.jpg",
+        "alt": "bonobono-tv-2016"
+    },
     "type": "tv-serie",
     "original_name": "ぼのぼの",
     "start_date": "2016-04-02",

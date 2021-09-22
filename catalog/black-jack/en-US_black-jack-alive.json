@@ -1,5 +1,9 @@
 {
     "title": "Black Jack Alive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25334.jpg",
+        "alt": "black-jack-alive"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "The Reflection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/83018.jpg",
+        "alt": "the-reflection"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ザ・リフレクション",

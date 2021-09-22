@@ -1,5 +1,9 @@
 {
     "title": "King &amp; Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11314.jpg",
+        "alt": "king-amp-prince"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

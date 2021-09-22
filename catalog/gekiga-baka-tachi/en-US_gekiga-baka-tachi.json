@@ -1,5 +1,9 @@
 {
     "title": "Gekiga Baka-tachi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137545.jpg",
+        "alt": "gekiga-baka-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

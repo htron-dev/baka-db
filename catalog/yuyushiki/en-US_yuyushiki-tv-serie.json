@@ -1,5 +1,9 @@
 {
     "title": "Yuyushiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/48747.jpg",
+        "alt": "yuyushiki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゆゆ式",

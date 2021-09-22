@@ -1,5 +1,9 @@
 {
     "title": "Himerareta Mitsugoto: Bara-tachi no Enbukyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192255.jpg",
+        "alt": "himerareta-mitsugoto-bara-tachi-no-enbukyoku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Minami-sensei no Tadashii Seikyouiku Jugyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210721.jpg",
+        "alt": "minami-sensei-no-tadashii-seikyouiku-jugyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

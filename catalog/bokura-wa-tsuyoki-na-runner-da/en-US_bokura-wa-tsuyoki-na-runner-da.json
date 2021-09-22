@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Tsuyoki na Runner da!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28240.jpg",
+        "alt": "bokura-wa-tsuyoki-na-runner-da"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "僕らは強気なＲＵＮＮＥＲだ！",

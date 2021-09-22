@@ -1,5 +1,9 @@
 {
     "title": "Fate/Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196931.jpg",
+        "alt": "fate-zero"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "79",

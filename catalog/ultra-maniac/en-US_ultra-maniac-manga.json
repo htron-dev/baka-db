@@ -1,5 +1,9 @@
 {
     "title": "Ultra Maniac",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123917.jpg",
+        "alt": "ultra-maniac"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

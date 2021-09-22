@@ -1,5 +1,9 @@
 {
     "title": "Double x Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208719.jpg",
+        "alt": "double-x-cross"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

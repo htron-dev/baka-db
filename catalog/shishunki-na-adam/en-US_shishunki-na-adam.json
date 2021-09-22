@@ -1,5 +1,9 @@
 {
     "title": "Shishunki na Adam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177681.jpg",
+        "alt": "shishunki-na-adam"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "82",

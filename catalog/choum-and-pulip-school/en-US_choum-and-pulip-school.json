@@ -1,5 +1,9 @@
 {
     "title": "Choum and Pulip School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1073/114501.jpg",
+        "alt": "choum-and-pulip-school"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "초음이의 풀잎학교",

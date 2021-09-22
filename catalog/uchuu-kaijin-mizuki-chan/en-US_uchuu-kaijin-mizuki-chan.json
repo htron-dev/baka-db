@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Kaijin Mizuki-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149634.jpg",
+        "alt": "uchuu-kaijin-mizuki-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

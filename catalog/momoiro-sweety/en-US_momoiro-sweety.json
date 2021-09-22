@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Sweety",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27776.jpg",
+        "alt": "momoiro-sweety"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ももいろスウィーティー",

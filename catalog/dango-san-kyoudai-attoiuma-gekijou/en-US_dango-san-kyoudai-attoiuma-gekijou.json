@@ -1,5 +1,9 @@
 {
     "title": "Dango San Kyoudai Attoiuma Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61589.jpg",
+        "alt": "dango-san-kyoudai-attoiuma-gekijou"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "だんご 3 兄弟あっという間劇場",

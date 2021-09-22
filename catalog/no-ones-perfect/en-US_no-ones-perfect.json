@@ -1,5 +1,9 @@
 {
     "title": "No One's Perfect",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238387.jpg",
+        "alt": "no-ones-perfect"
+    },
     "type": "manga",
     "original_name": "No one's perfect",
     "start_date": "2018-05-25",

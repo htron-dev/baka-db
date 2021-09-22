@@ -1,5 +1,9 @@
 {
     "title": "Tomonen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206136.jpg",
+        "alt": "tomonen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

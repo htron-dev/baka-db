@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg",
+        "alt": "dragon-ball"
+    },
     "type": "tv-serie",
     "episodes": "153",
     "original_name": "ドラゴンボール",

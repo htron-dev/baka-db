@@ -1,5 +1,9 @@
 {
     "title": "Outaishi no Jouka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172145.jpg",
+        "alt": "outaishi-no-jouka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

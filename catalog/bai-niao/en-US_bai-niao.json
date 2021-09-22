@@ -1,5 +1,9 @@
 {
     "title": "Bai Niao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1354/112739.jpg",
+        "alt": "bai-niao"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "白鸟",

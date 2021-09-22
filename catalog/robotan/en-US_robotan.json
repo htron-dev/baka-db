@@ -1,12 +1,16 @@
 {
     "title": "Robotan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/52977.jpg",
+        "alt": "robotan"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "ロボタン",
     "start_date": "1966-10-04",
     "end_date": "1966-10-04",
     "opening_song": "\"Robotan no Uta (ロボタンの歌)\" by Shinchou Kokontei, Vocal Shop",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Michattandayo no Uta\"",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

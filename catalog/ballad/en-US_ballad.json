@@ -1,5 +1,9 @@
 {
     "title": "Ballad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174722.jpg",
+        "alt": "ballad"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

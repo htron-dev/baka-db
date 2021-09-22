@@ -1,5 +1,9 @@
 {
     "title": "Video Girl Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/22130.jpg",
+        "alt": "video-girl-ai"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "電影少女 VIDEO・GIRL・AI",

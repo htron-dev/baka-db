@@ -1,5 +1,9 @@
 {
     "title": "Deep Love: Real",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/99501.jpg",
+        "alt": "deep-love-real"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "189",

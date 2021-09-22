@@ -1,5 +1,9 @@
 {
     "title": "Fantastic World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1994/104691.jpg",
+        "alt": "fantastic-world"
+    },
     "type": "ona",
     "original_name": "ファンタスティックワールド",
     "start_date": "2016-10-31",

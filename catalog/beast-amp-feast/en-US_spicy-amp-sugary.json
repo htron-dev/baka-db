@@ -1,5 +1,9 @@
 {
     "title": "Spicy &amp; Sugary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166009.jpg",
+        "alt": "spicy-amp-sugary"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

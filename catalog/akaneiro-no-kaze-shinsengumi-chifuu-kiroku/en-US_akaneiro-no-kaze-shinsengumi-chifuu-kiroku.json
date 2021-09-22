@@ -1,5 +1,9 @@
 {
     "title": "Akaneiro no Kaze: Shinsengumi Chifuu Kiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44089.jpg",
+        "alt": "akaneiro-no-kaze-shinsengumi-chifuu-kiroku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

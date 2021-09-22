@@ -1,5 +1,9 @@
 {
     "title": "Mao no Kishuku Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231428.jpg",
+        "alt": "mao-no-kishuku-gakkou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

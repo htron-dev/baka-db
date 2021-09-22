@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest: Dai no Daibouken (2020): Bouken no Kiseki, Kore kara no Tabiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1762/116118.jpg",
+        "alt": "dragon-quest-dai-no-daibouken-2020-bouken-no-kiseki-kore-kara-no-tabiji"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "特別編 冒険の軌跡、これからの旅路",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Dragon_Quest:_The_Adventure_of_Dai_(2020_TV_series"
+            "link": "https://en.wikipedia.org/wiki/Dragon_Quest:_The_Adventure_of_Dai_%282020_TV_series%29"
         }
     ]
 }

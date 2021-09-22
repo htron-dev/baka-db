@@ -1,5 +1,9 @@
 {
     "title": "Porte Tricolore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81702.jpg",
+        "alt": "porte-tricolore"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "ポルトリコロール",

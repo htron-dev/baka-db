@@ -1,5 +1,9 @@
 {
     "title": "Eiken: Eikenbu yori Ai wo Komete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/42861.jpg",
+        "alt": "eiken-eikenbu-yori-ai-wo-komete"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "エイケン エイケンヴより愛をこめて",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/エイケン_(漫画"
+            "link": "http://ja.wikipedia.org/wiki/エイケン_%28漫画%29"
         }
     ]
 }

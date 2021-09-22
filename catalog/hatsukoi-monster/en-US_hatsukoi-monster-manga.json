@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180249.jpg",
+        "alt": "hatsukoi-monster"
+    },
     "type": "manga",
     "original_name": "初恋モンスター",
     "start_date": "2013-01-28",

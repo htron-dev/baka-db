@@ -1,5 +1,9 @@
 {
     "title": "Haru no Shikumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/69159.jpg",
+        "alt": "haru-no-shikumi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "春のしくみ",

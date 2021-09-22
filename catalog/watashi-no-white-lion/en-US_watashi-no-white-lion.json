@@ -1,5 +1,9 @@
 {
     "title": "Watashi no White Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194578.jpg",
+        "alt": "watashi-no-white-lion"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "私のホワイトライオン",

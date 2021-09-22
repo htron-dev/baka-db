@@ -1,5 +1,9 @@
 {
     "title": "Satanikus Enma Kerberos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32632.jpg",
+        "alt": "satanikus-enma-kerberos"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

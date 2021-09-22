@@ -1,8 +1,12 @@
 {
     "title": "Marco: Haha wo Tazunete Sanzenri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/9467.jpg",
+        "alt": "marco-haha-wo-tazunete-sanzenri"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "Marco",
+    "original_name": "Marco: 母をたずねて三千里",
     "start_date": "1999-04-02",
     "rating": "G - All Ages",
     "tags": [

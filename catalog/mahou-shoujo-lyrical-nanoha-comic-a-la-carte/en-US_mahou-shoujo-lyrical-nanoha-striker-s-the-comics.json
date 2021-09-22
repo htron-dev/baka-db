@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30379.jpg",
+        "alt": "mahou-shoujo-lyrical-nanoha-striker-s-the-comics"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

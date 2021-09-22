@@ -1,5 +1,9 @@
 {
     "title": "Amakage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1158/91249.jpg",
+        "alt": "amakage"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "雨影",

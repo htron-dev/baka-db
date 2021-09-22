@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Daisuki na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10882.jpg",
+        "alt": "sensei-daisuki-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "先生、大好きな人",

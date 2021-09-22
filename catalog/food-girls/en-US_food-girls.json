@@ -1,5 +1,9 @@
 {
     "title": "Food Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202928.jpg",
+        "alt": "food-girls"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Lagoon Engine Einsatz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179820.jpg",
+        "alt": "lagoon-engine-einsatz"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

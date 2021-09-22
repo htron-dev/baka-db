@@ -1,5 +1,9 @@
 {
     "title": "Gesshokuki Retsuden: Hyouken Hika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157725.jpg",
+        "alt": "gesshokuki-retsuden-hyouken-hika"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

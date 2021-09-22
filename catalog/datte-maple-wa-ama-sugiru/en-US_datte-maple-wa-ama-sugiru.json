@@ -1,5 +1,9 @@
 {
     "title": "Datte Maple wa Ama Sugiru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160032.jpg",
+        "alt": "datte-maple-wa-ama-sugiru"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "だってメープルは甘すぎる!",

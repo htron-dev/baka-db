@@ -1,5 +1,9 @@
 {
     "title": "Dead End Loop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237561.jpg",
+        "alt": "dead-end-loop"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

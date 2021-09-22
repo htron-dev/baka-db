@@ -1,5 +1,9 @@
 {
     "title": "Shiawase no Katachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166827.jpg",
+        "alt": "shiawase-no-katachi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "228",

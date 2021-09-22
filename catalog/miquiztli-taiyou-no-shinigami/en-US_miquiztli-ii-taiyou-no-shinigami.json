@@ -1,5 +1,9 @@
 {
     "title": "Miquiztli II: Taiyou no Shinigami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246311.jpg",
+        "alt": "miquiztli-ii-taiyou-no-shinigami"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

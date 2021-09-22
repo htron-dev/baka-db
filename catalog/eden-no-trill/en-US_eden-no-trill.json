@@ -1,5 +1,9 @@
 {
     "title": "Eden no Trill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39479.jpg",
+        "alt": "eden-no-trill"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "39",

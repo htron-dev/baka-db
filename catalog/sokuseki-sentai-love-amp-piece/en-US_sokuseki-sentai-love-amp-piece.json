@@ -1,5 +1,9 @@
 {
     "title": "Sokuseki Sentai Love &amp; Piece",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10958.jpg",
+        "alt": "sokuseki-sentai-love-amp-piece"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "即席戦隊ラブ&ピース",

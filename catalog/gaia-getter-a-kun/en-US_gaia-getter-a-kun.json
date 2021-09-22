@@ -1,5 +1,9 @@
 {
     "title": "Gaia Getter A-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/62891.jpg",
+        "alt": "gaia-getter-a-kun"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ガイアゲッター アークン",

@@ -1,5 +1,9 @@
 {
     "title": "Sawaru no Kinshi!! Ore no Mono.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179454.jpg",
+        "alt": "sawaru-no-kinshi-ore-no-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

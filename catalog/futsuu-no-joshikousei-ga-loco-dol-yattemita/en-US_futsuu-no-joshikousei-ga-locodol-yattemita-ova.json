@@ -1,12 +1,16 @@
 {
     "title": "Futsuu no Joshikousei ga [Locodol] Yattemita. OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78297.jpg",
+        "alt": "futsuu-no-joshikousei-ga-locodol-yattemita-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "普通の女子校生が【ろこどる】やってみた。OVA",
     "start_date": "2015-03-23",
     "end_date": "2015-03-23",
     "opening_song": "\"Rainbow Baton (レインボーバトン)\" by Nagarekawa Girls [Nanako Usami (Miku Itou), Yukari Kohinata (Sachika Misawa)]",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Seinaru Yoru ni (聖なる夜に)\" by Inori Minase, Maya Yoshioka, Miku Itou, Sachika Misawa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

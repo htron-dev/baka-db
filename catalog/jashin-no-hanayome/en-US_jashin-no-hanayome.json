@@ -1,5 +1,9 @@
 {
     "title": "Jashin no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243115.jpg",
+        "alt": "jashin-no-hanayome"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "47",

@@ -1,5 +1,9 @@
 {
     "title": "Gaku☆Ou: The Twinkle Star Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118019.jpg",
+        "alt": "gaku☆-ou-the-twinkle-star-story"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

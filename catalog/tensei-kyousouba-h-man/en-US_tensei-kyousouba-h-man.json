@@ -1,5 +1,9 @@
 {
     "title": "Tensei Kyousouba H-Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245481.jpg",
+        "alt": "tensei-kyousouba-h-man"
+    },
     "type": "manga",
     "original_name": "転生競走馬 エッチマン",
     "start_date": "2020-10-10",

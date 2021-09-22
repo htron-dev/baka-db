@@ -1,5 +1,9 @@
 {
     "title": "A-jang.com",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1256/106351.jpg",
+        "alt": "a-jang-com"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "아장닷컴",

@@ -1,5 +1,9 @@
 {
     "title": "Hisakata no Oto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205763.jpg",
+        "alt": "hisakata-no-oto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

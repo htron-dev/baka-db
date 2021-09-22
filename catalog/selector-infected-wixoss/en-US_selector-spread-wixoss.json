@@ -1,12 +1,16 @@
 {
     "title": "Selector Spread WIXOSS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75495.jpg",
+        "alt": "selector-spread-wixoss"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "selector spread WIXOSS",
     "start_date": "2014-10-04",
     "end_date": "2014-10-04",
     "opening_song": "\"world's end, girl's rondo\" by Kanon Wakeshima",
-    "ending_song": "\"Undo",
+    "ending_song": "\"Undo: Ashita e no Kioku (Undo -明日への記憶-)\" by Cyua",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "game",

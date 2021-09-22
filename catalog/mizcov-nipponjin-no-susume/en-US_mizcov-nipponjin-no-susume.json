@@ -1,5 +1,9 @@
 {
     "title": "Mizcov: Nipponjin no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227944.jpg",
+        "alt": "mizcov-nipponjin-no-susume"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

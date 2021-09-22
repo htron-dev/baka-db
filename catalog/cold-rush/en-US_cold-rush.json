@@ -1,5 +1,9 @@
 {
     "title": "Cold Rush",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155908.jpg",
+        "alt": "cold-rush"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

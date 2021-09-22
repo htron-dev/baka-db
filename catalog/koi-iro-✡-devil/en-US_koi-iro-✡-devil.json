@@ -1,5 +1,9 @@
 {
     "title": "Koi-iro✡Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166411.jpg",
+        "alt": "koi-iro-✡-devil"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

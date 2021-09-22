@@ -1,5 +1,9 @@
 {
     "title": "Nagi no Asu kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/103479.jpg",
+        "alt": "nagi-no-asu-kara"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

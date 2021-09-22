@@ -1,5 +1,9 @@
 {
     "title": "Angel Game: Sayonara to Mirai no Kakera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139405.jpg",
+        "alt": "angel-game-sayonara-to-mirai-no-kakera"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

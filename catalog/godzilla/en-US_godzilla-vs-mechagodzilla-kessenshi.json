@@ -1,5 +1,9 @@
 {
     "title": "Godzilla vs. Mechagodzilla: Kessenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86299.jpg",
+        "alt": "godzilla-vs-mechagodzilla-kessenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

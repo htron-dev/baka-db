@@ -1,5 +1,9 @@
 {
     "title": "Aki-Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/64715.jpg",
+        "alt": "aki-sora"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "あきそら",

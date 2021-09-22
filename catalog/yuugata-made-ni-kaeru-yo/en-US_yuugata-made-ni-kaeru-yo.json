@@ -1,5 +1,9 @@
 {
     "title": "Yuugata made ni Kaeru yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234349.jpg",
+        "alt": "yuugata-made-ni-kaeru-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

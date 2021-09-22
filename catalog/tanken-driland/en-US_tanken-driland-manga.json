@@ -1,5 +1,9 @@
 {
     "title": "Tanken Driland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95207.jpg",
+        "alt": "tanken-driland"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

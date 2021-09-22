@@ -1,5 +1,9 @@
 {
     "title": "Draft King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236023.jpg",
+        "alt": "draft-king"
+    },
     "type": "manga",
     "original_name": "ドラフトキング",
     "start_date": "2018-11-21",

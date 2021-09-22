@@ -1,5 +1,9 @@
 {
     "title": "Kisu Meguru Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37511.jpg",
+        "alt": "kisu-meguru-sekai"
+    },
     "type": "manga",
     "original_name": "キスメグルセカイ",
     "start_date": "2010-10-12",

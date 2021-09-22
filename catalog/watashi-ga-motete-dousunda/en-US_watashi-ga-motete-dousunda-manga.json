@@ -1,5 +1,9 @@
 {
     "title": "Watashi ga Motete Dousunda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206834.jpg",
+        "alt": "watashi-ga-motete-dousunda"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "60",

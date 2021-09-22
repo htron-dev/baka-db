@@ -1,5 +1,9 @@
 {
     "title": "Umi kara no Shisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1550/112730.jpg",
+        "alt": "umi-kara-no-shisha"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "海からの使者",

@@ -1,5 +1,9 @@
 {
     "title": "Ore no Seifuku wo Nugasete yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246226.jpg",
+        "alt": "ore-no-seifuku-wo-nugasete-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Ichiba Kurogane wa Kasegitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188901.jpg",
+        "alt": "ichiba-kurogane-wa-kasegitai"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "95",

@@ -1,5 +1,9 @@
 {
     "title": "Mahoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48497.jpg",
+        "alt": "mahoko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "MAHOUKO",

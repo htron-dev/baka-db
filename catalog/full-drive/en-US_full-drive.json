@@ -1,5 +1,9 @@
 {
     "title": "Full Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206999.jpg",
+        "alt": "full-drive"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

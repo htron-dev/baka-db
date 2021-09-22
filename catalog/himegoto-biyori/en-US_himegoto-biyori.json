@@ -1,5 +1,9 @@
 {
     "title": "Himegoto-biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231450.jpg",
+        "alt": "himegoto-biyori"
+    },
     "type": "manga",
     "original_name": "秘め事日和",
     "start_date": "2017-10-13",

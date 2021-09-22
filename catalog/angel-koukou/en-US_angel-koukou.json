@@ -1,5 +1,9 @@
 {
     "title": "Angel Koukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178654.jpg",
+        "alt": "angel-koukou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

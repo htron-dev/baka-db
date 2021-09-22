@@ -1,5 +1,9 @@
 {
     "title": "Kimi wo Nakasetai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/161505.jpg",
+        "alt": "kimi-wo-nakasetai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

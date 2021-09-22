@@ -1,5 +1,9 @@
 {
     "title": "Kizu darake no Tenshi-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7312.jpg",
+        "alt": "kizu-darake-no-tenshi-tachi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "3",

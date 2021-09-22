@@ -1,5 +1,9 @@
 {
     "title": "My Sweet Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/19222.jpg",
+        "alt": "my-sweet-dragon"
+    },
     "type": "manga",
     "original_name": "マイスウィートドラゴン",
     "tags": [

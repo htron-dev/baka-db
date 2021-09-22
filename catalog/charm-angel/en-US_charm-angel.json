@@ -1,5 +1,9 @@
 {
     "title": "Charm angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3845.jpg",
+        "alt": "charm-angel"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "27",

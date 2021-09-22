@@ -1,5 +1,9 @@
 {
     "title": "Wu Shang Shen Di",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1845/108003.jpg",
+        "alt": "wu-shang-shen-di"
+    },
     "type": "ona",
     "episodes": "64",
     "original_name": "无上神帝",

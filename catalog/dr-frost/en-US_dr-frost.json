@@ -1,5 +1,9 @@
 {
     "title": "Dr. Frost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/86765.jpg",
+        "alt": "dr-frost"
+    },
     "type": "manhwa",
     "original_name": "닥터 프로스트",
     "start_date": "2011-02-02",

@@ -1,5 +1,9 @@
 {
     "title": "Ookami-tachi no Shiikuhou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/107839.jpg",
+        "alt": "ookami-tachi-no-shiikuhou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

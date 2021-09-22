@@ -1,5 +1,9 @@
 {
     "title": "Amanchu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/80810.jpg",
+        "alt": "amanchu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あまんちゅ！",

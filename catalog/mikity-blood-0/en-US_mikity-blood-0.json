@@ -1,5 +1,9 @@
 {
     "title": "Mikity Blood 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208579.jpg",
+        "alt": "mikity-blood-0"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

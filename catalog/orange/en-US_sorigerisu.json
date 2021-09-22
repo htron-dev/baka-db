@@ -1,5 +1,9 @@
 {
     "title": "Sorigerisu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189210.jpg",
+        "alt": "sorigerisu"
+    },
     "type": "manga",
     "original_name": "ソリゲリス",
     "start_date": "2016-03-25",

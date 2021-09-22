@@ -1,5 +1,9 @@
 {
     "title": "Shotgun Deka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159125.jpg",
+        "alt": "shotgun-deka"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

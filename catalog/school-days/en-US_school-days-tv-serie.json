@@ -1,12 +1,16 @@
 {
     "title": "School Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/86373.jpg",
+        "alt": "school-days"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "スクールデイズ",
     "start_date": "2007-07-04",
     "end_date": "2007-07-04",
     "opening_song": "\"Innocent Blue (イノセント・ブルー)\" by DeviceHigh",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Usotsuki (ウソツキ)\" by CooRie (eps 1, 8)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "harem",

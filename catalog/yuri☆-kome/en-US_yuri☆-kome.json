@@ -1,5 +1,9 @@
 {
     "title": "Yuri☆Kome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174471.jpg",
+        "alt": "yuri☆-kome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

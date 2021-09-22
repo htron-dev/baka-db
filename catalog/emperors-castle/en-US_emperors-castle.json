@@ -1,5 +1,9 @@
 {
     "title": "Emperor's Castle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27918.jpg",
+        "alt": "emperors-castle"
+    },
     "type": "manhwa",
     "volumes": "8",
     "original_name": "황제의 성",

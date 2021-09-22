@@ -1,5 +1,9 @@
 {
     "title": "Stop! Goshujinsama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17486.jpg",
+        "alt": "stop-goshujinsama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

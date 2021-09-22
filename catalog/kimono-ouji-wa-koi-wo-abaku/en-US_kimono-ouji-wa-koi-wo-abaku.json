@@ -1,5 +1,9 @@
 {
     "title": "Kimono Ouji wa Koi wo Abaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161789.jpg",
+        "alt": "kimono-ouji-wa-koi-wo-abaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Love!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24799.jpg",
+        "alt": "love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

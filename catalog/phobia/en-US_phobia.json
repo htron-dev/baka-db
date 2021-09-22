@@ -1,5 +1,9 @@
 {
     "title": "Phobia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239316.jpg",
+        "alt": "phobia"
+    },
     "type": "manga",
     "original_name": "フォビア",
     "start_date": "2020-12-25",

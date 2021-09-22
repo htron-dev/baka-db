@@ -1,5 +1,9 @@
 {
     "title": "Meteor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35329.jpg",
+        "alt": "meteor"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

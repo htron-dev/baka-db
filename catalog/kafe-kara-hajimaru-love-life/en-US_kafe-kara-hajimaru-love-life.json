@@ -1,5 +1,9 @@
 {
     "title": "Kafe Kara Hajimaru Love Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6090.jpg",
+        "alt": "kafe-kara-hajimaru-love-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

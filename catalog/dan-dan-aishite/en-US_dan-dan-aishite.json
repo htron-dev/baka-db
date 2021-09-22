@@ -1,5 +1,9 @@
 {
     "title": "Dan Dan Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7268.jpg",
+        "alt": "dan-dan-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "DAN DAN 愛して",

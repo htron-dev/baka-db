@@ -1,12 +1,16 @@
 {
     "title": "BanG Dream! 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1985/104767.jpg",
+        "alt": "ban-g-dream-3rd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "BanG Dream!（バンドリ！）第 3 期",
     "start_date": "2020-01-23",
     "end_date": "2020-01-23",
     "opening_song": "\"Initial\" by Poppin'Party (eps 1-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yume wo Uchinuku Shunkan ni! (夢を撃ち抜く瞬間に!)\" by Poppin'Party (eps 1-6, 8-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music"

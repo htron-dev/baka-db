@@ -1,12 +1,16 @@
 {
     "title": "El Hazard: The Wanderers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/24439.jpg",
+        "alt": "el-hazard-the-wanderers"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "神秘の世界エルハザード",
     "start_date": "1995-10-06",
     "end_date": "1995-10-06",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"ILLUSION\" by INVOICE (eps 1-18)",
+    "ending_song": "#01: \"Bukiyou Ja Nakya Koi Wa Dekinai (Clever)\" by Kikuko Inoue, Kozakura Etsuko and Natsuki Rio (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

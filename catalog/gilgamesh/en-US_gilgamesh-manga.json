@@ -1,5 +1,9 @@
 {
     "title": "Gilgamesh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37075.jpg",
+        "alt": "gilgamesh"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "23",

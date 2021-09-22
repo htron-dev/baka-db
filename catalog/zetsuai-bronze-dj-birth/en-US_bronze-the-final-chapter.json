@@ -1,5 +1,9 @@
 {
     "title": "Bronze: The Final Chapter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63047.jpg",
+        "alt": "bronze-the-final-chapter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

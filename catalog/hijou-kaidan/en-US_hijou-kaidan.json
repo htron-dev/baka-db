@@ -1,5 +1,9 @@
 {
     "title": "Hijou Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67383.jpg",
+        "alt": "hijou-kaidan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

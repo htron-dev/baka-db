@@ -1,5 +1,9 @@
 {
     "title": "Aki no Kanade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72481.jpg",
+        "alt": "aki-no-kanade"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アキの奏で",

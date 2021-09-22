@@ -1,5 +1,9 @@
 {
     "title": "Tokyo SOS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1410/104074.jpg",
+        "alt": "tokyo-sos"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "tokyoSOS",

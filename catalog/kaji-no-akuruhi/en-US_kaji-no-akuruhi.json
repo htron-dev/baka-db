@@ -1,5 +1,9 @@
 {
     "title": "Kaji no Akuruhi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1124/111887.jpg",
+        "alt": "kaji-no-akuruhi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "火事のあくる日",

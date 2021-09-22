@@ -1,5 +1,9 @@
 {
     "title": "Oneechan ga Kita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/56415.jpg",
+        "alt": "oneechan-ga-kita"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "お姉ちゃんが来た",

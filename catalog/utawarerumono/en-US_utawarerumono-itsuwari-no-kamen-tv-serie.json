@@ -1,12 +1,16 @@
 {
     "title": "Utawarerumono: Itsuwari no Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75968.jpg",
+        "alt": "utawarerumono-itsuwari-no-kamen"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "うたわれるもの 偽りの仮面",
     "start_date": "2015-10-04",
     "end_date": "2015-10-04",
-    "opening_song": "#01",
-    "ending_song": "#1",
+    "opening_song": "#01: \"Fuantei na Kamisama (不安定な神様)\" by Suara (eps 2-12)",
+    "ending_song": "#1: \"Yume ka Utsutsu ka (ユメカウツツカ)\" by Suara (eps 2-5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Wang Er Shan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1192/115597.jpg",
+        "alt": "wang-er-shan"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "望儿山",

@@ -1,5 +1,9 @@
 {
     "title": "Wakaba\\*Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152083.jpg",
+        "alt": "wakaba-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya Episode G: Assassin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187408.jpg",
+        "alt": "saint-seiya-episode-g-assassin"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "123",

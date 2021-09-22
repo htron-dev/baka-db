@@ -1,5 +1,9 @@
 {
     "title": "Zenryaku - Dear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40556.jpg",
+        "alt": "zenryaku-dear"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

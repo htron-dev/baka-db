@@ -1,5 +1,9 @@
 {
     "title": "Breakin' Girls!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211070.jpg",
+        "alt": "breakin-girls"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

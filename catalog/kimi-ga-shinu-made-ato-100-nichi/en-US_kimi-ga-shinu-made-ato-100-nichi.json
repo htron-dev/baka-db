@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Shinu made Ato 100-nichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227273.jpg",
+        "alt": "kimi-ga-shinu-made-ato-100-nichi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "48",

@@ -1,5 +1,9 @@
 {
     "title": "Berserk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157897.jpg",
+        "alt": "berserk"
+    },
     "type": "manga",
     "original_name": "ベルセルク",
     "start_date": "1989-08-25",

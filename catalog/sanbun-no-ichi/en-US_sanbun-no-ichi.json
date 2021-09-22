@@ -1,5 +1,9 @@
 {
     "title": "Sanbun no Ichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204429.jpg",
+        "alt": "sanbun-no-ichi"
+    },
     "type": "manga",
     "original_name": "⅓ さんぶんのいち",
     "start_date": "2017-01-13",

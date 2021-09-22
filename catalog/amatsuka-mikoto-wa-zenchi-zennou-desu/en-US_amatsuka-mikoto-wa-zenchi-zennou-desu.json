@@ -1,5 +1,9 @@
 {
     "title": "Amatsuka Mikoto wa Zenchi Zennou desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129307.jpg",
+        "alt": "amatsuka-mikoto-wa-zenchi-zennou-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "天束ミコトは全知全能です。",

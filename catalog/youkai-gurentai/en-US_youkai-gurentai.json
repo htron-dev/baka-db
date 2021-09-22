@@ -1,5 +1,9 @@
 {
     "title": "Youkai Gurentai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225721.jpg",
+        "alt": "youkai-gurentai"
+    },
     "type": "manga",
     "original_name": "妖傀愚連隊",
     "start_date": "2019-10-26",

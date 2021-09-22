@@ -1,5 +1,9 @@
 {
     "title": "Saishuu Heiki Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224610.jpg",
+        "alt": "saishuu-heiki-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

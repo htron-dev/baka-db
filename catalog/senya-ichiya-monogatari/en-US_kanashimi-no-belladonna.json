@@ -1,5 +1,9 @@
 {
     "title": "Kanashimi no Belladonna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/24740.jpg",
+        "alt": "kanashimi-no-belladonna"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "哀しみのベラドンナ",

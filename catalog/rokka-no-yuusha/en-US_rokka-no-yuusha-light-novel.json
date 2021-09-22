@@ -1,5 +1,9 @@
 {
     "title": "Rokka no Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163592.jpg",
+        "alt": "rokka-no-yuusha"
+    },
     "type": "light-novel",
     "original_name": "六花の勇者",
     "start_date": "2011-08-25",

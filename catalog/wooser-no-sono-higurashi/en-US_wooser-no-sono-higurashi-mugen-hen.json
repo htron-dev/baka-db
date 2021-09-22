@@ -1,5 +1,9 @@
 {
     "title": "Wooser no Sono Higurashi: Mugen-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75011.jpg",
+        "alt": "wooser-no-sono-higurashi-mugen-hen"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "うーさーのその日暮らし 夢幻編",

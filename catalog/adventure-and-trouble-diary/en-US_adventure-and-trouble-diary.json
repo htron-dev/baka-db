@@ -1,5 +1,9 @@
 {
     "title": "Adventure and Trouble Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97913.jpg",
+        "alt": "adventure-and-trouble-diary"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "35",

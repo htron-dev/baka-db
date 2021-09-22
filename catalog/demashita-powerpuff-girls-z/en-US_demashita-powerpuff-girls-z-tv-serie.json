@@ -1,12 +1,16 @@
 {
     "title": "Demashita! Powerpuff Girls Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/3253.jpg",
+        "alt": "demashita-powerpuff-girls-z"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "出ましたっ！パワパフガールズ Z",
     "start_date": "2006-07-01",
     "end_date": "2006-07-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kibou no kakera\" by Nana Kitade (eps 1-26)",
+    "ending_song": "#1: \"Mayonaka no Doa\" by Liu Yi Fei (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "action",

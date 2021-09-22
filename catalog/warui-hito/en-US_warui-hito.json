@@ -1,5 +1,9 @@
 {
     "title": "Warui Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146737.jpg",
+        "alt": "warui-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

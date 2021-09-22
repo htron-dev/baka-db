@@ -1,5 +1,9 @@
 {
     "title": "Love-teki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172804.jpg",
+        "alt": "love-teki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

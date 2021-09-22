@@ -1,5 +1,9 @@
 {
     "title": "Game Playing Role",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195285.jpg",
+        "alt": "game-playing-role"
+    },
     "type": "light-novel",
     "original_name": "ゲーム・プレイング・ロール",
     "start_date": "2017-05-01",

@@ -1,5 +1,9 @@
 {
     "title": "Dorothea: Majo no Tetsutsui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202846.jpg",
+        "alt": "dorothea-majo-no-tetsutsui"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

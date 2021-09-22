@@ -1,5 +1,9 @@
 {
     "title": "Koi ni mo Naranai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200929.jpg",
+        "alt": "koi-ni-mo-naranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

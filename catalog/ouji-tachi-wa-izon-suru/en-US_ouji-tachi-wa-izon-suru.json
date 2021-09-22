@@ -1,5 +1,9 @@
 {
     "title": "Ouji-tachi wa Izon suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176042.jpg",
+        "alt": "ouji-tachi-wa-izon-suru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

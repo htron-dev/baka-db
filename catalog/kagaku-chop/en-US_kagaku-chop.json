@@ -1,5 +1,9 @@
 {
     "title": "Kagaku Chop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181982.jpg",
+        "alt": "kagaku-chop"
+    },
     "type": "manga",
     "original_name": "カガクチョップ",
     "start_date": "2011-08-10",

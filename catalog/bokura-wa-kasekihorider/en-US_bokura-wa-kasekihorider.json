@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Kasekihorider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238918.jpg",
+        "alt": "bokura-wa-kasekihorider"
+    },
     "type": "manga",
     "chapters": "30",
     "original_name": "ぼくらはカセキホリダー",

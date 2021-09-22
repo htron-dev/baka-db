@@ -1,5 +1,9 @@
 {
     "title": "Cyclops Shoujo Saipuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139185.jpg",
+        "alt": "cyclops-shoujo-saipuu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "160",

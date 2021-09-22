@@ -1,5 +1,9 @@
 {
     "title": "Emono no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7540.jpg",
+        "alt": "emono-no-kimochi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Itsuka, Kimi ga Tonari de Mezametara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196383.jpg",
+        "alt": "itsuka-kimi-ga-tonari-de-mezametara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

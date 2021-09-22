@@ -1,5 +1,9 @@
 {
     "title": "Once Again!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105853.jpg",
+        "alt": "once-again"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

@@ -1,11 +1,15 @@
 {
     "title": "Chou Seimeitai Transformers Beast Wars Neo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/57417.jpg",
+        "alt": "chou-seimeitai-transformers-beast-wars-neo"
+    },
     "type": "tv-serie",
     "episodes": "35",
     "original_name": "超生命体トランスフォーマー ビーストウォーズ・ネオ",
     "start_date": "1999-02-03",
     "end_date": "1999-02-03",
-    "opening_song": "\"Love For Ever",
+    "opening_song": "\"Love For Ever: Kimi wo Mamoru Tame ni (Love For Ever-君を守るために-)\" by M.C.R.",
     "ending_song": "\"Te no Naka no Uchuu (手の中の宇宙)\" by Hitomi Yuuki",
     "rating": "PG - Children",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Nyanko-sensei ga Iku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155817.jpg",
+        "alt": "nyanko-sensei-ga-iku"
+    },
     "type": "manga",
     "original_name": "ニャンコ先生が行く!",
     "start_date": "2013-11-22",

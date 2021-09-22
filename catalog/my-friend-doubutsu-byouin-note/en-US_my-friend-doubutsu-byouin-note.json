@@ -1,5 +1,9 @@
 {
     "title": "My Friend Doubutsu Byouin Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205859.jpg",
+        "alt": "my-friend-doubutsu-byouin-note"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

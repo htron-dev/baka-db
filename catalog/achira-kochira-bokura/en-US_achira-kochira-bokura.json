@@ -1,5 +1,9 @@
 {
     "title": "Achira Kochira Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224243.jpg",
+        "alt": "achira-kochira-bokura"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

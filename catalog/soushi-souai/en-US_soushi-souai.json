@@ -1,5 +1,9 @@
 {
     "title": "Soushi Souai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189400.jpg",
+        "alt": "soushi-souai"
+    },
     "type": "manga",
     "original_name": "そうしそうあい",
     "start_date": "2015-08-27",

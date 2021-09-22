@@ -1,5 +1,9 @@
 {
     "title": "V・I・P",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166416.jpg",
+        "alt": "v・i・p"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Arazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233797.jpg",
+        "alt": "koi-ni-arazu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

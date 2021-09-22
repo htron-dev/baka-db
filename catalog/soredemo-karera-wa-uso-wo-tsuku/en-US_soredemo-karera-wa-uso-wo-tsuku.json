@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Karera wa Uso wo Tsuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203916.jpg",
+        "alt": "soredemo-karera-wa-uso-wo-tsuku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

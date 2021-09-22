@@ -1,5 +1,9 @@
 {
     "title": "Tokutou Tenjouin Alpha no Nanjiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165773.jpg",
+        "alt": "tokutou-tenjouin-alpha-no-nanjiken"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

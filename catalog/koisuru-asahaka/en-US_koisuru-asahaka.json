@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Asahaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244994.jpg",
+        "alt": "koisuru-asahaka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

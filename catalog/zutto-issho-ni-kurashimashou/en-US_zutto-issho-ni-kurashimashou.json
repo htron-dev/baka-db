@@ -1,5 +1,9 @@
 {
     "title": "Zutto Issho ni Kurashimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170041.jpg",
+        "alt": "zutto-issho-ni-kurashimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

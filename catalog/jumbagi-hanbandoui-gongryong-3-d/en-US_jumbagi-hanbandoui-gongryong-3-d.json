@@ -1,8 +1,12 @@
 {
     "title": "Jumbagi: Hanbandoui gongryong 3D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/86041.jpg",
+        "alt": "jumbagi-hanbandoui-gongryong-3-d"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "점박이",
+    "original_name": "점박이: 한반도의 공룡 3D",
     "start_date": "2012-01-26",
     "rating": "G - All Ages",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Futago de Koi wa Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190475.jpg",
+        "alt": "futago-de-koi-wa-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

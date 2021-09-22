@@ -1,5 +1,9 @@
 {
     "title": "K: Dream of Green",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176948.jpg",
+        "alt": "k-dream-of-green"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Asobi no Jikan wa Oshimai da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91745.jpg",
+        "alt": "asobi-no-jikan-wa-oshimai-da"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

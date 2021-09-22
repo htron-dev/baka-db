@@ -1,5 +1,9 @@
 {
     "title": "Baby Actually",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227522.jpg",
+        "alt": "baby-actually"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ベイビー・アクチュアリー",

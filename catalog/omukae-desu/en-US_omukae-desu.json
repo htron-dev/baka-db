@@ -1,5 +1,9 @@
 {
     "title": "Omukae desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190513.jpg",
+        "alt": "omukae-desu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "33",

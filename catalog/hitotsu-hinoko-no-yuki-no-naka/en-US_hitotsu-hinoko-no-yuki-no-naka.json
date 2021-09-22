@@ -1,5 +1,9 @@
 {
     "title": "Hitotsu Hinoko no Yuki no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158026.jpg",
+        "alt": "hitotsu-hinoko-no-yuki-no-naka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Kinniku Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181628.jpg",
+        "alt": "kinniku-kitan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "First Time I Saw You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26499.jpg",
+        "alt": "first-time-i-saw-you"
+    },
     "type": "manhwa",
     "volumes": "6",
     "tags": [

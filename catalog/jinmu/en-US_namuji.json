@@ -1,5 +1,9 @@
 {
     "title": "Namuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166511.jpg",
+        "alt": "namuji"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ナムジ",

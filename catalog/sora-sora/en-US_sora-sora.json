@@ -1,5 +1,9 @@
 {
     "title": "Sora Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10109.jpg",
+        "alt": "sora-sora"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

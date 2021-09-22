@@ -1,5 +1,9 @@
 {
     "title": "Tensei Shimashite, Genzai wa Jijo de Gozaimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236141.jpg",
+        "alt": "tensei-shimashite-genzai-wa-jijo-de-gozaimasu"
+    },
     "type": "manga",
     "original_name": "転生しまして、現在は侍女でございます。",
     "start_date": "2019-03-29",

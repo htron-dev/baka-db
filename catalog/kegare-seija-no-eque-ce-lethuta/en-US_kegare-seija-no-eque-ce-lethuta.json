@@ -1,5 +1,9 @@
 {
     "title": "Kegare Seija no Eque Ce Lethuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162366.jpg",
+        "alt": "kegare-seija-no-eque-ce-lethuta"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "16",

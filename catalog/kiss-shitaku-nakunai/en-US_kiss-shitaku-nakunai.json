@@ -1,5 +1,9 @@
 {
     "title": "Kiss Shitaku Nakunai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135463.jpg",
+        "alt": "kiss-shitaku-nakunai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

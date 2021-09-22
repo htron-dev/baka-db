@@ -1,12 +1,16 @@
 {
     "title": "Bakuman. 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/41845.jpg",
+        "alt": "bakuman-3rd-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "バクマン。",
     "start_date": "2012-10-06",
     "end_date": "2012-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Moshimo no Hanashi (もしもの話)\" by nano.RIPE (eps 1-13)",
+    "ending_song": "#1: \"Pride on Everyday\" by Sphere (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

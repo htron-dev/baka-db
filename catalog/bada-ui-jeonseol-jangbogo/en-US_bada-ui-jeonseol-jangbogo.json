@@ -1,5 +1,9 @@
 {
     "title": "Bada-ui Jeonseol Jangbogo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/28114.jpg",
+        "alt": "bada-ui-jeonseol-jangbogo"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "바다의 전설 장보고",

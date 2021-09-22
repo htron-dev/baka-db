@@ -1,5 +1,9 @@
 {
     "title": "P.I.P.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160482.jpg",
+        "alt": "p-i-p"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "P.I.P. プリズナー・イン・プノンペン",

@@ -1,5 +1,9 @@
 {
     "title": "Fukumoto Nobuyuki Jisen Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61753.jpg",
+        "alt": "fukumoto-nobuyuki-jisen-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

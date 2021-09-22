@@ -1,5 +1,9 @@
 {
     "title": "Kataomoi Shoten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/161009.jpg",
+        "alt": "kataomoi-shoten"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Zannen Danshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205472.jpg",
+        "alt": "zannen-danshi"
+    },
     "type": "manga",
     "original_name": "残念男子。",
     "start_date": "2015-11-06",

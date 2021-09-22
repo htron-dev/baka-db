@@ -1,5 +1,9 @@
 {
     "title": "Black Knight Bat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/103503.jpg",
+        "alt": "black-knight-bat"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

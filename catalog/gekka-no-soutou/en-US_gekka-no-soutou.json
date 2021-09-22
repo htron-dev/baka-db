@@ -1,5 +1,9 @@
 {
     "title": "Gekka no Soutou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200428.jpg",
+        "alt": "gekka-no-soutou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

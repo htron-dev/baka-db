@@ -1,5 +1,9 @@
 {
     "title": "Chouhatsu Mugendai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151482.jpg",
+        "alt": "chouhatsu-mugendai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "挑発 MUGENDAI",

@@ -1,5 +1,9 @@
 {
     "title": "Ryuunen! Todome-senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227951.jpg",
+        "alt": "ryuunen-todome-senpai"
+    },
     "type": "manga",
     "original_name": "留年! とどめ先輩",
     "start_date": "2019-10-21",

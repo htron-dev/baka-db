@@ -1,5 +1,9 @@
 {
     "title": "Kokou-sensei no Jikaisaku ni Gokitai Kudasai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235663.jpg",
+        "alt": "kokou-sensei-no-jikaisaku-ni-gokitai-kudasai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "41",

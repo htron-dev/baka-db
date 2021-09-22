@@ -1,5 +1,9 @@
 {
     "title": "Kettou Saiban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202078.jpg",
+        "alt": "kettou-saiban"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

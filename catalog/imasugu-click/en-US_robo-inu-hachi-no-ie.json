@@ -1,5 +1,9 @@
 {
     "title": "Robo Inu Hachi no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205146.jpg",
+        "alt": "robo-inu-hachi-no-ie"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

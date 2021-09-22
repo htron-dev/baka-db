@@ -1,5 +1,9 @@
 {
     "title": "Senran Kagura: Spark!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86267.jpg",
+        "alt": "senran-kagura-spark"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

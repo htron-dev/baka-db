@@ -1,5 +1,9 @@
 {
     "title": "Romantica Clock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/58769.jpg",
+        "alt": "romantica-clock"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ロマンチカ クロック",

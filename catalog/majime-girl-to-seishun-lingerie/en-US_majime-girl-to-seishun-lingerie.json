@@ -1,5 +1,9 @@
 {
     "title": "Majime Girl to Seishun Lingerie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228064.jpg",
+        "alt": "majime-girl-to-seishun-lingerie"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

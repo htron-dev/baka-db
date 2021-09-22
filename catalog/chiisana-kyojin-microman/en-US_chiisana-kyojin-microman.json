@@ -1,12 +1,16 @@
 {
     "title": "Chiisana Kyojin Microman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1058/110297.jpg",
+        "alt": "chiisana-kyojin-microman"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "小さな巨人ミクロマン",
     "start_date": "1999-01-04",
     "end_date": "1999-01-04",
     "opening_song": "\"Big Heart\" by Daichi Miura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Big Heart\" by Seikou Nagaoka (eps 1-6)",
     "rating": "G - All Ages",
     "tags": [
         "action",

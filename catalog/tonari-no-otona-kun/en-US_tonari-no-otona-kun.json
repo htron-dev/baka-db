@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Otona-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234365.jpg",
+        "alt": "tonari-no-otona-kun"
+    },
     "type": "manga",
     "original_name": "となりのオトナくん",
     "start_date": "2020-04-13",

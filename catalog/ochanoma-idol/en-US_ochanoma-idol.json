@@ -1,5 +1,9 @@
 {
     "title": "Ochanoma Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247804.jpg",
+        "alt": "ochanoma-idol"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

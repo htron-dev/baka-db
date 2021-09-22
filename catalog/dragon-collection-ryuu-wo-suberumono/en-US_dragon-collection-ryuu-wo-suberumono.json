@@ -1,5 +1,9 @@
 {
     "title": "Dragon Collection: Ryuu wo Suberumono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/84225.jpg",
+        "alt": "dragon-collection-ryuu-wo-suberumono"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "51",

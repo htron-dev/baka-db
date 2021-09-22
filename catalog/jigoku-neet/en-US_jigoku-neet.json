@@ -1,5 +1,9 @@
 {
     "title": "Jigoku NEET",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152235.jpg",
+        "alt": "jigoku-neet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "24",

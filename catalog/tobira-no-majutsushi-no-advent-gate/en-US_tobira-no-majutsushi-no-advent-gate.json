@@ -1,5 +1,9 @@
 {
     "title": "Tobira no Majutsushi no Advent Gate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163683.jpg",
+        "alt": "tobira-no-majutsushi-no-advent-gate"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "23",

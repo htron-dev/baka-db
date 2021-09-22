@@ -1,5 +1,9 @@
 {
     "title": "Yukino Plan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233960.jpg",
+        "alt": "yukino-plan"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ゆきのぷらん",

@@ -1,5 +1,9 @@
 {
     "title": "Hua Hua You Long",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90669.jpg",
+        "alt": "hua-hua-you-long"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "21",

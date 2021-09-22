@@ -1,5 +1,9 @@
 {
     "title": "King of Fighters: Giga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76455.jpg",
+        "alt": "king-of-fighters-giga"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ザ･キング・オブ・ファイターズ G（ギガ）",

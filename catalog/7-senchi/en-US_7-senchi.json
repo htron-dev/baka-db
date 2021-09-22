@@ -1,5 +1,9 @@
 {
     "title": "7 Senchi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/69637.jpg",
+        "alt": "7-senchi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

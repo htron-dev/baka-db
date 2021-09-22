@@ -1,5 +1,9 @@
 {
     "title": "The B.B.B.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234375.jpg",
+        "alt": "the-b-b-b"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "THE B.B.B",

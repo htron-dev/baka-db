@@ -1,5 +1,9 @@
 {
     "title": "Kinnikuman II-sei: Kyuukyoku no Choujin Tag-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164972.jpg",
+        "alt": "kinnikuman-ii-sei-kyuukyoku-no-choujin-tag-hen"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "309",

@@ -1,5 +1,9 @@
 {
     "title": "Virgin Hotel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207538.jpg",
+        "alt": "virgin-hotel"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

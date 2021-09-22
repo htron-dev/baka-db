@@ -1,5 +1,9 @@
 {
     "title": "E-Rank no Kusushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223932.jpg",
+        "alt": "e-rank-no-kusushi"
+    },
     "type": "manga",
     "original_name": "E ランクの薬師",
     "start_date": "2019-02-26",

@@ -1,5 +1,9 @@
 {
     "title": "Mugen Kairaku Mesuiki Jigoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236181.jpg",
+        "alt": "mugen-kairaku-mesuiki-jigoku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "無限快楽メスイキ地獄",

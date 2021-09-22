@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Lyrical Nanoha: Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246834.jpg",
+        "alt": "mahou-shoujo-lyrical-nanoha-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

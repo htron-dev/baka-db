@@ -1,5 +1,9 @@
 {
     "title": "True True",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151272.jpg",
+        "alt": "true-true"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

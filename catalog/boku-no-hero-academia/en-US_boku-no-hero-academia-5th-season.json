@@ -1,11 +1,15 @@
 {
     "title": "Boku no Hero Academia 5th Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+        "alt": "boku-no-hero-academia-5th-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "僕のヒーローアカデミア",
     "start_date": "2021-03-27",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"No.1\" by DISH// (eps 1-13)",
+    "ending_song": "#1: \"Ashiato (足跡)\" by the peggies (eps 2-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

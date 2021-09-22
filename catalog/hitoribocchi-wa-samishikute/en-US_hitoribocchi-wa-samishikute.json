@@ -1,5 +1,9 @@
 {
     "title": "Hitoribocchi wa Samishikute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20084.jpg",
+        "alt": "hitoribocchi-wa-samishikute"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

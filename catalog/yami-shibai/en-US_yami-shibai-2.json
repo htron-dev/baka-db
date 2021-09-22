@@ -1,5 +1,9 @@
 {
     "title": "Yami Shibai 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74108.jpg",
+        "alt": "yami-shibai-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "闇芝居 2 期",

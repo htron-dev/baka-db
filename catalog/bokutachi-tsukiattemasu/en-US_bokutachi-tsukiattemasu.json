@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi Tsukiattemasu...?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225048.jpg",
+        "alt": "bokutachi-tsukiattemasu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "67",

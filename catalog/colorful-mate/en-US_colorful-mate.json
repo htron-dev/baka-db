@@ -1,5 +1,9 @@
 {
     "title": "Colorful Mate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10895.jpg",
+        "alt": "colorful-mate"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "カラフルメイト",

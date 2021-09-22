@@ -1,5 +1,9 @@
 {
     "title": "C[si:]",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31161.jpg",
+        "alt": "c-si"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

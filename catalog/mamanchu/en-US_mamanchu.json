@@ -1,5 +1,9 @@
 {
     "title": "Mamanchu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83274.jpg",
+        "alt": "mamanchu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ままんちゅ!",

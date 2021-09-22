@@ -1,5 +1,9 @@
 {
     "title": "Akarui Kioku Soushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190876.jpg",
+        "alt": "akarui-kioku-soushitsu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "67",

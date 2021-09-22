@@ -1,5 +1,9 @@
 {
     "title": "Konya, Tsuma ga Okasaremasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193848.jpg",
+        "alt": "konya-tsuma-ga-okasaremasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

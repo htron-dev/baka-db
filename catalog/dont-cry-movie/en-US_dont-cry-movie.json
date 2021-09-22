@@ -1,5 +1,9 @@
 {
     "title": "Don't Cry (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1486/110953.jpg",
+        "alt": "dont-cry-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドントクライ",

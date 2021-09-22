@@ -1,5 +1,9 @@
 {
     "title": "Kuusou Yuubinkyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192220.jpg",
+        "alt": "kuusou-yuubinkyoku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

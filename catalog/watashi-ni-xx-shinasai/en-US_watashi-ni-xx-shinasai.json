@@ -1,5 +1,9 @@
 {
     "title": "Watashi ni xx Shinasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155156.jpg",
+        "alt": "watashi-ni-xx-shinasai"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "82",

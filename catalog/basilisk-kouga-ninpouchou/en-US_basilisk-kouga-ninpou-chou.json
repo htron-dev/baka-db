@@ -1,12 +1,16 @@
 {
     "title": "Basilisk: Kouga Ninpou Chou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/6793.jpg",
+        "alt": "basilisk-kouga-ninpou-chou"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "バジリスク 甲賀忍法帖",
     "start_date": "2005-04-13",
     "end_date": "2005-04-13",
     "opening_song": "\"Kouga Ninpouchou (甲賀忍法帖)\" by Onmyo-za",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hime Murasaki\" by Nana Mizuki (eps 1,9,11-12,15-16,24)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

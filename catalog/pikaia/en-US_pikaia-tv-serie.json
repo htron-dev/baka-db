@@ -1,5 +1,9 @@
 {
     "title": "Pikaia!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/84105.jpg",
+        "alt": "pikaia"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ピカイア!!",

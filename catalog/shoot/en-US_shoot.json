@@ -1,5 +1,9 @@
 {
     "title": "Shoot!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183361.jpg",
+        "alt": "shoot"
+    },
     "type": "manga",
     "volumes": "33",
     "original_name": "シュート！",

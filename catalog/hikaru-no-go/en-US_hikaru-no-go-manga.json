@@ -1,5 +1,9 @@
 {
     "title": "Hikaru no Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170574.jpg",
+        "alt": "hikaru-no-go"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "198",

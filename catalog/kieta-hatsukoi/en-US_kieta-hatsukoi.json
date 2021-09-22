@@ -1,5 +1,9 @@
 {
     "title": "Kieta Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235088.jpg",
+        "alt": "kieta-hatsukoi"
+    },
     "type": "manga",
     "original_name": "消えた初恋",
     "start_date": "2019-06-13",

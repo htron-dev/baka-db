@@ -1,5 +1,9 @@
 {
     "title": "Shiryoushitsu no Reijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129587.jpg",
+        "alt": "shiryoushitsu-no-reijin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

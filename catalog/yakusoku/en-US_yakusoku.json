@@ -1,5 +1,9 @@
 {
     "title": "Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72934.jpg",
+        "alt": "yakusoku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "やくそく",

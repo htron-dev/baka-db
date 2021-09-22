@@ -1,5 +1,9 @@
 {
     "title": "Torikago no Tsugai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119177.jpg",
+        "alt": "torikago-no-tsugai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

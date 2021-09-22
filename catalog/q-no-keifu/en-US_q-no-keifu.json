@@ -1,5 +1,9 @@
 {
     "title": "Q no Keifu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215586.jpg",
+        "alt": "q-no-keifu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

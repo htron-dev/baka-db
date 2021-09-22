@@ -1,5 +1,9 @@
 {
     "title": "Unmei no Oaite wa?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195042.jpg",
+        "alt": "unmei-no-oaite-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "運命のお相手は？",

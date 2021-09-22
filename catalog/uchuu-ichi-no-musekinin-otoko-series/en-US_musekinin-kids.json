@@ -1,5 +1,9 @@
 {
     "title": "Musekinin Kids",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238067.jpg",
+        "alt": "musekinin-kids"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "39",

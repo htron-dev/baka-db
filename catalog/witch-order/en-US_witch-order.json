@@ -1,5 +1,9 @@
 {
     "title": "Witch Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216860.jpg",
+        "alt": "witch-order"
+    },
     "type": "manga",
     "original_name": "ウィッチオーダー",
     "start_date": "2018-09-07",

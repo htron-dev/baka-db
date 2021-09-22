@@ -1,5 +1,9 @@
 {
     "title": "Backstage Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221827.jpg",
+        "alt": "backstage-lovers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

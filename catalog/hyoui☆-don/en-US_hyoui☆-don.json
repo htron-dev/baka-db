@@ -1,5 +1,9 @@
 {
     "title": "Hyoui☆Don!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165134.jpg",
+        "alt": "hyoui☆-don"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

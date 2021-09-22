@@ -1,5 +1,9 @@
 {
     "title": "Helen ESP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18998.jpg",
+        "alt": "helen-esp"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Ato de Shimaimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223292.jpg",
+        "alt": "ato-de-shimaimasu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

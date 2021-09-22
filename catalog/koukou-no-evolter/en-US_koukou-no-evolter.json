@@ -1,5 +1,9 @@
 {
     "title": "Koukou no Evolter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197983.jpg",
+        "alt": "koukou-no-evolter"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

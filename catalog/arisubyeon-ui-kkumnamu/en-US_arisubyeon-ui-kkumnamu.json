@@ -1,5 +1,9 @@
 {
     "title": "Arisubyeon-ui Kkumnamu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/29304.jpg",
+        "alt": "arisubyeon-ui-kkumnamu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "아리수변의 꿈나무",

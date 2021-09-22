@@ -1,5 +1,9 @@
 {
     "title": "Blade &amp; Soul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/61885.jpg",
+        "alt": "blade-amp-soul"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ブレイドアンドソウル",

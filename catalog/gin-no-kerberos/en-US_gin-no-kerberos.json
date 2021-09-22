@@ -1,5 +1,9 @@
 {
     "title": "Gin no Kerberos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170590.jpg",
+        "alt": "gin-no-kerberos"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "銀のケルベロス",

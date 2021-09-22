@@ -1,5 +1,9 @@
 {
     "title": "Seishun Survival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30061.jpg",
+        "alt": "seishun-survival"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

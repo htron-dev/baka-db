@@ -1,5 +1,9 @@
 {
     "title": "Masaka Kore ga Koi nante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143975.jpg",
+        "alt": "masaka-kore-ga-koi-nante"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

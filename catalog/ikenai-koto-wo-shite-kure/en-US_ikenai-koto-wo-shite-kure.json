@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Koto wo Shite Kure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228591.jpg",
+        "alt": "ikenai-koto-wo-shite-kure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

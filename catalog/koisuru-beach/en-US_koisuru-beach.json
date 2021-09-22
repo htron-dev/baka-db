@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Beach",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231321.jpg",
+        "alt": "koisuru-beach"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

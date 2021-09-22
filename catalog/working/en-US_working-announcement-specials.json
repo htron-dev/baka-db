@@ -1,5 +1,9 @@
 {
     "title": "Working'!! Announcement Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/28941.jpg",
+        "alt": "working-announcement-specials"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ワーキング!!",

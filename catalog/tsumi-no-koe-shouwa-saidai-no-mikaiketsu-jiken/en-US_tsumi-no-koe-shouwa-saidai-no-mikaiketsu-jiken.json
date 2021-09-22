@@ -1,5 +1,9 @@
 {
     "title": "Tsumi no Koe: Shouwa Saidai no Mikaiketsu Jiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210725.jpg",
+        "alt": "tsumi-no-koe-shouwa-saidai-no-mikaiketsu-jiken"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

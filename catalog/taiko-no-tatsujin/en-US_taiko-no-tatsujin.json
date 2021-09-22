@@ -1,5 +1,9 @@
 {
     "title": "Taiko no Tatsujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/6534.jpg",
+        "alt": "taiko-no-tatsujin"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "太鼓の達人",

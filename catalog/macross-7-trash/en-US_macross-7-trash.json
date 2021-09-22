@@ -1,5 +1,9 @@
 {
     "title": "Macross 7 Trash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6860.jpg",
+        "alt": "macross-7-trash"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "52",

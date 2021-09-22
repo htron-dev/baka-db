@@ -1,5 +1,9 @@
 {
     "title": "Yuko Sae Tatakaeba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229496.jpg",
+        "alt": "yuko-sae-tatakaeba"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

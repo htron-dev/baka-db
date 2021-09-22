@@ -1,5 +1,9 @@
 {
     "title": "Lala no Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223915.jpg",
+        "alt": "lala-no-kekkon"
+    },
     "type": "manga",
     "original_name": "ララの結婚",
     "start_date": "2017-02-10",

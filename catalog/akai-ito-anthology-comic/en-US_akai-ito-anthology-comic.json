@@ -1,5 +1,9 @@
 {
     "title": "Akai Ito Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155438.jpg",
+        "alt": "akai-ito-anthology-comic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

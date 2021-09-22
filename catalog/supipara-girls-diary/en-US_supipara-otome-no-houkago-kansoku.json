@@ -1,5 +1,9 @@
 {
     "title": "Supipara: Otome no Houkago Kansoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95607.jpg",
+        "alt": "supipara-otome-no-houkago-kansoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

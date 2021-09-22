@@ -1,5 +1,9 @@
 {
     "title": "Aoi no Eins",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241656.jpg",
+        "alt": "aoi-no-eins"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "46",

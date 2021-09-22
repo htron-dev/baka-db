@@ -1,5 +1,9 @@
 {
     "title": "Soukou Tekidanhei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/132739.jpg",
+        "alt": "soukou-tekidanhei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "装甲擲弾兵",

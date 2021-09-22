@@ -1,5 +1,9 @@
 {
     "title": "Ayuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164184.jpg",
+        "alt": "ayuta"
+    },
     "type": "manga",
     "original_name": "亞由多",
     "start_date": "2014-03-28",

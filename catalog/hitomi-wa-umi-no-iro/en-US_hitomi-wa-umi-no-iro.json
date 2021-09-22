@@ -1,5 +1,9 @@
 {
     "title": "Hitomi wa Umi no Iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21087.jpg",
+        "alt": "hitomi-wa-umi-no-iro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

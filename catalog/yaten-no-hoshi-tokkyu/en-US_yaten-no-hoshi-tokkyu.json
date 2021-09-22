@@ -1,5 +1,9 @@
 {
     "title": "Yaten no Hoshi Tokkyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31076.jpg",
+        "alt": "yaten-no-hoshi-tokkyu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "夜天の星特急",

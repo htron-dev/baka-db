@@ -1,5 +1,9 @@
 {
     "title": "Koibito Ijou, Tomodachi Miman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114117.jpg",
+        "alt": "koibito-ijou-tomodachi-miman"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "こいびと以上、ともだち未満",

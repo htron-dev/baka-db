@@ -1,5 +1,9 @@
 {
     "title": "One Punch-Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80661.jpg",
+        "alt": "one-punch-man"
+    },
     "type": "manga",
     "original_name": "ワンパンマン",
     "start_date": "2012-06-14",

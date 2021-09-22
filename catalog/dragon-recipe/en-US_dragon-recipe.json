@@ -1,5 +1,9 @@
 {
     "title": "Dragon Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145271.jpg",
+        "alt": "dragon-recipe"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Nourin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147675.jpg",
+        "alt": "nourin"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "69",

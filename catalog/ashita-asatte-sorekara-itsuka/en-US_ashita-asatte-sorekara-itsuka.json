@@ -1,5 +1,9 @@
 {
     "title": "Ashita Asatte Sorekara Itsuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225134.jpg",
+        "alt": "ashita-asatte-sorekara-itsuka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

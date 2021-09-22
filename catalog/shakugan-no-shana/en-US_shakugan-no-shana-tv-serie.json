@@ -1,12 +1,16 @@
 {
     "title": "Shakugan no Shana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/21197.jpg",
+        "alt": "shakugan-no-shana"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "灼眼のシャナ",
     "start_date": "2005-10-06",
     "end_date": "2005-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hishoku no Sora (緋色の空)\" by Mami Kawada (eps 1-16)",
+    "ending_song": "#1: \"Yoake Umare Kuru Shoujo (夜明け生まれ来る少女)\" by Yoko Takahashi (eps 1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

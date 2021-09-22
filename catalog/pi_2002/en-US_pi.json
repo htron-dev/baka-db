@@ -1,5 +1,9 @@
 {
     "title": "π",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174019.jpg",
+        "alt": "π"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "101",

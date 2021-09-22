@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Kaitou Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15206.jpg",
+        "alt": "gakuen-kaitou-triangle"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "学園怪盗トライアングル",

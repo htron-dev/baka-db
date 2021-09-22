@@ -1,5 +1,9 @@
 {
     "title": "Yes ka No ka Hanbun ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227388.jpg",
+        "alt": "yes-ka-no-ka-hanbun-ka"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "36",

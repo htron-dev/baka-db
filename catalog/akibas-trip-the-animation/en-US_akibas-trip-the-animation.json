@@ -1,12 +1,16 @@
 {
     "title": "Akiba's Trip The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83185.jpg",
+        "alt": "akibas-trip-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "AKIBA'S TRIP THE ANIMATION",
     "start_date": "2017-01-04",
     "end_date": "2017-01-04",
     "opening_song": "\"Ikken Rakuchaku Goyoujin (一件落着ゴ用心)\" by Earphones",
-    "ending_song": "#01",
+    "ending_song": "#01: \"B Ambitious!\" by YuiKaori (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

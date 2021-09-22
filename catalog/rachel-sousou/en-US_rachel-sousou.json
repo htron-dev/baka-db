@@ -1,5 +1,9 @@
 {
     "title": "Rachel Sousou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165917.jpg",
+        "alt": "rachel-sousou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Tsumuji VS.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205101.jpg",
+        "alt": "tsumuji-vs"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "つむじ VS.",

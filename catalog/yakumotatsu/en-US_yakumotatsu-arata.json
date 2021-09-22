@@ -1,5 +1,9 @@
 {
     "title": "Yakumotatsu Arata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211416.jpg",
+        "alt": "yakumotatsu-arata"
+    },
     "type": "manga",
     "original_name": "八雲立つ 灼",
     "start_date": "2018-02-28",

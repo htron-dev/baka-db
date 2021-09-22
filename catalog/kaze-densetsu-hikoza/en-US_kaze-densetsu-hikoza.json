@@ -1,5 +1,9 @@
 {
     "title": "Kaze Densetsu Hikoza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38278.jpg",
+        "alt": "kaze-densetsu-hikoza"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "疾風(カゼ)伝説彦佐",

@@ -1,5 +1,9 @@
 {
     "title": "Super Dragon Ball Heroes: Ankoku Makai Mission!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228478.jpg",
+        "alt": "super-dragon-ball-heroes-ankoku-makai-mission"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

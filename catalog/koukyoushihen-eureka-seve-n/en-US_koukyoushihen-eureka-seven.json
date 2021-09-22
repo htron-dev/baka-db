@@ -1,12 +1,16 @@
 {
     "title": "Koukyoushihen Eureka Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/34443.jpg",
+        "alt": "koukyoushihen-eureka-seven"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "交響詩篇エウレカセブン",
     "start_date": "2005-04-17",
     "end_date": "2005-04-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"DAYS\" by FLOW (eps 1-13)",
+    "ending_song": "#1: \"Himitsu Kichi (秘密基地)\" by Kozue Takada (eps 1-13,26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

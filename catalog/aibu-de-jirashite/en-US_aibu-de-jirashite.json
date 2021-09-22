@@ -1,5 +1,9 @@
 {
     "title": "Aibu de Jirashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149455.jpg",
+        "alt": "aibu-de-jirashite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

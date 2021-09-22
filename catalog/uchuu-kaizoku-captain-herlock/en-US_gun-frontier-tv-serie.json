@@ -1,5 +1,9 @@
 {
     "title": "Gun Frontier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/15442.jpg",
+        "alt": "gun-frontier"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ガンフロンティア",

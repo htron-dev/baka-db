@@ -1,5 +1,9 @@
 {
     "title": "Rose Meets Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34645.jpg",
+        "alt": "rose-meets-rose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

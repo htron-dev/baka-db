@@ -1,5 +1,9 @@
 {
     "title": "King of Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200939.jpg",
+        "alt": "king-of-idol"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "61",

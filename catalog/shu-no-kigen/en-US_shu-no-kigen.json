@@ -1,5 +1,9 @@
 {
     "title": "Shu no Kigen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163431.jpg",
+        "alt": "shu-no-kigen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

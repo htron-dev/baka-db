@@ -1,5 +1,9 @@
 {
     "title": "Love Kids!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116795.jpg",
+        "alt": "love-kids"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

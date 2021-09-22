@@ -1,5 +1,9 @@
 {
     "title": "hi-lite Blue to Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123597.jpg",
+        "alt": "hi-lite-blue-to-shoujo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ハイライトブルーと少女",

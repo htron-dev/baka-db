@@ -1,5 +1,9 @@
 {
     "title": "Gachiiki Chouhatsu Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189570.jpg",
+        "alt": "gachiiki-chouhatsu-night"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

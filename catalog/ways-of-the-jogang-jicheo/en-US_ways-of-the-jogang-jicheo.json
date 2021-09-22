@@ -1,5 +1,9 @@
 {
     "title": "Ways of the Jogang Jicheo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32269.jpg",
+        "alt": "ways-of-the-jogang-jicheo"
+    },
     "type": "manhwa",
     "volumes": "12",
     "chapters": "53",

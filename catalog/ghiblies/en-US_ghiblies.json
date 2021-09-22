@@ -1,5 +1,9 @@
 {
     "title": "Ghiblies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75924.jpg",
+        "alt": "ghiblies"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ギブリーズ",

@@ -1,5 +1,9 @@
 {
     "title": "Full Metal Panic!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75259.jpg",
+        "alt": "full-metal-panic"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "フルメタル・パニック！",

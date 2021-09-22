@@ -1,12 +1,16 @@
 {
     "title": "Renkin San-kyuu Magical? Pokaan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75229.jpg",
+        "alt": "renkin-san-kyuu-magical-pokaan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "錬金 3 級 まじかる?ぽか〜ん",
     "start_date": "2006-04-04",
     "end_date": "2006-04-04",
     "opening_song": "\"Senketsu no Chikai (鮮血の誓い)\" by Yousei Teikoku",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shichaimashou sensous (しちゃいましょう sensous)\" by Saito Momoko (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

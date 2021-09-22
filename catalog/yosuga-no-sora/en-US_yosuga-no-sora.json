@@ -1,5 +1,9 @@
 {
     "title": "Yosuga no Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33932.jpg",
+        "alt": "yosuga-no-sora"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

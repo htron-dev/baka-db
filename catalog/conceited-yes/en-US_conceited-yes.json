@@ -1,5 +1,9 @@
 {
     "title": "Conceited Yes!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18209.jpg",
+        "alt": "conceited-yes"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

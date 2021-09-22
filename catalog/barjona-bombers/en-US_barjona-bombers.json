@@ -1,5 +1,9 @@
 {
     "title": "Barjona Bombers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38738.jpg",
+        "alt": "barjona-bombers"
+    },
     "type": "manga",
     "original_name": "バルヨナボンバーズ",
     "start_date": "2004-07-20",

@@ -1,5 +1,9 @@
 {
     "title": "Ayame to Amane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210547.jpg",
+        "alt": "ayame-to-amane"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あやめとあまね",

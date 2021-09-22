@@ -1,12 +1,16 @@
 {
     "title": "Fairy Tail: Final Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1536/93863.jpg",
+        "alt": "fairy-tail-final-series"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "FAIRY TAIL ファイナルシリーズ",
     "start_date": "2018-10-07",
     "end_date": "2018-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"power of the dream\" by lol (eps 1-13)",
+    "ending_song": "#1: \"Endless Harmony\" by Beverly (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

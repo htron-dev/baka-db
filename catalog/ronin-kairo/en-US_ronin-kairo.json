@@ -1,5 +1,9 @@
 {
     "title": "Ronin Kairo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23894.jpg",
+        "alt": "ronin-kairo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

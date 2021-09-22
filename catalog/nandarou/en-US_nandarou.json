@@ -1,5 +1,9 @@
 {
     "title": "Nandarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/4068.jpg",
+        "alt": "nandarou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "なんだろう",

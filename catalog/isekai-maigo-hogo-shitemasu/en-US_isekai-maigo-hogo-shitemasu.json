@@ -1,5 +1,9 @@
 {
     "title": "Isekai Maigo, Hogo Shitemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233908.jpg",
+        "alt": "isekai-maigo-hogo-shitemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

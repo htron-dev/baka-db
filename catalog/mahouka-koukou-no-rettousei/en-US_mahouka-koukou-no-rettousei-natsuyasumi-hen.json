@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei: Natsuyasumi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190955.jpg",
+        "alt": "mahouka-koukou-no-rettousei-natsuyasumi-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

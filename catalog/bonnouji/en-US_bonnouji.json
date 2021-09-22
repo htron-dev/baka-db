@@ -1,5 +1,9 @@
 {
     "title": "Bonnouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159423.jpg",
+        "alt": "bonnouji"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "36",

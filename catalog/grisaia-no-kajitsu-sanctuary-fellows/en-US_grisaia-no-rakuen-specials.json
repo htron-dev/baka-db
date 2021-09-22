@@ -1,5 +1,9 @@
 {
     "title": "Grisaia no Rakuen Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75439.jpg",
+        "alt": "grisaia-no-rakuen-specials"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "グリザイアの楽園",

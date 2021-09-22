@@ -1,5 +1,9 @@
 {
     "title": "Full Metal Panic? Fumoffu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75260.jpg",
+        "alt": "full-metal-panic-fumoffu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "フルメタル・パニック? ふもっふ",

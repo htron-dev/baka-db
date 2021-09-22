@@ -1,5 +1,9 @@
 {
     "title": "Abara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171728.jpg",
+        "alt": "abara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

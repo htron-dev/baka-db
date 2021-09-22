@@ -1,5 +1,9 @@
 {
     "title": "Dame Oyaji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/30065.jpg",
+        "alt": "dame-oyaji"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ダメおやじ",

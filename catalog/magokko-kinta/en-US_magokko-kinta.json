@@ -1,5 +1,9 @@
 {
     "title": "Magokko Kinta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12018.jpg",
+        "alt": "magokko-kinta"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "馬子っこきん太",

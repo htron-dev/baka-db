@@ -1,5 +1,9 @@
 {
     "title": "Barairo no Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165825.jpg",
+        "alt": "barairo-no-yakusoku"
+    },
     "type": "manga",
     "original_name": "薔薇色ノ約束",
     "start_date": "2014-12-24",

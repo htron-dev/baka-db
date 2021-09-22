@@ -1,5 +1,9 @@
 {
     "title": "\\_Summer Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75133.jpg",
+        "alt": "summer-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "\\_summer [アンダーバーサマー]",

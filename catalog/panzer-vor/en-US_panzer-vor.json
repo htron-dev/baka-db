@@ -1,5 +1,9 @@
 {
     "title": "Panzer vor!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132737.jpg",
+        "alt": "panzer-vor"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "パンツァーフォー！",

@@ -1,5 +1,9 @@
 {
     "title": "Puchimon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3381.jpg",
+        "alt": "puchimon"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "81",

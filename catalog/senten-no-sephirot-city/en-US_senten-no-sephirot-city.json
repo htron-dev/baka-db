@@ -1,5 +1,9 @@
 {
     "title": "Senten no Sephirot City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180898.jpg",
+        "alt": "senten-no-sephirot-city"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "穿天のセフィロト・シティ",

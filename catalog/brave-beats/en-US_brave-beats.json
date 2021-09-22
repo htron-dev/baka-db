@@ -1,5 +1,9 @@
 {
     "title": "Brave Beats",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76152.jpg",
+        "alt": "brave-beats"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "ブレイブビーツ",

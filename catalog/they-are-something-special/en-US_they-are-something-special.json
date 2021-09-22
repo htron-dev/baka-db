@@ -1,5 +1,9 @@
 {
     "title": "They are Something Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18790.jpg",
+        "alt": "they-are-something-special"
+    },
     "type": "manhwa",
     "volumes": "11",
     "original_name": "잘나가는 그놈들에겐 뭔가 특별한 것이 있다",

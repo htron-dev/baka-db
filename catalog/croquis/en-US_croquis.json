@@ -1,5 +1,9 @@
 {
     "title": "Croquis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21394.jpg",
+        "alt": "croquis"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Grisaia: Phantom Trigger - Sekai no Hate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212295.jpg",
+        "alt": "grisaia-phantom-trigger-sekai-no-hate"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

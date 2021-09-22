@@ -1,5 +1,9 @@
 {
     "title": "Oriko to Nattsun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212577.jpg",
+        "alt": "oriko-to-nattsun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

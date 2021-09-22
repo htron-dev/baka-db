@@ -1,5 +1,9 @@
 {
     "title": "Basculer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200490.jpg",
+        "alt": "basculer"
+    },
     "type": "manga",
     "original_name": "BASCULER",
     "start_date": "2014-01-09",

@@ -1,5 +1,9 @@
 {
     "title": "Kishin Gakuen Tantei Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156765.jpg",
+        "alt": "kishin-gakuen-tantei-club"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

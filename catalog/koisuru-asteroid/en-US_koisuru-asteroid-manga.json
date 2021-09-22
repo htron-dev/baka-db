@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Asteroid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208355.jpg",
+        "alt": "koisuru-asteroid"
+    },
     "type": "manga",
     "original_name": "恋する小惑星〈アストロイド〉",
     "start_date": "2017-01-28",

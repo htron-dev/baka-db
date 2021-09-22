@@ -1,5 +1,9 @@
 {
     "title": "White Note Pad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169607.jpg",
+        "alt": "white-note-pad"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

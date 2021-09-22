@@ -1,5 +1,9 @@
 {
     "title": "Daimaou ga Taosenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176318.jpg",
+        "alt": "daimaou-ga-taosenai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "38",

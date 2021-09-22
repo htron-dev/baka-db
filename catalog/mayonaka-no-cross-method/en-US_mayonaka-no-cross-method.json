@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka no Cross Method",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150677.jpg",
+        "alt": "mayonaka-no-cross-method"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

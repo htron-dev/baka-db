@@ -1,5 +1,9 @@
 {
     "title": "Frame Arms Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86625.jpg",
+        "alt": "frame-arms-girl"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "フレームアームズ・ガール",

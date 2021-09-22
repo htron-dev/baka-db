@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi wa Miranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37142.jpg",
+        "alt": "kono-koi-wa-miranai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "この恋は実らない",

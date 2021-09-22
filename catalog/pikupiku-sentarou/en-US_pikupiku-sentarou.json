@@ -1,5 +1,9 @@
 {
     "title": "Pikupiku Sentarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202650.jpg",
+        "alt": "pikupiku-sentarou"
+    },
     "type": "manga",
     "volumes": "37",
     "original_name": "ぴくぴく仙太郎",

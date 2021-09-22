@@ -1,5 +1,9 @@
 {
     "title": "Mask",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47105.jpg",
+        "alt": "mask"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

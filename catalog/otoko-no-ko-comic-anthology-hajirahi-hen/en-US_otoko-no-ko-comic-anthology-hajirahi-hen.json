@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Ko Comic Anthology: Hajirahi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163940.jpg",
+        "alt": "otoko-no-ko-comic-anthology-hajirahi-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

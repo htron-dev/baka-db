@@ -1,5 +1,9 @@
 {
     "title": "Kettama!: Shuukyuu Riot☆Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226582.jpg",
+        "alt": "kettama-shuukyuu-riot☆-girls"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

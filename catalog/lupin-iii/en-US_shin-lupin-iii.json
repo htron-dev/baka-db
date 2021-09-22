@@ -1,5 +1,9 @@
 {
     "title": "Shin Lupin III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162881.jpg",
+        "alt": "shin-lupin-iii"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "180",

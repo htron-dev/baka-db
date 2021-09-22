@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai Chappy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/17490.jpg",
+        "alt": "mahoutsukai-chappy"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "魔法使いチャッピー",

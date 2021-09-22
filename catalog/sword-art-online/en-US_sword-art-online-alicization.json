@@ -1,12 +1,16 @@
 {
     "title": "Sword Art Online: Alicization",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1993/93837.jpg",
+        "alt": "sword-art-online-alicization"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ソードアート・オンライン アリシゼーション",
     "start_date": "2018-10-07",
     "end_date": "2018-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"ADAMAS\" by LiSA (eps 2-13)",
+    "ending_song": "#1: \"Iris (アイリス)\" by Eir Aoi (eps 2-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

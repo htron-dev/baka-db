@@ -1,5 +1,9 @@
 {
     "title": "JJM: Joshi Judou-bu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192064.jpg",
+        "alt": "jjm-joshi-judou-bu-monogatari"
+    },
     "type": "manga",
     "original_name": "JJM 女子柔道部物語",
     "start_date": "2016-08-09",

@@ -1,5 +1,9 @@
 {
     "title": "Gunbured x Sisters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235293.jpg",
+        "alt": "gunbured-x-sisters"
+    },
     "type": "manga",
     "original_name": "ガンバレッド × シスターズ",
     "start_date": "2019-09-19",

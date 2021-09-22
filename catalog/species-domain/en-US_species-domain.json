@@ -1,5 +1,9 @@
 {
     "title": "Species Domain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155063.jpg",
+        "alt": "species-domain"
+    },
     "type": "manga",
     "original_name": "スピーシーズドメイン",
     "start_date": "2013-10-12",

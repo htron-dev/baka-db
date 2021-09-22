@@ -1,5 +1,9 @@
 {
     "title": "Happy Mania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/1003.jpg",
+        "alt": "happy-mania"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "62",

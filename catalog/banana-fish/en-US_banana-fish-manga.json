@@ -1,5 +1,9 @@
 {
     "title": "Banana Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/215997.jpg",
+        "alt": "banana-fish"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "110",

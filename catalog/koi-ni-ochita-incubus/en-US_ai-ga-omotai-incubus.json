@@ -1,5 +1,9 @@
 {
     "title": "Ai ga Omotai Incubus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230037.jpg",
+        "alt": "ai-ga-omotai-incubus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

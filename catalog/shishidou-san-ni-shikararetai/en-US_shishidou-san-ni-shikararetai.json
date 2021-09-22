@@ -1,5 +1,9 @@
 {
     "title": "Shishidou-san ni Shikararetai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234821.jpg",
+        "alt": "shishidou-san-ni-shikararetai"
+    },
     "type": "manga",
     "original_name": "獅子堂さんに叱られたい。",
     "start_date": "2019-10-21",

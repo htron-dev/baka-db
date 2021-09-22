@@ -1,5 +1,9 @@
 {
     "title": "Koishite Masukara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24981.jpg",
+        "alt": "koishite-masukara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋してますから",

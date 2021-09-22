@@ -1,5 +1,9 @@
 {
     "title": "Gekkou Teien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39573.jpg",
+        "alt": "gekkou-teien"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

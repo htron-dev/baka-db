@@ -1,5 +1,9 @@
 {
     "title": "Eden no Majo-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228123.jpg",
+        "alt": "eden-no-majo-tachi"
+    },
     "type": "manga",
     "original_name": "エデンの魔女たち",
     "start_date": "2019-07-04",

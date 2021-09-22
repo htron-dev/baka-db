@@ -1,5 +1,9 @@
 {
     "title": "Agonashi Gen to Ore Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160696.jpg",
+        "alt": "agonashi-gen-to-ore-monogatari"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "471",

@@ -1,5 +1,9 @@
 {
     "title": "Mori no Takuma-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178244.jpg",
+        "alt": "mori-no-takuma-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

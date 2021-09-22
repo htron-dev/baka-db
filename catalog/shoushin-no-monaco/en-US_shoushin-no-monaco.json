@@ -1,5 +1,9 @@
 {
     "title": "Shoushin no Monaco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119009.jpg",
+        "alt": "shoushin-no-monaco"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

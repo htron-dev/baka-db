@@ -1,5 +1,9 @@
 {
     "title": "Arakusa Ninpouchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236543.jpg",
+        "alt": "arakusa-ninpouchou"
+    },
     "type": "manga",
     "original_name": "あらくさ忍法帖",
     "start_date": "2018-11-29",

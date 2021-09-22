@@ -1,5 +1,9 @@
 {
     "title": "Kanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245834.jpg",
+        "alt": "kanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

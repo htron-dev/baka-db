@@ -1,12 +1,16 @@
 {
     "title": "Persona 4 the Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/29107.jpg",
+        "alt": "persona-4-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ペルソナ 4 アニメーション",
     "start_date": "2011-10-07",
     "end_date": "2011-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Pursuing My True Self\" by Shihoko Hirata (ep 1)",
+    "ending_song": "#1: \"sky's the limit\" by Shihoko Hirata (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Shikizakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/249908.jpg",
+        "alt": "shikizakura"
+    },
     "type": "manga",
     "original_name": "シキザクラ",
     "start_date": "2020-12-25",

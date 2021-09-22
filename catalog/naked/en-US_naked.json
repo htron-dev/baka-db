@@ -1,5 +1,9 @@
 {
     "title": "Naked",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113935.jpg",
+        "alt": "naked"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

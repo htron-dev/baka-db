@@ -1,5 +1,9 @@
 {
     "title": "Tenka Hyakken: Shun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217169.jpg",
+        "alt": "tenka-hyakken-shun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

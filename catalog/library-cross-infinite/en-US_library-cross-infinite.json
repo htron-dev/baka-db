@@ -1,5 +1,9 @@
 {
     "title": "Library Cross Infinite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/87563.jpg",
+        "alt": "library-cross-infinite"
+    },
     "type": "tv-serie",
     "original_name": "LibraryCross∞",
     "rating": "None",

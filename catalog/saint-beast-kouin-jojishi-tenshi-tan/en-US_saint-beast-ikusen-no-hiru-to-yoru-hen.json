@@ -1,12 +1,16 @@
 {
     "title": "Saint Beast: Ikusen no Hiru to Yoru-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/83179.jpg",
+        "alt": "saint-beast-ikusen-no-hiru-to-yoru-hen"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "セイント・ビースト～幾千の昼と夜 編～",
     "start_date": "2005-12-17",
     "end_date": "2005-12-17",
     "opening_song": "\"KIZUNA & SADAME\" by Toshiyuki Morikawa, Takahiro Sakurai, Kouki Miyata, Hiroyuki Yoshino",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ikusen no Hiru to Yoru\" by Hikaru Midorikawa, Kouki Miyata, Hiroyuki Yoshino",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "magic",

@@ -1,5 +1,9 @@
 {
     "title": "Overlord",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161407.jpg",
+        "alt": "overlord"
+    },
     "type": "manga",
     "original_name": "オーバーロード",
     "start_date": "2014-11-26",

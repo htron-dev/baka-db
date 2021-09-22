@@ -1,5 +1,9 @@
 {
     "title": "Lady Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/71855.jpg",
+        "alt": "lady-lady"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "レディレディ",

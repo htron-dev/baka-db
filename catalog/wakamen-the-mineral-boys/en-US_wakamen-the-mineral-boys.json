@@ -1,5 +1,9 @@
 {
     "title": "Wakamen: The Mineral Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242108.jpg",
+        "alt": "wakamen-the-mineral-boys"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

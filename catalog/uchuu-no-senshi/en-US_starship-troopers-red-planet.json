@@ -1,5 +1,9 @@
 {
     "title": "Starship Troopers: Red Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/89860.jpg",
+        "alt": "starship-troopers-red-planet"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スターシップ・トゥルーパーズ レッドプラネット",

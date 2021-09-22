@@ -1,5 +1,9 @@
 {
     "title": "Sex Friend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5998.jpg",
+        "alt": "sex-friend"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "エスエフ　 SEX FRIEND",

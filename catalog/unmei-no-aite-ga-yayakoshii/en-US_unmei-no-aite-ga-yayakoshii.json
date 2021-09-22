@@ -1,5 +1,9 @@
 {
     "title": "Unmei no Aite ga Yayakoshii!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236310.jpg",
+        "alt": "unmei-no-aite-ga-yayakoshii"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "運命の相手がややこしい!",

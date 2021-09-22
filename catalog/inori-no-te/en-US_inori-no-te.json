@@ -1,5 +1,9 @@
 {
     "title": "Inori no Te",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/66235.jpg",
+        "alt": "inori-no-te"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "いのりの手",

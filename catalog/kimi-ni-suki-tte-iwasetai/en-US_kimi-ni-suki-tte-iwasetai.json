@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Suki tte Iwasetai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213263.jpg",
+        "alt": "kimi-ni-suki-tte-iwasetai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

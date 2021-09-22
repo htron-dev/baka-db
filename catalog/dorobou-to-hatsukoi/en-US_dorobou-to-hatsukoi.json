@@ -1,5 +1,9 @@
 {
     "title": "Dorobou to Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155634.jpg",
+        "alt": "dorobou-to-hatsukoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

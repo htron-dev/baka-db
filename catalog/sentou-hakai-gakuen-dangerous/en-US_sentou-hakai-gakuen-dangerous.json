@@ -1,5 +1,9 @@
 {
     "title": "Sentou Hakai Gakuen Dangerous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154469.jpg",
+        "alt": "sentou-hakai-gakuen-dangerous"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "43",

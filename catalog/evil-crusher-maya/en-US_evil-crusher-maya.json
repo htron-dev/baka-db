@@ -1,5 +1,9 @@
 {
     "title": "Evil Crusher Maya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40026.jpg",
+        "alt": "evil-crusher-maya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

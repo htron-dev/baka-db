@@ -1,5 +1,9 @@
 {
     "title": "Bullet Armors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105867.jpg",
+        "alt": "bullet-armors"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Yamegoku: Yakuza Yamete Itadakimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157977.jpg",
+        "alt": "yamegoku-yakuza-yamete-itadakimasu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

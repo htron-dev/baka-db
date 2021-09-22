@@ -1,5 +1,9 @@
 {
     "title": "Happy Pharmacy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24461.jpg",
+        "alt": "happy-pharmacy"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "Happy Pharmacy",

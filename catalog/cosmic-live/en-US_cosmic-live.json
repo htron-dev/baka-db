@@ -1,5 +1,9 @@
 {
     "title": "Cosmic@Live",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160016.jpg",
+        "alt": "cosmic-live"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

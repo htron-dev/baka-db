@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu to Eievui Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/44900.jpg",
+        "alt": "pokemon-pikachu-to-eievui-friends"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ピカチュウとイーブイフレンズ",

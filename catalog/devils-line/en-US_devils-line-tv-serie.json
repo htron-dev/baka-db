@@ -1,5 +1,9 @@
 {
     "title": "Devils Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1991/109055.jpg",
+        "alt": "devils-line"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "デビルズライン",

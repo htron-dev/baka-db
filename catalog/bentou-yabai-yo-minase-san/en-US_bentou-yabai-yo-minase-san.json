@@ -1,5 +1,9 @@
 {
     "title": "Bentou Yabai yo Minase-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246386.jpg",
+        "alt": "bentou-yabai-yo-minase-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

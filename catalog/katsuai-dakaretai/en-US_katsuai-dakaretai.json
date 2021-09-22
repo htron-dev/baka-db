@@ -1,5 +1,9 @@
 {
     "title": "Katsuai (Dakaretai)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5710.jpg",
+        "alt": "katsuai-dakaretai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

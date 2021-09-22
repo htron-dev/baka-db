@@ -1,5 +1,9 @@
 {
     "title": "D'v",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/837.jpg",
+        "alt": "dv"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

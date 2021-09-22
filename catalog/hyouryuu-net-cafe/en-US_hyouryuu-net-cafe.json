@@ -1,5 +1,9 @@
 {
     "title": "Hyouryuu Net Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45421.jpg",
+        "alt": "hyouryuu-net-cafe"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "63",

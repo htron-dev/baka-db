@@ -1,5 +1,9 @@
 {
     "title": "Yagi-san Yuubin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179021.jpg",
+        "alt": "yagi-san-yuubin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

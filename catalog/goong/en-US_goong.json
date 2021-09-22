@@ -1,5 +1,9 @@
 {
     "title": "Goong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23572.jpg",
+        "alt": "goong"
+    },
     "type": "manhwa",
     "volumes": "27",
     "chapters": "179",

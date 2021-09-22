@@ -1,5 +1,9 @@
 {
     "title": "Hatoful Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/103549.jpg",
+        "alt": "hatoful-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama no Obenkyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176571.jpg",
+        "alt": "ouji-sama-no-obenkyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

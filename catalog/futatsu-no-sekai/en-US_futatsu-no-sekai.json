@@ -1,5 +1,9 @@
 {
     "title": "Futatsu no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/85270.jpg",
+        "alt": "futatsu-no-sekai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "二つの世界",

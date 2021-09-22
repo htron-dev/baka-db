@@ -1,5 +1,9 @@
 {
     "title": "BowlinGoood!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202134.jpg",
+        "alt": "bowlin-goood"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

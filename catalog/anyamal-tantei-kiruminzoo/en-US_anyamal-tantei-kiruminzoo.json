@@ -1,12 +1,16 @@
 {
     "title": "Anyamal Tantei Kiruminzoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74070.jpg",
+        "alt": "anyamal-tantei-kiruminzoo"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "あにゃまる探偵 キルミンずぅ",
     "start_date": "2009-10-05",
     "end_date": "2009-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"ปู (POO)\" by Neko Jump",
+    "ending_song": "#1: \"ช่วยมัดหน่อย (Chuai Mad Noi) (チュアイ　マッ　ノーイ)\" by Neko Jump (eps 1-29)",
     "rating": "G - All Ages",
     "tags": [
         "magic",

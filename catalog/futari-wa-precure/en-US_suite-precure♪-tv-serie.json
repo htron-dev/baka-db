@@ -1,12 +1,16 @@
 {
     "title": "Suite Precure♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/32129.jpg",
+        "alt": "suite-precure♪"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "スイート プリキュア ♪",
     "start_date": "2011-02-06",
     "end_date": "2011-02-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"La♪ La♪ La♪ Suite PreCure♪\" (ラ ♪ ラ ♪ ラ ♪ スイートプリキュア ♪) by Mayu Kudou (eps 1-23)",
+    "ending_song": "#1: \"Wonderful↑Powerful↑Music!!\" (ワンダフル ↑ パワフル ↑ ミュージック！！) by Aya Ikeda (eps 1-23)",
     "rating": "G - All Ages",
     "tags": [
         "action",

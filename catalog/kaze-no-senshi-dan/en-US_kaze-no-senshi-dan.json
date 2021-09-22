@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Senshi Dan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188202.jpg",
+        "alt": "kaze-no-senshi-dan"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "47",

@@ -1,5 +1,9 @@
 {
     "title": "Little Butterfly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/25450.jpg",
+        "alt": "little-butterfly"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

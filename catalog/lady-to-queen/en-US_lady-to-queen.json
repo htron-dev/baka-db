@@ -1,5 +1,9 @@
 {
     "title": "Lady to Queen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242192.jpg",
+        "alt": "lady-to-queen"
+    },
     "type": "manhwa",
     "original_name": "레이디 투 퀸",
     "start_date": "2019-06-23",

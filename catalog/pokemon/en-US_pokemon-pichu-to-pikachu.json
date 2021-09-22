@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pichu to Pikachu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1149/103525.jpg",
+        "alt": "pokemon-pichu-to-pikachu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ピチューとピカチュウ",

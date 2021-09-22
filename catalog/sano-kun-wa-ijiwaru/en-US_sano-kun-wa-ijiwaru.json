@@ -1,5 +1,9 @@
 {
     "title": "Sano-kun wa Ijiwaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240432.jpg",
+        "alt": "sano-kun-wa-ijiwaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

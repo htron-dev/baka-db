@@ -1,12 +1,16 @@
 {
     "title": "Ashita no Joe 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/45028.jpg",
+        "alt": "ashita-no-joe-2"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "あしたのジョー２",
     "start_date": "1980-10-13",
     "end_date": "1980-10-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kizudarake no Eikou\" by Takeshi Obo (eps 1-25)",
+    "ending_song": "#1: \"Hateshinaki Yami no Kanata ni\" by Takeshi Obo (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

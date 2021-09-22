@@ -1,5 +1,9 @@
 {
     "title": "Sousei no Aquarion: Kokuu no Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173160.jpg",
+        "alt": "sousei-no-aquarion-kokuu-no-tenshi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Memory Glass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11934.jpg",
+        "alt": "memory-glass"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "メモリーグラス",

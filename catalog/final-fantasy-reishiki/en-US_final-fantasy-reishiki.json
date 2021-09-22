@@ -1,5 +1,9 @@
 {
     "title": "Final Fantasy Reishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120183.jpg",
+        "alt": "final-fantasy-reishiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

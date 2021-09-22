@@ -1,5 +1,9 @@
 {
     "title": "Berlin wa Kane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149637.jpg",
+        "alt": "berlin-wa-kane"
+    },
     "type": "manga",
     "original_name": "ベルリンは鐘",
     "start_date": "2013-12-19",

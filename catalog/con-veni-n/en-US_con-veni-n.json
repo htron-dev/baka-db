@@ -1,5 +1,9 @@
 {
     "title": "ConVeni-N",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174482.jpg",
+        "alt": "con-veni-n"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "30-kin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223573.jpg",
+        "alt": "30-kin"
+    },
     "type": "manga",
     "original_name": "30 禁",
     "start_date": "2016-08-05",

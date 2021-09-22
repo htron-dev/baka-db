@@ -1,5 +1,9 @@
 {
     "title": "Pride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190144.jpg",
+        "alt": "pride"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

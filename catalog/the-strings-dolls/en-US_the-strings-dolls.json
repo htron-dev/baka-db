@@ -1,5 +1,9 @@
 {
     "title": "The Strings Dolls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/65627.jpg",
+        "alt": "the-strings-dolls"
+    },
     "type": "manga",
     "chapters": "15",
     "original_name": "the Strings Dolls",

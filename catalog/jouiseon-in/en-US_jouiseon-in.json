@@ -1,5 +1,9 @@
 {
     "title": "Jouiseon-in",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1085/115254.jpg",
+        "alt": "jouiseon-in"
+    },
     "type": "tv-serie",
     "original_name": "조의선인",
     "rating": "G - All Ages",

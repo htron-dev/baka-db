@@ -1,5 +1,9 @@
 {
     "title": "Kitanai-yatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23738.jpg",
+        "alt": "kitanai-yatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

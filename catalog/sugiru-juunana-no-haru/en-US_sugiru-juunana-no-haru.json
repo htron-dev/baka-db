@@ -1,5 +1,9 @@
 {
     "title": "Sugiru Juunana no Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22545.jpg",
+        "alt": "sugiru-juunana-no-haru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

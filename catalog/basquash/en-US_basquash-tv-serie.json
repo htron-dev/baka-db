@@ -1,12 +1,16 @@
 {
     "title": "Basquash!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/13680.jpg",
+        "alt": "basquash"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "バスカッシュ！",
     "start_date": "2009-04-03",
     "end_date": "2009-04-03",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"nO limiT\" by Eclipse (エクリップス Ekurippusu?) (Haruka Tomatsu, Saori Hayami, Nakajima Megumi) (eps 2-13)",
+    "ending_song": "#01: \"free\" by Yu Yamada (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports",

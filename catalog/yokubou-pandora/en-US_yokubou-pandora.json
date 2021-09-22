@@ -1,5 +1,9 @@
 {
     "title": "Yokubou Pandora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224165.jpg",
+        "alt": "yokubou-pandora"
+    },
     "type": "manga",
     "original_name": "欲望パンドラ",
     "start_date": "2017-07-25",

@@ -1,5 +1,9 @@
 {
     "title": "Papa★I Love You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14643.jpg",
+        "alt": "papa★-i-love-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

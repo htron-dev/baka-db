@@ -1,5 +1,9 @@
 {
     "title": "The Shadow of Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7108.jpg",
+        "alt": "the-shadow-of-moon"
+    },
     "type": "manhwa",
     "volumes": "5",
     "tags": [

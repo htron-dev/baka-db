@@ -1,5 +1,9 @@
 {
     "title": "Himote House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1790/94342.jpg",
+        "alt": "himote-house"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ひもてはうす",

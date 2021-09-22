@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu Koori no Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/24008.jpg",
+        "alt": "pokemon-pikachu-koori-no-daibouken"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ピカチュウ 氷の大冒険",

@@ -1,5 +1,9 @@
 {
     "title": "Me wo Tojite Miru Yume yori mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146119.jpg",
+        "alt": "me-wo-tojite-miru-yume-yori-mo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

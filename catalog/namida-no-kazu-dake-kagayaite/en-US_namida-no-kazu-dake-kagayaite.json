@@ -1,5 +1,9 @@
 {
     "title": "Namida no Kazu dake Kagayaite!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152850.jpg",
+        "alt": "namida-no-kazu-dake-kagayaite"
+    },
     "type": "manga",
     "original_name": "涙の数だけ輝いて!",
     "start_date": "2012-11-05",

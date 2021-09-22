@@ -1,5 +1,9 @@
 {
     "title": "Daichi wo Wataru Koe wo Kike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159273.jpg",
+        "alt": "daichi-wo-wataru-koe-wo-kike"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "4",

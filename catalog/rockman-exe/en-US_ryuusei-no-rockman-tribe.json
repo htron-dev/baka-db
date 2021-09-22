@@ -1,5 +1,9 @@
 {
     "title": "Ryuusei no Rockman Tribe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1256/94652.jpg",
+        "alt": "ryuusei-no-rockman-tribe"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "流星のロックマン トライブ",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Mega_Man_Star_Force_(anime"
+            "link": "http://en.wikipedia.org/wiki/Mega_Man_Star_Force_%28anime%29#Tribe"
         }
     ]
 }

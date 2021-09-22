@@ -1,12 +1,16 @@
 {
     "title": "Parappa the Rapper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/6602.jpg",
+        "alt": "parappa-the-rapper"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "パラッパラッパー",
     "start_date": "2001-04-14",
     "end_date": "2001-04-14",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Love Together (Parappa Rapper Mix) (LOVE TOGETHER~パラッパラッパー MIX~)\" by Nona Reeves (eps 1-15)",
+    "ending_song": "#1: \"School Girl\" by BENNIE K. (eps 1-15)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

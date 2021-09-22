@@ -1,5 +1,9 @@
 {
     "title": "Terpsichore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194329.jpg",
+        "alt": "terpsichore"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "72",

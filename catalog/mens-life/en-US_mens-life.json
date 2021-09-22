@@ -1,5 +1,9 @@
 {
     "title": "Men's Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209998.jpg",
+        "alt": "mens-life"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

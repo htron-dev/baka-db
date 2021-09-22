@@ -1,5 +1,9 @@
 {
     "title": "Ojousama Sousamou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1556/97264.jpg",
+        "alt": "ojousama-sousamou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "お嬢様捜査網",

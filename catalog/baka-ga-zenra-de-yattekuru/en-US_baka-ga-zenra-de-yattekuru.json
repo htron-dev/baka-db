@@ -1,5 +1,9 @@
 {
     "title": "Baka ga Zenra de Yattekuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/112005.jpg",
+        "alt": "baka-ga-zenra-de-yattekuru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Dia Horizon (Kabu)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/87933.jpg",
+        "alt": "dia-horizon-kabu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ディアホライゾン（被）",

@@ -1,5 +1,9 @@
 {
     "title": "Tsukiyo no Kurage wa Koi ni Naku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225010.jpg",
+        "alt": "tsukiyo-no-kurage-wa-koi-ni-naku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

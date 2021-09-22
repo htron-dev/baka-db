@@ -1,5 +1,9 @@
 {
     "title": "Haru no Ogawa wa Dokidoki Suru yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177357.jpg",
+        "alt": "haru-no-ogawa-wa-dokidoki-suru-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Yawarakai Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40114.jpg",
+        "alt": "yawarakai-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

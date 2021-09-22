@@ -1,5 +1,9 @@
 {
     "title": "Compiler Festa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/61471.jpg",
+        "alt": "compiler-festa"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "COMPILER FESTA",

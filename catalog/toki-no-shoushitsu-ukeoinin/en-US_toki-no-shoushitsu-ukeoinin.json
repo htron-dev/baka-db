@@ -1,5 +1,9 @@
 {
     "title": "Toki no Shoushitsu Ukeoinin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156381.jpg",
+        "alt": "toki-no-shoushitsu-ukeoinin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

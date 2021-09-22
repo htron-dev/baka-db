@@ -1,5 +1,9 @@
 {
     "title": "Eomma Chaja Sammanli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1537/111075.jpg",
+        "alt": "eomma-chaja-sammanli"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "엄마 찾아 삼만리",

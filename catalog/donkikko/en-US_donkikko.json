@@ -1,5 +1,9 @@
 {
     "title": "Donkikko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/53069.jpg",
+        "alt": "donkikko"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "ドンキッコ",

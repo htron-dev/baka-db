@@ -1,11 +1,15 @@
 {
     "title": "Seisenshi Dunbine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1562/94955.jpg",
+        "alt": "seisenshi-dunbine"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "聖戦士ダンバイン",
     "start_date": "1983-02-05",
     "end_date": "1983-02-05",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Aura Road\" by MIO",
     "ending_song": "\"Mieru Darou Byston Well (みえるだろうバイストン・ウェル)\" by MIO",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

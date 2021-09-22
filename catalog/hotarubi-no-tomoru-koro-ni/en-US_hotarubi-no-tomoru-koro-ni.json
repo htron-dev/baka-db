@@ -1,5 +1,9 @@
 {
     "title": "Hotarubi no Tomoru Koro ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183788.jpg",
+        "alt": "hotarubi-no-tomoru-koro-ni"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Cocoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67359.jpg",
+        "alt": "cocoon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

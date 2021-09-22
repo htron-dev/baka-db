@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu Takarajima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1084/100515.jpg",
+        "alt": "doubutsu-takarajima"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "どうぶつ宝島",

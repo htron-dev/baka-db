@@ -1,5 +1,9 @@
 {
     "title": "fortissimo//Ein Wichtiges Recollection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97255.jpg",
+        "alt": "fortissimo-ein-wichtiges-recollection"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

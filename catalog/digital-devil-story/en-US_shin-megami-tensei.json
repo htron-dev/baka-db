@@ -1,5 +1,9 @@
 {
     "title": "Shin Megami Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6784.jpg",
+        "alt": "shin-megami-tensei"
+    },
     "type": "manga",
     "volumes": "4",
     "tags": [

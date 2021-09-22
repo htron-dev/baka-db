@@ -1,5 +1,9 @@
 {
     "title": "Super Seisyun Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/53807.jpg",
+        "alt": "super-seisyun-brothers"
+    },
     "type": "tv-serie",
     "episodes": "14",
     "original_name": "Super Seisyun Brothers -超青春姉弟 s-",

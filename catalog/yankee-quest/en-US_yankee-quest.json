@@ -1,5 +1,9 @@
 {
     "title": "Yankee Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128185.jpg",
+        "alt": "yankee-quest"
+    },
     "type": "manga",
     "original_name": "ヤンキークエスト",
     "start_date": "2010-12-09",

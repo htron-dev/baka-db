@@ -1,5 +1,9 @@
 {
     "title": "Tantei Opera Milky Holmes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/26676.jpg",
+        "alt": "tantei-opera-milky-holmes"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "探偵オペラ ミルキィホームズ",

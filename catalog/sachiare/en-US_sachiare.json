@@ -1,5 +1,9 @@
 {
     "title": "Sachiare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116807.jpg",
+        "alt": "sachiare"
+    },
     "type": "manga",
     "original_name": "さちあれ！",
     "start_date": "2013-02-26",

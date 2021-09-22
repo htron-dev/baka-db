@@ -1,5 +1,9 @@
 {
     "title": "Akutai wa Toiki to Mazariau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5936.jpg",
+        "alt": "akutai-wa-toiki-to-mazariau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

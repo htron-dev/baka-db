@@ -1,5 +1,9 @@
 {
     "title": "Gouka no Kyouten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196154.jpg",
+        "alt": "gouka-no-kyouten"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "47",

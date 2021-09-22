@@ -1,5 +1,9 @@
 {
     "title": "Yi Kong Zhi Dian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1278/93261.jpg",
+        "alt": "yi-kong-zhi-dian"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "翼空之巅",

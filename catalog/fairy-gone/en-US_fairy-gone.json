@@ -1,5 +1,9 @@
 {
     "title": "Fairy Gone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1562/100460.jpg",
+        "alt": "fairy-gone"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Fairy gone フェアリーゴーン",

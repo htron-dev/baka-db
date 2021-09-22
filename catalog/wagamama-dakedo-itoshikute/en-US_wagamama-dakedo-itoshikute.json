@@ -1,5 +1,9 @@
 {
     "title": "Wagamama dakedo Itoshikute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18870.jpg",
+        "alt": "wagamama-dakedo-itoshikute"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

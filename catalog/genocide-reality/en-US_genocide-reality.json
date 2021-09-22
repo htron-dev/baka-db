@@ -1,5 +1,9 @@
 {
     "title": "Genocide Reality",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198245.jpg",
+        "alt": "genocide-reality"
+    },
     "type": "light-novel",
     "original_name": "ジェノサイド・リアリティー",
     "start_date": "2017-07-15",

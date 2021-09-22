@@ -1,5 +1,9 @@
 {
     "title": "Overlord Movie 1: Fushisha no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/87759.jpg",
+        "alt": "overlord-movie-1-fushisha-no-ou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "【前編】劇場版総集編 オーバーロード 不死者の王",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_(%E5%B0%8F%E8%AA%AC"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_%28%E5%B0%8F%E8%AA%AC%29"
         }
     ]
 }

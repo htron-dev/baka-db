@@ -1,5 +1,9 @@
 {
     "title": "Zoids Wild Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1202/109793.jpg",
+        "alt": "zoids-wild-senki"
+    },
     "type": "ona",
     "original_name": "ゾイドワイルド戦記",
     "start_date": "2020-10-17",

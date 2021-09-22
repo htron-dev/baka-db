@@ -1,5 +1,9 @@
 {
     "title": "Fushidara na Konzen Kyouiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179487.jpg",
+        "alt": "fushidara-na-konzen-kyouiku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

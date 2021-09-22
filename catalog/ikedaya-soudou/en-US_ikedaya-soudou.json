@@ -1,5 +1,9 @@
 {
     "title": "Ikedaya Soudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/71305.jpg",
+        "alt": "ikedaya-soudou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "池田屋騒動",

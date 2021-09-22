@@ -1,5 +1,9 @@
 {
     "title": "Yamiyo ni Asobu na Kodomotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234686.jpg",
+        "alt": "yamiyo-ni-asobu-na-kodomotachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

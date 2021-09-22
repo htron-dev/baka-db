@@ -1,5 +1,9 @@
 {
     "title": "Fumikiri Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202746.jpg",
+        "alt": "fumikiri-jikan"
+    },
     "type": "manga",
     "original_name": "踏切時間",
     "start_date": "2016-05-25",

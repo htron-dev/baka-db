@@ -1,5 +1,9 @@
 {
     "title": "Ichi-gan Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76324.jpg",
+        "alt": "ichi-gan-kuni"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "一眼国",

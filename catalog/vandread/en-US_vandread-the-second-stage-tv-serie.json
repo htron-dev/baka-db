@@ -1,12 +1,16 @@
 {
     "title": "Vandread: The Second Stage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75447.jpg",
+        "alt": "vandread-the-second-stage"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ヴァンドレッド the second stage",
     "start_date": "2001-10-05",
     "end_date": "2001-10-05",
     "opening_song": "\"Justice\" by Aki Kudou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yes Together\" by Aki Kudou (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

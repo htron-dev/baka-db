@@ -1,5 +1,9 @@
 {
     "title": "Otome no Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215259.jpg",
+        "alt": "otome-no-houkago"
+    },
     "type": "manga",
     "original_name": "乙女の放課後",
     "start_date": "2018-04-05",

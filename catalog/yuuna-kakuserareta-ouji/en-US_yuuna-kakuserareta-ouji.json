@@ -1,5 +1,9 @@
 {
     "title": "Yuuna: Kakuserareta Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153321.jpg",
+        "alt": "yuuna-kakuserareta-ouji"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ユウナ 秘せられた王子",

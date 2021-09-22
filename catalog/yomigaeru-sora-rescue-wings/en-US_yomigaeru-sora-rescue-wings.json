@@ -1,12 +1,16 @@
 {
     "title": "Yomigaeru Sora: Rescue Wings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/798.jpg",
+        "alt": "yomigaeru-sora-rescue-wings"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "よみがえる空 -Rescue Wings-",
     "start_date": "2006-01-09",
     "end_date": "2006-01-09",
     "opening_song": "#1 \"Ashita o Tomenai de\" by Misato Aki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Emblem\" by JAM Project",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

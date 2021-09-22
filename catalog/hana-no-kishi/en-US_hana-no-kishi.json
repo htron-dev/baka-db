@@ -1,5 +1,9 @@
 {
     "title": "Hana no Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34361.jpg",
+        "alt": "hana-no-kishi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

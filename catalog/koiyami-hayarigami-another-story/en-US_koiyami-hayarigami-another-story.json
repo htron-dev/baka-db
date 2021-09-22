@@ -1,5 +1,9 @@
 {
     "title": "Koiyami: Hayarigami Another Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91281.jpg",
+        "alt": "koiyami-hayarigami-another-story"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

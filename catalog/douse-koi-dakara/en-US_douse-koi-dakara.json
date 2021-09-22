@@ -1,5 +1,9 @@
 {
     "title": "Douse, Koi dakara.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149615.jpg",
+        "alt": "douse-koi-dakara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Nekomonogatari: Kuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/84001.jpg",
+        "alt": "nekomonogatari-kuro"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "猫物語（黒）",

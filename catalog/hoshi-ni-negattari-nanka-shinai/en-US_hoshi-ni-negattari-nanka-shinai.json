@@ -1,5 +1,9 @@
 {
     "title": "Hoshi ni Negattari nanka Shinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190885.jpg",
+        "alt": "hoshi-ni-negattari-nanka-shinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

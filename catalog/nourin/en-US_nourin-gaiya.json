@@ -1,5 +1,9 @@
 {
     "title": "Nourin: Gaiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147681.jpg",
+        "alt": "nourin-gaiya"
+    },
     "type": "manga",
     "original_name": "のうりん-野生-〈ガイヤ〉",
     "start_date": "2013-10-17",

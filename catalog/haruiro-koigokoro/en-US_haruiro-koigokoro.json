@@ -1,5 +1,9 @@
 {
     "title": "Haruiro Koigokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243092.jpg",
+        "alt": "haruiro-koigokoro"
+    },
     "type": "manga",
     "original_name": "春色恋ゴコロ",
     "start_date": "2015-04-24",

@@ -1,5 +1,9 @@
 {
     "title": "Wakeari Nandesu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51967.jpg",
+        "alt": "wakeari-nandesu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ワケありなんです",

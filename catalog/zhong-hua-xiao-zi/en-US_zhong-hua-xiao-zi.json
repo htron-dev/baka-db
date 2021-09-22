@@ -1,5 +1,9 @@
 {
     "title": "Zhong Hua Xiao Zi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/68273.jpg",
+        "alt": "zhong-hua-xiao-zi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "中华小子",

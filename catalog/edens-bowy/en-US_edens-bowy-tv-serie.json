@@ -1,12 +1,16 @@
 {
     "title": "Eden's Bowy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1770/100142.jpg",
+        "alt": "edens-bowy"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "エデンズ　ボゥイ",
     "start_date": "1999-04-06",
     "end_date": "1999-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Everlasting Train: Owarinaki Tabibito (Everlasting Train-終わりなき旅人-)\" by Hekiru Shiina (eps 1-15)",
+    "ending_song": "#1: \"Save My Heart\" by Yasue Satou (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

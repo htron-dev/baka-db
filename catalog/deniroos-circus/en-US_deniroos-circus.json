@@ -1,5 +1,9 @@
 {
     "title": "Deniroo's Circus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76256.jpg",
+        "alt": "deniroos-circus"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Deniroo's Circus",

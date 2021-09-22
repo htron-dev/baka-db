@@ -1,5 +1,9 @@
 {
     "title": "Shin Magician",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22436.jpg",
+        "alt": "shin-magician"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "新マジシャン",

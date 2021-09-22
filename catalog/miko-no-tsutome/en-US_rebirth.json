@@ -1,11 +1,15 @@
 {
     "title": "Rebirth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1640/115820.jpg",
+        "alt": "rebirth"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "りばあす",
     "start_date": "2020-01-05",
     "end_date": "2020-01-05",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Rebirth GO! (Re バース GO!)\" by Niwatori to Nasu no Mitsuboshi Stew (鶏とナスの三ツ星シチュー) (eps 1-24, 37)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game",

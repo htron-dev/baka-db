@@ -1,5 +1,9 @@
 {
     "title": "Chibi Miku-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58013.jpg",
+        "alt": "chibi-miku-san"
+    },
     "type": "manga",
     "original_name": "ちびミクさん",
     "start_date": "2008-06-05",

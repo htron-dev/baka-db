@@ -1,5 +1,9 @@
 {
     "title": "Renai Caffeine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171254.jpg",
+        "alt": "renai-caffeine"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

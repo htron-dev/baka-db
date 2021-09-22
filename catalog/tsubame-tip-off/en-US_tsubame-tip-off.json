@@ -1,5 +1,9 @@
 {
     "title": "Tsubame Tip Off!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233256.jpg",
+        "alt": "tsubame-tip-off"
+    },
     "type": "manga",
     "original_name": "つばめティップオフ！",
     "start_date": "2019-08-14",

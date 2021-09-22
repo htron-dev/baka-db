@@ -1,12 +1,16 @@
 {
     "title": "Bakegyamon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/21146.jpg",
+        "alt": "bakegyamon"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "妖逆門",
     "start_date": "2006-04-03",
     "end_date": "2006-04-03",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Mobius\" by Janne Da Arc (Eps 1-26)",
+    "ending_song": "#01: \"From Bakegyamon\" by Kaori Fukuhara (Eps 1-13,50)",
     "rating": "PG - Children",
     "tags": [
         "action",

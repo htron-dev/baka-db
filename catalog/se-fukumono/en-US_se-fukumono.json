@@ -1,5 +1,9 @@
 {
     "title": "Se~fukumono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150421.jpg",
+        "alt": "se-fukumono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

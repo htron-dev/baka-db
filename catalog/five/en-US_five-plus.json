@@ -1,5 +1,9 @@
 {
     "title": "Five Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186002.jpg",
+        "alt": "five-plus"
+    },
     "type": "manga",
     "original_name": "ファイブ+",
     "start_date": "2016-05-25",

@@ -1,5 +1,9 @@
 {
     "title": "Futari Soccer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/61377.jpg",
+        "alt": "futari-soccer"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ふたりサッカー",

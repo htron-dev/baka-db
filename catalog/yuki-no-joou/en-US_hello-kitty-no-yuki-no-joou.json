@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Yuki no Joou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/58703.jpg",
+        "alt": "hello-kitty-no-yuki-no-joou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの雪の女王",

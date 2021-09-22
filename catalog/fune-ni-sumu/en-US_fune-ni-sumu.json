@@ -1,5 +1,9 @@
 {
     "title": "Fune ni Sumu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196736.jpg",
+        "alt": "fune-ni-sumu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "39",

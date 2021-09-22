@@ -1,5 +1,9 @@
 {
     "title": "Sungeki no Kyojin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136001.jpg",
+        "alt": "sungeki-no-kyojin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "55",

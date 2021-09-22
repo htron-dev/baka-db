@@ -1,5 +1,9 @@
 {
     "title": "Go! Hiromi Go!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7593.jpg",
+        "alt": "go-hiromi-go"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "GO!ヒロミ GO!",

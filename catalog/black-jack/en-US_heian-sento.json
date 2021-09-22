@@ -1,5 +1,9 @@
 {
     "title": "Heian Sento",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1728/108396.jpg",
+        "alt": "heian-sento"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "平安遷都",

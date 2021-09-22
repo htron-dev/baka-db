@@ -1,5 +1,9 @@
 {
     "title": "Pan de Peace!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162742.jpg",
+        "alt": "pan-de-peace"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoto Animation: Megane-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/68993.jpg",
+        "alt": "kyoto-animation-megane-hen"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "京都アニメーション CM「発想編」",

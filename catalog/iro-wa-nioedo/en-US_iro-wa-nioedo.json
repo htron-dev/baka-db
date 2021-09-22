@@ -1,5 +1,9 @@
 {
     "title": "Iro wa Nioedo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172357.jpg",
+        "alt": "iro-wa-nioedo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

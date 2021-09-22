@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shounen Natsuki x Loveits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193408.jpg",
+        "alt": "mahou-shounen-natsuki-x-loveits"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

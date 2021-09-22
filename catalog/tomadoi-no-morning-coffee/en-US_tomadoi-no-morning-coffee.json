@@ -1,5 +1,9 @@
 {
     "title": "Tomadoi no Morning Coffee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194685.jpg",
+        "alt": "tomadoi-no-morning-coffee"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "戸惑いのモーニングコーヒー",

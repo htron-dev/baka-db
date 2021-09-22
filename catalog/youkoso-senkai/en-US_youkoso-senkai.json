@@ -1,5 +1,9 @@
 {
     "title": "Youkoso Senkai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174001.jpg",
+        "alt": "youkoso-senkai"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

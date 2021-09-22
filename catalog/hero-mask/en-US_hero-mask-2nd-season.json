@@ -1,5 +1,9 @@
 {
     "title": "Hero Mask 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1960/102191.jpg",
+        "alt": "hero-mask-2nd-season"
+    },
     "type": "ona",
     "episodes": "9",
     "original_name": "ヒーローマスク",

@@ -1,5 +1,9 @@
 {
     "title": "Code Geass: Fukkatsu no Lelouch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1274/113436.jpg",
+        "alt": "code-geass-fukkatsu-no-lelouch"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "コードギアス 復活のルルーシュ",

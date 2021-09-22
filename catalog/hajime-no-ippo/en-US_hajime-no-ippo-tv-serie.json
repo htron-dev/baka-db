@@ -1,12 +1,16 @@
 {
     "title": "Hajime no Ippo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
+        "alt": "hajime-no-ippo"
+    },
     "type": "tv-serie",
     "episodes": "75",
     "original_name": "はじめの一歩 THE FIGHTING!",
     "start_date": "2000-10-04",
     "end_date": "2000-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Under Star\" by Shocking Lemons (eps 1-25)",
+    "ending_song": "#1: \"Yuuzora no Kamihikouki\" by Naoya Mori (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

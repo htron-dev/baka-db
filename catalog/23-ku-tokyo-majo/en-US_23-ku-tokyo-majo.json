@@ -1,5 +1,9 @@
 {
     "title": "23-ku Tokyo Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230068.jpg",
+        "alt": "23-ku-tokyo-majo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

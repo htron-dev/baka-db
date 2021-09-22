@@ -1,5 +1,9 @@
 {
     "title": "Aa Harimanada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124221.jpg",
+        "alt": "aa-harimanada"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "304",

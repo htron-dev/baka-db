@@ -1,5 +1,9 @@
 {
     "title": "Rockman ZX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207091.jpg",
+        "alt": "rockman-zx"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

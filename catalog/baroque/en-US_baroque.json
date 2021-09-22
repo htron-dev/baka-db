@@ -1,5 +1,9 @@
 {
     "title": "Baroque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164491.jpg",
+        "alt": "baroque"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

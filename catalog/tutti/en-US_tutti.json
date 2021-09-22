@@ -1,5 +1,9 @@
 {
     "title": "Tutti!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163515.jpg",
+        "alt": "tutti"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

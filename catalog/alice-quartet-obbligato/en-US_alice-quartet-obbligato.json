@@ -1,5 +1,9 @@
 {
     "title": "Alice Quartet Obbligato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14814.jpg",
+        "alt": "alice-quartet-obbligato"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

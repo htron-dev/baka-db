@@ -1,5 +1,9 @@
 {
     "title": "Yumekui Danjon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11465.jpg",
+        "alt": "yumekui-danjon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ゆめくいダンジョン",

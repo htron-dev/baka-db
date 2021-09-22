@@ -1,5 +1,9 @@
 {
     "title": "Sensei mo Net Sedai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226257.jpg",
+        "alt": "sensei-mo-net-sedai"
+    },
     "type": "manga",
     "original_name": "先生もネット世代",
     "start_date": "2018-11-09",

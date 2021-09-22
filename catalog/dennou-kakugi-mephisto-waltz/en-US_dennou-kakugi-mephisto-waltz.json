@@ -1,5 +1,9 @@
 {
     "title": "Dennou Kakugi MephistoWaltz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205808.jpg",
+        "alt": "dennou-kakugi-mephisto-waltz"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

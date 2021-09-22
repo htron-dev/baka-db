@@ -1,5 +1,9 @@
 {
     "title": "Yakedo to Tsumeato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150311.jpg",
+        "alt": "yakedo-to-tsumeato"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Zettai★Harem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170532.jpg",
+        "alt": "zettai★-harem"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "61",

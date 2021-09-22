@@ -1,5 +1,9 @@
 {
     "title": "Kakegurui Yorozu: Kakegurui Koushiki Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223796.jpg",
+        "alt": "kakegurui-yorozu-kakegurui-koushiki-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

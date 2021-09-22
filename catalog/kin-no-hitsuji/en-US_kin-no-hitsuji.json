@@ -1,5 +1,9 @@
 {
     "title": "Kin no Hitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215112.jpg",
+        "alt": "kin-no-hitsuji"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

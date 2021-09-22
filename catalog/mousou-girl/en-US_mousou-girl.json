@@ -1,5 +1,9 @@
 {
     "title": "Mousou Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162799.jpg",
+        "alt": "mousou-girl"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "妄想少女〈が-る〉",

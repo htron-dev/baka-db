@@ -1,5 +1,9 @@
 {
     "title": "Gold Pollen and Other Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91117.jpg",
+        "alt": "gold-pollen-and-other-stories"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

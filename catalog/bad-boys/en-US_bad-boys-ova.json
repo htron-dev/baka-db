@@ -1,12 +1,16 @@
 {
     "title": "Bad Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/13330.jpg",
+        "alt": "bad-boys"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "BAD BOYS",
     "start_date": "1993-09-25",
     "end_date": "1993-09-25",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"SUGAR BABY'S GROWING\" by REPLICA (ep 1)",
+    "ending_song": "#1: \"Sekai wo Tomete (世界を止めて)\" by THE COLLECTORS",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

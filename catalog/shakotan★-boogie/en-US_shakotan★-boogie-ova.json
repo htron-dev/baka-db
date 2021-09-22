@@ -1,12 +1,16 @@
 {
     "title": "Shakotan★Boogie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/43517.jpg",
+        "alt": "shakotan★-boogie"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "シャコタン ★ ブギ",
     "start_date": "1991-02-06",
     "end_date": "1991-02-06",
     "opening_song": "\"Let's go Boogie\" by Noriyuki Asakura & GANG (eps 3-4)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Te no Hira no Watashi (手のひらの私)\" by Hikaru Nishida (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

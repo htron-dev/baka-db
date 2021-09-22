@@ -1,5 +1,9 @@
 {
     "title": "Antique Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30177.jpg",
+        "alt": "antique-romance"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Animal X: Aragami no Ichizoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27663.jpg",
+        "alt": "animal-x-aragami-no-ichizoku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Satsujin yo Konnichiwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/48905.jpg",
+        "alt": "satsujin-yo-konnichiwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

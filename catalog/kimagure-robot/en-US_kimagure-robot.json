@@ -1,5 +1,9 @@
 {
     "title": "Kimagure Robot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1210/112166.jpg",
+        "alt": "kimagure-robot"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "きまぐれロボット",

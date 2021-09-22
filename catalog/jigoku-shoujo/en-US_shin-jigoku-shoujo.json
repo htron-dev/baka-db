@@ -1,5 +1,9 @@
 {
     "title": "Shin Jigoku Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162280.jpg",
+        "alt": "shin-jigoku-shoujo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Tosca no Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238188.jpg",
+        "alt": "tosca-no-inu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

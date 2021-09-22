@@ -1,5 +1,9 @@
 {
     "title": "Zelda no Densetsu: Toki no Ocarina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/126027.jpg",
+        "alt": "zelda-no-densetsu-toki-no-ocarina"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

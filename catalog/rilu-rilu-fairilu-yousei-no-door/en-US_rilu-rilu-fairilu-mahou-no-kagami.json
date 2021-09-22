@@ -1,12 +1,16 @@
 {
     "title": "Rilu Rilu Fairilu: Mahou no Kagami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/84497.jpg",
+        "alt": "rilu-rilu-fairilu-mahou-no-kagami"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "リルリルフェアリル ~魔法の鏡~",
     "start_date": "2017-04-07",
     "end_date": "2017-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Papipupe Pon!\" (ぱぴぷぺ PON!) by Apink \"(eps 1-38)\"",
+    "ending_song": "#1: \"Onegai Rosie (Rilu Rilu Fairilu Ver.) (お願いロジー (リルリルフェアリル Ver.))\" by Q-pitch \"(eps 1-26)\"",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

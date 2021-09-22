@@ -1,5 +1,9 @@
 {
     "title": "B.O.D.Y.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176498.jpg",
+        "alt": "b-o-d-y"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "62",

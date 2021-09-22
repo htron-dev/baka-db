@@ -1,5 +1,9 @@
 {
     "title": "Midnight Bloom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35450.jpg",
+        "alt": "midnight-bloom"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

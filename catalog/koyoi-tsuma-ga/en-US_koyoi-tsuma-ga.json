@@ -1,5 +1,9 @@
 {
     "title": "Koyoi, Tsuma ga.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226615.jpg",
+        "alt": "koyoi-tsuma-ga"
+    },
     "type": "manga",
     "original_name": "今宵、妻が。",
     "start_date": "2015-04-10",

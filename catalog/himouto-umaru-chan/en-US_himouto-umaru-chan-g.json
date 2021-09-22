@@ -1,5 +1,9 @@
 {
     "title": "Himouto! Umaru-chan G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210505.jpg",
+        "alt": "himouto-umaru-chan-g"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

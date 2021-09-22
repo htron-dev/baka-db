@@ -1,5 +1,9 @@
 {
     "title": "Houkago Bitchcraft",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217774.jpg",
+        "alt": "houkago-bitchcraft"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

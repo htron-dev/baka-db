@@ -1,5 +1,9 @@
 {
     "title": "Cosmic Color",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/132511.jpg",
+        "alt": "cosmic-color"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

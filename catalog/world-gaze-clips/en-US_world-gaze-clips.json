@@ -1,5 +1,9 @@
 {
     "title": "World Gaze Clips",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188987.jpg",
+        "alt": "world-gaze-clips"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

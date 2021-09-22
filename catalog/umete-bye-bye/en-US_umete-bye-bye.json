@@ -1,5 +1,9 @@
 {
     "title": "Umete, Bye-Bye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1041/102952.jpg",
+        "alt": "umete-bye-bye"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "埋めて、バイバイ",

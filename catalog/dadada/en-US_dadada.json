@@ -1,5 +1,9 @@
 {
     "title": "Dadada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209867.jpg",
+        "alt": "dadada"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

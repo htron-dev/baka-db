@@ -1,5 +1,9 @@
 {
     "title": "Night Wizard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75604.jpg",
+        "alt": "night-wizard"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ナイトウィザード",

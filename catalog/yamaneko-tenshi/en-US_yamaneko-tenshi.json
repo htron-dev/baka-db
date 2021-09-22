@@ -1,5 +1,9 @@
 {
     "title": "Yamaneko Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150497.jpg",
+        "alt": "yamaneko-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "山猫天使",

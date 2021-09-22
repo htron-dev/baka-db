@@ -1,5 +1,9 @@
 {
     "title": "Akagi: Yami ni Oritatta Tensai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191155.jpg",
+        "alt": "akagi-yami-ni-oritatta-tensai"
+    },
     "type": "manga",
     "volumes": "36",
     "chapters": "306",

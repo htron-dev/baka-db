@@ -1,5 +1,9 @@
 {
     "title": "Bijutsu Kyouiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1209/104385.jpg",
+        "alt": "bijutsu-kyouiku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "美術教育",

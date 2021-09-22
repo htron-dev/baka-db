@@ -1,5 +1,9 @@
 {
     "title": "Möbius Dust",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1787/99629.jpg",
+        "alt": "mobius-dust"
+    },
     "type": "tv-serie",
     "original_name": "メビウス・ダスト",
     "rating": "None",

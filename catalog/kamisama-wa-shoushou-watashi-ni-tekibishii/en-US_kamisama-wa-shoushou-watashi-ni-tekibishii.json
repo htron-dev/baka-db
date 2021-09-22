@@ -1,5 +1,9 @@
 {
     "title": "Kamisama wa Shoushou Watashi ni Tekibishii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190272.jpg",
+        "alt": "kamisama-wa-shoushou-watashi-ni-tekibishii"
+    },
     "type": "light-novel",
     "original_name": "神様は少々私に手厳しい",
     "start_date": "2017-01-18",

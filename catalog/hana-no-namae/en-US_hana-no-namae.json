@@ -1,5 +1,9 @@
 {
     "title": "Hana no Namae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178420.jpg",
+        "alt": "hana-no-namae"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

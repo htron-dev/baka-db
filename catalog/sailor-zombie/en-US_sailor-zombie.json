@@ -1,5 +1,9 @@
 {
     "title": "Sailor Zombie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165183.jpg",
+        "alt": "sailor-zombie"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

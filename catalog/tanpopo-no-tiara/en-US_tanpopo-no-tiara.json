@@ -1,5 +1,9 @@
 {
     "title": "Tanpopo no Tiara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65075.jpg",
+        "alt": "tanpopo-no-tiara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

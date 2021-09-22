@@ -1,5 +1,9 @@
 {
     "title": "Gokusai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149894.jpg",
+        "alt": "gokusai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "42",

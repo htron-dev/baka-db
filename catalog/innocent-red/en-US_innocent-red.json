@@ -1,5 +1,9 @@
 {
     "title": "Innocent Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162087.jpg",
+        "alt": "innocent-red"
+    },
     "type": "light-novel",
     "original_name": "イノセントレッド",
     "start_date": "2015-07-31",

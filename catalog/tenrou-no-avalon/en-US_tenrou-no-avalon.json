@@ -1,5 +1,9 @@
 {
     "title": "Tenrou no Avalon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217090.jpg",
+        "alt": "tenrou-no-avalon"
+    },
     "type": "manga",
     "original_name": "天牢のアヴァロン",
     "start_date": "2018-03-22",

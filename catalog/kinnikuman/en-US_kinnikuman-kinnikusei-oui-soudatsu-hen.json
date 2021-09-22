@@ -1,5 +1,9 @@
 {
     "title": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1877/105621.jpg",
+        "alt": "kinnikuman-kinnikusei-oui-soudatsu-hen"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "キン肉マン　キン肉星王位争奪編",

@@ -1,5 +1,9 @@
 {
     "title": "Zutto Kimi wo Matteita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172228.jpg",
+        "alt": "zutto-kimi-wo-matteita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ずっと君を待っていた",

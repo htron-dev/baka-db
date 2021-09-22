@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama wo Tsukamaero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153497.jpg",
+        "alt": "ouji-sama-wo-tsukamaero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

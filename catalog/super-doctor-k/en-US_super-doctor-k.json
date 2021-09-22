@@ -1,5 +1,9 @@
 {
     "title": "Super Doctor K",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152916.jpg",
+        "alt": "super-doctor-k"
+    },
     "type": "manga",
     "volumes": "44",
     "original_name": "スーパードクター K",

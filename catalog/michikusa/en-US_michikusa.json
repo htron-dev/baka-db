@@ -1,5 +1,9 @@
 {
     "title": "Michikusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187945.jpg",
+        "alt": "michikusa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

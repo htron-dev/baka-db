@@ -1,5 +1,9 @@
 {
     "title": "Gunslinger Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/3088.jpg",
+        "alt": "gunslinger-girl"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ガンスリンガー・ガール",

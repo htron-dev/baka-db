@@ -1,5 +1,9 @@
 {
     "title": "Okitsune-sama wa Tawamuretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204963.jpg",
+        "alt": "okitsune-sama-wa-tawamuretai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

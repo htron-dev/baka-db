@@ -1,5 +1,9 @@
 {
     "title": "Kunoichi Kenzan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151913.jpg",
+        "alt": "kunoichi-kenzan"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "くノ一見参！",

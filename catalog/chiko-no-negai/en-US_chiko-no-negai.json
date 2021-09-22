@@ -1,5 +1,9 @@
 {
     "title": "Chiko no Negai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4693.jpg",
+        "alt": "chiko-no-negai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

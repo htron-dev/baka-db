@@ -1,5 +1,9 @@
 {
     "title": "Higasa-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224393.jpg",
+        "alt": "higasa-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "34",

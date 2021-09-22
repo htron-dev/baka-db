@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest Retsuden: Roto no Monshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133283.jpg",
+        "alt": "dragon-quest-retsuden-roto-no-monshou"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "86",

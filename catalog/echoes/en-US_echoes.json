@@ -1,5 +1,9 @@
 {
     "title": "Echoes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189625.jpg",
+        "alt": "echoes"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

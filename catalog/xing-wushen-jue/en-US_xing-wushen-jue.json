@@ -1,5 +1,9 @@
 {
     "title": "Xing Wushen Jue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1883/111365.jpg",
+        "alt": "xing-wushen-jue"
+    },
     "type": "ona",
     "episodes": "40",
     "original_name": "星武神诀",

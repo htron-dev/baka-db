@@ -1,5 +1,9 @@
 {
     "title": "Sono Suki no Yukue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224934.jpg",
+        "alt": "sono-suki-no-yukue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

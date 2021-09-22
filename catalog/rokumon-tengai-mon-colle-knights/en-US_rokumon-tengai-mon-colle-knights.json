@@ -1,12 +1,16 @@
 {
     "title": "Rokumon Tengai Mon Colle Knights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/17055.jpg",
+        "alt": "rokumon-tengai-mon-colle-knights"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "六門天外モンコレナイト",
     "start_date": "2000-01-10",
     "end_date": "2000-01-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Just Fly Away\" by Chihiro Yonekura (eps 1-26)",
+    "ending_song": "#1: \"Sweet True Love\" by Chihiro Yonekura (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

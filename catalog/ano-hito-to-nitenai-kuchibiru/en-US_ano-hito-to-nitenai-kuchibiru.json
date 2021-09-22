@@ -1,5 +1,9 @@
 {
     "title": "Ano Hito to Nitenai Kuchibiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30928.jpg",
+        "alt": "ano-hito-to-nitenai-kuchibiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

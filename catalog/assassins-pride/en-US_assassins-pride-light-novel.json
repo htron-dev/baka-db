@@ -1,5 +1,9 @@
 {
     "title": "Assassins Pride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190010.jpg",
+        "alt": "assassins-pride"
+    },
     "type": "light-novel",
     "original_name": "アサシンズプライド",
     "start_date": "2016-01-20",

@@ -1,5 +1,9 @@
 {
     "title": "Les Bijoux",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191944.jpg",
+        "alt": "les-bijoux"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "32",

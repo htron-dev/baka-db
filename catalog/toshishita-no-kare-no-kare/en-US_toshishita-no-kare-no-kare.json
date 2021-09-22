@@ -1,5 +1,9 @@
 {
     "title": "Toshishita no Kare no Kare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224457.jpg",
+        "alt": "toshishita-no-kare-no-kare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

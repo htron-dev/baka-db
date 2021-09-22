@@ -1,5 +1,9 @@
 {
     "title": "Dappys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85616.jpg",
+        "alt": "dappys"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "ダッピィズ",

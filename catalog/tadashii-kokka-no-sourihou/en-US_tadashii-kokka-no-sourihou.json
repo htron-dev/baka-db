@@ -1,5 +1,9 @@
 {
     "title": "Tadashii Kokka no Sourihou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9207.jpg",
+        "alt": "tadashii-kokka-no-sourihou"
+    },
     "type": "manga",
     "original_name": "正しい国家の創り方。",
     "start_date": "2008-01-09",

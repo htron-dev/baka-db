@@ -1,5 +1,9 @@
 {
     "title": "Futari Ecchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/20029.jpg",
+        "alt": "futari-ecchi"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ふたりエッチ",

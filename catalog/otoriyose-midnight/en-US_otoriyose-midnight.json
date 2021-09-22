@@ -1,5 +1,9 @@
 {
     "title": "Otoriyose Midnight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176346.jpg",
+        "alt": "otoriyose-midnight"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

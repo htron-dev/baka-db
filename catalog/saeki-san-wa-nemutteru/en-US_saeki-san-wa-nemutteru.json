@@ -1,5 +1,9 @@
 {
     "title": "Saeki-san wa Nemutteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217795.jpg",
+        "alt": "saeki-san-wa-nemutteru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "52",

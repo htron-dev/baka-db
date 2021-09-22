@@ -1,5 +1,9 @@
 {
     "title": "Idol wo Mamoru dake no Kantan na Oshigoto.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165130.jpg",
+        "alt": "idol-wo-mamoru-dake-no-kantan-na-oshigoto"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アイドルを守るだけの簡単なおしごと。",

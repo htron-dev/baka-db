@@ -1,5 +1,9 @@
 {
     "title": "GGG",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189624.jpg",
+        "alt": "ggg"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

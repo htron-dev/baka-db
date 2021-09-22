@@ -1,5 +1,9 @@
 {
     "title": "Tsuratsurawaraji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36174.jpg",
+        "alt": "tsuratsurawaraji"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "つらつらわらじ ～備前熊田家参勤絵巻～",

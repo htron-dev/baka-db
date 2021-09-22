@@ -1,5 +1,9 @@
 {
     "title": "Rich wa Shizuka ni Kurashitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173365.jpg",
+        "alt": "rich-wa-shizuka-ni-kurashitai"
+    },
     "type": "light-novel",
     "original_name": "リッチは静かに暮らしたい",
     "start_date": "2016-03-15",

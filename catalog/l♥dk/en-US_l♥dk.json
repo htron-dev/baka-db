@@ -1,5 +1,9 @@
 {
     "title": "L♥DK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199339.jpg",
+        "alt": "l♥dk"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "98",

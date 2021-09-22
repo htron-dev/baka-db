@@ -1,5 +1,9 @@
 {
     "title": "Girls Go Around",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118685.jpg",
+        "alt": "girls-go-around"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Umi no Aurora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90889.jpg",
+        "alt": "umi-no-aurora"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "海のオーロラ",

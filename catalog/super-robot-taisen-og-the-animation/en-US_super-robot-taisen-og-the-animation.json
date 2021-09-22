@@ -1,12 +1,16 @@
 {
     "title": "Super Robot Taisen OG The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/24378.jpg",
+        "alt": "super-robot-taisen-og-the-animation"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "スーパーロボット大戦 ORIGINAL GENERATION THE ANIMATION",
     "start_date": "2005-05-27",
     "end_date": "2005-05-27",
     "opening_song": "\"Meikyuu no Prisoner\" by JAM Project",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Protect you\" by JAM Project featuring Endoh Masaaki and Okui Masami",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mecha",

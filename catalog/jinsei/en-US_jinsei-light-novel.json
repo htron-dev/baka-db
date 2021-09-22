@@ -1,5 +1,9 @@
 {
     "title": "Jinsei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159511.jpg",
+        "alt": "jinsei"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "84",

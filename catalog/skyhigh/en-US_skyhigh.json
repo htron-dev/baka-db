@@ -1,5 +1,9 @@
 {
     "title": "Skyhigh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133013.jpg",
+        "alt": "skyhigh"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

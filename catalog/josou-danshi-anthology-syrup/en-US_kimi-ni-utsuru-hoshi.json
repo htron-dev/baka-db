@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Utsuru Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88479.jpg",
+        "alt": "kimi-ni-utsuru-hoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

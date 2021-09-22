@@ -1,5 +1,9 @@
 {
     "title": "Tsubame to Umi to Dolce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227623.jpg",
+        "alt": "tsubame-to-umi-to-dolce"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Manga Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159401.jpg",
+        "alt": "manga-yuugi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "まんが遊戯",

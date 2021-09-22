@@ -1,5 +1,9 @@
 {
     "title": "Gift: Eternal Rainbow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75540.jpg",
+        "alt": "gift-eternal-rainbow"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ギフト～ eternal rainbow",

@@ -1,5 +1,9 @@
 {
     "title": "Sankarea: All Night Rea Long",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126653.jpg",
+        "alt": "sankarea-all-night-rea-long"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

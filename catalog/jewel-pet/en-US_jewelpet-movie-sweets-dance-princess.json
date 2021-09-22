@@ -1,5 +1,9 @@
 {
     "title": "Jewelpet Movie: Sweets Dance Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1234/96592.jpg",
+        "alt": "jewelpet-movie-sweets-dance-princess"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画ジュエルペット スウィーツダンスプリンセス",

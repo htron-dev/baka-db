@@ -1,5 +1,9 @@
 {
     "title": "Bachi☆Bachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/47003.jpg",
+        "alt": "bachi☆-bachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

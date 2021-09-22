@@ -1,5 +1,9 @@
 {
     "title": "Chibimono - Chibi no Mononoke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10162.jpg",
+        "alt": "chibimono-chibi-no-mononoke"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

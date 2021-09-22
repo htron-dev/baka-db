@@ -1,5 +1,9 @@
 {
     "title": "Shinryaku! Ika Musume Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/27364.jpg",
+        "alt": "shinryaku-ika-musume-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "侵略!イカ娘 ミニイカ娘の番外編",

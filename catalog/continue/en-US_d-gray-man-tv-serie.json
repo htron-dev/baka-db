@@ -1,12 +1,16 @@
 {
     "title": "D.Gray-man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75194.jpg",
+        "alt": "d-gray-man"
+    },
     "type": "tv-serie",
     "episodes": "103",
     "original_name": "ディー・グレイマン",
     "start_date": "2006-10-03",
     "end_date": "2006-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"INNOCENT SORROW\" by abingdon boys school (eps 1-25)",
+    "ending_song": "#1: \"Snow Kiss\" by NIRGILIS (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

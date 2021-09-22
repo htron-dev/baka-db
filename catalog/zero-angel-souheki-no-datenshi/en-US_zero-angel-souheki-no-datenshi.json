@@ -1,5 +1,9 @@
 {
     "title": "Zero Angel: Souheki no Datenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181338.jpg",
+        "alt": "zero-angel-souheki-no-datenshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

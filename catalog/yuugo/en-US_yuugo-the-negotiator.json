@@ -1,5 +1,9 @@
 {
     "title": "Yuugo: The Negotiator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180339.jpg",
+        "alt": "yuugo-the-negotiator"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "187",

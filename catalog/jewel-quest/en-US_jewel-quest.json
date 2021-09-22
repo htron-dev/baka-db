@@ -1,5 +1,9 @@
 {
     "title": "Jewel Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15201.jpg",
+        "alt": "jewel-quest"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ジュエル￥クエスト",

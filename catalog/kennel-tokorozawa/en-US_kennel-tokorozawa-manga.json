@@ -1,5 +1,9 @@
 {
     "title": "Kennel Tokorozawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230280.jpg",
+        "alt": "kennel-tokorozawa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "81",

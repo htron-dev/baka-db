@@ -1,5 +1,9 @@
 {
     "title": "Sora ni Kaketa Melody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163476.jpg",
+        "alt": "sora-ni-kaketa-melody"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "空に欠けた旋律〈メロディ〉",

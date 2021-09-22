@@ -1,5 +1,9 @@
 {
     "title": "Mokke Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/7761.jpg",
+        "alt": "mokke-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "もっけ",

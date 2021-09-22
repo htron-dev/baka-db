@@ -1,5 +1,9 @@
 {
     "title": "Suzumiya Haruhi no Shoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1248/112352.jpg",
+        "alt": "suzumiya-haruhi-no-shoushitsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "涼宮ハルヒの消失",

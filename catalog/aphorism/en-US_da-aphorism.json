@@ -1,5 +1,9 @@
 {
     "title": "Da Aphorism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226825.jpg",
+        "alt": "da-aphorism"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "堕アホリズム",

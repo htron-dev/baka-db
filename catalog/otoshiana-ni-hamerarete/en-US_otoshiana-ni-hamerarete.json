@@ -1,5 +1,9 @@
 {
     "title": "Otoshiana ni Hamerarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186558.jpg",
+        "alt": "otoshiana-ni-hamerarete"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "落とし穴にハメられて",

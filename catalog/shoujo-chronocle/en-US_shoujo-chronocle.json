@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Chronocle.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200335.jpg",
+        "alt": "shoujo-chronocle"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "少女クロノクル。",

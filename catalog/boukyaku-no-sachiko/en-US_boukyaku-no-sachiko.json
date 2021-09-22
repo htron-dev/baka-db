@@ -1,5 +1,9 @@
 {
     "title": "Boukyaku no Sachiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168423.jpg",
+        "alt": "boukyaku-no-sachiko"
+    },
     "type": "manga",
     "original_name": "忘却のサチコ",
     "start_date": "2014-08-11",

@@ -1,11 +1,15 @@
 {
     "title": "Master Mosquiton '99",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1806.jpg",
+        "alt": "master-mosquiton-99"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "マスターモスキートン'99",
     "start_date": "1997-09-30",
     "end_date": "1997-09-30",
-    "opening_song": "#1",
+    "opening_song": "#1: \"The Power of Love\" by Cyber Nation Network (eps 1-13)",
     "ending_song": "\"Chizu ni Nai Mirai (地図にない未来)\" by Yuka Imai",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

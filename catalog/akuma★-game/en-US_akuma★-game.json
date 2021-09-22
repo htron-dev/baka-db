@@ -1,5 +1,9 @@
 {
     "title": "Akuma★Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65683.jpg",
+        "alt": "akuma★-game"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

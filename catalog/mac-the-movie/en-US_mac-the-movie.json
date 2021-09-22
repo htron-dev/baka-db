@@ -1,5 +1,9 @@
 {
     "title": "Mac the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/72633.jpg",
+        "alt": "mac-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マック･ザ･ムービー",

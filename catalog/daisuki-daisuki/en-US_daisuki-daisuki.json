@@ -1,5 +1,9 @@
 {
     "title": "Daisuki Daisuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27458.jpg",
+        "alt": "daisuki-daisuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Makyou Senku no Nightingale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163492.jpg",
+        "alt": "makyou-senku-no-nightingale"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

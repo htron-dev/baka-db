@@ -1,5 +1,9 @@
 {
     "title": "Nibiiro no Chameleon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222040.jpg",
+        "alt": "nibiiro-no-chameleon"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

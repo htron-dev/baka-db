@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Moon Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212656.jpg",
+        "alt": "kidou-senshi-moon-gundam"
+    },
     "type": "manga",
     "original_name": "機動戦士ムーンガンダム",
     "start_date": "2017-09-26",

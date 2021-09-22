@@ -1,5 +1,9 @@
 {
     "title": "Yurihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208370.jpg",
+        "alt": "yurihime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

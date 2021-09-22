@@ -1,5 +1,9 @@
 {
     "title": "Shoujozame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134081.jpg",
+        "alt": "shoujozame"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "少女鮫",

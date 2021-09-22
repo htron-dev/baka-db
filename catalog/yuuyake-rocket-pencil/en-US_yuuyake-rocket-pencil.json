@@ -1,5 +1,9 @@
 {
     "title": "Yuuyake Rocket Pencil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57431.jpg",
+        "alt": "yuuyake-rocket-pencil"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

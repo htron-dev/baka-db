@@ -1,5 +1,9 @@
 {
     "title": "Mai no Mushigurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203915.jpg",
+        "alt": "mai-no-mushigurashi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "34",

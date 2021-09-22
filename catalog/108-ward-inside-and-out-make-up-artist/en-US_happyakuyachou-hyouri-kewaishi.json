@@ -1,5 +1,9 @@
 {
     "title": "Happyakuyachou Hyouri Kewaishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/32257.jpg",
+        "alt": "happyakuyachou-hyouri-kewaishi"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "八百八町表裏 化粧師",

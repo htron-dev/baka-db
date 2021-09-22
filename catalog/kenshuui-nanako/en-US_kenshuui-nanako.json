@@ -1,5 +1,9 @@
 {
     "title": "Kenshuui Nanako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223237.jpg",
+        "alt": "kenshuui-nanako"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "80",

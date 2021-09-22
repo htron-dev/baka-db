@@ -1,5 +1,9 @@
 {
     "title": "Sis: Himitsu no Koigokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128107.jpg",
+        "alt": "sis-himitsu-no-koigokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

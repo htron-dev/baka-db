@@ -1,5 +1,9 @@
 {
     "title": "Zettai Tenshoku Shitai ndesu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190044.jpg",
+        "alt": "zettai-tenshoku-shitai-ndesu"
+    },
     "type": "light-novel",
     "original_name": "ぜったい転職したいんです!!",
     "start_date": "2017-02-15",

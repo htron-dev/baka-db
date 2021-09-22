@@ -1,5 +1,9 @@
 {
     "title": "Kare wa Diablo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32252.jpg",
+        "alt": "kare-wa-diablo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Kirara Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/89006.jpg",
+        "alt": "kirara-fantasia"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "きららファンタジア",

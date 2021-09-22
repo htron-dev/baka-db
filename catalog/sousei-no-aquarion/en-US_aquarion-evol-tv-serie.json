@@ -1,12 +1,16 @@
 {
     "title": "Aquarion Evol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/72743.jpg",
+        "alt": "aquarion-evol"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アクエリオン EVOL",
     "start_date": "2012-01-09",
     "end_date": "2012-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kimi no Shinwa ~ Aquarion Dai Ni Shou (君の神話〜アクエリオン第二章)\" by AKINO with bless4 (eps 1-15)",
+    "ending_song": "#1: \"Gekkou Symphonia (月光シンフォニア)\"by AKINO & AIKI from bless4 (eps 1-14, 23)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

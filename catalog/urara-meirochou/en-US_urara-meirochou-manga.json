@@ -1,5 +1,9 @@
 {
     "title": "Urara Meirochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219613.jpg",
+        "alt": "urara-meirochou"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "69",

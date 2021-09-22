@@ -1,5 +1,9 @@
 {
     "title": "Harukanaru Toki no Naka de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186105.jpg",
+        "alt": "harukanaru-toki-no-naka-de"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "97",

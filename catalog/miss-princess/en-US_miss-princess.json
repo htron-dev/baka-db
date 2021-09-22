@@ -1,5 +1,9 @@
 {
     "title": "Miss Princess!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186616.jpg",
+        "alt": "miss-princess"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

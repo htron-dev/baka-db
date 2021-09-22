@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Hiniku na Kirakira Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/218557.jpg",
+        "alt": "kimi-wa-hiniku-na-kirakira-hoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Rewrite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169761.jpg",
+        "alt": "hatsukoi-rewrite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "初恋リライト",

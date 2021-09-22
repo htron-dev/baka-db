@@ -1,5 +1,9 @@
 {
     "title": "Anata no Mune ni Kaeru Hi made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/69847.jpg",
+        "alt": "anata-no-mune-ni-kaeru-hi-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

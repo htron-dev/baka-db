@@ -1,12 +1,16 @@
 {
     "title": "Tegamibachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71808.jpg",
+        "alt": "tegamibachi"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "テガミバチ",
     "start_date": "2009-10-03",
     "end_date": "2009-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hajimari no Hi (はじまりの日; Day of Beginnings)\" by Suga Shikao feat. Mummy-D (eps 1-13)",
+    "ending_song": "#1: \"Hatenaki Michi (果てなき道; Endless Road)\" by HIMEKA (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Gikochinai kedo Ai Darou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/84701.jpg",
+        "alt": "gikochinai-kedo-ai-darou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

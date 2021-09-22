@@ -1,5 +1,9 @@
 {
     "title": "Boku no Chikyuu wo Mamotte Tribute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35997.jpg",
+        "alt": "boku-no-chikyuu-wo-mamotte-tribute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

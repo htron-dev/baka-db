@@ -1,5 +1,9 @@
 {
     "title": "Osen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/161985.jpg",
+        "alt": "osen"
+    },
     "type": "manga",
     "volumes": "16",
     "original_name": "おせん",

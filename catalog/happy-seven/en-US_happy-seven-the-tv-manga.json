@@ -1,12 +1,16 @@
 {
     "title": "Happy Seven: The TV Manga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/5509.jpg",
+        "alt": "happy-seven-the-tv-manga"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "はっぴぃセブン ～ざ・テレビまんが～",
     "start_date": "2005-10-02",
     "end_date": "2005-10-02",
     "opening_song": "\"Akiramenaide\" by Little Non (eps 1-13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"funny girl\" by YUKA (eps 1-8, 10-12)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

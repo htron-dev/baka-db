@@ -1,12 +1,16 @@
 {
     "title": "The iDOLM@STER SideM",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88467.jpg",
+        "alt": "the-i-dolm-ster-side-m"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "アイドルマスター SideM",
     "start_date": "2017-10-07",
     "end_date": "2017-10-07",
     "opening_song": "\"Reason!!\" by 315 STARS (DRAMATIC STARS, Beit, S.E.M, High×Joker, W, Jupiter)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"DRIVE A LIVE\" by DRAMATIC STARS (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music"

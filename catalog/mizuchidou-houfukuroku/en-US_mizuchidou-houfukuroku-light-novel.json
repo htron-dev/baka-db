@@ -1,5 +1,9 @@
 {
     "title": "Mizuchidou Houfukuroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168576.jpg",
+        "alt": "mizuchidou-houfukuroku"
+    },
     "type": "light-novel",
     "volumes": "9",
     "original_name": "蛟堂報復録",

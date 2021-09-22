@@ -1,5 +1,9 @@
 {
     "title": "Yami wo Tsugumono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41027.jpg",
+        "alt": "yami-wo-tsugumono"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "闇を継ぐもの",

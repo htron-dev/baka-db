@@ -1,5 +1,9 @@
 {
     "title": "Cross City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123993.jpg",
+        "alt": "cross-city"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "交錯都市(クロスシティ)",

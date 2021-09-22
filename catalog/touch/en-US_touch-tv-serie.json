@@ -1,12 +1,16 @@
 {
     "title": "Touch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/53087.jpg",
+        "alt": "touch"
+    },
     "type": "tv-serie",
     "episodes": "101",
     "original_name": "タッチ",
     "start_date": "1985-03-24",
     "end_date": "1985-03-24",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Touch\" by Yoshimi Iwasaki (eps 1-27)",
+    "ending_song": "#1: \"Kimi ga Inakereba\" by Yoshimi Iwasaki (eps 1-27)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Touch_(manga"
+            "link": "https://en.wikipedia.org/wiki/Touch_%28manga%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Toaru Ohimesama no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210982.jpg",
+        "alt": "toaru-ohimesama-no-hanashi"
+    },
     "type": "manga",
     "original_name": "とあるお姫さまのはなし",
     "start_date": "2017-11-24",

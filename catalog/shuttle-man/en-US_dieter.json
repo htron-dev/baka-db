@@ -1,5 +1,9 @@
 {
     "title": "Dieter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204783.jpg",
+        "alt": "dieter"
+    },
     "type": "manhwa",
     "volumes": "3",
     "original_name": "다이어터",

@@ -1,5 +1,9 @@
 {
     "title": "Jupiter ni Onegai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212072.jpg",
+        "alt": "jupiter-ni-onegai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

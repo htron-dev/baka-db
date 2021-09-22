@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Ore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1439/91893.jpg",
+        "alt": "mahou-shoujo-ore"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔法少女 俺",

@@ -1,5 +1,9 @@
 {
     "title": "Rojiura Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165570.jpg",
+        "alt": "rojiura-brothers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "39",

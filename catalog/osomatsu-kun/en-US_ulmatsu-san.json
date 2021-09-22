@@ -1,5 +1,9 @@
 {
     "title": "Ulmatsu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241177.jpg",
+        "alt": "ulmatsu-san"
+    },
     "type": "manga",
     "original_name": "ウル松さん",
     "start_date": "2019-03-15",

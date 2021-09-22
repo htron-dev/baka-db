@@ -1,5 +1,9 @@
 {
     "title": "Goku Sayonara Zetsubou Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/14336.jpg",
+        "alt": "goku-sayonara-zetsubou-sensei"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "獄・さよなら絶望先生",

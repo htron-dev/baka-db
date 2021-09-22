@@ -1,5 +1,9 @@
 {
     "title": "500-nen no Itonami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72559.jpg",
+        "alt": "500-nen-no-itonami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Salad Bowl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219483.jpg",
+        "alt": "salad-bowl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Himachi no Jouou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225946.jpg",
+        "alt": "himachi-no-jouou"
+    },
     "type": "manga",
     "original_name": "ヒマチの嬢王",
     "start_date": "2018-07-26",

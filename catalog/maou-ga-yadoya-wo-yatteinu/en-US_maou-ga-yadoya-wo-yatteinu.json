@@ -1,5 +1,9 @@
 {
     "title": "Maou ga Yadoya wo Yatteinu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204900.jpg",
+        "alt": "maou-ga-yadoya-wo-yatteinu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Anzu no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194582.jpg",
+        "alt": "anzu-no-majo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "杏の魔女",

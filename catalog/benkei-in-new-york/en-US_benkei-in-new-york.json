@@ -1,5 +1,9 @@
 {
     "title": "Benkei in New York",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143297.jpg",
+        "alt": "benkei-in-new-york"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

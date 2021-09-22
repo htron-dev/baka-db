@@ -1,5 +1,9 @@
 {
     "title": "Revery Earth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/68509.jpg",
+        "alt": "revery-earth"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

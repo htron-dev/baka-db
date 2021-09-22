@@ -1,5 +1,9 @@
 {
     "title": "LIttLE 13",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171489.jpg",
+        "alt": "l-itt-le-13"
+    },
     "type": "manga",
     "chapters": "13",
     "original_name": "LIttLE13",

@@ -1,5 +1,9 @@
 {
     "title": "Top wo Nerae! Next Generation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34128.jpg",
+        "alt": "top-wo-nerae-next-generation"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "トップをねらえ! NeXT GENERATION",

@@ -1,5 +1,9 @@
 {
     "title": "Karakuri no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1658.jpg",
+        "alt": "karakuri-no-kimi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "からくりの君",

@@ -1,5 +1,9 @@
 {
     "title": "Kedamono no Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/66493.jpg",
+        "alt": "kedamono-no-arashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

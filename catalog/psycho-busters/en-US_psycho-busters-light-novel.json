@@ -1,5 +1,9 @@
 {
     "title": "Psycho Busters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162603.jpg",
+        "alt": "psycho-busters"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "サイコバスターズ",

@@ -1,5 +1,9 @@
 {
     "title": "Scarecrow: Ice Station",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34057.jpg",
+        "alt": "scarecrow-ice-station"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "スケアクロウ―死闘!南極基地を防衛せよ",

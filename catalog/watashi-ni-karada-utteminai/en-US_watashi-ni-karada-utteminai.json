@@ -1,5 +1,9 @@
 {
     "title": "Watashi ni Karada, Utteminai?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234635.jpg",
+        "alt": "watashi-ni-karada-utteminai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

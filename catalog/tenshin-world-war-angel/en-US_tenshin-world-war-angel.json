@@ -1,5 +1,9 @@
 {
     "title": "Tenshin: World War Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104513.jpg",
+        "alt": "tenshin-world-war-angel"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

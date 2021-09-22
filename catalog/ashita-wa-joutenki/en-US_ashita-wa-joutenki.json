@@ -1,5 +1,9 @@
 {
     "title": "Ashita wa Joutenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2197.jpg",
+        "alt": "ashita-wa-joutenki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

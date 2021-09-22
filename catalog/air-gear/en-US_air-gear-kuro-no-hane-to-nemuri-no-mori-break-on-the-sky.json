@@ -1,11 +1,15 @@
 {
     "title": "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74158.jpg",
+        "alt": "air-gear-kuro-no-hane-to-nemuri-no-mori-break-on-the-sky"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "エア・ギア 黒の羽と眠りの森 -Break on the Sky-",
     "start_date": "2010-11-17",
     "end_date": "2010-11-17",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Forest walker\" by a flood of circle (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

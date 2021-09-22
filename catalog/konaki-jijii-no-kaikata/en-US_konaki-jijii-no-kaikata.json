@@ -1,5 +1,9 @@
 {
     "title": "Konaki Jijii no Kaikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196564.jpg",
+        "alt": "konaki-jijii-no-kaikata"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

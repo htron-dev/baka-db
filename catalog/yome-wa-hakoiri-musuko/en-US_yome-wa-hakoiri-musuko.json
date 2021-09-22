@@ -1,5 +1,9 @@
 {
     "title": "Yome wa Hakoiri Musuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237970.jpg",
+        "alt": "yome-wa-hakoiri-musuko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

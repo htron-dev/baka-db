@@ -1,5 +1,9 @@
 {
     "title": "Koiji Sen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31817.jpg",
+        "alt": "koiji-sen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

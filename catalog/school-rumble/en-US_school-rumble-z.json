@@ -1,5 +1,9 @@
 {
     "title": "School Rumble Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22036.jpg",
+        "alt": "school-rumble-z"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

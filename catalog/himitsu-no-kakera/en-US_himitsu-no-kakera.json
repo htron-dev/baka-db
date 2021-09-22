@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Kakera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149788.jpg",
+        "alt": "himitsu-no-kakera"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

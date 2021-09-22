@@ -1,5 +1,9 @@
 {
     "title": "Checkmate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90373.jpg",
+        "alt": "checkmate"
+    },
     "type": "manhwa",
     "original_name": "체크메이트",
     "tags": [

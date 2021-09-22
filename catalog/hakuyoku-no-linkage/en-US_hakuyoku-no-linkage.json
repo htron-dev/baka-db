@@ -1,5 +1,9 @@
 {
     "title": "Hakuyoku no Linkage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133323.jpg",
+        "alt": "hakuyoku-no-linkage"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "白翼のリンケージ",

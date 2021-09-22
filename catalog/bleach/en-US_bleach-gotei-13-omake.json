@@ -1,5 +1,9 @@
 {
     "title": "Bleach: Gotei 13 Omake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1260/97246.jpg",
+        "alt": "bleach-gotei-13-omake"
+    },
     "type": "special",
     "episodes": "1",
     "start_date": "2005-06-12",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Bleach_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Bleach_%28TV_series%29"
         }
     ]
 }

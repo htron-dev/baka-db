@@ -1,5 +1,9 @@
 {
     "title": "Sky Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/22733.jpg",
+        "alt": "sky-girls"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "スカイガールズ",

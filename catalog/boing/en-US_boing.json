@@ -1,5 +1,9 @@
 {
     "title": "Boing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232476.jpg",
+        "alt": "boing"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "84",

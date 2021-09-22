@@ -1,5 +1,9 @@
 {
     "title": "Chainsaw Bunny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1817/93467.jpg",
+        "alt": "chainsaw-bunny"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "CHAINSAW BUNNY",

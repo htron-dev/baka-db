@@ -1,5 +1,9 @@
 {
     "title": "ARK:Romancer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140309.jpg",
+        "alt": "ark-romancer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

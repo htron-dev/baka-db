@@ -1,5 +1,9 @@
 {
     "title": "Kawareta Pride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232154.jpg",
+        "alt": "kawareta-pride"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "買われたプライド",

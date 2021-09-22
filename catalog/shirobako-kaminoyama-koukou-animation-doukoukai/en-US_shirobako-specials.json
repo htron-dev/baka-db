@@ -1,12 +1,16 @@
 {
     "title": "Shirobako Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/72234.jpg",
+        "alt": "shirobako-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "SHIROBAKO 劇中劇アニメーション",
     "start_date": "2015-02-25",
     "end_date": "2015-02-25",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"I'm Sorry EXODUS (あいむそーりー EXODUS)\" by Tracy (トレイシー) (Mai Nakahara, Shizuka Itou, Ai Kayano) (ep 1)",
+    "ending_song": "#1: \"C Melo kara Ai wo Komete (C メロから愛を込めて)\" by Akane (Mai Nakahara) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

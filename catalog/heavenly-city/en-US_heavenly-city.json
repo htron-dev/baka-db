@@ -1,5 +1,9 @@
 {
     "title": "Heavenly City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/55537.jpg",
+        "alt": "heavenly-city"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "Heavenly City",

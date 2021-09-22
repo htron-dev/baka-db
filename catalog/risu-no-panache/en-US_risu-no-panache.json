@@ -1,5 +1,9 @@
 {
     "title": "Risu no Panache",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71584.jpg",
+        "alt": "risu-no-panache"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "りすのパナシ",

@@ -1,5 +1,9 @@
 {
     "title": "Sita Wihayeo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1180/107339.jpg",
+        "alt": "sita-wihayeo"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "시타를 위하여",

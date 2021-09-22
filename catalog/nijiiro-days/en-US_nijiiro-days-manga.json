@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192780.jpg",
+        "alt": "nijiiro-days"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "80",

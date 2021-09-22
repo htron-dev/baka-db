@@ -1,5 +1,9 @@
 {
     "title": "Toppuku Kyousou Kyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/61541.jpg",
+        "alt": "toppuku-kyousou-kyoku"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "特攻服(とっぷく) 狂走曲",

@@ -1,5 +1,9 @@
 {
     "title": "Yuugeki Uchuu Senkan Nadesico",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165157.jpg",
+        "alt": "yuugeki-uchuu-senkan-nadesico"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

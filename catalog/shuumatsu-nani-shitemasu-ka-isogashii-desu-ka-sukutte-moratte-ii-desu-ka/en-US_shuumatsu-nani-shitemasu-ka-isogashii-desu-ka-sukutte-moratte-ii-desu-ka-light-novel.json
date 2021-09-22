@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174609.jpg",
+        "alt": "shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "25",

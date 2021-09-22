@@ -1,5 +1,9 @@
 {
     "title": "Koiyami: Midara ni Fureru Yubisaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192058.jpg",
+        "alt": "koiyami-midara-ni-fureru-yubisaki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

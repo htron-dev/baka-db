@@ -1,5 +1,9 @@
 {
     "title": "Rinjin wo Aisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152409.jpg",
+        "alt": "rinjin-wo-aisou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

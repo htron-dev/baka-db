@@ -1,5 +1,9 @@
 {
     "title": "Keitai Shoujo: Triangle Spirits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175948.jpg",
+        "alt": "keitai-shoujo-triangle-spirits"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

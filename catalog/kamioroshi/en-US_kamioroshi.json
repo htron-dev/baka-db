@@ -1,5 +1,9 @@
 {
     "title": "Kamioroshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107789.jpg",
+        "alt": "kamioroshi"
+    },
     "type": "light-novel",
     "original_name": "カミオロシ",
     "start_date": "2011-06-10",

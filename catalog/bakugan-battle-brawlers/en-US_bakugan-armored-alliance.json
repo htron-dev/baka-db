@@ -1,5 +1,9 @@
 {
     "title": "Bakugan: Armored Alliance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
+        "alt": "bakugan-armored-alliance"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "爆丸アーマードアライアンス",

@@ -1,5 +1,9 @@
 {
     "title": "Kajiba no Baka IQ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167459.jpg",
+        "alt": "kajiba-no-baka-iq"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "火事場のバカ IQ",

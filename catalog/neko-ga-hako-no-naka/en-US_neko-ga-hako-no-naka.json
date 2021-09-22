@@ -1,5 +1,9 @@
 {
     "title": "Neko ga Hako no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37723.jpg",
+        "alt": "neko-ga-hako-no-naka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

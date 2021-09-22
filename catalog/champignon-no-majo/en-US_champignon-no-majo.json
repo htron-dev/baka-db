@@ -1,5 +1,9 @@
 {
     "title": "Champignon no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223150.jpg",
+        "alt": "champignon-no-majo"
+    },
     "type": "manga",
     "original_name": "シャンピニオンの魔女",
     "start_date": "2019-10-18",

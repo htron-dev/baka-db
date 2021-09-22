@@ -1,5 +1,9 @@
 {
     "title": "My Fair Neighbor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172438.jpg",
+        "alt": "my-fair-neighbor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

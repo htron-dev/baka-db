@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Sayo-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17020.jpg",
+        "alt": "koisuru-sayo-chan"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "恋するさよちゃん",

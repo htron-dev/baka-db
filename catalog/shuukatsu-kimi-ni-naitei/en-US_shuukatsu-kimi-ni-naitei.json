@@ -1,5 +1,9 @@
 {
     "title": "Shuukatsu!! - Kimi ni Naitei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178231.jpg",
+        "alt": "shuukatsu-kimi-ni-naitei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

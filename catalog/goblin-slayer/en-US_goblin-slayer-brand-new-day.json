@@ -1,5 +1,9 @@
 {
     "title": "Goblin Slayer: Brand New Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215402.jpg",
+        "alt": "goblin-slayer-brand-new-day"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Princess Tutu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1145/93646.jpg",
+        "alt": "princess-tutu"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "プリンセスチュチュ",

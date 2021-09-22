@@ -1,5 +1,9 @@
 {
     "title": "Shiyakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123553.jpg",
+        "alt": "shiyakusho"
+    },
     "type": "manga",
     "original_name": "死役所",
     "start_date": "2013-09-21",

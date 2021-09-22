@@ -1,5 +1,9 @@
 {
     "title": "Suijin no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167987.jpg",
+        "alt": "suijin-no-hanayome"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "45",

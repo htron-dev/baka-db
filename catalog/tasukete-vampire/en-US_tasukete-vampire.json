@@ -1,5 +1,9 @@
 {
     "title": "Tasukete! Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15203.jpg",
+        "alt": "tasukete-vampire"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "たすけて！バンパイア",

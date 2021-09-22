@@ -1,5 +1,9 @@
 {
     "title": "Futari Ashita mo Sorenari ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228699.jpg",
+        "alt": "futari-ashita-mo-sorenari-ni"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "92",

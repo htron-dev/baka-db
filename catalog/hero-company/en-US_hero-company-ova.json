@@ -1,5 +1,9 @@
 {
     "title": "Hero Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/73067.jpg",
+        "alt": "hero-company"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ヒーローカンパニー",

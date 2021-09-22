@@ -1,5 +1,9 @@
 {
     "title": "Hatsukare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4784.jpg",
+        "alt": "hatsukare"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "69",

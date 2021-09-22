@@ -1,5 +1,9 @@
 {
     "title": "Zetsubou Danshi to Chuugoku Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154587.jpg",
+        "alt": "zetsubou-danshi-to-chuugoku-musume"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "77",

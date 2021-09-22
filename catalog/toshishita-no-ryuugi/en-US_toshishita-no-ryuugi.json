@@ -1,5 +1,9 @@
 {
     "title": "Toshishita no Ryuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39552.jpg",
+        "alt": "toshishita-no-ryuugi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

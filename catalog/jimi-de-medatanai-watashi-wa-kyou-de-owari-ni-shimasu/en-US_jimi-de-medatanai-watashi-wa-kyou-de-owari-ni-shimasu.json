@@ -1,5 +1,9 @@
 {
     "title": "Jimi de Medatanai Watashi wa, Kyou de Owari ni Shimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233536.jpg",
+        "alt": "jimi-de-medatanai-watashi-wa-kyou-de-owari-ni-shimasu"
+    },
     "type": "manga",
     "original_name": "地味で目立たない私は、今日で終わりにします。",
     "start_date": "2019-08-05",

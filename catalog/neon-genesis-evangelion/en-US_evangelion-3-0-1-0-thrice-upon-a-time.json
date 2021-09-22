@@ -1,10 +1,14 @@
 {
     "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1422/113533.jpg",
+        "alt": "evangelion-3-0-1-0-thrice-upon-a-time"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "シン・エヴァンゲリオン劇場版",
+    "original_name": "シン・エヴァンゲリオン劇場版:||",
     "start_date": "2021-03-08",
-    "ending_song": "#1",
+    "ending_song": "#1: \"One Last Kiss\" by Hikaru Utada",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

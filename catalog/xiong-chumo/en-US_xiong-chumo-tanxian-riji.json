@@ -1,5 +1,9 @@
 {
     "title": "Xiong Chumo: Tanxian Riji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/90003.jpg",
+        "alt": "xiong-chumo-tanxian-riji"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "熊出没之探险日记",

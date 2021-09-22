@@ -1,5 +1,9 @@
 {
     "title": "Yuru Yuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/53997.jpg",
+        "alt": "yuru-yuri"
+    },
     "type": "manga",
     "original_name": "ゆるゆり",
     "start_date": "2008-06-18",

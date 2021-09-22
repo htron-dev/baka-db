@@ -1,5 +1,9 @@
 {
     "title": "Mimizu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76316.jpg",
+        "alt": "mimizu-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "みみず物語",

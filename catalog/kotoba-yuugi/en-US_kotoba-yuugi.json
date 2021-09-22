@@ -1,5 +1,9 @@
 {
     "title": "Kotoba Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244749.jpg",
+        "alt": "kotoba-yuugi"
+    },
     "type": "manga",
     "original_name": "言葉遊戯",
     "start_date": "2021-04-24",

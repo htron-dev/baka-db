@@ -1,5 +1,9 @@
 {
     "title": "Yoku Wakaru Mahouka! - Saiseitte Nani?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75785.jpg",
+        "alt": "yoku-wakaru-mahouka-saiseitte-nani"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "よくわかる魔法科！",

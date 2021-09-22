@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Nare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212589.jpg",
+        "alt": "kimi-ni-nare"
+    },
     "type": "manga",
     "original_name": "君になれ",
     "start_date": "2018-04-25",

@@ -1,5 +1,9 @@
 {
     "title": "Akuma Jiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/69915.jpg",
+        "alt": "akuma-jiten"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "37",

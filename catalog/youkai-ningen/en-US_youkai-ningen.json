@@ -1,5 +1,9 @@
 {
     "title": "Youkai Ningen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177033.jpg",
+        "alt": "youkai-ningen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

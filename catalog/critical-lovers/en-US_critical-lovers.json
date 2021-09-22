@@ -1,5 +1,9 @@
 {
     "title": "Critical Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22442.jpg",
+        "alt": "critical-lovers"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

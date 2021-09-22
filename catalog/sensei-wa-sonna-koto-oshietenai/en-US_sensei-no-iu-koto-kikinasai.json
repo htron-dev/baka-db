@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Iu Koto Kikinasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239310.jpg",
+        "alt": "sensei-no-iu-koto-kikinasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

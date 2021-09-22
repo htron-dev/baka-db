@@ -1,5 +1,9 @@
 {
     "title": "Konya mo Hitori de Nemurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6359.jpg",
+        "alt": "konya-mo-hitori-de-nemurenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

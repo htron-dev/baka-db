@@ -1,5 +1,9 @@
 {
     "title": "Guardian's Guardian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180360.jpg",
+        "alt": "guardians-guardian"
+    },
     "type": "light-novel",
     "original_name": "ガーディアンズ・ガーディアン",
     "start_date": "2016-07-23",

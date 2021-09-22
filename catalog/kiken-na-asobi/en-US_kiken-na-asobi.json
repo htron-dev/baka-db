@@ -1,5 +1,9 @@
 {
     "title": "Kiken na Asobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22275.jpg",
+        "alt": "kiken-na-asobi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

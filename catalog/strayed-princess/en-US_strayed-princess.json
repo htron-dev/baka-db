@@ -1,5 +1,9 @@
 {
     "title": "Strayed Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177723.jpg",
+        "alt": "strayed-princess"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ストレイド・プリンセス",

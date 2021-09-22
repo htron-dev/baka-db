@@ -1,12 +1,16 @@
 {
     "title": "Kure-nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/8482.jpg",
+        "alt": "kure-nai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "紅",
     "start_date": "2008-04-04",
     "end_date": "2008-04-04",
     "opening_song": "\"Love Jump\" by Minami Kuribayashi",
-    "ending_song": "#01",
+    "ending_song": "#01: \"crossing days\" by Ryoko Shintani (eps 1-7, 9-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

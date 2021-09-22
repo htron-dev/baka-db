@@ -1,5 +1,9 @@
 {
     "title": "Migawari no Shoyaken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184772.jpg",
+        "alt": "migawari-no-shoyaken"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

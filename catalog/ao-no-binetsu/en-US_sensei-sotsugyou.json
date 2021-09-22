@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Sotsugyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/94481.jpg",
+        "alt": "sensei-sotsugyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Magical Nyan Nyan Taruto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112421.jpg",
+        "alt": "magical-nyan-nyan-taruto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

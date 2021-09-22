@@ -1,5 +1,9 @@
 {
     "title": "GamPrin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196728.jpg",
+        "alt": "gam-prin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

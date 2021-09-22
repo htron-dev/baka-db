@@ -1,5 +1,9 @@
 {
     "title": "Nomi Joshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163654.jpg",
+        "alt": "nomi-joshi"
+    },
     "type": "manga",
     "original_name": "のみじょし",
     "start_date": "2013-07-04",

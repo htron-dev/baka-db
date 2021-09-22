@@ -1,5 +1,9 @@
 {
     "title": "Kinjiraretemo Itoshikute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195972.jpg",
+        "alt": "kinjiraretemo-itoshikute"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "禁じられても愛しくて",

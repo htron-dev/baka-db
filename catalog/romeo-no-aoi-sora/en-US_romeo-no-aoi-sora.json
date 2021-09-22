@@ -1,5 +1,9 @@
 {
     "title": "Romeo no Aoi Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/17979.jpg",
+        "alt": "romeo-no-aoi-sora"
+    },
     "type": "tv-serie",
     "episodes": "33",
     "original_name": "ロミオの青い空",

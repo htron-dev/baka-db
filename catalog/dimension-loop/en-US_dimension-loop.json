@@ -1,5 +1,9 @@
 {
     "title": "Dimension Loop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/15302.jpg",
+        "alt": "dimension-loop"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "次元ループ",

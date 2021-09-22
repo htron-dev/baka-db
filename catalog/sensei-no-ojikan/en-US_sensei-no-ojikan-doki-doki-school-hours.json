@@ -1,12 +1,16 @@
 {
     "title": "Sensei no Ojikan: Doki Doki School Hours",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/65565.jpg",
+        "alt": "sensei-no-ojikan-doki-doki-school-hours"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "せんせいのお時間",
     "start_date": "2004-04-05",
     "end_date": "2004-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Oshiete Ageru\" by can/goo (eps 1-13)",
+    "ending_song": "#1: \"Furare Kibun de Rock'n'Roll\" by DROPS (ep 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

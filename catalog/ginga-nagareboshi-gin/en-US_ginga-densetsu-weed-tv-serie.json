@@ -1,5 +1,9 @@
 {
     "title": "Ginga Densetsu Weed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/74037.jpg",
+        "alt": "ginga-densetsu-weed"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "銀牙伝説ウィード",

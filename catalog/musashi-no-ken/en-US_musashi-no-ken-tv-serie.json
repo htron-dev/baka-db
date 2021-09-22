@@ -1,5 +1,9 @@
 {
     "title": "Musashi no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/22398.jpg",
+        "alt": "musashi-no-ken"
+    },
     "type": "tv-serie",
     "episodes": "72",
     "original_name": "六三四の剣",

@@ -1,5 +1,9 @@
 {
     "title": "Mikan Jirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175598.jpg",
+        "alt": "mikan-jirou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

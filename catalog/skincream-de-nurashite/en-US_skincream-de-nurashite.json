@@ -1,5 +1,9 @@
 {
     "title": "Skincream de Nurashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30178.jpg",
+        "alt": "skincream-de-nurashite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Mobage: Mobami-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/70285.jpg",
+        "alt": "bishoujo-mobage-mobami-chan"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "美少女 Mobage モバミちゃん",

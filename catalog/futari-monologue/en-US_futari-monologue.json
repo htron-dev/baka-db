@@ -1,5 +1,9 @@
 {
     "title": "Futari Monologue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198436.jpg",
+        "alt": "futari-monologue"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "112",

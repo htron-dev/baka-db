@@ -1,5 +1,9 @@
 {
     "title": "Yuri Kuma Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147723.jpg",
+        "alt": "yuri-kuma-arashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

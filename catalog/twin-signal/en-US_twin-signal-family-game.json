@@ -1,5 +1,9 @@
 {
     "title": "Twin Signal: Family Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/65095.jpg",
+        "alt": "twin-signal-family-game"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "TWIN SIGNAL~ファミリーゲーム~",

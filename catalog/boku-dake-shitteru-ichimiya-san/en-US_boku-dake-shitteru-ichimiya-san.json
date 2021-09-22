@@ -1,5 +1,9 @@
 {
     "title": "Boku dake Shitteru Ichimiya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198692.jpg",
+        "alt": "boku-dake-shitteru-ichimiya-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

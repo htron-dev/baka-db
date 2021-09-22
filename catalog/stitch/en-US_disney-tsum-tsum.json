@@ -1,5 +1,9 @@
 {
     "title": "Disney Tsum Tsum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1806/112472.jpg",
+        "alt": "disney-tsum-tsum"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "ディズニー ツムツム",

@@ -1,5 +1,9 @@
 {
     "title": "Ehon Yose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/67979.jpg",
+        "alt": "ehon-yose"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "えほん寄席",

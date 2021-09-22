@@ -1,5 +1,9 @@
 {
     "title": "Bousou Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79479.jpg",
+        "alt": "bousou-paradise"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "妄想パラダイス",

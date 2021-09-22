@@ -1,5 +1,9 @@
 {
     "title": "Boku dake no Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11249.jpg",
+        "alt": "boku-dake-no-ousama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

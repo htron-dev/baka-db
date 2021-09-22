@@ -1,5 +1,9 @@
 {
     "title": "Little Village People",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1730/109161.jpg",
+        "alt": "little-village-people"
+    },
     "type": "tv-serie",
     "episodes": "15",
     "original_name": "リトルビレッジピープル",

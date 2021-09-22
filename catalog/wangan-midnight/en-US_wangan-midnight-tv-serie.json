@@ -1,5 +1,9 @@
 {
     "title": "Wangan Midnight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/12936.jpg",
+        "alt": "wangan-midnight"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "湾岸ミッドナイト",

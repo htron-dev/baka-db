@@ -1,5 +1,9 @@
 {
     "title": "Pillow de Mellow na Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71873.jpg",
+        "alt": "pillow-de-mellow-na-hibi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

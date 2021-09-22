@@ -1,5 +1,9 @@
 {
     "title": "Futari Ecchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/50533.jpg",
+        "alt": "futari-ecchi"
+    },
     "type": "manga",
     "original_name": "ふたりエッチ",
     "start_date": "1997-01-19",

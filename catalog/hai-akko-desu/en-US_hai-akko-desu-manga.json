@@ -1,5 +1,9 @@
 {
     "title": "Hai Akko desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130577.jpg",
+        "alt": "hai-akko-desu"
+    },
     "type": "manga",
     "volumes": "20",
     "original_name": "ハーイあっこです",

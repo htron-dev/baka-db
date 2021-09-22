@@ -1,5 +1,9 @@
 {
     "title": "Tetsuko no Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/3270.jpg",
+        "alt": "tetsuko-no-tabi"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "鉄子の旅",

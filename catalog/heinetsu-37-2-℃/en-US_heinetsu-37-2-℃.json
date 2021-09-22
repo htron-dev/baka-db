@@ -1,5 +1,9 @@
 {
     "title": "Heinetsu 37.2℃",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174822.jpg",
+        "alt": "heinetsu-37-2-℃"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

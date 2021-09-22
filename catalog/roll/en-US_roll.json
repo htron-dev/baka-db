@@ -1,5 +1,9 @@
 {
     "title": "Roll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1176/96883.jpg",
+        "alt": "roll"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ROLL",

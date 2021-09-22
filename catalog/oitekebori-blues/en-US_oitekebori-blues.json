@@ -1,5 +1,9 @@
 {
     "title": "Oitekebori Blues",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21643.jpg",
+        "alt": "oitekebori-blues"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

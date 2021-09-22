@@ -1,5 +1,9 @@
 {
     "title": "Akage no Nyanko to Mori no Banken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242939.jpg",
+        "alt": "akage-no-nyanko-to-mori-no-banken"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

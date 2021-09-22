@@ -1,5 +1,9 @@
 {
     "title": "Tawawa Koboreru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202242.jpg",
+        "alt": "tawawa-koboreru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

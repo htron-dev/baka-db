@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Girlfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147709.jpg",
+        "alt": "sayonara-girlfriend"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

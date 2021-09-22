@@ -1,5 +1,9 @@
 {
     "title": "Kaifuku Jutsushi no Yarinaoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg",
+        "alt": "kaifuku-jutsushi-no-yarinaoshi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "回復術士のやり直し",

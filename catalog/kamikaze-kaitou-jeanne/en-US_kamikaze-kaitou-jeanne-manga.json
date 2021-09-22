@@ -1,5 +1,9 @@
 {
     "title": "Kamikaze Kaitou Jeanne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/175801.jpg",
+        "alt": "kamikaze-kaitou-jeanne"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "33",

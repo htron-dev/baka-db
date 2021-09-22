@@ -1,5 +1,9 @@
 {
     "title": "Ayaka-san wa Damegitsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211284.jpg",
+        "alt": "ayaka-san-wa-damegitsune"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

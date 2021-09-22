@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Kao ni Sasu Kage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160580.jpg",
+        "alt": "kimi-no-kao-ni-sasu-kage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

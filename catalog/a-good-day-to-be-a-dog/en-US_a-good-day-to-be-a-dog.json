@@ -1,5 +1,9 @@
 {
     "title": "A Good Day to Be a Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225965.jpg",
+        "alt": "a-good-day-to-be-a-dog"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "88",

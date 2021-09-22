@@ -1,5 +1,9 @@
 {
     "title": "Strange Babys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149523.jpg",
+        "alt": "strange-babys"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

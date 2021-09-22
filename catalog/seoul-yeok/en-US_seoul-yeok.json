@@ -1,5 +1,9 @@
 {
     "title": "Seoul-yeok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/81971.jpg",
+        "alt": "seoul-yeok"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "서울역",
@@ -17,7 +21,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Seoul_Station_(film"
+            "link": "https://en.wikipedia.org/wiki/Seoul_Station_%28film%29"
         }
     ]
 }

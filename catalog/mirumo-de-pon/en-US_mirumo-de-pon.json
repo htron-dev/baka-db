@@ -1,5 +1,9 @@
 {
     "title": "Mirumo de Pon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78757.jpg",
+        "alt": "mirumo-de-pon"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "53",

@@ -1,5 +1,9 @@
 {
     "title": "Angelique",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17910.jpg",
+        "alt": "angelique"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "アンジェリク",

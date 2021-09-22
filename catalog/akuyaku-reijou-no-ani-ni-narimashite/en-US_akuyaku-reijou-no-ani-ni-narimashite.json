@@ -1,5 +1,9 @@
 {
     "title": "Akuyaku Reijou no Ani ni Narimashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239036.jpg",
+        "alt": "akuyaku-reijou-no-ani-ni-narimashite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

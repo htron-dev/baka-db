@@ -1,5 +1,9 @@
 {
     "title": "Adamas no Majo-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217355.jpg",
+        "alt": "adamas-no-majo-tachi"
+    },
     "type": "manga",
     "original_name": "アダマスの魔女たち",
     "start_date": "2018-07-20",

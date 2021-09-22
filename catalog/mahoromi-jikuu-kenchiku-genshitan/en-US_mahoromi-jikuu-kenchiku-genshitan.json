@@ -1,5 +1,9 @@
 {
     "title": "Mahoromi: Jikuu Kenchiku Genshitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164932.jpg",
+        "alt": "mahoromi-jikuu-kenchiku-genshitan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

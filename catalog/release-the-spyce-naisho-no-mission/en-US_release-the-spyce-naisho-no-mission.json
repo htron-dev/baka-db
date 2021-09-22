@@ -1,5 +1,9 @@
 {
     "title": "Release the Spyce: Naisho no Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220051.jpg",
+        "alt": "release-the-spyce-naisho-no-mission"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Ippatsu Kanta-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/60909.jpg",
+        "alt": "ippatsu-kanta-kun"
+    },
     "type": "tv-serie",
     "episodes": "53",
     "original_name": "一発貫太くん",

@@ -1,5 +1,9 @@
 {
     "title": "Juliet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33425.jpg",
+        "alt": "juliet"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ジュリエット",
@@ -12,7 +16,6 @@
     "authors": [
         "U-jin (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

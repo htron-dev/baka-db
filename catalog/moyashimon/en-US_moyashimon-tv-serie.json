@@ -1,5 +1,9 @@
 {
     "title": "Moyashimon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/37533.jpg",
+        "alt": "moyashimon"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "もやしもん",

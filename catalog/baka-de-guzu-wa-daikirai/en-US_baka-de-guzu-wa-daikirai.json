@@ -1,5 +1,9 @@
 {
     "title": "Baka de Guzu wa Daikirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168426.jpg",
+        "alt": "baka-de-guzu-wa-daikirai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

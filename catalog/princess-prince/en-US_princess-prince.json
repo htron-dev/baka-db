@@ -1,5 +1,9 @@
 {
     "title": "Princess Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1558.jpg",
+        "alt": "princess-prince"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

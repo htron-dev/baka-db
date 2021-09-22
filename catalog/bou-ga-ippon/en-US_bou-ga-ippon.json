@@ -1,5 +1,9 @@
 {
     "title": "Bou ga Ippon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133687.jpg",
+        "alt": "bou-ga-ippon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

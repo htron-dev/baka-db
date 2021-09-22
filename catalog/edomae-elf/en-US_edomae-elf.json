@@ -1,5 +1,9 @@
 {
     "title": "Edomae Elf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233392.jpg",
+        "alt": "edomae-elf"
+    },
     "type": "manga",
     "original_name": "江戸前エルフ",
     "start_date": "2019-06-17",

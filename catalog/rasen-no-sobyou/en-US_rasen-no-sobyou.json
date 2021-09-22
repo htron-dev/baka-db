@@ -1,5 +1,9 @@
 {
     "title": "Rasen no Sobyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32111.jpg",
+        "alt": "rasen-no-sobyou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "螺旋の素描",

@@ -1,5 +1,9 @@
 {
     "title": "Shitsuji wa Itsumo Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/101599.jpg",
+        "alt": "shitsuji-wa-itsumo-yuuutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

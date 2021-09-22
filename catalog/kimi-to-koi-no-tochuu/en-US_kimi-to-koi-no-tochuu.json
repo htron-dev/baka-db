@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Koi no Tochuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86029.jpg",
+        "alt": "kimi-to-koi-no-tochuu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

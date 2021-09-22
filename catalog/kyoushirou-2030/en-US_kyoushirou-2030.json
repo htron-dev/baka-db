@@ -1,5 +1,9 @@
 {
     "title": "Kyoushirou 2030",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43395.jpg",
+        "alt": "kyoushirou-2030"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "157",

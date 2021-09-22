@@ -1,5 +1,9 @@
 {
     "title": "Dead Soul Revolver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53759.jpg",
+        "alt": "dead-soul-revolver"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

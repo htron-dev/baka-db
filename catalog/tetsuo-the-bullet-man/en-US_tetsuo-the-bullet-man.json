@@ -1,5 +1,9 @@
 {
     "title": "Tetsuo: The Bullet Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155388.jpg",
+        "alt": "tetsuo-the-bullet-man"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

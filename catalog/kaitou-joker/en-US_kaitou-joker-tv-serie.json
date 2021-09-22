@@ -1,5 +1,9 @@
 {
     "title": "Kaitou Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/64975.jpg",
+        "alt": "kaitou-joker"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "怪盗ジョーカー",

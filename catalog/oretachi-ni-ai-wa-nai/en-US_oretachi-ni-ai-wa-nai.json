@@ -1,5 +1,9 @@
 {
     "title": "Oretachi ni Ai wa Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46205.jpg",
+        "alt": "oretachi-ni-ai-wa-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

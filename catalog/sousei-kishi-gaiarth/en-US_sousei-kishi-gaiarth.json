@@ -1,11 +1,15 @@
 {
     "title": "Sousei Kishi Gaiarth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/29905.jpg",
+        "alt": "sousei-kishi-gaiarth"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "創世機士ガイアース",
     "start_date": "1992-04-22",
     "end_date": "1992-04-22",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sooseiki-- 'ZERO' wo Samayou Tabibito e (創世記~\"ZERO\"をさまよう旅人へ~)\" by Asai Yuu (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

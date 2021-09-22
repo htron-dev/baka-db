@@ -1,5 +1,9 @@
 {
     "title": "2-shuukan no Aventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180176.jpg",
+        "alt": "2-shuukan-no-aventure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

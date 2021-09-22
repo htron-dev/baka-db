@@ -1,5 +1,9 @@
 {
     "title": "Unmei no Aite desu ga, Nani ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34864.jpg",
+        "alt": "unmei-no-aite-desu-ga-nani-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Rasenjin Douji Jouei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170166.jpg",
+        "alt": "rasenjin-douji-jouei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

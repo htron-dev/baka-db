@@ -1,5 +1,9 @@
 {
     "title": "Chigireta Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72157.jpg",
+        "alt": "chigireta-heart"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Hare Nochi Shiki-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222268.jpg",
+        "alt": "hare-nochi-shiki-bu"
+    },
     "type": "manga",
     "original_name": "晴れのち四季部",
     "start_date": "2017-04-03",

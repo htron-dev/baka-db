@@ -1,5 +1,9 @@
 {
     "title": "Pretty Max",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167503.jpg",
+        "alt": "pretty-max"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "97",

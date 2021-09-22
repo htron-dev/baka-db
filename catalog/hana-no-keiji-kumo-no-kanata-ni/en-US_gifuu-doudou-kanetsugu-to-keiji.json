@@ -1,12 +1,16 @@
 {
     "title": "Gifuu Doudou!!: Kanetsugu to Keiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/51427.jpg",
+        "alt": "gifuu-doudou-kanetsugu-to-keiji"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "義風堂々!! 兼続と慶次",
     "start_date": "2013-07-03",
     "end_date": "2013-07-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: ''SAMURAI ROCK: Gifuu Doudou!! ver. (SAMURAI ROCK 〜義風堂々!! ver.)'' by Kouji Kikkawa",
+    "ending_song": "#1: \"Gekka ni Kawasu, Sagazuki to Chigiri (月下に交わす、杯と契り)\" by Daisuke Namikawa & Sakuya Satou",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

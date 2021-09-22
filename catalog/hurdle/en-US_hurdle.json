@@ -1,5 +1,9 @@
 {
     "title": "Hurdle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/45116.jpg",
+        "alt": "hurdle"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハードル",

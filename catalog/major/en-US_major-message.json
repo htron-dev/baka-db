@@ -1,5 +1,9 @@
 {
     "title": "Major: Message",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75219.jpg",
+        "alt": "major-message"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "メジャー・メッセージ",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Major_(manga"
+            "link": "http://en.wikipedia.org/wiki/Major_%28manga%29"
         }
     ]
 }

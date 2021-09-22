@@ -1,5 +1,9 @@
 {
     "title": "High Score Girl II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1560/99904.jpg",
+        "alt": "high-score-girl-ii"
+    },
     "type": "tv-serie",
     "episodes": "9",
     "original_name": "ハイスコアガール II",

@@ -1,5 +1,9 @@
 {
     "title": "Kimagure Wedding",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/8056.jpg",
+        "alt": "kimagure-wedding"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "気まぐれウエディング",

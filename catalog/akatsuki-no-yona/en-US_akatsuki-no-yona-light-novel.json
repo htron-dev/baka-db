@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki no Yona",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153038.jpg",
+        "alt": "akatsuki-no-yona"
+    },
     "type": "light-novel",
     "original_name": "暁のヨナ",
     "start_date": "2015-03-20",

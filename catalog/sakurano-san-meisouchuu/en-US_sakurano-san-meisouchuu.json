@@ -1,5 +1,9 @@
 {
     "title": "Sakurano-san Meisouchuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95205.jpg",
+        "alt": "sakurano-san-meisouchuu"
+    },
     "type": "manga",
     "original_name": "桜乃さん迷走中！",
     "start_date": "2011-03-20",

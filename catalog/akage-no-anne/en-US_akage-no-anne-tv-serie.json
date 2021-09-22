@@ -1,5 +1,9 @@
 {
     "title": "Akage no Anne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1428/97069.jpg",
+        "alt": "akage-no-anne"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "赤毛のアン",

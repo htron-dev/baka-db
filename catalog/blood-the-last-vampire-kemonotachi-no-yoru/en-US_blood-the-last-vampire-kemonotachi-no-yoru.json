@@ -1,5 +1,9 @@
 {
     "title": "Blood: the Last Vampire: Kemonotachi no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14427.jpg",
+        "alt": "blood-the-last-vampire-kemonotachi-no-yoru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "S・L・H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/46605.jpg",
+        "alt": "s・l・h"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

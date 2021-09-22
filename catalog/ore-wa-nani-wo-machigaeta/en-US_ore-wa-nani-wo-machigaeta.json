@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Nani wo Machigaeta!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146767.jpg",
+        "alt": "ore-wa-nani-wo-machigaeta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Wolfull Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84381.jpg",
+        "alt": "wolfull-moon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

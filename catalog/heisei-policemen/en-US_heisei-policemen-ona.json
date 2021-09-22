@@ -1,5 +1,9 @@
 {
     "title": "Heisei Policemen!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1575/91828.jpg",
+        "alt": "heisei-policemen"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "へ～せいポリスメン!!",

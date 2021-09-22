@@ -1,5 +1,9 @@
 {
     "title": "Mob wa Ouji ni Kouryaku saremashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241710.jpg",
+        "alt": "mob-wa-ouji-ni-kouryaku-saremashita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "モブは王子に攻略されました。",

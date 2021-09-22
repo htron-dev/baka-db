@@ -1,5 +1,9 @@
 {
     "title": "Colorful Palette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24351.jpg",
+        "alt": "colorful-palette"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

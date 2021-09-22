@@ -1,5 +1,9 @@
 {
     "title": "Adou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229841.jpg",
+        "alt": "adou"
+    },
     "type": "manga",
     "original_name": "亜童",
     "start_date": "2019-05-21",

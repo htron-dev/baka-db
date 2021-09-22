@@ -1,5 +1,9 @@
 {
     "title": "Sazae-san: Valentine-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1689/117165.jpg",
+        "alt": "sazae-san-valentine-hen"
+    },
     "type": "tv-serie",
     "episodes": "1",
     "original_name": "サザエさんバレンタインデースペシャル",

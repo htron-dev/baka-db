@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters RéBURST",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63023.jpg",
+        "alt": "pocket-monsters-re-burst"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "77",

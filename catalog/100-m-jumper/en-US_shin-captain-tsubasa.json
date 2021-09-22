@@ -1,5 +1,9 @@
 {
     "title": "Shin Captain Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2245.jpg",
+        "alt": "shin-captain-tsubasa"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "新・キャプテン翼",

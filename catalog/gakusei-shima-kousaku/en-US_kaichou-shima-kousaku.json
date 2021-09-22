@@ -1,5 +1,9 @@
 {
     "title": "Kaichou Shima Kousaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129013.jpg",
+        "alt": "kaichou-shima-kousaku"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "138",

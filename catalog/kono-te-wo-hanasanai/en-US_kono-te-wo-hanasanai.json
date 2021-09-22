@@ -1,5 +1,9 @@
 {
     "title": "Kono Te wo Hanasanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152904.jpg",
+        "alt": "kono-te-wo-hanasanai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Aragami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123941.jpg",
+        "alt": "aragami"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "荒神",

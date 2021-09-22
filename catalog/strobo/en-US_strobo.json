@@ -1,5 +1,9 @@
 {
     "title": "Strobo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114219.jpg",
+        "alt": "strobo"
+    },
     "type": "manga",
     "original_name": "ストロボ",
     "start_date": "2011-09-15",

@@ -1,5 +1,9 @@
 {
     "title": "Pretty Scoop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2439.jpg",
+        "alt": "pretty-scoop"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

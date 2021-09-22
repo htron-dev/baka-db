@@ -1,5 +1,9 @@
 {
     "title": "Daikuu Maryuu Gaiking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/15622.jpg",
+        "alt": "daikuu-maryuu-gaiking"
+    },
     "type": "tv-serie",
     "episodes": "44",
     "original_name": "大空魔竜ガイキング",

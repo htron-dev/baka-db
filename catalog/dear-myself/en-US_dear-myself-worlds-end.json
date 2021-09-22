@@ -1,9 +1,13 @@
 {
     "title": "Dear Myself: World's End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152305.jpg",
+        "alt": "dear-myself-worlds-end"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",
-    "original_name": "DEAR MYSELF 2",
+    "original_name": "DEAR MYSELF 2: WORLD'S END",
     "tags": [
         "shounen-ai"
     ],

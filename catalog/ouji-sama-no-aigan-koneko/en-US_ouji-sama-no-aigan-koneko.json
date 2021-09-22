@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama no Aigan Koneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192497.jpg",
+        "alt": "ouji-sama-no-aigan-koneko"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

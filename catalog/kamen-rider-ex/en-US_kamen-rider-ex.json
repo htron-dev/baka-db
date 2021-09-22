@@ -1,5 +1,9 @@
 {
     "title": "Kamen Rider EX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23852.jpg",
+        "alt": "kamen-rider-ex"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

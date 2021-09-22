@@ -1,5 +1,9 @@
 {
     "title": "Mato-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9964.jpg",
+        "alt": "mato-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

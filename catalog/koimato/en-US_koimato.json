@@ -1,5 +1,9 @@
 {
     "title": "Koimato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79365.jpg",
+        "alt": "koimato"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "コイマト－恋的－",

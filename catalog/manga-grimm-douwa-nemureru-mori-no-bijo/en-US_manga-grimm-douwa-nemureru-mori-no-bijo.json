@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Nemureru Mori no Bijo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147753.jpg",
+        "alt": "manga-grimm-douwa-nemureru-mori-no-bijo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

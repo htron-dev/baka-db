@@ -1,5 +1,9 @@
 {
     "title": "Baby Steps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202589.jpg",
+        "alt": "baby-steps"
+    },
     "type": "manga",
     "volumes": "47",
     "chapters": "462",

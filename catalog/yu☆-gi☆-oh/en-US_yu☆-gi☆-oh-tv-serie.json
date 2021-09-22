@@ -1,5 +1,9 @@
 {
     "title": "Yu☆Gi☆Oh!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/47487.jpg",
+        "alt": "yu☆-gi☆-oh"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "遊 ☆ 戯 ☆ 王",

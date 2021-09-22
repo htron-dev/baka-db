@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam AGE: Final Evolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111847.jpg",
+        "alt": "mobile-suit-gundam-age-final-evolution"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

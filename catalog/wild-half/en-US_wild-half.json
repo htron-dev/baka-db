@@ -1,5 +1,9 @@
 {
     "title": "Wild Half",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160477.jpg",
+        "alt": "wild-half"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "145",

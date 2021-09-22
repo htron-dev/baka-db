@@ -1,5 +1,9 @@
 {
     "title": "Forest Fairy Five",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83713.jpg",
+        "alt": "forest-fairy-five"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "FOREST FAIRY FIVE",

@@ -1,5 +1,9 @@
 {
     "title": "Will o' Wisp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21682.jpg",
+        "alt": "will-o-wisp"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

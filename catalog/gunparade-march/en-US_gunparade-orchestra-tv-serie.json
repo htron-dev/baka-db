@@ -1,5 +1,9 @@
 {
     "title": "Gunparade Orchestra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/9074.jpg",
+        "alt": "gunparade-orchestra"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ガンパレード・オーケストラ",

@@ -1,5 +1,9 @@
 {
     "title": "Guildre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235122.jpg",
+        "alt": "guildre"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

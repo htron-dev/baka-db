@@ -1,5 +1,9 @@
 {
     "title": "Oshioki Execute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189358.jpg",
+        "alt": "oshioki-execute"
+    },
     "type": "manga",
     "original_name": "おしおきエクスキュート",
     "start_date": "2016-05-09",

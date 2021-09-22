@@ -1,5 +1,9 @@
 {
     "title": "Kamigariki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36882.jpg",
+        "alt": "kamigariki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

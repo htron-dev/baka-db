@@ -1,12 +1,16 @@
 {
     "title": "Happy Sugar Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1386/103920.jpg",
+        "alt": "happy-sugar-life"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハッピーシュガーライフ",
     "start_date": "2018-07-14",
     "end_date": "2018-07-14",
     "opening_song": "\"One Room Sugar Life (ワンルームシュガーライフ)\" by Akari Nanawo (ナナヲアカリ)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"SWEET HURT\" by ReoNa (eps 1-8, 10-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "horror",

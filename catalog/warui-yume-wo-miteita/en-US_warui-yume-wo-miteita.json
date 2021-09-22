@@ -1,5 +1,9 @@
 {
     "title": "Warui Yume wo Miteita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199485.jpg",
+        "alt": "warui-yume-wo-miteita"
+    },
     "type": "manga",
     "original_name": "わるい夢をみていた",
     "start_date": "2017-07-28",

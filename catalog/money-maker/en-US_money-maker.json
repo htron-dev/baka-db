@@ -1,5 +1,9 @@
 {
     "title": "Money Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38347.jpg",
+        "alt": "money-maker"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "マネーメーカー",

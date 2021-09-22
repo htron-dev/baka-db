@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty Peace!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23069.jpg",
+        "alt": "hello-kitty-peace"
+    },
     "type": "manga",
     "chapters": "12",
     "original_name": "ハローキティ ピース!!",

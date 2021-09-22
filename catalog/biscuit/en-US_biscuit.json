@@ -1,5 +1,9 @@
 {
     "title": "Biscuit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25095.jpg",
+        "alt": "biscuit"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "12 Months",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12936.jpg",
+        "alt": "12-months"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

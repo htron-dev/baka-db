@@ -1,5 +1,9 @@
 {
     "title": "Banoten! - Summer Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72255.jpg",
+        "alt": "banoten-summer-days"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

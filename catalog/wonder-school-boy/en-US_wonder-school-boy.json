@@ -1,5 +1,9 @@
 {
     "title": "Wonder School Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67123.jpg",
+        "alt": "wonder-school-boy"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "45",

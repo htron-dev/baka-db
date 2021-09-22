@@ -1,5 +1,9 @@
 {
     "title": "Sono Otoko, Oniichan Ijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125563.jpg",
+        "alt": "sono-otoko-oniichan-ijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

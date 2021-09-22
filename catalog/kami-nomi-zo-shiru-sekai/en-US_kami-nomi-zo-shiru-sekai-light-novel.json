@@ -1,5 +1,9 @@
 {
     "title": "Kami nomi zo Shiru Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41720.jpg",
+        "alt": "kami-nomi-zo-shiru-sekai"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Jarinko Chie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180242.jpg",
+        "alt": "jarinko-chie"
+    },
     "type": "manga",
     "volumes": "67",
     "chapters": "786",

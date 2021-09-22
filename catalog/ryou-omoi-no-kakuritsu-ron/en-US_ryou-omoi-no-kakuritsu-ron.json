@@ -1,5 +1,9 @@
 {
     "title": "Ryou Omoi no Kakuritsu Ron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3000.jpg",
+        "alt": "ryou-omoi-no-kakuritsu-ron"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

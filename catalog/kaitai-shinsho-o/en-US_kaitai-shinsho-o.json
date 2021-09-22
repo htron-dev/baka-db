@@ -1,5 +1,9 @@
 {
     "title": "Kaitai Shinsho Ø",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191253.jpg",
+        "alt": "kaitai-shinsho-o"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "69",

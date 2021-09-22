@@ -1,5 +1,9 @@
 {
     "title": "Inu wa Hoeru ga Kami wa Shinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236869.jpg",
+        "alt": "inu-wa-hoeru-ga-kami-wa-shinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

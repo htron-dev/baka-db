@@ -1,5 +1,9 @@
 {
     "title": "Valkyrie Drive: Mermaid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173954.jpg",
+        "alt": "valkyrie-drive-mermaid"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

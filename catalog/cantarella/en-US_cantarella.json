@@ -1,5 +1,9 @@
 {
     "title": "Cantarella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207233.jpg",
+        "alt": "cantarella"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "49",

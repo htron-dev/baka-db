@@ -1,5 +1,9 @@
 {
     "title": "Gyakusatsu Kikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174756.jpg",
+        "alt": "gyakusatsu-kikan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

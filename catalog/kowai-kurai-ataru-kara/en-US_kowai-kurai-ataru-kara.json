@@ -1,5 +1,9 @@
 {
     "title": "Kowai Kurai Ataru kara...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57397.jpg",
+        "alt": "kowai-kurai-ataru-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

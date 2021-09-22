@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam SEED: Astray",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126203.jpg",
+        "alt": "kidou-senshi-gundam-seed-astray"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

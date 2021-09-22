@@ -1,5 +1,9 @@
 {
     "title": "Tane wo Maku Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29063.jpg",
+        "alt": "tane-wo-maku-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Shishou Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209764.jpg",
+        "alt": "shishou-series"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "47",

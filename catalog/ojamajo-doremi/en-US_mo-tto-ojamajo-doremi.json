@@ -1,5 +1,9 @@
 {
     "title": "Mo~tto! Ojamajo Doremi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92203.jpg",
+        "alt": "mo-tto-ojamajo-doremi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "27",

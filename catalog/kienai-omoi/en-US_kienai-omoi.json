@@ -1,5 +1,9 @@
 {
     "title": "Kienai, Omoi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10856.jpg",
+        "alt": "kienai-omoi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キエナイ、オモイ。",

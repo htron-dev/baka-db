@@ -1,5 +1,9 @@
 {
     "title": "Heartful Diners",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19725.jpg",
+        "alt": "heartful-diners"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

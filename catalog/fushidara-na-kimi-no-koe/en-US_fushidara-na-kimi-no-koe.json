@@ -1,5 +1,9 @@
 {
     "title": "Fushidara na Kimi no Koe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170959.jpg",
+        "alt": "fushidara-na-kimi-no-koe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

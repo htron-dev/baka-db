@@ -1,5 +1,9 @@
 {
     "title": "Yume no Q-saku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19168.jpg",
+        "alt": "yume-no-q-saku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

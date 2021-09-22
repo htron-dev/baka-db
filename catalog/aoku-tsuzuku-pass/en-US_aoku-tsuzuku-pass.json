@@ -1,5 +1,9 @@
 {
     "title": "Aoku Tsuzuku Pass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1390/95752.jpg",
+        "alt": "aoku-tsuzuku-pass"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "青くつづくパス",

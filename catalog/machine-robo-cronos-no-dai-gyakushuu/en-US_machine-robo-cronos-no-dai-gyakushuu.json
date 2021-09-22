@@ -1,11 +1,15 @@
 {
     "title": "Machine Robo: Cronos no Dai Gyakushuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/6399.jpg",
+        "alt": "machine-robo-cronos-no-dai-gyakushuu"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "マシンロボ クロノスの大逆襲",
     "start_date": "1986-07-03",
     "end_date": "1986-07-03",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Machine Robo Honoo (マシンロボ・炎)\" by マーチン",
     "ending_song": "\"Aoi Heart no Stranger (青いハートのストレンジャー)\" by Ema Watanabe",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko no Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35857.jpg",
+        "alt": "kuroneko-no-yuuutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "黒猫の憂鬱",

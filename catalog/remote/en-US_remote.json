@@ -1,5 +1,9 @@
 {
     "title": "Remote",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/56465.jpg",
+        "alt": "remote"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "100",

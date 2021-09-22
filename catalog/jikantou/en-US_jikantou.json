@@ -1,5 +1,9 @@
 {
     "title": "Jikantou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153878.jpg",
+        "alt": "jikantou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

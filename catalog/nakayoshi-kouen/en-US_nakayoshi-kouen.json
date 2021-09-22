@@ -1,5 +1,9 @@
 {
     "title": "Nakayoshi Kouen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11471.jpg",
+        "alt": "nakayoshi-kouen"
+    },
     "type": "manga",
     "original_name": "なかよし公園",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Mikan Seijin Arawaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/81665.jpg",
+        "alt": "mikan-seijin-arawaru"
+    },
     "type": "tv-serie",
     "episodes": "58",
     "original_name": "ミカンせいじん現わる",

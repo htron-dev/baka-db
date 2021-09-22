@@ -1,5 +1,9 @@
 {
     "title": "Shagara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/166589.jpg",
+        "alt": "shagara"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

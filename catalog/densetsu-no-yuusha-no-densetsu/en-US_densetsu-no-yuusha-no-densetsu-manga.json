@@ -1,5 +1,9 @@
 {
     "title": "Densetsu no Yuusha no Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/155011.jpg",
+        "alt": "densetsu-no-yuusha-no-densetsu"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "45",

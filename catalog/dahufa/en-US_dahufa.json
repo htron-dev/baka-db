@@ -1,5 +1,9 @@
 {
     "title": "Dahufa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/88604.jpg",
+        "alt": "dahufa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "大护法",

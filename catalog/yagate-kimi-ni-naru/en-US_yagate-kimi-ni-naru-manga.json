@@ -1,5 +1,9 @@
 {
     "title": "Yagate Kimi ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232311.jpg",
+        "alt": "yagate-kimi-ni-naru"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "50",

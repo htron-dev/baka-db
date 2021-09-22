@@ -1,5 +1,9 @@
 {
     "title": "Detective Conan: The Fugitive Kogorou Mouri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/62767.jpg",
+        "alt": "detective-conan-the-fugitive-kogorou-mouri"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "逃亡者・毛利小五郎",

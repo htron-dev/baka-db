@@ -1,5 +1,9 @@
 {
     "title": "Tsuruta Buchou wa Itsumo Nebusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191928.jpg",
+        "alt": "tsuruta-buchou-wa-itsumo-nebusoku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

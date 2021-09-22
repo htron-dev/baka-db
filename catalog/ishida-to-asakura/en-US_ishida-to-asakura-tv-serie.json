@@ -1,5 +1,9 @@
 {
     "title": "Ishida to Asakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/44996.jpg",
+        "alt": "ishida-to-asakura"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "石田とあさくら",

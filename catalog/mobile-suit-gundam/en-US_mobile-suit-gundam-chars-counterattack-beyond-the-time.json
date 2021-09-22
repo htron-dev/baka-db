@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam: Char's Counterattack - Beyond the Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113425.jpg",
+        "alt": "mobile-suit-gundam-chars-counterattack-beyond-the-time"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

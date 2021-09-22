@@ -1,5 +1,9 @@
 {
     "title": "Chueog-ui Geomjeong-gomusin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1933/114492.jpg",
+        "alt": "chueog-ui-geomjeong-gomusin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "추억의 검정고무신",

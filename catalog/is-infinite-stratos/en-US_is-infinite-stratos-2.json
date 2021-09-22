@@ -1,12 +1,16 @@
 {
     "title": "IS: Infinite Stratos 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/49359.jpg",
+        "alt": "is-infinite-stratos-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "IS〈インフィニット・ストラトス〉2",
     "start_date": "2013-10-04",
     "end_date": "2013-10-04",
     "opening_song": "\"True Blue Traveler\" by Kuribayashi Minami",
-    "ending_song": "#1",
+    "ending_song": "#1: \"BEAUTIFUL SKY\" by Yoko Hikasa, Yukana, Asami Shimoda, Kana Hanazawa, and Marina Inoue (eps 1-8)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/IS_(Infinite_Stratos"
+            "link": "http://en.wikipedia.org/wiki/IS_%28Infinite_Stratos%29"
         }
     ]
 }

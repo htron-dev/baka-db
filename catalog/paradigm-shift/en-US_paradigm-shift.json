@@ -1,5 +1,9 @@
 {
     "title": "Paradigm Shift",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181955.jpg",
+        "alt": "paradigm-shift"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

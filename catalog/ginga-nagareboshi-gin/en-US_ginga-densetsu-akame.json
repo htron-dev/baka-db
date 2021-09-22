@@ -1,5 +1,9 @@
 {
     "title": "Ginga Densetsu Akame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207496.jpg",
+        "alt": "ginga-densetsu-akame"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "40",

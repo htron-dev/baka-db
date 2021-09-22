@@ -1,5 +1,9 @@
 {
     "title": "Sakuratetsu Taiwa-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152585.jpg",
+        "alt": "sakuratetsu-taiwa-hen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

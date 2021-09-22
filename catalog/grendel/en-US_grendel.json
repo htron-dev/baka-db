@@ -1,5 +1,9 @@
 {
     "title": "Grendel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192812.jpg",
+        "alt": "grendel"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

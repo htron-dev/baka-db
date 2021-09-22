@@ -1,5 +1,9 @@
 {
     "title": "Candy &amp; Cigarettes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197434.jpg",
+        "alt": "candy-amp-cigarettes"
+    },
     "type": "manga",
     "original_name": "CANDY & CIGARETTES",
     "start_date": "2017-01-06",

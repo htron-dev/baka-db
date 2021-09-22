@@ -1,5 +1,9 @@
 {
     "title": "Yadokari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88646.jpg",
+        "alt": "yadokari"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "YADOKARI",

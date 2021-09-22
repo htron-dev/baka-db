@@ -1,5 +1,9 @@
 {
     "title": "Koujo Denka no Kateikyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234470.jpg",
+        "alt": "koujo-denka-no-kateikyoushi"
+    },
     "type": "light-novel",
     "original_name": "公女殿下の家庭教師",
     "start_date": "2018-12-20",

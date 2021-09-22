@@ -1,5 +1,9 @@
 {
     "title": "Kaze yori Hayaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152073.jpg",
+        "alt": "kaze-yori-hayaku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

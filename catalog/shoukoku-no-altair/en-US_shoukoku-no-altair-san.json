@@ -1,5 +1,9 @@
 {
     "title": "Shoukoku no Altair-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/140473.jpg",
+        "alt": "shoukoku-no-altair-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

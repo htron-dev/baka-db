@@ -1,5 +1,9 @@
 {
     "title": "Kouun no Rihatsushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172871.jpg",
+        "alt": "kouun-no-rihatsushi"
+    },
     "type": "manga",
     "original_name": "幸運の理髪師",
     "start_date": "2009-01-24",

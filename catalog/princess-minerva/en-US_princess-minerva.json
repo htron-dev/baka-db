@@ -1,5 +1,9 @@
 {
     "title": "Princess Minerva",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/73451.jpg",
+        "alt": "princess-minerva"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "プリンセス ミネルバ",

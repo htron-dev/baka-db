@@ -1,5 +1,9 @@
 {
     "title": "Papan Ga Panda!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/86918.jpg",
+        "alt": "papan-ga-panda"
+    },
     "type": "tv-serie",
     "original_name": "パパンがパンダ！",
     "rating": "G - All Ages",

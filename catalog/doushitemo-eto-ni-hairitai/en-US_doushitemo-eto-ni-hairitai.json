@@ -1,5 +1,9 @@
 {
     "title": "Doushitemo Eto ni Hairitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88675.jpg",
+        "alt": "doushitemo-eto-ni-hairitai"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "どうしても干支にはいりたい",

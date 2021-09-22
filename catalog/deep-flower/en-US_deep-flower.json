@@ -1,5 +1,9 @@
 {
     "title": "Deep Flower",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147577.jpg",
+        "alt": "deep-flower"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

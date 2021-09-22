@@ -1,5 +1,9 @@
 {
     "title": "Shaman King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57607.jpg",
+        "alt": "shaman-king"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "288",

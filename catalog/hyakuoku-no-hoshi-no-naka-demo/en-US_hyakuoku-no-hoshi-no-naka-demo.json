@@ -1,5 +1,9 @@
 {
     "title": "Hyakuoku no Hoshi no Naka demo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65061.jpg",
+        "alt": "hyakuoku-no-hoshi-no-naka-demo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

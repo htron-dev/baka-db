@@ -1,5 +1,9 @@
 {
     "title": "Hoshikawa Yorozu Sanrei Soushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180785.jpg",
+        "alt": "hoshikawa-yorozu-sanrei-soushi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

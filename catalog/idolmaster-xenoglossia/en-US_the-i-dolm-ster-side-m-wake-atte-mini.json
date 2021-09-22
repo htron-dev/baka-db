@@ -1,11 +1,15 @@
 {
     "title": "The iDOLM@STER SideM: Wake Atte Mini!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1711/93506.jpg",
+        "alt": "the-i-dolm-ster-side-m-wake-atte-mini"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アイドルマスター SideM 理由あって Mini!",
     "start_date": "2018-10-09",
     "end_date": "2018-10-09",
-    "ending_song": "#1",
+    "ending_song": "#1: \"LET'S GO!!\" by 315 STARS (Physical ver.) (eps 2-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

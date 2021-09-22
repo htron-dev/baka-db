@@ -1,5 +1,9 @@
 {
     "title": "3-gatsu no Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52281.jpg",
+        "alt": "3-gatsu-no-lion"
+    },
     "type": "manga",
     "original_name": "3 月のライオン",
     "start_date": "2007-07-13",

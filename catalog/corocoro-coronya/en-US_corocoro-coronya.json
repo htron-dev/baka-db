@@ -1,5 +1,9 @@
 {
     "title": "Corocoro Coronya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1226/106374.jpg",
+        "alt": "corocoro-coronya"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "ころころコロニャ",

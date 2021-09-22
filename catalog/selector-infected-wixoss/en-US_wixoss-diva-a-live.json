@@ -1,5 +1,9 @@
 {
     "title": "WIXOSS Diva(A)Live",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1779/110807.jpg",
+        "alt": "wixoss-diva-a-live"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "WIXOSS DIVA(A)LIVE（ウィクロス ディーヴァアライブ）",

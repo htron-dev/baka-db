@@ -1,5 +1,9 @@
 {
     "title": "Seiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238298.jpg",
+        "alt": "seiten"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Haikyuu-bu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230124.jpg",
+        "alt": "haikyuu-bu"
+    },
     "type": "manga",
     "original_name": "ハイキュー部!!",
     "start_date": "2019-05-13",

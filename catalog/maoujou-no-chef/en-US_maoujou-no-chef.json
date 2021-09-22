@@ -1,5 +1,9 @@
 {
     "title": "Maoujou no Chef",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194875.jpg",
+        "alt": "maoujou-no-chef"
+    },
     "type": "light-novel",
     "original_name": "魔王城のシェフ",
     "start_date": "2017-04-28",

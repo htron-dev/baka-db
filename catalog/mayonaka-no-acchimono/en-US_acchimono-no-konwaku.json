@@ -1,5 +1,9 @@
 {
     "title": "Acchimono no Konwaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164686.jpg",
+        "alt": "acchimono-no-konwaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

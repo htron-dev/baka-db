@@ -1,5 +1,9 @@
 {
     "title": "Ame to Kimi to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241988.jpg",
+        "alt": "ame-to-kimi-to"
+    },
     "type": "manga",
     "original_name": "雨と君と",
     "start_date": "2020-08-17",

@@ -1,5 +1,9 @@
 {
     "title": "Hoshi wo Futari de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241479.jpg",
+        "alt": "hoshi-wo-futari-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Houkago Saikoro Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118233.jpg",
+        "alt": "houkago-saikoro-club"
+    },
     "type": "manga",
     "original_name": "放課後さいころ倶楽部",
     "start_date": "2013-03-12",

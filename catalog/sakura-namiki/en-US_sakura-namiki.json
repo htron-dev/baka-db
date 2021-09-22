@@ -1,5 +1,9 @@
 {
     "title": "Sakura Namiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16257.jpg",
+        "alt": "sakura-namiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

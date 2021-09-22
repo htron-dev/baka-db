@@ -1,5 +1,9 @@
 {
     "title": "Kakutou Bijin Wulong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31331.jpg",
+        "alt": "kakutou-bijin-wulong"
+    },
     "type": "manga",
     "volumes": "19",
     "original_name": "格闘美神武龍",

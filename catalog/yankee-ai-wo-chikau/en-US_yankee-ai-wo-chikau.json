@@ -1,5 +1,9 @@
 {
     "title": "Yankee Ai wo Chikau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12521.jpg",
+        "alt": "yankee-ai-wo-chikau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

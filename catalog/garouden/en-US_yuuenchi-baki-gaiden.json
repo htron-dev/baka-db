@@ -1,5 +1,9 @@
 {
     "title": "Yuuenchi: Baki Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235643.jpg",
+        "alt": "yuuenchi-baki-gaiden"
+    },
     "type": "light-novel",
     "original_name": "ゆうえんち -バキ外伝-",
     "start_date": "2018-05-17",

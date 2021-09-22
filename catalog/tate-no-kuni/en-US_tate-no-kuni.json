@@ -1,5 +1,9 @@
 {
     "title": "Tate no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214947.jpg",
+        "alt": "tate-no-kuni"
+    },
     "type": "manga",
     "chapters": "120",
     "original_name": "タテの国",

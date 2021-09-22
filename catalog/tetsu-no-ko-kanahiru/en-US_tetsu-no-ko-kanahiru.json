@@ -1,5 +1,9 @@
 {
     "title": "Tetsu no Ko Kanahiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/32577.jpg",
+        "alt": "tetsu-no-ko-kanahiru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鉄の子カナヒル",

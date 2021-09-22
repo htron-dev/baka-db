@@ -1,5 +1,9 @@
 {
     "title": "Atataka na Hari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167941.jpg",
+        "alt": "atataka-na-hari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

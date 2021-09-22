@@ -1,5 +1,9 @@
 {
     "title": "Ichiban Chikaku ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/74514.jpg",
+        "alt": "ichiban-chikaku-ni"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "いちばん近くに",

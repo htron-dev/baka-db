@@ -1,5 +1,9 @@
 {
     "title": "Kyojinzoku no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228214.jpg",
+        "alt": "kyojinzoku-no-hanayome"
+    },
     "type": "manga",
     "original_name": "巨人族の花嫁",
     "start_date": "2019-03-27",

@@ -1,5 +1,9 @@
 {
     "title": "Seihou Tenshi Angel Links",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/46233.jpg",
+        "alt": "seihou-tenshi-angel-links"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "星方天使エンジェルリンクス",

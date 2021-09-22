@@ -1,5 +1,9 @@
 {
     "title": "Mangaya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149706.jpg",
+        "alt": "mangaya"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

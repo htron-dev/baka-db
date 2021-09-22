@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu no Naka no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228734.jpg",
+        "alt": "doubutsu-no-naka-no-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

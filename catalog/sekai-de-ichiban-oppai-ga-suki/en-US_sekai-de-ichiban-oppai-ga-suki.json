@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban Oppai ga Suki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207219.jpg",
+        "alt": "sekai-de-ichiban-oppai-ga-suki"
+    },
     "type": "manga",
     "original_name": "世界で一番おっぱいが好き！",
     "start_date": "2017-07-27",

@@ -1,5 +1,9 @@
 {
     "title": "Pyeong Beonhan ge Joa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82806.jpg",
+        "alt": "pyeong-beonhan-ge-joa"
+    },
     "type": "manhwa",
     "volumes": "4",
     "original_name": "평범한 게 좋아!",

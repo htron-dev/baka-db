@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Rei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/14113.jpg",
+        "alt": "higurashi-no-naku-koro-ni-rei"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "ひぐらしのなく頃に礼",

@@ -1,5 +1,9 @@
 {
     "title": "Amaenaide yo!! Katsu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/15153.jpg",
+        "alt": "amaenaide-yo-katsu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あまえないでよっ!! 喝!!",

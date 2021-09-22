@@ -1,5 +1,9 @@
 {
     "title": "Warikitta Kankei desukara.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221716.jpg",
+        "alt": "warikitta-kankei-desukara"
+    },
     "type": "manga",
     "original_name": "割り切った関係ですから。",
     "start_date": "2019-02-18",

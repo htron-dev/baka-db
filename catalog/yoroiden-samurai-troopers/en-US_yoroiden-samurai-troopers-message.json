@@ -1,5 +1,9 @@
 {
     "title": "Yoroiden Samurai Troopers Message",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1754/94191.jpg",
+        "alt": "yoroiden-samurai-troopers-message"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "鎧伝サムライトルーパー MESSAGE",

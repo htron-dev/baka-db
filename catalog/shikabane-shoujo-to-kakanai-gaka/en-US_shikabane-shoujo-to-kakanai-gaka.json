@@ -1,5 +1,9 @@
 {
     "title": "Shikabane Shoujo to Kakanai Gaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200834.jpg",
+        "alt": "shikabane-shoujo-to-kakanai-gaka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

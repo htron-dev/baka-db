@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Yajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154941.jpg",
+        "alt": "koisuru-yajuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

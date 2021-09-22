@@ -1,5 +1,9 @@
 {
     "title": "Yami Kariudo: Kazoku no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176075.jpg",
+        "alt": "yami-kariudo-kazoku-no-shouzou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

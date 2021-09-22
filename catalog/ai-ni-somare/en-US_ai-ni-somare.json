@@ -1,5 +1,9 @@
 {
     "title": "Ai ni Somare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24478.jpg",
+        "alt": "ai-ni-somare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

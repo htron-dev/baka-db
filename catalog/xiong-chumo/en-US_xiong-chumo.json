@@ -1,5 +1,9 @@
 {
     "title": "Xiong Chumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/78678.jpg",
+        "alt": "xiong-chumo"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "熊出沒",

@@ -1,5 +1,9 @@
 {
     "title": "Josou Danshi Anthology Syrup!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/86513.jpg",
+        "alt": "josou-danshi-anthology-syrup"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "33",

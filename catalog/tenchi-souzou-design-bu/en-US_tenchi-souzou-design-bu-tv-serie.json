@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Souzou Design-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1339/113938.jpg",
+        "alt": "tenchi-souzou-design-bu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "天地創造デザイン部",

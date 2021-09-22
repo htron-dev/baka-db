@@ -1,5 +1,9 @@
 {
     "title": "Bimyou ni Yasashii Ijimekko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220455.jpg",
+        "alt": "bimyou-ni-yasashii-ijimekko"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "142",

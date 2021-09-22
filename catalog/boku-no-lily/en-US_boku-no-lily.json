@@ -1,5 +1,9 @@
 {
     "title": "Boku no Lily",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33367.jpg",
+        "alt": "boku-no-lily"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "ぼくのリリィ",

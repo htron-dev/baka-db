@@ -1,5 +1,9 @@
 {
     "title": "Nihonjin no Shiranai Nihongo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212001.jpg",
+        "alt": "nihonjin-no-shiranai-nihongo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "41",

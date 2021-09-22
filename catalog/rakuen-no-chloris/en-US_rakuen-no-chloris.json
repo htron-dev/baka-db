@@ -1,5 +1,9 @@
 {
     "title": "Rakuen no Chloris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205411.jpg",
+        "alt": "rakuen-no-chloris"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,12 +1,16 @@
 {
     "title": "Duel Masters VSRF",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79117.jpg",
+        "alt": "duel-masters-vsrf"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "デュエル・マスターズ VSRF",
     "start_date": "2016-04-03",
     "end_date": "2016-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"EvoRevo! (エボレボ！)\" by Hayabusa (はやぶさ) (eps 1-26)",
+    "ending_song": "#1: \"JIBUN\" by An Cafe (アンティック-珈琲店-) (eps 1-9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

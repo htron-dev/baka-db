@@ -1,5 +1,9 @@
 {
     "title": "Chou Kakutou Densetsu Ashita Kagayake!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128397.jpg",
+        "alt": "chou-kakutou-densetsu-ashita-kagayake"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "超格闘伝説あした輝け！！",

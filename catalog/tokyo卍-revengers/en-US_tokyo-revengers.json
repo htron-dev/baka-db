@@ -1,10 +1,14 @@
 {
     "title": "Tokyo Revengers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1884/114790.jpg",
+        "alt": "tokyo-revengers"
+    },
     "type": "tv-serie",
     "original_name": "東京リベンジャーズ",
     "start_date": "2021-04-11",
     "opening_song": "\"Cry Baby\" by Official HiGE DANdism",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koko de Iki wo shite (ここで息をして)\" by eill (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

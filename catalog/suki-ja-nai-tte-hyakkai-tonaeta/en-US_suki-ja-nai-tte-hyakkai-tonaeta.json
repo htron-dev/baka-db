@@ -1,5 +1,9 @@
 {
     "title": "Suki ja Nai tte Hyakkai Tonaeta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190573.jpg",
+        "alt": "suki-ja-nai-tte-hyakkai-tonaeta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

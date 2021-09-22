@@ -1,5 +1,9 @@
 {
     "title": "Houkago Owaraibu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96059.jpg",
+        "alt": "houkago-owaraibu"
+    },
     "type": "manga",
     "original_name": "放課後おわらいぶ",
     "tags": [

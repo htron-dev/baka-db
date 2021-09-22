@@ -1,5 +1,9 @@
 {
     "title": "Shu ni Majiwareba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198726.jpg",
+        "alt": "shu-ni-majiwareba"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

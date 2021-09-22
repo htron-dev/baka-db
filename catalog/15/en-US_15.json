@@ -1,5 +1,9 @@
 {
     "title": "15½",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231114.jpg",
+        "alt": "15"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

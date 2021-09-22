@@ -1,5 +1,9 @@
 {
     "title": "Paranoma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225089.jpg",
+        "alt": "paranoma"
+    },
     "type": "manga",
     "original_name": "ぱらのま",
     "start_date": "2015-02-28",

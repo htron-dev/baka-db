@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Super Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217548.jpg",
+        "alt": "tokyo-super-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

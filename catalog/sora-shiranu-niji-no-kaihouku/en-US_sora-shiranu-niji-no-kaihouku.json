@@ -1,5 +1,9 @@
 {
     "title": "Sora Shiranu Niji no Kaihouku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171751.jpg",
+        "alt": "sora-shiranu-niji-no-kaihouku"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "22",

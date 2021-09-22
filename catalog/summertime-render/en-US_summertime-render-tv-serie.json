@@ -1,5 +1,9 @@
 {
     "title": "Summertime Render",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1900/116692.jpg",
+        "alt": "summertime-render"
+    },
     "type": "tv-serie",
     "original_name": "サマータイムレンダ",
     "rating": "None",

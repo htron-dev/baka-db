@@ -1,5 +1,9 @@
 {
     "title": "Utsukushii Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/249242.jpg",
+        "alt": "utsukushii-koto"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "18",

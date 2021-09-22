@@ -1,5 +1,9 @@
 {
     "title": "MeruPuri: Märchen☆Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160609.jpg",
+        "alt": "meru-puri-marchen☆-prince"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

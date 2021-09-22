@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Koisuru Satsujinki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246222.jpg",
+        "alt": "kimi-ni-koisuru-satsujinki"
+    },
     "type": "manga",
     "original_name": "きみに恋する殺人鬼",
     "start_date": "2020-12-30",

@@ -1,5 +1,9 @@
 {
     "title": "Sir Tiger's Table",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/41576.jpg",
+        "alt": "sir-tigers-table"
+    },
     "type": "manhwa",
     "original_name": "호랑님의 식탁",
     "tags": [

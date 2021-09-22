@@ -1,5 +1,9 @@
 {
     "title": "Namae wa Mada Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/99391.jpg",
+        "alt": "namae-wa-mada-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

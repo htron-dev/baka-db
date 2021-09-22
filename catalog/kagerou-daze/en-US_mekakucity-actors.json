@@ -1,12 +1,16 @@
 {
     "title": "Mekakucity Actors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/61519.jpg",
+        "alt": "mekakucity-actors"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "メカクシティアクターズ",
     "start_date": "2014-04-13",
     "end_date": "2014-04-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"daze\" by Jin ft. MARiA from GARNiDELiA (eps 2-5, 8, 10-11)",
+    "ending_song": "#1: \"daze\" by Jin ft. MARiA from GARNiDELiA (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

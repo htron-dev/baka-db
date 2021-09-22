@@ -1,5 +1,9 @@
 {
     "title": "Amazume Ryuta Tanpenshuu Kitto Subete ga Umakuiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/49461.jpg",
+        "alt": "amazume-ryuta-tanpenshuu-kitto-subete-ga-umakuiku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

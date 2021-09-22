@@ -1,5 +1,9 @@
 {
     "title": "Hatsumono Papa (Kari)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209684.jpg",
+        "alt": "hatsumono-papa-kari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

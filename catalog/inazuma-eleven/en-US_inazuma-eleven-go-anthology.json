@@ -1,5 +1,9 @@
 {
     "title": "Inazuma Eleven Go Anthology!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88607.jpg",
+        "alt": "inazuma-eleven-go-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "イナズマイレブン GO アンソロジー!",

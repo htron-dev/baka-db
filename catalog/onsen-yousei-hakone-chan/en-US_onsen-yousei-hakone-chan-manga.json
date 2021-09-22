@@ -1,5 +1,9 @@
 {
     "title": "Onsen Yousei Hakone-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159403.jpg",
+        "alt": "onsen-yousei-hakone-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

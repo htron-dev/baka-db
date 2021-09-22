@@ -1,5 +1,9 @@
 {
     "title": "Papuwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/3061.jpg",
+        "alt": "papuwa"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "パプワ",

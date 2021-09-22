@@ -1,5 +1,9 @@
 {
     "title": "Fast Week",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1773/102390.jpg",
+        "alt": "fast-week"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Fast Week",

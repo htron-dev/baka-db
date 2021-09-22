@@ -1,5 +1,9 @@
 {
     "title": "Embryon Road",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15126.jpg",
+        "alt": "embryon-road"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "44",

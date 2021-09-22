@@ -1,5 +1,9 @@
 {
     "title": "Sand Land",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40731.jpg",
+        "alt": "sand-land"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

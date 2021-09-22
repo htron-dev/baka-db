@@ -1,5 +1,9 @@
 {
     "title": "Oto no Hako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171378.jpg",
+        "alt": "oto-no-hako"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

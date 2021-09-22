@@ -1,5 +1,9 @@
 {
     "title": "Imori 201",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159309.jpg",
+        "alt": "imori-201"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "40",

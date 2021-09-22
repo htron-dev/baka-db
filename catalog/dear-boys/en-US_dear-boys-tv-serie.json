@@ -1,5 +1,9 @@
 {
     "title": "Dear Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1141/109328.jpg",
+        "alt": "dear-boys"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ディア・ボーイズ",

@@ -1,5 +1,9 @@
 {
     "title": "Fate/Grand Order: Comic à la Carte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223593.jpg",
+        "alt": "fate-grand-order-comic-a-la-carte"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "153",

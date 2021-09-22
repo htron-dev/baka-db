@@ -1,5 +1,9 @@
 {
     "title": "Inu-kei Danshi ni Natsukarechuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224578.jpg",
+        "alt": "inu-kei-danshi-ni-natsukarechuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Over Image",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163377.jpg",
+        "alt": "over-image"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "24",

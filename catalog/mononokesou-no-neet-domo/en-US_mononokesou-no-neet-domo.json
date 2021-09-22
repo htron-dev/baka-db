@@ -1,5 +1,9 @@
 {
     "title": "Mononokesou no NEET-domo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164016.jpg",
+        "alt": "mononokesou-no-neet-domo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

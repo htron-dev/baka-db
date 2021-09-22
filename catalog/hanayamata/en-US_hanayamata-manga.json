@@ -1,5 +1,9 @@
 {
     "title": "Hanayamata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207223.jpg",
+        "alt": "hanayamata"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "77",

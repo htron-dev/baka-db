@@ -1,5 +1,9 @@
 {
     "title": "Juuhime: Sincerely Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119199.jpg",
+        "alt": "juuhime-sincerely-night"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

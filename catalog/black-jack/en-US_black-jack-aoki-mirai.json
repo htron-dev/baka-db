@@ -1,5 +1,9 @@
 {
     "title": "Black Jack: Aoki Mirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152336.jpg",
+        "alt": "black-jack-aoki-mirai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

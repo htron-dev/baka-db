@@ -1,5 +1,9 @@
 {
     "title": "Otouto no kuseni Namaiki da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158254.jpg",
+        "alt": "otouto-no-kuseni-namaiki-da"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "弟のくせに生意気だ!",

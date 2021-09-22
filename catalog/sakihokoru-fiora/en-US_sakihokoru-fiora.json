@@ -1,5 +1,9 @@
 {
     "title": "Sakihokoru Fiora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160950.jpg",
+        "alt": "sakihokoru-fiora"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

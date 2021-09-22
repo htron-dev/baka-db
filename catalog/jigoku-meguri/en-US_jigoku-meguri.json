@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Meguri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26245.jpg",
+        "alt": "jigoku-meguri"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

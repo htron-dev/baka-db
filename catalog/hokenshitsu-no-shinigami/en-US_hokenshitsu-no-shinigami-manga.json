@@ -1,5 +1,9 @@
 {
     "title": "Hokenshitsu no Shinigami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178944.jpg",
+        "alt": "hokenshitsu-no-shinigami"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "87",

@@ -1,5 +1,9 @@
 {
     "title": "Makoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158246.jpg",
+        "alt": "makoto"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "MAKOTO",

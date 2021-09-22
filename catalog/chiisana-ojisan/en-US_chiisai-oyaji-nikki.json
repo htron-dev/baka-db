@@ -1,5 +1,9 @@
 {
     "title": "Chiisai Oyaji Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77711.jpg",
+        "alt": "chiisai-oyaji-nikki"
+    },
     "type": "manga",
     "original_name": "ちいさいおやじ日記",
     "tags": [

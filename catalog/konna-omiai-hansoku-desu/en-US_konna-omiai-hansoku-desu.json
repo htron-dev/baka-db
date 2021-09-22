@@ -1,5 +1,9 @@
 {
     "title": "Konna Omiai Hansoku desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128201.jpg",
+        "alt": "konna-omiai-hansoku-desu"
+    },
     "type": "manga",
     "original_name": "こんなお見合い反則です｡",
     "start_date": "2013-03-01",

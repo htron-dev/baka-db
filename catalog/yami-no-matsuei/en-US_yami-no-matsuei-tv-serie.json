@@ -1,5 +1,9 @@
 {
     "title": "Yami no Matsuei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1414/109717.jpg",
+        "alt": "yami-no-matsuei"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "闇の末裔",

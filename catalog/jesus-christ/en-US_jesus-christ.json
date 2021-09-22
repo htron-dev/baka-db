@@ -1,5 +1,9 @@
 {
     "title": "Jesus Christ!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17791.jpg",
+        "alt": "jesus-christ"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ジーザス・クライスト！",

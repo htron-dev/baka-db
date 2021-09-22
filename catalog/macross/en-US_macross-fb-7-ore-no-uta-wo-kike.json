@@ -1,10 +1,14 @@
 {
     "title": "Macross FB7: Ore no Uta wo Kike!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/41111.jpg",
+        "alt": "macross-fb-7-ore-no-uta-wo-kike"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マクロス FB7 銀河流魂 オレノウタヲキケ!",
     "start_date": "2012-10-20",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nian Nian FIRE! ~Totsugeki Planet Explosion (娘々 FIRE！～突撃プラネットエクスプロージョン)\" by May'n, Megumi Nakajima, and Fire Bomber",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

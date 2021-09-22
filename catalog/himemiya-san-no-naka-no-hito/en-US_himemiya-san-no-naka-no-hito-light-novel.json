@@ -1,5 +1,9 @@
 {
     "title": "Himemiya-san no Naka no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163212.jpg",
+        "alt": "himemiya-san-no-naka-no-hito"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "34",

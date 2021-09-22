@@ -1,5 +1,9 @@
 {
     "title": "King Marker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164816.jpg",
+        "alt": "king-marker"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

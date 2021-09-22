@@ -1,5 +1,9 @@
 {
     "title": "Unlucky Strike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201073.jpg",
+        "alt": "unlucky-strike"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

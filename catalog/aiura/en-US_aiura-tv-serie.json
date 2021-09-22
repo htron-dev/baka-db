@@ -1,5 +1,9 @@
 {
     "title": "Aiura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/60699.jpg",
+        "alt": "aiura"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あいうら",

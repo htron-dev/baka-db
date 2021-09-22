@@ -1,5 +1,9 @@
 {
     "title": "Yamada no Orochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51925.jpg",
+        "alt": "yamada-no-orochi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ヤマダのオロチ",

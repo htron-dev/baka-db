@@ -1,11 +1,15 @@
 {
     "title": "Koutetsujou no Kabaneri Movie 2: Moeru Inochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/82963.jpg",
+        "alt": "koutetsujou-no-kabaneri-movie-2-moeru-inochi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "甲鉄城のカバネリ 総集編｛後編｝燃える命",
     "start_date": "2017-01-07",
     "opening_song": "\"KABANERI OF THE IRON FORTRESS\" by EGOIST",
-    "ending_song": "\"ninelie <cry-v>\" by SawanoHiroyuki[nZk]",
+    "ending_song": "\"ninelie <cry-v>\" by SawanoHiroyuki[nZk]:Aimer",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

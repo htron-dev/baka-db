@@ -1,5 +1,9 @@
 {
     "title": "Hacks!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125231.jpg",
+        "alt": "hacks"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

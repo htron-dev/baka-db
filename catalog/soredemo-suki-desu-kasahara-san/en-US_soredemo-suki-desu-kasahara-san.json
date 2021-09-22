@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Suki desu Kasahara-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220424.jpg",
+        "alt": "soredemo-suki-desu-kasahara-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

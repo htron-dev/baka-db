@@ -1,5 +1,9 @@
 {
     "title": "Hoshi wo Katta Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/38233.jpg",
+        "alt": "hoshi-wo-katta-hi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "星をかった日",

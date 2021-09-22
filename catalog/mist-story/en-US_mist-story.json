@@ -1,5 +1,9 @@
 {
     "title": "Mist Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105541.jpg",
+        "alt": "mist-story"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

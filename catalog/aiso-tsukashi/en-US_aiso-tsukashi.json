@@ -1,5 +1,9 @@
 {
     "title": "Aiso Tsukashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38593.jpg",
+        "alt": "aiso-tsukashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

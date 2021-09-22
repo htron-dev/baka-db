@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Card ni Natta Wake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/112345.jpg",
+        "alt": "pokemon-card-ni-natta-wake"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

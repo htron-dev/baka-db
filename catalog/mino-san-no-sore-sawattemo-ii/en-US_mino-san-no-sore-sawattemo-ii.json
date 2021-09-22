@@ -1,5 +1,9 @@
 {
     "title": "Mino-san no Sore, Sawattemo Ii?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215084.jpg",
+        "alt": "mino-san-no-sore-sawattemo-ii"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

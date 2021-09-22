@@ -1,5 +1,9 @@
 {
     "title": "Mirai Nikki: Paradox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/38446.jpg",
+        "alt": "mirai-nikki-paradox"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

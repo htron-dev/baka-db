@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu Koushinkyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34452.jpg",
+        "alt": "chikyuu-koushinkyoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

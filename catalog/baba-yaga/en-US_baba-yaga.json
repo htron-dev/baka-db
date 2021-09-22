@@ -1,5 +1,9 @@
 {
     "title": "Baba Yaga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196854.jpg",
+        "alt": "baba-yaga"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

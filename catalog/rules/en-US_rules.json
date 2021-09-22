@@ -1,5 +1,9 @@
 {
     "title": "Rules",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4737.jpg",
+        "alt": "rules"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

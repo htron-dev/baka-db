@@ -1,5 +1,9 @@
 {
     "title": "Saezuru Tori wa Habatakanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83655.jpg",
+        "alt": "saezuru-tori-wa-habatakanai"
+    },
     "type": "manga",
     "original_name": "囀る鳥は羽ばたかない",
     "start_date": "2008-03-31",

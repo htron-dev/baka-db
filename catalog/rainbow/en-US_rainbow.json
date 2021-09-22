@@ -1,5 +1,9 @@
 {
     "title": "Rainbow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136073.jpg",
+        "alt": "rainbow"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "25",

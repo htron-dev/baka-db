@@ -1,11 +1,15 @@
 {
     "title": "Chinmoku no Kantai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/4026.jpg",
+        "alt": "chinmoku-no-kantai"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "沈黙の艦隊",
     "start_date": "1995-12-18",
     "end_date": "1995-12-18",
-    "ending_song": "\"Yume no Nagisa",
+    "ending_song": "\"Yume no Nagisa: The Silent Service (夢の渚-The Silent Service-)\" by Takao Kisugi",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Silent_Service_(film"
+            "link": "https://en.wikipedia.org/wiki/Silent_Service_%28film%29"
         }
     ]
 }

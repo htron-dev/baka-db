@@ -1,5 +1,9 @@
 {
     "title": "Haridama Taima Juku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3896.jpg",
+        "alt": "haridama-taima-juku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

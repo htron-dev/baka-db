@@ -1,5 +1,9 @@
 {
     "title": "Anata de Ippai ni Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193652.jpg",
+        "alt": "anata-de-ippai-ni-shite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

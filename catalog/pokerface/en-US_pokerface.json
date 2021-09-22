@@ -1,5 +1,9 @@
 {
     "title": "Pokerface",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28942.jpg",
+        "alt": "pokerface"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "코커페이스",

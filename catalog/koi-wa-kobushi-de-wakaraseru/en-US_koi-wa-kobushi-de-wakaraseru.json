@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Kobushi de Wakaraseru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153386.jpg",
+        "alt": "koi-wa-kobushi-de-wakaraseru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋は拳でわからせろ!",

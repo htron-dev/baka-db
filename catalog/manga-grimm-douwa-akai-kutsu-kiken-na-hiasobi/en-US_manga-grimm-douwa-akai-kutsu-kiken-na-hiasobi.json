@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Akai Kutsu - Kiken na Hiasobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139681.jpg",
+        "alt": "manga-grimm-douwa-akai-kutsu-kiken-na-hiasobi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

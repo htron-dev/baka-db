@@ -1,5 +1,9 @@
 {
     "title": "Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215128.jpg",
+        "alt": "mono"
+    },
     "type": "manga",
     "original_name": "mono",
     "start_date": "2017-03-16",

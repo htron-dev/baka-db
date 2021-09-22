@@ -1,5 +1,9 @@
 {
     "title": "Himitsukessha Taka no Tsume Countdown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/82798.jpg",
+        "alt": "himitsukessha-taka-no-tsume-countdown"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "秘密結社 鷹の爪 カウントダウン",

@@ -1,5 +1,9 @@
 {
     "title": "Egawa to Nishimoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168698.jpg",
+        "alt": "egawa-to-nishimoto"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "93",

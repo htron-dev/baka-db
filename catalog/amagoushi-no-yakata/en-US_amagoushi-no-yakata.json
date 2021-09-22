@@ -1,5 +1,9 @@
 {
     "title": "Amagoushi no Yakata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30435.jpg",
+        "alt": "amagoushi-no-yakata"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "雨格子の館",

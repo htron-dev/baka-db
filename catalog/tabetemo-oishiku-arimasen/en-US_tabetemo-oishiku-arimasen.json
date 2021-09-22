@@ -1,5 +1,9 @@
 {
     "title": "Tabetemo Oishiku Arimasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226660.jpg",
+        "alt": "tabetemo-oishiku-arimasen"
+    },
     "type": "manga",
     "original_name": "食べてもおいしくありません",
     "start_date": "2018-09-07",

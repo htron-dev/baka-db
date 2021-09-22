@@ -1,12 +1,16 @@
 {
     "title": "Monogatari Series: Second Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/52133.jpg",
+        "alt": "monogatari-series-second-season"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "〈物語〉シリーズ セカンドシーズン",
     "start_date": "2013-07-07",
     "end_date": "2013-07-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"chocolate insomnia\" by Tsubasa Hanekawa (Yui Horie) (TV: eps 1-2, 4; BD/DVD: eps 1-5)",
+    "ending_song": "#1: \"Ai wo Utae (アイヲウタエ)\" by Luna Haruna (eps 1-10)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

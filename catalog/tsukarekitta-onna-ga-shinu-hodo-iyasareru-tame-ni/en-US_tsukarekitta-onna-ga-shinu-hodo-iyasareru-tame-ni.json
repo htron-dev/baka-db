@@ -1,5 +1,9 @@
 {
     "title": "Tsukarekitta Onna ga Shinu hodo Iyasareru Tame ni.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232994.jpg",
+        "alt": "tsukarekitta-onna-ga-shinu-hodo-iyasareru-tame-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko Tokidoki Otokonoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34118.jpg",
+        "alt": "onnanoko-tokidoki-otokonoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

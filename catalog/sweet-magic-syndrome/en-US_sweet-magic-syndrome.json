@@ -1,5 +1,9 @@
 {
     "title": "Sweet Magic Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82614.jpg",
+        "alt": "sweet-magic-syndrome"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

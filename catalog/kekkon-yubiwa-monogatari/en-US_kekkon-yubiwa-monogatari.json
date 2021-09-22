@@ -1,5 +1,9 @@
 {
     "title": "Kekkon Yubiwa Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188970.jpg",
+        "alt": "kekkon-yubiwa-monogatari"
+    },
     "type": "manga",
     "original_name": "結婚指輪物語",
     "start_date": "2014-03-31",

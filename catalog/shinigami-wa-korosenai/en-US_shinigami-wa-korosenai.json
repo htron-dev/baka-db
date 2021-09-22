@@ -1,5 +1,9 @@
 {
     "title": "Shinigami wa Korosenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244867.jpg",
+        "alt": "shinigami-wa-korosenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Gin no Toge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164817.jpg",
+        "alt": "gin-no-toge"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Kokoro Nagu Yashiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244672.jpg",
+        "alt": "kokoro-nagu-yashiro"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "心凪ぐ社",

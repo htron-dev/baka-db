@@ -1,12 +1,16 @@
 {
     "title": "M3: Sono Kuroki Hagane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/60273.jpg",
+        "alt": "m-3-sono-kuroki-hagane"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "M3 ～ソノ黒キ鋼～",
     "start_date": "2014-04-22",
     "end_date": "2014-04-22",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Re:REMEMBER\" by May'n (eps 1-13)",
+    "ending_song": "#1: \"ego-izm\" by la la larks (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

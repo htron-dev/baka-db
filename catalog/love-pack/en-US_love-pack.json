@@ -1,5 +1,9 @@
 {
     "title": "Love Pack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33012.jpg",
+        "alt": "love-pack"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ラブパック",

@@ -1,5 +1,9 @@
 {
     "title": "Bukuro Kicks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235677.jpg",
+        "alt": "bukuro-kicks"
+    },
     "type": "manga",
     "original_name": "ブクロキックス",
     "start_date": "2020-03-30",

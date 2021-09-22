@@ -1,5 +1,9 @@
 {
     "title": "Shokunin Danshi Kanda-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227928.jpg",
+        "alt": "shokunin-danshi-kanda-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

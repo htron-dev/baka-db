@@ -1,5 +1,9 @@
 {
     "title": "Kabatotto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/6611.jpg",
+        "alt": "kabatotto"
+    },
     "type": "tv-serie",
     "episodes": "300",
     "original_name": "カバトット",

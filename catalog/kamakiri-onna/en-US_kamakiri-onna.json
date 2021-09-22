@@ -1,5 +1,9 @@
 {
     "title": "Kamakiri Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46791.jpg",
+        "alt": "kamakiri-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

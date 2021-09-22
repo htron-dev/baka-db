@@ -1,5 +1,9 @@
 {
     "title": "Shiroi Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21470.jpg",
+        "alt": "shiroi-ori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

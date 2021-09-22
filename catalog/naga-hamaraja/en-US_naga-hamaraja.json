@@ -1,5 +1,9 @@
 {
     "title": "Naga Hamaraja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/88653.jpg",
+        "alt": "naga-hamaraja"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ナガハマラジャ",

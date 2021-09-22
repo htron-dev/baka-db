@@ -1,5 +1,9 @@
 {
     "title": "Sonna Asobi wa Ikemasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163056.jpg",
+        "alt": "sonna-asobi-wa-ikemasen"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "51",

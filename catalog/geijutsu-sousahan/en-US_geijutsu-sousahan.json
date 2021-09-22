@@ -1,5 +1,9 @@
 {
     "title": "Geijutsu Sousahan!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150581.jpg",
+        "alt": "geijutsu-sousahan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

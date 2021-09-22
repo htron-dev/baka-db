@@ -1,5 +1,9 @@
 {
     "title": "Miki no Mikoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1177/91002.jpg",
+        "alt": "miki-no-mikoto"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "神酒ノ尊-ミキノミコト-",

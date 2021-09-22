@@ -1,5 +1,9 @@
 {
     "title": "Kawaii tte Itte yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95983.jpg",
+        "alt": "kawaii-tte-itte-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

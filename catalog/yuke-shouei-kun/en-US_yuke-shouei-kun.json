@@ -1,5 +1,9 @@
 {
     "title": "Yuke! Shouei-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/45694.jpg",
+        "alt": "yuke-shouei-kun"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "ゆけ！小英くん",

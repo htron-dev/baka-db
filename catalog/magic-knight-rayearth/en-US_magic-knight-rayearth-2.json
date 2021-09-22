@@ -1,5 +1,9 @@
 {
     "title": "Magic Knight Rayearth 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/157705.jpg",
+        "alt": "magic-knight-rayearth-2"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Top News wa Ai de Tore!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153383.jpg",
+        "alt": "top-news-wa-ai-de-tore"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "トップニュースは愛でとれ!",

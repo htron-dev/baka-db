@@ -1,9 +1,13 @@
 {
     "title": "Koukaku Kidoutai: Arise - Sleepless Eye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95927.jpg",
+        "alt": "koukaku-kidoutai-arise-sleepless-eye"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "42",
-    "original_name": "攻殻機動隊ARISE～眠らない眼の男 Sleepless Eye～",
+    "original_name": "攻殻機動隊 ARISE ～眠らない眼の男 Sleepless Eye ～",
     "start_date": "2013-03-13",
     "end_date": "2013-03-13",
     "tags": [

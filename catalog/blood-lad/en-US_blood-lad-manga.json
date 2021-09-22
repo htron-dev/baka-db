@@ -1,5 +1,9 @@
 {
     "title": "Blood Lad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187779.jpg",
+        "alt": "blood-lad"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "85",

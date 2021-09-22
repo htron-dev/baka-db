@@ -1,5 +1,9 @@
 {
     "title": "Mouryou no Hako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120949.jpg",
+        "alt": "mouryou-no-hako"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "10",

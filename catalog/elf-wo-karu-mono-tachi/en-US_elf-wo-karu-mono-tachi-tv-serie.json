@@ -1,5 +1,9 @@
 {
     "title": "Elf wo Karu Mono-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/74219.jpg",
+        "alt": "elf-wo-karu-mono-tachi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "エルフを狩るモノたち",

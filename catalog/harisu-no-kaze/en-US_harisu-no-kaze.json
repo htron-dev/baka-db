@@ -1,5 +1,9 @@
 {
     "title": "Harisu no Kaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/47147.jpg",
+        "alt": "harisu-no-kaze"
+    },
     "type": "tv-serie",
     "episodes": "70",
     "original_name": "ハリスの旋風",

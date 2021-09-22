@@ -1,5 +1,9 @@
 {
     "title": "Samurai Gun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37894.jpg",
+        "alt": "samurai-gun"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "サムライガン",

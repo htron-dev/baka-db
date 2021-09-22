@@ -1,5 +1,9 @@
 {
     "title": "Neo Kiseijuu f",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154559.jpg",
+        "alt": "neo-kiseijuu-f"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Neko to Mata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/85474.jpg",
+        "alt": "neko-to-mata"
+    },
     "type": "tv-serie",
     "episodes": "67",
     "original_name": "ね子とま太",

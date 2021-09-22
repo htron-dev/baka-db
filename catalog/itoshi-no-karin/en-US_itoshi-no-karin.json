@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Karin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202211.jpg",
+        "alt": "itoshi-no-karin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

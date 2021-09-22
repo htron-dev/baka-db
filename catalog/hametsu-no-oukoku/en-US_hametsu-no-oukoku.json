@@ -1,5 +1,9 @@
 {
     "title": "Hametsu no Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226287.jpg",
+        "alt": "hametsu-no-oukoku"
+    },
     "type": "manga",
     "original_name": "はめつのおうこく",
     "start_date": "2019-04-05",

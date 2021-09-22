@@ -1,5 +1,9 @@
 {
     "title": "Colorful Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135227.jpg",
+        "alt": "colorful-line"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Iljimae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/37546.jpg",
+        "alt": "iljimae"
+    },
     "type": "manhwa",
     "volumes": "8",
     "original_name": "一枝梅 일지매",

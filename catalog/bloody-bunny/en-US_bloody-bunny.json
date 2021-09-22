@@ -1,5 +1,9 @@
 {
     "title": "Bloody Bunny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/63741.jpg",
+        "alt": "bloody-bunny"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "BLOODY BUNNY",

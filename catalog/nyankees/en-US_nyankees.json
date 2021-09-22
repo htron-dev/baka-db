@@ -1,5 +1,9 @@
 {
     "title": "Nyankees",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190127.jpg",
+        "alt": "nyankees"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "31",

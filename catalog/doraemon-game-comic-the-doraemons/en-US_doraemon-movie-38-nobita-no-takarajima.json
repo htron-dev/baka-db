@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 38: Nobita no Takarajima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/89830.jpg",
+        "alt": "doraemon-movie-38-nobita-no-takarajima"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太の宝島",

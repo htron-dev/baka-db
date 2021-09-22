@@ -1,12 +1,16 @@
 {
     "title": "Bakugan Battle Brawlers: New Vestroia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1339/117249.jpg",
+        "alt": "bakugan-battle-brawlers-new-vestroia"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "爆丸バトルブローラーズ New Vestroia",
     "start_date": "2009-04-12",
     "end_date": "2009-04-12",
     "opening_song": "\"Cho! Saikyo! Warriors\" by Psychic Lover",
-    "ending_song": "#1",
+    "ending_song": "#1: \"BANG! BANG! BAKUGAN\" by Yoshifumi Ushima (eps 1-13, 52)",
     "rating": "PG - Children",
     "tags": [
         "game",

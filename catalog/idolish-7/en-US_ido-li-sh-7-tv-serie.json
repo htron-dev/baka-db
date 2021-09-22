@@ -1,12 +1,16 @@
 {
     "title": "IDOLiSH7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1390/90828.jpg",
+        "alt": "ido-li-sh-7"
+    },
     "type": "tv-serie",
     "episodes": "17",
     "original_name": "アイドリッシュセブン",
     "start_date": "2018-01-07",
     "end_date": "2018-01-07",
     "opening_song": "\"WiSH VOYAGE\" by IDOLiSH7",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Heavenly Visitor\" by TRIGGER (eps 4-7, 9-11, 13-17)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

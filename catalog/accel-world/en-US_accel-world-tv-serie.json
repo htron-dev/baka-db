@@ -1,12 +1,16 @@
 {
     "title": "Accel World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/38155.jpg",
+        "alt": "accel-world"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "アクセル・ワールド",
     "start_date": "2012-04-07",
     "end_date": "2012-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Chase the world\" by May'n (eps 2-13)",
+    "ending_song": "#1: \"Chase the world\" by May'n (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

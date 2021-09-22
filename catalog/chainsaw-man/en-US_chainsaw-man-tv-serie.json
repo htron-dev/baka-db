@@ -1,5 +1,9 @@
 {
     "title": "Chainsaw Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1632/110707.jpg",
+        "alt": "chainsaw-man"
+    },
     "type": "tv-serie",
     "original_name": "チェンソーマン",
     "rating": "None",

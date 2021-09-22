@@ -1,5 +1,9 @@
 {
     "title": "Shaman King & A Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243038.jpg",
+        "alt": "shaman-king-a-garden"
+    },
     "type": "manga",
     "original_name": "SHAMAN KING & a garden",
     "start_date": "2020-12-01",

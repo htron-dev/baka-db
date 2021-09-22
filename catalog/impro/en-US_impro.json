@@ -1,5 +1,9 @@
 {
     "title": "Impro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150244.jpg",
+        "alt": "impro"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "インプロ!",

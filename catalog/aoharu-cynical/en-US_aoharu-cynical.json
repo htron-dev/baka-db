@@ -1,5 +1,9 @@
 {
     "title": "Aoharu Cynical",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171810.jpg",
+        "alt": "aoharu-cynical"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

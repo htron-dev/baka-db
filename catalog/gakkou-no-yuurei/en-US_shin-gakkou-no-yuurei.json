@@ -1,5 +1,9 @@
 {
     "title": "Shin Gakkou no Yuurei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/84713.jpg",
+        "alt": "shin-gakkou-no-yuurei"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "真 学校の幽霊",

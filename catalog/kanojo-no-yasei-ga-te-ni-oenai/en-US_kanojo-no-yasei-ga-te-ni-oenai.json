@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Yasei ga Te ni Oenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227297.jpg",
+        "alt": "kanojo-no-yasei-ga-te-ni-oenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

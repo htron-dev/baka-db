@@ -1,5 +1,9 @@
 {
     "title": "Isourou Okotowari.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180596.jpg",
+        "alt": "isourou-okotowari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

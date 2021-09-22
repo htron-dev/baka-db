@@ -1,5 +1,9 @@
 {
     "title": "Nu Wu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97685.jpg",
+        "alt": "nu-wu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "20",

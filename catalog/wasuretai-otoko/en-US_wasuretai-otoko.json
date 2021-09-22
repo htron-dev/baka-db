@@ -1,5 +1,9 @@
 {
     "title": "Wasuretai Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128451.jpg",
+        "alt": "wasuretai-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

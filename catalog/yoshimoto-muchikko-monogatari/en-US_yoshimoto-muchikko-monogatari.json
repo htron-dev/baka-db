@@ -1,5 +1,9 @@
 {
     "title": "Yoshimoto Muchikko Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/35871.jpg",
+        "alt": "yoshimoto-muchikko-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "ヨシモトムチッ子物語",

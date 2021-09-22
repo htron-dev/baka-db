@@ -1,5 +1,9 @@
 {
     "title": "Yamato Nadeshiko Shichihenge♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173084.jpg",
+        "alt": "yamato-nadeshiko-shichihenge♥"
+    },
     "type": "manga",
     "volumes": "36",
     "chapters": "148",

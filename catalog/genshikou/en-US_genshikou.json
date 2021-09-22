@@ -1,5 +1,9 @@
 {
     "title": "Genshikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123249.jpg",
+        "alt": "genshikou"
+    },
     "type": "light-novel",
     "original_name": "幻視行",
     "start_date": "2013-04-27",

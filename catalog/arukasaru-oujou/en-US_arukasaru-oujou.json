@@ -1,5 +1,9 @@
 {
     "title": "Arukasaru Oujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12652.jpg",
+        "alt": "arukasaru-oujou"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "アルカサル-王城-",

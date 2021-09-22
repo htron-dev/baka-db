@@ -1,5 +1,9 @@
 {
     "title": "Kyoufu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229879.jpg",
+        "alt": "kyoufu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

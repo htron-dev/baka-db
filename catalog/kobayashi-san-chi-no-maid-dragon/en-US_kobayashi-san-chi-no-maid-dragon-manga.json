@@ -1,5 +1,9 @@
 {
     "title": "Kobayashi-san Chi no Maid Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138919.jpg",
+        "alt": "kobayashi-san-chi-no-maid-dragon"
+    },
     "type": "manga",
     "original_name": "小林さんちのメイドラゴン",
     "start_date": "2013-05-25",

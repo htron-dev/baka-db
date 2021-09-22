@@ -1,5 +1,9 @@
 {
     "title": "Video Girl Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185816.jpg",
+        "alt": "video-girl-ai"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "131",

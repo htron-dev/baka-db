@@ -1,5 +1,9 @@
 {
     "title": "Zombie-Loan Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/25890.jpg",
+        "alt": "zombie-loan-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ZOMBIE-LOAN ゾンビローン",

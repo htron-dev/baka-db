@@ -1,5 +1,9 @@
 {
     "title": "Chicken Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201586.jpg",
+        "alt": "chicken-party"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "54",

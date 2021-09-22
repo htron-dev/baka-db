@@ -1,12 +1,16 @@
 {
     "title": "Yama no Susume: Second Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/56595.jpg",
+        "alt": "yama-no-susume-second-season"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ヤマノススメ セカンドシーズン",
     "start_date": "2014-07-09",
     "end_date": "2014-07-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Natsu-iro Present (夏色プレゼント)\" by Aoi (Yuka Iguchi), Hinata (Kana Asumi), Kaede (Yoko Hikasa), Kokona (Yui Ogura) (eps 1-15)",
+    "ending_song": "#1: \"Tinkling Smile\" by Yui Ogura (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Kouya ni Kemono Doukokusu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186637.jpg",
+        "alt": "kouya-ni-kemono-doukokusu"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "93",

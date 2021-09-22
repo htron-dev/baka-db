@@ -1,5 +1,9 @@
 {
     "title": "Donkan na Boku to Surudoi Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128301.jpg",
+        "alt": "donkan-na-boku-to-surudoi-kanojo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

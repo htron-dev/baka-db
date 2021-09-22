@@ -1,5 +1,9 @@
 {
     "title": "Pink Spot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137753.jpg",
+        "alt": "pink-spot"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ピンクスパット",

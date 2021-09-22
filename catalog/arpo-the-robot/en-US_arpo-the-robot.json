@@ -1,5 +1,9 @@
 {
     "title": "Arpo The Robot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1313/114093.jpg",
+        "alt": "arpo-the-robot"
+    },
     "type": "tv-serie",
     "episodes": "42",
     "original_name": "로봇 알포",

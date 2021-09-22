@@ -1,5 +1,9 @@
 {
     "title": "Tokumei Seitokai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177344.jpg",
+        "alt": "tokumei-seitokai"
+    },
     "type": "light-novel",
     "original_name": "特命生徒会",
     "start_date": "2016-06-01",

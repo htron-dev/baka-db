@@ -1,5 +1,9 @@
 {
     "title": "Ookami wa Ookamida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1090/92231.jpg",
+        "alt": "ookami-wa-ookamida"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "狼は狼だ",

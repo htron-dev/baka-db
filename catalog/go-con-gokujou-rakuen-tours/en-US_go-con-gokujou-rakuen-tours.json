@@ -1,5 +1,9 @@
 {
     "title": "Go Con - Gokujou Rakuen Tours",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2658.jpg",
+        "alt": "go-con-gokujou-rakuen-tours"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

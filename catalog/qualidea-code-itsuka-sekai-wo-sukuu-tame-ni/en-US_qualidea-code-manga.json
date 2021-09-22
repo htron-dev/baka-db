@@ -1,5 +1,9 @@
 {
     "title": "Qualidea Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195587.jpg",
+        "alt": "qualidea-code"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

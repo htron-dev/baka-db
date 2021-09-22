@@ -1,5 +1,9 @@
 {
     "title": "Devi★Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109559.jpg",
+        "alt": "devi★-rock"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

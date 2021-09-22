@@ -1,5 +1,9 @@
 {
     "title": "Armored Mermaid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159871.jpg",
+        "alt": "armored-mermaid"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

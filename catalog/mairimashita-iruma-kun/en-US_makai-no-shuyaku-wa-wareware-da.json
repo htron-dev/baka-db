@@ -1,5 +1,9 @@
 {
     "title": "Makai no Shuyaku wa Wareware da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230830.jpg",
+        "alt": "makai-no-shuyaku-wa-wareware-da"
+    },
     "type": "manga",
     "original_name": "魔界の主役は我々だ！",
     "start_date": "2020-01-09",

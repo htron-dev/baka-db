@@ -1,5 +1,9 @@
 {
     "title": "Caterpillar Operetta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146601.jpg",
+        "alt": "caterpillar-operetta"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

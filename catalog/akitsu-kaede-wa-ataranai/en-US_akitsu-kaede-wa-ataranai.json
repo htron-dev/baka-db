@@ -1,5 +1,9 @@
 {
     "title": "Akitsu Kaede wa Ataranai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145497.jpg",
+        "alt": "akitsu-kaede-wa-ataranai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "秋津楓はアたらない!",

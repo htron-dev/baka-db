@@ -1,5 +1,9 @@
 {
     "title": "Tempest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143451.jpg",
+        "alt": "tempest"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "36",

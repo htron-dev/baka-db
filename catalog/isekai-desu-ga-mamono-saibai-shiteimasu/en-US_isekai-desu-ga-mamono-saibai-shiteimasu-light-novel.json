@@ -1,5 +1,9 @@
 {
     "title": "Isekai desu ga Mamono Saibai shiteimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186300.jpg",
+        "alt": "isekai-desu-ga-mamono-saibai-shiteimasu"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "53",

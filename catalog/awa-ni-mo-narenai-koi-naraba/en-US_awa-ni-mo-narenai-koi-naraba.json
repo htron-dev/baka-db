@@ -1,5 +1,9 @@
 {
     "title": "Awa ni mo Narenai Koi naraba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222387.jpg",
+        "alt": "awa-ni-mo-narenai-koi-naraba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

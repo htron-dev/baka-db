@@ -1,5 +1,9 @@
 {
     "title": "Yuugo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180338.jpg",
+        "alt": "yuugo"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "110",

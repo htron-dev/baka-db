@@ -1,5 +1,9 @@
 {
     "title": "Kitaku Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171416.jpg",
+        "alt": "kitaku-sensou"
+    },
     "type": "light-novel",
     "original_name": "帰宅戦争",
     "start_date": "2016-01-20",

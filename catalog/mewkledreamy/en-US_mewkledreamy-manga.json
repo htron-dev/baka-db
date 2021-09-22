@@ -1,5 +1,9 @@
 {
     "title": "Mewkledreamy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221263.jpg",
+        "alt": "mewkledreamy"
+    },
     "type": "manga",
     "original_name": "ミュークルドリーミー",
     "start_date": "2020-01-20",

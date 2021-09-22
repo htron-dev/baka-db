@@ -1,5 +1,9 @@
 {
     "title": "Shokushuhime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217891.jpg",
+        "alt": "shokushuhime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Oshiri no Oishasan ga, Ore no Ushiro wo Neratteru!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224555.jpg",
+        "alt": "oshiri-no-oishasan-ga-ore-no-ushiro-wo-neratteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

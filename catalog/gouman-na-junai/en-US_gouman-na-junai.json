@@ -1,5 +1,9 @@
 {
     "title": "Gouman na Junai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10600.jpg",
+        "alt": "gouman-na-junai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

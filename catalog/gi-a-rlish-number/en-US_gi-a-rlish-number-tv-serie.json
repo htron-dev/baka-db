@@ -1,12 +1,16 @@
 {
     "title": "Gi(a)rlish Number",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/82291.jpg",
+        "alt": "gi-a-rlish-number"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ガーリッシュ ナンバー",
     "start_date": "2016-10-07",
     "end_date": "2016-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ketsui no Diamond\" by kohaluna (ep 1)",
+    "ending_song": "#1: \"Ima wa Mijikashi Yume Miyo Otome (今は短し夢見よ乙女)\" by Gi(a)rlish Number (eps 2-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life"

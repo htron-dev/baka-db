@@ -1,5 +1,9 @@
 {
     "title": "Anata wo Ajiwaitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27810.jpg",
+        "alt": "anata-wo-ajiwaitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

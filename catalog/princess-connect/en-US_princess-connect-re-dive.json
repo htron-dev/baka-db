@@ -1,12 +1,16 @@
 {
     "title": "Princess Connect! Re:Dive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
+        "alt": "princess-connect-re-dive"
+    },
     "type": "tv-serie",
     "episodes": "13",
-    "original_name": "プリンセスコネクト！Re",
+    "original_name": "プリンセスコネクト！Re:Dive",
     "start_date": "2020-04-07",
     "end_date": "2020-04-07",
     "opening_song": "\"Lost Princess\" by Pecorine (M・A・O), Kokkoro (Miku Itou), Karyl (Rika Tachibana)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sore demo Tomo ni Aruiteiku (それでもともに歩いていく)\" by Pecorine (M・A・O), Kokkoro (Miku Itou), Karyl (Rika Tachibana) (eps 2-6, 8-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

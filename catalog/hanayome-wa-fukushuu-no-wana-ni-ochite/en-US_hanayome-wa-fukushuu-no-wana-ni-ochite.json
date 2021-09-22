@@ -1,5 +1,9 @@
 {
     "title": "Hanayome wa Fukushuu no Wana ni Ochite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194982.jpg",
+        "alt": "hanayome-wa-fukushuu-no-wana-ni-ochite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "花嫁は復讐の罠に落ちて",

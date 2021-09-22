@@ -1,5 +1,9 @@
 {
     "title": "Trigram 8",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/80435.jpg",
+        "alt": "trigram-8"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

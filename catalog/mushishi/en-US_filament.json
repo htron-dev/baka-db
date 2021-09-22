@@ -1,5 +1,9 @@
 {
     "title": "Filament",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164487.jpg",
+        "alt": "filament"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "フィラメント～漆原友紀作品集～",

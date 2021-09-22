@@ -1,5 +1,9 @@
 {
     "title": "Samishigariya no Love Letter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163348.jpg",
+        "alt": "samishigariya-no-love-letter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

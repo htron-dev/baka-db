@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42116.jpg",
+        "alt": "sensei-no-boku"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "せんせいのぼく",

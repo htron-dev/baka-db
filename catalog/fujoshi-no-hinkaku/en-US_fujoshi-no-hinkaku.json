@@ -1,5 +1,9 @@
 {
     "title": "Fujoshi no Hinkaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/20821.jpg",
+        "alt": "fujoshi-no-hinkaku"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "腐女子の品格",

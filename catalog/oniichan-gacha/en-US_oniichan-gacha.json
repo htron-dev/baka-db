@@ -1,5 +1,9 @@
 {
     "title": "Oniichan, Gacha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162157.jpg",
+        "alt": "oniichan-gacha"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

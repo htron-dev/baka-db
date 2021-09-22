@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Maboroshi no Pokemon Lugia Bakutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/214627.jpg",
+        "alt": "pokemon-maboroshi-no-pokemon-lugia-bakutan"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "ポケットモンスター 幻のポケモンルギア爆誕",

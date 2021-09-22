@@ -1,5 +1,9 @@
 {
     "title": "Shakaijin Yuri Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227370.jpg",
+        "alt": "shakaijin-yuri-anthology"
+    },
     "type": "manga",
     "original_name": "社会人百合アンソロジー",
     "start_date": "2018-04-27",

@@ -1,5 +1,9 @@
 {
     "title": "Matsukage ni Ikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238477.jpg",
+        "alt": "matsukage-ni-ikou"
+    },
     "type": "manga",
     "original_name": "松かげに憩う",
     "start_date": "2018-12-04",

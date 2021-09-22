@@ -1,5 +1,9 @@
 {
     "title": "Yosuga Scenario Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227189.jpg",
+        "alt": "yosuga-scenario-parade"
+    },
     "type": "manga",
     "chapters": "25",
     "original_name": "よすがシナリオパレェド",

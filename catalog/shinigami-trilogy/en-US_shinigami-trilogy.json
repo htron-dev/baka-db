@@ -1,5 +1,9 @@
 {
     "title": "Shinigami Trilogy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176440.jpg",
+        "alt": "shinigami-trilogy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

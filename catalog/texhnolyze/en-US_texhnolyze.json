@@ -1,12 +1,16 @@
 {
     "title": "Texhnolyze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/18165.jpg",
+        "alt": "texhnolyze"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "TEXHNOLYZE",
     "start_date": "2003-04-17",
     "end_date": "2003-04-17",
     "opening_song": "\"Guardian Angel (Xavier's Edit)\" by Juno Reactor (eps 1-20, 22)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tsuki no Uta (月の詩)\" by Gackt (eps 1-21)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Hare no Hi wa Gakkou wo Yasumitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123009.jpg",
+        "alt": "hare-no-hi-wa-gakkou-wo-yasumitai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ハレの日は学校を休みたい!",

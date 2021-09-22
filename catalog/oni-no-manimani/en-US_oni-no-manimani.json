@@ -1,5 +1,9 @@
 {
     "title": "Oni no Manimani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217102.jpg",
+        "alt": "oni-no-manimani"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

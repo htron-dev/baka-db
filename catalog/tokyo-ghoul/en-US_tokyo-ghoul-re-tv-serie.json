@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ghoul:re",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1063/95086.jpg",
+        "alt": "tokyo-ghoul-re"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "東京喰種トーキョーグール：re",

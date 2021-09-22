@@ -1,12 +1,16 @@
 {
     "title": "Black Lagoon: The Second Barrage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/83748.jpg",
+        "alt": "black-lagoon-the-second-barrage"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "BLACK LAGOON The Second Barrage",
     "start_date": "2006-10-03",
     "end_date": "2006-10-03",
     "opening_song": "\"Red Fraction\" by MELL",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Don't Look Behind\" by EDISON (eps 13-14,16-23)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

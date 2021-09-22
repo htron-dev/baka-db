@@ -1,12 +1,16 @@
 {
     "title": "El Hazard: The Alternative World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/61047.jpg",
+        "alt": "el-hazard-the-alternative-world"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "異次元の世界エルハザード",
     "start_date": "1998-01-08",
     "end_date": "1998-01-08",
     "opening_song": "\"13 Gatsu no Shukumei\" by Fence of Defense",
-    "ending_song": "#2",
+    "ending_song": "#2: \"Love Mania!\" by Maaya Sakamoto, Rio Natsuki, Etsuko Kozukura, Kyoko Tsuruno (ep 13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

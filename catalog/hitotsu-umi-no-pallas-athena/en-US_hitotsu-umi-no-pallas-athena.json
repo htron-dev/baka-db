@@ -1,5 +1,9 @@
 {
     "title": "Hitotsu Umi no Pallas Athena",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193225.jpg",
+        "alt": "hitotsu-umi-no-pallas-athena"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ひとつ海のパラスアテナ",

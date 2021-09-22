@@ -1,5 +1,9 @@
 {
     "title": "Joshi no Seifuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131359.jpg",
+        "alt": "joshi-no-seifuku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

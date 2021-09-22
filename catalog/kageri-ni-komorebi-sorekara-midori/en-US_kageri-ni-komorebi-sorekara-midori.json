@@ -1,5 +1,9 @@
 {
     "title": "Kageri ni Komorebi, Sorekara Midori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222315.jpg",
+        "alt": "kageri-ni-komorebi-sorekara-midori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

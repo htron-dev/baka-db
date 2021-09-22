@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Sachi Are!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147759.jpg",
+        "alt": "kimi-ni-sachi-are"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

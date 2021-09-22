@@ -1,5 +1,9 @@
 {
     "title": "Glass no Isu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/55563.jpg",
+        "alt": "glass-no-isu"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "ガラスの椅子",

@@ -1,11 +1,15 @@
 {
     "title": "Ichiban Ushiro no Daimaou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75554.jpg",
+        "alt": "ichiban-ushiro-no-daimaou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "いちばんうしろの大魔王",
     "start_date": "2010-04-03",
     "end_date": "2010-04-03",
-    "opening_song": "\"REALOVE",
+    "opening_song": "\"REALOVE:REALIFE\" by Sphere",
     "ending_song": "\"Everyday sunshine line!\" by Natsuko Aso",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

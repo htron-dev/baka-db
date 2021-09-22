@@ -1,5 +1,9 @@
 {
     "title": "Joleobban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/87067.jpg",
+        "alt": "joleobban"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "졸업반",

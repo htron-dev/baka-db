@@ -1,12 +1,16 @@
 {
     "title": "Top wo Nerae 2! Diebuster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/50475.jpg",
+        "alt": "top-wo-nerae-2-diebuster"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "トップをねらえ 2！DIEBUSTER",
     "start_date": "2004-10-03",
     "end_date": "2004-10-03",
     "opening_song": "\"Groovin' Magic\" by ROUND TABLE featuring Nino (eps 2-5)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hoshikuzu Namida\" by ACKO (eps 1-5)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

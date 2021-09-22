@@ -1,5 +1,9 @@
 {
     "title": "Yellow Gate!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79721.jpg",
+        "alt": "yellow-gate"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

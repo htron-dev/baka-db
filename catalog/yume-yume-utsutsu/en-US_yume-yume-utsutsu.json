@@ -1,5 +1,9 @@
 {
     "title": "Yume Yume Utsutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145483.jpg",
+        "alt": "yume-yume-utsutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

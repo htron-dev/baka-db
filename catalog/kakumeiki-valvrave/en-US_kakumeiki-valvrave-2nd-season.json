@@ -1,12 +1,16 @@
 {
     "title": "Kakumeiki Valvrave 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/56573.jpg",
+        "alt": "kakumeiki-valvrave-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "革命機ヴァルヴレイヴ　 2nd シーズン",
     "start_date": "2013-10-10",
     "end_date": "2013-10-10",
     "opening_song": "\"Kakumei Dualism (革命デュアリズム)\" by Nana Mizuki x T.M.Revolution",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kakumei Dualism (革命デュアリズム)\" by Nana Mizuki x T.M.Revolution (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

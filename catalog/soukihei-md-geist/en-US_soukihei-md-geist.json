@@ -1,5 +1,9 @@
 {
     "title": "Soukihei MD Geist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/21433.jpg",
+        "alt": "soukihei-md-geist"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "装鬼兵ＭＤガイスト",

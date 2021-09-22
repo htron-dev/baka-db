@@ -1,5 +1,9 @@
 {
     "title": "Obake Nagaya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66255.jpg",
+        "alt": "obake-nagaya"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "おばけ長屋",

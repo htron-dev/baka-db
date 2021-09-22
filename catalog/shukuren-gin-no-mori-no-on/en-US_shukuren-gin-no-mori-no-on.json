@@ -1,5 +1,9 @@
 {
     "title": "Shukuren - Gin no Mori no On",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40236.jpg",
+        "alt": "shukuren-gin-no-mori-no-on"
+    },
     "type": "manga",
     "original_name": "宿恋~銀の森の鬼",
     "tags": [

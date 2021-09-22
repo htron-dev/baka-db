@@ -1,12 +1,16 @@
 {
     "title": "Tales of Zestiria the Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/79271.jpg",
+        "alt": "tales-of-zestiria-the-cross"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "テイルズ オブ ゼスティリア ザ クロス",
     "start_date": "2016-07-10",
     "end_date": "2016-07-10",
     "opening_song": "\"Kaze no Uta (風ノ唄)\" by FLOW (eps 1-4, 7-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"calling\" by fhána (eps 1-4, 7-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

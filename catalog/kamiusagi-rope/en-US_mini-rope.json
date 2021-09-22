@@ -1,5 +1,9 @@
 {
     "title": "Mini Rope",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85044.jpg",
+        "alt": "mini-rope"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "mini ロペ",

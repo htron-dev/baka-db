@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Sense.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241028.jpg",
+        "alt": "hajimete-no-sense"
+    },
     "type": "manga",
     "original_name": "初めてのセンセ。",
     "start_date": "2019-11-19",

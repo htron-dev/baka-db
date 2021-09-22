@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Satellite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89499.jpg",
+        "alt": "shoujo-satellite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

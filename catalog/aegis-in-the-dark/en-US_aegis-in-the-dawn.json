@@ -1,5 +1,9 @@
 {
     "title": "Aegis in the Dawn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179532.jpg",
+        "alt": "aegis-in-the-dawn"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "48",

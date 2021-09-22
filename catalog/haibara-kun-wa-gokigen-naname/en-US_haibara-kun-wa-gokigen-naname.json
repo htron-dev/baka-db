@@ -1,5 +1,9 @@
 {
     "title": "Haibara-kun wa Gokigen Naname",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223569.jpg",
+        "alt": "haibara-kun-wa-gokigen-naname"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

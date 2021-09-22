@@ -1,5 +1,9 @@
 {
     "title": "Match Ippon no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177440.jpg",
+        "alt": "match-ippon-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

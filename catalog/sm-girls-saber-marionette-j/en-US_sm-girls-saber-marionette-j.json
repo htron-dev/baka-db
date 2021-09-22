@@ -1,5 +1,9 @@
 {
     "title": "SM Girls: Saber Marionette J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157873.jpg",
+        "alt": "sm-girls-saber-marionette-j"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "84",

@@ -1,5 +1,9 @@
 {
     "title": "Meigyoku no Almaine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177084.jpg",
+        "alt": "meigyoku-no-almaine"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "20",

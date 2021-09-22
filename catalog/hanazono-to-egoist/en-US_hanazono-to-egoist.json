@@ -1,5 +1,9 @@
 {
     "title": "Hanazono to Egoist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176171.jpg",
+        "alt": "hanazono-to-egoist"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

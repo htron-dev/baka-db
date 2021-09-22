@@ -1,5 +1,9 @@
 {
     "title": "Cross H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148837.jpg",
+        "alt": "cross-h"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

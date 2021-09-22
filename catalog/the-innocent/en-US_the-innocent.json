@@ -1,5 +1,9 @@
 {
     "title": "The Innocent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178196.jpg",
+        "alt": "the-innocent"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

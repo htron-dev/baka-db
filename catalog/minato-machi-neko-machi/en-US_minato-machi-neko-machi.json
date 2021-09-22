@@ -1,5 +1,9 @@
 {
     "title": "Minato Machi Neko Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35917.jpg",
+        "alt": "minato-machi-neko-machi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "港町猫町",

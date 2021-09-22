@@ -1,12 +1,16 @@
 {
     "title": "Time Travel Tondekeman!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/45656.jpg",
+        "alt": "time-travel-tondekeman"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "たいむとらぶる トンデケマン!",
     "start_date": "1989-10-19",
     "end_date": "1989-10-19",
     "opening_song": "\"Yume mireba Time Machine\" by Jag-Toy",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tomodachi ni Modorenai\" by Jag-Toy",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Geunyeoneun Yeppeotda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/25901.jpg",
+        "alt": "geunyeoneun-yeppeotda"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "그녀는 예뻣다",

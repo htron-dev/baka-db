@@ -1,5 +1,9 @@
 {
     "title": "Blame! Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1976/93666.jpg",
+        "alt": "blame-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "BLAME!",

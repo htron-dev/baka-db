@@ -1,5 +1,9 @@
 {
     "title": "Genshi Shounen Ryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31348.jpg",
+        "alt": "genshi-shounen-ryuu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

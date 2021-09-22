@@ -1,5 +1,9 @@
 {
     "title": "Pochi Gunsou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225448.jpg",
+        "alt": "pochi-gunsou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

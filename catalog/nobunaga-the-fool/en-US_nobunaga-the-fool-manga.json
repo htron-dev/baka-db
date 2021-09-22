@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga the Fool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151901.jpg",
+        "alt": "nobunaga-the-fool"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

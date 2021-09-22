@@ -1,5 +1,9 @@
 {
     "title": "Owaranai Seraph: Nagoya-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/77545.jpg",
+        "alt": "owaranai-seraph-nagoya-hen"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "終わらないセラフ名古屋編",

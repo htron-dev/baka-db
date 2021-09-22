@@ -1,5 +1,9 @@
 {
     "title": "Chiisana Koi no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130379.jpg",
+        "alt": "chiisana-koi-no-monogatari"
+    },
     "type": "manga",
     "volumes": "44",
     "original_name": "小さな恋のものがたり",

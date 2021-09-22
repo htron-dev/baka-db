@@ -1,5 +1,9 @@
 {
     "title": "Oh! Warera Rettou Seitokai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44237.jpg",
+        "alt": "oh-warera-rettou-seitokai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "Oh! われら劣等生徒会",

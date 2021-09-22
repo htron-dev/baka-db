@@ -1,5 +1,9 @@
 {
     "title": "Princess ni Propose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46519.jpg",
+        "alt": "princess-ni-propose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

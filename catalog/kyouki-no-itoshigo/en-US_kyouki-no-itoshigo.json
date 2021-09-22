@@ -1,5 +1,9 @@
 {
     "title": "Kyouki no Itoshigo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186019.jpg",
+        "alt": "kyouki-no-itoshigo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

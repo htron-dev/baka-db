@@ -1,5 +1,9 @@
 {
     "title": "All for You!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141031.jpg",
+        "alt": "all-for-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

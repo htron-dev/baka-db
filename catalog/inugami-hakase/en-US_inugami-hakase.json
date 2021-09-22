@@ -1,5 +1,9 @@
 {
     "title": "Inugami Hakase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143959.jpg",
+        "alt": "inugami-hakase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

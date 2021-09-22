@@ -1,5 +1,9 @@
 {
     "title": "Don't Like This",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229130.jpg",
+        "alt": "dont-like-this"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

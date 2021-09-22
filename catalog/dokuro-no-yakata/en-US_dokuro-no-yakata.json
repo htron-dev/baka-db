@@ -1,5 +1,9 @@
 {
     "title": "Dokuro no Yakata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58997.jpg",
+        "alt": "dokuro-no-yakata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

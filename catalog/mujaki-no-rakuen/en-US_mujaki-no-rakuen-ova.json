@@ -1,5 +1,9 @@
 {
     "title": "Mujaki no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/74733.jpg",
+        "alt": "mujaki-no-rakuen"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "無邪気の楽園",

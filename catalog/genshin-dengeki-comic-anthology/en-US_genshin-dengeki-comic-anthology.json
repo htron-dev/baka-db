@@ -1,5 +1,9 @@
 {
     "title": "Genshin: Dengeki Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241703.jpg",
+        "alt": "genshin-dengeki-comic-anthology"
+    },
     "type": "manga",
     "original_name": "原神 電撃コミックアンソロジー",
     "start_date": "2021-02-27",

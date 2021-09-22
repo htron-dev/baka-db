@@ -1,5 +1,9 @@
 {
     "title": "Datte Ai ja Nai!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5373.jpg",
+        "alt": "datte-ai-ja-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

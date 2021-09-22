@@ -1,5 +1,9 @@
 {
     "title": "Betsukiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72131.jpg",
+        "alt": "betsukiss"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

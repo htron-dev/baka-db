@@ -1,12 +1,16 @@
 {
     "title": "SD Gundam Force",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/34845.jpg",
+        "alt": "sd-gundam-force"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "SD ガンダムフォース",
     "start_date": "2004-01-07",
     "end_date": "2004-01-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sunrise\" by Puffy AmiYumi (eps 1-13)",
+    "ending_song": "#1: \"Shinjiru Chikara\" by Whiteberry (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

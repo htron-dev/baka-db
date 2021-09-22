@@ -1,5 +1,9 @@
 {
     "title": "Kyou wa Kaisha Yasumimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188419.jpg",
+        "alt": "kyou-wa-kaisha-yasumimasu"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "51",

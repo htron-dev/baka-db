@@ -1,5 +1,9 @@
 {
     "title": "Mabui no Kotowari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22119.jpg",
+        "alt": "mabui-no-kotowari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

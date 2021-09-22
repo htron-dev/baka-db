@@ -1,5 +1,9 @@
 {
     "title": "Spider-Man J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151987.jpg",
+        "alt": "spider-man-j"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

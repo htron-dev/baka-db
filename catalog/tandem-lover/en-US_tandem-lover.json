@@ -1,5 +1,9 @@
 {
     "title": "Tandem Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169817.jpg",
+        "alt": "tandem-lover"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

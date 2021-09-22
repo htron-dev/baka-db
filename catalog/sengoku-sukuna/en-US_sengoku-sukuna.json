@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Sukuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27427.jpg",
+        "alt": "sengoku-sukuna"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "戦国スクナ",

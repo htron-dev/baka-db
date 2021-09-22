@@ -1,5 +1,9 @@
 {
     "title": "Toki wo Kakeru Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
+        "alt": "toki-wo-kakeru-shoujo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "時をかける少女",

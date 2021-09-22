@@ -1,5 +1,9 @@
 {
     "title": "Kerorinpasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/77493.jpg",
+        "alt": "kerorinpasu"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ケロリンパス",

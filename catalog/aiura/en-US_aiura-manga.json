@@ -1,5 +1,9 @@
 {
     "title": "Aiura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139507.jpg",
+        "alt": "aiura"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "109",

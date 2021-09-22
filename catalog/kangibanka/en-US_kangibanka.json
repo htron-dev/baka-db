@@ -1,5 +1,9 @@
 {
     "title": "Kangibanka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240835.jpg",
+        "alt": "kangibanka"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

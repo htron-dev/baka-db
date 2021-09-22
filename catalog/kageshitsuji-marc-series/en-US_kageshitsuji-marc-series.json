@@ -1,5 +1,9 @@
 {
     "title": "Kageshitsuji Marc Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162472.jpg",
+        "alt": "kageshitsuji-marc-series"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "82",

@@ -1,5 +1,9 @@
 {
     "title": "Dekiai Wedding",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247533.jpg",
+        "alt": "dekiai-wedding"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "溺愛ウェディング",

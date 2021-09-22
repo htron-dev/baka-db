@@ -1,5 +1,9 @@
 {
     "title": "Megumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/15872.jpg",
+        "alt": "megumi"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "めぐみ",

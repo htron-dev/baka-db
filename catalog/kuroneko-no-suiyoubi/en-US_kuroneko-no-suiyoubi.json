@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko no Suiyoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111271.jpg",
+        "alt": "kuroneko-no-suiyoubi"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "黒猫の水曜日",

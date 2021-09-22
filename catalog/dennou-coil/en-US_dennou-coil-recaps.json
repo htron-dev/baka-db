@@ -1,5 +1,9 @@
 {
     "title": "Dennou Coil Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/38635.jpg",
+        "alt": "dennou-coil-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "電脳コイル総復習",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Underground",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/5731.jpg",
+        "alt": "tokyo-underground"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "84",

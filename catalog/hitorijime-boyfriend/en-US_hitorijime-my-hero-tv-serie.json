@@ -1,12 +1,16 @@
 {
     "title": "Hitorijime My Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/86825.jpg",
+        "alt": "hitorijime-my-hero"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ひとりじめマイヒーロー",
     "start_date": "2017-07-08",
     "end_date": "2017-07-08",
     "opening_song": "\"Heart Signal (ハートシグナル)\" by Wataru Hatano",
-    "ending_song": "#1",
+    "ending_song": "#1: \"TRUE LOVE\" by Kousuke Ooshiba (Tomoaki Maeno), Masahiro Setagawa (Toshiki Masuda), Asaya Hasekura (Shinnosuke Tachibana), Kensuke Ooshiba (Yoshitsugu Matsuoka) (eps 1, 6 , 9, 12 )",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

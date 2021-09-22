@@ -1,5 +1,9 @@
 {
     "title": "Orpheus no Mado",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/33624.jpg",
+        "alt": "orpheus-no-mado"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "126",

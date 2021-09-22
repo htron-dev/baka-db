@@ -1,5 +1,9 @@
 {
     "title": "Eiga Koe no Katachi Special Book",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190693.jpg",
+        "alt": "eiga-koe-no-katachi-special-book"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "映画『聲の形』Special Book",

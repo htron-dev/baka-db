@@ -1,5 +1,9 @@
 {
     "title": "Missile Happy!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4397.jpg",
+        "alt": "missile-happy"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

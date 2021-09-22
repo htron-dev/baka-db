@@ -1,5 +1,9 @@
 {
     "title": "8-jou no Carnival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206828.jpg",
+        "alt": "8-jou-no-carnival"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

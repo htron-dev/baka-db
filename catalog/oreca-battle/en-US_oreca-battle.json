@@ -1,5 +1,9 @@
 {
     "title": "Oreca Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1934/101823.jpg",
+        "alt": "oreca-battle"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "オレカバトル",

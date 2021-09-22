@@ -1,12 +1,16 @@
 {
     "title": "Ginga Kikoutai Majestic Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/44594.jpg",
+        "alt": "ginga-kikoutai-majestic-prince"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "銀河機攻隊 マジェスティックプリンス",
     "start_date": "2013-04-04",
     "end_date": "2013-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Watashi wa Souzousuru (私は想像する)\" by Natsumi Kon (eps 2-12)",
+    "ending_song": "#1: \"Sayonara tte Iu (サヨナラっていう)\" by Chiaki Ishikawa (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Majestic_Prince_(manga"
+            "link": "http://en.wikipedia.org/wiki/Majestic_Prince_%28manga%29"
         }
     ]
 }

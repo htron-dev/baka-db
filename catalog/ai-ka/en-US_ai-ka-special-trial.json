@@ -1,5 +1,9 @@
 {
     "title": "AIKa: Special Trial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/82431.jpg",
+        "alt": "ai-ka-special-trial"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "AIKa Special TRIAL",

@@ -1,5 +1,9 @@
 {
     "title": "Love Is Blind",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239813.jpg",
+        "alt": "love-is-blind"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Ototsukai wa Shi to Odoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176940.jpg",
+        "alt": "ototsukai-wa-shi-to-odoru"
+    },
     "type": "light-novel",
     "original_name": "音使いは死と踊る",
     "start_date": "2016-05-25",

@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Akko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/5225.jpg",
+        "alt": "himitsu-no-akko-chan"
+    },
     "type": "tv-serie",
     "episodes": "94",
     "original_name": "ひみつのアッコちゃん",

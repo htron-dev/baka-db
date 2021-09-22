@@ -1,5 +1,9 @@
 {
     "title": "A.O.N",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29164.jpg",
+        "alt": "a-o-n"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

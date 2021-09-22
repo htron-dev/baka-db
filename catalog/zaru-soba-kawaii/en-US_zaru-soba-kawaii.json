@@ -1,5 +1,9 @@
 {
     "title": "Zaru Soba (Kawaii)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169013.jpg",
+        "alt": "zaru-soba-kawaii"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

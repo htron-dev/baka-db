@@ -1,5 +1,9 @@
 {
     "title": "Piece of Cake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/5479.jpg",
+        "alt": "piece-of-cake"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

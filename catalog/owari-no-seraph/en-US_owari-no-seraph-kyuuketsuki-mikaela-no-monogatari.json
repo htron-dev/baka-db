@@ -1,5 +1,9 @@
 {
     "title": "Owari no Seraph: Kyuuketsuki Mikaela no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168724.jpg",
+        "alt": "owari-no-seraph-kyuuketsuki-mikaela-no-monogatari"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

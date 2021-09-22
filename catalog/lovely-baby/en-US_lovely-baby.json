@@ -1,5 +1,9 @@
 {
     "title": "Lovely Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29708.jpg",
+        "alt": "lovely-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ラブリー・ベイベェ",

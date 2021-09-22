@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Yume wo Miteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200470.jpg",
+        "alt": "kimi-no-yume-wo-miteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

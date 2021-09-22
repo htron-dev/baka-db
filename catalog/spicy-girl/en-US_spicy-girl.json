@@ -1,5 +1,9 @@
 {
     "title": "Spicy Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15251.jpg",
+        "alt": "spicy-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スパイシー・ガール",

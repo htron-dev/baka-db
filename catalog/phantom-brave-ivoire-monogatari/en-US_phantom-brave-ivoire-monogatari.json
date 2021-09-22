@@ -1,5 +1,9 @@
 {
     "title": "Phantom Brave: Ivoire Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120657.jpg",
+        "alt": "phantom-brave-ivoire-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

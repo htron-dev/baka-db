@@ -1,5 +1,9 @@
 {
     "title": "Survival 2000",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/214862.jpg",
+        "alt": "survival-2000"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "サバイバル 2000",

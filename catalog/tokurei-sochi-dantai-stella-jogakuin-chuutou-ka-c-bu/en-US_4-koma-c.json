@@ -1,5 +1,9 @@
 {
     "title": "4-koma C³",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125921.jpg",
+        "alt": "4-koma-c"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

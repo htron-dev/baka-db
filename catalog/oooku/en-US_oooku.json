@@ -1,5 +1,9 @@
 {
     "title": "Oooku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26864.jpg",
+        "alt": "oooku"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "79",

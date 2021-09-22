@@ -1,5 +1,9 @@
 {
     "title": "Rere Shuushuutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24664.jpg",
+        "alt": "rere-shuushuutan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "怜々蒐集譚",

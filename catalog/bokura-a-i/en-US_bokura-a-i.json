@@ -1,5 +1,9 @@
 {
     "title": "Bokura A.I.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162761.jpg",
+        "alt": "bokura-a-i"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

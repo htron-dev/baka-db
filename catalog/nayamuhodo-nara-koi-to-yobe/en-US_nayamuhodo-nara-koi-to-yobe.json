@@ -1,5 +1,9 @@
 {
     "title": "Nayamuhodo Nara Koi to Yobe!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28385.jpg",
+        "alt": "nayamuhodo-nara-koi-to-yobe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

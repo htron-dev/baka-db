@@ -1,5 +1,9 @@
 {
     "title": "Tatakau Shisho Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116711.jpg",
+        "alt": "tatakau-shisho-series"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "90",

@@ -1,5 +1,9 @@
 {
     "title": "Satsujin Tantei Amatou Rouma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178562.jpg",
+        "alt": "satsujin-tantei-amatou-rouma"
+    },
     "type": "light-novel",
     "original_name": "殺人探偵・天刀狼真",
     "start_date": "2016-05-25",

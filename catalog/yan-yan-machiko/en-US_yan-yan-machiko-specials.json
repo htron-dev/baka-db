@@ -1,5 +1,9 @@
 {
     "title": "YanYan Machiko Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78980.jpg",
+        "alt": "yan-yan-machiko-specials"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "やんやんマチコ",

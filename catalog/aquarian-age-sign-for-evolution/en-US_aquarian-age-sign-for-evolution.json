@@ -1,12 +1,16 @@
 {
     "title": "Aquarian Age: Sign for Evolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/21141.jpg",
+        "alt": "aquarian-age-sign-for-evolution"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "アクエリアンエイジ Sign for Evolution",
     "start_date": "2002-01-11",
     "end_date": "2002-01-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Everlasting Love\" by SeYUN (eps 1-12)",
+    "ending_song": "#1: \"Prism\" by T.L. Signal (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Gozonji! Kakuza Tousan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1437/105576.jpg",
+        "alt": "gozonji-kakuza-tousan"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "ご存知!かくざ父さん",

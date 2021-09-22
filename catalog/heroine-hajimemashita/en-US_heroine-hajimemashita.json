@@ -1,5 +1,9 @@
 {
     "title": "Heroine Hajimemashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217708.jpg",
+        "alt": "heroine-hajimemashita"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

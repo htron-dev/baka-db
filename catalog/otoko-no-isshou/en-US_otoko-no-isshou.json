@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Isshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88369.jpg",
+        "alt": "otoko-no-isshou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Saishuu Shiken Kujira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74243.jpg",
+        "alt": "saishuu-shiken-kujira"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "最終試験くじら",

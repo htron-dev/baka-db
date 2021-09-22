@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Onmyouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23606.jpg",
+        "alt": "ikenai-onmyouji"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "いけない陰陽師",

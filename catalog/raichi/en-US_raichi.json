@@ -1,5 +1,9 @@
 {
     "title": "Raichi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180428.jpg",
+        "alt": "raichi"
+    },
     "type": "manga",
     "original_name": "らいち!!",
     "start_date": "2015-11-25",

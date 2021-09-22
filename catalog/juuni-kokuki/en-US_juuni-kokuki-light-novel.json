@@ -1,5 +1,9 @@
 {
     "title": "Juuni Kokuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157938.jpg",
+        "alt": "juuni-kokuki"
+    },
     "type": "light-novel",
     "original_name": "十二国記",
     "start_date": "1992-06-20",

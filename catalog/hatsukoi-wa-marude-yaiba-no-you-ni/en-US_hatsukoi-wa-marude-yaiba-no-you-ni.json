@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi wa Marude Yaiba no You ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173085.jpg",
+        "alt": "hatsukoi-wa-marude-yaiba-no-you-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

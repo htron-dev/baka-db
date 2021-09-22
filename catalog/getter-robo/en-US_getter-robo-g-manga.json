@@ -1,5 +1,9 @@
 {
     "title": "Getter Robo G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/95651.jpg",
+        "alt": "getter-robo-g"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "5",

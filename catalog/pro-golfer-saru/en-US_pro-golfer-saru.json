@@ -1,5 +1,9 @@
 {
     "title": "Pro Golfer Saru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/46215.jpg",
+        "alt": "pro-golfer-saru"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "プロゴルファー猿",

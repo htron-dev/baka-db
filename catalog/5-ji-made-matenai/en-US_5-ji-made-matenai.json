@@ -1,5 +1,9 @@
 {
     "title": "5-ji made Matenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235578.jpg",
+        "alt": "5-ji-made-matenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

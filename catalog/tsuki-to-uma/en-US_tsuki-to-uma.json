@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Uma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118541.jpg",
+        "alt": "tsuki-to-uma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

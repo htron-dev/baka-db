@@ -1,5 +1,9 @@
 {
     "title": "Toto!: The Wonderful Adventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126765.jpg",
+        "alt": "toto-the-wonderful-adventure"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "40",

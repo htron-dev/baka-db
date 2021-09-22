@@ -1,5 +1,9 @@
 {
     "title": "Kono Inu wa Mada Amai Doku wo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232062.jpg",
+        "alt": "kono-inu-wa-mada-amai-doku-wo-shiranai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

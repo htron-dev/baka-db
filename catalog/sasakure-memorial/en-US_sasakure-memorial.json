@@ -1,5 +1,9 @@
 {
     "title": "Sasakure Memorial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89487.jpg",
+        "alt": "sasakure-memorial"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

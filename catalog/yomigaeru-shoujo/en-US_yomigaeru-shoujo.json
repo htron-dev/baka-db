@@ -1,5 +1,9 @@
 {
     "title": "Yomigaeru Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245904.jpg",
+        "alt": "yomigaeru-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

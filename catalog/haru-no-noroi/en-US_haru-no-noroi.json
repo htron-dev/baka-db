@@ -1,5 +1,9 @@
 {
     "title": "Haru no Noroi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189273.jpg",
+        "alt": "haru-no-noroi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

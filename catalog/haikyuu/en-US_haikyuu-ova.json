@@ -1,5 +1,9 @@
 {
     "title": "Haikyuu!! (OVA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1618/102929.jpg",
+        "alt": "haikyuu-ova"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "ハイキュー!!",

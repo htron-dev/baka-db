@@ -1,5 +1,9 @@
 {
     "title": "Koukou Kyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66413.jpg",
+        "alt": "koukou-kyoushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

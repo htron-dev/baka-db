@@ -1,5 +1,9 @@
 {
     "title": "Usagi no Mofy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/57215.jpg",
+        "alt": "usagi-no-mofy"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "うさぎのモフィ",

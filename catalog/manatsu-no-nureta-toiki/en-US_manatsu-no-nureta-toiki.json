@@ -1,5 +1,9 @@
 {
     "title": "Manatsu no Nureta Toiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213698.jpg",
+        "alt": "manatsu-no-nureta-toiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

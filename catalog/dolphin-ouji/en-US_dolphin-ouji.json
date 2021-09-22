@@ -1,5 +1,9 @@
 {
     "title": "Dolphin Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/24629.jpg",
+        "alt": "dolphin-ouji"
+    },
     "type": "tv-serie",
     "episodes": "3",
     "original_name": "ドルフィン王子",

@@ -1,5 +1,9 @@
 {
     "title": "Mirai Robo Daltanias",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/52299.jpg",
+        "alt": "mirai-robo-daltanias"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "未来ロボ ダルタニアス",

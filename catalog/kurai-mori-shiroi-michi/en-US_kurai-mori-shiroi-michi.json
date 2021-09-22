@@ -1,5 +1,9 @@
 {
     "title": "Kurai Mori, Shiroi Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152296.jpg",
+        "alt": "kurai-mori-shiroi-michi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

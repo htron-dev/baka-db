@@ -1,5 +1,9 @@
 {
     "title": "G-Maru Edition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70733.jpg",
+        "alt": "g-maru-edition"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

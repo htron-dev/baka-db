@@ -1,5 +1,9 @@
 {
     "title": "Monkurochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173494.jpg",
+        "alt": "monkurochou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

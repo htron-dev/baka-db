@@ -1,5 +1,9 @@
 {
     "title": "Death Chichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187831.jpg",
+        "alt": "death-chichi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "43",

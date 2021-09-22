@@ -1,5 +1,9 @@
 {
     "title": "Köln Shikei Odo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234294.jpg",
+        "alt": "koln-shikei-odo"
+    },
     "type": "manga",
     "original_name": "ケルン市警オド",
     "start_date": "2015-12-16",

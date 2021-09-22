@@ -1,5 +1,9 @@
 {
     "title": "Shadow Homestay",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119815.jpg",
+        "alt": "shadow-homestay"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "シャドウ・ホームステイ",

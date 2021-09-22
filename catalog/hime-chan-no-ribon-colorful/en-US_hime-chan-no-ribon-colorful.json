@@ -1,5 +1,9 @@
 {
     "title": "Hime-chan no Ribon Colorful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34817.jpg",
+        "alt": "hime-chan-no-ribon-colorful"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Punch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19637.jpg",
+        "alt": "momoiro-punch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

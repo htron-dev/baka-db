@@ -1,5 +1,9 @@
 {
     "title": "Beank &amp; Rosa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235500.jpg",
+        "alt": "beank-amp-rosa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

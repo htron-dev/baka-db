@@ -1,5 +1,9 @@
 {
     "title": "Oh! Family",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/61193.jpg",
+        "alt": "oh-family"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "Ｏｈ！ファミリー",

@@ -1,5 +1,9 @@
 {
     "title": "A=kor Kotan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233569.jpg",
+        "alt": "a-kor-kotan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

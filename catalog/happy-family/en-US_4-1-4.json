@@ -1,5 +1,9 @@
 {
     "title": "4 1/4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29833.jpg",
+        "alt": "4-1-4"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "カトゥルカール",

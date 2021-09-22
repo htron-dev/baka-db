@@ -1,5 +1,9 @@
 {
     "title": "Ore dake ni Kamatte Maka-senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235609.jpg",
+        "alt": "ore-dake-ni-kamatte-maka-senpai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

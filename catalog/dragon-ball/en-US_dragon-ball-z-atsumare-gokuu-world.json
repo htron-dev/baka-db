@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Z: Atsumare! Gokuu World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/55203.jpg",
+        "alt": "dragon-ball-z-atsumare-gokuu-world"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ドラゴンボール Z あつまれ! 悟空ワールド",

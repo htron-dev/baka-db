@@ -1,12 +1,16 @@
 {
     "title": "Macross F",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/15648.jpg",
+        "alt": "macross-f"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "マクロス F（フロンティア）",
     "start_date": "2008-04-04",
     "end_date": "2008-04-04",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Triangler (トライアングラー)\" by Maaya Sakamoto (eps 1-16)",
+    "ending_song": "#01: \"Diamond Crevasse\" by May'n (Episodes 1-6, 8-9, 13-14) (Episode 1 DVD version use DC not Aimo)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

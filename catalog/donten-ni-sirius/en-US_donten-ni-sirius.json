@@ -1,5 +1,9 @@
 {
     "title": "Donten ni Sirius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159487.jpg",
+        "alt": "donten-ni-sirius"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

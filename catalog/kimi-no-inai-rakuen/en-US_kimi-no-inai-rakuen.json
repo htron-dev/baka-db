@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Inai Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140505.jpg",
+        "alt": "kimi-no-inai-rakuen"
+    },
     "type": "manga",
     "original_name": "君のいない楽園",
     "start_date": "2000-08-20",

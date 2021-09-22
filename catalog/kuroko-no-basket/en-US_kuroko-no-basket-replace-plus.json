@@ -1,5 +1,9 @@
 {
     "title": "Kuroko no Basket: Replace Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157861.jpg",
+        "alt": "kuroko-no-basket-replace-plus"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "66",

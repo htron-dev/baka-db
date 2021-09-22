@@ -1,5 +1,9 @@
 {
     "title": "Nodame Cantabile OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/18677.jpg",
+        "alt": "nodame-cantabile-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "のだめカンタービレ OVA",

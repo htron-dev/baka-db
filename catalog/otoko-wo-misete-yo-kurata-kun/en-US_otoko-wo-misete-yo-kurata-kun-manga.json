@@ -1,5 +1,9 @@
 {
     "title": "Otoko wo Misete yo Kurata-kun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/73999.jpg",
+        "alt": "otoko-wo-misete-yo-kurata-kun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Hunter x Hunter Movie 1: Phantom Rouge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/53073.jpg",
+        "alt": "hunter-x-hunter-movie-1-phantom-rouge"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 HUNTER×HUNTER 緋色の幻影（ファントム・ルージュ）",

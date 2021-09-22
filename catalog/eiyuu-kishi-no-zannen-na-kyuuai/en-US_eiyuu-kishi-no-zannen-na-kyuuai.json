@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Kishi no Zannen na Kyuuai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190698.jpg",
+        "alt": "eiyuu-kishi-no-zannen-na-kyuuai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

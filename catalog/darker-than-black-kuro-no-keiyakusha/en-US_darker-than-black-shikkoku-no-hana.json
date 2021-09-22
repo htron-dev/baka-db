@@ -1,5 +1,9 @@
 {
     "title": "Darker than Black: Shikkoku no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195103.jpg",
+        "alt": "darker-than-black-shikkoku-no-hana"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Abnormal Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200759.jpg",
+        "alt": "abnormal-love"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

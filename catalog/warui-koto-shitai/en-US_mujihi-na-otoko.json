@@ -1,5 +1,9 @@
 {
     "title": "Mujihi na Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/108411.jpg",
+        "alt": "mujihi-na-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

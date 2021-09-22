@@ -1,12 +1,16 @@
 {
     "title": "Time Bokan Series: Time Patroltai Otasukeman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/23215.jpg",
+        "alt": "time-bokan-series-time-patroltai-otasukeman"
+    },
     "type": "tv-serie",
     "episodes": "53",
     "original_name": "タイムボカンシリーズ タイムパトロール隊 オタスケマン",
     "start_date": "1980-02-02",
     "end_date": "1980-02-02",
     "opening_song": "\"Otasukeman no Uta (オタスケマンの歌)\" by Masayuki Yamamoto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ah Uh Ojamaman (アーウー・オジャママン)\" by Noriko Ohara, Jouji Yanami, Masayuki Yamamoto, Kazuya Tatekabe",
     "rating": "G - All Ages",
     "tags": [
         "action",

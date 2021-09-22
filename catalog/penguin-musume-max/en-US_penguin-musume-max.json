@@ -1,5 +1,9 @@
 {
     "title": "Penguin Musume Max",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211487.jpg",
+        "alt": "penguin-musume-max"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

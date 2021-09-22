@@ -1,5 +1,9 @@
 {
     "title": "Koukyoushihen Eureka seveN",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161332.jpg",
+        "alt": "koukyoushihen-eureka-seve-n"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "23",

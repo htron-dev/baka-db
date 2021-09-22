@@ -1,5 +1,9 @@
 {
     "title": "Funky Servant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194163.jpg",
+        "alt": "funky-servant"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "38",

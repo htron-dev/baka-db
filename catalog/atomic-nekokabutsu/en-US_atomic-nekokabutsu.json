@@ -1,5 +1,9 @@
 {
     "title": "Atomic Nekokabutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178039.jpg",
+        "alt": "atomic-nekokabutsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

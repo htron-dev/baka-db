@@ -1,5 +1,9 @@
 {
     "title": "Tantei Shounen Kageman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/46713.jpg",
+        "alt": "tantei-shounen-kageman"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "探偵少年カゲマン",

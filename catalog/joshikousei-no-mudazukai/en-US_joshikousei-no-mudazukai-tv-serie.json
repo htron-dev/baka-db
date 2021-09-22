@@ -1,5 +1,9 @@
 {
     "title": "Joshikousei no Mudazukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1343/111356.jpg",
+        "alt": "joshikousei-no-mudazukai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "女子高生の無駄づかい",

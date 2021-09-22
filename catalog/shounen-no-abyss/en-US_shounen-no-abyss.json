@@ -1,5 +1,9 @@
 {
     "title": "Shounen no Abyss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232167.jpg",
+        "alt": "shounen-no-abyss"
+    },
     "type": "manga",
     "original_name": "少年のアビス",
     "start_date": "2020-02-27",

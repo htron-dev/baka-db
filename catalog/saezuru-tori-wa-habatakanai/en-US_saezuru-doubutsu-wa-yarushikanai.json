@@ -1,5 +1,9 @@
 {
     "title": "Saezuru Doubutsu wa Yarushikanai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1825/109373.jpg",
+        "alt": "saezuru-doubutsu-wa-yarushikanai"
+    },
     "type": "ona",
     "episodes": "30",
     "original_name": "囀る動物はやるしかない！",

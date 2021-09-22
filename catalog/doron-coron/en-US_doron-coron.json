@@ -1,5 +1,9 @@
 {
     "title": "Doron Coron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/70569.jpg",
+        "alt": "doron-coron"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドロンコロン",

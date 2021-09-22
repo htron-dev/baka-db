@@ -1,5 +1,9 @@
 {
     "title": "Zeitaku na Mi no Ue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151139.jpg",
+        "alt": "zeitaku-na-mi-no-ue"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

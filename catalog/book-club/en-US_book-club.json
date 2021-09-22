@@ -1,5 +1,9 @@
 {
     "title": "Book Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3541.jpg",
+        "alt": "book-club"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Mo'some Sting",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199813.jpg",
+        "alt": "mosome-sting"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

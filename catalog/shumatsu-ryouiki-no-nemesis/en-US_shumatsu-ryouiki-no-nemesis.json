@@ -1,5 +1,9 @@
 {
     "title": "Shumatsu Ryouiki no Nemesis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123031.jpg",
+        "alt": "shumatsu-ryouiki-no-nemesis"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "終末領域のネメシス",

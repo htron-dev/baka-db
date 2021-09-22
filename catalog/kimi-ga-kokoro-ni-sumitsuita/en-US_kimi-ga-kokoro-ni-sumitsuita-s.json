@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Kokoro ni Sumitsuita S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231846.jpg",
+        "alt": "kimi-ga-kokoro-ni-sumitsuita-s"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "56",

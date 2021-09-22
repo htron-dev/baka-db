@@ -1,5 +1,9 @@
 {
     "title": "Kami wo Shimenawa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134581.jpg",
+        "alt": "kami-wo-shimenawa"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "神をしめなわっ！",

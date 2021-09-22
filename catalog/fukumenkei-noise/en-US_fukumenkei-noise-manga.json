@@ -1,5 +1,9 @@
 {
     "title": "Fukumenkei Noise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175909.jpg",
+        "alt": "fukumenkei-noise"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "109",

@@ -1,5 +1,9 @@
 {
     "title": "Youkoso Mumokutekishitsu e!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146343.jpg",
+        "alt": "youkoso-mumokutekishitsu-e"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ようこそ無目的室へ!",

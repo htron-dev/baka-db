@@ -1,5 +1,9 @@
 {
     "title": "Miraiken de Ai wo Tsumugeba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203788.jpg",
+        "alt": "miraiken-de-ai-wo-tsumugeba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

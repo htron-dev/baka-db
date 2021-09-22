@@ -1,5 +1,9 @@
 {
     "title": "Soul Eater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159808.jpg",
+        "alt": "soul-eater"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "117",

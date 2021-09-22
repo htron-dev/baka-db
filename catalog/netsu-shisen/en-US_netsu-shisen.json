@@ -1,5 +1,9 @@
 {
     "title": "Netsu Shisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5711.jpg",
+        "alt": "netsu-shisen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

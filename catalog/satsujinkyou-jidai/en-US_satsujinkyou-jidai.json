@@ -1,5 +1,9 @@
 {
     "title": "Satsujinkyou Jidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/50301.jpg",
+        "alt": "satsujinkyou-jidai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "殺人狂時代",

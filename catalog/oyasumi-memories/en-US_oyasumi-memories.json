@@ -1,5 +1,9 @@
 {
     "title": "Oyasumi Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198394.jpg",
+        "alt": "oyasumi-memories"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Skin and Bone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36086.jpg",
+        "alt": "skin-and-bone"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

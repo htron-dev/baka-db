@@ -1,5 +1,9 @@
 {
     "title": "VRMMO de Summoner Hajimemashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237415.jpg",
+        "alt": "vrmmo-de-summoner-hajimemashita"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

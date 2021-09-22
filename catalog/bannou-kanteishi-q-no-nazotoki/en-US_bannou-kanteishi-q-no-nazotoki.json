@@ -1,5 +1,9 @@
 {
     "title": "Bannou Kanteishi Q no Nazotoki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127965.jpg",
+        "alt": "bannou-kanteishi-q-no-nazotoki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "29",

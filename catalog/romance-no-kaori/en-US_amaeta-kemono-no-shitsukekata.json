@@ -1,5 +1,9 @@
 {
     "title": "Amaeta Kemono no Shitsukekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162291.jpg",
+        "alt": "amaeta-kemono-no-shitsukekata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

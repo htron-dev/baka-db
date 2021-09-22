@@ -1,5 +1,9 @@
 {
     "title": "Maya-san no Yofukashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203735.jpg",
+        "alt": "maya-san-no-yofukashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "39",

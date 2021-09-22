@@ -1,5 +1,9 @@
 {
     "title": "Mama wa Doukyuusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53873.jpg",
+        "alt": "mama-wa-doukyuusei"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

@@ -1,5 +1,9 @@
 {
     "title": "Shukyuden - Field no Okami FW Jin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31986.jpg",
+        "alt": "shukyuden-field-no-okami-fw-jin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

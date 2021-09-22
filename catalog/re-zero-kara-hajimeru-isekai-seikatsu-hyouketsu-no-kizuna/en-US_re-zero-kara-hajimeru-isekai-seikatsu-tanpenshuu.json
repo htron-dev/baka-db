@@ -1,5 +1,9 @@
 {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179393.jpg",
+        "alt": "re-zero-kara-hajimeru-isekai-seikatsu-tanpenshuu"
+    },
     "type": "light-novel",
     "original_name": "Re：ゼロから始める異世界生活 短編集",
     "start_date": "2014-04-26",

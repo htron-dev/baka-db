@@ -1,5 +1,9 @@
 {
     "title": "Jikuu Tenshou Nazca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/15446.jpg",
+        "alt": "jikuu-tenshou-nazca"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "時空転抄ナスカ",

@@ -1,5 +1,9 @@
 {
     "title": "Magetsukan Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62419.jpg",
+        "alt": "magetsukan-kitan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

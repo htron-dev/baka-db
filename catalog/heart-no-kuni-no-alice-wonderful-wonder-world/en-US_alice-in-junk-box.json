@@ -1,5 +1,9 @@
 {
     "title": "Alice in Junk Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148955.jpg",
+        "alt": "alice-in-junk-box"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

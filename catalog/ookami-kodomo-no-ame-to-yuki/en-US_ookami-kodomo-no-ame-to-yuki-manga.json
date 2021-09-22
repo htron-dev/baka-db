@@ -1,5 +1,9 @@
 {
     "title": "Ookami Kodomo no Ame to Yuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165496.jpg",
+        "alt": "ookami-kodomo-no-ame-to-yuki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

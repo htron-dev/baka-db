@@ -1,5 +1,9 @@
 {
     "title": "Kekkon Afro Tanaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/214256.jpg",
+        "alt": "kekkon-afro-tanaka"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "103",

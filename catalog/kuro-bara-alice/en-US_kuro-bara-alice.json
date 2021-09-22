@@ -1,5 +1,9 @@
 {
     "title": "Kuro Bara Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150123.jpg",
+        "alt": "kuro-bara-alice"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "27",

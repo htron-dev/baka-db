@@ -1,5 +1,9 @@
 {
     "title": "Lilpri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81866.jpg",
+        "alt": "lilpri"
+    },
     "type": "manga",
     "original_name": "リルぷりっ",
     "start_date": "2010-04-03",

@@ -1,5 +1,9 @@
 {
     "title": "Apiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/214044.jpg",
+        "alt": "apiru"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "赤い鳩〈アピル〉",

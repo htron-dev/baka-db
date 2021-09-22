@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Randsel w",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47901.jpg",
+        "alt": "tonari-no-randsel-w"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

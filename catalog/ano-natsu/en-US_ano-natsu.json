@@ -1,5 +1,9 @@
 {
     "title": "Ano Natsu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208357.jpg",
+        "alt": "ano-natsu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

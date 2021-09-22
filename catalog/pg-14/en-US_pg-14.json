@@ -1,5 +1,9 @@
 {
     "title": "PG14",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160925.jpg",
+        "alt": "pg-14"
+    },
     "type": "light-novel",
     "original_name": "PG14〈パラグラフ・フォーティーン〉",
     "start_date": "2014-07-05",

@@ -1,5 +1,9 @@
 {
     "title": "Sannensa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232791.jpg",
+        "alt": "sannensa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "74",

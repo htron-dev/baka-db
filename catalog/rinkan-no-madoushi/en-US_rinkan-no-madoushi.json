@@ -1,5 +1,9 @@
 {
     "title": "Rinkan no Madoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115135.jpg",
+        "alt": "rinkan-no-madoushi"
+    },
     "type": "light-novel",
     "volumes": "10",
     "original_name": "輪環の魔導師",

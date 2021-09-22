@@ -1,5 +1,9 @@
 {
     "title": "Kyrie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238017.jpg",
+        "alt": "kyrie"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

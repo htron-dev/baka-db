@@ -1,5 +1,9 @@
 {
     "title": "Occulto Logic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154549.jpg",
+        "alt": "occulto-logic"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "24",

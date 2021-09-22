@@ -1,5 +1,9 @@
 {
     "title": "Sora no Otoshimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188988.jpg",
+        "alt": "sora-no-otoshimono"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "97",

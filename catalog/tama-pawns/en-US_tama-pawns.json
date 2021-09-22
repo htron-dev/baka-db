@@ -1,5 +1,9 @@
 {
     "title": "Tama Pawns",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/83912.jpg",
+        "alt": "tama-pawns"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "たまぽんず",

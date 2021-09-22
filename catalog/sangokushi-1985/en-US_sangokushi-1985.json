@@ -1,5 +1,9 @@
 {
     "title": "Sangokushi (1985)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1843/103238.jpg",
+        "alt": "sangokushi-1985"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "三国志",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/三国志_(日本テレビ"
+            "link": "http://ja.wikipedia.org/wiki/三国志_%28日本テレビ%29"
         }
     ]
 }

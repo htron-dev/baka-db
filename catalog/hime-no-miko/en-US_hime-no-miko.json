@@ -1,5 +1,9 @@
 {
     "title": "Hime no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92379.jpg",
+        "alt": "hime-no-miko"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

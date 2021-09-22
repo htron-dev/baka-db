@@ -1,5 +1,9 @@
 {
     "title": "RiN",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96889.jpg",
+        "alt": "ri-n"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "43",

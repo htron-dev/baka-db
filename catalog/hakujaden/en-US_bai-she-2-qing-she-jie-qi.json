@@ -1,5 +1,9 @@
 {
     "title": "Bai She 2: Qing She Jie Qi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1024/116463.jpg",
+        "alt": "bai-she-2-qing-she-jie-qi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "白蛇 2：青蛇劫起",
@@ -18,7 +22,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/White_Snake_(film"
+            "link": "https://en.wikipedia.org/wiki/White_Snake_%28film%29"
         }
     ]
 }

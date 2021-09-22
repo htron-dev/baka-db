@@ -1,5 +1,9 @@
 {
     "title": "Eve no Okusuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246516.jpg",
+        "alt": "eve-no-okusuri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

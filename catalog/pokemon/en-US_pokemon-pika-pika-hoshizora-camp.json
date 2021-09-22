@@ -1,10 +1,14 @@
 {
     "title": "Pokemon: Pika Pika Hoshizora Camp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1258/97387.jpg",
+        "alt": "pokemon-pika-pika-hoshizora-camp"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ピカピカ星空キャンプ",
     "start_date": "2002-07-13",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Aim for that Hill\" by Dondokodon",
     "ending_song": "\"Pocket-ering Monster-ing\" by Kana",
     "rating": "PG - Children",
     "tags": [

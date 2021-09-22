@@ -1,12 +1,16 @@
 {
     "title": "Lucky☆Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1561/115660.jpg",
+        "alt": "lucky☆-star"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "らき ☆ すた",
     "start_date": "2007-04-08",
     "end_date": "2007-04-08",
     "opening_song": "\"Motteke! Sailor Fuku\" by Aya Hirano, Emiri Katou, Kaori Fukuhara & Aya Endou",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Uchuu Tetsujin Kyoodain (宇宙鉄人キョーダイン)\" by Aya Hirano (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

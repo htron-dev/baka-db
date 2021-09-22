@@ -1,5 +1,9 @@
 {
     "title": "Aoki Umi no Toraware Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83729.jpg",
+        "alt": "aoki-umi-no-toraware-hime"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Kuchibiru yori Akaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141923.jpg",
+        "alt": "kuchibiru-yori-akaku"
+    },
     "type": "manga",
     "original_name": "唇より朱く",
     "start_date": "2012-07-24",

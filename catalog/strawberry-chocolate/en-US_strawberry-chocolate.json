@@ -1,5 +1,9 @@
 {
     "title": "Strawberry Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24539.jpg",
+        "alt": "strawberry-chocolate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

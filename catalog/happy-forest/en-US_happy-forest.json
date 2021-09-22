@@ -1,5 +1,9 @@
 {
     "title": "Happy Forest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/87223.jpg",
+        "alt": "happy-forest"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "HAPPY FOREST",

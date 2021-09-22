@@ -1,12 +1,16 @@
 {
     "title": "Anime Sanjuushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/61981.jpg",
+        "alt": "anime-sanjuushi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "アニメ三銃士",
     "start_date": "1987-10-09",
     "end_date": "1987-10-09",
     "opening_song": "\"Yume Bouken (夢冒険)\" by Sakai Noriko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Pledge Heart (Seiyaku), (プレッジハート(誓約))\" by PumpKin (eps 1-19)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

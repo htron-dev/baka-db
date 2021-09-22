@@ -1,5 +1,9 @@
 {
     "title": "Moroha no Vessel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161626.jpg",
+        "alt": "moroha-no-vessel"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

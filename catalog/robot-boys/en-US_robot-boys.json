@@ -1,5 +1,9 @@
 {
     "title": "Robot Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220558.jpg",
+        "alt": "robot-boys"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

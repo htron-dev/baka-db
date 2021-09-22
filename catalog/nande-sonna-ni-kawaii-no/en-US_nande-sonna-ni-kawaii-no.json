@@ -1,5 +1,9 @@
 {
     "title": "Nande Sonna ni Kawaii no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177453.jpg",
+        "alt": "nande-sonna-ni-kawaii-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

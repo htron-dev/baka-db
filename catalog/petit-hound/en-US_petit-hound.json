@@ -1,5 +1,9 @@
 {
     "title": "Petit Hound",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185778.jpg",
+        "alt": "petit-hound"
+    },
     "type": "manga",
     "original_name": "ぷちはうんど",
     "start_date": "2004-06-15",

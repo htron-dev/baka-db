@@ -1,5 +1,9 @@
 {
     "title": "Hakaba Kitarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1692/113258.jpg",
+        "alt": "hakaba-kitarou"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "墓場鬼太郎",

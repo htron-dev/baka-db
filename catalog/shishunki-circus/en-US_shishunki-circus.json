@@ -1,5 +1,9 @@
 {
     "title": "Shishunki Circus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165429.jpg",
+        "alt": "shishunki-circus"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "45",

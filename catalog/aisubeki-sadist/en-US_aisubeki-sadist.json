@@ -1,5 +1,9 @@
 {
     "title": "Aisubeki Sadist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206364.jpg",
+        "alt": "aisubeki-sadist"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

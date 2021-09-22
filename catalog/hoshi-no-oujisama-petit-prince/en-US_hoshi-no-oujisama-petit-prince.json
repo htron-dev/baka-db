@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Oujisama Petit Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/36539.jpg",
+        "alt": "hoshi-no-oujisama-petit-prince"
+    },
     "type": "tv-serie",
     "episodes": "35",
     "original_name": "星の王子さま　プチ・プランス",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/The_Adventures_of_the_Little_Prince_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/The_Adventures_of_the_Little_Prince_%28TV_series%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Sakura\\*Nadeshiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174782.jpg",
+        "alt": "sakura-nadeshiko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

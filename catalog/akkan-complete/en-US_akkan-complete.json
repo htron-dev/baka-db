@@ -1,5 +1,9 @@
 {
     "title": "Akkan Complete!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/107603.jpg",
+        "alt": "akkan-complete"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "悪漢コンプリート!",

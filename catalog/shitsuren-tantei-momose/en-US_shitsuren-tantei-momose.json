@@ -1,5 +1,9 @@
 {
     "title": "Shitsuren Tantei Momose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164384.jpg",
+        "alt": "shitsuren-tantei-momose"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "失恋探偵ももせ",

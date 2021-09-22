@@ -1,11 +1,15 @@
 {
     "title": "Shimajirou Hesoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50735.jpg",
+        "alt": "shimajirou-hesoka"
+    },
     "type": "tv-serie",
     "episodes": "99",
     "original_name": "しまじろう ヘソカ",
     "start_date": "2010-04-05",
     "end_date": "2010-04-05",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Sora Sora ☆ Aozora\" by Aki Toyosaki (ep 1-50)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

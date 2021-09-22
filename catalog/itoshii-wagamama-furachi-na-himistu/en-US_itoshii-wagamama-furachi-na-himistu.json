@@ -1,5 +1,9 @@
 {
     "title": "Itoshii Wagamama: Furachi na Himistu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192951.jpg",
+        "alt": "itoshii-wagamama-furachi-na-himistu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

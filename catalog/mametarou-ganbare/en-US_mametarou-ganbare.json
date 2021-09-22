@@ -1,5 +1,9 @@
 {
     "title": "Mametarou Ganbare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/84586.jpg",
+        "alt": "mametarou-ganbare"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "まめたろうがんばれ",

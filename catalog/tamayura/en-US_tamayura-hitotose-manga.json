@@ -1,5 +1,9 @@
 {
     "title": "Tamayura: Hitotose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/106747.jpg",
+        "alt": "tamayura-hitotose"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

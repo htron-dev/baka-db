@@ -1,5 +1,9 @@
 {
     "title": "Ame-iro Cocoa in Hawaii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1727/111715.jpg",
+        "alt": "ame-iro-cocoa-in-hawaii"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "雨色ココア in Hawaii",

@@ -1,5 +1,9 @@
 {
     "title": "Higanbana no Saku Yoru ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158536.jpg",
+        "alt": "higanbana-no-saku-yoru-ni"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

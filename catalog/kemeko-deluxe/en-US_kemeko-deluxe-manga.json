@@ -1,5 +1,9 @@
 {
     "title": "Kemeko Deluxe!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159424.jpg",
+        "alt": "kemeko-deluxe"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "63",

@@ -1,5 +1,9 @@
 {
     "title": "Nakayoshi Dan no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184710.jpg",
+        "alt": "nakayoshi-dan-no-bouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

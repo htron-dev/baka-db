@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89691.jpg",
+        "alt": "kanojo-no-sekai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

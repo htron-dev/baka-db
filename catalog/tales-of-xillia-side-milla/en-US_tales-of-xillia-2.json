@@ -1,5 +1,9 @@
 {
     "title": "Tales of Xillia 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/99489.jpg",
+        "alt": "tales-of-xillia-2"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

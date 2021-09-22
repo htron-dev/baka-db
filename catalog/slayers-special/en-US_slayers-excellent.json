@@ -1,5 +1,9 @@
 {
     "title": "Slayers Excellent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/34993.jpg",
+        "alt": "slayers-excellent"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "スレイヤーズえくせれんと",

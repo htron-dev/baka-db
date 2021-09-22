@@ -1,5 +1,9 @@
 {
     "title": "Hatarake, Kentauros!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40662.jpg",
+        "alt": "hatarake-kentauros"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

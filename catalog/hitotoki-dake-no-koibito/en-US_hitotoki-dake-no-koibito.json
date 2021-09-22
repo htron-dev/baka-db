@@ -1,5 +1,9 @@
 {
     "title": "Hitotoki dake no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172239.jpg",
+        "alt": "hitotoki-dake-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ひとときだけの恋人",

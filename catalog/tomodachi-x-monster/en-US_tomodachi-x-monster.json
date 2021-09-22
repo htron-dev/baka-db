@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi x Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157820.jpg",
+        "alt": "tomodachi-x-monster"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

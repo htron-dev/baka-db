@@ -1,5 +1,9 @@
 {
     "title": "Koizukiyo, Konkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240761.jpg",
+        "alt": "koizukiyo-konkon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋月夜、こんこん",

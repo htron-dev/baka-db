@@ -1,5 +1,9 @@
 {
     "title": "Tadoru Yubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186503.jpg",
+        "alt": "tadoru-yubi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

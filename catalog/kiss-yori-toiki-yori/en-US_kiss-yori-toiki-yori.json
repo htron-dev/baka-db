@@ -1,5 +1,9 @@
 {
     "title": "Kiss Yori Toiki Yori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21017.jpg",
+        "alt": "kiss-yori-toiki-yori"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "キスより吐息より",

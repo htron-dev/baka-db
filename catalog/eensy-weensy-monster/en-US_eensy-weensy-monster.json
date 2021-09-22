@@ -1,5 +1,9 @@
 {
     "title": "Eensy-Weensy Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180612.jpg",
+        "alt": "eensy-weensy-monster"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

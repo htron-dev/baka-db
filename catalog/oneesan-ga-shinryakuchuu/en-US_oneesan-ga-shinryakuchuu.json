@@ -1,5 +1,9 @@
 {
     "title": "Oneesan ga Shinryakuchuu!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244209.jpg",
+        "alt": "oneesan-ga-shinryakuchuu"
+    },
     "type": "manga",
     "original_name": "おねーさんが侵略中!?",
     "start_date": "2021-03-10",

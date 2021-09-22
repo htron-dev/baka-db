@@ -1,5 +1,9 @@
 {
     "title": "Rubbers 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3353.jpg",
+        "alt": "rubbers-7"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "54",

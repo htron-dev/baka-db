@@ -1,5 +1,9 @@
 {
     "title": "Nori P-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79691.jpg",
+        "alt": "nori-p-chan"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "のりピーちゃん",

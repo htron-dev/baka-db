@@ -1,5 +1,9 @@
 {
     "title": "Apron Yankee!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223226.jpg",
+        "alt": "apron-yankee"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

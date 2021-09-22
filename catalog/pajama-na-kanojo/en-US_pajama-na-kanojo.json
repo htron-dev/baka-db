@@ -1,5 +1,9 @@
 {
     "title": "Pajama na Kanojo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179390.jpg",
+        "alt": "pajama-na-kanojo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

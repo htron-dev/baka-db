@@ -1,5 +1,9 @@
 {
     "title": "Okitenemuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168400.jpg",
+        "alt": "okitenemuru"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "73",

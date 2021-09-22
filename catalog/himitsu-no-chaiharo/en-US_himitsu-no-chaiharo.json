@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Chaiharo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238967.jpg",
+        "alt": "himitsu-no-chaiharo"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "31",

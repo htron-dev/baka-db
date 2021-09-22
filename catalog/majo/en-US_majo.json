@@ -1,5 +1,9 @@
 {
     "title": "Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28352.jpg",
+        "alt": "majo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

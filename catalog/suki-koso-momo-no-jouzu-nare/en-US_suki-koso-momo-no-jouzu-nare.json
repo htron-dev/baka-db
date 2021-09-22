@@ -1,5 +1,9 @@
 {
     "title": "Suki koso Momo no Jouzu Nare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236327.jpg",
+        "alt": "suki-koso-momo-no-jouzu-nare"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Hyakunen no Valkyrie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197323.jpg",
+        "alt": "hyakunen-no-valkyrie"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Hariko no Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233483.jpg",
+        "alt": "hariko-no-otome"
+    },
     "type": "manga",
     "original_name": "針子の乙女",
     "start_date": "2019-07-26",

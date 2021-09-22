@@ -1,5 +1,9 @@
 {
     "title": "Ocha-ken: Ryokutto Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/82788.jpg",
+        "alt": "ocha-ken-ryokutto-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "お茶犬 ~緑[リョク]っとものがたり~",

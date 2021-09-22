@@ -1,5 +1,9 @@
 {
     "title": "Inunaki-mura x Taka no Tsume-dan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1632/105513.jpg",
+        "alt": "inunaki-mura-x-taka-no-tsume-dan"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "犬鳴村 x 鷹の爪団",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E7%8A%AC%E9%B3%B4%E6%9D%91_(%E6%98%A0%E7%94%BB"
+            "link": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E9%B3%B4%E6%9D%91_%28%E6%98%A0%E7%94%BB%29"
         }
     ]
 }

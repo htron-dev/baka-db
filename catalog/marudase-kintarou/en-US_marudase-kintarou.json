@@ -1,5 +1,9 @@
 {
     "title": "Marudase Kintarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1387/116493.jpg",
+        "alt": "marudase-kintarou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "まるだせ金太狼",

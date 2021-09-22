@@ -1,5 +1,9 @@
 {
     "title": "Sex Sales Driver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245243.jpg",
+        "alt": "sex-sales-driver"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

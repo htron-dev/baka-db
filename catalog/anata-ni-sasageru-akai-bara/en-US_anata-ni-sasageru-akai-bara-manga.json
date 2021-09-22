@@ -1,5 +1,9 @@
 {
     "title": "Anata ni Sasageru Akai Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238945.jpg",
+        "alt": "anata-ni-sasageru-akai-bara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

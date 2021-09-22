@@ -1,5 +1,9 @@
 {
     "title": "Honey Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35611.jpg",
+        "alt": "honey-cafe"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "はちみつカフェ",
@@ -10,7 +14,6 @@
     "authors": [
         "None"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

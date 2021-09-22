@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Kinodoku na Konyakusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178022.jpg",
+        "alt": "watashi-no-kinodoku-na-konyakusha"
+    },
     "type": "light-novel",
     "original_name": "私の気の毒な婚約者",
     "start_date": "2015-12-02",

@@ -1,5 +1,9 @@
 {
     "title": "Love Master Peach",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113993.jpg",
+        "alt": "love-master-peach"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

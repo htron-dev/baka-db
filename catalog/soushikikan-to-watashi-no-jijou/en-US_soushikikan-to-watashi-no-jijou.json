@@ -1,5 +1,9 @@
 {
     "title": "Soushikikan to Watashi no Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224367.jpg",
+        "alt": "soushikikan-to-watashi-no-jijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

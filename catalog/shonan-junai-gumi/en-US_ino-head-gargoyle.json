@@ -1,5 +1,9 @@
 {
     "title": "Ino-Head Gargoyle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185810.jpg",
+        "alt": "ino-head-gargoyle"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "39",

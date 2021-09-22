@@ -1,5 +1,9 @@
 {
     "title": "Ikebukuro 13",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137903.jpg",
+        "alt": "ikebukuro-13"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

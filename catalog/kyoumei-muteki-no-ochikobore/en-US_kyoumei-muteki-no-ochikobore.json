@@ -1,5 +1,9 @@
 {
     "title": "Kyoumei Muteki no Ochikobore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160756.jpg",
+        "alt": "kyoumei-muteki-no-ochikobore"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

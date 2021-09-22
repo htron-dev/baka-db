@@ -1,5 +1,9 @@
 {
     "title": "Barbara Ikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166304.jpg",
+        "alt": "barbara-ikai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

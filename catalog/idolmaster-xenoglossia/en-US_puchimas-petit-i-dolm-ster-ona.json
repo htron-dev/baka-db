@@ -1,12 +1,16 @@
 {
     "title": "Puchimas!: Petit iDOLM@STER",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/44680.jpg",
+        "alt": "puchimas-petit-i-dolm-ster"
+    },
     "type": "ona",
     "episodes": "64",
     "original_name": "ぷちます！－プチ・アイドルマスター－",
     "start_date": "2013-01-01",
     "end_date": "2013-01-01",
     "opening_song": "\"La♪ La♪ La♪ Wonderland (ら ♪ ら ♪ ら ♪ わんだぁらんど)\" by 765PRO ALLSTARS featuring Puchidol (ぷちどる)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"A Ri Ga To YESTERDAYS (あ・り・が・と・YESTERDAYS)\" by Haruka Amami & Ritsuko Akizuki & Makoto Kikuchi & Miki Hoshii (Eriko Nakamura & Naomi Wakabayashi & Hiromi Hirata & Akiko Hasegawa) (eps 1-23)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

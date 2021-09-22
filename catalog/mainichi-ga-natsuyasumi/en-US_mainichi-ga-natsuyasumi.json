@@ -1,5 +1,9 @@
 {
     "title": "Mainichi ga Natsuyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18451.jpg",
+        "alt": "mainichi-ga-natsuyasumi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "毎日が夏休み",

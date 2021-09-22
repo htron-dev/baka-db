@@ -1,5 +1,9 @@
 {
     "title": "Doctor Strange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196930.jpg",
+        "alt": "doctor-strange"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ドクター・ストレンジ",

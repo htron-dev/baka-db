@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Tenshi Angelique: Chibi Character Adventure 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/20749.jpg",
+        "alt": "koisuru-tenshi-angelique-chibi-character-adventure-2"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "恋する天使アンジェリーク ちびキャラ Adventure 2",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Angelique_(Japanese_series"
+            "link": "http://en.wikipedia.org/wiki/Angelique_%28Japanese_series%29"
         }
     ]
 }

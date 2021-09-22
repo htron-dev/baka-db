@@ -1,5 +1,9 @@
 {
     "title": "Kabe Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38940.jpg",
+        "alt": "kabe-otoko"
+    },
     "type": "manga",
     "original_name": "壁男",
     "tags": [

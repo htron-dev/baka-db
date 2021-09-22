@@ -1,5 +1,9 @@
 {
     "title": "Osakini Douzo Arigatou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/84787.jpg",
+        "alt": "osakini-douzo-arigatou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "お先にどうぞ ありがとう",

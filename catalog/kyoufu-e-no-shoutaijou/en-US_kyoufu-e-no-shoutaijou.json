@@ -1,5 +1,9 @@
 {
     "title": "Kyoufu e no Shoutaijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77503.jpg",
+        "alt": "kyoufu-e-no-shoutaijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

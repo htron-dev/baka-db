@@ -1,5 +1,9 @@
 {
     "title": "Wild Guardian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19171.jpg",
+        "alt": "wild-guardian"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

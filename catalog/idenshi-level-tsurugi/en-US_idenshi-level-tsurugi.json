@@ -1,5 +1,9 @@
 {
     "title": "Idenshi Level Tsurugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170787.jpg",
+        "alt": "idenshi-level-tsurugi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Vitamin Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28922.jpg",
+        "alt": "vitamin-z"
+    },
     "type": "manga",
     "start_date": "2009-03-20",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Teppuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159802.jpg",
+        "alt": "teppuu"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "35",

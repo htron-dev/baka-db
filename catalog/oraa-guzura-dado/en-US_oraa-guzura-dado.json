@@ -1,11 +1,15 @@
 {
     "title": "Oraa Guzura Dado",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/56771.jpg",
+        "alt": "oraa-guzura-dado"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "おらぁグズラだど",
     "start_date": "1967-10-07",
     "end_date": "1967-10-07",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Oraa Guzura Dado (おらぁグズラだど)\" by Kei Tani",
     "rating": "PG - Children",
     "tags": [
         "comedy"

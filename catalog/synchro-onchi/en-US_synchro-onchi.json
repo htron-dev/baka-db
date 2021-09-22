@@ -1,5 +1,9 @@
 {
     "title": "Synchro Onchi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190615.jpg",
+        "alt": "synchro-onchi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

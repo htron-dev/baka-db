@@ -1,5 +1,9 @@
 {
     "title": "Junketsu + Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139751.jpg",
+        "alt": "junketsu-kareshi"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "47",

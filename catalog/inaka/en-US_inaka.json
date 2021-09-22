@@ -1,5 +1,9 @@
 {
     "title": "Inaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236926.jpg",
+        "alt": "inaka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Sunadokei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/213999.jpg",
+        "alt": "sunadokei"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "21",

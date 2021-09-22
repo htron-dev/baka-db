@@ -1,5 +1,9 @@
 {
     "title": "Obokoi Majo wa Majiwaritai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243728.jpg",
+        "alt": "obokoi-majo-wa-majiwaritai"
+    },
     "type": "manga",
     "original_name": "おぼこい魔女はまじわりたい！",
     "start_date": "2020-09-16",

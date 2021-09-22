@@ -1,5 +1,9 @@
 {
     "title": "Shinonomeryou Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20588.jpg",
+        "alt": "shinonomeryou-kitan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

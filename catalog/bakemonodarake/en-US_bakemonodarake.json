@@ -1,5 +1,9 @@
 {
     "title": "Bakemonodarake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202972.jpg",
+        "alt": "bakemonodarake"
+    },
     "type": "manga",
     "chapters": "27",
     "original_name": "ばけものだらけ",

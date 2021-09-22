@@ -1,5 +1,9 @@
 {
     "title": "Petite Pêche!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167313.jpg",
+        "alt": "petite-peche"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

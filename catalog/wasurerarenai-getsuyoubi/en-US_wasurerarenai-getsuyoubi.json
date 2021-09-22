@@ -1,5 +1,9 @@
 {
     "title": "Wasurerarenai Getsuyoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227443.jpg",
+        "alt": "wasurerarenai-getsuyoubi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "忘れられない月曜日",

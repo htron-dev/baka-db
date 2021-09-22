@@ -1,5 +1,9 @@
 {
     "title": "Macross Frontier: Dakishimete, Ginga no Hate made.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236773.jpg",
+        "alt": "macross-frontier-dakishimete-ginga-no-hate-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

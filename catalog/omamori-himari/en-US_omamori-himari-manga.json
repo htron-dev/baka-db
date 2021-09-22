@@ -1,5 +1,9 @@
 {
     "title": "Omamori Himari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/50423.jpg",
+        "alt": "omamori-himari"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "75",

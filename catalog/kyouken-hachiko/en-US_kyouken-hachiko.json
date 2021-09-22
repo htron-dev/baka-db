@@ -1,5 +1,9 @@
 {
     "title": "Kyouken Hachiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227223.jpg",
+        "alt": "kyouken-hachiko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

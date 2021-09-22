@@ -1,5 +1,9 @@
 {
     "title": "Shirayuki-hime no Musuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167631.jpg",
+        "alt": "shirayuki-hime-no-musuko"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "白雪姫の息子",

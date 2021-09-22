@@ -1,5 +1,9 @@
 {
     "title": "Koibumi: Yamamoto Souichirou Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244018.jpg",
+        "alt": "koibumi-yamamoto-souichirou-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

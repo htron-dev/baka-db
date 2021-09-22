@@ -1,5 +1,9 @@
 {
     "title": "Datsuiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171800.jpg",
+        "alt": "datsuiden"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

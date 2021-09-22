@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi wa Gaman ga Dekinai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138761.jpg",
+        "alt": "bokutachi-wa-gaman-ga-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

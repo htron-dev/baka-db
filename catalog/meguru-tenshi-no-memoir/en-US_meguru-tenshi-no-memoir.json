@@ -1,5 +1,9 @@
 {
     "title": "Meguru Tenshi no Memoir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178444.jpg",
+        "alt": "meguru-tenshi-no-memoir"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

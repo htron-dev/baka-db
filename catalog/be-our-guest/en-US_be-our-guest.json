@@ -1,5 +1,9 @@
 {
     "title": "Be Our Guest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20957.jpg",
+        "alt": "be-our-guest"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "be our guest",

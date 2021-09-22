@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Koto Kai?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46277.jpg",
+        "alt": "ikenai-koto-kai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "イケナイことかい?",

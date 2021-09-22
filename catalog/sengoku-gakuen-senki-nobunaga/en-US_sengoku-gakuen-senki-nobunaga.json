@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Gakuen Senki Nobunaga!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168616.jpg",
+        "alt": "sengoku-gakuen-senki-nobunaga"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "29",

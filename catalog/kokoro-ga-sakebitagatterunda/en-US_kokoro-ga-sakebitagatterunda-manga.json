@@ -1,5 +1,9 @@
 {
     "title": "Kokoro ga Sakebitagatterunda.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163995.jpg",
+        "alt": "kokoro-ga-sakebitagatterunda"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

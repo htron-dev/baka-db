@@ -1,5 +1,9 @@
 {
     "title": "Tamatama Harassment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246610.jpg",
+        "alt": "tamatama-harassment"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

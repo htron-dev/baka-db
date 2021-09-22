@@ -1,5 +1,9 @@
 {
     "title": "Coffee Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234249.jpg",
+        "alt": "coffee-moon"
+    },
     "type": "manga",
     "original_name": "コーヒームーン",
     "start_date": "2020-01-27",

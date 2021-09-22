@@ -1,5 +1,9 @@
 {
     "title": "Tubame Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53569.jpg",
+        "alt": "tubame-syndrome"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "42",

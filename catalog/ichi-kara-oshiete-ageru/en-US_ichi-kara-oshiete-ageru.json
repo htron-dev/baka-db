@@ -1,5 +1,9 @@
 {
     "title": "Ichi kara Oshiete Ageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245263.jpg",
+        "alt": "ichi-kara-oshiete-ageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

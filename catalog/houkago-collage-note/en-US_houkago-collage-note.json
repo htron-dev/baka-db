@@ -1,5 +1,9 @@
 {
     "title": "Houkago Collage Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237142.jpg",
+        "alt": "houkago-collage-note"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "31",

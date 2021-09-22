@@ -1,5 +1,9 @@
 {
     "title": "Haratama Kiyotama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138819.jpg",
+        "alt": "haratama-kiyotama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

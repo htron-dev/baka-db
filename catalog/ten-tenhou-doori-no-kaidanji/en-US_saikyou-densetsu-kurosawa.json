@@ -1,5 +1,9 @@
 {
     "title": "Saikyou Densetsu Kurosawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/31742.jpg",
+        "alt": "saikyou-densetsu-kurosawa"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "90",

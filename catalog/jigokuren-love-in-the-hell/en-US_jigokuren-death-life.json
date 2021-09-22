@@ -1,5 +1,9 @@
 {
     "title": "Jigokuren: Death Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188892.jpg",
+        "alt": "jigokuren-death-life"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Peepo Choo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33834.jpg",
+        "alt": "peepo-choo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

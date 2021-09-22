@@ -1,5 +1,9 @@
 {
     "title": "Bukiyou na Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236428.jpg",
+        "alt": "bukiyou-na-lion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

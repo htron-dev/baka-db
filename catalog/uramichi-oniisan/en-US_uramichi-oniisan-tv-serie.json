@@ -1,5 +1,9 @@
 {
     "title": "Uramichi Oniisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1126/115635.jpg",
+        "alt": "uramichi-oniisan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "うらみちお兄さん",

@@ -1,12 +1,16 @@
 {
     "title": "Fate/Zero 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/41125.jpg",
+        "alt": "fate-zero-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "フェイト/ゼロ 2nd シーズン",
     "start_date": "2012-04-08",
     "end_date": "2012-04-08",
     "opening_song": "\"to the beginning\" by Kalafina (eps 1-4, 7-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sora wa Takaku Kaze wa Utau (空は高く風は歌う)\" by Luna Haruna (eps 1-4, 7-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

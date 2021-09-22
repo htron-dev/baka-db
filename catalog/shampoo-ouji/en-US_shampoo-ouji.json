@@ -1,5 +1,9 @@
 {
     "title": "Shampoo Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/85586.jpg",
+        "alt": "shampoo-ouji"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "シャンプー王子",

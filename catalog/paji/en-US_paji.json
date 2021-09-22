@@ -1,5 +1,9 @@
 {
     "title": "Paji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41629.jpg",
+        "alt": "paji"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "ぱじ",

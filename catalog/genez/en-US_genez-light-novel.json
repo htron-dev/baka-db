@@ -1,5 +1,9 @@
 {
     "title": "Genez",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159299.jpg",
+        "alt": "genez"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "70",

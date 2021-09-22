@@ -1,5 +1,9 @@
 {
     "title": "Kochira Samejima Kenkyuujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6025.jpg",
+        "alt": "kochira-samejima-kenkyuujo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "こちら鮫島研究所",

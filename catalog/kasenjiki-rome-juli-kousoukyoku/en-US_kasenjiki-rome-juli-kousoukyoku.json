@@ -1,5 +1,9 @@
 {
     "title": "Kasenjiki RomeJuli Kousoukyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245974.jpg",
+        "alt": "kasenjiki-rome-juli-kousoukyoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

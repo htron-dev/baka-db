@@ -1,5 +1,9 @@
 {
     "title": "Shirogane Shinshi Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232331.jpg",
+        "alt": "shirogane-shinshi-club"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

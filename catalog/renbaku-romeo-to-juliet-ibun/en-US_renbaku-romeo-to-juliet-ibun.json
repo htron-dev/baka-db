@@ -1,5 +1,9 @@
 {
     "title": "Renbaku: Romeo to Juliet Ibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184727.jpg",
+        "alt": "renbaku-romeo-to-juliet-ibun"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

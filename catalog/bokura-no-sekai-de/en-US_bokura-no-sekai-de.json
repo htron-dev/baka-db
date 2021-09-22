@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Sekai de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14682.jpg",
+        "alt": "bokura-no-sekai-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

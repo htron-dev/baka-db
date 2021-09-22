@@ -1,5 +1,9 @@
 {
     "title": "Reinbou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1678/106458.jpg",
+        "alt": "reinbou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "REINBOU",

@@ -1,5 +1,9 @@
 {
     "title": "Youkai Gakkou no Sensei Hajimemashita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167315.jpg",
+        "alt": "youkai-gakkou-no-sensei-hajimemashita"
+    },
     "type": "manga",
     "original_name": "妖怪学校の先生はじめました！",
     "start_date": "2014-11-18",

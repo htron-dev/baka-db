@@ -1,5 +1,9 @@
 {
     "title": "Minami-ke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53005.jpg",
+        "alt": "minami-ke"
+    },
     "type": "manga",
     "original_name": "みなみけ",
     "start_date": "2004-11-05",

@@ -1,5 +1,9 @@
 {
     "title": "Kiriwo Terrible",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134415.jpg",
+        "alt": "kiriwo-terrible"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

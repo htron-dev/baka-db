@@ -1,5 +1,9 @@
 {
     "title": "Danganronpa Gaiden: Killer Killer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180279.jpg",
+        "alt": "danganronpa-gaiden-killer-killer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

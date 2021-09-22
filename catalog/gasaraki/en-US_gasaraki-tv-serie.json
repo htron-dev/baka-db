@@ -1,11 +1,15 @@
 {
     "title": "Gasaraki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1790/91070.jpg",
+        "alt": "gasaraki"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ガサラキ",
     "start_date": "1998-10-04",
     "end_date": "1998-10-04",
-    "opening_song": "#1",
+    "opening_song": "#1: \"MESSAGE #9\" by Tomoko Tane (種ともこ) (eps 1-14, 17-25)",
     "ending_song": "\"Love Song\" by Tomoko Tane",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

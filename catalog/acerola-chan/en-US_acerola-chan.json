@@ -1,5 +1,9 @@
 {
     "title": "Acerola-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/80597.jpg",
+        "alt": "acerola-chan"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "セロラちゃん",

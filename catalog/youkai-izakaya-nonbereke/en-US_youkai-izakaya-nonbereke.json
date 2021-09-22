@@ -1,5 +1,9 @@
 {
     "title": "Youkai Izakaya Nonbereke.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228169.jpg",
+        "alt": "youkai-izakaya-nonbereke"
+    },
     "type": "manga",
     "original_name": "ようかい居酒屋 のんべれケ。",
     "start_date": "2019-02-24",

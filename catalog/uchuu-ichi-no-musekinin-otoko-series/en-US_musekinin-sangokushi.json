@@ -1,5 +1,9 @@
 {
     "title": "Musekinin Sangokushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238069.jpg",
+        "alt": "musekinin-sangokushi"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "81",

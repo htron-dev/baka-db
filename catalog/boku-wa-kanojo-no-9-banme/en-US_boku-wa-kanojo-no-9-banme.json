@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Kanojo no 9-banme",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164721.jpg",
+        "alt": "boku-wa-kanojo-no-9-banme"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "僕は彼女の 9 番目",

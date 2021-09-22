@@ -1,5 +1,9 @@
 {
     "title": "Zero Seiki Movie 1: Emeraldas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86764.jpg",
+        "alt": "zero-seiki-movie-1-emeraldas"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "零世紀 エメラルダス",

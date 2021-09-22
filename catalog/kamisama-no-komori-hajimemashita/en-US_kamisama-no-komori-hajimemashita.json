@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Komori Hajimemashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222697.jpg",
+        "alt": "kamisama-no-komori-hajimemashita"
+    },
     "type": "manga",
     "original_name": "神様の子守はじめました。",
     "start_date": "2017-11-15",

@@ -1,5 +1,9 @@
 {
     "title": "Houkago Saikoro Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1035/111624.jpg",
+        "alt": "houkago-saikoro-club"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "放課後さいころ倶楽部",

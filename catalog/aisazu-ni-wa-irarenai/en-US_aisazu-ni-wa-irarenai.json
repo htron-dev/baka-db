@@ -1,5 +1,9 @@
 {
     "title": "Aisazu ni wa Irarenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120835.jpg",
+        "alt": "aisazu-ni-wa-irarenai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "愛さずにはいられない",

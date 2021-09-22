@@ -1,5 +1,9 @@
 {
     "title": "Konya mo Kimi ni Gochisousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244680.jpg",
+        "alt": "konya-mo-kimi-ni-gochisousama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Makai Tenshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1285/94142.jpg",
+        "alt": "makai-tenshou"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "魔界転生",

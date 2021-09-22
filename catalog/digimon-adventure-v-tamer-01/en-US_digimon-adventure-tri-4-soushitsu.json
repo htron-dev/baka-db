@@ -1,5 +1,9 @@
 {
     "title": "Digimon Adventure tri. 4: Soushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/82613.jpg",
+        "alt": "digimon-adventure-tri-4-soushitsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デジモンアドベンチャー tri.（トライ）第４章「喪失」",

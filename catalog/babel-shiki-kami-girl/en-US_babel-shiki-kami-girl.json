@@ -1,5 +1,9 @@
 {
     "title": "Babel-shiki Kami Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192526.jpg",
+        "alt": "babel-shiki-kami-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

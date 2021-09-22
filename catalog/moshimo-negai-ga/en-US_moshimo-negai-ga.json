@@ -1,5 +1,9 @@
 {
     "title": "Moshimo Negai ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79463.jpg",
+        "alt": "moshimo-negai-ga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

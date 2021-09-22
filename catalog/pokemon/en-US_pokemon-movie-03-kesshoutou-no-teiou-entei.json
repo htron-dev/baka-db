@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Movie 03: Kesshoutou no Teiou Entei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/80288.jpg",
+        "alt": "pokemon-movie-03-kesshoutou-no-teiou-entei"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポケットモンスター 結晶塔の帝王 ENTEI",

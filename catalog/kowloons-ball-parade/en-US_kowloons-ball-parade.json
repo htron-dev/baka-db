@@ -1,5 +1,9 @@
 {
     "title": "Kowloon's Ball Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246047.jpg",
+        "alt": "kowloons-ball-parade"
+    },
     "type": "manga",
     "original_name": "クーロンズ・ボール・パレード",
     "start_date": "2021-02-15",

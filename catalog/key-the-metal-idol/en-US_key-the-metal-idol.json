@@ -1,12 +1,16 @@
 {
     "title": "Key the Metal Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/11220.jpg",
+        "alt": "key-the-metal-idol"
+    },
     "type": "ova",
     "episodes": "15",
     "original_name": "KEY THE METAL IDOL",
     "start_date": "1994-12-16",
     "end_date": "1994-12-16",
     "opening_song": "\"In the Night\" by Sario Kijima",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Watashi ga Soba ni Iru\" by Sario Kijima (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

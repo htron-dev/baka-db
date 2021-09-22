@@ -1,5 +1,9 @@
 {
     "title": "Classical Medley",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31395.jpg",
+        "alt": "classical-medley"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

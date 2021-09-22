@@ -1,12 +1,16 @@
 {
     "title": "Cyborg 009: The Cyborg Soldier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/21620.jpg",
+        "alt": "cyborg-009-the-cyborg-soldier"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "サイボーグ 009 THE CYBORG SOLDIER",
     "start_date": "2001-10-14",
     "end_date": "2001-10-14",
     "opening_song": "\"What's the Justice?\" by globe",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Genesis of Next\" by globe (eps 2-26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

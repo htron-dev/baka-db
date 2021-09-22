@@ -1,5 +1,9 @@
 {
     "title": "Amaku Midara na Honeymoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191924.jpg",
+        "alt": "amaku-midara-na-honeymoon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

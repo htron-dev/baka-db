@@ -1,5 +1,9 @@
 {
     "title": "Galaxy Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/6075.jpg",
+        "alt": "galaxy-angel"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ギャラクシーエンジェル",

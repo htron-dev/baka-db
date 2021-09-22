@@ -1,5 +1,9 @@
 {
     "title": "Poron Guitar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/71813.jpg",
+        "alt": "poron-guitar"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポロンギター",

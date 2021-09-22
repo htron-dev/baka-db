@@ -1,5 +1,9 @@
 {
     "title": "Ningen Shikkaku Kai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/66201.jpg",
+        "alt": "ningen-shikkaku-kai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

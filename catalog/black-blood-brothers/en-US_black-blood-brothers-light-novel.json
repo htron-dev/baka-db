@@ -1,5 +1,9 @@
 {
     "title": "Black Blood Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38149.jpg",
+        "alt": "black-blood-brothers"
+    },
     "type": "light-novel",
     "volumes": "11",
     "original_name": "ブラック·ブラッド·ブラザーズ",

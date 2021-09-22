@@ -1,5 +1,9 @@
 {
     "title": "Kimi to 100-kaime no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191533.jpg",
+        "alt": "kimi-to-100-kaime-no-koi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

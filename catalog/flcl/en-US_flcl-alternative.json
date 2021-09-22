@@ -1,5 +1,9 @@
 {
     "title": "FLCL Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1494/93701.jpg",
+        "alt": "flcl-alternative"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "フリクリ オルタナ",

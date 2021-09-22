@@ -1,5 +1,9 @@
 {
     "title": "Kiseki no Mori no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228180.jpg",
+        "alt": "kiseki-no-mori-no-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "奇蹟の森のものがたり",

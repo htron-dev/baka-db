@@ -1,5 +1,9 @@
 {
     "title": "Wai Wai☆Hey! Say! JUMP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33121.jpg",
+        "alt": "wai-wai☆-hey-say-jump"
+    },
     "type": "manga",
     "original_name": "わいわいっ ☆Hey! Say! JUMP",
     "start_date": "2008-12-29",

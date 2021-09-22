@@ -1,5 +1,9 @@
 {
     "title": "Mofu☆Mofu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/10479.jpg",
+        "alt": "mofu☆-mofu"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "モフ ☆ モフ",

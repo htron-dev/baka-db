@@ -1,5 +1,9 @@
 {
     "title": "Hanakage no Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31272.jpg",
+        "alt": "hanakage-no-kioku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

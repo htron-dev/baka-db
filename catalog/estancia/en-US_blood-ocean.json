@@ -1,5 +1,9 @@
 {
     "title": "Blood Ocean",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194965.jpg",
+        "alt": "blood-ocean"
+    },
     "type": "manhwa",
     "chapters": "164",
     "original_name": "블러드 오션",

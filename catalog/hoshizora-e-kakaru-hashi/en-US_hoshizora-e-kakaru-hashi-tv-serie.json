@@ -1,12 +1,16 @@
 {
     "title": "Hoshizora e Kakaru Hashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/73521.jpg",
+        "alt": "hoshizora-e-kakaru-hashi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "星空へ架かる橋",
     "start_date": "2011-04-11",
     "end_date": "2011-04-11",
     "opening_song": "\"Hoshikaze no Horoscope (星風のホロスコープ)\" by Nomico",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dashed Cinderella (だっしゅどシンデレラ)\" by Eriko Nakamura and Ai Shimizu (eps 1-9, 11)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

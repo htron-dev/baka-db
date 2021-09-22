@@ -1,5 +1,9 @@
 {
     "title": "Itsumo no Jikan, Itsumo no Basho de.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200352.jpg",
+        "alt": "itsumo-no-jikan-itsumo-no-basho-de"
+    },
     "type": "manga",
     "original_name": "いつもの時間、いつもの場所で。",
     "start_date": "2015-03-25",

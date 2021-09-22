@@ -1,5 +1,9 @@
 {
     "title": "Kyoudai no Rule.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160204.jpg",
+        "alt": "kyoudai-no-rule"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kuchi ni Dashitemo Yoroshii desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244082.jpg",
+        "alt": "kuchi-ni-dashitemo-yoroshii-desu-ka"
+    },
     "type": "manga",
     "original_name": "口に出しても宜しいですか?",
     "start_date": "2021-04-28",

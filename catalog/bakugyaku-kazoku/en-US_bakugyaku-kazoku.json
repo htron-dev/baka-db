@@ -1,5 +1,9 @@
 {
     "title": "Bakugyaku Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/77377.jpg",
+        "alt": "bakugyaku-kazoku"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "莫逆家族",

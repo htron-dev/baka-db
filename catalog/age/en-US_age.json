@@ -1,5 +1,9 @@
 {
     "title": "Age!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17572.jpg",
+        "alt": "age"
+    },
     "type": "manga",
     "volumes": "4",
     "tags": [

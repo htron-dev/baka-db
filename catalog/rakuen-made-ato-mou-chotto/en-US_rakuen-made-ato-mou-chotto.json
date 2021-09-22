@@ -1,5 +1,9 @@
 {
     "title": "Rakuen made Ato Mou Chotto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32539.jpg",
+        "alt": "rakuen-made-ato-mou-chotto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

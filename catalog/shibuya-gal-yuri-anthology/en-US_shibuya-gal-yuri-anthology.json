@@ -1,5 +1,9 @@
 {
     "title": "Shibuya: Gal Yuri Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248388.jpg",
+        "alt": "shibuya-gal-yuri-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Tsume to Toge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165174.jpg",
+        "alt": "tsume-to-toge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

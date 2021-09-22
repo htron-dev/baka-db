@@ -1,5 +1,9 @@
 {
     "title": "Tetsujin 28-gou: Tanjou-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/67847.jpg",
+        "alt": "tetsujin-28-gou-tanjou-hen"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "鉄人 28 号「誕生編」",
@@ -19,7 +23,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/鉄人28号_(テレビアニメ第1作"
+            "link": "http://ja.wikipedia.org/wiki/鉄人28号_%28テレビアニメ第1作%29"
         }
     ]
 }

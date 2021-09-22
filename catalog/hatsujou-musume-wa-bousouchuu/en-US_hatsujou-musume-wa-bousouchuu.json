@@ -1,5 +1,9 @@
 {
     "title": "Hatsujou Musume wa Bousouchuu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206558.jpg",
+        "alt": "hatsujou-musume-wa-bousouchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

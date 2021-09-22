@@ -1,5 +1,9 @@
 {
     "title": "Tokumei Koukousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45411.jpg",
+        "alt": "tokumei-koukousei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "特命高校生",

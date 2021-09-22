@@ -1,5 +1,9 @@
 {
     "title": "Kuchibiru ni Kimi no Iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165814.jpg",
+        "alt": "kuchibiru-ni-kimi-no-iro"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

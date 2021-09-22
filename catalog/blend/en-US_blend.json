@@ -1,5 +1,9 @@
 {
     "title": "Blend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71620.jpg",
+        "alt": "blend"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "BLEND",

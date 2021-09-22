@@ -1,5 +1,9 @@
 {
     "title": "Geba Geba Shou Time!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/56755.jpg",
+        "alt": "geba-geba-shou-time"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ゲバゲバ笑タイム!",

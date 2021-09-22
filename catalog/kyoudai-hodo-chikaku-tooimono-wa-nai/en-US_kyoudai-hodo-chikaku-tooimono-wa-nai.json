@@ -1,5 +1,9 @@
 {
     "title": "Kyoudai hodo Chikaku Tooimono wa Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136601.jpg",
+        "alt": "kyoudai-hodo-chikaku-tooimono-wa-nai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "123",

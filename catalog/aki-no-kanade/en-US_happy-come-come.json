@@ -1,5 +1,9 @@
 {
     "title": "Happy ComeCome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/72482.jpg",
+        "alt": "happy-come-come"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハッピーカムカム",

@@ -1,5 +1,9 @@
 {
     "title": "Gelatin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34691.jpg",
+        "alt": "gelatin"
+    },
     "type": "manga",
     "volumes": "9",
     "start_date": "2009-02-04",

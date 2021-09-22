@@ -1,12 +1,16 @@
 {
     "title": "Wolf's Rain OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/22397.jpg",
+        "alt": "wolfs-rain-ova"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ウルフズ・レイン",
     "start_date": "2004-01-23",
     "end_date": "2004-01-23",
     "opening_song": "\"Stray\" by Steve Conte",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gravity\" by Maaya Sakamoto",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

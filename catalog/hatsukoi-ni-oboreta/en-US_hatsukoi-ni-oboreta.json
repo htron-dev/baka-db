@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi ni Oboreta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/111985.jpg",
+        "alt": "hatsukoi-ni-oboreta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Life Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242389.jpg",
+        "alt": "life-maker"
+    },
     "type": "manga",
     "original_name": "LIFE MAKER",
     "start_date": "2021-03-12",

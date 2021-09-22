@@ -1,5 +1,9 @@
 {
     "title": "Double Hard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34702.jpg",
+        "alt": "double-hard"
+    },
     "type": "manga",
     "volumes": "30",
     "original_name": "ダブル・ハード",

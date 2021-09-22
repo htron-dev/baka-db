@@ -1,5 +1,9 @@
 {
     "title": "Blood of Matools",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14365.jpg",
+        "alt": "blood-of-matools"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "60",

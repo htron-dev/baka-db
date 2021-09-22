@@ -1,5 +1,9 @@
 {
     "title": "Yagate Koisuru Vivi Lane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196025.jpg",
+        "alt": "yagate-koisuru-vivi-lane"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "26",

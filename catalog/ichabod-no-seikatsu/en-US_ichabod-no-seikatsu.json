@@ -1,5 +1,9 @@
 {
     "title": "Ichabod no Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138181.jpg",
+        "alt": "ichabod-no-seikatsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "G-School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18529.jpg",
+        "alt": "g-school"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "82",

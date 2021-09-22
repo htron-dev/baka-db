@@ -1,5 +1,9 @@
 {
     "title": "Ichi Nanobyou no Lilith",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160661.jpg",
+        "alt": "ichi-nanobyou-no-lilith"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

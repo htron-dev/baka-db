@@ -1,5 +1,9 @@
 {
     "title": "Sora no Manimani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141107.jpg",
+        "alt": "sora-no-manimani"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "68",

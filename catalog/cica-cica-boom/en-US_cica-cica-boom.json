@@ -1,5 +1,9 @@
 {
     "title": "CicaCica Boom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12441.jpg",
+        "alt": "cica-cica-boom"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "チカ　チカ　ブーン",

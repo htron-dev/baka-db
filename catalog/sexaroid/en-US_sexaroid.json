@@ -1,5 +1,9 @@
 {
     "title": "Sexaroid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35876.jpg",
+        "alt": "sexaroid"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "48",

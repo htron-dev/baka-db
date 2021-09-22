@@ -1,5 +1,9 @@
 {
     "title": "Eros no Shushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196766.jpg",
+        "alt": "eros-no-shushi"
+    },
     "type": "manga",
     "original_name": "エロスの種子",
     "start_date": "2015-12-24",

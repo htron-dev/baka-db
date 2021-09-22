@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu no Tenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167943.jpg",
+        "alt": "shuumatsu-no-tenki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

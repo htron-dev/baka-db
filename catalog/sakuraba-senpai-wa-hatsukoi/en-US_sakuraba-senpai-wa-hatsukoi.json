@@ -1,5 +1,9 @@
 {
     "title": "Sakuraba-senpai wa Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195747.jpg",
+        "alt": "sakuraba-senpai-wa-hatsukoi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "62",

@@ -1,5 +1,9 @@
 {
     "title": "Nina Jalhae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4882.jpg",
+        "alt": "nina-jalhae"
+    },
     "type": "manhwa",
     "volumes": "50",
     "original_name": "니나잘해",

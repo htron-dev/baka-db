@@ -1,5 +1,9 @@
 {
     "title": "Imadoki Joushi Buka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60653.jpg",
+        "alt": "imadoki-joushi-buka"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "イマドキ ☆ 上司部下",

@@ -1,5 +1,9 @@
 {
     "title": "Lotus Eater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26543.jpg",
+        "alt": "lotus-eater"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,12 +1,16 @@
 {
     "title": "Hiiro no Kakera Dai Ni Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/42709.jpg",
+        "alt": "hiiro-no-kakera-dai-ni-shou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "緋色の欠片 第二章",
     "start_date": "2012-09-30",
     "end_date": "2012-09-30",
     "opening_song": "\"Takanaru (高鳴る)\" by Maiko Fujita",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi Dake wo (君だけを)\" by Shuhei Kita (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "fantasy",

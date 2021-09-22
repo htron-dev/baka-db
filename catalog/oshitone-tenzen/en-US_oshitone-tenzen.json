@@ -1,5 +1,9 @@
 {
     "title": "Oshitone Tenzen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60007.jpg",
+        "alt": "oshitone-tenzen"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "おしとね天繕",

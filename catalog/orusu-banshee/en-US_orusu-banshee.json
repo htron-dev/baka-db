@@ -1,5 +1,9 @@
 {
     "title": "Orusu Banshee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123733.jpg",
+        "alt": "orusu-banshee"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "お留守バンシー",

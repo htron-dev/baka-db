@@ -1,5 +1,9 @@
 {
     "title": "Meikaidayori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193941.jpg",
+        "alt": "meikaidayori"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "冥界だより",

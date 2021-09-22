@@ -1,5 +1,9 @@
 {
     "title": "Koi no Hatsunetsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153323.jpg",
+        "alt": "koi-no-hatsunetsuki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋の発熱期",

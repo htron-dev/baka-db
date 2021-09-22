@@ -1,5 +1,9 @@
 {
     "title": "Yukemuri Sniper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221617.jpg",
+        "alt": "yukemuri-sniper"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "173",

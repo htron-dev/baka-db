@@ -1,5 +1,9 @@
 {
     "title": "Suna no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228806.jpg",
+        "alt": "suna-no-ori"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "砂の檻",

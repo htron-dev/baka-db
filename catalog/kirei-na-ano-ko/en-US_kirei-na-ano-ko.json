@@ -1,5 +1,9 @@
 {
     "title": "Kirei na Ano Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112509.jpg",
+        "alt": "kirei-na-ano-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

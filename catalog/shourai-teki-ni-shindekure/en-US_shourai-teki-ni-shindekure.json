@@ -1,5 +1,9 @@
 {
     "title": "Shourai-teki ni Shindekure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194468.jpg",
+        "alt": "shourai-teki-ni-shindekure"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "42",

@@ -1,5 +1,9 @@
 {
     "title": "Edogawa Ranpo Ijinkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202864.jpg",
+        "alt": "edogawa-ranpo-ijinkan"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "91",

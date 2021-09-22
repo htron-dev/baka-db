@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters (2019)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224968.jpg",
+        "alt": "pocket-monsters-2019"
+    },
     "type": "manga",
     "original_name": "ポケットモンスター",
     "start_date": "2019-11-15",

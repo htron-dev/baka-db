@@ -1,5 +1,9 @@
 {
     "title": "100% Pascal-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/85447.jpg",
+        "alt": "100-pascal-sensei"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "100%パスカル先生",

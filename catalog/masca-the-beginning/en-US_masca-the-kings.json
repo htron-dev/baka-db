@@ -1,5 +1,9 @@
 {
     "title": "Masca: The Kings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61975.jpg",
+        "alt": "masca-the-kings"
+    },
     "type": "manhwa",
     "original_name": "마스카 열왕기",
     "tags": [

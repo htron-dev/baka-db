@@ -1,5 +1,9 @@
 {
     "title": "Dororon Enma-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39225.jpg",
+        "alt": "dororon-enma-kun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

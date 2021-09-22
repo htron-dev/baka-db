@@ -1,5 +1,9 @@
 {
     "title": "Shinkakei Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92157.jpg",
+        "alt": "shinkakei-lovers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

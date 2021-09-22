@@ -1,5 +1,9 @@
 {
     "title": "2-banme no α",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232416.jpg",
+        "alt": "2-banme-no-α"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama Choukyou Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85375.jpg",
+        "alt": "goshujinsama-choukyou-keikaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

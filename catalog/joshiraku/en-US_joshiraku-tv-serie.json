@@ -1,5 +1,9 @@
 {
     "title": "Joshiraku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/48925.jpg",
+        "alt": "joshiraku"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "じょしらく",

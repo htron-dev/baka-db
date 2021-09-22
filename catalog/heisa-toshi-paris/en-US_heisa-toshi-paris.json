@@ -1,5 +1,9 @@
 {
     "title": "Heisa Toshi Paris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123857.jpg",
+        "alt": "heisa-toshi-paris"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "24",

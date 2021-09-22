@@ -1,5 +1,9 @@
 {
     "title": "Haigo ni Megane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196161.jpg",
+        "alt": "haigo-ni-megane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

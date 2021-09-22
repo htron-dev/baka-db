@@ -1,5 +1,9 @@
 {
     "title": "Tengen Toppa Gurren Lagann: Rasen Shounentan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39673.jpg",
+        "alt": "tengen-toppa-gurren-lagann-rasen-shounentan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Splatoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181437.jpg",
+        "alt": "splatoon"
+    },
     "type": "manga",
     "original_name": "Splatoon",
     "start_date": "2015-05-15",

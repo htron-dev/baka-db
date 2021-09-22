@@ -1,5 +1,9 @@
 {
     "title": "Gwi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/45351.jpg",
+        "alt": "gwi"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "34",

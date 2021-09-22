@@ -1,12 +1,16 @@
 {
     "title": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1764/106659.jpg",
+        "alt": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
     "start_date": "2020-04-11",
     "end_date": "2020-04-11",
     "opening_song": "\"DADDY! DADDY! DO! feat. Airi Suzuki (DADDY! DADDY! DO! feat. 鈴木愛理)\" by Masayuki Suzuki (eps 2-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"DADDY! DADDY! DO! feat. Airi Suzuki (DADDY! DADDY! DO! feat. 鈴木愛理)\" by Masayuki Suzuki (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

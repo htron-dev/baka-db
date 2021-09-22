@@ -1,5 +1,9 @@
 {
     "title": "Les Misérables",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109201.jpg",
+        "alt": "les-miserables"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "33",

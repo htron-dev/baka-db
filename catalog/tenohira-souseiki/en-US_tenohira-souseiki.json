@@ -1,5 +1,9 @@
 {
     "title": "Tenohira Souseiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236317.jpg",
+        "alt": "tenohira-souseiki"
+    },
     "type": "manga",
     "original_name": "てのひら創世記",
     "start_date": "2019-12-12",

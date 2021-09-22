@@ -1,5 +1,9 @@
 {
     "title": "Tamara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7480.jpg",
+        "alt": "tamara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

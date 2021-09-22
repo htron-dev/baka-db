@@ -1,12 +1,16 @@
 {
     "title": "Sengoku Otome: Momoiro Paradox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75231.jpg",
+        "alt": "sengoku-otome-momoiro-paradox"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "戦国乙女～桃色パラドックス～",
     "start_date": "2011-04-05",
     "end_date": "2011-04-05",
     "opening_song": "\"Kagerou (陽炎－ｋａｇｅｒｏｕ－)\" by Tenka Tori Tai (天下取り隊) (Satomi Akesaka, Mariya Ise, Sachi Kokuryu, Rei Mochizuki)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Atsuki Ya no Gotoku (熱き矢の如く)\" by Tenka Tori Tai (eps 1-9, 11-12)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

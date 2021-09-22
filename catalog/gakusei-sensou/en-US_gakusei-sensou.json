@@ -1,5 +1,9 @@
 {
     "title": "Gakusei Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176429.jpg",
+        "alt": "gakusei-sensou"
+    },
     "type": "light-novel",
     "original_name": "学生戦争",
     "start_date": "2015-03-25",

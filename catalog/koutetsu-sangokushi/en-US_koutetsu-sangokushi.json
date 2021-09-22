@@ -1,5 +1,9 @@
 {
     "title": "Koutetsu Sangokushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76497.jpg",
+        "alt": "koutetsu-sangokushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

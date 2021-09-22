@@ -1,12 +1,16 @@
 {
     "title": "Wotaku ni Koi wa Muzukashii OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1892/111383.jpg",
+        "alt": "wotaku-ni-koi-wa-muzukashii-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ヲタクに恋は難しい OAD",
     "start_date": "2019-03-29",
     "end_date": "2019-03-29",
     "opening_song": "\"Fiction (フィクション)\" by Sumika (ep 1)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi no Tonari (キミの隣)\" by halca (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

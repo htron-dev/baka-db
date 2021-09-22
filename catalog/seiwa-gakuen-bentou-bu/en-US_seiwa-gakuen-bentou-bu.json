@@ -1,5 +1,9 @@
 {
     "title": "Seiwa Gakuen Bentou-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100625.jpg",
+        "alt": "seiwa-gakuen-bentou-bu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

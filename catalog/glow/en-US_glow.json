@@ -1,5 +1,9 @@
 {
     "title": "Glow!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156499.jpg",
+        "alt": "glow"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

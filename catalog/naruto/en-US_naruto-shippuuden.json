@@ -1,12 +1,16 @@
 {
     "title": "Naruto: Shippuuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/17407.jpg",
+        "alt": "naruto-shippuuden"
+    },
     "type": "tv-serie",
     "episodes": "500",
     "original_name": "ナルト- 疾風伝",
     "start_date": "2007-02-15",
     "end_date": "2007-02-15",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Hero's Come Back\" by Nobodyknows+ (eps 1-30)",
+    "ending_song": "#01: \"Nagare Boshi ~Shooting Star~ (流れ星〜Shooting Star〜)\" by HOME MADE Kazoku (eps 1-18)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

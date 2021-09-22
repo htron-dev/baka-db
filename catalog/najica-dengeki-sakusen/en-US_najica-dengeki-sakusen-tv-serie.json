@@ -1,5 +1,9 @@
 {
     "title": "Najica Dengeki Sakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/22210.jpg",
+        "alt": "najica-dengeki-sakusen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ナジカ電撃作戦",

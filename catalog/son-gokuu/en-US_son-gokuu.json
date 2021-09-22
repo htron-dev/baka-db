@@ -1,5 +1,9 @@
 {
     "title": "Son Gokuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167456.jpg",
+        "alt": "son-gokuu"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "孫悟空",

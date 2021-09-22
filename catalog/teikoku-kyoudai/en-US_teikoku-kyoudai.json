@@ -1,5 +1,9 @@
 {
     "title": "Teikoku Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14357.jpg",
+        "alt": "teikoku-kyoudai"
+    },
     "type": "manga",
     "original_name": "帝国兄弟",
     "start_date": "2004-06-20",

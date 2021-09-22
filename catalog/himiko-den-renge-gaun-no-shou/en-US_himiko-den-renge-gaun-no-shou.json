@@ -1,5 +1,9 @@
 {
     "title": "Himiko-den: Renge - Gaun no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179472.jpg",
+        "alt": "himiko-den-renge-gaun-no-shou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

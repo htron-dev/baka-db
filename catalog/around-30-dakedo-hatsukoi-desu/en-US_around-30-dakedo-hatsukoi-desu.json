@@ -1,5 +1,9 @@
 {
     "title": "Around 30 dakedo, Hatsukoi desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219872.jpg",
+        "alt": "around-30-dakedo-hatsukoi-desu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "61",

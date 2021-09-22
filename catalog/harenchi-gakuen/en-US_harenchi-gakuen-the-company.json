@@ -1,5 +1,9 @@
 {
     "title": "Harenchi Gakuen - The Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17808.jpg",
+        "alt": "harenchi-gakuen-the-company"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ハレンチ学園~ザ・カンパニー",

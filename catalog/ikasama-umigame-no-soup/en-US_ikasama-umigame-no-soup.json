@@ -1,5 +1,9 @@
 {
     "title": "Ikasama Umigame no Soup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14485.jpg",
+        "alt": "ikasama-umigame-no-soup"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Cyborg Jiichan G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168497.jpg",
+        "alt": "cyborg-jiichan-g"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

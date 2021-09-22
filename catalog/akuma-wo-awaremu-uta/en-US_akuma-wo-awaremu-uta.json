@@ -1,5 +1,9 @@
 {
     "title": "Akuma wo Awaremu Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196101.jpg",
+        "alt": "akuma-wo-awaremu-uta"
+    },
     "type": "manga",
     "original_name": "悪魔を憐れむ歌",
     "start_date": "2016-12-09",

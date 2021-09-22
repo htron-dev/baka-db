@@ -1,5 +1,9 @@
 {
     "title": "Sentai Daishikkaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243305.jpg",
+        "alt": "sentai-daishikkaku"
+    },
     "type": "manga",
     "original_name": "戦隊大失格",
     "start_date": "2021-02-03",

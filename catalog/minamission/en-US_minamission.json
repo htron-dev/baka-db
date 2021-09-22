@@ -1,5 +1,9 @@
 {
     "title": "Minamission!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149087.jpg",
+        "alt": "minamission"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Makia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81924.jpg",
+        "alt": "makia"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "マキア",

@@ -1,5 +1,9 @@
 {
     "title": "Mahou to Pantsu to Ore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124829.jpg",
+        "alt": "mahou-to-pantsu-to-ore"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

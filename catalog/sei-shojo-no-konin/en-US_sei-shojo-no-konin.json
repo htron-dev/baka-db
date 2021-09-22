@@ -1,5 +1,9 @@
 {
     "title": "Sei Shojo no Konin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184679.jpg",
+        "alt": "sei-shojo-no-konin"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "聖処女の婚淫",

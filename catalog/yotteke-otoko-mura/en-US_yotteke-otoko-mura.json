@@ -1,5 +1,9 @@
 {
     "title": "Yotteke! Otoko Mura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30445.jpg",
+        "alt": "yotteke-otoko-mura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

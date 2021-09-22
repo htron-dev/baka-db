@@ -1,5 +1,9 @@
 {
     "title": "Otona to Kodomo no Kyoukaisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1442.jpg",
+        "alt": "otona-to-kodomo-no-kyoukaisen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

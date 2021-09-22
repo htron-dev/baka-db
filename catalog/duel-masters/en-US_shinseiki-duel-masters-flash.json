@@ -1,5 +1,9 @@
 {
     "title": "Shinseiki Duel Masters Flash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1512/105202.jpg",
+        "alt": "shinseiki-duel-masters-flash"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "新星輝デュエル・マスターズ フラッシュ",

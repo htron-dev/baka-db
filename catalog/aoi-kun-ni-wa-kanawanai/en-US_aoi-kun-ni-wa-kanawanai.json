@@ -1,5 +1,9 @@
 {
     "title": "Aoi-kun ni wa Kanawanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240198.jpg",
+        "alt": "aoi-kun-ni-wa-kanawanai"
+    },
     "type": "manga",
     "original_name": "蒼井くんにはかなわない",
     "start_date": "2020-05-15",

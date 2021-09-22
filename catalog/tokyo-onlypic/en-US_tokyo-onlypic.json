@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Onlypic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/80665.jpg",
+        "alt": "tokyo-onlypic"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "東京オンリーピック",

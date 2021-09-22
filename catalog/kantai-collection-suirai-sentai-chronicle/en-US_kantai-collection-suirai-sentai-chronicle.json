@@ -1,5 +1,9 @@
 {
     "title": "Kantai Collection: Suirai Sentai Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160552.jpg",
+        "alt": "kantai-collection-suirai-sentai-chronicle"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

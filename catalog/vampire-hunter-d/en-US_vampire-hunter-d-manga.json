@@ -1,5 +1,9 @@
 {
     "title": "Vampire Hunter D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76275.jpg",
+        "alt": "vampire-hunter-d"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "バンパイアハンター D",

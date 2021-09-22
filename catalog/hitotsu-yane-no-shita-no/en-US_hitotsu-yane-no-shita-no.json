@@ -1,5 +1,9 @@
 {
     "title": "Hitotsu Yane no Shita no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188508.jpg",
+        "alt": "hitotsu-yane-no-shita-no"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Marie &amp; Gali",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/22111.jpg",
+        "alt": "marie-amp-gali"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "マリー & ガリー",

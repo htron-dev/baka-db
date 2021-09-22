@@ -1,5 +1,9 @@
 {
     "title": "Mametsu no Toko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127771.jpg",
+        "alt": "mametsu-no-toko"
+    },
     "type": "light-novel",
     "original_name": "魔滅のトーコ",
     "start_date": "2014-06-04",

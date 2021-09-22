@@ -1,5 +1,9 @@
 {
     "title": "Daisuki Datta yo, Sensei...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111769.jpg",
+        "alt": "daisuki-datta-yo-sensei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

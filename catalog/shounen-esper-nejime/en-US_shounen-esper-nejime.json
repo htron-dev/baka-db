@@ -1,5 +1,9 @@
 {
     "title": "Shounen Esper Nejime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10442.jpg",
+        "alt": "shounen-esper-nejime"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "少年エスパーねじめ",

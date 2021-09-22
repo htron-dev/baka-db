@@ -1,5 +1,9 @@
 {
     "title": "Fukukaichou Ganbaru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202842.jpg",
+        "alt": "fukukaichou-ganbaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

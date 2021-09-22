@@ -1,5 +1,9 @@
 {
     "title": "Ebisu-san to Hotei-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34283.jpg",
+        "alt": "ebisu-san-to-hotei-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

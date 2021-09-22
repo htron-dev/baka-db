@@ -1,5 +1,9 @@
 {
     "title": "Aisarenai Aijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247188.jpg",
+        "alt": "aisarenai-aijin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛されない愛人",

@@ -1,5 +1,9 @@
 {
     "title": "Battle Story Rockman.EXE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184999.jpg",
+        "alt": "battle-story-rockman-exe"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "71",

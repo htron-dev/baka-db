@@ -1,5 +1,9 @@
 {
     "title": "Manatsu no Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57237.jpg",
+        "alt": "manatsu-no-eden"
+    },
     "type": "manga",
     "original_name": "真夏のエデン",
     "start_date": "2011-06-20",

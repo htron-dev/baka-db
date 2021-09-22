@@ -1,5 +1,9 @@
 {
     "title": "Mahoromatic Summer Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/631.jpg",
+        "alt": "mahoromatic-summer-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "まほろまてぃっく 夏の TV スペシャル",

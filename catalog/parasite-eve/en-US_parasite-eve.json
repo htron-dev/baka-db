@@ -1,5 +1,9 @@
 {
     "title": "Parasite Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65639.jpg",
+        "alt": "parasite-eve"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "1998-01-19",

@@ -1,5 +1,9 @@
 {
     "title": "Lady!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167964.jpg",
+        "alt": "lady"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "59",

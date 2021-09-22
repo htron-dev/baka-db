@@ -1,5 +1,9 @@
 {
     "title": "Towa no Hate made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32106.jpg",
+        "alt": "towa-no-hate-made"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "永久の果てまで ~シャングリラ~",

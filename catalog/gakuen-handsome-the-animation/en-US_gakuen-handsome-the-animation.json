@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Handsome The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/76861.jpg",
+        "alt": "gakuen-handsome-the-animation"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "学園ハンサム The Animation",

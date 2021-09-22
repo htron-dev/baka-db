@@ -1,5 +1,9 @@
 {
     "title": "Full Metal Panic! Surplus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30689.jpg",
+        "alt": "full-metal-panic-surplus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

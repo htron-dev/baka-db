@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Iru Keshiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217900.jpg",
+        "alt": "kamisama-no-iru-keshiki"
+    },
     "type": "manga",
     "chapters": "43",
     "original_name": "かみさまのいる景色",

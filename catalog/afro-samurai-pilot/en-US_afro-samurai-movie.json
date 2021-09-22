@@ -1,5 +1,9 @@
 {
     "title": "Afro Samurai Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/38065.jpg",
+        "alt": "afro-samurai-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "AFRO SAMURAI 　劇場版",

@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Nightmare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38145.jpg",
+        "alt": "gakuen-nightmare"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

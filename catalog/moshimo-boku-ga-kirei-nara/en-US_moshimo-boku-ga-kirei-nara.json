@@ -1,5 +1,9 @@
 {
     "title": "Moshimo Boku ga Kirei nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156063.jpg",
+        "alt": "moshimo-boku-ga-kirei-nara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "もしも ぼくが きれいなら",

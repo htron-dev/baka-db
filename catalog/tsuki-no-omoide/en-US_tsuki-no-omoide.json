@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Omoide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191000.jpg",
+        "alt": "tsuki-no-omoide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "24",

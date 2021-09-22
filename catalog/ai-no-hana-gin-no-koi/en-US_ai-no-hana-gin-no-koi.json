@@ -1,5 +1,9 @@
 {
     "title": "Ai no Hana, Gin no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25258.jpg",
+        "alt": "ai-no-hana-gin-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

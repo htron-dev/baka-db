@@ -1,5 +1,9 @@
 {
     "title": "Kokoro no Kanashimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/50127.jpg",
+        "alt": "kokoro-no-kanashimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

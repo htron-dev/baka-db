@@ -1,5 +1,9 @@
 {
     "title": "Kozure Kizoku no Osewagakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185922.jpg",
+        "alt": "kozure-kizoku-no-osewagakari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

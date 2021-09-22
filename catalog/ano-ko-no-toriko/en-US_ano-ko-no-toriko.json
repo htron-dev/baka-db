@@ -1,5 +1,9 @@
 {
     "title": "Ano Ko no, Toriko.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156296.jpg",
+        "alt": "ano-ko-no-toriko"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

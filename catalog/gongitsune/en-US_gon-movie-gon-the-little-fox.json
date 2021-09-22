@@ -1,5 +1,9 @@
 {
     "title": "Gon Movie: Gon, the Little Fox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1194/107736.jpg",
+        "alt": "gon-movie-gon-the-little-fox"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版ごん ‒ GON, THE LITTLE FOX-",

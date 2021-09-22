@@ -1,5 +1,9 @@
 {
     "title": "Megami no Libra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104373.jpg",
+        "alt": "megami-no-libra"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

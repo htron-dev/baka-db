@@ -1,5 +1,9 @@
 {
     "title": "Controller of Controller",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1573/95073.jpg",
+        "alt": "controller-of-controller"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Controller of Controller",

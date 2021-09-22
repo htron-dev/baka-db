@@ -1,5 +1,9 @@
 {
     "title": "The Legend of the Northern Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243483.jpg",
+        "alt": "the-legend-of-the-northern-blade"
+    },
     "type": "manhwa",
     "original_name": "북검전기",
     "start_date": "2020-01-01",

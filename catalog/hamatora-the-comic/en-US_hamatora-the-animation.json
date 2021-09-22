@@ -1,5 +1,9 @@
 {
     "title": "Hamatora The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75653.jpg",
+        "alt": "hamatora-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハマトラ THE ANIMATION",

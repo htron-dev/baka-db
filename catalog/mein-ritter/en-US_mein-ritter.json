@@ -1,5 +1,9 @@
 {
     "title": "Mein Ritter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156419.jpg",
+        "alt": "mein-ritter"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

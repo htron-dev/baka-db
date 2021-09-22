@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Majin Gakuen Kenpuchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14910.jpg",
+        "alt": "tokyo-majin-gakuen-kenpuchou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

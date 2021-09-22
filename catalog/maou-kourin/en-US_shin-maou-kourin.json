@@ -1,5 +1,9 @@
 {
     "title": "Shin, Maou Kourin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124157.jpg",
+        "alt": "shin-maou-kourin"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Mini Van",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149218.jpg",
+        "alt": "mini-van"
+    },
     "type": "manga",
     "original_name": "みにヴぁん",
     "start_date": "2011-06-26",

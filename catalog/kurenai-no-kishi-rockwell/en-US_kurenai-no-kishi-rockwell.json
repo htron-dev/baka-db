@@ -1,5 +1,9 @@
 {
     "title": "Kurenai no Kishi Rockwell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40537.jpg",
+        "alt": "kurenai-no-kishi-rockwell"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

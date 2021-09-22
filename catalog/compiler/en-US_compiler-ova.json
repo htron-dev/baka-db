@@ -1,5 +1,9 @@
 {
     "title": "Compiler",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1989/94225.jpg",
+        "alt": "compiler"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "COMPILER",

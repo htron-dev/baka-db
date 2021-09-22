@@ -1,5 +1,9 @@
 {
     "title": "Tiger Mask W",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/81903.jpg",
+        "alt": "tiger-mask-w"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "タイガーマスク W",

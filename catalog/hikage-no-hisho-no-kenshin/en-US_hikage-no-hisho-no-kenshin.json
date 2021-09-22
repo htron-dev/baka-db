@@ -1,5 +1,9 @@
 {
     "title": "Hikage no Hisho no Kenshin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227448.jpg",
+        "alt": "hikage-no-hisho-no-kenshin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "日陰の秘書の献身",

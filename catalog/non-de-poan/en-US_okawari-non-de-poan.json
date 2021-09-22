@@ -1,5 +1,9 @@
 {
     "title": "Okawari Non de Poan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161214.jpg",
+        "alt": "okawari-non-de-poan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

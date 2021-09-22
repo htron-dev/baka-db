@@ -1,5 +1,9 @@
 {
     "title": "Pochi-Gokko.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226888.jpg",
+        "alt": "pochi-gokko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

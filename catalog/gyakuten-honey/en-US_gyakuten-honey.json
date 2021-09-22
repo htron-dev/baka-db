@@ -1,5 +1,9 @@
 {
     "title": "Gyakuten Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137965.jpg",
+        "alt": "gyakuten-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

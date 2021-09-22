@@ -1,5 +1,9 @@
 {
     "title": "Warning, Raccoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30360.jpg",
+        "alt": "warning-raccoon"
+    },
     "type": "manhwa",
     "original_name": "라쿤주의!!",
     "tags": [

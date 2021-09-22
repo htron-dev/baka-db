@@ -1,5 +1,9 @@
 {
     "title": "Shinobuna! Chiyo-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222073.jpg",
+        "alt": "shinobuna-chiyo-chan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

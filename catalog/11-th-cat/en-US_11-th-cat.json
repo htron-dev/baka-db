@@ -1,5 +1,9 @@
 {
     "title": "11th Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30204.jpg",
+        "alt": "11-th-cat"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "열한번째 고양이",

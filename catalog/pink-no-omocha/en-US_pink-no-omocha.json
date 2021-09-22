@@ -1,5 +1,9 @@
 {
     "title": "Pink no Omocha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119547.jpg",
+        "alt": "pink-no-omocha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

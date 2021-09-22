@@ -1,5 +1,9 @@
 {
     "title": "Raiatea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190898.jpg",
+        "alt": "raiatea"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

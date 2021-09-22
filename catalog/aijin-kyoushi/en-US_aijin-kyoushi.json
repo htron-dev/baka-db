@@ -1,5 +1,9 @@
 {
     "title": "Aijin Kyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/69963.jpg",
+        "alt": "aijin-kyoushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

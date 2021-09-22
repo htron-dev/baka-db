@@ -1,5 +1,9 @@
 {
     "title": "Granba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173359.jpg",
+        "alt": "granba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

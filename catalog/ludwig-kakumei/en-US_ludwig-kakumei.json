@@ -1,5 +1,9 @@
 {
     "title": "Ludwig Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198404.jpg",
+        "alt": "ludwig-kakumei"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

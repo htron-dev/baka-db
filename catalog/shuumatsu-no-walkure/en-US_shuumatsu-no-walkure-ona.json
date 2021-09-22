@@ -1,11 +1,15 @@
 {
     "title": "Shuumatsu no Walküre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1456/115123.jpg",
+        "alt": "shuumatsu-no-walkure"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "終末のワルキューレ",
     "start_date": "2021-06-17",
     "opening_song": "\"Kamigami (KAMIGAMI-神噛-)\" by Maximum the Hormone (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kamigami (KAMIGAMI-神噛-)\" by Maximum the Hormone (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

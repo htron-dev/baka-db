@@ -1,5 +1,9 @@
 {
     "title": "Yuubijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228237.jpg",
+        "alt": "yuubijin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "有尾人",

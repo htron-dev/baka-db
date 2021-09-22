@@ -1,12 +1,16 @@
 {
     "title": "Initial D Fifth Stage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1029/99183.jpg",
+        "alt": "initial-d-fifth-stage"
+    },
     "type": "tv-serie",
     "episodes": "14",
     "original_name": "頭文字 D Fifth Stage",
     "start_date": "2012-11-04",
     "end_date": "2012-11-04",
     "opening_song": "\"Raise Up\" by m.o.v.e",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Flyleaf\" by CLUTCHO (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

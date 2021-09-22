@@ -1,5 +1,9 @@
 {
     "title": "Junjou Electric",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14734.jpg",
+        "alt": "junjou-electric"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

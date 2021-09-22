@@ -1,5 +1,9 @@
 {
     "title": "Shisha no Teikoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75468.jpg",
+        "alt": "shisha-no-teikoku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "屍者の帝国",

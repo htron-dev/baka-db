@@ -1,5 +1,9 @@
 {
     "title": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185362.jpg",
+        "alt": "gyakuten-saiban-sono-shinjitsu-igi-ari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

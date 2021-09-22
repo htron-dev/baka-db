@@ -1,5 +1,9 @@
 {
     "title": "Astraea Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179070.jpg",
+        "alt": "astraea-senki"
+    },
     "type": "light-novel",
     "original_name": "アストレア戦記",
     "start_date": "2016-07-01",

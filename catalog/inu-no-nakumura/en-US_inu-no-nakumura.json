@@ -1,5 +1,9 @@
 {
     "title": "Inu no Nakumura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238996.jpg",
+        "alt": "inu-no-nakumura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

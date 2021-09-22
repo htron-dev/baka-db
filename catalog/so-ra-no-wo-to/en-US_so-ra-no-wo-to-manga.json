@@ -1,5 +1,9 @@
 {
     "title": "So Ra No Wo To",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108315.jpg",
+        "alt": "so-ra-no-wo-to"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

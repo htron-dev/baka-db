@@ -1,5 +1,9 @@
 {
     "title": "Deep Water - Shinen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132577.jpg",
+        "alt": "deep-water-shinen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Tailenders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1485/99932.jpg",
+        "alt": "tailenders"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "テイルエンダーズ",

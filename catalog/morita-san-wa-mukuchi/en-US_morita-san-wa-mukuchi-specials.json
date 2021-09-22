@@ -1,10 +1,14 @@
 {
     "title": "Morita-san wa Mukuchi. Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/36275.jpg",
+        "alt": "morita-san-wa-mukuchi-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "森田さんは無口。",
     "start_date": "2012-01-27",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Motto Ai Shiai Masho (もっと愛しあいましょ)\" by Iori Nomizu",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

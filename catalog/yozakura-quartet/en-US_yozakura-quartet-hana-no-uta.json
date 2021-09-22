@@ -1,11 +1,15 @@
 {
     "title": "Yozakura Quartet: Hana no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/52563.jpg",
+        "alt": "yozakura-quartet-hana-no-uta"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "夜桜四重奏 ～ハナノウタ～",
     "start_date": "2013-10-06",
     "end_date": "2013-10-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Sakura no Ato (all quartets lead to the ?) (桜のあと（all quartets lead to the?）)\" by UNISON SQUARE GARDEN (eps 1-8, 10-13)",
     "ending_song": "\"Tsukiyomi (ツキヨミ)\" by phatmans after school",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

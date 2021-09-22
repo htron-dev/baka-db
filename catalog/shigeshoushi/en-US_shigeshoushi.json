@@ -1,5 +1,9 @@
 {
     "title": "Shigeshoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89003.jpg",
+        "alt": "shigeshoushi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "42",

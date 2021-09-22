@@ -1,5 +1,9 @@
 {
     "title": "Armagedon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17569.jpg",
+        "alt": "armagedon"
+    },
     "type": "manhwa",
     "volumes": "11",
     "original_name": "Armageddon",

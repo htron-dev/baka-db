@@ -1,5 +1,9 @@
 {
     "title": "Ai wa Ichiya ni Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23277.jpg",
+        "alt": "ai-wa-ichiya-ni-shite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛は一夜にして",

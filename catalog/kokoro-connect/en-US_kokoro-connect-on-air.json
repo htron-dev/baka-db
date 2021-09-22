@@ -1,5 +1,9 @@
 {
     "title": "Kokoro Connect: On Air",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140921.jpg",
+        "alt": "kokoro-connect-on-air"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

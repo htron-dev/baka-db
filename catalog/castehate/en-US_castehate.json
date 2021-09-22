@@ -1,5 +1,9 @@
 {
     "title": "Castehate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221884.jpg",
+        "alt": "castehate"
+    },
     "type": "manga",
     "original_name": "カーストヘイト",
     "start_date": "2018-02-28",

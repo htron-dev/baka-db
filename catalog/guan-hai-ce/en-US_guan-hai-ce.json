@@ -1,5 +1,9 @@
 {
     "title": "Guan Hai Ce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1711/108541.jpg",
+        "alt": "guan-hai-ce"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "观海策",

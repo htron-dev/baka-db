@@ -1,9 +1,13 @@
 {
     "title": "Kantai Collection: Side:Kongou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128421.jpg",
+        "alt": "kantai-collection-side-kongou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",
-    "original_name": "艦隊これくしょん ‐艦これ‐ side",
+    "original_name": "艦隊これくしょん ‐艦これ‐ side:金剛",
     "start_date": "2013-11-09",
     "end_date": "2013-11-09",
     "tags": [

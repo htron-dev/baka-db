@@ -1,5 +1,9 @@
 {
     "title": "Dokumushi: The Ruins Hotel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236189.jpg",
+        "alt": "dokumushi-the-ruins-hotel"
+    },
     "type": "manga",
     "original_name": "ドクムシ　 the ruins hotel",
     "start_date": "2018-03-22",

@@ -1,5 +1,9 @@
 {
     "title": "Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228353.jpg",
+        "alt": "home"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

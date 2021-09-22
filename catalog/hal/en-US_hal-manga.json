@@ -1,5 +1,9 @@
 {
     "title": "Hal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160819.jpg",
+        "alt": "hal"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

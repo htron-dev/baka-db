@@ -1,5 +1,9 @@
 {
     "title": "Okashina Hotel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/59309.jpg",
+        "alt": "okashina-hotel"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "おかしなホテル",

@@ -1,5 +1,9 @@
 {
     "title": "Kusare Joshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31589.jpg",
+        "alt": "kusare-joshi"
+    },
     "type": "manga",
     "original_name": "くされ女子! In Deep",
     "tags": [],

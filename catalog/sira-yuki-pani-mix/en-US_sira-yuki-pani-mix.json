@@ -1,5 +1,9 @@
 {
     "title": "SiraYuki PaniMix!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111601.jpg",
+        "alt": "sira-yuki-pani-mix"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "44",

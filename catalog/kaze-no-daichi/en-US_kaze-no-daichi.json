@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Daichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/104011.jpg",
+        "alt": "kaze-no-daichi"
+    },
     "type": "manga",
     "original_name": "風の大地",
     "tags": [

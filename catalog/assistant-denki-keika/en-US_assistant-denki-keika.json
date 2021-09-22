@@ -1,5 +1,9 @@
 {
     "title": "Assistant Denki Keika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26288.jpg",
+        "alt": "assistant-denki-keika"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

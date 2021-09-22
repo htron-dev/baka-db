@@ -1,5 +1,9 @@
 {
     "title": "Kakugo wa Ii ka Soko no Joshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131199.jpg",
+        "alt": "kakugo-wa-ii-ka-soko-no-joshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

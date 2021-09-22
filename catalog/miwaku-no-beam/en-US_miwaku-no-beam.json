@@ -1,5 +1,9 @@
 {
     "title": "Miwaku no Beam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12648.jpg",
+        "alt": "miwaku-no-beam"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "魅惑のビーム",

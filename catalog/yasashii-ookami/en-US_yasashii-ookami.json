@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/74511.jpg",
+        "alt": "yasashii-ookami"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "やさしいオオカミ",

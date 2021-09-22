@@ -1,5 +1,9 @@
 {
     "title": "Dragon's Dogma Revives",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195775.jpg",
+        "alt": "dragons-dogma-revives"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

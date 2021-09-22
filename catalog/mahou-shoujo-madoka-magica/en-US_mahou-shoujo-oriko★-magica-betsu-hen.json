@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Oriko★Magica: Betsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/115727.jpg",
+        "alt": "mahou-shoujo-oriko★-magica-betsu-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Mizuiro Jidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8756.jpg",
+        "alt": "shin-mizuiro-jidai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "新水色時代",

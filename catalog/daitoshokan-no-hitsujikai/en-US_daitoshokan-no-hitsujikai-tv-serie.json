@@ -1,5 +1,9 @@
 {
     "title": "Daitoshokan no Hitsujikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75230.jpg",
+        "alt": "daitoshokan-no-hitsujikai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "大図書館の羊飼い",

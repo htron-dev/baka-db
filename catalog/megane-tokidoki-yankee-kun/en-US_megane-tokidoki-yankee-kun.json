@@ -1,5 +1,9 @@
 {
     "title": "Megane, Tokidoki, Yankee-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246371.jpg",
+        "alt": "megane-tokidoki-yankee-kun"
+    },
     "type": "manga",
     "original_name": "メガネ、時々、ヤンキーくん",
     "start_date": "2021-01-13",

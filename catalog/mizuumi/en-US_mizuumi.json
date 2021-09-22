@@ -1,5 +1,9 @@
 {
     "title": "Mizuumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205769.jpg",
+        "alt": "mizuumi"
+    },
     "type": "manga",
     "original_name": "みずうみ",
     "start_date": "2018-01-12",

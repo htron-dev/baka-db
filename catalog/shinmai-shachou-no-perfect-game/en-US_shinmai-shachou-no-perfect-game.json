@@ -1,5 +1,9 @@
 {
     "title": "Shinmai Shachou no Perfect Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177625.jpg",
+        "alt": "shinmai-shachou-no-perfect-game"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

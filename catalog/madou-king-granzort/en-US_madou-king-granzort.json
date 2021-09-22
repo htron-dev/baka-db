@@ -1,5 +1,9 @@
 {
     "title": "Madou King Granzort",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/11702.jpg",
+        "alt": "madou-king-granzort"
+    },
     "type": "tv-serie",
     "episodes": "41",
     "original_name": "魔動王グランゾート",

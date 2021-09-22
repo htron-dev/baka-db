@@ -1,5 +1,9 @@
 {
     "title": "One Piece 3D: Mugiwara Chase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/32455.jpg",
+        "alt": "one-piece-3-d-mugiwara-chase"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ONE PIECE 3D 麦わらチェイス",

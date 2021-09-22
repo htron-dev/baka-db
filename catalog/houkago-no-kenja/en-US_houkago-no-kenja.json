@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Kenja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180667.jpg",
+        "alt": "houkago-no-kenja"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

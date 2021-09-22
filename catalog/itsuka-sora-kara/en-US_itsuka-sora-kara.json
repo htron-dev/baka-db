@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Sora kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80011.jpg",
+        "alt": "itsuka-sora-kara"
+    },
     "type": "manga",
     "original_name": "いつか空から",
     "start_date": "2010-07-12",

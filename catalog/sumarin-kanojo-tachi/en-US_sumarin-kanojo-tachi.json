@@ -1,5 +1,9 @@
 {
     "title": "Sumarin Kanojo-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188250.jpg",
+        "alt": "sumarin-kanojo-tachi"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "86",

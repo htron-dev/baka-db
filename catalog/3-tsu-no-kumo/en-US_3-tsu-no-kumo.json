@@ -1,5 +1,9 @@
 {
     "title": "3-tsu no Kumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/18948.jpg",
+        "alt": "3-tsu-no-kumo"
+    },
     "type": "movie",
     "episodes": "3",
     "original_name": "３つの雲",

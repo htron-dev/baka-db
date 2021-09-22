@@ -1,5 +1,9 @@
 {
     "title": "Lueduo Diren De Xin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180950.jpg",
+        "alt": "lueduo-diren-de-xin"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "64",

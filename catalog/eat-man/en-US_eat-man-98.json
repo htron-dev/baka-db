@@ -1,5 +1,9 @@
 {
     "title": "Eat-Man '98",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/20146.jpg",
+        "alt": "eat-man-98"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "イートマン `98",

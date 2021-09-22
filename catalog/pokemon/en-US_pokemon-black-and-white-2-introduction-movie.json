@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Black and White 2: Introduction Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/56333.jpg",
+        "alt": "pokemon-black-and-white-2-introduction-movie"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ポケットモンスターブラック２・ホワイト２",

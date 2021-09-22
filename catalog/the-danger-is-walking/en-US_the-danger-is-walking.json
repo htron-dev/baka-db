@@ -1,5 +1,9 @@
 {
     "title": "The Danger Is Walking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24653.jpg",
+        "alt": "the-danger-is-walking"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "危険がウォーキング",

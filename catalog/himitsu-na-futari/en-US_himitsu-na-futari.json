@@ -1,5 +1,9 @@
 {
     "title": "Himitsu na Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153352.jpg",
+        "alt": "himitsu-na-futari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ヒミツなふたり",

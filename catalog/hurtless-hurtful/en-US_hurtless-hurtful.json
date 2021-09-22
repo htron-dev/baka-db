@@ -1,5 +1,9 @@
 {
     "title": "Hurtless/Hurtful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162273.jpg",
+        "alt": "hurtless-hurtful"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

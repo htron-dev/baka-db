@@ -1,5 +1,9 @@
 {
     "title": "Legend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150756.jpg",
+        "alt": "legend"
+    },
     "type": "light-novel",
     "original_name": "レジェンド",
     "start_date": "2014-09-20",

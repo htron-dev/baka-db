@@ -1,5 +1,9 @@
 {
     "title": "Sexy Tanaka-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247185.jpg",
+        "alt": "sexy-tanaka-san"
+    },
     "type": "manga",
     "original_name": "セクシー田中さん",
     "start_date": "2017-08-05",

@@ -1,5 +1,9 @@
 {
     "title": "Narsha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58095.jpg",
+        "alt": "narsha"
+    },
     "type": "manhwa",
     "original_name": "나르샤",
     "start_date": "2011-10-20",

@@ -1,5 +1,9 @@
 {
     "title": "The Lady and Her Butler",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242877.jpg",
+        "alt": "the-lady-and-her-butler"
+    },
     "type": "manhwa",
     "original_name": "아가씨와 우렁총각",
     "start_date": "2017-06-10",

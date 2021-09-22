@@ -1,5 +1,9 @@
 {
     "title": "Niko to Fukigen na Shitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180886.jpg",
+        "alt": "niko-to-fukigen-na-shitsuji"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

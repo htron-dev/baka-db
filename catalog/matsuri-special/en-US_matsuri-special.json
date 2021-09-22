@@ -1,5 +1,9 @@
 {
     "title": "Matsuri Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/250014.jpg",
+        "alt": "matsuri-special"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

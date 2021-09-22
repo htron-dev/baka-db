@@ -1,5 +1,9 @@
 {
     "title": "Sora ni Hidamari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248503.jpg",
+        "alt": "sora-ni-hidamari"
+    },
     "type": "manga",
     "original_name": "そらに陽だまり",
     "start_date": "2021-01-18",

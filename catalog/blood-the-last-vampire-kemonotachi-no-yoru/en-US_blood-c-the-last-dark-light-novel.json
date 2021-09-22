@@ -1,5 +1,9 @@
 {
     "title": "Blood-C: The Last Dark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67363.jpg",
+        "alt": "blood-c-the-last-dark"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ブラッド・シー　ザ・ラストダーク",

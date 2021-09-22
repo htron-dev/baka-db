@@ -1,5 +1,9 @@
 {
     "title": "Oda Nobuna no Yabou: Azuchi Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164533.jpg",
+        "alt": "oda-nobuna-no-yabou-azuchi-nikki"
+    },
     "type": "light-novel",
     "original_name": "織田信奈の野望 安土日記",
     "start_date": "2015-09-19",

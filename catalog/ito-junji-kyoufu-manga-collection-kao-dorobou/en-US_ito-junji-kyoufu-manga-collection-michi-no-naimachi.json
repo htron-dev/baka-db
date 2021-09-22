@@ -1,5 +1,9 @@
 {
     "title": "Ito Junji Kyoufu Manga Collection - Michi no Naimachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/185882.jpg",
+        "alt": "ito-junji-kyoufu-manga-collection-michi-no-naimachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

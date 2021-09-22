@@ -1,5 +1,9 @@
 {
     "title": "Izure Shinwa no Ragnarok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213008.jpg",
+        "alt": "izure-shinwa-no-ragnarok"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "54",

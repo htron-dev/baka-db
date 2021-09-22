@@ -1,5 +1,9 @@
 {
     "title": "Sukidatte Iwanai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79477.jpg",
+        "alt": "sukidatte-iwanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

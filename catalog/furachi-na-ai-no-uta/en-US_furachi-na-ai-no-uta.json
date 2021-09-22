@@ -1,5 +1,9 @@
 {
     "title": "Furachi na Ai no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8006.jpg",
+        "alt": "furachi-na-ai-no-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

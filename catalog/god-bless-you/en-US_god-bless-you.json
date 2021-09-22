@@ -1,5 +1,9 @@
 {
     "title": "God Bless You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165499.jpg",
+        "alt": "god-bless-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

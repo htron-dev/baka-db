@@ -1,5 +1,9 @@
 {
     "title": "Fuwako-san wa High Calorie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233665.jpg",
+        "alt": "fuwako-san-wa-high-calorie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

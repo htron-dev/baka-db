@@ -1,5 +1,9 @@
 {
     "title": "Majo ni Sasageru Trick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237121.jpg",
+        "alt": "majo-ni-sasageru-trick"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

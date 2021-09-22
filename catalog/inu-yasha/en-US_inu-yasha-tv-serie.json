@@ -1,12 +1,16 @@
 {
     "title": "InuYasha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg",
+        "alt": "inu-yasha"
+    },
     "type": "tv-serie",
     "episodes": "167",
     "original_name": "犬夜叉",
     "start_date": "2000-10-16",
     "end_date": "2000-10-16",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Change the World\" by V6 (eps 01-34)",
+    "ending_song": "#1: \"My Will\" by Dream (eps 01-20,166-167)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

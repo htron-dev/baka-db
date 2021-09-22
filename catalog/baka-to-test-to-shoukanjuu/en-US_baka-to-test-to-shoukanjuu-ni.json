@@ -1,12 +1,16 @@
 {
     "title": "Baka to Test to Shoukanjuu Ni!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/28992.jpg",
+        "alt": "baka-to-test-to-shoukanjuu-ni"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "バカとテストと召喚獣 にっ！",
     "start_date": "2011-07-08",
     "end_date": "2011-07-08",
     "opening_song": "\"Kimi + Nazo + Watashi de JUMP!! (君＋謎＋私で JUMP!!)\" by Larval Stage Planning",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Eureka Baby (エウレカベイビー)\" by Natsuko Asou (eps 1-6, 8-10, 12-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

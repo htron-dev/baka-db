@@ -1,5 +1,9 @@
 {
     "title": "Hisho no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193142.jpg",
+        "alt": "hisho-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

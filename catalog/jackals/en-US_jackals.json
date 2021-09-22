@@ -1,5 +1,9 @@
 {
     "title": "Jackals",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/55707.jpg",
+        "alt": "jackals"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "56",

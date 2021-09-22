@@ -1,5 +1,9 @@
 {
     "title": "Honogurai Mizu no Soko kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27424.jpg",
+        "alt": "honogurai-mizu-no-soko-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

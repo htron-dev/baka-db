@@ -1,5 +1,9 @@
 {
     "title": "Makasete PET-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10998.jpg",
+        "alt": "makasete-pet-kun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "75",

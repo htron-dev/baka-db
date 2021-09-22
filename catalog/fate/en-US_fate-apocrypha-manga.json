@@ -1,5 +1,9 @@
 {
     "title": "Fate/Apocrypha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182620.jpg",
+        "alt": "fate-apocrypha"
+    },
     "type": "manga",
     "original_name": "Fate/Apocrypha",
     "start_date": "2016-06-26",

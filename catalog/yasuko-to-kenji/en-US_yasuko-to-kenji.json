@@ -1,5 +1,9 @@
 {
     "title": "Yasuko to Kenji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83156.jpg",
+        "alt": "yasuko-to-kenji"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ヤスコとケンジ",

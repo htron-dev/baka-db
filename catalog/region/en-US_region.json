@@ -1,5 +1,9 @@
 {
     "title": "Region",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39666.jpg",
+        "alt": "region"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

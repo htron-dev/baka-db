@@ -1,5 +1,9 @@
 {
     "title": "Akihabara Dennou-gumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/83429.jpg",
+        "alt": "akihabara-dennou-gumi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アキハバラ電脳組",

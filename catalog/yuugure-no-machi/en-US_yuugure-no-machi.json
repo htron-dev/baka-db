@@ -1,5 +1,9 @@
 {
     "title": "Yuugure no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58877.jpg",
+        "alt": "yuugure-no-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

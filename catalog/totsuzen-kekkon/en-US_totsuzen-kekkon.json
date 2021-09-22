@@ -1,5 +1,9 @@
 {
     "title": "Totsuzen... Kekkon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128023.jpg",
+        "alt": "totsuzen-kekkon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "突然…結婚！",

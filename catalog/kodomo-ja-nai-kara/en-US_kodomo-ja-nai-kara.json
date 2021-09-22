@@ -1,5 +1,9 @@
 {
     "title": "Kodomo ja Nai kara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22911.jpg",
+        "alt": "kodomo-ja-nai-kara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

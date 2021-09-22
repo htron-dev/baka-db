@@ -1,5 +1,9 @@
 {
     "title": "5-gatsu no Ochakai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170579.jpg",
+        "alt": "5-gatsu-no-ochakai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

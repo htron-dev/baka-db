@@ -1,12 +1,16 @@
 {
     "title": "Kishin Douji Zenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1225/92572.jpg",
+        "alt": "kishin-douji-zenki"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "鬼神童子 ZENKI",
     "start_date": "1995-01-09",
     "end_date": "1995-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kishin Douji ZENKI\" by Hironobu Kageyama (eps 1-28)",
+    "ending_song": "#1: \"Egao wo Ageru; Give a Smile\" by Hitomi Takimoto (eps 1-22)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

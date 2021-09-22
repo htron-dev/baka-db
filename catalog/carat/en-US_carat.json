@@ -1,5 +1,9 @@
 {
     "title": "Carat!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167738.jpg",
+        "alt": "carat"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

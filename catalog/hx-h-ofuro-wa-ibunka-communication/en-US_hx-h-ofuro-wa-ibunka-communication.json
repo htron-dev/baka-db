@@ -1,5 +1,9 @@
 {
     "title": "HxH! Ofuro wa Ibunka Communication!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164199.jpg",
+        "alt": "hx-h-ofuro-wa-ibunka-communication"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Shiritsu Horitsuba Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22065.jpg",
+        "alt": "shiritsu-horitsuba-gakuen"
+    },
     "type": "manga",
     "original_name": "私立堀鐔学園",
     "start_date": "2006-04-26",

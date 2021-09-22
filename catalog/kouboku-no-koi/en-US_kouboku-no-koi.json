@@ -1,5 +1,9 @@
 {
     "title": "Kouboku no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111021.jpg",
+        "alt": "kouboku-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "公僕の恋",

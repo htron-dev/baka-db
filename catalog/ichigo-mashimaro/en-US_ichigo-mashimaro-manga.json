@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Mashimaro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/156517.jpg",
+        "alt": "ichigo-mashimaro"
+    },
     "type": "manga",
     "original_name": "苺ましまろ",
     "start_date": "2002-02-15",

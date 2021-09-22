@@ -1,5 +1,9 @@
 {
     "title": "Yogensha Pippi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224990.jpg",
+        "alt": "yogensha-pippi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

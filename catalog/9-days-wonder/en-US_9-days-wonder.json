@@ -1,5 +1,9 @@
 {
     "title": "9 Days Wonder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202975.jpg",
+        "alt": "9-days-wonder"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

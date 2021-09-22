@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Tenma no Kuro Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53745.jpg",
+        "alt": "itsuka-tenma-no-kuro-usagi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

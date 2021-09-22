@@ -1,5 +1,9 @@
 {
     "title": "Bon no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231254.jpg",
+        "alt": "bon-no-kuni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

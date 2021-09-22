@@ -1,5 +1,9 @@
 {
     "title": "Love Lesson ABC",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23315.jpg",
+        "alt": "love-lesson-abc"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

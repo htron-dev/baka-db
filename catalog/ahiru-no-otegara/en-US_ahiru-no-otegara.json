@@ -1,5 +1,9 @@
 {
     "title": "Ahiru no Otegara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/15856.jpg",
+        "alt": "ahiru-no-otegara"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アヒルのお手柄",

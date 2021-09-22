@@ -1,5 +1,9 @@
 {
     "title": "The Case of Tanaka-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18359.jpg",
+        "alt": "the-case-of-tanaka-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

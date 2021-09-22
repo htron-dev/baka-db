@@ -1,5 +1,9 @@
 {
     "title": "Kizuato Made Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44325.jpg",
+        "alt": "kizuato-made-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

@@ -1,5 +1,9 @@
 {
     "title": "Atashi wo Mitsukete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46211.jpg",
+        "alt": "atashi-wo-mitsukete"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あたしをみつけて",

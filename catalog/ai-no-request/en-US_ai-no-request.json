@@ -1,5 +1,9 @@
 {
     "title": "Ai no Request",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79219.jpg",
+        "alt": "ai-no-request"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

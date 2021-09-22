@@ -1,5 +1,9 @@
 {
     "title": "Nemuri Ouji Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156945.jpg",
+        "alt": "nemuri-ouji-series"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Bra Bra Ban Ban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179569.jpg",
+        "alt": "bra-bra-ban-ban"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "62",

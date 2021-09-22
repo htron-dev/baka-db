@@ -1,5 +1,9 @@
 {
     "title": "Kid's Castle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/17807.jpg",
+        "alt": "kids-castle"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キッズキャッスル",

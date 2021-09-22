@@ -1,5 +1,9 @@
 {
     "title": "Owanko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/74376.jpg",
+        "alt": "owanko"
+    },
     "type": "ona",
     "episodes": "7",
     "original_name": "おわんこ",

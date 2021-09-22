@@ -1,5 +1,9 @@
 {
     "title": "Sakura Familia!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127641.jpg",
+        "alt": "sakura-familia"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "さくらファミリア!",

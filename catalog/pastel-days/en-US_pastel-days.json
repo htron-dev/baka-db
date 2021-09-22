@@ -1,5 +1,9 @@
 {
     "title": "Pastel Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149787.jpg",
+        "alt": "pastel-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

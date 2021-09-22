@@ -1,5 +1,9 @@
 {
     "title": "Inu to Hasami wa Tsukaiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172692.jpg",
+        "alt": "inu-to-hasami-wa-tsukaiyou"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "79",

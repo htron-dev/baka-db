@@ -1,5 +1,9 @@
 {
     "title": "Jitsu wa Ore, Saikyou deshita?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242552.jpg",
+        "alt": "jitsu-wa-ore-saikyou-deshita"
+    },
     "type": "light-novel",
     "original_name": "実は俺、最強でした？",
     "start_date": "2019-05-31",

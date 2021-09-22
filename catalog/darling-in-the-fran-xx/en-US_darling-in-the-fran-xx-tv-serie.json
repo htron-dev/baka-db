@@ -1,12 +1,16 @@
 {
     "title": "Darling in the FranXX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1614/90408.jpg",
+        "alt": "darling-in-the-fran-xx"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ダーリン・イン・ザ・フランキス",
     "start_date": "2018-01-13",
     "end_date": "2018-01-13",
     "opening_song": "\"KISS OF DEATH\" by Mika Nakashima x Hyde",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Torikago (トリカゴ)\" by XX:me (Kiss Me; キス・ミー) [Zero Two (Haruka Tomatsu), Ichigo (Kana Ichinose), Miku (Nanami Yamashita), Kokoro (Saori Hayami), Ikuno (Shizuka Ishigami)] (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

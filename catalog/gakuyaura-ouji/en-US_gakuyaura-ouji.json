@@ -1,5 +1,9 @@
 {
     "title": "Gakuyaura Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185823.jpg",
+        "alt": "gakuyaura-ouji"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

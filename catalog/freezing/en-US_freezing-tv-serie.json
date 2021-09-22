@@ -1,12 +1,16 @@
 {
     "title": "Freezing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/28535.jpg",
+        "alt": "freezing"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "フリージング",
     "start_date": "2011-01-08",
     "end_date": "2011-01-08",
     "opening_song": "\"Color\" by MARiA",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi wo Mamoritai (君を守りたい)\" by Aika Kobayashi (eps 1-11)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",
@@ -38,7 +42,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Freezing_(manga"
+            "link": "https://en.wikipedia.org/wiki/Freezing_%28manga%29"
         }
     ]
 }

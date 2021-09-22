@@ -1,5 +1,9 @@
 {
     "title": "Koigokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/109193.jpg",
+        "alt": "koigokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

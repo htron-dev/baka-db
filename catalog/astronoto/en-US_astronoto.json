@@ -1,5 +1,9 @@
 {
     "title": "Astronoto!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163286.jpg",
+        "alt": "astronoto"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

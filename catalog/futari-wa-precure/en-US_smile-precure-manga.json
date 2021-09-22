@@ -1,5 +1,9 @@
 {
     "title": "Smile Precure!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72173.jpg",
+        "alt": "smile-precure"
+    },
     "type": "manga",
     "chapters": "13",
     "original_name": "スマイルプリキュア!",

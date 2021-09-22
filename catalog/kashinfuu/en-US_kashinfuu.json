@@ -1,5 +1,9 @@
 {
     "title": "Kashinfuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6066.jpg",
+        "alt": "kashinfuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

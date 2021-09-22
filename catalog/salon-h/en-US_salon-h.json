@@ -1,5 +1,9 @@
 {
     "title": "Salon H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110899.jpg",
+        "alt": "salon-h"
+    },
     "type": "manhwa",
     "chapters": "62",
     "original_name": "살롱 H",

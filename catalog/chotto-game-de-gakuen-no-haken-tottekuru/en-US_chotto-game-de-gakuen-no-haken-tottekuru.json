@@ -1,5 +1,9 @@
 {
     "title": "Chotto Game de Gakuen no Haken Tottekuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199698.jpg",
+        "alt": "chotto-game-de-gakuen-no-haken-tottekuru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Shirogane no Nina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232237.jpg",
+        "alt": "shirogane-no-nina"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "135",

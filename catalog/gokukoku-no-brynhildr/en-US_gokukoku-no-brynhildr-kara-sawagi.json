@@ -1,11 +1,15 @@
 {
     "title": "Gokukoku no Brynhildr: Kara Sawagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/68045.jpg",
+        "alt": "gokukoku-no-brynhildr-kara-sawagi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "極黒のブリュンヒルデ 第 11.5 話 から騒ぎ",
     "start_date": "2014-09-24",
     "opening_song": "\"BRYNHILDR IN THE DARKNESS -Ver. EJECTED-\" by Nao Tokisawa (鴇沢 直)",
-    "ending_song": "\"Ichiban Boshi (いちばん星)\" by Neko Kuroha (CV",
+    "ending_song": "\"Ichiban Boshi (いちばん星)\" by Neko Kuroha (CV: Risa Taneda), Kana Tachibana (CV: Aya Suzaki), Kazumi Schlierenzauer (CV: MAO), Kotori Takatori (CV: Azusa Tadokoro)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "sci-fi",

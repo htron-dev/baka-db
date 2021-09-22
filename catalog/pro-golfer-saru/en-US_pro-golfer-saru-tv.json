@@ -1,5 +1,9 @@
 {
     "title": "Pro Golfer Saru (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/45042.jpg",
+        "alt": "pro-golfer-saru-tv"
+    },
     "type": "tv-serie",
     "episodes": "143",
     "original_name": "プロゴルファー猿",

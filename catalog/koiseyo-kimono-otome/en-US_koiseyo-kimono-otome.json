@@ -1,5 +1,9 @@
 {
     "title": "Koiseyo Kimono Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205420.jpg",
+        "alt": "koiseyo-kimono-otome"
+    },
     "type": "manga",
     "original_name": "恋せよキモノ乙女",
     "start_date": "2017-05-20",

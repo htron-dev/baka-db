@@ -1,5 +1,9 @@
 {
     "title": "True Beauty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246434.jpg",
+        "alt": "true-beauty"
+    },
     "type": "manhwa",
     "original_name": "여신 강림",
     "start_date": "2018-04-03",

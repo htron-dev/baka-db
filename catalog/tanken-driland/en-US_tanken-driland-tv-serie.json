@@ -1,12 +1,16 @@
 {
     "title": "Tanken Driland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1330/100164.jpg",
+        "alt": "tanken-driland"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "探検ドリランド",
     "start_date": "2012-07-07",
     "end_date": "2012-07-07",
     "opening_song": "\"Together ~Tanken Driland~! (Together ～探検ドリランド～!)\" by Sakura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"DRAGON BOY\" by Civilian Skunk (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Gohan Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1567/108113.jpg",
+        "alt": "gohan-suki"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "ゴハンスキー",

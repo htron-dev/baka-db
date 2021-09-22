@@ -1,5 +1,9 @@
 {
     "title": "Hanappe Bazooka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/57637.jpg",
+        "alt": "hanappe-bazooka"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "花平バズーカ",

@@ -1,5 +1,9 @@
 {
     "title": "Rockman 8",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36594.jpg",
+        "alt": "rockman-8"
+    },
     "type": "manga",
     "tags": [
         "action",

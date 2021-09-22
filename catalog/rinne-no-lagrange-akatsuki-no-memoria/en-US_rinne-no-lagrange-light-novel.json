@@ -1,5 +1,9 @@
 {
     "title": "Rinne no Lagrange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121759.jpg",
+        "alt": "rinne-no-lagrange"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Kyoudai: Itten no Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/47201.jpg",
+        "alt": "uchuu-kyoudai-itten-no-hikari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "プラネタリウム 宇宙兄弟 ～一点のひかり～",

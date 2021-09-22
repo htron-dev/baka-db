@@ -1,5 +1,9 @@
 {
     "title": "Times Two",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/730.jpg",
+        "alt": "times-two"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

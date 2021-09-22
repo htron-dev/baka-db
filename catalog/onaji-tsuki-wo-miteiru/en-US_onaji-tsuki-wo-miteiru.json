@@ -1,5 +1,9 @@
 {
     "title": "Onaji Tsuki wo Miteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179533.jpg",
+        "alt": "onaji-tsuki-wo-miteiru"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "77",

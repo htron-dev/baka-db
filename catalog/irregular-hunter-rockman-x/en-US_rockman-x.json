@@ -1,5 +1,9 @@
 {
     "title": "Rockman X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/115907.jpg",
+        "alt": "rockman-x"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

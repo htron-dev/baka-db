@@ -1,5 +1,9 @@
 {
     "title": "Shiawasette Naani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/37585.jpg",
+        "alt": "shiawasette-naani"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "しあわせってなあに",

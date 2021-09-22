@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Lupin Ansatsu Shirei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/27608.jpg",
+        "alt": "lupin-iii-lupin-ansatsu-shirei"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世『ルパン暗殺指令』",

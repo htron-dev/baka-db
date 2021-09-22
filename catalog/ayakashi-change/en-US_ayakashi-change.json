@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Change!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159951.jpg",
+        "alt": "ayakashi-change"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

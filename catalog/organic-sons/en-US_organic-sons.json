@@ -1,5 +1,9 @@
 {
     "title": "Organic Sons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158539.jpg",
+        "alt": "organic-sons"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オーガニック・サンズ",

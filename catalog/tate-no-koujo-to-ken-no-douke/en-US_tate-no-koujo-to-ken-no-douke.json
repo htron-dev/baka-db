@@ -1,5 +1,9 @@
 {
     "title": "Tate no Koujo to Ken no Douke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156687.jpg",
+        "alt": "tate-no-koujo-to-ken-no-douke"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

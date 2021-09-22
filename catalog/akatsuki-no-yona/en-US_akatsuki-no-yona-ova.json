@@ -1,11 +1,15 @@
 {
     "title": "Akatsuki no Yona OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75974.jpg",
+        "alt": "akatsuki-no-yona-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "暁のヨナ",
     "start_date": "2015-09-18",
     "end_date": "2015-09-18",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Egao no Rensa (笑顔の連鎖)\" by Cyntia (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

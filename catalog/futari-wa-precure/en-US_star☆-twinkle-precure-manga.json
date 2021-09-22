@@ -1,5 +1,9 @@
 {
     "title": "Star☆Twinkle Precure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235683.jpg",
+        "alt": "star☆-twinkle-precure"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

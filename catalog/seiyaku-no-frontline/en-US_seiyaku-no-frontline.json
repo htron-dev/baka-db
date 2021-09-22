@@ -1,5 +1,9 @@
 {
     "title": "Seiyaku no Frontline",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175770.jpg",
+        "alt": "seiyaku-no-frontline"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

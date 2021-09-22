@@ -1,5 +1,9 @@
 {
     "title": "Demon Sacred",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11324.jpg",
+        "alt": "demon-sacred"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "デーモン聖典",

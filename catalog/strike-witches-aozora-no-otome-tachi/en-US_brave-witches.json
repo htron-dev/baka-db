@@ -1,12 +1,16 @@
 {
     "title": "Brave Witches",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/81854.jpg",
+        "alt": "brave-witches"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "第 502 統合戦闘航空団 ブレイブウィッチーズ",
     "start_date": "2016-10-06",
     "end_date": "2016-10-06",
     "opening_song": "\"Ashita no Tsubasa (アシタノツバサ)\" by Yoko Ishida",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Little Wing ~Spirit of LINDBERG~\" by Hikari Karibuchi (Ai Kakuma)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

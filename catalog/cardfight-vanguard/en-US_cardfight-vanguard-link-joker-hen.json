@@ -1,12 +1,16 @@
 {
     "title": "Cardfight!! Vanguard: Link Joker-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/44566.jpg",
+        "alt": "cardfight-vanguard-link-joker-hen"
+    },
     "type": "tv-serie",
     "episodes": "59",
     "original_name": "カードファイト!! ヴァンガード リンクジョーカー編",
     "start_date": "2013-01-13",
     "end_date": "2013-01-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Vanguard Fight\" by Psychic Lover (eps 1-24)",
+    "ending_song": "#1: \"ENDLESS☆FIGHTER\" by Ultra Rare (Suzuko Mimori, Aimi Terakawa, Yoshino Nanjo) (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

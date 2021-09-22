@@ -1,5 +1,9 @@
 {
     "title": "Arinoe's Monk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44967.jpg",
+        "alt": "arinoes-monk"
+    },
     "type": "manhwa",
     "volumes": "2",
     "original_name": "아르노의 수도사",

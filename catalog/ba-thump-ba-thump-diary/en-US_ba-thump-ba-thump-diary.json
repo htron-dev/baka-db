@@ -1,5 +1,9 @@
 {
     "title": "Ba-thump Ba-thump Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6160.jpg",
+        "alt": "ba-thump-ba-thump-diary"
+    },
     "type": "manhwa",
     "chapters": "1",
     "start_date": "2005-01-20",

@@ -1,5 +1,9 @@
 {
     "title": "Garouden Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/76269.jpg",
+        "alt": "garouden-boy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Iya x Shite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26907.jpg",
+        "alt": "iya-x-shite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

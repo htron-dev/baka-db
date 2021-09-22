@@ -1,12 +1,16 @@
 {
     "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/49459.jpg",
+        "alt": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "やはり俺の青春ラブコメはまちがっている。",
     "start_date": "2013-04-05",
     "end_date": "2013-04-05",
     "opening_song": "\"Yukitoki (ユキトキ)\" by Nagi Yanagi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hello Alone\" by Yukino Yukinoshita (Saori Hayami) & Yui Yuigahama (Nao Touyama) (eps 1-4, 6-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

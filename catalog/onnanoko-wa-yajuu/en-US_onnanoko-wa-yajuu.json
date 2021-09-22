@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko wa Yajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151828.jpg",
+        "alt": "onnanoko-wa-yajuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

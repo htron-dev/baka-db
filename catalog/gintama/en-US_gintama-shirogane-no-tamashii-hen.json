@@ -1,5 +1,9 @@
 {
     "title": "Gintama.: Shirogane no Tamashii-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/89603.jpg",
+        "alt": "gintama-shirogane-no-tamashii-hen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "銀魂. 銀ノ魂篇",

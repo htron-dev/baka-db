@@ -1,12 +1,16 @@
 {
     "title": "Norakuro-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/44512.jpg",
+        "alt": "norakuro-kun"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "のらくろクン",
     "start_date": "1987-10-04",
     "end_date": "1987-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"You! You! You!\" by BaBe (eps 1-32)",
+    "ending_song": "#1: \"Hold Me!\" by BaBe (eps 1-32)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

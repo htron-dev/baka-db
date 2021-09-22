@@ -1,12 +1,16 @@
 {
     "title": "Hai to Gensou no Grimgar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/77976.jpg",
+        "alt": "hai-to-gensou-no-grimgar"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "灰と幻想のグリムガル",
     "start_date": "2016-01-11",
     "end_date": "2016-01-11",
     "opening_song": "\"Knew day\" by (K)NoW_NAME (eps 1-4, 6-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Knew day\" by (K)NoW_NAME (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

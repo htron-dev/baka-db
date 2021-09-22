@@ -1,5 +1,9 @@
 {
     "title": "Oishii Karada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158253.jpg",
+        "alt": "oishii-karada"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "美味しいカラダ",

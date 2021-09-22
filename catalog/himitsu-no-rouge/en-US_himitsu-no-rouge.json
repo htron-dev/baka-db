@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Rouge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36781.jpg",
+        "alt": "himitsu-no-rouge"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ひみつのルージュ",

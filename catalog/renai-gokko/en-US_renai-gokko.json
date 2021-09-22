@@ -1,5 +1,9 @@
 {
     "title": "Renai-gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152046.jpg",
+        "alt": "renai-gokko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

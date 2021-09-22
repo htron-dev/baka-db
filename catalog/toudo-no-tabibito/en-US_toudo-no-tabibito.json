@@ -1,5 +1,9 @@
 {
     "title": "Toudo no Tabibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161442.jpg",
+        "alt": "toudo-no-tabibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

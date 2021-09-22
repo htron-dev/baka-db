@@ -1,12 +1,16 @@
 {
     "title": "Sora no Otoshimono: Forte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/50309.jpg",
+        "alt": "sora-no-otoshimono-forte"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "そらのおとしもの f（フォルテ）",
     "start_date": "2010-10-02",
     "end_date": "2010-10-02",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Ring My Bell\" by Hoshi Souichirou as Sakurai Tomoki (ep 1)",
+    "ending_song": "#01: \"Kaeru Kara (帰るから)\" by Blue Drops (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

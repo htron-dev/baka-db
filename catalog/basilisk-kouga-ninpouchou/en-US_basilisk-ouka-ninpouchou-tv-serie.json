@@ -1,12 +1,16 @@
 {
     "title": "Basilisk: Ouka Ninpouchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88384.jpg",
+        "alt": "basilisk-ouka-ninpouchou"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "バジリスク ～桜花忍法帖～",
     "start_date": "2018-01-09",
     "end_date": "2018-01-09",
     "opening_song": "\"Ouka Ninpouchou (桜花忍法帖)\" by Onmyo-za",
-    "ending_song": "#1",
+    "ending_song": "#1: \"HOT BLOOD\" by Nana Mizuki",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

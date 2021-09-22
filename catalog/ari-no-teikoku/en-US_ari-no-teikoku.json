@@ -1,5 +1,9 @@
 {
     "title": "Ari no Teikoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246331.jpg",
+        "alt": "ari-no-teikoku"
+    },
     "type": "manga",
     "original_name": "蟻の帝国",
     "start_date": "2017-08-28",

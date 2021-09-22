@@ -1,5 +1,9 @@
 {
     "title": "Nigatsu no Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195312.jpg",
+        "alt": "nigatsu-no-eden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

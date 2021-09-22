@@ -1,5 +1,9 @@
 {
     "title": "URIPO!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33690.jpg",
+        "alt": "uripo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "うりポッ",

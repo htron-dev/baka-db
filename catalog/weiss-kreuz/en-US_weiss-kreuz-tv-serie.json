@@ -1,12 +1,16 @@
 {
     "title": "Weiß Kreuz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/23697.jpg",
+        "alt": "weiss-kreuz"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "Weiß kreuz 　ヴァイス　クロイツ",
     "start_date": "1998-04-09",
     "end_date": "1998-04-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Velvet Underworld\" by Weiß (eps 1-15)",
+    "ending_song": "#1: \"Beautiful Alone\" by Weiß (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

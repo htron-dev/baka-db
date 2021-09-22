@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Hikari ni Terasarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16771.jpg",
+        "alt": "tsuki-no-hikari-ni-terasarete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

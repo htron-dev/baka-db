@@ -1,5 +1,9 @@
 {
     "title": "Satsuki-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222852.jpg",
+        "alt": "satsuki-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

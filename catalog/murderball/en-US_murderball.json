@@ -1,5 +1,9 @@
 {
     "title": "Murderball",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227043.jpg",
+        "alt": "murderball"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

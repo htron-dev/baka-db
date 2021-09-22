@@ -1,5 +1,9 @@
 {
     "title": "Shitsurakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63291.jpg",
+        "alt": "shitsurakuen"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "25",

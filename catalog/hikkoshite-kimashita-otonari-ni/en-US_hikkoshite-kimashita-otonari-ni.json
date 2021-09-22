@@ -1,5 +1,9 @@
 {
     "title": "Hikkoshite Kimashita. Otonari ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207557.jpg",
+        "alt": "hikkoshite-kimashita-otonari-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

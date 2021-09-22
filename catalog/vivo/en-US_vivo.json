@@ -1,5 +1,9 @@
 {
     "title": "Vivo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195318.jpg",
+        "alt": "vivo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

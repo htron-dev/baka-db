@@ -1,5 +1,9 @@
 {
     "title": "Ookami to Koushinryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153861.jpg",
+        "alt": "ookami-to-koushinryou"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "108",

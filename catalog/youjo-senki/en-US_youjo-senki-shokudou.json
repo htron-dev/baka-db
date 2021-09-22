@@ -1,5 +1,9 @@
 {
     "title": "Youjo Senki Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215331.jpg",
+        "alt": "youjo-senki-shokudou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

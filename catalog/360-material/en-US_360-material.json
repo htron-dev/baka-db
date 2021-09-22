@@ -1,5 +1,9 @@
 {
     "title": "360° Material",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176931.jpg",
+        "alt": "360-material"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "33",

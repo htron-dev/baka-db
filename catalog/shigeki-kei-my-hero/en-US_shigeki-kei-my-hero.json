@@ -1,5 +1,9 @@
 {
     "title": "Shigeki-kei My Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213216.jpg",
+        "alt": "shigeki-kei-my-hero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

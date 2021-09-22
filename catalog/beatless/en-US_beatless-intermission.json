@@ -1,12 +1,16 @@
 {
     "title": "Beatless Intermission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1709/90468.jpg",
+        "alt": "beatless-intermission"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "BEATLESS Intermission",
     "start_date": "2018-02-17",
     "end_date": "2018-02-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Error\" by GARNiDELiA (eps 1-2)",
+    "ending_song": "#1: \"PRIMALove\" by ClariS (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

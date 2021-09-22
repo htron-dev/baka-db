@@ -1,5 +1,9 @@
 {
     "title": "Aoharu Tetsudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28172.jpg",
+        "alt": "aoharu-tetsudo"
+    },
     "type": "manga",
     "original_name": "青春鉄道",
     "start_date": "2009-10-05",

@@ -1,5 +1,9 @@
 {
     "title": "Kiss wa Kossori to.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235479.jpg",
+        "alt": "kiss-wa-kossori-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

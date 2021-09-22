@@ -1,5 +1,9 @@
 {
     "title": "Hijikata-san wa Usodarake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173800.jpg",
+        "alt": "hijikata-san-wa-usodarake"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

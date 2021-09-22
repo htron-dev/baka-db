@@ -1,5 +1,9 @@
 {
     "title": "Ojamajo Doremi 17",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138245.jpg",
+        "alt": "ojamajo-doremi-17"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

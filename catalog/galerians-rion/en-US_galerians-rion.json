@@ -1,5 +1,9 @@
 {
     "title": "Galerians: Rion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/38577.jpg",
+        "alt": "galerians-rion"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ガレリアンズ：リオン",

@@ -1,5 +1,9 @@
 {
     "title": "Angelic Runes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15303.jpg",
+        "alt": "angelic-runes"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

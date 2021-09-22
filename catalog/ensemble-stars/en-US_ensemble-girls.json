@@ -1,5 +1,9 @@
 {
     "title": "Ensemble Girls!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1083/93303.jpg",
+        "alt": "ensemble-girls"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "あんさんぶるガールズ！！",

@@ -1,5 +1,9 @@
 {
     "title": "Today's Ulterior Motives",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7257.jpg",
+        "alt": "todays-ulterior-motives"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

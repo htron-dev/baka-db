@@ -1,5 +1,9 @@
 {
     "title": "Maison de Penguin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170717.jpg",
+        "alt": "maison-de-penguin"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "61",

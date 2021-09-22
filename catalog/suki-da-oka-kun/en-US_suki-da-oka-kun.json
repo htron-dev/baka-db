@@ -1,5 +1,9 @@
 {
     "title": "Suki da!! Oka-kun!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245906.jpg",
+        "alt": "suki-da-oka-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

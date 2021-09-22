@@ -1,5 +1,9 @@
 {
     "title": "Junjou Muteki Otome Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155088.jpg",
+        "alt": "junjou-muteki-otome-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

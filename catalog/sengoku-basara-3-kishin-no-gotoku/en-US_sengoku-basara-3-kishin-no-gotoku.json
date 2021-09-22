@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Basara 3: Kishin no Gotoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127829.jpg",
+        "alt": "sengoku-basara-3-kishin-no-gotoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

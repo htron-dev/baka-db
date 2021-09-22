@@ -1,5 +1,9 @@
 {
     "title": "SSSS.Gridman: Hime to Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224870.jpg",
+        "alt": "ssss-gridman-hime-to-samurai"
+    },
     "type": "manga",
     "original_name": "SSSS.GRIDMAN 姫とサムライ",
     "start_date": "2019-10-26",

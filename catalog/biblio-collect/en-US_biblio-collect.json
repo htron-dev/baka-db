@@ -1,5 +1,9 @@
 {
     "title": "Biblio Collect",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226409.jpg",
+        "alt": "biblio-collect"
+    },
     "type": "manga",
     "original_name": "ビブリオコレクト",
     "start_date": "2018-11-16",

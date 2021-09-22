@@ -1,12 +1,16 @@
 {
     "title": "Omamori Himari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/15393.jpg",
+        "alt": "omamori-himari"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "おまもりひまり",
     "start_date": "2010-01-07",
     "end_date": "2010-01-07",
     "opening_song": "\"Oshichau zo!! (押しちゃうぞ!!)\" by Kawada Ruka, Sakamoto Aya",
-    "ending_song": "#1",
+    "ending_song": "#1: \"BEAM my BEAM\" by Himarinko L. Shizukuesu",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,9 +1,13 @@
 {
     "title": "Digimon Adventure: Last Evolution Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227389.jpg",
+        "alt": "digimon-adventure-last-evolution-kizuna"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",
-    "original_name": "デジモンアドベンチャー",
+    "original_name": "デジモンアドベンチャー: LAST EVOLUTION 絆",
     "tags": [
         "action",
         "adventure",

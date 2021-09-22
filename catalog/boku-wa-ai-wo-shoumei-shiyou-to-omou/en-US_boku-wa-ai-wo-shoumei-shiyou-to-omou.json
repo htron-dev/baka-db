@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Ai wo Shoumei Shiyou to Omou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216688.jpg",
+        "alt": "boku-wa-ai-wo-shoumei-shiyou-to-omou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

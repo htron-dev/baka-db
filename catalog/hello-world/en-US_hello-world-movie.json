@@ -1,5 +1,9 @@
 {
     "title": "Hello World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1147/112650.jpg",
+        "alt": "hello-world"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハロー・ワールド",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Hello_World_(film"
+            "link": "https://en.wikipedia.org/wiki/Hello_World_%28film%29"
         }
     ]
 }

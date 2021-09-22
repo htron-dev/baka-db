@@ -1,5 +1,9 @@
 {
     "title": "Best Eight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215698.jpg",
+        "alt": "best-eight"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

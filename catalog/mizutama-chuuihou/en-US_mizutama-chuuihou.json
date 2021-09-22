@@ -1,5 +1,9 @@
 {
     "title": "Mizutama Chuuihou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196403.jpg",
+        "alt": "mizutama-chuuihou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "69",

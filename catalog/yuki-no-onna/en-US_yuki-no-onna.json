@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230475.jpg",
+        "alt": "yuki-no-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

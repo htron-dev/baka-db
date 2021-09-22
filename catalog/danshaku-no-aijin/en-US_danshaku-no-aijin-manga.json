@@ -1,5 +1,9 @@
 {
     "title": "Danshaku no Aijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231306.jpg",
+        "alt": "danshaku-no-aijin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

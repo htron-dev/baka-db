@@ -1,5 +1,9 @@
 {
     "title": "Shin Tenchi Souzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/71331.jpg",
+        "alt": "shin-tenchi-souzou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "新・天地創造",

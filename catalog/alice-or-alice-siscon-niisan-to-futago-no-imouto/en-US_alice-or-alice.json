@@ -1,5 +1,9 @@
 {
     "title": "Alice or Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/89571.jpg",
+        "alt": "alice-or-alice"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ありす or ありす",

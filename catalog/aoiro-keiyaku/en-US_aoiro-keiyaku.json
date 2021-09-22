@@ -1,5 +1,9 @@
 {
     "title": "Aoiro Keiyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82038.jpg",
+        "alt": "aoiro-keiyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

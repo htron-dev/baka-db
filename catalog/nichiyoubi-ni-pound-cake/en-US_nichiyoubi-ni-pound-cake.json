@@ -1,5 +1,9 @@
 {
     "title": "Nichiyoubi ni Pound Cake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221978.jpg",
+        "alt": "nichiyoubi-ni-pound-cake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

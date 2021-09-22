@@ -1,12 +1,16 @@
 {
     "title": "Mouretsu Atarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/53377.jpg",
+        "alt": "mouretsu-atarou"
+    },
     "type": "tv-serie",
     "episodes": "90",
     "original_name": "もーれつア太郎",
     "start_date": "1969-04-04",
     "end_date": "1969-04-04",
     "opening_song": "\"Mooretsu Atarou (Hana no Atarou) もーれつア太郎(花のア太郎)\" by Honey Knights, 桂京子",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Edokko no Scat (江戸っ子のスキャット)\" by Honey Knights (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

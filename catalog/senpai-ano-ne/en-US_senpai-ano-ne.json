@@ -1,5 +1,9 @@
 {
     "title": "Senpai, Ano ne.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177775.jpg",
+        "alt": "senpai-ano-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

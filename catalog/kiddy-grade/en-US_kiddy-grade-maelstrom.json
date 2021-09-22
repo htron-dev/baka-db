@@ -1,8 +1,12 @@
 {
     "title": "Kiddy Grade: Maelstrom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/56969.jpg",
+        "alt": "kiddy-grade-maelstrom"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "キディ・グレイド 劇場版 第二部",
+    "original_name": "キディ・グレイド 劇場版 第二部: 氾濫篇",
     "start_date": "2007-06-23",
     "ending_song": "\"Mou Nidoto\" by Savage Genius",
     "rating": "None",

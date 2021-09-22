@@ -1,5 +1,9 @@
 {
     "title": "Cupid wa Itsumo Isogashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132861.jpg",
+        "alt": "cupid-wa-itsumo-isogashii"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "天使〈キューピッド〉はいつも忙しい",

@@ -1,5 +1,9 @@
 {
     "title": "Koyoi, Kimi wo Omou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72405.jpg",
+        "alt": "koyoi-kimi-wo-omou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

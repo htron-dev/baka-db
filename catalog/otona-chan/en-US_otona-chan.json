@@ -1,5 +1,9 @@
 {
     "title": "Otona-chan.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171050.jpg",
+        "alt": "otona-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

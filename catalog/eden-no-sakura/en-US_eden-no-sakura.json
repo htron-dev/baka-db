@@ -1,5 +1,9 @@
 {
     "title": "Eden no Sakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14051.jpg",
+        "alt": "eden-no-sakura"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "エデンの桜",

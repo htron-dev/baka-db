@@ -1,5 +1,9 @@
 {
     "title": "Hakamori to Ribbon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206675.jpg",
+        "alt": "hakamori-to-ribbon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

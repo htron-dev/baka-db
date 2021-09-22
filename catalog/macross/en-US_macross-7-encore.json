@@ -1,5 +1,9 @@
 {
     "title": "Macross 7 Encore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1514/96093.jpg",
+        "alt": "macross-7-encore"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "マクロス 7 アンコール",

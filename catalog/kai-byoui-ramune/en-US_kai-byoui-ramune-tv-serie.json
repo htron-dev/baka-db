@@ -1,5 +1,9 @@
 {
     "title": "Kai Byoui Ramune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1443/110157.jpg",
+        "alt": "kai-byoui-ramune"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "怪病医ラムネ",

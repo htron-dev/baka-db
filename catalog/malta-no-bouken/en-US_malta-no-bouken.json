@@ -1,5 +1,9 @@
 {
     "title": "Malta no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1261/92048.jpg",
+        "alt": "malta-no-bouken"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "マルタの冒険",

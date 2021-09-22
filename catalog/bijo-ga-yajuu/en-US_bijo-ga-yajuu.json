@@ -1,5 +1,9 @@
 {
     "title": "Bijo ga Yajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201071.jpg",
+        "alt": "bijo-ga-yajuu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

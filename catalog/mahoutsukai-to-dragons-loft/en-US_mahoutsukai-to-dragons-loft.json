@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai to Dragon's Loft",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210324.jpg",
+        "alt": "mahoutsukai-to-dragons-loft"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

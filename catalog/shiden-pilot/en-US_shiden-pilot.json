@@ -1,5 +1,9 @@
 {
     "title": "Shiden Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/63073.jpg",
+        "alt": "shiden-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "SHIDEN",

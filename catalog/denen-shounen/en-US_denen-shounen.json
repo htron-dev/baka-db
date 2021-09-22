@@ -1,5 +1,9 @@
 {
     "title": "Denen Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79449.jpg",
+        "alt": "denen-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

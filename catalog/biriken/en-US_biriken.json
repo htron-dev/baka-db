@@ -1,5 +1,9 @@
 {
     "title": "Biriken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/23069.jpg",
+        "alt": "biriken"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "ビリ犬",

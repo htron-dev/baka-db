@@ -1,5 +1,9 @@
 {
     "title": "Okasubekarazu!! Junketsu Tokku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170856.jpg",
+        "alt": "okasubekarazu-junketsu-tokku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Sooyojeon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14482.jpg",
+        "alt": "sooyojeon"
+    },
     "type": "manhwa",
     "volumes": "20",
     "original_name": "수요전",

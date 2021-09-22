@@ -1,5 +1,9 @@
 {
     "title": "Mahou Sensei Negima!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51855.jpg",
+        "alt": "mahou-sensei-negima"
+    },
     "type": "manga",
     "volumes": "38",
     "chapters": "355",

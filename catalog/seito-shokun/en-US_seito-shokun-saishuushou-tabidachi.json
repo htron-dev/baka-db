@@ -1,5 +1,9 @@
 {
     "title": "Seito Shokun!: Saishuushou - Tabidachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118511.jpg",
+        "alt": "seito-shokun-saishuushou-tabidachi"
+    },
     "type": "manga",
     "volumes": "30",
     "chapters": "180",

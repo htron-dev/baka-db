@@ -1,5 +1,9 @@
 {
     "title": "Sunao ni Narenai Otokotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7395.jpg",
+        "alt": "sunao-ni-narenai-otokotachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

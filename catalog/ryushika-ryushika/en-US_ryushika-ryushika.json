@@ -1,5 +1,9 @@
 {
     "title": "Ryushika Ryushika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125881.jpg",
+        "alt": "ryushika-ryushika"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "71",

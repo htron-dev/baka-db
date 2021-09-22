@@ -1,5 +1,9 @@
 {
     "title": "Mashiro no Oto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37873.jpg",
+        "alt": "mashiro-no-oto"
+    },
     "type": "manga",
     "original_name": "ましろのおと",
     "start_date": "2010-04-06",

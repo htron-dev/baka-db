@@ -1,5 +1,9 @@
 {
     "title": "Unmei ni Aisarete Gomennasai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177878.jpg",
+        "alt": "unmei-ni-aisarete-gomennasai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "運命に愛されてごめんなさい。",

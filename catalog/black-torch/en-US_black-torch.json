@@ -1,5 +1,9 @@
 {
     "title": "Black Torch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194791.jpg",
+        "alt": "black-torch"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

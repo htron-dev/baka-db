@@ -1,5 +1,9 @@
 {
     "title": "Angel Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28287.jpg",
+        "alt": "angel-magic"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "えんじぇる・まじっく",

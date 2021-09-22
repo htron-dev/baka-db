@@ -1,5 +1,9 @@
 {
     "title": "Iono-sama Fanatics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15859.jpg",
+        "alt": "iono-sama-fanatics"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

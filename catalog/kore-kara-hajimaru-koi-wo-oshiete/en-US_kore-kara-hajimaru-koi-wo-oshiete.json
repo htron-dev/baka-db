@@ -1,5 +1,9 @@
 {
     "title": "Kore kara Hajimaru Koi wo Oshiete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/156536.jpg",
+        "alt": "kore-kara-hajimaru-koi-wo-oshiete"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

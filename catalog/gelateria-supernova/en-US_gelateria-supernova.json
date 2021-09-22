@@ -1,5 +1,9 @@
 {
     "title": "Gelateria Supernova",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181539.jpg",
+        "alt": "gelateria-supernova"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,12 +1,16 @@
 {
     "title": "eX-Driver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/26197.jpg",
+        "alt": "e-x-driver"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "エクスドライバー",
     "start_date": "2000-07-25",
     "end_date": "2000-07-25",
     "opening_song": "\"Kaze ni Nare (疾風(かぜ)になれ)\" by JAM Project, Hironobu Kageyama, Rika Matsumoto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sniper (狙撃手(スナイパー))\" by MILK",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

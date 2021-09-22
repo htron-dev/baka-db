@@ -1,5 +1,9 @@
 {
     "title": "Paradise e Oide yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2144.jpg",
+        "alt": "paradise-e-oide-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

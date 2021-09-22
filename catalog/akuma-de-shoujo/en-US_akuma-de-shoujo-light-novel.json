@@ -1,5 +1,9 @@
 {
     "title": "Akuma de Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58245.jpg",
+        "alt": "akuma-de-shoujo"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "25",

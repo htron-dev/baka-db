@@ -1,5 +1,9 @@
 {
     "title": "Sorehodo Hima dewa Arimasen.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215053.jpg",
+        "alt": "sorehodo-hima-dewa-arimasen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "34",

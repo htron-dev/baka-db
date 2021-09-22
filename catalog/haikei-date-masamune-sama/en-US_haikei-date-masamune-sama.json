@@ -1,5 +1,9 @@
 {
     "title": "Haikei Date Masamune-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74765.jpg",
+        "alt": "haikei-date-masamune-sama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

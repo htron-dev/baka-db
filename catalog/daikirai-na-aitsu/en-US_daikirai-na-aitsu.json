@@ -1,5 +1,9 @@
 {
     "title": "Daikirai na Aitsu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/69441.jpg",
+        "alt": "daikirai-na-aitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

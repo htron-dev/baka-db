@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Chiisana Uso Hitotsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173967.jpg",
+        "alt": "kimi-ni-chiisana-uso-hitotsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

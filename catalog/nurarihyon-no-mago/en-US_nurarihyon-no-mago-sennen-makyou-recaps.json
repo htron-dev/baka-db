@@ -1,12 +1,16 @@
 {
     "title": "Nurarihyon no Mago: Sennen Makyou Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/31455.jpg",
+        "alt": "nurarihyon-no-mago-sennen-makyou-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ぬらりひょんの孫 千年魔京",
     "start_date": "2011-09-25",
     "end_date": "2011-09-25",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hoshi no Arika (星の在処。－ホシノアリカ－)\" by LM.C (ep 1)",
+    "ending_song": "#1: \"Orange Smile\" by Katate☆SIZE (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

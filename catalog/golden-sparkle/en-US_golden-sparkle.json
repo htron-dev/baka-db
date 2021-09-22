@@ -1,5 +1,9 @@
 {
     "title": "Golden Sparkle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224007.jpg",
+        "alt": "golden-sparkle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

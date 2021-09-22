@@ -1,5 +1,9 @@
 {
     "title": "Hyakunen no Koi wa Samerutomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119021.jpg",
+        "alt": "hyakunen-no-koi-wa-samerutomo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

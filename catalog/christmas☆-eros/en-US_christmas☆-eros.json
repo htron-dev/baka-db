@@ -1,5 +1,9 @@
 {
     "title": "Christmas☆Eros",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200466.jpg",
+        "alt": "christmas☆-eros"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

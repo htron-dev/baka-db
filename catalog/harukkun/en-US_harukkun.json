@@ -1,5 +1,9 @@
 {
     "title": "Harukkun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136897.jpg",
+        "alt": "harukkun"
+    },
     "type": "manhwa",
     "original_name": "하루꾼",
     "start_date": "2014-01-01",

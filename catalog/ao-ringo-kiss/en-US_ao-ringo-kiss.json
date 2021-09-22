@@ -1,5 +1,9 @@
 {
     "title": "Ao Ringo Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66317.jpg",
+        "alt": "ao-ringo-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

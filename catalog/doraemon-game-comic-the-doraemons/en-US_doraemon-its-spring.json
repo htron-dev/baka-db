@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: It's Spring!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1728/109536.jpg",
+        "alt": "doraemon-its-spring"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "春だ！一番ドラえもん祭り",

@@ -1,5 +1,9 @@
 {
     "title": "Muumin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/21297.jpg",
+        "alt": "muumin"
+    },
     "type": "tv-serie",
     "episodes": "65",
     "original_name": "ムーミン",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Moomin_(1969_TV_series"
+            "link": "http://en.wikipedia.org/wiki/Moomin_%281969_TV_series%29"
         }
     ]
 }

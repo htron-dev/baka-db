@@ -1,5 +1,9 @@
 {
     "title": "Suna no Meiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107333.jpg",
+        "alt": "suna-no-meiro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

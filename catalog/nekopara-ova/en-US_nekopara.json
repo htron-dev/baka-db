@@ -1,12 +1,16 @@
 {
     "title": "Nekopara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1716/104880.jpg",
+        "alt": "nekopara"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ネコぱら",
     "start_date": "2020-01-09",
     "end_date": "2020-01-09",
     "opening_song": "\"Shiny Happy Days\" by Chocola (Yuki Yagi), Vanilla (Iori Saeki), Azuki (Shiori Izawa), Maple (Miku Itou), Cinnamon (Yuri Noguchi), Coconut (Marin Mizutani)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hidamari no Kaori (陽だまりの香り)\" by Chocola (Yuki Yagi), Vanilla (Iori Saeki) (eps 1-8, 10, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

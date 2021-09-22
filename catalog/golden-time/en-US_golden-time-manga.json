@@ -1,5 +1,9 @@
 {
     "title": "Golden Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66517.jpg",
+        "alt": "golden-time"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "52",

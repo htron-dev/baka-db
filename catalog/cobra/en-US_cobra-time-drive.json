@@ -1,5 +1,9 @@
 {
     "title": "Cobra: Time Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204417.jpg",
+        "alt": "cobra-time-drive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

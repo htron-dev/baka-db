@@ -1,5 +1,9 @@
 {
     "title": "Robin Hood no Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/73494.jpg",
+        "alt": "robin-hood-no-daibouken"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ロビンフッドの大冒険",

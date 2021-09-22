@@ -1,5 +1,9 @@
 {
     "title": "Black Clover: Kishidan no Sho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234487.jpg",
+        "alt": "black-clover-kishidan-no-sho"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

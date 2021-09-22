@@ -1,5 +1,9 @@
 {
     "title": "Condol♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196480.jpg",
+        "alt": "condol♪"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "82",

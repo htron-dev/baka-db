@@ -1,5 +1,9 @@
 {
     "title": "Daiteito Étranger Sousasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158600.jpg",
+        "alt": "daiteito-etranger-sousasen"
+    },
     "type": "manga",
     "chapters": "11",
     "original_name": "大帝都エトランゼ捜査線",

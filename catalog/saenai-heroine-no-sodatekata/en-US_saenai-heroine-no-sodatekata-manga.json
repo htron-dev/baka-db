@@ -1,5 +1,9 @@
 {
     "title": "Saenai Heroine no Sodatekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182516.jpg",
+        "alt": "saenai-heroine-no-sodatekata"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "42",

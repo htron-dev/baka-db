@@ -1,5 +1,9 @@
 {
     "title": "Aa! Seishun no Koushien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/115499.jpg",
+        "alt": "aa-seishun-no-koushien"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "38",

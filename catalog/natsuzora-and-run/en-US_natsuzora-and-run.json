@@ -1,5 +1,9 @@
 {
     "title": "Natsuzora and Run",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96625.jpg",
+        "alt": "natsuzora-and-run"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Zeichou!: Nouzei-ka Daisan Shuunou-gakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225823.jpg",
+        "alt": "zeichou-nouzei-ka-daisan-shuunou-gakari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

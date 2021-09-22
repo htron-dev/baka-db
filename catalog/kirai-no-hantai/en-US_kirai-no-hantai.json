@@ -1,5 +1,9 @@
 {
     "title": "Kirai no Hantai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233427.jpg",
+        "alt": "kirai-no-hantai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

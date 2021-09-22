@@ -1,5 +1,9 @@
 {
     "title": "Accel World/Dural: Magisa Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153862.jpg",
+        "alt": "accel-world-dural-magisa-garden"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "62",

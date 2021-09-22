@@ -1,5 +1,9 @@
 {
     "title": "New Hal &amp; Bons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/5879.jpg",
+        "alt": "new-hal-amp-bons"
+    },
     "type": "ova",
     "episodes": "9",
     "original_name": "ＮＥＷ ハル＆ボンス",

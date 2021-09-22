@@ -1,5 +1,9 @@
 {
     "title": "Queen's Blade: Rurou no Senshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/12410.jpg",
+        "alt": "queens-blade-rurou-no-senshi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "クイーンズブレイド 流浪の戦士",

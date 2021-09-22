@@ -1,5 +1,9 @@
 {
     "title": "Kumi to Tulip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/72483.jpg",
+        "alt": "kumi-to-tulip"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "クミとチューリップ",

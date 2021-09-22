@@ -1,5 +1,9 @@
 {
     "title": "Jidou Hanbaiki Tobe-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186822.jpg",
+        "alt": "jidou-hanbaiki-tobe-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

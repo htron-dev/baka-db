@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Daisuki Nanda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10937.jpg",
+        "alt": "kimi-ga-daisuki-nanda"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キミがダイスキなんだ",

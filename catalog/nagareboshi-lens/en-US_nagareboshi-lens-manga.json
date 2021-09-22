@@ -1,5 +1,9 @@
 {
     "title": "Nagareboshi Lens",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147859.jpg",
+        "alt": "nagareboshi-lens"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "56",

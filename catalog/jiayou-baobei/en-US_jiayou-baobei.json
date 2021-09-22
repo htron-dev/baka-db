@@ -1,5 +1,9 @@
 {
     "title": "Jiayou Baobei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1196/115314.jpg",
+        "alt": "jiayou-baobei"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "加油宝贝",

@@ -1,5 +1,9 @@
 {
     "title": "Lady!? Steady, Go!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166125.jpg",
+        "alt": "lady-steady-go"
+    },
     "type": "light-novel",
     "original_name": "Lady!? Steady,GO!!",
     "start_date": "2015-10-30",

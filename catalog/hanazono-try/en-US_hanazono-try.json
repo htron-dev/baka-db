@@ -1,5 +1,9 @@
 {
     "title": "Hanazono Try",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32325.jpg",
+        "alt": "hanazono-try"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "花園ﾄﾗｲ",

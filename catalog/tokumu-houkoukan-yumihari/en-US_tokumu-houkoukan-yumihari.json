@@ -1,5 +1,9 @@
 {
     "title": "Tokumu Houkoukan Yumihari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32442.jpg",
+        "alt": "tokumu-houkoukan-yumihari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

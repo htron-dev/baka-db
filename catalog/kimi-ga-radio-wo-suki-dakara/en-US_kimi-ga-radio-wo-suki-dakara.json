@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Radio wo Suki dakara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244520.jpg",
+        "alt": "kimi-ga-radio-wo-suki-dakara"
+    },
     "type": "manga",
     "original_name": "きみがラジオを好きだから",
     "start_date": "2020-11-26",

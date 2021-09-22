@@ -1,12 +1,16 @@
 {
     "title": "Tamayura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/28362.jpg",
+        "alt": "tamayura"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "たまゆら",
     "start_date": "2010-09-06",
     "end_date": "2010-09-06",
     "opening_song": "\"Yasashisa ni Tsutsumareta Nara (やさしさに包まれたなら)\" by Maaya Sakamoto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Melody (メロディ)\" by Megumi Nakajima (eps 1-3)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

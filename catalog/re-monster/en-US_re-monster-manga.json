@@ -1,7 +1,11 @@
 {
     "title": "Re:Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151618.jpg",
+        "alt": "re-monster"
+    },
     "type": "manga",
-    "original_name": "Re",
+    "original_name": "Re:Monster",
     "start_date": "2014-03-27",
     "tags": [
         "action",

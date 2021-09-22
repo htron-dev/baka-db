@@ -1,5 +1,9 @@
 {
     "title": "Bouzu to Kumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171390.jpg",
+        "alt": "bouzu-to-kumo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

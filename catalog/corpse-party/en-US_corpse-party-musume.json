@@ -1,5 +1,9 @@
 {
     "title": "Corpse Party: Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166019.jpg",
+        "alt": "corpse-party-musume"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

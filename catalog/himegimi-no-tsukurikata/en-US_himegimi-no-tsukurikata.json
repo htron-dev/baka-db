@@ -1,5 +1,9 @@
 {
     "title": "Himegimi no Tsukurikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83322.jpg",
+        "alt": "himegimi-no-tsukurikata"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

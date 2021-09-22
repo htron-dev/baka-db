@@ -1,5 +1,9 @@
 {
     "title": "Cobra: Galaxy Nights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204418.jpg",
+        "alt": "cobra-galaxy-nights"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Ina Mono Myouna Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30589.jpg",
+        "alt": "koi-wa-ina-mono-myouna-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

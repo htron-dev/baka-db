@@ -1,5 +1,9 @@
 {
     "title": "Orokamono Wangel Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227117.jpg",
+        "alt": "orokamono-wangel-night"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

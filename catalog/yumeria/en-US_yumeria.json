@@ -1,5 +1,9 @@
 {
     "title": "Yumeria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/16782.jpg",
+        "alt": "yumeria"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゆめりあ",

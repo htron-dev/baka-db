@@ -1,5 +1,9 @@
 {
     "title": "Yamase wa Doko e Itta?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213190.jpg",
+        "alt": "yamase-wa-doko-e-itta"
+    },
     "type": "manga",
     "original_name": "山瀬はどこへ行った？",
     "start_date": "2018-02-13",

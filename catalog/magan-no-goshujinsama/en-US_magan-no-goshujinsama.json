@@ -1,5 +1,9 @@
 {
     "title": "Magan no Goshujinsama.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200160.jpg",
+        "alt": "magan-no-goshujinsama"
+    },
     "type": "light-novel",
     "original_name": "魔眼のご主人様。",
     "start_date": "2017-04-10",

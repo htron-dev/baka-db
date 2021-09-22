@@ -1,12 +1,16 @@
 {
     "title": "Strike Witches",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75524.jpg",
+        "alt": "strike-witches"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ストライクウィッチーズ",
     "start_date": "2008-07-04",
     "end_date": "2008-07-04",
     "opening_song": "\"STRIKE WITCHES ~Watashi ni Dekiru Koto~ (ストライクウィッチーズ ～わたしにできること～)\" by Yoko Ishida",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Bookmark A Head\" by Misato Fukuen and Saeko Chiba (eps 1-2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

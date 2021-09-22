@@ -1,5 +1,9 @@
 {
     "title": "Genji Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/13741.jpg",
+        "alt": "genji-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "源氏物語",

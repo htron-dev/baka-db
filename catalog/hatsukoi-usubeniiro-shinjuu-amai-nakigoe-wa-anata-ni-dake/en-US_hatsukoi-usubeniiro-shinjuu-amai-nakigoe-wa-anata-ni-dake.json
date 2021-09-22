@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Usubeniiro Shinjuu: Amai Nakigoe wa, Anata ni dake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240079.jpg",
+        "alt": "hatsukoi-usubeniiro-shinjuu-amai-nakigoe-wa-anata-ni-dake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

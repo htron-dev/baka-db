@@ -1,5 +1,9 @@
 {
     "title": "Shaolin Chuanqi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/87032.jpg",
+        "alt": "shaolin-chuanqi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "少林寺传奇",

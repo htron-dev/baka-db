@@ -1,5 +1,9 @@
 {
     "title": "Tsubasa: RESERVoir CHRoNiCLE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27076.jpg",
+        "alt": "tsubasa-reser-voir-ch-ro-ni-cle"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "233",

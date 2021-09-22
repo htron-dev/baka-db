@@ -1,5 +1,9 @@
 {
     "title": "100-nen no Lyra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202378.jpg",
+        "alt": "100-nen-no-lyra"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

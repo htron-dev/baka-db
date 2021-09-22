@@ -1,5 +1,9 @@
 {
     "title": "Sherlock Holmes: Hiiro no Kenkyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149318.jpg",
+        "alt": "sherlock-holmes-hiiro-no-kenkyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "シャーロック・ホームズ 緋色の研究",

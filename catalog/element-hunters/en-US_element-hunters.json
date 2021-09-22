@@ -1,5 +1,9 @@
 {
     "title": "Element Hunters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/21172.jpg",
+        "alt": "element-hunters"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "エレメントハンター",

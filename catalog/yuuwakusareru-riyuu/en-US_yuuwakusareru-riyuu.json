@@ -1,5 +1,9 @@
 {
     "title": "Yuuwakusareru Riyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172237.jpg",
+        "alt": "yuuwakusareru-riyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "誘惑される理由",

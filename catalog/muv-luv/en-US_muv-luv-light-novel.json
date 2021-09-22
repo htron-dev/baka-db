@@ -1,5 +1,9 @@
 {
     "title": "Muv-Luv",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135575.jpg",
+        "alt": "muv-luv"
+    },
     "type": "light-novel",
     "volumes": "7",
     "original_name": "マブラヴ",

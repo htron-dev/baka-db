@@ -1,5 +1,9 @@
 {
     "title": "What's Michael? (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/33927.jpg",
+        "alt": "whats-michael-tv"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "ホワッツマイケル?",

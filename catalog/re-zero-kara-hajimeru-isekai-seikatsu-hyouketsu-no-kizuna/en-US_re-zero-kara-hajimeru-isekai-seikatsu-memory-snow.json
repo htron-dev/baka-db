@@ -1,8 +1,12 @@
 {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1081/95707.jpg",
+        "alt": "re-zero-kara-hajimeru-isekai-seikatsu-memory-snow"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "Re",
+    "original_name": "Re:ゼロから始める異世界生活 Memory Snow",
     "start_date": "2018-10-06",
     "ending_song": "\"White White Snow\" by nonoc",
     "rating": "PG-13 - Teens 13 or older",

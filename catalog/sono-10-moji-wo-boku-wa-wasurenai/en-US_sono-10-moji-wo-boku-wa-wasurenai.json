@@ -1,5 +1,9 @@
 {
     "title": "Sono 10-moji wo, Boku wa Wasurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180755.jpg",
+        "alt": "sono-10-moji-wo-boku-wa-wasurenai"
+    },
     "type": "light-novel",
     "original_name": "その 10 文字を、僕は忘れない",
     "start_date": "2016-07-22",

@@ -1,5 +1,9 @@
 {
     "title": "Tonari ni Iru no ni, Tooi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61261.jpg",
+        "alt": "tonari-ni-iru-no-ni-tooi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

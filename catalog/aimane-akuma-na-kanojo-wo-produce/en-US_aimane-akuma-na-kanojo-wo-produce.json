@@ -1,5 +1,9 @@
 {
     "title": "Aimane: Akuma na Kanojo wo Produce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111939.jpg",
+        "alt": "aimane-akuma-na-kanojo-wo-produce"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

@@ -1,11 +1,15 @@
 {
     "title": "City Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/20587.jpg",
+        "alt": "city-hunter"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "シティーハンター",
     "start_date": "1987-04-06",
     "end_date": "1987-04-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"CITY HUNTER ～愛よ消えないで～ (CITY HUNTER~Ai yo kienaide)\" by Kahoru Kohiruimaki (eps 1-26)",
     "ending_song": "\"Get Wild\" by TM NETWORK",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu wa Boku ga Mawasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178908.jpg",
+        "alt": "chikyuu-wa-boku-ga-mawasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

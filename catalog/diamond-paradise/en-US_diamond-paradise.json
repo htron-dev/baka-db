@@ -1,5 +1,9 @@
 {
     "title": "Diamond Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166376.jpg",
+        "alt": "diamond-paradise"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ダイヤモンド・パラダイス",

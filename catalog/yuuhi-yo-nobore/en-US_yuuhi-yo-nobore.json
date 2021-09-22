@@ -1,5 +1,9 @@
 {
     "title": "Yuuhi yo Nobore!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183308.jpg",
+        "alt": "yuuhi-yo-nobore"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "SOS Dai Tokyo Tankentai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169360.jpg",
+        "alt": "sos-dai-tokyo-tankentai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

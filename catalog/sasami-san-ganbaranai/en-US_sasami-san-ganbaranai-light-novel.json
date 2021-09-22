@@ -1,5 +1,9 @@
 {
     "title": "Sasami-san@Ganbaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/69871.jpg",
+        "alt": "sasami-san-ganbaranai"
+    },
     "type": "light-novel",
     "original_name": "ささみさん@がんばらない",
     "start_date": "2009-12-23",

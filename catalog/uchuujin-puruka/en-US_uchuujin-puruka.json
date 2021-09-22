@@ -1,5 +1,9 @@
 {
     "title": "Uchuujin Puruka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215956.jpg",
+        "alt": "uchuujin-puruka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

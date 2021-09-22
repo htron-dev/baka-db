@@ -1,5 +1,9 @@
 {
     "title": "Ari Jigoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203683.jpg",
+        "alt": "ari-jigoku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

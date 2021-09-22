@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki no Ikenie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235030.jpg",
+        "alt": "tokimeki-no-ikenie"
+    },
     "type": "manga",
     "original_name": "ときめきのいけにえ",
     "start_date": "2020-01-15",

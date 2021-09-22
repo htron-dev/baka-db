@@ -1,5 +1,9 @@
 {
     "title": "Soul Link - Signal-Code: 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33468.jpg",
+        "alt": "soul-link-signal-code-0"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ソウルリンクシグナルコードゼロ",

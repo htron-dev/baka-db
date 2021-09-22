@@ -1,5 +1,9 @@
 {
     "title": "Agetai Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182634.jpg",
+        "alt": "agetai-kimochi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

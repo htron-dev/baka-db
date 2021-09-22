@@ -1,5 +1,9 @@
 {
     "title": "Hello Morning Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224792.jpg",
+        "alt": "hello-morning-star"
+    },
     "type": "manga",
     "original_name": "ハローモーニングスター",
     "start_date": "2017-08-28",

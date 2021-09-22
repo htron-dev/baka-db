@@ -1,5 +1,9 @@
 {
     "title": "Wana Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227270.jpg",
+        "alt": "wana-girl"
+    },
     "type": "manga",
     "original_name": "罠ガール",
     "start_date": "2017-05-27",

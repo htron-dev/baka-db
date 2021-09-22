@@ -1,5 +1,9 @@
 {
     "title": "Amakunai no ga Kawaikute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143097.jpg",
+        "alt": "amakunai-no-ga-kawaikute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

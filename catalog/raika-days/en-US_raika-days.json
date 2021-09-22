@@ -1,5 +1,9 @@
 {
     "title": "Raika Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41442.jpg",
+        "alt": "raika-days"
+    },
     "type": "manga",
     "original_name": "らいか・デイズ",
     "start_date": "2003-08-07",

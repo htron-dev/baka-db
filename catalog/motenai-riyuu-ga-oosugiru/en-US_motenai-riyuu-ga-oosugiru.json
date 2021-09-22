@@ -1,5 +1,9 @@
 {
     "title": "Motenai Riyuu ga Oosugiru!!!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136313.jpg",
+        "alt": "motenai-riyuu-ga-oosugiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

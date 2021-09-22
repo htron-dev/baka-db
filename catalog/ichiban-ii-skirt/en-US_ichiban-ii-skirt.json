@@ -1,5 +1,9 @@
 {
     "title": "Ichiban Ii Skirt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146979.jpg",
+        "alt": "ichiban-ii-skirt"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

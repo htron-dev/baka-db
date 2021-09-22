@@ -1,5 +1,9 @@
 {
     "title": "Guilty Arms",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176493.jpg",
+        "alt": "guilty-arms"
+    },
     "type": "light-novel",
     "original_name": "ギルティ・アームズ",
     "start_date": "2015-06-15",

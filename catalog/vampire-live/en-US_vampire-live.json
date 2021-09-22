@@ -1,5 +1,9 @@
 {
     "title": "Vampire Live",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198114.jpg",
+        "alt": "vampire-live"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ヴァンパイアライブ",

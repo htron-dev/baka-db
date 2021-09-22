@@ -1,5 +1,9 @@
 {
     "title": "Noukagaku Renai Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182457.jpg",
+        "alt": "noukagaku-renai-kakumei"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

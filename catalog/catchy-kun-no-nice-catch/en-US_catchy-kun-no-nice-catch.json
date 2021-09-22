@@ -1,5 +1,9 @@
 {
     "title": "Catchy-kun no Nice Catch!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/86803.jpg",
+        "alt": "catchy-kun-no-nice-catch"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "キャッチーくんのナイスキャッチ!",

@@ -1,7 +1,11 @@
 {
     "title": "Bright: Samurai Soul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1376/115672.jpg",
+        "alt": "bright-samurai-soul"
+    },
     "type": "ona",
-    "original_name": "Bright",
+    "original_name": "Bright: Samurai Soul",
     "rating": "None",
     "tags": [
         "action",

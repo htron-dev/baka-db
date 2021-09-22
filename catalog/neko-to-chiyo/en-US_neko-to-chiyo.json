@@ -1,5 +1,9 @@
 {
     "title": "Neko to Chiyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233398.jpg",
+        "alt": "neko-to-chiyo"
+    },
     "type": "manga",
     "original_name": "ねことちよ",
     "start_date": "2019-04-24",

@@ -1,5 +1,9 @@
 {
     "title": "Shounenha Karyuudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172748.jpg",
+        "alt": "shounenha-karyuudo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

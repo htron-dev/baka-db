@@ -1,5 +1,9 @@
 {
     "title": "Toaru Joshidaisei no Nichijou ni Miru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115437.jpg",
+        "alt": "toaru-joshidaisei-no-nichijou-ni-miru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

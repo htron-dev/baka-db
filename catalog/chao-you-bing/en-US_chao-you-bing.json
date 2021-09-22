@@ -1,5 +1,9 @@
 {
     "title": "Chao You Bing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1034/90492.jpg",
+        "alt": "chao-you-bing"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "超有病",

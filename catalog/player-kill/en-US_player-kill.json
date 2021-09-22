@@ -1,5 +1,9 @@
 {
     "title": "Player Kill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13107.jpg",
+        "alt": "player-kill"
+    },
     "type": "manhwa",
     "volumes": "33",
     "original_name": "피케이",

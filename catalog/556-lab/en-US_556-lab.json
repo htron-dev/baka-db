@@ -1,5 +1,9 @@
 {
     "title": "556 lab",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40005.jpg",
+        "alt": "556-lab"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Lovely Movie: Itoshi no Muco Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/61925.jpg",
+        "alt": "lovely-movie-itoshi-no-muco-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ラブリームービー いとしのムーコ 特典映像",

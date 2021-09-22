@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Bitoku Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1938/90218.jpg",
+        "alt": "nanatsu-no-bitoku-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "七つの美徳",

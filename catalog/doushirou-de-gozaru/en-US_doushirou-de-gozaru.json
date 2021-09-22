@@ -1,5 +1,9 @@
 {
     "title": "Doushirou de Gozaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6805.jpg",
+        "alt": "doushirou-de-gozaru"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "道士朗でござる",

@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka no Acchimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105731.jpg",
+        "alt": "mayonaka-no-acchimono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

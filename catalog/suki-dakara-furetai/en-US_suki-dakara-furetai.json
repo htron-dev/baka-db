@@ -1,5 +1,9 @@
 {
     "title": "Suki, dakara Furetai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245923.jpg",
+        "alt": "suki-dakara-furetai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

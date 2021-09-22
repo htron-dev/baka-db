@@ -1,5 +1,9 @@
 {
     "title": "Concerto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61257.jpg",
+        "alt": "concerto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

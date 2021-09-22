@@ -1,5 +1,9 @@
 {
     "title": "Shinobe yo! Stalker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246076.jpg",
+        "alt": "shinobe-yo-stalker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

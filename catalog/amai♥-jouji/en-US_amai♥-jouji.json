@@ -1,5 +1,9 @@
 {
     "title": "Amai♥Jouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90537.jpg",
+        "alt": "amai♥-jouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

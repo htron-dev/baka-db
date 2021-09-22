@@ -1,5 +1,9 @@
 {
     "title": "Tae Guk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19908.jpg",
+        "alt": "tae-guk"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "태극태을",

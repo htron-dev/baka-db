@@ -1,12 +1,16 @@
 {
     "title": "Gyouten Ningen Batsealer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1396/96588.jpg",
+        "alt": "gyouten-ningen-batsealer"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "仰天人間バトシーラー",
     "start_date": "2001-04-07",
     "end_date": "2001-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Let's Sail! Batsealer (レッツセイル!バトシーラー)\" by Aya Nozawa (野沢あや)",
+    "ending_song": "#1: \"Mahou no Kotoba (まほうのことば)\" by Masumi Itou (伊藤真澄)",
     "rating": "PG - Children",
     "tags": [
         "action",

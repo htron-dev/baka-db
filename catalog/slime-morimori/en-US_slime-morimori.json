@@ -1,5 +1,9 @@
 {
     "title": "Slime Morimori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164708.jpg",
+        "alt": "slime-morimori"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "184",

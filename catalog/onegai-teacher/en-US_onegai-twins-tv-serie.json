@@ -1,5 +1,9 @@
 {
     "title": "Onegai☆Twins",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1621/100229.jpg",
+        "alt": "onegai☆-twins"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "おねがい ☆ ツインズ",

@@ -1,5 +1,9 @@
 {
     "title": "Bungou Stray Dogs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180919.jpg",
+        "alt": "bungou-stray-dogs"
+    },
     "type": "light-novel",
     "original_name": "文豪ストレイドッグ",
     "start_date": "2014-04-01",

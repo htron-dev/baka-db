@@ -1,5 +1,9 @@
 {
     "title": "Niwa ni wa Ninin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226530.jpg",
+        "alt": "niwa-ni-wa-ninin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

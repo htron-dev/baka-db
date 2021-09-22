@@ -1,5 +1,9 @@
 {
     "title": "Toriyama Akira no Hetappi Manga Kenkyuusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15135.jpg",
+        "alt": "toriyama-akira-no-hetappi-manga-kenkyuusho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

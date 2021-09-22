@@ -1,5 +1,9 @@
 {
     "title": "Minasama Etes-vous Prêts?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200279.jpg",
+        "alt": "minasama-etes-vous-prets"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

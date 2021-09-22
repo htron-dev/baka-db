@@ -1,5 +1,9 @@
 {
     "title": "Hamuko Mairu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/52261.jpg",
+        "alt": "hamuko-mairu"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "はむこ参る!",

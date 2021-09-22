@@ -1,5 +1,9 @@
 {
     "title": "Deka Wanko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165184.jpg",
+        "alt": "deka-wanko"
+    },
     "type": "manga",
     "original_name": "デカワンコ",
     "start_date": "2008-04-01",

@@ -1,5 +1,9 @@
 {
     "title": "Choroi desu yo Onigoroshi-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219701.jpg",
+        "alt": "choroi-desu-yo-onigoroshi-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

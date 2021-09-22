@@ -1,5 +1,9 @@
 {
     "title": "Ningyou no Yakata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/115253.jpg",
+        "alt": "ningyou-no-yakata"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "人形の館",

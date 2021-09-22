@@ -1,5 +1,9 @@
 {
     "title": "Ore ga Mahou wo Kaketeyaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157884.jpg",
+        "alt": "ore-ga-mahou-wo-kaketeyaru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

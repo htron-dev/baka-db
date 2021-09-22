@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Galileo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26284.jpg",
+        "alt": "boku-wa-galileo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "45",

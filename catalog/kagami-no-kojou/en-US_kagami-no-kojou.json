@@ -1,5 +1,9 @@
 {
     "title": "Kagami no Kojou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224997.jpg",
+        "alt": "kagami-no-kojou"
+    },
     "type": "manga",
     "original_name": "かがみの孤城",
     "start_date": "2019-06-19",

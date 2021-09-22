@@ -1,5 +1,9 @@
 {
     "title": "Oniichan no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146437.jpg",
+        "alt": "oniichan-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

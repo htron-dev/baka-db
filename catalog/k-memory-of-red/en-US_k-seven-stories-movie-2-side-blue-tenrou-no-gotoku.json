@@ -1,8 +1,12 @@
 {
     "title": "K: Seven Stories Movie 2 - Side:Blue - Tenrou no Gotoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1640/90999.jpg",
+        "alt": "k-seven-stories-movie-2-side-blue-tenrou-no-gotoku"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "K Seven Stories SIDE",
+    "original_name": "K Seven Stories SIDE:BLUE ~天狼の如く~",
     "start_date": "2018-08-04",
     "opening_song": "\"SURVIVE!\" by angela",
     "ending_song": "\"Tenrou no Gotoku (天狼の如く)\" by angela",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/K_(anime"
+            "link": "https://en.wikipedia.org/wiki/K_%28anime%29"
         }
     ]
 }

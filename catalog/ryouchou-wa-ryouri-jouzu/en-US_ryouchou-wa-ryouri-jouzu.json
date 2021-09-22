@@ -1,5 +1,9 @@
 {
     "title": "Ryouchou wa Ryouri Jouzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234334.jpg",
+        "alt": "ryouchou-wa-ryouri-jouzu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

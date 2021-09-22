@@ -1,5 +1,9 @@
 {
     "title": "Aku no Quartet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194181.jpg",
+        "alt": "aku-no-quartet"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "悪ノ四重奏〈カルテット〉",

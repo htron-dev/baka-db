@@ -1,5 +1,9 @@
 {
     "title": "Robot Taekwon V",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/29661.jpg",
+        "alt": "robot-taekwon-v"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "로보트 태권 V",

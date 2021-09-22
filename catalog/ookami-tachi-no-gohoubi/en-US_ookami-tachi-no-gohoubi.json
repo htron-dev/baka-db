@@ -1,5 +1,9 @@
 {
     "title": "Ookami-tachi no Gohoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179891.jpg",
+        "alt": "ookami-tachi-no-gohoubi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Friend or Foe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/161174.jpg",
+        "alt": "friend-or-foe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

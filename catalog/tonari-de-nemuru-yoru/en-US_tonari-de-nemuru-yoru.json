@@ -1,5 +1,9 @@
 {
     "title": "Tonari de Nemuru Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11508.jpg",
+        "alt": "tonari-de-nemuru-yoru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "隣で眠る夜",

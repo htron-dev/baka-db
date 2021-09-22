@@ -1,12 +1,16 @@
 {
     "title": "Clamp Gakuen Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1709/111109.jpg",
+        "alt": "clamp-gakuen-tanteidan"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "CLAMP 学園探偵団",
     "start_date": "1997-05-03",
     "end_date": "1997-05-03",
     "opening_song": "\"Peony Pink\" by ALI PROJECT",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Youkoso Metallic Party\" by Marble Berry (eps 01-19)",
     "rating": "G - All Ages",
     "tags": [
         "action",

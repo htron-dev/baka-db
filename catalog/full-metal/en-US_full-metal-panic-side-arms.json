@@ -1,5 +1,9 @@
 {
     "title": "Full Metal Panic! Side Arms",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166129.jpg",
+        "alt": "full-metal-panic-side-arms"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "9",

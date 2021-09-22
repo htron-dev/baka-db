@@ -1,5 +1,9 @@
 {
     "title": "Seishun Forget!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115447.jpg",
+        "alt": "seishun-forget"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

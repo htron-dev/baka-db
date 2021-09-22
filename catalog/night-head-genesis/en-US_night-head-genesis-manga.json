@@ -1,5 +1,9 @@
 {
     "title": "Night Head Genesis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11687.jpg",
+        "alt": "night-head-genesis"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

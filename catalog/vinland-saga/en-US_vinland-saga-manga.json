@@ -1,5 +1,9 @@
 {
     "title": "Vinland Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188925.jpg",
+        "alt": "vinland-saga"
+    },
     "type": "manga",
     "original_name": "ヴィンランド・サガ",
     "start_date": "2005-04-13",

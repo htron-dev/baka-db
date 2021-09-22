@@ -1,5 +1,9 @@
 {
     "title": "Haikyuu!! Quest Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1061/98110.jpg",
+        "alt": "haikyuu-quest-picture-drama"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ハイキュークエスト",

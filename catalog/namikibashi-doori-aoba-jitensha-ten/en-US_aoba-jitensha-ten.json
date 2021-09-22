@@ -1,5 +1,9 @@
 {
     "title": "Aoba Jitensha-ten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166490.jpg",
+        "alt": "aoba-jitensha-ten"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "144",

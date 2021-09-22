@@ -1,5 +1,9 @@
 {
     "title": "Galaxy Angel 2nd",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165051.jpg",
+        "alt": "galaxy-angel-2nd"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

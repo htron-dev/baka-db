@@ -1,5 +1,9 @@
 {
     "title": "Okuretekita Haru wa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247366.jpg",
+        "alt": "okuretekita-haru-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

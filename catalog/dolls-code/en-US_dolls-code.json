@@ -1,5 +1,9 @@
 {
     "title": "Dolls Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134995.jpg",
+        "alt": "dolls-code"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

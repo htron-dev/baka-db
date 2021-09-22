@@ -1,5 +1,9 @@
 {
     "title": "Amaterasu-san wa Hikikomoritai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219161.jpg",
+        "alt": "amaterasu-san-wa-hikikomoritai"
+    },
     "type": "manga",
     "original_name": "アマテラスさんはひきこもりたい！",
     "start_date": "2017-11-25",

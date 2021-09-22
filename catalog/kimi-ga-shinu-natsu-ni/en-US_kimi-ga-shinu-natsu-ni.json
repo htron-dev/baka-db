@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Shinu Natsu ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192236.jpg",
+        "alt": "kimi-ga-shinu-natsu-ni"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

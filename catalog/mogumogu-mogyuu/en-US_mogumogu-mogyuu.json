@@ -1,5 +1,9 @@
 {
     "title": "Mogumogu Mogyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241681.jpg",
+        "alt": "mogumogu-mogyuu"
+    },
     "type": "manga",
     "chapters": "25",
     "original_name": "モグモグモギュー",

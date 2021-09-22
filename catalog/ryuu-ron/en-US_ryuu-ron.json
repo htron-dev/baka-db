@@ -1,5 +1,9 @@
 {
     "title": "Ryuu - Ron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75915.jpg",
+        "alt": "ryuu-ron"
+    },
     "type": "manga",
     "volumes": "42",
     "original_name": "龍-RON-",

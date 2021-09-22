@@ -1,5 +1,9 @@
 {
     "title": "Sennenki no Regalia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182701.jpg",
+        "alt": "sennenki-no-regalia"
+    },
     "type": "light-novel",
     "original_name": "千年紀のレガリア",
     "start_date": "2016-08-30",

@@ -1,5 +1,9 @@
 {
     "title": "Danshi Kinsei!! Freese Jogakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187840.jpg",
+        "alt": "danshi-kinsei-freese-jogakuin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Rifle Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15856.jpg",
+        "alt": "rifle-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

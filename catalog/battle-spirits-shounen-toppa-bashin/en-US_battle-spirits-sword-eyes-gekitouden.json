@@ -1,12 +1,16 @@
 {
     "title": "Battle Spirits: Sword Eyes Gekitouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/52985.jpg",
+        "alt": "battle-spirits-sword-eyes-gekitouden"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "バトルスピリッツ ソードアイズ激闘伝",
     "start_date": "2013-04-07",
     "end_date": "2013-04-07",
     "opening_song": "\"Billy Billy\" by CLUTCHO (eps 1-21)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"IN FUTURE!!\" by Yuutaku II (Yuuki Ono & Takuya Eguchi) (eps 1-20)",
     "rating": "PG - Children",
     "tags": [
         "game",

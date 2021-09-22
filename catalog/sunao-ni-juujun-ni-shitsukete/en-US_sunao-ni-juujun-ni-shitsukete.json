@@ -1,5 +1,9 @@
 {
     "title": "Sunao ni, Juujun ni Shitsukete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248404.jpg",
+        "alt": "sunao-ni-juujun-ni-shitsukete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Mahou Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220834.jpg",
+        "alt": "bokura-wa-mahou-shounen"
+    },
     "type": "manga",
     "original_name": "ボクらは魔法少年",
     "start_date": "2018-03-01",

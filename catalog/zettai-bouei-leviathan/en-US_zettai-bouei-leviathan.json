@@ -1,5 +1,9 @@
 {
     "title": "Zettai Bouei Leviathan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/47499.jpg",
+        "alt": "zettai-bouei-leviathan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "絶対防衛レヴィアタン",

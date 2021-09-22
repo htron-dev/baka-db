@@ -1,5 +1,9 @@
 {
     "title": "BL Sakka, Tokidoki Ookami.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238253.jpg",
+        "alt": "bl-sakka-tokidoki-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

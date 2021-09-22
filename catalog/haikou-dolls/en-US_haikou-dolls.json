@@ -1,5 +1,9 @@
 {
     "title": "Haikou Dolls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161194.jpg",
+        "alt": "haikou-dolls"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

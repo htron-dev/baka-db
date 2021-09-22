@@ -1,5 +1,9 @@
 {
     "title": "Koimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211855.jpg",
+        "alt": "koimonogatari"
+    },
     "type": "manga",
     "original_name": "こいものがたり",
     "start_date": "2013-05-22",

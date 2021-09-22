@@ -1,5 +1,9 @@
 {
     "title": "Hard Romantica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24918.jpg",
+        "alt": "hard-romantica"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

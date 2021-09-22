@@ -1,5 +1,9 @@
 {
     "title": "Kengan Ashura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1421/100770.jpg",
+        "alt": "kengan-ashura"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ケンガンアシュラ",

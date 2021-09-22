@@ -1,5 +1,9 @@
 {
     "title": "Akai Ringo wa Taberaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243723.jpg",
+        "alt": "akai-ringo-wa-taberaretai"
+    },
     "type": "manga",
     "original_name": "赤い林檎は食べられたい",
     "start_date": "2015-12-04",

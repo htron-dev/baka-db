@@ -1,5 +1,9 @@
 {
     "title": "Boss no Tawamure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225651.jpg",
+        "alt": "boss-no-tawamure"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ボスのたわむれ",

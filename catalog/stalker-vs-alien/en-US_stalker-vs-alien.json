@@ -1,5 +1,9 @@
 {
     "title": "Stalker vs. Alien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231320.jpg",
+        "alt": "stalker-vs-alien"
+    },
     "type": "manga",
     "chapters": "10",
     "original_name": "ストーカー vs.エイリアン",

@@ -1,5 +1,9 @@
 {
     "title": "Hidan no Aria AA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76700.jpg",
+        "alt": "hidan-no-aria-aa"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "緋弾のアリア AA（ダブルエー）",

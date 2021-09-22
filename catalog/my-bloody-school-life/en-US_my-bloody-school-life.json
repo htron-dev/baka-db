@@ -1,5 +1,9 @@
 {
     "title": "My Bloody School Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12216.jpg",
+        "alt": "my-bloody-school-life"
+    },
     "type": "manhwa",
     "volumes": "3",
     "original_name": "피바다 학원기",

@@ -1,5 +1,9 @@
 {
     "title": "Paros no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33108.jpg",
+        "alt": "paros-no-ken"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

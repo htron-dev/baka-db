@@ -1,12 +1,16 @@
 {
     "title": "Shikabane Hime: Kuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1125/105989.jpg",
+        "alt": "shikabane-hime-kuro"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "屍姫 玄",
     "start_date": "2009-01-01",
     "end_date": "2009-01-01",
     "opening_song": "\"Beautiful Fighter\" by angela",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Beginning\" by angela (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

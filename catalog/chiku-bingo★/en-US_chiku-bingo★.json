@@ -1,5 +1,9 @@
 {
     "title": "Chiku Bingo★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181585.jpg",
+        "alt": "chiku-bingo★"
+    },
     "type": "manga",
     "original_name": "チク BINGO★",
     "start_date": "2012-09-21",

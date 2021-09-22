@@ -1,5 +1,9 @@
 {
     "title": "Gin no Valkyries",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91307.jpg",
+        "alt": "gin-no-valkyries"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "銀のヴァルキュリアス",

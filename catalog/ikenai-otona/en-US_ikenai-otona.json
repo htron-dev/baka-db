@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Otona.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235115.jpg",
+        "alt": "ikenai-otona"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

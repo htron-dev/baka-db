@@ -1,5 +1,9 @@
 {
     "title": "still...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26717.jpg",
+        "alt": "still"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "それでもまだ君の事が…",

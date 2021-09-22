@@ -1,5 +1,9 @@
 {
     "title": "It's Called Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12379.jpg",
+        "alt": "its-called-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

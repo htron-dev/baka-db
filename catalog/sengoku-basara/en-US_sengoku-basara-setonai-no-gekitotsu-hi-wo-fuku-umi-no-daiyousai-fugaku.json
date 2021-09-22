@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/25451.jpg",
+        "alt": "sengoku-basara-setonai-no-gekitotsu-hi-wo-fuku-umi-no-daiyousai-fugaku"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "戦国 BASARA 瀬戸内の激突! 火を噴く海の大要塞・富嶽!!",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Sengoku_Basara_(anime"
+            "link": "http://en.wikipedia.org/wiki/Sengoku_Basara_%28anime%29"
         }
     ]
 }

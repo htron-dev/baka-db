@@ -1,5 +1,9 @@
 {
     "title": "BlazBlue: Chimelical Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43625.jpg",
+        "alt": "blaz-blue-chimelical-complex"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoumen no Silhouette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111093.jpg",
+        "alt": "kyoumen-no-silhouette"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

@@ -1,12 +1,16 @@
 {
     "title": "WWW.Working!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/82287.jpg",
+        "alt": "www-working"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "WWW.WORKING!!",
     "start_date": "2016-10-01",
     "end_date": "2016-10-01",
     "opening_song": "\"Eyecatch! Too much!\" by Hana Miyakoshi (Haruka Tomatsu), Sayuri Muranushi (Yoko Hikasa), Shiho Kamakura (Sora Amamiya) (eps 1-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Muchuuryoku Fever (無重力フィーバー)\" by Daisuke Higashida (Yuuichi Nakamura), Masahiro Adachi (Kouki Uchyama), Yuuta Shindou (Kensho Ono) (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/WORKING!!_(WEB%E7%89%88"
+            "link": "https://ja.wikipedia.org/wiki/WORKING!!_%28WEB%E7%89%88%29"
         }
     ]
 }

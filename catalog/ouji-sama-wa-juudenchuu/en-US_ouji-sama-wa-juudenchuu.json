@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama wa Juudenchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66755.jpg",
+        "alt": "ouji-sama-wa-juudenchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Dear Tear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204361.jpg",
+        "alt": "dear-tear"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

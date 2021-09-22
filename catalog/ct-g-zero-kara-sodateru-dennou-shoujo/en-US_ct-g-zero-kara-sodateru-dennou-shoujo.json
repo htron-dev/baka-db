@@ -1,5 +1,9 @@
 {
     "title": "CtG: Zero kara Sodateru Dennou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176306.jpg",
+        "alt": "ct-g-zero-kara-sodateru-dennou-shoujo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

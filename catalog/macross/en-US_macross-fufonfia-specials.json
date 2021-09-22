@@ -1,5 +1,9 @@
 {
     "title": "Macross Fufonfia Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/69531.jpg",
+        "alt": "macross-fufonfia-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "マクロス fufonfia",

@@ -1,5 +1,9 @@
 {
     "title": "Rinjin wa Chou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161197.jpg",
+        "alt": "rinjin-wa-chou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

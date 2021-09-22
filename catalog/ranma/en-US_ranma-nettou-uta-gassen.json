@@ -1,5 +1,9 @@
 {
     "title": "Ranma ½: Nettou Uta Gassen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/15423.jpg",
+        "alt": "ranma-nettou-uta-gassen"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "らんま１／２　熱闘歌合戦",

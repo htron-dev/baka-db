@@ -1,5 +1,9 @@
 {
     "title": "Crisis Gear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159015.jpg",
+        "alt": "crisis-gear"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "31",

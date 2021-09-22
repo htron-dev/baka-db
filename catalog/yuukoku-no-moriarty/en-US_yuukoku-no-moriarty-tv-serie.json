@@ -1,5 +1,9 @@
 {
     "title": "Yuukoku no Moriarty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
+        "alt": "yuukoku-no-moriarty"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "憂国のモリアーティ",

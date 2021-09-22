@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku Tsundereation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164051.jpg",
+        "alt": "yuuwaku-tsundereation"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

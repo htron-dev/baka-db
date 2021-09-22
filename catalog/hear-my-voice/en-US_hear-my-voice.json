@@ -1,5 +1,9 @@
 {
     "title": "Hear My Voice!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205614.jpg",
+        "alt": "hear-my-voice"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "38",

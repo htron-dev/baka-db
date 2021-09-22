@@ -1,5 +1,9 @@
 {
     "title": "X-Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20133.jpg",
+        "alt": "x-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

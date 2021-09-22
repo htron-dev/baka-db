@@ -1,5 +1,9 @@
 {
     "title": "Uchuujin Muumuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243269.jpg",
+        "alt": "uchuujin-muumuu"
+    },
     "type": "manga",
     "original_name": "宇宙人ムームー",
     "start_date": "2019-06-28",

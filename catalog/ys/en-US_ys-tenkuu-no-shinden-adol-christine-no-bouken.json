@@ -1,5 +1,9 @@
 {
     "title": "Ys: Tenkuu no Shinden - Adol Christine no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1984/110828.jpg",
+        "alt": "ys-tenkuu-no-shinden-adol-christine-no-bouken"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "Ys (イース) 天空の神殿 アドル=クリスティンの冒険",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ys_(anime"
+            "link": "http://en.wikipedia.org/wiki/Ys_%28anime%29"
         }
     ]
 }

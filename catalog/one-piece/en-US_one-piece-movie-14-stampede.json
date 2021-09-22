@@ -1,5 +1,9 @@
 {
     "title": "One Piece Movie 14: Stampede",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1221/100550.jpg",
+        "alt": "one-piece-movie-14-stampede"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版『ONE PIECE STAMPEDE』（スタンピード）",

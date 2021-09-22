@@ -1,5 +1,9 @@
 {
     "title": "Nareru! SE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164691.jpg",
+        "alt": "nareru-se"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

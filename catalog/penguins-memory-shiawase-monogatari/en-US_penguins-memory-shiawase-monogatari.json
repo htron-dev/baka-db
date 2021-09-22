@@ -1,5 +1,9 @@
 {
     "title": "Penguin's Memory: Shiawase Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/44572.jpg",
+        "alt": "penguins-memory-shiawase-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ペンギンズ・メモリー幸福物語",

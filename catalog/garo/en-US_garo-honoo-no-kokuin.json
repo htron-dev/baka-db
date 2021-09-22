@@ -1,12 +1,16 @@
 {
     "title": "Garo: Honoo no Kokuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/63667.jpg",
+        "alt": "garo-honoo-no-kokuin"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "牙狼〈GARO〉-炎の刻印-",
     "start_date": "2014-10-04",
     "end_date": "2014-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Honoo no Kokuin: DIVINE FLAME (炎の刻印-DIVINE FLAME-)\" by JAM Project (eps 1-12)",
+    "ending_song": "#1: \"CHIASTOLITE\" by Sayaka Sasaki (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

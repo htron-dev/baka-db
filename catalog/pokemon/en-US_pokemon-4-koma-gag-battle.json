@@ -1,5 +1,9 @@
 {
     "title": "Pokémon 4Koma Gag Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39120.jpg",
+        "alt": "pokemon-4-koma-gag-battle"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ポケットモンスター　４コマギャグバトル",

@@ -1,5 +1,9 @@
 {
     "title": "Knight Inspector: Shien no Kariudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163982.jpg",
+        "alt": "knight-inspector-shien-no-kariudo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

@@ -1,12 +1,16 @@
 {
     "title": "Tobe! Isami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/21083.jpg",
+        "alt": "tobe-isami"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "飛べ！イサミ",
     "start_date": "1995-04-08",
     "end_date": "1995-04-08",
     "opening_song": "\"Heart o Migakukkyanai (ハートを磨くっきゃない)\" by Tokio (eps 1-50)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Round Trip:Sono te wo hanasanai de (Round Trip~その手を離さないで~)\" by SEEK (eps 1-33)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

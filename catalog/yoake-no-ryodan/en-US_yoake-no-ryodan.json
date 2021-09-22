@@ -1,5 +1,9 @@
 {
     "title": "Yoake no Ryodan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216103.jpg",
+        "alt": "yoake-no-ryodan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

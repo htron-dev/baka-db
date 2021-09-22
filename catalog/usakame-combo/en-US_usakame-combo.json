@@ -1,5 +1,9 @@
 {
     "title": "Usakame Combo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170635.jpg",
+        "alt": "usakame-combo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "うさかめコンボ!",

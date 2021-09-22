@@ -1,5 +1,9 @@
 {
     "title": "Kamikujimura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234576.jpg",
+        "alt": "kamikujimura"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

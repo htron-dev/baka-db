@@ -1,5 +1,9 @@
 {
     "title": "Puchi Puri Yuushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4108.jpg",
+        "alt": "puchi-puri-yuushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

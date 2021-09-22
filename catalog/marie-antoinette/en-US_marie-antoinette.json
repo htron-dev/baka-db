@@ -1,5 +1,9 @@
 {
     "title": "Marie Antoinette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184031.jpg",
+        "alt": "marie-antoinette"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

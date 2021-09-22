@@ -1,5 +1,9 @@
 {
     "title": "Rec",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/34621.jpg",
+        "alt": "rec"
+    },
     "type": "tv-serie",
     "episodes": "9",
     "original_name": "レック",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Rec_(manga"
+            "link": "http://en.wikipedia.org/wiki/Rec_%28manga%29"
         }
     ]
 }

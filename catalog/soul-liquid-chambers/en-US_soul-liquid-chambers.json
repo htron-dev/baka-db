@@ -1,5 +1,9 @@
 {
     "title": "Soul Liquid Chambers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191668.jpg",
+        "alt": "soul-liquid-chambers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

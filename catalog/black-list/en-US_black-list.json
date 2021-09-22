@@ -1,5 +1,9 @@
 {
     "title": "Black List",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28340.jpg",
+        "alt": "black-list"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ブラックリスト",

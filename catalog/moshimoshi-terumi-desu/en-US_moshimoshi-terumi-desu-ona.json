@@ -1,5 +1,9 @@
 {
     "title": "Moshimoshi, Terumi Desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1812/108112.jpg",
+        "alt": "moshimoshi-terumi-desu"
+    },
     "type": "ona",
     "episodes": "30",
     "original_name": "もしもし, てるみです.",

@@ -1,5 +1,9 @@
 {
     "title": "Tokumei no Kanojo-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195309.jpg",
+        "alt": "tokumei-no-kanojo-tachi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "66",

@@ -1,5 +1,9 @@
 {
     "title": "Young Bad Education",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151750.jpg",
+        "alt": "young-bad-education"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Pâtissier Sweets a Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192241.jpg",
+        "alt": "patissier-sweets-a-love"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

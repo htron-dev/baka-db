@@ -1,5 +1,9 @@
 {
     "title": "Sayounara Mutsuki-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149548.jpg",
+        "alt": "sayounara-mutsuki-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

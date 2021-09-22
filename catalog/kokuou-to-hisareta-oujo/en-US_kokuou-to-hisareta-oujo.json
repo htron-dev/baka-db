@@ -1,5 +1,9 @@
 {
     "title": "Kokuou to Hisareta Oujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201924.jpg",
+        "alt": "kokuou-to-hisareta-oujo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "国王と秘された王女",

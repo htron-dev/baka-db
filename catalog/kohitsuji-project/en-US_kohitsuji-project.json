@@ -1,5 +1,9 @@
 {
     "title": "Kohitsuji Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201123.jpg",
+        "alt": "kohitsuji-project"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

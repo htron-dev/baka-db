@@ -1,5 +1,9 @@
 {
     "title": "Giniro Fuwari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176065.jpg",
+        "alt": "giniro-fuwari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "銀色ふわり",

@@ -1,5 +1,9 @@
 {
     "title": "Butterfly Kiss Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23074.jpg",
+        "alt": "butterfly-kiss-blade"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "バタフライキス",

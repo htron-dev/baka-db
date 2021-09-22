@@ -1,12 +1,16 @@
 {
     "title": "Pokemon Sun &amp; Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/84673.jpg",
+        "alt": "pokemon-sun-amp-moon"
+    },
     "type": "tv-serie",
     "episodes": "146",
     "original_name": "ポケットモンスター サン＆ムーン",
     "start_date": "2016-11-17",
     "end_date": "2016-11-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Alola!! (アローラ!!)\" by Satoshi with Pikachu (Rica Matsumoto with Ikue Ootani) (eps 1-29, 44-60)",
+    "ending_song": "#1: \"Pose (ポーズ)\" by Taiiku Okazaki (eps 1-60)",
     "rating": "PG - Children",
     "tags": [
         "action",

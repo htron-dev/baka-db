@@ -1,5 +1,9 @@
 {
     "title": "Inaba Rabbits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193152.jpg",
+        "alt": "inaba-rabbits"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

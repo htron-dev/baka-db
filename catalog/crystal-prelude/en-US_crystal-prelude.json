@@ -1,5 +1,9 @@
 {
     "title": "Crystal Prelude",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26767.jpg",
+        "alt": "crystal-prelude"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

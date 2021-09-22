@@ -1,5 +1,9 @@
 {
     "title": "Half de Ittoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151549.jpg",
+        "alt": "half-de-ittoko"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ハーフでいっとこ",

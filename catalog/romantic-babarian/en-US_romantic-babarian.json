@@ -1,5 +1,9 @@
 {
     "title": "Romantic Babarian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28469.jpg",
+        "alt": "romantic-babarian"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "1992-01-19",

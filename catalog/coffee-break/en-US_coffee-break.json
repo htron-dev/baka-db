@@ -1,5 +1,9 @@
 {
     "title": "Coffee Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71261.jpg",
+        "alt": "coffee-break"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "コーヒーブレイク",

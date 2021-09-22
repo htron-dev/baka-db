@@ -1,5 +1,9 @@
 {
     "title": "Oh! Toumei Ningen 21",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236085.jpg",
+        "alt": "oh-toumei-ningen-21"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "57",

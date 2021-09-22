@@ -1,5 +1,9 @@
 {
     "title": "Atashin'chi Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/27153.jpg",
+        "alt": "atashinchi-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 あたしンち",

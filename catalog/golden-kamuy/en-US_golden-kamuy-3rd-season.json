@@ -1,12 +1,16 @@
 {
     "title": "Golden Kamuy 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
+        "alt": "golden-kamuy-3rd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゴールデンカムイ",
     "start_date": "2020-10-05",
     "end_date": "2020-10-05",
     "opening_song": "\"Grey\" by FOMARE (eps 2, 4-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Grey\" by FOMARE (eps 1, 12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

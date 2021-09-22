@@ -1,5 +1,9 @@
 {
     "title": "Tatsutora!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/99713.jpg",
+        "alt": "tatsutora"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "たつとら!!",

@@ -1,5 +1,9 @@
 {
     "title": "Santa Company: Christmas no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1985/102720.jpg",
+        "alt": "santa-company-christmas-no-himitsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "サンタ・カンパニー ～クリスマスの秘密～",

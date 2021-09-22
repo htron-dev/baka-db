@@ -1,5 +1,9 @@
 {
     "title": "Kizumonogatari III: Reiketsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1084/112813.jpg",
+        "alt": "kizumonogatari-iii-reiketsu-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "傷物語〈Ⅲ 冷血篇〉",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Monogatari_(series"
+            "link": "https://en.wikipedia.org/wiki/Monogatari_%28series%29"
         }
     ]
 }

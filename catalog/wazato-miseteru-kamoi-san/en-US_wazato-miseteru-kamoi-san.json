@@ -1,5 +1,9 @@
 {
     "title": "Wazato Miseteru? Kamoi-san.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217923.jpg",
+        "alt": "wazato-miseteru-kamoi-san"
+    },
     "type": "manga",
     "original_name": "わざと見せてる？加茂井さん。",
     "start_date": "2018-05-25",

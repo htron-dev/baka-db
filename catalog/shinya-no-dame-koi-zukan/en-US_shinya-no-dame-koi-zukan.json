@@ -1,5 +1,9 @@
 {
     "title": "Shinya no Dame Koi Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191312.jpg",
+        "alt": "shinya-no-dame-koi-zukan"
+    },
     "type": "manga",
     "original_name": "深夜のダメ恋図鑑",
     "start_date": "2015-10-08",

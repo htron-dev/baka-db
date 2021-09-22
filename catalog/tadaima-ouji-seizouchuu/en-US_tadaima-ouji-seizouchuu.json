@@ -1,5 +1,9 @@
 {
     "title": "Tadaima, Ouji Seizouchuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168430.jpg",
+        "alt": "tadaima-ouji-seizouchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

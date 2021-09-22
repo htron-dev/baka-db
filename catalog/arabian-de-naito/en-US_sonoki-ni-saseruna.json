@@ -1,5 +1,9 @@
 {
     "title": "Sonoki ni Saseruna!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16786.jpg",
+        "alt": "sonoki-ni-saseruna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/29742.jpg",
+        "alt": "blade"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ブレイド",

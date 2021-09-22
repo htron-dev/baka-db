@@ -1,5 +1,9 @@
 {
     "title": "Mouryo Kiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39947.jpg",
+        "alt": "mouryo-kiden"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro no Trotsky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166517.jpg",
+        "alt": "nijiiro-no-trotsky"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "65",

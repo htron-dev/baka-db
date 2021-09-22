@@ -1,5 +1,9 @@
 {
     "title": "Cook Doppo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163810.jpg",
+        "alt": "cook-doppo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1258/90343.jpg",
+        "alt": "dragon-ball-z-movie-01-ora-no-gohan-wo-kaese"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラゴンボール Z オラの悟飯をかえせッ!!",

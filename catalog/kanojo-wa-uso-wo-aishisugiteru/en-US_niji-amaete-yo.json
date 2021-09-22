@@ -1,5 +1,9 @@
 {
     "title": "Niji, Amaete yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203947.jpg",
+        "alt": "niji-amaete-yo"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "39",

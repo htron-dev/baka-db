@@ -1,5 +1,9 @@
 {
     "title": "Kakushigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219888.jpg",
+        "alt": "kakushigoto"
+    },
     "type": "manga",
     "original_name": "か「」く「」し「」ご「」と「",
     "start_date": "2018-05-21",

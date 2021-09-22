@@ -1,5 +1,9 @@
 {
     "title": "Kamisama ni Natta Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245158.jpg",
+        "alt": "kamisama-ni-natta-hi"
+    },
     "type": "manga",
     "original_name": "神様になった日",
     "start_date": "2020-11-14",

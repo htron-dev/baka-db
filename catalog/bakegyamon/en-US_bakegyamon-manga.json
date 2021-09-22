@@ -1,5 +1,9 @@
 {
     "title": "Bakegyamon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208801.jpg",
+        "alt": "bakegyamon"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "51",

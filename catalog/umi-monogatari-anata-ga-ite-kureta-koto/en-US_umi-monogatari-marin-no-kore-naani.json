@@ -1,5 +1,9 @@
 {
     "title": "Umi Monogatari: Marin no Kore Naani?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/47909.jpg",
+        "alt": "umi-monogatari-marin-no-kore-naani"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "うみものがたり マリンのこれなぁに？",

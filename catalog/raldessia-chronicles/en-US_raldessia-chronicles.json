@@ -1,5 +1,9 @@
 {
     "title": "Raldessia Chronicles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/77367.jpg",
+        "alt": "raldessia-chronicles"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ラルディシア クロニクル",

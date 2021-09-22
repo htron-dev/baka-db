@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Deatte kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227407.jpg",
+        "alt": "kimi-to-deatte-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君と出会ってから",

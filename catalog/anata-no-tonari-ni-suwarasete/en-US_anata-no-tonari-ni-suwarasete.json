@@ -1,5 +1,9 @@
 {
     "title": "Anata no Tonari ni Suwarasete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152533.jpg",
+        "alt": "anata-no-tonari-ni-suwarasete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

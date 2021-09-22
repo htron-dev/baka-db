@@ -1,5 +1,9 @@
 {
     "title": "Nekome Kozou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76165.jpg",
+        "alt": "nekome-kozou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

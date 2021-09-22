@@ -1,5 +1,9 @@
 {
     "title": "Memesis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209960.jpg",
+        "alt": "memesis"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "45",

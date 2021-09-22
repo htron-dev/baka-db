@@ -1,5 +1,9 @@
 {
     "title": "Sakasama no Patema",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/52415.jpg",
+        "alt": "sakasama-no-patema"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "サカサマのパテマ",

@@ -1,5 +1,9 @@
 {
     "title": "Climber",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1682/115417.jpg",
+        "alt": "climber"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "CLIMBER",

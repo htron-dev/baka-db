@@ -1,5 +1,9 @@
 {
     "title": "Nanahikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26529.jpg",
+        "alt": "nanahikari"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

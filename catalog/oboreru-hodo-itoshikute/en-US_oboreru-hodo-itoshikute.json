@@ -1,5 +1,9 @@
 {
     "title": "Oboreru hodo Itoshikute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118433.jpg",
+        "alt": "oboreru-hodo-itoshikute"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "溺れるほど愛しくて",

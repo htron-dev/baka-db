@@ -1,5 +1,9 @@
 {
     "title": "Kill Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133637.jpg",
+        "alt": "kill-love"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キル・ラブ",

@@ -1,12 +1,16 @@
 {
     "title": "Dr. Slump",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/5297.jpg",
+        "alt": "dr-slump"
+    },
     "type": "tv-serie",
     "episodes": "74",
     "original_name": "ドクタースランプ",
     "start_date": "1997-11-26",
     "end_date": "1997-11-26",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kao Dekaai\" by Funta (eps 1-28)",
+    "ending_song": "#1: \"Hanage ga Chotto Tobidashiteiru\" by Funta (eps 1-33)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

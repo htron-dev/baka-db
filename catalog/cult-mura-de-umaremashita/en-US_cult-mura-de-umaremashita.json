@@ -1,5 +1,9 @@
 {
     "title": "Cult Mura de Umaremashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229947.jpg",
+        "alt": "cult-mura-de-umaremashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

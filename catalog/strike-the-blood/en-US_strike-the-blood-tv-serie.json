@@ -1,12 +1,16 @@
 {
     "title": "Strike the Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/56163.jpg",
+        "alt": "strike-the-blood"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ストライク・ザ・ブラッド",
     "start_date": "2013-10-04",
     "end_date": "2013-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Strike the Blood (ストライク・ザ・ブラッド)\" by Kishida Kyoudan & The Akeboshi Rockets (eps 2-7, 9-13)",
+    "ending_song": "#1: \"Strike the Blood (ストライク・ザ・ブラッド)\" by Kishida Kyoudan & The Akeboshi Rockets (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

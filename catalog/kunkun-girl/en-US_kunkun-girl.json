@@ -1,5 +1,9 @@
 {
     "title": "Kunkun Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198601.jpg",
+        "alt": "kunkun-girl"
+    },
     "type": "manga",
     "original_name": "くんくんガール",
     "start_date": "2016-06-24",

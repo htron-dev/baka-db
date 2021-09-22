@@ -1,5 +1,9 @@
 {
     "title": "Joshikai Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182278.jpg",
+        "alt": "joshikai-quest"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

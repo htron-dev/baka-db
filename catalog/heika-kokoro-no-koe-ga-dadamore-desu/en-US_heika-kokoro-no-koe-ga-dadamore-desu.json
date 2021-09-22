@@ -1,5 +1,9 @@
 {
     "title": "Heika, Kokoro no Koe ga Dadamore desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243843.jpg",
+        "alt": "heika-kokoro-no-koe-ga-dadamore-desu"
+    },
     "type": "manga",
     "original_name": "陛下、心の声がだだ漏れです！",
     "start_date": "2020-12-28",

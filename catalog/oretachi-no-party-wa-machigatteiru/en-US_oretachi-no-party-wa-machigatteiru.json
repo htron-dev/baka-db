@@ -1,5 +1,9 @@
 {
     "title": "Oretachi no Party wa Machigatteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194592.jpg",
+        "alt": "oretachi-no-party-wa-machigatteiru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

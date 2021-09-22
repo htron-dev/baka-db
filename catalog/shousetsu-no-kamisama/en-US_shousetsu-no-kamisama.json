@@ -1,5 +1,9 @@
 {
     "title": "Shousetsu no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228198.jpg",
+        "alt": "shousetsu-no-kamisama"
+    },
     "type": "manga",
     "original_name": "小説の神様",
     "start_date": "2019-10-19",

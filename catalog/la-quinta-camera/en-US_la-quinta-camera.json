@@ -1,5 +1,9 @@
 {
     "title": "La Quinta Camera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32760.jpg",
+        "alt": "la-quinta-camera"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

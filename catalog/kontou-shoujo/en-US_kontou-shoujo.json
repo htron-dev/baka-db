@@ -1,5 +1,9 @@
 {
     "title": "Kontou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192204.jpg",
+        "alt": "kontou-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

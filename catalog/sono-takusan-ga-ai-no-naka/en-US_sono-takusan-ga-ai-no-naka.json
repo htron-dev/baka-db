@@ -1,5 +1,9 @@
 {
     "title": "Sono Takusan ga Ai no Naka.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225919.jpg",
+        "alt": "sono-takusan-ga-ai-no-naka"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

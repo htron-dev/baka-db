@@ -1,5 +1,9 @@
 {
     "title": "Bari Haken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151819.jpg",
+        "alt": "bari-haken"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

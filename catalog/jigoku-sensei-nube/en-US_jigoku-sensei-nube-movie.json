@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Sensei Nube (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/21280.jpg",
+        "alt": "jigoku-sensei-nube-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "地獄先生ぬ〜べ〜",

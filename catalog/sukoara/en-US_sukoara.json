@@ -1,5 +1,9 @@
 {
     "title": "Sukoara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204414.jpg",
+        "alt": "sukoara"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "すこあら！",

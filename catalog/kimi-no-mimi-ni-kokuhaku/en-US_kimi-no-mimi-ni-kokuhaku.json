@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Mimi ni Kokuhaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37185.jpg",
+        "alt": "kimi-no-mimi-ni-kokuhaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

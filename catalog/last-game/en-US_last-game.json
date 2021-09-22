@@ -1,5 +1,9 @@
 {
     "title": "Last Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/65713.jpg",
+        "alt": "last-game"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "66",

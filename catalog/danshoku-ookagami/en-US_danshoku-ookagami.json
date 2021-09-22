@@ -1,5 +1,9 @@
 {
     "title": "Danshoku Ookagami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196406.jpg",
+        "alt": "danshoku-ookagami"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

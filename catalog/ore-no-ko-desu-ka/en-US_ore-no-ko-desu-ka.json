@@ -1,5 +1,9 @@
 {
     "title": "Ore no Ko desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202145.jpg",
+        "alt": "ore-no-ko-desu-ka"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "16",

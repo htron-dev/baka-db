@@ -1,5 +1,9 @@
 {
     "title": "Sensou Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151709.jpg",
+        "alt": "sensou-gekijou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "56",

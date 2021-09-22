@@ -1,5 +1,9 @@
 {
     "title": "Se no Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169498.jpg",
+        "alt": "se-no-me"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,12 +1,16 @@
 {
     "title": "Kemono Friends 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1015/100471.jpg",
+        "alt": "kemono-friends-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "けものフレンズ 2",
     "start_date": "2019-01-15",
     "end_date": "2019-01-15",
     "opening_song": "\"Notteke! Japari Beat (乗ってけ！ジャパリビート)\" by Doubutsu Biscuits [Common Raccoon (Saki Ono), Serval (Yuka Ozaki), Fennec (Kana Monomiya)] x",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hoshi wo Tsunagete (星をつなげて)\" by Gothic×Luck (eps 1-5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

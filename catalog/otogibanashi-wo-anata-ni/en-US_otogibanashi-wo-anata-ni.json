@@ -1,5 +1,9 @@
 {
     "title": "Otogibanashi wo Anata ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16767.jpg",
+        "alt": "otogibanashi-wo-anata-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

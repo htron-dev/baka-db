@@ -1,5 +1,9 @@
 {
     "title": "Tasogare, Kimi ni Ai ni Iku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180862.jpg",
+        "alt": "tasogare-kimi-ni-ai-ni-iku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

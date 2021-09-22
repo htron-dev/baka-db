@@ -1,5 +1,9 @@
 {
     "title": "Heroman Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/44081.jpg",
+        "alt": "heroman-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ヒーローマン",

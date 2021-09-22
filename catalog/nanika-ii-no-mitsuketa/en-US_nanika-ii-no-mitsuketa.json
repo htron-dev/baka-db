@@ -1,5 +1,9 @@
 {
     "title": "Nanika Ii no Mitsuketa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154951.jpg",
+        "alt": "nanika-ii-no-mitsuketa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

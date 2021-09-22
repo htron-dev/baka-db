@@ -1,5 +1,9 @@
 {
     "title": "The iDOLM@STER 2 Nemuri Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/71461.jpg",
+        "alt": "the-i-dolm-ster-2-nemuri-hime"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

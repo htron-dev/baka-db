@@ -1,5 +1,9 @@
 {
     "title": "Nagai Go Ecchi Manga Selection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11932.jpg",
+        "alt": "nagai-go-ecchi-manga-selection"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "永井豪エッチまんがセレクション",

@@ -1,5 +1,9 @@
 {
     "title": "Majoou-sama Bakutan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178559.jpg",
+        "alt": "majoou-sama-bakutan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

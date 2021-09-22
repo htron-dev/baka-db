@@ -1,10 +1,14 @@
 {
     "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1215/103351.jpg",
+        "alt": "ginga-eiyuu-densetsu-die-neue-these-seiran-2"
+    },
     "type": "movie",
     "episodes": "4",
     "original_name": "銀河英雄伝説 Die Neue These 星乱 第 2 章",
     "start_date": "2019-10-25",
-    "opening_song": "\"Binary Star\" by SawanoHiroyuki[nZk]",
+    "opening_song": "\"Binary Star\" by SawanoHiroyuki[nZk]:Uru",
     "ending_song": "\"Hikari no Hoshi\" by ELISA (TV Broadcast)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

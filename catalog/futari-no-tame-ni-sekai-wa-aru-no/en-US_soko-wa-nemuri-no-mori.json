@@ -1,5 +1,9 @@
 {
     "title": "Soko wa Nemuri no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7765.jpg",
+        "alt": "soko-wa-nemuri-no-mori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Kairaku no Sono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/71847.jpg",
+        "alt": "kairaku-no-sono"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "快楽の園",

@@ -1,5 +1,9 @@
 {
     "title": "Bokura wo Shihai suru Kotoba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150821.jpg",
+        "alt": "bokura-wo-shihai-suru-kotoba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

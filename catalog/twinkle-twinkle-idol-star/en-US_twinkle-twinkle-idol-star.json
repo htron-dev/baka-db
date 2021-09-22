@@ -1,5 +1,9 @@
 {
     "title": "Twinkle Twinkle Idol Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38275.jpg",
+        "alt": "twinkle-twinkle-idol-star"
+    },
     "type": "manga",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Spinoza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205532.jpg",
+        "alt": "spinoza"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

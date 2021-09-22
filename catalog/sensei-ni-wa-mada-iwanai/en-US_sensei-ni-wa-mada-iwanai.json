@@ -1,5 +1,9 @@
 {
     "title": "Sensei ni wa Mada Iwanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236288.jpg",
+        "alt": "sensei-ni-wa-mada-iwanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

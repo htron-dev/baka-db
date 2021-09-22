@@ -1,5 +1,9 @@
 {
     "title": "Lost Universe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37538.jpg",
+        "alt": "lost-universe"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

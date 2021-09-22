@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Kouzoushiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150095.jpg",
+        "alt": "hatsukoi-kouzoushiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Captain Tsubasa Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1472/104079.jpg",
+        "alt": "captain-tsubasa-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "キャプテン翼",

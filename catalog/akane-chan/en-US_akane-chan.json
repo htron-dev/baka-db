@@ -1,5 +1,9 @@
 {
     "title": "Akane-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/72149.jpg",
+        "alt": "akane-chan"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "あかねちゃん",

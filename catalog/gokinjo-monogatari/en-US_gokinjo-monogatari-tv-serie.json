@@ -1,12 +1,16 @@
 {
     "title": "Gokinjo Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/18195.jpg",
+        "alt": "gokinjo-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ご近所物語",
     "start_date": "1995-09-10",
     "end_date": "1995-09-10",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: He.Ro.I.Ne\" by Rumi Shishido",
+    "ending_song": "#01: \"Don't You Know?!\" by Rumi Shishido (eps 1-28)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

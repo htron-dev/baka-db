@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Vector",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79517.jpg",
+        "alt": "koisuru-vector"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋するベクトル",

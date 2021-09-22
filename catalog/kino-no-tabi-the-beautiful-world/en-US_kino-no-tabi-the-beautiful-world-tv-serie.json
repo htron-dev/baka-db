@@ -1,5 +1,9 @@
 {
     "title": "Kino no Tabi: The Beautiful World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1763/95397.jpg",
+        "alt": "kino-no-tabi-the-beautiful-world"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "キノの旅 -the Beautiful World-",

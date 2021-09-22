@@ -1,5 +1,9 @@
 {
     "title": "Nanako Kaitai Shinsho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81251.jpg",
+        "alt": "nanako-kaitai-shinsho"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "菜々子解体診書",

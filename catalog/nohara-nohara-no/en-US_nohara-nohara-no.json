@@ -1,5 +1,9 @@
 {
     "title": "Nohara Nohara no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83495.jpg",
+        "alt": "nohara-nohara-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

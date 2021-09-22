@@ -1,5 +1,9 @@
 {
     "title": "Rakuen no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79337.jpg",
+        "alt": "rakuen-no-jouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

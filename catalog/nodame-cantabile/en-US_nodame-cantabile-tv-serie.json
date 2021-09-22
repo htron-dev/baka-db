@@ -1,12 +1,16 @@
 {
     "title": "Nodame Cantabile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/11986.jpg",
+        "alt": "nodame-cantabile"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "のだめカンタービレ",
     "start_date": "2007-01-12",
     "end_date": "2007-01-12",
     "opening_song": "\"Allegro Cantabile Sound\" by SUEMITSU & THE SUEMITH",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Konna ni Chikaku de...\" by Crystal Kay (eps 01-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

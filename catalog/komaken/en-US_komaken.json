@@ -1,5 +1,9 @@
 {
     "title": "Komaken.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/66769.jpg",
+        "alt": "komaken"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "こまけん。",

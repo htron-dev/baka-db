@@ -1,5 +1,9 @@
 {
     "title": "Yokoo's 3 Animation Films",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/23848.jpg",
+        "alt": "yokoos-3-animation-films"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "横尾忠則 アニメーション集 64-65",

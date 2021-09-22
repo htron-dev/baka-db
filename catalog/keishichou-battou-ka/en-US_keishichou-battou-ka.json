@@ -1,5 +1,9 @@
 {
     "title": "Keishichou Battou-ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171631.jpg",
+        "alt": "keishichou-battou-ka"
+    },
     "type": "manga",
     "original_name": "警視庁抜刀課",
     "start_date": "2015-07-30",

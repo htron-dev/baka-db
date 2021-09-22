@@ -1,5 +1,9 @@
 {
     "title": "Hanayasha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229475.jpg",
+        "alt": "hanayasha"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "72",

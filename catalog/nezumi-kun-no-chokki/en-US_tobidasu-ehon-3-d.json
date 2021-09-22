@@ -1,5 +1,9 @@
 {
     "title": "Tobidasu Ehon 3D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/63769.jpg",
+        "alt": "tobidasu-ehon-3-d"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "とびだす絵本 3D",

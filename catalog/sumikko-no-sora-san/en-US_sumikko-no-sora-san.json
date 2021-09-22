@@ -1,5 +1,9 @@
 {
     "title": "Sumikko no Sora-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165771.jpg",
+        "alt": "sumikko-no-sora-san"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "56",

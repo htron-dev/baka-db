@@ -1,5 +1,9 @@
 {
     "title": "Furo Girl!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215158.jpg",
+        "alt": "furo-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "45",

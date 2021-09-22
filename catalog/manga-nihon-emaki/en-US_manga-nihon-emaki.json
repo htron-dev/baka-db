@@ -1,11 +1,15 @@
 {
     "title": "Manga Nihon Emaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/27280.jpg",
+        "alt": "manga-nihon-emaki"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "まんが日本絵巻",
     "start_date": "1977-10-05",
     "end_date": "1977-10-05",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Nanjara Monjara\" by Yoshiko Fujita",
     "rating": "G - All Ages",
     "tags": [
         "historical"

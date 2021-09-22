@@ -1,5 +1,9 @@
 {
     "title": "Bite-Choicar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1656/106927.jpg",
+        "alt": "bite-choicar"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "바이트 초이카",

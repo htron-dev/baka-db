@@ -1,5 +1,9 @@
 {
     "title": "Slow Loop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221723.jpg",
+        "alt": "slow-loop"
+    },
     "type": "manga",
     "original_name": "スローループ",
     "start_date": "2018-04-24",

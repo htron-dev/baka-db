@@ -1,5 +1,9 @@
 {
     "title": "Akairo Kousaten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200086.jpg",
+        "alt": "akairo-kousaten"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

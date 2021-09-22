@@ -1,5 +1,9 @@
 {
     "title": "Nanatsuiro★Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18817.jpg",
+        "alt": "nanatsuiro★-drops"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ななついろ ★ ドロップス",

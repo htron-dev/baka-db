@@ -1,5 +1,9 @@
 {
     "title": "Hana to Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/65975.jpg",
+        "alt": "hana-to-hoshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

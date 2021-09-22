@@ -1,5 +1,9 @@
 {
     "title": "Oto Miya!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36289.jpg",
+        "alt": "oto-miya"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "おとミヤ!",
@@ -13,7 +17,6 @@
         "Nagano",
         "Akane (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

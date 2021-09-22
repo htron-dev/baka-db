@@ -1,5 +1,9 @@
 {
     "title": "Hyakunen Senki: Euro Historia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155611.jpg",
+        "alt": "hyakunen-senki-euro-historia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

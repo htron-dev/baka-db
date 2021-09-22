@@ -1,5 +1,9 @@
 {
     "title": "Hello, Pi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19426.jpg",
+        "alt": "hello-pi"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "55",

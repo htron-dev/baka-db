@@ -1,5 +1,9 @@
 {
     "title": "I''s Pure Bonus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1235.jpg",
+        "alt": "is-pure-bonus"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "アイズピュア Bonus",

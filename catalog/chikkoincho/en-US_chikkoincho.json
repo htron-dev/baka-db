@@ -1,5 +1,9 @@
 {
     "title": "Chikkoincho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243943.jpg",
+        "alt": "chikkoincho"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "36",

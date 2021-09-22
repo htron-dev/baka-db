@@ -1,5 +1,9 @@
 {
     "title": "Daishou no Guiltaon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161663.jpg",
+        "alt": "daishou-no-guiltaon"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Mao Marimo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79185.jpg",
+        "alt": "mao-marimo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

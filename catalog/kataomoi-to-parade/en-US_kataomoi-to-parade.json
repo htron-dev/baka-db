@@ -1,5 +1,9 @@
 {
     "title": "Kataomoi to Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190551.jpg",
+        "alt": "kataomoi-to-parade"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

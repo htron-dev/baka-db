@@ -1,5 +1,9 @@
 {
     "title": "Baka to Test to Shoukanjuu Mini Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/88311.jpg",
+        "alt": "baka-to-test-to-shoukanjuu-mini-anime"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "バカとテストと召喚獣 ミニアニメ",

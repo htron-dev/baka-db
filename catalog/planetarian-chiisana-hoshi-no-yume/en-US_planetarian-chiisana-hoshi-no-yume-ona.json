@@ -1,11 +1,15 @@
 {
     "title": "Planetarian: Chiisana Hoshi no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/80753.jpg",
+        "alt": "planetarian-chiisana-hoshi-no-yume"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "planetarian ～ちいさなほしのゆめ～",
     "start_date": "2016-07-07",
     "end_date": "2016-07-07",
-    "ending_song": "#1",
+    "ending_song": "#1: “Twinkle Starlight” by Sayaka Sasaki (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

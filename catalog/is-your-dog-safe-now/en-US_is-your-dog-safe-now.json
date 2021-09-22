@@ -1,5 +1,9 @@
 {
     "title": "Is Your Dog Safe Now?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76593.jpg",
+        "alt": "is-your-dog-safe-now"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "지금 당신의 개는 안전합니까？",

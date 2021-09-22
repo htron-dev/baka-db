@@ -1,5 +1,9 @@
 {
     "title": "AkuMusu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194179.jpg",
+        "alt": "aku-musu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Crazy Love Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152306.jpg",
+        "alt": "crazy-love-story"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "44",

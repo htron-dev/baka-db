@@ -1,5 +1,9 @@
 {
     "title": "Meteo Emblem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23415.jpg",
+        "alt": "meteo-emblem"
+    },
     "type": "manhwa",
     "volumes": "2",
     "original_name": "メテオエンブレム",

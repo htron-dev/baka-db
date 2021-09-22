@@ -1,5 +1,9 @@
 {
     "title": "Mitsuiro Pancake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11384.jpg",
+        "alt": "mitsuiro-pancake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

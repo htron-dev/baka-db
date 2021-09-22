@@ -1,5 +1,9 @@
 {
     "title": "Koutei Heika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183055.jpg",
+        "alt": "koutei-heika"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "19",

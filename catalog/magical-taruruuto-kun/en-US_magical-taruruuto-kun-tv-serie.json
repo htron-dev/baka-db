@@ -1,12 +1,16 @@
 {
     "title": "Magical★Taruruuto-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/17853.jpg",
+        "alt": "magical★-taruruuto-kun"
+    },
     "type": "tv-serie",
     "episodes": "87",
     "original_name": "まじかる ☆ タルるートくん",
     "start_date": "1990-09-09",
     "end_date": "1990-09-09",
     "opening_song": "\"Ore Taruruuto\" by Tarako",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi to sekai seifu!?\" by Midori Akiyama",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Vlad Drăculea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233776.jpg",
+        "alt": "vlad-draculea"
+    },
     "type": "manga",
     "original_name": "ヴラド・ドラクラ",
     "start_date": "2017-05-15",

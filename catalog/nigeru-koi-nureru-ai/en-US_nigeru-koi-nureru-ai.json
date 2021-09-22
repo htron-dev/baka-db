@@ -1,5 +1,9 @@
 {
     "title": "Nigeru Koi, Nureru Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194764.jpg",
+        "alt": "nigeru-koi-nureru-ai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "逃げる恋、濡れる愛",

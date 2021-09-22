@@ -1,5 +1,9 @@
 {
     "title": "Hitodenashi no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20555.jpg",
+        "alt": "hitodenashi-no-koi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

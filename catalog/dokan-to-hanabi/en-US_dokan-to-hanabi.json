@@ -1,5 +1,9 @@
 {
     "title": "Dokan to Hanabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201599.jpg",
+        "alt": "dokan-to-hanabi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

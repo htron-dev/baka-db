@@ -1,5 +1,9 @@
 {
     "title": "Harukana Receive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190034.jpg",
+        "alt": "harukana-receive"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "62",

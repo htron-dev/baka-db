@@ -1,5 +1,9 @@
 {
     "title": "HaruChika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170383.jpg",
+        "alt": "haru-chika"
+    },
     "type": "manga",
     "original_name": "ハルチカ",
     "start_date": "2015-10-26",

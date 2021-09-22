@@ -1,5 +1,9 @@
 {
     "title": "Aku Yori Aku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199974.jpg",
+        "alt": "aku-yori-aku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

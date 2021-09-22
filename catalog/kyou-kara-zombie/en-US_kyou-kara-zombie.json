@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Zombie!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204410.jpg",
+        "alt": "kyou-kara-zombie"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

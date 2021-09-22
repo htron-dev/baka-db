@@ -1,5 +1,9 @@
 {
     "title": "Shiawase ni Narunosa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44539.jpg",
+        "alt": "shiawase-ni-narunosa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

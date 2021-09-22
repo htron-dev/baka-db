@@ -1,5 +1,9 @@
 {
     "title": "Seitokai Yakuindomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135853.jpg",
+        "alt": "seitokai-yakuindomo"
+    },
     "type": "manga",
     "original_name": "生徒会役員共",
     "start_date": "2007-05-19",

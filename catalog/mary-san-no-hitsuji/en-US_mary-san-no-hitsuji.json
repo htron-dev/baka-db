@@ -1,5 +1,9 @@
 {
     "title": "Mary-san no Hitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10257.jpg",
+        "alt": "mary-san-no-hitsuji"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "めりーさんの羊",

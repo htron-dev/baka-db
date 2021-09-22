@@ -1,5 +1,9 @@
 {
     "title": "Akarui Sekai Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188911.jpg",
+        "alt": "akarui-sekai-keikaku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

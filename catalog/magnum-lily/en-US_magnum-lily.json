@@ -1,5 +1,9 @@
 {
     "title": "Magnum Lily",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203935.jpg",
+        "alt": "magnum-lily"
+    },
     "type": "manga",
     "original_name": "マグナムリリィ",
     "start_date": "2017-11-19",

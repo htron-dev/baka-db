@@ -1,5 +1,9 @@
 {
     "title": "Furachi na Kagai Kugyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/31283.jpg",
+        "alt": "furachi-na-kagai-kugyou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "フラチな課外・授業",

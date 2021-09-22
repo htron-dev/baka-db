@@ -1,5 +1,9 @@
 {
     "title": "Zettai Kareshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185981.jpg",
+        "alt": "zettai-kareshi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

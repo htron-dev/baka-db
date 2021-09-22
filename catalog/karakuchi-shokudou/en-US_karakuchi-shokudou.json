@@ -1,5 +1,9 @@
 {
     "title": "Karakuchi Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239369.jpg",
+        "alt": "karakuchi-shokudou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

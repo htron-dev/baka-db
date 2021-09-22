@@ -1,5 +1,9 @@
 {
     "title": "Ci Xing Qishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1397/115502.jpg",
+        "alt": "ci-xing-qishi"
+    },
     "type": "tv-serie",
     "episodes": "78",
     "original_name": "磁星骑士",

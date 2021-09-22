@@ -1,5 +1,9 @@
 {
     "title": "Caramel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65263.jpg",
+        "alt": "caramel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Kamattechan to Gamer Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232437.jpg",
+        "alt": "kamattechan-to-gamer-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

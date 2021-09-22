@@ -1,5 +1,9 @@
 {
     "title": "Hanasaka Doori no Hitobito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29569.jpg",
+        "alt": "hanasaka-doori-no-hitobito"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "花咲通りの人々",

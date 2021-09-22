@@ -1,5 +1,9 @@
 {
     "title": "Dragon, Ie wo Kau.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1876/114021.jpg",
+        "alt": "dragon-ie-wo-kau"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ドラゴン、家を買う。",

@@ -1,5 +1,9 @@
 {
     "title": "Yowai Mushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/68995.jpg",
+        "alt": "yowai-mushi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "弱い虫",

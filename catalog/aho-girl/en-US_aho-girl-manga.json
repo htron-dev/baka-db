@@ -1,5 +1,9 @@
 {
     "title": "Aho Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184551.jpg",
+        "alt": "aho-girl"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "155",

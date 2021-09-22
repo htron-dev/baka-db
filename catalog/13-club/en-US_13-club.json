@@ -1,5 +1,9 @@
 {
     "title": "13 Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30313.jpg",
+        "alt": "13-club"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

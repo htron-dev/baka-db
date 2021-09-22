@@ -1,5 +1,9 @@
 {
     "title": "Seishun wa Juujuu da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203751.jpg",
+        "alt": "seishun-wa-juujuu-da"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

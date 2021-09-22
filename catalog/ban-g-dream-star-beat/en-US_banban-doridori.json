@@ -1,5 +1,9 @@
 {
     "title": "Banban Doridori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230672.jpg",
+        "alt": "banban-doridori"
+    },
     "type": "manga",
     "original_name": "バンバンドリドリ",
     "start_date": "2017-06-15",

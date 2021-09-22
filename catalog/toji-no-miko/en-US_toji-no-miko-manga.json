@@ -1,5 +1,9 @@
 {
     "title": "Toji no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204840.jpg",
+        "alt": "toji-no-miko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

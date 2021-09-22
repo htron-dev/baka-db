@@ -1,5 +1,9 @@
 {
     "title": "Parno Graffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227961.jpg",
+        "alt": "parno-graffiti"
+    },
     "type": "manga",
     "original_name": "パルノグラフィティ",
     "start_date": "2019-09-25",

@@ -1,5 +1,9 @@
 {
     "title": "Dejiko no Champion Cup Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244140.jpg",
+        "alt": "dejiko-no-champion-cup-gekijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

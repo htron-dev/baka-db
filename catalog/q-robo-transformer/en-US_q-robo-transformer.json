@@ -1,5 +1,9 @@
 {
     "title": "Q-Robo Transformer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35683.jpg",
+        "alt": "q-robo-transformer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

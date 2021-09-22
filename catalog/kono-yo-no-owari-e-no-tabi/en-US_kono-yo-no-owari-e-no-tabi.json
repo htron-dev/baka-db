@@ -1,5 +1,9 @@
 {
     "title": "Kono Yo no Owari e no Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31600.jpg",
+        "alt": "kono-yo-no-owari-e-no-tabi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

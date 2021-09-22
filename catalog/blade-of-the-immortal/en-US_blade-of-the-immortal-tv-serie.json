@@ -1,5 +1,9 @@
 {
     "title": "Blade of the Immortal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74074.jpg",
+        "alt": "blade-of-the-immortal"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "無限の住人",

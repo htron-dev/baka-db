@@ -1,5 +1,9 @@
 {
     "title": "Famima!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203973.jpg",
+        "alt": "famima"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "64",

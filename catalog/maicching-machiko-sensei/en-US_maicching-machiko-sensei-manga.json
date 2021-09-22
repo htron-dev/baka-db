@@ -1,5 +1,9 @@
 {
     "title": "Maicching Machiko-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182320.jpg",
+        "alt": "maicching-machiko-sensei"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "まいっちんぐマチコ先生",

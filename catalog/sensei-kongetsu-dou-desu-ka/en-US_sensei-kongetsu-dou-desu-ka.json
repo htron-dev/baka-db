@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Kongetsu Dou desu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245941.jpg",
+        "alt": "sensei-kongetsu-dou-desu-ka"
+    },
     "type": "manga",
     "original_name": "先生、今月どうですか",
     "start_date": "2020-08-12",

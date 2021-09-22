@@ -1,5 +1,9 @@
 {
     "title": "Quiz Tokiko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1313/91294.jpg",
+        "alt": "quiz-tokiko-san"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "クイズとき子さん",

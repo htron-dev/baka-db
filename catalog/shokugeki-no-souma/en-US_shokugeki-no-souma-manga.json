@@ -1,5 +1,9 @@
 {
     "title": "Shokugeki no Souma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/115803.jpg",
+        "alt": "shokugeki-no-souma"
+    },
     "type": "manga",
     "volumes": "36",
     "chapters": "325",

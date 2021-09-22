@@ -1,5 +1,9 @@
 {
     "title": "Shion no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/74050.jpg",
+        "alt": "shion-no-ou"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "しおんの王 - The Flowers of Hard Blood",

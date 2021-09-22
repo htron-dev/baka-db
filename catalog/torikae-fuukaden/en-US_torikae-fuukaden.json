@@ -1,5 +1,9 @@
 {
     "title": "Torikae Fuukaden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81468.jpg",
+        "alt": "torikae-fuukaden"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "とりかえ風花伝",

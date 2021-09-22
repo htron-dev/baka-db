@@ -1,5 +1,9 @@
 {
     "title": "Natsume-senpai ni Semarareru Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247860.jpg",
+        "alt": "natsume-senpai-ni-semarareru-hibi"
+    },
     "type": "manga",
     "original_name": "棗センパイに迫られる日々",
     "start_date": "2020-04-24",

@@ -1,5 +1,9 @@
 {
     "title": "Toumei no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235855.jpg",
+        "alt": "toumei-no-kimi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Complex Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139583.jpg",
+        "alt": "complex-age"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "53",

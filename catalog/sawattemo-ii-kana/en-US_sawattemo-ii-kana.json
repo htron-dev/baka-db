@@ -1,5 +1,9 @@
 {
     "title": "Sawattemo Ii kana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39439.jpg",
+        "alt": "sawattemo-ii-kana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

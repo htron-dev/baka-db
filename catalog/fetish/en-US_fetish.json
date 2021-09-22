@@ -1,5 +1,9 @@
 {
     "title": "Fetish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180949.jpg",
+        "alt": "fetish"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

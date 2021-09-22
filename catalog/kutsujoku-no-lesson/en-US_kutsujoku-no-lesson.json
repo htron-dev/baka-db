@@ -1,5 +1,9 @@
 {
     "title": "Kutsujoku no Lesson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247275.jpg",
+        "alt": "kutsujoku-no-lesson"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "屈辱のレッスン",

@@ -1,5 +1,9 @@
 {
     "title": "Junjou Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171329.jpg",
+        "alt": "junjou-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

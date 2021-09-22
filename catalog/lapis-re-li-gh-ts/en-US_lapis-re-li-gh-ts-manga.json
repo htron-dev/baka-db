@@ -1,5 +1,9 @@
 {
     "title": "Lapis Re:LiGHTs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232186.jpg",
+        "alt": "lapis-re-li-gh-ts"
+    },
     "type": "manga",
     "original_name": "ラピスリライツ",
     "start_date": "2019-10-26",

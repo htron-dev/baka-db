@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama ga Yatte Kita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20684.jpg",
+        "alt": "ouji-sama-ga-yatte-kita"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "14",

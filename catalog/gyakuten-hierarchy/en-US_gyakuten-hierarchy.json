@@ -1,5 +1,9 @@
 {
     "title": "Gyakuten Hierarchy!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171782.jpg",
+        "alt": "gyakuten-hierarchy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

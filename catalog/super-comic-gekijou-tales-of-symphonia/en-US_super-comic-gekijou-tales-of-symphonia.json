@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: Tales of Symphonia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151592.jpg",
+        "alt": "super-comic-gekijou-tales-of-symphonia"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "スーパーコミック劇場 テイルズ オブ シンフォニア",

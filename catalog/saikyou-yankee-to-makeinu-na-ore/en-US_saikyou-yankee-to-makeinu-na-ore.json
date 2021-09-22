@@ -1,5 +1,9 @@
 {
     "title": "Saikyou Yankee to Makeinu na Ore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223111.jpg",
+        "alt": "saikyou-yankee-to-makeinu-na-ore"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Negiho (Ito) Bun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172894.jpg",
+        "alt": "negiho-ito-bun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

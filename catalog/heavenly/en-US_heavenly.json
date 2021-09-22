@@ -1,5 +1,9 @@
 {
     "title": "Heavenly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34207.jpg",
+        "alt": "heavenly"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ヘヴンリィ heavenly",

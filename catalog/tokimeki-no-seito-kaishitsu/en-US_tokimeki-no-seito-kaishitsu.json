@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki no Seito Kaishitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2218.jpg",
+        "alt": "tokimeki-no-seito-kaishitsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Oh! Toumei Ningen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236084.jpg",
+        "alt": "oh-toumei-ningen"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "64",

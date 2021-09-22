@@ -1,5 +1,9 @@
 {
     "title": "Hope",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152022.jpg",
+        "alt": "hope"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "22",

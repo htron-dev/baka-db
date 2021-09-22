@@ -1,5 +1,9 @@
 {
     "title": "Wagamama na Jewel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15149.jpg",
+        "alt": "wagamama-na-jewel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

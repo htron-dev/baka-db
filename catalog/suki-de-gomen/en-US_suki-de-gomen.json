@@ -1,5 +1,9 @@
 {
     "title": "Suki de Gomen.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207215.jpg",
+        "alt": "suki-de-gomen"
+    },
     "type": "manga",
     "original_name": "好きでごめん。",
     "start_date": "2016-11-01",

@@ -1,5 +1,9 @@
 {
     "title": "Osuteki Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5952.jpg",
+        "alt": "osuteki-darling"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

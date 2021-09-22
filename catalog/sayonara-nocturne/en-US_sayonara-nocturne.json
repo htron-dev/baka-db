@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Nocturne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173439.jpg",
+        "alt": "sayonara-nocturne"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

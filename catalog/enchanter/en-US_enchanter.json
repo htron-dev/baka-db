@@ -1,5 +1,9 @@
 {
     "title": "Enchanter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204027.jpg",
+        "alt": "enchanter"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "74",

@@ -1,5 +1,9 @@
 {
     "title": "Specialite wo Douzo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227747.jpg",
+        "alt": "specialite-wo-douzo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

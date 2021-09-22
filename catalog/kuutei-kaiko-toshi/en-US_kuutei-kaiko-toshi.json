@@ -1,5 +1,9 @@
 {
     "title": "Kuutei Kaiko Toshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146557.jpg",
+        "alt": "kuutei-kaiko-toshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

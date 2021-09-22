@@ -1,5 +1,9 @@
 {
     "title": "Violence Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/197841.jpg",
+        "alt": "violence-jack"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "48",

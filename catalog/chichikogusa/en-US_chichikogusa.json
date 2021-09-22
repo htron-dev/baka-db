@@ -1,5 +1,9 @@
 {
     "title": "Chichikogusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96283.jpg",
+        "alt": "chichikogusa"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "49",

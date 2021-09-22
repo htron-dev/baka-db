@@ -1,5 +1,9 @@
 {
     "title": "Mugen no Gunkan Yamato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124815.jpg",
+        "alt": "mugen-no-gunkan-yamato"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "110",

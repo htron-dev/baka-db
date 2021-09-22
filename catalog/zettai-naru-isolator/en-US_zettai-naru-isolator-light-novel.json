@@ -1,5 +1,9 @@
 {
     "title": "Zettai naru Isolator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175191.jpg",
+        "alt": "zettai-naru-isolator"
+    },
     "type": "light-novel",
     "original_name": "絶対ナル孤独者 ≪ アイソレータ ≫",
     "start_date": "2014-06-10",

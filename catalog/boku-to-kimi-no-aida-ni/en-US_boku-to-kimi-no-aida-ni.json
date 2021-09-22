@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kimi no Aida ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202976.jpg",
+        "alt": "boku-to-kimi-no-aida-ni"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

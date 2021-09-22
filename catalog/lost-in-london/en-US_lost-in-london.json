@@ -1,5 +1,9 @@
 {
     "title": "Lost In London",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77821.jpg",
+        "alt": "lost-in-london"
+    },
     "type": "manhwa",
     "chapters": "37",
     "original_name": "로스트 인 런던",

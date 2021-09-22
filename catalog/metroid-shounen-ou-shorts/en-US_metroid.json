@@ -1,5 +1,9 @@
 {
     "title": "Metroid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153968.jpg",
+        "alt": "metroid"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

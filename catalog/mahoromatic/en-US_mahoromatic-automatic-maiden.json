@@ -1,5 +1,9 @@
 {
     "title": "Mahoromatic: Automatic Maiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/23051.jpg",
+        "alt": "mahoromatic-automatic-maiden"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "まほろまてぃっく",

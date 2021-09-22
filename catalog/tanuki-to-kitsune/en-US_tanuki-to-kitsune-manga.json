@@ -1,5 +1,9 @@
 {
     "title": "Tanuki to Kitsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186116.jpg",
+        "alt": "tanuki-to-kitsune"
+    },
     "type": "manga",
     "original_name": "タヌキとキツネ",
     "start_date": "2016-11-15",

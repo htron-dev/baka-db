@@ -1,5 +1,9 @@
 {
     "title": "Summer Affair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5921.jpg",
+        "alt": "summer-affair"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

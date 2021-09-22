@@ -1,5 +1,9 @@
 {
     "title": "Futari Solo Camp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220919.jpg",
+        "alt": "futari-solo-camp"
+    },
     "type": "manga",
     "original_name": "ふたりソロキャンプ",
     "start_date": "2018-10-09",

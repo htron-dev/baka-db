@@ -1,5 +1,9 @@
 {
     "title": "Alice in Deadly School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1614/110455.jpg",
+        "alt": "alice-in-deadly-school"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アリスインデッドリースクール",

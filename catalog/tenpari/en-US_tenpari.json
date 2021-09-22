@@ -1,5 +1,9 @@
 {
     "title": "Tenpari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73157.jpg",
+        "alt": "tenpari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "テンパリ!",

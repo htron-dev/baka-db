@@ -1,5 +1,9 @@
 {
     "title": "Planet:Valkyrie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/57001.jpg",
+        "alt": "planet-valkyrie"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "［プラネットワルキューレ］",

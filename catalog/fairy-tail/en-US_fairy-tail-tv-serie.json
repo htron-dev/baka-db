@@ -1,12 +1,16 @@
 {
     "title": "Fairy Tail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/18179.jpg",
+        "alt": "fairy-tail"
+    },
     "type": "tv-serie",
     "episodes": "175",
     "original_name": "FAIRY TAIL（フェアリーテイル）",
     "start_date": "2009-10-12",
     "end_date": "2009-10-12",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Snow fairy\" by FUNKIST (eps 1-11)",
+    "ending_song": "#01: \"Kanpeki gu~no ne (完璧ぐ〜のね)\" by Watarirouka Hashiri Tai (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

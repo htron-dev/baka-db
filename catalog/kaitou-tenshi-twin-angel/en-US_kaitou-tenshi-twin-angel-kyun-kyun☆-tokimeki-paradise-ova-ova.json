@@ -1,11 +1,15 @@
 {
     "title": "Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!! OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/67849.jpg",
+        "alt": "kaitou-tenshi-twin-angel-kyun-kyun☆-tokimeki-paradise-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "快盗天使ツインエンジェル キュンキュン ☆ ときめきパラダイス!! OVA",
     "start_date": "2014-12-28",
     "opening_song": "\"Onna no Ko tte♪ Maji☆ Koenjeru!! (オンナのコって ♪ マジ ☆ 超えんじぇる!!)\" by ave;new project feat. Saori Sakura & Rie Shirazawa",
-    "ending_song": "\"Equal=Dream (イコール=ドリーム)\" by Lilica Astadire (CV",
+    "ending_song": "\"Equal=Dream (イコール=ドリーム)\" by Lilica Astadire (CV: Tomoko Kaneda) & Kurumi Hayama (CV: Rie Kugimiya)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "magic"

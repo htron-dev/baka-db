@@ -1,5 +1,9 @@
 {
     "title": "Akuma no Himitsu♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2323.jpg",
+        "alt": "akuma-no-himitsu♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

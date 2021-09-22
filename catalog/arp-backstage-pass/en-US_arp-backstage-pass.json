@@ -1,5 +1,9 @@
 {
     "title": "ARP Backstage Pass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1559/110721.jpg",
+        "alt": "arp-backstage-pass"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ARP Backstage Pass",

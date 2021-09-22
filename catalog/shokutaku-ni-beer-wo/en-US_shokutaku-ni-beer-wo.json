@@ -1,5 +1,9 @@
 {
     "title": "Shokutaku ni Beer wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162738.jpg",
+        "alt": "shokutaku-ni-beer-wo"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "55",

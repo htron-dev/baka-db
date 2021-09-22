@@ -1,5 +1,9 @@
 {
     "title": "Blue Drop: Tenshi no Itazura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134411.jpg",
+        "alt": "blue-drop-tenshi-no-itazura"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ブルードロップ～天使の悪戯～",

@@ -1,5 +1,9 @@
 {
     "title": "Check",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11872.jpg",
+        "alt": "check"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "8",

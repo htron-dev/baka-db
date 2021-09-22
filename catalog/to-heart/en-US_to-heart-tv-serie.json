@@ -1,5 +1,9 @@
 {
     "title": "To Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/29922.jpg",
+        "alt": "to-heart"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "トゥハート",

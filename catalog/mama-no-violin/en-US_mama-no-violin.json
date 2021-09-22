@@ -1,5 +1,9 @@
 {
     "title": "Mama no Violin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/32826.jpg",
+        "alt": "mama-no-violin"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ママのヴァイオリン",

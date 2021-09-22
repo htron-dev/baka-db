@@ -1,5 +1,9 @@
 {
     "title": "Catman Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/24252.jpg",
+        "alt": "catman-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "キャットマン",

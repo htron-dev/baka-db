@@ -1,5 +1,9 @@
 {
     "title": "Yuru Camp△ Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1629/113922.jpg",
+        "alt": "yuru-camp△-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ゆるキャン △",
@@ -8,7 +12,6 @@
         "comedy",
         "slice-of-life"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

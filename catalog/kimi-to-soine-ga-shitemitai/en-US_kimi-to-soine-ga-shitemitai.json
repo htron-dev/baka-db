@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Soine ga Shitemitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199550.jpg",
+        "alt": "kimi-to-soine-ga-shitemitai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Pet wa Binyanshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167150.jpg",
+        "alt": "pet-wa-binyanshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

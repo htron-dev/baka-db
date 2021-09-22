@@ -1,12 +1,16 @@
 {
     "title": "Mama wa Poyopoyo Saurus ga Osuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/29958.jpg",
+        "alt": "mama-wa-poyopoyo-saurus-ga-osuki"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ママはぽよぽよザウルスがお好き",
     "start_date": "1995-09-02",
     "end_date": "1995-09-02",
     "opening_song": "\"Beeper Love (Saurus Version)\" by NOW",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Itsu no Manika Kimi wo [Acoustic Version] (いつの間にか君を [アコースティック・バージョン])\" by Masatoshi Ono (eps 1-30)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

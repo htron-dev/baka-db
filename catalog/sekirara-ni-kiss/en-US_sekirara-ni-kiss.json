@@ -1,5 +1,9 @@
 {
     "title": "Sekirara ni Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165026.jpg",
+        "alt": "sekirara-ni-kiss"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "37",

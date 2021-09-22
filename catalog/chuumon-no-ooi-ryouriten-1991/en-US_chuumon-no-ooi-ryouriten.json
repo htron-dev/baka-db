@@ -1,5 +1,9 @@
 {
     "title": "Chuumon no Ooi Ryouriten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/36605.jpg",
+        "alt": "chuumon-no-ooi-ryouriten"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "注文の多い料理店",

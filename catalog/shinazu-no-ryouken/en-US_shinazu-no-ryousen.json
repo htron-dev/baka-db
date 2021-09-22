@@ -1,5 +1,9 @@
 {
     "title": "Shinazu no Ryousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215844.jpg",
+        "alt": "shinazu-no-ryousen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

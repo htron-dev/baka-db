@@ -1,5 +1,9 @@
 {
     "title": "Madou no Keifu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226391.jpg",
+        "alt": "madou-no-keifu"
+    },
     "type": "manga",
     "original_name": "魔導の系譜",
     "start_date": "2019-09-25",

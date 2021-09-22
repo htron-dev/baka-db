@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters XY: Pokemon Ryuuouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222640.jpg",
+        "alt": "pocket-monsters-xy-pokemon-ryuuouden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

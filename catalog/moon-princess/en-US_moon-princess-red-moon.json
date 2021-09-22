@@ -1,5 +1,9 @@
 {
     "title": "Moon Princess -Red Moon-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/70315.jpg",
+        "alt": "moon-princess-red-moon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

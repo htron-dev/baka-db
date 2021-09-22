@@ -1,5 +1,9 @@
 {
     "title": "Izayoi Sanctuary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162471.jpg",
+        "alt": "izayoi-sanctuary"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

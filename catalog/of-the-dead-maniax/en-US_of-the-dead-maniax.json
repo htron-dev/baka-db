@@ -1,5 +1,9 @@
 {
     "title": "Of the Dead Maniax",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172028.jpg",
+        "alt": "of-the-dead-maniax"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

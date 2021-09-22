@@ -1,5 +1,9 @@
 {
     "title": "Kantai Collection: Tomarigi no Chinjufu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202183.jpg",
+        "alt": "kantai-collection-tomarigi-no-chinjufu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

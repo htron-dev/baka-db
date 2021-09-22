@@ -1,5 +1,9 @@
 {
     "title": "Osomatsu-kun (1988)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/80073.jpg",
+        "alt": "osomatsu-kun-1988"
+    },
     "type": "tv-serie",
     "episodes": "86",
     "original_name": "おそ松くん",

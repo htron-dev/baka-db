@@ -1,5 +1,9 @@
 {
     "title": "Majo Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239085.jpg",
+        "alt": "majo-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

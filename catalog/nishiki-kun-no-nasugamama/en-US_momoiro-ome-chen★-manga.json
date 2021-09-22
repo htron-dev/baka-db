@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Ome-Chen★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171959.jpg",
+        "alt": "momoiro-ome-chen★"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

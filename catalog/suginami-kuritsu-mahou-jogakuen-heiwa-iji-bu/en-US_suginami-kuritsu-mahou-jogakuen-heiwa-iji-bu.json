@@ -1,5 +1,9 @@
 {
     "title": "Suginami Kuritsu Mahou Jogakuen Heiwa Iji-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216115.jpg",
+        "alt": "suginami-kuritsu-mahou-jogakuen-heiwa-iji-bu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

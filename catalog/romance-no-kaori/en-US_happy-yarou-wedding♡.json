@@ -1,5 +1,9 @@
 {
     "title": "Happy Yarou Wedding♡",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73509.jpg",
+        "alt": "happy-yarou-wedding♡"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

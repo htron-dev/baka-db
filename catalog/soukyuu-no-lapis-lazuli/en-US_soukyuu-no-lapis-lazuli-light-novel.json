@@ -1,5 +1,9 @@
 {
     "title": "Soukyuu no Lapis Lazuli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163374.jpg",
+        "alt": "soukyuu-no-lapis-lazuli"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "56",

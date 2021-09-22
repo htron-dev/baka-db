@@ -1,12 +1,16 @@
 {
     "title": "Sentouin, Hakenshimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1444/115118.jpg",
+        "alt": "sentouin-hakenshimasu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "戦闘員、派遣します！",
     "start_date": "2021-04-04",
     "end_date": "2021-04-04",
     "opening_song": "\"No.6\" by Miku Itou (伊藤美来) (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"No.6\" by Miku Itou (伊藤美来) (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Ginban Kaleidoscope",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15984.jpg",
+        "alt": "ginban-kaleidoscope"
+    },
     "type": "light-novel",
     "volumes": "9",
     "original_name": "銀盤カレイドスコープ",

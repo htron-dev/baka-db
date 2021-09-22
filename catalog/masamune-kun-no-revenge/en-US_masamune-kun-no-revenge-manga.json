@@ -1,5 +1,9 @@
 {
     "title": "Masamune-kun no Revenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210326.jpg",
+        "alt": "masamune-kun-no-revenge"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "61",

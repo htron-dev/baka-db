@@ -1,5 +1,9 @@
 {
     "title": "Koeda-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1778/97977.jpg",
+        "alt": "koeda-chan"
+    },
     "type": "ona",
     "original_name": "こえだちゃん",
     "start_date": "2018-11-16",

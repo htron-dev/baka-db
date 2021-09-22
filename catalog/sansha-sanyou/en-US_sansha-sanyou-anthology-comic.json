@@ -1,5 +1,9 @@
 {
     "title": "Sansha Sanyou Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193356.jpg",
+        "alt": "sansha-sanyou-anthology-comic"
+    },
     "type": "manga",
     "original_name": "三者三葉 アンソロジーコミック",
     "start_date": "2016-04-27",

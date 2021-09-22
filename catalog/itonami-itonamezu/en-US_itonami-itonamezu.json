@@ -1,5 +1,9 @@
 {
     "title": "Itonami Itonamezu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225947.jpg",
+        "alt": "itonami-itonamezu"
+    },
     "type": "manga",
     "original_name": "いとなみいとなめず",
     "start_date": "2018-10-02",

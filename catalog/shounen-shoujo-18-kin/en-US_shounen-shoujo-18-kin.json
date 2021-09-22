@@ -1,5 +1,9 @@
 {
     "title": "Shounen Shoujo 18-kin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118991.jpg",
+        "alt": "shounen-shoujo-18-kin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

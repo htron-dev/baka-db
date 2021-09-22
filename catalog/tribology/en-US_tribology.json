@@ -1,5 +1,9 @@
 {
     "title": "Tribology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230670.jpg",
+        "alt": "tribology"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

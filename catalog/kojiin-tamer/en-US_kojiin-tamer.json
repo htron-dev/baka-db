@@ -1,5 +1,9 @@
 {
     "title": "Kojiin Tamer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245506.jpg",
+        "alt": "kojiin-tamer"
+    },
     "type": "manga",
     "original_name": "孤児院テイマー",
     "start_date": "2019-08-23",

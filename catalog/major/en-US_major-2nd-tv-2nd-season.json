@@ -1,12 +1,16 @@
 {
     "title": "Major 2nd (TV) 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
+        "alt": "major-2nd-tv-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "メジャーセカンド",
     "start_date": "2020-04-04",
     "end_date": "2020-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Answer\" Leo Ieiri (1-13)",
+    "ending_song": "#1: \"One\" by SHE’S",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Major_(manga"
+            "link": "https://en.wikipedia.org/wiki/Major_%28manga%29#Anime"
         }
     ]
 }

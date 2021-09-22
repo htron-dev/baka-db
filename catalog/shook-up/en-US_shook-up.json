@@ -1,5 +1,9 @@
 {
     "title": "Shook Up!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30698.jpg",
+        "alt": "shook-up"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

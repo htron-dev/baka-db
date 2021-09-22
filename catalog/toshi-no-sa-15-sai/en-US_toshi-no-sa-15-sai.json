@@ -1,5 +1,9 @@
 {
     "title": "Toshi no Sa 15-sai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158258.jpg",
+        "alt": "toshi-no-sa-15-sai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "年の差 15 歳。",

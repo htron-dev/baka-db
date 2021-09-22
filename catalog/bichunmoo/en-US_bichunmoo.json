@@ -1,5 +1,9 @@
 {
     "title": "Bichunmoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30459.jpg",
+        "alt": "bichunmoo"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Toys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20811.jpg",
+        "alt": "toys"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Sword Gai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76898.jpg",
+        "alt": "sword-gai"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "『ソードガイ 装刀凱』3DCG プロモーションムービー",

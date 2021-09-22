@@ -1,5 +1,9 @@
 {
     "title": "2DK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170471.jpg",
+        "alt": "2-dk"
+    },
     "type": "manga",
     "chapters": "159",
     "original_name": "2DK",

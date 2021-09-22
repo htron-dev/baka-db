@@ -1,5 +1,9 @@
 {
     "title": "Troublemaker!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198397.jpg",
+        "alt": "troublemaker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Kakurehime Irogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167553.jpg",
+        "alt": "kakurehime-irogatari"
+    },
     "type": "light-novel",
     "original_name": "隠れ姫いろがたり",
     "start_date": "2015-08-26",

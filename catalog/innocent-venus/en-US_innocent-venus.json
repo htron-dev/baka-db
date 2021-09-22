@@ -1,5 +1,9 @@
 {
     "title": "Innocent Venus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/8629.jpg",
+        "alt": "innocent-venus"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "イノセント・ヴィーナス",

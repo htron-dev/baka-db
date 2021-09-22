@@ -1,5 +1,9 @@
 {
     "title": "Kyuuketsuki no Uruwashiki Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89101.jpg",
+        "alt": "kyuuketsuki-no-uruwashiki-kekkon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

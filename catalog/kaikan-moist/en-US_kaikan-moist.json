@@ -1,5 +1,9 @@
 {
     "title": "Kaikan Moist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169465.jpg",
+        "alt": "kaikan-moist"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

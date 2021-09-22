@@ -1,5 +1,9 @@
 {
     "title": "EX: Shounen Hyouryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196032.jpg",
+        "alt": "ex-shounen-hyouryuu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

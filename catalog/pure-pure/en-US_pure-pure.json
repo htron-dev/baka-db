@@ -1,5 +1,9 @@
 {
     "title": "Pure Pure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5226.jpg",
+        "alt": "pure-pure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

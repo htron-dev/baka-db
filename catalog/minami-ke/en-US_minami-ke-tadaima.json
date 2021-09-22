@@ -1,12 +1,16 @@
 {
     "title": "Minami-ke Tadaima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/53133.jpg",
+        "alt": "minami-ke-tadaima"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "みなみけ ただいま",
     "start_date": "2013-01-06",
     "end_date": "2013-01-06",
-    "opening_song": "\"Shiawase☆High Tension↑↑ (シアワセ ☆ ハイテンション ↑↑)\" by Haruka Minami (CV",
-    "ending_song": "#1",
+    "opening_song": "\"Shiawase☆High Tension↑↑ (シアワセ ☆ ハイテンション ↑↑)\" by Haruka Minami (CV: Rina Satou), Kana Minami (CV: Marina Inoue), Chiaki Minami (CV: Minori Chihara)",
+    "ending_song": "#1: \"Kyuusekkin Lucky DAYS (急接近ラッキー DAYS)\" by Haruka Minami (Rina Satou), Kana Minami (Marina Inoue), Chiaki Minami (Minori Chihara) (eps 1-10, 12-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

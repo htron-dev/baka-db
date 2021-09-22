@@ -1,5 +1,9 @@
 {
     "title": "Shakugan no Shana S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133563.jpg",
+        "alt": "shakugan-no-shana-s"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "32",

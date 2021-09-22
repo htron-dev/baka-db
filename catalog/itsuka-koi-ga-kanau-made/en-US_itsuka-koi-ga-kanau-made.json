@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Koi ga Kanau Made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15224.jpg",
+        "alt": "itsuka-koi-ga-kanau-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

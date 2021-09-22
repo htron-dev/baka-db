@@ -1,5 +1,9 @@
 {
     "title": "Rokudenashi Blues",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/25146.jpg",
+        "alt": "rokudenashi-blues"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ろくでなし BLUES",

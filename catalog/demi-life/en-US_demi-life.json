@@ -1,5 +1,9 @@
 {
     "title": "Demi Life!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201035.jpg",
+        "alt": "demi-life"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

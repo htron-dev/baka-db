@@ -1,5 +1,9 @@
 {
     "title": "Hitsugi no Chaika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118449.jpg",
+        "alt": "hitsugi-no-chaika"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "60",

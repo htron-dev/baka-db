@@ -1,5 +1,9 @@
 {
     "title": "Ao Haru Ride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/64813.jpg",
+        "alt": "ao-haru-ride"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アオハライド",

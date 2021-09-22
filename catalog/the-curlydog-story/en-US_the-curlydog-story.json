@@ -1,5 +1,9 @@
 {
     "title": "The Curlydog Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/87635.jpg",
+        "alt": "the-curlydog-story"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "The Curlydog Story",

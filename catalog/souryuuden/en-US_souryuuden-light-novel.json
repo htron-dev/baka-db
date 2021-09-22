@@ -1,5 +1,9 @@
 {
     "title": "Souryuuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41411.jpg",
+        "alt": "souryuuden"
+    },
     "type": "light-novel",
     "original_name": "創竜伝",
     "start_date": "1987-08-05",

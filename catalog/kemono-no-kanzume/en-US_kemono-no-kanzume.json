@@ -1,5 +1,9 @@
 {
     "title": "Kemono no Kanzume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171827.jpg",
+        "alt": "kemono-no-kanzume"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

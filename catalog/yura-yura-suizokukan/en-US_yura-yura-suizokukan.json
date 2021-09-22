@@ -1,5 +1,9 @@
 {
     "title": "Yura Yura Suizokukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/89666.jpg",
+        "alt": "yura-yura-suizokukan"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "ユラユラすいぞくかん",

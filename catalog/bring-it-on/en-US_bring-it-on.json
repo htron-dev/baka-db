@@ -1,5 +1,9 @@
 {
     "title": "Bring it on!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30260.jpg",
+        "alt": "bring-it-on"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "25",

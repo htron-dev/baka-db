@@ -1,5 +1,9 @@
 {
     "title": "Donkan na Osananajimi wa Sasshinai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226315.jpg",
+        "alt": "donkan-na-osananajimi-wa-sasshinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

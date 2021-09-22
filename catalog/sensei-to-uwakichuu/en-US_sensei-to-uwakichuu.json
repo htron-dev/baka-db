@@ -1,5 +1,9 @@
 {
     "title": "Sensei to, Uwakichuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39707.jpg",
+        "alt": "sensei-to-uwakichuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

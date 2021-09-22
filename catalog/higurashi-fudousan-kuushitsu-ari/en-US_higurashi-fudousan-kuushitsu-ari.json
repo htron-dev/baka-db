@@ -1,5 +1,9 @@
 {
     "title": "Higurashi Fudousan Kuushitsu-ari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159917.jpg",
+        "alt": "higurashi-fudousan-kuushitsu-ari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

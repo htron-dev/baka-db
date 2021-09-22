@@ -1,5 +1,9 @@
 {
     "title": "Romantei e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139999.jpg",
+        "alt": "romantei-e-youkoso"
+    },
     "type": "light-novel",
     "original_name": "浪漫邸へようこそ",
     "start_date": "2014-08-26",

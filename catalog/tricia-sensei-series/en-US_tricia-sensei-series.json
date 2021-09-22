@@ -1,5 +1,9 @@
 {
     "title": "Tricia-sensei Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162675.jpg",
+        "alt": "tricia-sensei-series"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "30",

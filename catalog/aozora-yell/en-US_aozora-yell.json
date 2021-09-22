@@ -1,5 +1,9 @@
 {
     "title": "Aozora Yell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163927.jpg",
+        "alt": "aozora-yell"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "76",

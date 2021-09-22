@@ -1,5 +1,9 @@
 {
     "title": "Minna Agechau♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158262.jpg",
+        "alt": "minna-agechau♥"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "138",

@@ -1,5 +1,9 @@
 {
     "title": "Ushiro: Fukigen na Shinigami.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196562.jpg",
+        "alt": "ushiro-fukigen-na-shinigami"
+    },
     "type": "manga",
     "chapters": "11",
     "original_name": "うしろ ふきげんな死神。",

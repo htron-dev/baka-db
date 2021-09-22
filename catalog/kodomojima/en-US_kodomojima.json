@@ -1,5 +1,9 @@
 {
     "title": "Kodomojima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174087.jpg",
+        "alt": "kodomojima"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "こどもじま",

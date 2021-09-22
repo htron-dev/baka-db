@@ -1,5 +1,9 @@
 {
     "title": "Genma Taisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/73382.jpg",
+        "alt": "genma-taisen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "幻魔大戦",

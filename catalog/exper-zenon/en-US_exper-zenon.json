@@ -1,5 +1,9 @@
 {
     "title": "Exper Zenon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1509/105899.jpg",
+        "alt": "exper-zenon"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "エクスパー ゼノン",

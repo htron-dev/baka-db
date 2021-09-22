@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Ita Kinou, Boku no Miru Asu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162657.jpg",
+        "alt": "kimi-no-ita-kinou-boku-no-miru-asu"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Kami no Kodomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39937.jpg",
+        "alt": "kami-no-kodomo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

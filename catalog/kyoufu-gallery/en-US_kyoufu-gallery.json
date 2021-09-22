@@ -1,5 +1,9 @@
 {
     "title": "Kyoufu Gallery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72927.jpg",
+        "alt": "kyoufu-gallery"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

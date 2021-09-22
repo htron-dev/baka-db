@@ -1,5 +1,9 @@
 {
     "title": "Kodou yori Tsuyoku, Kokyuu yori Fukaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172447.jpg",
+        "alt": "kodou-yori-tsuyoku-kokyuu-yori-fukaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

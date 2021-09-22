@@ -1,5 +1,9 @@
 {
     "title": "Kemonogari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109085.jpg",
+        "alt": "kemonogari"
+    },
     "type": "manga",
     "chapters": "7",
     "original_name": "ケモノガリ",

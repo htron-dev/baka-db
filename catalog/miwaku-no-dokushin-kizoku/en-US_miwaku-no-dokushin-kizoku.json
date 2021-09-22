@@ -1,5 +1,9 @@
 {
     "title": "Miwaku no Dokushin Kizoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63571.jpg",
+        "alt": "miwaku-no-dokushin-kizoku"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "魅惑の独身貴族",

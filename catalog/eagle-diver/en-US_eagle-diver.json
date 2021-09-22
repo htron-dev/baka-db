@@ -1,5 +1,9 @@
 {
     "title": "Eagle Diver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32306.jpg",
+        "alt": "eagle-diver"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "イーグルドライバー",

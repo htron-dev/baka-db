@@ -1,5 +1,9 @@
 {
     "title": "P.K. Genius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243457.jpg",
+        "alt": "p-k-genius"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

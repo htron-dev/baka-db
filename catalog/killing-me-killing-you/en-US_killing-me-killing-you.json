@@ -1,5 +1,9 @@
 {
     "title": "Killing Me/Killing You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234628.jpg",
+        "alt": "killing-me-killing-you"
+    },
     "type": "manga",
     "original_name": "KILLING ME / KILLING YOU",
     "start_date": "2017-09-25",

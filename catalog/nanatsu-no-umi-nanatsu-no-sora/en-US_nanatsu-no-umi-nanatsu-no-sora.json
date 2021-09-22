@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Umi Nanatsu no Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/92419.jpg",
+        "alt": "nanatsu-no-umi-nanatsu-no-sora"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "七つの海七つの空",

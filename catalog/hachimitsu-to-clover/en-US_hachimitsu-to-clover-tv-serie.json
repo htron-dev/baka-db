@@ -1,12 +1,16 @@
 {
     "title": "Hachimitsu to Clover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73923.jpg",
+        "alt": "hachimitsu-to-clover"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ハチミツとクローバー",
     "start_date": "2005-04-15",
     "end_date": "2005-04-15",
     "opening_song": "\"Dramatic\" by Yuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Waltz\" by Suneohair (eps 1-12, 24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

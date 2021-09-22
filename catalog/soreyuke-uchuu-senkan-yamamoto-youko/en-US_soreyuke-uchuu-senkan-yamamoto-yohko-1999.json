@@ -1,12 +1,16 @@
 {
     "title": "Soreyuke! Uchuu Senkan Yamamoto Yohko (1999)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/30937.jpg",
+        "alt": "soreyuke-uchuu-senkan-yamamoto-yohko-1999"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "それゆけ!宇宙戦艦　ヤマモト・ヨーコ",
     "start_date": "1999-04-04",
     "end_date": "1999-04-04",
     "opening_song": "\"Tenshi no Kyuusoku (天使の休息)\" by Okui Masami",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Rururu (ルルル)\" by Okui Masami",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

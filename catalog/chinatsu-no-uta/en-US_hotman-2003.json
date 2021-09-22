@@ -1,5 +1,9 @@
 {
     "title": "Hotman 2003",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46495.jpg",
+        "alt": "hotman-2003"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ホットマン 2003 きたがわ翔短編集",

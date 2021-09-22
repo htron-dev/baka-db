@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Lulu Lolo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/54905.jpg",
+        "alt": "ganbare-lulu-lolo"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "がんばれ！ルルロロ",

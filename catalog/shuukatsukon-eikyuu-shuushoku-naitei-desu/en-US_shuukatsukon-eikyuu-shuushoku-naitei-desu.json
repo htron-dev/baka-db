@@ -1,5 +1,9 @@
 {
     "title": "Shuukatsukon: Eikyuu Shuushoku, Naitei desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195476.jpg",
+        "alt": "shuukatsukon-eikyuu-shuushoku-naitei-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "シューカツ婚～永久就職、内定です！～",

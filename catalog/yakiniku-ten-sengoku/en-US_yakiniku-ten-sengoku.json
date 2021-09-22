@@ -1,5 +1,9 @@
 {
     "title": "Yakiniku-ten Sengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/88500.jpg",
+        "alt": "yakiniku-ten-sengoku"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "焼肉店センゴク",

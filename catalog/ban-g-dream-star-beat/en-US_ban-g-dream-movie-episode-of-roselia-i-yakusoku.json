@@ -1,8 +1,12 @@
 {
     "title": "BanG Dream! Movie: Episode of Roselia - I: Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1159/111064.jpg",
+        "alt": "ban-g-dream-movie-episode-of-roselia-i-yakusoku"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "劇場版 BanG Dream! Episode of Roselia I",
+    "original_name": "劇場版 BanG Dream! Episode of Roselia I:約束",
     "start_date": "2021-04-23",
     "opening_song": "\"Proud of oneself\" by Roselia",
     "ending_song": "\"overtuRe\" by Roselia",

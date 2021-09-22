@@ -1,5 +1,9 @@
 {
     "title": "Boku no Karada wa Two Out",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170656.jpg",
+        "alt": "boku-no-karada-wa-two-out"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "135",

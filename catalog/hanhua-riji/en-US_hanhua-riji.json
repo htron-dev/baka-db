@@ -1,5 +1,9 @@
 {
     "title": "Hanhua Riji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1042/100435.jpg",
+        "alt": "hanhua-riji"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "汉化日记",

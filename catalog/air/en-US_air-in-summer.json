@@ -1,5 +1,9 @@
 {
     "title": "Air in Summer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82726.jpg",
+        "alt": "air-in-summer"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "AIR イン サマー",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Air_(anime"
+            "link": "http://en.wikipedia.org/wiki/Air_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Zatsu na Manabiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230375.jpg",
+        "alt": "zatsu-na-manabiya"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "33",

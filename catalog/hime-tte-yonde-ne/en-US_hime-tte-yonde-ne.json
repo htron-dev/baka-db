@@ -1,5 +1,9 @@
 {
     "title": "Hime tte Yonde ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1557.jpg",
+        "alt": "hime-tte-yonde-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

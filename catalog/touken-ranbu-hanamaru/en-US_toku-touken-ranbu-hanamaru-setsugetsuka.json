@@ -1,5 +1,9 @@
 {
     "title": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1978/111973.jpg",
+        "alt": "toku-touken-ranbu-hanamaru-setsugetsuka"
+    },
     "type": "movie",
     "episodes": "3",
     "original_name": "特『刀剣乱舞-花丸-』～雪月華～",

@@ -1,5 +1,9 @@
 {
     "title": "Bride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97207.jpg",
+        "alt": "bride"
+    },
     "type": "manhwa",
     "chapters": "1",
     "tags": [

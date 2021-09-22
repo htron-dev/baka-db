@@ -1,5 +1,9 @@
 {
     "title": "B-kyuu Gourmet Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13422.jpg",
+        "alt": "b-kyuu-gourmet-club"
+    },
     "type": "manga",
     "original_name": "B 級グルメ倶楽部",
     "tags": [

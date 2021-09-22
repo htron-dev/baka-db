@@ -1,12 +1,16 @@
 {
     "title": "Monkey Turn V",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75224.jpg",
+        "alt": "monkey-turn-v"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "モンキー ターン V",
     "start_date": "2004-07-04",
     "end_date": "2004-07-04",
     "opening_song": "\"Mune Ippai no Kono Ai wo Dare Yori Kimi ni (胸いっぱいのこの愛を 誰より君に)\" by JEWELRY",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hey Hey Baby! You're NO.1\" by Sparkling Point",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

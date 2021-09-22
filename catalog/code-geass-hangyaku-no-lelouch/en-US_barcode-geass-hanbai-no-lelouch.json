@@ -1,5 +1,9 @@
 {
     "title": "Barcode Geass: Hanbai no Lelouch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/74119.jpg",
+        "alt": "barcode-geass-hanbai-no-lelouch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

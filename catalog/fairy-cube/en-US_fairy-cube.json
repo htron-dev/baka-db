@@ -1,5 +1,9 @@
 {
     "title": "Fairy Cube",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197597.jpg",
+        "alt": "fairy-cube"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

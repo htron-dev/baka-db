@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Hajimete Koi wo Suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185680.jpg",
+        "alt": "kimi-to-hajimete-koi-wo-suru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

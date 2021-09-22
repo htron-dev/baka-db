@@ -1,5 +1,9 @@
 {
     "title": "Chouseishin Gransazer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157881.jpg",
+        "alt": "chouseishin-gransazer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

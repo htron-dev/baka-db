@@ -1,5 +1,9 @@
 {
     "title": "Koukou Tekken-den Tough",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/3786.jpg",
+        "alt": "koukou-tekken-den-tough"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "高校鉄拳伝　タフ",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Tough_(manga"
+            "link": "http://en.wikipedia.org/wiki/Tough_%28manga%29#OVA"
         }
     ]
 }

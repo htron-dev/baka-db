@@ -1,5 +1,9 @@
 {
     "title": "Touhou Sangetsusei: Visionary Fairies in Shrine.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206103.jpg",
+        "alt": "touhou-sangetsusei-visionary-fairies-in-shrine"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Hito.: Cute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15565.jpg",
+        "alt": "kawaii-hito-cute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

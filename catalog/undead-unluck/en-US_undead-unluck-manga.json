@@ -1,5 +1,9 @@
 {
     "title": "Undead Unluck",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228641.jpg",
+        "alt": "undead-unluck"
+    },
     "type": "manga",
     "original_name": "アンデッドアンラック",
     "start_date": "2020-01-20",

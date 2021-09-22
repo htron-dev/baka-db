@@ -1,5 +1,9 @@
 {
     "title": "Heart no Diamond",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88833.jpg",
+        "alt": "heart-no-diamond"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

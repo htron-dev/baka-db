@@ -1,5 +1,9 @@
 {
     "title": "Space Cobra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/41437.jpg",
+        "alt": "space-cobra"
+    },
     "type": "tv-serie",
     "episodes": "31",
     "original_name": "スペースコブラ",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Cobra_(manga"
+            "link": "http://en.wikipedia.org/wiki/Cobra_%28manga%29"
         }
     ]
 }

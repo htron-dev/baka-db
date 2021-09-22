@@ -1,5 +1,9 @@
 {
     "title": "Gouhou Lilac",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5991.jpg",
+        "alt": "gouhou-lilac"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "豪放ライラック",

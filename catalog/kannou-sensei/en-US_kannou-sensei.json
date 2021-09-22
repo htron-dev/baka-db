@@ -1,5 +1,9 @@
 {
     "title": "Kannou Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200528.jpg",
+        "alt": "kannou-sensei"
+    },
     "type": "manga",
     "original_name": "官能先生",
     "start_date": "2016-07-26",

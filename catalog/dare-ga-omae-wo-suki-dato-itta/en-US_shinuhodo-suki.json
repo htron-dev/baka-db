@@ -1,5 +1,9 @@
 {
     "title": "Shinuhodo Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14646.jpg",
+        "alt": "shinuhodo-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

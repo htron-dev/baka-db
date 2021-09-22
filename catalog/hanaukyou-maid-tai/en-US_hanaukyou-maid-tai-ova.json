@@ -1,5 +1,9 @@
 {
     "title": "Hanaukyou Maid-tai OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/3800.jpg",
+        "alt": "hanaukyou-maid-tai-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "花右京メイド隊",

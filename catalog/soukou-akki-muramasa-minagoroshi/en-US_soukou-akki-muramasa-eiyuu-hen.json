@@ -1,5 +1,9 @@
 {
     "title": "Soukou Akki Muramasa: Eiyuu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/101273.jpg",
+        "alt": "soukou-akki-muramasa-eiyuu-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

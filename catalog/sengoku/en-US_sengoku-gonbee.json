@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Gonbee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181644.jpg",
+        "alt": "sengoku-gonbee"
+    },
     "type": "manga",
     "original_name": "センゴク権兵衛",
     "start_date": "2015-11-09",

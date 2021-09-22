@@ -1,5 +1,9 @@
 {
     "title": "Shuuden ni wa Kaeshimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123387.jpg",
+        "alt": "shuuden-ni-wa-kaeshimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

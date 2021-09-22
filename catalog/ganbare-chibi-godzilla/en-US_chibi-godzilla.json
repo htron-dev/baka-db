@@ -1,5 +1,9 @@
 {
     "title": "Chibi Godzilla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1934/97346.jpg",
+        "alt": "chibi-godzilla"
+    },
     "type": "ona",
     "original_name": "ちびゴジラ",
     "start_date": "2018-12-12",

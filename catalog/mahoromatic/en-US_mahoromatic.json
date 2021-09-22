@@ -1,5 +1,9 @@
 {
     "title": "Mahoromatic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180649.jpg",
+        "alt": "mahoromatic"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "45",

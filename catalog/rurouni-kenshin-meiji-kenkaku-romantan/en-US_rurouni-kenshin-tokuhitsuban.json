@@ -1,5 +1,9 @@
 {
     "title": "Rurouni Kenshin: Tokuhitsuban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132973.jpg",
+        "alt": "rurouni-kenshin-tokuhitsuban"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

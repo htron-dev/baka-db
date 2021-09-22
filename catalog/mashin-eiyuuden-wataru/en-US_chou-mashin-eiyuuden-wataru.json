@@ -1,12 +1,16 @@
 {
     "title": "Chou Mashin Eiyuuden Wataru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1088/91563.jpg",
+        "alt": "chou-mashin-eiyuuden-wataru"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "超魔神英雄伝ワタル",
     "start_date": "1997-10-02",
     "end_date": "1997-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hitotsu no Haato de; With One Heart\" by Hitomi Mieno",
+    "ending_song": "#1: \"BOYS BE AMBITIOUS\" by Hitomi Mieno",
     "rating": "G - All Ages",
     "tags": [
         "action",

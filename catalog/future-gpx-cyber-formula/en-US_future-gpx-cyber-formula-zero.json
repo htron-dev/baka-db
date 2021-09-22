@@ -1,12 +1,16 @@
 {
     "title": "Future GPX Cyber Formula Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/4085.jpg",
+        "alt": "future-gpx-cyber-formula-zero"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "新世紀ＧＰＸサイバーフォーミュラＺＥＲＯ",
     "start_date": "1994-04-01",
     "end_date": "1994-04-01",
     "opening_song": "\"Wind is High\" by Yumi Kinoshita",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Get Up!\" by Yumi Kinoshita (eps 1-7)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

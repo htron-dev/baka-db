@@ -1,5 +1,9 @@
 {
     "title": "Hane Glass no Kimi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156182.jpg",
+        "alt": "hane-glass-no-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

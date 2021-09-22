@@ -1,5 +1,9 @@
 {
     "title": "Renai Demo Classic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/74541.jpg",
+        "alt": "renai-demo-classic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

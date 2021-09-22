@@ -1,5 +1,9 @@
 {
     "title": "Sexaroid 4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247536.jpg",
+        "alt": "sexaroid-4"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "セクサロイド 4",

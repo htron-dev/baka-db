@@ -1,5 +1,9 @@
 {
     "title": "Another Summer Knights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16599.jpg",
+        "alt": "another-summer-knights"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

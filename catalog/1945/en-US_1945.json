@@ -1,5 +1,9 @@
 {
     "title": "1945",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165866.jpg",
+        "alt": "1945"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

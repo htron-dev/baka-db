@@ -1,5 +1,9 @@
 {
     "title": "Love² Potion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151491.jpg",
+        "alt": "love-potion"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

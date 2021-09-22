@@ -1,5 +1,9 @@
 {
     "title": "Junkyard Magnetic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27474.jpg",
+        "alt": "junkyard-magnetic"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ジャンクヤード・マグネティク",

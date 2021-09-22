@@ -1,5 +1,9 @@
 {
     "title": "Onbunidakko ni Kataguruma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79433.jpg",
+        "alt": "onbunidakko-ni-kataguruma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

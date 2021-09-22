@@ -1,5 +1,9 @@
 {
     "title": "Gemini no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152282.jpg",
+        "alt": "gemini-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "双子〈ジェミニ〉の恋人",

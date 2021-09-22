@@ -1,5 +1,9 @@
 {
     "title": "Utsukushii Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/72727.jpg",
+        "alt": "utsukushii-hoshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "美しい星",

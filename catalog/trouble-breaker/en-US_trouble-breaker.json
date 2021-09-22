@@ -1,5 +1,9 @@
 {
     "title": "Trouble Breaker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191713.jpg",
+        "alt": "trouble-breaker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "The iDOLM@STER Shiny Festa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/43475.jpg",
+        "alt": "the-i-dolm-ster-shiny-festa"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "アイドルマスター シャイニーフェスタ",

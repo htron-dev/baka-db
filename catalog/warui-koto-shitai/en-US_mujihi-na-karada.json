@@ -1,5 +1,9 @@
 {
     "title": "Mujihi na Karada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142577.jpg",
+        "alt": "mujihi-na-karada"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

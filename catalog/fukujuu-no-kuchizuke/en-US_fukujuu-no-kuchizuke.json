@@ -1,5 +1,9 @@
 {
     "title": "Fukujuu no Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185921.jpg",
+        "alt": "fukujuu-no-kuchizuke"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

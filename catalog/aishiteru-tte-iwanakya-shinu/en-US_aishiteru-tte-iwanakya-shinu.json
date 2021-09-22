@@ -1,5 +1,9 @@
 {
     "title": "Aishiteru tte Iwanakya, Shinu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233882.jpg",
+        "alt": "aishiteru-tte-iwanakya-shinu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

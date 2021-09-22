@@ -1,5 +1,9 @@
 {
     "title": "Moteasobaretemo Kamawanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167311.jpg",
+        "alt": "moteasobaretemo-kamawanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

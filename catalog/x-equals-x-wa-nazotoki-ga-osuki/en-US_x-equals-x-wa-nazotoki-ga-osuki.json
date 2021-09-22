@@ -1,5 +1,9 @@
 {
     "title": "X Equals: X wa Nazotoki ga Osuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215563.jpg",
+        "alt": "x-equals-x-wa-nazotoki-ga-osuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

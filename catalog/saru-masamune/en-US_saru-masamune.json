@@ -1,5 +1,9 @@
 {
     "title": "Saru Masamune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/29217.jpg",
+        "alt": "saru-masamune"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "猿正宗",

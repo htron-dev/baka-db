@@ -1,5 +1,9 @@
 {
     "title": "Nirvana Panic!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31991.jpg",
+        "alt": "nirvana-panic"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ニルヴァーナ・パニック!!",

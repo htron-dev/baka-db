@@ -1,5 +1,9 @@
 {
     "title": "Piano no Mushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163828.jpg",
+        "alt": "piano-no-mushi"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "117",

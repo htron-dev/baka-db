@@ -1,5 +1,9 @@
 {
     "title": "Utsurou Kimi to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198093.jpg",
+        "alt": "utsurou-kimi-to"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

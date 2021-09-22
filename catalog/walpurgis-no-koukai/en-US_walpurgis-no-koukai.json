@@ -1,5 +1,9 @@
 {
     "title": "Walpurgis no Koukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124883.jpg",
+        "alt": "walpurgis-no-koukai"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "31",

@@ -1,5 +1,9 @@
 {
     "title": "PePePePengiin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/82157.jpg",
+        "alt": "pe-pe-pe-pengiin"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ペペペペン議員",

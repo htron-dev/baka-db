@@ -1,5 +1,9 @@
 {
     "title": "Unlucky Young Men",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167547.jpg",
+        "alt": "unlucky-young-men"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

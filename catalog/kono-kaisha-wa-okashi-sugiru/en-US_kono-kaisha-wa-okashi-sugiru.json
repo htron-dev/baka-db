@@ -1,5 +1,9 @@
 {
     "title": "Kono Kaisha wa Okashi Sugiru!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115967.jpg",
+        "alt": "kono-kaisha-wa-okashi-sugiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

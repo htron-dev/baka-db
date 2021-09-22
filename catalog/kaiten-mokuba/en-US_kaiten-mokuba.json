@@ -1,5 +1,9 @@
 {
     "title": "Kaiten Mokuba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95143.jpg",
+        "alt": "kaiten-mokuba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Vampiyan Kids Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/65117.jpg",
+        "alt": "vampiyan-kids-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "バンパイヤン・キッズ",

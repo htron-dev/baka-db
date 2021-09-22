@@ -1,5 +1,9 @@
 {
     "title": "Shuuen Sekai no Rebellion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161036.jpg",
+        "alt": "shuuen-sekai-no-rebellion"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

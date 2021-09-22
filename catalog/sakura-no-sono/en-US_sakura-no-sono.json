@@ -1,5 +1,9 @@
 {
     "title": "Sakura no Sono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172594.jpg",
+        "alt": "sakura-no-sono"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Peng You Town",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/18618.jpg",
+        "alt": "peng-you-town"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ポンユタウン",

@@ -1,5 +1,9 @@
 {
     "title": "Poketoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1941/117693.jpg",
+        "alt": "poketoon"
+    },
     "type": "ona",
     "original_name": "ズルッグとミミッキュ",
     "start_date": "2020-06-04",

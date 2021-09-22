@@ -1,5 +1,9 @@
 {
     "title": "Deus Replica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163572.jpg",
+        "alt": "deus-replica"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

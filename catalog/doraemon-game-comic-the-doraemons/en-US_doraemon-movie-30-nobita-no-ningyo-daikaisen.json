@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 30: Nobita no Ningyo Daikaisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72435.jpg",
+        "alt": "doraemon-movie-30-nobita-no-ningyo-daikaisen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太の人魚大海戦",

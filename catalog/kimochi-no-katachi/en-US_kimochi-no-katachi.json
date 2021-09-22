@@ -1,5 +1,9 @@
 {
     "title": "Kimochi no Katachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128979.jpg",
+        "alt": "kimochi-no-katachi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

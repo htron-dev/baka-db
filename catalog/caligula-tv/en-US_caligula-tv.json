@@ -1,12 +1,16 @@
 {
     "title": "Caligula (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1910/93404.jpg",
+        "alt": "caligula-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "カリギュラ",
     "start_date": "2018-04-08",
     "end_date": "2018-04-08",
     "opening_song": "\"Paradigm Box\" by Ritsu Shikishima (Chiharu Sawashiro), Shougo Satake (Shunsuke Takeuchi)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Paradigm Box\" by Ritsu Shikishima (Chiharu Sawashiro), Shougo Satake (Shunsuke Takeuchi) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Caligula_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Caligula_%28TV_series%29"
         }
     ]
 }

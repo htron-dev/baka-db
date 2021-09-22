@@ -1,5 +1,9 @@
 {
     "title": "Issho ni Neyou yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15945.jpg",
+        "alt": "issho-ni-neyou-yo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

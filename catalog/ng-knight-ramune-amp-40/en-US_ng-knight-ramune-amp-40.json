@@ -1,12 +1,16 @@
 {
     "title": "NG Knight Ramune &amp; 40",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/46723.jpg",
+        "alt": "ng-knight-ramune-amp-40"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "NG 騎士ラムネ＆４０",
     "start_date": "1990-04-06",
     "end_date": "1990-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Nekketsu! Yuusha Lamuness (熱血!! 勇者ラムネス)\" by Takeshi Kusao (eps 1-28)",
+    "ending_song": "#1: \"Otoko to Onna wa Pa Pi Pu Pe Po (男と女はパピプペポ)\" by Chisa Yokoyama (eps 1-28)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

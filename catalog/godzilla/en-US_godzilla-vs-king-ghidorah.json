@@ -1,5 +1,9 @@
 {
     "title": "Godzilla vs. King Ghidorah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147239.jpg",
+        "alt": "godzilla-vs-king-ghidorah"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ゴジラ vs キングギドラ",

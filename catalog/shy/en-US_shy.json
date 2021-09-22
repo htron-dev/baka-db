@@ -1,5 +1,9 @@
 {
     "title": "Shy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224592.jpg",
+        "alt": "shy"
+    },
     "type": "manga",
     "original_name": "SHY",
     "start_date": "2019-08-01",

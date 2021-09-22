@@ -1,5 +1,9 @@
 {
     "title": "Kirei ni Shitemoraemasu ka.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208060.jpg",
+        "alt": "kirei-ni-shitemoraemasu-ka"
+    },
     "type": "manga",
     "original_name": "綺麗にしてもらえますか。",
     "start_date": "2017-07-07",

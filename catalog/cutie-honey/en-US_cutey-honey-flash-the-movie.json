@@ -1,5 +1,9 @@
 {
     "title": "Cutey Honey Flash: The Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/22167.jpg",
+        "alt": "cutey-honey-flash-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キューティーハニーＦ（ﾌﾗｯｼｭ）",

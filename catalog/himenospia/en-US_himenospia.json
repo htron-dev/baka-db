@@ -1,5 +1,9 @@
 {
     "title": "Himenospia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215715.jpg",
+        "alt": "himenospia"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "9-banme no Musashi: Mission Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147773.jpg",
+        "alt": "9-banme-no-musashi-mission-blue"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "37",

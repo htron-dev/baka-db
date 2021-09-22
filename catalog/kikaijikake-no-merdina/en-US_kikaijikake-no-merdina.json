@@ -1,5 +1,9 @@
 {
     "title": "Kikaijikake no Merdina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116797.jpg",
+        "alt": "kikaijikake-no-merdina"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

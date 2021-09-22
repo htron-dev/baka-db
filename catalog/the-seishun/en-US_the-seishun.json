@@ -1,5 +1,9 @@
 {
     "title": "The Seishun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/99479.jpg",
+        "alt": "the-seishun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

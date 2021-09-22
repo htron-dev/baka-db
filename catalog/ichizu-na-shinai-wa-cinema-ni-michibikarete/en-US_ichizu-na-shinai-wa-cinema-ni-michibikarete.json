@@ -1,5 +1,9 @@
 {
     "title": "Ichizu na Shinai wa Cinema ni Michibikarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194365.jpg",
+        "alt": "ichizu-na-shinai-wa-cinema-ni-michibikarete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

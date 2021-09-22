@@ -1,5 +1,9 @@
 {
     "title": "Manager no M wa Do M no M!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169752.jpg",
+        "alt": "manager-no-m-wa-do-m-no-m"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

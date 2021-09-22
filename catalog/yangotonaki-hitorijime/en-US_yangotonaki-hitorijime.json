@@ -1,5 +1,9 @@
 {
     "title": "Yangotonaki Hitorijime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171917.jpg",
+        "alt": "yangotonaki-hitorijime"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Ondo, Shimobe no Netsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24903.jpg",
+        "alt": "kimi-no-ondo-shimobe-no-netsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

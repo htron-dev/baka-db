@@ -1,5 +1,9 @@
 {
     "title": "Douse, Koishite Shimaunda.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242213.jpg",
+        "alt": "douse-koishite-shimaunda"
+    },
     "type": "manga",
     "original_name": "どうせ、恋してしまうんだ。",
     "start_date": "2020-11-02",

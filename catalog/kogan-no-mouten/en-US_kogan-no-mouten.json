@@ -1,5 +1,9 @@
 {
     "title": "Kogan no Mouten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/71091.jpg",
+        "alt": "kogan-no-mouten"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

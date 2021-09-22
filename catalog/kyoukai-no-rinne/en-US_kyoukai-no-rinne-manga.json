@@ -1,5 +1,9 @@
 {
     "title": "Kyoukai no Rinne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160168.jpg",
+        "alt": "kyoukai-no-rinne"
+    },
     "type": "manga",
     "volumes": "40",
     "chapters": "398",

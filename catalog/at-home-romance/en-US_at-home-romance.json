@@ -1,5 +1,9 @@
 {
     "title": "At Home Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/84075.jpg",
+        "alt": "at-home-romance"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "アットホーム・ロマンス",

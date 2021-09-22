@@ -1,5 +1,9 @@
 {
     "title": "Lupin III vs. Detective Conan: The Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/51663.jpg",
+        "alt": "lupin-iii-vs-detective-conan-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ルパン三世 vs.名探偵コナン THE MOVIE",

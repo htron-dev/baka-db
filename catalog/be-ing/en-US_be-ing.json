@@ -1,5 +1,9 @@
 {
     "title": "Be-ing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230139.jpg",
+        "alt": "be-ing"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

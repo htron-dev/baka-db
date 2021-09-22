@@ -1,5 +1,9 @@
 {
     "title": "Gargoyle Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/103051.jpg",
+        "alt": "gargoyle-alternative"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "ガーゴイルおるたなてぃぶ",

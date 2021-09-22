@@ -1,5 +1,9 @@
 {
     "title": "NulleMeta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244289.jpg",
+        "alt": "nulle-meta"
+    },
     "type": "manga",
     "original_name": "ぬるめた",
     "start_date": "2019-12-19",

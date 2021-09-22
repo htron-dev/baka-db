@@ -1,5 +1,9 @@
 {
     "title": "Oshiri Kajiri Mushi (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/43197.jpg",
+        "alt": "oshiri-kajiri-mushi-tv"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "おしりかじり虫",

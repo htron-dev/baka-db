@@ -1,5 +1,9 @@
 {
     "title": "Toshishita Kare no Kairaku Seisanchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193504.jpg",
+        "alt": "toshishita-kare-no-kairaku-seisanchuu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

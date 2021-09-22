@@ -1,5 +1,9 @@
 {
     "title": "Forget-me-not",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64987.jpg",
+        "alt": "forget-me-not"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

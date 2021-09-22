@@ -1,5 +1,9 @@
 {
     "title": "Takane no Hana wa Usotsuki desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211844.jpg",
+        "alt": "takane-no-hana-wa-usotsuki-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

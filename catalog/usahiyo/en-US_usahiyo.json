@@ -1,5 +1,9 @@
 {
     "title": "Usahiyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183092.jpg",
+        "alt": "usahiyo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

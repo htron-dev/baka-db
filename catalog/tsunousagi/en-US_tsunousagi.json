@@ -1,5 +1,9 @@
 {
     "title": "Tsunousagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107989.jpg",
+        "alt": "tsunousagi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ツノウサギ",

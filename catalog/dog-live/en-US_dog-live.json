@@ -1,5 +1,9 @@
 {
     "title": "Dog Live",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164235.jpg",
+        "alt": "dog-live"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

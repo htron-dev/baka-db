@@ -1,5 +1,9 @@
 {
     "title": "Houkago Strip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226364.jpg",
+        "alt": "houkago-strip"
+    },
     "type": "manga",
     "original_name": "放課後すとりっぷ",
     "start_date": "2017-12-10",

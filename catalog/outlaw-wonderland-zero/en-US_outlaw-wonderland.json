@@ -1,5 +1,9 @@
 {
     "title": "Outlaw Wonderland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176864.jpg",
+        "alt": "outlaw-wonderland"
+    },
     "type": "light-novel",
     "original_name": "アウトロー・ワンダーランド",
     "start_date": "2016-01-30",

@@ -1,5 +1,9 @@
 {
     "title": "Meg to Seron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184046.jpg",
+        "alt": "meg-to-seron"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "55",

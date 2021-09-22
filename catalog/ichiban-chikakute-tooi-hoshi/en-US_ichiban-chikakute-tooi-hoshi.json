@@ -1,5 +1,9 @@
 {
     "title": "Ichiban Chikakute Tooi Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1388/112416.jpg",
+        "alt": "ichiban-chikakute-tooi-hoshi"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "一番近くて遠い星",

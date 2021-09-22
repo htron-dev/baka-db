@@ -1,5 +1,9 @@
 {
     "title": "Shiawase Afro Tanaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207884.jpg",
+        "alt": "shiawase-afro-tanaka"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "109",

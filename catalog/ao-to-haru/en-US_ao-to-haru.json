@@ -1,5 +1,9 @@
 {
     "title": "Ao to Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241428.jpg",
+        "alt": "ao-to-haru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

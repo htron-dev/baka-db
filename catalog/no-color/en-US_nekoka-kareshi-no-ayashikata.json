@@ -1,5 +1,9 @@
 {
     "title": "Nekoka Kareshi no Ayashikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80379.jpg",
+        "alt": "nekoka-kareshi-no-ayashikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

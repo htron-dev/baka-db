@@ -1,12 +1,16 @@
 {
     "title": "Cardfight!! Vanguard (2018)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1408/96485.jpg",
+        "alt": "cardfight-vanguard-2018"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "カードファイト!! ヴァンガード (2018)",
     "start_date": "2018-05-05",
     "end_date": "2018-05-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Legendary\" by Roselia \"(eps 1-26)",
+    "ending_song": "#1: \"GIFT from THE FIGHT!!\" by Aichi Sendou (Tsubasa Yonaga) and Toshiki Kai (Takuya Saitou) (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

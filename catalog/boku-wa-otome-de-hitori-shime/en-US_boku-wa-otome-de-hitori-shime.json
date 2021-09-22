@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Otome de Hitori Shime!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159956.jpg",
+        "alt": "boku-wa-otome-de-hitori-shime"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "17",

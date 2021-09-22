@@ -1,5 +1,9 @@
 {
     "title": "Arcana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/65647.jpg",
+        "alt": "arcana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

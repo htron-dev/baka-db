@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Adam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183038.jpg",
+        "alt": "tetsuwan-adam"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

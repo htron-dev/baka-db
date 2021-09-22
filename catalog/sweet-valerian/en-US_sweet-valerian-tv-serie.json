@@ -1,5 +1,9 @@
 {
     "title": "Sweet Valerian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/3676.jpg",
+        "alt": "sweet-valerian"
+    },
     "type": "tv-serie",
     "episodes": "18",
     "original_name": "スウィート・ヴァレリアン",

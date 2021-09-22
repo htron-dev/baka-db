@@ -1,5 +1,9 @@
 {
     "title": "Puka Puka Juju",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/40249.jpg",
+        "alt": "puka-puka-juju"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ぷかぷかジュジュ",

@@ -1,5 +1,9 @@
 {
     "title": "Sai no Kami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22539.jpg",
+        "alt": "sai-no-kami"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "彩の神",

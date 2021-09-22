@@ -1,5 +1,9 @@
 {
     "title": "Boku ni Otsuki-sama wo Misenaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140603.jpg",
+        "alt": "boku-ni-otsuki-sama-wo-misenaide"
+    },
     "type": "light-novel",
     "volumes": "10",
     "original_name": "僕にお月様を見せないで",

@@ -1,5 +1,9 @@
 {
     "title": "Onyanoko Darlin'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137783.jpg",
+        "alt": "onyanoko-darlin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Mamoru-kun ni Megami no Shukufuku wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75243.jpg",
+        "alt": "mamoru-kun-ni-megami-no-shukufuku-wo"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "護くんに女神の祝福を！",

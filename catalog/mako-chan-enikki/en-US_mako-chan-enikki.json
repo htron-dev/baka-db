@@ -1,5 +1,9 @@
 {
     "title": "Mako-chan Enikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216246.jpg",
+        "alt": "mako-chan-enikki"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "139",

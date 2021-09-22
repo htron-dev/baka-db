@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Megane-kun.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/140601.jpg",
+        "alt": "tonari-no-megane-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Ippatsu Kiki Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/34133.jpg",
+        "alt": "ippatsu-kiki-musume"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "イッパツ危機娘",

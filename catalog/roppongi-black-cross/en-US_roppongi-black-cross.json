@@ -1,5 +1,9 @@
 {
     "title": "Roppongi Black Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179158.jpg",
+        "alt": "roppongi-black-cross"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "70",

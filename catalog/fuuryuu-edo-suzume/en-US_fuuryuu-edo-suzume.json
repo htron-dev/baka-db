@@ -1,5 +1,9 @@
 {
     "title": "Fuuryuu Edo Suzume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122813.jpg",
+        "alt": "fuuryuu-edo-suzume"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "風流江戸雀",

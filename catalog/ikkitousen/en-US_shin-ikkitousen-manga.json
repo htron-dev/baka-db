@@ -1,5 +1,9 @@
 {
     "title": "Shin Ikkitousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182686.jpg",
+        "alt": "shin-ikkitousen"
+    },
     "type": "manga",
     "original_name": "真・一騎当千",
     "start_date": "2015-11-30",

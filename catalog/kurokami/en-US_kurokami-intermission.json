@@ -1,5 +1,9 @@
 {
     "title": "Kurokami: Intermission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/15086.jpg",
+        "alt": "kurokami-intermission"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "特別編 インターミッション",

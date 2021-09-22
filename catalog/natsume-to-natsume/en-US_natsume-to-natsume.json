@@ -1,5 +1,9 @@
 {
     "title": "Natsume to Natsume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238217.jpg",
+        "alt": "natsume-to-natsume"
+    },
     "type": "manga",
     "original_name": "なつめとなつめ",
     "start_date": "2020-06-30",

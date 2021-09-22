@@ -1,5 +1,9 @@
 {
     "title": "Ringo ni Hachimitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40427.jpg",
+        "alt": "ringo-ni-hachimitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

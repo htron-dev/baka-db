@@ -1,5 +1,9 @@
 {
     "title": "Iinchou no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123225.jpg",
+        "alt": "iinchou-no-himegoto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

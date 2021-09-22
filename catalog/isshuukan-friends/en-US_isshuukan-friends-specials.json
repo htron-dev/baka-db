@@ -1,5 +1,9 @@
 {
     "title": "Isshuukan Friends. Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/69879.jpg",
+        "alt": "isshuukan-friends-specials"
+    },
     "type": "special",
     "episodes": "12",
     "original_name": "一週間フレンズ。香織の日記",

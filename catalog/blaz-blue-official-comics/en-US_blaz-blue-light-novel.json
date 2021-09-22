@@ -1,5 +1,9 @@
 {
     "title": "BlazBlue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113589.jpg",
+        "alt": "blaz-blue"
+    },
     "type": "light-novel",
     "original_name": "BLAZBLUE －ブレイブルー－",
     "start_date": "2013-01-20",

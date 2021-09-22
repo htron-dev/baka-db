@@ -1,5 +1,9 @@
 {
     "title": "Naniwa Yuukyouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/27261.jpg",
+        "alt": "naniwa-yuukyouden"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "なにわ遊侠伝",

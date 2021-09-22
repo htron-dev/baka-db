@@ -1,5 +1,9 @@
 {
     "title": "Mutant Turtles Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42680.jpg",
+        "alt": "mutant-turtles-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

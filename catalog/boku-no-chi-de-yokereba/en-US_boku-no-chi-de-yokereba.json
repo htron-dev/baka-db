@@ -1,5 +1,9 @@
 {
     "title": "Boku no Chi de Yokereba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143657.jpg",
+        "alt": "boku-no-chi-de-yokereba"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

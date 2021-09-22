@@ -1,5 +1,9 @@
 {
     "title": "Vampire Roumanshiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247095.jpg",
+        "alt": "vampire-roumanshiki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Yamada to Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237044.jpg",
+        "alt": "yamada-to-sensei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

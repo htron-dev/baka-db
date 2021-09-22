@@ -1,5 +1,9 @@
 {
     "title": "Ar Tonelico II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17786.jpg",
+        "alt": "ar-tonelico-ii"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

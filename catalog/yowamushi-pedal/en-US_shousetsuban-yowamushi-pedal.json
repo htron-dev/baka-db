@@ -1,5 +1,9 @@
 {
     "title": "Shousetsuban Yowamushi Pedal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115595.jpg",
+        "alt": "shousetsuban-yowamushi-pedal"
+    },
     "type": "light-novel",
     "original_name": "小説版 弱虫ペダル",
     "start_date": "2014-02-07",

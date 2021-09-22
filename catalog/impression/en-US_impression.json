@@ -1,5 +1,9 @@
 {
     "title": "Impression",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10894.jpg",
+        "alt": "impression"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2001-01-20",

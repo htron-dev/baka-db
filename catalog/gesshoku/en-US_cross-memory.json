@@ -1,5 +1,9 @@
 {
     "title": "Cross Memory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38971.jpg",
+        "alt": "cross-memory"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "クロス・メモリー",

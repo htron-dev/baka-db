@@ -1,5 +1,9 @@
 {
     "title": "Cutie Honey Universe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1879/91014.jpg",
+        "alt": "cutie-honey-universe"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Cutie Honey Universe",

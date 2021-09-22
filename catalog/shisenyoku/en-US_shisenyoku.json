@@ -1,5 +1,9 @@
 {
     "title": "Shisenyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58129.jpg",
+        "alt": "shisenyoku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "視線浴",

@@ -1,5 +1,9 @@
 {
     "title": "Vatican Kiseki Chousakan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191927.jpg",
+        "alt": "vatican-kiseki-chousakan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

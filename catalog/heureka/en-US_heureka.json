@@ -1,5 +1,9 @@
 {
     "title": "Heureka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14286.jpg",
+        "alt": "heureka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

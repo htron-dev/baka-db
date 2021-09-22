@@ -1,5 +1,9 @@
 {
     "title": "Toriko ni Natta... Kemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39564.jpg",
+        "alt": "toriko-ni-natta-kemono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

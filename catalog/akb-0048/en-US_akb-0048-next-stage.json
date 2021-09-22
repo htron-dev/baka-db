@@ -1,12 +1,16 @@
 {
     "title": "AKB0048: Next Stage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/44450.jpg",
+        "alt": "akb-0048-next-stage"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "AKB0048 next stage",
     "start_date": "2013-01-06",
     "end_date": "2013-01-06",
     "opening_song": "\"Aruji Naki Sono Koe (主なきその声)\" by NO NAME (eps 2-7, 9-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kono Namida wo Kimi ni Sasagu (この涙を君に捧ぐ)\" by NO NAME (eps 1-2, 5-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

@@ -1,5 +1,9 @@
 {
     "title": "Animal 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/47151.jpg",
+        "alt": "animal-1"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "アニマル１",

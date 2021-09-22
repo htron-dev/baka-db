@@ -1,5 +1,9 @@
 {
     "title": "Yoru wa Kimi-iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64607.jpg",
+        "alt": "yoru-wa-kimi-iro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

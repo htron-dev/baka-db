@@ -1,5 +1,9 @@
 {
     "title": "Musaigen no Phantom World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78339.jpg",
+        "alt": "musaigen-no-phantom-world"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "無彩限のファントム・ワールド",

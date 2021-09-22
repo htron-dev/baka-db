@@ -1,5 +1,9 @@
 {
     "title": "Strike Witches: Katayoku no Majo-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/86981.jpg",
+        "alt": "strike-witches-katayoku-no-majo-tachi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

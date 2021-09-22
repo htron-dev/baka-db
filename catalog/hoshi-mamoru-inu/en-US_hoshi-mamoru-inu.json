@@ -1,5 +1,9 @@
 {
     "title": "Hoshi Mamoru Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207064.jpg",
+        "alt": "hoshi-mamoru-inu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

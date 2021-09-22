@@ -1,5 +1,9 @@
 {
     "title": "Koishite Nanbo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/49255.jpg",
+        "alt": "koishite-nanbo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

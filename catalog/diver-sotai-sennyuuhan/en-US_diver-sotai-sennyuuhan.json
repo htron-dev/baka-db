@@ -1,5 +1,9 @@
 {
     "title": "Diver: Sotai Sennyuuhan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230507.jpg",
+        "alt": "diver-sotai-sennyuuhan"
+    },
     "type": "manga",
     "original_name": "DIVER-組対潜入班-",
     "start_date": "2014-10-22",

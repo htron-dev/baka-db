@@ -1,5 +1,9 @@
 {
     "title": "Naisho no Otome Revolver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175460.jpg",
+        "alt": "naisho-no-otome-revolver"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

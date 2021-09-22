@@ -1,10 +1,14 @@
 {
     "title": "Shinkansen Henkei Robo Shinkalion Z the Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1573/111862.jpg",
+        "alt": "shinkansen-henkei-robo-shinkalion-z-the-animation"
+    },
     "type": "tv-serie",
     "original_name": "新幹線変形ロボ シンカリオン Z THE ANIMATION",
     "start_date": "2021-04-09",
     "opening_song": "\"New Challenger\" by BOYS AND MEN (eps 1-??)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kizuna Rail (キズナ・レール)\" by Kazaki Morinaka meets ▽▲TRiNITY▲▽ (森中花咲 meets ▽▲TRiNITY▲▽) (eps 2-12)",
     "rating": "PG - Children",
     "tags": [
         "action",

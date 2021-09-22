@@ -1,5 +1,9 @@
 {
     "title": "Cutie Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18760.jpg",
+        "alt": "cutie-boy"
+    },
     "type": "manhwa",
     "volumes": "8",
     "chapters": "39",

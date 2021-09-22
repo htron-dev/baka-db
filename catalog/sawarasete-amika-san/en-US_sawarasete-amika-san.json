@@ -1,5 +1,9 @@
 {
     "title": "Sawarasete! Amika-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239858.jpg",
+        "alt": "sawarasete-amika-san"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "さわらせてっ！あみかさん",

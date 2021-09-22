@@ -1,5 +1,9 @@
 {
     "title": "Cleopatra D.C.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/141203.jpg",
+        "alt": "cleopatra-d-c"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "クレオパトラ D.C.",

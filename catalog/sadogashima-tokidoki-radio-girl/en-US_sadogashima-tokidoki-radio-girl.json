@@ -1,5 +1,9 @@
 {
     "title": "Sadogashima Tokidoki Radio Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217807.jpg",
+        "alt": "sadogashima-tokidoki-radio-girl"
+    },
     "type": "manga",
     "original_name": "佐渡島ときどきラジオガール",
     "start_date": "2018-01-30",

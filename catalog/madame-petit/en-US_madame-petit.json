@@ -1,5 +1,9 @@
 {
     "title": "Madame Petit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176951.jpg",
+        "alt": "madame-petit"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "54",

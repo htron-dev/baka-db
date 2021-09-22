@@ -1,5 +1,9 @@
 {
     "title": "Usagi-chan, Doshikori Moushiagemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235838.jpg",
+        "alt": "usagi-chan-doshikori-moushiagemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

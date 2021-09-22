@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Inakerya Iki mo Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/103027.jpg",
+        "alt": "kimi-ga-inakerya-iki-mo-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Onigiri Sasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170072.jpg",
+        "alt": "onigiri-sasa"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "おにぎりささ",

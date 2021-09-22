@@ -1,5 +1,9 @@
 {
     "title": "Mint na Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/175875.jpg",
+        "alt": "mint-na-bokura"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Marie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72904.jpg",
+        "alt": "boku-no-marie"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ぼくのマリー",

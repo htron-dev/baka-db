@@ -1,5 +1,9 @@
 {
     "title": "Honnou: Motto Midaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111777.jpg",
+        "alt": "honnou-motto-midaretai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

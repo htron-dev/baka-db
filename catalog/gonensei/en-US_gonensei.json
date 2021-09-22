@@ -1,5 +1,9 @@
 {
     "title": "Gonensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/87063.jpg",
+        "alt": "gonensei"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

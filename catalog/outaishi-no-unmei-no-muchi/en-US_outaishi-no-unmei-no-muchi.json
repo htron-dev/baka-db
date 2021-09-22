@@ -1,5 +1,9 @@
 {
     "title": "Outaishi no Unmei no Muchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186096.jpg",
+        "alt": "outaishi-no-unmei-no-muchi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

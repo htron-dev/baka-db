@@ -1,8 +1,12 @@
 {
     "title": "Spirit of Wonder: Shounen Kagaku Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/2723.jpg",
+        "alt": "spirit-of-wonder-shounen-kagaku-club"
+    },
     "type": "ova",
     "episodes": "2",
-    "original_name": "ザスピリットオブワンダー",
+    "original_name": "ザスピリットオブワンダー : 少年科學倶楽部",
     "start_date": "2001-01-25",
     "end_date": "2001-01-25",
     "rating": "PG-13 - Teens 13 or older",

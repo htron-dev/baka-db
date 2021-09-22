@@ -1,11 +1,15 @@
 {
     "title": "Doctor Chichibuyama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/51281.jpg",
+        "alt": "doctor-chichibuyama"
+    },
     "type": "tv-serie",
     "episodes": "2",
     "original_name": "ドクター秩父山",
     "start_date": "1988-04-03",
     "end_date": "1988-04-03",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Itsuka no Love Operation (未来のラブ・オペレーション)\" by Chichibuyama Band (秩父山バンド)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "ecchi",

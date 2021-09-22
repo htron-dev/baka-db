@@ -1,5 +1,9 @@
 {
     "title": "G'Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239008.jpg",
+        "alt": "g-day"
+    },
     "type": "manhwa",
     "volumes": "4",
     "original_name": "그다이",

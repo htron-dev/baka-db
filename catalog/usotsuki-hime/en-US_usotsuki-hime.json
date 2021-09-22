@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240443.jpg",
+        "alt": "usotsuki-hime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

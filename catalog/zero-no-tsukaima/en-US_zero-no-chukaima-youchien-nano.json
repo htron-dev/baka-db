@@ -1,5 +1,9 @@
 {
     "title": "Zero no Chukaima: Youchien nano!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173858.jpg",
+        "alt": "zero-no-chukaima-youchien-nano"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "63",

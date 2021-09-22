@@ -1,5 +1,9 @@
 {
     "title": "Yasashiku Shite yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40385.jpg",
+        "alt": "yasashiku-shite-yo"
+    },
     "type": "manga",
     "original_name": "優しくしてよ",
     "tags": [

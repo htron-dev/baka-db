@@ -1,5 +1,9 @@
 {
     "title": "Nijuu Mensou no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/8694.jpg",
+        "alt": "nijuu-mensou-no-musume"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "二十面相の娘",

@@ -1,12 +1,16 @@
 {
     "title": "Tsuideni Tonchinkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/16045.jpg",
+        "alt": "tsuideni-tonchinkan"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "ついでにとんちんかん",
     "start_date": "1987-10-10",
     "end_date": "1987-10-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Gomenne Cowboy\" by Ushirogami Hikaretai",
+    "ending_song": "#1: \"Moebius no Koibito\" by Ushirogami Hikaretai",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

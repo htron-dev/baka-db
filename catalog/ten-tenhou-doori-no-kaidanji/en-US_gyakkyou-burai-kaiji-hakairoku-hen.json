@@ -1,12 +1,16 @@
 {
     "title": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/30599.jpg",
+        "alt": "gyakkyou-burai-kaiji-hakairoku-hen"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "逆境無頼カイジ 破戒録篇",
     "start_date": "2011-04-06",
     "end_date": "2011-04-06",
     "opening_song": "\"Chase the Light!\" by Fear, and Loathing in Las Vegas",
-    "ending_song": "#1",
+    "ending_song": "#1: \"C Kara Hajimaru ABC\" by Wasureranneeyo (eps 1-25)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "game",

@@ -1,12 +1,16 @@
 {
     "title": "Pretty Rhythm: Aurora Dream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/36423.jpg",
+        "alt": "pretty-rhythm-aurora-dream"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "プリティーリズム オーロラドリーム",
     "start_date": "2011-04-09",
     "end_date": "2011-04-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"You May Dream\" by LISP (eps 1-29)",
+    "ending_song": "#1: \"Happy GO Lucky! ~Happy ☆ Lucky de Go!~ (Happy GO Lucky! 〜ハピ ☆ ラキでゴー!〜 )\" by SUPER☆GiRLS (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "slice-of-life",

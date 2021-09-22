@@ -1,5 +1,9 @@
 {
     "title": "Black Lagoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227037.jpg",
+        "alt": "black-lagoon"
+    },
     "type": "manga",
     "original_name": "ブラックラグーン",
     "start_date": "2002-04-19",

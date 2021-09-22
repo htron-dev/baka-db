@@ -1,5 +1,9 @@
 {
     "title": "Gaikotsu Knife de Jump",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140181.jpg",
+        "alt": "gaikotsu-knife-de-jump"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "骸骨ナイフでジャンプ",

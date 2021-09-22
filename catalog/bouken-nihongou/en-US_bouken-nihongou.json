@@ -1,5 +1,9 @@
 {
     "title": "Bouken Nihongou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228834.jpg",
+        "alt": "bouken-nihongou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "冒険日本号",

@@ -1,5 +1,9 @@
 {
     "title": "Black Clover Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1833/113800.jpg",
+        "alt": "black-clover-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "rating": "PG-13 - Teens 13 or older",

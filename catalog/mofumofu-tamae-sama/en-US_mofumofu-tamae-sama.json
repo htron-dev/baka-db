@@ -1,5 +1,9 @@
 {
     "title": "Mofumofu Tamae-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163078.jpg",
+        "alt": "mofumofu-tamae-sama"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

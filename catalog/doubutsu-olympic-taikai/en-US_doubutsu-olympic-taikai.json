@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu Olympic Taikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/85242.jpg",
+        "alt": "doubutsu-olympic-taikai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "動物オリムピック大會",

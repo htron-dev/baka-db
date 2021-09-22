@@ -1,5 +1,9 @@
 {
     "title": "Oikakete mo Chikazukuite mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20248.jpg",
+        "alt": "oikakete-mo-chikazukuite-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

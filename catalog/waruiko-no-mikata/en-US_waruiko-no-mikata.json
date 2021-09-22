@@ -1,5 +1,9 @@
 {
     "title": "Waruiko no Mikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125505.jpg",
+        "alt": "waruiko-no-mikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Final Fantasy VII: On the Way to a Smile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83879.jpg",
+        "alt": "final-fantasy-vii-on-the-way-to-a-smile"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

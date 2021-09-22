@@ -1,5 +1,9 @@
 {
     "title": "Ouji to Kojiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/100613.jpg",
+        "alt": "ouji-to-kojiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

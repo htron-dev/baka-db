@@ -1,5 +1,9 @@
 {
     "title": "Ekiben Hitoritabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45423.jpg",
+        "alt": "ekiben-hitoritabi"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "151",

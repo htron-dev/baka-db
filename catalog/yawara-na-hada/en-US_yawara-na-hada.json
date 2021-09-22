@@ -1,5 +1,9 @@
 {
     "title": "Yawara na Hada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171531.jpg",
+        "alt": "yawara-na-hada"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

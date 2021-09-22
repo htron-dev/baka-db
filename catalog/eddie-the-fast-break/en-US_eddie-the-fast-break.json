@@ -1,5 +1,9 @@
 {
     "title": "Eddie the Fast Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/70727.jpg",
+        "alt": "eddie-the-fast-break"
+    },
     "type": "tv-serie",
     "episodes": "7",
     "original_name": "エディ・ザ・ファーストブレイク",

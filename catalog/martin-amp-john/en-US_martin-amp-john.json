@@ -1,5 +1,9 @@
 {
     "title": "Martin &amp; John",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/62723.jpg",
+        "alt": "martin-amp-john"
+    },
     "type": "manhwa",
     "volumes": "12",
     "original_name": "마틴&존",

@@ -1,5 +1,9 @@
 {
     "title": "Anata no Danna Uwaki shitemasu yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206130.jpg",
+        "alt": "anata-no-danna-uwaki-shitemasu-yo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

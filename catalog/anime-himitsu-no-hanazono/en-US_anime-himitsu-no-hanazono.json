@@ -1,5 +1,9 @@
 {
     "title": "Anime Himitsu no Hanazono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/69919.jpg",
+        "alt": "anime-himitsu-no-hanazono"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "アニメ ひみつの花園",

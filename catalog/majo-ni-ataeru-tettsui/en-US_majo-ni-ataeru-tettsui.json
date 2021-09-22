@@ -1,5 +1,9 @@
 {
     "title": "Majo ni Ataeru Tettsui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137593.jpg",
+        "alt": "majo-ni-ataeru-tettsui"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Buppu na Mainichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/84189.jpg",
+        "alt": "buppu-na-mainichi"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "ぶっぷな毎日",

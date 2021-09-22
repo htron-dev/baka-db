@@ -1,5 +1,9 @@
 {
     "title": "Slime-tachi no Itobata Kaigi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1860/113887.jpg",
+        "alt": "slime-tachi-no-itobata-kaigi"
+    },
     "type": "ona",
     "episodes": "25",
     "original_name": "スライムたちの井戸端会議",

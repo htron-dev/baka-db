@@ -1,5 +1,9 @@
 {
     "title": "Inu Neko Jump!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76839.jpg",
+        "alt": "inu-neko-jump"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

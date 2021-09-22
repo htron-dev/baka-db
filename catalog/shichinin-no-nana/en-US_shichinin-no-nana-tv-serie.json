@@ -1,5 +1,9 @@
 {
     "title": "Shichinin no Nana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/35193.jpg",
+        "alt": "shichinin-no-nana"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "七人のナナ",

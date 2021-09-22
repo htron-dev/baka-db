@@ -1,5 +1,9 @@
 {
     "title": "Lucky Jou-chan no Atarashii Shigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229067.jpg",
+        "alt": "lucky-jou-chan-no-atarashii-shigoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

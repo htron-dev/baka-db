@@ -1,5 +1,9 @@
 {
     "title": "Bonobono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171791.jpg",
+        "alt": "bonobono"
+    },
     "type": "manga",
     "original_name": "ぼのぼの",
     "tags": [

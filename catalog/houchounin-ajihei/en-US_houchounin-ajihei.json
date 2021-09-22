@@ -1,5 +1,9 @@
 {
     "title": "Houchounin Ajihei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194933.jpg",
+        "alt": "houchounin-ajihei"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "116",

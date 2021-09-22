@@ -1,5 +1,9 @@
 {
     "title": "From Yesterday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161930.jpg",
+        "alt": "from-yesterday"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

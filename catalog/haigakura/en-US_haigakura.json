@@ -1,5 +1,9 @@
 {
     "title": "Haigakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157895.jpg",
+        "alt": "haigakura"
+    },
     "type": "manga",
     "original_name": "ハイガクラ",
     "start_date": "2008-01-16",

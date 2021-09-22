@@ -1,5 +1,9 @@
 {
     "title": "Kimetsu no Yaiba Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238006.jpg",
+        "alt": "kimetsu-no-yaiba-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

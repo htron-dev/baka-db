@@ -1,5 +1,9 @@
 {
     "title": "Only Sense Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157821.jpg",
+        "alt": "only-sense-online"
+    },
     "type": "manga",
     "original_name": "Only Sense Online -オンリーセンス・オンライン-",
     "start_date": "2014-12-09",

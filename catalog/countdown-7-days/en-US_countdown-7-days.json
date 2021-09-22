@@ -1,5 +1,9 @@
 {
     "title": "Countdown 7 Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178111.jpg",
+        "alt": "countdown-7-days"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

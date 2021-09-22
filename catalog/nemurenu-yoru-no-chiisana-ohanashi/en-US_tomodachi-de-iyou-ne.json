@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi de Iyou ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/70279.jpg",
+        "alt": "tomodachi-de-iyou-ne"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ともだちでいようね",

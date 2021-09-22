@@ -1,5 +1,9 @@
 {
     "title": "Empty Sweetie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226463.jpg",
+        "alt": "empty-sweetie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

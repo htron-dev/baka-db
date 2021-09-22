@@ -1,5 +1,9 @@
 {
     "title": "Hanayome wa Ai ni Sarawareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239414.jpg",
+        "alt": "hanayome-wa-ai-ni-sarawareru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "花嫁は愛に攫われる",

@@ -1,5 +1,9 @@
 {
     "title": "Aoba Jitensha-ten e Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166496.jpg",
+        "alt": "aoba-jitensha-ten-e-youkoso"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "123",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Yome wa Kamatte Hoshii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184617.jpg",
+        "alt": "dragon-yome-wa-kamatte-hoshii"
+    },
     "type": "light-novel",
     "original_name": "ドラゴン嫁はかまってほしい",
     "start_date": "2016-10-20",

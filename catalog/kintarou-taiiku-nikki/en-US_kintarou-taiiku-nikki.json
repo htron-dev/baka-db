@@ -1,5 +1,9 @@
 {
     "title": "Kintarou Taiiku Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/18000.jpg",
+        "alt": "kintarou-taiiku-nikki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キンタロー体育日記",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Style Bakudan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25925.jpg",
+        "alt": "tokyo-style-bakudan"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "東京スタイル爆弾",

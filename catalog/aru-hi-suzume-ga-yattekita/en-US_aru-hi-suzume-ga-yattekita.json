@@ -1,5 +1,9 @@
 {
     "title": "Aru Hi, Suzume ga Yattekita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236587.jpg",
+        "alt": "aru-hi-suzume-ga-yattekita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "30",

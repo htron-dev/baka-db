@@ -1,5 +1,9 @@
 {
     "title": "Sentimental Journey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/49617.jpg",
+        "alt": "sentimental-journey"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "センチメンタルジャーニー",

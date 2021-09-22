@@ -1,5 +1,9 @@
 {
     "title": "Ishuzoku Reviewers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1870/105970.jpg",
+        "alt": "ishuzoku-reviewers"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "異種族レビュアーズ",

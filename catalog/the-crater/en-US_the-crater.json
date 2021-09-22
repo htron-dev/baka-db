@@ -1,5 +1,9 @@
 {
     "title": "The Crater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/176647.jpg",
+        "alt": "the-crater"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Sukedachi 09",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161335.jpg",
+        "alt": "sukedachi-09"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

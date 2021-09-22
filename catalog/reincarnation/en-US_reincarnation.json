@@ -1,5 +1,9 @@
 {
     "title": "Reincarnation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230732.jpg",
+        "alt": "reincarnation"
+    },
     "type": "manga",
     "original_name": "リーインカーネーション",
     "start_date": "2018-06-22",

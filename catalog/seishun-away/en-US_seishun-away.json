@@ -1,5 +1,9 @@
 {
     "title": "Seishun Away",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196694.jpg",
+        "alt": "seishun-away"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

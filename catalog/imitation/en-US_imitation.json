@@ -1,5 +1,9 @@
 {
     "title": "Imitation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194529.jpg",
+        "alt": "imitation"
+    },
     "type": "manhwa",
     "original_name": "이미테이션",
     "start_date": "2014-09-30",

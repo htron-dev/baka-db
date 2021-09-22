@@ -1,5 +1,9 @@
 {
     "title": "Watashitachi no Shiawase na Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66993.jpg",
+        "alt": "watashitachi-no-shiawase-na-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

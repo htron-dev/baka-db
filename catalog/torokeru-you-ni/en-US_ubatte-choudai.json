@@ -1,5 +1,9 @@
 {
     "title": "Ubatte Choudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/148759.jpg",
+        "alt": "ubatte-choudai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Over Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191761.jpg",
+        "alt": "over-drive"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "150",

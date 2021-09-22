@@ -1,5 +1,9 @@
 {
     "title": "Andhaka no Kaizougaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162873.jpg",
+        "alt": "andhaka-no-kaizougaku"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "93",

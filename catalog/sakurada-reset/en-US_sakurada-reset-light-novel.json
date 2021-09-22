@@ -1,5 +1,9 @@
 {
     "title": "Sakurada Reset",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183766.jpg",
+        "alt": "sakurada-reset"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "37",

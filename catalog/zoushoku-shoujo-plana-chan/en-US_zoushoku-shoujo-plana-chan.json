@@ -1,5 +1,9 @@
 {
     "title": "Zoushoku Shoujo Plana-chan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219743.jpg",
+        "alt": "zoushoku-shoujo-plana-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

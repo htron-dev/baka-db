@@ -1,5 +1,9 @@
 {
     "title": "Matsurika Kanriden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224411.jpg",
+        "alt": "matsurika-kanriden"
+    },
     "type": "light-novel",
     "original_name": "茉莉花官吏伝",
     "start_date": "2017-07-15",

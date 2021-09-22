@@ -1,5 +1,9 @@
 {
     "title": "Taekwon-wang Gang Taepung",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1214/114454.jpg",
+        "alt": "taekwon-wang-gang-taepung"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "태권왕 강태풍",

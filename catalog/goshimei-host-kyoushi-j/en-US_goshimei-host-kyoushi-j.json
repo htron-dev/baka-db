@@ -1,5 +1,9 @@
 {
     "title": "Goshimei! Host Kyoushi J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39357.jpg",
+        "alt": "goshimei-host-kyoushi-j"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "男公关教师 J",

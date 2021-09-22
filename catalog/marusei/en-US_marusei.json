@@ -1,5 +1,9 @@
 {
     "title": "Marusei!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242103.jpg",
+        "alt": "marusei"
+    },
     "type": "manga",
     "original_name": "マルセイ‼",
     "start_date": "2017-10-25",

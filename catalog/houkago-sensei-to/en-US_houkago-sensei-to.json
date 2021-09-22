@@ -1,5 +1,9 @@
 {
     "title": "Houkago Sensei to.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203637.jpg",
+        "alt": "houkago-sensei-to"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

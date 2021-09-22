@@ -1,5 +1,9 @@
 {
     "title": "009 no 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/111935.jpg",
+        "alt": "009-no-1"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "48",

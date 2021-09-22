@@ -1,5 +1,9 @@
 {
     "title": "Raiden-18",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246219.jpg",
+        "alt": "raiden-18"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

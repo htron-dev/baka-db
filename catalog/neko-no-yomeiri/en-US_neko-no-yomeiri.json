@@ -1,5 +1,9 @@
 {
     "title": "Neko no Yomeiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85103.jpg",
+        "alt": "neko-no-yomeiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

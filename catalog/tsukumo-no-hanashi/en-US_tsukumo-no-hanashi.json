@@ -1,5 +1,9 @@
 {
     "title": "Tsukumo no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189829.jpg",
+        "alt": "tsukumo-no-hanashi"
+    },
     "type": "manga",
     "original_name": "つくものはなし",
     "start_date": "2015-10-30",

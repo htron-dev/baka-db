@@ -1,5 +1,9 @@
 {
     "title": "Yaban no Sono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32475.jpg",
+        "alt": "yaban-no-sono"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "野蛮の園",

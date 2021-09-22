@@ -1,5 +1,9 @@
 {
     "title": "Guuzen no Deai wa Mitsu no Kaori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193486.jpg",
+        "alt": "guuzen-no-deai-wa-mitsu-no-kaori"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

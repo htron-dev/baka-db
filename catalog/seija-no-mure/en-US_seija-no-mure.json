@@ -1,5 +1,9 @@
 {
     "title": "Seija no Mure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41131.jpg",
+        "alt": "seija-no-mure"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "聖者の群れ",

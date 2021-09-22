@@ -1,5 +1,9 @@
 {
     "title": "Shin Megami Tensei: Tokyo Mokushiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/22243.jpg",
+        "alt": "shin-megami-tensei-tokyo-mokushiroku"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "真・女神転生　東京黙示録",

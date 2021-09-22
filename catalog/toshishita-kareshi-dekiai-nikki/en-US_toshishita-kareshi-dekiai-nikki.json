@@ -1,5 +1,9 @@
 {
     "title": "Toshishita Kareshi Dekiai Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241264.jpg",
+        "alt": "toshishita-kareshi-dekiai-nikki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

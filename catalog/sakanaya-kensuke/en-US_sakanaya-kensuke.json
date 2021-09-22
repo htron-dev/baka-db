@@ -1,5 +1,9 @@
 {
     "title": "Sakanaya Kensuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90091.jpg",
+        "alt": "sakanaya-kensuke"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

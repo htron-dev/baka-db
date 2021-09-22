@@ -1,5 +1,9 @@
 {
     "title": "The Choujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/41453.jpg",
+        "alt": "the-choujo"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ザ・超女[ザ・スーパーギャル]",

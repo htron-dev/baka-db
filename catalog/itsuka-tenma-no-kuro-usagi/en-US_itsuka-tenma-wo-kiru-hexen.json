@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Tenma wo Kiru Hexen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105581.jpg",
+        "alt": "itsuka-tenma-wo-kiru-hexen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

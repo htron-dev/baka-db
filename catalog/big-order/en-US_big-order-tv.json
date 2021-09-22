@@ -1,12 +1,16 @@
 {
     "title": "Big Order (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/79913.jpg",
+        "alt": "big-order-tv"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ビッグオーダー",
     "start_date": "2016-04-16",
     "end_date": "2016-04-16",
     "opening_song": "\"DISORDER\" by Yousei Teikoku (eps 2-9)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Order Hatsudou!\" by Yui Mugino (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

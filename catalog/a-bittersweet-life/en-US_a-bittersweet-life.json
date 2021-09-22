@@ -1,5 +1,9 @@
 {
     "title": "A Bittersweet Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148197.jpg",
+        "alt": "a-bittersweet-life"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "31",

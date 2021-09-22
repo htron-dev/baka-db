@@ -1,5 +1,9 @@
 {
     "title": "Playboy Okotowari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193011.jpg",
+        "alt": "playboy-okotowari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

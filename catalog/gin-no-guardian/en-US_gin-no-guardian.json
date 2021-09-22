@@ -1,5 +1,9 @@
 {
     "title": "Gin no Guardian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/86525.jpg",
+        "alt": "gin-no-guardian"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "銀の墓守り〈ガーディアン〉",

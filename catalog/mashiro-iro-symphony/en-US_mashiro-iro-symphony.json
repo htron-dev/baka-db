@@ -1,5 +1,9 @@
 {
     "title": "Mashiro-iro Symphony",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/83611.jpg",
+        "alt": "mashiro-iro-symphony"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

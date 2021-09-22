@@ -1,5 +1,9 @@
 {
     "title": "Koishitagari no Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41399.jpg",
+        "alt": "koishitagari-no-blue"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

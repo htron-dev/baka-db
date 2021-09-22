@@ -1,5 +1,9 @@
 {
     "title": "Tanjou: Debut",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/71728.jpg",
+        "alt": "tanjou-debut"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "誕生～Ｄｅｂｕｔ～",

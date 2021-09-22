@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu Shoujo Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226617.jpg",
+        "alt": "kaibutsu-shoujo-zukan"
+    },
     "type": "manga",
     "original_name": "怪物少女図鑑",
     "start_date": "2019-04-24",

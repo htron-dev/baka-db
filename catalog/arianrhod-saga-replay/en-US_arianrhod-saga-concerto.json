@@ -1,5 +1,9 @@
 {
     "title": "Arianrhod Saga: Concerto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109143.jpg",
+        "alt": "arianrhod-saga-concerto"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "アリアンロッド・サガ・コンチェルト",

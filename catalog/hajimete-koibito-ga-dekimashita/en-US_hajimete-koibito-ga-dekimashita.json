@@ -1,5 +1,9 @@
 {
     "title": "Hajimete Koibito ga Dekimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243077.jpg",
+        "alt": "hajimete-koibito-ga-dekimashita"
+    },
     "type": "manga",
     "original_name": "初めて恋人ができました。",
     "start_date": "2021-02-26",

@@ -1,5 +1,9 @@
 {
     "title": "The Bullet Saint",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38910.jpg",
+        "alt": "the-bullet-saint"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "34",

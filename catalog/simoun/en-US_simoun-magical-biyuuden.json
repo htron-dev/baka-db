@@ -1,5 +1,9 @@
 {
     "title": "Simoun: Magical Biyuuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36785.jpg",
+        "alt": "simoun-magical-biyuuden"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "シムーン 〜まじかる美勇伝〜",

@@ -1,5 +1,9 @@
 {
     "title": "Dareka wo Suki na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149245.jpg",
+        "alt": "dareka-wo-suki-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

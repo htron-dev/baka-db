@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Finder no Hyouteki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31640.jpg",
+        "alt": "koisuru-finder-no-hyouteki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

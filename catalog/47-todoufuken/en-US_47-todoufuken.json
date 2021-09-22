@@ -1,5 +1,9 @@
 {
     "title": "47 Todoufuken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/67133.jpg",
+        "alt": "47-todoufuken"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "47 都道府犬",

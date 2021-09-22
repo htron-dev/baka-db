@@ -1,5 +1,9 @@
 {
     "title": "Kare no Nemuru Basho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82154.jpg",
+        "alt": "kare-no-nemuru-basho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

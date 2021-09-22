@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Z: Summer Vacation Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/60343.jpg",
+        "alt": "dragon-ball-z-summer-vacation-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "極限バトル!!三大超サイヤ人　スペシャル",

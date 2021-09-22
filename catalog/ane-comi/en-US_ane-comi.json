@@ -1,5 +1,9 @@
 {
     "title": "Ane Comi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188811.jpg",
+        "alt": "ane-comi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

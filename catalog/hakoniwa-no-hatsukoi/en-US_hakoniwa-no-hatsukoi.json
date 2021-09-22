@@ -1,5 +1,9 @@
 {
     "title": "Hakoniwa no Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181272.jpg",
+        "alt": "hakoniwa-no-hatsukoi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Kousha no Sora de wa Akuma ga Waratteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247902.jpg",
+        "alt": "kousha-no-sora-de-wa-akuma-ga-waratteiru"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

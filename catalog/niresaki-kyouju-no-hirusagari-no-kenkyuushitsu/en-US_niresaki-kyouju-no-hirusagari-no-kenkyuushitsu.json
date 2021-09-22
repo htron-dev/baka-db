@@ -1,5 +1,9 @@
 {
     "title": "Niresaki Kyouju no Hirusagari no Kenkyuushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152410.jpg",
+        "alt": "niresaki-kyouju-no-hirusagari-no-kenkyuushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

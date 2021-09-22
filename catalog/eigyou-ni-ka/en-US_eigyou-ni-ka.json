@@ -1,5 +1,9 @@
 {
     "title": "Eigyou Ni-ka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167180.jpg",
+        "alt": "eigyou-ni-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

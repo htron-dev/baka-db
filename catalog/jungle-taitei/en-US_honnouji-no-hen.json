@@ -1,5 +1,9 @@
 {
     "title": "Honnouji no Hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1074/108395.jpg",
+        "alt": "honnouji-no-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "本能寺の変",

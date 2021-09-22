@@ -1,5 +1,9 @@
 {
     "title": "Digimon Adventure: Bokura no War Game!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/72451.jpg",
+        "alt": "digimon-adventure-bokura-no-war-game"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デジモンアドベンチャー ぼくらのウォーゲーム！",

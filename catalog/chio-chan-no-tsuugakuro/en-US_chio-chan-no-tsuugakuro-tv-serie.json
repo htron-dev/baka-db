@@ -1,12 +1,16 @@
 {
     "title": "Chio-chan no Tsuugakuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1073/95042.jpg",
+        "alt": "chio-chan-no-tsuugakuro"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ちおちゃんの通学路",
     "start_date": "2018-07-06",
     "end_date": "2018-07-06",
-    "opening_song": "\"Danger in my Tsuugakuro (Danger in my 通学路)\" by Chio Miyamo (CV",
-    "ending_song": "\"Nanairoad (ナナイロード)\" by Chio Miyamo (CV",
+    "opening_song": "\"Danger in my Tsuugakuro (Danger in my 通学路)\" by Chio Miyamo (CV: Naomi Oozora), Manana Nonomura (CV: Chiaki Omigawa), and Yuki Hosokawa (CV: Kaede Hondo)",
+    "ending_song": "\"Nanairoad (ナナイロード)\" by Chio Miyamo (CV: Naomi Oozora) and Manana Nonomura (CV: Chiaki Omigawa)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

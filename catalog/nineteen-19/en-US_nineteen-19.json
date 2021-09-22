@@ -1,5 +1,9 @@
 {
     "title": "Nineteen 19",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/31679.jpg",
+        "alt": "nineteen-19"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "NINETEEN 19",

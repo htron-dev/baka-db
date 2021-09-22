@@ -1,5 +1,9 @@
 {
     "title": "Natsu no Koshien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10079.jpg",
+        "alt": "natsu-no-koshien"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

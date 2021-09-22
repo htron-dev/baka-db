@@ -1,5 +1,9 @@
 {
     "title": "Jitto Mitsumeru Kimi wa Datenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170945.jpg",
+        "alt": "jitto-mitsumeru-kimi-wa-datenshi"
+    },
     "type": "light-novel",
     "original_name": "じっと見つめる君は堕天使",
     "start_date": "2016-02-01",

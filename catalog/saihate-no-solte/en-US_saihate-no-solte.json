@@ -1,5 +1,9 @@
 {
     "title": "Saihate no Solte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239645.jpg",
+        "alt": "saihate-no-solte"
+    },
     "type": "manga",
     "original_name": "最果てのソルテ",
     "start_date": "2020-01-20",

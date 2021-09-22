@@ -1,5 +1,9 @@
 {
     "title": "Satsui no Message",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24810.jpg",
+        "alt": "satsui-no-message"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "殺意のメッセージ",

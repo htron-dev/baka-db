@@ -1,5 +1,9 @@
 {
     "title": "Otona♡Pink",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208997.jpg",
+        "alt": "otona♡-pink"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

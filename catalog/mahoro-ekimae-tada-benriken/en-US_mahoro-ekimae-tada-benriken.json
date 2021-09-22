@@ -1,5 +1,9 @@
 {
     "title": "Mahoro Ekimae Tada Benriken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185162.jpg",
+        "alt": "mahoro-ekimae-tada-benriken"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

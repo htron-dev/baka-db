@@ -1,5 +1,9 @@
 {
     "title": "Green Green",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75251.jpg",
+        "alt": "green-green"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "グリーングリーン",

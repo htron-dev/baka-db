@@ -1,5 +1,9 @@
 {
     "title": "Hiiro no Gyokuza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195140.jpg",
+        "alt": "hiiro-no-gyokuza"
+    },
     "type": "light-novel",
     "original_name": "緋色の玉座",
     "start_date": "2017-05-01",

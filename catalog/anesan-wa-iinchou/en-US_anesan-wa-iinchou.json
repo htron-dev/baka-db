@@ -1,5 +1,9 @@
 {
     "title": "Anesan wa Iinchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181484.jpg",
+        "alt": "anesan-wa-iinchou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

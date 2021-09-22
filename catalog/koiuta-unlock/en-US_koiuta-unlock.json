@@ -1,5 +1,9 @@
 {
     "title": "Koiuta Unlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237874.jpg",
+        "alt": "koiuta-unlock"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

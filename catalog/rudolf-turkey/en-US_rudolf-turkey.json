@@ -1,5 +1,9 @@
 {
     "title": "Rudolf Turkey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124803.jpg",
+        "alt": "rudolf-turkey"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "53",

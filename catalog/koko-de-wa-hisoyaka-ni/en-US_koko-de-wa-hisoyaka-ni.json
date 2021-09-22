@@ -1,5 +1,9 @@
 {
     "title": "Koko de wa Hisoyaka ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204502.jpg",
+        "alt": "koko-de-wa-hisoyaka-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

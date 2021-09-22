@@ -1,5 +1,9 @@
 {
     "title": "Kore wa Zombie desu ka? Hai, Anata no Yome desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159838.jpg",
+        "alt": "kore-wa-zombie-desu-ka-hai-anata-no-yome-desu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

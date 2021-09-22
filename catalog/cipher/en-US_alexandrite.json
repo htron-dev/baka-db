@@ -1,5 +1,9 @@
 {
     "title": "Alexandrite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17054.jpg",
+        "alt": "alexandrite"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

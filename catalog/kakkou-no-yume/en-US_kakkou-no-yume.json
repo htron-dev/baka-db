@@ -1,5 +1,9 @@
 {
     "title": "Kakkou no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223885.jpg",
+        "alt": "kakkou-no-yume"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

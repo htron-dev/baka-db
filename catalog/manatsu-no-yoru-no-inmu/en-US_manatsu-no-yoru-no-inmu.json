@@ -1,5 +1,9 @@
 {
     "title": "Manatsu no Yoru no Inmu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192805.jpg",
+        "alt": "manatsu-no-yoru-no-inmu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

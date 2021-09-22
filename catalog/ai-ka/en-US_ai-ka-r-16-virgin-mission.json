@@ -1,8 +1,12 @@
 {
     "title": "AIKa R-16: Virgin Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/9069.jpg",
+        "alt": "ai-ka-r-16-virgin-mission"
+    },
     "type": "ova",
     "episodes": "3",
-    "original_name": "AIKa R-16",
+    "original_name": "AIKa R-16:VIRGIN MISSION",
     "start_date": "2007-04-25",
     "end_date": "2007-04-25",
     "opening_song": "\"Sailing To The Future\" by Ami Koshimizu",

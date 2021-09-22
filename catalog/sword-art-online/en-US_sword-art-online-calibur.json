@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Calibur",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162192.jpg",
+        "alt": "sword-art-online-calibur"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

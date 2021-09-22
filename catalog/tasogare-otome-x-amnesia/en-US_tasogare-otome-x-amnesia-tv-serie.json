@@ -1,12 +1,16 @@
 {
     "title": "Tasogare Otome x Amnesia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/64435.jpg",
+        "alt": "tasogare-otome-x-amnesia"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "黄昏乙女 × アムネジア",
     "start_date": "2012-04-09",
     "end_date": "2012-04-09",
     "opening_song": "\"CHOIR JAIL (クワイア ジェイル)\" by Konomi Suzuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"CHOIR JAIL (クワイア ジェイル)\" by Konomi Suzuki (eps 1, 12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "horror",

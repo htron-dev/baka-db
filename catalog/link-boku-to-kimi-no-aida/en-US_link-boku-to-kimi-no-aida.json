@@ -1,5 +1,9 @@
 {
     "title": "Link: Boku to Kimi no Aida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152657.jpg",
+        "alt": "link-boku-to-kimi-no-aida"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

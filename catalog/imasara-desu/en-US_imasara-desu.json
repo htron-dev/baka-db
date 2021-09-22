@@ -1,5 +1,9 @@
 {
     "title": "Imasara desu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194555.jpg",
+        "alt": "imasara-desu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "今更です! !",

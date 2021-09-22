@@ -1,5 +1,9 @@
 {
     "title": "Umi yori mo Fukaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/35879.jpg",
+        "alt": "umi-yori-mo-fukaku"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "海よりも深く",

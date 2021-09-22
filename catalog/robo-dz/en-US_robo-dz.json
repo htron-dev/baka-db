@@ -1,5 +1,9 @@
 {
     "title": "RoboDz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/8715.jpg",
+        "alt": "robo-dz"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ロボディーズ-RoboDz-風雲篇",

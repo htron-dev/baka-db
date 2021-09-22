@@ -1,5 +1,9 @@
 {
     "title": "Trigger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203685.jpg",
+        "alt": "trigger"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "39",

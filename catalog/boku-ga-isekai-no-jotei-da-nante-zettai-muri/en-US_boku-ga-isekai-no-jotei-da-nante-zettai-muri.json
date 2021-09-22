@@ -1,5 +1,9 @@
 {
     "title": "Boku ga Isekai no Jotei da Nante Zettai Muri!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168647.jpg",
+        "alt": "boku-ga-isekai-no-jotei-da-nante-zettai-muri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

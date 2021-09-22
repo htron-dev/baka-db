@@ -1,5 +1,9 @@
 {
     "title": "Crash!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/44498.jpg",
+        "alt": "crash"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "クラッシュ！",

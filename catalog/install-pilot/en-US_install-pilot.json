@@ -1,5 +1,9 @@
 {
     "title": "Install Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/30669.jpg",
+        "alt": "install-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "印ストール",

@@ -1,5 +1,9 @@
 {
     "title": "Darenimo Ienai, Futarigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229255.jpg",
+        "alt": "darenimo-ienai-futarigoto"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "誰にも言えない、ふたりごと",

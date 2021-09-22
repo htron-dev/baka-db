@@ -1,5 +1,9 @@
 {
     "title": "Mirai Shounen Conan (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/29838.jpg",
+        "alt": "mirai-shounen-conan-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "未来少年コナン (1979)",

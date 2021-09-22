@@ -1,5 +1,9 @@
 {
     "title": "Stranger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58811.jpg",
+        "alt": "stranger"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

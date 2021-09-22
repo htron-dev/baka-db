@@ -1,5 +1,9 @@
 {
     "title": "Mentori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/89642.jpg",
+        "alt": "mentori"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "めんトリ",

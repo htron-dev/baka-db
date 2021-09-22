@@ -1,5 +1,9 @@
 {
     "title": "Shin Kidou Senki Gundam Wing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6310.jpg",
+        "alt": "shin-kidou-senki-gundam-wing"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

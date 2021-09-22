@@ -1,5 +1,9 @@
 {
     "title": "Beageruta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/85809.jpg",
+        "alt": "beageruta"
+    },
     "type": "manga",
     "original_name": "ベアゲルター",
     "start_date": "2011-07-07",

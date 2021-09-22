@@ -1,5 +1,9 @@
 {
     "title": "Shounen Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179024.jpg",
+        "alt": "shounen-shoujo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

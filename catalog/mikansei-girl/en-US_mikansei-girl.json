@@ -1,5 +1,9 @@
 {
     "title": "Mikansei Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151724.jpg",
+        "alt": "mikansei-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

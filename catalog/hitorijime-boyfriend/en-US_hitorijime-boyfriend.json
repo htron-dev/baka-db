@@ -1,5 +1,9 @@
 {
     "title": "Hitorijime Boyfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77419.jpg",
+        "alt": "hitorijime-boyfriend"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

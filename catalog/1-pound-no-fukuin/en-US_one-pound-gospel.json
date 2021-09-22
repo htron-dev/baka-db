@@ -1,5 +1,9 @@
 {
     "title": "One Pound Gospel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1577/99202.jpg",
+        "alt": "one-pound-gospel"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "１ポンドの福音",

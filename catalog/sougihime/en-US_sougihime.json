@@ -1,5 +1,9 @@
 {
     "title": "Sougihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246969.jpg",
+        "alt": "sougihime"
+    },
     "type": "manga",
     "original_name": "葬儀姫",
     "start_date": "2010-11-11",

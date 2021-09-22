@@ -1,5 +1,9 @@
 {
     "title": "Wagamama Mille-Feuille",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113765.jpg",
+        "alt": "wagamama-mille-feuille"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

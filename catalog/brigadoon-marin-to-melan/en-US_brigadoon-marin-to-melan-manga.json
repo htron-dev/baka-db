@@ -1,5 +1,9 @@
 {
     "title": "Brigadoon: Marin to Melan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200076.jpg",
+        "alt": "brigadoon-marin-to-melan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

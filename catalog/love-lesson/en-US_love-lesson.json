@@ -1,5 +1,9 @@
 {
     "title": "Love Lesson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87995.jpg",
+        "alt": "love-lesson"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

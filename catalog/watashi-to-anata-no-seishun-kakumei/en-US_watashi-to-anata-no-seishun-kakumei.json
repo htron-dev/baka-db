@@ -1,5 +1,9 @@
 {
     "title": "Watashi to Anata no Seishun Kakumei.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164381.jpg",
+        "alt": "watashi-to-anata-no-seishun-kakumei"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "私とあなたの青春革命。",

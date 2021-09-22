@@ -1,5 +1,9 @@
 {
     "title": "The Dragon Next Door",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/110525.jpg",
+        "alt": "the-dragon-next-door"
+    },
     "type": "manhwa",
     "original_name": "용이 산다",
     "start_date": "2013-07-02",

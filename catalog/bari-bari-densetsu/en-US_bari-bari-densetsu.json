@@ -1,12 +1,16 @@
 {
     "title": "Bari Bari Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/58873.jpg",
+        "alt": "bari-bari-densetsu"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "バリバリ伝説",
     "start_date": "1986-05-10",
     "end_date": "1986-05-10",
     "opening_song": "\"Slope ni Tenki Ame (スロープに天気雨)\" by Youko Oginome",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Namida wa Speed Yurasu kara (涙はスピード揺らすから)\" by Youko Oginome (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "My Bodyguard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/169077.jpg",
+        "alt": "my-bodyguard"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

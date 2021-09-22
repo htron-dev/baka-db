@@ -1,5 +1,9 @@
 {
     "title": "Crash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190851.jpg",
+        "alt": "crash"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

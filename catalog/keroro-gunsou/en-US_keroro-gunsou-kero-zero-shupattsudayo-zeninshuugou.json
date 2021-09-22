@@ -1,5 +1,9 @@
 {
     "title": "Keroro Gunsou: KeroZero Shupattsudayo! Zeninshuugou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/31493.jpg",
+        "alt": "keroro-gunsou-kero-zero-shupattsudayo-zeninshuugou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ケロ０　出発だよ！全員集合！！",

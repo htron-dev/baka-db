@@ -1,5 +1,9 @@
 {
     "title": "Gintama.: Porori-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/88325.jpg",
+        "alt": "gintama-porori-hen"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "銀魂。ポロリ編",

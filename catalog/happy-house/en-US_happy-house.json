@@ -1,5 +1,9 @@
 {
     "title": "Happy House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107653.jpg",
+        "alt": "happy-house"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ハッピィ ハウス",

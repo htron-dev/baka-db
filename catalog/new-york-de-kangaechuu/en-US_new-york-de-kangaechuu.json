@@ -1,5 +1,9 @@
 {
     "title": "New York de Kangaechuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183532.jpg",
+        "alt": "new-york-de-kangaechuu"
+    },
     "type": "manga",
     "original_name": "ニューヨークで考え中",
     "start_date": "2012-08-09",

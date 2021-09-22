@@ -1,5 +1,9 @@
 {
     "title": "1 + 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5950.jpg",
+        "alt": "1-1"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "いち たす いち",

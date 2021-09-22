@@ -1,5 +1,9 @@
 {
     "title": "Aniki Joutou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25659.jpg",
+        "alt": "aniki-joutou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

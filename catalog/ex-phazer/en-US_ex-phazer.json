@@ -1,5 +1,9 @@
 {
     "title": "Ex-Phazer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162768.jpg",
+        "alt": "ex-phazer"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

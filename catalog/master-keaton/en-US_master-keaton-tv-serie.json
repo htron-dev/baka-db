@@ -1,12 +1,16 @@
 {
     "title": "Master Keaton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/2817.jpg",
+        "alt": "master-keaton"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "マスターキートン",
     "start_date": "1998-10-06",
     "end_date": "1998-10-06",
     "opening_song": "\"Railtown\" by Kuniaki Haishima",
-    "ending_song": "#01",
+    "ending_song": "#01: \"eternal wind\" by BLÜE (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "adventure",

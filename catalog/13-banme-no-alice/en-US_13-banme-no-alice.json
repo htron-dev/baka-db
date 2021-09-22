@@ -1,5 +1,9 @@
 {
     "title": "13-banme no Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164300.jpg",
+        "alt": "13-banme-no-alice"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "十三番目のアリス",

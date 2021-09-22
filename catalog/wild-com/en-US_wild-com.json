@@ -1,5 +1,9 @@
 {
     "title": "Wild Com.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1568.jpg",
+        "alt": "wild-com"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

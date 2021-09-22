@@ -1,5 +1,9 @@
 {
     "title": "Anti Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169559.jpg",
+        "alt": "anti-romance"
+    },
     "type": "manga",
     "original_name": "アンチロマンス",
     "start_date": "2015-11-21",

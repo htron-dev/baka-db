@@ -1,12 +1,16 @@
 {
     "title": "Plunderer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
+        "alt": "plunderer"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "プランダラ",
     "start_date": "2020-01-09",
     "end_date": "2020-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Plunderer\" by Miku Itou (eps 1-11)",
+    "ending_song": "#1: \"Plunderer\" by Miku Itou (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Plunderer_(manga"
+            "link": "https://en.wikipedia.org/wiki/Plunderer_%28manga%29#Anime"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Taishou Otome Karte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247094.jpg",
+        "alt": "taishou-otome-karte"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "大正乙女カルテ",

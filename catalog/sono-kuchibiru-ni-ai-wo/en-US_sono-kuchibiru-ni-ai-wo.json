@@ -1,5 +1,9 @@
 {
     "title": "Sono Kuchibiru ni Ai wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23104.jpg",
+        "alt": "sono-kuchibiru-ni-ai-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

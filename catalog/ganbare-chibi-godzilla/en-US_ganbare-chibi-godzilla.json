@@ -1,5 +1,9 @@
 {
     "title": "Ganbare Chibi Godzilla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1570/95962.jpg",
+        "alt": "ganbare-chibi-godzilla"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "がんばれ ちびゴジラ",

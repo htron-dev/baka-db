@@ -1,5 +1,9 @@
 {
     "title": "Boku ni wa Kimi ga Kawaikute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36321.jpg",
+        "alt": "boku-ni-wa-kimi-ga-kawaikute"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "僕には君が可愛くて",

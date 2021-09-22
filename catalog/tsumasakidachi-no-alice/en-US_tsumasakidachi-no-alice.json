@@ -1,5 +1,9 @@
 {
     "title": "Tsumasakidachi no Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214162.jpg",
+        "alt": "tsumasakidachi-no-alice"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

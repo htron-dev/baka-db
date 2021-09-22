@@ -1,5 +1,9 @@
 {
     "title": "Akihabara Vampire Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163398.jpg",
+        "alt": "akihabara-vampire-night"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

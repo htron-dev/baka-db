@@ -1,5 +1,9 @@
 {
     "title": "Crow: Sandatsu no Shikkousha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125025.jpg",
+        "alt": "crow-sandatsu-no-shikkousha"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "クロウ　簒奪の執行者",

@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Purin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195943.jpg",
+        "alt": "koisuru-purin"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

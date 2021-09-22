@@ -1,5 +1,9 @@
 {
     "title": "Crows Gaiden: Katagiri Ken Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151018.jpg",
+        "alt": "crows-gaiden-katagiri-ken-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

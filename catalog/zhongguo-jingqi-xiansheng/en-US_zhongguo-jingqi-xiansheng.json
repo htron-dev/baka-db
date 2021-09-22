@@ -1,5 +1,9 @@
 {
     "title": "Zhongguo Jingqi Xiansheng",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/80096.jpg",
+        "alt": "zhongguo-jingqi-xiansheng"
+    },
     "type": "ona",
     "episodes": "63",
     "original_name": "中国惊奇先生",

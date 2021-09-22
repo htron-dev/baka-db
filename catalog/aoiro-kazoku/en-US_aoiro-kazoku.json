@@ -1,5 +1,9 @@
 {
     "title": "Aoiro Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35684.jpg",
+        "alt": "aoiro-kazoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

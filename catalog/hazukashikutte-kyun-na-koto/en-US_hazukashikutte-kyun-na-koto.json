@@ -1,5 +1,9 @@
 {
     "title": "Hazukashikutte Kyun na Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234209.jpg",
+        "alt": "hazukashikutte-kyun-na-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

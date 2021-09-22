@@ -1,5 +1,9 @@
 {
     "title": "Renai à la Carte!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30158.jpg",
+        "alt": "renai-a-la-carte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

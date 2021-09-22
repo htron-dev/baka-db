@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Shiro Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4981.jpg",
+        "alt": "meitantei-shiro-series"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "79",

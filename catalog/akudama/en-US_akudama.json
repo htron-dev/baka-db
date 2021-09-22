@@ -1,5 +1,9 @@
 {
     "title": "Akudama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/103065.jpg",
+        "alt": "akudama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

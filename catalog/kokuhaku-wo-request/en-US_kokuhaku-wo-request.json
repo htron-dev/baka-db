@@ -1,5 +1,9 @@
 {
     "title": "Kokuhaku wo Request",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165023.jpg",
+        "alt": "kokuhaku-wo-request"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "告白をリクエスト",

@@ -1,5 +1,9 @@
 {
     "title": "Grant Leauvas Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10912.jpg",
+        "alt": "grant-leauvas-monogatari"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "グラン・ローヴァ物語",

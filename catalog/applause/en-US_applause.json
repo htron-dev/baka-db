@@ -1,5 +1,9 @@
 {
     "title": "Applause",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161149.jpg",
+        "alt": "applause"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "アプローズ－喝采－",

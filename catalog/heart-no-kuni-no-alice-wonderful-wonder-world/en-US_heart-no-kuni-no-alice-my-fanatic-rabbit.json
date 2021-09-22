@@ -1,5 +1,9 @@
 {
     "title": "Heart no Kuni no Alice: My Fanatic Rabbit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38507.jpg",
+        "alt": "heart-no-kuni-no-alice-my-fanatic-rabbit"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

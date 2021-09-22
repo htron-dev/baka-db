@@ -1,5 +1,9 @@
 {
     "title": "Seiken no Blacksmith",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171156.jpg",
+        "alt": "seiken-no-blacksmith"
+    },
     "type": "light-novel",
     "volumes": "16",
     "chapters": "74",

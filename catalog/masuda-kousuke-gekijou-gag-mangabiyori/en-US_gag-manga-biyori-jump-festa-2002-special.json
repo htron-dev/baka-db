@@ -1,8 +1,12 @@
 {
     "title": "Gag Manga Biyori: Jump Festa 2002 Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/28253.jpg",
+        "alt": "gag-manga-biyori-jump-festa-2002-special"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "ギャグマンガ日和",
+    "original_name": "ギャグマンガ日和:ジャンプフェスタ 2002 版",
     "start_date": "2002-01-20",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

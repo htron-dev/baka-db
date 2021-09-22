@@ -1,5 +1,9 @@
 {
     "title": "Ji Jia Shou Shen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1481/109026.jpg",
+        "alt": "ji-jia-shou-shen"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "机甲兽神",

@@ -1,5 +1,9 @@
 {
     "title": "Hitsuji to Hagane no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210837.jpg",
+        "alt": "hitsuji-to-hagane-no-mori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "4",

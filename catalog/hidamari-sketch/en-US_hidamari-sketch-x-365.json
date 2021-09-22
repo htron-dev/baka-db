@@ -1,5 +1,9 @@
 {
     "title": "Hidamari Sketch x 365",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/10894.jpg",
+        "alt": "hidamari-sketch-x-365"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ひだまりスケッチ ×365",

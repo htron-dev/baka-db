@@ -1,5 +1,9 @@
 {
     "title": "Saga of Queen Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33346.jpg",
+        "alt": "saga-of-queen-knight"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "女王騎士物語",

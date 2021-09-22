@@ -1,5 +1,9 @@
 {
     "title": "Ride-On King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215445.jpg",
+        "alt": "ride-on-king"
+    },
     "type": "manga",
     "original_name": "ライドンキング",
     "start_date": "2018-05-26",

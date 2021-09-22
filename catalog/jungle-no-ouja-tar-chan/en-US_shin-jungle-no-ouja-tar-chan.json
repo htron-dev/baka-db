@@ -1,5 +1,9 @@
 {
     "title": "Shin Jungle no Ouja Tar-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75625.jpg",
+        "alt": "shin-jungle-no-ouja-tar-chan"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "172",

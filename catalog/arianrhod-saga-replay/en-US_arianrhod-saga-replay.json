@@ -1,5 +1,9 @@
 {
     "title": "Arianrhod Saga Replay",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157079.jpg",
+        "alt": "arianrhod-saga-replay"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "65",

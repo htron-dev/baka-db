@@ -1,5 +1,9 @@
 {
     "title": "Bakumatsu Gurenta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124725.jpg",
+        "alt": "bakumatsu-gurenta"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "幕末紅蓮隊",

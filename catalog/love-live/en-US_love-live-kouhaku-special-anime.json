@@ -1,5 +1,9 @@
 {
     "title": "Love Live! Kouhaku Special Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78741.jpg",
+        "alt": "love-live-kouhaku-special-anime"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ラブライブ！紅白スペシャルアニメ",

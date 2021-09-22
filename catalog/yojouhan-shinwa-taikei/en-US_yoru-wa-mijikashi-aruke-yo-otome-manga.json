@@ -1,5 +1,9 @@
 {
     "title": "Yoru wa Mijikashi Aruke yo Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181415.jpg",
+        "alt": "yoru-wa-mijikashi-aruke-yo-otome"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

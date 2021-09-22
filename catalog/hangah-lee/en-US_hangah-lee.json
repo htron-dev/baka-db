@@ -1,5 +1,9 @@
 {
     "title": "Hangah, Lee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22823.jpg",
+        "alt": "hangah-lee"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "28",

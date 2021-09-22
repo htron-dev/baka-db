@@ -1,5 +1,9 @@
 {
     "title": "Black City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66491.jpg",
+        "alt": "black-city"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

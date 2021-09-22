@@ -1,5 +1,9 @@
 {
     "title": "Gungrave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75724.jpg",
+        "alt": "gungrave"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ガングレイヴ",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Gungrave_(anime"
+            "link": "http://en.wikipedia.org/wiki/Gungrave_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki Android",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240823.jpg",
+        "alt": "usotsuki-android"
+    },
     "type": "manga",
     "original_name": "うそつきアンドロイド",
     "start_date": "2020-09-24",

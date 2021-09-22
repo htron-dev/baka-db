@@ -1,5 +1,9 @@
 {
     "title": "Maneuver! ride AT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130355.jpg",
+        "alt": "maneuver-ride-at"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

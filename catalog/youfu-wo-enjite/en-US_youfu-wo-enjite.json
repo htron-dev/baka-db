@@ -1,5 +1,9 @@
 {
     "title": "Youfu wo Enjite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39879.jpg",
+        "alt": "youfu-wo-enjite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

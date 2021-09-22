@@ -1,5 +1,9 @@
 {
     "title": "Organ Divider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221599.jpg",
+        "alt": "organ-divider"
+    },
     "type": "manga",
     "original_name": "オーガン・ディバイダー",
     "start_date": "2018-03-26",

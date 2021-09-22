@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Bara no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173764.jpg",
+        "alt": "bokura-wa-bara-no-ko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

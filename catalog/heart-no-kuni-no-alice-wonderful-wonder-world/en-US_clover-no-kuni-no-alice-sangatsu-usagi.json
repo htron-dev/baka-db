@@ -1,5 +1,9 @@
 {
     "title": "Clover no Kuni no Alice: Sangatsu Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37202.jpg",
+        "alt": "clover-no-kuni-no-alice-sangatsu-usagi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

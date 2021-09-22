@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: Featherplace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/57849.jpg",
+        "alt": "doraemon-featherplace"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ドラえもん　羽アリのゆくえ",

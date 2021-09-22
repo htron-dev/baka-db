@@ -1,5 +1,9 @@
 {
     "title": "Gouin Onzoushi no Koimitsu Lesson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194895.jpg",
+        "alt": "gouin-onzoushi-no-koimitsu-lesson"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

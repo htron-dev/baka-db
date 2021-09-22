@@ -1,5 +1,9 @@
 {
     "title": "Yuri Tengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13736.jpg",
+        "alt": "yuri-tengoku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "百合天国 ガールズ系学園アンソロジー",

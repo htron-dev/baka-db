@@ -1,5 +1,9 @@
 {
     "title": "Mazinkaiser SKL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75427.jpg",
+        "alt": "mazinkaiser-skl"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "マジンカイザー SKL",

@@ -1,5 +1,9 @@
 {
     "title": "Ochite Chikachika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129769.jpg",
+        "alt": "ochite-chikachika"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

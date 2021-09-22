@@ -1,12 +1,16 @@
 {
     "title": "Hoozuki no Reitetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/87177.jpg",
+        "alt": "hoozuki-no-reitetsu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "鬼灯の冷徹",
     "start_date": "2014-01-10",
     "end_date": "2014-01-10",
     "opening_song": "\"Jigoku no Sata mo Kimi Shidai (地獄の沙汰も君次第)\" by Jigoku no Sata All Stars (Hiroki Yasumoto, Takashi Nagasako, Yumiko Kobayashi, Tetsuya Kakihara, Touko Aoyama, Eri Kitamura x YOUR SONG IS GOOD)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ookina Kingyou no Kinoshitade (大きな金魚の樹の下で)\" by Tokyo Philharmonic Chorus (東京混声合唱団) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

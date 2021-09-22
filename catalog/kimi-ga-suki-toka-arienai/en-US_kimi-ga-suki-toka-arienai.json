@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Suki toka Arienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158109.jpg",
+        "alt": "kimi-ga-suki-toka-arienai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

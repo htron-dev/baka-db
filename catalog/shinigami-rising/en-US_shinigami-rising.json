@@ -1,5 +1,9 @@
 {
     "title": "Shinigami Rising",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158176.jpg",
+        "alt": "shinigami-rising"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "シニガミライジング",

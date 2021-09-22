@@ -1,5 +1,9 @@
 {
     "title": "Beauty Pop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9226.jpg",
+        "alt": "beauty-pop"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "57",

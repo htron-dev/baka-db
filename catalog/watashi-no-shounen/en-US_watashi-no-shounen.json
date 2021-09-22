@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186835.jpg",
+        "alt": "watashi-no-shounen"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "43",

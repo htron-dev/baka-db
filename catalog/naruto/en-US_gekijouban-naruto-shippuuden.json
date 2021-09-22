@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban Naruto: Shippuuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228881.jpg",
+        "alt": "gekijouban-naruto-shippuuden"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "劇場版 NARUTO 疾風伝",

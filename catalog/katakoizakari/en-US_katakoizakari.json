@@ -1,5 +1,9 @@
 {
     "title": "Katakoizakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148653.jpg",
+        "alt": "katakoizakari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

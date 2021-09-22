@@ -1,5 +1,9 @@
 {
     "title": "God Child",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160521.jpg",
+        "alt": "god-child"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "48",

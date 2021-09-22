@@ -1,5 +1,9 @@
 {
     "title": "Moonrakers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/61635.jpg",
+        "alt": "moonrakers"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ムーンレイカーズ",

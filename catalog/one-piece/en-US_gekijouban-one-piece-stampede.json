@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban One Piece: Stampede",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230439.jpg",
+        "alt": "gekijouban-one-piece-stampede"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

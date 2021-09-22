@@ -1,5 +1,9 @@
 {
     "title": "Shabaou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220935.jpg",
+        "alt": "shabaou"
+    },
     "type": "manga",
     "original_name": "娑婆王",
     "start_date": "2019-08-08",

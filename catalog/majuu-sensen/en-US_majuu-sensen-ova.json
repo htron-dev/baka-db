@@ -1,5 +1,9 @@
 {
     "title": "Majuu Sensen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/25037.jpg",
+        "alt": "majuu-sensen"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "魔獣戦線",

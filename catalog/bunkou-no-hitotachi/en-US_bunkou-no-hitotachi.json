@@ -1,5 +1,9 @@
 {
     "title": "Bunkou no Hitotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229683.jpg",
+        "alt": "bunkou-no-hitotachi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "36",

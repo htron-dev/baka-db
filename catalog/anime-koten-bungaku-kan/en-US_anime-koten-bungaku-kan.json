@@ -1,5 +1,9 @@
 {
     "title": "Anime Koten Bungaku Kan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/63857.jpg",
+        "alt": "anime-koten-bungaku-kan"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "アニメ古典文学館",

@@ -1,5 +1,9 @@
 {
     "title": "Koibito ni Naru Jikan desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174442.jpg",
+        "alt": "koibito-ni-naru-jikan-desu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

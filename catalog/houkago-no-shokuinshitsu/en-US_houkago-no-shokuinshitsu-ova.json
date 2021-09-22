@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Shokuinshitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/89936.jpg",
+        "alt": "houkago-no-shokuinshitsu"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "放課後の職員室",

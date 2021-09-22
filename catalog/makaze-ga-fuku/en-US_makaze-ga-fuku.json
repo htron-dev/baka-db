@@ -1,5 +1,9 @@
 {
     "title": "Makaze ga Fuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223158.jpg",
+        "alt": "makaze-ga-fuku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

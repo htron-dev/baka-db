@@ -1,5 +1,9 @@
 {
     "title": "Tsuma wa Moto Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246777.jpg",
+        "alt": "tsuma-wa-moto-hero"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "45",

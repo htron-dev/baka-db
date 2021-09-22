@@ -1,5 +1,9 @@
 {
     "title": "I'll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136553.jpg",
+        "alt": "ill"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "88",

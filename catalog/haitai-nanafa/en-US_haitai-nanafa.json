@@ -1,5 +1,9 @@
 {
     "title": "Haitai Nanafa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/45991.jpg",
+        "alt": "haitai-nanafa"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "はいたい七葉",

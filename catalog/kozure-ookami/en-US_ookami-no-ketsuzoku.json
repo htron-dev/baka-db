@@ -1,5 +1,9 @@
 {
     "title": "Ookami no Ketsuzoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35057.jpg",
+        "alt": "ookami-no-ketsuzoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

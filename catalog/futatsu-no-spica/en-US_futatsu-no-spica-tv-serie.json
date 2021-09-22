@@ -1,5 +1,9 @@
 {
     "title": "Futatsu no Spica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/73986.jpg",
+        "alt": "futatsu-no-spica"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "ふたつのスピカ",

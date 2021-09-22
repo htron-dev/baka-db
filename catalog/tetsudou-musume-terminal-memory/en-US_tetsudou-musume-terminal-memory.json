@@ -1,5 +1,9 @@
 {
     "title": "Tetsudou Musume: Terminal Memory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20230.jpg",
+        "alt": "tetsudou-musume-terminal-memory"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

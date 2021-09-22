@@ -1,5 +1,9 @@
 {
     "title": "Chibiki no Iwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166325.jpg",
+        "alt": "chibiki-no-iwa"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "血引きの岩",

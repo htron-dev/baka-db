@@ -1,12 +1,16 @@
 {
     "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/44187.jpg",
+        "alt": "ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "俺の彼女と幼なじみが修羅場すぎる",
     "start_date": "2013-01-06",
     "end_date": "2013-01-06",
     "opening_song": "\"Girlish Lover\" by Mizukara wo Enshutsu Suru Otome no Kai [自らを演出する乙女の会] (Chinatsu Akasaki, Yukari Tamura, Hisako Kanemoto, Ai Kayano) (eps 1-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"W:Wonder tale\" by Yukari Tamura (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

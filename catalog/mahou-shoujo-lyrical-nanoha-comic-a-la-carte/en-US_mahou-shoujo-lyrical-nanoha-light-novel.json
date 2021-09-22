@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Lyrical Nanoha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/112423.jpg",
+        "alt": "mahou-shoujo-lyrical-nanoha"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "魔法少女リリカルなのは",

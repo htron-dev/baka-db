@@ -1,5 +1,9 @@
 {
     "title": "Trinity Seven: Anastasia Seiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235834.jpg",
+        "alt": "trinity-seven-anastasia-seiden"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

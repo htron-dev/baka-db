@@ -1,5 +1,9 @@
 {
     "title": "Hakuou no Sono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36000.jpg",
+        "alt": "hakuou-no-sono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Ohisama no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1909.jpg",
+        "alt": "ohisama-no-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

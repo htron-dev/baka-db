@@ -1,5 +1,9 @@
 {
     "title": "Futsuu tte Nandarou?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1960/96526.jpg",
+        "alt": "futsuu-tte-nandarou"
+    },
     "type": "special",
     "original_name": "ふつうってなんだろう？",
     "start_date": "2018-11-11",

@@ -1,5 +1,9 @@
 {
     "title": "Tsue to Tsurugi no Wistoria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243105.jpg",
+        "alt": "tsue-to-tsurugi-no-wistoria"
+    },
     "type": "manga",
     "original_name": "杖と剣のウィストリア",
     "start_date": "2020-12-09",

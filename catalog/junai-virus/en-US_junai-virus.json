@@ -1,5 +1,9 @@
 {
     "title": "Junai Virus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2701.jpg",
+        "alt": "junai-virus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

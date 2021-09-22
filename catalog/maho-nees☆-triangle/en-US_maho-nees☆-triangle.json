@@ -1,5 +1,9 @@
 {
     "title": "Maho Nee's☆Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164126.jpg",
+        "alt": "maho-nees☆-triangle"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "16",

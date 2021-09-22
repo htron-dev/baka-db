@@ -1,5 +1,9 @@
 {
     "title": "Giniro no Harmony",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189374.jpg",
+        "alt": "giniro-no-harmony"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "30",

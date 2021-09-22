@@ -1,5 +1,9 @@
 {
     "title": "Gisou Furin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220150.jpg",
+        "alt": "gisou-furin"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "偽装不倫",

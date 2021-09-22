@@ -1,5 +1,9 @@
 {
     "title": "Mangaka Soushingeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229946.jpg",
+        "alt": "mangaka-soushingeki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

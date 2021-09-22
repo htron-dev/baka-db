@@ -1,5 +1,9 @@
 {
     "title": "Young Oh! Oh!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28926.jpg",
+        "alt": "young-oh-oh"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

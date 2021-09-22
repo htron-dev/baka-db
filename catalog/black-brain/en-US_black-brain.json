@@ -1,5 +1,9 @@
 {
     "title": "Black Brain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232848.jpg",
+        "alt": "black-brain"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "137",

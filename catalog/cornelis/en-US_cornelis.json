@@ -1,5 +1,9 @@
 {
     "title": "Cornelis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/37455.jpg",
+        "alt": "cornelis"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "コルネリス",

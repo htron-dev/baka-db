@@ -1,5 +1,9 @@
 {
     "title": "Netsubyou Kasoku Souchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170037.jpg",
+        "alt": "netsubyou-kasoku-souchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20256.jpg",
+        "alt": "comic"
+    },
     "type": "manhwa",
     "original_name": "코믹",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Hen Xi You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/81271.jpg",
+        "alt": "hen-xi-you"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "狠西游",

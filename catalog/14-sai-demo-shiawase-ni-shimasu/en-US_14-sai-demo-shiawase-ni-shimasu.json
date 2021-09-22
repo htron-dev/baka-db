@@ -1,5 +1,9 @@
 {
     "title": "14-sai demo Shiawase ni Shimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228095.jpg",
+        "alt": "14-sai-demo-shiawase-ni-shimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

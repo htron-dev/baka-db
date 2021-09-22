@@ -1,12 +1,16 @@
 {
     "title": "Kotoura-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75585.jpg",
+        "alt": "kotoura-san"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "琴浦さん",
     "start_date": "2013-01-11",
     "end_date": "2013-01-11",
     "opening_song": "\"Sonna Koto Ura no Mata Urabanashi Desho? (そんなこと裏のまた裏話でしょ?)\" by Megumi Nakajima",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kibou no Hana (希望の花)\" by Haruka Chisuga (千菅春香) (eps 1-4, 7-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Kirby: Dedede de Pupupu na Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91535.jpg",
+        "alt": "hoshi-no-kirby-dedede-de-pupupu-na-monogatari"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "275",

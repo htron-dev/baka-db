@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/63211.jpg",
+        "alt": "houkago-no-ouji-sama"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "放課後の王子様",

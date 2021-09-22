@@ -1,5 +1,9 @@
 {
     "title": "Action Heroine Cheer Fruits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203489.jpg",
+        "alt": "action-heroine-cheer-fruits"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

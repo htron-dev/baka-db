@@ -1,5 +1,9 @@
 {
     "title": "Houkago Assault x Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175564.jpg",
+        "alt": "houkago-assault-x-girls"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "36",

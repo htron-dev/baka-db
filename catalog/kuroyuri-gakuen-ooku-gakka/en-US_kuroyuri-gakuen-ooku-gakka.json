@@ -1,5 +1,9 @@
 {
     "title": "Kuroyuri Gakuen Ooku Gakka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205692.jpg",
+        "alt": "kuroyuri-gakuen-ooku-gakka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

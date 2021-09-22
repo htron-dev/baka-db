@@ -1,5 +1,9 @@
 {
     "title": "Happy Death Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163486.jpg",
+        "alt": "happy-death-day"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "17",

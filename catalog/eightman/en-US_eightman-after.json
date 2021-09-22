@@ -1,11 +1,15 @@
 {
     "title": "Eightman After",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1150/92809.jpg",
+        "alt": "eightman-after"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "エイトマン AFTER",
     "start_date": "1993-08-21",
     "end_date": "1993-08-21",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Eight Man no Theme (Version 1993) (エイトマンのテーマ(Version 1993))\" by Nobuyoshi Kuwano (桑野信義)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

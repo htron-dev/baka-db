@@ -1,5 +1,9 @@
 {
     "title": "Seigi Kenkyuukai Serenade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173760.jpg",
+        "alt": "seigi-kenkyuukai-serenade"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

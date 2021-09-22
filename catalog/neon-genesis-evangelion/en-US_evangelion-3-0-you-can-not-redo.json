@@ -1,8 +1,12 @@
 {
     "title": "Evangelion: 3.0 You Can (Not) Redo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/43201.jpg",
+        "alt": "evangelion-3-0-you-can-not-redo"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "ヱヴァンゲリヲン新劇場版",
+    "original_name": "ヱヴァンゲリヲン新劇場版:Q",
     "start_date": "2012-11-17",
     "ending_song": "\"Sakura Nagashi (桜流し)\" by Hikaru Utada",
     "rating": "PG-13 - Teens 13 or older",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Evangelion:_3.0_You_Can_(Not"
+            "link": "http://en.wikipedia.org/wiki/Evangelion:_3.0_You_Can_%28Not%29_Redo"
         }
     ]
 }

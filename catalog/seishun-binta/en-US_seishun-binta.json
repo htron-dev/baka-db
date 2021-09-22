@@ -1,5 +1,9 @@
 {
     "title": "Seishun Binta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223099.jpg",
+        "alt": "seishun-binta"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "青春ビンタ!",

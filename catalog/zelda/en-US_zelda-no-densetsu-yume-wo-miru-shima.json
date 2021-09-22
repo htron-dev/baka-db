@@ -1,5 +1,9 @@
 {
     "title": "Zelda no Densetsu: Yume wo Miru Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23081.jpg",
+        "alt": "zelda-no-densetsu-yume-wo-miru-shima"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

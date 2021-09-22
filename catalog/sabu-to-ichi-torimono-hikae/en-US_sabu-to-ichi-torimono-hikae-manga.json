@@ -1,5 +1,9 @@
 {
     "title": "Sabu to Ichi Torimono Hikae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150162.jpg",
+        "alt": "sabu-to-ichi-torimono-hikae"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "83",

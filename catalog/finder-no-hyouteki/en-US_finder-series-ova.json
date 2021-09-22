@@ -1,5 +1,9 @@
 {
     "title": "Finder Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/36823.jpg",
+        "alt": "finder-series"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ファインダーシリーズ",

@@ -1,5 +1,9 @@
 {
     "title": "Iinari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185366.jpg",
+        "alt": "iinari"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "31",

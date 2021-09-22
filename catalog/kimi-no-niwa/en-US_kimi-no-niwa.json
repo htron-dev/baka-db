@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Niwa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198002.jpg",
+        "alt": "kimi-no-niwa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "43",

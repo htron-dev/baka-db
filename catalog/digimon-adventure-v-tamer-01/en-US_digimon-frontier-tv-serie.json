@@ -1,12 +1,16 @@
 {
     "title": "Digimon Frontier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/31591.jpg",
+        "alt": "digimon-frontier"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "デジモンフロンティア",
     "start_date": "2002-04-07",
     "end_date": "2002-04-07",
     "opening_song": "\"FIRE!!\" by Kouji Wada",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Innocent ~Mujaki na Mama de~\" by Kouji Wada",
     "rating": "PG - Children",
     "tags": [
         "action",

@@ -1,12 +1,16 @@
 {
     "title": "La Seine no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/60815.jpg",
+        "alt": "la-seine-no-hoshi"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ラ・セーヌの星",
     "start_date": "1975-04-04",
     "end_date": "1975-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"La Seine no Hoshi (ラ・セーヌの星)\" by Columbia Yurikago Kai, Mitsuko Horie",
+    "ending_song": "#1: \"Watashi wa Simone (私はシモーヌ)\" by Columbia Yurikago Kai, Mitsuko Horie",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

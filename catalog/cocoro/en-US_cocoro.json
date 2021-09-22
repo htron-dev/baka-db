@@ -1,5 +1,9 @@
 {
     "title": "Cocoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129347.jpg",
+        "alt": "cocoro"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

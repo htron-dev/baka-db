@@ -1,5 +1,9 @@
 {
     "title": "Terra Formars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/67537.jpg",
+        "alt": "terra-formars"
+    },
     "type": "manga",
     "original_name": "テラフォーマーズ",
     "start_date": "2011-01-13",

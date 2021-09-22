@@ -1,5 +1,9 @@
 {
     "title": "Natsu e no Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12772.jpg",
+        "alt": "natsu-e-no-tobira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

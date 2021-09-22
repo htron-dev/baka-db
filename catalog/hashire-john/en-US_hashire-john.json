@@ -1,5 +1,9 @@
 {
     "title": "Hashire John",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/84550.jpg",
+        "alt": "hashire-john"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "走れジョン",

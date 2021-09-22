@@ -1,5 +1,9 @@
 {
     "title": "Date Masamune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/113227.jpg",
+        "alt": "date-masamune"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "63",

@@ -1,5 +1,9 @@
 {
     "title": "Pandora Restaurant!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173028.jpg",
+        "alt": "pandora-restaurant"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

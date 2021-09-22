@@ -1,12 +1,16 @@
 {
     "title": "Pokemon Best Wishes! Season 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1227/113635.jpg",
+        "alt": "pokemon-best-wishes-season-2"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ポケットモンスター ベストウイッシュ シーズン 2",
     "start_date": "2012-06-21",
     "end_date": "2012-06-21",
     "opening_song": "\"Yajirushi ni Natte! (やじるしになって!)\" by Rica Matsumoto",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Mite Mite ☆ Kocchicchi (みてみて ☆ こっちっち)\" by Momoiro Clover Z (eps 01-12, 14-)",
     "rating": "PG - Children",
     "tags": [
         "action",

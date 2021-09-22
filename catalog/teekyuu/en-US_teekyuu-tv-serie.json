@@ -1,11 +1,15 @@
 {
     "title": "Teekyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/56463.jpg",
+        "alt": "teekyuu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てーきゅう",
     "start_date": "2012-10-07",
     "end_date": "2012-10-07",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Botsuraku Kizoku no Tame no Teekyu (没落貴族のためのてーきゅう)\" by Yui Watanabe",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

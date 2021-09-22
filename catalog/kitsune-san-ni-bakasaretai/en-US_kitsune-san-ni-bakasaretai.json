@@ -1,5 +1,9 @@
 {
     "title": "Kitsune-san ni Bakasaretai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30684.jpg",
+        "alt": "kitsune-san-ni-bakasaretai"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "きつねさんに化かされたい",

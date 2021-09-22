@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Koi no Haousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152827.jpg",
+        "alt": "ore-wa-koi-no-haousama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

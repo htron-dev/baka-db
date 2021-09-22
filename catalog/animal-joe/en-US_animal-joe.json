@@ -1,5 +1,9 @@
 {
     "title": "Animal Joe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164968.jpg",
+        "alt": "animal-joe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Ultima - Quest of the Avatar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73591.jpg",
+        "alt": "ultima-quest-of-the-avatar"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

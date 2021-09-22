@@ -1,5 +1,9 @@
 {
     "title": "Amaenaide yo!! Katsu!!: Damasarenaide yo!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75971.jpg",
+        "alt": "amaenaide-yo-katsu-damasarenaide-yo"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "あまえないでよっ!!喝!! ダマされないでよっ!!",

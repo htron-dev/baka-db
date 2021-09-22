@@ -1,5 +1,9 @@
 {
     "title": "Fushigi na Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237884.jpg",
+        "alt": "fushigi-na-shounen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

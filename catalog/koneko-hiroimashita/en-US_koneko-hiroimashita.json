@@ -1,5 +1,9 @@
 {
     "title": "Koneko Hiroimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175453.jpg",
+        "alt": "koneko-hiroimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

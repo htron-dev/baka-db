@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko datte Tabechaitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177810.jpg",
+        "alt": "onnanoko-datte-tabechaitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

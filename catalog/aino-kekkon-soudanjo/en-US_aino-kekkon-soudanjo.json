@@ -1,5 +1,9 @@
 {
     "title": "Aino Kekkon Soudanjo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196948.jpg",
+        "alt": "aino-kekkon-soudanjo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Namae wo Yonde",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/249036.jpg",
+        "alt": "yoru-no-namae-wo-yonde"
+    },
     "type": "manga",
     "original_name": "夜の名前を呼んで",
     "start_date": "2020-08-12",

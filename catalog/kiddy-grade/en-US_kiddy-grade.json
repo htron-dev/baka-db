@@ -1,5 +1,9 @@
 {
     "title": "Kiddy Grade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/73995.jpg",
+        "alt": "kiddy-grade"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "キディ・グレイド",

@@ -1,5 +1,9 @@
 {
     "title": "Zettai Fukujuu: Minna ni Moteasobarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193657.jpg",
+        "alt": "zettai-fukujuu-minna-ni-moteasobarete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

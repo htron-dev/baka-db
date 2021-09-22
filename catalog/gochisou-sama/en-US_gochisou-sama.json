@@ -1,5 +1,9 @@
 {
     "title": "Gochisou-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/16367.jpg",
+        "alt": "gochisou-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

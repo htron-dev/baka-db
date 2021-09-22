@@ -1,5 +1,9 @@
 {
     "title": "Bara to Yaban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82050.jpg",
+        "alt": "bara-to-yaban"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

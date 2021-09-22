@@ -1,5 +1,9 @@
 {
     "title": "Junai no Seinen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7409.jpg",
+        "alt": "junai-no-seinen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

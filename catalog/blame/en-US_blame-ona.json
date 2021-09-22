@@ -1,5 +1,9 @@
 {
     "title": "Blame!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/2713.jpg",
+        "alt": "blame"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "BLAME (ブラム!)",

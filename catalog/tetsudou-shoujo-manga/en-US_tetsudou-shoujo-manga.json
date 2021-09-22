@@ -1,5 +1,9 @@
 {
     "title": "Tetsudou Shoujo Manga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39201.jpg",
+        "alt": "tetsudou-shoujo-manga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

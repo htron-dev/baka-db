@@ -1,5 +1,9 @@
 {
     "title": "Cosplay Deka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88185.jpg",
+        "alt": "cosplay-deka"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

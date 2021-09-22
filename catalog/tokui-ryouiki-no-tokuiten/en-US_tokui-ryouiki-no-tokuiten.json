@@ -1,5 +1,9 @@
 {
     "title": "Tokui Ryouiki no Tokuiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164567.jpg",
+        "alt": "tokui-ryouiki-no-tokuiten"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "特異領域の特異点",

@@ -1,5 +1,9 @@
 {
     "title": "Minasoko no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185920.jpg",
+        "alt": "minasoko-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

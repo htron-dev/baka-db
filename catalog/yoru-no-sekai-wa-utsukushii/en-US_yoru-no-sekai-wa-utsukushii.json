@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Sekai wa Utsukushii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209462.jpg",
+        "alt": "yoru-no-sekai-wa-utsukushii"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

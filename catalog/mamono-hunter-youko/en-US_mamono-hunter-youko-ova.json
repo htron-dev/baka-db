@@ -1,11 +1,15 @@
 {
     "title": "Mamono Hunter Youko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1276/97039.jpg",
+        "alt": "mamono-hunter-youko"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "魔物ハンター妖子",
     "start_date": "1990-12-01",
     "end_date": "1990-12-01",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Go, Go! Love Coup\" by Aya Hisakawa (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "fantasy",

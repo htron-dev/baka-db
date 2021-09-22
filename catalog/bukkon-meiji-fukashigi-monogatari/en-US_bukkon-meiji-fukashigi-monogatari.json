@@ -1,5 +1,9 @@
 {
     "title": "Bukkon: Meiji Fukashigi Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246230.jpg",
+        "alt": "bukkon-meiji-fukashigi-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

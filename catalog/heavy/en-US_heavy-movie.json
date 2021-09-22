@@ -1,5 +1,9 @@
 {
     "title": "Heavy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/30317.jpg",
+        "alt": "heavy"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ヘヴィ",

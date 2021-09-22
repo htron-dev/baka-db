@@ -1,5 +1,9 @@
 {
     "title": "Ningen no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/74554.jpg",
+        "alt": "ningen-no-uta"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "にんげんの詩",

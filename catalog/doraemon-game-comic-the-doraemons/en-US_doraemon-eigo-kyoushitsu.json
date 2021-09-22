@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Eigo Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/87657.jpg",
+        "alt": "doraemon-eigo-kyoushitsu"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ドラえもん英語敎室",

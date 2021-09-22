@@ -1,5 +1,9 @@
 {
     "title": "Ginyuu Gikyoku Black Bard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178709.jpg",
+        "alt": "ginyuu-gikyoku-black-bard"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Play Jazz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/72724.jpg",
+        "alt": "play-jazz"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "プレイ･ジャズ",

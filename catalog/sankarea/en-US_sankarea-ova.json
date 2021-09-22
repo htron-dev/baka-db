@@ -1,5 +1,9 @@
 {
     "title": "Sankarea OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79032.jpg",
+        "alt": "sankarea-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "さんかれあ",

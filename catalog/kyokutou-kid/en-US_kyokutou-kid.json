@@ -1,5 +1,9 @@
 {
     "title": "Kyokutou Kid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38656.jpg",
+        "alt": "kyokutou-kid"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "極東キッド",

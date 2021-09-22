@@ -1,5 +1,9 @@
 {
     "title": "Hoshii no wa Anata Dake.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187929.jpg",
+        "alt": "hoshii-no-wa-anata-dake"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Aku no Meshitsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/69961.jpg",
+        "alt": "aku-no-meshitsukai"
+    },
     "type": "manga",
     "original_name": "悪ノ召使",
     "start_date": "2010-09-25",

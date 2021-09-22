@@ -1,5 +1,9 @@
 {
     "title": "Malleus Maleficarum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216069.jpg",
+        "alt": "malleus-maleficarum"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

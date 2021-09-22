@@ -1,5 +1,9 @@
 {
     "title": "Sister to Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205425.jpg",
+        "alt": "sister-to-vampire"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "80",

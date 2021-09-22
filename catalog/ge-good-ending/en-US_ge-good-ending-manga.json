@@ -1,5 +1,9 @@
 {
     "title": "GE: Good Ending",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51389.jpg",
+        "alt": "ge-good-ending"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "158",

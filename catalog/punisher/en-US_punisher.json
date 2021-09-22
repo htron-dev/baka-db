@@ -1,5 +1,9 @@
 {
     "title": "Punisher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116177.jpg",
+        "alt": "punisher"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "60",

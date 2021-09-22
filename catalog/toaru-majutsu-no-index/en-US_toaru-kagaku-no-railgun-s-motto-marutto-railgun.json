@@ -1,11 +1,15 @@
 {
     "title": "Toaru Kagaku no Railgun S: Motto Marutto Railgun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/52717.jpg",
+        "alt": "toaru-kagaku-no-railgun-s-motto-marutto-railgun"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "もっとまるっと超電磁砲",
     "start_date": "2013-07-24",
     "end_date": "2013-07-24",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Grow Slowly\" by Yuka Iguchi (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy"

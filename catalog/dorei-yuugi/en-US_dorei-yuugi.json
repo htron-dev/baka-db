@@ -1,5 +1,9 @@
 {
     "title": "Dorei Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201677.jpg",
+        "alt": "dorei-yuugi"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "65",

@@ -1,5 +1,9 @@
 {
     "title": "Hapikon! Ouji to Sekaiichi Happy na Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232501.jpg",
+        "alt": "hapikon-ouji-to-sekaiichi-happy-na-kekkon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

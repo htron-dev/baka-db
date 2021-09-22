@@ -1,5 +1,9 @@
 {
     "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1848/103547.jpg",
+        "alt": "boku-no-tonari-ni-ankoku-hakaishin-ga-imasu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ぼくのとなりに暗黒破壊神がいます。",

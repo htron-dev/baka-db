@@ -1,5 +1,9 @@
 {
     "title": "Manatsu no Delta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226251.jpg",
+        "alt": "manatsu-no-delta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

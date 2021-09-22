@@ -1,5 +1,9 @@
 {
     "title": "Dan Da Barbarian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129895.jpg",
+        "alt": "dan-da-barbarian"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ダン・ダ・バーバリアン",

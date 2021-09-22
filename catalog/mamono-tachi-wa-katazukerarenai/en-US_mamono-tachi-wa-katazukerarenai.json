@@ -1,5 +1,9 @@
 {
     "title": "Mamono-tachi wa Katazukerarenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215702.jpg",
+        "alt": "mamono-tachi-wa-katazukerarenai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

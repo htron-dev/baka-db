@@ -1,12 +1,16 @@
 {
     "title": "Shin Mazinger Shougeki! Z-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1022/92865.jpg",
+        "alt": "shin-mazinger-shougeki-z-hen"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "Ｚマジンガー; 真マジンガー 衝撃！Z 編",
     "start_date": "2009-04-04",
     "end_date": "2009-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kanjite Knight (感じて Knight)\" by ULTIMATE LAZY for MAZINGER (eps 1-15)",
+    "ending_song": "#1: \"Brand New World\" by Natsuko Aso (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

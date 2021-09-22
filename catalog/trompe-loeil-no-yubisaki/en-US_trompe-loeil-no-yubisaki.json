@@ -1,5 +1,9 @@
 {
     "title": "Trompe-l'oeil no Yubisaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35443.jpg",
+        "alt": "trompe-loeil-no-yubisaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

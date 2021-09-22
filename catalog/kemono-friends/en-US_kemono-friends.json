@@ -1,5 +1,9 @@
 {
     "title": "Kemono Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/83518.jpg",
+        "alt": "kemono-friends"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "けものフレンズ",

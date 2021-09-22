@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Hisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173467.jpg",
+        "alt": "ayakashi-hisen"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "71",

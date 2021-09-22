@@ -1,5 +1,9 @@
 {
     "title": "Tamariver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/69687.jpg",
+        "alt": "tamariver"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

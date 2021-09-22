@@ -1,5 +1,9 @@
 {
     "title": "Rule: Shoumetsu Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200791.jpg",
+        "alt": "rule-shoumetsu-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

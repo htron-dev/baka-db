@@ -1,5 +1,9 @@
 {
     "title": "Aragane no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241846.jpg",
+        "alt": "aragane-no-ko"
+    },
     "type": "manga",
     "original_name": "アラガネの子",
     "start_date": "2020-11-25",

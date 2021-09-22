@@ -1,5 +1,9 @@
 {
     "title": "Gestalt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245789.jpg",
+        "alt": "gestalt"
+    },
     "type": "manga",
     "original_name": "ゲシュタルト",
     "start_date": "2021-02-15",

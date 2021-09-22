@@ -1,5 +1,9 @@
 {
     "title": "Kizuoibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/53623.jpg",
+        "alt": "kizuoibito"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "傷追い人",

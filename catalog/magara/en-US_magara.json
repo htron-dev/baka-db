@@ -1,5 +1,9 @@
 {
     "title": "Magara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59463.jpg",
+        "alt": "magara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

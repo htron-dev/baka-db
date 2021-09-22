@@ -1,5 +1,9 @@
 {
     "title": "Shousetsu Finder no Rakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127839.jpg",
+        "alt": "shousetsu-finder-no-rakuin"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

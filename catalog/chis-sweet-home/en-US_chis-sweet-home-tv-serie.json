@@ -1,5 +1,9 @@
 {
     "title": "Chi's Sweet Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/7632.jpg",
+        "alt": "chis-sweet-home"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "チーズスイートホーム",

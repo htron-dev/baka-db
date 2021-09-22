@@ -1,5 +1,9 @@
 {
     "title": "BL Shachou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24804.jpg",
+        "alt": "bl-shachou"
+    },
     "type": "manga",
     "original_name": "BL しゃちょう",
     "tags": [

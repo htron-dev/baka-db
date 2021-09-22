@@ -1,5 +1,9 @@
 {
     "title": "Kurofuku Manogo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/38150.jpg",
+        "alt": "kurofuku-manogo"
+    },
     "type": "manga",
     "volumes": "4",
     "tags": [

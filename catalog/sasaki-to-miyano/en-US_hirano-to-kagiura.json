@@ -1,5 +1,9 @@
 {
     "title": "Hirano to Kagiura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221355.jpg",
+        "alt": "hirano-to-kagiura"
+    },
     "type": "manga",
     "original_name": "平野と鍵浦",
     "start_date": "2019-03-15",

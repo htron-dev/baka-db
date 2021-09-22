@@ -1,5 +1,9 @@
 {
     "title": "Kemono-tachi wa Wana no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193823.jpg",
+        "alt": "kemono-tachi-wa-wana-no-naka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

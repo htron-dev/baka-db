@@ -1,5 +1,9 @@
 {
     "title": "Shin Fortune Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74013.jpg",
+        "alt": "shin-fortune-quest"
+    },
     "type": "light-novel",
     "volumes": "20",
     "original_name": "新フォーチュン・クエスト",

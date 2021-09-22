@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Hane to Akuma no Shippo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7882.jpg",
+        "alt": "tenshi-no-hane-to-akuma-no-shippo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Koi to Wana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/130143.jpg",
+        "alt": "koi-to-wana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

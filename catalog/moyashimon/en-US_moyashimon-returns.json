@@ -1,5 +1,9 @@
 {
     "title": "Moyashimon Returns",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/39775.jpg",
+        "alt": "moyashimon-returns"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "もやしもん リターンズ",

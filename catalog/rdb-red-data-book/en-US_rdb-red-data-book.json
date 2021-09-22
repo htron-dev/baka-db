@@ -1,5 +1,9 @@
 {
     "title": "RDB: Red Data Book",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199914.jpg",
+        "alt": "rdb-red-data-book"
+    },
     "type": "manga",
     "original_name": "RDB－レッドデータブック－",
     "start_date": "2016-11-04",

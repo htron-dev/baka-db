@@ -1,5 +1,9 @@
 {
     "title": "Na no Nai Shisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123157.jpg",
+        "alt": "na-no-nai-shisha"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "名のないシシャ",

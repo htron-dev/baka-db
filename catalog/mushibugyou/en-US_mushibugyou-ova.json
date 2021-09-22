@@ -1,5 +1,9 @@
 {
     "title": "Mushibugyou OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/67127.jpg",
+        "alt": "mushibugyou-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ムシブギョー 虫奉行 OVA",

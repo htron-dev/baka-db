@@ -1,5 +1,9 @@
 {
     "title": "Akuratsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206406.jpg",
+        "alt": "akuratsu"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "悪辣 アクラツ",

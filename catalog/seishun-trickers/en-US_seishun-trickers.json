@@ -1,5 +1,9 @@
 {
     "title": "Seishun Trickers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129479.jpg",
+        "alt": "seishun-trickers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

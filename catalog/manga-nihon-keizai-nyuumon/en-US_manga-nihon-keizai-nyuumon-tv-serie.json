@@ -1,11 +1,15 @@
 {
     "title": "Manga Nihon Keizai Nyuumon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/29513.jpg",
+        "alt": "manga-nihon-keizai-nyuumon"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "マンガ日本経済入門",
     "start_date": "1987-10-13",
     "end_date": "1987-10-13",
-    "opening_song": "\"Many Thanks",
+    "opening_song": "\"Many Thanks: Kokoro no Mama ni (Long as I'm With You) (MANY THANKS~心のままに~(LONG AS I'M WITH YOU))\" by Hitomi Touyama",
     "ending_song": "\"Sweet Soul Music (Kiss of Life)\" by Hitomi Touyama",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

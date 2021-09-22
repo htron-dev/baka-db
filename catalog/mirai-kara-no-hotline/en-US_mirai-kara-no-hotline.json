@@ -1,5 +1,9 @@
 {
     "title": "Mirai kara no Hotline",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97853.jpg",
+        "alt": "mirai-kara-no-hotline"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "未来からのホットライン",

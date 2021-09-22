@@ -1,5 +1,9 @@
 {
     "title": "Trinity Blood: Rage Against the Moons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209368.jpg",
+        "alt": "trinity-blood-rage-against-the-moons"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "23",

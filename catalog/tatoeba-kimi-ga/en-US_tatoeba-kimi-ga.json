@@ -1,5 +1,9 @@
 {
     "title": "Tatoeba Kimi ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20687.jpg",
+        "alt": "tatoeba-kimi-ga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

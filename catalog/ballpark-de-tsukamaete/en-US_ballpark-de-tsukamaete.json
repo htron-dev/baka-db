@@ -1,5 +1,9 @@
 {
     "title": "Ballpark de Tsukamaete!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246657.jpg",
+        "alt": "ballpark-de-tsukamaete"
+    },
     "type": "manga",
     "original_name": "ボールパークでつかまえて！",
     "start_date": "2020-09-03",

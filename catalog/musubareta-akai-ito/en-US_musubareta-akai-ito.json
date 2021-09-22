@@ -1,5 +1,9 @@
 {
     "title": "Musubareta Akai Ito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227423.jpg",
+        "alt": "musubareta-akai-ito"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "結ばれた赤い糸",

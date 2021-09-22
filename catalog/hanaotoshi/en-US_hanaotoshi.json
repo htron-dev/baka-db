@@ -1,5 +1,9 @@
 {
     "title": "Hanaotoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23713.jpg",
+        "alt": "hanaotoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "花堕とし",

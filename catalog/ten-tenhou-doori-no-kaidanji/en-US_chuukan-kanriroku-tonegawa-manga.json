@@ -1,5 +1,9 @@
 {
     "title": "Chuukan Kanriroku Tonegawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197783.jpg",
+        "alt": "chuukan-kanriroku-tonegawa"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "86",

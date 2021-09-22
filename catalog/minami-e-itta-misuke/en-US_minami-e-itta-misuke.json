@@ -1,5 +1,9 @@
 {
     "title": "Minami e Itta Misuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1506/114811.jpg",
+        "alt": "minami-e-itta-misuke"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "南へ行ったミースケ",

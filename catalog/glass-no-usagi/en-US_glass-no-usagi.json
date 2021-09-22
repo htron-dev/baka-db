@@ -1,5 +1,9 @@
 {
     "title": "Glass no Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1188/94727.jpg",
+        "alt": "glass-no-usagi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ガラスのうさぎ",

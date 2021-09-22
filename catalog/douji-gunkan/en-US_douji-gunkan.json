@@ -1,5 +1,9 @@
 {
     "title": "Douji Gunkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221713.jpg",
+        "alt": "douji-gunkan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

@@ -1,5 +1,9 @@
 {
     "title": "Dr. Kujo Kikiippatsu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31621.jpg",
+        "alt": "dr-kujo-kikiippatsu"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "Dr.クージョ危機一髪!!",

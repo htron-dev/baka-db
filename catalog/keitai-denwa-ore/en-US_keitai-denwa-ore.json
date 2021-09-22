@@ -1,5 +1,9 @@
 {
     "title": "Keitai Denwa Ore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184916.jpg",
+        "alt": "keitai-denwa-ore"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "14",

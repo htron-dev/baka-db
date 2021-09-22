@@ -1,5 +1,9 @@
 {
     "title": "Yakushiji Ryouko no Kaiki Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155529.jpg",
+        "alt": "yakushiji-ryouko-no-kaiki-jikenbo"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "47",

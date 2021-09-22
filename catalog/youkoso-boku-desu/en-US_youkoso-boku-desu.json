@@ -1,5 +1,9 @@
 {
     "title": "Youkoso Boku desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1053/105833.jpg",
+        "alt": "youkoso-boku-desu"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ようこそぼくです",

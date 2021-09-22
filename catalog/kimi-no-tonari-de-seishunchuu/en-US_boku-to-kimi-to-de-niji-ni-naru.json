@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kimi to de Niji ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98879.jpg",
+        "alt": "boku-to-kimi-to-de-niji-ni-naru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

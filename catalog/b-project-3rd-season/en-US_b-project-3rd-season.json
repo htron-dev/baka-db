@@ -1,5 +1,9 @@
 {
     "title": "B-Project 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1328/110318.jpg",
+        "alt": "b-project-3rd-season"
+    },
     "type": "tv-serie",
     "original_name": "B-PROJECT",
     "rating": "PG-13 - Teens 13 or older",

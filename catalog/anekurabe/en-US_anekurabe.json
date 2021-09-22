@@ -1,5 +1,9 @@
 {
     "title": "Anekurabe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163062.jpg",
+        "alt": "anekurabe"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

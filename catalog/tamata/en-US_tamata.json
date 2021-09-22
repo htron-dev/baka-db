@@ -1,5 +1,9 @@
 {
     "title": "Tamata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202269.jpg",
+        "alt": "tamata"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

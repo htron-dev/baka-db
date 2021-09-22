@@ -1,5 +1,9 @@
 {
     "title": "Bunguri Korokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197194.jpg",
+        "alt": "bunguri-korokoro"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Nemurenu Yoru wa Dare no Sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22474.jpg",
+        "alt": "nemurenu-yoru-wa-dare-no-sei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

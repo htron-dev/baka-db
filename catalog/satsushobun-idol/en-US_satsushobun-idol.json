@@ -1,5 +1,9 @@
 {
     "title": "Satsushobun Idol!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239960.jpg",
+        "alt": "satsushobun-idol"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "59",

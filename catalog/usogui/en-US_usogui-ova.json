@@ -1,5 +1,9 @@
 {
     "title": "Usogui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/39507.jpg",
+        "alt": "usogui"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "嘘喰い",

@@ -1,5 +1,9 @@
 {
     "title": "Saihate no Diasta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190122.jpg",
+        "alt": "saihate-no-diasta"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Natsu ni Mebuku wa Koi no Oto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224815.jpg",
+        "alt": "natsu-ni-mebuku-wa-koi-no-oto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Junai Clover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11805.jpg",
+        "alt": "junai-clover"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

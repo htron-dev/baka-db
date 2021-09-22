@@ -1,5 +1,9 @@
 {
     "title": "Chinmoku no Kantai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/218002.jpg",
+        "alt": "chinmoku-no-kantai"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "351",

@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Boku no Meine Liebe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245472.jpg",
+        "alt": "kawaii-boku-no-meine-liebe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

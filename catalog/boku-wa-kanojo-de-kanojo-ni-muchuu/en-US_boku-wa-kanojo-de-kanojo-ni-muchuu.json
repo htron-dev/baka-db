@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Kanojo de Kanojo ni Muchuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169750.jpg",
+        "alt": "boku-wa-kanojo-de-kanojo-ni-muchuu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

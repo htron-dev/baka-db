@@ -1,5 +1,9 @@
 {
     "title": "Ryouomoi nante Joudan ja Nai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226973.jpg",
+        "alt": "ryouomoi-nante-joudan-ja-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

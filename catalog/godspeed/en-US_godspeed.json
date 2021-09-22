@@ -1,5 +1,9 @@
 {
     "title": "Godspeed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154140.jpg",
+        "alt": "godspeed"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

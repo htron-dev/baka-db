@@ -1,5 +1,9 @@
 {
     "title": "Tales of the Rays",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/84332.jpg",
+        "alt": "tales-of-the-rays"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "テイルズ オブ ザ レイズ",

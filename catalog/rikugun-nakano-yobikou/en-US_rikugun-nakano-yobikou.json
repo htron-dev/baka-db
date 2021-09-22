@@ -1,5 +1,9 @@
 {
     "title": "Rikugun Nakano Yobikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24677.jpg",
+        "alt": "rikugun-nakano-yobikou"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "陸軍中野予備校",

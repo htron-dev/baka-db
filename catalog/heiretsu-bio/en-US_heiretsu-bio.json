@@ -1,5 +1,9 @@
 {
     "title": "Heiretsu Bio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159038.jpg",
+        "alt": "heiretsu-bio"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

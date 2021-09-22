@@ -1,5 +1,9 @@
 {
     "title": "Hapi Navi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121297.jpg",
+        "alt": "hapi-navi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "はぴナビ!",

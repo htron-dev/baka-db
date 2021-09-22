@@ -1,5 +1,9 @@
 {
     "title": "Aoki Densetsu Shoot!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75214.jpg",
+        "alt": "aoki-densetsu-shoot"
+    },
     "type": "tv-serie",
     "episodes": "58",
     "original_name": "蒼き伝説　シュート！",

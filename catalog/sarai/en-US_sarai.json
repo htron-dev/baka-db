@@ -1,5 +1,9 @@
 {
     "title": "Sarai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/75533.jpg",
+        "alt": "sarai"
+    },
     "type": "manga",
     "volumes": "19",
     "original_name": "サライ",

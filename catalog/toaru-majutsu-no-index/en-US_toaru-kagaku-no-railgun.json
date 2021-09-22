@@ -1,12 +1,16 @@
 {
     "title": "Toaru Kagaku no Railgun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/53581.jpg",
+        "alt": "toaru-kagaku-no-railgun"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "とある科学の超電磁砲",
     "start_date": "2009-10-03",
     "end_date": "2009-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"only my railgun\" by fripSide (eps 2-14)",
+    "ending_song": "#1: \"only my railgun\" by fripSide (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

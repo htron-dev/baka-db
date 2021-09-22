@@ -1,5 +1,9 @@
 {
     "title": "Jigoku no Gama no Buta wo Akeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178149.jpg",
+        "alt": "jigoku-no-gama-no-buta-wo-akeru"
+    },
     "type": "manga",
     "chapters": "10",
     "original_name": "地獄の釜の蓋を開けろ",

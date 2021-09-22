@@ -1,5 +1,9 @@
 {
     "title": "Kachou Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1957/106044.jpg",
+        "alt": "kachou-ouji"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "課長王子",

@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Otono Jun no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/130155.jpg",
+        "alt": "meitantei-otono-jun-no-jikenbo"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "名探偵音野順の事件簿",

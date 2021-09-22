@@ -1,5 +1,9 @@
 {
     "title": "Bitou Lollipop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150444.jpg",
+        "alt": "bitou-lollipop"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

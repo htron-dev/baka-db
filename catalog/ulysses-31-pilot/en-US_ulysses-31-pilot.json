@@ -1,5 +1,9 @@
 {
     "title": "Ulysses 31 Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/29487.jpg",
+        "alt": "ulysses-31-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ULYSSES 31",

@@ -1,11 +1,15 @@
 {
     "title": "Soreyuke! Uchuu Senkan Yamamoto Yohko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1702/90153.jpg",
+        "alt": "soreyuke-uchuu-senkan-yamamoto-yohko"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "それゆけ！宇宙戦艦ヤマモト・ヨーコ",
     "start_date": "1996-03-06",
     "end_date": "1996-03-06",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shake It\" by Masami Okui (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

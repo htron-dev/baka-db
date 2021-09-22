@@ -1,5 +1,9 @@
 {
     "title": "Koi no Tsumeshougi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46887.jpg",
+        "alt": "koi-no-tsumeshougi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

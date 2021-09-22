@@ -1,5 +1,9 @@
 {
     "title": "Choir!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161437.jpg",
+        "alt": "choir"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ちょいあ!",

@@ -1,5 +1,9 @@
 {
     "title": "Yasashikunai Kimi ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227710.jpg",
+        "alt": "yasashikunai-kimi-ga-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

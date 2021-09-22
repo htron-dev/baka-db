@@ -1,5 +1,9 @@
 {
     "title": "Bunbetsu to Takan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36783.jpg",
+        "alt": "bunbetsu-to-takan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

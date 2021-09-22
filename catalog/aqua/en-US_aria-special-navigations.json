@@ -1,5 +1,9 @@
 {
     "title": "Aria Special Navigations",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/20528.jpg",
+        "alt": "aria-special-navigations"
+    },
     "type": "manga",
     "chapters": "3",
     "start_date": "2006-03-29",

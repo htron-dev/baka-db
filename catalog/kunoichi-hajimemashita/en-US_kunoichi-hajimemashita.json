@@ -1,5 +1,9 @@
 {
     "title": "Kunoichi Hajimemashita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146769.jpg",
+        "alt": "kunoichi-hajimemashita"
+    },
     "type": "manga",
     "original_name": "くノ一はじめました!",
     "start_date": "2014-05-03",

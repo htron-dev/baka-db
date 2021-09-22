@@ -1,5 +1,9 @@
 {
     "title": "Kachou no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167290.jpg",
+        "alt": "kachou-no-koi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "課長の恋",

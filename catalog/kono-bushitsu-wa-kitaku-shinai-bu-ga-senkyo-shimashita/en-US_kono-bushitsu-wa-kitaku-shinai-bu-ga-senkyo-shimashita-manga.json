@@ -1,5 +1,9 @@
 {
     "title": "Kono Bushitsu wa Kitaku Shinai Bu ga Senkyo Shimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98627.jpg",
+        "alt": "kono-bushitsu-wa-kitaku-shinai-bu-ga-senkyo-shimashita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

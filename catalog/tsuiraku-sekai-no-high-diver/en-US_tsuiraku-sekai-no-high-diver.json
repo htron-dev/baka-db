@@ -1,5 +1,9 @@
 {
     "title": "Tsuiraku Sekai no High Diver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162907.jpg",
+        "alt": "tsuiraku-sekai-no-high-diver"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "25",

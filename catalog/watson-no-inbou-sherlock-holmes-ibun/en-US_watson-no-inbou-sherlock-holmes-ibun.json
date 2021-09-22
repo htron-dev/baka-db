@@ -1,5 +1,9 @@
 {
     "title": "Watson no Inbou: Sherlock Holmes Ibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247478.jpg",
+        "alt": "watson-no-inbou-sherlock-holmes-ibun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Usami-san wa Kamawaretai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229573.jpg",
+        "alt": "usami-san-wa-kamawaretai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "65",

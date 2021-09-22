@@ -1,5 +1,9 @@
 {
     "title": "Kenja no Nagaki Fuzai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3591.jpg",
+        "alt": "kenja-no-nagaki-fuzai"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "38",

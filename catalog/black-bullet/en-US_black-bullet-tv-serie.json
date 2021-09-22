@@ -1,12 +1,16 @@
 {
     "title": "Black Bullet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1292/94693.jpg",
+        "alt": "black-bullet"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ブラック・ブレット　 BLACK BULLET 　［黒の銃弾］",
     "start_date": "2014-04-08",
     "end_date": "2014-04-08",
     "opening_song": "\"black bullet\" by fripSide",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tokohana (トコハナ)\" by Nagi Yanagi (eps 1-3, 5-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

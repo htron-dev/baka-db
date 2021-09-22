@@ -1,5 +1,9 @@
 {
     "title": "Mission Impossible",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230048.jpg",
+        "alt": "mission-impossible"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

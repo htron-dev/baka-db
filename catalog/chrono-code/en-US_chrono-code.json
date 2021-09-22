@@ -1,5 +1,9 @@
 {
     "title": "Chrono Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/753.jpg",
+        "alt": "chrono-code"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "18",

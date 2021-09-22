@@ -1,5 +1,9 @@
 {
     "title": "Teekyuu 4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/73472.jpg",
+        "alt": "teekyuu-4"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てーきゅう ４期",

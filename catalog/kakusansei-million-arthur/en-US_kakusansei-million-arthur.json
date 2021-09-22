@@ -1,5 +1,9 @@
 {
     "title": "Kakusansei Million Arthur",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/88538.jpg",
+        "alt": "kakusansei-million-arthur"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "拡散性ミリオンアーサー",

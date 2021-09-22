@@ -1,5 +1,9 @@
 {
     "title": "Kitty Hawker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45383.jpg",
+        "alt": "kitty-hawker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

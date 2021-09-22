@@ -1,5 +1,9 @@
 {
     "title": "Fate/strange Fake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1124/105177.jpg",
+        "alt": "fate-strange-fake"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Fate/strange Fake",

@@ -1,5 +1,9 @@
 {
     "title": "Tokubetsu ni Kawaiku Mieru no desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221869.jpg",
+        "alt": "tokubetsu-ni-kawaiku-mieru-no-desu"
+    },
     "type": "manga",
     "original_name": "特別に可愛く見えるのです。",
     "start_date": "2018-07-20",

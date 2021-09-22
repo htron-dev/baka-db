@@ -1,5 +1,9 @@
 {
     "title": "Berserk Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/84535.jpg",
+        "alt": "berserk-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ベルセルク 第 1 期ダイジェスト映像",

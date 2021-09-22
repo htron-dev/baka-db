@@ -1,5 +1,9 @@
 {
     "title": "Fiancé Yatoimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247257.jpg",
+        "alt": "fiance-yatoimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "フィアンセ雇います",

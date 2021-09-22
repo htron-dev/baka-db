@@ -1,5 +1,9 @@
 {
     "title": "Namaiki Do S Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230775.jpg",
+        "alt": "namaiki-do-s-doll"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

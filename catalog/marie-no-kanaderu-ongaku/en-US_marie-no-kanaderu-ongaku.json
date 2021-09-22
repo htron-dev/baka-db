@@ -1,5 +1,9 @@
 {
     "title": "Marie no Kanaderu Ongaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171103.jpg",
+        "alt": "marie-no-kanaderu-ongaku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

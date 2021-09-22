@@ -1,5 +1,9 @@
 {
     "title": "Muhwang Jaelim",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216632.jpg",
+        "alt": "muhwang-jaelim"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "42",

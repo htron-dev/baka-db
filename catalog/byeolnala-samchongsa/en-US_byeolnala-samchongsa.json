@@ -1,5 +1,9 @@
 {
     "title": "Byeolnala Samchongsa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/61655.jpg",
+        "alt": "byeolnala-samchongsa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "별나라 삼총사",

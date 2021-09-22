@@ -1,5 +1,9 @@
 {
     "title": "Sayokyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1041/107680.jpg",
+        "alt": "sayokyoku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "小夜曲",

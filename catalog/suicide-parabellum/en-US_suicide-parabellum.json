@@ -1,5 +1,9 @@
 {
     "title": "Suicide Parabellum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173039.jpg",
+        "alt": "suicide-parabellum"
+    },
     "type": "manga",
     "chapters": "11",
     "original_name": "スーサイド・パラベラム",

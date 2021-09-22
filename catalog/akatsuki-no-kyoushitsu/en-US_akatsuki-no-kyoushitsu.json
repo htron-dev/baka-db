@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki no Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54861.jpg",
+        "alt": "akatsuki-no-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "あかつきの教室",

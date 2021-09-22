@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179988.jpg",
+        "alt": "yuuwaku-complex"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "誘惑コンプレックス",

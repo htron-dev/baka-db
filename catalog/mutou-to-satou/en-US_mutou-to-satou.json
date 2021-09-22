@@ -1,5 +1,9 @@
 {
     "title": "Mutou to Satou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226306.jpg",
+        "alt": "mutou-to-satou"
+    },
     "type": "manga",
     "original_name": "むとうとさとう",
     "start_date": "2019-02-14",

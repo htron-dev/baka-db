@@ -1,5 +1,9 @@
 {
     "title": "Kigyou Senshi Arslan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/77775.jpg",
+        "alt": "kigyou-senshi-arslan"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "企業戦士アルスラーン",

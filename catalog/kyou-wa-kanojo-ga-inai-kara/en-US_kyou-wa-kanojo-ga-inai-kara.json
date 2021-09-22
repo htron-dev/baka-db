@@ -1,5 +1,9 @@
 {
     "title": "Kyou wa Kanojo ga Inai kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246790.jpg",
+        "alt": "kyou-wa-kanojo-ga-inai-kara"
+    },
     "type": "manga",
     "original_name": "今日はカノジョがいないから",
     "start_date": "2021-06-17",

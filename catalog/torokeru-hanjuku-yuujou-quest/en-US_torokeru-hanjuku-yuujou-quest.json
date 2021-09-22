@@ -1,5 +1,9 @@
 {
     "title": "Torokeru Hanjuku Yuujou Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/101587.jpg",
+        "alt": "torokeru-hanjuku-yuujou-quest"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

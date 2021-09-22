@@ -1,5 +1,9 @@
 {
     "title": "Baby Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140705.jpg",
+        "alt": "baby-princess"
+    },
     "type": "light-novel",
     "volumes": "7",
     "original_name": "Baby Princess ベイビー・プリンセス",

@@ -1,11 +1,15 @@
 {
     "title": "Jungle Taitei (1989)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75997.jpg",
+        "alt": "jungle-taitei-1989"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ジャングル大帝",
     "start_date": "1989-10-12",
     "end_date": "1989-10-12",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Past the Savanna\" by Mizuki Ichiro",
     "ending_song": "\"Yuubae ni Nare\" by Tomoko Tokugai",
     "rating": "G - All Ages",
     "tags": [

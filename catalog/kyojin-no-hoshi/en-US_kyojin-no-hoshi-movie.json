@@ -1,5 +1,9 @@
 {
     "title": "Kyojin no Hoshi (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/46611.jpg",
+        "alt": "kyojin-no-hoshi-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "巨人の星",

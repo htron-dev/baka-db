@@ -1,5 +1,9 @@
 {
     "title": "Chikan Elevator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98005.jpg",
+        "alt": "chikan-elevator"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

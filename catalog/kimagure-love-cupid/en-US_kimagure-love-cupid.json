@@ -1,5 +1,9 @@
 {
     "title": "Kimagure Love Cupid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5640.jpg",
+        "alt": "kimagure-love-cupid"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

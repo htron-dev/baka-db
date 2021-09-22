@@ -1,5 +1,9 @@
 {
     "title": "Youkai Karuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205526.jpg",
+        "alt": "youkai-karuta"
+    },
     "type": "manga",
     "original_name": "ようかい歌留多",
     "start_date": "2016-10-17",

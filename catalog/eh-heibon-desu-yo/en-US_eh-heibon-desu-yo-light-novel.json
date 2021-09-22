@@ -1,5 +1,9 @@
 {
     "title": "Eh? Heibon desu yo??",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186486.jpg",
+        "alt": "eh-heibon-desu-yo"
+    },
     "type": "light-novel",
     "original_name": "えっ? 平凡ですよ??",
     "start_date": "2013-07-26",

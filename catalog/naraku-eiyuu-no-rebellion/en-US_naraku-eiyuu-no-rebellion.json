@@ -1,5 +1,9 @@
 {
     "title": "Naraku Eiyuu no Rebellion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160831.jpg",
+        "alt": "naraku-eiyuu-no-rebellion"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Fan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152591.jpg",
+        "alt": "fan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

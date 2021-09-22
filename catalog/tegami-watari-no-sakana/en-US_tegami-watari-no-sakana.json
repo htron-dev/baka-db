@@ -1,5 +1,9 @@
 {
     "title": "Tegami Watari no Sakana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231422.jpg",
+        "alt": "tegami-watari-no-sakana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

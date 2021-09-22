@@ -1,5 +1,9 @@
 {
     "title": "Ω wa Pink no Yume wo Miru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224692.jpg",
+        "alt": "ω-wa-pink-no-yume-wo-miru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

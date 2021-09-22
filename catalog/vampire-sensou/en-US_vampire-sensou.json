@@ -1,5 +1,9 @@
 {
     "title": "Vampire Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1341/96594.jpg",
+        "alt": "vampire-sensou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ヴァンパイヤー戦争",

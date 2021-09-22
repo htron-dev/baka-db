@@ -1,5 +1,9 @@
 {
     "title": "Kodomo wa Wakatte Agenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144849.jpg",
+        "alt": "kodomo-wa-wakatte-agenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

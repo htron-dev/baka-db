@@ -1,5 +1,9 @@
 {
     "title": "Ranma ½: DoCo Music Video",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/29887.jpg",
+        "alt": "ranma-do-co-music-video"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "らんま 1/2 DoCo ミュージックビデオ",

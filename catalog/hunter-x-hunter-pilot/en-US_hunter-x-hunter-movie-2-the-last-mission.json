@@ -1,5 +1,9 @@
 {
     "title": "Hunter x Hunter Movie 2: The Last Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/62337.jpg",
+        "alt": "hunter-x-hunter-movie-2-the-last-mission"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 HUNTERxHUNTER THE LAST MISSION",

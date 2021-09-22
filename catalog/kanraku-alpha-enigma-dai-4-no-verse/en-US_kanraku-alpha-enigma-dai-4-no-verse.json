@@ -1,9 +1,13 @@
 {
     "title": "Kanraku Alpha: Enigma - Dai-4 no Verse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236353.jpg",
+        "alt": "kanraku-alpha-enigma-dai-4-no-verse"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",
-    "original_name": "陥落アルファ ―エニグマ",
+    "original_name": "陥落アルファ ―エニグマ:第 4 のバース―",
     "start_date": "2018-09-28",
     "end_date": "2018-09-28",
     "tags": [

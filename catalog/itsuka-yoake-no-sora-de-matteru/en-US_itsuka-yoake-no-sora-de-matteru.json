@@ -1,5 +1,9 @@
 {
     "title": "Itsuka, Yoake no Sora de Matteru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165956.jpg",
+        "alt": "itsuka-yoake-no-sora-de-matteru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

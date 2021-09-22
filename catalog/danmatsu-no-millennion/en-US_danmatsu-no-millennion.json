@@ -1,5 +1,9 @@
 {
     "title": "Danmatsu no Millennion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176324.jpg",
+        "alt": "danmatsu-no-millennion"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

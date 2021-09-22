@@ -1,5 +1,9 @@
 {
     "title": "Dogeza, Shite Kudasai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222208.jpg",
+        "alt": "dogeza-shite-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

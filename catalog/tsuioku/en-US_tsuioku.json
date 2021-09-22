@@ -1,5 +1,9 @@
 {
     "title": "Tsuioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66223.jpg",
+        "alt": "tsuioku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

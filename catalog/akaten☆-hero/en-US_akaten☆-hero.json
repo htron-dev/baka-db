@@ -1,5 +1,9 @@
 {
     "title": "Akaten☆Hero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3676.jpg",
+        "alt": "akaten☆-hero"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

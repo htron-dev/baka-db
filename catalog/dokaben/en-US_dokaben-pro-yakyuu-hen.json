@@ -1,5 +1,9 @@
 {
     "title": "Dokaben: Pro Yakyuu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136961.jpg",
+        "alt": "dokaben-pro-yakyuu-hen"
+    },
     "type": "manga",
     "volumes": "52",
     "chapters": "425",

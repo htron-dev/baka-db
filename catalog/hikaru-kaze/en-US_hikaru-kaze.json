@@ -1,5 +1,9 @@
 {
     "title": "Hikaru Kaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189616.jpg",
+        "alt": "hikaru-kaze"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

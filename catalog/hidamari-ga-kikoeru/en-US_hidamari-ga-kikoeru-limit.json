@@ -1,5 +1,9 @@
 {
     "title": "Hidamari ga Kikoeru: Limit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240673.jpg",
+        "alt": "hidamari-ga-kikoeru-limit"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

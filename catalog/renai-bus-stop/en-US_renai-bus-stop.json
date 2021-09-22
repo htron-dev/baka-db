@@ -1,5 +1,9 @@
 {
     "title": "Renai Bus Stop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31094.jpg",
+        "alt": "renai-bus-stop"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

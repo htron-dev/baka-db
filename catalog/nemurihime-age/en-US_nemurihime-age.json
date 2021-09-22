@@ -1,5 +1,9 @@
 {
     "title": "Nemurihime Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190878.jpg",
+        "alt": "nemurihime-age"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "眠り姫 Age",

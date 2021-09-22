@@ -1,5 +1,9 @@
 {
     "title": "Sei Mo.E.S. no Hakobune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137897.jpg",
+        "alt": "sei-mo-e-s-no-hakobune"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

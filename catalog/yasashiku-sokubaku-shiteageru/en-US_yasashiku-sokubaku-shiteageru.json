@@ -1,5 +1,9 @@
 {
     "title": "Yasashiku Sokubaku Shiteageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2859.jpg",
+        "alt": "yasashiku-sokubaku-shiteageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

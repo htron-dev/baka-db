@@ -1,5 +1,9 @@
 {
     "title": "Amayadori wa Bus Tei de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155932.jpg",
+        "alt": "amayadori-wa-bus-tei-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

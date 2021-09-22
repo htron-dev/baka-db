@@ -1,5 +1,9 @@
 {
     "title": "RGB Adventure Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1759/107951.jpg",
+        "alt": "rgb-adventure-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "RGB アドベンチャー『Another Adventure』",

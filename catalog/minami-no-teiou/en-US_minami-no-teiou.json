@@ -1,5 +1,9 @@
 {
     "title": "Minami no Teiou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67807.jpg",
+        "alt": "minami-no-teiou"
+    },
     "type": "manga",
     "original_name": "ミナミの帝王",
     "start_date": "1992-03-06",

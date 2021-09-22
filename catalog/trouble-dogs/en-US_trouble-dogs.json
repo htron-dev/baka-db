@@ -1,5 +1,9 @@
 {
     "title": "Trouble Dogs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16832.jpg",
+        "alt": "trouble-dogs"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "31",

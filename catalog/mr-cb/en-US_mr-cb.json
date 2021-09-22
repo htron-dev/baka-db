@@ -1,5 +1,9 @@
 {
     "title": "Mr. CB",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216955.jpg",
+        "alt": "mr-cb"
+    },
     "type": "manga",
     "original_name": "Mr.CB",
     "start_date": "2018-05-08",

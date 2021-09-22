@@ -1,5 +1,9 @@
 {
     "title": "Qimiao Mengjing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1297/115510.jpg",
+        "alt": "qimiao-mengjing"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "奇妙梦境",

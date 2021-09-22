@@ -1,5 +1,9 @@
 {
     "title": "Super Mario Adventures: Mario no Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7744.jpg",
+        "alt": "super-mario-adventures-mario-no-daibouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

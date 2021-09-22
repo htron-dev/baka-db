@@ -1,5 +1,9 @@
 {
     "title": "Ginga wa Kanojo hodo ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162259.jpg",
+        "alt": "ginga-wa-kanojo-hodo-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

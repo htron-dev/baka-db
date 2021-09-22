@@ -1,5 +1,9 @@
 {
     "title": "Anagura Amélie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179109.jpg",
+        "alt": "anagura-amelie"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "72",

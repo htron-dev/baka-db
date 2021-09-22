@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200642.jpg",
+        "alt": "tokyo-alternative"
+    },
     "type": "manga",
     "original_name": "東京オルタナティヴ",
     "start_date": "2017-09-04",

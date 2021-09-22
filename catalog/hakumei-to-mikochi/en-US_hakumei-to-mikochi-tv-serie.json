@@ -1,12 +1,16 @@
 {
     "title": "Hakumei to Mikochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1250/91694.jpg",
+        "alt": "hakumei-to-mikochi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハクメイとミコチ",
     "start_date": "2018-01-12",
     "end_date": "2018-01-12",
     "opening_song": "\"urar\" by Chima",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Harvest Moon Night\" by Mikochi (Shino Shimoji) & Konju (Aoi Yuuki) (eps 1-8, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "fantasy",

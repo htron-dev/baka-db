@@ -1,5 +1,9 @@
 {
     "title": "Gesokon Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216854.jpg",
+        "alt": "gesokon-tantei"
+    },
     "type": "manga",
     "original_name": "ゲソコン探偵",
     "start_date": "2018-11-09",

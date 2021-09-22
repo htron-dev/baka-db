@@ -1,5 +1,9 @@
 {
     "title": "Tsumasaki ni Amai Wana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185682.jpg",
+        "alt": "tsumasaki-ni-amai-wana"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

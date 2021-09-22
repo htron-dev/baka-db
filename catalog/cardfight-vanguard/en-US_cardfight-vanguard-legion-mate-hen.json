@@ -1,12 +1,16 @@
 {
     "title": "Cardfight!! Vanguard: Legion Mate-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/64773.jpg",
+        "alt": "cardfight-vanguard-legion-mate-hen"
+    },
     "type": "tv-serie",
     "episodes": "33",
     "original_name": "カードファイト!! ヴァンガード レギオンメイト編",
     "start_date": "2014-03-09",
     "end_date": "2014-03-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"V-ROAD\" by BUSHI★7 (eps 1-16)",
+    "ending_song": "#1: \"Get Up\" by FAKY (eps 1-16)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

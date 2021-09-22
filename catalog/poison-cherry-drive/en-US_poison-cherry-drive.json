@@ -1,5 +1,9 @@
 {
     "title": "Poison Cherry Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2969.jpg",
+        "alt": "poison-cherry-drive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Battle Club 2nd Stage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9426.jpg",
+        "alt": "battle-club-2nd-stage"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

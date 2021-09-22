@@ -1,5 +1,9 @@
 {
     "title": "Kokoro wo Korosu Houhou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220708.jpg",
+        "alt": "kokoro-wo-korosu-houhou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

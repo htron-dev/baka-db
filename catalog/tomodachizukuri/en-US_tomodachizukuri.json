@@ -1,5 +1,9 @@
 {
     "title": "Tomodachizukuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202813.jpg",
+        "alt": "tomodachizukuri"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

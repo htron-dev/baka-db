@@ -1,5 +1,9 @@
 {
     "title": "Ojiichan wa Boku no Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74446.jpg",
+        "alt": "ojiichan-wa-boku-no-hero"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "おじいちゃんはボクのヒーロー",

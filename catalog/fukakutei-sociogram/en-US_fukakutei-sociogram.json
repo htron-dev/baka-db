@@ -1,5 +1,9 @@
 {
     "title": "Fukakutei Sociogram",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79745.jpg",
+        "alt": "fukakutei-sociogram"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "3",

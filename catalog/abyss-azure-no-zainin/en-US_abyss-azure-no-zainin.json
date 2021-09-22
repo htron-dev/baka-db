@@ -1,5 +1,9 @@
 {
     "title": "Abyss Azure no Zainin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244508.jpg",
+        "alt": "abyss-azure-no-zainin"
+    },
     "type": "manga",
     "original_name": "アビスアジュールの罪人",
     "start_date": "2020-10-15",

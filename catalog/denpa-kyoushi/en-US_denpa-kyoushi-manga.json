@@ -1,5 +1,9 @@
 {
     "title": "Denpa Kyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154265.jpg",
+        "alt": "denpa-kyoushi"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "247",

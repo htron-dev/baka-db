@@ -1,5 +1,9 @@
 {
     "title": "Last Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25282.jpg",
+        "alt": "last-lovers"
+    },
     "type": "manhwa",
     "volumes": "16",
     "original_name": "마지막 연인 아리오나",

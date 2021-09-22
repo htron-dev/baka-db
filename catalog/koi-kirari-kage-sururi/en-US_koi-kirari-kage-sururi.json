@@ -1,5 +1,9 @@
 {
     "title": "Koi Kirari, Kage Sururi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244671.jpg",
+        "alt": "koi-kirari-kage-sururi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Wasure Yuki no Furu Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151079.jpg",
+        "alt": "wasure-yuki-no-furu-koro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

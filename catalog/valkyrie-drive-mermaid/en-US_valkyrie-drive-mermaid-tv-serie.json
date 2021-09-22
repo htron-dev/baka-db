@@ -1,5 +1,9 @@
 {
     "title": "Valkyrie Drive: Mermaid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75528.jpg",
+        "alt": "valkyrie-drive-mermaid"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヴァルキリードライヴ　マーメイド",

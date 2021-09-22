@@ -1,5 +1,9 @@
 {
     "title": "Chotto Matte yo, Hanaya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206484.jpg",
+        "alt": "chotto-matte-yo-hanaya-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

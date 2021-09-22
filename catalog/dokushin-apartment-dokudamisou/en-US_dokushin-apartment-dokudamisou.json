@@ -1,5 +1,9 @@
 {
     "title": "Dokushin Apartment Dokudamisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149665.jpg",
+        "alt": "dokushin-apartment-dokudamisou"
+    },
     "type": "manga",
     "volumes": "35",
     "original_name": "独身アパートどくだみ荘",

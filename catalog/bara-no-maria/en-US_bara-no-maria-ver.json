@@ -1,5 +1,9 @@
 {
     "title": "Bara no Maria Ver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138961.jpg",
+        "alt": "bara-no-maria-ver"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "40",

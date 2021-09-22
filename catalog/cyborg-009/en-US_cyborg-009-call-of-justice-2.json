@@ -1,5 +1,9 @@
 {
     "title": "Cyborg 009: Call of Justice 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/81019.jpg",
+        "alt": "cyborg-009-call-of-justice-2"
+    },
     "type": "movie",
     "episodes": "1",
     "start_date": "2016-12-02",

@@ -1,5 +1,9 @@
 {
     "title": "Kiyoku Tadashiku Fushidara ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243924.jpg",
+        "alt": "kiyoku-tadashiku-fushidara-ni"
+    },
     "type": "manga",
     "original_name": "清く正しくふしだらに",
     "start_date": "2020-04-03",

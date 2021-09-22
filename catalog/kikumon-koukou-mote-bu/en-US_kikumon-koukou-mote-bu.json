@@ -1,5 +1,9 @@
 {
     "title": "Kikumon Koukou Mote-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215609.jpg",
+        "alt": "kikumon-koukou-mote-bu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

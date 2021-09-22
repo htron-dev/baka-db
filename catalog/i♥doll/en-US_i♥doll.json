@@ -1,5 +1,9 @@
 {
     "title": "I♥DOLL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160765.jpg",
+        "alt": "i♥doll"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "i♥ ドール",

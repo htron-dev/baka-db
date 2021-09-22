@@ -1,5 +1,9 @@
 {
     "title": "Tennen Kakutou Shoujo Chihiro-chan♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151965.jpg",
+        "alt": "tennen-kakutou-shoujo-chihiro-chan♥"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

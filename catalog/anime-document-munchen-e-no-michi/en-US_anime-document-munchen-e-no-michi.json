@@ -1,5 +1,9 @@
 {
     "title": "Anime Document: München e no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/53859.jpg",
+        "alt": "anime-document-munchen-e-no-michi"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "アニメドキュメント ミュンヘンへの道",

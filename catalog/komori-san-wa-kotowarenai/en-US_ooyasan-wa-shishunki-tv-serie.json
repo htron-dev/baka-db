@@ -1,5 +1,9 @@
 {
     "title": "Ooyasan wa Shishunki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/77832.jpg",
+        "alt": "ooyasan-wa-shishunki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "大家さんは思春期！",

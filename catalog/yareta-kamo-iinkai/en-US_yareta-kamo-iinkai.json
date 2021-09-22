@@ -1,5 +1,9 @@
 {
     "title": "Yareta kamo Iinkai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204944.jpg",
+        "alt": "yareta-kamo-iinkai"
+    },
     "type": "manga",
     "original_name": "やれたかも委員会",
     "start_date": "2016-04-24",

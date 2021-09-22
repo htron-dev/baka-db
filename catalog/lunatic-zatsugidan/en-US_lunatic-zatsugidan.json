@@ -1,5 +1,9 @@
 {
     "title": "Lunatic Zatsugidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230827.jpg",
+        "alt": "lunatic-zatsugidan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

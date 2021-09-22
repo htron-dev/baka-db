@@ -1,5 +1,9 @@
 {
     "title": "Kemushi no Boro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1377/90940.jpg",
+        "alt": "kemushi-no-boro"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "毛虫のボロ",

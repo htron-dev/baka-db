@@ -1,5 +1,9 @@
 {
     "title": "Southern Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79579.jpg",
+        "alt": "southern-cross"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "サザンクロス",

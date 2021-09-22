@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Himitsu no Hanazono - Kindan no Keiyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137343.jpg",
+        "alt": "manga-grimm-douwa-himitsu-no-hanazono-kindan-no-keiyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

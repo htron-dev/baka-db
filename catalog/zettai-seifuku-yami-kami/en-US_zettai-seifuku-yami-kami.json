@@ -1,5 +1,9 @@
 {
     "title": "Zettai Seifuku Yami Kami!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/97601.jpg",
+        "alt": "zettai-seifuku-yami-kami"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "絶対征服ヤミカミ!",

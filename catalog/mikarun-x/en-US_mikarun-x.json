@@ -1,5 +1,9 @@
 {
     "title": "Mikarun X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222021.jpg",
+        "alt": "mikarun-x"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "48",

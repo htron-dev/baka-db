@@ -1,5 +1,9 @@
 {
     "title": "Norausagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152052.jpg",
+        "alt": "norausagi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "46",

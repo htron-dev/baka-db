@@ -1,5 +1,9 @@
 {
     "title": "Tiger & Bunny: The Beginning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110429.jpg",
+        "alt": "tiger-bunny-the-beginning"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

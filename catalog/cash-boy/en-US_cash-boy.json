@@ -1,5 +1,9 @@
 {
     "title": "Cash Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233810.jpg",
+        "alt": "cash-boy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

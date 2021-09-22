@@ -1,5 +1,9 @@
 {
     "title": "Flowernoid no Shuufukushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64615.jpg",
+        "alt": "flowernoid-no-shuufukushi"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "フラワノイドの修復師",

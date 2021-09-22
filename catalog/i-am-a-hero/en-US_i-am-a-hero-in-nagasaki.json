@@ -1,5 +1,9 @@
 {
     "title": "I Am a Hero in Nagasaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193593.jpg",
+        "alt": "i-am-a-hero-in-nagasaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Toshishita no Otokonoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247709.jpg",
+        "alt": "toshishita-no-otokonoko"
+    },
     "type": "manga",
     "original_name": "年下の男の子",
     "start_date": "2019-04-30",

@@ -1,5 +1,9 @@
 {
     "title": "Heroine-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181117.jpg",
+        "alt": "heroine-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "24",

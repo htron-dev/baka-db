@@ -1,5 +1,9 @@
 {
     "title": "Kare to Kanojo to Garterbelt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12198.jpg",
+        "alt": "kare-to-kanojo-to-garterbelt"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "彼と彼女とガーターベルト",

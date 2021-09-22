@@ -1,5 +1,9 @@
 {
     "title": "Houshin Engi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176572.jpg",
+        "alt": "houshin-engi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "16",

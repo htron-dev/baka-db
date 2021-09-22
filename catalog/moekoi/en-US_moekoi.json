@@ -1,5 +1,9 @@
 {
     "title": "Moekoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85765.jpg",
+        "alt": "moekoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

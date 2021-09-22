@@ -1,5 +1,9 @@
 {
     "title": "It's My Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216146.jpg",
+        "alt": "its-my-life"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "78",

@@ -1,5 +1,9 @@
 {
     "title": "Service &amp; Butler",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121277.jpg",
+        "alt": "service-amp-butler"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "サービス&バトラー",

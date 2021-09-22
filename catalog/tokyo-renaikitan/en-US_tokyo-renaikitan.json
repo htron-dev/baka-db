@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Renaikitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2321.jpg",
+        "alt": "tokyo-renaikitan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

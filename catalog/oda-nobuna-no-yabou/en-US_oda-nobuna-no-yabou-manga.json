@@ -1,5 +1,9 @@
 {
     "title": "Oda Nobuna no Yabou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86829.jpg",
+        "alt": "oda-nobuna-no-yabou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

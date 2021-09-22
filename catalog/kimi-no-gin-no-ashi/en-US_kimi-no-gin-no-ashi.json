@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Gin no Ashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237742.jpg",
+        "alt": "kimi-no-gin-no-ashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

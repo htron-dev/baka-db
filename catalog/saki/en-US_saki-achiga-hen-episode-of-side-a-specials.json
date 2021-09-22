@@ -1,5 +1,9 @@
 {
     "title": "Saki Achiga-hen: Episode of Side-A Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/45084.jpg",
+        "alt": "saki-achiga-hen-episode-of-side-a-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "咲-Saki-阿知賀編 episode of side-A スペシャルエピソード 13 話～ 16 話",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Saki_(manga"
+            "link": "http://en.wikipedia.org/wiki/Saki_%28manga%29#Anime"
         }
     ]
 }

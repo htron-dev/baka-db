@@ -1,5 +1,9 @@
 {
     "title": "Sonic and the Black Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18004.jpg",
+        "alt": "sonic-and-the-black-knight"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "ソニックと暗黒の騎士",

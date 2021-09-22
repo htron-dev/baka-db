@@ -1,5 +1,9 @@
 {
     "title": "Kin no Makiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1818/107577.jpg",
+        "alt": "kin-no-makiba"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "金のまきば",

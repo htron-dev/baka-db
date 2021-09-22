@@ -1,5 +1,9 @@
 {
     "title": "Kohitsuji Hokaku Keikaku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/374.jpg",
+        "alt": "kohitsuji-hokaku-keikaku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

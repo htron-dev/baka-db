@@ -1,5 +1,9 @@
 {
     "title": "Boku no High Spec Kareshi-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192468.jpg",
+        "alt": "boku-no-high-spec-kareshi-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

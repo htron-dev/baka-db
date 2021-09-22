@@ -1,5 +1,9 @@
 {
     "title": "Pianoman Trailer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1294/106625.jpg",
+        "alt": "pianoman-trailer"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "PIANOMAN Trailer",

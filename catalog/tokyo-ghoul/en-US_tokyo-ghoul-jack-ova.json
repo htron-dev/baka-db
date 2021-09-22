@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ghoul: \"Jack\"",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/76048.jpg",
+        "alt": "tokyo-ghoul-jack"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "東京喰種 トーキョーグール【JACK】",

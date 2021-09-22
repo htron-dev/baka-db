@@ -1,5 +1,9 @@
 {
     "title": "Fukanzen Shinsei Kikan Ilis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131647.jpg",
+        "alt": "fukanzen-shinsei-kikan-ilis"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "36",

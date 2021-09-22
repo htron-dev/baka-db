@@ -1,5 +1,9 @@
 {
     "title": "Night Walker: Mayonaka no Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/31985.jpg",
+        "alt": "night-walker-mayonaka-no-tantei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Night Walker -真夜中の探偵-",

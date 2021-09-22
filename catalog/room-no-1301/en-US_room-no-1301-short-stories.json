@@ -1,5 +1,9 @@
 {
     "title": "Room No.1301: Short Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162508.jpg",
+        "alt": "room-no-1301-short-stories"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "17",

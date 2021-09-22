@@ -1,5 +1,9 @@
 {
     "title": "Seishin Bunseki Nyuumon Yumehandan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160705.jpg",
+        "alt": "seishin-bunseki-nyuumon-yumehandan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

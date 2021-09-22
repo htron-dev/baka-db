@@ -1,5 +1,9 @@
 {
     "title": "Nani wa Nakuto mo Oyotsugi wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121173.jpg",
+        "alt": "nani-wa-nakuto-mo-oyotsugi-wo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "なにはなくともお世継ぎを!",

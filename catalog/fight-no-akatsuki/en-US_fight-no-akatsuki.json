@@ -1,5 +1,9 @@
 {
     "title": "Fight no Akatsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186359.jpg",
+        "alt": "fight-no-akatsuki"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "65",

@@ -1,5 +1,9 @@
 {
     "title": "Shunki Gentei Ichigo Tart Jiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72203.jpg",
+        "alt": "shunki-gentei-ichigo-tart-jiken"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Haitoku Kyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28371.jpg",
+        "alt": "itoshi-no-haitoku-kyoushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Otodoke ni Agarimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138403.jpg",
+        "alt": "otodoke-ni-agarimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

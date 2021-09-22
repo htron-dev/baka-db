@@ -1,5 +1,9 @@
 {
     "title": "Shimaism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173455.jpg",
+        "alt": "shimaism"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

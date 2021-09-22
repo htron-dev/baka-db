@@ -1,5 +1,9 @@
 {
     "title": "Change the World: Kyou kara Satsujinki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219770.jpg",
+        "alt": "change-the-world-kyou-kara-satsujinki"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

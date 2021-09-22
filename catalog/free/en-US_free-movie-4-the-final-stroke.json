@@ -1,5 +1,9 @@
 {
     "title": "Free! Movie 4: The Final Stroke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1012/116742.jpg",
+        "alt": "free-movie-4-the-final-stroke"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 Free!-the Final Stroke-",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Free!_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Free!_%28TV_series%29#Films"
         }
     ]
 }

@@ -1,9 +1,13 @@
 {
     "title": "PM 5:00 - Koi Ochiru Toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11652.jpg",
+        "alt": "pm-5-00-koi-ochiru-toki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",
-    "original_name": "PM5",
+    "original_name": "PM5:00~恋堕ちる時",
     "tags": [
         "shoujo"
     ],

@@ -1,5 +1,9 @@
 {
     "title": "Ubatte Agemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46237.jpg",
+        "alt": "ubatte-agemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

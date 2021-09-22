@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki Tonight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/41441.jpg",
+        "alt": "tokimeki-tonight"
+    },
     "type": "tv-serie",
     "episodes": "34",
     "original_name": "ときめきトゥナイト",

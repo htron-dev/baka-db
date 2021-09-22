@@ -1,5 +1,9 @@
 {
     "title": "Appleseed XIII Remix Movie 1: Yuigon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/64539.jpg",
+        "alt": "appleseed-xiii-remix-movie-1-yuigon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場リミックス版 APPLESEED XIII ～遺言～",

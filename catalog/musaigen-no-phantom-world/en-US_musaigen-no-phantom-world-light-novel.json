@@ -1,5 +1,9 @@
 {
     "title": "Musaigen no Phantom World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109885.jpg",
+        "alt": "musaigen-no-phantom-world"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "無彩限のファントム・ワールド",

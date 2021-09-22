@@ -1,5 +1,9 @@
 {
     "title": "AFO-Guard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125889.jpg",
+        "alt": "afo-guard"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

@@ -1,5 +1,9 @@
 {
     "title": "Chou Kowai Gakkou no Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36870.jpg",
+        "alt": "chou-kowai-gakkou-no-kaidan"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

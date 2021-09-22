@@ -1,5 +1,9 @@
 {
     "title": "Karasugaoka Don't Be Shy!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220884.jpg",
+        "alt": "karasugaoka-dont-be-shy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

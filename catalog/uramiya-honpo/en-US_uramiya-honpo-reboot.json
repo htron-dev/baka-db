@@ -1,5 +1,9 @@
 {
     "title": "Uramiya Honpo: Reboot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205520.jpg",
+        "alt": "uramiya-honpo-reboot"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "73",

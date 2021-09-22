@@ -1,5 +1,9 @@
 {
     "title": "Gisho Getter Robo Darkness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74959.jpg",
+        "alt": "gisho-getter-robo-darkness"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "偽書ゲッターロボ ダークネス",

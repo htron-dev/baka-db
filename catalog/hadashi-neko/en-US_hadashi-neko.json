@@ -1,5 +1,9 @@
 {
     "title": "Hadashi Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71962.jpg",
+        "alt": "hadashi-neko"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "はだしねこ",

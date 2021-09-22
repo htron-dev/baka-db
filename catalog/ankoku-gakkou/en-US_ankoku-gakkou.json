@@ -1,5 +1,9 @@
 {
     "title": "Ankoku Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154706.jpg",
+        "alt": "ankoku-gakkou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Qin Shi Ming Yue Tebie Pian: Di Zi Jiang Xi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79965.jpg",
+        "alt": "qin-shi-ming-yue-tebie-pian-di-zi-jiang-xi"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "秦时明月特别篇《帝子降兮》",
@@ -23,7 +27,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/The_Legend_of_Qin_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/The_Legend_of_Qin_%28TV_series%29"
         }
     ]
 }

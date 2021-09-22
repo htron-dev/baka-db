@@ -1,5 +1,9 @@
 {
     "title": "Onsa no Hibiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165407.jpg",
+        "alt": "onsa-no-hibiki"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "おんさのひびき",

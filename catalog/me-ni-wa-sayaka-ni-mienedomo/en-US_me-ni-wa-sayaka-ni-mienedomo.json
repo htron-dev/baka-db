@@ -1,5 +1,9 @@
 {
     "title": "Me ni wa Sayaka ni Mienedomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5490.jpg",
+        "alt": "me-ni-wa-sayaka-ni-mienedomo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

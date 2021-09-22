@@ -1,5 +1,9 @@
 {
     "title": "Toua Soutou Tokumu-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131899.jpg",
+        "alt": "toua-soutou-tokumu-tai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "東亜総統特務隊―ヤパニッシュ・フライビリング・デア・ヴァッフェン SS",

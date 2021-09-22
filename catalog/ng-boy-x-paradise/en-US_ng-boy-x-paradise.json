@@ -1,5 +1,9 @@
 {
     "title": "NG Boy x Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39746.jpg",
+        "alt": "ng-boy-x-paradise"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

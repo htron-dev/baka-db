@@ -1,5 +1,9 @@
 {
     "title": "Kai Byoui Ramune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235763.jpg",
+        "alt": "kai-byoui-ramune"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

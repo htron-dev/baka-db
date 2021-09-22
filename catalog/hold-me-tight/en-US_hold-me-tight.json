@@ -1,5 +1,9 @@
 {
     "title": "Hold Me Tight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33225.jpg",
+        "alt": "hold-me-tight"
+    },
     "type": "manga",
     "volumes": "4",
     "tags": [

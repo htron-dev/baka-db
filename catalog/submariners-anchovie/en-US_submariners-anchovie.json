@@ -1,5 +1,9 @@
 {
     "title": "Submariners Anchovie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24680.jpg",
+        "alt": "submariners-anchovie"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "海底人類アンチョビー",

@@ -1,5 +1,9 @@
 {
     "title": "Amai Akuma ga Warau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73653.jpg",
+        "alt": "amai-akuma-ga-warau"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "23",

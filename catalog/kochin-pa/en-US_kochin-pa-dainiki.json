@@ -1,5 +1,9 @@
 {
     "title": "KochinPa! Dainiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/83194.jpg",
+        "alt": "kochin-pa-dainiki"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "コチン Pa! 第二期",

@@ -1,5 +1,9 @@
 {
     "title": "Desert Riot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180327.jpg",
+        "alt": "desert-riot"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu Sumo Taikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/12219.jpg",
+        "alt": "doubutsu-sumo-taikai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "動物相撲大会",

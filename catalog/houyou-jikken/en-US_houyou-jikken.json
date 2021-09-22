@@ -1,5 +1,9 @@
 {
     "title": "Houyou Jikken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/103379.jpg",
+        "alt": "houyou-jikken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

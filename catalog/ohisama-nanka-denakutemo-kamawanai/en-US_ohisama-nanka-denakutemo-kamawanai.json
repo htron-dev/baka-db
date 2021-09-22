@@ -1,5 +1,9 @@
 {
     "title": "Ohisama nanka Denakutemo Kamawanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167520.jpg",
+        "alt": "ohisama-nanka-denakutemo-kamawanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

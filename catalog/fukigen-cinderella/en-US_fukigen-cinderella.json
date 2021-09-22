@@ -1,5 +1,9 @@
 {
     "title": "Fukigen Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58175.jpg",
+        "alt": "fukigen-cinderella"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

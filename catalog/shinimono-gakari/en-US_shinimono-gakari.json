@@ -1,5 +1,9 @@
 {
     "title": "Shinimono-gakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238716.jpg",
+        "alt": "shinimono-gakari"
+    },
     "type": "manga",
     "original_name": "しにものがかり",
     "start_date": "2019-12-13",

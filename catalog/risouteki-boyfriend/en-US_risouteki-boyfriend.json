@@ -1,5 +1,9 @@
 {
     "title": "Risouteki Boyfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200091.jpg",
+        "alt": "risouteki-boyfriend"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "29",

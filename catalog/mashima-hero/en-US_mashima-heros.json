@@ -1,5 +1,9 @@
 {
     "title": "Mashima Hero's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229267.jpg",
+        "alt": "mashima-heros"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

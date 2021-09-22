@@ -1,5 +1,9 @@
 {
     "title": "Arakawa Under the Bridge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59489.jpg",
+        "alt": "arakawa-under-the-bridge"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "410",

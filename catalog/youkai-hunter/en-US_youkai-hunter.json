@@ -1,5 +1,9 @@
 {
     "title": "Youkai Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222554.jpg",
+        "alt": "youkai-hunter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

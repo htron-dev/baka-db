@@ -1,5 +1,9 @@
 {
     "title": "Rei Kai Bi Dan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5704.jpg",
+        "alt": "rei-kai-bi-dan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

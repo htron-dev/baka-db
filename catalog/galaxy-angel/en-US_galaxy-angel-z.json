@@ -1,5 +1,9 @@
 {
     "title": "Galaxy Angel Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/29793.jpg",
+        "alt": "galaxy-angel-z"
+    },
     "type": "tv-serie",
     "episodes": "9",
     "original_name": "ギャラクシーエンジェルＺ",

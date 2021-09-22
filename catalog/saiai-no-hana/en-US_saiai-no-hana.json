@@ -1,5 +1,9 @@
 {
     "title": "Saiai no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186184.jpg",
+        "alt": "saiai-no-hana"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

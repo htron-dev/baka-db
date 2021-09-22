@@ -1,5 +1,9 @@
 {
     "title": "Sci-Fi Harry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187092.jpg",
+        "alt": "sci-fi-harry"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "Sci-Fi HARRY",

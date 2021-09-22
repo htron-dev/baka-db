@@ -1,5 +1,9 @@
 {
     "title": "Koe no Katachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+        "alt": "koe-no-katachi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "聲の形",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/A_Silent_Voice_(manga"
+            "link": "http://en.wikipedia.org/wiki/A_Silent_Voice_%28manga%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Yoza-Quar!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/55779.jpg",
+        "alt": "yoza-quar"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "よざカル！",

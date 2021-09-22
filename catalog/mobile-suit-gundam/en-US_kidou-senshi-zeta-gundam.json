@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Zeta Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148097.jpg",
+        "alt": "kidou-senshi-zeta-gundam"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "機動戦士Ｚ〈ゼータ〉ガンダム",

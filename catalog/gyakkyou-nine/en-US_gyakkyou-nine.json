@@ -1,5 +1,9 @@
 {
     "title": "Gyakkyou Nine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17424.jpg",
+        "alt": "gyakkyou-nine"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

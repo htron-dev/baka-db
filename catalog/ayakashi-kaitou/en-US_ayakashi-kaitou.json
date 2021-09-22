@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Kaitou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44713.jpg",
+        "alt": "ayakashi-kaitou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あやかし怪盗",

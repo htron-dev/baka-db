@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Watashi no Cramer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182482.jpg",
+        "alt": "sayonara-watashi-no-cramer"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "55",

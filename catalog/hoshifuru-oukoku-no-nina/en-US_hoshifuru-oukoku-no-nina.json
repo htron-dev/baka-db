@@ -1,5 +1,9 @@
 {
     "title": "Hoshifuru Oukoku no Nina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243430.jpg",
+        "alt": "hoshifuru-oukoku-no-nina"
+    },
     "type": "manga",
     "original_name": "星降る王国のニナ",
     "start_date": "2019-10-01",

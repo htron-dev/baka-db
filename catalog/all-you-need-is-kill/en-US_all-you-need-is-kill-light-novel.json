@@ -1,5 +1,9 @@
 {
     "title": "All You Need Is Kill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28368.jpg",
+        "alt": "all-you-need-is-kill"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

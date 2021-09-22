@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni: Wonderful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245890.jpg",
+        "alt": "higurashi-no-naku-koro-ni-wonderful"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

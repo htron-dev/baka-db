@@ -1,5 +1,9 @@
 {
     "title": "Nekojima 2-choume 22-banchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164926.jpg",
+        "alt": "nekojima-2-choume-22-banchi"
+    },
     "type": "manga",
     "chapters": "25",
     "original_name": "猫島 2 丁目 22 番地",

@@ -1,5 +1,9 @@
 {
     "title": "Ojamajo Doremi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1719/103416.jpg",
+        "alt": "ojamajo-doremi"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "おジャ魔女どれみ",

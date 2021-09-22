@@ -1,5 +1,9 @@
 {
     "title": "This Is My House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1692/97548.jpg",
+        "alt": "this-is-my-house"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ディス イズ マイ ハウス",

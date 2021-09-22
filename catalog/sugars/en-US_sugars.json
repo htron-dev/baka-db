@@ -1,5 +1,9 @@
 {
     "title": "Sugars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131015.jpg",
+        "alt": "sugars"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

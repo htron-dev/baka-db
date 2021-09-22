@@ -1,5 +1,9 @@
 {
     "title": "Bobble Bobble Cook",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1241/115325.jpg",
+        "alt": "bobble-bobble-cook"
+    },
     "type": "tv-serie",
     "original_name": "보글보글 쿡",
     "start_date": "2010-03-20",

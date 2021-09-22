@@ -1,5 +1,9 @@
 {
     "title": "kaiyorihito/kaiyorishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21437.jpg",
+        "alt": "kaiyorihito-kaiyorishiki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

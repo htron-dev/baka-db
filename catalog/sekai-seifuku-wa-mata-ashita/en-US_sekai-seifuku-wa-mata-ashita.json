@@ -1,5 +1,9 @@
 {
     "title": "Sekai Seifuku wa Mata Ashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224542.jpg",
+        "alt": "sekai-seifuku-wa-mata-ashita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

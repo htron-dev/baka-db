@@ -1,5 +1,9 @@
 {
     "title": "Olympia Kyklos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226057.jpg",
+        "alt": "olympia-kyklos"
+    },
     "type": "manga",
     "original_name": "オリンピア・キュクロス",
     "start_date": "2018-03-20",

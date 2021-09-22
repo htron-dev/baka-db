@@ -1,5 +1,9 @@
 {
     "title": "Lupin tai Holmes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/29651.jpg",
+        "alt": "lupin-tai-holmes"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン対ホームズ",

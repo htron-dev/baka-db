@@ -1,5 +1,9 @@
 {
     "title": "Runway no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/99341.jpg",
+        "alt": "runway-no-koibito"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

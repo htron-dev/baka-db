@@ -1,12 +1,16 @@
 {
     "title": "Speed Grapher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/26128.jpg",
+        "alt": "speed-grapher"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "スピードグラファー",
     "start_date": "2005-04-08",
     "end_date": "2005-04-08",
     "opening_song": "\"Girls on Film\" by Duran Duran",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hinageshi no Oka (Hill of Poppies)\" by Shione Yukawa (eps 1-12)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

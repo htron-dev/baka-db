@@ -1,5 +1,9 @@
 {
     "title": "Kimitachi wa Dou Ikiru ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1849/91572.jpg",
+        "alt": "kimitachi-wa-dou-ikiru-ka"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "君たちはどう生きるか",

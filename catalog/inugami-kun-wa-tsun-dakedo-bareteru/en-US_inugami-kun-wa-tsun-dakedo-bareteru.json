@@ -1,5 +1,9 @@
 {
     "title": "Inugami-kun wa Tsun dakedo Bareteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183738.jpg",
+        "alt": "inugami-kun-wa-tsun-dakedo-bareteru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

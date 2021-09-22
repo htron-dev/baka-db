@@ -1,5 +1,9 @@
 {
     "title": "Joshikousei kara, Konkatsu shitemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224229.jpg",
+        "alt": "joshikousei-kara-konkatsu-shitemasu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

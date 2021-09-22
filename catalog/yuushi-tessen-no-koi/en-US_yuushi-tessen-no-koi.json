@@ -1,5 +1,9 @@
 {
     "title": "Yuushi Tessen no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17289.jpg",
+        "alt": "yuushi-tessen-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

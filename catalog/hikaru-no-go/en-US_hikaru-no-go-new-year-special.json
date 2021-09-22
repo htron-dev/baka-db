@@ -1,5 +1,9 @@
 {
     "title": "Hikaru no Go: New Year Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/60751.jpg",
+        "alt": "hikaru-no-go-new-year-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ヒカルの碁 お正月スペシャル",

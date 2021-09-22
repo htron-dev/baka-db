@@ -1,5 +1,9 @@
 {
     "title": "Dark Walker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7631.jpg",
+        "alt": "dark-walker"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "銀の闇迷宮 D・ウォーカー",

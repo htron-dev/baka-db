@@ -1,5 +1,9 @@
 {
     "title": "Do Da Dancin'!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164060.jpg",
+        "alt": "do-da-dancin"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "43",

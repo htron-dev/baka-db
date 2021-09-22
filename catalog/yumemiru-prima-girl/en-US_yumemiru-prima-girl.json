@@ -1,5 +1,9 @@
 {
     "title": "Yumemiru Prima Girl!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196994.jpg",
+        "alt": "yumemiru-prima-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

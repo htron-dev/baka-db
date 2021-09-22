@@ -1,5 +1,9 @@
 {
     "title": "Haha no Supporter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/87248.jpg",
+        "alt": "haha-no-supporter"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "母のサポーター",

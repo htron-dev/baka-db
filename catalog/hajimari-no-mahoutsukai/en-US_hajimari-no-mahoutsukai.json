@@ -1,5 +1,9 @@
 {
     "title": "Hajimari no Mahoutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196663.jpg",
+        "alt": "hajimari-no-mahoutsukai"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "167",

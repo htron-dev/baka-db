@@ -1,5 +1,9 @@
 {
     "title": "Ijiwaru na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67473.jpg",
+        "alt": "ijiwaru-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

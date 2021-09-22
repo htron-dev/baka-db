@@ -1,5 +1,9 @@
 {
     "title": "Inazuma Eleven: Baku Gaidenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107561.jpg",
+        "alt": "inazuma-eleven-baku-gaidenshuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Fushigi na Chikara de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130431.jpg",
+        "alt": "fushigi-na-chikara-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

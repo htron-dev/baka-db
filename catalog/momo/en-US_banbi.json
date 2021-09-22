@@ -1,5 +1,9 @@
 {
     "title": "Banbi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223906.jpg",
+        "alt": "banbi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

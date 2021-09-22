@@ -1,5 +1,9 @@
 {
     "title": "Fusuma Land 4.5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24987.jpg",
+        "alt": "fusuma-land-4-5"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

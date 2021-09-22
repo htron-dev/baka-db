@@ -1,5 +1,9 @@
 {
     "title": "Sekiyuou no Ryakudatsu: Aishuu no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181234.jpg",
+        "alt": "sekiyuou-no-ryakudatsu-aishuu-no-ori"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

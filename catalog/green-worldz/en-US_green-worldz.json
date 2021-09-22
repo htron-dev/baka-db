@@ -1,5 +1,9 @@
 {
     "title": "Green Worldz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128603.jpg",
+        "alt": "green-worldz"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "114",

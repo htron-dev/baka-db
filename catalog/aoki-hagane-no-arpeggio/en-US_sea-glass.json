@@ -1,5 +1,9 @@
 {
     "title": "Sea Glass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210330.jpg",
+        "alt": "sea-glass"
+    },
     "type": "manga",
     "original_name": "Sea Glass",
     "start_date": "2017-11-16",

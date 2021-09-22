@@ -1,5 +1,9 @@
 {
     "title": "Warui Otoko Warui Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10822.jpg",
+        "alt": "warui-otoko-warui-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ワルい男ワルい女",

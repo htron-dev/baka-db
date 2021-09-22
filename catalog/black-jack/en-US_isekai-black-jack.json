@@ -1,5 +1,9 @@
 {
     "title": "Isekai Black Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238993.jpg",
+        "alt": "isekai-black-jack"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

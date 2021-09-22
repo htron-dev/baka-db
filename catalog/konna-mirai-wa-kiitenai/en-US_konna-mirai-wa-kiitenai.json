@@ -1,5 +1,9 @@
 {
     "title": "Konna Mirai wa Kiitenai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179275.jpg",
+        "alt": "konna-mirai-wa-kiitenai"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Grick no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/84017.jpg",
+        "alt": "grick-no-bouken"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "グリックの冒険",

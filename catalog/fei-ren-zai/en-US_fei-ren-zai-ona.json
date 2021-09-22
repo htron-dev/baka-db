@@ -1,5 +1,9 @@
 {
     "title": "Fei Ren Zai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1468/90508.jpg",
+        "alt": "fei-ren-zai"
+    },
     "type": "ona",
     "episodes": "48",
     "original_name": "非人哉",

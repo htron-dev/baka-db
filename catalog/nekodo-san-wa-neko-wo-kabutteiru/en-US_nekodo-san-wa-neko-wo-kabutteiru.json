@@ -1,5 +1,9 @@
 {
     "title": "Nekodo-san wa Neko wo Kabutteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195204.jpg",
+        "alt": "nekodo-san-wa-neko-wo-kabutteiru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

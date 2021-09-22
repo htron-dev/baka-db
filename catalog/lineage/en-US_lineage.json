@@ -1,5 +1,9 @@
 {
     "title": "Lineage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21103.jpg",
+        "alt": "lineage"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "리니지",

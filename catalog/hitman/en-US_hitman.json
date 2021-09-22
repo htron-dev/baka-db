@@ -1,5 +1,9 @@
 {
     "title": "Hitman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212327.jpg",
+        "alt": "hitman"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "128",

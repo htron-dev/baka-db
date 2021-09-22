@@ -1,5 +1,9 @@
 {
     "title": "Nyx no Lantern",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226009.jpg",
+        "alt": "nyx-no-lantern"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "50",

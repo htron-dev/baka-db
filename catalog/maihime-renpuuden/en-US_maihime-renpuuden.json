@@ -1,5 +1,9 @@
 {
     "title": "Maihime Renpuuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139997.jpg",
+        "alt": "maihime-renpuuden"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "舞姫恋風伝",

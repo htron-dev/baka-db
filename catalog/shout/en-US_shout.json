@@ -1,5 +1,9 @@
 {
     "title": "Shout!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14675.jpg",
+        "alt": "shout"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

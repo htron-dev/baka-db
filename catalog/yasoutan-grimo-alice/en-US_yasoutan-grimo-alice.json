@@ -1,5 +1,9 @@
 {
     "title": "Yasoutan Grimo Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162505.jpg",
+        "alt": "yasoutan-grimo-alice"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

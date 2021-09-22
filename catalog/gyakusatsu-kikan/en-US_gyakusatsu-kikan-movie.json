@@ -1,5 +1,9 @@
 {
     "title": "Gyakusatsu Kikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/83309.jpg",
+        "alt": "gyakusatsu-kikan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "虐殺器官",

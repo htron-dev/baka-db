@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Waltz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17835.jpg",
+        "alt": "tsuki-no-waltz"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

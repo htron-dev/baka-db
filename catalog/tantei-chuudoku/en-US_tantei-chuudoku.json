@@ -1,5 +1,9 @@
 {
     "title": "Tantei Chuudoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231075.jpg",
+        "alt": "tantei-chuudoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

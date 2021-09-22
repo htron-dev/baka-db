@@ -1,5 +1,9 @@
 {
     "title": "Joushi Joshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222413.jpg",
+        "alt": "joushi-joshi"
+    },
     "type": "manga",
     "original_name": "じょうしじょし。",
     "start_date": "2018-04-13",

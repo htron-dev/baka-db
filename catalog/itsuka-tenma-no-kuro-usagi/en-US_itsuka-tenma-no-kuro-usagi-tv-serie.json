@@ -1,12 +1,16 @@
 {
     "title": "Itsuka Tenma no Kuro Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75197.jpg",
+        "alt": "itsuka-tenma-no-kuro-usagi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "いつか天魔の黒ウサギ",
     "start_date": "2011-07-09",
     "end_date": "2011-07-09",
     "opening_song": "\"Once\" by Hitomi Harada",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Utsusemi (空蝉)\" by Shikata Akiko (eps 1-2, 4, 7, 12)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

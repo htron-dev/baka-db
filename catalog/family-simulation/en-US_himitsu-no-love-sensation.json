@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Love Sensation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224563.jpg",
+        "alt": "himitsu-no-love-sensation"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

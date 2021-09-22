@@ -1,5 +1,9 @@
 {
     "title": "Kakko Warukute Kakkoii Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22680.jpg",
+        "alt": "kakko-warukute-kakkoii-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Aetara Nante Iou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239839.jpg",
+        "alt": "kimi-ni-aetara-nante-iou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

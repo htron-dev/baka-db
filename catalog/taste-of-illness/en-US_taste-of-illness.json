@@ -1,5 +1,9 @@
 {
     "title": "Taste of Illness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242349.jpg",
+        "alt": "taste-of-illness"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "15",

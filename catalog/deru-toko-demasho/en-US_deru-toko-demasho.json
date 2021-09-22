@@ -1,5 +1,9 @@
 {
     "title": "Deru Toko Demasho!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236483.jpg",
+        "alt": "deru-toko-demasho"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "142",

@@ -1,5 +1,9 @@
 {
     "title": "BL Mob no Oshigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205477.jpg",
+        "alt": "bl-mob-no-oshigoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

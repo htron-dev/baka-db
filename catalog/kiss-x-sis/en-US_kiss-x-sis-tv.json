@@ -1,12 +1,16 @@
 {
     "title": "Kiss x Sis (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/25518.jpg",
+        "alt": "kiss-x-sis-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "キスシス",
     "start_date": "2010-04-05",
     "end_date": "2010-04-05",
     "opening_song": "\"Balance KISS\" by Taketatsu Ayana & Tatsumi Yuiko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Our Steady Boy\" by YuiKaori (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

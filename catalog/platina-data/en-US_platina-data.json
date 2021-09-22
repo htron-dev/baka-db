@@ -1,5 +1,9 @@
 {
     "title": "Platina Data",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98129.jpg",
+        "alt": "platina-data"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "プラチナデータ",

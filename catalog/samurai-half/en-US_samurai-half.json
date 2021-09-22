@@ -1,5 +1,9 @@
 {
     "title": "Samurai Half",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178123.jpg",
+        "alt": "samurai-half"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Kiss kara Hajimaru Valkyria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163373.jpg",
+        "alt": "kiss-kara-hajimaru-valkyria"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

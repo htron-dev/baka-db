@@ -1,5 +1,9 @@
 {
     "title": "Cloud",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163960.jpg",
+        "alt": "cloud"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

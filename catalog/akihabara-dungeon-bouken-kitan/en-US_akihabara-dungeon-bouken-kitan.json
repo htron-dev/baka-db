@@ -1,5 +1,9 @@
 {
     "title": "Akihabara Dungeon Bouken Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120751.jpg",
+        "alt": "akihabara-dungeon-bouken-kitan"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

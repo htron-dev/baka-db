@@ -1,5 +1,9 @@
 {
     "title": "Tenningo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34385.jpg",
+        "alt": "tenningo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

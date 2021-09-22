@@ -1,5 +1,9 @@
 {
     "title": "Tottoko Hamtarou Hai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1048/94783.jpg",
+        "alt": "tottoko-hamtarou-hai"
+    },
     "type": "tv-serie",
     "episodes": "77",
     "original_name": "とっとこハム太郎は〜い!",
@@ -21,7 +25,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/とっとこハム太郎_(アニメ"
+            "link": "http://ja.wikipedia.org/wiki/とっとこハム太郎_%28アニメ%29#.E7.AC.AC3.E6.9C.9F.EF.BC.88.E3.81.AF.E3.80.9C.E3.81.84.21.EF.BC.89"
         }
     ]
 }

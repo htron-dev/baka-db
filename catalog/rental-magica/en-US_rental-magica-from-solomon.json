@@ -1,5 +1,9 @@
 {
     "title": "Rental Magica from Solomon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11102.jpg",
+        "alt": "rental-magica-from-solomon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

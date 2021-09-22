@@ -1,12 +1,16 @@
 {
     "title": "Mitsume ga Tooru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1247/96686.jpg",
+        "alt": "mitsume-ga-tooru"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "三つ目がとおる",
     "start_date": "1990-10-18",
     "end_date": "1990-10-18",
     "opening_song": "\"? Boomerang (？のブーメラン)\" by Tomoko Tokugaki (徳垣とも子)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Chotto Mahou de Bansouko (ちょっと魔法でばんそうこ)\" by Yasuna Nakajima, Kouji Tsuno, Young Fresh (中島安名, つのこうじ, ヤング・フレッシュ) (eps 1-47)",
     "rating": "G - All Ages",
     "tags": [
         "adventure"

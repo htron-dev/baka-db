@@ -1,11 +1,15 @@
 {
     "title": "Koutetsujou no Kabaneri Movie 1: Tsudou Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/82962.jpg",
+        "alt": "koutetsujou-no-kabaneri-movie-1-tsudou-hikari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "甲鉄城のカバネリ 総集編｛前編｝集う光",
     "start_date": "2016-12-31",
     "opening_song": "\"KABANERI OF THE IRON FORTRESS\" by EGOIST",
-    "ending_song": "\"ninelie <cry-v>\" by SawanoHiroyuki[nZk]",
+    "ending_song": "\"ninelie <cry-v>\" by SawanoHiroyuki[nZk]:Aimer",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

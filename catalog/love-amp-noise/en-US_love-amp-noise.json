@@ -1,5 +1,9 @@
 {
     "title": "Love &amp; Noise!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26761.jpg",
+        "alt": "love-amp-noise"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

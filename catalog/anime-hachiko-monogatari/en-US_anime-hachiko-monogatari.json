@@ -1,5 +1,9 @@
 {
     "title": "Anime Hachiko Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/82216.jpg",
+        "alt": "anime-hachiko-monogatari"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アニメ ハチ公物語",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Boku.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59039.jpg",
+        "alt": "kimi-to-boku"
+    },
     "type": "manga",
     "original_name": "君と僕。",
     "start_date": "2003-02-20",

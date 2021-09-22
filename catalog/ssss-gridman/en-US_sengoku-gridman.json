@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Gridman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243481.jpg",
+        "alt": "sengoku-gridman"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

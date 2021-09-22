@@ -1,5 +1,9 @@
 {
     "title": "Tamago no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/48383.jpg",
+        "alt": "tamago-no-kimi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

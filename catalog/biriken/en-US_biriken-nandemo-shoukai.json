@@ -1,5 +1,9 @@
 {
     "title": "Biriken Nandemo Shoukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23070.jpg",
+        "alt": "biriken-nandemo-shoukai"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "ビリ犬なんでも商会",

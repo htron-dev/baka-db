@@ -1,5 +1,9 @@
 {
     "title": "Etotama: Gaiden Novel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156100.jpg",
+        "alt": "etotama-gaiden-novel"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "えとたま ～外伝のべる～",

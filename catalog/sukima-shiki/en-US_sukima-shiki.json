@@ -1,5 +1,9 @@
 {
     "title": "Sukima-Shiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19105.jpg",
+        "alt": "sukima-shiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

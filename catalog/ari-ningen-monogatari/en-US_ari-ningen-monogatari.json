@@ -1,5 +1,9 @@
 {
     "title": "Ari Ningen Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/76327.jpg",
+        "alt": "ari-ningen-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "蟻人間物語",

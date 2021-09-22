@@ -1,5 +1,9 @@
 {
     "title": "You're Mine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224084.jpg",
+        "alt": "youre-mine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

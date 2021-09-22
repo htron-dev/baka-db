@@ -1,5 +1,9 @@
 {
     "title": "Warau Salesman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147363.jpg",
+        "alt": "warau-salesman"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "85",

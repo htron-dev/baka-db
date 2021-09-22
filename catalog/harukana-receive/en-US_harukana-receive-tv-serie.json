@@ -1,12 +1,16 @@
 {
     "title": "Harukana Receive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1924/95212.jpg",
+        "alt": "harukana-receive"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "はるかなレシーブ",
     "start_date": "2018-07-06",
     "end_date": "2018-07-06",
-    "opening_song": "#1",
-    "ending_song": "\"Wish me luck!!!!\" by Haruka Oozora (CV",
+    "opening_song": "#1: \"FLY two BLUE\" by Haruka Oozora (CV: Kana Yuuki), Kanata Higa (CV: Saki Miyashita) (eps 3-6, 8-11)",
+    "ending_song": "\"Wish me luck!!!!\" by Haruka Oozora (CV: Kana Yuuki), Kanata Higa (CV: Saki Miyashita), Claire Thomas (CV: Atsumi Tanezaki), Emily Thomas (CV: Rie Suegara) (eps 3-7, 9, 10, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

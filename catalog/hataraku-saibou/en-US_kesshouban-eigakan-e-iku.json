@@ -1,5 +1,9 @@
 {
     "title": "Kesshouban: Eigakan e Iku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1971/108781.jpg",
+        "alt": "kesshouban-eigakan-e-iku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "血小板 映画館へ行く",

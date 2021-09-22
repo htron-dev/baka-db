@@ -1,8 +1,12 @@
 {
     "title": "Mai-HiME: Kuro no Mai/Saigo no Bansan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/19697.jpg",
+        "alt": "mai-hi-me-kuro-no-mai-saigo-no-bansan"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "舞-HiME",
+    "original_name": "舞-HiME: 黒の舞／最後の晩餐",
     "start_date": "2010-01-27",
     "ending_song": "\"Shining Days\" by Minami Kuribayashi",
     "rating": "PG-13 - Teens 13 or older",

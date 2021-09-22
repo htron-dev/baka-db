@@ -1,5 +1,9 @@
 {
     "title": "Aniki no Ichiban Oishii Tokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239332.jpg",
+        "alt": "aniki-no-ichiban-oishii-tokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

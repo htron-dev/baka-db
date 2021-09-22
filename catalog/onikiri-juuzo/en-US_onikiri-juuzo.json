@@ -1,5 +1,9 @@
 {
     "title": "Onikiri Juuzo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177364.jpg",
+        "alt": "onikiri-juuzo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

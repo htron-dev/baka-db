@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi no Yamai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29814.jpg",
+        "alt": "hatsukoi-no-yamai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "5-nin no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220427.jpg",
+        "alt": "5-nin-no-ou"
+    },
     "type": "manga",
     "original_name": "5 人の王",
     "start_date": "2014-10-22",

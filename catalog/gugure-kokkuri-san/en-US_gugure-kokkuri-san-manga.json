@@ -1,5 +1,9 @@
 {
     "title": "Gugure! Kokkuri-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118499.jpg",
+        "alt": "gugure-kokkuri-san"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "115",

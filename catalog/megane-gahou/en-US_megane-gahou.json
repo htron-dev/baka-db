@@ -1,5 +1,9 @@
 {
     "title": "Megane Gahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154507.jpg",
+        "alt": "megane-gahou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

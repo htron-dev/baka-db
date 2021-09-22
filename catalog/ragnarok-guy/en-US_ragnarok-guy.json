@@ -1,5 +1,9 @@
 {
     "title": "Ragnarok Guy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233431.jpg",
+        "alt": "ragnarok-guy"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "62",

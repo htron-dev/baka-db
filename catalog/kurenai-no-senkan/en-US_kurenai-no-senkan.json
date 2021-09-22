@@ -1,5 +1,9 @@
 {
     "title": "Kurenai no Senkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200560.jpg",
+        "alt": "kurenai-no-senkan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

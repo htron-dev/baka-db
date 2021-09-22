@@ -1,5 +1,9 @@
 {
     "title": "Aozora Rubber",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174535.jpg",
+        "alt": "aozora-rubber"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

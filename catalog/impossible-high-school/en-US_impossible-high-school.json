@@ -1,5 +1,9 @@
 {
     "title": "Impossible High School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163058.jpg",
+        "alt": "impossible-high-school"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "S-senjou no Tena",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63641.jpg",
+        "alt": "s-senjou-no-tena"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "44",

@@ -1,5 +1,9 @@
 {
     "title": "Nar Doma Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/77479.jpg",
+        "alt": "nar-doma-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ナルどマ 少女に優しい俺が好き",

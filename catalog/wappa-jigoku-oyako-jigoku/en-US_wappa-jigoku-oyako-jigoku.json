@@ -1,5 +1,9 @@
 {
     "title": "Wappa Jigoku, Oyako Jigoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238883.jpg",
+        "alt": "wappa-jigoku-oyako-jigoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

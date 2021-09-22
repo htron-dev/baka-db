@@ -1,5 +1,9 @@
 {
     "title": "Sekitsui House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156973.jpg",
+        "alt": "sekitsui-house"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

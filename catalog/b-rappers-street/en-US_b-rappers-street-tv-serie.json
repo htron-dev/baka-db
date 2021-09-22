@@ -1,5 +1,9 @@
 {
     "title": "B Rappers Street",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1126/99095.jpg",
+        "alt": "b-rappers-street"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "B ラッパーズ ストリート",

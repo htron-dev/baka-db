@@ -1,5 +1,9 @@
 {
     "title": "Monkey Strip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209215.jpg",
+        "alt": "monkey-strip"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

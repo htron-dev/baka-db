@@ -1,5 +1,9 @@
 {
     "title": "Juuni Taisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/87684.jpg",
+        "alt": "juuni-taisen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "十二大戦",

@@ -1,5 +1,9 @@
 {
     "title": "Koibito wa Oni no Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236541.jpg",
+        "alt": "koibito-wa-oni-no-hime"
+    },
     "type": "manga",
     "original_name": "コイビトは鬼の姫",
     "start_date": "2019-05-08",

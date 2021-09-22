@@ -1,5 +1,9 @@
 {
     "title": "Joint",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1310/114926.jpg",
+        "alt": "joint"
+    },
     "type": "movie",
     "episodes": "1",
     "start_date": "2009-01-20",

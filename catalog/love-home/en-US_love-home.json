@@ -1,5 +1,9 @@
 {
     "title": "Love Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6333.jpg",
+        "alt": "love-home"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

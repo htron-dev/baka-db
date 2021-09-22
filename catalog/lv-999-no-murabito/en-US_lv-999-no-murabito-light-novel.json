@@ -1,5 +1,9 @@
 {
     "title": "Lv999 no Murabito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176366.jpg",
+        "alt": "lv-999-no-murabito"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "54",

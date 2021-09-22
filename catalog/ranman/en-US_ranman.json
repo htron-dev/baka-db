@@ -1,5 +1,9 @@
 {
     "title": "Ranman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/35395.jpg",
+        "alt": "ranman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

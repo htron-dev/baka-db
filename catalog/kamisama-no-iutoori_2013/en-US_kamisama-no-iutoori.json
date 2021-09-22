@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Iutoori.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167969.jpg",
+        "alt": "kamisama-no-iutoori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

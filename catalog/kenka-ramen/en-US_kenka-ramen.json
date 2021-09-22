@@ -1,5 +1,9 @@
 {
     "title": "Kenka Ramen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231028.jpg",
+        "alt": "kenka-ramen"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "161",

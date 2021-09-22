@@ -1,5 +1,9 @@
 {
     "title": "Sakurai Die Energy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162094.jpg",
+        "alt": "sakurai-die-energy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

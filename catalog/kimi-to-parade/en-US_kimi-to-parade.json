@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40450.jpg",
+        "alt": "kimi-to-parade"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

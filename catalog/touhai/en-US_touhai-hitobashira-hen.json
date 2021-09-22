@@ -1,5 +1,9 @@
 {
     "title": "Touhai: Hitobashira-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196364.jpg",
+        "alt": "touhai-hitobashira-hen"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "144",

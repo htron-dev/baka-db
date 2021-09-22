@@ -1,5 +1,9 @@
 {
     "title": "Koi to Natsu Tsubaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/109661.jpg",
+        "alt": "koi-to-natsu-tsubaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

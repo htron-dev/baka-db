@@ -1,5 +1,9 @@
 {
     "title": "Gohoubi Ohitori Sushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211471.jpg",
+        "alt": "gohoubi-ohitori-sushi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

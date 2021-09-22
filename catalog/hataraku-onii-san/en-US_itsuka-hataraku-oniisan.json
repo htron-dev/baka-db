@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Hataraku Oniisan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222086.jpg",
+        "alt": "itsuka-hataraku-oniisan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

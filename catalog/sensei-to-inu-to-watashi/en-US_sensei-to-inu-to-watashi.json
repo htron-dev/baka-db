@@ -1,5 +1,9 @@
 {
     "title": "Sensei to Inu to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144885.jpg",
+        "alt": "sensei-to-inu-to-watashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Omukaisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1711/107234.jpg",
+        "alt": "omukaisan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "お向かいさん",

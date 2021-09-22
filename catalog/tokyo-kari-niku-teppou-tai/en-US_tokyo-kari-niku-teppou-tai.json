@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Kari-niku Teppou-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208242.jpg",
+        "alt": "tokyo-kari-niku-teppou-tai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

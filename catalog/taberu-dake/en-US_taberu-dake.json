@@ -1,5 +1,9 @@
 {
     "title": "Taberu dake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104887.jpg",
+        "alt": "taberu-dake"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

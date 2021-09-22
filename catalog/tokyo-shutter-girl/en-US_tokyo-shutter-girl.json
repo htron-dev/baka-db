@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Shutter Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191305.jpg",
+        "alt": "tokyo-shutter-girl"
+    },
     "type": "manga",
     "original_name": "東京シャッターガール",
     "start_date": "2010-07-20",

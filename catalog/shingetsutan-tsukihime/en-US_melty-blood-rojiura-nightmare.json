@@ -1,5 +1,9 @@
 {
     "title": "Melty Blood: Rojiura Nightmare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190248.jpg",
+        "alt": "melty-blood-rojiura-nightmare"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

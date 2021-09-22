@@ -1,5 +1,9 @@
 {
     "title": "Himizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198203.jpg",
+        "alt": "himizu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

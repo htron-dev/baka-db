@@ -1,5 +1,9 @@
 {
     "title": "Kyoukan Astro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19607.jpg",
+        "alt": "kyoukan-astro"
+    },
     "type": "manga",
     "original_name": "教艦 ASTRO",
     "start_date": "2005-02-24",

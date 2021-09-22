@@ -1,5 +1,9 @@
 {
     "title": "Mahoujin Guruguru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75814.jpg",
+        "alt": "mahoujin-guruguru"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "魔法陣グルグル",

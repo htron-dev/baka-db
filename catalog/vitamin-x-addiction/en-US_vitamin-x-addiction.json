@@ -1,12 +1,16 @@
 {
     "title": "VitaminX Addiction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/29481.jpg",
+        "alt": "vitamin-x-addiction"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "VitaminX Addiction",
     "start_date": "2011-08-26",
     "end_date": "2011-08-26",
     "opening_song": "\"Dekiai Extreme (溺愛 X(エクストリーム))\" by Tatsuhisa Suzuki & Daisuke Ono",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Daydream Frontier (学園フロンティア)\" by Tatsuhisa Suzuki and Daisuke Ono (ep 1)",
     "rating": "None",
     "tags": [
         "romance",

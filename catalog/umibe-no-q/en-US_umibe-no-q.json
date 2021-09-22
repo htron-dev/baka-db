@@ -1,5 +1,9 @@
 {
     "title": "Umibe no Q",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231213.jpg",
+        "alt": "umibe-no-q"
+    },
     "type": "manga",
     "original_name": "海辺のキュー",
     "start_date": "2019-08-01",

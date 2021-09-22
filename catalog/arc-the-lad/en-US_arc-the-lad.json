@@ -1,12 +1,16 @@
 {
     "title": "Arc the Lad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/49041.jpg",
+        "alt": "arc-the-lad"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アークザラッド",
     "start_date": "1999-04-05",
     "end_date": "1999-04-05",
     "opening_song": "\"Arc the Lad ~Main Theme~\" by Masahiro Andou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Happy Tomorrow\" by NiNa (eps 01-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

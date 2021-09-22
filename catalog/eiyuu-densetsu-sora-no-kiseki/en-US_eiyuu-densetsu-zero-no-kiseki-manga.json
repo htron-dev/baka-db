@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Densetsu: Zero no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92141.jpg",
+        "alt": "eiyuu-densetsu-zero-no-kiseki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

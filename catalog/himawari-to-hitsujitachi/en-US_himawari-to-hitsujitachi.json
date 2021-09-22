@@ -1,5 +1,9 @@
 {
     "title": "Himawari to Hitsujitachi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84491.jpg",
+        "alt": "himawari-to-hitsujitachi"
+    },
     "type": "manga",
     "original_name": "ひまわりと羊たち",
     "start_date": "2010-06-22",

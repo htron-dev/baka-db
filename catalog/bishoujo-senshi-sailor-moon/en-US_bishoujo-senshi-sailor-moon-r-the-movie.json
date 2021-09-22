@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Senshi Sailor Moon R: The Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/18897.jpg",
+        "alt": "bishoujo-senshi-sailor-moon-r-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "美少女戦士セーラームーンＲ THE MOVIE",

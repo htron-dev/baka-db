@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Sniper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155596.jpg",
+        "alt": "sengoku-sniper"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "戦国スナイパー",

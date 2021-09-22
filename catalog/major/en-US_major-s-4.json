@@ -1,12 +1,16 @@
 {
     "title": "Major S4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75217.jpg",
+        "alt": "major-s-4"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "メジャー　（第 4 シリーズ)",
     "start_date": "2008-01-05",
     "end_date": "2008-01-05",
     "opening_song": "\"Rise\" by Kouhei Ootomo",
-    "ending_song": "#01",
+    "ending_song": "#01: \"One Day\" by The Loose Dogs (eps 1-17)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Major_(manga"
+            "link": "http://en.wikipedia.org/wiki/Major_%28manga%29"
         }
     ]
 }

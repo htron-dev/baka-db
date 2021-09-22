@@ -1,5 +1,9 @@
 {
     "title": "Sakura x Saku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177413.jpg",
+        "alt": "sakura-x-saku"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "21",

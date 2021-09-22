@@ -1,5 +1,9 @@
 {
     "title": "Mikansei Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157803.jpg",
+        "alt": "mikansei-puzzle"
+    },
     "type": "manga",
     "original_name": "未完成パズル",
     "start_date": "2011-06-22",

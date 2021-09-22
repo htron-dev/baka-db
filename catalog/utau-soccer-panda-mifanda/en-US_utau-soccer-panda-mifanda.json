@@ -1,5 +1,9 @@
 {
     "title": "Utau Soccer Panda Mifanda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1296/108533.jpg",
+        "alt": "utau-soccer-panda-mifanda"
+    },
     "type": "tv-serie",
     "original_name": "歌うサッカーパンダ ミファンダ",
     "start_date": "2021-04-02",

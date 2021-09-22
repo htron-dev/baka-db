@@ -1,12 +1,16 @@
 {
     "title": "Made in Abyss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+        "alt": "made-in-abyss"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "メイドインアビス",
     "start_date": "2017-07-07",
     "end_date": "2017-07-07",
     "opening_song": "\"Deep in Abyss\" by Riko (Miyu Tomita) and Regu (Mariya Ise) (eps 2-13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Deep in Abyss\" by Riko (Miyu Tomita) and Regu (Mariya Ise) (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "sci-fi",

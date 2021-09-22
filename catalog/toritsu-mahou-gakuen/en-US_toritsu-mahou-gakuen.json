@@ -1,5 +1,9 @@
 {
     "title": "Toritsu Mahou Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24826.jpg",
+        "alt": "toritsu-mahou-gakuen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

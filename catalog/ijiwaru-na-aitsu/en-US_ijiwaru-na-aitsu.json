@@ -1,5 +1,9 @@
 {
     "title": "Ijiwaru na Aitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147639.jpg",
+        "alt": "ijiwaru-na-aitsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

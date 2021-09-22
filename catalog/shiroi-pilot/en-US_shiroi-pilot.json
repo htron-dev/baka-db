@@ -1,5 +1,9 @@
 {
     "title": "Shiroi Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237738.jpg",
+        "alt": "shiroi-pilot"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "44",

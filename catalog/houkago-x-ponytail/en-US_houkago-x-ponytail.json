@@ -1,5 +1,9 @@
 {
     "title": "Houkago x Ponytail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82782.jpg",
+        "alt": "houkago-x-ponytail"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

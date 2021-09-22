@@ -1,5 +1,9 @@
 {
     "title": "Nana to Kaoru: Pink Pure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125073.jpg",
+        "alt": "nana-to-kaoru-pink-pure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

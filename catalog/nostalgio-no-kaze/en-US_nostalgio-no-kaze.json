@@ -1,5 +1,9 @@
 {
     "title": "Nostalgio no Kaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24269.jpg",
+        "alt": "nostalgio-no-kaze"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ノスタルジオの風",

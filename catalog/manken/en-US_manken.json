@@ -1,5 +1,9 @@
 {
     "title": "Manken.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64969.jpg",
+        "alt": "manken"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "42",

@@ -1,5 +1,9 @@
 {
     "title": "Ijiwaru na Kuchibiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41244.jpg",
+        "alt": "ijiwaru-na-kuchibiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

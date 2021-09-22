@@ -1,5 +1,9 @@
 {
     "title": "Vaia'n Maiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/100209.jpg",
+        "alt": "vaian-maiden"
+    },
     "type": "manga",
     "original_name": "ヴァイアンメイデン",
     "start_date": "2012-11-19",

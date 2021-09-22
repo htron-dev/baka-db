@@ -1,5 +1,9 @@
 {
     "title": "Elevator Ecchi, Mirarechatta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128187.jpg",
+        "alt": "elevator-ecchi-mirarechatta"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "8",

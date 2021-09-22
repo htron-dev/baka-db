@@ -1,5 +1,9 @@
 {
     "title": "BlazBlue: Phase Shift",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/107943.jpg",
+        "alt": "blaz-blue-phase-shift"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "30",

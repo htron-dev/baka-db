@@ -1,5 +1,9 @@
 {
     "title": "Major Movie: Yuujou no Winning Shot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75221.jpg",
+        "alt": "major-movie-yuujou-no-winning-shot"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 MAJOR 友情の一球（ウイニングショット）",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Major_(manga"
+            "link": "http://en.wikipedia.org/wiki/Major_%28manga%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Midas Eater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39303.jpg",
+        "alt": "midas-eater"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "マーダス†イーター",

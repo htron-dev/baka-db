@@ -1,5 +1,9 @@
 {
     "title": "Tokeijikake no Ringo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41591.jpg",
+        "alt": "tokeijikake-no-ringo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

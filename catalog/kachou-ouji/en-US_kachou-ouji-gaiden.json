@@ -1,5 +1,9 @@
 {
     "title": "Kachou Ouji Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200720.jpg",
+        "alt": "kachou-ouji-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

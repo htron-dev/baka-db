@@ -1,5 +1,9 @@
 {
     "title": "Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134927.jpg",
+        "alt": "game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

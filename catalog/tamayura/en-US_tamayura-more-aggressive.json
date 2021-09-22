@@ -1,12 +1,16 @@
 {
     "title": "Tamayura: More Aggressive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/53895.jpg",
+        "alt": "tamayura-more-aggressive"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "たまゆら ～もあぐれっしぶ～",
     "start_date": "2013-07-03",
     "end_date": "2013-07-03",
     "opening_song": "\"Hajimari no Umi (はじまりの海)\" by Maaya Sakamoto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Arigatou (ありがとう)\" by Megumi Nakajima (eps 1-10)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

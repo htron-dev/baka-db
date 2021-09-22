@@ -1,5 +1,9 @@
 {
     "title": "Beatless Final Stage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1745/93307.jpg",
+        "alt": "beatless-final-stage"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "BEATLESS Final Stage",

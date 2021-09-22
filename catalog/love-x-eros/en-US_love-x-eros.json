@@ -1,5 +1,9 @@
 {
     "title": "Love x Eros",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20405.jpg",
+        "alt": "love-x-eros"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

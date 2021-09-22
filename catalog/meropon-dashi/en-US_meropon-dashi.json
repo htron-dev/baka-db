@@ -1,5 +1,9 @@
 {
     "title": "Meropon Dashi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125221.jpg",
+        "alt": "meropon-dashi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "66",

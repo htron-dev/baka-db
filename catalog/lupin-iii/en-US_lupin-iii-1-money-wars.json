@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: $1 Money Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/67119.jpg",
+        "alt": "lupin-iii-1-money-wars"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世 1$マネーウォーズ",

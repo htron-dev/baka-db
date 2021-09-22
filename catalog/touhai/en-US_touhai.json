@@ -1,5 +1,9 @@
 {
     "title": "Touhai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196365.jpg",
+        "alt": "touhai"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "115",

@@ -1,5 +1,9 @@
 {
     "title": "Devilman: Yochou Sirene-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1362/106934.jpg",
+        "alt": "devilman-yochou-sirene-hen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "デビルマン 妖鳥シレーヌ編",

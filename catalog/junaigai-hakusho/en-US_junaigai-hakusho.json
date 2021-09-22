@@ -1,5 +1,9 @@
 {
     "title": "Junaigai Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193425.jpg",
+        "alt": "junaigai-hakusho"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Hyakusou no Uraniwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245629.jpg",
+        "alt": "hyakusou-no-uraniwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

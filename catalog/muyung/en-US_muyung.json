@@ -1,5 +1,9 @@
 {
     "title": "Muyung",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26455.jpg",
+        "alt": "muyung"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "Golgo 13",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157750.jpg",
+        "alt": "golgo-13"
+    },
     "type": "manga",
     "original_name": "ゴルゴ 13",
     "start_date": "1968-11-29",

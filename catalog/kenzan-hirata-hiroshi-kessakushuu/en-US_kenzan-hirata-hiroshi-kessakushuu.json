@@ -1,5 +1,9 @@
 {
     "title": "Kenzan: Hirata Hiroshi Kessakushuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233638.jpg",
+        "alt": "kenzan-hirata-hiroshi-kessakushuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

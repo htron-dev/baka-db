@@ -1,5 +1,9 @@
 {
     "title": "Tenka Ichi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62739.jpg",
+        "alt": "tenka-ichi"
+    },
     "type": "manga",
     "original_name": "天下一！！",
     "tags": [

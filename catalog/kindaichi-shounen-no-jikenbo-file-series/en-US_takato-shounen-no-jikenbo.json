@@ -1,5 +1,9 @@
 {
     "title": "Takato Shounen no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125799.jpg",
+        "alt": "takato-shounen-no-jikenbo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

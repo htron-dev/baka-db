@@ -1,5 +1,9 @@
 {
     "title": "Mabui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166507.jpg",
+        "alt": "mabui"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マブイ",

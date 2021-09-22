@@ -1,5 +1,9 @@
 {
     "title": "Deku: Block Head",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118983.jpg",
+        "alt": "deku-block-head"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

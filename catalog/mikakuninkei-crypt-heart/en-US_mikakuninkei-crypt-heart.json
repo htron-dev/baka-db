@@ -1,5 +1,9 @@
 {
     "title": "Mikakuninkei Crypt Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170631.jpg",
+        "alt": "mikakuninkei-crypt-heart"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Atashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115935.jpg",
+        "alt": "tonari-no-atashi"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

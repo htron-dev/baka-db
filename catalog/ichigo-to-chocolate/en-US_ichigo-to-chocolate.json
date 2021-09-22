@@ -1,5 +1,9 @@
 {
     "title": "Ichigo to Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/387.jpg",
+        "alt": "ichigo-to-chocolate"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "苺とチョコレート",

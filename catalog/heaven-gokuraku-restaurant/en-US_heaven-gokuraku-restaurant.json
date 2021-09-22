@@ -1,5 +1,9 @@
 {
     "title": "Heaven? Gokuraku Restaurant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30656.jpg",
+        "alt": "heaven-gokuraku-restaurant"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "45",

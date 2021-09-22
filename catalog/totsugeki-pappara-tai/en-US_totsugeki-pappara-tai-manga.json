@@ -1,5 +1,9 @@
 {
     "title": "Totsugeki! Pappara-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203904.jpg",
+        "alt": "totsugeki-pappara-tai"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "144",

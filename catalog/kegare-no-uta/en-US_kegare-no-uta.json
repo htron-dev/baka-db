@@ -1,5 +1,9 @@
 {
     "title": "Kegare no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211227.jpg",
+        "alt": "kegare-no-uta"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Rich Keikan Cash!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227322.jpg",
+        "alt": "rich-keikan-cash"
+    },
     "type": "manga",
     "original_name": "リッチ警官 キャッシュ!",
     "start_date": "2019-10-15",

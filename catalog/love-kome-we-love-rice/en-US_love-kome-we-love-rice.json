@@ -1,5 +1,9 @@
 {
     "title": "Love Kome: We Love Rice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84377.jpg",
+        "alt": "love-kome-we-love-rice"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ラブ米 -WE LOVE RICE-",

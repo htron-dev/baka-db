@@ -1,5 +1,9 @@
 {
     "title": "Deep Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1354/93633.jpg",
+        "alt": "deep-love"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Deep Love",

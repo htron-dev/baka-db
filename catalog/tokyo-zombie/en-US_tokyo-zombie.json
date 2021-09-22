@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Zombie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195246.jpg",
+        "alt": "tokyo-zombie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

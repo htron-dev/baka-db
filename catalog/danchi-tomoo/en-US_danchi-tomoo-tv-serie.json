@@ -1,12 +1,16 @@
 {
     "title": "Danchi Tomoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/77064.jpg",
+        "alt": "danchi-tomoo"
+    },
     "type": "tv-serie",
     "episodes": "78",
     "original_name": "団地ともお",
     "start_date": "2013-04-06",
     "end_date": "2013-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Danchi de DAN! RAN! (団地で DAN!RAN!) by Dohatsuten feat. Kiyosaku (MONGOL800) (怒髪天 feat.キヨサク（MONGOL800）)",
+    "ending_song": "#1: \"Start Line! (スタートライン！)\" by Sonar Pocket (eps 1-20)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Amai Nukumori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2609.jpg",
+        "alt": "amai-nukumori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

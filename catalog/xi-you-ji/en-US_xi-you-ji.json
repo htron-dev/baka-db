@@ -1,5 +1,9 @@
 {
     "title": "Xi You Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77384.jpg",
+        "alt": "xi-you-ji"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "西游记",

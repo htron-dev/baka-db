@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Senpai no Kaigoroshikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224143.jpg",
+        "alt": "kawaii-senpai-no-kaigoroshikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

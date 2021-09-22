@@ -1,12 +1,16 @@
 {
     "title": "Dantalian no Shoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/52683.jpg",
+        "alt": "dantalian-no-shoka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ダンタリアンの書架",
     "start_date": "2011-07-16",
     "end_date": "2011-07-16",
     "opening_song": "\"Cras numquam scire\" by Yucca feat. Daisuke Ono (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"yes, prisoner\" by maRIONnetTe (ep 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

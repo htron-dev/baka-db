@@ -1,5 +1,9 @@
 {
     "title": "Watashi no... Megane-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37194.jpg",
+        "alt": "watashi-no-megane-kun"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "32",

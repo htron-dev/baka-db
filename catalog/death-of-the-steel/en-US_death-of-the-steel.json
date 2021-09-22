@@ -1,5 +1,9 @@
 {
     "title": "Death of the Steel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40599.jpg",
+        "alt": "death-of-the-steel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Seimei-san wa Ganbaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195806.jpg",
+        "alt": "seimei-san-wa-ganbaranai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

@@ -1,5 +1,9 @@
 {
     "title": "Hoshi dake ga Shitteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192854.jpg",
+        "alt": "hoshi-dake-ga-shitteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

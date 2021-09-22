@@ -1,5 +1,9 @@
 {
     "title": "Chobitto Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/79934.jpg",
+        "alt": "chobitto-zukan"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ちょびっとづかん",

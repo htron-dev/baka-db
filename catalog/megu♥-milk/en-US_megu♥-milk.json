@@ -1,5 +1,9 @@
 {
     "title": "Megu♥Milk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137317.jpg",
+        "alt": "megu♥-milk"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

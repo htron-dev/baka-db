@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Zetsubou Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156519.jpg",
+        "alt": "sayonara-zetsubou-sensei"
+    },
     "type": "manga",
     "volumes": "30",
     "chapters": "301",

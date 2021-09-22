@@ -1,5 +1,9 @@
 {
     "title": "Battle Mexia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193115.jpg",
+        "alt": "battle-mexia"
+    },
     "type": "manga",
     "original_name": "バトルメサイア",
     "start_date": "2016-06-10",

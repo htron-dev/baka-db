@@ -1,5 +1,9 @@
 {
     "title": "Alpha Sentai Al-Ranger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247593.jpg",
+        "alt": "alpha-sentai-al-ranger"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest e no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239901.jpg",
+        "alt": "dragon-quest-e-no-michi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

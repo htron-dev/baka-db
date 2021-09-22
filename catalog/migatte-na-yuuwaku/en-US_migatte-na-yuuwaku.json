@@ -1,5 +1,9 @@
 {
     "title": "Migatte na Yuuwaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195116.jpg",
+        "alt": "migatte-na-yuuwaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "身勝手な誘惑",

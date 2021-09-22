@@ -1,5 +1,9 @@
 {
     "title": "In the Apartment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203796.jpg",
+        "alt": "in-the-apartment"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

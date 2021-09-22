@@ -1,5 +1,9 @@
 {
     "title": "Re-Kan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166302.jpg",
+        "alt": "re-kan"
+    },
     "type": "manga",
     "original_name": "レーカン！",
     "start_date": "2009-11-04",

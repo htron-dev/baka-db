@@ -1,5 +1,9 @@
 {
     "title": "Hi no Ataru Basho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5968.jpg",
+        "alt": "hi-no-ataru-basho"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "陽のあたる場所",

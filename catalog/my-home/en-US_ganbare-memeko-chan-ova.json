@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Memeko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1073/95236.jpg",
+        "alt": "ganbare-memeko-chan"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "がんばれ！メメ子ちゃん",

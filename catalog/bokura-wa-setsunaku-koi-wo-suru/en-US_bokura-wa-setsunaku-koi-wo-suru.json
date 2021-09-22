@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Setsunaku Koi wo Suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22845.jpg",
+        "alt": "bokura-wa-setsunaku-koi-wo-suru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "僕らは切なく恋をする",

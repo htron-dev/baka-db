@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai ni Taisetsu na Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/2597.jpg",
+        "alt": "mahoutsukai-ni-taisetsu-na-koto"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔法遣いに大切なこと",

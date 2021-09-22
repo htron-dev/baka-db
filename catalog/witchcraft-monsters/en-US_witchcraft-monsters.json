@@ -1,5 +1,9 @@
 {
     "title": "Witchcraft Monsters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146313.jpg",
+        "alt": "witchcraft-monsters"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ウィッチクラフト・モンスターズ",

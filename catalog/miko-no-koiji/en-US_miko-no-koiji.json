@@ -1,5 +1,9 @@
 {
     "title": "Miko no Koiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150853.jpg",
+        "alt": "miko-no-koiji"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "巫女の恋路",

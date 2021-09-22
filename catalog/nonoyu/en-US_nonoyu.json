@@ -1,5 +1,9 @@
 {
     "title": "Nonoyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158103.jpg",
+        "alt": "nonoyu"
+    },
     "type": "manga",
     "original_name": "のの湯",
     "start_date": "2013-12-16",

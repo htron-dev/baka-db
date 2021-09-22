@@ -1,5 +1,9 @@
 {
     "title": "Usagi Otoko Tora Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109573.jpg",
+        "alt": "usagi-otoko-tora-otoko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

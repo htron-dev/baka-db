@@ -1,5 +1,9 @@
 {
     "title": "Hitomi Brand",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11063.jpg",
+        "alt": "hitomi-brand"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ひとみ BRAND",

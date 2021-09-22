@@ -1,5 +1,9 @@
 {
     "title": "Bakuten!! Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1573/116027.jpg",
+        "alt": "bakuten-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 バクテン!!",

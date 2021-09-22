@@ -1,5 +1,9 @@
 {
     "title": "Beatless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112469.jpg",
+        "alt": "beatless"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "14",

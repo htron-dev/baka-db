@@ -1,5 +1,9 @@
 {
     "title": "Hito wa Ai wo Tabete Sodatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79511.jpg",
+        "alt": "hito-wa-ai-wo-tabete-sodatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

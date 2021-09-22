@@ -1,12 +1,16 @@
 {
     "title": "Blue Seed 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/2871.jpg",
+        "alt": "blue-seed-2"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ブルーシード 2",
     "start_date": "1996-07-24",
     "end_date": "1996-07-24",
     "opening_song": "\"Eternal Truth\" by Takada Band",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Futari no Yoake (二人の夜明け)\" by Orikasa Ai, Ootsuka Akio",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Mahou Fun Fun Pharmacy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/49799.jpg",
+        "alt": "fushigi-mahou-fun-fun-pharmacy"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "ふしぎ魔法 ファンファン・ファーマシィー",

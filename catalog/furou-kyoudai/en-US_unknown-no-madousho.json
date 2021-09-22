@@ -1,5 +1,9 @@
 {
     "title": "Unknown no Madousho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/100729.jpg",
+        "alt": "unknown-no-madousho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

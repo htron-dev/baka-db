@@ -1,5 +1,9 @@
 {
     "title": "Hanger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206212.jpg",
+        "alt": "hanger"
+    },
     "type": "manga",
     "original_name": "HANGER―執行人―",
     "start_date": "2013-11-22",

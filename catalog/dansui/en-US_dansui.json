@@ -1,5 +1,9 @@
 {
     "title": "Dansui!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/102799.jpg",
+        "alt": "dansui"
+    },
     "type": "manga",
     "original_name": "男水!",
     "start_date": "2012-07-27",

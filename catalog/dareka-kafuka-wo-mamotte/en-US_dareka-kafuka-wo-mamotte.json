@@ -1,5 +1,9 @@
 {
     "title": "Dareka Kafuka wo Mamotte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203284.jpg",
+        "alt": "dareka-kafuka-wo-mamotte"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

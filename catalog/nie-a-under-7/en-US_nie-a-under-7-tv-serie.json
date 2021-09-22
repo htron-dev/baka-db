@@ -1,12 +1,16 @@
 {
     "title": "NieA Under 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/18922.jpg",
+        "alt": "nie-a-under-7"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ニア アンダーセブン",
     "start_date": "2000-04-26",
     "end_date": "2000-04-26",
     "opening_song": "\"Koko Made Oide (ここまでおいで)\" by SION",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Venus to Chiisana Kamisama (ヴィーナスと小さな神様)\" by Maria Yamamoto (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

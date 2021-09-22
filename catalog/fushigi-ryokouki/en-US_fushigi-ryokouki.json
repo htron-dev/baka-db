@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Ryokouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237920.jpg",
+        "alt": "fushigi-ryokouki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ふしぎ旅行記",

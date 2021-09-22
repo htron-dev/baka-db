@@ -1,5 +1,9 @@
 {
     "title": "Wagamama na Ningyo-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162430.jpg",
+        "alt": "wagamama-na-ningyo-sama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

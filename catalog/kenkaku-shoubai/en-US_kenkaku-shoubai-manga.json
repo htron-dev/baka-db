@@ -1,5 +1,9 @@
 {
     "title": "Kenkaku Shoubai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72513.jpg",
+        "alt": "kenkaku-shoubai"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "剣客商売",

@@ -1,12 +1,16 @@
 {
     "title": "Karas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg",
+        "alt": "karas"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "鴉 -KARAS-",
     "start_date": "2005-03-25",
     "end_date": "2005-03-25",
     "opening_song": "\"REVELATION\" by Yoshihiro Ike (eps 2-6)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Selenite\" by Rurutia",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

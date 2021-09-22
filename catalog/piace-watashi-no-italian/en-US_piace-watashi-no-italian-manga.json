@@ -1,5 +1,9 @@
 {
     "title": "Piace: Watashi no Italian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178657.jpg",
+        "alt": "piace-watashi-no-italian"
+    },
     "type": "manga",
     "original_name": "ピアシェ～私のイタリアン～",
     "start_date": "2013-10-11",

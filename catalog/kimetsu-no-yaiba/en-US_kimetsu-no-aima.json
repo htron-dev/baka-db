@@ -1,5 +1,9 @@
 {
     "title": "Kimetsu no Aima!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233332.jpg",
+        "alt": "kimetsu-no-aima"
+    },
     "type": "manga",
     "chapters": "26",
     "original_name": "きめつのあいま!",

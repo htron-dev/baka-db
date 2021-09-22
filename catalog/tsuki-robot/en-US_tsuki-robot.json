@@ -1,5 +1,9 @@
 {
     "title": "Tsuki Robot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167914.jpg",
+        "alt": "tsuki-robot"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

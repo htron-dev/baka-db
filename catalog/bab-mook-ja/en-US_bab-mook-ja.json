@@ -1,5 +1,9 @@
 {
     "title": "Bab Mook Ja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/71986.jpg",
+        "alt": "bab-mook-ja"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "밥묵자",

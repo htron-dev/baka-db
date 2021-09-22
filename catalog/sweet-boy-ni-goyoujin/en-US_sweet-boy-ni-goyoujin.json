@@ -1,5 +1,9 @@
 {
     "title": "Sweet Boy ni Goyoujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150391.jpg",
+        "alt": "sweet-boy-ni-goyoujin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

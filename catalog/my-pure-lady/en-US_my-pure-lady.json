@@ -1,5 +1,9 @@
 {
     "title": "My Pure Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156836.jpg",
+        "alt": "my-pure-lady"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "192",

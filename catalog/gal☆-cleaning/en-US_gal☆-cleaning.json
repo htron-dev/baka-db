@@ -1,5 +1,9 @@
 {
     "title": "Gal☆Cleaning!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210487.jpg",
+        "alt": "gal☆-cleaning"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

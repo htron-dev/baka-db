@@ -1,5 +1,9 @@
 {
     "title": "EG Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188782.jpg",
+        "alt": "eg-maker"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

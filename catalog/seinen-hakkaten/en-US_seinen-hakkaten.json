@@ -1,5 +1,9 @@
 {
     "title": "Seinen Hakkaten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150309.jpg",
+        "alt": "seinen-hakkaten"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

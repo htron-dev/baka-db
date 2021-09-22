@@ -1,5 +1,9 @@
 {
     "title": "Ai ga Nakuchane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2555.jpg",
+        "alt": "ai-ga-nakuchane"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

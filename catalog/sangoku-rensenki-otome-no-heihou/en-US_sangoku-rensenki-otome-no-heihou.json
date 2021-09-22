@@ -1,5 +1,9 @@
 {
     "title": "Sangoku Rensenki: Otome no Heihou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121381.jpg",
+        "alt": "sangoku-rensenki-otome-no-heihou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

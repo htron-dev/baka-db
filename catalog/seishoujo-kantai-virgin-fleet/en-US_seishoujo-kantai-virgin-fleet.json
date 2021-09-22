@@ -1,5 +1,9 @@
 {
     "title": "Seishoujo Kantai Virgin Fleet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1433/94588.jpg",
+        "alt": "seishoujo-kantai-virgin-fleet"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "聖少女艦隊バージンフリート",

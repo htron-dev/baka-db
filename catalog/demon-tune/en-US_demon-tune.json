@@ -1,5 +1,9 @@
 {
     "title": "Demon Tune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209790.jpg",
+        "alt": "demon-tune"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

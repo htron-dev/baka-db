@@ -1,5 +1,9 @@
 {
     "title": "Metallion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1393/114529.jpg",
+        "alt": "metallion"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "메탈리온",

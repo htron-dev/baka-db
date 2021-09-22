@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Shiawase no Aoi Hotaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/50229.jpg",
+        "alt": "hello-kitty-no-shiawase-no-aoi-hotaru"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの幸せの青いホタル",

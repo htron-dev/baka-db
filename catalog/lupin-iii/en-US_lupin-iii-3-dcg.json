@@ -1,5 +1,9 @@
 {
     "title": "Lupin III 3DCG",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/89649.jpg",
+        "alt": "lupin-iii-3-dcg"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世 3DCG",

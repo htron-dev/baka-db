@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Camp-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240343.jpg",
+        "alt": "hajimete-no-camp-san"
+    },
     "type": "manga",
     "original_name": "はじめてのキャンプさん",
     "start_date": "2021-01-27",

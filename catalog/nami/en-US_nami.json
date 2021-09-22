@@ -1,5 +1,9 @@
 {
     "title": "Nami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/71841.jpg",
+        "alt": "nami"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "NAMI",

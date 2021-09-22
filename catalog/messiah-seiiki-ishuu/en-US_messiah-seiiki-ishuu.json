@@ -1,5 +1,9 @@
 {
     "title": "Messiah: Seiiki Ishuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86925.jpg",
+        "alt": "messiah-seiiki-ishuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

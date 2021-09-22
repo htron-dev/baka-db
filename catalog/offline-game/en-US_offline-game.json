@@ -1,5 +1,9 @@
 {
     "title": "Offline Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164290.jpg",
+        "alt": "offline-game"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "64",

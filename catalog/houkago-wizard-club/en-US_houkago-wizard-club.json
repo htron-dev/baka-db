@@ -1,5 +1,9 @@
 {
     "title": "Houkago Wizard Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180525.jpg",
+        "alt": "houkago-wizard-club"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

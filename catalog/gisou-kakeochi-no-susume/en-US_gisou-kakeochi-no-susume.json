@@ -1,5 +1,9 @@
 {
     "title": "Gisou Kakeochi no Susume!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192829.jpg",
+        "alt": "gisou-kakeochi-no-susume"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

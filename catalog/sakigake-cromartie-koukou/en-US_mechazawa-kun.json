@@ -1,5 +1,9 @@
 {
     "title": "Mechazawa-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21126.jpg",
+        "alt": "mechazawa-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "メカ沢くん",

@@ -1,12 +1,16 @@
 {
     "title": "Hanamaru Youchien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/50395.jpg",
+        "alt": "hanamaru-youchien"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "はなまる幼稚園",
     "start_date": "2010-01-11",
     "end_date": "2010-01-11",
     "opening_song": "\"Aozora Triangle (青空トライアングル)\" by Shindou Kei, Takagaki Ayahi, and MAKO",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Egao Narebete (笑顔ならべて)\" by Kei Shindou, Ayahi Takagaki and MAKO",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

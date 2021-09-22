@@ -1,5 +1,9 @@
 {
     "title": "Michelin Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207467.jpg",
+        "alt": "michelin-star"
+    },
     "type": "manhwa",
     "chapters": "192",
     "original_name": "미슐랭스타",

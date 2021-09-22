@@ -1,5 +1,9 @@
 {
     "title": "Zero no Tsukaima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/20680.jpg",
+        "alt": "zero-no-tsukaima"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ゼロの使い魔",

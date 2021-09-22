@@ -1,11 +1,15 @@
 {
     "title": "Miracle☆Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/21213.jpg",
+        "alt": "miracle☆-girls"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ミラクル ☆ ガールズ",
     "start_date": "1993-01-08",
     "end_date": "1993-01-08",
-    "opening_song": "#1",
+    "opening_song": "#1: \"KISU no Tochuu de Namida ga (キッスの途中で涙が)\" by GARDEN (eps 1-29)",
     "ending_song": "\"Futari Janakya Dame na no (ふたりじゃなきゃだめなの)\" by Dio",
     "rating": "G - All Ages",
     "tags": [

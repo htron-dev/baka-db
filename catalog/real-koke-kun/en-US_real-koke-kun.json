@@ -1,5 +1,9 @@
 {
     "title": "Real Koke-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1570/108314.jpg",
+        "alt": "real-koke-kun"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "リアルコケくん",

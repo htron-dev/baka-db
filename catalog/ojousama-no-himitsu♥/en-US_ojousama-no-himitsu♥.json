@@ -1,5 +1,9 @@
 {
     "title": "Ojousama no Himitsu♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112745.jpg",
+        "alt": "ojousama-no-himitsu♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

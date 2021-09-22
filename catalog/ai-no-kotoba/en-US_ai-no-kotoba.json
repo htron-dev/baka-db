@@ -1,5 +1,9 @@
 {
     "title": "Ai no Kotoba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79573.jpg",
+        "alt": "ai-no-kotoba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

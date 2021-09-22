@@ -1,5 +1,9 @@
 {
     "title": "AI no Idenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194488.jpg",
+        "alt": "ai-no-idenshi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "87",

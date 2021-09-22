@@ -1,5 +1,9 @@
 {
     "title": "Seiya ni Furu Yuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227167.jpg",
+        "alt": "seiya-ni-furu-yuki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "聖夜に降る雪",

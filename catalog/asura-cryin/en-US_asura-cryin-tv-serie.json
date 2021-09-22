@@ -1,5 +1,9 @@
 {
     "title": "Asura Cryin'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/17071.jpg",
+        "alt": "asura-cryin"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "アスラクライン",

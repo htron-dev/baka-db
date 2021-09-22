@@ -1,5 +1,9 @@
 {
     "title": "Legend of Basara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/21210.jpg",
+        "alt": "legend-of-basara"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "LEGEND OF BASARA",

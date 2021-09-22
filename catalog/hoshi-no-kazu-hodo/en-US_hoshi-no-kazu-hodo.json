@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Kazu hodo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80309.jpg",
+        "alt": "hoshi-no-kazu-hodo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

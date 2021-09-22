@@ -1,5 +1,9 @@
 {
     "title": "Kakeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179565.jpg",
+        "alt": "kakeru"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "カケル",

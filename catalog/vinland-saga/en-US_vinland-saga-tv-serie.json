@@ -1,12 +1,16 @@
 {
     "title": "Vinland Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+        "alt": "vinland-saga"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ヴィンランド・サガ",
     "start_date": "2019-07-08",
     "end_date": "2019-07-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"MUKANJYO\" by Survive Said The Prophet (eps 1-12)",
+    "ending_song": "#1: \"Torches\" by Aimer (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

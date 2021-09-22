@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Daigo-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236239.jpg",
+        "alt": "koisuru-daigo-sensei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

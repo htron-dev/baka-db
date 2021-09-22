@@ -1,5 +1,9 @@
 {
     "title": "Mugen no Senka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162908.jpg",
+        "alt": "mugen-no-senka"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

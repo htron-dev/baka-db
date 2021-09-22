@@ -1,5 +1,9 @@
 {
     "title": "Kenchiku Genba de Yogosarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193457.jpg",
+        "alt": "kenchiku-genba-de-yogosarete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

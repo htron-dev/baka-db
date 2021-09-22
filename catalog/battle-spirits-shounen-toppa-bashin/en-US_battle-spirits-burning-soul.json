@@ -1,12 +1,16 @@
 {
     "title": "Battle Spirits: Burning Soul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/74933.jpg",
+        "alt": "battle-spirits-burning-soul"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "バトルスピリッツ烈火魂〈バーニングソウル〉",
     "start_date": "2015-04-01",
     "end_date": "2015-04-01",
     "opening_song": "\"RISE OF SOULS\" by Shuhei Kita",
-    "ending_song": "#1",
+    "ending_song": "#1: \"DREAMLESS DIVER\" by Sayaka Sasaki",
     "rating": "PG - Children",
     "tags": [
         "game"

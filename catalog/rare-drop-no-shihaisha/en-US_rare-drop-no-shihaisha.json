@@ -1,5 +1,9 @@
 {
     "title": "Rare Drop no Shihaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160926.jpg",
+        "alt": "rare-drop-no-shihaisha"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "2",

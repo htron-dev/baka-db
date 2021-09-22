@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Tomodachi ga Sekaiichi Kawaii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223953.jpg",
+        "alt": "watashi-no-tomodachi-ga-sekaiichi-kawaii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

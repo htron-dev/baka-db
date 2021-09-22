@@ -1,5 +1,9 @@
 {
     "title": "Gabuli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1499/116618.jpg",
+        "alt": "gabuli"
+    },
     "type": "ona",
     "original_name": "GABULI(ガブリ)",
     "start_date": "2021-07-15",

@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki!! Otokojuku: Seishen yo, Taishi no dake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37965.jpg",
+        "alt": "akatsuki-otokojuku-seishen-yo-taishi-no-dake"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "200",

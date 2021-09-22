@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu Tonarigumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/69583.jpg",
+        "alt": "doubutsu-tonarigumi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "動物となり組",

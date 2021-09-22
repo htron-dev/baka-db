@@ -1,5 +1,9 @@
 {
     "title": "Like a Dog, as a Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33419.jpg",
+        "alt": "like-a-dog-as-a-dog"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Majokko Tsukune-chan Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175011.jpg",
+        "alt": "majokko-tsukune-chan-plus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

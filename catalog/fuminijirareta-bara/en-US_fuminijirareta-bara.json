@@ -1,5 +1,9 @@
 {
     "title": "Fuminijirareta Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127291.jpg",
+        "alt": "fuminijirareta-bara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "踏みにじられた薔薇",

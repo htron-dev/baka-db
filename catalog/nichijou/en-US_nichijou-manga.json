@@ -1,5 +1,9 @@
 {
     "title": "Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164728.jpg",
+        "alt": "nichijou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "210",

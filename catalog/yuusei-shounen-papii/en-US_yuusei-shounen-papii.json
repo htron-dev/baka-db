@@ -1,5 +1,9 @@
 {
     "title": "Yuusei Shounen Papii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/46719.jpg",
+        "alt": "yuusei-shounen-papii"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "遊星少年パピイ",

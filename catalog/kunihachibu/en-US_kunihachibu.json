@@ -1,5 +1,9 @@
 {
     "title": "Kunihachibu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204645.jpg",
+        "alt": "kunihachibu"
+    },
     "type": "manga",
     "original_name": "くにはちぶ",
     "start_date": "2017-08-17",

@@ -1,5 +1,9 @@
 {
     "title": "Sekai wo Teki ni Mawashitemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164386.jpg",
+        "alt": "sekai-wo-teki-ni-mawashitemo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "14",

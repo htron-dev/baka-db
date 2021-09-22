@@ -1,5 +1,9 @@
 {
     "title": "Kai Douryoku Real",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/70643.jpg",
+        "alt": "kai-douryoku-real"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "快動力 REAL",

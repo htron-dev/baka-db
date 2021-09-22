@@ -1,5 +1,9 @@
 {
     "title": "Transformers: Allspark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244582.jpg",
+        "alt": "transformers-allspark"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

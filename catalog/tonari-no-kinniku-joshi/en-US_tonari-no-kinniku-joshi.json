@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Kinniku Joshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226476.jpg",
+        "alt": "tonari-no-kinniku-joshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

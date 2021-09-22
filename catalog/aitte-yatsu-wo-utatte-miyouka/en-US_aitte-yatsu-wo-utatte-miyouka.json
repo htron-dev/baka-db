@@ -1,5 +1,9 @@
 {
     "title": "Aitte Yatsu wo Utatte Miyouka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13845.jpg",
+        "alt": "aitte-yatsu-wo-utatte-miyouka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

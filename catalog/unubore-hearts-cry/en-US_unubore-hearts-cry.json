@@ -1,5 +1,9 @@
 {
     "title": "Unubore Heart's Cry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141043.jpg",
+        "alt": "unubore-hearts-cry"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

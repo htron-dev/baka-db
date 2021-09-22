@@ -1,5 +1,9 @@
 {
     "title": "Ankoku Joshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189243.jpg",
+        "alt": "ankoku-joshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

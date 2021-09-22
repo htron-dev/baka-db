@@ -1,5 +1,9 @@
 {
     "title": "Kapoon.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97621.jpg",
+        "alt": "kapoon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

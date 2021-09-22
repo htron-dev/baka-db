@@ -1,5 +1,9 @@
 {
     "title": "God of Bath",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/106187.jpg",
+        "alt": "god-of-bath"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "30",

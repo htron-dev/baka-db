@@ -1,5 +1,9 @@
 {
     "title": "Yarisugi Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239732.jpg",
+        "alt": "yarisugi-brothers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

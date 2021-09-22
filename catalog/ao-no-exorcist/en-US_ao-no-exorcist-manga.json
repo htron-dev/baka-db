@@ -1,5 +1,9 @@
 {
     "title": "Ao no Exorcist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188810.jpg",
+        "alt": "ao-no-exorcist"
+    },
     "type": "manga",
     "original_name": "青の祓魔師〈エクソシスト〉",
     "start_date": "2009-04-04",

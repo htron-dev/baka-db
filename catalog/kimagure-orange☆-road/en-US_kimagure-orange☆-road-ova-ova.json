@@ -1,12 +1,16 @@
 {
     "title": "Kimagure Orange☆Road OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1022/107653.jpg",
+        "alt": "kimagure-orange☆-road-ova"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "きまぐれオレンジ ☆ ロード",
     "start_date": "1989-03-01",
     "end_date": "1989-03-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kagami no Naka no Actress\" by Meiko Nakahara (eps 1-2)",
+    "ending_song": "#1: \"Dance in the memories\" by Meiko Nakahara (eps 1-2)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "magic",

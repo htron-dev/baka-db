@@ -1,5 +1,9 @@
 {
     "title": "Shishunki no Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146857.jpg",
+        "alt": "shishunki-no-futari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

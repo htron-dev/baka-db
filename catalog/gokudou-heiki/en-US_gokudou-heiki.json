@@ -1,5 +1,9 @@
 {
     "title": "Gokudou Heiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150879.jpg",
+        "alt": "gokudou-heiki"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "極道兵器",

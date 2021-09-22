@@ -1,5 +1,9 @@
 {
     "title": "Bleach: Letters From the Other Side",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156655.jpg",
+        "alt": "bleach-letters-from-the-other-side"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

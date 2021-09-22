@@ -1,5 +1,9 @@
 {
     "title": "Saya no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236467.jpg",
+        "alt": "saya-no-uta"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "沙耶の唄",

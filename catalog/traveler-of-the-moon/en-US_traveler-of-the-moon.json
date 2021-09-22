@@ -1,5 +1,9 @@
 {
     "title": "Traveler of the Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11372.jpg",
+        "alt": "traveler-of-the-moon"
+    },
     "type": "manhwa",
     "tags": [
         "comedy",

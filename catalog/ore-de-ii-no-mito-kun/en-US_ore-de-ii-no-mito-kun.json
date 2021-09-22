@@ -1,5 +1,9 @@
 {
     "title": "Ore de Ii no, Mito-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236557.jpg",
+        "alt": "ore-de-ii-no-mito-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

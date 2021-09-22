@@ -1,12 +1,16 @@
 {
     "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/21196.jpg",
+        "alt": "kochira-katsushikaku-kameari-kouenmae-hashutsujo"
+    },
     "type": "tv-serie",
     "episodes": "373",
     "original_name": "こちら葛飾区亀有公園前派出所 (1996)",
     "start_date": "1996-06-16",
     "end_date": "1996-06-16",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Natsu ga Kita! Diamond Head ~ Nagisa no Ojou-sama yori (夏が来た!(Diamond Head)～「渚の女王様」より)\" by Ojou-sama",
+    "ending_song": "#01: \"Smile (スマイル)\" by Hoff Dylan (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

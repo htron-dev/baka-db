@@ -1,5 +1,9 @@
 {
     "title": "Rurouni Kenshin: Voyage to the Moon World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5941.jpg",
+        "alt": "rurouni-kenshin-voyage-to-the-moon-world"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "19",

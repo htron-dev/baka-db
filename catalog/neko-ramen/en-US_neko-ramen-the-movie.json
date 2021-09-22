@@ -1,5 +1,9 @@
 {
     "title": "Neko Ramen: The Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157042.jpg",
+        "alt": "neko-ramen-the-movie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

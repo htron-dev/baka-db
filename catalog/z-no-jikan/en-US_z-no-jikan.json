@@ -1,5 +1,9 @@
 {
     "title": "Z no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212286.jpg",
+        "alt": "z-no-jikan"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "8",

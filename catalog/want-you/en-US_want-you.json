@@ -1,5 +1,9 @@
 {
     "title": "Want You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6440.jpg",
+        "alt": "want-you"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

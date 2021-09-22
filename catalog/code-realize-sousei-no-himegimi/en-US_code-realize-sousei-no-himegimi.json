@@ -1,8 +1,12 @@
 {
     "title": "Code:Realize - Sousei no Himegimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/88465.jpg",
+        "alt": "code-realize-sousei-no-himegimi"
+    },
     "type": "tv-serie",
     "episodes": "12",
-    "original_name": "Code",
+    "original_name": "Code:Realize ～創世の姫君～",
     "start_date": "2017-10-07",
     "end_date": "2017-10-07",
     "opening_song": "\"kalmia\" by Mia REGINA (eps 1-11)",

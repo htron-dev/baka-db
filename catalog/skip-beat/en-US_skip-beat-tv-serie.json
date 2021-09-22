@@ -1,12 +1,16 @@
 {
     "title": "Skip Beat!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/84022.jpg",
+        "alt": "skip-beat"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "スキップ・ビート！",
     "start_date": "2008-10-06",
     "end_date": "2008-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Dream Star\" by the generous (ep 1-19)",
+    "ending_song": "#1: \"Namida (ナミダ)\" by 2BACKKA (ep 1-19)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

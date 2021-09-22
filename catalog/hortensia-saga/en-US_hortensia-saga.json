@@ -1,5 +1,9 @@
 {
     "title": "Hortensia Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/85276.jpg",
+        "alt": "hortensia-saga"
+    },
     "type": "ona",
     "episodes": "7",
     "original_name": "オルタンシア・サーガ",

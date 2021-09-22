@@ -1,5 +1,9 @@
 {
     "title": "From Green Kitchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215911.jpg",
+        "alt": "from-green-kitchen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

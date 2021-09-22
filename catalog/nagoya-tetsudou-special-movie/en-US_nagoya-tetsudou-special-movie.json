@@ -1,5 +1,9 @@
 {
     "title": "Nagoya Tetsudou Special Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/83456.jpg",
+        "alt": "nagoya-tetsudou-special-movie"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "名古屋鉄道スペシャルムービー",

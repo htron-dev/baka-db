@@ -1,11 +1,15 @@
 {
     "title": "Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1584/112511.jpg",
+        "alt": "ushinawareta-mirai-wo-motomete-ushinawareta-natsuyasumi-wo-motomete"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "失われた未来を求めて　第十三話「失われた夏休みを求めて」",
     "start_date": "2015-08-20",
     "opening_song": "\"Le jour\" by Satomi Sato",
-    "ending_song": "\"Ashita Mata Aeru yo ne (明日また会えるよね)\" by Kaori Sasaki (CV",
+    "ending_song": "\"Ashita Mata Aeru yo ne (明日また会えるよね)\" by Kaori Sasaki (CV: Hatsumi Takada) and Yui Furukawa (CV: Akane Tomonaga)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "romance"

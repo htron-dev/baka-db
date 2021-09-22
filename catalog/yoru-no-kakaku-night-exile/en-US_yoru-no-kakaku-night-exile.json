@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Kakaku - Night Exile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4115.jpg",
+        "alt": "yoru-no-kakaku-night-exile"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

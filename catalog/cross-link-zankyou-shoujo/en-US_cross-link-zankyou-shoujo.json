@@ -1,5 +1,9 @@
 {
     "title": "Cross Link: Zankyou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163568.jpg",
+        "alt": "cross-link-zankyou-shoujo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

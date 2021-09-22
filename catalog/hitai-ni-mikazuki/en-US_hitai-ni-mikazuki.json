@@ -1,5 +1,9 @@
 {
     "title": "Hitai ni Mikazuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83324.jpg",
+        "alt": "hitai-ni-mikazuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

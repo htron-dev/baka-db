@@ -1,5 +1,9 @@
 {
     "title": "Brother Auto Spot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122947.jpg",
+        "alt": "brother-auto-spot"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

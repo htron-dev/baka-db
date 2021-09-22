@@ -1,12 +1,16 @@
 {
     "title": "Kyou, Koi wo Hajimemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/37023.jpg",
+        "alt": "kyou-koi-wo-hajimemasu"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "今日、恋をはじめます",
     "start_date": "2010-06-25",
     "end_date": "2010-06-25",
     "opening_song": "\"If\" by French Kiss",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ijiwaru na Koi (いじわるな恋)\" by Kanae Itou (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "romance",

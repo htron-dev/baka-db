@@ -1,5 +1,9 @@
 {
     "title": "Atashi wa Kimi de Mitasareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150248.jpg",
+        "alt": "atashi-wa-kimi-de-mitasareru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

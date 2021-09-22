@@ -1,5 +1,9 @@
 {
     "title": "Denmu Jikuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66129.jpg",
+        "alt": "denmu-jikuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

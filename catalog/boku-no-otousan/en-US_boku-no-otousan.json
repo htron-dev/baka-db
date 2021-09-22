@@ -1,5 +1,9 @@
 {
     "title": "Boku no Otousan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79761.jpg",
+        "alt": "boku-no-otousan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Lonely Myself Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120773.jpg",
+        "alt": "lonely-myself-saga"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ロンリー・マイセルフ・サーガ",

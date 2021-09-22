@@ -1,5 +1,9 @@
 {
     "title": "Konoyo ni Tada Hitori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149554.jpg",
+        "alt": "konoyo-ni-tada-hitori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

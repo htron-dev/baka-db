@@ -1,5 +1,9 @@
 {
     "title": "Untrace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222803.jpg",
+        "alt": "untrace"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

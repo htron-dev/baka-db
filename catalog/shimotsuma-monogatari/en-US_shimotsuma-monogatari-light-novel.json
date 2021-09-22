@@ -1,5 +1,9 @@
 {
     "title": "Shimotsuma Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155938.jpg",
+        "alt": "shimotsuma-monogatari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "下妻物語",

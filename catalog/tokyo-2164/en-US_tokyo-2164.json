@@ -1,5 +1,9 @@
 {
     "title": "Tokyo 2164",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/80647.jpg",
+        "alt": "tokyo-2164"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "TOKYO2164",

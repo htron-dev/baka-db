@@ -1,5 +1,9 @@
 {
     "title": "Madoushi wa Heibon wo Nozomu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199105.jpg",
+        "alt": "madoushi-wa-heibon-wo-nozomu"
+    },
     "type": "light-novel",
     "original_name": "魔導師は平凡を望む",
     "start_date": "2013-10-12",

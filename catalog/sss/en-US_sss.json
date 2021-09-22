@@ -1,5 +1,9 @@
 {
     "title": "SSS!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166273.jpg",
+        "alt": "sss"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

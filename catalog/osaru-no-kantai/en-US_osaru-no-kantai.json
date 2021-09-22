@@ -1,5 +1,9 @@
 {
     "title": "Osaru no Kantai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/74039.jpg",
+        "alt": "osaru-no-kantai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "お猿の艦隊",

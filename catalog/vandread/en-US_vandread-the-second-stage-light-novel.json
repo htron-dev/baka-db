@@ -1,5 +1,9 @@
 {
     "title": "Vandread: The Second Stage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/184340.jpg",
+        "alt": "vandread-the-second-stage"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Manhattan Koimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33035.jpg",
+        "alt": "manhattan-koimonogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

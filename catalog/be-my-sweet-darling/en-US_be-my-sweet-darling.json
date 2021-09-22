@@ -1,5 +1,9 @@
 {
     "title": "Be My Sweet Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185619.jpg",
+        "alt": "be-my-sweet-darling"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "18",

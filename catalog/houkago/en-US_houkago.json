@@ -1,5 +1,9 @@
 {
     "title": "Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82864.jpg",
+        "alt": "houkago"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "ほうかご",

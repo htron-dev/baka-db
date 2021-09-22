@@ -1,5 +1,9 @@
 {
     "title": "Dreamer's High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159636.jpg",
+        "alt": "dreamers-high"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

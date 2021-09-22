@@ -1,5 +1,9 @@
 {
     "title": "Tamagotchi Honto no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1845/111350.jpg",
+        "alt": "tamagotchi-honto-no-hanashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "たまごっちホントのはなし",

@@ -1,5 +1,9 @@
 {
     "title": "Busou Renkin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149583.jpg",
+        "alt": "busou-renkin"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "83",

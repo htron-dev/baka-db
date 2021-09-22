@@ -1,5 +1,9 @@
 {
     "title": "Todo no Tsumari no Uchouten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222650.jpg",
+        "alt": "todo-no-tsumari-no-uchouten"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

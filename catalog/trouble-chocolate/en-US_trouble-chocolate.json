@@ -1,12 +1,16 @@
 {
     "title": "Trouble Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61293.jpg",
+        "alt": "trouble-chocolate"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "トラブルチョコレート",
     "start_date": "1999-10-08",
     "end_date": "1999-10-08",
     "opening_song": "\"C.H.O.C.O.\" by Tange Sakura & Hikami Kyoko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nee Nani de... (ねぇ 何で...)\" by Rie Yoshizawa (eps 1-12)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

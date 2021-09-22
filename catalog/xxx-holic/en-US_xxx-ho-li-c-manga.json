@@ -1,5 +1,9 @@
 {
     "title": "xxxHOLiC",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217533.jpg",
+        "alt": "xxx-ho-li-c"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "213",

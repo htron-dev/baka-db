@@ -1,5 +1,9 @@
 {
     "title": "Fushigi na Yuigonjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79209.jpg",
+        "alt": "fushigi-na-yuigonjou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

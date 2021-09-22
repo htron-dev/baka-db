@@ -1,5 +1,9 @@
 {
     "title": "Oyaji! Arisawa-san'chi no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17290.jpg",
+        "alt": "oyaji-arisawa-sanchi-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

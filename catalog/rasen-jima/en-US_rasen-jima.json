@@ -1,5 +1,9 @@
 {
     "title": "Rasen-jima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96159.jpg",
+        "alt": "rasen-jima"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

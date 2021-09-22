@@ -1,5 +1,9 @@
 {
     "title": "Tomadoi Mayoi wa Tonikaku Zurui!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232190.jpg",
+        "alt": "tomadoi-mayoi-wa-tonikaku-zurui"
+    },
     "type": "manga",
     "original_name": "十惑まよいはとにかくズルい！",
     "start_date": "2019-05-27",

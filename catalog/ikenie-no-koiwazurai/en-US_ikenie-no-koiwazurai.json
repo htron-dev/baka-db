@@ -1,5 +1,9 @@
 {
     "title": "Ikenie no Koiwazurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/111709.jpg",
+        "alt": "ikenie-no-koiwazurai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

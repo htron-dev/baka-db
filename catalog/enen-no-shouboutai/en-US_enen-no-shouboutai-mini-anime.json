@@ -1,5 +1,9 @@
 {
     "title": "Enen no Shouboutai Mini Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1339/111255.jpg",
+        "alt": "enen-no-shouboutai-mini-anime"
+    },
     "type": "ona",
     "original_name": "炎炎ノ消防隊 ミニアニメ",
     "start_date": "2021-01-08",

@@ -1,5 +1,9 @@
 {
     "title": "Shashinkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1413/112309.jpg",
+        "alt": "shashinkan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "寫眞館",

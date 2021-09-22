@@ -1,5 +1,9 @@
 {
     "title": "Shin Megami Tensei Devil Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6887.jpg",
+        "alt": "shin-megami-tensei-devil-children"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

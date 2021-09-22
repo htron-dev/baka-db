@@ -1,5 +1,9 @@
 {
     "title": "Shuukyuu Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188872.jpg",
+        "alt": "shuukyuu-shoujo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "48",

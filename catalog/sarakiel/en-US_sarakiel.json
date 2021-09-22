@@ -1,5 +1,9 @@
 {
     "title": "Sarakiel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164787.jpg",
+        "alt": "sarakiel"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

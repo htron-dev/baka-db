@@ -1,5 +1,9 @@
 {
     "title": "Zombie ga Deta node Gakkou Yasumi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157947.jpg",
+        "alt": "zombie-ga-deta-node-gakkou-yasumi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "The Pale Horse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/70997.jpg",
+        "alt": "the-pale-horse"
+    },
     "type": "manhwa",
     "original_name": "창백한 말",
     "start_date": "2011-09-15",

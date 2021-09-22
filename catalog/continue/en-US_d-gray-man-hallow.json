@@ -1,5 +1,9 @@
 {
     "title": "D.Gray-man Hallow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/80766.jpg",
+        "alt": "d-gray-man-hallow"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ディー・グレイマン ハロー",

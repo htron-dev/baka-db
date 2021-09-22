@@ -1,5 +1,9 @@
 {
     "title": "New York New York",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4636.jpg",
+        "alt": "new-york-new-york"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

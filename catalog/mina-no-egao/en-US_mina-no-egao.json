@@ -1,5 +1,9 @@
 {
     "title": "Mina no Egao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1038/112353.jpg",
+        "alt": "mina-no-egao"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ミナの笑顔",

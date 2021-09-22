@@ -1,5 +1,9 @@
 {
     "title": "Love All!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134895.jpg",
+        "alt": "love-all"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

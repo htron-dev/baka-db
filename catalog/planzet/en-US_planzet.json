@@ -1,5 +1,9 @@
 {
     "title": "Planzet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1592/112151.jpg",
+        "alt": "planzet"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "プランゼット",

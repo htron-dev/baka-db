@@ -1,5 +1,9 @@
 {
     "title": "Gutchonpa Omoshiro Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/77164.jpg",
+        "alt": "gutchonpa-omoshiro-hanashi"
+    },
     "type": "tv-serie",
     "episodes": "5",
     "original_name": "グッチョンパおもしろ話",

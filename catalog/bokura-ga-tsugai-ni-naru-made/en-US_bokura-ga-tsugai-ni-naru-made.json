@@ -1,5 +1,9 @@
 {
     "title": "Bokura ga Tsugai ni Naru made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224898.jpg",
+        "alt": "bokura-ga-tsugai-ni-naru-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

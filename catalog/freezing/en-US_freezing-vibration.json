@@ -1,5 +1,9 @@
 {
     "title": "Freezing Vibration",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/68195.jpg",
+        "alt": "freezing-vibration"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "フリージング ヴァイブレーション",
@@ -39,7 +43,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Freezing_(manga"
+            "link": "https://en.wikipedia.org/wiki/Freezing_%28manga%29"
         }
     ]
 }

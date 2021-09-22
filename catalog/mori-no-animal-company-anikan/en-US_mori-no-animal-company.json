@@ -1,5 +1,9 @@
 {
     "title": "Mori no Animal Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34079.jpg",
+        "alt": "mori-no-animal-company"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

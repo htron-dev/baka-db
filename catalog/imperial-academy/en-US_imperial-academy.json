@@ -1,5 +1,9 @@
 {
     "title": "Imperial Academy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70767.jpg",
+        "alt": "imperial-academy"
+    },
     "type": "manhwa",
     "volumes": "12",
     "original_name": "학원제국",

@@ -1,12 +1,16 @@
 {
     "title": "Nyani ga Nyandaa Nyandaa Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/27206.jpg",
+        "alt": "nyani-ga-nyandaa-nyandaa-kamen"
+    },
     "type": "tv-serie",
     "episodes": "83",
     "original_name": "ニャニがニャンだー ニャンダーかめん",
     "start_date": "2000-02-06",
     "end_date": "2000-02-06",
     "opening_song": "\"Yume no Manto (夢のマント)\" by Reiko Oomori",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kokoro no Mori de (心の森で)\" by Reiko Oomori (eps 1-32)",
     "rating": "PG - Children",
     "tags": [
         "comedy"

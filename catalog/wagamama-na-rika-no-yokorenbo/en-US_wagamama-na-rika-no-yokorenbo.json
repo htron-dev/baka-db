@@ -1,5 +1,9 @@
 {
     "title": "Wagamama na Rika no Yokorenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195488.jpg",
+        "alt": "wagamama-na-rika-no-yokorenbo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

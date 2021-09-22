@@ -1,5 +1,9 @@
 {
     "title": "Akutou Danshi Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20738.jpg",
+        "alt": "akutou-danshi-collection"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

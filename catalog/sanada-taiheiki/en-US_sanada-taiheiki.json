@@ -1,5 +1,9 @@
 {
     "title": "Sanada Taiheiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217152.jpg",
+        "alt": "sanada-taiheiki"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "143",

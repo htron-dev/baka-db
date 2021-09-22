@@ -1,5 +1,9 @@
 {
     "title": "89-banme no Ongaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162235.jpg",
+        "alt": "89-banme-no-ongaku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

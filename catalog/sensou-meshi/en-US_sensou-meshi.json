@@ -1,5 +1,9 @@
 {
     "title": "Sensou Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211002.jpg",
+        "alt": "sensou-meshi"
+    },
     "type": "manga",
     "original_name": "戦争めし",
     "start_date": "2015-04-07",

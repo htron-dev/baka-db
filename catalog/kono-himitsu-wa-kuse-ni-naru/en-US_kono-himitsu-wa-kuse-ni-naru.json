@@ -1,5 +1,9 @@
 {
     "title": "Kono Himitsu wa Kuse ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82812.jpg",
+        "alt": "kono-himitsu-wa-kuse-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Mujin no Jager",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163581.jpg",
+        "alt": "mujin-no-jager"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

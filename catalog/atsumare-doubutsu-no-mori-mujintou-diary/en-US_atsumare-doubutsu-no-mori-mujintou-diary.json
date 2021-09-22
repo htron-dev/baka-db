@@ -1,5 +1,9 @@
 {
     "title": "Atsumare Doubutsu no Mori: Mujintou Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247629.jpg",
+        "alt": "atsumare-doubutsu-no-mori-mujintou-diary"
+    },
     "type": "manga",
     "original_name": "あつまれ　どうぶつの森　～無人島 Diary ～",
     "start_date": "2020-05-15",

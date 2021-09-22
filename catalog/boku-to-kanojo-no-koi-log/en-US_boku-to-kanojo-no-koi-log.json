@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kanojo no Koi Log",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161278.jpg",
+        "alt": "boku-to-kanojo-no-koi-log"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Maou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212614.jpg",
+        "alt": "kuro-no-maou"
+    },
     "type": "light-novel",
     "original_name": "黒の魔王",
     "start_date": "2013-05-24",

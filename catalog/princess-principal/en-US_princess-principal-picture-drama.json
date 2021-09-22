@@ -1,5 +1,9 @@
 {
     "title": "Princess Principal Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/88096.jpg",
+        "alt": "princess-principal-picture-drama"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "プリンセス・プリンシパル ピクチャードラマ",

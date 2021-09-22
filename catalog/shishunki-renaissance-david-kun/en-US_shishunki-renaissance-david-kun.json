@@ -1,5 +1,9 @@
 {
     "title": "Shishunki Renaissance! David-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215124.jpg",
+        "alt": "shishunki-renaissance-david-kun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

@@ -1,5 +1,9 @@
 {
     "title": "Jade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200838.jpg",
+        "alt": "jade"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

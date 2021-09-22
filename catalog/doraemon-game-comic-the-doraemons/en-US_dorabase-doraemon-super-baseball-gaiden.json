@@ -1,5 +1,9 @@
 {
     "title": "Dorabase: Doraemon Super Baseball Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187761.jpg",
+        "alt": "dorabase-doraemon-super-baseball-gaiden"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "134",

@@ -1,5 +1,9 @@
 {
     "title": "Mitarai-ke, Enjou suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204291.jpg",
+        "alt": "mitarai-ke-enjou-suru"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "39",

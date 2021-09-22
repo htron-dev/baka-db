@@ -1,5 +1,9 @@
 {
     "title": "Kiniro no Kujira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/66161.jpg",
+        "alt": "kiniro-no-kujira"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "金色のクジラ",

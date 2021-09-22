@@ -1,5 +1,9 @@
 {
     "title": "Babel no Sekkeishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234819.jpg",
+        "alt": "babel-no-sekkeishi"
+    },
     "type": "manga",
     "original_name": "バベルの設計士",
     "start_date": "2018-10-20",

@@ -1,12 +1,16 @@
 {
     "title": "Tottemo! Luckyman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1463/103126.jpg",
+        "alt": "tottemo-luckyman"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "とっても！ラッキーマン",
     "start_date": "1994-04-06",
     "end_date": "1994-04-06",
     "opening_song": "\"Luckyman no Uta (ラッキーマンの歌)\" by Aki Yashiro",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koi wa Buuga (恋はブーガ)\" by Aki Yashiro (eps 1-49)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Yuutousei no Asobikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145665.jpg",
+        "alt": "yuutousei-no-asobikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Motoka no★Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235963.jpg",
+        "alt": "motoka-no★-shokudou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

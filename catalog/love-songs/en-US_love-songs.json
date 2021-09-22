@@ -1,5 +1,9 @@
 {
     "title": "Love Songs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32251.jpg",
+        "alt": "love-songs"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

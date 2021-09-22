@@ -1,5 +1,9 @@
 {
     "title": "Yami Kariudo Iden: D no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176078.jpg",
+        "alt": "yami-kariudo-iden-d-no-kiseki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

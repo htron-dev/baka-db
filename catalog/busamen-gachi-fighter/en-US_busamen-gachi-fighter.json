@@ -1,5 +1,9 @@
 {
     "title": "Busamen Gachi Fighter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224918.jpg",
+        "alt": "busamen-gachi-fighter"
+    },
     "type": "manga",
     "original_name": "ブサメンガチファイター",
     "start_date": "2017-11-25",

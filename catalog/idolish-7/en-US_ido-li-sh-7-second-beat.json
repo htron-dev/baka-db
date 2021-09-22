@@ -1,12 +1,16 @@
 {
     "title": "IDOLiSH7: Second Beat!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1962/106361.jpg",
+        "alt": "ido-li-sh-7-second-beat"
+    },
     "type": "tv-serie",
     "episodes": "15",
     "original_name": "アイドリッシュセブン Second BEAT!",
     "start_date": "2020-04-05",
     "end_date": "2020-04-05",
     "opening_song": "\"DiSCOVER THE FUTURE\" by IDOLiSH7",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mirai Notes wo Kanadete (ミライノーツを奏でて)\" by Re:vale (eps 1-4, 6-9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

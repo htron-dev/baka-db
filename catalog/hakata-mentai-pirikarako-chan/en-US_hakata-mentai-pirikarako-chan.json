@@ -1,11 +1,15 @@
 {
     "title": "Hakata Mentai! Pirikarako-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1562/113861.jpg",
+        "alt": "hakata-mentai-pirikarako-chan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "博多明太！ぴりからこちゃん",
     "start_date": "2019-07-07",
     "end_date": "2019-07-07",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Pippipiri kara Pirikarako. feat Hime & Mikoto Meika (ぴっぴぴりから、ぴりからこ。feat.鳴花ヒメ・ミコト)\" by mathru@KanimisoP (mathru@かにみそ P) (eps 1-6)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

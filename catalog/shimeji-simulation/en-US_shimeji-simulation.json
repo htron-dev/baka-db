@@ -1,5 +1,9 @@
 {
     "title": "Shimeji Simulation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227584.jpg",
+        "alt": "shimeji-simulation"
+    },
     "type": "manga",
     "original_name": "シメジ シミュレーション",
     "start_date": "2019-01-26",

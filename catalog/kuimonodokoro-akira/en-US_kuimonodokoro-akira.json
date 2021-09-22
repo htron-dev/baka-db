@@ -1,5 +1,9 @@
 {
     "title": "Kuimonodokoro Akira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24171.jpg",
+        "alt": "kuimonodokoro-akira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Te ni Notte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160066.jpg",
+        "alt": "mahou-no-te-ni-notte"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki Shinkai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235940.jpg",
+        "alt": "hakuouki-shinkai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Chibi Tomo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164610.jpg",
+        "alt": "chibi-tomo"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ちびとも！",

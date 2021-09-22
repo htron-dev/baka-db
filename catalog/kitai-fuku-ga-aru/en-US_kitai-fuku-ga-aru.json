@@ -1,5 +1,9 @@
 {
     "title": "Kitai Fuku ga Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217048.jpg",
+        "alt": "kitai-fuku-ga-aru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

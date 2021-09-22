@@ -1,5 +1,9 @@
 {
     "title": "Hitodenashi no Kokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240164.jpg",
+        "alt": "hitodenashi-no-kokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

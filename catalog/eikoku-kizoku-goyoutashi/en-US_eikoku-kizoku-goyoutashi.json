@@ -1,5 +1,9 @@
 {
     "title": "Eikoku Kizoku Goyoutashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127503.jpg",
+        "alt": "eikoku-kizoku-goyoutashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Utawarerumono: Itsuwari no Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180983.jpg",
+        "alt": "utawarerumono-itsuwari-no-kamen"
+    },
     "type": "manga",
     "original_name": "うたわれるもの 偽りの仮面",
     "start_date": "2016-01-30",

@@ -1,12 +1,16 @@
 {
     "title": "Dokaben",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/60899.jpg",
+        "alt": "dokaben"
+    },
     "type": "tv-serie",
     "episodes": "163",
     "original_name": "ドカベン",
     "start_date": "1976-10-06",
     "end_date": "1976-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ganbare Dokaben (がんばれドカベン)\" by Koorogi '73 (ep 1-106)",
+    "ending_song": "#1: \"Ah Seishun yo Itsumademo (ああ青春よいつまでも)\" by Koorogi '73",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

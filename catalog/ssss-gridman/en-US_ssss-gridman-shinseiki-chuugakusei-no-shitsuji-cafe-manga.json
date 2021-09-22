@@ -1,5 +1,9 @@
 {
     "title": "SSSS.Gridman: Shinseiki Chuugakusei no Shitsuji Café",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235830.jpg",
+        "alt": "ssss-gridman-shinseiki-chuugakusei-no-shitsuji-cafe"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

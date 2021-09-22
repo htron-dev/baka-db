@@ -1,5 +1,9 @@
 {
     "title": "Hana yori Dango",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/42871.jpg",
+        "alt": "hana-yori-dango"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "花より男子",

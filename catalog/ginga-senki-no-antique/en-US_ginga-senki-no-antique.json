@@ -1,5 +1,9 @@
 {
     "title": "Ginga Senki no Antique",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176461.jpg",
+        "alt": "ginga-senki-no-antique"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

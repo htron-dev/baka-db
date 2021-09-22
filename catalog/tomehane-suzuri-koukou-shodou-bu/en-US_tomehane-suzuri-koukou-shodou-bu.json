@@ -1,5 +1,9 @@
 {
     "title": "Tomehane!: Suzuri Koukou Shodou-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161228.jpg",
+        "alt": "tomehane-suzuri-koukou-shodou-bu"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "179",

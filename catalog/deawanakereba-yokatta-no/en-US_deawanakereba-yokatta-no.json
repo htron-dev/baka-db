@@ -1,5 +1,9 @@
 {
     "title": "Deawanakereba Yokatta no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182279.jpg",
+        "alt": "deawanakereba-yokatta-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Madonna (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/58127.jpg",
+        "alt": "madonna-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "MADONNA",

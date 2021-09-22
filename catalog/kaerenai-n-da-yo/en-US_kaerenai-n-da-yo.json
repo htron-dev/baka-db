@@ -1,5 +1,9 @@
 {
     "title": "Kaerenai n da yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142085.jpg",
+        "alt": "kaerenai-n-da-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

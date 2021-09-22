@@ -1,5 +1,9 @@
 {
     "title": "Akuma Kari - Daemon Hunters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10977.jpg",
+        "alt": "akuma-kari-daemon-hunters"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "悪魔狩り Daemon Hunters",

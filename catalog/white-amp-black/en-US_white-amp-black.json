@@ -1,5 +1,9 @@
 {
     "title": "White &amp; Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182532.jpg",
+        "alt": "white-amp-black"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

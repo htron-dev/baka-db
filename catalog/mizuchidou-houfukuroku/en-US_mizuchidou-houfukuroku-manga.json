@@ -1,5 +1,9 @@
 {
     "title": "Mizuchidou Houfukuroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206751.jpg",
+        "alt": "mizuchidou-houfukuroku"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "87",

@@ -1,11 +1,15 @@
 {
     "title": "Cookin' Idol Ai! Mai! Main!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/73550.jpg",
+        "alt": "cookin-idol-ai-mai-main"
+    },
     "type": "tv-serie",
     "episodes": "305",
     "original_name": "クッキンアイドル　アイ！マイ！まいん！",
     "start_date": "2009-03-30",
     "end_date": "2009-03-30",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Kitchen wa My Stage (キッチンはマイステージ)\" by Haruka Furuhara (2009)",
     "rating": "PG - Children",
     "tags": [
         "comedy"

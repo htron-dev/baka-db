@@ -1,5 +1,9 @@
 {
     "title": "Ascalon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26357.jpg",
+        "alt": "ascalon"
+    },
     "type": "manhwa",
     "volumes": "3",
     "original_name": "아스카론",

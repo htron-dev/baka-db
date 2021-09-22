@@ -1,5 +1,9 @@
 {
     "title": "Ubatte, Daite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86215.jpg",
+        "alt": "ubatte-daite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

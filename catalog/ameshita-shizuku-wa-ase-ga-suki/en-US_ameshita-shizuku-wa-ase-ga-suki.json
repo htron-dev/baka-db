@@ -1,5 +1,9 @@
 {
     "title": "Ameshita Shizuku wa Ase ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208941.jpg",
+        "alt": "ameshita-shizuku-wa-ase-ga-suki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

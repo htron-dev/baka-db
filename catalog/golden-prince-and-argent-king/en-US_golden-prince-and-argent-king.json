@@ -1,5 +1,9 @@
 {
     "title": "Golden Prince and Argent King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6009.jpg",
+        "alt": "golden-prince-and-argent-king"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

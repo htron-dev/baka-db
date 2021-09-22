@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Shiawase no Tulip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/50225.jpg",
+        "alt": "hello-kitty-no-shiawase-no-tulip"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ハローキティの幸せのチューリップ",

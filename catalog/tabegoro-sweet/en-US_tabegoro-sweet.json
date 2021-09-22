@@ -1,5 +1,9 @@
 {
     "title": "Tabegoro Sweet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138277.jpg",
+        "alt": "tabegoro-sweet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

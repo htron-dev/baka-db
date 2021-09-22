@@ -1,5 +1,9 @@
 {
     "title": "Deluxe Da yo! Kaishain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1962/102130.jpg",
+        "alt": "deluxe-da-yo-kaishain"
+    },
     "type": "ona",
     "original_name": "デラックスだよ！貝社員",
     "start_date": "2019-07-19",

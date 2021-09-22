@@ -1,5 +1,9 @@
 {
     "title": "Himegimi no Icon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169702.jpg",
+        "alt": "himegimi-no-icon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

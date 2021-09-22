@@ -1,5 +1,9 @@
 {
     "title": "Chichonmanchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109983.jpg",
+        "alt": "chichonmanchi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "77",

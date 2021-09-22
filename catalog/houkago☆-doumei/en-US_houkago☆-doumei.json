@@ -1,5 +1,9 @@
 {
     "title": "Houkago☆Doumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205480.jpg",
+        "alt": "houkago☆-doumei"
+    },
     "type": "manga",
     "original_name": "放課後 ☆ 同盟",
     "start_date": "2016-09-27",

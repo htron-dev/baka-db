@@ -1,5 +1,9 @@
 {
     "title": "Gojikanme no Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188788.jpg",
+        "alt": "gojikanme-no-sensou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

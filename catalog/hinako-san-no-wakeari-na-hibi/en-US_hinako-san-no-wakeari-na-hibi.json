@@ -1,5 +1,9 @@
 {
     "title": "Hinako-san no Wakeari na Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230155.jpg",
+        "alt": "hinako-san-no-wakeari-na-hibi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "31",

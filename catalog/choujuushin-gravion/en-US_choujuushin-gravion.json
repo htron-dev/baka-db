@@ -1,5 +1,9 @@
 {
     "title": "Choujuushin Gravion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75166.jpg",
+        "alt": "choujuushin-gravion"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "超重神グラヴィオン",

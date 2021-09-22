@@ -1,5 +1,9 @@
 {
     "title": "Jigokudou Reikai Tsuushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166580.jpg",
+        "alt": "jigokudou-reikai-tsuushin"
+    },
     "type": "manga",
     "original_name": "地獄堂霊界通信",
     "start_date": "2008-11-07",

@@ -1,5 +1,9 @@
 {
     "title": "Manatsu no Mermaid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/39769.jpg",
+        "alt": "manatsu-no-mermaid"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

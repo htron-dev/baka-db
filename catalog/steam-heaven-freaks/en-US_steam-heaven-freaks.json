@@ -1,5 +1,9 @@
 {
     "title": "Steam Heaven Freaks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200071.jpg",
+        "alt": "steam-heaven-freaks"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

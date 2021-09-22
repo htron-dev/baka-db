@@ -1,5 +1,9 @@
 {
     "title": "Hirameki Hatsume-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168037.jpg",
+        "alt": "hirameki-hatsume-chan"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "84",

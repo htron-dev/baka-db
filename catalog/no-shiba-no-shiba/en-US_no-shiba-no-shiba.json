@@ -1,5 +1,9 @@
 {
     "title": "No Shiba no Shiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/83674.jpg",
+        "alt": "no-shiba-no-shiba"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "のしばのしば",

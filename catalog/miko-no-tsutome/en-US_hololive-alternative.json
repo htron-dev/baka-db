@@ -1,5 +1,9 @@
 {
     "title": "Hololive Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1692/112088.jpg",
+        "alt": "hololive-alternative"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ホロライブ・オルタナティブ",

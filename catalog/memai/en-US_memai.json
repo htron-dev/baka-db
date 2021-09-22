@@ -1,5 +1,9 @@
 {
     "title": "Memai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11410.jpg",
+        "alt": "memai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

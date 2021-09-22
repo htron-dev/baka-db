@@ -1,5 +1,9 @@
 {
     "title": "Tensei Pandemic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217940.jpg",
+        "alt": "tensei-pandemic"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "74",

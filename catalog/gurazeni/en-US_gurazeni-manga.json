@@ -1,5 +1,9 @@
 {
     "title": "Gurazeni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149160.jpg",
+        "alt": "gurazeni"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "84",

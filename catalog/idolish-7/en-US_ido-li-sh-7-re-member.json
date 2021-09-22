@@ -1,9 +1,13 @@
 {
     "title": "IDOLiSH7: Re:member",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229090.jpg",
+        "alt": "ido-li-sh-7-re-member"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",
-    "original_name": "アイドリッシュセブン Re",
+    "original_name": "アイドリッシュセブン Re:member",
     "start_date": "2017-12-09",
     "end_date": "2017-12-09",
     "tags": [

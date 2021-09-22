@@ -1,5 +1,9 @@
 {
     "title": "Aihime Megohime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1370/102722.jpg",
+        "alt": "aihime-megohime"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "愛姫 MEGOHIME",

@@ -1,5 +1,9 @@
 {
     "title": "Superdoll Rika Chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32687.jpg",
+        "alt": "superdoll-rika-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

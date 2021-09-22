@@ -1,5 +1,9 @@
 {
     "title": "Kaizoku to Yobareta Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187206.jpg",
+        "alt": "kaizoku-to-yobareta-otoko"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "71",

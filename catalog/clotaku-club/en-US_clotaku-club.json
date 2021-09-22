@@ -1,5 +1,9 @@
 {
     "title": "Clotaku club!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113921.jpg",
+        "alt": "clotaku-club"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "75",

@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Otomo ni Dou desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242423.jpg",
+        "alt": "yoru-no-otomo-ni-dou-desu-ka"
+    },
     "type": "manga",
     "original_name": "夜のお友にどうですか?",
     "start_date": "2020-09-20",

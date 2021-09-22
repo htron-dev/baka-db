@@ -1,5 +1,9 @@
 {
     "title": "Ponkotsu Quest Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/84087.jpg",
+        "alt": "ponkotsu-quest-specials"
+    },
     "type": "ona",
     "original_name": "ポンコツクエスト 特別編",
     "start_date": "2014-03-13",

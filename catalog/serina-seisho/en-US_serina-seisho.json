@@ -1,5 +1,9 @@
 {
     "title": "Serina Seisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81438.jpg",
+        "alt": "serina-seisho"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "SERINA 聖書",

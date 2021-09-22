@@ -1,5 +1,9 @@
 {
     "title": "Genshiken Nidaime Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/54119.jpg",
+        "alt": "genshiken-nidaime-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "げんしけん 二代目 映像特典",

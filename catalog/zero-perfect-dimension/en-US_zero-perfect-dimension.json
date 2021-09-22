@@ -1,5 +1,9 @@
 {
     "title": "Zero: Perfect Dimension",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/55029.jpg",
+        "alt": "zero-perfect-dimension"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "27",

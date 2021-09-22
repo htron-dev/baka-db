@@ -1,5 +1,9 @@
 {
     "title": "Hokusai to Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105309.jpg",
+        "alt": "hokusai-to-meshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

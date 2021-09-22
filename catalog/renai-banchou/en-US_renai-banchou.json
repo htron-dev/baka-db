@@ -1,5 +1,9 @@
 {
     "title": "Renai Banchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31434.jpg",
+        "alt": "renai-banchou"
+    },
     "type": "manga",
     "original_name": "恋愛番長",
     "tags": [

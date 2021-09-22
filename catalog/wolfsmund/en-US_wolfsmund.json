@@ -1,5 +1,9 @@
 {
     "title": "Wolfsmund",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66147.jpg",
+        "alt": "wolfsmund"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "37",

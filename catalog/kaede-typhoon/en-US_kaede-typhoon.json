@@ -1,5 +1,9 @@
 {
     "title": "Kaede Typhoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116873.jpg",
+        "alt": "kaede-typhoon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Hayashi-fusai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/88648.jpg",
+        "alt": "hayashi-fusai"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ハヤシフサイ",

@@ -1,5 +1,9 @@
 {
     "title": "Nineteen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22863.jpg",
+        "alt": "nineteen"
+    },
     "type": "manga",
     "volumes": "12",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Allegro Agitato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20740.jpg",
+        "alt": "allegro-agitato"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

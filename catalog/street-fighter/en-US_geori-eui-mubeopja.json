@@ -1,5 +1,9 @@
 {
     "title": "Geori-eui Mubeopja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/71955.jpg",
+        "alt": "geori-eui-mubeopja"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "거리의 무법자",
@@ -17,7 +21,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Street_Fighter_(1992_film"
+            "link": "https://en.wikipedia.org/wiki/Street_Fighter_%281992_film%29"
         }
     ]
 }

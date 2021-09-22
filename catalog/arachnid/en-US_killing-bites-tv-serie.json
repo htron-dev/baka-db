@@ -1,5 +1,9 @@
 {
     "title": "Killing Bites",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/90087.jpg",
+        "alt": "killing-bites"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "キリングバイツ",

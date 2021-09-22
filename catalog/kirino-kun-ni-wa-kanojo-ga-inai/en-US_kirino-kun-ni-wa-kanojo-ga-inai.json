@@ -1,5 +1,9 @@
 {
     "title": "Kirino-kun ni wa Kanojo ga Inai!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163984.jpg",
+        "alt": "kirino-kun-ni-wa-kanojo-ga-inai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

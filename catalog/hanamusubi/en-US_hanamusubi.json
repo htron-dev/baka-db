@@ -1,5 +1,9 @@
 {
     "title": "Hanamusubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152047.jpg",
+        "alt": "hanamusubi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

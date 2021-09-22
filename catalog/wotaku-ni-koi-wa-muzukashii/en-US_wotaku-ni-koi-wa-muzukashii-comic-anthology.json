@@ -1,5 +1,9 @@
 {
     "title": "Wotaku ni Koi wa Muzukashii: Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243915.jpg",
+        "alt": "wotaku-ni-koi-wa-muzukashii-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

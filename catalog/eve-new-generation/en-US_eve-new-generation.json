@@ -1,5 +1,9 @@
 {
     "title": "Eve - New Generation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18057.jpg",
+        "alt": "eve-new-generation"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

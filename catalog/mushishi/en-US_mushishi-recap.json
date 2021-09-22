@@ -1,5 +1,9 @@
 {
     "title": "Mushishi Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1127/100635.jpg",
+        "alt": "mushishi-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "蟲師 ダイジェスト",

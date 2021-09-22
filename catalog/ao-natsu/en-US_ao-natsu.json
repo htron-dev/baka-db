@@ -1,5 +1,9 @@
 {
     "title": "Ao Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192740.jpg",
+        "alt": "ao-natsu"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "39",

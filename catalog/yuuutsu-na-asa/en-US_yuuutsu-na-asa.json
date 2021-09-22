@@ -1,5 +1,9 @@
 {
     "title": "Yuuutsu na Asa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23401.jpg",
+        "alt": "yuuutsu-na-asa"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "46",

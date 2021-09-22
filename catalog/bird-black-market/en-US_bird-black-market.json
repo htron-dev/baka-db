@@ -1,5 +1,9 @@
 {
     "title": "Bird: Black Market",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231389.jpg",
+        "alt": "bird-black-market"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "69",

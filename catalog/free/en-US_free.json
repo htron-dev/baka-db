@@ -1,12 +1,16 @@
 {
     "title": "Free!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/51107.jpg",
+        "alt": "free"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Free!",
     "start_date": "2013-07-04",
     "end_date": "2013-07-04",
     "opening_song": "\"Rage on\" by OLDCODEX",
-    "ending_song": "#1",
+    "ending_song": "#1: \"SPLASH FREE\" by STYLE FIVE (Nobunaga Shimazaki, Tatsuhisa Suzuki, Mamoru Miyano, Tsubasa Yonaga, Daisuke Hirakawa) (eps 1- 11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

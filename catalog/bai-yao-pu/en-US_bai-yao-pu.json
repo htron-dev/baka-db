@@ -1,5 +1,9 @@
 {
     "title": "Bai Yao Pu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1403/108297.jpg",
+        "alt": "bai-yao-pu"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "百妖谱",

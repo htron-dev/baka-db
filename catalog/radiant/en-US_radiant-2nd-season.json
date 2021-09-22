@@ -1,5 +1,9 @@
 {
     "title": "Radiant 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1974/108398.jpg",
+        "alt": "radiant-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "ラディアン 第 2 シリーズ",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Radiant_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Radiant_%28TV_series%29"
         }
     ]
 }

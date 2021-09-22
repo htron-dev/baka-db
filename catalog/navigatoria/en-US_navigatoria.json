@@ -1,5 +1,9 @@
 {
     "title": "Navigatoria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167204.jpg",
+        "alt": "navigatoria"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

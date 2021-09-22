@@ -1,12 +1,16 @@
 {
     "title": "Area 88 (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75571.jpg",
+        "alt": "area-88-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "エリア８８",
     "start_date": "2004-01-09",
     "end_date": "2004-01-09",
     "opening_song": "\"Mission (Fuga)\" by Angel",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Dance in the Battlefield\" by Keiko Terada (eps 1-8)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

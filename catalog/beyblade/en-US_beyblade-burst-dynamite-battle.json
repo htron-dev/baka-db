@@ -1,5 +1,9 @@
 {
     "title": "Beyblade Burst Dynamite Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1156/113543.jpg",
+        "alt": "beyblade-burst-dynamite-battle"
+    },
     "type": "ona",
     "original_name": "ベイブレードバーストダイナマイトバトル",
     "start_date": "2021-04-02",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Beyblade_Burst#Beyblade_Burst_Dynamite_Battle_(2021%E2%80%9322"
+            "link": "https://en.wikipedia.org/wiki/Beyblade_Burst#Beyblade_Burst_Dynamite_Battle_%282021%E2%80%9322%29"
         }
     ]
 }

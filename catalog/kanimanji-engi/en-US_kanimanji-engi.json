@@ -1,5 +1,9 @@
 {
     "title": "Kanimanji Engi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71023.jpg",
+        "alt": "kanimanji-engi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "蟹満寺縁起",

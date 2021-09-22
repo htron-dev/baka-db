@@ -1,5 +1,9 @@
 {
     "title": "Little Busters! Ecstasy Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154196.jpg",
+        "alt": "little-busters-ecstasy-series"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

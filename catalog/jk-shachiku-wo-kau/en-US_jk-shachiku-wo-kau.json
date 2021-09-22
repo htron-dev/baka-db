@@ -1,5 +1,9 @@
 {
     "title": "JK, Shachiku wo Kau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222213.jpg",
+        "alt": "jk-shachiku-wo-kau"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

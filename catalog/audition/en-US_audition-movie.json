@@ -1,5 +1,9 @@
 {
     "title": "Audition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/76441.jpg",
+        "alt": "audition"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "오디션",

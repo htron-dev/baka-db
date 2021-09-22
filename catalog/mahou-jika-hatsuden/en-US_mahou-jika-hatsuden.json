@@ -1,5 +1,9 @@
 {
     "title": "Mahou Jika Hatsuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162237.jpg",
+        "alt": "mahou-jika-hatsuden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

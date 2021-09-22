@@ -1,12 +1,16 @@
 {
     "title": "Haikyuu!! Second Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76662.jpg",
+        "alt": "haikyuu-second-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ハイキュー!! セカンドシーズン",
     "start_date": "2015-10-04",
     "end_date": "2015-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"I'm A Believer (アイム・ア・ビリーバー)\" by SPYAIR (eps 1-13)",
+    "ending_song": "#1: \"Climber (クライマー)\" by Galileo Galilei (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

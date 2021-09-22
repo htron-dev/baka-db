@@ -1,5 +1,9 @@
 {
     "title": "Bruges: Applause",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/155230.jpg",
+        "alt": "bruges-applause"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

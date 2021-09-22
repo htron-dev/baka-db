@@ -1,5 +1,9 @@
 {
     "title": "Dreams",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187815.jpg",
+        "alt": "dreams"
+    },
     "type": "manga",
     "volumes": "71",
     "chapters": "480",

@@ -1,5 +1,9 @@
 {
     "title": "Pine Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/91815.jpg",
+        "alt": "pine-kiss"
+    },
     "type": "manhwa",
     "volumes": "8",
     "tags": [

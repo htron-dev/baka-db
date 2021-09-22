@@ -1,5 +1,9 @@
 {
     "title": "Warui Ko Demo Ii?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186948.jpg",
+        "alt": "warui-ko-demo-ii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

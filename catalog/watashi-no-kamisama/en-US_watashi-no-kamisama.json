@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219567.jpg",
+        "alt": "watashi-no-kamisama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

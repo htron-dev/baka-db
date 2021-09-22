@@ -1,5 +1,9 @@
 {
     "title": "Nori Tama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41998.jpg",
+        "alt": "nori-tama"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "のりタマ",

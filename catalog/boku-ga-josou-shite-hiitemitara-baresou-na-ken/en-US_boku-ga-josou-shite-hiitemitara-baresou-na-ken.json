@@ -1,5 +1,9 @@
 {
     "title": "Boku ga Josou shite Hiitemitara Baresou na Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172068.jpg",
+        "alt": "boku-ga-josou-shite-hiitemitara-baresou-na-ken"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

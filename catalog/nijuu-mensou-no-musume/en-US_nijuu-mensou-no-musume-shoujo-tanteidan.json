@@ -1,5 +1,9 @@
 {
     "title": "Nijuu Mensou no Musume: Shoujo Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171197.jpg",
+        "alt": "nijuu-mensou-no-musume-shoujo-tanteidan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Egoist Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176339.jpg",
+        "alt": "egoist-blue"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "エゴイストブルー",

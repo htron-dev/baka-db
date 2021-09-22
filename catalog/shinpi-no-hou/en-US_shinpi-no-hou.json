@@ -1,5 +1,9 @@
 {
     "title": "Shinpi no Hou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/56551.jpg",
+        "alt": "shinpi-no-hou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "神秘の法",

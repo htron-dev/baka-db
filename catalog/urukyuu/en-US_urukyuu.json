@@ -1,5 +1,9 @@
 {
     "title": "Urukyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161115.jpg",
+        "alt": "urukyuu"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "30",

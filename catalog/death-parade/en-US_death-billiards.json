@@ -1,5 +1,9 @@
 {
     "title": "Death Billiards",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/48721.jpg",
+        "alt": "death-billiards"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デス・ビリヤード",

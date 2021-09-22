@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters DP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36635.jpg",
+        "alt": "pocket-monsters-dp"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "58",

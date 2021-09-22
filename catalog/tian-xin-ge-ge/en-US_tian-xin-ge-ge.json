@@ -1,5 +1,9 @@
 {
     "title": "Tian Xin Ge Ge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/81128.jpg",
+        "alt": "tian-xin-ge-ge"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "甜心格格",

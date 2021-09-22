@@ -1,5 +1,9 @@
 {
     "title": "Tadareta Koi ni wa Itashimasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225120.jpg",
+        "alt": "tadareta-koi-ni-wa-itashimasen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

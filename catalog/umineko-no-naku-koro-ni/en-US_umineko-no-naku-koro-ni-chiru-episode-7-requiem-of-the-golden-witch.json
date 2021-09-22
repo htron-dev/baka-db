@@ -1,9 +1,13 @@
 {
     "title": "Umineko no Naku Koro ni Chiru - Episode 7: Requiem of the Golden Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151990.jpg",
+        "alt": "umineko-no-naku-koro-ni-chiru-episode-7-requiem-of-the-golden-witch"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "48",
-    "original_name": "うみねこのなく頃に散 - Episode 7",
+    "original_name": "うみねこのなく頃に散 - Episode 7: Requiem of the golden witch",
     "start_date": "2011-04-13",
     "end_date": "2011-04-13",
     "tags": [

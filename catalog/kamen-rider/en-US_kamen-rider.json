@@ -1,5 +1,9 @@
 {
     "title": "Kamen Rider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5853.jpg",
+        "alt": "kamen-rider"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "8",

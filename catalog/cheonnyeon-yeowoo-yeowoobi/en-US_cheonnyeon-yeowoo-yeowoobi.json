@@ -1,5 +1,9 @@
 {
     "title": "Cheonnyeon-yeowoo Yeowoobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/56083.jpg",
+        "alt": "cheonnyeon-yeowoo-yeowoobi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "천년여우 여우비",

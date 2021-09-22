@@ -1,5 +1,9 @@
 {
     "title": "Mi Bao Zhi Guo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1449/108024.jpg",
+        "alt": "mi-bao-zhi-guo"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "秘宝之国",

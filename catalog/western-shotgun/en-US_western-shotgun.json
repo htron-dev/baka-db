@@ -1,5 +1,9 @@
 {
     "title": "Western Shotgun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86309.jpg",
+        "alt": "western-shotgun"
+    },
     "type": "manhwa",
     "volumes": "40",
     "original_name": "웨스턴샷건",

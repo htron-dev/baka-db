@@ -1,5 +1,9 @@
 {
     "title": "Ochikobore Fruit Tart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1088/109145.jpg",
+        "alt": "ochikobore-fruit-tart"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "おちこぼれフルーツタルト",

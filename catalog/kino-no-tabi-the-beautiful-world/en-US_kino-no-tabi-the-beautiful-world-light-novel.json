@@ -1,5 +1,9 @@
 {
     "title": "Kino no Tabi: The Beautiful World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/1146.jpg",
+        "alt": "kino-no-tabi-the-beautiful-world"
+    },
     "type": "light-novel",
     "original_name": "キノの旅 -the Beautiful World-",
     "start_date": "2000-03-10",

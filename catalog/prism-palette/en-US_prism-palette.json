@@ -1,5 +1,9 @@
 {
     "title": "Prism Palette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/951.jpg",
+        "alt": "prism-palette"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

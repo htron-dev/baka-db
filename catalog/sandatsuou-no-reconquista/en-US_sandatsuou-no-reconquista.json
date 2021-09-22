@@ -1,5 +1,9 @@
 {
     "title": "Sandatsuou no Reconquista",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139709.jpg",
+        "alt": "sandatsuou-no-reconquista"
+    },
     "type": "light-novel",
     "original_name": "簒奪王のレコンキスタ",
     "start_date": "2014-09-12",

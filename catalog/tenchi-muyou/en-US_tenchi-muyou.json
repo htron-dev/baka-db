@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Muyou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/61663.jpg",
+        "alt": "tenchi-muyou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "天地無用！",

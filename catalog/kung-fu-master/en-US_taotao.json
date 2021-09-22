@@ -1,5 +1,9 @@
 {
     "title": "Taotao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196686.jpg",
+        "alt": "taotao"
+    },
     "type": "manga",
     "original_name": "TAOTAO -タオタオ-",
     "start_date": "2017-05-26",

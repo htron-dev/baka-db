@@ -1,5 +1,9 @@
 {
     "title": "Chocolate Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190329.jpg",
+        "alt": "chocolate-vampire"
+    },
     "type": "manga",
     "original_name": "チョコレート・ヴァンパイア",
     "start_date": "2016-09-05",

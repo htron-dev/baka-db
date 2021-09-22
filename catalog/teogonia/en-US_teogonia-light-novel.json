@@ -1,5 +1,9 @@
 {
     "title": "Teogonia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248052.jpg",
+        "alt": "teogonia"
+    },
     "type": "light-novel",
     "original_name": "神統記 〈テオゴニア〉",
     "start_date": "2018-03-30",

@@ -1,5 +1,9 @@
 {
     "title": "Akunin wo Nakaseru Houhou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61731.jpg",
+        "alt": "akunin-wo-nakaseru-houhou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

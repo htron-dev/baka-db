@@ -1,5 +1,9 @@
 {
     "title": "Wild Pitch!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176821.jpg",
+        "alt": "wild-pitch"
+    },
     "type": "manga",
     "original_name": "WILD PITCH!!!",
     "start_date": "2015-12-21",

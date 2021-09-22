@@ -1,5 +1,9 @@
 {
     "title": "Sasuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/30805.jpg",
+        "alt": "sasuke"
+    },
     "type": "tv-serie",
     "episodes": "29",
     "original_name": "サスケ",

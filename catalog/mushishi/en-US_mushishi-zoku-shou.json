@@ -1,12 +1,16 @@
 {
     "title": "Mushishi Zoku Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/58533.jpg",
+        "alt": "mushishi-zoku-shou"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "蟲師 続章",
     "start_date": "2014-04-05",
     "end_date": "2014-04-05",
     "opening_song": "\"Shiver\" by Lucy Rose",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Nozue no Utage\" (野末の宴) by Toshio Masuda (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

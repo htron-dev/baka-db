@@ -1,5 +1,9 @@
 {
     "title": "Kagaku na Yatsura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/47133.jpg",
+        "alt": "kagaku-na-yatsura"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "カガクなヤツら",

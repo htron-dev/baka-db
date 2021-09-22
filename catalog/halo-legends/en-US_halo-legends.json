@@ -1,5 +1,9 @@
 {
     "title": "Halo Legends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/16013.jpg",
+        "alt": "halo-legends"
+    },
     "type": "ona",
     "episodes": "9",
     "original_name": "ヘイロー・レジェンズ",

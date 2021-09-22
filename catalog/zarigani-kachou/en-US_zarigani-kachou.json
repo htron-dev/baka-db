@@ -1,5 +1,9 @@
 {
     "title": "Zarigani Kachou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10996.jpg",
+        "alt": "zarigani-kachou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

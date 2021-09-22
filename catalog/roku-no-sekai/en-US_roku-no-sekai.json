@@ -1,5 +1,9 @@
 {
     "title": "Roku no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1975/93240.jpg",
+        "alt": "roku-no-sekai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ロクの世界",

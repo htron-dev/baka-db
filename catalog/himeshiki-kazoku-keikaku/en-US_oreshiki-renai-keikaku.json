@@ -1,5 +1,9 @@
 {
     "title": "Oreshiki Renai Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96071.jpg",
+        "alt": "oreshiki-renai-keikaku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "俺式恋愛計画",

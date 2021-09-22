@@ -1,5 +1,9 @@
 {
     "title": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/19621.jpg",
+        "alt": "clannad-after-story-mou-hitotsu-no-sekai-kyou-hen"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "クラナド　アフターストーリー　もうひとつの世界　杏編",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Clannad_(visual_novel"
+            "link": "http://en.wikipedia.org/wiki/Clannad_%28visual_novel%29#Anime_series"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Ai Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63115.jpg",
+        "alt": "ai-yuugi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

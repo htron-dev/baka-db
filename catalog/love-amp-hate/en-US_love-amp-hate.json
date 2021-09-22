@@ -1,5 +1,9 @@
 {
     "title": "Love &amp; Hate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202557.jpg",
+        "alt": "love-amp-hate"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Souzounushi nanode Motto Yasashiku Shite Kudasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247790.jpg",
+        "alt": "souzounushi-nanode-motto-yasashiku-shite-kudasai"
+    },
     "type": "manga",
     "original_name": "創造主なのでもっと優しくしてください！",
     "start_date": "2020-10-16",

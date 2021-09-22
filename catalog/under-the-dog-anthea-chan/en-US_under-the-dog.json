@@ -1,5 +1,9 @@
 {
     "title": "Under the Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1793/112240.jpg",
+        "alt": "under-the-dog"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "UNDER THE DOG",

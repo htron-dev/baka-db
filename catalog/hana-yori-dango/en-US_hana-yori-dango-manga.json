@@ -1,5 +1,9 @@
 {
     "title": "Hana yori Dango",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27280.jpg",
+        "alt": "hana-yori-dango"
+    },
     "type": "manga",
     "volumes": "37",
     "chapters": "244",

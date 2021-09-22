@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai ni Taisetsu na Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126715.jpg",
+        "alt": "mahoutsukai-ni-taisetsu-na-koto"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "12",

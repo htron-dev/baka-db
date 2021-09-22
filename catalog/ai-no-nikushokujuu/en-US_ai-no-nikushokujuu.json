@@ -1,5 +1,9 @@
 {
     "title": "Ai no Nikushokujuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23134.jpg",
+        "alt": "ai-no-nikushokujuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛の肉食獣",

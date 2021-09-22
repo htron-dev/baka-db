@@ -1,5 +1,9 @@
 {
     "title": "Rokujou Hitoma no Majo Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235798.jpg",
+        "alt": "rokujou-hitoma-no-majo-life"
+    },
     "type": "manga",
     "original_name": "六畳一間の魔女ライフ",
     "start_date": "2020-02-22",

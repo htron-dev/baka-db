@@ -1,5 +1,9 @@
 {
     "title": "Sekiheki Strive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152901.jpg",
+        "alt": "sekiheki-strive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

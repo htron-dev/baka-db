@@ -1,12 +1,16 @@
 {
     "title": "Youkai Watch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/58137.jpg",
+        "alt": "youkai-watch"
+    },
     "type": "tv-serie",
     "episodes": "214",
     "original_name": "妖怪ウォッチ",
     "start_date": "2014-01-08",
     "end_date": "2014-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Geragerapou no Uta (ゲラゲラポーのうた)\" by King Creamsoda (eps 1-36, 51)",
+    "ending_song": "#1: \"Youkai Taisou Daiichi (ようかい体操第一)\" by Dream5 (eps 1-24)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

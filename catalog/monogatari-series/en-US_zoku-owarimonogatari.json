@@ -1,5 +1,9 @@
 {
     "title": "Zoku Owarimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1022/96168.jpg",
+        "alt": "zoku-owarimonogatari"
+    },
     "type": "movie",
     "episodes": "6",
     "original_name": "続・終物語",

@@ -1,5 +1,9 @@
 {
     "title": "L'Oiseau Bleu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4945.jpg",
+        "alt": "l-oiseau-bleu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アオイトリ（エレクトリック・マーメイド２）",

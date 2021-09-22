@@ -1,5 +1,9 @@
 {
     "title": "Bad Timing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79265.jpg",
+        "alt": "bad-timing"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

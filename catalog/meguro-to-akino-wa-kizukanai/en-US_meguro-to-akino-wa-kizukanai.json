@@ -1,5 +1,9 @@
 {
     "title": "Meguro to Akino wa Kizukanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224433.jpg",
+        "alt": "meguro-to-akino-wa-kizukanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

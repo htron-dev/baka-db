@@ -1,5 +1,9 @@
 {
     "title": "Kuma to Tanuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228677.jpg",
+        "alt": "kuma-to-tanuki"
+    },
     "type": "manga",
     "original_name": "クマとたぬき",
     "start_date": "2018-06-29",

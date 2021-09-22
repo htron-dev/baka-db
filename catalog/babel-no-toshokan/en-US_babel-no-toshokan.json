@@ -1,5 +1,9 @@
 {
     "title": "Babel no Toshokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193975.jpg",
+        "alt": "babel-no-toshokan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

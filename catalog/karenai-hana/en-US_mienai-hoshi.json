@@ -1,5 +1,9 @@
 {
     "title": "Mienai Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31534.jpg",
+        "alt": "mienai-hoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

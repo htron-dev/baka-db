@@ -1,5 +1,9 @@
 {
     "title": "Love Love Shock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/10337.jpg",
+        "alt": "love-love-shock"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

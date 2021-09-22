@@ -1,5 +1,9 @@
 {
     "title": "Kiseijuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188928.jpg",
+        "alt": "kiseijuu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "64",

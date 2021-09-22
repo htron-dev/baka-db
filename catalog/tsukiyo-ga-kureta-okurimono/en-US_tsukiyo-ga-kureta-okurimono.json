@@ -1,5 +1,9 @@
 {
     "title": "Tsukiyo ga Kureta Okurimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63253.jpg",
+        "alt": "tsukiyo-ga-kureta-okurimono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

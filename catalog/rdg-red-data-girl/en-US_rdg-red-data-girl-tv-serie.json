@@ -1,12 +1,16 @@
 {
     "title": "RDG: Red Data Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/47053.jpg",
+        "alt": "rdg-red-data-girl"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "RDG レッドデータガール",
     "start_date": "2013-04-04",
     "end_date": "2013-04-04",
     "opening_song": "\"Small worldrop (スモルワールドロップ)\" by Annabel (eps 1-2, 4-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yokan (予感)\" by Masumi Itou (eps 1-2, 4-7, 9-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "fantasy",

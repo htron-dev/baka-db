@@ -1,5 +1,9 @@
 {
     "title": "Soko ni Osuwari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158583.jpg",
+        "alt": "soko-ni-osuwari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

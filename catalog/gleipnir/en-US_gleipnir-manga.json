@@ -1,5 +1,9 @@
 {
     "title": "Gleipnir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174385.jpg",
+        "alt": "gleipnir"
+    },
     "type": "manga",
     "original_name": "グレイプニル",
     "start_date": "2015-10-06",

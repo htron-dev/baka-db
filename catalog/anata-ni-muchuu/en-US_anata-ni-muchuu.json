@@ -1,5 +1,9 @@
 {
     "title": "Anata ni Muchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30634.jpg",
+        "alt": "anata-ni-muchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あなたに夢中",

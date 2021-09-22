@@ -1,5 +1,9 @@
 {
     "title": "Usagi Goutou ni wa Shindemorau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198538.jpg",
+        "alt": "usagi-goutou-ni-wa-shindemorau"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Egg Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211319.jpg",
+        "alt": "egg-star"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

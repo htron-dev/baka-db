@@ -1,5 +1,9 @@
 {
     "title": "Kurenai Hanafubuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23290.jpg",
+        "alt": "kurenai-hanafubuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

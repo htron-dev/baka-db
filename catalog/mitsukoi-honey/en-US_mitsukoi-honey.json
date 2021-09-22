@@ -1,5 +1,9 @@
 {
     "title": "Mitsukoi Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120861.jpg",
+        "alt": "mitsukoi-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

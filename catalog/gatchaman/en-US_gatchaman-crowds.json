@@ -1,12 +1,16 @@
 {
     "title": "Gatchaman Crowds",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/52471.jpg",
+        "alt": "gatchaman-crowds"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ガッチャマン クラウズ",
     "start_date": "2013-07-13",
     "end_date": "2013-07-13",
     "opening_song": "\"Crowds\" by WHITE ASH",
-    "ending_song": "\"INNOCENT NOTE\" by Hajime Ichinose (CV",
+    "ending_song": "\"INNOCENT NOTE\" by Hajime Ichinose (CV: Maaya Uchida)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

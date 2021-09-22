@@ -1,5 +1,9 @@
 {
     "title": "Nami Iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/67603.jpg",
+        "alt": "nami-iro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

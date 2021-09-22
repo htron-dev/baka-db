@@ -1,5 +1,9 @@
 {
     "title": "Uchuujin Pipi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72211.jpg",
+        "alt": "uchuujin-pipi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "宇宙人ピピ",

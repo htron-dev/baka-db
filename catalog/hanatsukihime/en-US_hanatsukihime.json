@@ -1,5 +1,9 @@
 {
     "title": "Hanatsukihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185699.jpg",
+        "alt": "hanatsukihime"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

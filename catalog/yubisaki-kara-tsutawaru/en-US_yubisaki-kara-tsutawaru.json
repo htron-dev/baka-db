@@ -1,5 +1,9 @@
 {
     "title": "Yubisaki kara Tsutawaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31659.jpg",
+        "alt": "yubisaki-kara-tsutawaru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "指先から伝わる",

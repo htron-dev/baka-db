@@ -1,5 +1,9 @@
 {
     "title": "Anime Oyako Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/53881.jpg",
+        "alt": "anime-oyako-gekijou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アニメ 親子劇場",

@@ -1,5 +1,9 @@
 {
     "title": "Jizhi de Shanyang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1743/115832.jpg",
+        "alt": "jizhi-de-shanyang"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "机智的山羊",

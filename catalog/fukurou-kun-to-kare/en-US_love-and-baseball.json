@@ -1,5 +1,9 @@
 {
     "title": "Love and Baseball",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165420.jpg",
+        "alt": "love-and-baseball"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

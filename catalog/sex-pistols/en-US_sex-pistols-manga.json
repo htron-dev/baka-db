@@ -1,5 +1,9 @@
 {
     "title": "Sex Pistols",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85083.jpg",
+        "alt": "sex-pistols"
+    },
     "type": "manga",
     "original_name": "SEX PISTOLS",
     "start_date": "2004-01-20",

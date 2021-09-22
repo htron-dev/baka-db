@@ -1,5 +1,9 @@
 {
     "title": "Shounen Ashibe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171460.jpg",
+        "alt": "shounen-ashibe"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "270",

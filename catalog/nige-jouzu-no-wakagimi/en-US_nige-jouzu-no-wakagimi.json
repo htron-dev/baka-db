@@ -1,5 +1,9 @@
 {
     "title": "Nige Jouzu no Wakagimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247594.jpg",
+        "alt": "nige-jouzu-no-wakagimi"
+    },
     "type": "manga",
     "original_name": "逃げ上手の若君",
     "start_date": "2021-01-25",

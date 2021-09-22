@@ -1,5 +1,9 @@
 {
     "title": "Naoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22742.jpg",
+        "alt": "naoko"
+    },
     "type": "manga",
     "volumes": "33",
     "original_name": "奈緒子",

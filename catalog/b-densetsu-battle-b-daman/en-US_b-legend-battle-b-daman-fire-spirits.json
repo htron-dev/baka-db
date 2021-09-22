@@ -1,12 +1,16 @@
 {
     "title": "B-Legend! Battle B-Daman Fire Spirits!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22115.jpg",
+        "alt": "b-legend-battle-b-daman-fire-spirits"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "B-伝説(ビーレジェンド)! バトルビーダマン 炎魂(ファイヤースピリッツ!)",
     "start_date": "2005-01-10",
     "end_date": "2005-01-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Fire Spirits\" by MAKiZO",
+    "ending_song": "#1: \"Teen's Hi\" by Rockahula GOOSE",
     "rating": "PG - Children",
     "tags": [
         "adventure",

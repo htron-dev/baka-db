@@ -1,12 +1,16 @@
 {
     "title": "Cosmic Baton Girl Comet-san☆",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1710/95290.jpg",
+        "alt": "cosmic-baton-girl-comet-san☆"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "Cosmic Baton Girl コメットさん ☆",
     "start_date": "2001-04-01",
     "end_date": "2001-04-01",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"君にスマイル (Kimi ni Smile)\" by Nayu Niibori",
+    "ending_song": "#01: \"Twinkle Star\" by Saeko Chiba",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

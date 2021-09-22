@@ -1,5 +1,9 @@
 {
     "title": "Mikan no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138527.jpg",
+        "alt": "mikan-no-tsuki"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "25",

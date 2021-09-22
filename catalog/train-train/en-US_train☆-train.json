@@ -1,5 +1,9 @@
 {
     "title": "Train☆Train",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11046.jpg",
+        "alt": "train☆-train"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Kurotora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158096.jpg",
+        "alt": "kurotora"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "44",

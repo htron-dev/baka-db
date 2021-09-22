@@ -1,5 +1,9 @@
 {
     "title": "Harukanaru Toki no Naka de 5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193420.jpg",
+        "alt": "harukanaru-toki-no-naka-de-5"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

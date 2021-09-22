@@ -1,5 +1,9 @@
 {
     "title": "Yume no Ue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127957.jpg",
+        "alt": "yume-no-ue"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "夢の上",

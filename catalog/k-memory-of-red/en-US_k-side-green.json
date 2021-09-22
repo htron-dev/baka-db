@@ -1,9 +1,13 @@
 {
     "title": "K Side:Green",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241317.jpg",
+        "alt": "k-side-green"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",
-    "original_name": "K SIDE",
+    "original_name": "K SIDE:GREEN",
     "start_date": "2016-11-01",
     "tags": [
         "supernatural"

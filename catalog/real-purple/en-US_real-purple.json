@@ -1,5 +1,9 @@
 {
     "title": "Real Purple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152756.jpg",
+        "alt": "real-purple"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "15",

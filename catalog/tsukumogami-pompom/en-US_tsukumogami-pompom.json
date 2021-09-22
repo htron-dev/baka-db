@@ -1,5 +1,9 @@
 {
     "title": "Tsukumogami Pompom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222842.jpg",
+        "alt": "tsukumogami-pompom"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

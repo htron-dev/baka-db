@@ -1,5 +1,9 @@
 {
     "title": "Ginga Tetsudou 999: Shounen no Tabidachi to Wakare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71468.jpg",
+        "alt": "ginga-tetsudou-999-shounen-no-tabidachi-to-wakare"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "銀河鉄道 999 少年の旅立ちと別れ（総集編）",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/銀河鉄道999_(アニメ"
+            "link": "https://ja.wikipedia.org/wiki/銀河鉄道999_%28アニメ%29"
         }
     ]
 }

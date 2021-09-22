@@ -1,5 +1,9 @@
 {
     "title": "Bippapbarulra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206979.jpg",
+        "alt": "bippapbarulra"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "비빱바룰라",

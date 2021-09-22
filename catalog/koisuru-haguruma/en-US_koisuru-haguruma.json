@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Haguruma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224466.jpg",
+        "alt": "koisuru-haguruma"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

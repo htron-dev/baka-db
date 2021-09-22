@@ -1,5 +1,9 @@
 {
     "title": "Oniisama e...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/18531.jpg",
+        "alt": "oniisama-e"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "おにいさまへ…",

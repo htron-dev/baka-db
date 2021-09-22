@@ -1,5 +1,9 @@
 {
     "title": "GoGo★Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11631.jpg",
+        "alt": "go-go★-heaven"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

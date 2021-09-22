@@ -1,12 +1,16 @@
 {
     "title": "Wild Arms: Twilight Venom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1532/94186.jpg",
+        "alt": "wild-arms-twilight-venom"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "ワイルドアームズ トワイライトヴェノム",
     "start_date": "1999-10-18",
     "end_date": "1999-10-18",
     "opening_song": "\"Main Thema\" by Sho Wada",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Universe\" by Triceratops",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Wild_Arms_(anime"
+            "link": "http://en.wikipedia.org/wiki/Wild_Arms_%28anime%29"
         }
     ]
 }

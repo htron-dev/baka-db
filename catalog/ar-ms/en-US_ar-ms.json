@@ -1,5 +1,9 @@
 {
     "title": "AR/MS!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215346.jpg",
+        "alt": "ar-ms"
+    },
     "type": "manga",
     "original_name": "AR/MS!!(エーアール・マルチプルサヴァイヴ)",
     "start_date": "2018-06-15",

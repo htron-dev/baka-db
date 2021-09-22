@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi no Reality Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/249905.jpg",
+        "alt": "bokutachi-no-reality-show"
+    },
     "type": "manga",
     "original_name": "僕たちのリアリティショー",
     "start_date": "2021-03-31",

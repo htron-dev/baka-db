@@ -1,5 +1,9 @@
 {
     "title": "Yoidore Koi wo Sezu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213495.jpg",
+        "alt": "yoidore-koi-wo-sezu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

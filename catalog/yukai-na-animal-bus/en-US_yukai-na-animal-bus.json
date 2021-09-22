@@ -1,5 +1,9 @@
 {
     "title": "Yukai na Animal Bus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/85584.jpg",
+        "alt": "yukai-na-animal-bus"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゆかいなアニマルバス",
@@ -9,7 +13,6 @@
     "tags": [
         "comedy"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

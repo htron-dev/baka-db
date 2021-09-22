@@ -1,5 +1,9 @@
 {
     "title": "Syrup: Yuri Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247345.jpg",
+        "alt": "syrup-yuri-anthology"
+    },
     "type": "manga",
     "original_name": "シロップ 百合アンソロジー",
     "start_date": "2019-05-11",

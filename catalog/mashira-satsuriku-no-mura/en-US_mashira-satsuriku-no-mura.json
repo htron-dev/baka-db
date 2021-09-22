@@ -1,5 +1,9 @@
 {
     "title": "Mashira: Satsuriku no Mura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201023.jpg",
+        "alt": "mashira-satsuriku-no-mura"
+    },
     "type": "manga",
     "original_name": "マシラ ―殺戮の村―",
     "start_date": "2017-02-28",

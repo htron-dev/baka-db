@@ -1,5 +1,9 @@
 {
     "title": "Kinjirareta Koi ni Ochite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84235.jpg",
+        "alt": "kinjirareta-koi-ni-ochite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

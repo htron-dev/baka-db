@@ -1,5 +1,9 @@
 {
     "title": "Tantan Xiao Dongyuan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1051/115318.jpg",
+        "alt": "tantan-xiao-dongyuan"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "坦坦小动员",

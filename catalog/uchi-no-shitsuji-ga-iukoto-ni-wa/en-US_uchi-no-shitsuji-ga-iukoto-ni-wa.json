@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Shitsuji ga Iukoto ni wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190060.jpg",
+        "alt": "uchi-no-shitsuji-ga-iukoto-ni-wa"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "47",

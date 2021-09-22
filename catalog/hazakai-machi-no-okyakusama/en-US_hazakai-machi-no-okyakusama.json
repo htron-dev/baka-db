@@ -1,5 +1,9 @@
 {
     "title": "Hazakai-machi no Okyakusama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202765.jpg",
+        "alt": "hazakai-machi-no-okyakusama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

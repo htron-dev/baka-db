@@ -1,5 +1,9 @@
 {
     "title": "Kedamono Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17261.jpg",
+        "alt": "kedamono-company"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "けだもの会社",

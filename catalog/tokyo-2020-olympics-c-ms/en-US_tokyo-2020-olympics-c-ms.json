@@ -1,5 +1,9 @@
 {
     "title": "Tokyo 2020 Olympics CMs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1161/102197.jpg",
+        "alt": "tokyo-2020-olympics-c-ms"
+    },
     "type": "ona",
     "original_name": "東京 2020 オリンピック",
     "start_date": "2018-07-22",

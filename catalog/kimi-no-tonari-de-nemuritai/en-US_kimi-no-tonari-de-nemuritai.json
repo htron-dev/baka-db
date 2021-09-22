@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Tonari de Nemuritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4218.jpg",
+        "alt": "kimi-no-tonari-de-nemuritai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

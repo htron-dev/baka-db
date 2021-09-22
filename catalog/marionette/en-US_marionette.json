@@ -1,5 +1,9 @@
 {
     "title": "Marionette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176246.jpg",
+        "alt": "marionette"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

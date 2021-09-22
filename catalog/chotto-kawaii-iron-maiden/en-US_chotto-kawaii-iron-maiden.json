@@ -1,5 +1,9 @@
 {
     "title": "Chotto Kawaii Iron Maiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127579.jpg",
+        "alt": "chotto-kawaii-iron-maiden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

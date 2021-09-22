@@ -1,5 +1,9 @@
 {
     "title": "Tensei no Kafka Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161058.jpg",
+        "alt": "tensei-no-kafka-tsukai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

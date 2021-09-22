@@ -1,12 +1,16 @@
 {
     "title": "Gegege no Kitarou (2018)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1273/93610.jpg",
+        "alt": "gegege-no-kitarou-2018"
+    },
     "type": "tv-serie",
     "episodes": "97",
     "original_name": "ゲゲゲの鬼太郎 (2018)",
     "start_date": "2018-04-01",
     "end_date": "2018-04-01",
     "opening_song": "\"Gegege no Kitarou (ゲゲゲの鬼太郎)\" by Kiyoshi Hikawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kagami no Naka kara (鏡の中から)\" by Maneki Kecak (まねきケチャ) (eps 1-13)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "GS Mikami Gokuraku Daisakusen!! Suimeikyuu no Shoujo!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172081.jpg",
+        "alt": "gs-mikami-gokuraku-daisakusen-suimeikyuu-no-shoujo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

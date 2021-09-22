@@ -1,5 +1,9 @@
 {
     "title": "Hitokiri Share House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182647.jpg",
+        "alt": "hitokiri-share-house"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Gunshin no Namida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186098.jpg",
+        "alt": "gunshin-no-namida"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

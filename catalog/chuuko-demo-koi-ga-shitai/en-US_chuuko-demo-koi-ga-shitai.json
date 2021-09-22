@@ -1,5 +1,9 @@
 {
     "title": "Chuuko demo Koi ga Shitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158150.jpg",
+        "alt": "chuuko-demo-koi-ga-shitai"
+    },
     "type": "light-novel",
     "volumes": "13",
     "chapters": "97",

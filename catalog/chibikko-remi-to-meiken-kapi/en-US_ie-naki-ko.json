@@ -1,5 +1,9 @@
 {
     "title": "Ie Naki Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76757.jpg",
+        "alt": "ie-naki-ko"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "家なき子",

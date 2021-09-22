@@ -1,5 +1,9 @@
 {
     "title": "Kaori Warning!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200730.jpg",
+        "alt": "kaori-warning"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

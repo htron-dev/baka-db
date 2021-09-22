@@ -1,5 +1,9 @@
 {
     "title": "Futatsu no Spica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176749.jpg",
+        "alt": "futatsu-no-spica"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "97",

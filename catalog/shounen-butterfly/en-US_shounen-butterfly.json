@@ -1,5 +1,9 @@
 {
     "title": "Shounen Butterfly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30718.jpg",
+        "alt": "shounen-butterfly"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

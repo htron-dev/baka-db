@@ -1,5 +1,9 @@
 {
     "title": "Yuzu chu♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/77827.jpg",
+        "alt": "yuzu-chu♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

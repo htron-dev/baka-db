@@ -1,5 +1,9 @@
 {
     "title": "Ai no Houritsu♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158530.jpg",
+        "alt": "ai-no-houritsu♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

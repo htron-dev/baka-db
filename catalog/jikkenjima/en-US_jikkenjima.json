@@ -1,5 +1,9 @@
 {
     "title": "Jikkenjima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239259.jpg",
+        "alt": "jikkenjima"
+    },
     "type": "manga",
     "original_name": "実験島",
     "start_date": "2020-08-28",

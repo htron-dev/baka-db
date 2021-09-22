@@ -1,5 +1,9 @@
 {
     "title": "Tokidamari no Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78065.jpg",
+        "alt": "tokidamari-no-hime"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ときだまりの姫",

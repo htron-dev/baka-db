@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Sango",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76214.jpg",
+        "alt": "tsuki-no-sango"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "月の珊瑚",

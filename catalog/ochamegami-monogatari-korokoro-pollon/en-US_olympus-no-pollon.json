@@ -1,5 +1,9 @@
 {
     "title": "Olympus no Pollon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152955.jpg",
+        "alt": "olympus-no-pollon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

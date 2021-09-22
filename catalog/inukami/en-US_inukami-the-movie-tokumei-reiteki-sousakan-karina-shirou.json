@@ -1,5 +1,9 @@
 {
     "title": "Inukami! The Movie: Tokumei Reiteki Sousakan Karina Shirou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2268.jpg",
+        "alt": "inukami-the-movie-tokumei-reiteki-sousakan-karina-shirou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "いぬかみっ! THE MOVIE 特命霊的捜査官・仮名史郎っ!",

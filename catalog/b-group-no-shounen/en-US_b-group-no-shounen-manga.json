@@ -1,5 +1,9 @@
 {
     "title": "B Group no Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135043.jpg",
+        "alt": "b-group-no-shounen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

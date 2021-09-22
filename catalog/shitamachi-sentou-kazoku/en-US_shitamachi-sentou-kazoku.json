@@ -1,5 +1,9 @@
 {
     "title": "Shitamachi Sentou Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201288.jpg",
+        "alt": "shitamachi-sentou-kazoku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

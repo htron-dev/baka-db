@@ -1,5 +1,9 @@
 {
     "title": "Oh Kousuke yo, Erabenai to wa Nasakenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162491.jpg",
+        "alt": "oh-kousuke-yo-erabenai-to-wa-nasakenai"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Gettenrou no Override",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176460.jpg",
+        "alt": "gettenrou-no-override"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

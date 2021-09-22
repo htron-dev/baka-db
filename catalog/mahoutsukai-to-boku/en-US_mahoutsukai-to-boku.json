@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181146.jpg",
+        "alt": "mahoutsukai-to-boku"
+    },
     "type": "light-novel",
     "original_name": "魔法使いと僕",
     "start_date": "2016-08-25",

@@ -1,5 +1,9 @@
 {
     "title": "Love Terrorist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156074.jpg",
+        "alt": "love-terrorist"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ラブ・テロリスト",

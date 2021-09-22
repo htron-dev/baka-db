@@ -1,5 +1,9 @@
 {
     "title": "Tennis no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153238.jpg",
+        "alt": "tennis-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "42",
     "chapters": "382",

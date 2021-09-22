@@ -1,5 +1,9 @@
 {
     "title": "Kage ni Saku Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72177.jpg",
+        "alt": "kage-ni-saku-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

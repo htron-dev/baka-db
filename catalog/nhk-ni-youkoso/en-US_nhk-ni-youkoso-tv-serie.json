@@ -1,12 +1,16 @@
 {
     "title": "NHK ni Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/52675.jpg",
+        "alt": "nhk-ni-youkoso"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "N・H・K にようこそ！",
     "start_date": "2006-07-10",
     "end_date": "2006-07-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Puzzle\" by ROUND TABLE feat. Nino (eps 1-12)",
+    "ending_song": "#1: \"Odoru Akachan Ningen\" by Kenji Ohtsuki and Fumihiko Kitsutaka (eps 1-12)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

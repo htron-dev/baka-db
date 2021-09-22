@@ -1,5 +1,9 @@
 {
     "title": "Konna Otona no Onnanoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/66889.jpg",
+        "alt": "konna-otona-no-onnanoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

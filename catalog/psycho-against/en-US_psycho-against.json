@@ -1,5 +1,9 @@
 {
     "title": "Psycho Against",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216398.jpg",
+        "alt": "psycho-against"
+    },
     "type": "manga",
     "original_name": "サイコアゲンスト",
     "start_date": "2018-06-30",

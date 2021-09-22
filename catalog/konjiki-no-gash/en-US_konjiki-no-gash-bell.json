@@ -1,12 +1,16 @@
 {
     "title": "Konjiki no Gash Bell!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/14983.jpg",
+        "alt": "konjiki-no-gash-bell"
+    },
     "type": "tv-serie",
     "episodes": "150",
     "original_name": "金色のガッシュベル!!",
     "start_date": "2003-04-06",
     "end_date": "2003-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kasabuta (カサブタ)\" by Hidenori Chiwata (eps 1-50)",
+    "ending_song": "#1: \"PERSONAL by Aya Ueto\" (Episodes 1-30)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

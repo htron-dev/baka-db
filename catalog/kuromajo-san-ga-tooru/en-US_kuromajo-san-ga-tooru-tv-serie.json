@@ -1,5 +1,9 @@
 {
     "title": "Kuromajo-san ga Tooru!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75496.jpg",
+        "alt": "kuromajo-san-ga-tooru"
+    },
     "type": "tv-serie",
     "episodes": "60",
     "original_name": "黒魔女さんが通る!!",

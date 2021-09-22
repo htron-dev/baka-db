@@ -1,5 +1,9 @@
 {
     "title": "Renai Control",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198209.jpg",
+        "alt": "renai-control"
+    },
     "type": "manga",
     "original_name": "恋愛操作〈コントロール〉",
     "tags": [

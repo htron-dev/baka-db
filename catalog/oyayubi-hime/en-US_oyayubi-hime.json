@@ -1,5 +1,9 @@
 {
     "title": "Oyayubi Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169031.jpg",
+        "alt": "oyayubi-hime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

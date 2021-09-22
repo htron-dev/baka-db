@@ -1,5 +1,9 @@
 {
     "title": "Hatsunetsu Libido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222551.jpg",
+        "alt": "hatsunetsu-libido"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

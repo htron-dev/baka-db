@@ -1,5 +1,9 @@
 {
     "title": "Giant Gorg",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32307.jpg",
+        "alt": "giant-gorg"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "巨神ゴーグ",

@@ -1,5 +1,9 @@
 {
     "title": "Netsu no Sukima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28299.jpg",
+        "alt": "netsu-no-sukima"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

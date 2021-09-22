@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Ashita, Kinou no Kimi to Date suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189169.jpg",
+        "alt": "boku-wa-ashita-kinou-no-kimi-to-date-suru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

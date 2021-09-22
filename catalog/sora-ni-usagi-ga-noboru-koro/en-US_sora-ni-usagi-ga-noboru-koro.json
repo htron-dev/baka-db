@@ -1,5 +1,9 @@
 {
     "title": "Sora ni Usagi ga Noboru Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163034.jpg",
+        "alt": "sora-ni-usagi-ga-noboru-koro"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "19",

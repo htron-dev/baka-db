@@ -1,5 +1,9 @@
 {
     "title": "Kirei no Tamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23402.jpg",
+        "alt": "kirei-no-tamago"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

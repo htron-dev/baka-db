@@ -1,5 +1,9 @@
 {
     "title": "Akechi Keibu no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154511.jpg",
+        "alt": "akechi-keibu-no-jikenbo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

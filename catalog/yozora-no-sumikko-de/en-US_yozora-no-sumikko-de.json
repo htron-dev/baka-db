@@ -1,5 +1,9 @@
 {
     "title": "Yozora no Sumikko de,",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177221.jpg",
+        "alt": "yozora-no-sumikko-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

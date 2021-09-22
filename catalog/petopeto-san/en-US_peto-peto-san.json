@@ -1,5 +1,9 @@
 {
     "title": "PetoPeto-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/19516.jpg",
+        "alt": "peto-peto-san"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ぺとぺとさん",

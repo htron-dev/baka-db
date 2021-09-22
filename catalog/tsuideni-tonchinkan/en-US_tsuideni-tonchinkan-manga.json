@@ -1,5 +1,9 @@
 {
     "title": "Tsuideni Tonchinkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227004.jpg",
+        "alt": "tsuideni-tonchinkan"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "213",

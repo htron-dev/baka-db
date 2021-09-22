@@ -1,5 +1,9 @@
 {
     "title": "Boys Love!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226386.jpg",
+        "alt": "boys-love"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

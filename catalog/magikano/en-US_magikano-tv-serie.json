@@ -1,5 +1,9 @@
 {
     "title": "Magikano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75539.jpg",
+        "alt": "magikano"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "マジカノ",

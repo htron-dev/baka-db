@@ -1,5 +1,9 @@
 {
     "title": "Trinity Seven: Liese Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199040.jpg",
+        "alt": "trinity-seven-liese-chronicle"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

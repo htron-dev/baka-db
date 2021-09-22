@@ -1,5 +1,9 @@
 {
     "title": "Renaissance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168307.jpg",
+        "alt": "renaissance"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

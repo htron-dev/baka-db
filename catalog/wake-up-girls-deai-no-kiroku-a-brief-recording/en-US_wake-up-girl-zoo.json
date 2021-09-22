@@ -1,5 +1,9 @@
 {
     "title": "Wake Up, Girl Zoo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/65537.jpg",
+        "alt": "wake-up-girl-zoo"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "うぇいくあっぷがーる ZOO！",

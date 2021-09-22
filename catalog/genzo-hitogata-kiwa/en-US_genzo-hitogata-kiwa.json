@@ -1,5 +1,9 @@
 {
     "title": "Genzo Hitogata Kiwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130665.jpg",
+        "alt": "genzo-hitogata-kiwa"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "13",

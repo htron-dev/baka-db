@@ -1,5 +1,9 @@
 {
     "title": "Goshiki no Fune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144155.jpg",
+        "alt": "goshiki-no-fune"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

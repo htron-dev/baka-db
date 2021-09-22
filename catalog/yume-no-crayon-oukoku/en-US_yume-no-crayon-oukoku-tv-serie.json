@@ -1,5 +1,9 @@
 {
     "title": "Yume no Crayon Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/28591.jpg",
+        "alt": "yume-no-crayon-oukoku"
+    },
     "type": "tv-serie",
     "episodes": "70",
     "original_name": "夢のクレヨン王国",

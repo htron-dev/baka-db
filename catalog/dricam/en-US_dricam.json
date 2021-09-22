@@ -1,5 +1,9 @@
 {
     "title": "Dricam!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217488.jpg",
+        "alt": "dricam"
+    },
     "type": "manga",
     "chapters": "103",
     "original_name": "ドリキャン!!",

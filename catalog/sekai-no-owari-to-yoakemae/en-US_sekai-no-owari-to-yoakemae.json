@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Owari to Yoakemae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199450.jpg",
+        "alt": "sekai-no-owari-to-yoakemae"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

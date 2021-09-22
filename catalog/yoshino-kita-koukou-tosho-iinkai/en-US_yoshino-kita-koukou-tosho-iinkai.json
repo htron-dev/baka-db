@@ -1,5 +1,9 @@
 {
     "title": "Yoshino Kita Koukou Tosho Iinkai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227099.jpg",
+        "alt": "yoshino-kita-koukou-tosho-iinkai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

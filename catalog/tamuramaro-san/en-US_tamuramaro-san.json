@@ -1,5 +1,9 @@
 {
     "title": "Tamuramaro-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116011.jpg",
+        "alt": "tamuramaro-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

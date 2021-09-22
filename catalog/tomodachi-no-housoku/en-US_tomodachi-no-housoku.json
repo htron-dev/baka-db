@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi no Housoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16445.jpg",
+        "alt": "tomodachi-no-housoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

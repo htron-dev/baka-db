@@ -1,5 +1,9 @@
 {
     "title": "Nibiiro no Seishun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172943.jpg",
+        "alt": "nibiiro-no-seishun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

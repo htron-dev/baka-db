@@ -1,5 +1,9 @@
 {
     "title": "Onihei Hankachou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/48461.jpg",
+        "alt": "onihei-hankachou"
+    },
     "type": "manga",
     "original_name": "鬼平犯科帳",
     "tags": [

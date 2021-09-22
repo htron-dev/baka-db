@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235719.jpg",
+        "alt": "sayonara-eden"
+    },
     "type": "manga",
     "original_name": "さよならエデン",
     "start_date": "2020-01-17",

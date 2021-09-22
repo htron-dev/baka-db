@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Koto nado Zettai ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198581.jpg",
+        "alt": "kimi-no-koto-nado-zettai-ni"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

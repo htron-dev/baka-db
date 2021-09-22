@@ -1,11 +1,15 @@
 {
     "title": "Monster Strike The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1415/101689.jpg",
+        "alt": "monster-strike-the-animation"
+    },
     "type": "ona",
     "episodes": "63",
     "original_name": "モンスターストライク The Animation",
     "start_date": "2018-07-08",
     "end_date": "2018-07-08",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Monster Strike Main Theme Animation Ver\" by Riichiro Kuwabara (eps 1-7, 10-11, 18, 20-24, 57)",
     "rating": "PG - Children",
     "tags": [
         "action",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Monster_Strike_(anime"
+            "link": "https://en.wikipedia.org/wiki/Monster_Strike_%28anime%29"
         }
     ]
 }

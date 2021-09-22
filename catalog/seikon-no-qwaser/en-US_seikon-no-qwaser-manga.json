@@ -1,5 +1,9 @@
 {
     "title": "Seikon no Qwaser",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181116.jpg",
+        "alt": "seikon-no-qwaser"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "119",

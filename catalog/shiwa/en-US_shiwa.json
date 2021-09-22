@@ -1,5 +1,9 @@
 {
     "title": "Shiwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167455.jpg",
+        "alt": "shiwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

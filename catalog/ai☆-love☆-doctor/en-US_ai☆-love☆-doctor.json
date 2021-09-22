@@ -1,5 +1,9 @@
 {
     "title": "Ai☆Love☆Doctor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152280.jpg",
+        "alt": "ai☆-love☆-doctor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

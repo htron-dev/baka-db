@@ -1,5 +1,9 @@
 {
     "title": "Panda no Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1169/112826.jpg",
+        "alt": "panda-no-daibouken"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "パンダの大冒険",

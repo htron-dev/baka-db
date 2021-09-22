@@ -1,5 +1,9 @@
 {
     "title": "Love Me Tender",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84051.jpg",
+        "alt": "love-me-tender"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ラヴミーテンダー",

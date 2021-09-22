@@ -1,5 +1,9 @@
 {
     "title": "Queen's Blade Rebellion: Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/101317.jpg",
+        "alt": "queens-blade-rebellion-zero"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

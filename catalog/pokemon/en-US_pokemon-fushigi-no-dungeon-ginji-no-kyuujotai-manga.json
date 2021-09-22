@@ -1,5 +1,9 @@
 {
     "title": "Pokémon Fushigi no Dungeon: Ginji no Kyuujotai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169444.jpg",
+        "alt": "pokemon-fushigi-no-dungeon-ginji-no-kyuujotai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

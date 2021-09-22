@@ -1,5 +1,9 @@
 {
     "title": "Haruchin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180841.jpg",
+        "alt": "haruchin"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ハルチン",

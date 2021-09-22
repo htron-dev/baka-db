@@ -1,12 +1,16 @@
 {
     "title": "Monochrome Factor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/22552.jpg",
+        "alt": "monochrome-factor"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "モノクローム･ファクター",
     "start_date": "2008-04-08",
     "end_date": "2008-04-08",
     "opening_song": "\"Metamorphose\" by Asriel",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Awake ~my everything~\" by Daisuke Ono & Hiroshi Kamiya",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

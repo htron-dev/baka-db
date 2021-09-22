@@ -1,5 +1,9 @@
 {
     "title": "Dousei Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227274.jpg",
+        "alt": "dousei-seikatsu"
+    },
     "type": "manga",
     "original_name": "同棲生活",
     "start_date": "2017-08-10",

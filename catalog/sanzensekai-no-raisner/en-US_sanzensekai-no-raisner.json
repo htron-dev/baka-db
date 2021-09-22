@@ -1,5 +1,9 @@
 {
     "title": "Sanzensekai no Raisner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180044.jpg",
+        "alt": "sanzensekai-no-raisner"
+    },
     "type": "light-novel",
     "original_name": "三千世界の英雄王〈レイズナー〉",
     "start_date": "2016-07-25",

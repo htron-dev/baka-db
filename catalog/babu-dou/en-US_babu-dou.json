@@ -1,5 +1,9 @@
 {
     "title": "Babu Dou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1407/115503.jpg",
+        "alt": "babu-dou"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "巴布豆",

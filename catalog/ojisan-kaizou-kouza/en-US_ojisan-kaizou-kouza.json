@@ -1,5 +1,9 @@
 {
     "title": "Ojisan Kaizou Kouza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61743.jpg",
+        "alt": "ojisan-kaizou-kouza"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おじさん改造講座",

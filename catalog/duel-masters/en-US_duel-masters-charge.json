@@ -1,5 +1,9 @@
 {
     "title": "Duel Masters Charge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1914/105188.jpg",
+        "alt": "duel-masters-charge"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "デュエル・マスターズ　チャージ",

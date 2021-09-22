@@ -1,5 +1,9 @@
 {
     "title": "Captain Future",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/87992.jpg",
+        "alt": "captain-future"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "キャプテンフューチャー",

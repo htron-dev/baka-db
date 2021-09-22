@@ -1,5 +1,9 @@
 {
     "title": "The Animatrix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75870.jpg",
+        "alt": "the-animatrix"
+    },
     "type": "ova",
     "episodes": "9",
     "original_name": "アニマトリックス",

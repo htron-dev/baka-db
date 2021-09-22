@@ -1,5 +1,9 @@
 {
     "title": "Sono Kao Mitara, Gaman wa Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227188.jpg",
+        "alt": "sono-kao-mitara-gaman-wa-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

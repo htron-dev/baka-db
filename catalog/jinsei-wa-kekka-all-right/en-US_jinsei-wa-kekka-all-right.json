@@ -1,5 +1,9 @@
 {
     "title": "Jinsei wa Kekka All Right!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17766.jpg",
+        "alt": "jinsei-wa-kekka-all-right"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "37",

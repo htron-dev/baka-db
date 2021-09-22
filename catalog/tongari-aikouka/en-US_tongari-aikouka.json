@@ -1,5 +1,9 @@
 {
     "title": "Tongari Aikouka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171231.jpg",
+        "alt": "tongari-aikouka"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "トンガリ愛好家",

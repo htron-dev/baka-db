@@ -1,5 +1,9 @@
 {
     "title": "Pinky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/44752.jpg",
+        "alt": "pinky"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "PINKY（ピンキー）",

@@ -1,5 +1,9 @@
 {
     "title": "Hyakka Teien no Higeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24942.jpg",
+        "alt": "hyakka-teien-no-higeki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Uranaishi no Nayamigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238458.jpg",
+        "alt": "uranaishi-no-nayamigoto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "29",

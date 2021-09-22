@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama Lv2 the Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21468.jpg",
+        "alt": "ouji-sama-lv-2-the-comic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

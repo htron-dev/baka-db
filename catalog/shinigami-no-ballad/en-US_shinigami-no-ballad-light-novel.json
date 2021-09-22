@@ -1,5 +1,9 @@
 {
     "title": "Shinigami no Ballad.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148457.jpg",
+        "alt": "shinigami-no-ballad"
+    },
     "type": "light-novel",
     "volumes": "12",
     "original_name": "しにがみのバラッド。",

@@ -1,5 +1,9 @@
 {
     "title": "Strawberry Panic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6182.jpg",
+        "alt": "strawberry-panic"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

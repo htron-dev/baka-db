@@ -1,5 +1,9 @@
 {
     "title": "Honke no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229442.jpg",
+        "alt": "honke-no-yome"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "82",

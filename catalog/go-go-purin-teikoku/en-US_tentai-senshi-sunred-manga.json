@@ -1,5 +1,9 @@
 {
     "title": "Tentai Senshi Sunred",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17429.jpg",
+        "alt": "tentai-senshi-sunred"
+    },
     "type": "manga",
     "volumes": "20",
     "original_name": "天体戦士サンレッド",

@@ -1,5 +1,9 @@
 {
     "title": "Makui no Rease",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192166.jpg",
+        "alt": "makui-no-rease"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "53",

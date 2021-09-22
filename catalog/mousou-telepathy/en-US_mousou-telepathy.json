@@ -1,5 +1,9 @@
 {
     "title": "Mousou Telepathy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187031.jpg",
+        "alt": "mousou-telepathy"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "妄想テレパシー",

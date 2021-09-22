@@ -1,5 +1,9 @@
 {
     "title": "How to Make Her Delicious",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14645.jpg",
+        "alt": "how-to-make-her-delicious"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

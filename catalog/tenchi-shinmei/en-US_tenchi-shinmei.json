@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Shinmei!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/113809.jpg",
+        "alt": "tenchi-shinmei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

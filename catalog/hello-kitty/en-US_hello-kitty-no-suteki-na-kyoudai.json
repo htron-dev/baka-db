@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Suteki na Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/47925.jpg",
+        "alt": "hello-kitty-no-suteki-na-kyoudai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのすてきな姉妹",

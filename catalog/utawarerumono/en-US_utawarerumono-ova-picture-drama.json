@@ -1,5 +1,9 @@
 {
     "title": "Utawarerumono OVA Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/19945.jpg",
+        "alt": "utawarerumono-ova-picture-drama"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "OVA うたわれるもの",

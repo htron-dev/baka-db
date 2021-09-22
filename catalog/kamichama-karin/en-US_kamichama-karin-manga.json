@@ -1,5 +1,9 @@
 {
     "title": "Kamichama Karin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2074.jpg",
+        "alt": "kamichama-karin"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "32",

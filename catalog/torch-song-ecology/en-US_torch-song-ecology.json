@@ -1,5 +1,9 @@
 {
     "title": "Torch Song Ecology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185194.jpg",
+        "alt": "torch-song-ecology"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "VS Goshujinsama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15300.jpg",
+        "alt": "vs-goshujinsama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

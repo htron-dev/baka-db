@@ -1,5 +1,9 @@
 {
     "title": "Milk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196719.jpg",
+        "alt": "milk"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "56",

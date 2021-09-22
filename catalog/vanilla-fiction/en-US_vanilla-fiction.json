@@ -1,5 +1,9 @@
 {
     "title": "Vanilla Fiction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126635.jpg",
+        "alt": "vanilla-fiction"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "42",

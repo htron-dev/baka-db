@@ -1,5 +1,9 @@
 {
     "title": "Anime Sanjuushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13120.jpg",
+        "alt": "anime-sanjuushi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

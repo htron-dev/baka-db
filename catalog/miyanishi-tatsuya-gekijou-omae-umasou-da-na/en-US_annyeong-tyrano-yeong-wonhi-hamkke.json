@@ -1,8 +1,12 @@
 {
     "title": "Annyeong, Tyrano: Yeong-wonhi, Hamkke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1500/107634.jpg",
+        "alt": "annyeong-tyrano-yeong-wonhi-hamkke"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "안녕, 티라노",
+    "original_name": "안녕, 티라노: 영원히, 함께",
     "start_date": "2019-08-14",
     "rating": "G - All Ages",
     "tags": [

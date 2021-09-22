@@ -1,5 +1,9 @@
 {
     "title": "Shin Tekken Chinmi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75077.jpg",
+        "alt": "shin-tekken-chinmi"
+    },
     "type": "manga",
     "volumes": "20",
     "original_name": "新鉄拳チンミ",

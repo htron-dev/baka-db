@@ -1,5 +1,9 @@
 {
     "title": "Boku no Aozora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/74558.jpg",
+        "alt": "boku-no-aozora"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ぼくの青空",

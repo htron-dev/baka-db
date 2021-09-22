@@ -1,12 +1,16 @@
 {
     "title": "Tiger &amp; Bunny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/29466.jpg",
+        "alt": "tiger-amp-bunny"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "TIGER & BUNNY （タイガー・アンド・バニー）",
     "start_date": "2011-04-03",
     "end_date": "2011-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Orion wo nazoru (オリオンをなぞる)\" by UNISON SQUARE GARDEN (eps 1-13)",
+    "ending_song": "#1: \"Hoshi no Sumika (星のすみか)\" by Aobozu (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Domo-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/18406.jpg",
+        "alt": "domo-kun"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "どーもくん",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Domo_(NHK"
+            "link": "http://en.wikipedia.org/wiki/Domo_%28NHK%29"
         }
     ]
 }

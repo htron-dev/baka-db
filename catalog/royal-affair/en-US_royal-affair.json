@@ -1,5 +1,9 @@
 {
     "title": "Royal Affair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227654.jpg",
+        "alt": "royal-affair"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ロイヤル・アフェア",

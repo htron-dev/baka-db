@@ -1,5 +1,9 @@
 {
     "title": "Patta Potta Monta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/62463.jpg",
+        "alt": "patta-potta-monta"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "パッタ ポッタ モン太",

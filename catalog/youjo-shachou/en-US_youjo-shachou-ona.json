@@ -1,5 +1,9 @@
 {
     "title": "Youjo Shachou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1844/110500.jpg",
+        "alt": "youjo-shachou"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "幼女社長",

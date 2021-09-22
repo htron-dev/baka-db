@@ -1,11 +1,15 @@
 {
     "title": "Quanzhi Gaoshou Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1825/91514.jpg",
+        "alt": "quanzhi-gaoshou-specials"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "全职高手特别篇",
     "start_date": "2018-04-27",
     "end_date": "2018-04-27",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Burn, Burn My Fire Fire\" by ??? (eps 2-3)",
     "ending_song": "\"Heart for Tomorrow\" by AZA 微唱团",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

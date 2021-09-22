@@ -1,5 +1,9 @@
 {
     "title": "Mob Psycho 100",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204842.jpg",
+        "alt": "mob-psycho-100"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "109",

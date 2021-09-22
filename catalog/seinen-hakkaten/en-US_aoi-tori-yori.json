@@ -1,5 +1,9 @@
 {
     "title": "Aoi Tori yori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212988.jpg",
+        "alt": "aoi-tori-yori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

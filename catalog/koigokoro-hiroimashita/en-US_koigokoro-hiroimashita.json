@@ -1,5 +1,9 @@
 {
     "title": "Koigokoro Hiroimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221883.jpg",
+        "alt": "koigokoro-hiroimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

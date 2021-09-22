@@ -1,5 +1,9 @@
 {
     "title": "Shounen wo Kau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243390.jpg",
+        "alt": "shounen-wo-kau"
+    },
     "type": "manga",
     "original_name": "少年を飼う",
     "start_date": "2020-08-21",

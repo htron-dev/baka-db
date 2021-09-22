@@ -1,5 +1,9 @@
 {
     "title": "Osewa Yakimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2420.jpg",
+        "alt": "osewa-yakimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

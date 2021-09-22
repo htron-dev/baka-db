@@ -1,5 +1,9 @@
 {
     "title": "Jingi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152346.jpg",
+        "alt": "jingi"
+    },
     "type": "manga",
     "volumes": "33",
     "chapters": "290",

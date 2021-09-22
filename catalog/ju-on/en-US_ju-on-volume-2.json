@@ -1,5 +1,9 @@
 {
     "title": "Ju-On Volume 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3579.jpg",
+        "alt": "ju-on-volume-2"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

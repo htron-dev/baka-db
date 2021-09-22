@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Ishindenshin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224553.jpg",
+        "alt": "kimi-to-ishindenshin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Aoi Hitomi no Bakemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243662.jpg",
+        "alt": "aoi-hitomi-no-bakemono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

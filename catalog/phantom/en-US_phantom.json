@@ -1,5 +1,9 @@
 {
     "title": "Phantom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144017.jpg",
+        "alt": "phantom"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "팬텀",

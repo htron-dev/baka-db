@@ -1,5 +1,9 @@
 {
     "title": "The Rapeman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146319.jpg",
+        "alt": "the-rapeman"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "90",

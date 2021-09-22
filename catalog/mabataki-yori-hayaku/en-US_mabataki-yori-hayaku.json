@@ -1,5 +1,9 @@
 {
     "title": "Mabataki yori Hayaku!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229273.jpg",
+        "alt": "mabataki-yori-hayaku"
+    },
     "type": "manga",
     "original_name": "瞬きより迅く!!",
     "start_date": "2020-03-19",

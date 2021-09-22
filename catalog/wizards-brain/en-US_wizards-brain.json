@@ -1,5 +1,9 @@
 {
     "title": "Wizard's Brain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116403.jpg",
+        "alt": "wizards-brain"
+    },
     "type": "light-novel",
     "original_name": "ウィザーズ・ブレイン",
     "start_date": "2001-02-20",

@@ -1,5 +1,9 @@
 {
     "title": "Omumedai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53361.jpg",
+        "alt": "omumedai"
+    },
     "type": "manga",
     "original_name": "オムメダイ",
     "tags": [

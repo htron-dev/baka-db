@@ -1,5 +1,9 @@
 {
     "title": "Phi Brain: Kami no Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/34045.jpg",
+        "alt": "phi-brain-kami-no-puzzle"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ファイ・ブレイン 神のパズル",

@@ -1,5 +1,9 @@
 {
     "title": "Godzilla: S.P",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1447/114837.jpg",
+        "alt": "godzilla-s-p"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ゴジラ S.P ＜シンギュラポイント＞",

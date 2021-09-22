@@ -1,5 +1,9 @@
 {
     "title": "Card no Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3459.jpg",
+        "alt": "card-no-ousama"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "31",

@@ -1,5 +1,9 @@
 {
     "title": "Penguin no Mondai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/9560.jpg",
+        "alt": "penguin-no-mondai"
+    },
     "type": "tv-serie",
     "episodes": "100",
     "original_name": "ペンギンの問題",

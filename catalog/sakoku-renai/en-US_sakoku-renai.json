@@ -1,5 +1,9 @@
 {
     "title": "Sakoku Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162429.jpg",
+        "alt": "sakoku-renai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

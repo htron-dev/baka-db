@@ -1,5 +1,9 @@
 {
     "title": "Nar Doma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/72092.jpg",
+        "alt": "nar-doma"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ナルどマ",

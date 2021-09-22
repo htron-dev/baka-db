@@ -1,5 +1,9 @@
 {
     "title": "Ayashikotogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211542.jpg",
+        "alt": "ayashikotogatari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

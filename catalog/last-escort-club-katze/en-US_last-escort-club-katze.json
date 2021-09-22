@@ -1,5 +1,9 @@
 {
     "title": "Last Escort: Club Katze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36580.jpg",
+        "alt": "last-escort-club-katze"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

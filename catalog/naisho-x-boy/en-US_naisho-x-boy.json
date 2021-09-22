@@ -1,5 +1,9 @@
 {
     "title": "Naisho x Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7171.jpg",
+        "alt": "naisho-x-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ナイショ × ボーイ",

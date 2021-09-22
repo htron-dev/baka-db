@@ -1,5 +1,9 @@
 {
     "title": "Watashi wo Kyuujou ni Tsuretette!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209381.jpg",
+        "alt": "watashi-wo-kyuujou-ni-tsuretette"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "51",

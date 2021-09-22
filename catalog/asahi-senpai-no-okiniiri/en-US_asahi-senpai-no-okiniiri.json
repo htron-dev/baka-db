@@ -1,5 +1,9 @@
 {
     "title": "Asahi-senpai no Okiniiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202317.jpg",
+        "alt": "asahi-senpai-no-okiniiri"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Copernicus no Kokyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/37014.jpg",
+        "alt": "copernicus-no-kokyuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

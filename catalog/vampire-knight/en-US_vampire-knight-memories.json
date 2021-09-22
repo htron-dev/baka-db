@@ -1,5 +1,9 @@
 {
     "title": "Vampire Knight: Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178535.jpg",
+        "alt": "vampire-knight-memories"
+    },
     "type": "manga",
     "original_name": "ヴァンパイア騎士〈ナイト〉 memories",
     "start_date": "2013-11-08",

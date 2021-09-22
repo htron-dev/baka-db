@@ -1,5 +1,9 @@
 {
     "title": "Yuri Hyakkei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234837.jpg",
+        "alt": "yuri-hyakkei"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "百合百景",

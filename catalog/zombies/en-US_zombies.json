@@ -1,5 +1,9 @@
 {
     "title": "Zombies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236839.jpg",
+        "alt": "zombies"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ZOMBIES",

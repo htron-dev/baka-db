@@ -1,5 +1,9 @@
 {
     "title": "Afuresou na Pool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26055.jpg",
+        "alt": "afuresou-na-pool"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "33",

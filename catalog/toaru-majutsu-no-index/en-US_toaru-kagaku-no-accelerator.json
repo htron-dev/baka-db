@@ -1,5 +1,9 @@
 {
     "title": "Toaru Kagaku no Accelerator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1160/99995.jpg",
+        "alt": "toaru-kagaku-no-accelerator"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "とある科学の一方通行〈アクセラレータ〉",

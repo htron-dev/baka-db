@@ -1,5 +1,9 @@
 {
     "title": "Shinitagari no Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226411.jpg",
+        "alt": "shinitagari-no-vampire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

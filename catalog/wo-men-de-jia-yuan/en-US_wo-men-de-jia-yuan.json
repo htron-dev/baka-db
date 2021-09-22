@@ -1,5 +1,9 @@
 {
     "title": "Wo Men De Jia Yuan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1529/115343.jpg",
+        "alt": "wo-men-de-jia-yuan"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "我们的家园",

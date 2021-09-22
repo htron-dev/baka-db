@@ -1,5 +1,9 @@
 {
     "title": "Mim Mam Mint",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/77757.jpg",
+        "alt": "mim-mam-mint"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "ミムマムミント",

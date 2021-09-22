@@ -1,5 +1,9 @@
 {
     "title": "Bitter Playmate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247309.jpg",
+        "alt": "bitter-playmate"
+    },
     "type": "manga",
     "original_name": "ビタープレイメイト",
     "start_date": "2021-06-25",

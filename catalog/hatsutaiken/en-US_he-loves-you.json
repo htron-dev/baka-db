@@ -1,5 +1,9 @@
 {
     "title": "He Loves You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82194.jpg",
+        "alt": "he-loves-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

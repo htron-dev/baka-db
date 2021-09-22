@@ -1,12 +1,16 @@
 {
     "title": "Madan no Ou to Vanadis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/64911.jpg",
+        "alt": "madan-no-ou-to-vanadis"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "魔弾の王と戦姫 (ヴァナディース)",
     "start_date": "2014-10-04",
     "end_date": "2014-10-04",
     "opening_song": "\"Ginsen no Kaze (銀閃の風)\" by Konomi Suzuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Schwarzer Bogen\" by Hitomi Harada (eps 1-9, 11-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "adventure",

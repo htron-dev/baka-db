@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Miniskirt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223984.jpg",
+        "alt": "sayonara-miniskirt"
+    },
     "type": "manga",
     "original_name": "さよならミニスカート",
     "start_date": "2018-08-03",

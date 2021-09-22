@@ -1,5 +1,9 @@
 {
     "title": "Oukoku no Kagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/32700.jpg",
+        "alt": "oukoku-no-kagi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

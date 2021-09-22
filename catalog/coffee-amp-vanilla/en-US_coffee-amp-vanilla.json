@@ -1,5 +1,9 @@
 {
     "title": "Coffee &amp; Vanilla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171393.jpg",
+        "alt": "coffee-amp-vanilla"
+    },
     "type": "manga",
     "original_name": "コーヒー＆バニラ",
     "start_date": "2015-04-24",

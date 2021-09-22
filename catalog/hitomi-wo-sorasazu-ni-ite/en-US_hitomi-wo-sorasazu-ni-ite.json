@@ -1,5 +1,9 @@
 {
     "title": "Hitomi wo Sorasazu ni Ite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14327.jpg",
+        "alt": "hitomi-wo-sorasazu-ni-ite"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "瞳をそらさずにいて",

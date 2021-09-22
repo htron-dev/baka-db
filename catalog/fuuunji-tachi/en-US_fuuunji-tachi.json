@@ -1,5 +1,9 @@
 {
     "title": "Fuuunji-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241439.jpg",
+        "alt": "fuuunji-tachi"
+    },
     "type": "manga",
     "volumes": "30",
     "original_name": "風雲児たち",

@@ -1,5 +1,9 @@
 {
     "title": "Numa, Kurayami, Yoru no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151404.jpg",
+        "alt": "numa-kurayami-yoru-no-mori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

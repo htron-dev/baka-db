@@ -1,5 +1,9 @@
 {
     "title": "Tensei shitara Slime Datta Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152383.jpg",
+        "alt": "tensei-shitara-slime-datta-ken"
+    },
     "type": "light-novel",
     "original_name": "転生したらスライムだった件",
     "start_date": "2014-05-30",

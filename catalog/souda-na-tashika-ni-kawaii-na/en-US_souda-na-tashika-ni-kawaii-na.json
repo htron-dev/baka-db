@@ -1,5 +1,9 @@
 {
     "title": "Souda na, Tashika ni Kawaii na",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235659.jpg",
+        "alt": "souda-na-tashika-ni-kawaii-na"
+    },
     "type": "light-novel",
     "original_name": "そうだな、確かに可愛いな",
     "start_date": "2020-02-25",

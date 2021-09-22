@@ -1,5 +1,9 @@
 {
     "title": "Digimon Adventure 3D: Digimon Grand Prix!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/22649.jpg",
+        "alt": "digimon-adventure-3-d-digimon-grand-prix"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デジモンアドベンチャー 3D デジモングランプリ！",

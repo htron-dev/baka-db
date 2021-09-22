@@ -1,5 +1,9 @@
 {
     "title": "Tsuki wo Mezasu, Hoshi ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228713.jpg",
+        "alt": "tsuki-wo-mezasu-hoshi-ni-naru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

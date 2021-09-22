@@ -1,5 +1,9 @@
 {
     "title": "Café☆Griefseed e Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157878.jpg",
+        "alt": "cafe☆-griefseed-e-youkoso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

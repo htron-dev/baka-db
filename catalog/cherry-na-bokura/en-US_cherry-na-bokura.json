@@ -1,5 +1,9 @@
 {
     "title": "Cherry na Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169564.jpg",
+        "alt": "cherry-na-bokura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

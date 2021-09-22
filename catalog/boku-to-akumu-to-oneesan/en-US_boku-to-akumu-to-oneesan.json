@@ -1,5 +1,9 @@
 {
     "title": "Boku to Akumu to Oneesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236761.jpg",
+        "alt": "boku-to-akumu-to-oneesan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

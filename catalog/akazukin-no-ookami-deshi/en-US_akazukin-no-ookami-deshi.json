@@ -1,5 +1,9 @@
 {
     "title": "Akazukin no Ookami Deshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206381.jpg",
+        "alt": "akazukin-no-ookami-deshi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

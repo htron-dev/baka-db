@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Super",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176933.jpg",
+        "alt": "dragon-ball-super"
+    },
     "type": "manga",
     "original_name": "ドラゴンボール超〈スーパー〉",
     "start_date": "2015-06-20",

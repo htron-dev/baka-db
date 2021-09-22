@@ -1,5 +1,9 @@
 {
     "title": "Ura Account Joshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235298.jpg",
+        "alt": "ura-account-joshi"
+    },
     "type": "manga",
     "original_name": "ウラアカジョシ",
     "start_date": "2019-09-17",

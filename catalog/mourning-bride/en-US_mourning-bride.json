@@ -1,5 +1,9 @@
 {
     "title": "Mourning Bride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205752.jpg",
+        "alt": "mourning-bride"
+    },
     "type": "manga",
     "original_name": "Mouring Bride",
     "start_date": "2017-05-17",

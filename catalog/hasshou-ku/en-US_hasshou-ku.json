@@ -1,5 +1,9 @@
 {
     "title": "Hasshou-ku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182621.jpg",
+        "alt": "hasshou-ku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

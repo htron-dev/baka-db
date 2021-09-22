@@ -1,5 +1,9 @@
 {
     "title": "Shinyuu to H shitemimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223755.jpg",
+        "alt": "shinyuu-to-h-shitemimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

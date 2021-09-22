@@ -1,5 +1,9 @@
 {
     "title": "Deadman Wonderland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186275.jpg",
+        "alt": "deadman-wonderland"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "58",

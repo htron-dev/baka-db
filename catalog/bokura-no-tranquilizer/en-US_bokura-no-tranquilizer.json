@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Tranquilizer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198566.jpg",
+        "alt": "bokura-no-tranquilizer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

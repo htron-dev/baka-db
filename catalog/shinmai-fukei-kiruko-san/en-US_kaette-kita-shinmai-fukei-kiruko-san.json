@@ -1,5 +1,9 @@
 {
     "title": "Kaette Kita! Shinmai Fukei Kiruko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150414.jpg",
+        "alt": "kaette-kita-shinmai-fukei-kiruko-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

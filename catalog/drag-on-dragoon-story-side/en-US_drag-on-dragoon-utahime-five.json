@@ -1,5 +1,9 @@
 {
     "title": "Drag-On Dragoon: Utahime Five",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114619.jpg",
+        "alt": "drag-on-dragoon-utahime-five"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Lemon Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231024.jpg",
+        "alt": "lemon-angel"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "111",

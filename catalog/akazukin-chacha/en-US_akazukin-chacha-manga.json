@@ -1,5 +1,9 @@
 {
     "title": "Akazukin Chacha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/248394.jpg",
+        "alt": "akazukin-chacha"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "94",

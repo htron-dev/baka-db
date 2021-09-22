@@ -1,5 +1,9 @@
 {
     "title": "Fly-High!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/127745.jpg",
+        "alt": "fly-high"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

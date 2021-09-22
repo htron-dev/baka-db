@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Tensai wo Katteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196167.jpg",
+        "alt": "watashi-wa-tensai-wo-katteiru"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

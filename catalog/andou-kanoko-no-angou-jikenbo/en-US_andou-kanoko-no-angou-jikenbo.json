@@ -1,5 +1,9 @@
 {
     "title": "Andou Kanoko no Angou Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239903.jpg",
+        "alt": "andou-kanoko-no-angou-jikenbo"
+    },
     "type": "manga",
     "original_name": "安堂鍵乃子の暗号事件簿",
     "start_date": "2020-05-02",

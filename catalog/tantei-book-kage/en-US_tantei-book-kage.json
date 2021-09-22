@@ -1,5 +1,9 @@
 {
     "title": "Tantei Book: Kage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158232.jpg",
+        "alt": "tantei-book-kage"
+    },
     "type": "manga",
     "volumes": "119",
     "original_name": "探偵ブック 影",

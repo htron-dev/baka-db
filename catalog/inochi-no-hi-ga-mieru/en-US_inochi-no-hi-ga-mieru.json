@@ -1,5 +1,9 @@
 {
     "title": "Inochi no hi ga mieru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52391.jpg",
+        "alt": "inochi-no-hi-ga-mieru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

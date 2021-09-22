@@ -1,5 +1,9 @@
 {
     "title": "Yuusha Vog Ramba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206031.jpg",
+        "alt": "yuusha-vog-ramba"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

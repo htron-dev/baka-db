@@ -1,5 +1,9 @@
 {
     "title": "Nishiouji-kun ni Kokuhaku Saremashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202316.jpg",
+        "alt": "nishiouji-kun-ni-kokuhaku-saremashita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

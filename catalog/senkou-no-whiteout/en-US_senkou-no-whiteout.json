@@ -1,5 +1,9 @@
 {
     "title": "Senkou no Whiteout",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108333.jpg",
+        "alt": "senkou-no-whiteout"
+    },
     "type": "light-novel",
     "original_name": "閃光のホワイトアウト",
     "start_date": "2013-12-03",

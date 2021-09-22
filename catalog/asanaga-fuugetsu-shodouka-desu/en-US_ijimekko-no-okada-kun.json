@@ -1,5 +1,9 @@
 {
     "title": "Ijimekko no Okada-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64181.jpg",
+        "alt": "ijimekko-no-okada-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

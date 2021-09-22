@@ -1,5 +1,9 @@
 {
     "title": "Tonikaku Kawaii: Kaisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1980/110984.jpg",
+        "alt": "tonikaku-kawaii-kaisou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "トニカクカワイイ 総集編 回想",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_(manga"
+            "link": "https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_%28manga%29#Anime"
         }
     ]
 }

@@ -1,11 +1,15 @@
 {
     "title": "Geisters: Fractions of the Earth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/4728.jpg",
+        "alt": "geisters-fractions-of-the-earth"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ガイスターズ FRACTIONS OF THE EARTH",
     "start_date": "2001-10-06",
     "end_date": "2001-10-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Hold On\" by WILD PEACH (ep 1-13)",
     "ending_song": "\"True Answer\" by Joelle",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

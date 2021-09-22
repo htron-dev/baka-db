@@ -1,5 +1,9 @@
 {
     "title": "Personalized Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25285.jpg",
+        "alt": "personalized-princess"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "나만의 공주님",

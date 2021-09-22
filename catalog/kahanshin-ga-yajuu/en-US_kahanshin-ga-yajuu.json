@@ -1,5 +1,9 @@
 {
     "title": "Kahanshin ga Yajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32550.jpg",
+        "alt": "kahanshin-ga-yajuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Magaimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229217.jpg",
+        "alt": "magaimono"
+    },
     "type": "manga",
     "original_name": "マガイモノ",
     "start_date": "2019-09-06",

@@ -1,5 +1,9 @@
 {
     "title": "Tabidachi: Ami Shuushou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/11662.jpg",
+        "alt": "tabidachi-ami-shuushou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "旅立ち　-亜美・終章-",

@@ -1,5 +1,9 @@
 {
     "title": "Pet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155140.jpg",
+        "alt": "pet"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "55",

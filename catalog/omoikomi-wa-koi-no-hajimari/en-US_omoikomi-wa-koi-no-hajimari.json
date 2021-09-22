@@ -1,5 +1,9 @@
 {
     "title": "Omoikomi wa Koi no Hajimari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112575.jpg",
+        "alt": "omoikomi-wa-koi-no-hajimari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

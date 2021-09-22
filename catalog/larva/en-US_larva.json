@@ -1,5 +1,9 @@
 {
     "title": "Larva",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76007.jpg",
+        "alt": "larva"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "라바",

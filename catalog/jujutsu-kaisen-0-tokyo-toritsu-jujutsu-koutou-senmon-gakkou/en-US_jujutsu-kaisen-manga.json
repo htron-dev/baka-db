@@ -1,5 +1,9 @@
 {
     "title": "Jujutsu Kaisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210341.jpg",
+        "alt": "jujutsu-kaisen"
+    },
     "type": "manga",
     "original_name": "呪術廻戦",
     "start_date": "2018-03-05",

@@ -1,5 +1,9 @@
 {
     "title": "Akuyaku Tensei dakedo Doushite Kou Natta.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235250.jpg",
+        "alt": "akuyaku-tensei-dakedo-doushite-kou-natta"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "悪役転生だけどどうしてこうなった。",

@@ -1,5 +1,9 @@
 {
     "title": "Poccolies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1806/105533.jpg",
+        "alt": "poccolies"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ぽっこりーず",

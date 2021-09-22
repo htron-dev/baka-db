@@ -1,5 +1,9 @@
 {
     "title": "KimiKiss: After Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33597.jpg",
+        "alt": "kimi-kiss-after-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

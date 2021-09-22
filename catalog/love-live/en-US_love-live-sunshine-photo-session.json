@@ -1,5 +1,9 @@
 {
     "title": "Love Live! Sunshine!! Photo Session",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1402/105711.jpg",
+        "alt": "love-live-sunshine-photo-session"
+    },
     "type": "movie",
     "episodes": "10",
     "original_name": "ラブライブ！サンシャイン!!フォトセッション",

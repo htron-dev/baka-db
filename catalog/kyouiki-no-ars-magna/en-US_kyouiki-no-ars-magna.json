@@ -1,5 +1,9 @@
 {
     "title": "Kyouiki no Ars Magna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200620.jpg",
+        "alt": "kyouiki-no-ars-magna"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Kagami no Mukou no Saihate Toshokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240700.jpg",
+        "alt": "kagami-no-mukou-no-saihate-toshokan"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "鏡のむこうの最果て図書館",

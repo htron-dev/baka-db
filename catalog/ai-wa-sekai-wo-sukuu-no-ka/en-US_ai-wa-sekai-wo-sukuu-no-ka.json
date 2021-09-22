@@ -1,5 +1,9 @@
 {
     "title": "Ai wa Sekai wo Sukuu no ka!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166779.jpg",
+        "alt": "ai-wa-sekai-wo-sukuu-no-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

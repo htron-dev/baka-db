@@ -1,5 +1,9 @@
 {
     "title": "Binetsu Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3365.jpg",
+        "alt": "binetsu-shoujo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "58",

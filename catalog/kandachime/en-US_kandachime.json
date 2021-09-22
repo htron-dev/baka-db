@@ -1,5 +1,9 @@
 {
     "title": "Kandachime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/52913.jpg",
+        "alt": "kandachime"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "45",

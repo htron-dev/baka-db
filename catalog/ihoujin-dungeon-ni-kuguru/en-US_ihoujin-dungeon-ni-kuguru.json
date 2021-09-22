@@ -1,5 +1,9 @@
 {
     "title": "Ihoujin, Dungeon ni Kuguru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226572.jpg",
+        "alt": "ihoujin-dungeon-ni-kuguru"
+    },
     "type": "manga",
     "original_name": "異邦人、ダンジョンに潜る。",
     "start_date": "2019-09-26",

@@ -1,5 +1,9 @@
 {
     "title": "Hamidashi CoroCoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/85457.jpg",
+        "alt": "hamidashi-coro-coro"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "はみだしコロコロ",

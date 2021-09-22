@@ -1,5 +1,9 @@
 {
     "title": "Whistle!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160208.jpg",
+        "alt": "whistle"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "216",

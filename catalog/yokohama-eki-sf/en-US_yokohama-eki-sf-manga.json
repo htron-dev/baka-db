@@ -1,5 +1,9 @@
 {
     "title": "Yokohama-eki SF",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199269.jpg",
+        "alt": "yokohama-eki-sf"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

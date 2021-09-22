@@ -1,5 +1,9 @@
 {
     "title": "Gensou Suikoden: Soul Eater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150023.jpg",
+        "alt": "gensou-suikoden-soul-eater"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "幻想水滸伝 ソウルイーター",

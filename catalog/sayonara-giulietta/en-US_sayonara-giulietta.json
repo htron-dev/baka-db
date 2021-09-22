@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Giulietta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179928.jpg",
+        "alt": "sayonara-giulietta"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

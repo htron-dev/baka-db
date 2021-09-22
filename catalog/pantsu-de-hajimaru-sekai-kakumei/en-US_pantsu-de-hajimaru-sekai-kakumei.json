@@ -1,5 +1,9 @@
 {
     "title": "Pantsu de Hajimaru Sekai Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131741.jpg",
+        "alt": "pantsu-de-hajimaru-sekai-kakumei"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "パンツではじまる世界革命",

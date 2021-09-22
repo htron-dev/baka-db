@@ -1,5 +1,9 @@
 {
     "title": "Hard Boiled Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181530.jpg",
+        "alt": "hard-boiled-angel"
+    },
     "type": "manhwa",
     "volumes": "3",
     "original_name": "엔젤 딕",

@@ -1,5 +1,9 @@
 {
     "title": "Rose of the Rhine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5914.jpg",
+        "alt": "rose-of-the-rhine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

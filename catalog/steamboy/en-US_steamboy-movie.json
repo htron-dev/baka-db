@@ -1,5 +1,9 @@
 {
     "title": "Steamboy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/21278.jpg",
+        "alt": "steamboy"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スチームボーイ",

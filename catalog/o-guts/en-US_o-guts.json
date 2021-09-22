@@ -1,5 +1,9 @@
 {
     "title": "O-Guts!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79055.jpg",
+        "alt": "o-guts"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "オガッツ！",

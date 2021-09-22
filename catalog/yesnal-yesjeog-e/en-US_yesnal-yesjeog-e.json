@@ -1,5 +1,9 @@
 {
     "title": "Yesnal Yesjeog-e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1081/115324.jpg",
+        "alt": "yesnal-yesjeog-e"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "옛날 옛적에",
@@ -15,7 +19,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ko.wikipedia.org/wiki/%EC%98%9B%EB%82%A0_%EC%98%9B%EC%A0%81%EC%97%90_(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98"
+            "link": "https://ko.wikipedia.org/wiki/%EC%98%9B%EB%82%A0_%EC%98%9B%EC%A0%81%EC%97%90_%28%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%29"
         }
     ]
 }

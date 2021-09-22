@@ -1,5 +1,9 @@
 {
     "title": "Ice Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164502.jpg",
+        "alt": "ice-age"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "63",

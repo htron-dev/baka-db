@@ -1,5 +1,9 @@
 {
     "title": "Weapon Geek",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208942.jpg",
+        "alt": "weapon-geek"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

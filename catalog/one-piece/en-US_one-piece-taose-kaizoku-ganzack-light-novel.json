@@ -1,5 +1,9 @@
 {
     "title": "One Piece: Taose! Kaizoku Ganzack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178412.jpg",
+        "alt": "one-piece-taose-kaizoku-ganzack"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ONE PIECE 倒せ!海賊ギャンザック",

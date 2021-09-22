@@ -1,12 +1,16 @@
 {
     "title": "Fairy Gone 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1799/114023.jpg",
+        "alt": "fairy-gone-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Fairy gone フェアリーゴーン 第 2 期",
     "start_date": "2019-10-07",
     "end_date": "2019-10-07",
-    "opening_song": "\"STILL STANDING\" by (K)NoW_NAME",
-    "ending_song": "\"Stay Gold\" by (K)NoW_NAME",
+    "opening_song": "\"STILL STANDING\" by (K)NoW_NAME:Ayaka Tachibana & NIKIIE & AIJ",
+    "ending_song": "\"Stay Gold\" by (K)NoW_NAME:Ayaka Tachibana",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

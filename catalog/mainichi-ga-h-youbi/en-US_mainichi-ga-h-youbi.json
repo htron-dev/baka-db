@@ -1,5 +1,9 @@
 {
     "title": "Mainichi ga H Youbi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12551.jpg",
+        "alt": "mainichi-ga-h-youbi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

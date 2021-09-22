@@ -1,5 +1,9 @@
 {
     "title": "Hakuryuu Izayoi den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41026.jpg",
+        "alt": "hakuryuu-izayoi-den"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "白龍十六夜伝",

@@ -1,5 +1,9 @@
 {
     "title": "Jewelry★Eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/112405.jpg",
+        "alt": "jewelry★-eyes"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

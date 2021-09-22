@@ -1,5 +1,9 @@
 {
     "title": "Youko-san wa Kakkoii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203463.jpg",
+        "alt": "youko-san-wa-kakkoii"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

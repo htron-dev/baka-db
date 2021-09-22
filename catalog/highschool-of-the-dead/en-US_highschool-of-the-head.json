@@ -1,5 +1,9 @@
 {
     "title": "Highschool of the Head",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166342.jpg",
+        "alt": "highschool-of-the-head"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

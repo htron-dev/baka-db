@@ -1,5 +1,9 @@
 {
     "title": "Mama wa Sports Doctor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209575.jpg",
+        "alt": "mama-wa-sports-doctor"
+    },
     "type": "manga",
     "original_name": "ママはスポーツドクター",
     "start_date": "2017-04-28",

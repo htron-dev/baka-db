@@ -1,5 +1,9 @@
 {
     "title": "Take Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163.jpg",
+        "alt": "take-moon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "29",

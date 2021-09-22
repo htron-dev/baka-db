@@ -1,5 +1,9 @@
 {
     "title": "Yumeguri!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242502.jpg",
+        "alt": "yumeguri"
+    },
     "type": "manga",
     "original_name": "ゆめぐりっ!",
     "start_date": "2020-05-22",

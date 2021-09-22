@@ -1,5 +1,9 @@
 {
     "title": "Kedamono Bitch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227227.jpg",
+        "alt": "kedamono-bitch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

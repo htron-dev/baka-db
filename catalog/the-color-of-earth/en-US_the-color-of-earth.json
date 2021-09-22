@@ -1,5 +1,9 @@
 {
     "title": "The Color of Earth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/197449.jpg",
+        "alt": "the-color-of-earth"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "30",

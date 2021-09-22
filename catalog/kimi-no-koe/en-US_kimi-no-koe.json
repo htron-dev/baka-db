@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Koe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237214.jpg",
+        "alt": "kimi-no-koe"
+    },
     "type": "manga",
     "original_name": "君ノ声",
     "start_date": "2020-06-30",

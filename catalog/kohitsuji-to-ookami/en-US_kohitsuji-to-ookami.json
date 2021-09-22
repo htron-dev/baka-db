@@ -1,5 +1,9 @@
 {
     "title": "Kohitsuji to Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25118.jpg",
+        "alt": "kohitsuji-to-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

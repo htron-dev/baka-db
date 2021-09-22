@@ -1,5 +1,9 @@
 {
     "title": "Money Virus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18778.jpg",
+        "alt": "money-virus"
+    },
     "type": "manhwa",
     "volumes": "11",
     "tags": [

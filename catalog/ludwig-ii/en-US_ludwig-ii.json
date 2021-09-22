@@ -1,5 +1,9 @@
 {
     "title": "Ludwig II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37640.jpg",
+        "alt": "ludwig-ii"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

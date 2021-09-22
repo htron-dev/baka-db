@@ -1,5 +1,9 @@
 {
     "title": "Kiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117595.jpg",
+        "alt": "kiku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Kindan no Shirayukihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137379.jpg",
+        "alt": "manga-grimm-douwa-kindan-no-shirayukihime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

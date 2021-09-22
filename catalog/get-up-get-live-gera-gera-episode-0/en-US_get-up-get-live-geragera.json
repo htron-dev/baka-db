@@ -1,5 +1,9 @@
 {
     "title": "Get Up! Get Live! #Geragera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1523/108199.jpg",
+        "alt": "get-up-get-live-geragera"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "GETUP! GETLIVE! #げらげら",

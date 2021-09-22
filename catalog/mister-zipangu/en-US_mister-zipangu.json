@@ -1,5 +1,9 @@
 {
     "title": "Mister Zipangu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149057.jpg",
+        "alt": "mister-zipangu"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "78",

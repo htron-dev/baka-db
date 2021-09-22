@@ -1,5 +1,9 @@
 {
     "title": "Mini Moni Yaru no da Pyon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/17812.jpg",
+        "alt": "mini-moni-yaru-no-da-pyon"
+    },
     "type": "tv-serie",
     "episodes": "66",
     "original_name": "ミニモニ。やるのだぴょん",

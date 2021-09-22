@@ -1,5 +1,9 @@
 {
     "title": "Toshokan Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63627.jpg",
+        "alt": "toshokan-sensou"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty to Miyou: Nihon Mukashibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/84571.jpg",
+        "alt": "hello-kitty-to-miyou-nihon-mukashibanashi"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "ハローキティと見よう日本むかしばなし",

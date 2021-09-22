@@ -1,5 +1,9 @@
 {
     "title": "Shakunetsu no Escudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153043.jpg",
+        "alt": "shakunetsu-no-escudo"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "31",

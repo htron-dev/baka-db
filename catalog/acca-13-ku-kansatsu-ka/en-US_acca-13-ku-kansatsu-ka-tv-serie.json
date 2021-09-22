@@ -1,12 +1,16 @@
 {
     "title": "ACCA: 13-ku Kansatsu-ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/83776.jpg",
+        "alt": "acca-13-ku-kansatsu-ka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ACCA 13 区監察課",
     "start_date": "2017-01-10",
     "end_date": "2017-01-10",
     "opening_song": "\"Shadow and Truth\" by ONE III NOTES",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Pale Moon ga Yureteru (ペールムーンがゆれてる)\" by Aira Yuuki (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

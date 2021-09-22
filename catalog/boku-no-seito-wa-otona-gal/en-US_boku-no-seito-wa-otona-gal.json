@@ -1,5 +1,9 @@
 {
     "title": "Boku no Seito wa Otona Gal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/250326.jpg",
+        "alt": "boku-no-seito-wa-otona-gal"
+    },
     "type": "manga",
     "original_name": "僕の生徒はオトナギャル",
     "start_date": "2021-02-23",

@@ -1,5 +1,9 @@
 {
     "title": "Iita-san Payload",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180410.jpg",
+        "alt": "iita-san-payload"
+    },
     "type": "manga",
     "original_name": "イイタさんペイロード",
     "start_date": "2010-11-02",

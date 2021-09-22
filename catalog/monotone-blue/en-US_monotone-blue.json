@@ -1,5 +1,9 @@
 {
     "title": "Monotone Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245820.jpg",
+        "alt": "monotone-blue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

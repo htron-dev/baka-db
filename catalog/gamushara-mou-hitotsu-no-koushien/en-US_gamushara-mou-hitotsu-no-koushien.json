@@ -1,5 +1,9 @@
 {
     "title": "Gamushara: Mou Hitotsu no Koushien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/102453.jpg",
+        "alt": "gamushara-mou-hitotsu-no-koushien"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "がむしゃら -もうひとつの甲子園-",

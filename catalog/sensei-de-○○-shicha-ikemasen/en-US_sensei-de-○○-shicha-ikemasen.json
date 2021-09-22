@@ -1,5 +1,9 @@
 {
     "title": "Sensei de ○○ Shicha Ikemasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235094.jpg",
+        "alt": "sensei-de-○○-shicha-ikemasen"
+    },
     "type": "manga",
     "original_name": "先生で ○○ しちゃいけません!",
     "start_date": "2019-04-30",

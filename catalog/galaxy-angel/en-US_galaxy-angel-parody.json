@@ -1,5 +1,9 @@
 {
     "title": "Galaxy Angel Parody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5232.jpg",
+        "alt": "galaxy-angel-parody"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ギャラクシーエンジェルパロディ",

@@ -1,5 +1,9 @@
 {
     "title": "Kizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36020.jpg",
+        "alt": "kizu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

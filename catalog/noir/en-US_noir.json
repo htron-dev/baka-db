@@ -1,5 +1,9 @@
 {
     "title": "Noir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1054/96577.jpg",
+        "alt": "noir"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ノワール",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Noir_(anime"
+            "link": "http://en.wikipedia.org/wiki/Noir_%28anime%29"
         }
     ]
 }

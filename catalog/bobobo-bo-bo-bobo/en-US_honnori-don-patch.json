@@ -1,5 +1,9 @@
 {
     "title": "Honnori! Don Patch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162056.jpg",
+        "alt": "honnori-don-patch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

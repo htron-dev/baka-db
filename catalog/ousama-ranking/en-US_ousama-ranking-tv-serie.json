@@ -1,5 +1,9 @@
 {
     "title": "Ousama Ranking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1347/117616.jpg",
+        "alt": "ousama-ranking"
+    },
     "type": "tv-serie",
     "original_name": "王様ランキング",
     "start_date": "2021-10-20",

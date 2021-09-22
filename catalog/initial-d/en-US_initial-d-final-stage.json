@@ -1,12 +1,16 @@
 {
     "title": "Initial D Final Stage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1404/101364.jpg",
+        "alt": "initial-d-final-stage"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "頭文字 Final Stage",
     "start_date": "2014-05-16",
     "end_date": "2014-05-16",
     "opening_song": "\"Outsoar The Rainbow\" by m.o.v.e",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gamble Rumble\" by m.o.v.e (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports",

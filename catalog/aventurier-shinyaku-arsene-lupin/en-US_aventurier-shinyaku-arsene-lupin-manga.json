@@ -1,5 +1,9 @@
 {
     "title": "Aventurier: Shinyaku Arsène Lupin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67773.jpg",
+        "alt": "aventurier-shinyaku-arsene-lupin"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

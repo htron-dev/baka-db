@@ -1,5 +1,9 @@
 {
     "title": "Kocchi Muite Waratte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109159.jpg",
+        "alt": "kocchi-muite-waratte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

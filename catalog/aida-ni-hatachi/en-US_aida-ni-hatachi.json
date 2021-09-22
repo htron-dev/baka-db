@@ -1,5 +1,9 @@
 {
     "title": "Aida ni Hatachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226241.jpg",
+        "alt": "aida-ni-hatachi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "53",

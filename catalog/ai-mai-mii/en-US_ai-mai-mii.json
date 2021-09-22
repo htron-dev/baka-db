@@ -1,5 +1,9 @@
 {
     "title": "Ai Mai Mii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123619.jpg",
+        "alt": "ai-mai-mii"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "あいまいみー",

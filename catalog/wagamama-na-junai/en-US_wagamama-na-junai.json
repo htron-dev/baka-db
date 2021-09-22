@@ -1,5 +1,9 @@
 {
     "title": "Wagamama na Junai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/142271.jpg",
+        "alt": "wagamama-na-junai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

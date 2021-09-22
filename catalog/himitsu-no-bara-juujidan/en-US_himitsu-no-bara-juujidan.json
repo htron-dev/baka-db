@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Bara Juujidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72101.jpg",
+        "alt": "himitsu-no-bara-juujidan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

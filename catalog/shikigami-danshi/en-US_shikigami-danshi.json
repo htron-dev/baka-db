@@ -1,5 +1,9 @@
 {
     "title": "Shikigami Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168282.jpg",
+        "alt": "shikigami-danshi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

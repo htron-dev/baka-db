@@ -1,5 +1,9 @@
 {
     "title": "Prince Charming",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157035.jpg",
+        "alt": "prince-charming"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

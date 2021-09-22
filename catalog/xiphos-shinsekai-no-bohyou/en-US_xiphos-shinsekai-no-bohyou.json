@@ -1,5 +1,9 @@
 {
     "title": "Xiphos - Shinsekai no Bohyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17959.jpg",
+        "alt": "xiphos-shinsekai-no-bohyou"
+    },
     "type": "manga",
     "original_name": "サイフォス 新世界の墓標",
     "start_date": "2004-01-20",

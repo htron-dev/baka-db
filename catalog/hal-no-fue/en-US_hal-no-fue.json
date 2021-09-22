@@ -1,5 +1,9 @@
 {
     "title": "Hal no Fue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/74094.jpg",
+        "alt": "hal-no-fue"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハルのふえ",

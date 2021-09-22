@@ -1,5 +1,9 @@
 {
     "title": "Shuuen no Elysion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166266.jpg",
+        "alt": "shuuen-no-elysion"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

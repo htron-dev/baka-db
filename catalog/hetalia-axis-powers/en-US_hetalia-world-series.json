@@ -1,12 +1,16 @@
 {
     "title": "Hetalia World Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75792.jpg",
+        "alt": "hetalia-world-series"
+    },
     "type": "ona",
     "episodes": "48",
     "original_name": "ヘタリア Ｗ orld Series",
     "start_date": "2010-03-26",
     "end_date": "2010-03-26",
     "opening_song": "\"Hetalia no Ooinaru Sekai (ヘタリアの大いなる世界) (Hetalia, World's Greatest) by Conisch (コーニッシュ)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Marukaite Chikyuu (Italy version)\" by Daisuke Namikawa (eps 1, 4, 8)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

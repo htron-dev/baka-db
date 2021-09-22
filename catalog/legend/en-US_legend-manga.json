@@ -1,5 +1,9 @@
 {
     "title": "Legend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180328.jpg",
+        "alt": "legend"
+    },
     "type": "manga",
     "original_name": "レジェンド",
     "start_date": "2015-09-09",

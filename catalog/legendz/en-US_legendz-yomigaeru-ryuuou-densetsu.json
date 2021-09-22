@@ -1,12 +1,16 @@
 {
     "title": "Legendz: Yomigaeru Ryuuou Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/23555.jpg",
+        "alt": "legendz-yomigaeru-ryuuou-densetsu"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "レジェンズ 甦る竜王伝説",
     "start_date": "2004-04-04",
     "end_date": "2004-04-04",
     "opening_song": "\"Kaze no Legends\" by Kyoko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dounimo Tomaranai~Nonstop\" by Brenda Vaughn (eps 1-37)",
     "rating": "G - All Ages",
     "tags": [
         "action",

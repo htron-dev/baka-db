@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Ko Poron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/31037.jpg",
+        "alt": "hoshi-no-ko-poron"
+    },
     "type": "tv-serie",
     "episodes": "260",
     "original_name": "星の子ポロン",

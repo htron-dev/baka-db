@@ -1,5 +1,9 @@
 {
     "title": "Asami-kun wa Gachi Koi ja Nai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224255.jpg",
+        "alt": "asami-kun-wa-gachi-koi-ja-nai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "46",

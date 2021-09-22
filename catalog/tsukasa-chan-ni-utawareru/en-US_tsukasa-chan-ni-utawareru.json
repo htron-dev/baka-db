@@ -1,5 +1,9 @@
 {
     "title": "Tsukasa-chan ni Utawareru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244790.jpg",
+        "alt": "tsukasa-chan-ni-utawareru"
+    },
     "type": "manga",
     "original_name": "つかさちゃんに歌われる！",
     "start_date": "2021-01-23",

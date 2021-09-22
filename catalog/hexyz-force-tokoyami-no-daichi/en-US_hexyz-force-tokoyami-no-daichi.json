@@ -1,5 +1,9 @@
 {
     "title": "Hexyz Force: Tokoyami no Daichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162565.jpg",
+        "alt": "hexyz-force-tokoyami-no-daichi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

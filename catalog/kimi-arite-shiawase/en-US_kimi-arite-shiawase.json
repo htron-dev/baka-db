@@ -1,5 +1,9 @@
 {
     "title": "Kimi Arite Shiawase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246327.jpg",
+        "alt": "kimi-arite-shiawase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

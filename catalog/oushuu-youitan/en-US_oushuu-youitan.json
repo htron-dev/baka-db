@@ -1,5 +1,9 @@
 {
     "title": "Oushuu Youitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239240.jpg",
+        "alt": "oushuu-youitan"
+    },
     "type": "light-novel",
     "volumes": "25",
     "chapters": "151",

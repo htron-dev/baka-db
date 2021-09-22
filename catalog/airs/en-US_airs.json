@@ -1,5 +1,9 @@
 {
     "title": "Airs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1748/110952.jpg",
+        "alt": "airs"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "エアーズ",

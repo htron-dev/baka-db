@@ -1,11 +1,15 @@
 {
     "title": "Umayon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1032/111641.jpg",
+        "alt": "umayon"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "うまよん",
     "start_date": "2020-07-07",
     "end_date": "2020-07-07",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Pyoitto♪Halleluyah (ぴょいっと ♪ はれるや！)\" by Special Week (CV: Azumi Waki), Grass Wonder (CV: Rena Maeda), El Condor Pasa (CV: Minami Takahashi), Seiun Sky (CV: Akari Kitou), King Halo (CV: Iori Saeki) (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

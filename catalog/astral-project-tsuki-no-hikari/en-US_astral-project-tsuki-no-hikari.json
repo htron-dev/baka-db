@@ -1,5 +1,9 @@
 {
     "title": "Astral Project: Tsuki no Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/75039.jpg",
+        "alt": "astral-project-tsuki-no-hikari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

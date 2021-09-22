@@ -1,5 +1,9 @@
 {
     "title": "Puraore! Pride of Orange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1247/110693.jpg",
+        "alt": "puraore-pride-of-orange"
+    },
     "type": "tv-serie",
     "original_name": "プラオレ！～ PRIDE OF ORANGE ～",
     "start_date": "2021-10-20",

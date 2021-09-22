@@ -1,5 +1,9 @@
 {
     "title": "Kikasete yo, Koigokoro.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10876.jpg",
+        "alt": "kikasete-yo-koigokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "聞かせてよ、恋心。",

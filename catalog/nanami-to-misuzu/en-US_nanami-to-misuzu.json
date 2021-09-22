@@ -1,5 +1,9 @@
 {
     "title": "Nanami to Misuzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167432.jpg",
+        "alt": "nanami-to-misuzu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Otaku no Video",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/3817.jpg",
+        "alt": "otaku-no-video"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "おたくのビデオ",

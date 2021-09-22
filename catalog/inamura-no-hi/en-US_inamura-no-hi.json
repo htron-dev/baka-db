@@ -1,5 +1,9 @@
 {
     "title": "Inamura no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1805/99412.jpg",
+        "alt": "inamura-no-hi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "稲むらの火",

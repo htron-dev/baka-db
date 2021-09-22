@@ -1,5 +1,9 @@
 {
     "title": "Space☆Orionpics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219793.jpg",
+        "alt": "space☆-orionpics"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

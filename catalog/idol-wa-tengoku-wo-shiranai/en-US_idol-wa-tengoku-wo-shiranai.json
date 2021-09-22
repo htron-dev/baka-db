@@ -1,5 +1,9 @@
 {
     "title": "Idol wa Tengoku wo Shiranai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175249.jpg",
+        "alt": "idol-wa-tengoku-wo-shiranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

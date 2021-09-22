@@ -1,5 +1,9 @@
 {
     "title": "Pastel Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1616/98803.jpg",
+        "alt": "pastel-life"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "ぱすてるらいふ",

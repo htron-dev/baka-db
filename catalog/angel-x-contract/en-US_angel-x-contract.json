@@ -1,5 +1,9 @@
 {
     "title": "Angel x Contract",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77243.jpg",
+        "alt": "angel-x-contract"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "Angel×Contract",

@@ -1,5 +1,9 @@
 {
     "title": "Chocolate Underground",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/12400.jpg",
+        "alt": "chocolate-underground"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "チョコレート・アンダーグラウンド",

@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216403.jpg",
+        "alt": "yasashii-hikari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

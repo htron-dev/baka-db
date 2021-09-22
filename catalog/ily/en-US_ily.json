@@ -1,5 +1,9 @@
 {
     "title": "Ily.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247948.jpg",
+        "alt": "ily"
+    },
     "type": "manga",
     "original_name": "ILY.",
     "start_date": "2020-07-23",

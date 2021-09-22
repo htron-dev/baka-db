@@ -1,5 +1,9 @@
 {
     "title": "Star Wars: Arata naru Kibou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179217.jpg",
+        "alt": "star-wars-arata-naru-kibou"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "STAR WARS 新たなる希望",

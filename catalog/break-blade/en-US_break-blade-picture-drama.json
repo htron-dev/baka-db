@@ -1,5 +1,9 @@
 {
     "title": "Break Blade Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/23822.jpg",
+        "alt": "break-blade-picture-drama"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "ブレイクブレイド ピクチャードラマ",

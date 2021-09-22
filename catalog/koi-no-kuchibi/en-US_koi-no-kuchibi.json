@@ -1,5 +1,9 @@
 {
     "title": "Koi no Kuchibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29158.jpg",
+        "alt": "koi-no-kuchibi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

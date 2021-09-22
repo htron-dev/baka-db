@@ -1,5 +1,9 @@
 {
     "title": "Fate/stay night: Garden of Avalon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148913.jpg",
+        "alt": "fate-stay-night-garden-of-avalon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

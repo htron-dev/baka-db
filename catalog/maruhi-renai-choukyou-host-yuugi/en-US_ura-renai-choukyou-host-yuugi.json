@@ -1,5 +1,9 @@
 {
     "title": "Ura Ren'ai Choukyou - Host Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12520.jpg",
+        "alt": "ura-renai-choukyou-host-yuugi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

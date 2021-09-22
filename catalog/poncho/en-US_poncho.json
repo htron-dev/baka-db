@@ -1,5 +1,9 @@
 {
     "title": "Poncho.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95731.jpg",
+        "alt": "poncho"
+    },
     "type": "manga",
     "original_name": "ポンチョ。",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Futari no Roku Shuukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/111737.jpg",
+        "alt": "futari-no-roku-shuukan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ふたりの六週間",

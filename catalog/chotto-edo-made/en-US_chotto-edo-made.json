@@ -1,5 +1,9 @@
 {
     "title": "Chotto Edo Made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22255.jpg",
+        "alt": "chotto-edo-made"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ちょっと江戸まで",

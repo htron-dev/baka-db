@@ -1,5 +1,9 @@
 {
     "title": "5-ji kara Hajimaru Himitsu no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76433.jpg",
+        "alt": "5-ji-kara-hajimaru-himitsu-no-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

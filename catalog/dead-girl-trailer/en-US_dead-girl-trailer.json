@@ -1,5 +1,9 @@
 {
     "title": "Dead Girl Trailer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/44744.jpg",
+        "alt": "dead-girl-trailer"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "DEAD GIRL Trailer（デッド・ガール トレーラー）",

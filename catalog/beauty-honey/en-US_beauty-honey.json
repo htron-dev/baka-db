@@ -1,5 +1,9 @@
 {
     "title": "Beauty Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40967.jpg",
+        "alt": "beauty-honey"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

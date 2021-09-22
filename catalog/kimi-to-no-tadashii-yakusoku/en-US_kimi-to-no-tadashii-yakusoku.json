@@ -1,5 +1,9 @@
 {
     "title": "Kimi to no Tadashii Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83670.jpg",
+        "alt": "kimi-to-no-tadashii-yakusoku"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "キミとの正しい約束",

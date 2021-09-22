@@ -1,5 +1,9 @@
 {
     "title": "Mou Shoujo Manga nante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77203.jpg",
+        "alt": "mou-shoujo-manga-nante"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

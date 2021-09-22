@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Geinin Trio Golmoa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135183.jpg",
+        "alt": "shoujo-geinin-trio-golmoa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Swan: Hakuchou no Inori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31253.jpg",
+        "alt": "swan-hakuchou-no-inori"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "SWAN 白鳥の祈り",

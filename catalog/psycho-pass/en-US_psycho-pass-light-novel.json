@@ -1,5 +1,9 @@
 {
     "title": "Psycho-Pass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118865.jpg",
+        "alt": "psycho-pass"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "PSYCHO-PASS サイコパス",

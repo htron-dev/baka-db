@@ -1,5 +1,9 @@
 {
     "title": "Hell Buster: Jigoku wo Karu Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203558.jpg",
+        "alt": "hell-buster-jigoku-wo-karu-mono"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Kedamono Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/249324.jpg",
+        "alt": "kedamono-kareshi"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "88",

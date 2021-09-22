@@ -1,5 +1,9 @@
 {
     "title": "Hang Out Crisis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180657.jpg",
+        "alt": "hang-out-crisis"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

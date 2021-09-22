@@ -1,5 +1,9 @@
 {
     "title": "Kappei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122103.jpg",
+        "alt": "kappei"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "KAPPEI",

@@ -1,5 +1,9 @@
 {
     "title": "McDull: Gushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1470/112733.jpg",
+        "alt": "mc-dull-gushi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "麥兜故事",

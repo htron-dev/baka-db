@@ -1,5 +1,9 @@
 {
     "title": "Takunomi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200199.jpg",
+        "alt": "takunomi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "75",

@@ -1,5 +1,9 @@
 {
     "title": "Soushou to Netsuaichuu: Otemae Choudai Itashimasu!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192211.jpg",
+        "alt": "soushou-to-netsuaichuu-otemae-choudai-itashimasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

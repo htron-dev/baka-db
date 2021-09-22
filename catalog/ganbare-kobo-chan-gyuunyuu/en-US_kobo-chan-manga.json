@@ -1,5 +1,9 @@
 {
     "title": "Kobo-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37121.jpg",
+        "alt": "kobo-chan"
+    },
     "type": "manga",
     "volumes": "60",
     "original_name": "コボちゃん",

@@ -1,5 +1,9 @@
 {
     "title": "Ohisama no Shita no Luna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95341.jpg",
+        "alt": "ohisama-no-shita-no-luna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

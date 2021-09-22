@@ -1,5 +1,9 @@
 {
     "title": "Mahoko no Kuse ni Namaiki da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227028.jpg",
+        "alt": "mahoko-no-kuse-ni-namaiki-da"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

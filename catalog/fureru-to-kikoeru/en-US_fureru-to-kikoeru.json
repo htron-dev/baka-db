@@ -1,5 +1,9 @@
 {
     "title": "Fureru to Kikoeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188785.jpg",
+        "alt": "fureru-to-kikoeru"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

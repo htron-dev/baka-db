@@ -1,5 +1,9 @@
 {
     "title": "Order wa Tantei ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165468.jpg",
+        "alt": "order-wa-tantei-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

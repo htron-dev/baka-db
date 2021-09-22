@@ -1,5 +1,9 @@
 {
     "title": "Five Fire Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/85473.jpg",
+        "alt": "five-fire-fish"
+    },
     "type": "movie",
     "episodes": "1",
     "start_date": "2013-05-20",

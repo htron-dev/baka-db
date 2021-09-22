@@ -1,12 +1,16 @@
 {
     "title": "Shadowverse (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1003/106498.jpg",
+        "alt": "shadowverse-tv"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "シャドウバース",
     "start_date": "2020-04-07",
     "end_date": "2020-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kirifuda (キリフダ)\" by PENGUIN RESEARCH (eps 2-23)",
+    "ending_song": "#1: \"Happiness*Sensation (ハピネス*センセーション)\" by Yui Ogura (eps 2-7, 9-11, 13-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game",

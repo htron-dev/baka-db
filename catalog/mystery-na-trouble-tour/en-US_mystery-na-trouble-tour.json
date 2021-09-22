@@ -1,5 +1,9 @@
 {
     "title": "Mystery na Trouble Tour",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30970.jpg",
+        "alt": "mystery-na-trouble-tour"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ミステリーなトラブル・ツアー",

@@ -1,5 +1,9 @@
 {
     "title": "Musunde, Hodoite, Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206446.jpg",
+        "alt": "musunde-hodoite-kiss"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

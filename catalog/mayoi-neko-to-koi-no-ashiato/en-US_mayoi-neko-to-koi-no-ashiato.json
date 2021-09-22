@@ -1,5 +1,9 @@
 {
     "title": "Mayoi Neko to Koi no Ashiato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232455.jpg",
+        "alt": "mayoi-neko-to-koi-no-ashiato"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

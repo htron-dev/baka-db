@@ -1,5 +1,9 @@
 {
     "title": "Okosama Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168529.jpg",
+        "alt": "okosama-star"
+    },
     "type": "manga",
     "original_name": "おこさまスター",
     "start_date": "2014-07-30",

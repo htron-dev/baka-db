@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 28: Nobita to Midori no Kyojin Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72433.jpg",
+        "alt": "doraemon-movie-28-nobita-to-midori-no-kyojin-den"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太と緑の巨人伝",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Doraemon:_Nobita_and_the_Green_Giant_Legend_(film"
+            "link": "http://en.wikipedia.org/wiki/Doraemon:_Nobita_and_the_Green_Giant_Legend_%28film%29"
         }
     ]
 }

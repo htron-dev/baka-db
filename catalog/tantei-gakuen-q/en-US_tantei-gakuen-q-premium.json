@@ -1,5 +1,9 @@
 {
     "title": "Tantei Gakuen Q Premium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221912.jpg",
+        "alt": "tantei-gakuen-q-premium"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

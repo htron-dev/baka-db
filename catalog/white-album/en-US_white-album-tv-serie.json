@@ -1,12 +1,16 @@
 {
     "title": "White Album",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/43537.jpg",
+        "alt": "white-album"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ホワイトアルバム",
     "start_date": "2009-01-04",
     "end_date": "2009-01-04",
     "opening_song": "\"Shin Ai\" by Nana Mizuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Maiochiru Yuki no Youni\" by Suara",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/White_Album_(visual_novel"
+            "link": "http://en.wikipedia.org/wiki/White_Album_%28visual_novel%29#Anime"
         }
     ]
 }

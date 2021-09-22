@@ -1,5 +1,9 @@
 {
     "title": "Rein Klar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14370.jpg",
+        "alt": "rein-klar"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

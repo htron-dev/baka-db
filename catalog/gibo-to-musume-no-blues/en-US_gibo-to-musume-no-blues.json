@@ -1,5 +1,9 @@
 {
     "title": "Gibo to Musume no Blues",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236920.jpg",
+        "alt": "gibo-to-musume-no-blues"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "39",

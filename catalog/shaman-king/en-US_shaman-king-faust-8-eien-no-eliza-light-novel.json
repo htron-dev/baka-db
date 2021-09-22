@@ -1,5 +1,9 @@
 {
     "title": "Shaman King Faust 8: Eien no Eliza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220029.jpg",
+        "alt": "shaman-king-faust-8-eien-no-eliza"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

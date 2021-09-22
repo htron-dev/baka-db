@@ -1,5 +1,9 @@
 {
     "title": "Basket no Megami-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169083.jpg",
+        "alt": "basket-no-megami-sama"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "35",

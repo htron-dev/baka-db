@@ -1,5 +1,9 @@
 {
     "title": "Shinjitsu no Mahou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163537.jpg",
+        "alt": "shinjitsu-no-mahou-shoujo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "44",

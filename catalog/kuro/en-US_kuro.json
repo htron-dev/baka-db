@@ -1,5 +1,9 @@
 {
     "title": "Kuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179213.jpg",
+        "alt": "kuro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Chrno Crusade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178875.jpg",
+        "alt": "chrno-crusade"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "59",

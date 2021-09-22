@@ -1,12 +1,16 @@
 {
     "title": "Free!: Eternal Summer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1719/108886.jpg",
+        "alt": "free-eternal-summer"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "Free!-Eternal Summer-",
     "start_date": "2014-07-03",
     "end_date": "2014-07-03",
     "opening_song": "\"Dried Up Youthful Fame\" by OLDCODEX (eps 1- 12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"FUTURE FISH\" by STYLE FIVE (Nobunaga Shimazaki, Tatsuhisa Suzuki, Mamoru Miyano, Tsubasa Yonaga, Daisuke Hirakawa) (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Free!_(anime"
+            "link": "http://en.wikipedia.org/wiki/Free!_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Binetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79151.jpg",
+        "alt": "binetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "微熱 BI・NE・TU",

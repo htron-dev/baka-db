@@ -1,12 +1,16 @@
 {
     "title": "Kiratto Pri☆chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1628/95071.jpg",
+        "alt": "kiratto-pri☆chan"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "キラッとプリ ☆ チャン",
     "start_date": "2018-04-08",
     "end_date": "2018-04-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kiratto Start (キラッとスタート)\" by Run Girls, Run! (eps 1-26)",
+    "ending_song": "#1: \"Pretty☆Channel (プリティー ☆ チャンネル)\" by Wa-suta iDOL Street (わーすた iDOL Street) (eps 1-26)",
     "rating": "PG - Children",
     "tags": [
         "music",

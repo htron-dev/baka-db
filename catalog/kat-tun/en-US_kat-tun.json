@@ -1,5 +1,9 @@
 {
     "title": "Kat-Tun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11938.jpg",
+        "alt": "kat-tun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

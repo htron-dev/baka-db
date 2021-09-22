@@ -1,5 +1,9 @@
 {
     "title": "Idol Jihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192412.jpg",
+        "alt": "idol-jihen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Tanoshii Muumin Ikka Bouken Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/11862.jpg",
+        "alt": "tanoshii-muumin-ikka-bouken-nikki"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "楽しいムーミン一家 冒険日記",

@@ -1,5 +1,9 @@
 {
     "title": "5-ji kara 9-ji made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162958.jpg",
+        "alt": "5-ji-kara-9-ji-made"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "106",

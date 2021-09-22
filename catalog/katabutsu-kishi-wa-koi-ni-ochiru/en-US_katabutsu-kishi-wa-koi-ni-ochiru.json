@@ -1,5 +1,9 @@
 {
     "title": "Katabutsu Kishi wa Koi ni Ochiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195617.jpg",
+        "alt": "katabutsu-kishi-wa-koi-ni-ochiru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

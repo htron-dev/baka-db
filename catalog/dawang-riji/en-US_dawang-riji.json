@@ -1,5 +1,9 @@
 {
     "title": "Dawang Riji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1487/115235.jpg",
+        "alt": "dawang-riji"
+    },
     "type": "tv-serie",
     "original_name": "大王日记",
     "rating": "PG - Children",

@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Pilot Film",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/50927.jpg",
+        "alt": "lupin-iii-pilot-film"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ルパン三世 Pilot Film",

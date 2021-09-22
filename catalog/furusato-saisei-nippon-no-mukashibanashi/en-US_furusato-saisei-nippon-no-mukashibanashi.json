@@ -1,11 +1,15 @@
 {
     "title": "Furusato Saisei: Nippon no Mukashibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/82364.jpg",
+        "alt": "furusato-saisei-nippon-no-mukashibanashi"
+    },
     "type": "tv-serie",
     "episodes": "258",
     "original_name": "ふるさと再生 日本の昔ばなし",
     "start_date": "2012-04-01",
     "end_date": "2012-04-01",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Hitori no Kimi ga Umareta to sa.\" by Shoko Nakagawa (1-207)",
     "ending_song": "#1 \"Arukou, (あるこう)\" by Shoko Nakagawa (eps 1-52)",
     "rating": "G - All Ages",
     "tags": [

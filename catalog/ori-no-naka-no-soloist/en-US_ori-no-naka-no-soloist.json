@@ -1,5 +1,9 @@
 {
     "title": "Ori no Naka no Soloist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245787.jpg",
+        "alt": "ori-no-naka-no-soloist"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

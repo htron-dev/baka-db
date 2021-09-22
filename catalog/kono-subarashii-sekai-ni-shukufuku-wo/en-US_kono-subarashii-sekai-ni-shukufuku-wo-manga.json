@@ -1,5 +1,9 @@
 {
     "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154542.jpg",
+        "alt": "kono-subarashii-sekai-ni-shukufuku-wo"
+    },
     "type": "manga",
     "original_name": "この素晴らしい世界に祝福を！",
     "start_date": "2014-09-09",

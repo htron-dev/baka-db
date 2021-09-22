@@ -1,5 +1,9 @@
 {
     "title": "Biscuit Frankenstein",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149475.jpg",
+        "alt": "biscuit-frankenstein"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

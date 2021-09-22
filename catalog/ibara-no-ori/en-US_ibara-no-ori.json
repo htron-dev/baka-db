@@ -1,5 +1,9 @@
 {
     "title": "Ibara no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157389.jpg",
+        "alt": "ibara-no-ori"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "荊の檻",

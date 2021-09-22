@@ -1,5 +1,9 @@
 {
     "title": "Barairo Mitsubachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161824.jpg",
+        "alt": "barairo-mitsubachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

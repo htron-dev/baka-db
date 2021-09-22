@@ -1,5 +1,9 @@
 {
     "title": "Azatsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42940.jpg",
+        "alt": "azatsukai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "痣使い",

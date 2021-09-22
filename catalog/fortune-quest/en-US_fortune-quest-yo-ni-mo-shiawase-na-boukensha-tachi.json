@@ -1,11 +1,15 @@
 {
     "title": "Fortune Quest: Yo ni mo Shiawase na Boukensha-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/27813.jpg",
+        "alt": "fortune-quest-yo-ni-mo-shiawase-na-boukensha-tachi"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "フォーチュン・クエスト　～世にも幸せな冒険者たち～",
     "start_date": "1993-10-09",
     "end_date": "1993-10-09",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Fortune Quest: Itsuka Kanau Yume (フォーチュン・クエスト~いつか叶う夢)\" by Rumi Kasahara",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

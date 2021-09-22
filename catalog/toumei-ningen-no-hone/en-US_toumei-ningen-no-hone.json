@@ -1,5 +1,9 @@
 {
     "title": "Toumei Ningen no Hone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203244.jpg",
+        "alt": "toumei-ningen-no-hone"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

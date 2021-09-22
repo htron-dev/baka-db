@@ -1,5 +1,9 @@
 {
     "title": "Kisekaegokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151658.jpg",
+        "alt": "kisekaegokko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "きせかえごっこ",

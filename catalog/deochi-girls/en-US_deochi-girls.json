@@ -1,5 +1,9 @@
 {
     "title": "Deochi Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/104365.jpg",
+        "alt": "deochi-girls"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Hanayome ni Naru Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/60123.jpg",
+        "alt": "hanayome-ni-naru-jouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

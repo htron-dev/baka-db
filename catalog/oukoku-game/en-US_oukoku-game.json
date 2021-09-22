@@ -1,5 +1,9 @@
 {
     "title": "Oukoku Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188951.jpg",
+        "alt": "oukoku-game"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

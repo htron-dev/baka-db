@@ -1,5 +1,9 @@
 {
     "title": "Mizutama Honey Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146137.jpg",
+        "alt": "mizutama-honey-boy"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "63",

@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kotori-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153557.jpg",
+        "alt": "boku-to-kotori-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

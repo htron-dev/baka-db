@@ -1,5 +1,9 @@
 {
     "title": "3 Pieces",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/2566.jpg",
+        "alt": "3-pieces"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

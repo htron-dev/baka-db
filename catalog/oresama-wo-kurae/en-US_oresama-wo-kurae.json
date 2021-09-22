@@ -1,5 +1,9 @@
 {
     "title": "Oresama wo Kurae!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14149.jpg",
+        "alt": "oresama-wo-kurae"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

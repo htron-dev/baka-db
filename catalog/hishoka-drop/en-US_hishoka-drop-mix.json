@@ -1,5 +1,9 @@
 {
     "title": "Hishoka Drop Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35004.jpg",
+        "alt": "hishoka-drop-mix"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Youkoso Lodoss-tou e!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/61305.jpg",
+        "alt": "youkoso-lodoss-tou-e"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ようこそロードス島へ！",

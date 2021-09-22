@@ -1,5 +1,9 @@
 {
     "title": "Devilman Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/18370.jpg",
+        "alt": "devilman-lady"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "デビルマンレディー",

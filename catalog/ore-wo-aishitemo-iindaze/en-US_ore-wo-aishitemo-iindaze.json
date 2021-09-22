@@ -1,5 +1,9 @@
 {
     "title": "Ore wo Aishitemo Iindaze?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71777.jpg",
+        "alt": "ore-wo-aishitemo-iindaze"
+    },
     "type": "manga",
     "original_name": "俺を愛してもいいんだぜ?",
     "start_date": "2011-01-20",

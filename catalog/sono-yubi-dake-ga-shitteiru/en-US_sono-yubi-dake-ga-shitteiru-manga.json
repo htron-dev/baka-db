@@ -1,5 +1,9 @@
 {
     "title": "Sono Yubi dake ga Shitteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/1875.jpg",
+        "alt": "sono-yubi-dake-ga-shitteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,12 +1,16 @@
 {
     "title": "Zenonzard The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1035/106164.jpg",
+        "alt": "zenonzard-the-animation"
+    },
     "type": "ona",
     "episodes": "9",
     "original_name": "ゼノンザード THE ANIMATION",
     "start_date": "2020-01-31",
     "end_date": "2020-01-31",
     "opening_song": "\"Da La Doubt\" by Nanase Matsuoka × Kirisame Undertaker (松岡ななせ × 霧雨アンダーテイカー)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Haitateki Melancholy (排他的メランコリー)\" by Hinaria Darkend (Rie Takahashi) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

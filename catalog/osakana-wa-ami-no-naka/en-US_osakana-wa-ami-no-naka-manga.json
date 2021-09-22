@@ -1,5 +1,9 @@
 {
     "title": "Osakana wa Ami no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22169.jpg",
+        "alt": "osakana-wa-ami-no-naka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

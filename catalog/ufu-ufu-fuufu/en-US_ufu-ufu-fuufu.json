@@ -1,5 +1,9 @@
 {
     "title": "Ufu Ufu Fuufu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136875.jpg",
+        "alt": "ufu-ufu-fuufu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

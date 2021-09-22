@@ -1,5 +1,9 @@
 {
     "title": "Duel Masters Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1622/105190.jpg",
+        "alt": "duel-masters-cross"
+    },
     "type": "tv-serie",
     "episodes": "100",
     "original_name": "デュエル・マスターズ クロス",

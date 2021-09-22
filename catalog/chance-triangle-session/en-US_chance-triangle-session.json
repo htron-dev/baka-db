@@ -1,5 +1,9 @@
 {
     "title": "Chance Triangle Session",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/20184.jpg",
+        "alt": "chance-triangle-session"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "チャンス　トライアングルセッション",

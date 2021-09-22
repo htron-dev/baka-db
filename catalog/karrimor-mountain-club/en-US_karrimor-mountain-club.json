@@ -1,5 +1,9 @@
 {
     "title": "Karrimor Mountain Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1764/98787.jpg",
+        "alt": "karrimor-mountain-club"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "Karrimor Mountain Club",

@@ -1,5 +1,9 @@
 {
     "title": "Saiki Kusuo no Ψ-nan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179613.jpg",
+        "alt": "saiki-kusuo-no-ψ-nan"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "290",

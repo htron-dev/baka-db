@@ -1,5 +1,9 @@
 {
     "title": "Yuzuko Peppermint",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200147.jpg",
+        "alt": "yuzuko-peppermint"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "61",

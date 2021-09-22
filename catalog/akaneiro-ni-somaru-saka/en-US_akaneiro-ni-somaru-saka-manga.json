@@ -1,5 +1,9 @@
 {
     "title": "Akaneiro ni Somaru Saka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111947.jpg",
+        "alt": "akaneiro-ni-somaru-saka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

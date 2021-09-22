@@ -1,5 +1,9 @@
 {
     "title": "Shin Calimero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/61017.jpg",
+        "alt": "shin-calimero"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "新 カリメロ",

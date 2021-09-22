@@ -1,5 +1,9 @@
 {
     "title": "Hare no Kuni no Appare-dan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195163.jpg",
+        "alt": "hare-no-kuni-no-appare-dan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

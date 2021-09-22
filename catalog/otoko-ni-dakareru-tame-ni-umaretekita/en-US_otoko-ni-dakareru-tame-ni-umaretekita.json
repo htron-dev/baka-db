@@ -1,5 +1,9 @@
 {
     "title": "Otoko ni Dakareru Tame ni Umaretekita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227877.jpg",
+        "alt": "otoko-ni-dakareru-tame-ni-umaretekita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

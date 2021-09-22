@@ -1,5 +1,9 @@
 {
     "title": "Ichigenme",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9052.jpg",
+        "alt": "ichigenme"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

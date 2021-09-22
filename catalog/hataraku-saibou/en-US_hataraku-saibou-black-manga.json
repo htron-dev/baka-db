@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Saibou Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211410.jpg",
+        "alt": "hataraku-saibou-black"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "50",

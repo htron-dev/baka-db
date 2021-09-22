@@ -1,5 +1,9 @@
 {
     "title": "Momonoke Togari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212642.jpg",
+        "alt": "momonoke-togari"
+    },
     "type": "manga",
     "original_name": "モモノ怪トガリ",
     "start_date": "2018-04-25",

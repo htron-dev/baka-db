@@ -1,5 +1,9 @@
 {
     "title": "Ookami Shounen wa Uso wo Tsukanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247563.jpg",
+        "alt": "ookami-shounen-wa-uso-wo-tsukanai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

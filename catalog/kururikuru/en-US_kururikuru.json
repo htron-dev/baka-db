@@ -1,5 +1,9 @@
 {
     "title": "Kururikuru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27467.jpg",
+        "alt": "kururikuru"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "くるりくる！",

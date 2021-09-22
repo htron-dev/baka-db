@@ -1,5 +1,9 @@
 {
     "title": "Maoyuu Maou Yuusha: Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120011.jpg",
+        "alt": "maoyuu-maou-yuusha-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Kurayami Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172510.jpg",
+        "alt": "kurayami-dance"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

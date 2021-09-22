@@ -1,5 +1,9 @@
 {
     "title": "Ryuukishi kara Hajimeru Kunizukuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178208.jpg",
+        "alt": "ryuukishi-kara-hajimeru-kunizukuri"
+    },
     "type": "light-novel",
     "original_name": "竜騎士から始める国造り",
     "start_date": "2016-05-30",

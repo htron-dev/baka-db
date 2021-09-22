@@ -1,5 +1,9 @@
 {
     "title": "Kick no Oneesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191609.jpg",
+        "alt": "kick-no-oneesan"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "キックのお姉さん",

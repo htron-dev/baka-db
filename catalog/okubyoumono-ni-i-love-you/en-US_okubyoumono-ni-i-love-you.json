@@ -1,5 +1,9 @@
 {
     "title": "Okubyoumono ni I Love You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172247.jpg",
+        "alt": "okubyoumono-ni-i-love-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

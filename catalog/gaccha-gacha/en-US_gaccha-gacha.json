@@ -1,5 +1,9 @@
 {
     "title": "Gaccha Gacha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180609.jpg",
+        "alt": "gaccha-gacha"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "Football Nation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127447.jpg",
+        "alt": "football-nation"
+    },
     "type": "manga",
     "original_name": "フットボールネーション",
     "start_date": "2009-12-11",

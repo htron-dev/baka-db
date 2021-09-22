@@ -1,7 +1,11 @@
 {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu Ex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170079.jpg",
+        "alt": "re-zero-kara-hajimeru-isekai-seikatsu-ex"
+    },
     "type": "light-novel",
-    "original_name": "Re",
+    "original_name": "Re:ゼロから始める異世界生活 Ex",
     "start_date": "2015-06-25",
     "tags": [
         "fantasy"

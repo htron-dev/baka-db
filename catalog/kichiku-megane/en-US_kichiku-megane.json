@@ -1,5 +1,9 @@
 {
     "title": "Kichiku Megane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26259.jpg",
+        "alt": "kichiku-megane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Danshi Hanayakanare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129111.jpg",
+        "alt": "danshi-hanayakanare"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

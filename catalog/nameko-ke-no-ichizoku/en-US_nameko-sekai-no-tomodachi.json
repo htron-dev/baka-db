@@ -1,5 +1,9 @@
 {
     "title": "Nameko: Sekai no Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/78819.jpg",
+        "alt": "nameko-sekai-no-tomodachi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "なめこ～せかいのともだち～",

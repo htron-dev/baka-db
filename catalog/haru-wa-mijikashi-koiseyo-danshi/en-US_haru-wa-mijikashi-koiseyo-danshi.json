@@ -1,5 +1,9 @@
 {
     "title": "Haru wa Mijikashi Koiseyo Danshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225583.jpg",
+        "alt": "haru-wa-mijikashi-koiseyo-danshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Danchi Tomoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86209.jpg",
+        "alt": "danchi-tomoo"
+    },
     "type": "manga",
     "volumes": "33",
     "chapters": "587",

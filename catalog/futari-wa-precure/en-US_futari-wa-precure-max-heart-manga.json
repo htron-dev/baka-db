@@ -1,5 +1,9 @@
 {
     "title": "Futari wa Precure: Max Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181258.jpg",
+        "alt": "futari-wa-precure-max-heart"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

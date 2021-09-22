@@ -1,5 +1,9 @@
 {
     "title": "Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19457.jpg",
+        "alt": "brothers"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

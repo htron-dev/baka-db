@@ -1,5 +1,9 @@
 {
     "title": "Sanju Mariko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205525.jpg",
+        "alt": "sanju-mariko"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "84",

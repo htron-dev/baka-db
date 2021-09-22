@@ -1,5 +1,9 @@
 {
     "title": "Shounen Kairaku Seiiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31351.jpg",
+        "alt": "shounen-kairaku-seiiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

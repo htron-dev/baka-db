@@ -1,5 +1,9 @@
 {
     "title": "Yatagarasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169673.jpg",
+        "alt": "yatagarasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ヤタガラス",

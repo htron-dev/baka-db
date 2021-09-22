@@ -1,5 +1,9 @@
 {
     "title": "Life Is Money",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196692.jpg",
+        "alt": "life-is-money"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

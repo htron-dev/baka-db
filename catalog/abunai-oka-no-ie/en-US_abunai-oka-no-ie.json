@@ -1,5 +1,9 @@
 {
     "title": "Abunai Oka no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18034.jpg",
+        "alt": "abunai-oka-no-ie"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "あぶない丘の家",

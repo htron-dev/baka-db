@@ -1,5 +1,9 @@
 {
     "title": "Aka no Theatre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195468.jpg",
+        "alt": "aka-no-theatre"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

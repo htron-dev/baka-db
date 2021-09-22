@@ -1,5 +1,9 @@
 {
     "title": "Hatsukanezumi no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3560.jpg",
+        "alt": "hatsukanezumi-no-jikan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

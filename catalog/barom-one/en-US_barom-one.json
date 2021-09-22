@@ -1,5 +1,9 @@
 {
     "title": "Barom One",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1667.jpg",
+        "alt": "barom-one"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "バロムワン",

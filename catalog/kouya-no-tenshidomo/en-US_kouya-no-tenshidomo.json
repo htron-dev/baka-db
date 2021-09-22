@@ -1,5 +1,9 @@
 {
     "title": "Kouya no Tenshidomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/176267.jpg",
+        "alt": "kouya-no-tenshidomo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Evangelion Shito, Hakata Shuurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1175/117752.jpg",
+        "alt": "evangelion-shito-hakata-shuurai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "エヴァンゲリオン 使徒、博多襲来",

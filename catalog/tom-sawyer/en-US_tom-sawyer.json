@@ -1,5 +1,9 @@
 {
     "title": "Tom Sawyer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13775.jpg",
+        "alt": "tom-sawyer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

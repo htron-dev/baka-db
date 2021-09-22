@@ -1,5 +1,9 @@
 {
     "title": "Pipin to Pinto★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181660.jpg",
+        "alt": "pipin-to-pinto★"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

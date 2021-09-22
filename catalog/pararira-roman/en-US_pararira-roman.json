@@ -1,5 +1,9 @@
 {
     "title": "Pararira Roman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155604.jpg",
+        "alt": "pararira-roman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

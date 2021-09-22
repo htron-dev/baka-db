@@ -1,5 +1,9 @@
 {
     "title": "Sugar Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126297.jpg",
+        "alt": "sugar-princess"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

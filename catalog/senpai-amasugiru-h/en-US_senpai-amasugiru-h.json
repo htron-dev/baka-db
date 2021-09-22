@@ -1,5 +1,9 @@
 {
     "title": "Senpai Amasugiru H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5452.jpg",
+        "alt": "senpai-amasugiru-h"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

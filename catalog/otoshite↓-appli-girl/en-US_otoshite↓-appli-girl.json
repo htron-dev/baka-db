@@ -1,5 +1,9 @@
 {
     "title": "Otoshite↓Appli Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149300.jpg",
+        "alt": "otoshite↓-appli-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

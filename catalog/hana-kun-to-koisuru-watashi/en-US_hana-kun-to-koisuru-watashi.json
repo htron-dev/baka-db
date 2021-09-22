@@ -1,5 +1,9 @@
 {
     "title": "Hana-kun to Koisuru Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162159.jpg",
+        "alt": "hana-kun-to-koisuru-watashi"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "45",

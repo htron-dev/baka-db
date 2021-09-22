@@ -1,5 +1,9 @@
 {
     "title": "Sakura Capusule",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75512.jpg",
+        "alt": "sakura-capusule"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "サクラカプセル",

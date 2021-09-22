@@ -1,5 +1,9 @@
 {
     "title": "Mirai Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22971.jpg",
+        "alt": "mirai-nikki"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "未来日記",

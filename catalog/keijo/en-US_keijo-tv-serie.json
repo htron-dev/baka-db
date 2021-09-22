@@ -1,12 +1,16 @@
 {
     "title": "Keijo!!!!!!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/81906.jpg",
+        "alt": "keijo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "競女!!!!!!!!",
     "start_date": "2016-10-06",
     "end_date": "2016-10-06",
     "opening_song": "\"DREAM×SCRAMBLE!\" by AiRI",
-    "ending_song": "\"Fantas/HIP Girlfriends!\" by Nozomi Kaminashi (CV",
+    "ending_song": "\"Fantas/HIP Girlfriends!\" by Nozomi Kaminashi (CV: Lynn), Sayaka Miyata (CV: M.A.O), Kazane Aoba (CV: Kaede Hondo), Non Toyoguchi (CV: Saori Oonishi)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

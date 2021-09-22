@@ -1,5 +1,9 @@
 {
     "title": "The Ring 3: Rasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13105.jpg",
+        "alt": "the-ring-3-rasen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

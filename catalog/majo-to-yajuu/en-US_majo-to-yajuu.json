@@ -1,5 +1,9 @@
 {
     "title": "Majo to Yajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200778.jpg",
+        "alt": "majo-to-yajuu"
+    },
     "type": "manga",
     "original_name": "魔女と野獣",
     "start_date": "2016-11-05",

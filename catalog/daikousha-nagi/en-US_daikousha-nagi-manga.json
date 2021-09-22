@@ -1,5 +1,9 @@
 {
     "title": "Daikousha Nagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169101.jpg",
+        "alt": "daikousha-nagi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

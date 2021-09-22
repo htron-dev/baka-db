@@ -1,5 +1,9 @@
 {
     "title": "Otokozaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40025.jpg",
+        "alt": "otokozaka"
+    },
     "type": "manga",
     "original_name": "男坂",
     "start_date": "1984-07-10",

@@ -1,5 +1,9 @@
 {
     "title": "Shortcut Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6412.jpg",
+        "alt": "shortcut-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

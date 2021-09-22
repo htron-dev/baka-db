@@ -1,5 +1,9 @@
 {
     "title": "Diotima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11748.jpg",
+        "alt": "diotima"
+    },
     "type": "manhwa",
     "original_name": "제멋대로 함선 디오티마",
     "tags": [

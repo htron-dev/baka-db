@@ -1,5 +1,9 @@
 {
     "title": "Iinari Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/68057.jpg",
+        "alt": "iinari-princess"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

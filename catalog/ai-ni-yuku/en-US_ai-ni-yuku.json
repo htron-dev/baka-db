@@ -1,5 +1,9 @@
 {
     "title": "Ai ni Yuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64743.jpg",
+        "alt": "ai-ni-yuku"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "会いにゆく",

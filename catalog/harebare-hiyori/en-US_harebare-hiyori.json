@@ -1,5 +1,9 @@
 {
     "title": "Harebare Hiyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247753.jpg",
+        "alt": "harebare-hiyori"
+    },
     "type": "manga",
     "original_name": "晴れ晴れ日和",
     "start_date": "2020-08-27",

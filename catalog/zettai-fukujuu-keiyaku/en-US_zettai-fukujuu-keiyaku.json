@@ -1,5 +1,9 @@
 {
     "title": "Zettai Fukujuu Keiyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158251.jpg",
+        "alt": "zettai-fukujuu-keiyaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "絶対服従契約",

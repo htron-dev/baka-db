@@ -1,5 +1,9 @@
 {
     "title": "Kiss to Karada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13975.jpg",
+        "alt": "kiss-to-karada"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

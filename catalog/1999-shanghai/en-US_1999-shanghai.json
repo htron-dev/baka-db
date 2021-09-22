@@ -1,5 +1,9 @@
 {
     "title": "1999 Shanghai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27096.jpg",
+        "alt": "1999-shanghai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

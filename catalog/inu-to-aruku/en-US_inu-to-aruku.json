@@ -1,5 +1,9 @@
 {
     "title": "Inu to Aruku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/53319.jpg",
+        "alt": "inu-to-aruku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

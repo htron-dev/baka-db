@@ -1,5 +1,9 @@
 {
     "title": "Daisuki: Hikaru to Sakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148473.jpg",
+        "alt": "daisuki-hikaru-to-sakura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Akita Imokko! Ebina-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187219.jpg",
+        "alt": "akita-imokko-ebina-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

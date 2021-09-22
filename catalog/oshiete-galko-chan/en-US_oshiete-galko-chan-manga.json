@@ -1,5 +1,9 @@
 {
     "title": "Oshiete! Galko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144949.jpg",
+        "alt": "oshiete-galko-chan"
+    },
     "type": "manga",
     "original_name": "おしえて! ギャル子ちゃん",
     "start_date": "2014-06-27",

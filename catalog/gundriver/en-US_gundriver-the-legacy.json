@@ -1,5 +1,9 @@
 {
     "title": "Gundriver: The Legacy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244800.jpg",
+        "alt": "gundriver-the-legacy"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ガンドライバー - 遺産（ザ・レガシィ）",

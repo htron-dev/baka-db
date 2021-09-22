@@ -1,5 +1,9 @@
 {
     "title": "Under Prin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167947.jpg",
+        "alt": "under-prin"
+    },
     "type": "manhwa",
     "chapters": "325",
     "original_name": "언더프린",

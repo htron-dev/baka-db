@@ -1,5 +1,9 @@
 {
     "title": "Tou no Kanri wo Shitemiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221246.jpg",
+        "alt": "tou-no-kanri-wo-shitemiyou"
+    },
     "type": "manga",
     "original_name": "塔の管理をしてみよう",
     "start_date": "2018-03-22",

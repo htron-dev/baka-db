@@ -1,5 +1,9 @@
 {
     "title": "Ginpaku no Paladin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161266.jpg",
+        "alt": "ginpaku-no-paladin"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

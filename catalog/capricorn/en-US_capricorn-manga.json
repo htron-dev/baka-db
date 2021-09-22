@@ -1,5 +1,9 @@
 {
     "title": "Capricorn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/44099.jpg",
+        "alt": "capricorn"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Sayonara mo Iezu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246989.jpg",
+        "alt": "sayonara-mo-iezu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "さよならも言えず",

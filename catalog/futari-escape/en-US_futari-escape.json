@@ -1,5 +1,9 @@
 {
     "title": "Futari Escape",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246832.jpg",
+        "alt": "futari-escape"
+    },
     "type": "manga",
     "original_name": "ふたりエスケープ",
     "start_date": "2020-07-18",

@@ -1,5 +1,9 @@
 {
     "title": "Marude Hajimete no Koi Mitai ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16720.jpg",
+        "alt": "marude-hajimete-no-koi-mitai-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

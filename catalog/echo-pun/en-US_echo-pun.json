@@ -1,5 +1,9 @@
 {
     "title": "Echo-Pun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64241.jpg",
+        "alt": "echo-pun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Meitei Sumire-san.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168561.jpg",
+        "alt": "meitei-sumire-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

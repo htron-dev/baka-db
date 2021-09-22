@@ -1,5 +1,9 @@
 {
     "title": "Hime♥Seme",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225131.jpg",
+        "alt": "hime♥-seme"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

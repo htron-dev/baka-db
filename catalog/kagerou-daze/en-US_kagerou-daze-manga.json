@@ -1,5 +1,9 @@
 {
     "title": "Kagerou Daze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215824.jpg",
+        "alt": "kagerou-daze"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "70",

@@ -1,5 +1,9 @@
 {
     "title": "Fukushuu no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239033.jpg",
+        "alt": "fukushuu-no-hoshi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

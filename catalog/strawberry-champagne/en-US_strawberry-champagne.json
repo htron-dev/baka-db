@@ -1,5 +1,9 @@
 {
     "title": "Strawberry Champagne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14442.jpg",
+        "alt": "strawberry-champagne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

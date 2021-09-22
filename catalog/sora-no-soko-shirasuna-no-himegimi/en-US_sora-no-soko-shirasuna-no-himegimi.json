@@ -1,5 +1,9 @@
 {
     "title": "Sora no Soko Shirasuna no Himegimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39002.jpg",
+        "alt": "sora-no-soko-shirasuna-no-himegimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Fate/Grand Order Anthology Comic: Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174221.jpg",
+        "alt": "fate-grand-order-anthology-comic-star"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "124",

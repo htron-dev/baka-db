@@ -1,5 +1,9 @@
 {
     "title": "Mahou Kenshi no Extra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177006.jpg",
+        "alt": "mahou-kenshi-no-extra"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Danzi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222200.jpg",
+        "alt": "danzi"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "46",

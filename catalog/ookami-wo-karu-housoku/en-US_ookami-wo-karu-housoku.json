@@ -1,5 +1,9 @@
 {
     "title": "Ookami wo Karu Housoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244212.jpg",
+        "alt": "ookami-wo-karu-housoku"
+    },
     "type": "manga",
     "original_name": "狼を狩る法則",
     "start_date": "2016-11-30",

@@ -1,5 +1,9 @@
 {
     "title": "Kanojo, Okarishimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201707.jpg",
+        "alt": "kanojo-okarishimasu"
+    },
     "type": "manga",
     "original_name": "彼女、お借りします",
     "start_date": "2017-07-12",

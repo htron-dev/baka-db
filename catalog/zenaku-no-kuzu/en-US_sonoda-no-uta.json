@@ -1,5 +1,9 @@
 {
     "title": "Sonoda no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234747.jpg",
+        "alt": "sonoda-no-uta"
+    },
     "type": "manga",
     "original_name": "園田の歌",
     "start_date": "2018-03-19",

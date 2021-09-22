@@ -1,5 +1,9 @@
 {
     "title": "Soushite Boku wa Koi wo Shiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224103.jpg",
+        "alt": "soushite-boku-wa-koi-wo-shiru"
+    },
     "type": "manga",
     "original_name": "そうして僕は恋を知る",
     "start_date": "2018-08-30",

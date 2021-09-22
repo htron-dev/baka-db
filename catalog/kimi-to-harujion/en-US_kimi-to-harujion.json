@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Harujion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144059.jpg",
+        "alt": "kimi-to-harujion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

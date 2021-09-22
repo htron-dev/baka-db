@@ -1,5 +1,9 @@
 {
     "title": "Natsunokumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27627.jpg",
+        "alt": "natsunokumo"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "ナツノクモ",

@@ -1,5 +1,9 @@
 {
     "title": "Gaia Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61527.jpg",
+        "alt": "gaia-kitan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

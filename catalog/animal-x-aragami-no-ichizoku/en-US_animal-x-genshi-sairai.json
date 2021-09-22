@@ -1,5 +1,9 @@
 {
     "title": "Animal X: Genshi Sairai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/834.jpg",
+        "alt": "animal-x-genshi-sairai"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "Animal X―原始再来",

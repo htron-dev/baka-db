@@ -1,5 +1,9 @@
 {
     "title": "Zelda no Densetsu: Fushigi no Kinomi - Daichi no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/126019.jpg",
+        "alt": "zelda-no-densetsu-fushigi-no-kinomi-daichi-no-shou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

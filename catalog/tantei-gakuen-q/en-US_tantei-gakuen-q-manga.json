@@ -1,5 +1,9 @@
 {
     "title": "Tantei Gakuen Q",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11113.jpg",
+        "alt": "tantei-gakuen-q"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "172",

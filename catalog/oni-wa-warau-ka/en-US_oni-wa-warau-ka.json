@@ -1,5 +1,9 @@
 {
     "title": "Oni wa Warau ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179276.jpg",
+        "alt": "oni-wa-warau-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

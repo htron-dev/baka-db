@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban Kirei na Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238525.jpg",
+        "alt": "sekai-de-ichiban-kirei-na-hatsukoi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

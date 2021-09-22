@@ -1,5 +1,9 @@
 {
     "title": "Kudou-sensei no Majestic Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223714.jpg",
+        "alt": "kudou-sensei-no-majestic-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

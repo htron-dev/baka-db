@@ -1,5 +1,9 @@
 {
     "title": "Nana-iro Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165397.jpg",
+        "alt": "nana-iro-kakumei"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "なないろ革命",

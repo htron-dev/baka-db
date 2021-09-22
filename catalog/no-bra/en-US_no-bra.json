@@ -1,5 +1,9 @@
 {
     "title": "No Bra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124679.jpg",
+        "alt": "no-bra"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

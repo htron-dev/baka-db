@@ -1,5 +1,9 @@
 {
     "title": "Kujou no Taizai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241661.jpg",
+        "alt": "kujou-no-taizai"
+    },
     "type": "manga",
     "original_name": "九条の大罪",
     "start_date": "2020-10-12",

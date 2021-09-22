@@ -1,5 +1,9 @@
 {
     "title": "Sono Hi Kare wa Shinazu ni Sumu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172042.jpg",
+        "alt": "sono-hi-kare-wa-shinazu-ni-sumu-ka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

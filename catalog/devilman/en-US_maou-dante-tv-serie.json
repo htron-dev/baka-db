@@ -1,5 +1,9 @@
 {
     "title": "Maou Dante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84849.jpg",
+        "alt": "maou-dante"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "魔王ダンテ",

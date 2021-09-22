@@ -1,5 +1,9 @@
 {
     "title": "Koiiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196614.jpg",
+        "alt": "koiiji"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "50",

@@ -1,5 +1,9 @@
 {
     "title": "Teiichi no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171025.jpg",
+        "alt": "teiichi-no-kuni"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "66",

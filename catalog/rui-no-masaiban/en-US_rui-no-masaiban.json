@@ -1,5 +1,9 @@
 {
     "title": "Rui no Masaiban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/37867.jpg",
+        "alt": "rui-no-masaiban"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ルイの魔裁判",

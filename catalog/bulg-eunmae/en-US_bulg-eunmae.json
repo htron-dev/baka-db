@@ -1,5 +1,9 @@
 {
     "title": "Bulg-eunmae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/11531.jpg",
+        "alt": "bulg-eunmae"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "붉은매",

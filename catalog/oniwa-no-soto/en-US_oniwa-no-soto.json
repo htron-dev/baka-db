@@ -1,5 +1,9 @@
 {
     "title": "Oniwa no Soto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1663/95536.jpg",
+        "alt": "oniwa-no-soto"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "お庭の外",

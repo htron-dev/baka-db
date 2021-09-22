@@ -1,5 +1,9 @@
 {
     "title": "Hot Road",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176942.jpg",
+        "alt": "hot-road"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

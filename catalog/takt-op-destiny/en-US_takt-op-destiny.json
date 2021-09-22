@@ -1,5 +1,9 @@
 {
     "title": "Takt Op. Destiny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1973/117829.jpg",
+        "alt": "takt-op-destiny"
+    },
     "type": "tv-serie",
     "original_name": "takt op.Destiny",
     "start_date": "2021-10-06",

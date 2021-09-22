@@ -1,5 +1,9 @@
 {
     "title": "Gundam Build Divers: Battlogue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1436/110252.jpg",
+        "alt": "gundam-build-divers-battlogue"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ガンダムビルドダイバーズ バトローグ",

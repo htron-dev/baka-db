@@ -1,5 +1,9 @@
 {
     "title": "Setoutsumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126323.jpg",
+        "alt": "setoutsumi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "73",

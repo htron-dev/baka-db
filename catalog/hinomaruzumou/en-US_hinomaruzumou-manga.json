@@ -1,5 +1,9 @@
 {
     "title": "Hinomaruzumou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192657.jpg",
+        "alt": "hinomaruzumou"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "252",

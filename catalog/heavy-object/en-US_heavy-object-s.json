@@ -1,5 +1,9 @@
 {
     "title": "Heavy Object S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140085.jpg",
+        "alt": "heavy-object-s"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

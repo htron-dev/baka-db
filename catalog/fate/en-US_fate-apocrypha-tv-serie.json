@@ -1,12 +1,16 @@
 {
     "title": "Fate/Apocrypha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/86573.jpg",
+        "alt": "fate-apocrypha"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "Fate/Apocrypha",
     "start_date": "2017-07-02",
     "end_date": "2017-07-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Eiyuu Unmei no Uta (英雄 運命の詩)\" by EGOIST (eps 2-12)",
+    "ending_song": "#1: \"Désir\" by GARNiDELiA (eps 2-12, 25)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

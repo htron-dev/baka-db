@@ -1,5 +1,9 @@
 {
     "title": "8 Man Infinity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117135.jpg",
+        "alt": "8-man-infinity"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "8 マン インフィニティ",

@@ -1,5 +1,9 @@
 {
     "title": "Gaikotsu Shotenin Honda-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1555/93865.jpg",
+        "alt": "gaikotsu-shotenin-honda-san"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ガイコツ書店員本田さん",

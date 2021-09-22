@@ -1,5 +1,9 @@
 {
     "title": "Sekisou-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/83703.jpg",
+        "alt": "sekisou-tai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "積層体",

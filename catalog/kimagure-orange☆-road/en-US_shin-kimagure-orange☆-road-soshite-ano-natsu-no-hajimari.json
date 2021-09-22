@@ -1,10 +1,14 @@
 {
     "title": "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1460/96602.jpg",
+        "alt": "shin-kimagure-orange☆-road-soshite-ano-natsu-no-hajimari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "新きまぐれオレンジ ☆ ロード ～ そして、あの夏のはじまり",
     "start_date": "1996-11-02",
-    "ending_song": "\"Day Dream",
+    "ending_song": "\"Day Dream: Soba ni Iru yo (DAY DREAM~そばにいるよ)\" by Agua",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "ecchi",

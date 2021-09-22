@@ -1,5 +1,9 @@
 {
     "title": "Nyaight of the Living Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237311.jpg",
+        "alt": "nyaight-of-the-living-cat"
+    },
     "type": "manga",
     "original_name": "ニャイト・オブ・ザ・リビングキャット",
     "start_date": "2020-10-05",

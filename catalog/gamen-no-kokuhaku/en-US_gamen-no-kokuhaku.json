@@ -1,5 +1,9 @@
 {
     "title": "Gamen no Kokuhaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150084.jpg",
+        "alt": "gamen-no-kokuhaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "画面の告白",

@@ -1,5 +1,9 @@
 {
     "title": "Kamichu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34714.jpg",
+        "alt": "kamichu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

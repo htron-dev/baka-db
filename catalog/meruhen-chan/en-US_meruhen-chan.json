@@ -1,5 +1,9 @@
 {
     "title": "Meruhen-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34578.jpg",
+        "alt": "meruhen-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "メルヘンちゃん",

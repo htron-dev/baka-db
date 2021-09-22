@@ -1,5 +1,9 @@
 {
     "title": "Kakusei Idenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164676.jpg",
+        "alt": "kakusei-idenshi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "～覚醒遺伝子～",

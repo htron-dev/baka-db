@@ -1,5 +1,9 @@
 {
     "title": "Ote, Osuwari, Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238250.jpg",
+        "alt": "ote-osuwari-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

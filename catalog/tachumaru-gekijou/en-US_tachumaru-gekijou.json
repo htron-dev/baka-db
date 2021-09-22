@@ -1,5 +1,9 @@
 {
     "title": "Tachumaru Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/26468.jpg",
+        "alt": "tachumaru-gekijou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "たちゅまる劇場",

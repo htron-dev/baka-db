@@ -1,5 +1,9 @@
 {
     "title": "Sennen ni Hitotsu no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30028.jpg",
+        "alt": "sennen-ni-hitotsu-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

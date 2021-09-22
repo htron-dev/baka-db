@@ -1,5 +1,9 @@
 {
     "title": "Kawaigatte Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/168272.jpg",
+        "alt": "kawaigatte-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

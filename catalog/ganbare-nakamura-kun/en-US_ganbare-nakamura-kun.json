@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Nakamura-kun!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196622.jpg",
+        "alt": "ganbare-nakamura-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

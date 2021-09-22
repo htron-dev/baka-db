@@ -1,5 +1,9 @@
 {
     "title": "Dan Doh!! Next Generation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141231.jpg",
+        "alt": "dan-doh-next-generation"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

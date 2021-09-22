@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Musou: Mononofu-tachi no Sekigahara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134609.jpg",
+        "alt": "sengoku-musou-mononofu-tachi-no-sekigahara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

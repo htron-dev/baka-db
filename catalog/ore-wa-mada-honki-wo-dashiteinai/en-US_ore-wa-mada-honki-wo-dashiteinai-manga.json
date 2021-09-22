@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Mada, Honki wo Dashiteinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241925.jpg",
+        "alt": "ore-wa-mada-honki-wo-dashiteinai"
+    },
     "type": "manga",
     "original_name": "俺はまだ、本気を出していない",
     "start_date": "2019-07-25",

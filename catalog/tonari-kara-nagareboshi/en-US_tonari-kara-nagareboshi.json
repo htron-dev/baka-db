@@ -1,5 +1,9 @@
 {
     "title": "Tonari kara Nagareboshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203207.jpg",
+        "alt": "tonari-kara-nagareboshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

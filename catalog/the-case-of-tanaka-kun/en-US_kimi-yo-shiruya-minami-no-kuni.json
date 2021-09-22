@@ -1,5 +1,9 @@
 {
     "title": "Kimi yo Shiruya Minami no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19078.jpg",
+        "alt": "kimi-yo-shiruya-minami-no-kuni"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "23",

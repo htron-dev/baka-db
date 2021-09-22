@@ -1,5 +1,9 @@
 {
     "title": "Satsueichuu, Yokujou Kinshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229913.jpg",
+        "alt": "satsueichuu-yokujou-kinshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

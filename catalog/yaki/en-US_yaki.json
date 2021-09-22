@@ -1,5 +1,9 @@
 {
     "title": "Yaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207989.jpg",
+        "alt": "yaki"
+    },
     "type": "manga",
     "original_name": "夜鬼",
     "start_date": "2018-01-25",

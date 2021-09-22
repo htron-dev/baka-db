@@ -1,5 +1,9 @@
 {
     "title": "Shichiha Gojuuroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221346.jpg",
+        "alt": "shichiha-gojuuroku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

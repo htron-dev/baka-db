@@ -1,5 +1,9 @@
 {
     "title": "Yami Shibai 4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/83113.jpg",
+        "alt": "yami-shibai-4"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "闇芝居 4 期",

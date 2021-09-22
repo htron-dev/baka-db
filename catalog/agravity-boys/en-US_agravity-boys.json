@@ -1,5 +1,9 @@
 {
     "title": "Agravity Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228642.jpg",
+        "alt": "agravity-boys"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "59",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoushitsu Jibaku Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219916.jpg",
+        "alt": "kyoushitsu-jibaku-club"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

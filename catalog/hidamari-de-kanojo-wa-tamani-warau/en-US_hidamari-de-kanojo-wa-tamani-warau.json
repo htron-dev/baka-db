@@ -1,5 +1,9 @@
 {
     "title": "Hidamari de Kanojo wa Tamani Warau.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246742.jpg",
+        "alt": "hidamari-de-kanojo-wa-tamani-warau"
+    },
     "type": "light-novel",
     "original_name": "ひだまりで彼女はたまに笑う。",
     "start_date": "2021-06-10",

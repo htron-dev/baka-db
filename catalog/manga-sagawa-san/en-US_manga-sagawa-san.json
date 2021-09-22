@@ -1,5 +1,9 @@
 {
     "title": "Manga Sagawa-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25531.jpg",
+        "alt": "manga-sagawa-san"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "まんがサガワさん",

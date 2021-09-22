@@ -1,5 +1,9 @@
 {
     "title": "Totsu Nee!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204395.jpg",
+        "alt": "totsu-nee"
+    },
     "type": "manga",
     "original_name": "突姉っ！",
     "start_date": "2017-06-17",

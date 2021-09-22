@@ -1,5 +1,9 @@
 {
     "title": "Skirt no Naka wa Kedamono Deshita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/86647.jpg",
+        "alt": "skirt-no-naka-wa-kedamono-deshita"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "スカートの中はケダモノでした。",

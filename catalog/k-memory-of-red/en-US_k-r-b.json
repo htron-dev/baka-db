@@ -1,9 +1,13 @@
 {
     "title": "K: R:B",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231050.jpg",
+        "alt": "k-r-b"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",
-    "original_name": "K R",
+    "original_name": "K R:B",
     "start_date": "2015-09-17",
     "tags": [
         "action",

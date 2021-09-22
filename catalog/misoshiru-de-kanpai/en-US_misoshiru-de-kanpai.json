@@ -1,5 +1,9 @@
 {
     "title": "Misoshiru de Kanpai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190094.jpg",
+        "alt": "misoshiru-de-kanpai"
+    },
     "type": "manga",
     "original_name": "味噌汁でカンパイ！",
     "start_date": "2015-06-12",

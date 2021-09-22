@@ -1,5 +1,9 @@
 {
     "title": "Yami Shibai 5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86158.jpg",
+        "alt": "yami-shibai-5"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "闇芝居 5 期",

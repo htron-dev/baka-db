@@ -1,5 +1,9 @@
 {
     "title": "Gasaraki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28410.jpg",
+        "alt": "gasaraki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

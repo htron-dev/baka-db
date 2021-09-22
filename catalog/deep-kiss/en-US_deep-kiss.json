@@ -1,5 +1,9 @@
 {
     "title": "Deep Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12091.jpg",
+        "alt": "deep-kiss"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

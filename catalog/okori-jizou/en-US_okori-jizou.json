@@ -1,5 +1,9 @@
 {
     "title": "Okori Jizou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/66033.jpg",
+        "alt": "okori-jizou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おこりじぞう",

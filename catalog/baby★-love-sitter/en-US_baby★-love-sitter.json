@@ -1,5 +1,9 @@
 {
     "title": "Baby★Love Sitter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227220.jpg",
+        "alt": "baby★-love-sitter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

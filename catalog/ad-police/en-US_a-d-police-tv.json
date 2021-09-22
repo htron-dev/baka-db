@@ -1,5 +1,9 @@
 {
     "title": "A.D. Police (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/15440.jpg",
+        "alt": "a-d-police-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アドバンスドポリス",

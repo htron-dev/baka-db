@@ -1,5 +1,9 @@
 {
     "title": "Shinyaku Märchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177838.jpg",
+        "alt": "shinyaku-marchen"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

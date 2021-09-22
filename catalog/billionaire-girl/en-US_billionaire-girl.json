@@ -1,5 +1,9 @@
 {
     "title": "Billionaire Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188809.jpg",
+        "alt": "billionaire-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

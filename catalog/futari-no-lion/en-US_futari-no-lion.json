@@ -1,5 +1,9 @@
 {
     "title": "Futari no Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224576.jpg",
+        "alt": "futari-no-lion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

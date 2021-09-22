@@ -1,5 +1,9 @@
 {
     "title": "Rapaz Theme Park",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228236.jpg",
+        "alt": "rapaz-theme-park"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

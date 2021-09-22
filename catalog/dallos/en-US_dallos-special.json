@@ -1,5 +1,9 @@
 {
     "title": "Dallos Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/28390.jpg",
+        "alt": "dallos-special"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ダロス Special",

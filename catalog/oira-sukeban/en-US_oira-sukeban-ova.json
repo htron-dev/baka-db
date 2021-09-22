@@ -1,10 +1,14 @@
 {
     "title": "Oira Sukeban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/54629.jpg",
+        "alt": "oira-sukeban"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "おいら女蛮[スケバン]",
     "start_date": "1992-08-21",
-    "ending_song": "\"Oira Sukeban",
+    "ending_song": "\"Oira Sukeban: Taiatari no Yuuki (おいら女蛮 ★ 体当たりの勇気 ★)\" by 原田和代",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

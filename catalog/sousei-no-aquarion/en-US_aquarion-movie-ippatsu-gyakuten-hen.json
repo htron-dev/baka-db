@@ -1,5 +1,9 @@
 {
     "title": "Aquarion Movie: Ippatsu Gyakuten-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/53887.jpg",
+        "alt": "aquarion-movie-ippatsu-gyakuten-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版アクエリオン -壱発逆転篇-",

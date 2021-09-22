@@ -1,5 +1,9 @@
 {
     "title": "Zipangu Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72931.jpg",
+        "alt": "zipangu-night"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

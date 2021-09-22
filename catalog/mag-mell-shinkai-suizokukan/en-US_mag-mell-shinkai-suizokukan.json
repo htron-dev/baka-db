@@ -1,5 +1,9 @@
 {
     "title": "MagMell Shinkai Suizokukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204430.jpg",
+        "alt": "mag-mell-shinkai-suizokukan"
+    },
     "type": "manga",
     "original_name": "マグメル深海水族館",
     "start_date": "2017-04-08",

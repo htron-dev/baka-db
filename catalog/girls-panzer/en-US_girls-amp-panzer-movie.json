@@ -1,5 +1,9 @@
 {
     "title": "Girls &amp; Panzer Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1776/91467.jpg",
+        "alt": "girls-amp-panzer-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ガールズ&パンツァー 劇場版",

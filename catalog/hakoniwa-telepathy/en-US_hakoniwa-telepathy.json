@@ -1,5 +1,9 @@
 {
     "title": "Hakoniwa Telepathy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126237.jpg",
+        "alt": "hakoniwa-telepathy"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

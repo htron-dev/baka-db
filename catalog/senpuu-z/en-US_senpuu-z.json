@@ -1,5 +1,9 @@
 {
     "title": "Senpuu Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237815.jpg",
+        "alt": "senpuu-z"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "旋風Ｚ",

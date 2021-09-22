@@ -1,5 +1,9 @@
 {
     "title": "Anjuu no Chi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14650.jpg",
+        "alt": "anjuu-no-chi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

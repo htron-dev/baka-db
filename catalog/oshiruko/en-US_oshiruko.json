@@ -1,5 +1,9 @@
 {
     "title": "Oshiruko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/12471.jpg",
+        "alt": "oshiruko"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "おしるこ",

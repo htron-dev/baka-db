@@ -1,5 +1,9 @@
 {
     "title": "Zhongguo Xiongmao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1167/115499.jpg",
+        "alt": "zhongguo-xiongmao"
+    },
     "type": "tv-serie",
     "episodes": "156",
     "original_name": "中国熊猫",

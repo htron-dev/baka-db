@@ -1,5 +1,9 @@
 {
     "title": "Princess to Konyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/46973.jpg",
+        "alt": "princess-to-konyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

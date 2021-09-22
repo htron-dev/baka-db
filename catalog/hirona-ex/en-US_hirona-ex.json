@@ -1,5 +1,9 @@
 {
     "title": "Hirona Ex.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193706.jpg",
+        "alt": "hirona-ex"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "99",

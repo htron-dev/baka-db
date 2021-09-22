@@ -1,5 +1,9 @@
 {
     "title": "Hana to Junketsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181260.jpg",
+        "alt": "hana-to-junketsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

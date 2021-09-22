@@ -1,5 +1,9 @@
 {
     "title": "Suki♥Doki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15571.jpg",
+        "alt": "suki♥-doki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

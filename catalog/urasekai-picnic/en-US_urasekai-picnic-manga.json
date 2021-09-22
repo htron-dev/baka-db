@@ -1,5 +1,9 @@
 {
     "title": "Urasekai Picnic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211279.jpg",
+        "alt": "urasekai-picnic"
+    },
     "type": "manga",
     "original_name": "裏世界ピクニック",
     "start_date": "2018-02-10",

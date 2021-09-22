@@ -1,5 +1,9 @@
 {
     "title": "Mazu wa Ubaiai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110987.jpg",
+        "alt": "mazu-wa-ubaiai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

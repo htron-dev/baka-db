@@ -1,5 +1,9 @@
 {
     "title": "Queen's Blade Rebellion: Seiran no Hime Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100789.jpg",
+        "alt": "queens-blade-rebellion-seiran-no-hime-kishi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

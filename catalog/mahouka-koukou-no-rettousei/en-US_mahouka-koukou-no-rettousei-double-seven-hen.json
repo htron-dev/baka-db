@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei: Double Seven-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200962.jpg",
+        "alt": "mahouka-koukou-no-rettousei-double-seven-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Kiesarishi Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227160.jpg",
+        "alt": "kiesarishi-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

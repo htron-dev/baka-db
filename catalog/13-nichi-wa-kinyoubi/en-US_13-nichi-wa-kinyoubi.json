@@ -1,5 +1,9 @@
 {
     "title": "13 Nichi wa Kinyoubi?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83691.jpg",
+        "alt": "13-nichi-wa-kinyoubi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

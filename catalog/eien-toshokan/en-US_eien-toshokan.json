@@ -1,5 +1,9 @@
 {
     "title": "Eien Toshokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174378.jpg",
+        "alt": "eien-toshokan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

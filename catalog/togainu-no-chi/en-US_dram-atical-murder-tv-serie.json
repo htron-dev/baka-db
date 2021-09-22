@@ -1,12 +1,16 @@
 {
     "title": "DRAMAtical Murder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75642.jpg",
+        "alt": "dram-atical-murder"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ドラマティカル マーダー",
     "start_date": "2014-07-07",
     "end_date": "2014-07-07",
     "opening_song": "\"SLIP ON THE PUMPS\" by GOATBED (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"BOWIE KNIFE\" by GOATBED (eps 1-6, 11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

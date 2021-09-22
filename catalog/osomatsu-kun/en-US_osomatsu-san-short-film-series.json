@@ -1,5 +1,9 @@
 {
     "title": "Osomatsu-san Short Film Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/78354.jpg",
+        "alt": "osomatsu-san-short-film-series"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "おそ松さん ショートフィルムシリーズ",

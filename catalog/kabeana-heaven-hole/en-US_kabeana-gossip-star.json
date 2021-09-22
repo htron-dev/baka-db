@@ -1,5 +1,9 @@
 {
     "title": "Kabeana Gossip Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231379.jpg",
+        "alt": "kabeana-gossip-star"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

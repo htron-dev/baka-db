@@ -1,5 +1,9 @@
 {
     "title": "Tomadoiki no Owari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44991.jpg",
+        "alt": "tomadoiki-no-owari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

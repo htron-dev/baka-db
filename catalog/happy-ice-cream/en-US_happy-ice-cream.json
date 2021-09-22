@@ -1,5 +1,9 @@
 {
     "title": "Happy Ice Cream!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85605.jpg",
+        "alt": "happy-ice-cream"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

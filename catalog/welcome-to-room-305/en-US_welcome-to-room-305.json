@@ -1,5 +1,9 @@
 {
     "title": "Welcome to Room #305!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/167348.jpg",
+        "alt": "welcome-to-room-305"
+    },
     "type": "manhwa",
     "chapters": "171",
     "original_name": "어서오세요. 305호에!",

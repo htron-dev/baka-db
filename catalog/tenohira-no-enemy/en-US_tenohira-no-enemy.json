@@ -1,5 +1,9 @@
 {
     "title": "Tenohira no Enemy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161456.jpg",
+        "alt": "tenohira-no-enemy"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "47",

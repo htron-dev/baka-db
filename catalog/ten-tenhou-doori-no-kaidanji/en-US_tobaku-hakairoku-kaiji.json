@@ -1,5 +1,9 @@
 {
     "title": "Tobaku Hakairoku Kaiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3964.jpg",
+        "alt": "tobaku-hakairoku-kaiji"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "134",

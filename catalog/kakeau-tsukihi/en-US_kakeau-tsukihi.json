@@ -1,5 +1,9 @@
 {
     "title": "Kakeau Tsukihi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/249235.jpg",
+        "alt": "kakeau-tsukihi"
+    },
     "type": "manga",
     "original_name": "かけあうつきひ",
     "start_date": "2021-05-12",

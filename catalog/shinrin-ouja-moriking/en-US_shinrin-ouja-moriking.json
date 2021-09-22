@@ -1,5 +1,9 @@
 {
     "title": "Shinrin Ouja Moriking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233878.jpg",
+        "alt": "shinrin-ouja-moriking"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

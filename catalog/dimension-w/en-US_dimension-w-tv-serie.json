@@ -1,5 +1,9 @@
 {
     "title": "Dimension W",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/86304.jpg",
+        "alt": "dimension-w"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Dimension W",

@@ -1,5 +1,9 @@
 {
     "title": "Tadashii Majutsu no Asobikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70185.jpg",
+        "alt": "tadashii-majutsu-no-asobikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

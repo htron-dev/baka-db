@@ -1,5 +1,9 @@
 {
     "title": "Baramon no Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29778.jpg",
+        "alt": "baramon-no-kazoku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

@@ -1,5 +1,9 @@
 {
     "title": "Soft Metal Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186589.jpg",
+        "alt": "soft-metal-vampire"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

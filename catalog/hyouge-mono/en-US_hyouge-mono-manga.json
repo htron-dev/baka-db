@@ -1,5 +1,9 @@
 {
     "title": "Hyouge Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199292.jpg",
+        "alt": "hyouge-mono"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "273",

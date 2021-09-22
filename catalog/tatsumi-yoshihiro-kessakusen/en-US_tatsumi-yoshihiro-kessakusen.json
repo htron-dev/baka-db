@@ -1,5 +1,9 @@
 {
     "title": "Tatsumi Yoshihiro Kessakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199129.jpg",
+        "alt": "tatsumi-yoshihiro-kessakusen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

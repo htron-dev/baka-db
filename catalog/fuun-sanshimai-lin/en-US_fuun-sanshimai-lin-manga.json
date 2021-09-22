@@ -1,5 +1,9 @@
 {
     "title": "Fuun Sanshimai Lin³",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180629.jpg",
+        "alt": "fuun-sanshimai-lin"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

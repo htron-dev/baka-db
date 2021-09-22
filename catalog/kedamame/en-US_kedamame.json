@@ -1,5 +1,9 @@
 {
     "title": "Kedamame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221372.jpg",
+        "alt": "kedamame"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

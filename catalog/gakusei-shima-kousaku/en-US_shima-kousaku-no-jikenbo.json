@@ -1,5 +1,9 @@
 {
     "title": "Shima Kousaku no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215017.jpg",
+        "alt": "shima-kousaku-no-jikenbo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

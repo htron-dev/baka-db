@@ -1,5 +1,9 @@
 {
     "title": "Danshi x Joshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12711.jpg",
+        "alt": "danshi-x-joshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "男子 × 女子",

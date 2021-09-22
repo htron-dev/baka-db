@@ -1,5 +1,9 @@
 {
     "title": "Tenkei no Otome: Mitsuai Gyokuza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194399.jpg",
+        "alt": "tenkei-no-otome-mitsuai-gyokuza"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

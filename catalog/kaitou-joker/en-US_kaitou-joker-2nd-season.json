@@ -1,5 +1,9 @@
 {
     "title": "Kaitou Joker 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72812.jpg",
+        "alt": "kaitou-joker-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "怪盗ジョーカー シーズン",

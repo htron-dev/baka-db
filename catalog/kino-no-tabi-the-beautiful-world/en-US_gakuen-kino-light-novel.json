@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Kino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186220.jpg",
+        "alt": "gakuen-kino"
+    },
     "type": "light-novel",
     "original_name": "学園キノ",
     "start_date": "2006-07-10",

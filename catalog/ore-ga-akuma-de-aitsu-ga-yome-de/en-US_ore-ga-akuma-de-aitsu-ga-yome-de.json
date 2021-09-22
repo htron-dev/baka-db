@@ -1,5 +1,9 @@
 {
     "title": "Ore ga Akuma de, Aitsu ga Yome de.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/71611.jpg",
+        "alt": "ore-ga-akuma-de-aitsu-ga-yome-de"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

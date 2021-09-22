@@ -1,5 +1,9 @@
 {
     "title": "Unmei ni KISS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/146827.jpg",
+        "alt": "unmei-ni-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,12 +1,16 @@
 {
     "title": "Glasslip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/64265.jpg",
+        "alt": "glasslip"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "グラスリップ",
     "start_date": "2014-07-03",
     "end_date": "2014-07-03",
     "opening_song": "\"Natsu no Hi to Kimi no Koe (夏の日と君の声)\" by ChouCho (eps 1-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Toumei na Sekai (透明な世界)\" by nano.RIPE (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "romance",

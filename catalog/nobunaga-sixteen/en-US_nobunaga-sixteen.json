@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga Sixteen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165577.jpg",
+        "alt": "nobunaga-sixteen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

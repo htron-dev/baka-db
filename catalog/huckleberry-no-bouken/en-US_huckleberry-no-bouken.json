@@ -1,5 +1,9 @@
 {
     "title": "Huckleberry no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/3207.jpg",
+        "alt": "huckleberry-no-bouken"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ハックルベリィの冒険",

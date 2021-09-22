@@ -1,5 +1,9 @@
 {
     "title": "Omoni Naitemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66395.jpg",
+        "alt": "omoni-naitemasu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "124",

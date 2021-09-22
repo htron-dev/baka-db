@@ -1,5 +1,9 @@
 {
     "title": "Renai Shoumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18663.jpg",
+        "alt": "renai-shoumei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

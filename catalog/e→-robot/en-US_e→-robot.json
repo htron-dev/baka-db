@@ -1,5 +1,9 @@
 {
     "title": "E→Robot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153555.jpg",
+        "alt": "e→-robot"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

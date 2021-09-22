@@ -1,5 +1,9 @@
 {
     "title": "Jungle Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/46681.jpg",
+        "alt": "jungle-wars"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ジャングルウォーズ",

@@ -1,5 +1,9 @@
 {
     "title": "Yakushoku Distopiary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151194.jpg",
+        "alt": "yakushoku-distopiary"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "35",

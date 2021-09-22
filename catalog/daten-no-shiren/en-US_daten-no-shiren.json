@@ -1,5 +1,9 @@
 {
     "title": "Daten no Shiren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176328.jpg",
+        "alt": "daten-no-shiren"
+    },
     "type": "light-novel",
     "original_name": "堕天のシレン",
     "start_date": "2015-01-10",

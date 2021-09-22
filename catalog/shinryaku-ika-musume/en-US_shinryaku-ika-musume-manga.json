@@ -1,5 +1,9 @@
 {
     "title": "Shinryaku! Ika Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53447.jpg",
+        "alt": "shinryaku-ika-musume"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "419",

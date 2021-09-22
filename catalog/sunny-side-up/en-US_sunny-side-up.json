@@ -1,5 +1,9 @@
 {
     "title": "Sunny Side Up.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41688.jpg",
+        "alt": "sunny-side-up"
+    },
     "type": "manga",
     "original_name": "サニーサイドアップ",
     "tags": [

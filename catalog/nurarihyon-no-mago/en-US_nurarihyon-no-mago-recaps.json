@@ -1,12 +1,16 @@
 {
     "title": "Nurarihyon no Mago Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/26961.jpg",
+        "alt": "nurarihyon-no-mago-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ぬらりひょんの孫 総集編",
     "start_date": "2010-09-28",
     "end_date": "2010-09-28",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Fast Forward\" by Monkey Majik (ep 1)",
+    "ending_song": "#1: \"Sparky☆Start\" by Katate☆SIZE (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Dream Club Destiny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36811.jpg",
+        "alt": "dream-club-destiny"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

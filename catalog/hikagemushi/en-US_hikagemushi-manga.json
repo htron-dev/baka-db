@@ -1,5 +1,9 @@
 {
     "title": "Hikagemushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197897.jpg",
+        "alt": "hikagemushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

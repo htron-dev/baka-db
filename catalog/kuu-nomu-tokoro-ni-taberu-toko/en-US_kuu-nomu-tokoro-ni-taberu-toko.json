@@ -1,5 +1,9 @@
 {
     "title": "Kuu Nomu Tokoro ni Taberu Toko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118933.jpg",
+        "alt": "kuu-nomu-tokoro-ni-taberu-toko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "くうのむところにたべるとこ",

@@ -1,5 +1,9 @@
 {
     "title": "Ecchi no Kamisama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150550.jpg",
+        "alt": "ecchi-no-kamisama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

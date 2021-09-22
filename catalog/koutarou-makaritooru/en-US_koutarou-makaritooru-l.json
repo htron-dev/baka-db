@@ -1,5 +1,9 @@
 {
     "title": "Koutarou Makaritooru! L",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75235.jpg",
+        "alt": "koutarou-makaritooru-l"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "コータローまかりとおる! L",

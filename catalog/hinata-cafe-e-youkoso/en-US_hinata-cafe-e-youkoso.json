@@ -1,5 +1,9 @@
 {
     "title": "Hinata Café e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152844.jpg",
+        "alt": "hinata-cafe-e-youkoso"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ひなた Cafe へようこそ",

@@ -1,5 +1,9 @@
 {
     "title": "Break Shot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75485.jpg",
+        "alt": "break-shot"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "152",

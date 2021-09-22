@@ -1,5 +1,9 @@
 {
     "title": "Rean no Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/28902.jpg",
+        "alt": "rean-no-tsubasa"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "リーンの翼",

@@ -1,5 +1,9 @@
 {
     "title": "Shiny Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126795.jpg",
+        "alt": "shiny-doll"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

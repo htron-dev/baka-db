@@ -1,5 +1,9 @@
 {
     "title": "Mujaki na Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/61197.jpg",
+        "alt": "mujaki-na-princess"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

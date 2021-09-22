@@ -1,5 +1,9 @@
 {
     "title": "Kaoru-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3625.jpg",
+        "alt": "kaoru-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

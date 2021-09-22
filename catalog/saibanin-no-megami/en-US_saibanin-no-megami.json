@@ -1,5 +1,9 @@
 {
     "title": "Saibanin no Megami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63859.jpg",
+        "alt": "saibanin-no-megami"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "裁判員の女神",

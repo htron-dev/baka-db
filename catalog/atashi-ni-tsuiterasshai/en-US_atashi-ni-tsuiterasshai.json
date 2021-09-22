@@ -1,5 +1,9 @@
 {
     "title": "Atashi ni Tsuiterasshai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9976.jpg",
+        "alt": "atashi-ni-tsuiterasshai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あたしについてらっしゃい",

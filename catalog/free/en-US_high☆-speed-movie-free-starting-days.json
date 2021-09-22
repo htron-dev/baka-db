@@ -1,5 +1,9 @@
 {
     "title": "High☆Speed! Movie: Free! Starting Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76967.jpg",
+        "alt": "high☆-speed-movie-free-starting-days"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ハイ ☆ スピード！ -Free! Starting Days-",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Free!_(anime"
+            "link": "http://en.wikipedia.org/wiki/Free!_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Reversible!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62059.jpg",
+        "alt": "reversible"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

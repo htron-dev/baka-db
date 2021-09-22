@@ -1,5 +1,9 @@
 {
     "title": "Mound no Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217423.jpg",
+        "alt": "mound-no-taiyou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

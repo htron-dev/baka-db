@@ -1,5 +1,9 @@
 {
     "title": "Black Galaxy 6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124559.jpg",
+        "alt": "black-galaxy-6"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "23",

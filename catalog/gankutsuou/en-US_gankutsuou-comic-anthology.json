@@ -1,5 +1,9 @@
 {
     "title": "Gankutsuou Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232627.jpg",
+        "alt": "gankutsuou-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "巌窟王コミックアンソロジー",

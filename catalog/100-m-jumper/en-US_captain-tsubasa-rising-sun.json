@@ -1,5 +1,9 @@
 {
     "title": "Captain Tsubasa: Rising Sun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125043.jpg",
+        "alt": "captain-tsubasa-rising-sun"
+    },
     "type": "manga",
     "original_name": "キャプテン翼 ライジングサン",
     "start_date": "2013-12-28",

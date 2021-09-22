@@ -1,5 +1,9 @@
 {
     "title": "Sotsugyou Sukuranburu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39757.jpg",
+        "alt": "sotsugyou-sukuranburu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

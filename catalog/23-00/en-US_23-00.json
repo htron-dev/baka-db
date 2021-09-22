@@ -1,9 +1,13 @@
 {
     "title": "23:00",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159390.jpg",
+        "alt": "23-00"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",
-    "original_name": "23",
+    "original_name": "23:00",
     "start_date": "2001-04-24",
     "end_date": "2001-04-24",
     "tags": [

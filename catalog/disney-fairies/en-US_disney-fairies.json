@@ -1,5 +1,9 @@
 {
     "title": "Disney Fairies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24864.jpg",
+        "alt": "disney-fairies"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ディズニーフェアリーズ文庫マンガシリーズ",

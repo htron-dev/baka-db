@@ -1,5 +1,9 @@
 {
     "title": "Hinata no Hiyoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17342.jpg",
+        "alt": "hinata-no-hiyoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

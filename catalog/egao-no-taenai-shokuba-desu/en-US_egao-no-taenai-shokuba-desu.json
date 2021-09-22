@@ -1,5 +1,9 @@
 {
     "title": "Egao no Taenai Shokuba desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225566.jpg",
+        "alt": "egao-no-taenai-shokuba-desu"
+    },
     "type": "manga",
     "original_name": "笑顔のたえない職場です。",
     "start_date": "2019-05-18",

@@ -1,5 +1,9 @@
 {
     "title": "Cat's World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14323.jpg",
+        "alt": "cats-world"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Asu no Yoichi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/20621.jpg",
+        "alt": "asu-no-yoichi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "明日のよいち！",

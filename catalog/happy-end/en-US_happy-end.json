@@ -1,5 +1,9 @@
 {
     "title": "Happy End.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199861.jpg",
+        "alt": "happy-end"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

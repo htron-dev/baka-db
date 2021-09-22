@@ -1,5 +1,9 @@
 {
     "title": "Atrium no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164316.jpg",
+        "alt": "atrium-no-koibito"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

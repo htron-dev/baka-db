@@ -1,5 +1,9 @@
 {
     "title": "Breath of Fire - Tsubasa no Oujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13124.jpg",
+        "alt": "breath-of-fire-tsubasa-no-oujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

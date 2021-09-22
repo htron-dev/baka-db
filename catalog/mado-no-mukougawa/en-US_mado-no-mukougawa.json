@@ -1,5 +1,9 @@
 {
     "title": "Mado no Mukougawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/69723.jpg",
+        "alt": "mado-no-mukougawa"
+    },
     "type": "manga",
     "original_name": "マドの向こう側",
     "start_date": "2012-01-27",

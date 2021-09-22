@@ -1,5 +1,9 @@
 {
     "title": "I'm Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159837.jpg",
+        "alt": "im-home"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

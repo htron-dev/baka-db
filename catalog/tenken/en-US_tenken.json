@@ -1,5 +1,9 @@
 {
     "title": "Tenken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35810.jpg",
+        "alt": "tenken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

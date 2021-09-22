@@ -1,5 +1,9 @@
 {
     "title": "Aigan Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208563.jpg",
+        "alt": "aigan-danshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

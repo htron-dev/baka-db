@@ -1,5 +1,9 @@
 {
     "title": "Monte Cristo Hakushaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167814.jpg",
+        "alt": "monte-cristo-hakushaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

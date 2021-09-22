@@ -1,5 +1,9 @@
 {
     "title": "Bitch to Bocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136775.jpg",
+        "alt": "bitch-to-bocchi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ビッチとぼっち",

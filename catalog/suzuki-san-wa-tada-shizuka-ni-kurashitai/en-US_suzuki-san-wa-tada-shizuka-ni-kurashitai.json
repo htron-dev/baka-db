@@ -1,5 +1,9 @@
 {
     "title": "Suzuki-san wa Tada Shizuka ni Kurashitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167470.jpg",
+        "alt": "suzuki-san-wa-tada-shizuka-ni-kurashitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

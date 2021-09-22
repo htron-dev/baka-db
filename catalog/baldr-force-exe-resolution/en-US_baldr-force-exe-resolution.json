@@ -1,11 +1,15 @@
 {
     "title": "Baldr Force Exe Resolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76295.jpg",
+        "alt": "baldr-force-exe-resolution"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "バルドフォース　エグゼ　レソリューション",
     "start_date": "2006-11-10",
     "end_date": "2006-11-10",
-    "opening_song": "#01",
+    "opening_song": "#01 : \"Face of Fact -RESOLUTION ver.-\" by Kotoko",
     "ending_song": "\"undelete\" by Mami Kawada",
     "rating": "R+ - Mild Nudity",
     "tags": [

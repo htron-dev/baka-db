@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Bocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177514.jpg",
+        "alt": "sengoku-bocchi"
+    },
     "type": "light-novel",
     "original_name": "戦国ぼっち",
     "start_date": "2013-04-05",

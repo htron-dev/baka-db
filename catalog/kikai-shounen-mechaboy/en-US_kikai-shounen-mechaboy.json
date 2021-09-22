@@ -1,5 +1,9 @@
 {
     "title": "Kikai Shounen Mechaboy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175157.jpg",
+        "alt": "kikai-shounen-mechaboy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

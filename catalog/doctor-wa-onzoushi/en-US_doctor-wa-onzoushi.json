@@ -1,5 +1,9 @@
 {
     "title": "Doctor wa Onzoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247152.jpg",
+        "alt": "doctor-wa-onzoushi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ドクターは御曹子",

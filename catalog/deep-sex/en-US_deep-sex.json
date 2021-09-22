@@ -1,5 +1,9 @@
 {
     "title": "Deep Sex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5068.jpg",
+        "alt": "deep-sex"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

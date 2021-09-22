@@ -1,5 +1,9 @@
 {
     "title": "Kurenai Niou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24883.jpg",
+        "alt": "kurenai-niou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

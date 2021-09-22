@@ -1,5 +1,9 @@
 {
     "title": "Terebi-kun no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88765.jpg",
+        "alt": "terebi-kun-no-kimochi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

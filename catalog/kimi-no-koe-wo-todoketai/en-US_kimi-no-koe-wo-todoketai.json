@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Koe wo Todoketai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86704.jpg",
+        "alt": "kimi-no-koe-wo-todoketai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "きみの声をとどけたい",

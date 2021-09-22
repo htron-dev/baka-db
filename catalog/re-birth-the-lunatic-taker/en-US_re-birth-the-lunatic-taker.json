@@ -1,5 +1,9 @@
 {
     "title": "Re:Birth: The Lunatic Taker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221750.jpg",
+        "alt": "re-birth-the-lunatic-taker"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "29",

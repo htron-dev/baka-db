@@ -1,5 +1,9 @@
 {
     "title": "Paradise Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245420.jpg",
+        "alt": "paradise-gakuen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

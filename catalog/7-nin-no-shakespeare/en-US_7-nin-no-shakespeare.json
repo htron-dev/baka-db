@@ -1,5 +1,9 @@
 {
     "title": "7-nin no Shakespeare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184030.jpg",
+        "alt": "7-nin-no-shakespeare"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "66",

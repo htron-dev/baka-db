@@ -1,5 +1,9 @@
 {
     "title": "Baby Face no Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152179.jpg",
+        "alt": "baby-face-no-natsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

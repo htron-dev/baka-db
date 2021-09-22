@@ -1,5 +1,9 @@
 {
     "title": "Renai Yakkyoku Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22700.jpg",
+        "alt": "renai-yakkyoku-kitan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋愛薬局綺譚",

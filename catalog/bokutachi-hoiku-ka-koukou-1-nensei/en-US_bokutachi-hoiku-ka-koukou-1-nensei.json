@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi Hoiku-ka Koukou 1-nensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205000.jpg",
+        "alt": "bokutachi-hoiku-ka-koukou-1-nensei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "43",

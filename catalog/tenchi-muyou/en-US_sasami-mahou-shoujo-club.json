@@ -1,5 +1,9 @@
 {
     "title": "Sasami: Mahou Shoujo Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75246.jpg",
+        "alt": "sasami-mahou-shoujo-club"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "砂沙美 -魔法少女クラブ-",

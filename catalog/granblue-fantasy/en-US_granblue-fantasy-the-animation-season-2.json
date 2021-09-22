@@ -1,5 +1,9 @@
 {
     "title": "Granblue Fantasy The Animation Season 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1948/103308.jpg",
+        "alt": "granblue-fantasy-the-animation-season-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "グランブルーファンタジー The Animation Season2",

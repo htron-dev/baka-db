@@ -1,5 +1,9 @@
 {
     "title": "Senpai, Oshiete Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180682.jpg",
+        "alt": "senpai-oshiete-kudasai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

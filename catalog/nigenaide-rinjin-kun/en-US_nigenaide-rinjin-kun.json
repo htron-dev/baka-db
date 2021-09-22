@@ -1,5 +1,9 @@
 {
     "title": "Nigenaide, Rinjin-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225062.jpg",
+        "alt": "nigenaide-rinjin-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

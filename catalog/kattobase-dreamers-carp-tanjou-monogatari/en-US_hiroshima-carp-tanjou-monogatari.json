@@ -1,5 +1,9 @@
 {
     "title": "Hiroshima Carp Tanjou Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142101.jpg",
+        "alt": "hiroshima-carp-tanjou-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "広島カープ誕生物語",

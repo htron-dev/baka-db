@@ -1,5 +1,9 @@
 {
     "title": "Kenja ga Nakama ni Natta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247810.jpg",
+        "alt": "kenja-ga-nakama-ni-natta"
+    },
     "type": "manga",
     "original_name": "賢者が仲間になった！",
     "start_date": "2021-03-24",

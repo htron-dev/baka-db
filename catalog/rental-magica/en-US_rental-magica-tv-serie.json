@@ -1,12 +1,16 @@
 {
     "title": "Rental Magica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/73999.jpg",
+        "alt": "rental-magica"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "レンタルマギカ",
     "start_date": "2007-10-08",
     "end_date": "2007-10-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sora ni Saku (宇宙(そら)に咲く)\" by Lisa Komine (eps 2-5, 13-18, 22)",
+    "ending_song": "#1: \"Sora ni Saku (宇宙(そら)に咲く)\" by Lisa Komine (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

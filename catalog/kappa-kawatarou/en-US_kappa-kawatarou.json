@@ -1,5 +1,9 @@
 {
     "title": "Kappa Kawatarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71724.jpg",
+        "alt": "kappa-kawatarou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かっぱ川太郎",

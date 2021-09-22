@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Shounen - Go! Go! Ichigo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11405.jpg",
+        "alt": "shoujo-shounen-go-go-ichigo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

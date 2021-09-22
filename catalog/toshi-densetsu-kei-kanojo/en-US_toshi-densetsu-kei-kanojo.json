@@ -1,5 +1,9 @@
 {
     "title": "Toshi Densetsu-kei Kanojo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174466.jpg",
+        "alt": "toshi-densetsu-kei-kanojo"
+    },
     "type": "light-novel",
     "original_name": "都市伝説系彼女。",
     "start_date": "2016-03-25",

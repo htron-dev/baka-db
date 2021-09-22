@@ -1,5 +1,9 @@
 {
     "title": "Robot Girls Z Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/73636.jpg",
+        "alt": "robot-girls-z-plus"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "ロボットガールズ Z プラス",

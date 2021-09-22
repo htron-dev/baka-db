@@ -1,5 +1,9 @@
 {
     "title": "BanG Dream!: Asonjatta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/89692.jpg",
+        "alt": "ban-g-dream-asonjatta"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "BanG Dream！ 遊んじゃった！",

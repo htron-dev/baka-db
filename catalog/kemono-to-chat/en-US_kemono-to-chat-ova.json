@@ -1,5 +1,9 @@
 {
     "title": "Kemono to Chat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/16117.jpg",
+        "alt": "kemono-to-chat"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "けものとチャット",

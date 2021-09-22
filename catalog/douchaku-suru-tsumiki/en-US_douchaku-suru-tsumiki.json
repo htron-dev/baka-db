@@ -1,5 +1,9 @@
 {
     "title": "Douchaku suru Tsumiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192950.jpg",
+        "alt": "douchaku-suru-tsumiki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

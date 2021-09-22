@@ -1,5 +1,9 @@
 {
     "title": "Karin wo Idaita Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176441.jpg",
+        "alt": "karin-wo-idaita-shoujo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "48",

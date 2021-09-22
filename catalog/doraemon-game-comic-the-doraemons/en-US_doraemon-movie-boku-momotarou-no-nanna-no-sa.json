@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie: Boku, Momotarou no Nanna no Sa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/72407.jpg",
+        "alt": "doraemon-movie-boku-momotarou-no-nanna-no-sa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん ぼく、桃太郎のなんなのさ",

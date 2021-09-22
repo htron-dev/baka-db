@@ -1,5 +1,9 @@
 {
     "title": "Kamakiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/15092.jpg",
+        "alt": "kamakiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

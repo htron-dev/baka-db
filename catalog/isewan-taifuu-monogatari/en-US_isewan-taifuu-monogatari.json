@@ -1,5 +1,9 @@
 {
     "title": "Isewan Taifuu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/64623.jpg",
+        "alt": "isewan-taifuu-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "伊勢湾台風物語",

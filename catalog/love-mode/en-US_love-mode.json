@@ -1,5 +1,9 @@
 {
     "title": "Love Mode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5214.jpg",
+        "alt": "love-mode"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "54",

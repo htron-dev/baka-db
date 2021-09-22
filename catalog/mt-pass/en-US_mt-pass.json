@@ -1,5 +1,9 @@
 {
     "title": "MT Pass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7250.jpg",
+        "alt": "mt-pass"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

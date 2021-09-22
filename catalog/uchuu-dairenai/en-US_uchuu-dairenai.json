@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Dairenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194244.jpg",
+        "alt": "uchuu-dairenai"
+    },
     "type": "manga",
     "original_name": "宇宙大恋愛",
     "start_date": "2014-09-01",

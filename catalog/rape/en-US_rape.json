@@ -1,5 +1,9 @@
 {
     "title": "Rape",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71329.jpg",
+        "alt": "rape"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

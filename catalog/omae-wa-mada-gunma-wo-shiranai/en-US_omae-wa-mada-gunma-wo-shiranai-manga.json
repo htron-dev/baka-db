@@ -1,5 +1,9 @@
 {
     "title": "Omae wa Mada Gunma wo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191167.jpg",
+        "alt": "omae-wa-mada-gunma-wo-shiranai"
+    },
     "type": "manga",
     "original_name": "お前はまだグンマを知らない",
     "start_date": "2013-10-25",

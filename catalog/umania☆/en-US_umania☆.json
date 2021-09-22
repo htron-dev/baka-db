@@ -1,5 +1,9 @@
 {
     "title": "Umania☆",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92505.jpg",
+        "alt": "umania☆"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

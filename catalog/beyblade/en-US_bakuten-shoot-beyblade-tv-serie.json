@@ -1,12 +1,16 @@
 {
     "title": "Bakuten Shoot Beyblade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/21118.jpg",
+        "alt": "bakuten-shoot-beyblade"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "爆転シュート　ベイブレード",
     "start_date": "2001-01-08",
     "end_date": "2001-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Fighting Spirits-SONG FOR BEYBLADE-\" by system-B",
+    "ending_song": "#1: \"Cheer Song\" by system-B",
     "rating": "PG - Children",
     "tags": [
         "action",

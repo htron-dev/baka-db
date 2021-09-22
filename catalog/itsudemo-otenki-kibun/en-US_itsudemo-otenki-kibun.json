@@ -1,5 +1,9 @@
 {
     "title": "Itsudemo Otenki Kibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11224.jpg",
+        "alt": "itsudemo-otenki-kibun"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "いつでもお天気気分",

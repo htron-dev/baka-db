@@ -1,5 +1,9 @@
 {
     "title": "Hangyakusei Million Arthur",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1679/96158.jpg",
+        "alt": "hangyakusei-million-arthur"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "叛逆性ミリオンアーサー",

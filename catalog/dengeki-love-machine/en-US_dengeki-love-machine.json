@@ -1,5 +1,9 @@
 {
     "title": "Dengeki Love Machine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4695.jpg",
+        "alt": "dengeki-love-machine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

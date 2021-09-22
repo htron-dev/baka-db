@@ -1,5 +1,9 @@
 {
     "title": "Ase to Sekken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215276.jpg",
+        "alt": "ase-to-sekken"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "104",

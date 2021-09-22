@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Kyou mo Katazukanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245157.jpg",
+        "alt": "kanojo-wa-kyou-mo-katazukanai"
+    },
     "type": "manga",
     "original_name": "カノジョは今日もかたづかない",
     "start_date": "2019-08-08",

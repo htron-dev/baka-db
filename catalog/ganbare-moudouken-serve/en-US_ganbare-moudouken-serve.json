@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Moudouken Serve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/27362.jpg",
+        "alt": "ganbare-moudouken-serve"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "がんばれ!盲導犬サーブ",

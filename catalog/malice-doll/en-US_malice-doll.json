@@ -1,5 +1,9 @@
 {
     "title": "Malice@Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1277/106345.jpg",
+        "alt": "malice-doll"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "Malice@doll マリスドール",

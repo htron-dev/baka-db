@@ -1,5 +1,9 @@
 {
     "title": "Tsubaki-sou 101-goushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161631.jpg",
+        "alt": "tsubaki-sou-101-goushitsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

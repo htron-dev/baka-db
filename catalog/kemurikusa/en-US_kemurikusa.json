@@ -1,5 +1,9 @@
 {
     "title": "Kemurikusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1406/90550.jpg",
+        "alt": "kemurikusa"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ケムリクサ",

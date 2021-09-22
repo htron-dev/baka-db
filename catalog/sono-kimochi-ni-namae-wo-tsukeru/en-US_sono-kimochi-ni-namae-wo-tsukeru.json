@@ -1,5 +1,9 @@
 {
     "title": "Sono Kimochi ni Namae wo Tsukeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30400.jpg",
+        "alt": "sono-kimochi-ni-namae-wo-tsukeru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "その気持ちに名前をつける",

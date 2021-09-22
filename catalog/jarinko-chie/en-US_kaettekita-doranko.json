@@ -1,5 +1,9 @@
 {
     "title": "Kaettekita Doranko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180878.jpg",
+        "alt": "kaettekita-doranko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "30",

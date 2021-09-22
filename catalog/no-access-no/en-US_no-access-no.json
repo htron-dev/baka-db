@@ -1,5 +1,9 @@
 {
     "title": "No Access NO!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18646.jpg",
+        "alt": "no-access-no"
+    },
     "type": "manhwa",
     "volumes": "11",
     "original_name": "더이상접근NO!",

@@ -1,5 +1,9 @@
 {
     "title": "Ore to Kanojo no Moeyo Pen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151715.jpg",
+        "alt": "ore-to-kanojo-no-moeyo-pen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

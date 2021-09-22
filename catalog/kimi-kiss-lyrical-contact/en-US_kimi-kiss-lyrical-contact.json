@@ -1,5 +1,9 @@
 {
     "title": "KimiKiss: Lyrical Contact",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164122.jpg",
+        "alt": "kimi-kiss-lyrical-contact"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

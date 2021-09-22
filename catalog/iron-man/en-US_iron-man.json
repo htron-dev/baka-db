@@ -1,5 +1,9 @@
 {
     "title": "Iron Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26227.jpg",
+        "alt": "iron-man"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アイアンマン",

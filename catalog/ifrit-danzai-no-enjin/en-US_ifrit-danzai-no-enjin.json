@@ -1,5 +1,9 @@
 {
     "title": "Ifrit: Danzai no Enjin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89165.jpg",
+        "alt": "ifrit-danzai-no-enjin"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "イフリート～断罪の炎人",

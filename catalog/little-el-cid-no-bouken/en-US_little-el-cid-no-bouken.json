@@ -1,12 +1,16 @@
 {
     "title": "Little El Cid no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/11563.jpg",
+        "alt": "little-el-cid-no-bouken"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "リトル・エル・シドの冒険",
     "start_date": "1984-02-06",
     "end_date": "1984-02-06",
     "opening_song": "\"El mundo de Ruy\" by ???",
-    "ending_song": "#01",
+    "ending_song": "#01:\"Ruy, el pequeño Cid\" by ???",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Henshin Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145341.jpg",
+        "alt": "henshin-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

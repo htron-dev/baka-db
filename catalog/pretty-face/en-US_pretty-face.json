@@ -1,5 +1,9 @@
 {
     "title": "Pretty Face",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123699.jpg",
+        "alt": "pretty-face"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "53",

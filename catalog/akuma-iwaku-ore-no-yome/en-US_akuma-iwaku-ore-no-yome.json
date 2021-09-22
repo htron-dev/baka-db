@@ -1,5 +1,9 @@
 {
     "title": "Akuma Iwaku Ore no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215587.jpg",
+        "alt": "akuma-iwaku-ore-no-yome"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "33",

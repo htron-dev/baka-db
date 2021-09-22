@@ -1,5 +1,9 @@
 {
     "title": "Kurau Phantom Memory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1705/94509.jpg",
+        "alt": "kurau-phantom-memory"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "クラウ ファントムメモリー",

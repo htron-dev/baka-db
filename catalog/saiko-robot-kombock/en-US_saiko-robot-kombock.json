@@ -1,5 +1,9 @@
 {
     "title": "Saiko Robot Kombock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/20756.jpg",
+        "alt": "saiko-robot-kombock"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "로보짱 큐빅스",

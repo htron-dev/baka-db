@@ -1,5 +1,9 @@
 {
     "title": "Ankoku Kishi wo Nugasanaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167512.jpg",
+        "alt": "ankoku-kishi-wo-nugasanaide"
+    },
     "type": "light-novel",
     "original_name": "暗黒騎士を脱がさないで",
     "start_date": "2015-11-20",

@@ -1,5 +1,9 @@
 {
     "title": "Ryo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1459/116393.jpg",
+        "alt": "ryo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "龍-RYO-",

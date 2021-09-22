@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Taisen Pairon: Another Paradox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178445.jpg",
+        "alt": "momoiro-taisen-pairon-another-paradox"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

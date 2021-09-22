@@ -1,5 +1,9 @@
 {
     "title": "Inu to Omawari-san.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152445.jpg",
+        "alt": "inu-to-omawari-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

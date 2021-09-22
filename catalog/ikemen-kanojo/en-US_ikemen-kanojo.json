@@ -1,5 +1,9 @@
 {
     "title": "Ikemen Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121165.jpg",
+        "alt": "ikemen-kanojo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "いけめん彼女",

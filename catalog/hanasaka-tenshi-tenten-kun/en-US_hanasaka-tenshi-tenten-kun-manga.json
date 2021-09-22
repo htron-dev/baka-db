@@ -1,5 +1,9 @@
 {
     "title": "Hanasaka Tenshi Tenten-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167360.jpg",
+        "alt": "hanasaka-tenshi-tenten-kun"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "161",

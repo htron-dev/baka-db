@@ -1,5 +1,9 @@
 {
     "title": "Yuusha, Yamemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212662.jpg",
+        "alt": "yuusha-yamemasu"
+    },
     "type": "manga",
     "original_name": "勇者、辞めます",
     "start_date": "2018-05-31",

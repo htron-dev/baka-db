@@ -1,5 +1,9 @@
 {
     "title": "Shitsujisama, Ubatte!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31318.jpg",
+        "alt": "shitsujisama-ubatte"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "執事様、奪って!",

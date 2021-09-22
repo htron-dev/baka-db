@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai-san Oshizuka ni!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16834.jpg",
+        "alt": "mahoutsukai-san-oshizuka-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "魔法使いさんおしずかに!",

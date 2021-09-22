@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Kai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/14114.jpg",
+        "alt": "higurashi-no-naku-koro-ni-kai"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ひぐらしのなく頃に解",

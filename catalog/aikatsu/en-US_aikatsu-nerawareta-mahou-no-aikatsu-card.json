@@ -1,5 +1,9 @@
 {
     "title": "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78662.jpg",
+        "alt": "aikatsu-nerawareta-mahou-no-aikatsu-card"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アイカツ！〜ねらわれた魔法のアイカツ！カード〜",

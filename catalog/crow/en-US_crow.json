@@ -1,5 +1,9 @@
 {
     "title": "Crow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152279.jpg",
+        "alt": "crow"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

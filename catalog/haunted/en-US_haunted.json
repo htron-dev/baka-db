@@ -1,5 +1,9 @@
 {
     "title": "Haunted!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163090.jpg",
+        "alt": "haunted"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "25",

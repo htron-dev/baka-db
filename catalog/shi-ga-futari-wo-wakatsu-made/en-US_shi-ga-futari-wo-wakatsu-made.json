@@ -1,5 +1,9 @@
 {
     "title": "Shi ga Futari wo Wakatsu made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167767.jpg",
+        "alt": "shi-ga-futari-wo-wakatsu-made"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "217",

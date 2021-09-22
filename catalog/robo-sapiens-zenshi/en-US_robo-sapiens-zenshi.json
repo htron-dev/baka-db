@@ -1,5 +1,9 @@
 {
     "title": "Robo sapiens Zenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226233.jpg",
+        "alt": "robo-sapiens-zenshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

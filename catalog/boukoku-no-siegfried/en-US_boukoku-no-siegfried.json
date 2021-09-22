@@ -1,5 +1,9 @@
 {
     "title": "Boukoku no Siegfried",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162288.jpg",
+        "alt": "boukoku-no-siegfried"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

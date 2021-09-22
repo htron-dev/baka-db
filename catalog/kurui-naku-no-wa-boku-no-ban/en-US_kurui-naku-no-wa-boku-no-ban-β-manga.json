@@ -1,5 +1,9 @@
 {
     "title": "Kurui Naku no wa Boku no Ban ;β",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228347.jpg",
+        "alt": "kurui-naku-no-wa-boku-no-ban-β"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

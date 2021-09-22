@@ -1,5 +1,9 @@
 {
     "title": "Nee, Kocchi wo Muite?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158415.jpg",
+        "alt": "nee-kocchi-wo-muite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

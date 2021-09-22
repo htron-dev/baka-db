@@ -1,5 +1,9 @@
 {
     "title": "Barairo no Seisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160638.jpg",
+        "alt": "barairo-no-seisen"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "100",

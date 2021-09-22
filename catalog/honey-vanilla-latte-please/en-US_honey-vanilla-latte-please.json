@@ -1,5 +1,9 @@
 {
     "title": "Honey Vanilla Latte Please!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51965.jpg",
+        "alt": "honey-vanilla-latte-please"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

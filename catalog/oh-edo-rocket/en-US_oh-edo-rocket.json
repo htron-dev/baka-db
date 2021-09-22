@@ -1,5 +1,9 @@
 {
     "title": "Oh! Edo Rocket",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75790.jpg",
+        "alt": "oh-edo-rocket"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "大江戸ロケット",

@@ -1,5 +1,9 @@
 {
     "title": "Isekai Igan no Travelogue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160668.jpg",
+        "alt": "isekai-igan-no-travelogue"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",

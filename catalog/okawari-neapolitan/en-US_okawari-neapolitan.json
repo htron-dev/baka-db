@@ -1,5 +1,9 @@
 {
     "title": "Okawari Neapolitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155684.jpg",
+        "alt": "okawari-neapolitan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Katte ni Kaizou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/28416.jpg",
+        "alt": "katte-ni-kaizou"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "かってに改蔵",

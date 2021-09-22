@@ -1,5 +1,9 @@
 {
     "title": "Kanami Ikuseichuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226382.jpg",
+        "alt": "kanami-ikuseichuu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "46",

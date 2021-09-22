@@ -1,5 +1,9 @@
 {
     "title": "Boys Bad Romance!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227343.jpg",
+        "alt": "boys-bad-romance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

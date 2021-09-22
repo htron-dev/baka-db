@@ -1,5 +1,9 @@
 {
     "title": "Koi Koi Country Road",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13991.jpg",
+        "alt": "koi-koi-country-road"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

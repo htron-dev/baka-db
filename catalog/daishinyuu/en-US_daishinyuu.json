@@ -1,5 +1,9 @@
 {
     "title": "Daishinyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236176.jpg",
+        "alt": "daishinyuu"
+    },
     "type": "manga",
     "original_name": "大親友",
     "start_date": "2019-06-04",

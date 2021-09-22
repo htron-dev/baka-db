@@ -1,12 +1,16 @@
 {
     "title": "Mahoutsukai Precure!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/78333.jpg",
+        "alt": "mahoutsukai-precure"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "魔法つかいプリキュア！",
     "start_date": "2016-02-07",
     "end_date": "2016-02-07",
     "opening_song": "\"Dokkin♢Mahoutsukai Precure! (Dokkin♢ 魔法つかいプリキュア！)\" by Rie Kitagawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"CURE UP↑RA♡PA☆PA! Hohoemi ni Naru Mahou (CURE UP↑RA♡PA☆PA！〜ほほえみになる魔法〜)\" by Cure Miracle (Rie Takahashi) & Cure Magical (Yui Horie) (eps 1-21)",
     "rating": "G - All Ages",
     "tags": [
         "action",

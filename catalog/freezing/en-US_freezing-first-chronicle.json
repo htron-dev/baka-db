@@ -1,5 +1,9 @@
 {
     "title": "Freezing: First Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64943.jpg",
+        "alt": "freezing-first-chronicle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

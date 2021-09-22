@@ -1,5 +1,9 @@
 {
     "title": "Mienai Sakebi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/49069.jpg",
+        "alt": "mienai-sakebi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

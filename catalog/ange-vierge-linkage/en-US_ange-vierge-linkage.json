@@ -1,5 +1,9 @@
 {
     "title": "Ange Vierge: Linkage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147941.jpg",
+        "alt": "ange-vierge-linkage"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

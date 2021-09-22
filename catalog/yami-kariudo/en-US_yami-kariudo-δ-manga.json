@@ -1,5 +1,9 @@
 {
     "title": "Yami Kariudo Δ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215341.jpg",
+        "alt": "yami-kariudo-δ"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "42",

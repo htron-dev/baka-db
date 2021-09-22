@@ -1,5 +1,9 @@
 {
     "title": "Nigemichi wa Kochira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222936.jpg",
+        "alt": "nigemichi-wa-kochira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

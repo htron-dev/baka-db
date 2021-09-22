@@ -1,5 +1,9 @@
 {
     "title": "Juuza Engi: Engetsu Sangokuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81686.jpg",
+        "alt": "juuza-engi-engetsu-sangokuden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

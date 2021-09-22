@@ -1,5 +1,9 @@
 {
     "title": "Kami-tachi ni Hirowareta Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
+        "alt": "kami-tachi-ni-hirowareta-otoko"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "神達に拾われた男",

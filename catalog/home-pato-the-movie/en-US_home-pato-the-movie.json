@@ -1,5 +1,9 @@
 {
     "title": "Homé-Pato the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/74025.jpg",
+        "alt": "home-pato-the-movie"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "HOMÉ-PATO THE MOVIE",

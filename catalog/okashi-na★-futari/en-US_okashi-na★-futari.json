@@ -1,5 +1,9 @@
 {
     "title": "Okashi na★Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154346.jpg",
+        "alt": "okashi-na★-futari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

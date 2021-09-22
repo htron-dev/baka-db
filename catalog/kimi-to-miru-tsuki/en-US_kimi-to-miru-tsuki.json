@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Miru Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134065.jpg",
+        "alt": "kimi-to-miru-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君と見る月",

@@ -1,5 +1,9 @@
 {
     "title": "Rumic World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14540.jpg",
+        "alt": "rumic-world"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

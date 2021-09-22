@@ -1,5 +1,9 @@
 {
     "title": "Kawaruwayo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35348.jpg",
+        "alt": "kawaruwayo"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "変わるわよッ ☆",
@@ -13,7 +17,6 @@
         "Hatsuki",
         "Kyou (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

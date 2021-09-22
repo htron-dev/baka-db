@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Meshitsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160786.jpg",
+        "alt": "mahoutsukai-no-meshitsukai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

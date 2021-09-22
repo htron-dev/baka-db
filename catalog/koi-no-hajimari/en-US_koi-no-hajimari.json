@@ -1,5 +1,9 @@
 {
     "title": "Koi no Hajimari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247773.jpg",
+        "alt": "koi-no-hajimari"
+    },
     "type": "manga",
     "original_name": "恋のはじまり",
     "start_date": "2020-03-13",

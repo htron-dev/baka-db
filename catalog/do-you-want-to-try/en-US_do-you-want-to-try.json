@@ -1,5 +1,9 @@
 {
     "title": "Do You Want to Try?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6069.jpg",
+        "alt": "do-you-want-to-try"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "18",

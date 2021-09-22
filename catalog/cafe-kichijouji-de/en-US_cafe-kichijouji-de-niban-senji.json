@@ -1,5 +1,9 @@
 {
     "title": "Café Kichijouji de - Niban Senji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57633.jpg",
+        "alt": "cafe-kichijouji-de-niban-senji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

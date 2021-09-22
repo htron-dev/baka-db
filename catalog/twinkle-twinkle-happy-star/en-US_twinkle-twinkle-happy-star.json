@@ -1,5 +1,9 @@
 {
     "title": "Twinkle Twinkle Happy Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10424.jpg",
+        "alt": "twinkle-twinkle-happy-star"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "トゥインクルトゥインクルハッピースター",

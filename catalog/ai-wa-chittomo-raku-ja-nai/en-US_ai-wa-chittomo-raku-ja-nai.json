@@ -1,5 +1,9 @@
 {
     "title": "Ai wa Chittomo Raku ja Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193234.jpg",
+        "alt": "ai-wa-chittomo-raku-ja-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

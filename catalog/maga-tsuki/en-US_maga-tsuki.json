@@ -1,5 +1,9 @@
 {
     "title": "Maga-Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191823.jpg",
+        "alt": "maga-tsuki"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "69",

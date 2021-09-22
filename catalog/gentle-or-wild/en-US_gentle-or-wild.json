@@ -1,5 +1,9 @@
 {
     "title": "Gentle? or Wild?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10864.jpg",
+        "alt": "gentle-or-wild"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2005-01-20",

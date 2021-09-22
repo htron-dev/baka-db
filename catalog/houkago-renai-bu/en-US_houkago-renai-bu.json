@@ -1,5 +1,9 @@
 {
     "title": "Houkago Renai-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160625.jpg",
+        "alt": "houkago-renai-bu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "放課後恋愛部!",

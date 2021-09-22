@@ -1,5 +1,9 @@
 {
     "title": "Emperor to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179830.jpg",
+        "alt": "emperor-to-issho"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

@@ -1,5 +1,9 @@
 {
     "title": "Zutto Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29279.jpg",
+        "alt": "zutto-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

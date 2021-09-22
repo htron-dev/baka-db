@@ -1,5 +1,9 @@
 {
     "title": "Kanata no Astra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1784/106428.jpg",
+        "alt": "kanata-no-astra"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "彼方のアストラ",

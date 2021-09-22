@@ -1,5 +1,9 @@
 {
     "title": "Sun Tzu no Idol Heihou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192290.jpg",
+        "alt": "sun-tzu-no-idol-heihou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

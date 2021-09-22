@@ -1,5 +1,9 @@
 {
     "title": "Kouya no Kotobuki Hikoutai Kanzenban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1264/111423.jpg",
+        "alt": "kouya-no-kotobuki-hikoutai-kanzenban"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "荒野のコトブキ飛行隊 完全版",

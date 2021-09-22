@@ -1,5 +1,9 @@
 {
     "title": "Takaga Tasogare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223963.jpg",
+        "alt": "takaga-tasogare"
+    },
     "type": "manga",
     "original_name": "たかが黄昏れ",
     "start_date": "2018-07-27",

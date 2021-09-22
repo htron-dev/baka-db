@@ -1,5 +1,9 @@
 {
     "title": "Happiness!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75250.jpg",
+        "alt": "happiness"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "はぴねす！",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Happiness!_(visual_novel"
+            "link": "http://en.wikipedia.org/wiki/Happiness!_%28visual_novel%29#Anime"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Joshi no Teniwoha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167333.jpg",
+        "alt": "joshi-no-teniwoha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

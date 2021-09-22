@@ -1,5 +1,9 @@
 {
     "title": "Ootari Gakuen Shikkoubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14581.jpg",
+        "alt": "ootari-gakuen-shikkoubu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

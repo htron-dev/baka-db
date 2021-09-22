@@ -1,5 +1,9 @@
 {
     "title": "Baoh Raihousha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1274/112464.jpg",
+        "alt": "baoh-raihousha"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "バオー来訪者",

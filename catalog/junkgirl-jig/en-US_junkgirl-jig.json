@@ -1,5 +1,9 @@
 {
     "title": "Junkgirl Jig",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161408.jpg",
+        "alt": "junkgirl-jig"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

@@ -1,12 +1,16 @@
 {
     "title": "Oishinbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1681/109663.jpg",
+        "alt": "oishinbo"
+    },
     "type": "tv-serie",
     "episodes": "136",
     "original_name": "美味しんぼ",
     "start_date": "1988-10-17",
     "end_date": "1988-10-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"You (Where Are You?)\" by Megumi Yuuki (結城めぐみ) (eps 1-23)",
+    "ending_song": "#1: \"Two of Us\" by Megumi Yuuki (結城めぐみ) (eps 1-23)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

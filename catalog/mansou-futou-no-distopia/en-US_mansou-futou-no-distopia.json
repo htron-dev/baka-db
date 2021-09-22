@@ -1,5 +1,9 @@
 {
     "title": "Mansou Futou no Distopia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210436.jpg",
+        "alt": "mansou-futou-no-distopia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

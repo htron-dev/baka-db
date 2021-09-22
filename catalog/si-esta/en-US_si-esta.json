@@ -1,5 +1,9 @@
 {
     "title": "SiESTA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/43093.jpg",
+        "alt": "si-esta"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "SiESTA 시에스타",

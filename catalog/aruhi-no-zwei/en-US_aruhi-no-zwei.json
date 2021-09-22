@@ -1,5 +1,9 @@
 {
     "title": "Aruhi no Zwei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150385.jpg",
+        "alt": "aruhi-no-zwei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ある日のツヴァイ",

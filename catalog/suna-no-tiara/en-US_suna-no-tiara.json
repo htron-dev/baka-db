@@ -1,5 +1,9 @@
 {
     "title": "Suna no Tiara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30961.jpg",
+        "alt": "suna-no-tiara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

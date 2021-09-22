@@ -1,12 +1,16 @@
 {
     "title": "Gakusen Toshi Asterisk 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/79107.jpg",
+        "alt": "gakusen-toshi-asterisk-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "学戦都市アスタリスク",
     "start_date": "2016-04-02",
     "end_date": "2016-04-02",
     "opening_song": "\"The Asterisk War\" by Shiena Nishizawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ai no Uta -words of love- (愛の詩-words of love-)\" by Haruka Chisuga (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Utsuru Ao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25989.jpg",
+        "alt": "kimi-ni-utsuru-ao"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

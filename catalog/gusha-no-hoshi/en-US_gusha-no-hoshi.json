@@ -1,5 +1,9 @@
 {
     "title": "Gusha no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225136.jpg",
+        "alt": "gusha-no-hoshi"
+    },
     "type": "manga",
     "original_name": "愚者の星",
     "start_date": "2019-08-06",

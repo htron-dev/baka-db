@@ -1,5 +1,9 @@
 {
     "title": "Float",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1425/115143.jpg",
+        "alt": "float"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "FLOAT",

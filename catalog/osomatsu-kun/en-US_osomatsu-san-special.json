@@ -1,5 +1,9 @@
 {
     "title": "Osomatsu-san Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/77727.jpg",
+        "alt": "osomatsu-san-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "おそ松さん",

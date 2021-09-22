@@ -1,5 +1,9 @@
 {
     "title": "Mahou Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158060.jpg",
+        "alt": "mahou-sensou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "27",

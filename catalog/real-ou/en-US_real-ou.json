@@ -1,5 +1,9 @@
 {
     "title": "Real Ou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160928.jpg",
+        "alt": "real-ou"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "24",

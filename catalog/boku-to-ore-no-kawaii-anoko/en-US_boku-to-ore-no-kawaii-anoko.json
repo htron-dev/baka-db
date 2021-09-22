@@ -1,5 +1,9 @@
 {
     "title": "Boku to Ore no Kawaii Anoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27321.jpg",
+        "alt": "boku-to-ore-no-kawaii-anoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

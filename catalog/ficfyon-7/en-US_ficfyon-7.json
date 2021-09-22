@@ -1,5 +1,9 @@
 {
     "title": "Ficfyon7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1378/110951.jpg",
+        "alt": "ficfyon-7"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ヘコヒョン 7",

@@ -1,5 +1,9 @@
 {
     "title": "Sakura Taisen: Katsudou Shashin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/20234.jpg",
+        "alt": "sakura-taisen-katsudou-shashin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "サクラ大戦 活動写真",

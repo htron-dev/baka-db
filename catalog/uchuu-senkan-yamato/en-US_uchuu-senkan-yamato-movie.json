@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Senkan Yamato (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/83048.jpg",
+        "alt": "uchuu-senkan-yamato-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "宇宙戦艦ヤマト",

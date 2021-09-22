@@ -1,5 +1,9 @@
 {
     "title": "Maison de Nagaya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44841.jpg",
+        "alt": "maison-de-nagaya-san"
+    },
     "type": "manga",
     "original_name": "メゾン de 長屋さん",
     "tags": [

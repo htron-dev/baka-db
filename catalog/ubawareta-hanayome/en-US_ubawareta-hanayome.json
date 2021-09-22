@@ -1,5 +1,9 @@
 {
     "title": "Ubawareta Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72535.jpg",
+        "alt": "ubawareta-hanayome"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "奪われた花嫁",

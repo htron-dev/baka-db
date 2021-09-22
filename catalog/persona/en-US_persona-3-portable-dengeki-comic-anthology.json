@@ -1,5 +1,9 @@
 {
     "title": "Persona 3 Portable Dengeki Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40417.jpg",
+        "alt": "persona-3-portable-dengeki-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

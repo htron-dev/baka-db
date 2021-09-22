@@ -1,5 +1,9 @@
 {
     "title": "Seifuku Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83422.jpg",
+        "alt": "seifuku-zukan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

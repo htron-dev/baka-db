@@ -1,5 +1,9 @@
 {
     "title": "Tsuki ni Hoeran nee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194443.jpg",
+        "alt": "tsuki-ni-hoeran-nee"
+    },
     "type": "manga",
     "original_name": "月に吠えらんねえ",
     "start_date": "2013-09-25",

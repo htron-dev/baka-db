@@ -1,5 +1,9 @@
 {
     "title": "Wanwanwan Coin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/81612.jpg",
+        "alt": "wanwanwan-coin"
+    },
     "type": "ona",
     "episodes": "15",
     "original_name": "わんわんわんコイン",

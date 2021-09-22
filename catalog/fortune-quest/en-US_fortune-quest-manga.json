@@ -1,5 +1,9 @@
 {
     "title": "Fortune Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74009.jpg",
+        "alt": "fortune-quest"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "フォーチュン・クエスト",

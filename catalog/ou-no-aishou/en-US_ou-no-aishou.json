@@ -1,5 +1,9 @@
 {
     "title": "Ou no Aishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220273.jpg",
+        "alt": "ou-no-aishou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "王の愛妾",

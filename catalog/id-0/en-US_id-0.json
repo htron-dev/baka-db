@@ -1,5 +1,9 @@
 {
     "title": "ID-0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/84421.jpg",
+        "alt": "id-0"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ID-0",

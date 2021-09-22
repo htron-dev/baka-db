@@ -1,5 +1,9 @@
 {
     "title": "Cyborg 009: Call of Justice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236045.jpg",
+        "alt": "cyborg-009-call-of-justice"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

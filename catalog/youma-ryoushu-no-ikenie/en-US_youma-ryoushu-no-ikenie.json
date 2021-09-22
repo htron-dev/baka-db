@@ -1,5 +1,9 @@
 {
     "title": "Youma Ryoushu no Ikenie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194841.jpg",
+        "alt": "youma-ryoushu-no-ikenie"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

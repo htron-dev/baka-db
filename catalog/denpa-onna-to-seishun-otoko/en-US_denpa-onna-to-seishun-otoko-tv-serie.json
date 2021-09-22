@@ -1,5 +1,9 @@
 {
     "title": "Denpa Onna to Seishun Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/59497.jpg",
+        "alt": "denpa-onna-to-seishun-otoko"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "電波女と青春男",

@@ -1,5 +1,9 @@
 {
     "title": "Avabel Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169897.jpg",
+        "alt": "avabel-online"
+    },
     "type": "light-novel",
     "original_name": "アヴァベルオンライン",
     "start_date": "2015-10-10",

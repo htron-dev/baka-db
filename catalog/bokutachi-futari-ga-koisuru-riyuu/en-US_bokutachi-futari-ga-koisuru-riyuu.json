@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi Futari ga Koisuru Riyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44873.jpg",
+        "alt": "bokutachi-futari-ga-koisuru-riyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

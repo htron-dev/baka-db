@@ -1,5 +1,9 @@
 {
     "title": "Go! Go! Ackman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1365/94543.jpg",
+        "alt": "go-go-ackman"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "GO! GO! ACKMAN",

@@ -1,5 +1,9 @@
 {
     "title": "Hanamuko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19581.jpg",
+        "alt": "hanamuko-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

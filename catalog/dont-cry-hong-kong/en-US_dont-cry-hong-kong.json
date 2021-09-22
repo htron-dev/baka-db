@@ -1,5 +1,9 @@
 {
     "title": "Don't Cry Hong Kong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33209.jpg",
+        "alt": "dont-cry-hong-kong"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Don’t Cry 香港",

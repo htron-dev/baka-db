@@ -1,5 +1,9 @@
 {
     "title": "Lost Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232622.jpg",
+        "alt": "lost-drive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

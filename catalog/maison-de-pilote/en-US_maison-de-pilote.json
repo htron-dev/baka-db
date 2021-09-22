@@ -1,5 +1,9 @@
 {
     "title": "Maison de Pilote",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225705.jpg",
+        "alt": "maison-de-pilote"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

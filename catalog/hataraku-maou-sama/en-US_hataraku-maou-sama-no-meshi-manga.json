@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Maou-sama no Meshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240134.jpg",
+        "alt": "hataraku-maou-sama-no-meshi"
+    },
     "type": "manga",
     "original_name": "はたらく魔王さまのメシ！",
     "start_date": "2019-08-28",

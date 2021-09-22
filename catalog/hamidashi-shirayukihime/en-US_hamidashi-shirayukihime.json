@@ -1,5 +1,9 @@
 {
     "title": "Hamidashi Shirayukihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79271.jpg",
+        "alt": "hamidashi-shirayukihime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

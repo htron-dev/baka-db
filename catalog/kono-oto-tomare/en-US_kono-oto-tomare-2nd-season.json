@@ -1,12 +1,16 @@
 {
     "title": "Kono Oto Tomare! 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1422/111621.jpg",
+        "alt": "kono-oto-tomare-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "この音とまれ！",
     "start_date": "2019-10-06",
     "end_date": "2019-10-06",
     "opening_song": "\"Harmony\" by Shouta Aoi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Rainbow\" by Yuuma Uchida (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

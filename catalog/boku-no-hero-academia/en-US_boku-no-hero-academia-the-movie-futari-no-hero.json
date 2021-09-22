@@ -1,5 +1,9 @@
 {
     "title": "Boku no Hero Academia the Movie: Futari no Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243325.jpg",
+        "alt": "boku-no-hero-academia-the-movie-futari-no-hero"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

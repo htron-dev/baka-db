@@ -1,5 +1,9 @@
 {
     "title": "Million Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197331.jpg",
+        "alt": "million-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

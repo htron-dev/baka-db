@@ -1,5 +1,9 @@
 {
     "title": "Nijou na Koi no Kakehiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34725.jpg",
+        "alt": "nijou-na-koi-no-kakehiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

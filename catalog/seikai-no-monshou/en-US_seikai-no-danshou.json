@@ -1,5 +1,9 @@
 {
     "title": "Seikai no Danshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/125213.jpg",
+        "alt": "seikai-no-danshou"
+    },
     "type": "light-novel",
     "original_name": "星界の断章",
     "start_date": "2005-07-08",

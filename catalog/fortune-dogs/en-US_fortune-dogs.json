@@ -1,5 +1,9 @@
 {
     "title": "Fortune Dogs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1440/108318.jpg",
+        "alt": "fortune-dogs"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ふぉうちゅんドッグす",

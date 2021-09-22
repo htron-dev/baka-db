@@ -1,5 +1,9 @@
 {
     "title": "Zangekikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150848.jpg",
+        "alt": "zangekikan"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "45",

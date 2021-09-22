@@ -1,5 +1,9 @@
 {
     "title": "Oushitsu Kyoushi Heine Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1567/116866.jpg",
+        "alt": "oushitsu-kyoushi-heine-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場 王室教師ハイネ",

@@ -1,11 +1,15 @@
 {
     "title": "Z/X: Ignition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/56797.jpg",
+        "alt": "z-x-ignition"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Z/X IGNITION",
     "start_date": "2014-01-10",
     "end_date": "2014-01-10",
-    "opening_song": "\"EX",
+    "opening_song": "\"EX:FUTURIZE\" by Yoko Hikasa",
     "ending_song": "\"Monochrome Overdrive (モノクロームオーバードライブ)\" Yurika Endou",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

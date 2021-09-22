@@ -1,5 +1,9 @@
 {
     "title": "Kaizou Hero Reapers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219727.jpg",
+        "alt": "kaizou-hero-reapers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

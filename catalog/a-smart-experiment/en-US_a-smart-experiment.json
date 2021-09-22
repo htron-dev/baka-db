@@ -1,5 +1,9 @@
 {
     "title": "A Smart Experiment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/72286.jpg",
+        "alt": "a-smart-experiment"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "A smart experiment",

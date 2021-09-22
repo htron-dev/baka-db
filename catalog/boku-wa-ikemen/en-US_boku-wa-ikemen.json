@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Ikemen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205074.jpg",
+        "alt": "boku-wa-ikemen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

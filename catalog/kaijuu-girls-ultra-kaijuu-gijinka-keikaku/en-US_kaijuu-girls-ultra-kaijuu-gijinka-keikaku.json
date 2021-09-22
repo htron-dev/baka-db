@@ -1,12 +1,16 @@
 {
     "title": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/82138.jpg",
+        "alt": "kaijuu-girls-ultra-kaijuu-gijinka-keikaku"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~",
     "start_date": "2016-09-27",
     "end_date": "2016-09-27",
-    "opening_song": "\"Joujou ↑↑ GAO !! (上々 ↑↑GAO !!)\" by Capsule Girls (かぷせるがーるず) (CV",
-    "ending_song": "\"Kaiju Heart (KAIJU ハート)\" by Capsule Girls (かぷせるがーるず) (CV",
+    "opening_song": "\"Joujou ↑↑ GAO !! (上々 ↑↑GAO !!)\" by Capsule Girls (かぷせるがーるず) (CV: Riho Iida, Aina Suzuki, Yurika Endou)",
+    "ending_song": "\"Kaiju Heart (KAIJU ハート)\" by Capsule Girls (かぷせるがーるず) (CV: Riho Iida, Aina Suzuki, Yurika Endou)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

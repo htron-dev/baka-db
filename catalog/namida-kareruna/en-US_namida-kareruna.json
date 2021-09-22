@@ -1,5 +1,9 @@
 {
     "title": "Namida Kareruna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197707.jpg",
+        "alt": "namida-kareruna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

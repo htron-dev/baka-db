@@ -1,5 +1,9 @@
 {
     "title": "Seito Shokun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118515.jpg",
+        "alt": "seito-shokun"
+    },
     "type": "manga",
     "volumes": "24",
     "original_name": "生徒諸君!",

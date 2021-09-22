@@ -1,5 +1,9 @@
 {
     "title": "Nidoto Touranai Tabibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/66195.jpg",
+        "alt": "nidoto-touranai-tabibito"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "二度と通らない旅人",

@@ -1,5 +1,9 @@
 {
     "title": "Hatsutaiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125493.jpg",
+        "alt": "hatsutaiken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

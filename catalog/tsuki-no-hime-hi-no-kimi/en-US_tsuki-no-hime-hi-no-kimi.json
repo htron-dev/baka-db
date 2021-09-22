@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Hime Hi no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20686.jpg",
+        "alt": "tsuki-no-hime-hi-no-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

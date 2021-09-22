@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Sayonara, Mata Ashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130177.jpg",
+        "alt": "sayonara-sayonara-mata-ashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

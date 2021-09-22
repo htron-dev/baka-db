@@ -1,5 +1,9 @@
 {
     "title": "Imuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165180.jpg",
+        "alt": "imuri"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "158",

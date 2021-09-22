@@ -1,5 +1,9 @@
 {
     "title": "Suhada de Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11074.jpg",
+        "alt": "suhada-de-kakumei"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "素肌で革命",

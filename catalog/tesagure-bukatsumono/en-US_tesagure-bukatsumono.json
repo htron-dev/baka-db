@@ -1,12 +1,16 @@
 {
     "title": "Tesagure! Bukatsumono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/56211.jpg",
+        "alt": "tesagure-bukatsumono"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てさぐれ！部活もの",
     "start_date": "2013-10-06",
     "end_date": "2013-10-06",
-    "opening_song": "\"Stand Up!!!!\" by Yua Suzuki (CV",
-    "ending_song": "“12 kagetsu (12 ヶ月)\" by Yua Suzuki (CV",
+    "opening_song": "\"Stand Up!!!!\" by Yua Suzuki (CV: Asuka Nishi), Hina Satou (CV: Satomi Akesaka), Aoi Takahashi (CV: Karin Ogino), and Koharu Tanaka (CV: Ayaka Ohashi)",
+    "ending_song": "“12 kagetsu (12 ヶ月)\" by Yua Suzuki (CV: Asuka Nishi), Hina Satou (CV: Satomi Akesaka), Aoi Takahashi (CV: Karin Ogino), and Koharu Tanaka (CV: Ayaka Ohashi)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "parody",

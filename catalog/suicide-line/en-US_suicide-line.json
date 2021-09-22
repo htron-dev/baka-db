@@ -1,5 +1,9 @@
 {
     "title": "Suicide Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236770.jpg",
+        "alt": "suicide-line"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

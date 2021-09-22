@@ -1,5 +1,9 @@
 {
     "title": "Settei Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165145.jpg",
+        "alt": "settei-shoujo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

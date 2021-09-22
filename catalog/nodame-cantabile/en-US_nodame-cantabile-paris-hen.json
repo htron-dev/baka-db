@@ -1,5 +1,9 @@
 {
     "title": "Nodame Cantabile: Paris-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/11918.jpg",
+        "alt": "nodame-cantabile-paris-hen"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "のだめカンタービレ 巴里編",

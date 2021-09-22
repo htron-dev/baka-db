@@ -1,5 +1,9 @@
 {
     "title": "Pahanjip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44941.jpg",
+        "alt": "pahanjip"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "21",

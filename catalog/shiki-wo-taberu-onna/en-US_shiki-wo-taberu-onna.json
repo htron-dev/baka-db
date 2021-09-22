@@ -1,5 +1,9 @@
 {
     "title": "Shiki wo Taberu Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226916.jpg",
+        "alt": "shiki-wo-taberu-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

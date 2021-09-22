@@ -1,5 +1,9 @@
 {
     "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/80032.jpg",
+        "alt": "gyakkyou-burai-kaiji-ultimate-survivor"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "逆境無頼カイジ Ultimate Survivor",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Kaiji_(manga"
+            "link": "http://en.wikipedia.org/wiki/Kaiji_%28manga%29"
         }
     ]
 }

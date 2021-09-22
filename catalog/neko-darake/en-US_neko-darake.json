@@ -1,5 +1,9 @@
 {
     "title": "Neko Darake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96743.jpg",
+        "alt": "neko-darake"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "ねこだらけ",

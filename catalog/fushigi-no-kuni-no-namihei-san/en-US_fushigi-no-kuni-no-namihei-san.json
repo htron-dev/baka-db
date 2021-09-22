@@ -1,5 +1,9 @@
 {
     "title": "Fushigi no Kuni no Namihei-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213191.jpg",
+        "alt": "fushigi-no-kuni-no-namihei-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

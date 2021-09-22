@@ -1,11 +1,15 @@
 {
     "title": "Oniku Daisuki! Zeushi-kun 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/68169.jpg",
+        "alt": "oniku-daisuki-zeushi-kun-2nd-season"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "おにくだいすき！ ゼウシくん（2 期）",
     "start_date": "2014-11-29",
     "end_date": "2014-11-29",
-    "opening_song": "\"Oniku Japanesque! (おにくじゃぽねすく！)\" by Zeushi-kun (CV",
+    "opening_song": "\"Oniku Japanesque! (おにくじゃぽねすく！)\" by Zeushi-kun (CV: Kana Hanazawa)",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

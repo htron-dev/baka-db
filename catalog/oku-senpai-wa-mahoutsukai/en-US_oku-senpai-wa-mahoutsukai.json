@@ -1,5 +1,9 @@
 {
     "title": "Oku-senpai wa Mahoutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247239.jpg",
+        "alt": "oku-senpai-wa-mahoutsukai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

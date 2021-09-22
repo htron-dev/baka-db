@@ -1,5 +1,9 @@
 {
     "title": "Ahiru no Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182651.jpg",
+        "alt": "ahiru-no-sora"
+    },
     "type": "manga",
     "original_name": "あひるの空",
     "start_date": "2003-12-10",

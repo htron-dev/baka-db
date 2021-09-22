@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Hitomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/102017.jpg",
+        "alt": "taiyou-no-hitomi"
+    },
     "type": "manga",
     "chapters": "7",
     "original_name": "タイヨウノヒトミ",

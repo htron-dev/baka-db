@@ -1,5 +1,9 @@
 {
     "title": "Kyoufu Jigoku Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/173045.jpg",
+        "alt": "kyoufu-jigoku-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

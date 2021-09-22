@@ -1,5 +1,9 @@
 {
     "title": "Onigami no Sumu Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/48901.jpg",
+        "alt": "onigami-no-sumu-ie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

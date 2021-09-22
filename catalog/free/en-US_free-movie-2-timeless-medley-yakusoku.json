@@ -1,5 +1,9 @@
 {
     "title": "Free! Movie 2: Timeless Medley - Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/87931.jpg",
+        "alt": "free-movie-2-timeless-medley-yakusoku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 Free!-Timeless Medley- 約束",

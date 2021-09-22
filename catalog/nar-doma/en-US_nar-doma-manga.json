@@ -1,5 +1,9 @@
 {
     "title": "Nar Doma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177985.jpg",
+        "alt": "nar-doma"
+    },
     "type": "manga",
     "chapters": "105",
     "original_name": "ナルどマ",

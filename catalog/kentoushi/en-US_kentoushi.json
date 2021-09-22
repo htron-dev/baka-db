@@ -1,5 +1,9 @@
 {
     "title": "Kentoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1803/110236.jpg",
+        "alt": "kentoushi"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "拳闘士",

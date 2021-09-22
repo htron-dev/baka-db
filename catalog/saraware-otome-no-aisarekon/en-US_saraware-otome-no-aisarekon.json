@@ -1,5 +1,9 @@
 {
     "title": "Saraware Otome no Aisarekon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183377.jpg",
+        "alt": "saraware-otome-no-aisarekon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

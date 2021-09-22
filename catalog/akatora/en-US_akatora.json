@@ -1,5 +1,9 @@
 {
     "title": "Akatora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216647.jpg",
+        "alt": "akatora"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Devilman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72913.jpg",
+        "alt": "devilman"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "デビルマン",

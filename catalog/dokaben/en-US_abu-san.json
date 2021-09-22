@@ -1,5 +1,9 @@
 {
     "title": "Abu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116449.jpg",
+        "alt": "abu-san"
+    },
     "type": "manga",
     "volumes": "107",
     "chapters": "976",

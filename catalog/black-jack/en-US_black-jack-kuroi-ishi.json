@@ -1,5 +1,9 @@
 {
     "title": "Black Jack Kuroi Ishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14916.jpg",
+        "alt": "black-jack-kuroi-ishi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

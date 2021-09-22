@@ -1,11 +1,15 @@
 {
     "title": "Mobile Suit Gundam: The Origin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/72702.jpg",
+        "alt": "mobile-suit-gundam-the-origin"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "機動戦士ガンダム THE ORIGIN",
     "start_date": "2015-02-28",
     "end_date": "2015-02-28",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hoshikuzu no Sunadokei (星屑の砂時計)\" by Takatori Hattori Presents Gundam The Origin featuring yu-yu (服部隆之 Presents GUNDAM THE ORIGIN featuring yu-yu) (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

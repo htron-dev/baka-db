@@ -1,5 +1,9 @@
 {
     "title": "Tsuritama SF -Short Films-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95169.jpg",
+        "alt": "tsuritama-sf-short-films"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Akuma de Omocha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16790.jpg",
+        "alt": "akuma-de-omocha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

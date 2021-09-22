@@ -1,5 +1,9 @@
 {
     "title": "Naive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149842.jpg",
+        "alt": "naive"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

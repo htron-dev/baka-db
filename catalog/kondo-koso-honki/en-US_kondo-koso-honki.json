@@ -1,5 +1,9 @@
 {
     "title": "Kondo Koso Honki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2611.jpg",
+        "alt": "kondo-koso-honki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

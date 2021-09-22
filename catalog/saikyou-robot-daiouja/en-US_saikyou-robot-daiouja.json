@@ -1,5 +1,9 @@
 {
     "title": "Saikyou Robot Daiouja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1170/93954.jpg",
+        "alt": "saikyou-robot-daiouja"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "最強ロボ ダイオージャ",

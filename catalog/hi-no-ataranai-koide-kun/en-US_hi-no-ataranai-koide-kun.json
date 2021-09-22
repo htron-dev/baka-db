@@ -1,5 +1,9 @@
 {
     "title": "Hi no Ataranai Koide-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168315.jpg",
+        "alt": "hi-no-ataranai-koide-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

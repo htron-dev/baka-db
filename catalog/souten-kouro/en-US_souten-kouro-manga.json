@@ -1,5 +1,9 @@
 {
     "title": "Souten Kouro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180038.jpg",
+        "alt": "souten-kouro"
+    },
     "type": "manga",
     "volumes": "36",
     "chapters": "409",

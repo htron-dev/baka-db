@@ -1,5 +1,9 @@
 {
     "title": "Little Forest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/138065.jpg",
+        "alt": "little-forest"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "34",

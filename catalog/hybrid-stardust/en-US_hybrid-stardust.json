@@ -1,5 +1,9 @@
 {
     "title": "Hybrid Stardust",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/101689.jpg",
+        "alt": "hybrid-stardust"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Haiyore! Nyaruko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92439.jpg",
+        "alt": "haiyore-nyaruko-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

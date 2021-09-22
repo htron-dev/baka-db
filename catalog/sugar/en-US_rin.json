@@ -1,5 +1,9 @@
 {
     "title": "Rin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78863.jpg",
+        "alt": "rin"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "リン",

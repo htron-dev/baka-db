@@ -1,5 +1,9 @@
 {
     "title": "Xenosaga The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75162.jpg",
+        "alt": "xenosaga-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゼノサーガ THE ANIMATION",

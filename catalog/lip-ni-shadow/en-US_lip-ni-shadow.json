@@ -1,5 +1,9 @@
 {
     "title": "Lip ni Shadow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166605.jpg",
+        "alt": "lip-ni-shadow"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

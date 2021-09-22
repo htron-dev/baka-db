@@ -1,5 +1,9 @@
 {
     "title": "Pi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20878.jpg",
+        "alt": "pi"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "6",

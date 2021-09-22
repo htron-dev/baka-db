@@ -1,5 +1,9 @@
 {
     "title": "Katakoi no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/26901.jpg",
+        "alt": "katakoi-no-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

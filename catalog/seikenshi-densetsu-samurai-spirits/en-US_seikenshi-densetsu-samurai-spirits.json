@@ -1,5 +1,9 @@
 {
     "title": "Seikenshi Densetsu: Samurai Spirits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38861.jpg",
+        "alt": "seikenshi-densetsu-samurai-spirits"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "聖剣士伝説サムライスピリッツ",

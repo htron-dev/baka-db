@@ -1,5 +1,9 @@
 {
     "title": "Umi no Momotarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/85234.jpg",
+        "alt": "umi-no-momotarou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "海の桃太郎",

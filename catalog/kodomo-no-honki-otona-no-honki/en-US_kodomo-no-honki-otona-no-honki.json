@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Honki Otona no Honki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10867.jpg",
+        "alt": "kodomo-no-honki-otona-no-honki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "コドモの本気オトナの本気",

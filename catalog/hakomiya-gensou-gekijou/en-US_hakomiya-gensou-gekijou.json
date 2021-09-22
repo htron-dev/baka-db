@@ -1,5 +1,9 @@
 {
     "title": "Hakomiya Gensou Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36048.jpg",
+        "alt": "hakomiya-gensou-gekijou"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "箱宮ケイ幻想劇場",

@@ -1,5 +1,9 @@
 {
     "title": "Shibaraku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81610.jpg",
+        "alt": "shibaraku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "シバラク",

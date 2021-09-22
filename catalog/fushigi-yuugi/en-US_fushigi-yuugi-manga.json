@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/176259.jpg",
+        "alt": "fushigi-yuugi"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "106",

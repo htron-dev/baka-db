@@ -1,5 +1,9 @@
 {
     "title": "Ookami ni Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134355.jpg",
+        "alt": "ookami-ni-kuchizuke"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

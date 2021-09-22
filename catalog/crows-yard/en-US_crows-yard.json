@@ -1,5 +1,9 @@
 {
     "title": "Crows Yard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170723.jpg",
+        "alt": "crows-yard"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "クロウズヤード",

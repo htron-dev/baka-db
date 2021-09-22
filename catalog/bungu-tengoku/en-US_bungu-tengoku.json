@@ -1,5 +1,9 @@
 {
     "title": "Bungu Tengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10995.jpg",
+        "alt": "bungu-tengoku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "文具天国",

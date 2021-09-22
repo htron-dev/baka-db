@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Handsome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/81425.jpg",
+        "alt": "gakuen-handsome"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "学園ハンサム",

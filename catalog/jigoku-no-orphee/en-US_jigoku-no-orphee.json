@@ -1,5 +1,9 @@
 {
     "title": "Jigoku no Orphée",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172543.jpg",
+        "alt": "jigoku-no-orphee"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "地獄のオルフェ",

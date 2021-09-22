@@ -1,5 +1,9 @@
 {
     "title": "Mijika na Koi dato Omou kedo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237578.jpg",
+        "alt": "mijika-na-koi-dato-omou-kedo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

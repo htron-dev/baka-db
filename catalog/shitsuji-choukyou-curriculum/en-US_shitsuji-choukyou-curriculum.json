@@ -1,5 +1,9 @@
 {
     "title": "Shitsuji Choukyou Curriculum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5980.jpg",
+        "alt": "shitsuji-choukyou-curriculum"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

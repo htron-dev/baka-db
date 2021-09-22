@@ -1,5 +1,9 @@
 {
     "title": "Zero no Tsukaima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173403.jpg",
+        "alt": "zero-no-tsukaima"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "45",

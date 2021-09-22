@@ -1,5 +1,9 @@
 {
     "title": "Fushigi na Elevator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/21097.jpg",
+        "alt": "fushigi-na-elevator"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ふしぎなエレベーター",

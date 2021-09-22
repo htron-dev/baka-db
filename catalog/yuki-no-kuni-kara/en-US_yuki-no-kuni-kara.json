@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Kuni kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17007.jpg",
+        "alt": "yuki-no-kuni-kara"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "来自于雪国",

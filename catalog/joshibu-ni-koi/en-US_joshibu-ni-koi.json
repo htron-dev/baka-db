@@ -1,5 +1,9 @@
 {
     "title": "Joshibu ni Koi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114149.jpg",
+        "alt": "joshibu-ni-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

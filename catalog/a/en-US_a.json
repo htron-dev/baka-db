@@ -1,5 +1,9 @@
 {
     "title": "A.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174437.jpg",
+        "alt": "a"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Ma Shen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/81481.jpg",
+        "alt": "ma-shen"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "麻神",

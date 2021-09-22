@@ -1,5 +1,9 @@
 {
     "title": "Fairy Tail: Happy no Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219513.jpg",
+        "alt": "fairy-tail-happy-no-daibouken"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "80",

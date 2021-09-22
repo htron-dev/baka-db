@@ -1,5 +1,9 @@
 {
     "title": "Kuusou Tokyo Hyakkei Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153749.jpg",
+        "alt": "kuusou-tokyo-hyakkei-series"
+    },
     "type": "light-novel",
     "original_name": "空想東京百景 シリーズ",
     "start_date": "2008-05-08",

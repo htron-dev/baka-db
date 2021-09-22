@@ -1,5 +1,9 @@
 {
     "title": "Chuuken Kunshu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22216.jpg",
+        "alt": "chuuken-kunshu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

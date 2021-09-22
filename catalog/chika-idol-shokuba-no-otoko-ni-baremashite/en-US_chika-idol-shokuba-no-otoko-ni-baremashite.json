@@ -1,5 +1,9 @@
 {
     "title": "Chika Idol, Shokuba no Otoko ni Baremashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234675.jpg",
+        "alt": "chika-idol-shokuba-no-otoko-ni-baremashite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

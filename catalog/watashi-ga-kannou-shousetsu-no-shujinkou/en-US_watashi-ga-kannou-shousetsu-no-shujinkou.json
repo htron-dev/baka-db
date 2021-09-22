@@ -1,5 +1,9 @@
 {
     "title": "Watashi ga Kannou Shousetsu no Shujinkou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124191.jpg",
+        "alt": "watashi-ga-kannou-shousetsu-no-shujinkou"
+    },
     "type": "manga",
     "original_name": "私が官能小説の主人公！",
     "start_date": "2014-01-05",

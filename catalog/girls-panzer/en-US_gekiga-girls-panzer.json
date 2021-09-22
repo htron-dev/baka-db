@@ -1,5 +1,9 @@
 {
     "title": "Gekiga Girls & Panzer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246642.jpg",
+        "alt": "gekiga-girls-panzer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Pin-up Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229437.jpg",
+        "alt": "pin-up-baby"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Te wo Kanjiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79621.jpg",
+        "alt": "kimi-no-te-wo-kanjiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君ノ手ヲ感ジテル",

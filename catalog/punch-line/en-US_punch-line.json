@@ -1,5 +1,9 @@
 {
     "title": "Punch Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/73121.jpg",
+        "alt": "punch-line"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "パンチライン",

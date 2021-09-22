@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Umi no Amuri: Tsuki no Yami no Plugin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78567.jpg",
+        "alt": "hoshi-no-umi-no-amuri-tsuki-no-yami-no-plugin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "星の海のアムリ‐月の闇のプラグイン",

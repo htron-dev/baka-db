@@ -1,5 +1,9 @@
 {
     "title": "Kohaku no Shinzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162717.jpg",
+        "alt": "kohaku-no-shinzou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

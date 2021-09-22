@@ -1,5 +1,9 @@
 {
     "title": "Ane to Muchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/102415.jpg",
+        "alt": "ane-to-muchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

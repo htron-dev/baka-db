@@ -1,5 +1,9 @@
 {
     "title": "Honoka ni Purple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/53635.jpg",
+        "alt": "honoka-ni-purple"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

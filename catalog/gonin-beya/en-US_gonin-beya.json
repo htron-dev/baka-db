@@ -1,5 +1,9 @@
 {
     "title": "Gonin-Beya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129899.jpg",
+        "alt": "gonin-beya"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "五人部屋",

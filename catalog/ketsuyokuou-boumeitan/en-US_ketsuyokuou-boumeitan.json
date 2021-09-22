@@ -1,5 +1,9 @@
 {
     "title": "Ketsuyokuou Boumeitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179308.jpg",
+        "alt": "ketsuyokuou-boumeitan"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "血翼王亡命譚",

@@ -1,5 +1,9 @@
 {
     "title": "Subete ga F ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76071.jpg",
+        "alt": "subete-ga-f-ni-naru"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "すべてが F になる THE PERFECT INSIDER",

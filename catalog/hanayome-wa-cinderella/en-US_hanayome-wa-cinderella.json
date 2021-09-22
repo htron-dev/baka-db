@@ -1,5 +1,9 @@
 {
     "title": "Hanayome wa Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152809.jpg",
+        "alt": "hanayome-wa-cinderella"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

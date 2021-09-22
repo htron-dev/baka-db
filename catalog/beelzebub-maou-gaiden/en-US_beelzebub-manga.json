@@ -1,5 +1,9 @@
 {
     "title": "Beelzebub",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188942.jpg",
+        "alt": "beelzebub"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "250",

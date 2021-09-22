@@ -1,5 +1,9 @@
 {
     "title": "Cyborg 009: Call of Justice 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/81018.jpg",
+        "alt": "cyborg-009-call-of-justice-1"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "CYBORG009 CALL OF JUSTICE 第 1 章",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9C%E3%83%BC%E3%82%B0009_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9C%E3%83%BC%E3%82%B0009_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Hard Days Nights: Singles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157868.jpg",
+        "alt": "hard-days-nights-singles"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Hajime ni Oboeru Koutsuu Anzen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/84777.jpg",
+        "alt": "hajime-ni-oboeru-koutsuu-anzen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "はじめにおぼえる交通安全",

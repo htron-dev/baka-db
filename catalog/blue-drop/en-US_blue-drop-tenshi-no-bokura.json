@@ -1,5 +1,9 @@
 {
     "title": "Blue Drop: Tenshi no Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54123.jpg",
+        "alt": "blue-drop-tenshi-no-bokura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

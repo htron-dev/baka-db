@@ -1,5 +1,9 @@
 {
     "title": "Shunshou Nawageshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26327.jpg",
+        "alt": "shunshou-nawageshou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

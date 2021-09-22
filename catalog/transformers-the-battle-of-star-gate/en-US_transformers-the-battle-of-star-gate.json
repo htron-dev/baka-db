@@ -1,5 +1,9 @@
 {
     "title": "Transformers: The Battle of Star Gate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35675.jpg",
+        "alt": "transformers-the-battle-of-star-gate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

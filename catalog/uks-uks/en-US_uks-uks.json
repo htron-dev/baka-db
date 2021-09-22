@@ -1,5 +1,9 @@
 {
     "title": "Üks Uks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/71455.jpg",
+        "alt": "uks-uks"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Üks Uks",

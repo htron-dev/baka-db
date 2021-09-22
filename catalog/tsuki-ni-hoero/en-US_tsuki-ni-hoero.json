@@ -1,5 +1,9 @@
 {
     "title": "Tsuki ni Hoero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5942.jpg",
+        "alt": "tsuki-ni-hoero"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "月に吠えろ",

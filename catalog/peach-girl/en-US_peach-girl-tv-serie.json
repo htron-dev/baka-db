@@ -1,5 +1,9 @@
 {
     "title": "Peach Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75579.jpg",
+        "alt": "peach-girl"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ピーチガール",

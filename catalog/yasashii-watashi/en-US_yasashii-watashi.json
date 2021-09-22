@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7624.jpg",
+        "alt": "yasashii-watashi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

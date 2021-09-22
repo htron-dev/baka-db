@@ -1,5 +1,9 @@
 {
     "title": "Odamari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168515.jpg",
+        "alt": "odamari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

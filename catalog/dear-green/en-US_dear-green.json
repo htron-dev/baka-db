@@ -1,5 +1,9 @@
 {
     "title": "Dear Green",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5937.jpg",
+        "alt": "dear-green"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

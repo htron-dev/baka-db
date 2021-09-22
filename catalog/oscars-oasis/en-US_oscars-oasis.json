@@ -1,5 +1,9 @@
 {
     "title": "Oscar's Oasis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/80375.jpg",
+        "alt": "oscars-oasis"
+    },
     "type": "tv-serie",
     "episodes": "78",
     "original_name": "오스카의 오아시스",

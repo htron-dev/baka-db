@@ -1,5 +1,9 @@
 {
     "title": "BlazBlue: Remix Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128681.jpg",
+        "alt": "blaz-blue-remix-heart"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

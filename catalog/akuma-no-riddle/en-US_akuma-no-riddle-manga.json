@@ -1,5 +1,9 @@
 {
     "title": "Akuma no Riddle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95315.jpg",
+        "alt": "akuma-no-riddle"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

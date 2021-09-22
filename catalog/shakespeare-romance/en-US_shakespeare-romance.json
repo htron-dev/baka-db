@@ -1,5 +1,9 @@
 {
     "title": "Shakespeare Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207784.jpg",
+        "alt": "shakespeare-romance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

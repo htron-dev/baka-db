@@ -1,5 +1,9 @@
 {
     "title": "Toripan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174528.jpg",
+        "alt": "toripan"
+    },
     "type": "manga",
     "original_name": "とりぱん",
     "start_date": "2005-02-24",

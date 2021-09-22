@@ -1,5 +1,9 @@
 {
     "title": "Hachi-nan tte, Sore wa Nai deshou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167068.jpg",
+        "alt": "hachi-nan-tte-sore-wa-nai-deshou"
+    },
     "type": "manga",
     "original_name": "八男って、それはないでしょう！",
     "start_date": "2015-04-19",

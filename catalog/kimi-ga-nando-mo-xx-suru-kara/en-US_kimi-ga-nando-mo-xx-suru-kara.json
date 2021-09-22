@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Nando mo xx Suru kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/194282.jpg",
+        "alt": "kimi-ga-nando-mo-xx-suru-kara"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "22",

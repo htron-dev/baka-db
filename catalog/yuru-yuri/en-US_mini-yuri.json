@@ -1,5 +1,9 @@
 {
     "title": "Mini Yuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1445/103637.jpg",
+        "alt": "mini-yuri"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "みにゆり",

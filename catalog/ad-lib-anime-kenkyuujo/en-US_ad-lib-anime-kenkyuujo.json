@@ -1,5 +1,9 @@
 {
     "title": "Ad Lib Anime Kenkyuujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/33869.jpg",
+        "alt": "ad-lib-anime-kenkyuujo"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "アドリブアニメ研究所",

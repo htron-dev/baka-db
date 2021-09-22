@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Boukun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/26233.jpg",
+        "alt": "koisuru-boukun"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "恋する暴君",

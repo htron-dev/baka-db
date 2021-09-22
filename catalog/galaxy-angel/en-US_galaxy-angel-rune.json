@@ -1,5 +1,9 @@
 {
     "title": "Galaxy Angel Rune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76294.jpg",
+        "alt": "galaxy-angel-rune"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ギャラクシーエンジェる～ん",

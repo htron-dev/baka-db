@@ -1,5 +1,9 @@
 {
     "title": "Deaimon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186997.jpg",
+        "alt": "deaimon"
+    },
     "type": "manga",
     "original_name": "であいもん",
     "start_date": "2016-05-02",

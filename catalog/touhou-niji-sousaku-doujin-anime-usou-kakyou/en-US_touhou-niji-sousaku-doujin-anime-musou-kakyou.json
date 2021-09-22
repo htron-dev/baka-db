@@ -1,10 +1,14 @@
 {
     "title": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/27302.jpg",
+        "alt": "touhou-niji-sousaku-doujin-anime-musou-kakyou"
+    },
     "type": "ova",
     "original_name": "東方二次創作同人アニメ 夢想夏郷",
     "start_date": "2008-12-29",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Soko ni Aru Mono (そこに在るもの)\" by TOKINE (ep 1)",
+    "ending_song": "#1: \"Mawari Meguru (廻り巡る)\" by Asuka Sasa (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "magic",

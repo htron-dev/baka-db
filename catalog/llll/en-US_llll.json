@@ -1,5 +1,9 @@
 {
     "title": "LLLL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105849.jpg",
+        "alt": "llll"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

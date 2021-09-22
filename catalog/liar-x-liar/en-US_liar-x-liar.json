@@ -1,5 +1,9 @@
 {
     "title": "Liar x Liar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197565.jpg",
+        "alt": "liar-x-liar"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "70",

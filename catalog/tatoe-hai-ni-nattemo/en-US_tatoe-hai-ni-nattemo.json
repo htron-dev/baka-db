@@ -1,5 +1,9 @@
 {
     "title": "Tatoe Hai ni Nattemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181617.jpg",
+        "alt": "tatoe-hai-ni-nattemo"
+    },
     "type": "manga",
     "chapters": "56",
     "original_name": "たとえ灰になっても",

@@ -1,5 +1,9 @@
 {
     "title": "Shissou Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13392.jpg",
+        "alt": "shissou-nikki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Zeonic Toyota Special Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/54101.jpg",
+        "alt": "zeonic-toyota-special-movie"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ジオニックトヨタ スペシャルムービー",

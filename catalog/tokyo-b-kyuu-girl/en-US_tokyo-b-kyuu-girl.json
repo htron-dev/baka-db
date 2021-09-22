@@ -1,5 +1,9 @@
 {
     "title": "Tokyo B-Kyuu Girl!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12968.jpg",
+        "alt": "tokyo-b-kyuu-girl"
+    },
     "type": "manga",
     "original_name": "東京 B 級ガール!",
     "start_date": "2004-01-20",

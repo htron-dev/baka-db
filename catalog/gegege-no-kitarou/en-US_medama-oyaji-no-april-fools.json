@@ -1,5 +1,9 @@
 {
     "title": "Medama Oyaji no April Fools'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1547/91683.jpg",
+        "alt": "medama-oyaji-no-april-fools"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "目玉おやじのエイプリルフール",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
         }
     ]
 }

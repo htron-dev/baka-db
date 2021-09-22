@@ -1,5 +1,9 @@
 {
     "title": "Asobi Neko Norari Kurari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147617.jpg",
+        "alt": "asobi-neko-norari-kurari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

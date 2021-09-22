@@ -1,5 +1,9 @@
 {
     "title": "Suisei no Gargantia: Haruka, Kaikou no Tenchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171268.jpg",
+        "alt": "suisei-no-gargantia-haruka-kaikou-no-tenchi"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

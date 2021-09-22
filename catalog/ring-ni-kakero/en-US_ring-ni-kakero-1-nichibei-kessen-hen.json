@@ -1,5 +1,9 @@
 {
     "title": "Ring ni Kakero 1: Nichibei Kessen-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1771.jpg",
+        "alt": "ring-ni-kakero-1-nichibei-kessen-hen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "リングにかけろ 1 日米決戦編",

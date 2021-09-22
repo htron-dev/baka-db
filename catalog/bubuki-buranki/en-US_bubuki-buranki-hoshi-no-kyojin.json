@@ -1,5 +1,9 @@
 {
     "title": "Bubuki Buranki: Hoshi no Kyojin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82249.jpg",
+        "alt": "bubuki-buranki-hoshi-no-kyojin"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ブブキ・ブランキ 星の巨人",

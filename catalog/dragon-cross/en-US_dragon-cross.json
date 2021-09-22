@@ -1,5 +1,9 @@
 {
     "title": "Dragon Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160070.jpg",
+        "alt": "dragon-cross"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ドラゴンクルス",

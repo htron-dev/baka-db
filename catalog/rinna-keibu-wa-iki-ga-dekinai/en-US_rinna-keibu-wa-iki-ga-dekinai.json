@@ -1,5 +1,9 @@
 {
     "title": "Rinna Keibu wa Iki ga Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196081.jpg",
+        "alt": "rinna-keibu-wa-iki-ga-dekinai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

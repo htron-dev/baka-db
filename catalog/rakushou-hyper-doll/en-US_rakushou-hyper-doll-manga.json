@@ -1,5 +1,9 @@
 {
     "title": "Rakushou! Hyper Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18894.jpg",
+        "alt": "rakushou-hyper-doll"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

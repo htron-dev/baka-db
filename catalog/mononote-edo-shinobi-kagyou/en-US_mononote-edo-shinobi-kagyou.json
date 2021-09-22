@@ -1,5 +1,9 @@
 {
     "title": "Mononote: Edo Shinobi Kagyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190553.jpg",
+        "alt": "mononote-edo-shinobi-kagyou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

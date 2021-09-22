@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Tsuyoku, Daitekure.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6092.jpg",
+        "alt": "soredemo-tsuyoku-daitekure"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "それでも強く、抱いてくれ。",

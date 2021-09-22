@@ -1,5 +1,9 @@
 {
     "title": "Iblard Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/18420.jpg",
+        "alt": "iblard-jikan"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "イバラード時間",

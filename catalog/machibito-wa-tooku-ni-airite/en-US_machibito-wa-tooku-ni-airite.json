@@ -1,5 +1,9 @@
 {
     "title": "Machibito wa Tooku ni Airite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79481.jpg",
+        "alt": "machibito-wa-tooku-ni-airite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "待人は遠くにありて",

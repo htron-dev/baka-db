@@ -1,5 +1,9 @@
 {
     "title": "Isekai Shuukyou e Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224275.jpg",
+        "alt": "isekai-shuukyou-e-youkoso"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

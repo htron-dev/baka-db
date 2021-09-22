@@ -1,5 +1,9 @@
 {
     "title": "Sangokushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72621.jpg",
+        "alt": "sangokushi"
+    },
     "type": "manga",
     "original_name": "三国志",
     "start_date": "2011-04-22",

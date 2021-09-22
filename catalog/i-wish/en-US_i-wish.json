@@ -1,5 +1,9 @@
 {
     "title": "I Wish...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20174.jpg",
+        "alt": "i-wish"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "50",

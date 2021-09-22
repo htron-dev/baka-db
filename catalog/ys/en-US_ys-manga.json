@@ -1,5 +1,9 @@
 {
     "title": "Ys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170722.jpg",
+        "alt": "ys"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

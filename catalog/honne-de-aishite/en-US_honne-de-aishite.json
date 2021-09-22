@@ -1,5 +1,9 @@
 {
     "title": "Honne de Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32098.jpg",
+        "alt": "honne-de-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

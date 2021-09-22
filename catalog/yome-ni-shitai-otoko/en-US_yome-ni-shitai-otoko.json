@@ -1,5 +1,9 @@
 {
     "title": "Yome ni Shitai Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226116.jpg",
+        "alt": "yome-ni-shitai-otoko"
+    },
     "type": "manga",
     "original_name": "嫁にしたい男",
     "start_date": "2018-08-28",

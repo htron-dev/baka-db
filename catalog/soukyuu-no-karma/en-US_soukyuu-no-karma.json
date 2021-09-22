@@ -1,5 +1,9 @@
 {
     "title": "Soukyuu no Karma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162725.jpg",
+        "alt": "soukyuu-no-karma"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "56",

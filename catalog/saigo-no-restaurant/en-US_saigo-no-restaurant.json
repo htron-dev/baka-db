@@ -1,5 +1,9 @@
 {
     "title": "Saigo no Restaurant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112937.jpg",
+        "alt": "saigo-no-restaurant"
+    },
     "type": "manga",
     "original_name": "最後のレストラン",
     "start_date": "2011-02-21",

@@ -1,5 +1,9 @@
 {
     "title": "Seven☆Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172823.jpg",
+        "alt": "seven☆-star"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "96",

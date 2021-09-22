@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Messiah-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11109.jpg",
+        "alt": "watashi-no-messiah-sama"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "64",

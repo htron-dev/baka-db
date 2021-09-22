@@ -1,5 +1,9 @@
 {
     "title": "Reizouko no Tsukenosuke!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1884/95217.jpg",
+        "alt": "reizouko-no-tsukenosuke"
+    },
     "type": "tv-serie",
     "original_name": "れいぞうこのつけのすけ！",
     "start_date": "2018-10-01",

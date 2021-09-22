@@ -1,5 +1,9 @@
 {
     "title": "UFO Princess Valkyrie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/22373.jpg",
+        "alt": "ufo-princess-valkyrie"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "円盤皇女ワるきゅーレ",

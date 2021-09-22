@@ -1,5 +1,9 @@
 {
     "title": "Save Data de Koi wo Shitemita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244813.jpg",
+        "alt": "save-data-de-koi-wo-shitemita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Ojiichan wa Shounen Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15290.jpg",
+        "alt": "ojiichan-wa-shounen-tantei"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "35",

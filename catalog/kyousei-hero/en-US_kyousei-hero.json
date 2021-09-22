@@ -1,5 +1,9 @@
 {
     "title": "Kyousei Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142169.jpg",
+        "alt": "kyousei-hero"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

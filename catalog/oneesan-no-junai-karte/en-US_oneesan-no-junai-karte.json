@@ -1,5 +1,9 @@
 {
     "title": "Oneesan no Junai Karte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206581.jpg",
+        "alt": "oneesan-no-junai-karte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

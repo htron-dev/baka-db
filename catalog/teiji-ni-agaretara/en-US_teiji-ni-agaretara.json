@@ -1,5 +1,9 @@
 {
     "title": "Teiji ni Agaretara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229497.jpg",
+        "alt": "teiji-ni-agaretara"
+    },
     "type": "manga",
     "original_name": "定時にあがれたら",
     "start_date": "2018-10-25",

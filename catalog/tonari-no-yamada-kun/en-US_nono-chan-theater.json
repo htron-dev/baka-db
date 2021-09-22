@@ -1,5 +1,9 @@
 {
     "title": "Nono-chan Theater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/85747.jpg",
+        "alt": "nono-chan-theater"
+    },
     "type": "ona",
     "episodes": "85",
     "original_name": "ののちゃんシアター",

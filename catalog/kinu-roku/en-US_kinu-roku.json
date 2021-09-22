@@ -1,5 +1,9 @@
 {
     "title": "Kinu Roku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157709.jpg",
+        "alt": "kinu-roku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

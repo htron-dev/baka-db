@@ -1,5 +1,9 @@
 {
     "title": "Sayuri-san no Imouto wa Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148583.jpg",
+        "alt": "sayuri-san-no-imouto-wa-tenshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

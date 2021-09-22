@@ -1,5 +1,9 @@
 {
     "title": "Hei Lang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229837.jpg",
+        "alt": "hei-lang"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

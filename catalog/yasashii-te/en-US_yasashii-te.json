@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Te",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/102653.jpg",
+        "alt": "yasashii-te"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

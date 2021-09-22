@@ -1,5 +1,9 @@
 {
     "title": "Dokebi Bride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206034.jpg",
+        "alt": "dokebi-bride"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "37",

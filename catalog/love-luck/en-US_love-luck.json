@@ -1,5 +1,9 @@
 {
     "title": "Love Luck",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10030.jpg",
+        "alt": "love-luck"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

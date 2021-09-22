@@ -1,5 +1,9 @@
 {
     "title": "Hush-a-by-Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79495.jpg",
+        "alt": "hush-a-by-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

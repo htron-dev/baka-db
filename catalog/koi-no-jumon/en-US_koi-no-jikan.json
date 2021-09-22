@@ -1,5 +1,9 @@
 {
     "title": "Koi no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143217.jpg",
+        "alt": "koi-no-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

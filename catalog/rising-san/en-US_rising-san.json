@@ -1,5 +1,9 @@
 {
     "title": "Rising-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114917.jpg",
+        "alt": "rising-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

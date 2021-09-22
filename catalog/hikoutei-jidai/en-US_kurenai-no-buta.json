@@ -1,5 +1,9 @@
 {
     "title": "Kurenai no Buta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/2878.jpg",
+        "alt": "kurenai-no-buta"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "紅の豚",

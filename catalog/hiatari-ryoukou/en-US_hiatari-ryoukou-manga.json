@@ -1,5 +1,9 @@
 {
     "title": "Hiatari Ryoukou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175787.jpg",
+        "alt": "hiatari-ryoukou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

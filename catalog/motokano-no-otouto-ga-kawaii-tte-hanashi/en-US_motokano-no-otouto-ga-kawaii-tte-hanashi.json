@@ -1,5 +1,9 @@
 {
     "title": "Motokano no Otouto ga Kawaii tte Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238095.jpg",
+        "alt": "motokano-no-otouto-ga-kawaii-tte-hanashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "62",

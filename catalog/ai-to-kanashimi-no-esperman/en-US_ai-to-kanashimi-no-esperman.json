@@ -1,5 +1,9 @@
 {
     "title": "Ai to Kanashimi no Esperman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157915.jpg",
+        "alt": "ai-to-kanashimi-no-esperman"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

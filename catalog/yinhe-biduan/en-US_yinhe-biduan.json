@@ -1,5 +1,9 @@
 {
     "title": "Yinhe Biduan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148953.jpg",
+        "alt": "yinhe-biduan"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "银河彼端",

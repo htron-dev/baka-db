@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Ore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143065.jpg",
+        "alt": "mahou-shoujo-ore"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

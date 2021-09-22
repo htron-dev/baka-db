@@ -1,5 +1,9 @@
 {
     "title": "Naturaturally",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189110.jpg",
+        "alt": "naturaturally"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

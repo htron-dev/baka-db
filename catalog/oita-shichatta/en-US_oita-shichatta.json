@@ -1,5 +1,9 @@
 {
     "title": "Oita Shichatta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67345.jpg",
+        "alt": "oita-shichatta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

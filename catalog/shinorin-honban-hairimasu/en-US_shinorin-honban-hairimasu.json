@@ -1,5 +1,9 @@
 {
     "title": "Shinorin Honban Hairimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152518.jpg",
+        "alt": "shinorin-honban-hairimasu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

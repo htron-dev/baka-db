@@ -1,5 +1,9 @@
 {
     "title": "Nanjung Ilgi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1798/108249.jpg",
+        "alt": "nanjung-ilgi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "난중일기",
@@ -17,7 +21,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ko.wikipedia.org/wiki/난중일기_(1997년_영화"
+            "link": "https://ko.wikipedia.org/wiki/난중일기_%281997년_영화%29"
         }
     ]
 }

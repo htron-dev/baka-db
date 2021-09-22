@@ -1,5 +1,9 @@
 {
     "title": "Fate/Ixtella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245046.jpg",
+        "alt": "fate-ixtella"
+    },
     "type": "manga",
     "original_name": "フェイト／育ステラ",
     "start_date": "2018-03-06",

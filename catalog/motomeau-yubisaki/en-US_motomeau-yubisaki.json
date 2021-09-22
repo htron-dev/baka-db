@@ -1,5 +1,9 @@
 {
     "title": "Motomeau Yubisaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247149.jpg",
+        "alt": "motomeau-yubisaki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "求めあう指先",

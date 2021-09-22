@@ -1,5 +1,9 @@
 {
     "title": "Spring Weapon Number One",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191545.jpg",
+        "alt": "spring-weapon-number-one"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "69",

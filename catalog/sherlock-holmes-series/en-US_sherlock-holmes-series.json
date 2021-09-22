@@ -1,5 +1,9 @@
 {
     "title": "Sherlock Holmes Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161570.jpg",
+        "alt": "sherlock-holmes-series"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "シャーロック・ホームズシリーズ",

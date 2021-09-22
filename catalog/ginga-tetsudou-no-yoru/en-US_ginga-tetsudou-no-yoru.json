@@ -1,5 +1,9 @@
 {
     "title": "Ginga Tetsudou no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72319.jpg",
+        "alt": "ginga-tetsudou-no-yoru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

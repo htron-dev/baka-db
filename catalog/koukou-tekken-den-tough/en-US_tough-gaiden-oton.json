@@ -1,5 +1,9 @@
 {
     "title": "Tough Gaiden: Oton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16476.jpg",
+        "alt": "tough-gaiden-oton"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

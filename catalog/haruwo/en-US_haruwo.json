@@ -1,5 +1,9 @@
 {
     "title": "Haruwo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1037/112340.jpg",
+        "alt": "haruwo"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハルヲ",

@@ -1,5 +1,9 @@
 {
     "title": "Ossu! Renai Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2490.jpg",
+        "alt": "ossu-renai-gakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

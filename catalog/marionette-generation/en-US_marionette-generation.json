@@ -1,5 +1,9 @@
 {
     "title": "Marionette Generation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/652.jpg",
+        "alt": "marionette-generation"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "マリオネットジェネレーション",

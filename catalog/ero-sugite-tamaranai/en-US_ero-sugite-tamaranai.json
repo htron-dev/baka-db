@@ -1,5 +1,9 @@
 {
     "title": "Ero Sugite Tamaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193781.jpg",
+        "alt": "ero-sugite-tamaranai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

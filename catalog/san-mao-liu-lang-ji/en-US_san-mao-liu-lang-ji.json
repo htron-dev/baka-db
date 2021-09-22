@@ -1,5 +1,9 @@
 {
     "title": "San Mao Liu Lang Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/76379.jpg",
+        "alt": "san-mao-liu-lang-ji"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "三毛流浪记",

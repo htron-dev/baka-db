@@ -1,5 +1,9 @@
 {
     "title": "Hebi no Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189401.jpg",
+        "alt": "hebi-no-seikatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

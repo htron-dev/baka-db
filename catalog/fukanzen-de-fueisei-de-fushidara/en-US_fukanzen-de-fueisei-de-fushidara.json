@@ -1,5 +1,9 @@
 {
     "title": "Fukanzen de Fueisei de Fushidara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226174.jpg",
+        "alt": "fukanzen-de-fueisei-de-fushidara"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "35",

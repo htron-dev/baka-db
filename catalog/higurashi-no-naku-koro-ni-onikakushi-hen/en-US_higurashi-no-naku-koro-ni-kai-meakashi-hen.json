@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Kai: Meakashi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1018.jpg",
+        "alt": "higurashi-no-naku-koro-ni-kai-meakashi-hen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

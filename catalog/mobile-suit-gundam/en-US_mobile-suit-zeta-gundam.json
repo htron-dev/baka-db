@@ -1,11 +1,15 @@
 {
     "title": "Mobile Suit Zeta Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/11153.jpg",
+        "alt": "mobile-suit-zeta-gundam"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "機動戦士 Ζ ガンダム",
     "start_date": "1985-03-02",
     "end_date": "1985-03-02",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Zeta: Toki wo koete (Z・刻をこえて)\" by Mami Ayukawa (eps 1-23)",
     "ending_song": "\"Hoshizora no Believe (星空の Believe)\" by Mami Ayukawa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

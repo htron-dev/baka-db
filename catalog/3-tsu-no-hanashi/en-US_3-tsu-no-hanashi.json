@@ -1,5 +1,9 @@
 {
     "title": "3-tsu no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/24207.jpg",
+        "alt": "3-tsu-no-hanashi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "新しい動画 3 つのはなし",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Three_Tales_(anime"
+            "link": "http://en.wikipedia.org/wiki/Three_Tales_%28anime%29"
         }
     ]
 }

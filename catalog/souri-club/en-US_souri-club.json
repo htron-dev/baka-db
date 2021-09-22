@@ -1,5 +1,9 @@
 {
     "title": "Souri Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243695.jpg",
+        "alt": "souri-club"
+    },
     "type": "manga",
     "original_name": "総理倶楽部",
     "start_date": "2021-01-04",

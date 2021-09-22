@@ -1,12 +1,16 @@
 {
     "title": "AIKa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/61673.jpg",
+        "alt": "ai-ka"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "ＡＩＫａ",
     "start_date": "1997-04-25",
     "end_date": "1997-04-25",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Silent City\" by Mari Sasaki (eps 1-4)",
+    "ending_song": "#1: \"More Natural\" by Hiroko Konishi (eps 1-4)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

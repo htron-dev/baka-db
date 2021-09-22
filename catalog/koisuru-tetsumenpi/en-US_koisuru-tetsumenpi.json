@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Tetsumenpi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225445.jpg",
+        "alt": "koisuru-tetsumenpi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

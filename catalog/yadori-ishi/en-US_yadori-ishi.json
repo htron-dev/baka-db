@@ -1,5 +1,9 @@
 {
     "title": "Yadori Ishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193551.jpg",
+        "alt": "yadori-ishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

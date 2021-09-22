@@ -1,10 +1,14 @@
 {
     "title": "Love Live! Superstar!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1758/115692.jpg",
+        "alt": "love-live-superstar"
+    },
     "type": "tv-serie",
     "original_name": "ラブライブ！スーパースター!!",
     "start_date": "2021-07-11",
     "opening_song": "\"START!! True dreams\" by Liella! [Kanon Shibuya (Sayuri Date), Keke Tang (Liyuu), Chisato Arashi (Nako Misaki), Sumire Heanna (Naomi Payton), Ren Hazuki (Nagisa Aoyama)] (eps 2-??)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mirai Yohou Hallelujah! (未来予報ハレルヤ！)\" by Liella! (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

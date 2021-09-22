@@ -1,5 +1,9 @@
 {
     "title": "Seishun Re:Try",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183737.jpg",
+        "alt": "seishun-re-try"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,11 +1,15 @@
 {
     "title": "Ginga Hyouryuu Vifam 13",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/73993.jpg",
+        "alt": "ginga-hyouryuu-vifam-13"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "銀河漂流バイファム 13",
     "start_date": "1998-03-21",
     "end_date": "1998-03-21",
-    "opening_song": "\"Omega no Tobira",
+    "opening_song": "\"Omega no Tobira: Hello, Vifam (オメガの扉〜HELLO, VIFAM)\" by Katsumi",
     "ending_song": "\"Don't cry\" by Ai Maeda and Aki Maeda",
     "rating": "G - All Ages",
     "tags": [

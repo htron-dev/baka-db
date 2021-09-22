@@ -1,5 +1,9 @@
 {
     "title": "Aira Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155720.jpg",
+        "alt": "aira-series"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "31",

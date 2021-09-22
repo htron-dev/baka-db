@@ -1,5 +1,9 @@
 {
     "title": "Sarasupa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28811.jpg",
+        "alt": "sarasupa"
+    },
     "type": "manga",
     "original_name": "サラすぱ!",
     "start_date": "2009-07-20",

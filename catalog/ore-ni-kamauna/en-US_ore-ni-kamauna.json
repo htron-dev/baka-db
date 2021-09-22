@@ -1,5 +1,9 @@
 {
     "title": "Ore ni Kamauna!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82666.jpg",
+        "alt": "ore-ni-kamauna"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "俺にかまうな!",

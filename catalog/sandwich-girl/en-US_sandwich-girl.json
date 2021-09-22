@@ -1,5 +1,9 @@
 {
     "title": "Sandwich Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27138.jpg",
+        "alt": "sandwich-girl"
+    },
     "type": "manhwa",
     "volumes": "8",
     "tags": [

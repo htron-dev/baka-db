@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: Grandia Xtreme",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151582.jpg",
+        "alt": "super-comic-gekijou-grandia-xtreme"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スーパーコミック劇場 グランディア エクストリーム",

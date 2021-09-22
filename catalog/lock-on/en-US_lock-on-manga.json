@@ -1,5 +1,9 @@
 {
     "title": "Lock On!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/137235.jpg",
+        "alt": "lock-on"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

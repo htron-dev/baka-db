@@ -1,5 +1,9 @@
 {
     "title": "Hanjuku Girlfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236130.jpg",
+        "alt": "hanjuku-girlfriend"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

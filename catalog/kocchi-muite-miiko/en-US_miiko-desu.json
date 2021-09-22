@@ -1,5 +1,9 @@
 {
     "title": "Miiko desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/36554.jpg",
+        "alt": "miiko-desu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

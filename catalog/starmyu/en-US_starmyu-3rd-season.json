@@ -1,12 +1,16 @@
 {
     "title": "Starmyu 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1663/99834.jpg",
+        "alt": "starmyu-3rd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "高校星歌劇[スタミュ] 3rd シーズン",
     "start_date": "2019-07-01",
     "end_date": "2019-07-01",
     "opening_song": "\"DREAM TOGETHER\" by Kouta Shinzato (新里宏太) (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"On Stage (オンステージ)\" by team Ootori (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

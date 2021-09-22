@@ -1,5 +1,9 @@
 {
     "title": "Fukigen na Rosette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174633.jpg",
+        "alt": "fukigen-na-rosette"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

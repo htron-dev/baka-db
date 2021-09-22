@@ -1,5 +1,9 @@
 {
     "title": "Tales of Vesperia: The First Strike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/16680.jpg",
+        "alt": "tales-of-vesperia-the-first-strike"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "テイルズ オブ ヴェスペリア",

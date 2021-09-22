@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Ikusei Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163622.jpg",
+        "alt": "mahou-shoujo-ikusei-keikaku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

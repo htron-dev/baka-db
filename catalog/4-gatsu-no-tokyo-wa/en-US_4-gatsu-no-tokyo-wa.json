@@ -1,5 +1,9 @@
 {
     "title": "4-gatsu no Tokyo wa...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237949.jpg",
+        "alt": "4-gatsu-no-tokyo-wa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

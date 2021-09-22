@@ -1,5 +1,9 @@
 {
     "title": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141003.jpg",
+        "alt": "narutaru-mukuro-naru-hoshi-tama-taru-ko"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "68",

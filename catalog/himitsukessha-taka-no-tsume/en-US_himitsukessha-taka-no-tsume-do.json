@@ -1,11 +1,15 @@
 {
     "title": "Himitsukessha Taka no Tsume DO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/82814.jpg",
+        "alt": "himitsukessha-taka-no-tsume-do"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "秘密結社鷹の爪 DO",
     "start_date": "2015-04-03",
     "end_date": "2015-04-03",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koi wa Zu-ku☆Dance (恋はずーく ☆ ダンス)\" by La PomPon (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

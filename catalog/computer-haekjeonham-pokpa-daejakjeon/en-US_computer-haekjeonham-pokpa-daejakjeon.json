@@ -1,5 +1,9 @@
 {
     "title": "Computer Haekjeonham Pokpa Daejakjeon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/45246.jpg",
+        "alt": "computer-haekjeonham-pokpa-daejakjeon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "콤퓨터핵전함 폭파대작전",

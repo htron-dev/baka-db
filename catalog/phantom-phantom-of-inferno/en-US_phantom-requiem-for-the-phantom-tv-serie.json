@@ -1,12 +1,16 @@
 {
     "title": "Phantom: Requiem for the Phantom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/22470.jpg",
+        "alt": "phantom-requiem-for-the-phantom"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "Phantom 〜Requiem for the Phantom〜",
     "start_date": "2009-04-03",
     "end_date": "2009-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Karma\" by KOKIA (eps 1-19)",
+    "ending_song": "#1: \"Jigoku no Mon (地獄の門)\" by ALI PROJECT (1-19)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

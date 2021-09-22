@@ -1,5 +1,9 @@
 {
     "title": "Hana to Hirari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173825.jpg",
+        "alt": "hana-to-hirari"
+    },
     "type": "manga",
     "original_name": "花と蝶〈ひらり〉",
     "start_date": "2014-11-29",

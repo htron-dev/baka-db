@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Koushien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/68769.jpg",
+        "alt": "jigoku-koushien"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "地獄甲子園",

@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Kirby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/91651.jpg",
+        "alt": "hoshi-no-kirby"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "星のカービィ",

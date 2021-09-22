@@ -1,5 +1,9 @@
 {
     "title": "Akudou Bunko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196084.jpg",
+        "alt": "akudou-bunko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

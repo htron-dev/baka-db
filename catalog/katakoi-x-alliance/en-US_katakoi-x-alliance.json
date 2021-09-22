@@ -1,5 +1,9 @@
 {
     "title": "Katakoi x Alliance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228127.jpg",
+        "alt": "katakoi-x-alliance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

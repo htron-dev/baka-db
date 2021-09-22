@@ -1,5 +1,9 @@
 {
     "title": "Mikan-Seijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/16021.jpg",
+        "alt": "mikan-seijin"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ミカンせいじん",

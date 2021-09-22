@@ -1,5 +1,9 @@
 {
     "title": "Wataru Seken wa Baka bakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162695.jpg",
+        "alt": "wataru-seken-wa-baka-bakari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

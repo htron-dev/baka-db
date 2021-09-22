@@ -1,5 +1,9 @@
 {
     "title": "Honjitsu, Akane-biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213501.jpg",
+        "alt": "honjitsu-akane-biyori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

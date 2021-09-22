@@ -1,5 +1,9 @@
 {
     "title": "Witch Craft Works",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113229.jpg",
+        "alt": "witch-craft-works"
+    },
     "type": "manga",
     "original_name": "ウィッチクラフトワークス",
     "start_date": "2010-03-05",

@@ -1,5 +1,9 @@
 {
     "title": "Namae wo Yonde",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79269.jpg",
+        "alt": "namae-wo-yonde"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

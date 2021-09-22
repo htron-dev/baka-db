@@ -1,5 +1,9 @@
 {
     "title": "Ihotose Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199855.jpg",
+        "alt": "ihotose-box"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

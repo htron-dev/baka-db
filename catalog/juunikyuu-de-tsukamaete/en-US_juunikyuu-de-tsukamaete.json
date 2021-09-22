@@ -1,5 +1,9 @@
 {
     "title": "Juunikyuu de Tsukamaete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/801.jpg",
+        "alt": "juunikyuu-de-tsukamaete"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

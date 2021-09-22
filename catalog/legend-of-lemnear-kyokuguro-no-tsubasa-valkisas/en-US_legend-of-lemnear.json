@@ -1,5 +1,9 @@
 {
     "title": "Legend of Lemnear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5606.jpg",
+        "alt": "legend-of-lemnear"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

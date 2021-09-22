@@ -1,5 +1,9 @@
 {
     "title": "Roo no Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13510.jpg",
+        "alt": "roo-no-oukoku"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "ROO の王国",

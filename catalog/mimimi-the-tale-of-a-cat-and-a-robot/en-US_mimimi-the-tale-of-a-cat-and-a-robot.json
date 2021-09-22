@@ -1,5 +1,9 @@
 {
     "title": "Mimimi ~The Tale of a Cat and a Robot~",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31537.jpg",
+        "alt": "mimimi-the-tale-of-a-cat-and-a-robot"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "みみみ 猫とロボと小説～",

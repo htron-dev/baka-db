@@ -1,5 +1,9 @@
 {
     "title": "Nanshon nara!! Oniisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234491.jpg",
+        "alt": "nanshon-nara-oniisan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "46",

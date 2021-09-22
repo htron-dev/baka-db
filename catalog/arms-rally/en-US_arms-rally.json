@@ -1,5 +1,9 @@
 {
     "title": "Arms Rally",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1888/105574.jpg",
+        "alt": "arms-rally"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "アームズラリー",

@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Musume ni Arazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188572.jpg",
+        "alt": "mahoutsukai-no-musume-ni-arazu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

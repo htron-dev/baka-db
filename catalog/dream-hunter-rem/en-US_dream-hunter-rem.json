@@ -1,11 +1,15 @@
 {
     "title": "Dream Hunter Rem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1538/94531.jpg",
+        "alt": "dream-hunter-rem"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "DREAM HUNTER 麗夢",
     "start_date": "1985-12-15",
     "end_date": "1985-12-15",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dream Hunter Rem (ドリームハンター麗夢)\" by Matsui Naoko (eps 1-2)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

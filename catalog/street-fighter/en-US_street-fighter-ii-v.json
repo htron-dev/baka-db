@@ -1,12 +1,16 @@
 {
     "title": "Street Fighter II V",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/29992.jpg",
+        "alt": "street-fighter-ii-v"
+    },
     "type": "tv-serie",
     "episodes": "29",
     "original_name": "ストリートファイター II V",
     "start_date": "1995-04-10",
     "end_date": "1995-04-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kaze Fuiteru (風 吹いてる)\" by Yuki Kuroda (eps 1-19)",
+    "ending_song": "#1: \"Cry\" by Yuki Kuroda (eps 1-19)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Abigaile no Kemono-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179212.jpg",
+        "alt": "abigaile-no-kemono-tachi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

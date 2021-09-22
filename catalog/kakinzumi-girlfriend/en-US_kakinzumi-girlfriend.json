@@ -1,5 +1,9 @@
 {
     "title": "Kakinzumi Girlfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200505.jpg",
+        "alt": "kakinzumi-girlfriend"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Gravitation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112343.jpg",
+        "alt": "gravitation"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "54",

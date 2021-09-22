@@ -1,5 +1,9 @@
 {
     "title": "Tensei! Aoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41038.jpg",
+        "alt": "tensei-aoi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "天晴！あおい",

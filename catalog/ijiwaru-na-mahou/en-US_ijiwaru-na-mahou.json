@@ -1,5 +1,9 @@
 {
     "title": "Ijiwaru na Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/24140.jpg",
+        "alt": "ijiwaru-na-mahou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "いじわるな魔法",

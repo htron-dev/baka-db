@@ -1,5 +1,9 @@
 {
     "title": "Garouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/76259.jpg",
+        "alt": "garouden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",
@@ -19,13 +23,6 @@
     ],
     "sinopse": "The story of a muscular man with a mysterious past and his involvement against yakuza and other shady fellow...",
     "links": [
-        {
-            "text": "My Anime list",
-            "link": "https://myanimelist.net/manga/20649/Garouden"
-        },
-        "ng the best each had to offer, Tanba came to the FAW (a gym that trains pro-wrestlers) and is pitted against T. Kajiwara. Tanba is defeated and humiliated after realizing that he is not strong enough and disappears for 3 years. Upon his return, he has become nearly unbeatable.",
-        "This series is on hiatus.",
-        "## Links",
         {
             "text": "My Anime list",
             "link": "https://myanimelist.net/manga/7921/Garouden"

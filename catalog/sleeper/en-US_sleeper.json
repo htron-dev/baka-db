@@ -1,5 +1,9 @@
 {
     "title": "Sleeper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7982.jpg",
+        "alt": "sleeper"
+    },
     "type": "manga",
     "volumes": "4",
     "tags": [

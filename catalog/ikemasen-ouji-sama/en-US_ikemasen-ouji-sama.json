@@ -1,5 +1,9 @@
 {
     "title": "Ikemasen, Ouji-sama!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15058.jpg",
+        "alt": "ikemasen-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

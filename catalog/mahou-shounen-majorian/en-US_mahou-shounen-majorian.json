@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shounen Majorian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184782.jpg",
+        "alt": "mahou-shounen-majorian"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

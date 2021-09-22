@@ -1,5 +1,9 @@
 {
     "title": "Fukanzen na Hito no Tame ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198480.jpg",
+        "alt": "fukanzen-na-hito-no-tame-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

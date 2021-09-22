@@ -1,5 +1,9 @@
 {
     "title": "Penguin Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183168.jpg",
+        "alt": "penguin-kakumei"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

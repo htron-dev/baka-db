@@ -1,5 +1,9 @@
 {
     "title": "Sono Mono. Nochi ni...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222532.jpg",
+        "alt": "sono-mono-nochi-ni"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "191",

@@ -1,5 +1,9 @@
 {
     "title": "Hito Monchaku nara Yorokonde!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247927.jpg",
+        "alt": "hito-monchaku-nara-yorokonde"
+    },
     "type": "manga",
     "original_name": "ひともんちゃくなら喜んで!",
     "start_date": "2021-05-03",

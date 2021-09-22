@@ -1,5 +1,9 @@
 {
     "title": "Roselia Oukoku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58201.jpg",
+        "alt": "roselia-oukoku-monogatari"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ローゼリア王国物語",

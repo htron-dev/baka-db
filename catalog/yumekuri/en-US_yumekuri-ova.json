@@ -1,5 +1,9 @@
 {
     "title": "Yumekuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/42753.jpg",
+        "alt": "yumekuri"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ゆめくり",

@@ -1,5 +1,9 @@
 {
     "title": "Celestial Clothes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188822.jpg",
+        "alt": "celestial-clothes"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "65",

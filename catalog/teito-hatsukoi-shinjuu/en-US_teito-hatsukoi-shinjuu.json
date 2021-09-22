@@ -1,5 +1,9 @@
 {
     "title": "Teito Hatsukoi Shinjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203943.jpg",
+        "alt": "teito-hatsukoi-shinjuu"
+    },
     "type": "manga",
     "original_name": "帝都初恋心中",
     "start_date": "2016-12-21",

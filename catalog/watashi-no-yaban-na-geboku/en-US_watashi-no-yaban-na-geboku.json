@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Yaban na Geboku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34962.jpg",
+        "alt": "watashi-no-yaban-na-geboku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "17-sai no Mama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14840.jpg",
+        "alt": "17-sai-no-mama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

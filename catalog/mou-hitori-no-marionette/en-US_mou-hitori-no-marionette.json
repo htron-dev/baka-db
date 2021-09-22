@@ -1,5 +1,9 @@
 {
     "title": "Mou Hitori no Marionette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127591.jpg",
+        "alt": "mou-hitori-no-marionette"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "47",

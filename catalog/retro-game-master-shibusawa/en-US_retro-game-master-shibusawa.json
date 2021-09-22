@@ -1,5 +1,9 @@
 {
     "title": "Retro Game Master Shibusawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164379.jpg",
+        "alt": "retro-game-master-shibusawa"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "14",

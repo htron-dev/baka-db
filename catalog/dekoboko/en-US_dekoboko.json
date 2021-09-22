@@ -1,5 +1,9 @@
 {
     "title": "Dekoboko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234696.jpg",
+        "alt": "dekoboko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

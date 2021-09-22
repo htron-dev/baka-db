@@ -1,5 +1,9 @@
 {
     "title": "Seiheki Strike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221581.jpg",
+        "alt": "seiheki-strike"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

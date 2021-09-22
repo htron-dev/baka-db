@@ -1,5 +1,9 @@
 {
     "title": "Odds VS!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230332.jpg",
+        "alt": "odds-vs"
+    },
     "type": "manga",
     "original_name": "Odds VS!",
     "start_date": "2014-01-07",

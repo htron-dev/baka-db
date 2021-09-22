@@ -1,5 +1,9 @@
 {
     "title": "Oyasumi Étranger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204644.jpg",
+        "alt": "oyasumi-etranger"
+    },
     "type": "manga",
     "original_name": "おやすみエトランゼ",
     "start_date": "2016-08-31",

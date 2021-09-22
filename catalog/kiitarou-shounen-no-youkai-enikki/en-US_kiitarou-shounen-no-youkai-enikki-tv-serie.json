@@ -1,11 +1,15 @@
 {
     "title": "Kiitarou Shounen no Youkai Enikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/81679.jpg",
+        "alt": "kiitarou-shounen-no-youkai-enikki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "奇異太郎少年の妖怪絵日記",
     "start_date": "2016-10-05",
     "end_date": "2016-10-05",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Misty\" by Haruka Toujou (東城陽奏) (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "O-ri-ga-mi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64057.jpg",
+        "alt": "o-ri-ga-mi"
+    },
     "type": "light-novel",
     "volumes": "7",
     "original_name": "お・り・が・み",

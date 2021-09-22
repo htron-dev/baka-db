@@ -1,12 +1,16 @@
 {
     "title": "Zettai Karen Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75581.jpg",
+        "alt": "zettai-karen-children"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "絶対可憐チルドレン",
     "start_date": "2008-04-06",
     "end_date": "2008-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Over The Future\" by Karen Girl's (eps 1-26)",
+    "ending_song": "#1: \"Zettai love×love Sengen!! (絶対 love×love 宣言!!)\" by 'The Children' starring Aya Hirano, Ryoko Shiraishi, and Haruka Tomatsu (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

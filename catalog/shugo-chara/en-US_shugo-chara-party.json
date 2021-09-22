@@ -1,12 +1,16 @@
 {
     "title": "Shugo Chara! Party!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/17170.jpg",
+        "alt": "shugo-chara-party"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "しゅごキャラ！パーティー！",
     "start_date": "2009-10-03",
     "end_date": "2009-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"PARTY TIME\" by Guardians 4 (eps 1 - 13 of Shugo Chara! Party)",
+    "ending_song": "#1: \"Bravo☆Bravo\" by Buono! (eps 1 - 13)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

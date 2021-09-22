@@ -1,5 +1,9 @@
 {
     "title": "Futari no Renai Shoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/99799.jpg",
+        "alt": "futari-no-renai-shoka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

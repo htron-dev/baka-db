@@ -1,5 +1,9 @@
 {
     "title": "Saitou Alice wa Yuugai desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121465.jpg",
+        "alt": "saitou-alice-wa-yuugai-desu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "斉藤アリスは有害です。",

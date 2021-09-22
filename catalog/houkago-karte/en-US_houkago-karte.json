@@ -1,5 +1,9 @@
 {
     "title": "Houkago Karte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202391.jpg",
+        "alt": "houkago-karte"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "79",

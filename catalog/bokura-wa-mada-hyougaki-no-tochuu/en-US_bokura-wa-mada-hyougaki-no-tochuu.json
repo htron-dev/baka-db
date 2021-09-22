@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Mada Hyougaki no Tochuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238449.jpg",
+        "alt": "bokura-wa-mada-hyougaki-no-tochuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

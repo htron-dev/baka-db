@@ -1,5 +1,9 @@
 {
     "title": "Stray Keys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81670.jpg",
+        "alt": "stray-keys"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

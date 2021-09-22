@@ -1,11 +1,15 @@
 {
     "title": "Juusenki L-Gaim",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/46129.jpg",
+        "alt": "juusenki-l-gaim"
+    },
     "type": "tv-serie",
     "episodes": "54",
     "original_name": "重戦機エルガイム",
     "start_date": "1984-02-04",
     "end_date": "1984-02-04",
-    "opening_song": "#1",
+    "opening_song": "#1: \"L-Gaim~ TIME FOR L-GAIM (エルガイム-Time for L.GAIM-)\" by MIO (eps 1-25)",
     "ending_song": "\"Starlight Shower (スターライト・シャワー)\" by MIO",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

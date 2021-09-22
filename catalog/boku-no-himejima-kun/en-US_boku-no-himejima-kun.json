@@ -1,5 +1,9 @@
 {
     "title": "Boku no Himejima-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238366.jpg",
+        "alt": "boku-no-himejima-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

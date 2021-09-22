@@ -1,5 +1,9 @@
 {
     "title": "Zannen! Banchou-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157402.jpg",
+        "alt": "zannen-banchou-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

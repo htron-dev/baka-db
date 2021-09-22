@@ -1,5 +1,9 @@
 {
     "title": "Nozomu Bekumonai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96459.jpg",
+        "alt": "nozomu-bekumonai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Oingo to Boingo Kyoudai Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131129.jpg",
+        "alt": "oingo-to-boingo-kyoudai-daibouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

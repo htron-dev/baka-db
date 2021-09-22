@@ -1,5 +1,9 @@
 {
     "title": "Koketsu Dining",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72035.jpg",
+        "alt": "koketsu-dining"
+    },
     "type": "manga",
     "original_name": "虎穴ダイニング",
     "start_date": "2011-08-22",

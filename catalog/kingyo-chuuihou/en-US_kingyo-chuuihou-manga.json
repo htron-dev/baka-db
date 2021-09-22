@@ -1,5 +1,9 @@
 {
     "title": "Kingyo Chuuihou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/83705.jpg",
+        "alt": "kingyo-chuuihou"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "きんぎょ注意報！",

@@ -1,5 +1,9 @@
 {
     "title": "Harusora Koushinkyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235915.jpg",
+        "alt": "harusora-koushinkyoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Shenmue: The Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/8654.jpg",
+        "alt": "shenmue-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "シェンムー・ザ・ムービー",

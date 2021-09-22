@@ -1,12 +1,16 @@
 {
     "title": "Romeo x Juliet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75159.jpg",
+        "alt": "romeo-x-juliet"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ロミオ × ジュリエット",
     "start_date": "2007-04-05",
     "end_date": "2007-04-05",
     "opening_song": "\"Inori ~You Raise Me Up~\" by Lena Park",
-    "ending_song": "#1",
+    "ending_song": "#1: \"サイクロン\" (\"Cyclone\") by 12012 (eps 1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

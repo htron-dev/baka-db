@@ -1,5 +1,9 @@
 {
     "title": "Blue Glass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220686.jpg",
+        "alt": "blue-glass"
+    },
     "type": "manhwa",
     "original_name": "푸른유리",
     "start_date": "2014-12-01",

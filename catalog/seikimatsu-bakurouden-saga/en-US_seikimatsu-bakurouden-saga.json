@@ -1,5 +1,9 @@
 {
     "title": "Seikimatsu Bakurouden Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237104.jpg",
+        "alt": "seikimatsu-bakurouden-saga"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "72",

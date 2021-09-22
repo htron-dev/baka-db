@@ -1,5 +1,9 @@
 {
     "title": "Hentatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1597/105619.jpg",
+        "alt": "hentatsu"
+    },
     "type": "ona",
     "episodes": "9",
     "original_name": "へんたつ",

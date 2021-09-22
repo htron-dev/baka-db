@@ -1,5 +1,9 @@
 {
     "title": "Inu-Five",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190593.jpg",
+        "alt": "inu-five"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "いぬ五〈ファイブ〉",

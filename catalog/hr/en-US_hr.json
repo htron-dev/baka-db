@@ -1,5 +1,9 @@
 {
     "title": "HR",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11099.jpg",
+        "alt": "hr"
+    },
     "type": "manga",
     "tags": [
         "comedy",

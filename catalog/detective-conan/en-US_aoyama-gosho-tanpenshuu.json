@@ -1,5 +1,9 @@
 {
     "title": "Aoyama Gosho Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201863.jpg",
+        "alt": "aoyama-gosho-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

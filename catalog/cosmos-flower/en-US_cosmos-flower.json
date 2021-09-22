@@ -1,5 +1,9 @@
 {
     "title": "Cosmos Flower",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/11747.jpg",
+        "alt": "cosmos-flower"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "13",

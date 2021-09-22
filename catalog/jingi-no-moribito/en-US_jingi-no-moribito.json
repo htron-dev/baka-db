@@ -1,5 +1,9 @@
 {
     "title": "Jingi no Moribito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227639.jpg",
+        "alt": "jingi-no-moribito"
+    },
     "type": "manga",
     "original_name": "神祇の守り人",
     "start_date": "2019-07-20",

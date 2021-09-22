@@ -1,5 +1,9 @@
 {
     "title": "Skill-kurai no Eiyuutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192886.jpg",
+        "alt": "skill-kurai-no-eiyuutan"
+    },
     "type": "light-novel",
     "original_name": "スキル喰らいの英雄譚",
     "start_date": "2017-02-01",

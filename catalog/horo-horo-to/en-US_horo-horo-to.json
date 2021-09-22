@@ -1,5 +1,9 @@
 {
     "title": "Horo Horo to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118971.jpg",
+        "alt": "horo-horo-to"
+    },
     "type": "manga",
     "original_name": "ほろほろと",
     "start_date": "2009-09-07",

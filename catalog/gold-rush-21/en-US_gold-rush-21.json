@@ -1,5 +1,9 @@
 {
     "title": "Gold Rush 21",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82186.jpg",
+        "alt": "gold-rush-21"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: Doraemon Comes Back",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/57855.jpg",
+        "alt": "doraemon-doraemon-comes-back"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "帰ってきたドラえもん",

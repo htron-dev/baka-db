@@ -1,5 +1,9 @@
 {
     "title": "Imouto Gakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163281.jpg",
+        "alt": "imouto-gakari"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

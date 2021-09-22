@@ -1,5 +1,9 @@
 {
     "title": "Shin High School DxD",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210424.jpg",
+        "alt": "shin-high-school-dx-d"
+    },
     "type": "light-novel",
     "original_name": "真ハイスクール D×D",
     "start_date": "2018-07-20",

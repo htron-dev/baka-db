@@ -1,11 +1,15 @@
 {
     "title": "Bamboo Bears",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/4138.jpg",
+        "alt": "bamboo-bears"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "バンブー・ベアーズ",
     "start_date": "1997-04-04",
     "end_date": "1997-04-04",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Girls Be...\" by Girls Be",
     "rating": "None",
     "tags": [
         "comedy"

@@ -1,5 +1,9 @@
 {
     "title": "Satsujin Muzai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215942.jpg",
+        "alt": "satsujin-muzai"
+    },
     "type": "manga",
     "original_name": "殺人無罪",
     "start_date": "2018-10-11",

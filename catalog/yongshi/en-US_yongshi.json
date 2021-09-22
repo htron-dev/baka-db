@@ -1,5 +1,9 @@
 {
     "title": "Yongshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78993.jpg",
+        "alt": "yongshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "勇士",

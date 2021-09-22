@@ -1,5 +1,9 @@
 {
     "title": "Kono Ken ga Tsuki wo Kiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183861.jpg",
+        "alt": "kono-ken-ga-tsuki-wo-kiru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

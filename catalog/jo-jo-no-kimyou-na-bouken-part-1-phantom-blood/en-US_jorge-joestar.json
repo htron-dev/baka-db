@@ -1,5 +1,9 @@
 {
     "title": "Jorge Joestar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82348.jpg",
+        "alt": "jorge-joestar"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "16",

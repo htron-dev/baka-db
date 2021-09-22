@@ -1,12 +1,16 @@
 {
     "title": "Garo: Vanishing Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/88236.jpg",
+        "alt": "garo-vanishing-line"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "牙狼〈GARO〉-VANISHING LINE-",
     "start_date": "2017-10-07",
     "end_date": "2017-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"EMG\" by JAM Project",
+    "ending_song": "#1: \"Sofia (ソフィア)\" by Masami Okui",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

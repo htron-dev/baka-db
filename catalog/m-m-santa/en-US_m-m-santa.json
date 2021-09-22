@@ -1,5 +1,9 @@
 {
     "title": "M.M Santa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194949.jpg",
+        "alt": "m-m-santa"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "エムエム三太",

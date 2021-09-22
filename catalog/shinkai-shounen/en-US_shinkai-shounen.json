@@ -1,5 +1,9 @@
 {
     "title": "Shinkai Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181592.jpg",
+        "alt": "shinkai-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "深海少年 こなみ詔子作品集",

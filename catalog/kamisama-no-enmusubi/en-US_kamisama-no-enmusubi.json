@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Enmusubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155742.jpg",
+        "alt": "kamisama-no-enmusubi"
+    },
     "type": "manga",
     "original_name": "神さまの怨結び",
     "start_date": "2014-04-05",

@@ -1,5 +1,9 @@
 {
     "title": "Uso Tsurezure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148403.jpg",
+        "alt": "uso-tsurezure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Cafe Sweet Coco Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80065.jpg",
+        "alt": "cafe-sweet-coco-magic"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "カフェスイートココマジック",

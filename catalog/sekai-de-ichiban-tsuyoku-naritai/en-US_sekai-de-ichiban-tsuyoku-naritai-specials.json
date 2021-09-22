@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban Tsuyoku Naritai! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/55775.jpg",
+        "alt": "sekai-de-ichiban-tsuyoku-naritai-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "世界でいちばん強くなりたい!",

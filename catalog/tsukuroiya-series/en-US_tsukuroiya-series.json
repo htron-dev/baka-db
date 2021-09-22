@@ -1,5 +1,9 @@
 {
     "title": "Tsukuroiya Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77633.jpg",
+        "alt": "tsukuroiya-series"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "つくろい屋・シリーズ",

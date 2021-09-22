@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Dolls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52325.jpg",
+        "alt": "kamisama-dolls"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "72",

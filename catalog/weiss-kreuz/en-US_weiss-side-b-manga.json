@@ -1,5 +1,9 @@
 {
     "title": "Weiß Side B",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156683.jpg",
+        "alt": "weiss-side-b"
+    },
     "type": "manga",
     "chapters": "37",
     "original_name": "Weiß Side B",

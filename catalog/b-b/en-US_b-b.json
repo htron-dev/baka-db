@@ -1,5 +1,9 @@
 {
     "title": "B.B",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186952.jpg",
+        "alt": "b-b"
+    },
     "type": "manga",
     "volumes": "31",
     "chapters": "286",

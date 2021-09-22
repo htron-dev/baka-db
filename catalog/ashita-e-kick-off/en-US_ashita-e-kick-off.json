@@ -1,5 +1,9 @@
 {
     "title": "Ashita e Kick Off",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115527.jpg",
+        "alt": "ashita-e-kick-off"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "明日へキックオフ",

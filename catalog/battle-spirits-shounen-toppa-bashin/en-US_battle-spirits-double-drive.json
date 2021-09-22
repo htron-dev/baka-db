@@ -1,5 +1,9 @@
 {
     "title": "Battle Spirits: Double Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79186.jpg",
+        "alt": "battle-spirits-double-drive"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "バトルスピリッツ ダブルドライブ",

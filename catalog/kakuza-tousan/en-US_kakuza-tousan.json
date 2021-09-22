@@ -1,5 +1,9 @@
 {
     "title": "Kakuza Tousan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1217/105577.jpg",
+        "alt": "kakuza-tousan"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "かくざ父さん",

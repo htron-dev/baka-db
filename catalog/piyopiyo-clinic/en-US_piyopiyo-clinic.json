@@ -1,5 +1,9 @@
 {
     "title": "Piyopiyo Clinic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27997.jpg",
+        "alt": "piyopiyo-clinic"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ぴよぴよ ☆ クリニック",

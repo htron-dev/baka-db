@@ -1,5 +1,9 @@
 {
     "title": "Quiz Magic Academy: The Original Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/13459.jpg",
+        "alt": "quiz-magic-academy-the-original-animation"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "クイズマジックアカデミー ~The Original Animation~",

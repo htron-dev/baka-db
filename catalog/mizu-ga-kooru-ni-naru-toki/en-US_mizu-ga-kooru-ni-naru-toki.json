@@ -1,5 +1,9 @@
 {
     "title": "Mizu ga Kooru ni Naru Toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61449.jpg",
+        "alt": "mizu-ga-kooru-ni-naru-toki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

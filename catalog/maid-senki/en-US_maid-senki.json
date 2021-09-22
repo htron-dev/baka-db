@@ -1,5 +1,9 @@
 {
     "title": "Maid Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9208.jpg",
+        "alt": "maid-senki"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "45",

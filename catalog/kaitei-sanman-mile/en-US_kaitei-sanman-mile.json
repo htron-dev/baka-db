@@ -1,5 +1,9 @@
 {
     "title": "Kaitei Sanman Mile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/25424.jpg",
+        "alt": "kaitei-sanman-mile"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "海底 3 万マイル",

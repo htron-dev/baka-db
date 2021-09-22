@@ -1,5 +1,9 @@
 {
     "title": "Joou Heika to Yobanaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245161.jpg",
+        "alt": "joou-heika-to-yobanaide"
+    },
     "type": "manga",
     "original_name": "女王陛下と呼ばないで",
     "start_date": "2020-02-18",

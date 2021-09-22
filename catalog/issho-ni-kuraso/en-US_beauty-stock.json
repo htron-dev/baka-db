@@ -1,5 +1,9 @@
 {
     "title": "Beauty Stock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66985.jpg",
+        "alt": "beauty-stock"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

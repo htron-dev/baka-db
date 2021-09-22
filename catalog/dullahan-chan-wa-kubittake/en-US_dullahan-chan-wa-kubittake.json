@@ -1,5 +1,9 @@
 {
     "title": "Dullahan-chan wa Kubittake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180705.jpg",
+        "alt": "dullahan-chan-wa-kubittake"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

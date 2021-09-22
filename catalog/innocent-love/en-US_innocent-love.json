@@ -1,5 +1,9 @@
 {
     "title": "Innocent Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209459.jpg",
+        "alt": "innocent-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

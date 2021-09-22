@@ -1,5 +1,9 @@
 {
     "title": "Ex-Vita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157711.jpg",
+        "alt": "ex-vita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Junshoku Madara Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233391.jpg",
+        "alt": "junshoku-madara-nikki"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "潤色まだら日記",

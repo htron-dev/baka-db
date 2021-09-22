@@ -1,5 +1,9 @@
 {
     "title": "Geki Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/83117.jpg",
+        "alt": "geki-drive"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ゲキドライヴ",

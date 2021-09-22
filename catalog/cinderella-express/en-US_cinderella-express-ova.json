@@ -1,5 +1,9 @@
 {
     "title": "Cinderella Express",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/14558.jpg",
+        "alt": "cinderella-express"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "シンデレラ エクスプレス",

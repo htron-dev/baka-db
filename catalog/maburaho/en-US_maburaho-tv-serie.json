@@ -1,5 +1,9 @@
 {
     "title": "Maburaho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/79204.jpg",
+        "alt": "maburaho"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "まぶらほ",

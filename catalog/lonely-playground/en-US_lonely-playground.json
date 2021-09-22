@@ -1,5 +1,9 @@
 {
     "title": "Lonely Playground",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246519.jpg",
+        "alt": "lonely-playground"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

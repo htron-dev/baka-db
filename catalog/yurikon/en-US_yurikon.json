@@ -1,5 +1,9 @@
 {
     "title": "Yurikon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211753.jpg",
+        "alt": "yurikon"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ゆりこん",

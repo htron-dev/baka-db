@@ -1,5 +1,9 @@
 {
     "title": "Miharu♥Rising",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179706.jpg",
+        "alt": "miharu♥-rising"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "51",

@@ -1,5 +1,9 @@
 {
     "title": "Ore no Mono ni Nareba Ii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/94517.jpg",
+        "alt": "ore-no-mono-ni-nareba-ii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

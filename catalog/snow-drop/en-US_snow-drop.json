@@ -1,5 +1,9 @@
 {
     "title": "Snow Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21640.jpg",
+        "alt": "snow-drop"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

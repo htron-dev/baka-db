@@ -1,5 +1,9 @@
 {
     "title": "Fighting!! Seondobu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100647.jpg",
+        "alt": "fighting-seondobu"
+    },
     "type": "manhwa",
     "volumes": "3",
     "original_name": "파이팅!! 선도부",

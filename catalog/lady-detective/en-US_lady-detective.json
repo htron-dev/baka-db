@@ -1,5 +1,9 @@
 {
     "title": "Lady Detective",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129359.jpg",
+        "alt": "lady-detective"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "Lady Detective 레이디 디텍티브",

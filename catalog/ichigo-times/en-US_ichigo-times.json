@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Times",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150477.jpg",
+        "alt": "ichigo-times"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "苺タイムス",

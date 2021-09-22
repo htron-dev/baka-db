@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Girls Destruction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61997.jpg",
+        "alt": "tokyo-girls-destruction"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

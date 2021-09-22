@@ -1,5 +1,9 @@
 {
     "title": "Leonora no Moujuu-kei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236852.jpg",
+        "alt": "leonora-no-moujuu-kei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

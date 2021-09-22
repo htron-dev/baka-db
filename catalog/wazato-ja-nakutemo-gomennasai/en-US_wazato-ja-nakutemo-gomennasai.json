@@ -1,5 +1,9 @@
 {
     "title": "Wazato ja Nakutemo Gomennasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207547.jpg",
+        "alt": "wazato-ja-nakutemo-gomennasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

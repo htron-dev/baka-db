@@ -1,12 +1,16 @@
 {
     "title": "Galaxy Angel 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/2757.jpg",
+        "alt": "galaxy-angel-3"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ギャラクシーエンジェルＡＡ",
     "start_date": "2002-10-06",
     "end_date": "2002-10-06",
-    "opening_song": "#01",
-    "ending_song": "#1",
+    "opening_song": "#01: \"Galaxy Ba-ban-ga-Bang!\" by Angel-tai",
+    "ending_song": "#1: \"Angel Wasshoi!\" by Angel-tai",
     "rating": "PG - Children",
     "tags": [
         "comedy",

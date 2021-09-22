@@ -1,5 +1,9 @@
 {
     "title": "Emeth Meth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182316.jpg",
+        "alt": "emeth-meth"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

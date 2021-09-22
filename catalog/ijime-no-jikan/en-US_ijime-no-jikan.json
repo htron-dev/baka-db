@@ -1,5 +1,9 @@
 {
     "title": "Ijime no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204137.jpg",
+        "alt": "ijime-no-jikan"
+    },
     "type": "manga",
     "original_name": "イジメの時間",
     "start_date": "2016-10-25",

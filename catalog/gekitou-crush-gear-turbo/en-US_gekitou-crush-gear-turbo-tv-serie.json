@@ -1,5 +1,9 @@
 {
     "title": "Gekitou! Crush Gear Turbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/39489.jpg",
+        "alt": "gekitou-crush-gear-turbo"
+    },
     "type": "tv-serie",
     "episodes": "68",
     "original_name": "激闘! クラッシュギア TURBO",

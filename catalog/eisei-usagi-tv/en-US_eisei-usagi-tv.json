@@ -1,5 +1,9 @@
 {
     "title": "Eisei Usagi TV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162682.jpg",
+        "alt": "eisei-usagi-tv"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "衛星ウサギテレビ",

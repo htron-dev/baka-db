@@ -1,5 +1,9 @@
 {
     "title": "Motto, Ikitai...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64763.jpg",
+        "alt": "motto-ikitai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Precure Super Stars! Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/89920.jpg",
+        "alt": "precure-super-stars-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画プリキュアスーパースターズ!",

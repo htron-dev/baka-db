@@ -1,5 +1,9 @@
 {
     "title": "Beautiful Monday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203936.jpg",
+        "alt": "beautiful-monday"
+    },
     "type": "manga",
     "original_name": "ビューティフル・マンデー",
     "start_date": "2016-06-08",

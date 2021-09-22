@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin: Lost Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177247.jpg",
+        "alt": "shingeki-no-kyojin-lost-girls"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

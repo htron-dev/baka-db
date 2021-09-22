@@ -1,5 +1,9 @@
 {
     "title": "Tatoe Todokanu Ito da toshitemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196507.jpg",
+        "alt": "tatoe-todokanu-ito-da-toshitemo"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "37",

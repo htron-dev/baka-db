@@ -1,5 +1,9 @@
 {
     "title": "Toki wo Kakeru Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120293.jpg",
+        "alt": "toki-wo-kakeru-shoujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

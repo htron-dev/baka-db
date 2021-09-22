@@ -1,5 +1,9 @@
 {
     "title": "BLANGEL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9160.jpg",
+        "alt": "blangel"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ブランジェル",

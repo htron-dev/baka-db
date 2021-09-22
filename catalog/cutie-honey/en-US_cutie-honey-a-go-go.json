@@ -1,5 +1,9 @@
 {
     "title": "Cutie Honey a Go Go!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109593.jpg",
+        "alt": "cutie-honey-a-go-go"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

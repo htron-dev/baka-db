@@ -1,5 +1,9 @@
 {
     "title": "Harete Bokutachi wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186972.jpg",
+        "alt": "harete-bokutachi-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

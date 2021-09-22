@@ -1,5 +1,9 @@
 {
     "title": "Reppuu no Merge to Shoukan Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240107.jpg",
+        "alt": "reppuu-no-merge-to-shoukan-sensou"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "26",

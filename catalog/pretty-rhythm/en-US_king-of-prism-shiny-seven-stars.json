@@ -1,12 +1,16 @@
 {
     "title": "King of Prism: Shiny Seven Stars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1649/100502.jpg",
+        "alt": "king-of-prism-shiny-seven-stars"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "KING OF PRISM -Shiny Seven Stars-",
     "start_date": "2019-04-16",
     "end_date": "2019-04-16",
     "opening_song": "\"Shiny Seven Stars!\" by Shin Ichijou (Junta Terashima), Yukinojou Tachibana (Souma Saitou), Taiga Kougami (Tasuku Hatanaka), Kakeru Juuouin (Taku Yashiro), Minato Takahashi (Masashi Igarashi), Leo Saionji (Takuma Nagatsuka), Yuu Suzuno (Yuuma Uchida)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Samui Yoru Dakara... (寒い夜だから…)\" by Yukinojou Tachibana (Souma Saitou) (ep 2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

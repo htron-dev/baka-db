@@ -1,5 +1,9 @@
 {
     "title": "Najica Dengeki Sakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3124.jpg",
+        "alt": "najica-dengeki-sakusen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

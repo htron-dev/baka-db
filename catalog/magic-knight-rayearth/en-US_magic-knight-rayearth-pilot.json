@@ -1,5 +1,9 @@
 {
     "title": "Magic Knight Rayearth Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1893/99185.jpg",
+        "alt": "magic-knight-rayearth-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "魔法騎士（マジックナイト）レイアース パイロットフィルム",

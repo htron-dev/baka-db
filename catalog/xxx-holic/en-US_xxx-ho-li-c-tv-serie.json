@@ -1,12 +1,16 @@
 {
     "title": "xxxHOLiC",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/21858.jpg",
+        "alt": "xxx-ho-li-c"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "×××HOLiC（ホリック）",
     "start_date": "2006-04-07",
     "end_date": "2006-04-07",
     "opening_song": "\"19sai\" by Shikao Suga",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Reason\" by Fonogenico (eps 1-13,24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

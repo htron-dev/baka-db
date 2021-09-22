@@ -1,5 +1,9 @@
 {
     "title": "Koyomi Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164204.jpg",
+        "alt": "koyomi-chronicle"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋詠クロニクル",

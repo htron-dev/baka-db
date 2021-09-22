@@ -1,5 +1,9 @@
 {
     "title": "Promedicus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1313/92900.jpg",
+        "alt": "promedicus"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "プロメディカス",

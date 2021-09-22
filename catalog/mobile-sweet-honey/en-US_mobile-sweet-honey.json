@@ -1,5 +1,9 @@
 {
     "title": "Mobile Sweet Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72573.jpg",
+        "alt": "mobile-sweet-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

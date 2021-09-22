@@ -1,5 +1,9 @@
 {
     "title": "Dokugan Ryuukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44679.jpg",
+        "alt": "dokugan-ryuukai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

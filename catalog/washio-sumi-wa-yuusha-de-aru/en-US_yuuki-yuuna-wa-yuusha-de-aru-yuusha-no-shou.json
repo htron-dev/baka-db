@@ -1,12 +1,16 @@
 {
     "title": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/83013.jpg",
+        "alt": "yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "結城友奈は勇者である -勇者の章-",
     "start_date": "2017-11-25",
     "end_date": "2017-11-25",
     "opening_song": "\"Hanakotoba (ハナコトバ)\" by Sanshuu Chuugaku Yuusha-bu (讃州中学勇者部) (Haruka Terui, Suzuko Mimori, Yumi Uchida, Tomoyo Kurosawa, Juri Nagatsuma, Kana Hanazawa)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hanakotoba (ハナコトバ)\" by Sanshuu Chuugaku Yuusha-bu (讃州中学勇者部) (Haruka Terui, Suzuko Mimori, Yumi Uchida, Tomoyo Kurosawa, Juri Nagatsuma, Kana Hanazawa) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

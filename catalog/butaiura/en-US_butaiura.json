@@ -1,5 +1,9 @@
 {
     "title": "Butaiura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146719.jpg",
+        "alt": "butaiura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

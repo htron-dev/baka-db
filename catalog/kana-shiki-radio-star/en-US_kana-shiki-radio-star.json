@@ -1,5 +1,9 @@
 {
     "title": "Kana-Shiki! Radio Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36673.jpg",
+        "alt": "kana-shiki-radio-star"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "かなしき! らじおすたー",

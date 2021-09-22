@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Elegy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3729.jpg",
+        "alt": "hatsukoi-elegy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

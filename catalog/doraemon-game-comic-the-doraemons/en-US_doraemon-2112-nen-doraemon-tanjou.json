@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: 2112-nen Doraemon Tanjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/12975.jpg",
+        "alt": "doraemon-2112-nen-doraemon-tanjou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラえもん ２１１２年ドラえもん誕生",

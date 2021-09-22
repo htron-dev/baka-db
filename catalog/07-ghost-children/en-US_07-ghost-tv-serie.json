@@ -1,12 +1,16 @@
 {
     "title": "07-Ghost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/22605.jpg",
+        "alt": "07-ghost"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "セブンゴースト",
     "start_date": "2009-04-07",
     "end_date": "2009-04-07",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Aka no Kakera (緋色のカケラ)\" by Suzuki Yuki",
+    "ending_song": "#01: \"Hitomi no Kotae (瞳のこたえ)\" by Noria",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

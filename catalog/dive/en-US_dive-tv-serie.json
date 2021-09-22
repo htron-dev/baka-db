@@ -1,5 +1,9 @@
 {
     "title": "Dive!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86744.jpg",
+        "alt": "dive"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "DIVE!!",

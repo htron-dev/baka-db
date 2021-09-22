@@ -1,5 +1,9 @@
 {
     "title": "Aikatsu! Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/68463.jpg",
+        "alt": "aikatsu-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 アイカツ！アイドルカツドウ！",

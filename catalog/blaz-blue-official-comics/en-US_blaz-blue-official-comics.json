@@ -1,5 +1,9 @@
 {
     "title": "BlazBlue Official Comics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28619.jpg",
+        "alt": "blaz-blue-official-comics"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "BLAZBLUE オフィシャルコミックス",

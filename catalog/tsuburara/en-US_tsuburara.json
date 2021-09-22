@@ -1,5 +1,9 @@
 {
     "title": "Tsuburara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/49633.jpg",
+        "alt": "tsuburara"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

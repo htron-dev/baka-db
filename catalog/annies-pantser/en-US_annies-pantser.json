@@ -1,5 +1,9 @@
 {
     "title": "Annie's Pantser",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245688.jpg",
+        "alt": "annies-pantser"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

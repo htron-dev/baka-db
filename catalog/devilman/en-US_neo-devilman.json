@@ -1,5 +1,9 @@
 {
     "title": "Neo Devilman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/126927.jpg",
+        "alt": "neo-devilman"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

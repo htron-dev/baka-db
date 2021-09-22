@@ -1,9 +1,13 @@
 {
     "title": "Persona Q: Shadow of the Labyrinth - Side:P4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163820.jpg",
+        "alt": "persona-q-shadow-of-the-labyrinth-side-p-4"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",
-    "original_name": "PERSONA Q SHADOW OF THE LABYRINTH Side",
+    "original_name": "PERSONA Q SHADOW OF THE LABYRINTH Side:P4",
     "start_date": "2015-01-26",
     "end_date": "2015-01-26",
     "tags": [

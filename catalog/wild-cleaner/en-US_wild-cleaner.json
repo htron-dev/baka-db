@@ -1,5 +1,9 @@
 {
     "title": "Wild Cleaner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1046/109077.jpg",
+        "alt": "wild-cleaner"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Wild Cleaner",

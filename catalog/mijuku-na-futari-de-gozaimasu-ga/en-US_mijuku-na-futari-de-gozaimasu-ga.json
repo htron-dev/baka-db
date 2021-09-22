@@ -1,5 +1,9 @@
 {
     "title": "Mijuku na Futari de Gozaimasu ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213271.jpg",
+        "alt": "mijuku-na-futari-de-gozaimasu-ga"
+    },
     "type": "manga",
     "original_name": "未熟なふたりでございますが",
     "start_date": "2018-03-09",

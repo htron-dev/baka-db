@@ -1,5 +1,9 @@
 {
     "title": "Rengoku Dead Role",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178626.jpg",
+        "alt": "rengoku-dead-role"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

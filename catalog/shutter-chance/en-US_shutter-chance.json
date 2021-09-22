@@ -1,5 +1,9 @@
 {
     "title": "Shutter Chance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20886.jpg",
+        "alt": "shutter-chance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

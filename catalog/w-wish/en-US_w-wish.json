@@ -1,5 +1,9 @@
 {
     "title": "W: Wish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/346.jpg",
+        "alt": "w-wish"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "W 〜ウィッシュ〜",

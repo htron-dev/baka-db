@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Kabe ni Naritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243264.jpg",
+        "alt": "watashi-wa-kabe-ni-naritai"
+    },
     "type": "manga",
     "original_name": "わたしは壁になりたい",
     "start_date": "2019-03-27",

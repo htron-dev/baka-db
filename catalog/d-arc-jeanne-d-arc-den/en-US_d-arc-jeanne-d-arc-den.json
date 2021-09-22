@@ -1,5 +1,9 @@
 {
     "title": "D'Arc : Jeanne D'Arc Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15742.jpg",
+        "alt": "d-arc-jeanne-d-arc-den"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ジャンヌ・ダルク伝",

@@ -1,5 +1,9 @@
 {
     "title": "Boys Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40245.jpg",
+        "alt": "boys-break"
+    },
     "type": "manhwa",
     "volumes": "2",
     "original_name": "소년부서지다",

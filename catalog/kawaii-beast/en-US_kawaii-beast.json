@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Beast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/759.jpg",
+        "alt": "kawaii-beast"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

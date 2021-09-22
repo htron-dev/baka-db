@@ -1,5 +1,9 @@
 {
     "title": "Sanagi to Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/189501.jpg",
+        "alt": "sanagi-to-ousama"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "さなぎと王様",

@@ -1,5 +1,9 @@
 {
     "title": "Space☆Dandy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129627.jpg",
+        "alt": "space☆-dandy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

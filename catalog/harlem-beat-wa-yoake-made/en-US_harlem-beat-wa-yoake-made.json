@@ -1,5 +1,9 @@
 {
     "title": "Harlem Beat wa Yoake made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/22690.jpg",
+        "alt": "harlem-beat-wa-yoake-made"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

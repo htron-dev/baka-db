@@ -1,5 +1,9 @@
 {
     "title": "Oshiri Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1415/107368.jpg",
+        "alt": "oshiri-tantei"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "おしりたんてい",

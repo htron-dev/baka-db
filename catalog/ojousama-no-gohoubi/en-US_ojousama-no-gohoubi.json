@@ -1,5 +1,9 @@
 {
     "title": "Ojousama no Gohoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/22021.jpg",
+        "alt": "ojousama-no-gohoubi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

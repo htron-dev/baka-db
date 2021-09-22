@@ -1,5 +1,9 @@
 {
     "title": "Ohitsuri-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202966.jpg",
+        "alt": "ohitsuri-sama"
+    },
     "type": "manga",
     "original_name": "おひ釣りさま",
     "start_date": "2016-12-15",

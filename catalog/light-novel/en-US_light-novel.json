@@ -1,5 +1,9 @@
 {
     "title": "Light Novel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/41215.jpg",
+        "alt": "light-novel"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

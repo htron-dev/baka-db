@@ -1,5 +1,9 @@
 {
     "title": "Jigopuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150371.jpg",
+        "alt": "jigopuri"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "29",

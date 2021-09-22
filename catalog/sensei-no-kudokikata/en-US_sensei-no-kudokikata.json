@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Kudokikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16969.jpg",
+        "alt": "sensei-no-kudokikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138981.jpg",
+        "alt": "himegoto"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "60",

@@ -1,5 +1,9 @@
 {
     "title": "Kuni no Mahoroba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178121.jpg",
+        "alt": "kuni-no-mahoroba"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

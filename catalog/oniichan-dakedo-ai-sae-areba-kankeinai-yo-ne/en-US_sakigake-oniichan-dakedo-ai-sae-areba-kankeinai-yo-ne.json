@@ -1,5 +1,9 @@
 {
     "title": "Sakigake!! Oniichan dakedo Ai sae Areba Kankeinai yo ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145021.jpg",
+        "alt": "sakigake-oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,12 +1,16 @@
 {
     "title": "Crystal Blaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/21159.jpg",
+        "alt": "crystal-blaze"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "クリスタル ブレイズ",
     "start_date": "2008-04-09",
     "end_date": "2008-04-09",
     "opening_song": "\"Never looking back\" by Rie",
-    "ending_song": "#1",
+    "ending_song": "#1: \"qué sera-sera\" by TASO (eps 1-8)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

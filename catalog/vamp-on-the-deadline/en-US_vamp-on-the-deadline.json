@@ -1,5 +1,9 @@
 {
     "title": "Vamp on the Deadline",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163304.jpg",
+        "alt": "vamp-on-the-deadline"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

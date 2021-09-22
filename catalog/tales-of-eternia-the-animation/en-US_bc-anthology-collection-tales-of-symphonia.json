@@ -1,5 +1,9 @@
 {
     "title": "BC Anthology Collection: Tales of Symphonia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146625.jpg",
+        "alt": "bc-anthology-collection-tales-of-symphonia"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "BC ANTHOLOGY COLLECTION テイルズオブシンフォニア",

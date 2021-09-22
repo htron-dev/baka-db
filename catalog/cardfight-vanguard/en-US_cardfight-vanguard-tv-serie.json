@@ -1,12 +1,16 @@
 {
     "title": "Cardfight!! Vanguard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1856/113654.jpg",
+        "alt": "cardfight-vanguard"
+    },
     "type": "tv-serie",
     "episodes": "65",
     "original_name": "カードファイト!! ヴァンガード",
     "start_date": "2011-01-08",
     "end_date": "2011-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Vanguard\" by JAM Project (eps 1-33)",
+    "ending_song": "#1: \"Diamond Star\" (ダイヤモンドスター ☆) by Natsuko Asou (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

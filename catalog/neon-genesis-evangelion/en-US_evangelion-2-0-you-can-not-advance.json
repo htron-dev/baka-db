@@ -1,8 +1,12 @@
 {
     "title": "Evangelion: 2.0 You Can (Not) Advance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/74983.jpg",
+        "alt": "evangelion-2-0-you-can-not-advance"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "ヱヴァンゲリヲン新劇場版",
+    "original_name": "ヱヴァンゲリヲン新劇場版:破",
     "start_date": "2009-07-27",
     "ending_song": "\"Beautiful World -PLANiTb Acoustica Mix-\" by Hikaru Utada",
     "rating": "PG-13 - Teens 13 or older",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Evangelion:_2.0_You_Can_(Not"
+            "link": "http://en.wikipedia.org/wiki/Evangelion:_2.0_You_Can_%28Not%29_Advance"
         }
     ]
 }

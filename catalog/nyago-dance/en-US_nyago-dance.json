@@ -1,5 +1,9 @@
 {
     "title": "Nyago Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86283.jpg",
+        "alt": "nyago-dance"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ニヤゴダンス",

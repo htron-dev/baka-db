@@ -1,5 +1,9 @@
 {
     "title": "Haruka Toudo no Canaan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184526.jpg",
+        "alt": "haruka-toudo-no-canaan"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "51",

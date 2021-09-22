@@ -1,5 +1,9 @@
 {
     "title": "Pink",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/73061.jpg",
+        "alt": "pink"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Busou Chuugakusei: Basket Army",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135481.jpg",
+        "alt": "busou-chuugakusei-basket-army"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "75",

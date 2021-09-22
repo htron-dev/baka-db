@@ -1,5 +1,9 @@
 {
     "title": "Kaji to Kouma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1908/112081.jpg",
+        "alt": "kaji-to-kouma"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "火事と小馬",

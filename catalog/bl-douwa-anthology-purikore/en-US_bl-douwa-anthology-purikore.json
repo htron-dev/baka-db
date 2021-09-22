@@ -1,5 +1,9 @@
 {
     "title": "BL Douwa Anthology - Purikore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32767.jpg",
+        "alt": "bl-douwa-anthology-purikore"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Bitansan Ekisu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12940.jpg",
+        "alt": "bitansan-ekisu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

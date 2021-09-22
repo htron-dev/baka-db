@@ -1,5 +1,9 @@
 {
     "title": "Rikara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2973.jpg",
+        "alt": "rikara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

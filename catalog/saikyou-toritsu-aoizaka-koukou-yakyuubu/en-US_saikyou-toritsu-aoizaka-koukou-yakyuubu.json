@@ -1,5 +1,9 @@
 {
     "title": "Saikyou! Toritsu Aoizaka Koukou Yakyuubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/66037.jpg",
+        "alt": "saikyou-toritsu-aoizaka-koukou-yakyuubu"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "250",

@@ -1,12 +1,16 @@
 {
     "title": "Argonavis from BanG Dream!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1484/109428.jpg",
+        "alt": "argonavis-from-ban-g-dream"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "アルゴナビス from BanG Dream!",
     "start_date": "2020-04-11",
     "end_date": "2020-04-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hoshi ga Hajimaru (星がはじまる)\" by Argonavis from BanG Dream!",
+    "ending_song": "#1: \"Ameagari no Sakamichi (雨上がりの坂道)\" by Argonavis (eps 1-2, 4-6, 10, 12-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

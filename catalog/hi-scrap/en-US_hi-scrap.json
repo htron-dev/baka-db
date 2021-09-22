@@ -1,5 +1,9 @@
 {
     "title": "Hi Scrap!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151939.jpg",
+        "alt": "hi-scrap"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Hi スクラップ!!",

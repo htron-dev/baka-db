@@ -1,12 +1,16 @@
 {
     "title": "Groove Adventure Rave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/20134.jpg",
+        "alt": "groove-adventure-rave"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "レイヴ",
     "start_date": "2001-10-13",
     "end_date": "2001-10-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Butterfly Kiss\" by Chihiro Yonekura (eps 1-25)",
+    "ending_song": "#1: \"Kokaku no Yurikago\" by Chihiro Yonekura",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

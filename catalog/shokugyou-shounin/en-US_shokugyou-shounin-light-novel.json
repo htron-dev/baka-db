@@ -1,5 +1,9 @@
 {
     "title": "Shokugyou, Shounin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185113.jpg",
+        "alt": "shokugyou-shounin"
+    },
     "type": "light-novel",
     "original_name": "職業、商人",
     "start_date": "2016-11-12",

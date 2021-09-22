@@ -1,5 +1,9 @@
 {
     "title": "Kabocha to Mayonnaise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37671.jpg",
+        "alt": "kabocha-to-mayonnaise"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

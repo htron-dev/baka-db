@@ -1,5 +1,9 @@
 {
     "title": "Ojamajo Doremi Sharp Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/40405.jpg",
+        "alt": "ojamajo-doremi-sharp-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おジャ魔女どれみ ♯",

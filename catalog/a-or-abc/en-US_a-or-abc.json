@@ -1,5 +1,9 @@
 {
     "title": "A or ABC",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30095.jpg",
+        "alt": "a-or-abc"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

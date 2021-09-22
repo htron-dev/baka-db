@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko wa Koi wo Suru to Mousou Shichaun desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150298.jpg",
+        "alt": "onnanoko-wa-koi-wo-suru-to-mousou-shichaun-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

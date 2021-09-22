@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Momotarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/58665.jpg",
+        "alt": "hello-kitty-no-momotarou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの桃太郎",

@@ -1,5 +1,9 @@
 {
     "title": "Kuubo Ibuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194377.jpg",
+        "alt": "kuubo-ibuki"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "103",

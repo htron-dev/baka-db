@@ -1,5 +1,9 @@
 {
     "title": "Dakara Kaneda wa Koi ga Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82672.jpg",
+        "alt": "dakara-kaneda-wa-koi-ga-dekinai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

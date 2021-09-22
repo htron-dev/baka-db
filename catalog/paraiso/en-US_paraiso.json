@@ -1,5 +1,9 @@
 {
     "title": "Paraiso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178163.jpg",
+        "alt": "paraiso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

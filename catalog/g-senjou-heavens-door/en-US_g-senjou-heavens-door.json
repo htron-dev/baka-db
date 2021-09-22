@@ -1,5 +1,9 @@
 {
     "title": "G Senjou Heaven's Door",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37982.jpg",
+        "alt": "g-senjou-heavens-door"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

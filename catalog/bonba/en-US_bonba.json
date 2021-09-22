@@ -1,5 +1,9 @@
 {
     "title": "Bonba!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36124.jpg",
+        "alt": "bonba"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ボンバ",

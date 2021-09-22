@@ -1,5 +1,9 @@
 {
     "title": "Sekimen Shinaide Sekime-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244109.jpg",
+        "alt": "sekimen-shinaide-sekime-san"
+    },
     "type": "manga",
     "original_name": "赤面しないで関目さん",
     "start_date": "2020-06-21",

@@ -1,5 +1,9 @@
 {
     "title": "Onikirimaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1487/111881.jpg",
+        "alt": "onikirimaru"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "鬼切丸",

@@ -1,5 +1,9 @@
 {
     "title": "Danzai no Exceed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163420.jpg",
+        "alt": "danzai-no-exceed"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "32",

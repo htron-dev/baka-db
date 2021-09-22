@@ -1,12 +1,16 @@
 {
     "title": "Mikakunin de Shinkoukei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75249.jpg",
+        "alt": "mikakunin-de-shinkoukei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "未確認で進行形",
     "start_date": "2014-01-09",
     "end_date": "2014-01-09",
     "opening_song": "\"Tomadoi→Recipe (とまどい → レシピ)\" by Mikakuning! (みかくにんぐッ!) (eps 2-4, 6-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tomadoi→Recipe (とまどい → レシピ)\" by Mikakuning! (みかくにんぐッ!) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

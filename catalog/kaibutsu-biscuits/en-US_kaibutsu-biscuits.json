@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu Biscuits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197994.jpg",
+        "alt": "kaibutsu-biscuits"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

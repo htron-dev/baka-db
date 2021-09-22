@@ -1,5 +1,9 @@
 {
     "title": "Downtown Shuffle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2782.jpg",
+        "alt": "downtown-shuffle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

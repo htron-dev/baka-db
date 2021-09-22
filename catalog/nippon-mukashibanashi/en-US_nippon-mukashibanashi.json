@@ -1,5 +1,9 @@
 {
     "title": "Nippon Mukashibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58723.jpg",
+        "alt": "nippon-mukashibanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

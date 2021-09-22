@@ -1,5 +1,9 @@
 {
     "title": "Sagishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170159.jpg",
+        "alt": "sagishi"
+    },
     "type": "light-novel",
     "volumes": "8",
     "original_name": "詐騎士",

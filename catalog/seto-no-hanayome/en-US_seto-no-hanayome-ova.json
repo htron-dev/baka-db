@@ -1,12 +1,16 @@
 {
     "title": "Seto no Hanayome OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/22426.jpg",
+        "alt": "seto-no-hanayome-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "瀬戸の花嫁 OVA",
     "start_date": "2008-11-03",
     "end_date": "2008-11-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Zettai Otome (絶対乙女)\" by SUN&LUNAR",
+    "ending_song": "#1: \"Mirai e Go (未来へ Go)\" by DEKABANCHO",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

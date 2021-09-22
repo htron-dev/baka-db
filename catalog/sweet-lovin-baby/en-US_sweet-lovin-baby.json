@@ -1,5 +1,9 @@
 {
     "title": "Sweet Lovin' Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208995.jpg",
+        "alt": "sweet-lovin-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

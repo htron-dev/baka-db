@@ -1,5 +1,9 @@
 {
     "title": "Utagawa Hyakkei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244889.jpg",
+        "alt": "utagawa-hyakkei"
+    },
     "type": "manga",
     "original_name": "詩歌川百景",
     "start_date": "2019-07-26",

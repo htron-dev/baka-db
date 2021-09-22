@@ -1,5 +1,9 @@
 {
     "title": "Aishite Kureru Hito ga, Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231085.jpg",
+        "alt": "aishite-kureru-hito-ga-ousama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

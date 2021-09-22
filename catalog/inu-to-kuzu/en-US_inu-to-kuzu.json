@@ -1,5 +1,9 @@
 {
     "title": "Inu to Kuzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247092.jpg",
+        "alt": "inu-to-kuzu"
+    },
     "type": "manga",
     "original_name": "犬と屑",
     "start_date": "2021-06-21",

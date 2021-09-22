@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei: Kyuukousen-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120979.jpg",
+        "alt": "mahouka-koukou-no-rettousei-kyuukousen-hen"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

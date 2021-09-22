@@ -1,5 +1,9 @@
 {
     "title": "Luwon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190201.jpg",
+        "alt": "luwon"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

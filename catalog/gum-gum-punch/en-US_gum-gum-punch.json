@@ -1,5 +1,9 @@
 {
     "title": "Gum Gum Punch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36194.jpg",
+        "alt": "gum-gum-punch"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ガムガムパンチ",

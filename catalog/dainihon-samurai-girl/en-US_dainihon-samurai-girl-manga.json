@@ -1,5 +1,9 @@
 {
     "title": "Dainihon Samurai Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154548.jpg",
+        "alt": "dainihon-samurai-girl"
+    },
     "type": "manga",
     "original_name": "大日本サムライガール",
     "start_date": "2014-02-05",

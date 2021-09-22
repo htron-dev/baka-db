@@ -1,5 +1,9 @@
 {
     "title": "Ore no Mental wa Genkai desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206420.jpg",
+        "alt": "ore-no-mental-wa-genkai-desu"
+    },
     "type": "manga",
     "original_name": "俺のメンタルは限界です",
     "start_date": "2016-06-27",

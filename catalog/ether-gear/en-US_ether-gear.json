@@ -1,5 +1,9 @@
 {
     "title": "Ether//Gear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160142.jpg",
+        "alt": "ether-gear"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",

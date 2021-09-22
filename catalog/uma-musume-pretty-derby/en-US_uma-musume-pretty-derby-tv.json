@@ -1,12 +1,16 @@
 {
     "title": "Uma Musume: Pretty Derby (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1683/91888.jpg",
+        "alt": "uma-musume-pretty-derby-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ウマ娘 プリティーダービー",
     "start_date": "2018-04-02",
     "end_date": "2018-04-02",
     "opening_song": "\"Make Debut!\" by Special Week (Azumi Waki), Silence Suzuka (Marika Kouno), Toukai Teio (Machico), Vodka (Ayaka Ohashi), Daiwa Scarlet (Chise Kimura), Gold Ship (Hitomi Ueda), Mejiro McQueen (Saori Oonishi)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Glow Up Shine! (グロウアップ・シャイン！)\" by Special Week (waki Azumi), Silence Suzuka (Kouno Marika), Toukai Teio (Machico), Vodka (Ohashi Ayaka), Daiwa Scarlet (Kimura Chise), Gold Ship (Ueda Hitomi), Mejiro McQueen (Oonishi Saori) (ep",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

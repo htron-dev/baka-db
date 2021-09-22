@@ -1,5 +1,9 @@
 {
     "title": "Fuyu no Sonata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71293.jpg",
+        "alt": "fuyu-no-sonata"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "冬のソナタ",

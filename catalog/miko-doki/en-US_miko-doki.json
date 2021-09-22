@@ -1,5 +1,9 @@
 {
     "title": "Miko Doki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36779.jpg",
+        "alt": "miko-doki"
+    },
     "type": "manga",
     "original_name": "みこドキッ!",
     "tags": [

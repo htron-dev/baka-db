@@ -1,5 +1,9 @@
 {
     "title": "Damekko Doubutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5990.jpg",
+        "alt": "damekko-doubutsu"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "だめっこどうぶつ",

@@ -1,5 +1,9 @@
 {
     "title": "Torawareta Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229262.jpg",
+        "alt": "torawareta-otome"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "とらわれた乙女",

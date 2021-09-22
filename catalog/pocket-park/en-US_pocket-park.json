@@ -1,5 +1,9 @@
 {
     "title": "Pocket Park",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59333.jpg",
+        "alt": "pocket-park"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ポケット パーク",

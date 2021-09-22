@@ -1,5 +1,9 @@
 {
     "title": "Beauty &amp; Beast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64753.jpg",
+        "alt": "beauty-amp-beast"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

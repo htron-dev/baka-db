@@ -1,5 +1,9 @@
 {
     "title": "Rousoku-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162925.jpg",
+        "alt": "rousoku-hime"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

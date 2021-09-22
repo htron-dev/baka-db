@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi no Majo ni Tsuite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234712.jpg",
+        "alt": "osananajimi-no-majo-ni-tsuite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Dr. Stone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197883.jpg",
+        "alt": "dr-stone"
+    },
     "type": "manga",
     "original_name": "Dr.STONE",
     "start_date": "2017-03-06",

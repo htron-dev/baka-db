@@ -1,5 +1,9 @@
 {
     "title": "Rising Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79725.jpg",
+        "alt": "rising-hearts"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

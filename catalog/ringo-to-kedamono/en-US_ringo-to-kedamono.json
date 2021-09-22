@@ -1,5 +1,9 @@
 {
     "title": "Ringo to Kedamono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10900.jpg",
+        "alt": "ringo-to-kedamono"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "りんごとケダモノ",

@@ -1,5 +1,9 @@
 {
     "title": "Ito Junji Kyoufu Manga Collection - Ayatsuri no Yashiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/185645.jpg",
+        "alt": "ito-junji-kyoufu-manga-collection-ayatsuri-no-yashiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

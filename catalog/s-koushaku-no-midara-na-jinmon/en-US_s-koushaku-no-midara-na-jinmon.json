@@ -1,5 +1,9 @@
 {
     "title": "S Koushaku no Midara na Jinmon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174470.jpg",
+        "alt": "s-koushaku-no-midara-na-jinmon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

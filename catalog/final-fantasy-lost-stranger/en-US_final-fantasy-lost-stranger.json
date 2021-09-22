@@ -1,5 +1,9 @@
 {
     "title": "Final Fantasy: Lost Stranger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203713.jpg",
+        "alt": "final-fantasy-lost-stranger"
+    },
     "type": "manga",
     "original_name": "FINAL FANTASY LOST STRANGER",
     "start_date": "2017-07-12",

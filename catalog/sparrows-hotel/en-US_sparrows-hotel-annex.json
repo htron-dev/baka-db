@@ -1,5 +1,9 @@
 {
     "title": "Sparrow's Hotel Annex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194162.jpg",
+        "alt": "sparrows-hotel-annex"
+    },
     "type": "manga",
     "original_name": "スパロウズホテル ANNEX",
     "start_date": "2013-03-29",

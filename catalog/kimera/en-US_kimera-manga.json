@@ -1,5 +1,9 @@
 {
     "title": "Kimera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25427.jpg",
+        "alt": "kimera"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "KIMERA",

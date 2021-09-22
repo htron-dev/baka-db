@@ -1,5 +1,9 @@
 {
     "title": "SK8R'S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195967.jpg",
+        "alt": "sk-8-rs"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

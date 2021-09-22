@@ -1,5 +1,9 @@
 {
     "title": "Kiss no Sono Saki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135459.jpg",
+        "alt": "kiss-no-sono-saki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キスのその先",

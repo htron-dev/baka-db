@@ -1,12 +1,16 @@
 {
     "title": "Seitokai no Ichizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/19646.jpg",
+        "alt": "seitokai-no-ichizon"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "生徒会の一存",
     "start_date": "2009-10-03",
     "end_date": "2009-10-03",
     "opening_song": "\"Treasure\" by Hekiyou Gakuen Seitokai",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Mousou Fetish\" by Hekiyou Gakuen Seitokai (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

@@ -1,5 +1,9 @@
 {
     "title": "Doppel-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244536.jpg",
+        "alt": "doppel-san"
+    },
     "type": "manga",
     "original_name": "ドッペルさん",
     "start_date": "2020-07-20",

@@ -1,11 +1,15 @@
 {
     "title": "Hidamari Sketch: Sae Hiro Sotsugyou-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/72754.jpg",
+        "alt": "hidamari-sketch-sae-hiro-sotsugyou-hen"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ひだまりスケッチ 沙英ヒロ 卒業編",
     "start_date": "2013-11-27",
     "opening_song": "\"Open☆Canvas (おーぷん ☆ きゃんばす)\" by Yuno (Kana Asumi), Miyako (Kaori Mizuhashi), Hiro (Yuuko Gotou), Sae (Ryoko Shintani), Nori (cv. Hitomi Harada), and Nazuna (Chiaki Omigawa)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yume Gumo (夢ぐも)\" by marble (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

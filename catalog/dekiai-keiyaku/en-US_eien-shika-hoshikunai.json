@@ -1,5 +1,9 @@
 {
     "title": "Eien shika Hoshikunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238081.jpg",
+        "alt": "eien-shika-hoshikunai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

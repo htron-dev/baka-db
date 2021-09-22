@@ -1,5 +1,9 @@
 {
     "title": "Mangaka to Yakuza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204236.jpg",
+        "alt": "mangaka-to-yakuza"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

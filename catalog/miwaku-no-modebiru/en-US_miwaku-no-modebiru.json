@@ -1,5 +1,9 @@
 {
     "title": "Miwaku no Modebiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60399.jpg",
+        "alt": "miwaku-no-modebiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Hime no Koiwazurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237080.jpg",
+        "alt": "hime-no-koiwazurai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

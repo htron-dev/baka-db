@@ -1,5 +1,9 @@
 {
     "title": "Hanashite Nante Agenai yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/50213.jpg",
+        "alt": "hanashite-nante-agenai-yo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

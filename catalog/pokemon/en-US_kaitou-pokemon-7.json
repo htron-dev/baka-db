@@ -1,5 +1,9 @@
 {
     "title": "Kaitou! Pokémon 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14450.jpg",
+        "alt": "kaitou-pokemon-7"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

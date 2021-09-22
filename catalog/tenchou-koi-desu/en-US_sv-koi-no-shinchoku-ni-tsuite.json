@@ -1,5 +1,9 @@
 {
     "title": "SV, Koi no Shinchoku ni Tsuite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235393.jpg",
+        "alt": "sv-koi-no-shinchoku-ni-tsuite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

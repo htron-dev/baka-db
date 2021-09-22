@@ -1,5 +1,9 @@
 {
     "title": "Mighty Orbots",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1415/92895.jpg",
+        "alt": "mighty-orbots"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "マイティ・オーボッツ",

@@ -1,5 +1,9 @@
 {
     "title": "Kuru-Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35609.jpg",
+        "alt": "kuru-mix"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "くるみっくす",
@@ -9,7 +13,6 @@
         "Kurumi",
         "Chino (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

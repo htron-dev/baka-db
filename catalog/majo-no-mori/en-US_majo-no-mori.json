@@ -1,5 +1,9 @@
 {
     "title": "Majo no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232453.jpg",
+        "alt": "majo-no-mori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

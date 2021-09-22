@@ -1,5 +1,9 @@
 {
     "title": "Pierrot to Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211651.jpg",
+        "alt": "pierrot-to-lion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

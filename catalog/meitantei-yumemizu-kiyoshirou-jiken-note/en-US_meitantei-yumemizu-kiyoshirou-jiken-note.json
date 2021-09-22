@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Yumemizu Kiyoshirou Jiken Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/106339.jpg",
+        "alt": "meitantei-yumemizu-kiyoshirou-jiken-note"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "名探偵夢水清志郎事件ノート",

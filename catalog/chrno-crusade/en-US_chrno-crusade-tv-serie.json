@@ -1,5 +1,9 @@
 {
     "title": "Chrno Crusade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/14141.jpg",
+        "alt": "chrno-crusade"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "クロノクルセイド",

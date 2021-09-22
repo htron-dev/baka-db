@@ -1,5 +1,9 @@
 {
     "title": "Manga Furusato Mukashibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1770/98596.jpg",
+        "alt": "manga-furusato-mukashibanashi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "まんがふるさと昔話",

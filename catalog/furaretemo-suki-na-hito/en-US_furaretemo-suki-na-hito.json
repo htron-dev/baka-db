@@ -1,5 +1,9 @@
 {
     "title": "Furaretemo, Suki na Hito.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247451.jpg",
+        "alt": "furaretemo-suki-na-hito"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ふられても、好きなひと。",

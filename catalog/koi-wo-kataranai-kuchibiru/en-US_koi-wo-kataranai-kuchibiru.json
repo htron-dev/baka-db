@@ -1,5 +1,9 @@
 {
     "title": "Koi wo Kataranai Kuchibiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161777.jpg",
+        "alt": "koi-wo-kataranai-kuchibiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

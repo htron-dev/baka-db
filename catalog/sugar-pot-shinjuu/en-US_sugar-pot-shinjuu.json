@@ -1,5 +1,9 @@
 {
     "title": "Sugar Pot Shinjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240939.jpg",
+        "alt": "sugar-pot-shinjuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

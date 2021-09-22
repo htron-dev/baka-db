@@ -1,5 +1,9 @@
 {
     "title": "Senaka kara Daite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15097.jpg",
+        "alt": "senaka-kara-daite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Sunu Sumu Muriku no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44319.jpg",
+        "alt": "sunu-sumu-muriku-no-koibito"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

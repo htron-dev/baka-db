@@ -1,5 +1,9 @@
 {
     "title": "Megami-ryou no Ryoubo-kun.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210954.jpg",
+        "alt": "megami-ryou-no-ryoubo-kun"
+    },
     "type": "manga",
     "original_name": "女神寮の寮母くん。",
     "start_date": "2017-12-26",

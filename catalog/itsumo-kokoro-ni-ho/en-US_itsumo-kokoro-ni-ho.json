@@ -1,5 +1,9 @@
 {
     "title": "Itsumo Kokoro ni Ho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/82101.jpg",
+        "alt": "itsumo-kokoro-ni-ho"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "いつも心にホッ",

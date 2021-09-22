@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Robot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149799.jpg",
+        "alt": "tonari-no-robot"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

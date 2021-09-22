@@ -1,12 +1,16 @@
 {
     "title": "Nangoku Shounen Papuwa-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/3062.jpg",
+        "alt": "nangoku-shounen-papuwa-kun"
+    },
     "type": "tv-serie",
     "episodes": "42",
     "original_name": "南国少年パプワくん",
     "start_date": "1992-10-10",
     "end_date": "1992-10-10",
     "opening_song": "\"Nbaba Love Song (んばば・ラブソング)\" by TOME",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Moshikasutto Nonsense (もしかすっとナンセンス)\" by Daiji Man Brothers Band",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

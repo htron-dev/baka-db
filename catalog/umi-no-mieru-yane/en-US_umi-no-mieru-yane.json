@@ -1,5 +1,9 @@
 {
     "title": "Umi no Mieru Yane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16457.jpg",
+        "alt": "umi-no-mieru-yane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

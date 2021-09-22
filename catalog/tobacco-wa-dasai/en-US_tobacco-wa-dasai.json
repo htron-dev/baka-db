@@ -1,5 +1,9 @@
 {
     "title": "Tobacco wa Dasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/60441.jpg",
+        "alt": "tobacco-wa-dasai"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "たばこはダサい",

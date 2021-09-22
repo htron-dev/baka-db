@@ -1,5 +1,9 @@
 {
     "title": "Otome Loop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149372.jpg",
+        "alt": "otome-loop"
+    },
     "type": "manga",
     "original_name": "乙女ループ",
     "start_date": "2009-10-29",

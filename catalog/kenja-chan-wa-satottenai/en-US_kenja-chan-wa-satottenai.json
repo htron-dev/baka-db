@@ -1,5 +1,9 @@
 {
     "title": "Kenja-chan wa Satottenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223647.jpg",
+        "alt": "kenja-chan-wa-satottenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

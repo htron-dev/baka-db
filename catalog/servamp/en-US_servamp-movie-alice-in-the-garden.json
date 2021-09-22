@@ -1,5 +1,9 @@
 {
     "title": "Servamp Movie: Alice in the Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/89004.jpg",
+        "alt": "servamp-movie-alice-in-the-garden"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 SERVAMP -Alice in the Garden-",

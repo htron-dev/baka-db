@@ -1,12 +1,16 @@
 {
     "title": "Starmyu 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/84655.jpg",
+        "alt": "starmyu-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "高校星歌劇［スタミュ］",
     "start_date": "2017-04-04",
     "end_date": "2017-04-04",
     "opening_song": "\"SHOW MUST GO ON!!\" by Fourpe (Urashimasakatasen (浦島坂田船))",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gift\" by team Ootori (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

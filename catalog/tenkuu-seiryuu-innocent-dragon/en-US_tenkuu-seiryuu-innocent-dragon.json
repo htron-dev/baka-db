@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu Seiryuu - Innocent Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6703.jpg",
+        "alt": "tenkuu-seiryuu-innocent-dragon"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "天空聖龍～イノセント・ドラゴン～",

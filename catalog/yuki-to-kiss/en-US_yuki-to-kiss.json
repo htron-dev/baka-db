@@ -1,5 +1,9 @@
 {
     "title": "Yuki to Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79153.jpg",
+        "alt": "yuki-to-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

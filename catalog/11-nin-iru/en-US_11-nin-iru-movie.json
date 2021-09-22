@@ -1,5 +1,9 @@
 {
     "title": "11-nin Iru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1771/96658.jpg",
+        "alt": "11-nin-iru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "11 人いる!",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Goshujinsama☆ - As You Wish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113393.jpg",
+        "alt": "boku-no-goshujinsama☆-as-you-wish"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

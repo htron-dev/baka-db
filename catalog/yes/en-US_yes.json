@@ -1,5 +1,9 @@
 {
     "title": "Yes!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163725.jpg",
+        "alt": "yes"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

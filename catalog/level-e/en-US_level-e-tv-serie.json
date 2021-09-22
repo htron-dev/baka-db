@@ -1,5 +1,9 @@
 {
     "title": "Level E",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/29668.jpg",
+        "alt": "level-e"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "レベル E",

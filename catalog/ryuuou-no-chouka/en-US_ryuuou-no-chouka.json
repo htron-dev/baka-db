@@ -1,5 +1,9 @@
 {
     "title": "Ryuuou no Chouka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184919.jpg",
+        "alt": "ryuuou-no-chouka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "13",

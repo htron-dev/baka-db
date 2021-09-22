@@ -1,5 +1,9 @@
 {
     "title": "Hikyoumono dato Waratte Kure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238131.jpg",
+        "alt": "hikyoumono-dato-waratte-kure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

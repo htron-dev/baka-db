@@ -1,5 +1,9 @@
 {
     "title": "Maou Kourin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124159.jpg",
+        "alt": "maou-kourin"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "魔王降臨!",

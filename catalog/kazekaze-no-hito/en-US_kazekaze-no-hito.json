@@ -1,5 +1,9 @@
 {
     "title": "Kazekaze no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20824.jpg",
+        "alt": "kazekaze-no-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

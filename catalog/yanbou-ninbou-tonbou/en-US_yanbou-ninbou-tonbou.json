@@ -1,5 +1,9 @@
 {
     "title": "Yanbou Ninbou Tonbou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/35933.jpg",
+        "alt": "yanbou-ninbou-tonbou"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ヤンボウ ニンボウ トンボウ",

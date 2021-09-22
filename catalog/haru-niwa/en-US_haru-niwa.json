@@ -1,5 +1,9 @@
 {
     "title": "Haru Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166467.jpg",
+        "alt": "haru-niwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

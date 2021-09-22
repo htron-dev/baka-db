@@ -1,5 +1,9 @@
 {
     "title": "Momo ni Kiss!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26664.jpg",
+        "alt": "momo-ni-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "挑にキッス!",

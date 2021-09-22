@@ -1,5 +1,9 @@
 {
     "title": "Represent Chikyuu Korabo Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1482/108265.jpg",
+        "alt": "represent-chikyuu-korabo-anime"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "レペゼン地球コラボアニメ",

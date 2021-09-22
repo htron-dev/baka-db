@@ -1,5 +1,9 @@
 {
     "title": "Grisaia no Kajitsu: Sanctuary Fellows",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109171.jpg",
+        "alt": "grisaia-no-kajitsu-sanctuary-fellows"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

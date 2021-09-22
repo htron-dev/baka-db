@@ -1,5 +1,9 @@
 {
     "title": "Totteoki Maxion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32174.jpg",
+        "alt": "totteoki-maxion"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

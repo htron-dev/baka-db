@@ -1,5 +1,9 @@
 {
     "title": "Wakareru Futari no Ai no Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42395.jpg",
+        "alt": "wakareru-futari-no-ai-no-gekijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

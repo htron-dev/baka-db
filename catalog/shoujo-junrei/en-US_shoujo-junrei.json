@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Junrei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225561.jpg",
+        "alt": "shoujo-junrei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

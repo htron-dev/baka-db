@@ -1,5 +1,9 @@
 {
     "title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/76015.jpg",
+        "alt": "naruto-movie-1-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版　 NARUTO 　大活劇！雪姫忍法帖だってばよ!!",

@@ -1,5 +1,9 @@
 {
     "title": "Sephirot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166836.jpg",
+        "alt": "sephirot"
+    },
     "type": "light-novel",
     "original_name": "天牢都市〈セフィロト〉",
     "start_date": "2015-11-25",

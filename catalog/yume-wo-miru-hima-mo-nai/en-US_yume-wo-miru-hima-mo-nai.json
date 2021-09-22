@@ -1,5 +1,9 @@
 {
     "title": "Yume wo Miru Hima mo Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/12068.jpg",
+        "alt": "yume-wo-miru-hima-mo-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

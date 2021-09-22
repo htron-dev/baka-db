@@ -1,5 +1,9 @@
 {
     "title": "Mukasete! Ryuugasaki-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221301.jpg",
+        "alt": "mukasete-ryuugasaki-san"
+    },
     "type": "manga",
     "original_name": "剥かせて！竜ケ崎さん",
     "start_date": "2018-11-27",

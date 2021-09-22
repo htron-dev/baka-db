@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Maou-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175210.jpg",
+        "alt": "hataraku-maou-sama"
+    },
     "type": "light-novel",
     "volumes": "21",
     "original_name": "はたらく魔王さま！",

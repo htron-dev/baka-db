@@ -1,5 +1,9 @@
 {
     "title": "Sekai Monoshiri Ryoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/28225.jpg",
+        "alt": "sekai-monoshiri-ryoko"
+    },
     "type": "tv-serie",
     "episodes": "1006",
     "original_name": "世界ものしり旅行",

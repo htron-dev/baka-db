@@ -1,5 +1,9 @@
 {
     "title": "Touzandou Tentsui Ibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16145.jpg",
+        "alt": "touzandou-tentsui-ibun"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "東山道転墜異聞",

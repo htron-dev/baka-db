@@ -1,5 +1,9 @@
 {
     "title": "Coy - Crush On You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82962.jpg",
+        "alt": "coy-crush-on-you"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "17",

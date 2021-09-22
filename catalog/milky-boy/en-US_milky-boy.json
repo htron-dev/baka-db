@@ -1,5 +1,9 @@
 {
     "title": "Milky Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18503.jpg",
+        "alt": "milky-boy"
+    },
     "type": "manhwa",
     "volumes": "8",
     "tags": [

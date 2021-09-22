@@ -1,5 +1,9 @@
 {
     "title": "Arashi! Sanbiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230454.jpg",
+        "alt": "arashi-sanbiki"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "164",

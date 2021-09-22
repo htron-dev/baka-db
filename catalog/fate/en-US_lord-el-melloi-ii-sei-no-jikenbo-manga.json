@@ -1,5 +1,9 @@
 {
     "title": "Lord El-Melloi II-sei no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210488.jpg",
+        "alt": "lord-el-melloi-ii-sei-no-jikenbo"
+    },
     "type": "manga",
     "original_name": "ロード・エルメロイ Ⅱ 世の事件簿",
     "start_date": "2017-10-04",

@@ -1,5 +1,9 @@
 {
     "title": "VITA Sexualis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152262.jpg",
+        "alt": "vita-sexualis"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Slayers Light Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/19856.jpg",
+        "alt": "slayers-light-magic"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

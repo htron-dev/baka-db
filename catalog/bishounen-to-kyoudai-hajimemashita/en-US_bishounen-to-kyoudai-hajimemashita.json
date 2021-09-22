@@ -1,5 +1,9 @@
 {
     "title": "Bishounen to Kyoudai Hajimemashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234508.jpg",
+        "alt": "bishounen-to-kyoudai-hajimemashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

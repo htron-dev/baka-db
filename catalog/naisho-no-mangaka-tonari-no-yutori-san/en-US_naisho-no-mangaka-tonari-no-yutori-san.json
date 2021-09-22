@@ -1,5 +1,9 @@
 {
     "title": "Naisho no Mangaka Tonari no Yutori-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67423.jpg",
+        "alt": "naisho-no-mangaka-tonari-no-yutori-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

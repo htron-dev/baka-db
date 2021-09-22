@@ -1,5 +1,9 @@
 {
     "title": "Lady Cool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/115799.jpg",
+        "alt": "lady-cool"
+    },
     "type": "manga",
     "original_name": "LADY COOL",
     "start_date": "2013-08-01",

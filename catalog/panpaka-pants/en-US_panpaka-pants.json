@@ -1,5 +1,9 @@
 {
     "title": "Panpaka Pants",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/84744.jpg",
+        "alt": "panpaka-pants"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "パンパカパンツ",

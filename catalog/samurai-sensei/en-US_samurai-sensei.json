@@ -1,5 +1,9 @@
 {
     "title": "Samurai Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163695.jpg",
+        "alt": "samurai-sensei"
+    },
     "type": "manga",
     "original_name": "サムライせんせい",
     "start_date": "2013-11-28",

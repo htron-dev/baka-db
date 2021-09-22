@@ -1,5 +1,9 @@
 {
     "title": "Fate/Grand Order Anthology Comic: The Next",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240933.jpg",
+        "alt": "fate-grand-order-anthology-comic-the-next"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "115",

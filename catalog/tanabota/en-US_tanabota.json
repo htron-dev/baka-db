@@ -1,5 +1,9 @@
 {
     "title": "Tanabota",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35798.jpg",
+        "alt": "tanabota"
+    },
     "type": "manga",
     "volumes": "2",
     "start_date": "2004-05-19",
@@ -9,7 +13,6 @@
         "Nakajima",
         "Fumio (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

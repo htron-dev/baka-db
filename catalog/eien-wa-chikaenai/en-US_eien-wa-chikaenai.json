@@ -1,5 +1,9 @@
 {
     "title": "Eien wa Chikaenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194552.jpg",
+        "alt": "eien-wa-chikaenai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "永遠は誓えない",

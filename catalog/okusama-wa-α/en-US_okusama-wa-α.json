@@ -1,5 +1,9 @@
 {
     "title": "Okusama wa α",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225035.jpg",
+        "alt": "okusama-wa-α"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

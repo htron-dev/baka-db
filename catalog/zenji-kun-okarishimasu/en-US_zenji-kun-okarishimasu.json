@@ -1,5 +1,9 @@
 {
     "title": "Zenji-kun Okarishimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226111.jpg",
+        "alt": "zenji-kun-okarishimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

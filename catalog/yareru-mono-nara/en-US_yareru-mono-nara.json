@@ -1,5 +1,9 @@
 {
     "title": "Yareru Mono Nara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58203.jpg",
+        "alt": "yareru-mono-nara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

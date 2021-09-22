@@ -1,5 +1,9 @@
 {
     "title": "Usemono Yado",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156613.jpg",
+        "alt": "usemono-yado"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

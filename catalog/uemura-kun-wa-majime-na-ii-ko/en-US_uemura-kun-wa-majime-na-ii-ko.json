@@ -1,5 +1,9 @@
 {
     "title": "Uemura-kun wa Majime na Ii Ko.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227948.jpg",
+        "alt": "uemura-kun-wa-majime-na-ii-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

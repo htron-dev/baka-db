@@ -1,5 +1,9 @@
 {
     "title": "Hisuiiro no Kaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16246.jpg",
+        "alt": "hisuiiro-no-kaze"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

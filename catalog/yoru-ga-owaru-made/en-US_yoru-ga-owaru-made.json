@@ -1,5 +1,9 @@
 {
     "title": "Yoru ga Owaru made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227750.jpg",
+        "alt": "yoru-ga-owaru-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

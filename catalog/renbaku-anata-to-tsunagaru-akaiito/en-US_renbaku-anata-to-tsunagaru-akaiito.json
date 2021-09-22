@@ -1,5 +1,9 @@
 {
     "title": "Renbaku: Anata to Tsunagaru Akaiito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200223.jpg",
+        "alt": "renbaku-anata-to-tsunagaru-akaiito"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

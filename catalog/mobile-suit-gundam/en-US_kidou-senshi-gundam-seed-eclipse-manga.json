@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam SEED ECLIPSE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248587.jpg",
+        "alt": "kidou-senshi-gundam-seed-eclipse"
+    },
     "type": "manga",
     "original_name": "機動戦士ガンダム SEED ECLIPSE",
     "start_date": "2021-07-26",

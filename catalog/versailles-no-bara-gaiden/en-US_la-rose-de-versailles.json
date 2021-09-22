@@ -1,5 +1,9 @@
 {
     "title": "La Rose de Versailles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/64921.jpg",
+        "alt": "la-rose-de-versailles"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ベルサイユのばら",

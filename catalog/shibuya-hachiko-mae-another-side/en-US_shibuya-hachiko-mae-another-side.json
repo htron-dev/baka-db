@@ -1,5 +1,9 @@
 {
     "title": "Shibuya Hachiko Mae: Another Side",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/74679.jpg",
+        "alt": "shibuya-hachiko-mae-another-side"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

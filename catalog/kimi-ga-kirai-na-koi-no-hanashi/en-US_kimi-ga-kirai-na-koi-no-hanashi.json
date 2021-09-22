@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Kirai na Koi no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204411.jpg",
+        "alt": "kimi-ga-kirai-na-koi-no-hanashi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

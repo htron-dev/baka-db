@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga no Shinobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161881.jpg",
+        "alt": "nobunaga-no-shinobi"
+    },
     "type": "manga",
     "original_name": "信長の忍び",
     "start_date": "2008-06-13",

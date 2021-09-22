@@ -1,5 +1,9 @@
 {
     "title": "Second World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156139.jpg",
+        "alt": "second-world"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "セカンドワールド",

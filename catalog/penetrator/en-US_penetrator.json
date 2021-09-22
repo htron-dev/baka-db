@@ -1,5 +1,9 @@
 {
     "title": "Penetrator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26419.jpg",
+        "alt": "penetrator"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

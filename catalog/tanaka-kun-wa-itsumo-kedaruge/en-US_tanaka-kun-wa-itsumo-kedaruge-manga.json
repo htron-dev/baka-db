@@ -1,5 +1,9 @@
 {
     "title": "Tanaka-kun wa Itsumo Kedaruge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125893.jpg",
+        "alt": "tanaka-kun-wa-itsumo-kedaruge"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "145",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Mawari no Uchuujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112951.jpg",
+        "alt": "boku-no-mawari-no-uchuujin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

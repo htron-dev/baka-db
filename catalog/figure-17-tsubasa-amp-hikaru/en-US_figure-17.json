@@ -1,5 +1,9 @@
 {
     "title": "Figure 17",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16496.jpg",
+        "alt": "figure-17"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

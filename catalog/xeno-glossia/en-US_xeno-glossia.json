@@ -1,5 +1,9 @@
 {
     "title": "XenoGlossia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66667.jpg",
+        "alt": "xeno-glossia"
+    },
     "type": "manhwa",
     "original_name": "제노글로시아 XENOGLOSSIA",
     "tags": [

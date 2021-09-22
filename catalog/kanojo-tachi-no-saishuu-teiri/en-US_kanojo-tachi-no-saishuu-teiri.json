@@ -1,5 +1,9 @@
 {
     "title": "Kanojo-tachi no Saishuu Teiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134819.jpg",
+        "alt": "kanojo-tachi-no-saishuu-teiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

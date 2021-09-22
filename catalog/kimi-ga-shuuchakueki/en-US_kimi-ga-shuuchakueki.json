@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Shuuchakueki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171524.jpg",
+        "alt": "kimi-ga-shuuchakueki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

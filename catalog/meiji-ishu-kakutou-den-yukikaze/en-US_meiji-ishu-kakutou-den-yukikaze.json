@@ -1,5 +1,9 @@
 {
     "title": "Meiji Ishu Kakutou Den: Yukikaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150056.jpg",
+        "alt": "meiji-ishu-kakutou-den-yukikaze"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

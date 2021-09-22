@@ -1,5 +1,9 @@
 {
     "title": "Jabberwocky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131797.jpg",
+        "alt": "jabberwocky"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "30",

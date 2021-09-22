@@ -1,5 +1,9 @@
 {
     "title": "Hellsing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149.jpg",
+        "alt": "hellsing"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "92",

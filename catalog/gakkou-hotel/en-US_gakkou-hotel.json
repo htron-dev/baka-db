@@ -1,5 +1,9 @@
 {
     "title": "Gakkou Hotel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33325.jpg",
+        "alt": "gakkou-hotel"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

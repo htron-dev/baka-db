@@ -1,5 +1,9 @@
 {
     "title": "Pink to Gray",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90001.jpg",
+        "alt": "pink-to-gray"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

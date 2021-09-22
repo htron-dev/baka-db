@@ -1,5 +1,9 @@
 {
     "title": "Blade Play",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188807.jpg",
+        "alt": "blade-play"
+    },
     "type": "manga",
     "original_name": "ぶれいど ぷれい",
     "start_date": "2009-09-18",

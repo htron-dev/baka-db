@@ -1,5 +1,9 @@
 {
     "title": "Omamori Shimasu, Dokomademo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83158.jpg",
+        "alt": "omamori-shimasu-dokomademo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

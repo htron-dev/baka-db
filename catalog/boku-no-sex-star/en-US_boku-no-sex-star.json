@@ -1,5 +1,9 @@
 {
     "title": "Boku no Sex Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223887.jpg",
+        "alt": "boku-no-sex-star"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

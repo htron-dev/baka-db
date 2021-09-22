@@ -1,5 +1,9 @@
 {
     "title": "Di Ling Qu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1446/100730.jpg",
+        "alt": "di-ling-qu"
+    },
     "type": "ona",
     "episodes": "18",
     "start_date": "2017-09-19",

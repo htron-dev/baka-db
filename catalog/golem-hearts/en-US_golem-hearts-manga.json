@@ -1,5 +1,9 @@
 {
     "title": "Golem Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207000.jpg",
+        "alt": "golem-hearts"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

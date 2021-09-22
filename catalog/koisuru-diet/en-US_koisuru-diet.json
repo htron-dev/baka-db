@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Diet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153342.jpg",
+        "alt": "koisuru-diet"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋するダイエット",

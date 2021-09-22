@@ -1,5 +1,9 @@
 {
     "title": "Jihai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21443.jpg",
+        "alt": "jihai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Kagayake! Daitoua Kyoueiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180511.jpg",
+        "alt": "kagayake-daitoua-kyoueiken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

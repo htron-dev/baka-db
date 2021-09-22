@@ -1,5 +1,9 @@
 {
     "title": "Bijo Amanda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179157.jpg",
+        "alt": "bijo-amanda"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,12 +1,16 @@
 {
     "title": "Tetsujin 28-gou (2004)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/53585.jpg",
+        "alt": "tetsujin-28-gou-2004"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "鉄人２８号 (2004)",
     "start_date": "2004-04-08",
     "end_date": "2004-04-08",
     "opening_song": "\"Tetsujin 28-gou (鉄人 28 号)\" by Roppongi Gasshoudan",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Susume Shoutarou (進め正太郎)\" by Roppongi Gasshoudan (eps 1-14, 17-25)",
     "rating": "G - All Ages",
     "tags": [
         "sci-fi",

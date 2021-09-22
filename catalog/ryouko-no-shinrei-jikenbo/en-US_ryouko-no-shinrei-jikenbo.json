@@ -1,5 +1,9 @@
 {
     "title": "Ryouko no Shinrei Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5587.jpg",
+        "alt": "ryouko-no-shinrei-jikenbo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

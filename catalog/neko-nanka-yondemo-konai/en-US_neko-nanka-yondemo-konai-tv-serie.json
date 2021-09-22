@@ -1,5 +1,9 @@
 {
     "title": "Neko nanka Yondemo Konai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/76535.jpg",
+        "alt": "neko-nanka-yondemo-konai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "猫なんかよんでもこない。",

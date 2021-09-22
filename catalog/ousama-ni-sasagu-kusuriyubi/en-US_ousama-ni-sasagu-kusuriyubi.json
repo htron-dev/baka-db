@@ -1,5 +1,9 @@
 {
     "title": "Ousama ni Sasagu Kusuriyubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148873.jpg",
+        "alt": "ousama-ni-sasagu-kusuriyubi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "41",

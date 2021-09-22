@@ -1,5 +1,9 @@
 {
     "title": "Sono Onna, Jitterbug",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217759.jpg",
+        "alt": "sono-onna-jitterbug"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "45",

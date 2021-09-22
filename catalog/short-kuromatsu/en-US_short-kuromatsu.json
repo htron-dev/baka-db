@@ -1,5 +1,9 @@
 {
     "title": "Short Kuromatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210077.jpg",
+        "alt": "short-kuromatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

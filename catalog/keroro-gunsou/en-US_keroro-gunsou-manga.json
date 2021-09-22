@@ -1,5 +1,9 @@
 {
     "title": "Keroro Gunsou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/152242.jpg",
+        "alt": "keroro-gunsou"
+    },
     "type": "manga",
     "original_name": "ケロロ軍曹",
     "start_date": "1999-11-29",

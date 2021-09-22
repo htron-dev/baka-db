@@ -1,12 +1,16 @@
 {
     "title": "Toaru Kagaku no Railgun S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75610.jpg",
+        "alt": "toaru-kagaku-no-railgun-s"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "とある科学の超電磁砲 S",
     "start_date": "2013-04-12",
     "end_date": "2013-04-12",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"sister's noise\" by fripSide (eps 2-16)",
+    "ending_song": "#1: \"sister's noise\" by fripSide (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

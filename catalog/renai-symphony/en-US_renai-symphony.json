@@ -1,5 +1,9 @@
 {
     "title": "Renai Symphony",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206006.jpg",
+        "alt": "renai-symphony"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "50",

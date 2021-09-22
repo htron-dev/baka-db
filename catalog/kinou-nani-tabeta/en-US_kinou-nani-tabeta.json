@@ -1,5 +1,9 @@
 {
     "title": "Kinou Nani Tabeta?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161884.jpg",
+        "alt": "kinou-nani-tabeta"
+    },
     "type": "manga",
     "original_name": "きのう何食べた?",
     "start_date": "2007-02-22",

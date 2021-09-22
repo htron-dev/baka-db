@@ -1,5 +1,9 @@
 {
     "title": "Sayasaya to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169794.jpg",
+        "alt": "sayasaya-to"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

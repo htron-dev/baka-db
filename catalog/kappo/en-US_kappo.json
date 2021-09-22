@@ -1,5 +1,9 @@
 {
     "title": "Kappo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/69161.jpg",
+        "alt": "kappo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かっぽ",

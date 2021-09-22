@@ -1,12 +1,16 @@
 {
     "title": "Grancrest Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/89883.jpg",
+        "alt": "grancrest-senki"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "グランクレスト戦記",
     "start_date": "2018-01-06",
     "end_date": "2018-01-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"starry\" by Mashiro Ayano",
+    "ending_song": "#1: \"PLEDGE\" by ASCA",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

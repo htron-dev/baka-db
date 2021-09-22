@@ -1,5 +1,9 @@
 {
     "title": "Tenshi Kouryaku Manual",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186462.jpg",
+        "alt": "tenshi-kouryaku-manual"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

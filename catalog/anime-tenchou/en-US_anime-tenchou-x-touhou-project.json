@@ -1,5 +1,9 @@
 {
     "title": "Anime Tenchou x Touhou Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/27303.jpg",
+        "alt": "anime-tenchou-x-touhou-project"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アニメ店長 x 東方 Project",

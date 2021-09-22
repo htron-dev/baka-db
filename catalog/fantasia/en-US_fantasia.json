@@ -1,5 +1,9 @@
 {
     "title": "Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1132/94538.jpg",
+        "alt": "fantasia"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ふぁんたじあ",

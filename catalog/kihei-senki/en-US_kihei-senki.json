@@ -1,5 +1,9 @@
 {
     "title": "Kihei Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226697.jpg",
+        "alt": "kihei-senki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Coral no Tanken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/78335.jpg",
+        "alt": "coral-no-tanken"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "コラルの探検",

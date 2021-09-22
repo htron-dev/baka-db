@@ -1,5 +1,9 @@
 {
     "title": "Isekai Ojisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226205.jpg",
+        "alt": "isekai-ojisan"
+    },
     "type": "manga",
     "original_name": "異世界おじさん",
     "start_date": "2018-06-29",

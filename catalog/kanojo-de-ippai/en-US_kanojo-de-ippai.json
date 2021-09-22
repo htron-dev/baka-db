@@ -1,5 +1,9 @@
 {
     "title": "Kanojo de Ippai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119411.jpg",
+        "alt": "kanojo-de-ippai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Sentimental Color",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97205.jpg",
+        "alt": "sentimental-color"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "18",

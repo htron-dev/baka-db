@@ -1,5 +1,9 @@
 {
     "title": "Toshokan Sensou: Spitfire!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119583.jpg",
+        "alt": "toshokan-sensou-spitfire"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "図書館戦争 SPITFIRE!",

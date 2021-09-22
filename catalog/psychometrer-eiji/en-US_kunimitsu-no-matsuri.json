@@ -1,5 +1,9 @@
 {
     "title": "Kunimitsu no Matsuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191867.jpg",
+        "alt": "kunimitsu-no-matsuri"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "221",

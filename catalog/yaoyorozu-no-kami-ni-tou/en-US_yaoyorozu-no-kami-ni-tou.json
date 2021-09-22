@@ -1,5 +1,9 @@
 {
     "title": "Yaoyorozu no Kami ni Tou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127959.jpg",
+        "alt": "yaoyorozu-no-kami-ni-tou"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "33",

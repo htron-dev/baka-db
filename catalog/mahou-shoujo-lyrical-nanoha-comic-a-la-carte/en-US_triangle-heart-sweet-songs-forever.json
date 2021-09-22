@@ -1,12 +1,16 @@
 {
     "title": "Triangle Heart: Sweet Songs Forever",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/17439.jpg",
+        "alt": "triangle-heart-sweet-songs-forever"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "とらいあんぐるハート -Sweet Songs Forever-",
     "start_date": "2003-07-24",
     "end_date": "2003-07-24",
     "opening_song": "\"Trust You're Truth ~Ashita wo Mamoru no Yakusoku~ (Trust You're Truth ~明日を守る約束~)\" by KOTOKO (eps 2-3)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"inside of a wilderness\" by KOTOKO (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

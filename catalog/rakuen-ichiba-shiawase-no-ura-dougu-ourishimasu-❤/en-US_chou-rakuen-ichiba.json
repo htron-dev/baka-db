@@ -1,5 +1,9 @@
 {
     "title": "Chou Rakuen Ichiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208032.jpg",
+        "alt": "chou-rakuen-ichiba"
+    },
     "type": "manga",
     "original_name": "超・楽園市場",
     "start_date": "2018-02-05",

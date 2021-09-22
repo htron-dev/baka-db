@@ -1,5 +1,9 @@
 {
     "title": "Demokratia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147659.jpg",
+        "alt": "demokratia"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "40",

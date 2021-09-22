@@ -1,12 +1,16 @@
 {
     "title": "Hikari to Mizu no Daphne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/49131.jpg",
+        "alt": "hikari-to-mizu-no-daphne"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "光と水のダフネ",
     "start_date": "2004-01-16",
     "end_date": "2004-01-16",
     "opening_song": "\"Asu no Blue Wing (明日の Blue wing)\" by Sae",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Anata to Yuujikan (あなたと言う時間)\" by CooRie (eps 1-14)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "sci-fi",

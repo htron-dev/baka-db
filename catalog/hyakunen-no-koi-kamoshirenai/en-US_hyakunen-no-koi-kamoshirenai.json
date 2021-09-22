@@ -1,5 +1,9 @@
 {
     "title": "Hyakunen no Koi Kamoshirenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28849.jpg",
+        "alt": "hyakunen-no-koi-kamoshirenai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "百年の恋かもしれない",

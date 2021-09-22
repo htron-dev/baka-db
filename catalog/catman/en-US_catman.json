@@ -1,5 +1,9 @@
 {
     "title": "Catman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/67125.jpg",
+        "alt": "catman"
+    },
     "type": "ona",
     "episodes": "7",
     "original_name": "キャットマン",

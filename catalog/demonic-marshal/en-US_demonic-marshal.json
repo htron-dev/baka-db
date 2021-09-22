@@ -1,5 +1,9 @@
 {
     "title": "Demonic Marshal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194311.jpg",
+        "alt": "demonic-marshal"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "魔人執行官〈デモーニック・マーシャル〉",

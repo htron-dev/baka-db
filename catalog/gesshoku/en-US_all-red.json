@@ -1,5 +1,9 @@
 {
     "title": "All Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38973.jpg",
+        "alt": "all-red"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オール・レッド",

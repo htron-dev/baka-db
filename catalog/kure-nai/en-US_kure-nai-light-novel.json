@@ -1,5 +1,9 @@
 {
     "title": "Kure-nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145559.jpg",
+        "alt": "kure-nai"
+    },
     "type": "light-novel",
     "original_name": "紅",
     "start_date": "2005-12-20",

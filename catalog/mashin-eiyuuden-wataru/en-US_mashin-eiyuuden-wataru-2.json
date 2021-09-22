@@ -1,12 +1,16 @@
 {
     "title": "Mashin Eiyuuden Wataru 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1709/92203.jpg",
+        "alt": "mashin-eiyuuden-wataru-2"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "魔神英雄伝ワタル 2",
     "start_date": "1990-03-09",
     "end_date": "1990-03-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Step by Step\" by Takahashi Yumiko",
+    "ending_song": "#1: \"Kimi ni Tomaranai - MY GIRL, MY LOVE\" by Takahashi Yumiko",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

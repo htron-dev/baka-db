@@ -1,5 +1,9 @@
 {
     "title": "Tengen Toppa Gurren Lagann: Kessen! Otokogumi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176934.jpg",
+        "alt": "tengen-toppa-gurren-lagann-kessen-otokogumi-hen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

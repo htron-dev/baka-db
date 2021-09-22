@@ -1,5 +1,9 @@
 {
     "title": "Durarara!!x2 Ketsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/77838.jpg",
+        "alt": "durarara-x-2-ketsu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "デュラララ!!×2 結",

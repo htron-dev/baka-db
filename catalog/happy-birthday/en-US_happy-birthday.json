@@ -1,5 +1,9 @@
 {
     "title": "Happy Birthday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201394.jpg",
+        "alt": "happy-birthday"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

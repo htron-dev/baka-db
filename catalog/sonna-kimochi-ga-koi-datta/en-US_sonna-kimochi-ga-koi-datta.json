@@ -1,5 +1,9 @@
 {
     "title": "Sonna Kimochi ga Koi datta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165178.jpg",
+        "alt": "sonna-kimochi-ga-koi-datta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

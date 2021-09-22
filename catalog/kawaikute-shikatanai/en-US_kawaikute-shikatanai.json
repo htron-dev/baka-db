@@ -1,5 +1,9 @@
 {
     "title": "Kawaikute Shikatanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228247.jpg",
+        "alt": "kawaikute-shikatanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "I Need You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206414.jpg",
+        "alt": "i-need-you"
+    },
     "type": "manga",
     "original_name": "あいニー充",
     "start_date": "2017-07-27",

@@ -1,5 +1,9 @@
 {
     "title": "Haru to Midori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221538.jpg",
+        "alt": "haru-to-midori"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

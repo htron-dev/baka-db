@@ -1,5 +1,9 @@
 {
     "title": "Andol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157946.jpg",
+        "alt": "andol"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

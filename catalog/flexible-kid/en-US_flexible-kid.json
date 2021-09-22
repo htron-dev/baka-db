@@ -1,5 +1,9 @@
 {
     "title": "Flexible Kid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/70141.jpg",
+        "alt": "flexible-kid"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

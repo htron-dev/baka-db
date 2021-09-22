@@ -1,5 +1,9 @@
 {
     "title": "Wing Half",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13521.jpg",
+        "alt": "wing-half"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ウィングハーフ",

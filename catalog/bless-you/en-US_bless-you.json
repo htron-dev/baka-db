@@ -1,5 +1,9 @@
 {
     "title": "Bless You!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/36742.jpg",
+        "alt": "bless-you"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "聖使徒学院喫茶部活動日誌 キュンコミックス,ブランド",

@@ -1,5 +1,9 @@
 {
     "title": "Fireball Humorous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/87385.jpg",
+        "alt": "fireball-humorous"
+    },
     "type": "tv-serie",
     "episodes": "3",
     "original_name": "ファイアボール ユーモラス",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Fireball_(anime"
+            "link": "https://en.wikipedia.org/wiki/Fireball_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Azalea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243776.jpg",
+        "alt": "azalea"
+    },
     "type": "manga",
     "original_name": "Azalea",
     "start_date": "2019-08-01",

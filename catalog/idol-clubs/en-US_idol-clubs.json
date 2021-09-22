@@ -1,5 +1,9 @@
 {
     "title": "Idol Clubs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41432.jpg",
+        "alt": "idol-clubs"
+    },
     "type": "manhwa",
     "volumes": "12",
     "original_name": "아이돌 클럽",

@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki Lily",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31018.jpg",
+        "alt": "usotsuki-lily"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "119",

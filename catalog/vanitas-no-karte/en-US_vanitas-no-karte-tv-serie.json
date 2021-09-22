@@ -1,5 +1,9 @@
 {
     "title": "Vanitas no Karte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1811/115541.jpg",
+        "alt": "vanitas-no-karte"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヴァニタスの手記",

@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama wa Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23379.jpg",
+        "alt": "ouji-sama-wa-yuuutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

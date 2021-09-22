@@ -1,12 +1,16 @@
 {
     "title": "Inazuma Eleven Go: Chrono Stone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1619/94705.jpg",
+        "alt": "inazuma-eleven-go-chrono-stone"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "イナズマイレブン GO クロノ・ストーン",
     "start_date": "2012-04-18",
     "end_date": "2012-04-18",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Jounetsu de Mune ATSU! (情熱で胸アツ!)\" by T-Pistonz+KMC (eps 1-17)",
+    "ending_song": "#1: \"Natsu ga Yattekuru (夏がやってくる)\" by Aoi Sorano (CV: Sayaka Kitahara) (eps 1-18)",
     "rating": "G - All Ages",
     "tags": [
         "sports",

@@ -1,11 +1,15 @@
 {
     "title": "Mai-Otome 0: S.ifr",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/12403.jpg",
+        "alt": "mai-otome-0-s-ifr"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "舞－乙 HiME ０～ S.ifr ～",
     "start_date": "2008-02-21",
     "end_date": "2008-02-21",
-    "ending_song": "#2",
+    "ending_song": "#2: \"Heart All Green\" by Minami Kuribayashi (ep 2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "sci-fi"

@@ -1,5 +1,9 @@
 {
     "title": "Reversibleman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194890.jpg",
+        "alt": "reversibleman"
+    },
     "type": "manga",
     "original_name": "リバーシブルマン",
     "tags": [

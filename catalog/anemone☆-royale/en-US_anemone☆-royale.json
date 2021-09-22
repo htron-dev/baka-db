@@ -1,5 +1,9 @@
 {
     "title": "Anemone☆Royale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116525.jpg",
+        "alt": "anemone☆-royale"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "あねもね ☆ ろわいやる",

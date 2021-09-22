@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Higoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/249344.jpg",
+        "alt": "tokyo-higoro"
+    },
     "type": "manga",
     "original_name": "東京ヒゴロ",
     "start_date": "2019-06-12",

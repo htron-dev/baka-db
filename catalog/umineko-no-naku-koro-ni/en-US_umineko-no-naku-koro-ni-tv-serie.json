@@ -1,5 +1,9 @@
 {
     "title": "Umineko no Naku Koro ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/17709.jpg",
+        "alt": "umineko-no-naku-koro-ni"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "うみねこのなく頃に",

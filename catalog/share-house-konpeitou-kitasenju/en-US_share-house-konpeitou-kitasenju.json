@@ -1,5 +1,9 @@
 {
     "title": "Share House Konpeitou Kitasenju",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223568.jpg",
+        "alt": "share-house-konpeitou-kitasenju"
+    },
     "type": "manga",
     "original_name": "シェアハウス金平糖北千住",
     "start_date": "2017-01-25",

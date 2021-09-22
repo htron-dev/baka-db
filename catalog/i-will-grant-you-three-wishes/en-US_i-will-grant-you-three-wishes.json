@@ -1,5 +1,9 @@
 {
     "title": "I Will Grant You Three Wishes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21601.jpg",
+        "alt": "i-will-grant-you-three-wishes"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "소원을 이루어 드립니다",

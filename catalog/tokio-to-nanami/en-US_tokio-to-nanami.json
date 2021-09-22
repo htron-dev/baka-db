@@ -1,5 +1,9 @@
 {
     "title": "Tokio to Nanami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188583.jpg",
+        "alt": "tokio-to-nanami"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

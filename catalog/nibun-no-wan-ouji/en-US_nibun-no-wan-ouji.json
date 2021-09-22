@@ -1,5 +1,9 @@
 {
     "title": "Nibun no Wan! Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133207.jpg",
+        "alt": "nibun-no-wan-ouji"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "30",

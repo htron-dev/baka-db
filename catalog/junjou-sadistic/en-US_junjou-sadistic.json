@@ -1,5 +1,9 @@
 {
     "title": "Junjou Sadistic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150549.jpg",
+        "alt": "junjou-sadistic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

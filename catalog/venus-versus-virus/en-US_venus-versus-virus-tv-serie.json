@@ -1,5 +1,9 @@
 {
     "title": "Venus Versus Virus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/18842.jpg",
+        "alt": "venus-versus-virus"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヴィーナス ヴァーサス ヴァイアラス",

@@ -1,5 +1,9 @@
 {
     "title": "Last Exile: Ginyoku no Fam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86893.jpg",
+        "alt": "last-exile-ginyoku-no-fam"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

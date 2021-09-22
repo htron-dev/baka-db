@@ -1,5 +1,9 @@
 {
     "title": "Geinou Gourmet Stalker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229818.jpg",
+        "alt": "geinou-gourmet-stalker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "23",

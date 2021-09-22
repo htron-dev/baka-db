@@ -1,5 +1,9 @@
 {
     "title": "Kuro to Kuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209553.jpg",
+        "alt": "kuro-to-kuro"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "18",

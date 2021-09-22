@@ -1,5 +1,9 @@
 {
     "title": "Shanimuni Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207576.jpg",
+        "alt": "shanimuni-go"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "192",

@@ -1,5 +1,9 @@
 {
     "title": "Isekai Rakugo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216409.jpg",
+        "alt": "isekai-rakugo"
+    },
     "type": "manga",
     "original_name": "異世界落語",
     "start_date": "2018-03-20",

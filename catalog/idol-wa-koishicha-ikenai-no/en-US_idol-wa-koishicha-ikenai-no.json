@@ -1,5 +1,9 @@
 {
     "title": "Idol wa Koishicha Ikenai no!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178557.jpg",
+        "alt": "idol-wa-koishicha-ikenai-no"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Toaru Hikuushi e no Tsuioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117313.jpg",
+        "alt": "toaru-hikuushi-e-no-tsuioku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Kokoro Iroiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18013.jpg",
+        "alt": "kokoro-iroiro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

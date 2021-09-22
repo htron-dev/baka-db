@@ -1,5 +1,9 @@
 {
     "title": "Golosseum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203499.jpg",
+        "alt": "golosseum"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "39",

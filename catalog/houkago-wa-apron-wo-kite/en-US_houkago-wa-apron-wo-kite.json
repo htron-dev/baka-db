@@ -1,5 +1,9 @@
 {
     "title": "Houkago wa, Apron wo Kite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186543.jpg",
+        "alt": "houkago-wa-apron-wo-kite"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "放課後は、エプロンを着て。",

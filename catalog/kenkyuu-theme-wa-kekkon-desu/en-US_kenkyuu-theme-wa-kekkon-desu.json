@@ -1,5 +1,9 @@
 {
     "title": "Kenkyuu Theme wa \"Kekkon\" desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243201.jpg",
+        "alt": "kenkyuu-theme-wa-kekkon-desu"
+    },
     "type": "manga",
     "original_name": "研究テーマは『結婚』です",
     "start_date": "2021-04-08",

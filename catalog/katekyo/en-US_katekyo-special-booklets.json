@@ -1,5 +1,9 @@
 {
     "title": "Katekyo! Special Booklets",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64245.jpg",
+        "alt": "katekyo-special-booklets"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

@@ -1,5 +1,9 @@
 {
     "title": "Skyhigh: Shinshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128401.jpg",
+        "alt": "skyhigh-shinshou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

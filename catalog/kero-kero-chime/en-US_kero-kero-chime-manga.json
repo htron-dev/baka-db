@@ -1,5 +1,9 @@
 {
     "title": "Kero Kero Chime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13122.jpg",
+        "alt": "kero-kero-chime"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ケロケロちゃいむ",

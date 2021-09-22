@@ -1,5 +1,9 @@
 {
     "title": "Kingyoya Koshoten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176932.jpg",
+        "alt": "kingyoya-koshoten"
+    },
     "type": "manga",
     "original_name": "金魚屋古書店",
     "start_date": "2004-03-25",

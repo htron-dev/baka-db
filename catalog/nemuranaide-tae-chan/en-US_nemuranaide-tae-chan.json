@@ -1,5 +1,9 @@
 {
     "title": "Nemuranaide Tae-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173384.jpg",
+        "alt": "nemuranaide-tae-chan"
+    },
     "type": "manga",
     "chapters": "57",
     "original_name": "眠らないでタエちゃん",

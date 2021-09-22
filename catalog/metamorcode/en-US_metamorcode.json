@@ -1,5 +1,9 @@
 {
     "title": "Metamorcode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78371.jpg",
+        "alt": "metamorcode"
+    },
     "type": "manga",
     "original_name": "メタモルコード",
     "start_date": "2012-08-10",

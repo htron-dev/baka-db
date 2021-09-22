@@ -1,12 +1,16 @@
 {
     "title": "Macross 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1568/117498.jpg",
+        "alt": "macross-7"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "マクロス７",
     "start_date": "1994-10-16",
     "end_date": "1994-10-16",
     "opening_song": "\"Seventh Moon\" by Fire Bomber featuring Basara Nekki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"My Friends\" by Fire Bomber featuring Mylene Jenius (eps 1-34)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

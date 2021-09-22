@@ -1,5 +1,9 @@
 {
     "title": "Otoko Ippiki Gaki Daishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1179/95335.jpg",
+        "alt": "otoko-ippiki-gaki-daishou"
+    },
     "type": "tv-serie",
     "episodes": "156",
     "original_name": "男一匹ガキ大将",

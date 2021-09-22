@@ -1,5 +1,9 @@
 {
     "title": "Blue Sky Playground",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4529.jpg",
+        "alt": "blue-sky-playground"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

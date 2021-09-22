@@ -1,5 +1,9 @@
 {
     "title": "Hanasaki Koukou Engekibu e Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238301.jpg",
+        "alt": "hanasaki-koukou-engekibu-e-youkoso"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "花咲高校演劇部へようこそ!",

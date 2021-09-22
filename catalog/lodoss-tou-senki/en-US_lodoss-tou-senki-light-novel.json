@@ -1,5 +1,9 @@
 {
     "title": "Lodoss-tou Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135649.jpg",
+        "alt": "lodoss-tou-senki"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "37",

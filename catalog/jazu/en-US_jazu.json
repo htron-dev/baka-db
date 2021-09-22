@@ -1,5 +1,9 @@
 {
     "title": "Jazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227255.jpg",
+        "alt": "jazu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

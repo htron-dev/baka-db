@@ -1,5 +1,9 @@
 {
     "title": "Dai-3 no Gideon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167645.jpg",
+        "alt": "dai-3-no-gideon"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "69",

@@ -1,5 +1,9 @@
 {
     "title": "Monogatari Series: Monster Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198051.jpg",
+        "alt": "monogatari-series-monster-season"
+    },
     "type": "light-novel",
     "original_name": "〈物語〉シリーズ モンスターシーズン",
     "start_date": "2017-07-20",

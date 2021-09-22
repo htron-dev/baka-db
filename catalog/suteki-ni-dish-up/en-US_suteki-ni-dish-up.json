@@ -1,5 +1,9 @@
 {
     "title": "Suteki ni Dish Up!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116087.jpg",
+        "alt": "suteki-ni-dish-up"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

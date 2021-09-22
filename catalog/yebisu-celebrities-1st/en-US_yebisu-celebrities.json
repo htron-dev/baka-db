@@ -1,5 +1,9 @@
 {
     "title": "Yebisu Celebrities",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200944.jpg",
+        "alt": "yebisu-celebrities"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Kon na Panic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10843.jpg",
+        "alt": "kon-na-panic"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "コンなパニック",

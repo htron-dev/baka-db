@@ -1,5 +1,9 @@
 {
     "title": "Inuyomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42930.jpg",
+        "alt": "inuyomi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "イヌヨミ",

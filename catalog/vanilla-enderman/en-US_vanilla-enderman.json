@@ -1,5 +1,9 @@
 {
     "title": "Vanilla Enderman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223034.jpg",
+        "alt": "vanilla-enderman"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Hanabira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193458.jpg",
+        "alt": "yuki-no-hanabira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Motto Ganbare! Nakamura-kun!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210281.jpg",
+        "alt": "motto-ganbare-nakamura-kun"
+    },
     "type": "manga",
     "original_name": "もっとガンバレ！中村くん！！",
     "start_date": "2017-06-28",

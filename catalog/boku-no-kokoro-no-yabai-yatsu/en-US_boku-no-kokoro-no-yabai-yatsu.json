@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kokoro no Yabai Yatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213349.jpg",
+        "alt": "boku-no-kokoro-no-yabai-yatsu"
+    },
     "type": "manga",
     "original_name": "僕の心のヤバイやつ",
     "start_date": "2018-03-08",

@@ -1,5 +1,9 @@
 {
     "title": "Mamori no Kaito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17800.jpg",
+        "alt": "mamori-no-kaito"
+    },
     "type": "manga",
     "tags": [
         "game"

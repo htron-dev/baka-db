@@ -1,5 +1,9 @@
 {
     "title": "Kokushi no Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149460.jpg",
+        "alt": "kokushi-no-shima"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "黒祠の島",

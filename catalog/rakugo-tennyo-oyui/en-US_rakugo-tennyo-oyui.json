@@ -1,5 +1,9 @@
 {
     "title": "Rakugo Tennyo Oyui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/21222.jpg",
+        "alt": "rakugo-tennyo-oyui"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "落語天女おゆい",

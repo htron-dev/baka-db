@@ -1,5 +1,9 @@
 {
     "title": "Seija no Koushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205252.jpg",
+        "alt": "seija-no-koushin"
+    },
     "type": "manga",
     "original_name": "生者の行進",
     "start_date": "2017-10-20",

@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko wa Shippo de Amaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98861.jpg",
+        "alt": "kuroneko-wa-shippo-de-amaeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

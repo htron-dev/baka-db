@@ -1,5 +1,9 @@
 {
     "title": "Onizushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79804.jpg",
+        "alt": "onizushi"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "オニズシ",

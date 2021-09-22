@@ -1,12 +1,16 @@
 {
     "title": "Shinkon Gattai Godannar!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75451.jpg",
+        "alt": "shinkon-gattai-godannar"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "神魂合体ゴーダンナー！！",
     "start_date": "2003-10-01",
     "end_date": "2003-10-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Shinkon Gattai Godannar!!\" by Akira Kushida",
+    "ending_song": "#1: Zangou no Hitsug\" by Mitsuko Horie and Ichiro Mizuki",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "ecchi",

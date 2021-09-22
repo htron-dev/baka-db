@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Utopia Manabi Straight!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163941.jpg",
+        "alt": "gakuen-utopia-manabi-straight"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

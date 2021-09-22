@@ -1,5 +1,9 @@
 {
     "title": "Bukiyou na Mariage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242039.jpg",
+        "alt": "bukiyou-na-mariage"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

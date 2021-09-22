@@ -1,5 +1,9 @@
 {
     "title": "Shougaku Celeb",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128663.jpg",
+        "alt": "shougaku-celeb"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "しょーがくせれぶ",

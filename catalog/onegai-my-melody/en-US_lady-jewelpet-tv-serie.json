@@ -1,5 +1,9 @@
 {
     "title": "Lady Jewelpet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/73960.jpg",
+        "alt": "lady-jewelpet"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "レディ ジュエルペット",

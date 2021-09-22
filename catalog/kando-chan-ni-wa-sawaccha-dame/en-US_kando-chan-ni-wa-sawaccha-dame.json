@@ -1,5 +1,9 @@
 {
     "title": "Kando-chan ni wa Sawaccha Dame!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244395.jpg",
+        "alt": "kando-chan-ni-wa-sawaccha-dame"
+    },
     "type": "manga",
     "original_name": "かんどちゃんには触っちゃダメ！",
     "start_date": "2020-10-16",

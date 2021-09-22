@@ -1,5 +1,9 @@
 {
     "title": "Metal Fight Beyblade 4D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/29013.jpg",
+        "alt": "metal-fight-beyblade-4-d"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "メタルファイト ベイブレード 4D",

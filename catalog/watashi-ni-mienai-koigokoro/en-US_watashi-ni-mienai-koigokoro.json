@@ -1,5 +1,9 @@
 {
     "title": "Watashi ni Mienai Koigokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165038.jpg",
+        "alt": "watashi-ni-mienai-koigokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

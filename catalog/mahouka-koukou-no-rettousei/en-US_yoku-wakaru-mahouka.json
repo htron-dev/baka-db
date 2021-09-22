@@ -1,5 +1,9 @@
 {
     "title": "Yoku Wakaru Mahouka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/60355.jpg",
+        "alt": "yoku-wakaru-mahouka"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "よくわかる魔法科！",

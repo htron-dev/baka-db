@@ -1,5 +1,9 @@
 {
     "title": "Kotae wa Soko ni Umi ga Aru kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16465.jpg",
+        "alt": "kotae-wa-soko-ni-umi-ga-aru-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

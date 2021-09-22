@@ -1,5 +1,9 @@
 {
     "title": "Ruri-iro Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/25551.jpg",
+        "alt": "ruri-iro-princess"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "るり色プリンセス",

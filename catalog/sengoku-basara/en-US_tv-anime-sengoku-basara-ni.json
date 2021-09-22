@@ -1,5 +1,9 @@
 {
     "title": "TV Anime: Sengoku Basara Ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62399.jpg",
+        "alt": "tv-anime-sengoku-basara-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

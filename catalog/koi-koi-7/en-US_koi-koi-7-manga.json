@@ -1,5 +1,9 @@
 {
     "title": "Koi Koi 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118643.jpg",
+        "alt": "koi-koi-7"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "52",

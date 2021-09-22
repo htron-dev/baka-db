@@ -1,12 +1,16 @@
 {
     "title": "Fairy Tail OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/65661.jpg",
+        "alt": "fairy-tail-ova"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "フェアリーテイル OVA",
     "start_date": "2011-04-15",
     "end_date": "2011-04-15",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Eternal Fellows\" by Kakihara Tetsuya (eps 1-3)",
+    "ending_song": "#1: \"Nichijou Sanka: This Place\" by Hirano Aya (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

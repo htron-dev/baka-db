@@ -1,5 +1,9 @@
 {
     "title": "Honki Dattsu no!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15697.jpg",
+        "alt": "honki-dattsu-no"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "本気だっつの!",

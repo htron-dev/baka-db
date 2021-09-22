@@ -1,5 +1,9 @@
 {
     "title": "Oresama na Aitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9062.jpg",
+        "alt": "oresama-na-aitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

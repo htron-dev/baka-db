@@ -1,5 +1,9 @@
 {
     "title": "Utopa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76579.jpg",
+        "alt": "utopa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "UTOPA",

@@ -1,5 +1,9 @@
 {
     "title": "Karakuri Kiden: Hiwou Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133221.jpg",
+        "alt": "karakuri-kiden-hiwou-senki"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "機巧奇傳 ヒヲウ戦記",

@@ -1,12 +1,16 @@
 {
     "title": "Magi: The Kingdom of Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/55039.jpg",
+        "alt": "magi-the-kingdom-of-magic"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "マギ The kingdom of magic",
     "start_date": "2013-10-06",
     "end_date": "2013-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"ANNIVERSARY\" by SID (eps 1-13)",
+    "ending_song": "#1: \"Eden (エデン)\" by Aqua Timez (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

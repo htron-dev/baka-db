@@ -1,5 +1,9 @@
 {
     "title": "Ken-chan to Neko. Tokidoki Ahiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220524.jpg",
+        "alt": "ken-chan-to-neko-tokidoki-ahiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

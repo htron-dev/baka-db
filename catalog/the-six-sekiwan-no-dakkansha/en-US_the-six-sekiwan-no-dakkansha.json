@@ -1,5 +1,9 @@
 {
     "title": "The Six: Sekiwan no Dakkansha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226579.jpg",
+        "alt": "the-six-sekiwan-no-dakkansha"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

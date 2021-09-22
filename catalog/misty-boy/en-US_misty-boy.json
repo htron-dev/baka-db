@@ -1,5 +1,9 @@
 {
     "title": "Misty Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185613.jpg",
+        "alt": "misty-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

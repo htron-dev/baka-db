@@ -1,5 +1,9 @@
 {
     "title": "Tensei Juusha no Black Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167089.jpg",
+        "alt": "tensei-juusha-no-black-chronicle"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",

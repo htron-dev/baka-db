@@ -1,5 +1,9 @@
 {
     "title": "Teito Gekkou Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20594.jpg",
+        "alt": "teito-gekkou-kitan"
+    },
     "type": "manga",
     "original_name": "帝都月光綺譚",
     "start_date": "1998-11-24",

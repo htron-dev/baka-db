@@ -1,5 +1,9 @@
 {
     "title": "Chotto Ippai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198113.jpg",
+        "alt": "chotto-ippai"
+    },
     "type": "manga",
     "original_name": "ちょっといっぱい！",
     "start_date": "2016-05-24",

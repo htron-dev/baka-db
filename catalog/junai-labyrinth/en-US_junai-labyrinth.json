@@ -1,5 +1,9 @@
 {
     "title": "Junai Labyrinth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164336.jpg",
+        "alt": "junai-labyrinth"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

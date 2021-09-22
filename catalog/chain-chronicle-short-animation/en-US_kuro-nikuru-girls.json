@@ -1,5 +1,9 @@
 {
     "title": "Kuro-Nikuru Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/83832.jpg",
+        "alt": "kuro-nikuru-girls"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "くろにくるがーるず",

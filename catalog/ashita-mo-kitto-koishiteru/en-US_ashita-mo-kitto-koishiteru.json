@@ -1,5 +1,9 @@
 {
     "title": "Ashita mo Kitto Koishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25878.jpg",
+        "alt": "ashita-mo-kitto-koishiteru"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "J. Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228827.jpg",
+        "alt": "j-boy"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

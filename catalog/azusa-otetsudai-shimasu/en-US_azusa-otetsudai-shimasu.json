@@ -1,5 +1,9 @@
 {
     "title": "Azusa, Otetsudai Shimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/18625.jpg",
+        "alt": "azusa-otetsudai-shimasu"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アズサ、お手伝いします！",

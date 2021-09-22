@@ -1,5 +1,9 @@
 {
     "title": "Kirakira 100%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25037.jpg",
+        "alt": "kirakira-100"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "キラキラ 100%",

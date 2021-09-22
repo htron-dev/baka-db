@@ -1,5 +1,9 @@
 {
     "title": "Angel Onayami Soudanjo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172872.jpg",
+        "alt": "angel-onayami-soudanjo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

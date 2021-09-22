@@ -1,5 +1,9 @@
 {
     "title": "Hataki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21120.jpg",
+        "alt": "hataki"
+    },
     "type": "manga",
     "original_name": "ハタキ",
     "tags": [

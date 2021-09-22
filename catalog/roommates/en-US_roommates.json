@@ -1,5 +1,9 @@
 {
     "title": "Roommates",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225357.jpg",
+        "alt": "roommates"
+    },
     "type": "manhwa",
     "original_name": "고백을 못하고",
     "start_date": "2015-07-03",

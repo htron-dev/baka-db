@@ -1,12 +1,16 @@
 {
     "title": "Saiyuuki Reload Gunlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/6830.jpg",
+        "alt": "saiyuuki-reload-gunlock"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "最遊記 RELOAD GUNLOCK",
     "start_date": "2004-04-02",
     "end_date": "2004-04-02",
     "opening_song": "\"Don't look back again\" by WAG",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mitsumeteitai\" by flow-war",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

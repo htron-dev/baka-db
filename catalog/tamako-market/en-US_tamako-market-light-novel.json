@@ -1,5 +1,9 @@
 {
     "title": "Tamako Market",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109537.jpg",
+        "alt": "tamako-market"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

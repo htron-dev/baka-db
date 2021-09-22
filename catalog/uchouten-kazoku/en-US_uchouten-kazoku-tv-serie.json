@@ -1,12 +1,16 @@
 {
     "title": "Uchouten Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/85433.jpg",
+        "alt": "uchouten-kazoku"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "有頂天家族",
     "start_date": "2013-07-07",
     "end_date": "2013-07-07",
     "opening_song": "\"Uchouten Jinsei (有頂天人生)\" by milktub (eps 1-10, 12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Qué Será, Será (ケセラセラ)\" by fhána (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Head Spoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72630.jpg",
+        "alt": "head-spoon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ヘッド・スプーン",

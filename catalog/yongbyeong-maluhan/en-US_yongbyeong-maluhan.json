@@ -1,5 +1,9 @@
 {
     "title": "Yongbyeong Maluhan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207595.jpg",
+        "alt": "yongbyeong-maluhan"
+    },
     "type": "manhwa",
     "volumes": "15",
     "chapters": "103",

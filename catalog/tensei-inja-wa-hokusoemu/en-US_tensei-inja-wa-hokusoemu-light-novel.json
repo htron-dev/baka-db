@@ -1,5 +1,9 @@
 {
     "title": "Tensei Inja wa Hokusoemu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200161.jpg",
+        "alt": "tensei-inja-wa-hokusoemu"
+    },
     "type": "light-novel",
     "original_name": "転生隠者はほくそ笑む",
     "start_date": "2017-04-25",

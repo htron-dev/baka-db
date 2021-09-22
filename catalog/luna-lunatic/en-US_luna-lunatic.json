@@ -1,5 +1,9 @@
 {
     "title": "Luna Lunatic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6177.jpg",
+        "alt": "luna-lunatic"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ルナ・ルナティック",

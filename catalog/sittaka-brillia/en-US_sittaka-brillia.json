@@ -1,5 +1,9 @@
 {
     "title": "Sittaka Brillia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204848.jpg",
+        "alt": "sittaka-brillia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

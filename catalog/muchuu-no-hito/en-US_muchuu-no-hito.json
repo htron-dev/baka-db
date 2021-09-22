@@ -1,5 +1,9 @@
 {
     "title": "Muchuu no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33418.jpg",
+        "alt": "muchuu-no-hito"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Kekkou Kamen P",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157127.jpg",
+        "alt": "kekkou-kamen-p"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "けっこう仮面 P",

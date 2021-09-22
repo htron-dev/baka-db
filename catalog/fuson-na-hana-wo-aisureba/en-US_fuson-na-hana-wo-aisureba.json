@@ -1,5 +1,9 @@
 {
     "title": "Fuson na Hana wo Aisureba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149215.jpg",
+        "alt": "fuson-na-hana-wo-aisureba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

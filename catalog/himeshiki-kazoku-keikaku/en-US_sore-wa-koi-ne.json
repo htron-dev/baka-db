@@ -1,5 +1,9 @@
 {
     "title": "Sore wa Koi ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95953.jpg",
+        "alt": "sore-wa-koi-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "それは恋ね",

@@ -1,5 +1,9 @@
 {
     "title": "Escape Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221931.jpg",
+        "alt": "escape-drop"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

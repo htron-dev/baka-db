@@ -1,5 +1,9 @@
 {
     "title": "N★Y Bird",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163837.jpg",
+        "alt": "n★y-bird"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "N★Y バード",

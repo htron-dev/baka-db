@@ -1,5 +1,9 @@
 {
     "title": "Itoshiki Bodyguard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/48473.jpg",
+        "alt": "itoshiki-bodyguard"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

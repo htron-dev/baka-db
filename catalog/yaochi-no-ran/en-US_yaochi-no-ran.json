@@ -1,5 +1,9 @@
 {
     "title": "Yaochi no Ran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234679.jpg",
+        "alt": "yaochi-no-ran"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

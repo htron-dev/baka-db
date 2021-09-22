@@ -1,5 +1,9 @@
 {
     "title": "Sprinter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65145.jpg",
+        "alt": "sprinter"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "121",

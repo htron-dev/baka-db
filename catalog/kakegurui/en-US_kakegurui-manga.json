@@ -1,5 +1,9 @@
 {
     "title": "Kakegurui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142175.jpg",
+        "alt": "kakegurui"
+    },
     "type": "manga",
     "original_name": "賭ケグルイ",
     "start_date": "2014-03-22",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Undead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171183.jpg",
+        "alt": "tokyo-undead"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

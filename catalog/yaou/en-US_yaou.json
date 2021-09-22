@@ -1,5 +1,9 @@
 {
     "title": "Yaou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/147063.jpg",
+        "alt": "yaou"
+    },
     "type": "manga",
     "volumes": "29",
     "original_name": "夜王 -yaoh-",

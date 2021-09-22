@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Uta wo Kike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39658.jpg",
+        "alt": "kaze-no-uta-wo-kike"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

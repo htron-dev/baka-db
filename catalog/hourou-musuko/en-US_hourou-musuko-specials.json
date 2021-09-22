@@ -1,5 +1,9 @@
 {
     "title": "Hourou Musuko Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/30177.jpg",
+        "alt": "hourou-musuko-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "放浪息子",

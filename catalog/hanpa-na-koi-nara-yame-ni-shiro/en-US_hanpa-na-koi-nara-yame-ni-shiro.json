@@ -1,5 +1,9 @@
 {
     "title": "Hanpa na Koi nara Yame ni Shiro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76889.jpg",
+        "alt": "hanpa-na-koi-nara-yame-ni-shiro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

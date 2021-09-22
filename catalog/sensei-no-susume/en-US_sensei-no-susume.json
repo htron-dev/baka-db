@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4303.jpg",
+        "alt": "sensei-no-susume"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "先生のススメ",

@@ -1,5 +1,9 @@
 {
     "title": "Sennen Sensou Aigis: Eiyuu no Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185391.jpg",
+        "alt": "sennen-sensou-aigis-eiyuu-no-kizuna"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

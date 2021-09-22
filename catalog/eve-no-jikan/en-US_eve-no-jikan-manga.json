@@ -1,5 +1,9 @@
 {
     "title": "Eve no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130963.jpg",
+        "alt": "eve-no-jikan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

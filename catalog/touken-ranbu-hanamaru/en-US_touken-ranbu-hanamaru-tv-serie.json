@@ -1,12 +1,16 @@
 {
     "title": "Touken Ranbu: Hanamaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/81989.jpg",
+        "alt": "touken-ranbu-hanamaru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "刀剣乱舞-花丸-",
     "start_date": "2016-10-03",
     "end_date": "2016-10-03",
     "opening_song": "\"Hanamaru◎Biyori (花丸 ◎ 日和)\" by Yamatonokami Yasusada (Mitsuhiro Ichiki) & Kashuu Kiyomitsu (Toshiki Masuda) (eps 2-10)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Ake Kure Nikki (明け暮れ日記)\" by Yamatonokami Yasusada (Mitsuhiro Ichiki) & Kashuu Kiyomitsu (Toshiki Masuda) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

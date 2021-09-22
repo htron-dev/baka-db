@@ -1,5 +1,9 @@
 {
     "title": "Kurokishi-san wa Hatarakitakunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186077.jpg",
+        "alt": "kurokishi-san-wa-hatarakitakunai"
+    },
     "type": "light-novel",
     "original_name": "黒騎士さんは働きたくない",
     "start_date": "2016-11-25",

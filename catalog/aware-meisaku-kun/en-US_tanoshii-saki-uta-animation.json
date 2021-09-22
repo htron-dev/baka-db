@@ -1,5 +1,9 @@
 {
     "title": "Tanoshii Saki Uta Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/84511.jpg",
+        "alt": "tanoshii-saki-uta-animation"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "楽しいさき歌アニメーション",

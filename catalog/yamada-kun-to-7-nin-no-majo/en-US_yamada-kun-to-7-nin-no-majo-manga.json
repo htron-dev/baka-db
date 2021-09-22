@@ -1,5 +1,9 @@
 {
     "title": "Yamada-kun to 7-nin no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191685.jpg",
+        "alt": "yamada-kun-to-7-nin-no-majo"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "246",

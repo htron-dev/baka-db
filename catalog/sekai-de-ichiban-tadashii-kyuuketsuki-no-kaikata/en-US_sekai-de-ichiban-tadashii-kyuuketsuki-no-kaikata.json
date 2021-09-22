@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban Tadashii Kyuuketsuki no Kaikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63621.jpg",
+        "alt": "sekai-de-ichiban-tadashii-kyuuketsuki-no-kaikata"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "I=P - Ichapani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159302.jpg",
+        "alt": "i-p-ichapani"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "I=P 　―いちゃぱに―",

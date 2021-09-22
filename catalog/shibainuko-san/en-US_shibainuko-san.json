@@ -1,5 +1,9 @@
 {
     "title": "Shibainuko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179950.jpg",
+        "alt": "shibainuko-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "108",

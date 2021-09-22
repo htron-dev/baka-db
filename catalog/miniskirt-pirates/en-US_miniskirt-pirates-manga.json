@@ -1,5 +1,9 @@
 {
     "title": "Miniskirt Pirates",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117851.jpg",
+        "alt": "miniskirt-pirates"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

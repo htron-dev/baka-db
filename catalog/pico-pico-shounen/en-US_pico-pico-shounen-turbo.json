@@ -1,5 +1,9 @@
 {
     "title": "Pico-Pico Shounen Turbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149902.jpg",
+        "alt": "pico-pico-shounen-turbo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Okaeri Aureole",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245521.jpg",
+        "alt": "okaeri-aureole"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

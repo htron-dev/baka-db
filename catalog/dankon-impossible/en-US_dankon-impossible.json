@@ -1,5 +1,9 @@
 {
     "title": "Dankon!! Impossible",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27315.jpg",
+        "alt": "dankon-impossible"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

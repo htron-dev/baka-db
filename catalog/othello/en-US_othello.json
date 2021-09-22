@@ -1,5 +1,9 @@
 {
     "title": "Othello",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42842.jpg",
+        "alt": "othello"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "オセロ",

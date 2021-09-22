@@ -1,5 +1,9 @@
 {
     "title": "Zetsuai 1989",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/73226.jpg",
+        "alt": "zetsuai-1989"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "絶愛-1989-",

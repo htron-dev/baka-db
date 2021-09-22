@@ -1,5 +1,9 @@
 {
     "title": "Jishou Kamisama wo Hiroimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241708.jpg",
+        "alt": "jishou-kamisama-wo-hiroimashita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "自称神様を拾いました",

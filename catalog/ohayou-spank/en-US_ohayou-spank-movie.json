@@ -1,5 +1,9 @@
 {
     "title": "Ohayou! Spank (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/53059.jpg",
+        "alt": "ohayou-spank-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おはよう! スパンク",

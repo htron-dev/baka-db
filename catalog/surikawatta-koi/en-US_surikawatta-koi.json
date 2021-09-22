@@ -1,5 +1,9 @@
 {
     "title": "Surikawatta Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229508.jpg",
+        "alt": "surikawatta-koi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

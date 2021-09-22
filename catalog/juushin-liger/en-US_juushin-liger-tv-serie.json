@@ -1,12 +1,16 @@
 {
     "title": "Juushin Liger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1809/93956.jpg",
+        "alt": "juushin-liger"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "獣神ライガー",
     "start_date": "1989-03-11",
     "end_date": "1989-03-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ikari no Juushin (怒りの獣神)\" by Hiroki Yumi",
+    "ending_song": "#1: \"The Fire\" by Hiroki Yumi (eps 1-28)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Jushin_Liger_(anime"
+            "link": "http://en.wikipedia.org/wiki/Jushin_Liger_%28anime%29"
         }
     ]
 }

@@ -1,12 +1,16 @@
 {
     "title": "Yu☆Gi☆Oh! Zexal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/40295.jpg",
+        "alt": "yu☆-gi☆-oh-zexal"
+    },
     "type": "tv-serie",
     "episodes": "73",
     "original_name": "遊 ☆ 戯 ☆ 王 ZEXAL",
     "start_date": "2011-04-11",
     "end_date": "2011-04-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Masterpiece (マスターピース)\" by mihimaru GT (eps 1-25)",
+    "ending_song": "#1: \"Boku Quest (僕クエスト)\" by Golden Bomber (eps 1- 25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Oyaji Ana no Mujina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42938.jpg",
+        "alt": "oyaji-ana-no-mujina"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

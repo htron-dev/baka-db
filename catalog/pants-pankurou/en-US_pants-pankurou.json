@@ -1,5 +1,9 @@
 {
     "title": "Pants Pankurou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/30215.jpg",
+        "alt": "pants-pankurou"
+    },
     "type": "tv-serie",
     "episodes": "85",
     "original_name": "パンツぱんくろう",

@@ -1,5 +1,9 @@
 {
     "title": "Bakuon!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114503.jpg",
+        "alt": "bakuon"
+    },
     "type": "manga",
     "original_name": "ばくおん!!",
     "start_date": "2011-02-15",

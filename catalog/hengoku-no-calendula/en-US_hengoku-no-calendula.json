@@ -1,5 +1,9 @@
 {
     "title": "Hengoku no Calendula",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194441.jpg",
+        "alt": "hengoku-no-calendula"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

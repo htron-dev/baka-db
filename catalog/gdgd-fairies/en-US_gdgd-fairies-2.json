@@ -1,5 +1,9 @@
 {
     "title": "gdgd Fairies 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/45350.jpg",
+        "alt": "gdgd-fairies-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "gdgd 妖精 s 2 期",

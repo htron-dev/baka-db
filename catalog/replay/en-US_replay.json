@@ -1,5 +1,9 @@
 {
     "title": "Replay",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238218.jpg",
+        "alt": "replay"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

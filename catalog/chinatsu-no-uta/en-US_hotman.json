@@ -1,5 +1,9 @@
 {
     "title": "Hotman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11840.jpg",
+        "alt": "hotman"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "167",

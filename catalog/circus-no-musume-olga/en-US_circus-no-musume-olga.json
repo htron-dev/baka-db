@@ -1,5 +1,9 @@
 {
     "title": "Circus no Musume Olga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224852.jpg",
+        "alt": "circus-no-musume-olga"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

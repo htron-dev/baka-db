@@ -1,5 +1,9 @@
 {
     "title": "Anitore! EX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/77048.jpg",
+        "alt": "anitore-ex"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あにトレ！ＥＸ",

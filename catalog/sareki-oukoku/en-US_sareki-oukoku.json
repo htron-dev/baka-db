@@ -1,5 +1,9 @@
 {
     "title": "Sareki Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201112.jpg",
+        "alt": "sareki-oukoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

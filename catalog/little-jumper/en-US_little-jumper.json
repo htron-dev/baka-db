@@ -1,5 +1,9 @@
 {
     "title": "Little Jumper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85343.jpg",
+        "alt": "little-jumper"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "49",

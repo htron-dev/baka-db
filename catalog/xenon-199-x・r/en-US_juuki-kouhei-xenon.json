@@ -1,5 +1,9 @@
 {
     "title": "Juuki Kouhei Xenon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113419.jpg",
+        "alt": "juuki-kouhei-xenon"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

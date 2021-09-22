@@ -1,5 +1,9 @@
 {
     "title": "Divergence Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/3570.jpg",
+        "alt": "divergence-eve"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ダイバージェンス・イヴ",

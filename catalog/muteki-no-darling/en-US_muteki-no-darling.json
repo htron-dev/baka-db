@@ -1,5 +1,9 @@
 {
     "title": "Muteki no Darling!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10157.jpg",
+        "alt": "muteki-no-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "無敵のダーリン!",

@@ -1,5 +1,9 @@
 {
     "title": "Kakutoshi no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177399.jpg",
+        "alt": "kakutoshi-no-yume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

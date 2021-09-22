@@ -1,5 +1,9 @@
 {
     "title": "Teisei Nenki Maitreya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7708.jpg",
+        "alt": "teisei-nenki-maitreya"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

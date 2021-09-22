@@ -1,5 +1,9 @@
 {
     "title": "Yotsuba Danshiryou Sensen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224024.jpg",
+        "alt": "yotsuba-danshiryou-sensen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

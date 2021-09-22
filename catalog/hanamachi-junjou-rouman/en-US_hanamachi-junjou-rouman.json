@@ -1,5 +1,9 @@
 {
     "title": "Hanamachi Junjou Rouman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153354.jpg",
+        "alt": "hanamachi-junjou-rouman"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "花街純情浪漫",

@@ -1,12 +1,16 @@
 {
     "title": "Kono Bijutsubu ni wa Mondai ga Aru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/80688.jpg",
+        "alt": "kono-bijutsubu-ni-wa-mondai-ga-aru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "この美術部には問題がある！",
     "start_date": "2016-07-08",
     "end_date": "2016-07-08",
     "opening_song": "\"STARTING NOW!\" by Nana Mizuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koisuru Zukei (cubic futurismo)\" by Sumire Uesaka (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

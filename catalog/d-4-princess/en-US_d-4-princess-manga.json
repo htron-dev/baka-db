@@ -1,5 +1,9 @@
 {
     "title": "D4 Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248297.jpg",
+        "alt": "d-4-princess"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

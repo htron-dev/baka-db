@@ -1,5 +1,9 @@
 {
     "title": "Ziggurat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40394.jpg",
+        "alt": "ziggurat"
+    },
     "type": "manga",
     "original_name": "Ziggurat",
     "start_date": "2009-05-27",

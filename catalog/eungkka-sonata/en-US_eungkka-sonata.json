@@ -1,5 +1,9 @@
 {
     "title": "Eungkka Sonata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1994/114509.jpg",
+        "alt": "eungkka-sonata"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "응까 소나타",

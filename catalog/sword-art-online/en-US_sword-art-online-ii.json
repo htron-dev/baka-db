@@ -1,12 +1,16 @@
 {
     "title": "Sword Art Online II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/65185.jpg",
+        "alt": "sword-art-online-ii"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ソードアート・オンライン II",
     "start_date": "2014-07-05",
     "end_date": "2014-07-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"IGNITE\" by Eir Aoi (eps 2-13)",
+    "ending_song": "#1: \"IGNITE\" by Eir Aoi (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

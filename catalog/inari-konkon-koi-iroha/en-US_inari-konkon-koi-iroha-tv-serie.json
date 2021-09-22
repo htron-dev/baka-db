@@ -1,12 +1,16 @@
 {
     "title": "Inari, Konkon, Koi Iroha.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/64897.jpg",
+        "alt": "inari-konkon-koi-iroha"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "いなり、こんこん、恋いろは。",
     "start_date": "2014-01-16",
     "end_date": "2014-01-16",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kyou ni Koiiro (今日に恋色)\" by May'n (eps 1-9)",
+    "ending_song": "#1: \"SAVED.\" by Maaya Sakamoto (eps 1-8)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

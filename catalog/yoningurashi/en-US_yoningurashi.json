@@ -1,5 +1,9 @@
 {
     "title": "Yoningurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47583.jpg",
+        "alt": "yoningurashi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "58",

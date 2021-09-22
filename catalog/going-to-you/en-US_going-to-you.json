@@ -1,5 +1,9 @@
 {
     "title": "Going to You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28717.jpg",
+        "alt": "going-to-you"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "48",

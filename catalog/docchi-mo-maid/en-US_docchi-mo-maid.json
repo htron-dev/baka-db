@@ -1,5 +1,9 @@
 {
     "title": "Docchi mo Maid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/73854.jpg",
+        "alt": "docchi-mo-maid"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "どっちもメイド",

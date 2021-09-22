@@ -1,5 +1,9 @@
 {
     "title": "Akkun to Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117389.jpg",
+        "alt": "akkun-to-kanojo"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "66",

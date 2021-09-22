@@ -1,5 +1,9 @@
 {
     "title": "And...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15450.jpg",
+        "alt": "and"
+    },
     "type": "manhwa",
     "chapters": "1",
     "start_date": "2008-01-20",

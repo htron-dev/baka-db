@@ -1,5 +1,9 @@
 {
     "title": "Paradise View",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116681.jpg",
+        "alt": "paradise-view"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

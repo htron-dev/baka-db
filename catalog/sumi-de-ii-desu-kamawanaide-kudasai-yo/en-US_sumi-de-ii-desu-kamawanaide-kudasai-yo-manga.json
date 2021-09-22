@@ -1,5 +1,9 @@
 {
     "title": "Sumi de Ii desu. Kamawanaide Kudasai yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225370.jpg",
+        "alt": "sumi-de-ii-desu-kamawanaide-kudasai-yo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

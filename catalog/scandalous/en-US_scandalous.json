@@ -1,5 +1,9 @@
 {
     "title": "Scandalous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62829.jpg",
+        "alt": "scandalous"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

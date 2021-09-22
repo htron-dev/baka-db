@@ -1,5 +1,9 @@
 {
     "title": "Akai Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2567.jpg",
+        "alt": "akai-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Doku ni mo Naranai Propose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225069.jpg",
+        "alt": "doku-ni-mo-naranai-propose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

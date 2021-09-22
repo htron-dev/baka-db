@@ -1,5 +1,9 @@
 {
     "title": "Munasawagi no Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245728.jpg",
+        "alt": "munasawagi-no-eve"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

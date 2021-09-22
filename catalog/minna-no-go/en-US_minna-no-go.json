@@ -1,5 +1,9 @@
 {
     "title": "Minna no Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86409.jpg",
+        "alt": "minna-no-go"
+    },
     "type": "manga",
     "original_name": "みんなの呉",
     "start_date": "2009-10-27",

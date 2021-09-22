@@ -1,5 +1,9 @@
 {
     "title": "MANA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30165.jpg",
+        "alt": "mana"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "22",

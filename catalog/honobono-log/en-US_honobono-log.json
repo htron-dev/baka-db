@@ -1,5 +1,9 @@
 {
     "title": "Honobono Log",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/80749.jpg",
+        "alt": "honobono-log"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ほのぼのログ",

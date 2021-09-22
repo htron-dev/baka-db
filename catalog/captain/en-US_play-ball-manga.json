@@ -1,5 +1,9 @@
 {
     "title": "Play Ball",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184249.jpg",
+        "alt": "play-ball"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "139",

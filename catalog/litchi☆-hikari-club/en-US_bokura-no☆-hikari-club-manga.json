@@ -1,5 +1,9 @@
 {
     "title": "Bokura no☆Hikari Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181385.jpg",
+        "alt": "bokura-no☆-hikari-club"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

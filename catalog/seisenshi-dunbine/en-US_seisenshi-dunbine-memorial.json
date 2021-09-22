@@ -1,5 +1,9 @@
 {
     "title": "Seisenshi Dunbine Memorial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/55405.jpg",
+        "alt": "seisenshi-dunbine-memorial"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "聖戦士ダンバイン 編集版",

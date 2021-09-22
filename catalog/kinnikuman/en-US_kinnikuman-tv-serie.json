@@ -1,12 +1,16 @@
 {
     "title": "Kinnikuman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/5182.jpg",
+        "alt": "kinnikuman"
+    },
     "type": "tv-serie",
     "episodes": "137",
     "original_name": "キン肉マン",
     "start_date": "1983-04-03",
     "end_date": "1983-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kinnikuman Go Fight!\" by Akira Kushida (eps 1-65)",
+    "ending_song": "#1: \"Niku 2x9 Rock 'n Roll\" by Akira Kushida (eps 1-65)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

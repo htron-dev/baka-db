@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72718.jpg",
+        "alt": "mahou-shoujo-lyrical-nanoha-vi-vid"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔法少女リリカルなのは ViVid",

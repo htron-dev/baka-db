@@ -1,5 +1,9 @@
 {
     "title": "Why",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/73609.jpg",
+        "alt": "why"
+    },
     "type": "movie",
     "episodes": "1",
     "start_date": "1975-01-19",

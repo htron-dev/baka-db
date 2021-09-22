@@ -1,5 +1,9 @@
 {
     "title": "Kimi wo Mawashitai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195941.jpg",
+        "alt": "kimi-wo-mawashitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "39",

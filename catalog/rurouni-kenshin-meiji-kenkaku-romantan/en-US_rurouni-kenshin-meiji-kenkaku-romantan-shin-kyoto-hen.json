@@ -1,11 +1,15 @@
 {
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/39663.jpg",
+        "alt": "rurouni-kenshin-meiji-kenkaku-romantan-shin-kyoto-hen"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "るろうに剣心-明治剣客浪漫譚- 新京都編",
     "start_date": "2011-12-17",
     "end_date": "2011-12-17",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nanairo no Kaze (七色の風)\" by Rina Sumioka (住岡梨奈)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Eden (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1621/114901.jpg",
+        "alt": "eden-ona"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "エデン",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Eden_(2021_TV_series"
+            "link": "https://en.wikipedia.org/wiki/Eden_%282021_TV_series%29"
         }
     ]
 }

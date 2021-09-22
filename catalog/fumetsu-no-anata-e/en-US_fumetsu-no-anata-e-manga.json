@@ -1,5 +1,9 @@
 {
     "title": "Fumetsu no Anata e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189781.jpg",
+        "alt": "fumetsu-no-anata-e"
+    },
     "type": "manga",
     "original_name": "不滅のあなたへ",
     "start_date": "2016-11-09",

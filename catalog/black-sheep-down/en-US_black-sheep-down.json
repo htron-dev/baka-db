@@ -1,5 +1,9 @@
 {
     "title": "Black Sheep Down",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121057.jpg",
+        "alt": "black-sheep-down"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

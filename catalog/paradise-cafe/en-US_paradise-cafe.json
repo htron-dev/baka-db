@@ -1,5 +1,9 @@
 {
     "title": "Paradise Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44849.jpg",
+        "alt": "paradise-cafe"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "パラタイス・カフェ",

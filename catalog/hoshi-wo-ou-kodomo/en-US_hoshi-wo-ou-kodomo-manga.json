@@ -1,5 +1,9 @@
 {
     "title": "Hoshi wo Ou Kodomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/99343.jpg",
+        "alt": "hoshi-wo-ou-kodomo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

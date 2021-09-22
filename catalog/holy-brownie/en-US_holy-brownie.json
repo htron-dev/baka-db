@@ -1,5 +1,9 @@
 {
     "title": "Holy Brownie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170595.jpg",
+        "alt": "holy-brownie"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "42",

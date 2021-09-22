@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka na Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10859.jpg",
+        "alt": "mayonaka-na-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "真夜中はオオカミ",

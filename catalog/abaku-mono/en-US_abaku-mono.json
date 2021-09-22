@@ -1,5 +1,9 @@
 {
     "title": "Abaku Mono!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236179.jpg",
+        "alt": "abaku-mono"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

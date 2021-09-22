@@ -1,5 +1,9 @@
 {
     "title": "Genshiken Nidaime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/52935.jpg",
+        "alt": "genshiken-nidaime"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "げんしけん 二代目",

@@ -1,5 +1,9 @@
 {
     "title": "Ibitsu na Ai no Yoake wo Matsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247173.jpg",
+        "alt": "ibitsu-na-ai-no-yoake-wo-matsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

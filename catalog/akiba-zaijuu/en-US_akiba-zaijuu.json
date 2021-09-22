@@ -1,5 +1,9 @@
 {
     "title": "Akiba Zaijuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4639.jpg",
+        "alt": "akiba-zaijuu"
+    },
     "type": "manga",
     "chapters": "9",
     "original_name": "アキバザイジュウ",

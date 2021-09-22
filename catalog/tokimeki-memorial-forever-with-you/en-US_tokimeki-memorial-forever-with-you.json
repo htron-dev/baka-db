@@ -1,12 +1,16 @@
 {
     "title": "Tokimeki Memorial: Forever With You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/29906.jpg",
+        "alt": "tokimeki-memorial-forever-with-you"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ときめきメモリアル 〜forever with you〜",
     "start_date": "1999-06-17",
     "end_date": "1999-06-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Motto! Motto! Tokimeki\" by Shiori Fujisaki (Mami Kingetsu) (Ep 1)",
+    "ending_song": "#1: \"MAYBE LOVE\" by Shiori Fujisaki (Mami Kingetsu) (Ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Erzsébet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208546.jpg",
+        "alt": "erzsebet"
+    },
     "type": "manga",
     "original_name": "エルジェーベト",
     "start_date": "2017-04-07",

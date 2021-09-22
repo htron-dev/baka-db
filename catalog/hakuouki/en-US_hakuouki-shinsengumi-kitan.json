@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki Shinsengumi Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/210017.jpg",
+        "alt": "hakuouki-shinsengumi-kitan"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "薄桜鬼",

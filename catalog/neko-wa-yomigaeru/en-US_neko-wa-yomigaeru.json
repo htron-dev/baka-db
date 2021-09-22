@@ -1,5 +1,9 @@
 {
     "title": "Neko wa Yomigaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200576.jpg",
+        "alt": "neko-wa-yomigaeru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

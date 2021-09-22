@@ -1,12 +1,16 @@
 {
     "title": "Kiratto Pri☆chan Season 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1616/103082.jpg",
+        "alt": "kiratto-pri☆chan-season-2"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "キラッとプリ ☆ チャン シーズン 2",
     "start_date": "2019-04-07",
     "end_date": "2019-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Diamond Smile (ダイヤモンドスマイル)\" by Run Girls, Run!",
+    "ending_song": "#1: \"Janken Kiratto! Pri☆chan (じゃんけんキラッと！プリ ☆ チャン)\" by Mirai Momoyama (Koko Hayashi)",
     "rating": "PG - Children",
     "tags": [
         "music",

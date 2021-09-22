@@ -1,5 +1,9 @@
 {
     "title": "Anne no Seishun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29999.jpg",
+        "alt": "anne-no-seishun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Gene Diver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/8536.jpg",
+        "alt": "gene-diver"
+    },
     "type": "tv-serie",
     "episodes": "56",
     "original_name": "ジーンダイバー",

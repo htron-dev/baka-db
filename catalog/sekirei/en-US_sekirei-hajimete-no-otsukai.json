@@ -1,5 +1,9 @@
 {
     "title": "Sekirei: Hajimete no Otsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/22580.jpg",
+        "alt": "sekirei-hajimete-no-otsukai"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "セキレイ「初メテノオツカイ」",

@@ -1,5 +1,9 @@
 {
     "title": "Kingdom Hearts III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243041.jpg",
+        "alt": "kingdom-hearts-iii"
+    },
     "type": "manga",
     "original_name": "キングダム ハーツ III",
     "start_date": "2019-04-29",

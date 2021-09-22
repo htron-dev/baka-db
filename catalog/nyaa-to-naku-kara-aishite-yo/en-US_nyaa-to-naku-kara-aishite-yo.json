@@ -1,5 +1,9 @@
 {
     "title": "Nyaa to Naku kara Aishite yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208339.jpg",
+        "alt": "nyaa-to-naku-kara-aishite-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

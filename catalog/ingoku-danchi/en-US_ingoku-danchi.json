@@ -1,5 +1,9 @@
 {
     "title": "Ingoku Danchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246167.jpg",
+        "alt": "ingoku-danchi"
+    },
     "type": "manga",
     "original_name": "淫獄団地",
     "start_date": "2021-01-08",

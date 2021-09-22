@@ -1,5 +1,9 @@
 {
     "title": "Hareluya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/10451.jpg",
+        "alt": "hareluya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

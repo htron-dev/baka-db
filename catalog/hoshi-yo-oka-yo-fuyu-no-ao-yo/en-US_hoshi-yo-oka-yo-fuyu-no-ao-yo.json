@@ -1,5 +1,9 @@
 {
     "title": "Hoshi yo Oka yo Fuyu no Ao yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18667.jpg",
+        "alt": "hoshi-yo-oka-yo-fuyu-no-ao-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

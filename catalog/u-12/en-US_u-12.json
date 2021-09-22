@@ -1,5 +1,9 @@
 {
     "title": "U12",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163667.jpg",
+        "alt": "u-12"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "52",

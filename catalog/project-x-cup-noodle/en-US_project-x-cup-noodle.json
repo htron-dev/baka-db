@@ -1,5 +1,9 @@
 {
     "title": "Project X: Cup Noodle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24723.jpg",
+        "alt": "project-x-cup-noodle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

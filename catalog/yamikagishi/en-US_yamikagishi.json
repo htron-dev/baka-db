@@ -1,5 +1,9 @@
 {
     "title": "Yamikagishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64451.jpg",
+        "alt": "yamikagishi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

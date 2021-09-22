@@ -1,5 +1,9 @@
 {
     "title": "Hariyama-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33959.jpg",
+        "alt": "hariyama-san"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "世界の中心､針山さん",

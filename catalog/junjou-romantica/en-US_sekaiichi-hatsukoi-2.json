@@ -1,5 +1,9 @@
 {
     "title": "Sekaiichi Hatsukoi 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/34871.jpg",
+        "alt": "sekaiichi-hatsukoi-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "世界一初恋 2",

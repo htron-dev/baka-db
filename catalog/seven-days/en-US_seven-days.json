@@ -1,5 +1,9 @@
 {
     "title": "Seven Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130103.jpg",
+        "alt": "seven-days"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

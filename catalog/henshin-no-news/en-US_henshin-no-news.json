@@ -1,5 +1,9 @@
 {
     "title": "Henshin no News",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154750.jpg",
+        "alt": "henshin-no-news"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

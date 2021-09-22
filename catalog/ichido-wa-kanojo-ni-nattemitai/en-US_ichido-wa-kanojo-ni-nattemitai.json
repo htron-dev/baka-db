@@ -1,5 +1,9 @@
 {
     "title": "Ichido wa Kanojo ni Nattemitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221768.jpg",
+        "alt": "ichido-wa-kanojo-ni-nattemitai"
+    },
     "type": "manga",
     "original_name": "一度は彼女になってみたい！",
     "start_date": "2018-09-22",

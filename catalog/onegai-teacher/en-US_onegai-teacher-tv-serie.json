@@ -1,12 +1,16 @@
 {
     "title": "Onegai☆Teacher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/5241.jpg",
+        "alt": "onegai☆-teacher"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "おねがい ☆ ティーチャー",
     "start_date": "2002-01-10",
     "end_date": "2002-01-10",
     "opening_song": "\"Shooting Star\" by Kotoko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sora no Mori De\" by Mami Kawada [ Eps 1-11 ]",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

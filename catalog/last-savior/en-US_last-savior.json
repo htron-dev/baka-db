@@ -1,5 +1,9 @@
 {
     "title": "Last Savior",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160761.jpg",
+        "alt": "last-savior"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ラストセイバー",

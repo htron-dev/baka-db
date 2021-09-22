@@ -1,5 +1,9 @@
 {
     "title": "Full Metal Panic! Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166128.jpg",
+        "alt": "full-metal-panic-tanpenshuu"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "51",

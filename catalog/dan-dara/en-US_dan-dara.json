@@ -1,5 +1,9 @@
 {
     "title": "Dan-dara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45306.jpg",
+        "alt": "dan-dara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ダンダラ",

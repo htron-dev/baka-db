@@ -1,5 +1,9 @@
 {
     "title": "Marude Dameo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/52971.jpg",
+        "alt": "marude-dameo"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "丸出だめ夫",

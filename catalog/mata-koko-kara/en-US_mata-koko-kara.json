@@ -1,5 +1,9 @@
 {
     "title": "Mata, Koko kara!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135635.jpg",
+        "alt": "mata-koko-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

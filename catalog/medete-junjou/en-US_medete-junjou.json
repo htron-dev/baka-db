@@ -1,5 +1,9 @@
 {
     "title": "Medete, Junjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168929.jpg",
+        "alt": "medete-junjou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

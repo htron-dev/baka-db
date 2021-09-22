@@ -1,5 +1,9 @@
 {
     "title": "Re:birth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238550.jpg",
+        "alt": "re-birth"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

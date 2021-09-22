@@ -1,5 +1,9 @@
 {
     "title": "Hoshiful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15979.jpg",
+        "alt": "hoshiful"
+    },
     "type": "manga",
     "original_name": "ほしフル ～星藤学園天文同好会～",
     "start_date": "2007-07-26",

@@ -1,5 +1,9 @@
 {
     "title": "Sentou Megami Anunga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137549.jpg",
+        "alt": "sentou-megami-anunga"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

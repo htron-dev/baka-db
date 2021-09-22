@@ -1,5 +1,9 @@
 {
     "title": "Kiniro no Corda: Blue♪Sky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119923.jpg",
+        "alt": "kiniro-no-corda-blue♪-sky"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

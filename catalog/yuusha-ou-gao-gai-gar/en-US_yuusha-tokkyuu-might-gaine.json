@@ -1,12 +1,16 @@
 {
     "title": "Yuusha Tokkyuu Might Gaine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1352/91072.jpg",
+        "alt": "yuusha-tokkyuu-might-gaine"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "勇者特急マイトガイン",
     "start_date": "1993-01-30",
     "end_date": "1993-01-30",
     "opening_song": "\"Arashi no Hero\" by Yuzuru Oka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kiken na Gold (危険なゴールド)\" by Marie Cochrane (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "action",

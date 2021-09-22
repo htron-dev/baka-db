@@ -1,12 +1,16 @@
 {
     "title": "Bakuman.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/26138.jpg",
+        "alt": "bakuman"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "バクマン。",
     "start_date": "2010-10-02",
     "end_date": "2010-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Blue Bird\" by Kobukuro (eps 1-24)",
+    "ending_song": "#1: \"BAKUROCK ~Mirai no Rinkakusen~ (BAKUROCK 〜未来の輪郭線〜)\" by YA-KYIM (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

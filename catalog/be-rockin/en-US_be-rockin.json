@@ -1,5 +1,9 @@
 {
     "title": "Be Rockin'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1109/98337.jpg",
+        "alt": "be-rockin"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "Be Rockin'",

@@ -1,5 +1,9 @@
 {
     "title": "Senran Kagura Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/67249.jpg",
+        "alt": "senran-kagura-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "閃乱カグラ",

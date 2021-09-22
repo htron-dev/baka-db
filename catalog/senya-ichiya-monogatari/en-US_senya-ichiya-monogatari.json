@@ -1,5 +1,9 @@
 {
     "title": "Senya Ichiya Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/39379.jpg",
+        "alt": "senya-ichiya-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "千夜一夜物語",

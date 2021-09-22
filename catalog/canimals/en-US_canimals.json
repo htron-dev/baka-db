@@ -1,5 +1,9 @@
 {
     "title": "Canimals",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1533/114467.jpg",
+        "alt": "canimals"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "캐니멀",

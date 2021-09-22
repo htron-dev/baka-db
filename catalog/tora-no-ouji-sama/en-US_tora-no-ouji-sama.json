@@ -1,5 +1,9 @@
 {
     "title": "Tora no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153658.jpg",
+        "alt": "tora-no-ouji-sama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "虎の王子様",

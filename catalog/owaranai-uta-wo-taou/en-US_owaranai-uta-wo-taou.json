@@ -1,5 +1,9 @@
 {
     "title": "Owaranai Uta wo Taou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23280.jpg",
+        "alt": "owaranai-uta-wo-taou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "終わらない歌をうたおう!",

@@ -1,5 +1,9 @@
 {
     "title": "Tsuki Yadoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/71877.jpg",
+        "alt": "tsuki-yadoru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

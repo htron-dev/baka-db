@@ -1,5 +1,9 @@
 {
     "title": "The Horizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229331.jpg",
+        "alt": "the-horizon"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "21",

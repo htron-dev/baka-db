@@ -1,5 +1,9 @@
 {
     "title": "Project Scard: Praeter no Kizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1239/111647.jpg",
+        "alt": "project-scard-praeter-no-kizu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "PROJECT SCARD プレイタの傷",

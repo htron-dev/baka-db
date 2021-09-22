@@ -1,5 +1,9 @@
 {
     "title": "Shinseiki Evangelion: Pikopiko Chuugakusei Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210797.jpg",
+        "alt": "shinseiki-evangelion-pikopiko-chuugakusei-densetsu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "70",

@@ -1,5 +1,9 @@
 {
     "title": "Toubou Kyuukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22450.jpg",
+        "alt": "toubou-kyuukou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Lancelot Full Throttle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205100.jpg",
+        "alt": "lancelot-full-throttle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

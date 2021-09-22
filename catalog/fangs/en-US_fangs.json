@@ -1,5 +1,9 @@
 {
     "title": "Fangs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236997.jpg",
+        "alt": "fangs"
+    },
     "type": "manga",
     "original_name": "FANGS",
     "start_date": "2019-06-08",

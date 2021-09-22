@@ -1,5 +1,9 @@
 {
     "title": "Butsu Zone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74087.jpg",
+        "alt": "butsu-zone"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

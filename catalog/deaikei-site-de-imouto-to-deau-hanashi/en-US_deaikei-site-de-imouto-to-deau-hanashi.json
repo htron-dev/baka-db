@@ -1,5 +1,9 @@
 {
     "title": "Deaikei Site de Imouto to Deau Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198579.jpg",
+        "alt": "deaikei-site-de-imouto-to-deau-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

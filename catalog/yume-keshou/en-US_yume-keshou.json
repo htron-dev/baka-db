@@ -1,5 +1,9 @@
 {
     "title": "Yume Keshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235745.jpg",
+        "alt": "yume-keshou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

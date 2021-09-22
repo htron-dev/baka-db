@@ -1,5 +1,9 @@
 {
     "title": "Juukei Hanazono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34213.jpg",
+        "alt": "juukei-hanazono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

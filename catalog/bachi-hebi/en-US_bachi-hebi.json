@@ -1,5 +1,9 @@
 {
     "title": "Bachi Hebi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186825.jpg",
+        "alt": "bachi-hebi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

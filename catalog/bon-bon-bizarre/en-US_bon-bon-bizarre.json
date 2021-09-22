@@ -1,5 +1,9 @@
 {
     "title": "Bon Bon Bizarre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91751.jpg",
+        "alt": "bon-bon-bizarre"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ボンボンビザール",

@@ -1,5 +1,9 @@
 {
     "title": "Jupiter: THE IDOLM@STER",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100671.jpg",
+        "alt": "jupiter-the-idolm-ster"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Jupiter ～ THE IDOLM@STER ～",

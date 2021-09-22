@@ -1,5 +1,9 @@
 {
     "title": "Nante Zurui Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10310.jpg",
+        "alt": "nante-zurui-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

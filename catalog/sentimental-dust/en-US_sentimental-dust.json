@@ -1,5 +1,9 @@
 {
     "title": "Sentimental Dust",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148861.jpg",
+        "alt": "sentimental-dust"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

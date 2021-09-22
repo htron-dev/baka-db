@@ -1,5 +1,9 @@
 {
     "title": "Kamome no Koto wa Yoku Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242503.jpg",
+        "alt": "kamome-no-koto-wa-yoku-shiranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

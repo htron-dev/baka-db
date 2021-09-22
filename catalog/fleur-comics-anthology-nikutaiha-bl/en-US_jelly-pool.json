@@ -1,5 +1,9 @@
 {
     "title": "Jelly Pool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246008.jpg",
+        "alt": "jelly-pool"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

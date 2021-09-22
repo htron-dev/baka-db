@@ -1,5 +1,9 @@
 {
     "title": "Tooi Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1427/103656.jpg",
+        "alt": "tooi-sekai"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "遠い世界",

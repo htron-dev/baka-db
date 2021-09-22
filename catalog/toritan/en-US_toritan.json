@@ -1,5 +1,9 @@
 {
     "title": "Toritan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244303.jpg",
+        "alt": "toritan"
+    },
     "type": "manga",
     "original_name": "とりたん",
     "start_date": "2017-03-22",

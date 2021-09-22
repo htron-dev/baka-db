@@ -1,5 +1,9 @@
 {
     "title": "Sonic the Hedgehog Story Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242017.jpg",
+        "alt": "sonic-the-hedgehog-story-comic"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ソニック・ザ・ヘッジホッグ ストーリーコミック",

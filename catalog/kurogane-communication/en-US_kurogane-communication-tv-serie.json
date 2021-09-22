@@ -1,5 +1,9 @@
 {
     "title": "Kurogane Communication",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/25228.jpg",
+        "alt": "kurogane-communication"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "鉄コミュニケイション",

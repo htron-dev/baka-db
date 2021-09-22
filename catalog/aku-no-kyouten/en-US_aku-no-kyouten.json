@@ -1,5 +1,9 @@
 {
     "title": "Aku no Kyouten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157762.jpg",
+        "alt": "aku-no-kyouten"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "36",

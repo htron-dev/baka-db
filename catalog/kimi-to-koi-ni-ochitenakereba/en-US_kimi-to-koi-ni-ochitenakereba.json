@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Koi ni Ochitenakereba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227620.jpg",
+        "alt": "kimi-to-koi-ni-ochitenakereba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

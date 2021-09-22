@@ -1,5 +1,9 @@
 {
     "title": "At Laz Meridian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20699.jpg",
+        "alt": "at-laz-meridian"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

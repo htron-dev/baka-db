@@ -1,5 +1,9 @@
 {
     "title": "Gekkouju",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25038.jpg",
+        "alt": "gekkouju"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "月光樹",

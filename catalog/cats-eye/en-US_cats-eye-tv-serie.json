@@ -1,12 +1,16 @@
 {
     "title": "Cat's Eye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1864/96171.jpg",
+        "alt": "cats-eye"
+    },
     "type": "tv-serie",
     "episodes": "73",
     "original_name": "キャッツ・アイ",
     "start_date": "1983-07-11",
     "end_date": "1983-07-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Cat's Eye\" by Anri (eps 1-36)",
+    "ending_song": "#1: \"Dancing with the sunshine\" by Anri (eps 1-36)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Cat's_Eye_(manga"
+            "link": "http://en.wikipedia.org/wiki/Cat's_Eye_%28manga%29#Anime"
         }
     ]
 }

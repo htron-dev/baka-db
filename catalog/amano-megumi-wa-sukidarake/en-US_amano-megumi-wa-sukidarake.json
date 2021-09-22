@@ -1,5 +1,9 @@
 {
     "title": "Amano Megumi wa Sukidarake!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188835.jpg",
+        "alt": "amano-megumi-wa-sukidarake"
+    },
     "type": "manga",
     "original_name": "天野めぐみはスキだらけ！",
     "start_date": "2015-08-25",

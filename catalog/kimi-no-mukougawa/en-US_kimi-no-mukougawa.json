@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Mukougawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86139.jpg",
+        "alt": "kimi-no-mukougawa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

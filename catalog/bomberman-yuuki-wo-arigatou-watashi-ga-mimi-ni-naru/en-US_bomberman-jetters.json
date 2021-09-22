@@ -1,12 +1,16 @@
 {
     "title": "Bomberman Jetters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/54335.jpg",
+        "alt": "bomberman-jetters"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ボンバーマン ジェッターズ",
     "start_date": "2002-10-02",
     "end_date": "2002-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Boku wa gakeppuchi\" by Suwa Hideo (eps 1-42)",
+    "ending_song": "#1: \"Chiisana koro no chiisana kiyoku\" by Asuka Matsumoto (eps 1-36)",
     "rating": "G - All Ages",
     "tags": [
         "action",

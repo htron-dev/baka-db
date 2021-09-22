@@ -1,5 +1,9 @@
 {
     "title": "Keitai Denjuu Telefang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154692.jpg",
+        "alt": "keitai-denjuu-telefang"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Aoi Tori Tsukamaete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194548.jpg",
+        "alt": "aoi-tori-tsukamaete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "青い鳥つかまえて",

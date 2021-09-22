@@ -1,5 +1,9 @@
 {
     "title": "Akai Hebi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19079.jpg",
+        "alt": "akai-hebi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

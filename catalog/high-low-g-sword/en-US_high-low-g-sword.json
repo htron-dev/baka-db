@@ -1,5 +1,9 @@
 {
     "title": "High & Low: G-Sword",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201951.jpg",
+        "alt": "high-low-g-sword"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

@@ -1,12 +1,16 @@
 {
     "title": "Yuusha-Ou GaoGaiGar Final",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1735/95499.jpg",
+        "alt": "yuusha-ou-gao-gai-gar-final"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "勇者王ガオガイガー FINAL",
     "start_date": "2000-01-21",
     "end_date": "2000-01-21",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Yuusha-oh Tanjou (Mythology Version)\" by Massaki Endoh (eps 2-6)",
+    "ending_song": "#01: \"Lion Renias\" by Saeko Suzuki (eps 1-7)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

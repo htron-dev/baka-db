@@ -1,11 +1,15 @@
 {
     "title": "Koko wa Green Wood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1804.jpg",
+        "alt": "koko-wa-green-wood"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ここはグリーン・ウッド",
     "start_date": "1991-11-22",
     "end_date": "1991-11-22",
-    "ending_song": "#01-06",
+    "ending_song": "#01-06: \"No Brand Heroes\" by Chika Sakamoto",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

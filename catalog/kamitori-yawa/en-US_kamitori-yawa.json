@@ -1,5 +1,9 @@
 {
     "title": "Kamitori Yawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224283.jpg",
+        "alt": "kamitori-yawa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

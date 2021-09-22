@@ -1,5 +1,9 @@
 {
     "title": "Kayoe! Chuugaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1305/96062.jpg",
+        "alt": "kayoe-chuugaku"
+    },
     "type": "tv-serie",
     "episodes": "425",
     "original_name": "かよえ！チュー学",

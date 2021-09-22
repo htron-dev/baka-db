@@ -1,5 +1,9 @@
 {
     "title": "Seikimatsu Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221923.jpg",
+        "alt": "seikimatsu-blue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

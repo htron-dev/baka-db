@@ -1,12 +1,16 @@
 {
     "title": "Kaitou Tenshi Twin Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/10017.jpg",
+        "alt": "kaitou-tenshi-twin-angel"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "快盗天使ツインエンジェル",
     "start_date": "2008-08-08",
     "end_date": "2008-08-08",
     "opening_song": "\"Angel-like ni★LOVEly-tai!!\" by ave;new Feat. Saori Sakura & Miyu Inoue (ep 2)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Angel-like ni★LOVEly-tai!!\" by ave;new Feat. Saori Sakura & Miyu Inoue (ep1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "magic"

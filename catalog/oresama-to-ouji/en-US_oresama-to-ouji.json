@@ -1,5 +1,9 @@
 {
     "title": "Oresama to Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34364.jpg",
+        "alt": "oresama-to-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "俺様と王子",

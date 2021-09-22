@@ -1,5 +1,9 @@
 {
     "title": "Kiiroi Hana no Aka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164233.jpg",
+        "alt": "kiiroi-hana-no-aka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

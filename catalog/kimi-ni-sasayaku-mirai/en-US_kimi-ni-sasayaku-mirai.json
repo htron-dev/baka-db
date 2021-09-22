@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Sasayaku Mirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148229.jpg",
+        "alt": "kimi-ni-sasayaku-mirai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

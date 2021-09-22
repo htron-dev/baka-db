@@ -1,5 +1,9 @@
 {
     "title": "Deadman Wonderland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75299.jpg",
+        "alt": "deadman-wonderland"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "デッドマン・ワンダーランド",

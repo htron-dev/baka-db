@@ -1,5 +1,9 @@
 {
     "title": "Boku to Senpai-tachi wa Omo ni Hakken Shiteimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164227.jpg",
+        "alt": "boku-to-senpai-tachi-wa-omo-ni-hakken-shiteimasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

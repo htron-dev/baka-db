@@ -1,5 +1,9 @@
 {
     "title": "Akuma mo Fumu wo Osoreru Tokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165907.jpg",
+        "alt": "akuma-mo-fumu-wo-osoreru-tokoro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

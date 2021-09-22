@@ -1,5 +1,9 @@
 {
     "title": "Ore no Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185492.jpg",
+        "alt": "ore-no-kingdom"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "110",

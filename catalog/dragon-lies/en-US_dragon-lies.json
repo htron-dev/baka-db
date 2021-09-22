@@ -1,5 +1,9 @@
 {
     "title": "Dragon Lies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171372.jpg",
+        "alt": "dragon-lies"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "21",

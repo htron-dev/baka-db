@@ -1,5 +1,9 @@
 {
     "title": "Etotama Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/74664.jpg",
+        "alt": "etotama-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "えとたま（干支魂）TV 未公開ショートエピソード",

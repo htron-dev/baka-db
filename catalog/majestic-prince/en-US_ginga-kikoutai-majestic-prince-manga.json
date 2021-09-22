@@ -1,5 +1,9 @@
 {
     "title": "Ginga Kikoutai Majestic Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172153.jpg",
+        "alt": "ginga-kikoutai-majestic-prince"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

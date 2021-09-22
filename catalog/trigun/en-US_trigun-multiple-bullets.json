@@ -1,5 +1,9 @@
 {
     "title": "Trigun: Multiple Bullets",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/86599.jpg",
+        "alt": "trigun-multiple-bullets"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

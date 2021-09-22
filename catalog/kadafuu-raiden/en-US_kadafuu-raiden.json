@@ -1,5 +1,9 @@
 {
     "title": "Kadafuu Raiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90357.jpg",
+        "alt": "kadafuu-raiden"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "華佗風来伝",

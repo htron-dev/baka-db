@@ -1,5 +1,9 @@
 {
     "title": "Chocolate Cosmos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180605.jpg",
+        "alt": "chocolate-cosmos"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

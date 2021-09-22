@@ -1,5 +1,9 @@
 {
     "title": "Daiku no Hatou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200940.jpg",
+        "alt": "daiku-no-hatou"
+    },
     "type": "manga",
     "original_name": "第九の波濤",
     "start_date": "2017-04-19",

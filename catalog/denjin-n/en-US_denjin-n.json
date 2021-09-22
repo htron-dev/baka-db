@@ -1,5 +1,9 @@
 {
     "title": "Denjin N",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224377.jpg",
+        "alt": "denjin-n"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

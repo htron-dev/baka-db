@@ -1,5 +1,9 @@
 {
     "title": "Sister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158197.jpg",
+        "alt": "sister"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "여동생",

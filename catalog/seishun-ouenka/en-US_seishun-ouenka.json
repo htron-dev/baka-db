@@ -1,5 +1,9 @@
 {
     "title": "Seishun, Ouenka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128959.jpg",
+        "alt": "seishun-ouenka"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "青春、応援歌",

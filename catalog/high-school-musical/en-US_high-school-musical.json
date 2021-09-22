@@ -1,5 +1,9 @@
 {
     "title": "High School Musical",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/215358.jpg",
+        "alt": "high-school-musical"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ハイスクール・ミュージカル",

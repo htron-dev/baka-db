@@ -1,5 +1,9 @@
 {
     "title": "Manzai Taikouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/63535.jpg",
+        "alt": "manzai-taikouki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マンザイ太閤記",

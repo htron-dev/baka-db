@@ -1,5 +1,9 @@
 {
     "title": "Akuma no Ororon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161256.jpg",
+        "alt": "akuma-no-ororon"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

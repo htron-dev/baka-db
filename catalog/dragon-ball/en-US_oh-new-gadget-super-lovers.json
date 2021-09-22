@@ -1,5 +1,9 @@
 {
     "title": "Oh!! New Gadget Super Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248528.jpg",
+        "alt": "oh-new-gadget-super-lovers"
+    },
     "type": "manga",
     "start_date": "2008-09-20",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Kaidanbayashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236840.jpg",
+        "alt": "kaidanbayashi"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "怪談囃子",

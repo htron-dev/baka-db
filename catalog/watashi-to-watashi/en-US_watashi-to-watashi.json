@@ -1,5 +1,9 @@
 {
     "title": "Watashi to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206007.jpg",
+        "alt": "watashi-to-watashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

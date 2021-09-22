@@ -1,5 +1,9 @@
 {
     "title": "Keitai ga Ochiteita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24670.jpg",
+        "alt": "keitai-ga-ochiteita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

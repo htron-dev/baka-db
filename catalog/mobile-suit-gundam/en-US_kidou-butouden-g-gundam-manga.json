@@ -1,5 +1,9 @@
 {
     "title": "Kidou Butouden G Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25978.jpg",
+        "alt": "kidou-butouden-g-gundam"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Mimi no Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/25805.jpg",
+        "alt": "mimi-no-kaidan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

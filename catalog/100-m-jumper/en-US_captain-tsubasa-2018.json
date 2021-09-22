@@ -1,12 +1,16 @@
 {
     "title": "Captain Tsubasa (2018)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1866/91270.jpg",
+        "alt": "captain-tsubasa-2018"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "キャプテン翼",
     "start_date": "2018-04-03",
     "end_date": "2018-04-03",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Start Dash! (スタートダッシュ！)\" by Johnny's West (eps 1-28)",
+    "ending_song": "#01: \"Moete Hero (燃えてヒーロー)\" by Tsubasa Oozora (Yuuko Sanpei)",
     "rating": "G - All Ages",
     "tags": [
         "action",

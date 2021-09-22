@@ -1,5 +1,9 @@
 {
     "title": "Fate/Grand Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1405/107244.jpg",
+        "alt": "fate-grand-order"
+    },
     "type": "special",
     "original_name": "Fate/Grand Order",
     "start_date": "2014-12-27",

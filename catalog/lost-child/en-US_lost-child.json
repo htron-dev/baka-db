@@ -1,5 +1,9 @@
 {
     "title": "Lost Child",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28955.jpg",
+        "alt": "lost-child"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

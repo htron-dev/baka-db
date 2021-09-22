@@ -1,12 +1,16 @@
 {
     "title": "Chu-Bra!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1130/91352.jpg",
+        "alt": "chu-bra"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ちゅーぶら!!",
     "start_date": "2010-01-04",
     "end_date": "2010-01-04",
     "opening_song": "\"Choose Bright!!\" by Minori Chihara, Minako Kotobuki, Sayuri Yahagi and Yoko Hikasa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shy Girls\" by Minori Chihara, Minako Kotobuki, Sayuri Yahagi and Yoko Hikasa (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "ecchi",

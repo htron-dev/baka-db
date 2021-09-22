@@ -1,5 +1,9 @@
 {
     "title": "Ai ga Areba Daijoubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80095.jpg",
+        "alt": "ai-ga-areba-daijoubu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

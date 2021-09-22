@@ -1,5 +1,9 @@
 {
     "title": "End Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39665.jpg",
+        "alt": "end-game"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

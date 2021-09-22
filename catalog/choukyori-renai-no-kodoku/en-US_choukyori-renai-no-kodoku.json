@@ -1,5 +1,9 @@
 {
     "title": "Choukyori Renai no Kodoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18420.jpg",
+        "alt": "choukyori-renai-no-kodoku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

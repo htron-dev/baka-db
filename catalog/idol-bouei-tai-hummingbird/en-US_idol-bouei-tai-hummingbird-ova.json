@@ -1,12 +1,16 @@
 {
     "title": "Idol Bouei-tai Hummingbird",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/44085.jpg",
+        "alt": "idol-bouei-tai-hummingbird"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "アイドル防衛隊ハミングバード",
     "start_date": "1993-09-01",
     "end_date": "1993-09-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Love Wing\" by Fumie Kusachi (ep 1)",
+    "ending_song": "#1: \"Furareta Nante Omottenai kara (ふられたなんて思ってないから)\" by Humming Bird (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "military",

@@ -1,5 +1,9 @@
 {
     "title": "Hana Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152168.jpg",
+        "alt": "hana-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

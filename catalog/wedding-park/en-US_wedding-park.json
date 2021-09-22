@@ -1,5 +1,9 @@
 {
     "title": "Wedding Park",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1281/97347.jpg",
+        "alt": "wedding-park"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ウエディングパーク",

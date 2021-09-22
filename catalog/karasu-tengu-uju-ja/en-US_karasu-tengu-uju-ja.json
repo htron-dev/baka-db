@@ -1,5 +1,9 @@
 {
     "title": "Karasu Tengu Uju Ja!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202356.jpg",
+        "alt": "karasu-tengu-uju-ja"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "38",

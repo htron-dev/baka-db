@@ -1,5 +1,9 @@
 {
     "title": "Hime to Knight to, Tonari no Watashi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147021.jpg",
+        "alt": "hime-to-knight-to-tonari-no-watashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Orera Kourin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40664.jpg",
+        "alt": "orera-kourin"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "オレら降臨！ 愛とか恋とか世界とか",

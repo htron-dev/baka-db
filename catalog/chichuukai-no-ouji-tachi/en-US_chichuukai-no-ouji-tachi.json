@@ -1,5 +1,9 @@
 {
     "title": "Chichuukai no Ouji-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230166.jpg",
+        "alt": "chichuukai-no-ouji-tachi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "地中海の王子たち",

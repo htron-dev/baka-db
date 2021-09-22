@@ -1,5 +1,9 @@
 {
     "title": "Ryuuen Tsukai no Kiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162676.jpg",
+        "alt": "ryuuen-tsukai-no-kiba"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

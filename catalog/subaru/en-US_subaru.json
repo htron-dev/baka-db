@@ -1,5 +1,9 @@
 {
     "title": "Subaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36574.jpg",
+        "alt": "subaru"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "123",

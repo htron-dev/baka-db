@@ -1,5 +1,9 @@
 {
     "title": "Kazoku no Sore kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137529.jpg",
+        "alt": "kazoku-no-sore-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

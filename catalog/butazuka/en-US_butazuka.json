@@ -1,5 +1,9 @@
 {
     "title": "Butazuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/71509.jpg",
+        "alt": "butazuka"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "ブタヅカ",

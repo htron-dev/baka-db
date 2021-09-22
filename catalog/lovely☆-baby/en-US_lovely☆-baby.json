@@ -1,5 +1,9 @@
 {
     "title": "Lovely☆Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186213.jpg",
+        "alt": "lovely☆-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

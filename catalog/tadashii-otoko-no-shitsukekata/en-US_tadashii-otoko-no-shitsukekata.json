@@ -1,5 +1,9 @@
 {
     "title": "Tadashii Otoko no Shitsukekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10861.jpg",
+        "alt": "tadashii-otoko-no-shitsukekata"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "正しい男のしつけ方",

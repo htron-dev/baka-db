@@ -1,5 +1,9 @@
 {
     "title": "Otomiko! Boku wa Otoko no Miko Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168626.jpg",
+        "alt": "otomiko-boku-wa-otoko-no-miko-musume"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

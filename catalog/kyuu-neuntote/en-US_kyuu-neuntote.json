@@ -1,5 +1,9 @@
 {
     "title": "Kyuu: neuntöte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139493.jpg",
+        "alt": "kyuu-neuntote"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,12 +1,16 @@
 {
     "title": "Hand Maid May",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/60995.jpg",
+        "alt": "hand-maid-may"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "HAND MAID メイ",
     "start_date": "2000-07-26",
     "end_date": "2000-07-26",
-    "opening_song": "\"Jump",
-    "ending_song": "#1",
+    "opening_song": "\"Jump: Mayppai Dakishimete (JUMP~メイっぱい抱きしめて)\" by P-Chicks, Takigami Yuka, Toyooka Masumi, Kobayashi Mika",
+    "ending_song": "#1: \"JUMP~MAYppai Dakishimete\" by P-Chicks (eps 1,10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

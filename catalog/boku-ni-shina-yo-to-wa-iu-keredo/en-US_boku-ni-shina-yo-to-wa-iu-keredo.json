@@ -1,5 +1,9 @@
 {
     "title": "Boku ni Shina yo to wa Iu Keredo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239842.jpg",
+        "alt": "boku-ni-shina-yo-to-wa-iu-keredo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

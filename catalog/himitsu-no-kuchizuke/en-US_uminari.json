@@ -1,5 +1,9 @@
 {
     "title": "Uminari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/39736.jpg",
+        "alt": "uminari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

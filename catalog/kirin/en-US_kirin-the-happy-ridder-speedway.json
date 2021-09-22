@@ -1,5 +1,9 @@
 {
     "title": "Kirin: The Happy Ridder Speedway",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179691.jpg",
+        "alt": "kirin-the-happy-ridder-speedway"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "108",

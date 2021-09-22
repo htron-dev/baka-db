@@ -1,5 +1,9 @@
 {
     "title": "Majo ni Touch!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163681.jpg",
+        "alt": "majo-ni-touch"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "27",

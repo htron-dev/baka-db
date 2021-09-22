@@ -1,5 +1,9 @@
 {
     "title": "Reverse Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183552.jpg",
+        "alt": "reverse-blood"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "44",

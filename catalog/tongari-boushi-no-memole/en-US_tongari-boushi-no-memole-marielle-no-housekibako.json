@@ -1,11 +1,15 @@
 {
     "title": "Tongari Boushi no Memole: Marielle no Housekibako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/35543.jpg",
+        "alt": "tongari-boushi-no-memole-marielle-no-housekibako"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "とんがり帽子のメモル マリエルの宝石箱",
     "start_date": "1985-03-16",
     "opening_song": "\"Tongari Boushi no Memoru\" by Satoko Yamano",
-    "ending_song": "\"Tongari Boushi no Memole",
+    "ending_song": "\"Tongari Boushi no Memole: Marielle no Housekiban\" by Satoko Yamano",
     "rating": "G - All Ages",
     "tags": [
         "magic",

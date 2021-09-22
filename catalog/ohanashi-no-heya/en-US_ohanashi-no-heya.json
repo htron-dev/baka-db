@@ -1,5 +1,9 @@
 {
     "title": "Ohanashi no Heya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30626.jpg",
+        "alt": "ohanashi-no-heya"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "おはなしのへや",

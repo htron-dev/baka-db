@@ -1,5 +1,9 @@
 {
     "title": "Idejuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38609.jpg",
+        "alt": "idejuu"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "141",

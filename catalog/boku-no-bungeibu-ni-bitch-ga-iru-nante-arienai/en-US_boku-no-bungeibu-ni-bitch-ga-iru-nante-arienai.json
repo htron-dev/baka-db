@@ -1,5 +1,9 @@
 {
     "title": "Boku no Bungeibu ni Bitch ga Iru nante Arienai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206258.jpg",
+        "alt": "boku-no-bungeibu-ni-bitch-ga-iru-nante-arienai"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "66",

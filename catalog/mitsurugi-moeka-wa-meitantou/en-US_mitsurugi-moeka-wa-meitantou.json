@@ -1,5 +1,9 @@
 {
     "title": "Mitsurugi Moeka wa Meitantou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163008.jpg",
+        "alt": "mitsurugi-moeka-wa-meitantou"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

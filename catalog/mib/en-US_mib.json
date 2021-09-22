@@ -1,5 +1,9 @@
 {
     "title": "MIB",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175939.jpg",
+        "alt": "mib"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "MIB",

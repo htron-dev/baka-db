@@ -1,5 +1,9 @@
 {
     "title": "Koi Tsukiyo no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81536.jpg",
+        "alt": "koi-tsukiyo-no-himegoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Nariyuki Makase no Tengu Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150441.jpg",
+        "alt": "nariyuki-makase-no-tengu-michi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

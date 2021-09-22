@@ -1,5 +1,9 @@
 {
     "title": "Long Goodbye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85507.jpg",
+        "alt": "long-goodbye"
+    },
     "type": "manga",
     "original_name": "LONG GOODBYE",
     "start_date": "2012-11-13",

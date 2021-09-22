@@ -1,5 +1,9 @@
 {
     "title": "Only You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20815.jpg",
+        "alt": "only-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

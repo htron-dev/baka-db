@@ -1,5 +1,9 @@
 {
     "title": "Nature Jimon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46353.jpg",
+        "alt": "nature-jimon"
+    },
     "type": "manga",
     "original_name": "ネイチャージモン",
     "tags": [

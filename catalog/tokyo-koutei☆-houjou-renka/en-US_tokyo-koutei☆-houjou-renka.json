@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Koutei☆Houjou Renka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119077.jpg",
+        "alt": "tokyo-koutei☆-houjou-renka"
+    },
     "type": "light-novel",
     "original_name": "東京皇帝 ☆ 北条恋歌",
     "start_date": "2009-01-31",

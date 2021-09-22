@@ -1,5 +1,9 @@
 {
     "title": "Fushidara na Oniisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100649.jpg",
+        "alt": "fushidara-na-oniisan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

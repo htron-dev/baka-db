@@ -1,5 +1,9 @@
 {
     "title": "Ritou no Umi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73055.jpg",
+        "alt": "ritou-no-umi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

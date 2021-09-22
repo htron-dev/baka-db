@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Alpha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198399.jpg",
+        "alt": "sayonara-alpha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

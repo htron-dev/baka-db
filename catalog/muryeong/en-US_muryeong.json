@@ -1,5 +1,9 @@
 {
     "title": "Muryeong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40972.jpg",
+        "alt": "muryeong"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "무령",

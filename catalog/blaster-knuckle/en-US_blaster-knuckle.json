@@ -1,5 +1,9 @@
 {
     "title": "Blaster Knuckle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30836.jpg",
+        "alt": "blaster-knuckle"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Utsubora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31510.jpg",
+        "alt": "utsubora"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

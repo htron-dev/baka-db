@@ -1,5 +1,9 @@
 {
     "title": "Gon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149260.jpg",
+        "alt": "gon"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Kill me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19734.jpg",
+        "alt": "kill-me"
+    },
     "type": "manga",
     "original_name": "キルミー",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Togari Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209472.jpg",
+        "alt": "togari-shiro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

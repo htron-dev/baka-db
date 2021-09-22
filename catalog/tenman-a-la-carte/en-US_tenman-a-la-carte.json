@@ -1,5 +1,9 @@
 {
     "title": "Tenman à la carte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155662.jpg",
+        "alt": "tenman-a-la-carte"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Hoshiai no Sora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1807/103081.jpg",
+        "alt": "hoshiai-no-sora"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "星合の空",

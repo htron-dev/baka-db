@@ -1,5 +1,9 @@
 {
     "title": "Tsurenai Kanojo no Hitorijime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244785.jpg",
+        "alt": "tsurenai-kanojo-no-hitorijime"
+    },
     "type": "manga",
     "original_name": "つれない彼女のひとりじめ",
     "start_date": "2021-04-22",

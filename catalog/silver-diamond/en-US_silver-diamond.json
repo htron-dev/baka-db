@@ -1,5 +1,9 @@
 {
     "title": "Silver Diamond",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190777.jpg",
+        "alt": "silver-diamond"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "82",

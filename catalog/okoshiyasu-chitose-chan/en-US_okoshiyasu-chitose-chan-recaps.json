@@ -1,11 +1,15 @@
 {
     "title": "Okoshiyasu, Chitose-chan Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1802/98078.jpg",
+        "alt": "okoshiyasu-chitose-chan-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "おこしやす, ちとせちゃん",
     "start_date": "2018-12-19",
     "end_date": "2018-12-19",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nakuko mo Warau (泣く子も笑う)\" by Nyanzonu Deshi (にゃんぞぬデシ) (eps 1-12)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

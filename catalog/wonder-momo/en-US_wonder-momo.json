@@ -1,5 +1,9 @@
 {
     "title": "Wonder Momo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/58783.jpg",
+        "alt": "wonder-momo"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "ワンダーモモ",

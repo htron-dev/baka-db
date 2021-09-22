@@ -1,12 +1,16 @@
 {
     "title": "Dragon Ball Kai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/14065.jpg",
+        "alt": "dragon-ball-kai"
+    },
     "type": "tv-serie",
     "episodes": "97",
     "original_name": "ドラゴンボール改",
     "start_date": "2009-04-05",
     "end_date": "2009-04-05",
     "opening_song": "\"Dragon Soul\" by Tanimoto Takeyoshi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yeah! Break! Care! Break!\" by Tanimoto Takayoshi (eps 1-54)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

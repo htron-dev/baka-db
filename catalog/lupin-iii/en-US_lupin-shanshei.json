@@ -1,5 +1,9 @@
 {
     "title": "Lupin Shanshei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/44261.jpg",
+        "alt": "lupin-shanshei"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "ルパンしゃんしぇい",

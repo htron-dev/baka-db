@@ -1,5 +1,9 @@
 {
     "title": "Bus Gamer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160475.jpg",
+        "alt": "bus-gamer"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "BUS GAMER",

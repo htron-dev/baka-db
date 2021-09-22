@@ -1,5 +1,9 @@
 {
     "title": "Yoshihara Yuki - The Best Selection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21117.jpg",
+        "alt": "yoshihara-yuki-the-best-selection"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

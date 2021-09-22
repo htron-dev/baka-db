@@ -1,5 +1,9 @@
 {
     "title": "Ouji no Kikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33817.jpg",
+        "alt": "ouji-no-kikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

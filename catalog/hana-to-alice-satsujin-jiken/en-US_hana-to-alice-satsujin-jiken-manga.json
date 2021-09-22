@@ -1,5 +1,9 @@
 {
     "title": "Hana to Alice: Satsujin Jiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165436.jpg",
+        "alt": "hana-to-alice-satsujin-jiken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

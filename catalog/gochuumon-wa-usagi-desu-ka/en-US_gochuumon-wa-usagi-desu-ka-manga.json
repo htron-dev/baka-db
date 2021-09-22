@@ -1,5 +1,9 @@
 {
     "title": "Gochuumon wa Usagi desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205168.jpg",
+        "alt": "gochuumon-wa-usagi-desu-ka"
+    },
     "type": "manga",
     "original_name": "ご注文はうさぎですか？",
     "start_date": "2011-01-19",

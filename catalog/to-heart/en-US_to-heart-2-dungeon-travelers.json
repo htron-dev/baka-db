@@ -1,12 +1,16 @@
 {
     "title": "To Heart 2: Dungeon Travelers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74021.jpg",
+        "alt": "to-heart-2-dungeon-travelers"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ToHeart2 ダンジョントラベラーズ",
     "start_date": "2012-02-22",
     "end_date": "2012-02-22",
     "opening_song": "\"Niji-iro no Mirai (虹色の未来)\" by Suara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tada Hitosu no Hoshi (ただひとつの星)\" by Rena Uehara (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

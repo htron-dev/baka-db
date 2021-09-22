@@ -1,12 +1,16 @@
 {
     "title": "Dokidoki! Precure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/46363.jpg",
+        "alt": "dokidoki-precure"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "ドキドキ! プリキュア",
     "start_date": "2013-02-03",
     "end_date": "2013-02-03",
     "opening_song": "\"Happy Go Lucky! Doki Doki! PreCure (Happy Go Lucky! ドキドキ! プリキュア)\" by Tomoyo Kurosawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kono Sora no Mukou (この空の向こう)\" by Hitomi Yoshida (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "action",

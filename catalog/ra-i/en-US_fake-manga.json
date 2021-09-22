@@ -1,5 +1,9 @@
 {
     "title": "Fake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161939.jpg",
+        "alt": "fake"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "20",

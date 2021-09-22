@@ -1,5 +1,9 @@
 {
     "title": "Tokage no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95335.jpg",
+        "alt": "tokage-no-ou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Hakaima Sadamitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205407.jpg",
+        "alt": "hakaima-sadamitsu"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "79",

@@ -1,5 +1,9 @@
 {
     "title": "Caramel Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203984.jpg",
+        "alt": "caramel-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

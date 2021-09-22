@@ -1,5 +1,9 @@
 {
     "title": "Ore no Kokoro ni Fumikomu na!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72577.jpg",
+        "alt": "ore-no-kokoro-ni-fumikomu-na"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

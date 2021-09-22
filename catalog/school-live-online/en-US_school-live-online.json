@@ -1,5 +1,9 @@
 {
     "title": "School Live Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138359.jpg",
+        "alt": "school-live-online"
+    },
     "type": "light-novel",
     "volumes": "8",
     "original_name": "スクールライブ・オンライン",

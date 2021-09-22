@@ -1,5 +1,9 @@
 {
     "title": "Ougon no Shika no Toukishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158513.jpg",
+        "alt": "ougon-no-shika-no-toukishi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

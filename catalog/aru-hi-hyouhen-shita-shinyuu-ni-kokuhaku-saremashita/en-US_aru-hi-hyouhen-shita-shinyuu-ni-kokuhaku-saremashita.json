@@ -1,5 +1,9 @@
 {
     "title": "Aru Hi, Hyouhen shita Shinyuu ni Kokuhaku Saremashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190602.jpg",
+        "alt": "aru-hi-hyouhen-shita-shinyuu-ni-kokuhaku-saremashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

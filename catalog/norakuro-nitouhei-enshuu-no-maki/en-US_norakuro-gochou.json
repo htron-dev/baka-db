@@ -1,5 +1,9 @@
 {
     "title": "Norakuro Gochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/85244.jpg",
+        "alt": "norakuro-gochou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "のらくろ伍長",

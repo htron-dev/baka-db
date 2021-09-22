@@ -1,5 +1,9 @@
 {
     "title": "Kouya no Jouki Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82608.jpg",
+        "alt": "kouya-no-jouki-musume"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "荒野の蒸気娘",

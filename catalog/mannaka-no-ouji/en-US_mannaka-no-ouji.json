@@ -1,5 +1,9 @@
 {
     "title": "Mannaka no Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82708.jpg",
+        "alt": "mannaka-no-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

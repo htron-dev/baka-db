@@ -1,5 +1,9 @@
 {
     "title": "One Piece Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165199.jpg",
+        "alt": "one-piece-party"
+    },
     "type": "manga",
     "original_name": "ONE PIECE PARTY",
     "start_date": "2014-12-05",

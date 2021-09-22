@@ -1,5 +1,9 @@
 {
     "title": "Shitsukekata wa Nijuumaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179360.jpg",
+        "alt": "shitsukekata-wa-nijuumaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

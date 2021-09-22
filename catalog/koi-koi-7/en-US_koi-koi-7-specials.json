@@ -1,5 +1,9 @@
 {
     "title": "Koi Koi 7 Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/59829.jpg",
+        "alt": "koi-koi-7-specials"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "こいこい 7",

@@ -1,5 +1,9 @@
 {
     "title": "Attacker You!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/85676.jpg",
+        "alt": "attacker-you"
+    },
     "type": "tv-serie",
     "episodes": "58",
     "original_name": "アタッカーＹＯＵ！",

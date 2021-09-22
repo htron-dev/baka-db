@@ -1,5 +1,9 @@
 {
     "title": "Nihon no Otogibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/79601.jpg",
+        "alt": "nihon-no-otogibanashi"
+    },
     "type": "ova",
     "episodes": "29",
     "original_name": "日本のおとぎばなし",

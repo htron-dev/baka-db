@@ -1,5 +1,9 @@
 {
     "title": "Saraiya Goyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181711.jpg",
+        "alt": "saraiya-goyou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "59",

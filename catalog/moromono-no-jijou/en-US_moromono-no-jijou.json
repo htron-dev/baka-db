@@ -1,5 +1,9 @@
 {
     "title": "Moromono no Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168719.jpg",
+        "alt": "moromono-no-jijou"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "モロモノの事情",

@@ -1,5 +1,9 @@
 {
     "title": "Baka to Gogh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173686.jpg",
+        "alt": "baka-to-gogh"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

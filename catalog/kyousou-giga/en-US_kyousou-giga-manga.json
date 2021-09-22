@@ -1,5 +1,9 @@
 {
     "title": "Kyousou Giga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81350.jpg",
+        "alt": "kyousou-giga"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

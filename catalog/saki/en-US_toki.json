@@ -1,5 +1,9 @@
 {
     "title": "Toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187410.jpg",
+        "alt": "toki"
+    },
     "type": "manga",
     "original_name": "怜-Toki-",
     "start_date": "2016-06-25",

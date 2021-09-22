@@ -1,5 +1,9 @@
 {
     "title": "Star Ocean 2 Second Evolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90289.jpg",
+        "alt": "star-ocean-2-second-evolution"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

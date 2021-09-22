@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Charisma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164907.jpg",
+        "alt": "houkago-no-charisma"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "72",

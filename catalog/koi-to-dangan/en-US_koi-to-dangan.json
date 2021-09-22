@@ -1,5 +1,9 @@
 {
     "title": "Koi to Dangan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225002.jpg",
+        "alt": "koi-to-dangan"
+    },
     "type": "manga",
     "original_name": "恋と弾丸",
     "start_date": "2018-03-05",

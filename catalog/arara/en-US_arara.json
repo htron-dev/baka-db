@@ -1,5 +1,9 @@
 {
     "title": "Arara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86134.jpg",
+        "alt": "arara"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "あらら",

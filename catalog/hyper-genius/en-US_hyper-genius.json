@@ -1,5 +1,9 @@
 {
     "title": "Hyper Genius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23715.jpg",
+        "alt": "hyper-genius"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ハイパージーナス",

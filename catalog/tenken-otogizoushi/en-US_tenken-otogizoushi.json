@@ -1,5 +1,9 @@
 {
     "title": "Tenken Otogizoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31892.jpg",
+        "alt": "tenken-otogizoushi"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "天眷御伽草子",

@@ -1,5 +1,9 @@
 {
     "title": "Matsuda-ke Curry Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1665/95448.jpg",
+        "alt": "matsuda-ke-curry-battle"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "松田家カレーバトル",

@@ -1,5 +1,9 @@
 {
     "title": "Ga-Rei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185812.jpg",
+        "alt": "ga-rei"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "56",

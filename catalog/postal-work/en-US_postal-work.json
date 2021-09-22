@@ -1,5 +1,9 @@
 {
     "title": "Postal Work",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85337.jpg",
+        "alt": "postal-work"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

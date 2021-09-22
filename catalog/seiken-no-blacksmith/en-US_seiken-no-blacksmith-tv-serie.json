@@ -1,5 +1,9 @@
 {
     "title": "Seiken no Blacksmith",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/15940.jpg",
+        "alt": "seiken-no-blacksmith"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "聖剣の刀鍛冶（ブラックスミス）",

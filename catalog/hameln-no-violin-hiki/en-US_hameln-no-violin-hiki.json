@@ -1,5 +1,9 @@
 {
     "title": "Hameln no Violin-hiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181467.jpg",
+        "alt": "hameln-no-violin-hiki"
+    },
     "type": "manga",
     "volumes": "37",
     "chapters": "146",

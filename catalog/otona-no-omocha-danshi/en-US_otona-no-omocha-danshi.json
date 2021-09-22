@@ -1,5 +1,9 @@
 {
     "title": "Otona no Omocha Danshi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150534.jpg",
+        "alt": "otona-no-omocha-danshi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "大人のオモチャ男子。",

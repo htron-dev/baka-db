@@ -1,5 +1,9 @@
 {
     "title": "Love Live! School Idol Diary Special Edition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235603.jpg",
+        "alt": "love-live-school-idol-diary-special-edition"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

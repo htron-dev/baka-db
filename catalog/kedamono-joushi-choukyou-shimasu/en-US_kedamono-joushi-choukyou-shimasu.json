@@ -1,5 +1,9 @@
 {
     "title": "Kedamono Joushi, Choukyou shimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192345.jpg",
+        "alt": "kedamono-joushi-choukyou-shimasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

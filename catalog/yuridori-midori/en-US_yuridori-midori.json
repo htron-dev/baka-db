@@ -1,5 +1,9 @@
 {
     "title": "Yuridori Midori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150749.jpg",
+        "alt": "yuridori-midori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,12 +1,16 @@
 {
     "title": "Black Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/12978.jpg",
+        "alt": "black-jack"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "ブラック・ジャック",
     "start_date": "1993-12-21",
     "end_date": "1993-12-21",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Just Before Sunrise\" by Rhodes (eps 1-3, 11-12)",
+    "ending_song": "#1: \"I'll Be Back Again --- Moonlight\" by Rhodes (eps 1-3, 11-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

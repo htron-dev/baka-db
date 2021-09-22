@@ -1,5 +1,9 @@
 {
     "title": "Eikyuu Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/10210.jpg",
+        "alt": "eikyuu-kazoku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "永久家族",

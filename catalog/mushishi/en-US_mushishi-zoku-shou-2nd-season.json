@@ -1,12 +1,16 @@
 {
     "title": "Mushishi Zoku Shou 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/68095.jpg",
+        "alt": "mushishi-zoku-shou-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "蟲師 続章",
     "start_date": "2014-10-19",
     "end_date": "2014-10-19",
     "opening_song": "\"SHIVER\" by Lucy Rose",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Kusa no Shitone (草の茵)\" by Toshio Masuda (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

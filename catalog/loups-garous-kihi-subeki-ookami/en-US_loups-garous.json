@@ -1,5 +1,9 @@
 {
     "title": "Loups=Garous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26343.jpg",
+        "alt": "loups-garous"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ルー=ガルー 忌避すべき狼",

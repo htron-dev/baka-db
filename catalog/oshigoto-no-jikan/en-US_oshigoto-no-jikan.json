@@ -1,5 +1,9 @@
 {
     "title": "Oshigoto no Jikan!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30453.jpg",
+        "alt": "oshigoto-no-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "おシゴトの時間!?",

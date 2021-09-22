@@ -1,5 +1,9 @@
 {
     "title": "Asonde Oboeru Gakushuu DVD",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/84971.jpg",
+        "alt": "asonde-oboeru-gakushuu-dvd"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "遊んでおぼえる学習 DVD",

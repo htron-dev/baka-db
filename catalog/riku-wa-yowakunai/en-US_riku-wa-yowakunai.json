@@ -1,5 +1,9 @@
 {
     "title": "Riku wa Yowakunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1647/117700.jpg",
+        "alt": "riku-wa-yowakunai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "リクはよわくない",

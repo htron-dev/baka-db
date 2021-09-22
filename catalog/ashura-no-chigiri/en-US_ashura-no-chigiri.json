@@ -1,5 +1,9 @@
 {
     "title": "Ashura no Chigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83270.jpg",
+        "alt": "ashura-no-chigiri"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "阿修羅の契",

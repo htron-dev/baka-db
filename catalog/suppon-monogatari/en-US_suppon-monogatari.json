@@ -1,5 +1,9 @@
 {
     "title": "Suppon Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88313.jpg",
+        "alt": "suppon-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

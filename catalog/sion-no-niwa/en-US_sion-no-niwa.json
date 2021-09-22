@@ -1,5 +1,9 @@
 {
     "title": "Sion no Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246666.jpg",
+        "alt": "sion-no-niwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

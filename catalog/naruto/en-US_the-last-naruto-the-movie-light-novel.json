@@ -1,5 +1,9 @@
 {
     "title": "The Last: Naruto the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144797.jpg",
+        "alt": "the-last-naruto-the-movie"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

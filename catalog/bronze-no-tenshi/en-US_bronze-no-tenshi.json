@@ -1,5 +1,9 @@
 {
     "title": "Bronze no Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28443.jpg",
+        "alt": "bronze-no-tenshi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

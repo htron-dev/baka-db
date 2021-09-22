@@ -1,5 +1,9 @@
 {
     "title": "0 kara Hajimeru Manga Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30964.jpg",
+        "alt": "0-kara-hajimeru-manga-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

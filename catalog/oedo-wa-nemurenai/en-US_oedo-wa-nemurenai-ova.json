@@ -1,5 +1,9 @@
 {
     "title": "Oedo wa Nemurenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/39103.jpg",
+        "alt": "oedo-wa-nemurenai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "お江戸はねむれない!",

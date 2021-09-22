@@ -1,5 +1,9 @@
 {
     "title": "Kusenai Yoru no Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44107.jpg",
+        "alt": "kusenai-yoru-no-kioku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

@@ -1,5 +1,9 @@
 {
     "title": "Sakurai-san wa Kizuite Hoshii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233085.jpg",
+        "alt": "sakurai-san-wa-kizuite-hoshii"
+    },
     "type": "manga",
     "original_name": "桜井さんは気づいてほしい",
     "start_date": "2019-10-26",

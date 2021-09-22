@@ -1,5 +1,9 @@
 {
     "title": "No Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72975.jpg",
+        "alt": "no-hero"
+    },
     "type": "light-novel",
     "volumes": "9",
     "original_name": "非關英雄",

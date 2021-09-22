@@ -1,5 +1,9 @@
 {
     "title": "Devil's Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/84439.jpg",
+        "alt": "devils-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

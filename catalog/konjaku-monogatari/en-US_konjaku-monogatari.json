@@ -1,5 +1,9 @@
 {
     "title": "Konjaku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85207.jpg",
+        "alt": "konjaku-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

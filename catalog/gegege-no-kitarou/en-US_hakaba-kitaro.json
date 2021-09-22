@@ -1,5 +1,9 @@
 {
     "title": "Hakaba Kitaro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36313.jpg",
+        "alt": "hakaba-kitaro"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Silver Chip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62149.jpg",
+        "alt": "silver-chip"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "シルバー・チップ",

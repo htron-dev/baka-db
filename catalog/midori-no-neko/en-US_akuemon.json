@@ -1,5 +1,9 @@
 {
     "title": "Akuemon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/87863.jpg",
+        "alt": "akuemon"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "悪右衛門",

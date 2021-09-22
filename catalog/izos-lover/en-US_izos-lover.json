@@ -1,5 +1,9 @@
 {
     "title": "Izo's Lover!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11968.jpg",
+        "alt": "izos-lover"
+    },
     "type": "manga",
     "original_name": "イゾラバ",
     "tags": [

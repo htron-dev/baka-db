@@ -1,5 +1,9 @@
 {
     "title": "Kimi to dake wa Koi ni Ochinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177116.jpg",
+        "alt": "kimi-to-dake-wa-koi-ni-ochinai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

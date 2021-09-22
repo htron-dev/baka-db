@@ -1,5 +1,9 @@
 {
     "title": "Psychoarmor Govarian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/65997.jpg",
+        "alt": "psychoarmor-govarian"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "サイコアーマー ゴーバリアン",

@@ -1,5 +1,9 @@
 {
     "title": "Shinagawashuku Nekokatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100731.jpg",
+        "alt": "shinagawashuku-nekokatari"
+    },
     "type": "manga",
     "original_name": "品川宿猫語り",
     "tags": [

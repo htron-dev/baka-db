@@ -1,5 +1,9 @@
 {
     "title": "Shouwa Ichidai Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190133.jpg",
+        "alt": "shouwa-ichidai-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

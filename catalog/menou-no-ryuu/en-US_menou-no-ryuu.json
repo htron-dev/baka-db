@@ -1,5 +1,9 @@
 {
     "title": "Menou no Ryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115229.jpg",
+        "alt": "menou-no-ryuu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

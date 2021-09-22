@@ -1,5 +1,9 @@
 {
     "title": "Game Over",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40378.jpg",
+        "alt": "game-over"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

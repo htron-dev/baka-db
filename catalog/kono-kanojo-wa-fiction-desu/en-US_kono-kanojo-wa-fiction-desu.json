@@ -1,5 +1,9 @@
 {
     "title": "Kono Kanojo wa Fiction desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57879.jpg",
+        "alt": "kono-kanojo-wa-fiction-desu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

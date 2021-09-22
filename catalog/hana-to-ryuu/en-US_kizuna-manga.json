@@ -1,5 +1,9 @@
 {
     "title": "Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152344.jpg",
+        "alt": "kizuna"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "56",

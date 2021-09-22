@@ -1,5 +1,9 @@
 {
     "title": "Paranoia Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34371.jpg",
+        "alt": "paranoia-star"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

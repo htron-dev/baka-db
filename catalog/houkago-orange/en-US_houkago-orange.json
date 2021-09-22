@@ -1,5 +1,9 @@
 {
     "title": "Houkago Orange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156066.jpg",
+        "alt": "houkago-orange"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

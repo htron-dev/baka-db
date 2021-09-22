@@ -1,5 +1,9 @@
 {
     "title": "Daddy Long Legs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152918.jpg",
+        "alt": "daddy-long-legs"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

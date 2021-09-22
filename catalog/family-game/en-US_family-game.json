@@ -1,5 +1,9 @@
 {
     "title": "Family Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182510.jpg",
+        "alt": "family-game"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "ファミリーゲーム",

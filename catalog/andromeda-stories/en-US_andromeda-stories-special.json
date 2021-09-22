@@ -1,5 +1,9 @@
 {
     "title": "Andromeda Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75156.jpg",
+        "alt": "andromeda-stories"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アンドロメダ・ストーリーズ",

@@ -1,5 +1,9 @@
 {
     "title": "Kin no Tori no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153340.jpg",
+        "alt": "kin-no-tori-no-himitsu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "金の鳥の秘密",

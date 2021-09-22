@@ -1,5 +1,9 @@
 {
     "title": "Ano Yoru kara Kimi ni Koishiteta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244249.jpg",
+        "alt": "ano-yoru-kara-kimi-ni-koishiteta"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

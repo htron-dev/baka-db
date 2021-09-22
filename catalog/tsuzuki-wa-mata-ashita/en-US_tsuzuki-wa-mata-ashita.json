@@ -1,5 +1,9 @@
 {
     "title": "Tsuzuki wa Mata Ashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27060.jpg",
+        "alt": "tsuzuki-wa-mata-ashita"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

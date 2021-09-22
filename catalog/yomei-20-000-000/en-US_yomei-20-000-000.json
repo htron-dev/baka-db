@@ -1,5 +1,9 @@
 {
     "title": "Yomei ¥20,000,000-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155067.jpg",
+        "alt": "yomei-20-000-000"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Blassreiter Genetic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17784.jpg",
+        "alt": "blassreiter-genetic"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

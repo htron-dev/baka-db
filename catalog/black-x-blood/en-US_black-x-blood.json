@@ -1,5 +1,9 @@
 {
     "title": "Black x Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15042.jpg",
+        "alt": "black-x-blood"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

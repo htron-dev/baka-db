@@ -1,5 +1,9 @@
 {
     "title": "Tsurezure, Kitanozaka Tanteisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169535.jpg",
+        "alt": "tsurezure-kitanozaka-tanteisha"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

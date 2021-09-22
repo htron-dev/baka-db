@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Dokubari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221711.jpg",
+        "alt": "koi-ni-dokubari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

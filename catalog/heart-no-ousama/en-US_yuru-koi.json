@@ -1,5 +1,9 @@
 {
     "title": "Yuru Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52415.jpg",
+        "alt": "yuru-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

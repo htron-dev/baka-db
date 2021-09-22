@@ -1,5 +1,9 @@
 {
     "title": "Abyss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144377.jpg",
+        "alt": "abyss"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "39",

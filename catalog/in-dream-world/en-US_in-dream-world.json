@@ -1,5 +1,9 @@
 {
     "title": "In Dream World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/7247.jpg",
+        "alt": "in-dream-world"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "25",

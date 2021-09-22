@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Tate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96675.jpg",
+        "alt": "tsuki-no-tate"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

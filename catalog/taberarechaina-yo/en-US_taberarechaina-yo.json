@@ -1,5 +1,9 @@
 {
     "title": "Taberarechaina yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237787.jpg",
+        "alt": "taberarechaina-yo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

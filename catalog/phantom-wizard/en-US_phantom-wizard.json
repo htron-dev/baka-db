@@ -1,5 +1,9 @@
 {
     "title": "Phantom Wizard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/55987.jpg",
+        "alt": "phantom-wizard"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

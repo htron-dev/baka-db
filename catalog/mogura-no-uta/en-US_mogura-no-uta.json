@@ -1,5 +1,9 @@
 {
     "title": "Mogura no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97383.jpg",
+        "alt": "mogura-no-uta"
+    },
     "type": "manga",
     "original_name": "土竜の唄",
     "start_date": "2005-08-25",

@@ -1,5 +1,9 @@
 {
     "title": "Jump no Tadashii Tsukurikata!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182788.jpg",
+        "alt": "jump-no-tadashii-tsukurikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "32",

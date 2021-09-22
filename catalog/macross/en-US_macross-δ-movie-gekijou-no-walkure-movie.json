@@ -1,5 +1,9 @@
 {
     "title": "Macross Δ Movie: Gekijou no Walküre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1217/94351.jpg",
+        "alt": "macross-δ-movie-gekijou-no-walkure"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版マクロス Δ 激情のワルキューレ",

@@ -1,5 +1,9 @@
 {
     "title": "Canaan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38834.jpg",
+        "alt": "canaan"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "カナン",

@@ -1,5 +1,9 @@
 {
     "title": "Hikoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224753.jpg",
+        "alt": "hikoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

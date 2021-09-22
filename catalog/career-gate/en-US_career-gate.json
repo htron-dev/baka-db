@@ -1,5 +1,9 @@
 {
     "title": "Career Gate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/62905.jpg",
+        "alt": "career-gate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

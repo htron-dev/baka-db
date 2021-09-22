@@ -1,5 +1,9 @@
 {
     "title": "Stand By Me, Stand By You.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161560.jpg",
+        "alt": "stand-by-me-stand-by-you"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "スタンド バイ ミー、スタンド バイ ユー。",

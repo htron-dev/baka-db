@@ -1,5 +1,9 @@
 {
     "title": "3-iro♪Signal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109905.jpg",
+        "alt": "3-iro♪-signal"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

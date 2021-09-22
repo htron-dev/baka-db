@@ -1,5 +1,9 @@
 {
     "title": "RDG: Red Data Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139505.jpg",
+        "alt": "rdg-red-data-girl"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

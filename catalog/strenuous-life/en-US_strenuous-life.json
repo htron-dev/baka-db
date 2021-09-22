@@ -1,5 +1,9 @@
 {
     "title": "Strenuous Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164072.jpg",
+        "alt": "strenuous-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "24",

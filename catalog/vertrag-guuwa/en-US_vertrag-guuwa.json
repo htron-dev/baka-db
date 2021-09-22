@@ -1,5 +1,9 @@
 {
     "title": "Vertrag Guuwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149536.jpg",
+        "alt": "vertrag-guuwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

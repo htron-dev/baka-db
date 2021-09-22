@@ -1,5 +1,9 @@
 {
     "title": "Soul Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16345.jpg",
+        "alt": "soul-drop"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ソウルドロップの幽体研究",

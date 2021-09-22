@@ -1,5 +1,9 @@
 {
     "title": "Kinnikuman II-sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164971.jpg",
+        "alt": "kinnikuman-ii-sei"
+    },
     "type": "manga",
     "volumes": "29",
     "chapters": "300",

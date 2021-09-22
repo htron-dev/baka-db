@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Minna Ikiteiru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42131.jpg",
+        "alt": "bokura-wa-minna-ikiteiru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

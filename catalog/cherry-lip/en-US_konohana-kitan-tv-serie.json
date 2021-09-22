@@ -1,12 +1,16 @@
 {
     "title": "Konohana Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88431.jpg",
+        "alt": "konohana-kitan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "このはな綺譚",
     "start_date": "2017-10-04",
     "end_date": "2017-10-04",
     "opening_song": "\"Kokoro ni Tsubomi (ココロニツボミ)\" by eufonius",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Haru Urara, Kimi to Sakihokoru\" (春ウララ、君ト咲キ誇ル) by Konohana-tei Nakai no Kai [Satsuki (Sawako Hata), Natsume (Ayaka Suwa), Ren (Risa Kubota), Sakura (Ai Kakuma), Kiri (Manami Numakura), Yuzu (Yuuko Oono)] (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

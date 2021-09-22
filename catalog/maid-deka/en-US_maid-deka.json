@@ -1,5 +1,9 @@
 {
     "title": "Maid Deka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20625.jpg",
+        "alt": "maid-deka"
+    },
     "type": "light-novel",
     "original_name": "メイドデカ",
     "start_date": "2006-04-15",

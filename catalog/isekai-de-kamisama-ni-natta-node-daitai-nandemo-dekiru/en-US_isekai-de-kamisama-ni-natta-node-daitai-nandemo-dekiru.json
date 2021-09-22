@@ -1,5 +1,9 @@
 {
     "title": "Isekai de Kamisama ni Natta node, Daitai Nandemo Dekiru!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245499.jpg",
+        "alt": "isekai-de-kamisama-ni-natta-node-daitai-nandemo-dekiru"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "83",

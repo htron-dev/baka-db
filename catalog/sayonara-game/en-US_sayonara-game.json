@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194054.jpg",
+        "alt": "sayonara-game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

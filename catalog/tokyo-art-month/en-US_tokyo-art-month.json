@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Art Month",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1326/95531.jpg",
+        "alt": "tokyo-art-month"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "TOKYO ART MONTH",

@@ -1,5 +1,9 @@
 {
     "title": "Club Crime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170746.jpg",
+        "alt": "club-crime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Hinemosu no Tari Kimi to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247956.jpg",
+        "alt": "hinemosu-no-tari-kimi-to-boku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

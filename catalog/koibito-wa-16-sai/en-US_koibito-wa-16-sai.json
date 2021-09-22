@@ -1,5 +1,9 @@
 {
     "title": "Koibito wa 16-sai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66161.jpg",
+        "alt": "koibito-wa-16-sai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

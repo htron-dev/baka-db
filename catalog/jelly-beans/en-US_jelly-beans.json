@@ -1,5 +1,9 @@
 {
     "title": "Jelly Beans",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131695.jpg",
+        "alt": "jelly-beans"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "86",

@@ -1,5 +1,9 @@
 {
     "title": "Okome-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4955.jpg",
+        "alt": "okome-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

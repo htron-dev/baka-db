@@ -1,5 +1,9 @@
 {
     "title": "Really? Really! Remember Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138943.jpg",
+        "alt": "really-really-remember-memories"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

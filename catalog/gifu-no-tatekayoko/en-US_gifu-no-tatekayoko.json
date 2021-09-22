@@ -1,5 +1,9 @@
 {
     "title": "Gifu no Tatekayoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1784/100410.jpg",
+        "alt": "gifu-no-tatekayoko"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "岐阜のたてかよこ",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "http:// https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E3%81%AE%E3%81%9F%E3%81%A6%E3%81%8B%E3%82%88%E3%81%93"
+            "link": "https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E3%81%AE%E3%81%9F%E3%81%A6%E3%81%8B%E3%82%88%E3%81%93"
         }
     ]
 }

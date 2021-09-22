@@ -1,5 +1,9 @@
 {
     "title": "Futago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24741.jpg",
+        "alt": "futago"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

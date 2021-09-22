@@ -1,5 +1,9 @@
 {
     "title": "Do S Megane, Tokidoki Dame Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112113.jpg",
+        "alt": "do-s-megane-tokidoki-dame-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

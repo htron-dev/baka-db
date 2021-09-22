@@ -1,5 +1,9 @@
 {
     "title": "Gigant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210342.jpg",
+        "alt": "gigant"
+    },
     "type": "manga",
     "original_name": "GIGANT",
     "start_date": "2017-12-08",

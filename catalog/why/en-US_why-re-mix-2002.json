@@ -1,5 +1,9 @@
 {
     "title": "Why Re-Mix 2002",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73783.jpg",
+        "alt": "why-re-mix-2002"
+    },
     "type": "movie",
     "episodes": "1",
     "start_date": "2002-01-20",

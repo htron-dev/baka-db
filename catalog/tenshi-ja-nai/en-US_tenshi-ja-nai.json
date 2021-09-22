@@ -1,5 +1,9 @@
 {
     "title": "Tenshi ja Nai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217.jpg",
+        "alt": "tenshi-ja-nai"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "40",

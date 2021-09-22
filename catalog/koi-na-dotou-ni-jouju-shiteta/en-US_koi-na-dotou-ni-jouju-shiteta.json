@@ -1,5 +1,9 @@
 {
     "title": "Koi na Dotou ni Jouju Shiteta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30476.jpg",
+        "alt": "koi-na-dotou-ni-jouju-shiteta"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋などとうに成就してた",

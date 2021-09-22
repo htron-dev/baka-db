@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Unmei Game-kei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164647.jpg",
+        "alt": "kanojo-no-unmei-game-kei"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Noragami OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/77177.jpg",
+        "alt": "noragami-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ノラガミ OAD",

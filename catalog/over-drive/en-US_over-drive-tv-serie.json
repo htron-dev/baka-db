@@ -1,12 +1,16 @@
 {
     "title": "Over Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/89534.jpg",
+        "alt": "over-drive"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "オーバードライヴ",
     "start_date": "2007-04-04",
     "end_date": "2007-04-04",
     "opening_song": "\"WINDER ~Boku wa Koko ni Iru~\" by Shonen Kamikaze",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Saihate no Parade\" by Merry (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "shounen",

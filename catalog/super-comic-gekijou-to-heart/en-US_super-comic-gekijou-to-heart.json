@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: To Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151595.jpg",
+        "alt": "super-comic-gekijou-to-heart"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "スーパーコミック劇場 ToHeart",

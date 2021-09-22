@@ -1,5 +1,9 @@
 {
     "title": "Hi no Hitsugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85939.jpg",
+        "alt": "hi-no-hitsugi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

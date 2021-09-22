@@ -1,5 +1,9 @@
 {
     "title": "Scratch!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78585.jpg",
+        "alt": "scratch"
+    },
     "type": "manga",
     "original_name": "スクラッチ!!",
     "start_date": "2011-11-10",

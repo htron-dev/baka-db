@@ -1,5 +1,9 @@
 {
     "title": "Shishunki Miman Okotowari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199142.jpg",
+        "alt": "shishunki-miman-okotowari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

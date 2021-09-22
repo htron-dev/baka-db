@@ -1,5 +1,9 @@
 {
     "title": "Hipira-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/46765.jpg",
+        "alt": "hipira-kun"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ヒピラくん",

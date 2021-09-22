@@ -1,5 +1,9 @@
 {
     "title": "Aflame Inferno",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/55009.jpg",
+        "alt": "aflame-inferno"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "50",

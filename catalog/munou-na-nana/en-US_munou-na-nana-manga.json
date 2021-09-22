@@ -1,5 +1,9 @@
 {
     "title": "Munou na Nana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196953.jpg",
+        "alt": "munou-na-nana"
+    },
     "type": "manga",
     "original_name": "無能なナナ",
     "start_date": "2016-05-12",

@@ -1,5 +1,9 @@
 {
     "title": "Yurusaba.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210305.jpg",
+        "alt": "yurusaba"
+    },
     "type": "manga",
     "original_name": "ゆるさば。",
     "start_date": "2018-01-06",

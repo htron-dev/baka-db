@@ -1,5 +1,9 @@
 {
     "title": "David gwa Goliath",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/45156.jpg",
+        "alt": "david-gwa-goliath"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "다윗과 골리앗",

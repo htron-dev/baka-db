@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu Sekai no Spell Breaker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197001.jpg",
+        "alt": "shuumatsu-sekai-no-spell-breaker"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

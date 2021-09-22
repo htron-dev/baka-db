@@ -1,5 +1,9 @@
 {
     "title": "Kugiko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210401.jpg",
+        "alt": "kugiko-chan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

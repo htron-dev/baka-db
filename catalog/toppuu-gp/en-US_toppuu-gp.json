@@ -1,5 +1,9 @@
 {
     "title": "Toppuu GP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185965.jpg",
+        "alt": "toppuu-gp"
+    },
     "type": "manga",
     "original_name": "トップウ GP",
     "start_date": "2016-05-25",

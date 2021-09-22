@@ -1,5 +1,9 @@
 {
     "title": "Fate/Extra CCC",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180280.jpg",
+        "alt": "fate-extra-ccc"
+    },
     "type": "manga",
     "original_name": "Fate/EXTRA CCC",
     "start_date": "2015-06-10",

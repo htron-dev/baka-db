@@ -1,5 +1,9 @@
 {
     "title": "Vampire Library",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165626.jpg",
+        "alt": "vampire-library"
+    },
     "type": "manhwa",
     "original_name": "뱀파이어 도서관",
     "start_date": "2014-05-02",

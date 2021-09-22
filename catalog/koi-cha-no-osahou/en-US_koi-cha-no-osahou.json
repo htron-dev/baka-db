@@ -1,5 +1,9 @@
 {
     "title": "Koi Cha No Osahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24767.jpg",
+        "alt": "koi-cha-no-osahou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

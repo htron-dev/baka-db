@@ -1,5 +1,9 @@
 {
     "title": "Gakkatsu!! Tsuyatsuya Tannin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154631.jpg",
+        "alt": "gakkatsu-tsuyatsuya-tannin"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "学活!!つやつや担任",

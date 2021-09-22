@@ -1,5 +1,9 @@
 {
     "title": "Atarimae no Zeitaku.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236817.jpg",
+        "alt": "atarimae-no-zeitaku"
+    },
     "type": "manga",
     "original_name": "あたりまえのぜひたく。",
     "start_date": "2014-10-05",

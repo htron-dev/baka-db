@@ -1,5 +1,9 @@
 {
     "title": "Makin' Purple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36085.jpg",
+        "alt": "makin-purple"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

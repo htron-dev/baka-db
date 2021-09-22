@@ -1,5 +1,9 @@
 {
     "title": "Inari, Konkon, Koi Iroha.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188898.jpg",
+        "alt": "inari-konkon-koi-iroha"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "53",

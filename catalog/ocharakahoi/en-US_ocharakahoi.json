@@ -1,5 +1,9 @@
 {
     "title": "Ocharakahoi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15346.jpg",
+        "alt": "ocharakahoi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "おちゃらかほい",
@@ -12,7 +16,6 @@
         "Yabuuchi",
         "Yuu (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

@@ -1,5 +1,9 @@
 {
     "title": "Houtou Musuko to Sewagakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191471.jpg",
+        "alt": "houtou-musuko-to-sewagakari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

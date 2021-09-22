@@ -1,5 +1,9 @@
 {
     "title": "Spec: Rei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149783.jpg",
+        "alt": "spec-rei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

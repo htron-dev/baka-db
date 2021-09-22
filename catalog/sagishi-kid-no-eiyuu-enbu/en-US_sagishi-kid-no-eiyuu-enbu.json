@@ -1,5 +1,9 @@
 {
     "title": "Sagishi Kid no Eiyuu Enbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158953.jpg",
+        "alt": "sagishi-kid-no-eiyuu-enbu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

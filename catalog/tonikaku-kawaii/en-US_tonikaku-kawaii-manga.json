@@ -1,5 +1,9 @@
 {
     "title": "Tonikaku Kawaii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209955.jpg",
+        "alt": "tonikaku-kawaii"
+    },
     "type": "manga",
     "original_name": "トニカクカワイイ",
     "start_date": "2018-02-14",

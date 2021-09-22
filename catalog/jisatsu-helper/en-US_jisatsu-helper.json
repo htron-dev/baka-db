@@ -1,5 +1,9 @@
 {
     "title": "Jisatsu Helper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44871.jpg",
+        "alt": "jisatsu-helper"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "自殺ヘルパー",

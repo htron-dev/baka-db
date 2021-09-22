@@ -1,5 +1,9 @@
 {
     "title": "Futari no Tame ni Sekai wa Aru no.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161125.jpg",
+        "alt": "futari-no-tame-ni-sekai-wa-aru-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

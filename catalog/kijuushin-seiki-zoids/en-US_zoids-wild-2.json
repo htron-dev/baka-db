@@ -1,5 +1,9 @@
 {
     "title": "Zoids Wild 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227570.jpg",
+        "alt": "zoids-wild-2"
+    },
     "type": "manga",
     "original_name": "ゾイドワイルド 2",
     "start_date": "2019-08-10",

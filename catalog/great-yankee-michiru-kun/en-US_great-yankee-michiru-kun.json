@@ -1,5 +1,9 @@
 {
     "title": "Great Yankee Michiru-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194228.jpg",
+        "alt": "great-yankee-michiru-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

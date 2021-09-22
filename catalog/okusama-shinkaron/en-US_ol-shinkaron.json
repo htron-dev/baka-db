@@ -1,5 +1,9 @@
 {
     "title": "OL Shinkaron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37711.jpg",
+        "alt": "ol-shinkaron"
+    },
     "type": "manga",
     "original_name": "OL 進化論",
     "tags": [

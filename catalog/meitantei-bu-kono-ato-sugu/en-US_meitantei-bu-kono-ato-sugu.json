@@ -1,5 +1,9 @@
 {
     "title": "Meitantei-bu Kono Ato Sugu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167203.jpg",
+        "alt": "meitantei-bu-kono-ato-sugu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

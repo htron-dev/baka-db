@@ -1,5 +1,9 @@
 {
     "title": "Chikara Bashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1114/112168.jpg",
+        "alt": "chikara-bashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ちからばし",

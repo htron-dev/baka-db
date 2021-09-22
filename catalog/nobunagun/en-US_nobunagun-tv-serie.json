@@ -1,12 +1,16 @@
 {
     "title": "Nobunagun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/58141.jpg",
+        "alt": "nobunagun"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ノブナガン",
     "start_date": "2014-01-05",
     "end_date": "2014-01-05",
     "opening_song": "\"Respect for the dead man\" by Pay money To my Pain (featuring Ken & Teru from Crossfaith)",
-    "ending_song": "#1",
+    "ending_song": "#1:\"Respect for the dead man\" by Pay money To my Pain (featuring Ken & Teru from Crossfaith) (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

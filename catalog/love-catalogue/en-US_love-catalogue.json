@@ -1,5 +1,9 @@
 {
     "title": "Love Catalogue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6483.jpg",
+        "alt": "love-catalogue"
+    },
     "type": "manga",
     "volumes": "34",
     "original_name": "恋愛カタログ",

@@ -1,5 +1,9 @@
 {
     "title": "Gegege no Kitarou: Kitarou no Yuurei Densha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/22651.jpg",
+        "alt": "gegege-no-kitarou-kitarou-no-yuurei-densha"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゲゲゲの鬼太郎 鬼太郎の幽霊電車",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/ゲゲゲの鬼太郎_(アニメ"
+            "link": "http://ja.wikipedia.org/wiki/ゲゲゲの鬼太郎_%28アニメ%29#3D.E6.98.A0.E7.94.BB.EF.BC.88.E7.AC.AC4.E4.BD.9C.EF.BC.89"
         }
     ]
 }

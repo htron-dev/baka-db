@@ -1,5 +1,9 @@
 {
     "title": "Wu Shan Wu Xing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1335/108930.jpg",
+        "alt": "wu-shan-wu-xing"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "雾山五行",

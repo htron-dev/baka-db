@@ -1,5 +1,9 @@
 {
     "title": "Tokkyuu Guild e Youkoso! @comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240912.jpg",
+        "alt": "tokkyuu-guild-e-youkoso-comic"
+    },
     "type": "manga",
     "original_name": "特級ギルドへようこそ!＠COMIC",
     "start_date": "2020-01-06",

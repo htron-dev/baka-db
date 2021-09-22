@@ -1,5 +1,9 @@
 {
     "title": "Suki de Ippai♡",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197865.jpg",
+        "alt": "suki-de-ippai♡"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

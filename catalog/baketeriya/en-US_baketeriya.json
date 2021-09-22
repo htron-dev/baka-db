@@ -1,5 +1,9 @@
 {
     "title": "Baketeriya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83965.jpg",
+        "alt": "baketeriya"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

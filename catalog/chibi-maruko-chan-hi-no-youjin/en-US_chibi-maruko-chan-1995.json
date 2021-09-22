@@ -1,10 +1,14 @@
 {
     "title": "Chibi Maruko-chan (1995)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1108/100604.jpg",
+        "alt": "chibi-maruko-chan-1995"
+    },
     "type": "tv-serie",
     "original_name": "ちびまる子ちゃん",
     "start_date": "1995-01-08",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Ureshii Yokan\" by Marina Watanabe (ep 1-73)",
+    "ending_song": "#01: \"Hari-kiri Jiisan no Rock 'n' Roll\" by Hitoshi Ueki (eps 1-???)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

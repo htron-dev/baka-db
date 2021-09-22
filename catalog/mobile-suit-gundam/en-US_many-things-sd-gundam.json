@@ -1,5 +1,9 @@
 {
     "title": "Many Things SD Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/74217.jpg",
+        "alt": "many-things-sd-gundam"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "SD 百科",

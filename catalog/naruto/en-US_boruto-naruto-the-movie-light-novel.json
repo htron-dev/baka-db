@@ -1,5 +1,9 @@
 {
     "title": "Boruto: Naruto the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164766.jpg",
+        "alt": "boruto-naruto-the-movie"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

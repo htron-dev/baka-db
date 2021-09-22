@@ -1,5 +1,9 @@
 {
     "title": "The Four Seasons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/72802.jpg",
+        "alt": "the-four-seasons"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "The Four Seasons",

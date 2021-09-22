@@ -1,12 +1,16 @@
 {
     "title": "Love Live! School Idol Project 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/59101.jpg",
+        "alt": "love-live-school-idol-project-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ラブライブ! School idol project 2 期",
     "start_date": "2014-04-06",
     "end_date": "2014-04-06",
     "opening_song": "\"Sore wa Bokutachi no Kiseki (それは僕たちの奇跡)\" by μ's (eps 2-12)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Sore wa Bokutachi no Kiseki (それは僕たちの奇跡)\" by μ's (eps 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

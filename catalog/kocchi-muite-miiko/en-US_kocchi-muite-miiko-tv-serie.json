@@ -1,5 +1,9 @@
 {
     "title": "Kocchi Muite Miiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1182/107747.jpg",
+        "alt": "kocchi-muite-miiko"
+    },
     "type": "tv-serie",
     "episodes": "42",
     "original_name": "こっちむいてみい子",

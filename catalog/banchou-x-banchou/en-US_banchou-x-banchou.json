@@ -1,5 +1,9 @@
 {
     "title": "Banchou x Banchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246396.jpg",
+        "alt": "banchou-x-banchou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

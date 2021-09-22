@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195794.jpg",
+        "alt": "hatsukoi-no-sekai"
+    },
     "type": "manga",
     "original_name": "初恋の世界",
     "start_date": "2016-01-28",

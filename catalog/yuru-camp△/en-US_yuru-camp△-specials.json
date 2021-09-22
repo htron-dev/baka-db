@@ -1,5 +1,9 @@
 {
     "title": "Yuru Camp△ Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1258/91059.jpg",
+        "alt": "yuru-camp△-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ゆるキャン △",

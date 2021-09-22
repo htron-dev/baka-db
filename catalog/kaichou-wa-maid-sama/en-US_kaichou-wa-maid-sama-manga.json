@@ -1,5 +1,9 @@
 {
     "title": "Kaichou wa Maid-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120073.jpg",
+        "alt": "kaichou-wa-maid-sama"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "98",

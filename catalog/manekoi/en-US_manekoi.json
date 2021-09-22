@@ -1,5 +1,9 @@
 {
     "title": "Manekoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65613.jpg",
+        "alt": "manekoi"
+    },
     "type": "manga",
     "original_name": "まねこい",
     "start_date": "2009-11-12",

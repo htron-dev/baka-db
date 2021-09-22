@@ -1,5 +1,9 @@
 {
     "title": "Isekai Shikkaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229381.jpg",
+        "alt": "isekai-shikkaku"
+    },
     "type": "manga",
     "original_name": "異世界失格",
     "start_date": "2019-10-02",

@@ -1,5 +1,9 @@
 {
     "title": "Trouble Love Attack!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162601.jpg",
+        "alt": "trouble-love-attack"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "トラブル・ラブ・アタック！",

@@ -1,5 +1,9 @@
 {
     "title": "Onna Kyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235746.jpg",
+        "alt": "onna-kyoushi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "51",

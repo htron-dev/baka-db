@@ -1,5 +1,9 @@
 {
     "title": "Midgard no Shugosha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/91513.jpg",
+        "alt": "midgard-no-shugosha"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "14",

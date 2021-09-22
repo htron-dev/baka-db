@@ -1,5 +1,9 @@
 {
     "title": "Futari no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203701.jpg",
+        "alt": "futari-no-kimochi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "97",

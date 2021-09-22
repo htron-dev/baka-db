@@ -1,5 +1,9 @@
 {
     "title": "Yakuzaishi Kyoukai no Recruit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161535.jpg",
+        "alt": "yakuzaishi-kyoukai-no-recruit"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

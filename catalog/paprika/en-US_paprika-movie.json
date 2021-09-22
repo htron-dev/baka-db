@@ -1,5 +1,9 @@
 {
     "title": "Paprika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1929/93629.jpg",
+        "alt": "paprika"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "パプリカ",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Paprika_(2006_film"
+            "link": "http://en.wikipedia.org/wiki/Paprika_%282006_film%29"
         }
     ]
 }

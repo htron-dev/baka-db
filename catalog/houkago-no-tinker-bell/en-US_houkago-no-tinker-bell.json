@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Tinker Bell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/37213.jpg",
+        "alt": "houkago-no-tinker-bell"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "放課後のティンカー・ベル",

@@ -1,5 +1,9 @@
 {
     "title": "Basquash!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189510.jpg",
+        "alt": "basquash"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

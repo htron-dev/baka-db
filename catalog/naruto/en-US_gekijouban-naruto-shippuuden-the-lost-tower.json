@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban Naruto: Shippuuden - The Lost Tower",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172679.jpg",
+        "alt": "gekijouban-naruto-shippuuden-the-lost-tower"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "劇場版 NARUTO 疾風伝 ザ・ロストタワー",

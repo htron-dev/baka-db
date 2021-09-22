@@ -1,5 +1,9 @@
 {
     "title": "Shinjuu suru made, Mattete ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238138.jpg",
+        "alt": "shinjuu-suru-made-mattete-ne"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

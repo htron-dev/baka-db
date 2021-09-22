@@ -1,5 +1,9 @@
 {
     "title": "Shuuai: Kago no Naka no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153325.jpg",
+        "alt": "shuuai-kago-no-naka-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

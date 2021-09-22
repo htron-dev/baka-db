@@ -1,5 +1,9 @@
 {
     "title": "Kemono no Souja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169316.jpg",
+        "alt": "kemono-no-souja"
+    },
     "type": "light-novel",
     "volumes": "8",
     "original_name": "獣の奏者",

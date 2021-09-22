@@ -1,5 +1,9 @@
 {
     "title": "Hiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157361.jpg",
+        "alt": "hiru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Song of the Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40990.jpg",
+        "alt": "song-of-the-doll"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "15",

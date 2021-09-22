@@ -1,5 +1,9 @@
 {
     "title": "Narikawari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219560.jpg",
+        "alt": "narikawari"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "72",

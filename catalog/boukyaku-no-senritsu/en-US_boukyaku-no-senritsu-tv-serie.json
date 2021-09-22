@@ -1,5 +1,9 @@
 {
     "title": "Boukyaku no Senritsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/52679.jpg",
+        "alt": "boukyaku-no-senritsu"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "忘却の旋律",

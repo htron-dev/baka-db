@@ -1,5 +1,9 @@
 {
     "title": "Marathon Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39054.jpg",
+        "alt": "marathon-man"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "163",

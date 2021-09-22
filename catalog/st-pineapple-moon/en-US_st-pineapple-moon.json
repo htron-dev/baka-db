@@ -1,5 +1,9 @@
 {
     "title": "St. Pineapple Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15168.jpg",
+        "alt": "st-pineapple-moon"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "St.パイナップル・ムーン",

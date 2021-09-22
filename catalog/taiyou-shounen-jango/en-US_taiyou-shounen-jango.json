@@ -1,5 +1,9 @@
 {
     "title": "Taiyou Shounen Jango",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11832.jpg",
+        "alt": "taiyou-shounen-jango"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "47",

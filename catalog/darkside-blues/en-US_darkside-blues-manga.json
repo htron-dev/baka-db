@@ -1,5 +1,9 @@
 {
     "title": "Darkside Blues",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/840.jpg",
+        "alt": "darkside-blues"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ダークサイド・ブルース",

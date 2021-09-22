@@ -1,5 +1,9 @@
 {
     "title": "Black Bird",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15666.jpg",
+        "alt": "black-bird"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "84",

@@ -1,5 +1,9 @@
 {
     "title": "Kurage no Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1285/112446.jpg",
+        "alt": "kurage-no-shokudou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "クラゲの食堂",

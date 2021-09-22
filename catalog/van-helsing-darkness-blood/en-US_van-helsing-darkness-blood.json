@@ -1,5 +1,9 @@
 {
     "title": "Van Helsing: Darkness Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165423.jpg",
+        "alt": "van-helsing-darkness-blood"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

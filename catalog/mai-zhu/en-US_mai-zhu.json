@@ -1,5 +1,9 @@
 {
     "title": "Mai Zhu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/54833.jpg",
+        "alt": "mai-zhu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "卖猪",

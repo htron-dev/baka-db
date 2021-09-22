@@ -1,5 +1,9 @@
 {
     "title": "The Breaker: New Waves",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62105.jpg",
+        "alt": "the-breaker-new-waves"
+    },
     "type": "manhwa",
     "volumes": "20",
     "chapters": "203",

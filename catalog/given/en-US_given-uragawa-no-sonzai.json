@@ -1,5 +1,9 @@
 {
     "title": "Given: Uragawa no Sonzai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1031/115154.jpg",
+        "alt": "given-uragawa-no-sonzai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ギヴン うらがわの存在",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Given_(manga"
+            "link": "https://en.wikipedia.org/wiki/Given_%28manga%29#Anime"
         }
     ]
 }

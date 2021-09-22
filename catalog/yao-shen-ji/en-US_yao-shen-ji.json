@@ -1,5 +1,9 @@
 {
     "title": "Yao Shen Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88177.jpg",
+        "alt": "yao-shen-ji"
+    },
     "type": "ona",
     "episodes": "40",
     "original_name": "妖神记",

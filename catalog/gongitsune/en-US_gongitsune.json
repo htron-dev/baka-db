@@ -1,5 +1,9 @@
 {
     "title": "Gongitsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1334/112728.jpg",
+        "alt": "gongitsune"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ごんぎつね",

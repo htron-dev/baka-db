@@ -1,5 +1,9 @@
 {
     "title": "Doujin Katsudou, Hajimemashita!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205527.jpg",
+        "alt": "doujin-katsudou-hajimemashita"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

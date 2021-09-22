@@ -1,5 +1,9 @@
 {
     "title": "Tabun Motto Suki ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128103.jpg",
+        "alt": "tabun-motto-suki-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

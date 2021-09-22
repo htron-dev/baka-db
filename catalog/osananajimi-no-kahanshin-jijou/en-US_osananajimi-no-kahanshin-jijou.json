@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi no Kahanshin Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235079.jpg",
+        "alt": "osananajimi-no-kahanshin-jijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Under the Glass Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1934.jpg",
+        "alt": "under-the-glass-moon"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "18",

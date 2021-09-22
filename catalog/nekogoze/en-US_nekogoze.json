@@ -1,5 +1,9 @@
 {
     "title": "Nekogoze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152444.jpg",
+        "alt": "nekogoze"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Daidokoro no Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221582.jpg",
+        "alt": "daidokoro-no-dragon"
+    },
     "type": "manga",
     "original_name": "台所のドラゴン",
     "start_date": "2017-06-23",

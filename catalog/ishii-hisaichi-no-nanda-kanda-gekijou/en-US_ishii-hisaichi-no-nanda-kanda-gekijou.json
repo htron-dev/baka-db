@@ -1,5 +1,9 @@
 {
     "title": "Ishii Hisaichi no Nanda Kanda Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/67883.jpg",
+        "alt": "ishii-hisaichi-no-nanda-kanda-gekijou"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "いしいひさいちのナンダカンダ劇場",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/%E5%9C%B0%E5%BA%95%E4%BA%BA_(%E6%BC%AB%E7%94%BB"
+            "link": "http://ja.wikipedia.org/wiki/%E5%9C%B0%E5%BA%95%E4%BA%BA_%28%E6%BC%AB%E7%94%BB%29#OVA.E7.89.88"
         }
     ]
 }

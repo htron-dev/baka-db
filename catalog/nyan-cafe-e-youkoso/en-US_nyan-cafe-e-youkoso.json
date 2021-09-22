@@ -1,5 +1,9 @@
 {
     "title": "Nyan Cafe e Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79569.jpg",
+        "alt": "nyan-cafe-e-youkoso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

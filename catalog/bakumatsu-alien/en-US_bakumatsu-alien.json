@@ -1,5 +1,9 @@
 {
     "title": "Bakumatsu Alien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92657.jpg",
+        "alt": "bakumatsu-alien"
+    },
     "type": "manga",
     "original_name": "幕末ヱイリアン",
     "start_date": "2012-06-08",

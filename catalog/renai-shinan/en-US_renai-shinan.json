@@ -1,5 +1,9 @@
 {
     "title": "Renai Shinan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9303.jpg",
+        "alt": "renai-shinan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

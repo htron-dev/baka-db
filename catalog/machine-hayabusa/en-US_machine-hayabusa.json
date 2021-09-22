@@ -1,5 +1,9 @@
 {
     "title": "Machine Hayabusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/29015.jpg",
+        "alt": "machine-hayabusa"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "マシンハヤブサ",

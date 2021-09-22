@@ -1,5 +1,9 @@
 {
     "title": "Haou♥Airen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92347.jpg",
+        "alt": "haou♥-airen"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "52",

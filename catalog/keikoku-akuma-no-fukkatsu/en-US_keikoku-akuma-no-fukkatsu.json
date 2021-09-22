@@ -1,5 +1,9 @@
 {
     "title": "Keikoku - Akuma no Fukkatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/47831.jpg",
+        "alt": "keikoku-akuma-no-fukkatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

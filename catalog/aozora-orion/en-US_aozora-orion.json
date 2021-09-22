@@ -1,5 +1,9 @@
 {
     "title": "Aozora Orion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238597.jpg",
+        "alt": "aozora-orion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

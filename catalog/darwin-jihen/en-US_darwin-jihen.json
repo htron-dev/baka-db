@@ -1,5 +1,9 @@
 {
     "title": "Darwin Jihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236307.jpg",
+        "alt": "darwin-jihen"
+    },
     "type": "manga",
     "original_name": "ダーウィン事変",
     "start_date": "2020-06-25",

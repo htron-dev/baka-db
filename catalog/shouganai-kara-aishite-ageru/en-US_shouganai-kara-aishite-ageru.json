@@ -1,5 +1,9 @@
 {
     "title": "Shouganai kara Aishite Ageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246477.jpg",
+        "alt": "shouganai-kara-aishite-ageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

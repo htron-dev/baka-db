@@ -1,5 +1,9 @@
 {
     "title": "Blue Rose Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200643.jpg",
+        "alt": "blue-rose-age"
+    },
     "type": "manga",
     "original_name": "Blue Rose Age",
     "start_date": "2016-09-07",

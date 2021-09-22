@@ -1,5 +1,9 @@
 {
     "title": "Kimi-iro Focus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61661.jpg",
+        "alt": "kimi-iro-focus"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

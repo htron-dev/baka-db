@@ -1,5 +1,9 @@
 {
     "title": "McDull: Fan Bao Qibing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1382/112737.jpg",
+        "alt": "mc-dull-fan-bao-qibing"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "麥兜·飯寶奇兵",

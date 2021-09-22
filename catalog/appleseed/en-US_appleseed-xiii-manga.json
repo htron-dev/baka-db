@@ -1,5 +1,9 @@
 {
     "title": "Appleseed XIII",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133455.jpg",
+        "alt": "appleseed-xiii"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "アップルシード XIII",

@@ -1,5 +1,9 @@
 {
     "title": "Gingirl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1874/91254.jpg",
+        "alt": "gingirl"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ギンガール",

@@ -1,5 +1,9 @@
 {
     "title": "Ichiban Suki na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58879.jpg",
+        "alt": "ichiban-suki-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Lupin Kozou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220679.jpg",
+        "alt": "lupin-kozou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

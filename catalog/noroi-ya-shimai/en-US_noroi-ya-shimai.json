@@ -1,5 +1,9 @@
 {
     "title": "Noroi-ya Shimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/99201.jpg",
+        "alt": "noroi-ya-shimai"
+    },
     "type": "manga",
     "original_name": "のろい屋しまい",
     "start_date": "2006-09-19",

@@ -1,5 +1,9 @@
 {
     "title": "Naomi damon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229502.jpg",
+        "alt": "naomi-damon"
+    },
     "type": "manga",
     "volumes": "16",
     "original_name": "ナオミだもん",

@@ -1,5 +1,9 @@
 {
     "title": "Hangyaku no kamon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59021.jpg",
+        "alt": "hangyaku-no-kamon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ecchi na Honne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9243.jpg",
+        "alt": "ecchi-na-honne"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "えっちなホンネ",

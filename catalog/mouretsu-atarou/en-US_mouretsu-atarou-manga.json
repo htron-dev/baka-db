@@ -1,5 +1,9 @@
 {
     "title": "Mouretsu Atarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230360.jpg",
+        "alt": "mouretsu-atarou"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "130",

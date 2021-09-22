@@ -1,5 +1,9 @@
 {
     "title": "Okite Kudasai, Kusakabe-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212730.jpg",
+        "alt": "okite-kudasai-kusakabe-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

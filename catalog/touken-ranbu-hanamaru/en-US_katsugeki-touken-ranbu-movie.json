@@ -1,5 +1,9 @@
 {
     "title": "Katsugeki/Touken Ranbu Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/87874.jpg",
+        "alt": "katsugeki-touken-ranbu-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 活撃/刀剣乱舞",

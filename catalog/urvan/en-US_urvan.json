@@ -1,5 +1,9 @@
 {
     "title": "Urvan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1650/112507.jpg",
+        "alt": "urvan"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "URVAN",

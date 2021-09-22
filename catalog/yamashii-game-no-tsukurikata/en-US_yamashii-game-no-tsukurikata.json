@@ -1,5 +1,9 @@
 {
     "title": "Yamashii Game no Tsukurikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171719.jpg",
+        "alt": "yamashii-game-no-tsukurikata"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Persona x Tantei Naoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117915.jpg",
+        "alt": "persona-x-tantei-naoto"
+    },
     "type": "manga",
     "chapters": "20",
     "original_name": "ペルソナ × 探偵 NAOTO",

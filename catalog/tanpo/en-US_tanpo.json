@@ -1,5 +1,9 @@
 {
     "title": "Tanpo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163841.jpg",
+        "alt": "tanpo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

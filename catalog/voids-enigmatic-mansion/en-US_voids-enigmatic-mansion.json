@@ -1,5 +1,9 @@
 {
     "title": "Void's Enigmatic Mansion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189583.jpg",
+        "alt": "voids-enigmatic-mansion"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "보이드 씨의 기묘한 저택",

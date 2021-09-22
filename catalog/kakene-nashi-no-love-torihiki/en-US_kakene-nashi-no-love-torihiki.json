@@ -1,5 +1,9 @@
 {
     "title": "Kakene Nashi no LOVE Torihiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125541.jpg",
+        "alt": "kakene-nashi-no-love-torihiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ore no Ushiro ni Tatsuna!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/103891.jpg",
+        "alt": "ore-no-ushiro-ni-tatsuna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

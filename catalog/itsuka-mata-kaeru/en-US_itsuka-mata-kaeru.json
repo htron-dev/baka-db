@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Mata Kaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197979.jpg",
+        "alt": "itsuka-mata-kaeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Sensei datte Gaman Shiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178383.jpg",
+        "alt": "sensei-datte-gaman-shiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

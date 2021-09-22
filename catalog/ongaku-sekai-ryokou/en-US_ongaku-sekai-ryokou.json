@@ -1,5 +1,9 @@
 {
     "title": "Ongaku Sekai Ryokou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/70731.jpg",
+        "alt": "ongaku-sekai-ryokou"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "おんがく世界りょこう",

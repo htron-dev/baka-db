@@ -1,5 +1,9 @@
 {
     "title": "End of Balor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238789.jpg",
+        "alt": "end-of-balor"
+    },
     "type": "manga",
     "original_name": "エンド・オブ・バロル",
     "start_date": "2020-06-27",

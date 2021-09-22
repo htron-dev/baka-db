@@ -1,5 +1,9 @@
 {
     "title": "Yumemi na Psychic!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/13175.jpg",
+        "alt": "yumemi-na-psychic"
+    },
     "type": "manga",
     "volumes": "3",
     "tags": [

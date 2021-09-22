@@ -1,11 +1,15 @@
 {
     "title": "Military!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/68837.jpg",
+        "alt": "military"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "みりたり!",
     "start_date": "2015-01-07",
     "end_date": "2015-01-07",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Militarism! M870 ver. (みりたりずむ! M870ver.)\" by Rutgalnikov Chuui (Nao Touyama)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "ecchi",

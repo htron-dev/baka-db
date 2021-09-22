@@ -1,5 +1,9 @@
 {
     "title": "Venomania-kou no Kyouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/110865.jpg",
+        "alt": "venomania-kou-no-kyouki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

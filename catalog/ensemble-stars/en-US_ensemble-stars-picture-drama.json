@@ -1,5 +1,9 @@
 {
     "title": "Ensemble Stars! Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1993/103322.jpg",
+        "alt": "ensemble-stars-picture-drama"
+    },
     "type": "special",
     "episodes": "12",
     "original_name": "あんさんぶるスターズ！ピクチャードラマ",

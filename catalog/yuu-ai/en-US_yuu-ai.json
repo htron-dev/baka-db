@@ -1,5 +1,9 @@
 {
     "title": "Yuu Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167367.jpg",
+        "alt": "yuu-ai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

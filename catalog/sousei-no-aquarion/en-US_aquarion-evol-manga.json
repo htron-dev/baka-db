@@ -1,5 +1,9 @@
 {
     "title": "Aquarion Evol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147529.jpg",
+        "alt": "aquarion-evol"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

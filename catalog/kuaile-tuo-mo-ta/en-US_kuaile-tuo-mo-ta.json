@@ -1,5 +1,9 @@
 {
     "title": "Kuaile Tuo Mo Ta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1952/115225.jpg",
+        "alt": "kuaile-tuo-mo-ta"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "快乐椭魔塔",

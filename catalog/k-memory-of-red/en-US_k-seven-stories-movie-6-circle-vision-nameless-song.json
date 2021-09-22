@@ -1,5 +1,9 @@
 {
     "title": "K: Seven Stories Movie 6 - Circle Vision - Nameless Song",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1491/92832.jpg",
+        "alt": "k-seven-stories-movie-6-circle-vision-nameless-song"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "K Seven Stories Circle Vision ~Nameless Song~",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/K_(anime"
+            "link": "https://en.wikipedia.org/wiki/K_%28anime%29"
         }
     ]
 }

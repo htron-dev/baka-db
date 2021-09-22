@@ -1,5 +1,9 @@
 {
     "title": "Han-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124933.jpg",
+        "alt": "han-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "半ちゃん",

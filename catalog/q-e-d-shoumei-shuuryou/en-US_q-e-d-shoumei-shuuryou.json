@@ -1,5 +1,9 @@
 {
     "title": "Q.E.D.: Shoumei Shuuryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156124.jpg",
+        "alt": "q-e-d-shoumei-shuuryou"
+    },
     "type": "manga",
     "volumes": "50",
     "chapters": "99",

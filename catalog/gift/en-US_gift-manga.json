@@ -1,5 +1,9 @@
 {
     "title": "Gift±",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161383.jpg",
+        "alt": "gift"
+    },
     "type": "manga",
     "original_name": "ギフト ±",
     "start_date": "2015-03-20",

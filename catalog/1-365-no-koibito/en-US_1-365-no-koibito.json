@@ -1,5 +1,9 @@
 {
     "title": "1/365 no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220420.jpg",
+        "alt": "1-365-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

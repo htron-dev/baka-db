@@ -1,5 +1,9 @@
 {
     "title": "Kokuen no Valkyrie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224717.jpg",
+        "alt": "kokuen-no-valkyrie"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,12 +1,16 @@
 {
     "title": "RahXephon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75168.jpg",
+        "alt": "rah-xephon"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ラーゼフォン",
     "start_date": "2002-01-21",
     "end_date": "2002-01-21",
-    "opening_song": "#01",
-    "ending_song": "#1",
+    "opening_song": "#01: \"Hemisphere\" by Maaya Sakamoto (eps 2-3, 5-25)",
+    "ending_song": "#1: \"Yume no Tamago\" (\"Fledgling Dream\" English version) by Ichiko and Mayumi Hashimoto (ep 1, 5, 15-16, 19, 25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

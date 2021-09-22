@@ -1,5 +1,9 @@
 {
     "title": "Nice Guy Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/208955.jpg",
+        "alt": "nice-guy-syndrome"
+    },
     "type": "manhwa",
     "volumes": "11",
     "original_name": "예쁜남자 신드롬",

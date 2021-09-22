@@ -1,5 +1,9 @@
 {
     "title": "Junjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/25928.jpg",
+        "alt": "junjou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

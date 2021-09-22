@@ -1,5 +1,9 @@
 {
     "title": "Yandere Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159812.jpg",
+        "alt": "yandere-kanojo"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "157",

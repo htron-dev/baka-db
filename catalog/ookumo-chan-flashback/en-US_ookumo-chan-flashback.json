@@ -1,5 +1,9 @@
 {
     "title": "Ookumo-chan Flashback",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202208.jpg",
+        "alt": "ookumo-chan-flashback"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

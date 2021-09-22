@@ -1,5 +1,9 @@
 {
     "title": "Shura no Mon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46221.jpg",
+        "alt": "shura-no-mon"
+    },
     "type": "manga",
     "volumes": "31",
     "chapters": "320",

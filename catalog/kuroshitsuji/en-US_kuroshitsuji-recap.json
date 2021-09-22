@@ -1,5 +1,9 @@
 {
     "title": "Kuroshitsuji Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/13586.jpg",
+        "alt": "kuroshitsuji-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "タナカのナレーションで振り返る黒執事ダイジェスト",

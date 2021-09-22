@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Hitorigurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195796.jpg",
+        "alt": "kanojo-no-hitorigurashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "36",

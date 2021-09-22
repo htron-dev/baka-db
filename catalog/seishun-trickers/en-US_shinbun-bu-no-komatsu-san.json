@@ -1,5 +1,9 @@
 {
     "title": "Shinbun-bu no Komatsu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129475.jpg",
+        "alt": "shinbun-bu-no-komatsu-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Fuuki no Okite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23413.jpg",
+        "alt": "fuuki-no-okite"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

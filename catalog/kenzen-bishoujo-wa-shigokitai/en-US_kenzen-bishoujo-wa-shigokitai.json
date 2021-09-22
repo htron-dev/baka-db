@@ -1,5 +1,9 @@
 {
     "title": "Kenzen Bishoujo wa Shigokitai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244158.jpg",
+        "alt": "kenzen-bishoujo-wa-shigokitai"
+    },
     "type": "manga",
     "original_name": "健全美少女はシゴきたい!!",
     "start_date": "2020-08-28",

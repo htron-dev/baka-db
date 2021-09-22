@@ -1,5 +1,9 @@
 {
     "title": "Ruka to Ita Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/50845.jpg",
+        "alt": "ruka-to-ita-natsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

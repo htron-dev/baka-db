@@ -1,5 +1,9 @@
 {
     "title": "Persona 4 The Magician",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/87417.jpg",
+        "alt": "persona-4-the-magician"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

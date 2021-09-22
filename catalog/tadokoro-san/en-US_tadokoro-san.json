@@ -1,5 +1,9 @@
 {
     "title": "Tadokoro-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236565.jpg",
+        "alt": "tadokoro-san"
+    },
     "type": "manga",
     "original_name": "田所さん",
     "start_date": "2019-08-09",

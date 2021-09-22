@@ -1,5 +1,9 @@
 {
     "title": "No.6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1474/90768.jpg",
+        "alt": "no-6"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "NO.6［ナンバー・シックス］",

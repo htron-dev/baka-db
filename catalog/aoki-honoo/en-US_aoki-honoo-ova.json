@@ -1,5 +1,9 @@
 {
     "title": "Aoki Honoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/25644.jpg",
+        "alt": "aoki-honoo"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "青き炎",

@@ -1,5 +1,9 @@
 {
     "title": "Ebiten: Kitan Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160214.jpg",
+        "alt": "ebiten-kitan-kitan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

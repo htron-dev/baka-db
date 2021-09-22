@@ -1,5 +1,9 @@
 {
     "title": "Beyblade Burst Sparking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1332/106530.jpg",
+        "alt": "beyblade-burst-sparking"
+    },
     "type": "ona",
     "episodes": "52",
     "original_name": "ベイブレードバースト スパーキング",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Beyblade_Burst#Beyblade_Burst_Sparking_(2020%E2%80%9321"
+            "link": "https://en.wikipedia.org/wiki/Beyblade_Burst#Beyblade_Burst_Sparking_%282020%E2%80%9321%29"
         }
     ]
 }

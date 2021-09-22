@@ -1,5 +1,9 @@
 {
     "title": "Ningen no Inai Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244991.jpg",
+        "alt": "ningen-no-inai-kuni"
+    },
     "type": "manga",
     "original_name": "人間のいない国",
     "start_date": "2019-10-25",

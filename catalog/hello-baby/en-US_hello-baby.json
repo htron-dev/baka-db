@@ -1,5 +1,9 @@
 {
     "title": "Hello Baby!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204660.jpg",
+        "alt": "hello-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

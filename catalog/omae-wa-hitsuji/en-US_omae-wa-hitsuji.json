@@ -1,5 +1,9 @@
 {
     "title": "Omae wa Hitsuji.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160517.jpg",
+        "alt": "omae-wa-hitsuji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

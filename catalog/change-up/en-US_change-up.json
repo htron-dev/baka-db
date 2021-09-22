@@ -1,5 +1,9 @@
 {
     "title": "Change up!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15183.jpg",
+        "alt": "change-up"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Doutei Zetsumetsu Rettou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226281.jpg",
+        "alt": "doutei-zetsumetsu-rettou"
+    },
     "type": "manga",
     "original_name": "童貞絶滅列島",
     "start_date": "2019-02-16",

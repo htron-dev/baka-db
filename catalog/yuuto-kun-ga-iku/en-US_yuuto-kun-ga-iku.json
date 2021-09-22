@@ -1,5 +1,9 @@
 {
     "title": "Yuuto-kun ga Iku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/51247.jpg",
+        "alt": "yuuto-kun-ga-iku"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ゆうとくんがいく",

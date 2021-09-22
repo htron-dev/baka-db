@@ -1,5 +1,9 @@
 {
     "title": "Houkai Seiki Joxer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132921.jpg",
+        "alt": "houkai-seiki-joxer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Akaneiro Confiture",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151402.jpg",
+        "alt": "akaneiro-confiture"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

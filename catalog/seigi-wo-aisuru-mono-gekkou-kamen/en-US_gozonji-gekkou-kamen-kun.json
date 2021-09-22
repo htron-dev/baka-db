@@ -1,12 +1,16 @@
 {
     "title": "Gozonji! Gekkou Kamen-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/11367.jpg",
+        "alt": "gozonji-gekkou-kamen-kun"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ごぞんじ！月光仮面くん",
     "start_date": "1999-10-03",
     "end_date": "1999-10-03",
     "opening_song": "\"Gekkou Kamen wa Dare Deshou (月光仮面は誰でしょう)\" by COA",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Colourful (カラフル)\" by Cyber Nation Network",
     "rating": "G - All Ages",
     "tags": [
         "parody",

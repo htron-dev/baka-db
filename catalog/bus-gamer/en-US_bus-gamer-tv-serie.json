@@ -1,5 +1,9 @@
 {
     "title": "Bus Gamer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75210.jpg",
+        "alt": "bus-gamer"
+    },
     "type": "tv-serie",
     "episodes": "3",
     "original_name": "BUS GAMER",

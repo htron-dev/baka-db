@@ -1,5 +1,9 @@
 {
     "title": "Her True Color",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37882.jpg",
+        "alt": "her-true-color"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "少女본색",

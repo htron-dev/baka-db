@@ -1,5 +1,9 @@
 {
     "title": "Honey\\*Smile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82108.jpg",
+        "alt": "honey-smile"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

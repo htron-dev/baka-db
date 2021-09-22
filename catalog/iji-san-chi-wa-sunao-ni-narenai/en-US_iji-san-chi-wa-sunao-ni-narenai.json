@@ -1,5 +1,9 @@
 {
     "title": "Iji-san Chi wa Sunao ni Narenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225407.jpg",
+        "alt": "iji-san-chi-wa-sunao-ni-narenai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

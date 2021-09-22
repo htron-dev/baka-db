@@ -1,5 +1,9 @@
 {
     "title": "Durarara!! Gaiden!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135361.jpg",
+        "alt": "durarara-gaiden"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

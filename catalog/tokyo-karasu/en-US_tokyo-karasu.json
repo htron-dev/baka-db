@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Karasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168480.jpg",
+        "alt": "tokyo-karasu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "60",

@@ -1,5 +1,9 @@
 {
     "title": "Oyasumi☆Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7280.jpg",
+        "alt": "oyasumi☆-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

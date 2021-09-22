@@ -1,5 +1,9 @@
 {
     "title": "Horikawa-san wa Ganbaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219243.jpg",
+        "alt": "horikawa-san-wa-ganbaranai"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

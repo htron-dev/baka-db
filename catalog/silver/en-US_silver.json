@@ -1,5 +1,9 @@
 {
     "title": "Silver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24953.jpg",
+        "alt": "silver"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "61",

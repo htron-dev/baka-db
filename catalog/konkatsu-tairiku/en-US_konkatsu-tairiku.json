@@ -1,5 +1,9 @@
 {
     "title": "Konkatsu Tairiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204949.jpg",
+        "alt": "konkatsu-tairiku"
+    },
     "type": "manga",
     "original_name": "婚活大陸",
     "start_date": "2017-11-28",

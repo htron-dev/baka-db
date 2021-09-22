@@ -1,5 +1,9 @@
 {
     "title": "Wild Arms Flower Thieves",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25873.jpg",
+        "alt": "wild-arms-flower-thieves"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

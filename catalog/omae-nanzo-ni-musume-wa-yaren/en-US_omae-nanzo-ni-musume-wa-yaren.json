@@ -1,5 +1,9 @@
 {
     "title": "Omae Nanzo ni Musume wa Yaren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164671.jpg",
+        "alt": "omae-nanzo-ni-musume-wa-yaren"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "おまえなんぞに娘はやれん",

@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Madam Holmes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232890.jpg",
+        "alt": "meitantei-madam-holmes"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

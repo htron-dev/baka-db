@@ -1,5 +1,9 @@
 {
     "title": "Hashire Jiroo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164333.jpg",
+        "alt": "hashire-jiroo"
+    },
     "type": "manga",
     "original_name": "ハシレジロー",
     "start_date": "2015-02-25",

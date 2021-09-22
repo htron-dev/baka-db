@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Mewtwo! Ware wa Koko ni Ari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/87922.jpg",
+        "alt": "pokemon-mewtwo-ware-wa-koko-ni-ari"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ポケットモンスター ミュウツー! 我ハココニ在リ",

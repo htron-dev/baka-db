@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Mahou no Ringo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/58697.jpg",
+        "alt": "hello-kitty-no-mahou-no-ringo"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのまほうのリンゴ",

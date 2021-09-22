@@ -1,5 +1,9 @@
 {
     "title": "Moko to Yuganda Satsujinki-domo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146859.jpg",
+        "alt": "moko-to-yuganda-satsujinki-domo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

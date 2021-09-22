@@ -1,5 +1,9 @@
 {
     "title": "I My Me! Strawberry Eggs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129179.jpg",
+        "alt": "i-my-me-strawberry-eggs"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "あぃまぃみぃ！ストロベリー・エッグ",

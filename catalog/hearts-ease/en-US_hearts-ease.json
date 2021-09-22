@@ -1,5 +1,9 @@
 {
     "title": "Heart's Ease",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79217.jpg",
+        "alt": "hearts-ease"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

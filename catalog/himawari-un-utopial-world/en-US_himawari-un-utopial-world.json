@@ -1,9 +1,13 @@
 {
     "title": "Himawari :unUtopial World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221658.jpg",
+        "alt": "himawari-un-utopial-world"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "47",
-    "original_name": "ヒマワリ",
+    "original_name": "ヒマワリ:unUtopial World",
     "start_date": "2016-02-01",
     "end_date": "2016-02-01",
     "tags": [

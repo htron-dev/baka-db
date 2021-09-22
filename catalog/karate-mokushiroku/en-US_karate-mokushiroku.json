@@ -1,5 +1,9 @@
 {
     "title": "Karate Mokushiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190999.jpg",
+        "alt": "karate-mokushiroku"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "カラテ黙示録",

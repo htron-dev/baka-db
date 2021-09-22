@@ -1,12 +1,16 @@
 {
     "title": "Zegapain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/76949.jpg",
+        "alt": "zegapain"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ゼーガペイン",
     "start_date": "2006-04-06",
     "end_date": "2006-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kimi e Mukau Hikari (キミヘ ムカウ ヒカリ)\" by Akino Arai (eps 2-25)",
+    "ending_song": "#1: \"Little Goodbye (リトルグッバイ)\" by Rocky Chack (eps 1-9, 11-21, 23-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

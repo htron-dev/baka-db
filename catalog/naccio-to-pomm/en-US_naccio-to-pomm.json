@@ -1,5 +1,9 @@
 {
     "title": "Naccio to Pomm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/70633.jpg",
+        "alt": "naccio-to-pomm"
+    },
     "type": "tv-serie",
     "episodes": "41",
     "original_name": "ナッチョとポム",

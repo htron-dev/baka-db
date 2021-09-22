@@ -1,5 +1,9 @@
 {
     "title": "Hansel and Gretel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/73059.jpg",
+        "alt": "hansel-and-gretel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

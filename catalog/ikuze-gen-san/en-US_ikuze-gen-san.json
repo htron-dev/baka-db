@@ -1,5 +1,9 @@
 {
     "title": "Ikuze! Gen-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/21195.jpg",
+        "alt": "ikuze-gen-san"
+    },
     "type": "ona",
     "episodes": "24",
     "original_name": "いくぜっ！源さん",

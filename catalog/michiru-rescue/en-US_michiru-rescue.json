@@ -1,5 +1,9 @@
 {
     "title": "Michiru Rescue!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1028/106225.jpg",
+        "alt": "michiru-rescue"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "みちるレスキュー!",

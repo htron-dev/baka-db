@@ -1,11 +1,15 @@
 {
     "title": "Cinderella Girls Gekijou: Climax Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1105/111610.jpg",
+        "alt": "cinderella-girls-gekijou-climax-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "シンデレラガールズ劇場 CLIMAX SEASON",
     "start_date": "2019-04-02",
     "end_date": "2019-04-02",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kyun Kyun Max (きゅん・きゅん・まっくす)\" by THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! (April 2019)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

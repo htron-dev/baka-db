@@ -1,5 +1,9 @@
 {
     "title": "Strobe Switch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72097.jpg",
+        "alt": "strobe-switch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

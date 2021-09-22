@@ -1,5 +1,9 @@
 {
     "title": "SiNNa 1905",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9279.jpg",
+        "alt": "si-n-na-1905"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

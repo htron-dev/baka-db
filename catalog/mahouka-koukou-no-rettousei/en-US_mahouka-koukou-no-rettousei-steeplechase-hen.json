@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei: Steeplechase-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234409.jpg",
+        "alt": "mahouka-koukou-no-rettousei-steeplechase-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

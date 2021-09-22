@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Seven Days Rhapsody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/27609.jpg",
+        "alt": "lupin-iii-seven-days-rhapsody"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世 「セブンデイズ・ラプソディ」",

@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit SD Gundam Festival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/25192.jpg",
+        "alt": "mobile-suit-sd-gundam-festival"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "機動戦士 SD ガンダムまつり",

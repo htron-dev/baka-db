@@ -1,5 +1,9 @@
 {
     "title": "Boys Be…: Young Adult",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208718.jpg",
+        "alt": "boys-be-young-adult"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

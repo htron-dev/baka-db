@@ -1,5 +1,9 @@
 {
     "title": "Reikan NEET",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/108325.jpg",
+        "alt": "reikan-neet"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

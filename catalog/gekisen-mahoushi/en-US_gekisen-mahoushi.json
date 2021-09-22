@@ -1,5 +1,9 @@
 {
     "title": "Gekisen Mahoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176456.jpg",
+        "alt": "gekisen-mahoushi"
+    },
     "type": "light-novel",
     "original_name": "撃戦魔法士",
     "start_date": "2015-06-18",

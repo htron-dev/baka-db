@@ -1,5 +1,9 @@
 {
     "title": "Honey Bitter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187416.jpg",
+        "alt": "honey-bitter"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "63",

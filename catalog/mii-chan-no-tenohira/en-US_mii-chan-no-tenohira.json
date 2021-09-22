@@ -1,5 +1,9 @@
 {
     "title": "Mii-chan no Tenohira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66783.jpg",
+        "alt": "mii-chan-no-tenohira"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "みいちゃんのてのひら",

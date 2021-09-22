@@ -1,5 +1,9 @@
 {
     "title": "Cat Shit One",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/25928.jpg",
+        "alt": "cat-shit-one"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "キャットシットワン",

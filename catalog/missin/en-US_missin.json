@@ -1,5 +1,9 @@
 {
     "title": "Missin'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23361.jpg",
+        "alt": "missin"
+    },
     "type": "light-novel",
     "volumes": "2",
     "start_date": "2000-01-20",

@@ -1,5 +1,9 @@
 {
     "title": "Log Horizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84004.jpg",
+        "alt": "log-horizon"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ログ・ホライズン",

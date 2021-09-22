@@ -1,5 +1,9 @@
 {
     "title": "Ikkyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105861.jpg",
+        "alt": "ikkyuu"
+    },
     "type": "manga",
     "original_name": "一休",
     "start_date": "2011-08-08",

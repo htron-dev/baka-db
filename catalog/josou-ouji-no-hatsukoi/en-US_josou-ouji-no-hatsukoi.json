@@ -1,5 +1,9 @@
 {
     "title": "Josou Ouji no Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184640.jpg",
+        "alt": "josou-ouji-no-hatsukoi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

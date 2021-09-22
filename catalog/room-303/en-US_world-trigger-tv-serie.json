@@ -1,12 +1,16 @@
 {
     "title": "World Trigger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1783/106843.jpg",
+        "alt": "world-trigger"
+    },
     "type": "tv-serie",
     "episodes": "73",
     "original_name": "ワールドトリガー",
     "start_date": "2014-10-05",
     "end_date": "2014-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"GIRIGIRI\" by Sonar Pocket (eps 1-23)",
+    "ending_song": "#1: \"Ashita no Hikari (アシタノヒカリ)\" by AAA (eps 24-26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

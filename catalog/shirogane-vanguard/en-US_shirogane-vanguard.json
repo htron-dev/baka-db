@@ -1,5 +1,9 @@
 {
     "title": "Shirogane Vanguard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171184.jpg",
+        "alt": "shirogane-vanguard"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "白銀ヴァンガード",

@@ -1,5 +1,9 @@
 {
     "title": "Kirakira no Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159041.jpg",
+        "alt": "kirakira-no-natsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

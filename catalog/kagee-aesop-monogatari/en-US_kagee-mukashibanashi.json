@@ -1,5 +1,9 @@
 {
     "title": "Kagee Mukashibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/70973.jpg",
+        "alt": "kagee-mukashibanashi"
+    },
     "type": "tv-serie",
     "episodes": "65",
     "original_name": "影絵むかし話",

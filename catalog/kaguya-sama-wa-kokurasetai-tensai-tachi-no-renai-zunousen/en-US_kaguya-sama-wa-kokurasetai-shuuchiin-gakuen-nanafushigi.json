@@ -1,5 +1,9 @@
 {
     "title": "Kaguya-sama wa Kokurasetai: Shuuchiin Gakuen Nanafushigi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215419.jpg",
+        "alt": "kaguya-sama-wa-kokurasetai-shuuchiin-gakuen-nanafushigi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Étoile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133649.jpg",
+        "alt": "himitsu-no-etoile"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

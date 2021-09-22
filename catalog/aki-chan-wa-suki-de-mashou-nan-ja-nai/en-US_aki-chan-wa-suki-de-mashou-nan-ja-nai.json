@@ -1,5 +1,9 @@
 {
     "title": "Aki-chan wa Suki de Mashou Nan ja Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225898.jpg",
+        "alt": "aki-chan-wa-suki-de-mashou-nan-ja-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

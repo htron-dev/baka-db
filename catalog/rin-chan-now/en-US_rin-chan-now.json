@@ -1,5 +1,9 @@
 {
     "title": "Rin-chan Now",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194943.jpg",
+        "alt": "rin-chan-now"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "リンちゃんなう",

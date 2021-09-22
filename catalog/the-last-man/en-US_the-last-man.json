@@ -1,5 +1,9 @@
 {
     "title": "The Last Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196152.jpg",
+        "alt": "the-last-man"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "134",

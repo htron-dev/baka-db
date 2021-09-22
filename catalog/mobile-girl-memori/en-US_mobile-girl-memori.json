@@ -1,5 +1,9 @@
 {
     "title": "Mobile Girl Memori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35576.jpg",
+        "alt": "mobile-girl-memori"
+    },
     "type": "manga",
     "original_name": "モバイルガールめもり",
     "start_date": "2010-04-30",

@@ -1,5 +1,9 @@
 {
     "title": "Xing You Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1375/90164.jpg",
+        "alt": "xing-you-ji"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "星游记 (第一季)",

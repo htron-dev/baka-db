@@ -1,12 +1,16 @@
 {
     "title": "Zoids Genesis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1906/109746.jpg",
+        "alt": "zoids-genesis"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ゾイド ジェネシス",
     "start_date": "2005-04-10",
     "end_date": "2005-04-10",
     "opening_song": "\"Yotaka no Yume (Nighthawk's Dream)\" by Do As Infinity",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Real Love\" by PARADISE GO!! GO!! (eps 1-28)",
     "rating": "PG - Children",
     "tags": [
         "action",

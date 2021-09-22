@@ -1,12 +1,16 @@
 {
     "title": "Naruto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+        "alt": "naruto"
+    },
     "type": "tv-serie",
     "episodes": "220",
     "original_name": "ナルト",
     "start_date": "2002-10-03",
     "end_date": "2002-10-03",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"R★O★C★K★S\", by Hound Dog (eps 1-25)",
+    "ending_song": "#01: \"Wind\" by Akeboshi (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

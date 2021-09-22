@@ -1,5 +1,9 @@
 {
     "title": "Saijou no Meii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/75577.jpg",
+        "alt": "saijou-no-meii"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "103",

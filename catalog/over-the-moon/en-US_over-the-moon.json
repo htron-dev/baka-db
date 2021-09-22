@@ -1,5 +1,9 @@
 {
     "title": "Over the Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19169.jpg",
+        "alt": "over-the-moon"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2004-01-20",

@@ -1,5 +1,9 @@
 {
     "title": "A.I. Revolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162173.jpg",
+        "alt": "a-i-revolution"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "81",

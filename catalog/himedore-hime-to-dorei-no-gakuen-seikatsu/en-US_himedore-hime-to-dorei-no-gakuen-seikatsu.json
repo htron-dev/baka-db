@@ -1,5 +1,9 @@
 {
     "title": "Himedore: Hime to Dorei no Gakuen Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225240.jpg",
+        "alt": "himedore-hime-to-dorei-no-gakuen-seikatsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

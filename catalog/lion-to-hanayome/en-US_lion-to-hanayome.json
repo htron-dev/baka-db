@@ -1,5 +1,9 @@
 {
     "title": "Lion to Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193707.jpg",
+        "alt": "lion-to-hanayome"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

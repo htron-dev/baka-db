@@ -1,5 +1,9 @@
 {
     "title": "Sweet Revenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11977.jpg",
+        "alt": "sweet-revenge"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スイート・リベンジ",

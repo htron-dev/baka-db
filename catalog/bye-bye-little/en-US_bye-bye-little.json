@@ -1,5 +1,9 @@
 {
     "title": "Bye-Bye, Little.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10060.jpg",
+        "alt": "bye-bye-little"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

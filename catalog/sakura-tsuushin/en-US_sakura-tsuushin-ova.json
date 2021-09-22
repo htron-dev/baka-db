@@ -1,5 +1,9 @@
 {
     "title": "Sakura Tsuushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/74961.jpg",
+        "alt": "sakura-tsuushin"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "桜通信",

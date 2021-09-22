@@ -1,5 +1,9 @@
 {
     "title": "Kataomoi Shrink",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222070.jpg",
+        "alt": "kataomoi-shrink"
+    },
     "type": "manga",
     "chapters": "32",
     "original_name": "片想いシュリンク",

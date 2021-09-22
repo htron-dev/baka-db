@@ -1,5 +1,9 @@
 {
     "title": "Kuruizuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206537.jpg",
+        "alt": "kuruizuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

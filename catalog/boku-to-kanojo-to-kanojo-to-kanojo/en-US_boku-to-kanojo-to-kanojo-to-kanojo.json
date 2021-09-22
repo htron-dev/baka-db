@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kanojo to Kanojo to Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159955.jpg",
+        "alt": "boku-to-kanojo-to-kanojo-to-kanojo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

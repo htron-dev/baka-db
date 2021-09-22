@@ -1,5 +1,9 @@
 {
     "title": "Kaname étoile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62407.jpg",
+        "alt": "kaname-etoile"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

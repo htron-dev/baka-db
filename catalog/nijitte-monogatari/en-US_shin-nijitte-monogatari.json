@@ -1,5 +1,9 @@
 {
     "title": "Shin Nijitte Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222705.jpg",
+        "alt": "shin-nijitte-monogatari"
+    },
     "type": "manga",
     "chapters": "8",
     "original_name": "新・弐十手物語",

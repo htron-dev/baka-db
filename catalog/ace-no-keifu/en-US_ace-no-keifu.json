@@ -1,5 +1,9 @@
 {
     "title": "Ace no Keifu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172480.jpg",
+        "alt": "ace-no-keifu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

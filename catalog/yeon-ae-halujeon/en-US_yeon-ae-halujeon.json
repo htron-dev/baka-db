@@ -1,5 +1,9 @@
 {
     "title": "Yeon-ae Halujeon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1935/109014.jpg",
+        "alt": "yeon-ae-halujeon"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "연애하루전",

@@ -1,5 +1,9 @@
 {
     "title": "The Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236367.jpg",
+        "alt": "the-edge"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

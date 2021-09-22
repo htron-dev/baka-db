@@ -1,5 +1,9 @@
 {
     "title": "Shomuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127089.jpg",
+        "alt": "shomuni"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "ショムニ",

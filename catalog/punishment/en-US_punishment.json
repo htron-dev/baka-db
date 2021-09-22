@@ -1,5 +1,9 @@
 {
     "title": "Punishment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172027.jpg",
+        "alt": "punishment"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Shidenkai no Maki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129231.jpg",
+        "alt": "shidenkai-no-maki"
+    },
     "type": "manga",
     "original_name": "紫電改のマキ",
     "start_date": "2013-08-19",

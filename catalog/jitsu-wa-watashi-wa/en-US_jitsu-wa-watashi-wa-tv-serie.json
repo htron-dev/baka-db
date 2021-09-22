@@ -1,5 +1,9 @@
 {
     "title": "Jitsu wa Watashi wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74042.jpg",
+        "alt": "jitsu-wa-watashi-wa"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "実は私は",

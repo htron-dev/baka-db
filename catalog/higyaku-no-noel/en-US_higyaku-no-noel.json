@@ -1,5 +1,9 @@
 {
     "title": "Higyaku no Noel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199408.jpg",
+        "alt": "higyaku-no-noel"
+    },
     "type": "manga",
     "original_name": "被虐のノエル",
     "start_date": "2017-03-15",

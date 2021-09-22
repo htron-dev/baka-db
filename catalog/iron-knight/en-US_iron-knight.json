@@ -1,5 +1,9 @@
 {
     "title": "Iron Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155705.jpg",
+        "alt": "iron-knight"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

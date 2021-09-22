@@ -1,5 +1,9 @@
 {
     "title": "Haikara-san ga Tooru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21229.jpg",
+        "alt": "haikara-san-ga-tooru"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "はいからさんが通る",

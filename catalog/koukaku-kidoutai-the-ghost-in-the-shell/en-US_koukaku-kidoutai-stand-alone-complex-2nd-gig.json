@@ -1,12 +1,16 @@
 {
     "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/51465.jpg",
+        "alt": "koukaku-kidoutai-stand-alone-complex-2nd-gig"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "攻殻機動隊 S.A.C. 2nd GIG",
     "start_date": "2004-01-01",
     "end_date": "2004-01-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Rise\" by Origa",
+    "ending_song": "#1: \"Living Inside the Shell\" by Steve Conte",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

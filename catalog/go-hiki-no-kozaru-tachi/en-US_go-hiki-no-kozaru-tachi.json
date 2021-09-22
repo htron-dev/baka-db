@@ -1,5 +1,9 @@
 {
     "title": "Go-hiki no Kozaru-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/71997.jpg",
+        "alt": "go-hiki-no-kozaru-tachi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "五匹の子猿たち",

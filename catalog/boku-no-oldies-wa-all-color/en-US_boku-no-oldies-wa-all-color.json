@@ -1,5 +1,9 @@
 {
     "title": "Boku no Oldies wa All Color",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/85164.jpg",
+        "alt": "boku-no-oldies-wa-all-color"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "僕のオールディーズはオールカラー",

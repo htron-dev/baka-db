@@ -1,5 +1,9 @@
 {
     "title": "Butaizemi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196085.jpg",
+        "alt": "butaizemi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

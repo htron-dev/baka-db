@@ -1,5 +1,9 @@
 {
     "title": "El Cazador de la Bruja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/19922.jpg",
+        "alt": "el-cazador-de-la-bruja"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "エル・カザド",

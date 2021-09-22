@@ -1,5 +1,9 @@
 {
     "title": "Me wo Tojiru Mae ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39440.jpg",
+        "alt": "me-wo-tojiru-mae-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

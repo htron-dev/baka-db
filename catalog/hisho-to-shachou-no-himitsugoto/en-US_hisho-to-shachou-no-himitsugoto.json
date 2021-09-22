@@ -1,5 +1,9 @@
 {
     "title": "Hisho to Shachou no Himitsugoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97419.jpg",
+        "alt": "hisho-to-shachou-no-himitsugoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

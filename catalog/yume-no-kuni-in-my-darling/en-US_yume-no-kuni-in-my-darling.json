@@ -1,5 +1,9 @@
 {
     "title": "Yume no Kuni in My Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174104.jpg",
+        "alt": "yume-no-kuni-in-my-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

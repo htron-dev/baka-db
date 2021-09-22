@@ -1,5 +1,9 @@
 {
     "title": "Tiara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/207438.jpg",
+        "alt": "tiara"
+    },
     "type": "manhwa",
     "original_name": "티아라",
     "start_date": "2009-01-28",

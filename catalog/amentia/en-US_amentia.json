@@ -1,5 +1,9 @@
 {
     "title": "Amentia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179124.jpg",
+        "alt": "amentia"
+    },
     "type": "manhwa",
     "original_name": "아멘티아",
     "start_date": "2015-04-14",

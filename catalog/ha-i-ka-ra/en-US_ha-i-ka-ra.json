@@ -1,5 +1,9 @@
 {
     "title": "Ha-i-ka-ra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182273.jpg",
+        "alt": "ha-i-ka-ra"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Aitsu no Daihonmei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160711.jpg",
+        "alt": "aitsu-no-daihonmei"
+    },
     "type": "manga",
     "original_name": "アイツの大本命",
     "start_date": "2006-09-15",

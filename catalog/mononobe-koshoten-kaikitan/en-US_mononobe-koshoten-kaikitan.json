@@ -1,5 +1,9 @@
 {
     "title": "Mononobe Koshoten Kaikitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169988.jpg",
+        "alt": "mononobe-koshoten-kaikitan"
+    },
     "type": "manga",
     "original_name": "もののべ古書店怪奇譚",
     "start_date": "2015-01-26",

@@ -1,5 +1,9 @@
 {
     "title": "Hanada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38253.jpg",
+        "alt": "hanada"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

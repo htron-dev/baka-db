@@ -1,12 +1,16 @@
 {
     "title": "Tennis no Ouji-sama: Another Story - Kako to Mirai no Message",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/13553.jpg",
+        "alt": "tennis-no-ouji-sama-another-story-kako-to-mirai-no-message"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "テニスの王子様　 OVA ANOTHER STORY ～過去と未来のメッセージ",
     "start_date": "2009-05-26",
     "end_date": "2009-05-26",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Brand-New HEAVEN\" by Seishun Soda (eps 1-4)",
+    "ending_song": "#1: \"Iroasenai Ano Sora e (色褪せないあの空へ)\" by STONES (eps 1, 3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

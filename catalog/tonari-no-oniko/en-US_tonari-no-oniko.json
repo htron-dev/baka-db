@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Oniko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83098.jpg",
+        "alt": "tonari-no-oniko"
+    },
     "type": "manga",
     "chapters": "11",
     "original_name": "となりの鬼子",

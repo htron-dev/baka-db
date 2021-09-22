@@ -1,5 +1,9 @@
 {
     "title": "Tales of the Abyss: Tsuioku no Jade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36034.jpg",
+        "alt": "tales-of-the-abyss-tsuioku-no-jade"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

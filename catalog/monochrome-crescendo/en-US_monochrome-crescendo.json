@@ -1,5 +1,9 @@
 {
     "title": "Monochrome Crescendo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11155.jpg",
+        "alt": "monochrome-crescendo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "モノクロームクレッシェンド",

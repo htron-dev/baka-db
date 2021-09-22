@@ -1,5 +1,9 @@
 {
     "title": "Under (xGround) Grand Hotel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/25728.jpg",
+        "alt": "under-x-ground-grand-hotel"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

@@ -1,12 +1,16 @@
 {
     "title": "Tales of Zestiria the Cross 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1788/108410.jpg",
+        "alt": "tales-of-zestiria-the-cross-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "テイルズ オブ ゼスティリア ザ クロス 第 2 期",
     "start_date": "2017-01-08",
     "end_date": "2017-01-08",
     "opening_song": "\"illuminate\" by Minami (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"illuminate\" by Minami (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

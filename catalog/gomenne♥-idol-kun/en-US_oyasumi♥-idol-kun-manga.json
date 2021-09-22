@@ -1,5 +1,9 @@
 {
     "title": "Oyasumi♥Idol-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236860.jpg",
+        "alt": "oyasumi♥-idol-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Silence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41115.jpg",
+        "alt": "silence"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

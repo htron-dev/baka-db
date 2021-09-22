@@ -1,5 +1,9 @@
 {
     "title": "Aratama Tribe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/24401.jpg",
+        "alt": "aratama-tribe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

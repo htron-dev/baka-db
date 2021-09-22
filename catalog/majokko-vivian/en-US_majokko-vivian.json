@@ -1,5 +1,9 @@
 {
     "title": "Majokko Vivian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177522.jpg",
+        "alt": "majokko-vivian"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

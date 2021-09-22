@@ -1,5 +1,9 @@
 {
     "title": "Kami Eshi Nisshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171381.jpg",
+        "alt": "kami-eshi-nisshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

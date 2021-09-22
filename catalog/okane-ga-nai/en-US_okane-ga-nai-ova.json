@@ -1,5 +1,9 @@
 {
     "title": "Okane ga Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/88352.jpg",
+        "alt": "okane-ga-nai"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "お金がないっ",

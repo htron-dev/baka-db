@@ -1,5 +1,9 @@
 {
     "title": "Bloodlink Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133297.jpg",
+        "alt": "bloodlink-series"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "BLOODLINK シリーズ",

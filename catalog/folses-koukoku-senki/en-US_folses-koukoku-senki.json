@@ -1,5 +1,9 @@
 {
     "title": "Folses Koukoku Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176424.jpg",
+        "alt": "folses-koukoku-senki"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

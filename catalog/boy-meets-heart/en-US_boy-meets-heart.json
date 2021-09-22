@@ -1,5 +1,9 @@
 {
     "title": "Boy Meets Heart!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126361.jpg",
+        "alt": "boy-meets-heart"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ボーイ・ミーツ・ハート！",

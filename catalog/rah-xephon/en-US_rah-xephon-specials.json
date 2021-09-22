@@ -1,5 +1,9 @@
 {
     "title": "RahXephon Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/13594.jpg",
+        "alt": "rah-xephon-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ラーゼフォン",

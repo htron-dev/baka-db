@@ -1,5 +1,9 @@
 {
     "title": "Dr. Kotou Shinryoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179582.jpg",
+        "alt": "dr-kotou-shinryoujo"
+    },
     "type": "manga",
     "volumes": "25",
     "original_name": "Dr.コトー診療所",

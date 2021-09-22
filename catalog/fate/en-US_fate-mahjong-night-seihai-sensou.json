@@ -1,5 +1,9 @@
 {
     "title": "Fate/mahjong night Seihai Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185284.jpg",
+        "alt": "fate-mahjong-night-seihai-sensou"
+    },
     "type": "manga",
     "original_name": "Fate/mahjong night 聖牌戦争",
     "start_date": "2015-06-30",

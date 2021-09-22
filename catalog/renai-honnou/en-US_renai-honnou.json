@@ -1,5 +1,9 @@
 {
     "title": "Renai Honnou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161632.jpg",
+        "alt": "renai-honnou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

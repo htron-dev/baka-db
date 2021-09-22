@@ -1,12 +1,16 @@
 {
     "title": "Meimon! Daisan Yakyuubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/7567.jpg",
+        "alt": "meimon-daisan-yakyuubu"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "名門！第三野球部",
     "start_date": "1988-10-20",
     "end_date": "1988-10-20",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Seisho: Bible (誓書-バイブル-)\" by PEARL (1st phase)",
+    "ending_song": "#1: \"Chiisana Kesshin (小さな決心)\" by Shinobu Nakayama (1st phase)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

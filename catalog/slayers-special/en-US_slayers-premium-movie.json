@@ -1,5 +1,9 @@
 {
     "title": "Slayers Premium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/20969.jpg",
+        "alt": "slayers-premium"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スレイヤーズぷれみあむ",

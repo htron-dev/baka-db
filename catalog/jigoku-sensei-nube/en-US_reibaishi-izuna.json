@@ -1,5 +1,9 @@
 {
     "title": "Reibaishi Izuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167505.jpg",
+        "alt": "reibaishi-izuna"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "70",

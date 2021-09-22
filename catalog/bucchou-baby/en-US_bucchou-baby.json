@@ -1,5 +1,9 @@
 {
     "title": "Bucchou Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4035.jpg",
+        "alt": "bucchou-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

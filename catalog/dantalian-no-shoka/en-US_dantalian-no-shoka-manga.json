@@ -1,5 +1,9 @@
 {
     "title": "Dantalian no Shoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243920.jpg",
+        "alt": "dantalian-no-shoka"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

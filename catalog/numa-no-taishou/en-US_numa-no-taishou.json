@@ -1,5 +1,9 @@
 {
     "title": "Numa no Taishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/67919.jpg",
+        "alt": "numa-no-taishou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "沼の大将",

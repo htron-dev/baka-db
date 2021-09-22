@@ -1,5 +1,9 @@
 {
     "title": "Ame-iro no Ibasho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159483.jpg",
+        "alt": "ame-iro-no-ibasho"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "雨色の居場所",

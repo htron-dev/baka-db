@@ -1,5 +1,9 @@
 {
     "title": "Boriwa Jjagu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1305/115557.jpg",
+        "alt": "boriwa-jjagu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "보리와 짜구",

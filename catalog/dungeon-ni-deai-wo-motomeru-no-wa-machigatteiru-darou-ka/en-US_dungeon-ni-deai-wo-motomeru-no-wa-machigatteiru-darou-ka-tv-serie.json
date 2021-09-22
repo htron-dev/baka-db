@@ -1,12 +1,16 @@
 {
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/70187.jpg",
+        "alt": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ダンジョンに出会いを求めるのは間違っているだろうか",
     "start_date": "2015-04-04",
     "end_date": "2015-04-04",
     "opening_song": "\"Hey World\" by Yuka Iguchi (eps 2-13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hey World\" by Yuka Iguchi (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

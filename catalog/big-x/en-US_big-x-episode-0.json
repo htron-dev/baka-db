@@ -1,5 +1,9 @@
 {
     "title": "Big X Episode 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/74214.jpg",
+        "alt": "big-x-episode-0"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ビッグ X 00",

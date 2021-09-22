@@ -1,5 +1,9 @@
 {
     "title": "Book x Mark!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179140.jpg",
+        "alt": "book-x-mark"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Yakimon Royal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247170.jpg",
+        "alt": "yakimon-royal"
+    },
     "type": "manga",
     "original_name": "やきもんロワイヤル",
     "start_date": "2020-02-21",

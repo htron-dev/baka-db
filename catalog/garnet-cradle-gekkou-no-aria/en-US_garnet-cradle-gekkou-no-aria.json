@@ -1,5 +1,9 @@
 {
     "title": "Garnet Cradle: Gekkou no Aria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153304.jpg",
+        "alt": "garnet-cradle-gekkou-no-aria"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Sono Hitomi ni Utsuru Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17226.jpg",
+        "alt": "sono-hitomi-ni-utsuru-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Makuai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246780.jpg",
+        "alt": "makuai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

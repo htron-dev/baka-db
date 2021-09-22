@@ -1,5 +1,9 @@
 {
     "title": "Baccano!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172600.jpg",
+        "alt": "baccano"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

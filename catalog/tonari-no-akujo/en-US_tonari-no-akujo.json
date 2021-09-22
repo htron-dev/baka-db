@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Akujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222669.jpg",
+        "alt": "tonari-no-akujo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "45",

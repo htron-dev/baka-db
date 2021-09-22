@@ -1,5 +1,9 @@
 {
     "title": "Cosplay Kanojo ni Seifuku sareru Ore.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193807.jpg",
+        "alt": "cosplay-kanojo-ni-seifuku-sareru-ore"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

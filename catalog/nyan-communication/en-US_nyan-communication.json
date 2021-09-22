@@ -1,5 +1,9 @@
 {
     "title": "Nyan Communication",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181720.jpg",
+        "alt": "nyan-communication"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "にゃんこみゅにけーしょん",

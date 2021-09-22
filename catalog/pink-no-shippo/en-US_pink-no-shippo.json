@@ -1,5 +1,9 @@
 {
     "title": "Pink no Shippo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237282.jpg",
+        "alt": "pink-no-shippo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

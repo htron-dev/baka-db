@@ -1,12 +1,16 @@
 {
     "title": "Senki Zesshou Symphogear AXZ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/86584.jpg",
+        "alt": "senki-zesshou-symphogear-axz"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "戦姫絶唱シンフォギア AXZ〈アクシズ〉",
     "start_date": "2017-07-02",
     "end_date": "2017-07-02",
     "opening_song": "\"TESTAMENT\" by Nana Mizuki (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Senritsu Sorority (旋律ソロリティ Senritsu Sororiti)\" by Maria Cadenzavna Eve (Yoko Hikasa), Shirabe Tsukuyomi (Yoshino Nanjo), Kirika Akatsuki (Ai Kayano) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

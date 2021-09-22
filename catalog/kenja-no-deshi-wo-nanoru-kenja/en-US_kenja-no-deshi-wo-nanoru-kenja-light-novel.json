@@ -1,5 +1,9 @@
 {
     "title": "Kenja no Deshi wo Nanoru Kenja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176763.jpg",
+        "alt": "kenja-no-deshi-wo-nanoru-kenja"
+    },
     "type": "light-novel",
     "original_name": "賢者の弟子を名乗る賢者",
     "start_date": "2014-06-30",

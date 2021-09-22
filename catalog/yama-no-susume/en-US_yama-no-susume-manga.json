@@ -1,5 +1,9 @@
 {
     "title": "Yama no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171537.jpg",
+        "alt": "yama-no-susume"
+    },
     "type": "manga",
     "original_name": "ヤマノススメ",
     "start_date": "2011-08-12",

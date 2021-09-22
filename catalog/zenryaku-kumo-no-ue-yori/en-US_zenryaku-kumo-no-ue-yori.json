@@ -1,5 +1,9 @@
 {
     "title": "Zenryaku: Kumo no Ue yori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236253.jpg",
+        "alt": "zenryaku-kumo-no-ue-yori"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "53",

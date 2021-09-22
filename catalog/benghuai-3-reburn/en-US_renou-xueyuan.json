@@ -1,5 +1,9 @@
 {
     "title": "Renou Xueyuan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1506/116008.jpg",
+        "alt": "renou-xueyuan"
+    },
     "type": "ona",
     "original_name": "人偶学园",
     "start_date": "2021-07-10",

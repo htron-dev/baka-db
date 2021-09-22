@@ -1,5 +1,9 @@
 {
     "title": "Itou-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164355.jpg",
+        "alt": "itou-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

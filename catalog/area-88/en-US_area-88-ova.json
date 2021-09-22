@@ -1,12 +1,16 @@
 {
     "title": "Area 88",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/2856.jpg",
+        "alt": "area-88"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "エリア 88",
     "start_date": "1985-02-05",
     "end_date": "1985-02-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"How Far to Paradise\" by Derek Jackson",
+    "ending_song": "#1: \"「悲しみのＤｅｓｔｉｎｙ」 (Kanashimi no Destiny)\" by MIO",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

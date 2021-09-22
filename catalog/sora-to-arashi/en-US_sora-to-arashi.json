@@ -1,5 +1,9 @@
 {
     "title": "Sora to Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169458.jpg",
+        "alt": "sora-to-arashi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ソラとアラシ",

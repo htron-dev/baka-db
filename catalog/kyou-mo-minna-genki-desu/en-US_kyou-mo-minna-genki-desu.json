@@ -1,5 +1,9 @@
 {
     "title": "Kyou mo Minna Genki desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83380.jpg",
+        "alt": "kyou-mo-minna-genki-desu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "27",

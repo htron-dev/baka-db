@@ -1,5 +1,9 @@
 {
     "title": "Koi to Sei to Mahou no Sayou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227022.jpg",
+        "alt": "koi-to-sei-to-mahou-no-sayou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

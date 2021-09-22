@@ -1,5 +1,9 @@
 {
     "title": "Yukemuri Journey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65663.jpg",
+        "alt": "yukemuri-journey"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

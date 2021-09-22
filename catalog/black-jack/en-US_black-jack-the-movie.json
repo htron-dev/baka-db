@@ -1,5 +1,9 @@
 {
     "title": "Black Jack the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/76031.jpg",
+        "alt": "black-jack-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ブラック･ジャック 劇場版",

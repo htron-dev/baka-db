@@ -1,5 +1,9 @@
 {
     "title": "Desert Storm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7638.jpg",
+        "alt": "desert-storm"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

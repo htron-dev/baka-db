@@ -1,5 +1,9 @@
 {
     "title": "Mou DEBU nante Iwasenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167428.jpg",
+        "alt": "mou-debu-nante-iwasenai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "もう DEBU なんて言わせない!",

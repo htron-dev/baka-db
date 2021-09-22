@@ -1,5 +1,9 @@
 {
     "title": "Dokuhime no Hitsugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233395.jpg",
+        "alt": "dokuhime-no-hitsugi"
+    },
     "type": "manga",
     "original_name": "毒姫の棺",
     "start_date": "2017-04-13",

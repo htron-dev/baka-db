@@ -1,5 +1,9 @@
 {
     "title": "Glass no Kodou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19684.jpg",
+        "alt": "glass-no-kodou"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ガラスの鼓動",

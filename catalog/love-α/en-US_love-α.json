@@ -1,5 +1,9 @@
 {
     "title": "Love+α",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9060.jpg",
+        "alt": "love-α"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

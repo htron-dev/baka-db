@@ -1,5 +1,9 @@
 {
     "title": "JK to Josou Ojisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211749.jpg",
+        "alt": "jk-to-josou-ojisan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

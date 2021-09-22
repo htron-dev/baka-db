@@ -1,5 +1,9 @@
 {
     "title": "Towa no Quon: Episode at Daybreak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178133.jpg",
+        "alt": "towa-no-quon-episode-at-daybreak"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

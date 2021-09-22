@@ -1,5 +1,9 @@
 {
     "title": "Ashita Dorobou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58685.jpg",
+        "alt": "ashita-dorobou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

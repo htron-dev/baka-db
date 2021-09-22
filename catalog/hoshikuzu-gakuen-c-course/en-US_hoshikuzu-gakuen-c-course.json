@@ -1,5 +1,9 @@
 {
     "title": "Hoshikuzu Gakuen C Course",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174438.jpg",
+        "alt": "hoshikuzu-gakuen-c-course"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

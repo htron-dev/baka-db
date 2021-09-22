@@ -1,5 +1,9 @@
 {
     "title": "Pasiphae no Utage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202578.jpg",
+        "alt": "pasiphae-no-utage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

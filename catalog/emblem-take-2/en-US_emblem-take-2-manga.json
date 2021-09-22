@@ -1,5 +1,9 @@
 {
     "title": "Emblem Take 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150651.jpg",
+        "alt": "emblem-take-2"
+    },
     "type": "manga",
     "volumes": "62",
     "chapters": "635",

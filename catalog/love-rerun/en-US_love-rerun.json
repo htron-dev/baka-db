@@ -1,5 +1,9 @@
 {
     "title": "Love Rerun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151947.jpg",
+        "alt": "love-rerun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

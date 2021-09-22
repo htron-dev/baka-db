@@ -1,5 +1,9 @@
 {
     "title": "Kuuden Noise no Himegimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195144.jpg",
+        "alt": "kuuden-noise-no-himegimi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

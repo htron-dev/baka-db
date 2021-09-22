@@ -1,12 +1,16 @@
 {
     "title": "Gosick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/27906.jpg",
+        "alt": "gosick"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "GOSICK -ゴシック-",
     "start_date": "2011-01-08",
     "end_date": "2011-01-08",
     "opening_song": "\"Destin Histoire\" by yoshiki\\*lisa (吉木りさ)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Resuscitated Hope\" by Lisa Komine (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

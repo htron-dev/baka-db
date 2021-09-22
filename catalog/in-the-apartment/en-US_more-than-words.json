@@ -1,5 +1,9 @@
 {
     "title": "More than Words",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203805.jpg",
+        "alt": "more-than-words"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

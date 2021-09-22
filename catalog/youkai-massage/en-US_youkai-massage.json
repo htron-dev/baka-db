@@ -1,5 +1,9 @@
 {
     "title": "Youkai Massage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199692.jpg",
+        "alt": "youkai-massage"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

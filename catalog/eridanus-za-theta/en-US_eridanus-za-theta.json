@@ -1,5 +1,9 @@
 {
     "title": "Eridanus-za Theta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32309.jpg",
+        "alt": "eridanus-za-theta"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "エリダヌス座 θ",

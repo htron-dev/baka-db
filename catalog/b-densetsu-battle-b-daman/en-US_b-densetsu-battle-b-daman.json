@@ -1,5 +1,9 @@
 {
     "title": "B-Densetsu! Battle B-Daman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31522.jpg",
+        "alt": "b-densetsu-battle-b-daman"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "48",

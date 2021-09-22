@@ -1,11 +1,15 @@
 {
     "title": "Chouon Senshi Borgman: Lovers Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/6671.jpg",
+        "alt": "chouon-senshi-borgman-lovers-rain"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "超音戦士ボーグマン LOVERS RAIN",
     "start_date": "1990-12-01",
-    "opening_song": "\"Ashita e no Chikai",
-    "ending_song": "\"Futari Dake no Irie",
+    "opening_song": "\"Ashita e no Chikai: Midnight Run (明日への誓い-MIDNIGHT RUN-)\" by Kouichi Yamadera",
+    "ending_song": "\"Futari Dake no Irie: Yes, I Love You (二人だけの入り江-Yes,I Love You-)\" by Kouichi Yamadera",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

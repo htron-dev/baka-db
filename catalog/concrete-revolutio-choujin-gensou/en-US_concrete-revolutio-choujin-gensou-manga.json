@@ -1,5 +1,9 @@
 {
     "title": "Concrete Revolutio: Choujin Gensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166270.jpg",
+        "alt": "concrete-revolutio-choujin-gensou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

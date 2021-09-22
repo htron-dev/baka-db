@@ -1,5 +1,9 @@
 {
     "title": "Hitotsu Yane no Shita no Kedamono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170704.jpg",
+        "alt": "hitotsu-yane-no-shita-no-kedamono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

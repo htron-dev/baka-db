@@ -1,5 +1,9 @@
 {
     "title": "Lightning Atom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/45160.jpg",
+        "alt": "lightning-atom"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "번개아텀",

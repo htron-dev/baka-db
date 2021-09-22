@@ -1,5 +1,9 @@
 {
     "title": "Nijuu Mensou no Musume: Utsushiyo no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171194.jpg",
+        "alt": "nijuu-mensou-no-musume-utsushiyo-no-yoru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

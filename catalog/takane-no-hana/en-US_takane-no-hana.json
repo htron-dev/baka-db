@@ -1,5 +1,9 @@
 {
     "title": "Takane no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156835.jpg",
+        "alt": "takane-no-hana"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "高嶺の花",

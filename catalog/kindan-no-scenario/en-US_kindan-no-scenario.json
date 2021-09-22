@@ -1,5 +1,9 @@
 {
     "title": "Kindan no Scenario",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163652.jpg",
+        "alt": "kindan-no-scenario"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

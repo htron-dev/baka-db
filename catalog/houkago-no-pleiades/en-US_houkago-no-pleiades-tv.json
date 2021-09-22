@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Pleiades (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/73434.jpg",
+        "alt": "houkago-no-pleiades-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "放課後のプレアデス",

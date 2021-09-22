@@ -1,5 +1,9 @@
 {
     "title": "Owarai Shounen Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10273.jpg",
+        "alt": "owarai-shounen-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "お笑い少年少女",

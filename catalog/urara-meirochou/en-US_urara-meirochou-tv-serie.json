@@ -1,5 +1,9 @@
 {
     "title": "Urara Meirochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/84119.jpg",
+        "alt": "urara-meirochou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "うらら迷路帖",

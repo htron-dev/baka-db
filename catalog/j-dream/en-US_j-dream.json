@@ -1,5 +1,9 @@
 {
     "title": "J-Dream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183407.jpg",
+        "alt": "j-dream"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "J ドリーム",

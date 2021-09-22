@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Happy Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172053.jpg",
+        "alt": "gakuen-happy-seven"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "学園はっぴぃセブン",

@@ -1,5 +1,9 @@
 {
     "title": "Lost+Brain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11468.jpg",
+        "alt": "lost-brain"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

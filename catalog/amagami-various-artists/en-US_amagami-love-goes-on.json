@@ -1,5 +1,9 @@
 {
     "title": "Amagami: Love Goes On!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89631.jpg",
+        "alt": "amagami-love-goes-on"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

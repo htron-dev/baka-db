@@ -1,5 +1,9 @@
 {
     "title": "Arion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75003.jpg",
+        "alt": "arion"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

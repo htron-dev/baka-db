@@ -1,5 +1,9 @@
 {
     "title": "Kare no Iru Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221513.jpg",
+        "alt": "kare-no-iru-seikatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

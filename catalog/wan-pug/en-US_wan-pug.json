@@ -1,5 +1,9 @@
 {
     "title": "Wan Pug!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155038.jpg",
+        "alt": "wan-pug"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "わんぱぐ!",

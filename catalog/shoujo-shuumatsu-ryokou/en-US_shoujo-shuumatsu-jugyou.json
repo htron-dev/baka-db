@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Shuumatsu Jugyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/88044.jpg",
+        "alt": "shoujo-shuumatsu-jugyou"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "少女週末授業",

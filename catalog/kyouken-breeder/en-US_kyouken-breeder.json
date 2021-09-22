@@ -1,5 +1,9 @@
 {
     "title": "Kyouken Breeder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46895.jpg",
+        "alt": "kyouken-breeder"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

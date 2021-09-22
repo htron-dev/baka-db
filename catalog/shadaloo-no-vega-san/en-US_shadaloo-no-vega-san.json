@@ -1,5 +1,9 @@
 {
     "title": "Shadaloo no Vega-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203809.jpg",
+        "alt": "shadaloo-no-vega-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

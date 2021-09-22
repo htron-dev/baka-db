@@ -1,5 +1,9 @@
 {
     "title": "Travel Hato Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245262.jpg",
+        "alt": "travel-hato-nikki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

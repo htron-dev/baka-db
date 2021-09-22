@@ -1,5 +1,9 @@
 {
     "title": "Hoshi wo Kazoeru Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225544.jpg",
+        "alt": "hoshi-wo-kazoeru-koto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

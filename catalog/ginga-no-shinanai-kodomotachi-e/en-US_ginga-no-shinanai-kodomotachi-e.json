@@ -1,5 +1,9 @@
 {
     "title": "Ginga no Shinanai Kodomotachi e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221731.jpg",
+        "alt": "ginga-no-shinanai-kodomotachi-e"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

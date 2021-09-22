@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Tekki Grunge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158012.jpg",
+        "alt": "shoujo-tekki-grunge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

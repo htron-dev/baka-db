@@ -1,5 +1,9 @@
 {
     "title": "Mother 2: Ness no Boukenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120675.jpg",
+        "alt": "mother-2-ness-no-boukenki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

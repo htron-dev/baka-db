@@ -1,5 +1,9 @@
 {
     "title": "Tama-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229874.jpg",
+        "alt": "tama-san"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "タマさん",

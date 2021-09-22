@@ -1,5 +1,9 @@
 {
     "title": "Fusoku no Renjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65659.jpg",
+        "alt": "fusoku-no-renjou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

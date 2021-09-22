@@ -1,5 +1,9 @@
 {
     "title": "Wansa-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48507.jpg",
+        "alt": "wansa-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ワンサくん",

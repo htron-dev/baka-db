@@ -1,5 +1,9 @@
 {
     "title": "Wet Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138987.jpg",
+        "alt": "wet-moon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

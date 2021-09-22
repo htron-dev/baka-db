@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Seki no Kobayashi-san.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205463.jpg",
+        "alt": "tonari-no-seki-no-kobayashi-san"
+    },
     "type": "manga",
     "original_name": "となりの席の小林さん。",
     "start_date": "2015-07-14",

@@ -1,5 +1,9 @@
 {
     "title": "Mokuyoubi wa Kimi to Nakitai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221815.jpg",
+        "alt": "mokuyoubi-wa-kimi-to-nakitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "35",

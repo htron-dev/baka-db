@@ -1,5 +1,9 @@
 {
     "title": "Chocolat no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59117.jpg",
+        "alt": "chocolat-no-mahou"
+    },
     "type": "manga",
     "original_name": "ショコラの魔法",
     "tags": [

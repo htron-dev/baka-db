@@ -1,5 +1,9 @@
 {
     "title": "Nibiiro Genshikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51971.jpg",
+        "alt": "nibiiro-genshikou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

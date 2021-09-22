@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Ai wo Chikaimasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235903.jpg",
+        "alt": "soredemo-ai-wo-chikaimasu-ka"
+    },
     "type": "manga",
     "original_name": "それでも愛を誓いますか?",
     "start_date": "2019-06-28",

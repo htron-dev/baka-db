@@ -1,5 +1,9 @@
 {
     "title": "Midnight Sun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135553.jpg",
+        "alt": "midnight-sun"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "Midnight sun ミッドナイトサン",

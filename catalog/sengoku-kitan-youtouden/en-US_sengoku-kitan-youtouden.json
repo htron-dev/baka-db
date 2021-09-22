@@ -1,11 +1,15 @@
 {
     "title": "Sengoku Kitan Youtouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/57127.jpg",
+        "alt": "sengoku-kitan-youtouden"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "戦国奇譚妖刀伝",
     "start_date": "1987-05-21",
     "end_date": "1987-05-21",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ai wa Shinwa no Hate ni (愛は神話の果てに)\" by Carmen Maki (eps 1,2)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

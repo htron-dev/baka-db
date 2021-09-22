@@ -1,5 +1,9 @@
 {
     "title": "Robber's Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/81689.jpg",
+        "alt": "robbers-company"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "ROBBER'S COMPANY",

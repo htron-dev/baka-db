@@ -1,5 +1,9 @@
 {
     "title": "Code Name wa Charmer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16983.jpg",
+        "alt": "code-name-wa-charmer"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "コードネームはチャーマー",

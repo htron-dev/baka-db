@@ -1,5 +1,9 @@
 {
     "title": "Hashitanakute Gomen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190797.jpg",
+        "alt": "hashitanakute-gomen"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Ai to Okane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33866.jpg",
+        "alt": "ai-to-okane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

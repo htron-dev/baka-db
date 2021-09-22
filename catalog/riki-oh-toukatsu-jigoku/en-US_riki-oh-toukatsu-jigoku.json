@@ -1,5 +1,9 @@
 {
     "title": "Riki-Oh: Toukatsu Jigoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1366/99209.jpg",
+        "alt": "riki-oh-toukatsu-jigoku"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "力王 等括地獄",

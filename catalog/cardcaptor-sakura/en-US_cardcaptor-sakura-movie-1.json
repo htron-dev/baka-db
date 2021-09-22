@@ -1,5 +1,9 @@
 {
     "title": "Cardcaptor Sakura Movie 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1733/90336.jpg",
+        "alt": "cardcaptor-sakura-movie-1"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 カードキャプターさくら",

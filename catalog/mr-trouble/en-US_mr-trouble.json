@@ -1,5 +1,9 @@
 {
     "title": "Mr. Trouble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41246.jpg",
+        "alt": "mr-trouble"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ミスター・トラブル",

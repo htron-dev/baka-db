@@ -1,5 +1,9 @@
 {
     "title": "Youkai no Oishasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208633.jpg",
+        "alt": "youkai-no-oishasan"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "103",

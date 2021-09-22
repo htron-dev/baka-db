@@ -1,5 +1,9 @@
 {
     "title": "Hantsu x Trash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188793.jpg",
+        "alt": "hantsu-x-trash"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "199",

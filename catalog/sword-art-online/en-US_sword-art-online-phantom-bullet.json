@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Phantom Bullet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137907.jpg",
+        "alt": "sword-art-online-phantom-bullet"
+    },
     "type": "manga",
     "original_name": "ソードアート・オンライン ファントム・バレット",
     "start_date": "2014-04-10",

@@ -1,5 +1,9 @@
 {
     "title": "Anata to Ecchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32354.jpg",
+        "alt": "anata-to-ecchi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あなたとエッチ",

@@ -1,5 +1,9 @@
 {
     "title": "IS: Infinite Stratos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207288.jpg",
+        "alt": "is-infinite-stratos"
+    },
     "type": "light-novel",
     "original_name": "IS〈インフィニット・ストラトス〉",
     "start_date": "2009-05-25",

@@ -1,5 +1,9 @@
 {
     "title": "MajiKoi!: Maji de Iikagen Koi ga Shitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177119.jpg",
+        "alt": "maji-koi-maji-de-iikagen-koi-ga-shitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

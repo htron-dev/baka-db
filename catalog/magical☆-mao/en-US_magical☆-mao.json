@@ -1,5 +1,9 @@
 {
     "title": "Magical☆Mao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140469.jpg",
+        "alt": "magical☆-mao"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Ma Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6989.jpg",
+        "alt": "ma-series"
+    },
     "type": "light-novel",
     "original_name": "㋮シリーズ",
     "start_date": "2000-11-20",

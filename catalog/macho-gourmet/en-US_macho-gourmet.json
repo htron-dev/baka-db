@@ -1,5 +1,9 @@
 {
     "title": "Macho Gourmet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197884.jpg",
+        "alt": "macho-gourmet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

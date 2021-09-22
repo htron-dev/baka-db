@@ -1,5 +1,9 @@
 {
     "title": "Dokumushi Kozou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/91365.jpg",
+        "alt": "dokumushi-kozou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

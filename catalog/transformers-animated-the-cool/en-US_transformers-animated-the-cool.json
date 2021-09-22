@@ -1,5 +1,9 @@
 {
     "title": "Transformers Animated: The Cool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35682.jpg",
+        "alt": "transformers-animated-the-cool"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

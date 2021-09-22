@@ -1,5 +1,9 @@
 {
     "title": "Dareka no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223185.jpg",
+        "alt": "dareka-no-sekai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

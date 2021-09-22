@@ -1,5 +1,9 @@
 {
     "title": "Megami no Café Terrace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244571.jpg",
+        "alt": "megami-no-cafe-terrace"
+    },
     "type": "manga",
     "original_name": "女神のカフェテラス",
     "start_date": "2021-02-17",

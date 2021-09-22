@@ -1,5 +1,9 @@
 {
     "title": "Chuuji-kun wo Dareka Tomete!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169397.jpg",
+        "alt": "chuuji-kun-wo-dareka-tomete"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

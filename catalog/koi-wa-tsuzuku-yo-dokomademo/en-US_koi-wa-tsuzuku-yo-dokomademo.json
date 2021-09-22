@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Tsuzuku yo Dokomademo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185180.jpg",
+        "alt": "koi-wa-tsuzuku-yo-dokomademo"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "37",

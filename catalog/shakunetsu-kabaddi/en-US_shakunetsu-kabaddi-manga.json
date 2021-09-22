@@ -1,5 +1,9 @@
 {
     "title": "Shakunetsu Kabaddi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193677.jpg",
+        "alt": "shakunetsu-kabaddi"
+    },
     "type": "manga",
     "original_name": "灼熱カバディ",
     "start_date": "2015-07-02",

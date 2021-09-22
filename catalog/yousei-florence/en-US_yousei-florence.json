@@ -1,5 +1,9 @@
 {
     "title": "Yousei Florence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1608/112719.jpg",
+        "alt": "yousei-florence"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "妖精フローレンス",

@@ -1,5 +1,9 @@
 {
     "title": "Conveni Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198157.jpg",
+        "alt": "conveni-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

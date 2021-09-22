@@ -1,5 +1,9 @@
 {
     "title": "Death Need Round",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160033.jpg",
+        "alt": "death-need-round"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Tsumanuda Fight Town",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179185.jpg",
+        "alt": "tsumanuda-fight-town"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "124",

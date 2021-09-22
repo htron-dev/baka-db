@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/41801.jpg",
+        "alt": "pokemon-movie-02-maboroshi-no-pokemon-lugia-bakutan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポケットモンスター 幻のポケモンルギア爆誕",

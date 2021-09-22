@@ -1,5 +1,9 @@
 {
     "title": "NHK ni Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172691.jpg",
+        "alt": "nhk-ni-youkoso"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "40",

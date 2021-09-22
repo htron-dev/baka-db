@@ -1,5 +1,9 @@
 {
     "title": "Cherry Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10006.jpg",
+        "alt": "cherry-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

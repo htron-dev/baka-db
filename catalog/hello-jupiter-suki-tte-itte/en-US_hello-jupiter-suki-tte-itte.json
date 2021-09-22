@@ -1,5 +1,9 @@
 {
     "title": "Hello Jupiter Suki tte Itte.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223396.jpg",
+        "alt": "hello-jupiter-suki-tte-itte"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Okusama wa Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165129.jpg",
+        "alt": "okusama-wa-vampire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

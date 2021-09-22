@@ -1,5 +1,9 @@
 {
     "title": "Flower",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7438.jpg",
+        "alt": "flower"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

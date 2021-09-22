@@ -1,5 +1,9 @@
 {
     "title": "Hirayasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/249992.jpg",
+        "alt": "hirayasumi"
+    },
     "type": "manga",
     "original_name": "ひらやすみ",
     "start_date": "2021-04-26",

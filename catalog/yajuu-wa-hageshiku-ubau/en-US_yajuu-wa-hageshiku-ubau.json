@@ -1,5 +1,9 @@
 {
     "title": "Yajuu wa Hageshiku Ubau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201208.jpg",
+        "alt": "yajuu-wa-hageshiku-ubau"
+    },
     "type": "manga",
     "original_name": "野獣は激しく奪う",
     "start_date": "2014-07-25",

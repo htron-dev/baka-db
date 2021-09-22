@@ -1,5 +1,9 @@
 {
     "title": "Amagami: Sincerely Yours",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32083.jpg",
+        "alt": "amagami-sincerely-yours"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

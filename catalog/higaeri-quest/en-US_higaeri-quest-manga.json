@@ -1,5 +1,9 @@
 {
     "title": "Higaeri Quest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123951.jpg",
+        "alt": "higaeri-quest"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "31",

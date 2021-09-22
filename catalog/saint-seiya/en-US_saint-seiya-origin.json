@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya: Origin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241631.jpg",
+        "alt": "saint-seiya-origin"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "聖闘士星矢 ORIGIN",

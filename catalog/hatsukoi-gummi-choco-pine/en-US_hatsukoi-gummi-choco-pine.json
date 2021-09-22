@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Gummi Choco Pine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193698.jpg",
+        "alt": "hatsukoi-gummi-choco-pine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

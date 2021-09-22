@@ -1,5 +1,9 @@
 {
     "title": "Kuchibiru kara Toketeiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/87981.jpg",
+        "alt": "kuchibiru-kara-toketeiku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

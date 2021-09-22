@@ -1,5 +1,9 @@
 {
     "title": "Wakabaka-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151612.jpg",
+        "alt": "wakabaka-sama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

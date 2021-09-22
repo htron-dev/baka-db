@@ -1,5 +1,9 @@
 {
     "title": "Manga Hajimete Omoshiro Juku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/28065.jpg",
+        "alt": "manga-hajimete-omoshiro-juku"
+    },
     "type": "tv-serie",
     "episodes": "110",
     "original_name": "まんがはじめて面白塾",

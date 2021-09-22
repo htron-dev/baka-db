@@ -1,5 +1,9 @@
 {
     "title": "Chanto Kaitemasu kara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45302.jpg",
+        "alt": "chanto-kaitemasu-kara"
+    },
     "type": "manga",
     "original_name": "ちゃんと描いてますからっ！",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Fudoutoku na Yami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7688.jpg",
+        "alt": "fudoutoku-na-yami"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

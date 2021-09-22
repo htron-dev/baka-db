@@ -1,5 +1,9 @@
 {
     "title": "Brave 10",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161251.jpg",
+        "alt": "brave-10"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "47",

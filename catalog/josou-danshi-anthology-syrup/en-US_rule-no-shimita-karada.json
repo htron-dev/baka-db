@@ -1,5 +1,9 @@
 {
     "title": "Rule no Shimita Karada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89485.jpg",
+        "alt": "rule-no-shimita-karada"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

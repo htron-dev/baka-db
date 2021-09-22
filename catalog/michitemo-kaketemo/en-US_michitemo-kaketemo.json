@@ -1,5 +1,9 @@
 {
     "title": "Michitemo Kaketemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244600.jpg",
+        "alt": "michitemo-kaketemo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

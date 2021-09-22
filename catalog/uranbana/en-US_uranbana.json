@@ -1,5 +1,9 @@
 {
     "title": "Uranbana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38829.jpg",
+        "alt": "uranbana"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ウランバナ",

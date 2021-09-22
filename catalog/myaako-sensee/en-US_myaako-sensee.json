@@ -1,5 +1,9 @@
 {
     "title": "Myaako-sensee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222951.jpg",
+        "alt": "myaako-sensee"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "みゃーこせんせぇ",

@@ -1,5 +1,9 @@
 {
     "title": "Navigatoria ni Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236950.jpg",
+        "alt": "navigatoria-ni-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

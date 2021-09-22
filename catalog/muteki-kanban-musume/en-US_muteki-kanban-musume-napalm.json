@@ -1,5 +1,9 @@
 {
     "title": "Muteki Kanban Musume Napalm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135435.jpg",
+        "alt": "muteki-kanban-musume-napalm"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "55",

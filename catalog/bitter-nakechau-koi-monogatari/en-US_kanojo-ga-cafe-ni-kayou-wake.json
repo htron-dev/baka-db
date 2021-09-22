@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ga Cafe ni Kayou Wake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15573.jpg",
+        "alt": "kanojo-ga-cafe-ni-kayou-wake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Good Morning!!! Doronjo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/76387.jpg",
+        "alt": "good-morning-doronjo"
+    },
     "type": "tv-serie",
     "episodes": "243",
     "original_name": "グッド・モーニング!!!ドロンジョ",

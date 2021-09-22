@@ -1,5 +1,9 @@
 {
     "title": "Dekisokonai no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39692.jpg",
+        "alt": "dekisokonai-no-monogatari"
+    },
     "type": "manga",
     "original_name": "できそこないの物語",
     "tags": [

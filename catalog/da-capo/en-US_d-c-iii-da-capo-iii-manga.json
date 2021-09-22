@@ -1,5 +1,9 @@
 {
     "title": "D.C.III: Da Capo III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241817.jpg",
+        "alt": "d-c-iii-da-capo-iii"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

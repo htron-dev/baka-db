@@ -1,5 +1,9 @@
 {
     "title": "Careless Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5981.jpg",
+        "alt": "careless-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ケアレス少年",

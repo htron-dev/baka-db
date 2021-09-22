@@ -1,5 +1,9 @@
 {
     "title": "Koi no Kaori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85773.jpg",
+        "alt": "koi-no-kaori"
+    },
     "type": "manga",
     "original_name": "恋の香り",
     "start_date": "2009-11-29",

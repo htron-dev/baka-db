@@ -1,5 +1,9 @@
 {
     "title": "Ya-Ne-Sen a Go Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1397/96395.jpg",
+        "alt": "ya-ne-sen-a-go-go"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "YA-NE-SEN a Go Go",

@@ -1,5 +1,9 @@
 {
     "title": "Shin SOS Dai Tokyo Tankentai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/27457.jpg",
+        "alt": "shin-sos-dai-tokyo-tankentai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "新 SOS 大東京探検隊",

@@ -1,5 +1,9 @@
 {
     "title": "Meoteoldosa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/49077.jpg",
+        "alt": "meoteoldosa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "머털도사",

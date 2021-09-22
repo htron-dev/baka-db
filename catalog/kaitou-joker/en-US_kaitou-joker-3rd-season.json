@@ -1,5 +1,9 @@
 {
     "title": "Kaitou Joker 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/78229.jpg",
+        "alt": "kaitou-joker-3rd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "怪盗ジョーカー シーズン",

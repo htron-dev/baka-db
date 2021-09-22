@@ -1,5 +1,9 @@
 {
     "title": "Rasetsu no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158188.jpg",
+        "alt": "rasetsu-no-hana"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "36",

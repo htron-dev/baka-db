@@ -1,5 +1,9 @@
 {
     "title": "Zenbu Wakatteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1209/104627.jpg",
+        "alt": "zenbu-wakatteru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ぜんぶわかってる",

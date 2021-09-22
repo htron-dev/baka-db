@@ -1,5 +1,9 @@
 {
     "title": "Me wo Tojinaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27048.jpg",
+        "alt": "me-wo-tojinaide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,12 +1,16 @@
 {
     "title": "Tesagure! Bukatsumono Encore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/58483.jpg",
+        "alt": "tesagure-bukatsumono-encore"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てさぐれ！部活もの あんこーる",
     "start_date": "2014-01-12",
     "end_date": "2014-01-12",
-    "opening_song": "Chanto Stand Up!!!! (ちゃんと Stand Up!!!!) by Yua Suzuki (CV",
-    "ending_song": "\"Sorezore no 12 kagetsu (それぞれの 12 ヶ月)\" by Yua Suzuki (CV",
+    "opening_song": "Chanto Stand Up!!!! (ちゃんと Stand Up!!!!) by Yua Suzuki (CV: Asuka Nishi), Hina Satou (CV: Satomi Akesaka), Aoi Takahashi (CV: Karin Ogino), and Koharu Tanaka (CV: Ayaka Ohashi)",
+    "ending_song": "\"Sorezore no 12 kagetsu (それぞれの 12 ヶ月)\" by Yua Suzuki (CV: Asuka Nishi), Hina Satou (CV: Satomi Akesaka), Aoi Takahashi (CV: Karin Ogino), and Koharu Tanaka (CV: Ayaka Ohashi)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "parody",

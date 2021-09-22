@@ -1,5 +1,9 @@
 {
     "title": "Lupin III (2015)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171362.jpg",
+        "alt": "lupin-iii-2015"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

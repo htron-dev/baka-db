@@ -1,5 +1,9 @@
 {
     "title": "Bloody Monday: Last Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185386.jpg",
+        "alt": "bloody-monday-last-season"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

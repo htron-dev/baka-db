@@ -1,5 +1,9 @@
 {
     "title": "Noboru Kotera-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163648.jpg",
+        "alt": "noboru-kotera-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

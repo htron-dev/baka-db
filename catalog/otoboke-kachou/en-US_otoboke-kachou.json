@@ -1,5 +1,9 @@
 {
     "title": "Otoboke Kachou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195689.jpg",
+        "alt": "otoboke-kachou"
+    },
     "type": "manga",
     "volumes": "29",
     "original_name": "おとぼけ課長",

@@ -1,5 +1,9 @@
 {
     "title": "Pure Marionation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18465.jpg",
+        "alt": "pure-marionation"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

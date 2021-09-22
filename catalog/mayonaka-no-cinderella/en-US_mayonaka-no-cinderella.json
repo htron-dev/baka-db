@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka no Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12801.jpg",
+        "alt": "mayonaka-no-cinderella"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "真夜中のシンデレラ",

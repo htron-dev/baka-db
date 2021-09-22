@@ -1,5 +1,9 @@
 {
     "title": "Naniwa Tomoare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127223.jpg",
+        "alt": "naniwa-tomoare"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "304",

@@ -1,5 +1,9 @@
 {
     "title": "Kill Me Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/87197.jpg",
+        "alt": "kill-me-baby"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "キルミーベイベー",

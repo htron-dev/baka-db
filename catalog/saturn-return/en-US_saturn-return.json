@@ -1,5 +1,9 @@
 {
     "title": "Saturn Return",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232376.jpg",
+        "alt": "saturn-return"
+    },
     "type": "manga",
     "original_name": "サターンリターン",
     "start_date": "2019-01-21",

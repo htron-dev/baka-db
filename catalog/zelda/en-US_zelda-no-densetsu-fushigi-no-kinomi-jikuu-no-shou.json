@@ -1,5 +1,9 @@
 {
     "title": "Zelda no Densetsu: Fushigi no Kinomi - Jikuu no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/126021.jpg",
+        "alt": "zelda-no-densetsu-fushigi-no-kinomi-jikuu-no-shou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

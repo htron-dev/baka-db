@@ -1,5 +1,9 @@
 {
     "title": "Daiji na Koto nanode, Nido.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154375.jpg",
+        "alt": "daiji-na-koto-nanode-nido"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

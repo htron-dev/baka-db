@@ -1,5 +1,9 @@
 {
     "title": "Ohayou! Spank",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/17542.jpg",
+        "alt": "ohayou-spank"
+    },
     "type": "tv-serie",
     "episodes": "63",
     "original_name": "おはよう！スパンク",

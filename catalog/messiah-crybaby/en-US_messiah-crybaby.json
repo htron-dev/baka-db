@@ -1,5 +1,9 @@
 {
     "title": "Messiah Crybaby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177097.jpg",
+        "alt": "messiah-crybaby"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

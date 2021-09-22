@@ -1,5 +1,9 @@
 {
     "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1049/115605.jpg",
+        "alt": "boku-no-hero-academia-the-movie-3-world-heroes-mission"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",

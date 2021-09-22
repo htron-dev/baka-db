@@ -1,5 +1,9 @@
 {
     "title": "Genkai Toppa no Dekiai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180938.jpg",
+        "alt": "genkai-toppa-no-dekiai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

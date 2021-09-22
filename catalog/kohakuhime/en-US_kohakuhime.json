@@ -1,5 +1,9 @@
 {
     "title": "Kohakuhime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84351.jpg",
+        "alt": "kohakuhime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

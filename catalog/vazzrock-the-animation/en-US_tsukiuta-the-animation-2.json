@@ -1,12 +1,16 @@
 {
     "title": "Tsukiuta. The Animation 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1390/112207.jpg",
+        "alt": "tsukiuta-the-animation-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ツキウタ. THE ANIMATION 2",
     "start_date": "2020-10-07",
     "end_date": "2020-10-07",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Paint It Black\" by Six Gravity",
+    "ending_song": "#01: \"Kinpika Complete (きんぴかコンプリート)\" by Kakeru Shiwasu (Yuki Kaji) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music"

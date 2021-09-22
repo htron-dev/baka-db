@@ -1,5 +1,9 @@
 {
     "title": "Shoutoku Taishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18054.jpg",
+        "alt": "shoutoku-taishi"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "聖徳太子",

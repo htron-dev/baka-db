@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Shitteru yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/88411.jpg",
+        "alt": "boku-wa-shitteru-yo"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ぼくは知ってるよ。",

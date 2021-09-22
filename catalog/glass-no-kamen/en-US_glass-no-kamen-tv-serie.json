@@ -1,5 +1,9 @@
 {
     "title": "Glass no Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/39571.jpg",
+        "alt": "glass-no-kamen"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "ガラスの仮面",

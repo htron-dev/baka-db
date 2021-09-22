@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Ai ni Iku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9090.jpg",
+        "alt": "kimi-ni-ai-ni-iku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Scramble Wizards",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163714.jpg",
+        "alt": "scramble-wizards"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "59",

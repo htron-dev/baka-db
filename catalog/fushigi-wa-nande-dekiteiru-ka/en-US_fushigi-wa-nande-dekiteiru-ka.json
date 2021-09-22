@@ -1,5 +1,9 @@
 {
     "title": "Fushigi wa Nande Dekiteiru ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23860.jpg",
+        "alt": "fushigi-wa-nande-dekiteiru-ka"
+    },
     "type": "manga",
     "original_name": "不思議は何で出来ているか",
     "start_date": "2007-12-20",

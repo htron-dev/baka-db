@@ -1,5 +1,9 @@
 {
     "title": "Made in Harem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16803.jpg",
+        "alt": "made-in-harem"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "メイドインハーレム",

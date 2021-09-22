@@ -1,5 +1,9 @@
 {
     "title": "Léquios",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/50119.jpg",
+        "alt": "lequios"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

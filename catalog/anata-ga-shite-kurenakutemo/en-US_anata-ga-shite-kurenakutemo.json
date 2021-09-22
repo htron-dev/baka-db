@@ -1,5 +1,9 @@
 {
     "title": "Anata ga Shite Kurenakutemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222289.jpg",
+        "alt": "anata-ga-shite-kurenakutemo"
+    },
     "type": "manga",
     "original_name": "あなたがしてくれなくても",
     "start_date": "2017-06-20",

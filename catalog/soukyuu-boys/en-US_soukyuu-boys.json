@@ -1,5 +1,9 @@
 {
     "title": "Soukyuu Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193676.jpg",
+        "alt": "soukyuu-boys"
+    },
     "type": "manga",
     "original_name": "送球ボーイズ",
     "start_date": "2015-12-29",

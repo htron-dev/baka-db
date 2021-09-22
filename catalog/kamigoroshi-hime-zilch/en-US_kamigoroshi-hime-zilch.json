@@ -1,5 +1,9 @@
 {
     "title": "Kamigoroshi-hime Zilch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188975.jpg",
+        "alt": "kamigoroshi-hime-zilch"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

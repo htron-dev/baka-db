@@ -1,5 +1,9 @@
 {
     "title": "Utsutsu no Hotori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113449.jpg",
+        "alt": "utsutsu-no-hotori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

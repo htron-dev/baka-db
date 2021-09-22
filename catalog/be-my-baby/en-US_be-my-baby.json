@@ -1,5 +1,9 @@
 {
     "title": "Be My Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238181.jpg",
+        "alt": "be-my-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

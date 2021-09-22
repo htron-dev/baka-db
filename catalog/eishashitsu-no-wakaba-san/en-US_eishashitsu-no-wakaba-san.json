@@ -1,5 +1,9 @@
 {
     "title": "Eishashitsu no Wakaba-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245522.jpg",
+        "alt": "eishashitsu-no-wakaba-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

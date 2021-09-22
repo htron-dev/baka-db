@@ -1,5 +1,9 @@
 {
     "title": "Barbapapa Sekai wo Mawaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1885/114869.jpg",
+        "alt": "barbapapa-sekai-wo-mawaru"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "バーバパパ　世界をまわる",

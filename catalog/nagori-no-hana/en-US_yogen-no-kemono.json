@@ -1,5 +1,9 @@
 {
     "title": "Yogen no Kemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32361.jpg",
+        "alt": "yogen-no-kemono"
+    },
     "type": "manga",
     "original_name": "よげんのけもの",
     "tags": [

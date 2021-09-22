@@ -1,5 +1,9 @@
 {
     "title": "Ore to Joushi no Kakushigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185011.jpg",
+        "alt": "ore-to-joushi-no-kakushigoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

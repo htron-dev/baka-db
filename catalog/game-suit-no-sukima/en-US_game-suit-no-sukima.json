@@ -1,5 +1,9 @@
 {
     "title": "Game: Suit no Sukima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180431.jpg",
+        "alt": "game-suit-no-sukima"
+    },
     "type": "manga",
     "original_name": "GAME ～スーツの隙間～",
     "start_date": "2015-10-07",

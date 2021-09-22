@@ -1,5 +1,9 @@
 {
     "title": "Fei Ren Xueyuan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1083/98946.jpg",
+        "alt": "fei-ren-xueyuan"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "非人学院",

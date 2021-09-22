@@ -1,5 +1,9 @@
 {
     "title": "Yasoukyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2946.jpg",
+        "alt": "yasoukyoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

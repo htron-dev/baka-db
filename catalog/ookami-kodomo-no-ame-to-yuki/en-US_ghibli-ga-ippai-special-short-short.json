@@ -1,5 +1,9 @@
 {
     "title": "Ghibli ga Ippai Special Short Short",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/64003.jpg",
+        "alt": "ghibli-ga-ippai-special-short-short"
+    },
     "type": "special",
     "episodes": "10",
     "original_name": "ジブリがいっぱい SPECIAL ショート ショート",

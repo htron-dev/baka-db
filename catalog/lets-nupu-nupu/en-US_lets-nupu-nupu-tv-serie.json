@@ -1,5 +1,9 @@
 {
     "title": "Let's Nupu Nupu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/58797.jpg",
+        "alt": "lets-nupu-nupu"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "LET'S 　ぬぷぬぷっ",

@@ -1,12 +1,16 @@
 {
     "title": "Akikan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/47093.jpg",
+        "alt": "akikan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アキカン!",
     "start_date": "2009-01-04",
     "end_date": "2009-01-04",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Miracle Plan ga Dekichatta! (ミラクル・プランができちゃった！)\" by Charmmy Queen (eps 1-6)",
+    "ending_song": "#01: \"Koisora Recycling (恋空リサイクリング) featuring Melon Soda\" by Nomiko",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

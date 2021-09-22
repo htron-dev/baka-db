@@ -1,5 +1,9 @@
 {
     "title": "Haruhi Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147767.jpg",
+        "alt": "haruhi-comic-anthology"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "57",

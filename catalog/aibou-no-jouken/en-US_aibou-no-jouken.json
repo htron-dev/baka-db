@@ -1,5 +1,9 @@
 {
     "title": "Aibou no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/97699.jpg",
+        "alt": "aibou-no-jouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

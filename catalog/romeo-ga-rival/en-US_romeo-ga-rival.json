@@ -1,5 +1,9 @@
 {
     "title": "Romeo ga Rival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207326.jpg",
+        "alt": "romeo-ga-rival"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

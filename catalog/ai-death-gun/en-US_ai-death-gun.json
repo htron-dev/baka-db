@@ -1,5 +1,9 @@
 {
     "title": "Ai Death Gun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60475.jpg",
+        "alt": "ai-death-gun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Chuushin de, Ai wo Sakebu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171526.jpg",
+        "alt": "sekai-no-chuushin-de-ai-wo-sakebu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

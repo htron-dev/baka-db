@@ -1,5 +1,9 @@
 {
     "title": "Transistor Teaset: Denki Gairozu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76239.jpg",
+        "alt": "transistor-teaset-denki-gairozu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "38",

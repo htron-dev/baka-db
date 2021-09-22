@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Ryuuko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198593.jpg",
+        "alt": "kyou-no-ryuuko-chan"
+    },
     "type": "manga",
     "original_name": "今日の柳子ちゃん",
     "start_date": "2016-12-15",

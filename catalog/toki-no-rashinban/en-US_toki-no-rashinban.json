@@ -1,5 +1,9 @@
 {
     "title": "Toki no Rashinban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2474.jpg",
+        "alt": "toki-no-rashinban"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hakoniwa no Fräulein",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137599.jpg",
+        "alt": "hakoniwa-no-fraulein"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

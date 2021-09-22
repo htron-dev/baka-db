@@ -1,5 +1,9 @@
 {
     "title": "Trench Flowers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210398.jpg",
+        "alt": "trench-flowers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Amai Amai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/37964.jpg",
+        "alt": "kimi-wa-amai-amai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

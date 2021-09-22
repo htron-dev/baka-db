@@ -1,5 +1,9 @@
 {
     "title": "Asako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234165.jpg",
+        "alt": "asako"
+    },
     "type": "manga",
     "original_name": "あさこ",
     "start_date": "2019-11-26",

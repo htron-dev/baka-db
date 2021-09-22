@@ -1,5 +1,9 @@
 {
     "title": "Kid Gang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31985.jpg",
+        "alt": "kid-gang"
+    },
     "type": "manhwa",
     "original_name": "키드갱",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Ninku: Second Stage - Etonin-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189137.jpg",
+        "alt": "ninku-second-stage-etonin-hen"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "71",

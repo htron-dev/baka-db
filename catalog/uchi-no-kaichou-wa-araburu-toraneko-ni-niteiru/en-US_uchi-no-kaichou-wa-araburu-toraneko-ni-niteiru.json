@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Kaichou wa Araburu Toraneko ni Niteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163584.jpg",
+        "alt": "uchi-no-kaichou-wa-araburu-toraneko-ni-niteiru"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

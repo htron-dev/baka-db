@@ -1,5 +1,9 @@
 {
     "title": "Akebono Socks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188256.jpg",
+        "alt": "akebono-socks"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

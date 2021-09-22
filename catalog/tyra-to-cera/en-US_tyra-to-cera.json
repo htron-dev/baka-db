@@ -1,5 +1,9 @@
 {
     "title": "Tyra to Cera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238479.jpg",
+        "alt": "tyra-to-cera"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

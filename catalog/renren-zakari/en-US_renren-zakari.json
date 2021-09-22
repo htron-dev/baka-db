@@ -1,5 +1,9 @@
 {
     "title": "Renren Zakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109257.jpg",
+        "alt": "renren-zakari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

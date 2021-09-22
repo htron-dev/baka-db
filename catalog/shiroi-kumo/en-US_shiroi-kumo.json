@@ -1,5 +1,9 @@
 {
     "title": "Shiroi Kumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147081.jpg",
+        "alt": "shiroi-kumo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

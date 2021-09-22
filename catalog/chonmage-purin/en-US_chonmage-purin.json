@@ -1,5 +1,9 @@
 {
     "title": "Chonmage Purin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152139.jpg",
+        "alt": "chonmage-purin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ちょんまげぷりん",

@@ -1,5 +1,9 @@
 {
     "title": "Pen to Kanojo to Amai Wana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203611.jpg",
+        "alt": "pen-to-kanojo-to-amai-wana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

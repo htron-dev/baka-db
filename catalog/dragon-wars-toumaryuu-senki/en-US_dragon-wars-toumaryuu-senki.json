@@ -1,5 +1,9 @@
 {
     "title": "Dragon Wars: Toumaryuu Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194918.jpg",
+        "alt": "dragon-wars-toumaryuu-senki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

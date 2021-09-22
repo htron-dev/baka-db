@@ -1,5 +1,9 @@
 {
     "title": "Nihon Chinbotsu 2020",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1989/107335.jpg",
+        "alt": "nihon-chinbotsu-2020"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "日本沈没 2020",

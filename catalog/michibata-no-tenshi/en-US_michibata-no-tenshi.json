@@ -1,5 +1,9 @@
 {
     "title": "Michibata no Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4876.jpg",
+        "alt": "michibata-no-tenshi"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "道端の天使",

@@ -1,5 +1,9 @@
 {
     "title": "Sono Kemono wo Nemurasero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19172.jpg",
+        "alt": "sono-kemono-wo-nemurasero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Ore no Tsure ga xx Datta Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141235.jpg",
+        "alt": "ore-no-tsure-ga-xx-datta-ken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

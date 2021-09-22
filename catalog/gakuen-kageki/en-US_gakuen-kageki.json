@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Kageki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125571.jpg",
+        "alt": "gakuen-kageki"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "50",

@@ -1,5 +1,9 @@
 {
     "title": "Nabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26596.jpg",
+        "alt": "nabi"
+    },
     "type": "manhwa",
     "original_name": "나비",
     "start_date": "2006-10-25",

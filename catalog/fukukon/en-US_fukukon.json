@@ -1,5 +1,9 @@
 {
     "title": "Fukukon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35351.jpg",
+        "alt": "fukukon"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "フクコン!",

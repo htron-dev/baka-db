@@ -1,5 +1,9 @@
 {
     "title": "Setsuna Flick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226309.jpg",
+        "alt": "setsuna-flick"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

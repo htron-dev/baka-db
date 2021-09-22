@@ -1,5 +1,9 @@
 {
     "title": "Kagakushitsu e Oide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16440.jpg",
+        "alt": "kagakushitsu-e-oide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

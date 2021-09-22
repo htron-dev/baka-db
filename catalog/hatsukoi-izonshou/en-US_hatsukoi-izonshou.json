@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Izonshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95023.jpg",
+        "alt": "hatsukoi-izonshou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

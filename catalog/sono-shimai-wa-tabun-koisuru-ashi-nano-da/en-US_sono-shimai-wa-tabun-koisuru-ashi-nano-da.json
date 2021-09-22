@@ -1,5 +1,9 @@
 {
     "title": "Sono Shimai wa Tabun Koisuru Ashi nano da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176728.jpg",
+        "alt": "sono-shimai-wa-tabun-koisuru-ashi-nano-da"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

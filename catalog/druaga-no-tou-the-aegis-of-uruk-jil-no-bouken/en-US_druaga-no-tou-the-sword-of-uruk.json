@@ -1,12 +1,16 @@
 {
     "title": "Druaga no Tou: The Sword of Uruk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75647.jpg",
+        "alt": "druaga-no-tou-the-sword-of-uruk"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ドルアーガの塔 ～ the Sword of URUK ～",
     "start_date": "2009-01-09",
     "end_date": "2009-01-09",
     "opening_song": "\"Questions?\" by Yu Nakamura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mahoutsukai Desu Kedo. (魔法使いですけど。)\" by Fumiko Orikasa (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

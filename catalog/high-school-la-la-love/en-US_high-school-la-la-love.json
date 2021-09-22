@@ -1,5 +1,9 @@
 {
     "title": "High School La La Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236041.jpg",
+        "alt": "high-school-la-la-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

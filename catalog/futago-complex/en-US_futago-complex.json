@@ -1,5 +1,9 @@
 {
     "title": "Futago Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233467.jpg",
+        "alt": "futago-complex"
+    },
     "type": "manga",
     "original_name": "双子コンプレックス",
     "start_date": "2017-10-19",

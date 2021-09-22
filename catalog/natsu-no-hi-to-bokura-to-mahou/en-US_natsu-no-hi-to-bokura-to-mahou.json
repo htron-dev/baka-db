@@ -1,5 +1,9 @@
 {
     "title": "Natsu no Hi to, Bokura to, Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117045.jpg",
+        "alt": "natsu-no-hi-to-bokura-to-mahou"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "夏の日と、ぼくらと、魔法",

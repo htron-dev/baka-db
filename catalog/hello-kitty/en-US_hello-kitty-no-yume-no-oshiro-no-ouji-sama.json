@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Yume no Oshiro no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/58713.jpg",
+        "alt": "hello-kitty-no-yume-no-oshiro-no-ouji-sama"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの夢のお城の王子さま",

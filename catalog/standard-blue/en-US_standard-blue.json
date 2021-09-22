@@ -1,5 +1,9 @@
 {
     "title": "Standard Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/249006.jpg",
+        "alt": "standard-blue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

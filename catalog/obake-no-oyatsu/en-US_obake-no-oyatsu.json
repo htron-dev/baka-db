@@ -1,5 +1,9 @@
 {
     "title": "Obake no Oyatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111657.jpg",
+        "alt": "obake-no-oyatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

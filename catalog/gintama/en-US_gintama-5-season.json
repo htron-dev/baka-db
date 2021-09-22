@@ -1,12 +1,16 @@
 {
     "title": "Gintama.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/83528.jpg",
+        "alt": "gintama"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "銀魂。",
     "start_date": "2017-01-09",
     "end_date": "2017-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kagerou (カゲロウ)\" by ЯeaL (eps 1-11)",
+    "ending_song": "#1: \"SILVER\" by RIZE (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

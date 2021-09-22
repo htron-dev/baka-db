@@ -1,5 +1,9 @@
 {
     "title": "Boku to Sensei to Megane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14389.jpg",
+        "alt": "boku-to-sensei-to-megane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

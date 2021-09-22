@@ -1,5 +1,9 @@
 {
     "title": "Unknown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147855.jpg",
+        "alt": "unknown"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

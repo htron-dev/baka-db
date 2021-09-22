@@ -1,5 +1,9 @@
 {
     "title": "Chivas 1-2-3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/3368.jpg",
+        "alt": "chivas-1-2-3"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "シーバス１-２-３",

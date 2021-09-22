@@ -1,5 +1,9 @@
 {
     "title": "Otokonoko Dakara ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/61599.jpg",
+        "alt": "otokonoko-dakara-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

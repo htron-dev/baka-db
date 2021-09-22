@@ -1,5 +1,9 @@
 {
     "title": "Chorokute Kawaii Kimi ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/249832.jpg",
+        "alt": "chorokute-kawaii-kimi-ga-suki"
+    },
     "type": "manga",
     "original_name": "ちょろくてかわいい君が好き",
     "start_date": "2021-04-24",

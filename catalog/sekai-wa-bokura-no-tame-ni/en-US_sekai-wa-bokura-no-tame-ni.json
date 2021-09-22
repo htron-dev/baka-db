@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Bokura no Tame ni!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/102235.jpg",
+        "alt": "sekai-wa-bokura-no-tame-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

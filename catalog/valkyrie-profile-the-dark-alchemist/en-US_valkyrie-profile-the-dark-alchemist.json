@@ -1,5 +1,9 @@
 {
     "title": "Valkyrie Profile: The Dark Alchemist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5390.jpg",
+        "alt": "valkyrie-profile-the-dark-alchemist"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "暗黑炼金术师",

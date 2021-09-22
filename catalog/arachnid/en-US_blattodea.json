@@ -1,5 +1,9 @@
 {
     "title": "Blattodea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245062.jpg",
+        "alt": "blattodea"
+    },
     "type": "manga",
     "original_name": "ブラトデア",
     "start_date": "2020-01-22",

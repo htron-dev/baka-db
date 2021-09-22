@@ -1,5 +1,9 @@
 {
     "title": "Shijou Saikyou no Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/112093.jpg",
+        "alt": "shijou-saikyou-no-gaiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

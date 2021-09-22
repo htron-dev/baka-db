@@ -1,12 +1,16 @@
 {
     "title": "Digimon Adventure 02",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/20360.jpg",
+        "alt": "digimon-adventure-02"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "デジモンアドベンチャー０２",
     "start_date": "2000-04-02",
     "end_date": "2000-04-02",
     "opening_song": "\"Target ~Akai Shougeki~\" by Kouji Wada",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ashita wa Atashi no Kaze ga Fuku\" by AiM",
     "rating": "PG - Children",
     "tags": [
         "action",

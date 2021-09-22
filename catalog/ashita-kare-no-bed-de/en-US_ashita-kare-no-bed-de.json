@@ -1,5 +1,9 @@
 {
     "title": "Ashita, Kare no Bed de.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/195479.jpg",
+        "alt": "ashita-kare-no-bed-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Jujutsu Kaisen 0 Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1813/115732.jpg",
+        "alt": "jujutsu-kaisen-0-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 呪術廻戦 0",

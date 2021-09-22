@@ -1,5 +1,9 @@
 {
     "title": "Suki yori, Motto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76505.jpg",
+        "alt": "suki-yori-motto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

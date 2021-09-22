@@ -1,5 +1,9 @@
 {
     "title": "God Eater: The Summer Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117387.jpg",
+        "alt": "god-eater-the-summer-wars"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

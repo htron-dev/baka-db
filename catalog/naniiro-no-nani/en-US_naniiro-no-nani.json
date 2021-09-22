@@ -1,5 +1,9 @@
 {
     "title": "Naniiro no Nani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1492/93330.jpg",
+        "alt": "naniiro-no-nani"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "何色の何",

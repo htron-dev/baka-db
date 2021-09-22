@@ -1,5 +1,9 @@
 {
     "title": "Otaku Circle no Hime Satsujin Jiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204647.jpg",
+        "alt": "otaku-circle-no-hime-satsujin-jiken"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Cossette no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5512.jpg",
+        "alt": "cossette-no-shouzou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

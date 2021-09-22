@@ -1,5 +1,9 @@
 {
     "title": "Christmas Carol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/84697.jpg",
+        "alt": "christmas-carol"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "クリスマスキャロル",

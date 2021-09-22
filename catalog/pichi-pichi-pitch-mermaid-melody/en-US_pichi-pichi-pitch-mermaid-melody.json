@@ -1,5 +1,9 @@
 {
     "title": "Pichi Pichi Pitch: Mermaid Melody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7128.jpg",
+        "alt": "pichi-pichi-pitch-mermaid-melody"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

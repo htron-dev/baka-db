@@ -1,5 +1,9 @@
 {
     "title": "Moon Trick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208262.jpg",
+        "alt": "moon-trick"
+    },
     "type": "manga",
     "original_name": "MOON・TRICK",
     "start_date": "2010-10-20",

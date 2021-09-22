@@ -1,5 +1,9 @@
 {
     "title": "Koufuku Graffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/71963.jpg",
+        "alt": "koufuku-graffiti"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "幸腹グラフィティ",

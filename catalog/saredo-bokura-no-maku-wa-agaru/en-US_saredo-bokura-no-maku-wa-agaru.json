@@ -1,5 +1,9 @@
 {
     "title": "Saredo Bokura no Maku wa Agaru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177423.jpg",
+        "alt": "saredo-bokura-no-maku-wa-agaru"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

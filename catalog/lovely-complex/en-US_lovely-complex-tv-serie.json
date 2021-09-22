@@ -1,12 +1,16 @@
 {
     "title": "Lovely★Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75563.jpg",
+        "alt": "lovely★-complex"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ラブ ★ コン",
     "start_date": "2007-04-07",
     "end_date": "2007-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kimi + Boku = Love?\" by Tegomass (eps 1-13)",
+    "ending_song": "#1: \"Kiss ~ Kaerimichi no Love Song\" by Tegomass (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

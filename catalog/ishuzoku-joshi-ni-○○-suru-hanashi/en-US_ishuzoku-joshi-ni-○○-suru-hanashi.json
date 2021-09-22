@@ -1,5 +1,9 @@
 {
     "title": "Ishuzoku Joshi ni ○○ Suru Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222702.jpg",
+        "alt": "ishuzoku-joshi-ni-○○-suru-hanashi"
+    },
     "type": "manga",
     "original_name": "異種族女子に ○○ する話",
     "start_date": "2019-01-31",

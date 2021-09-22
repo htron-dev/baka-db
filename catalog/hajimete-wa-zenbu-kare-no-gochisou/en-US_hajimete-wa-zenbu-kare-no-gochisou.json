@@ -1,5 +1,9 @@
 {
     "title": "Hajimete wa Zenbu Kare no Gochisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237176.jpg",
+        "alt": "hajimete-wa-zenbu-kare-no-gochisou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

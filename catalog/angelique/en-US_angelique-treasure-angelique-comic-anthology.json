@@ -1,5 +1,9 @@
 {
     "title": "Angelique: Treasure - Angelique Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13128.jpg",
+        "alt": "angelique-treasure-angelique-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

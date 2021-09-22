@@ -1,5 +1,9 @@
 {
     "title": "Kaming Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36175.jpg",
+        "alt": "kaming-doll"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "かみ ing ど～る",

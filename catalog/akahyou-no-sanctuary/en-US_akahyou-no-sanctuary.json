@@ -1,5 +1,9 @@
 {
     "title": "Akahyou no Sanctuary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222033.jpg",
+        "alt": "akahyou-no-sanctuary"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

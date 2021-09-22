@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Mai Orite Kita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/5354.jpg",
+        "alt": "kimi-ga-mai-orite-kita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

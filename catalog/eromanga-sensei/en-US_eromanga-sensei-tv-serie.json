@@ -1,12 +1,16 @@
 {
     "title": "Eromanga-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/86468.jpg",
+        "alt": "eromanga-sensei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "エロマンガ先生",
     "start_date": "2017-04-09",
     "end_date": "2017-04-09",
     "opening_song": "\"Hitorigoto (ヒトリゴト)\" by ClariS",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hitorigoto (ヒトリゴト)\" by ClariS (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

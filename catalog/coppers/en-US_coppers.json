@@ -1,5 +1,9 @@
 {
     "title": "Coppers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179788.jpg",
+        "alt": "coppers"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

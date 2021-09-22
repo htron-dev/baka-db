@@ -1,5 +1,9 @@
 {
     "title": "Doutei Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34198.jpg",
+        "alt": "doutei-sensei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Rockman 5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204750.jpg",
+        "alt": "rockman-5"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

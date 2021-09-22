@@ -1,5 +1,9 @@
 {
     "title": "Seitokai Yakuindomo\\*",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/56941.jpg",
+        "alt": "seitokai-yakuindomo"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "生徒会役員共＊",

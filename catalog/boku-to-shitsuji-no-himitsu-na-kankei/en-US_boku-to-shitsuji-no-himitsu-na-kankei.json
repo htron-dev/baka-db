@@ -1,5 +1,9 @@
 {
     "title": "Boku to Shitsuji no Himitsu na Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16574.jpg",
+        "alt": "boku-to-shitsuji-no-himitsu-na-kankei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

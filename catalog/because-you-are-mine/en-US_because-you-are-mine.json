@@ -1,5 +1,9 @@
 {
     "title": "Because You Are Mine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70771.jpg",
+        "alt": "because-you-are-mine"
+    },
     "type": "manhwa",
     "volumes": "11",
     "original_name": "넌 내꺼니까",

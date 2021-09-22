@@ -1,5 +1,9 @@
 {
     "title": "Peach Milk Crown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223968.jpg",
+        "alt": "peach-milk-crown"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

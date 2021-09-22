@@ -1,5 +1,9 @@
 {
     "title": "0/6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30274.jpg",
+        "alt": "0-6"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Buttobi!! CPU",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/38165.jpg",
+        "alt": "buttobi-cpu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

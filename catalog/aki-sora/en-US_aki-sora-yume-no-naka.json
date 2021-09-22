@@ -1,5 +1,9 @@
 {
     "title": "Aki-Sora: Yume no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/23461.jpg",
+        "alt": "aki-sora-yume-no-naka"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "あきそら～夢の中～",

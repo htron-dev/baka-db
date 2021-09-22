@@ -1,5 +1,9 @@
 {
     "title": "Girls & Panzer: Ribbon no Musha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150289.jpg",
+        "alt": "girls-panzer-ribbon-no-musha"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "64",

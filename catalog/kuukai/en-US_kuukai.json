@@ -1,5 +1,9 @@
 {
     "title": "Kuukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206844.jpg",
+        "alt": "kuukai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

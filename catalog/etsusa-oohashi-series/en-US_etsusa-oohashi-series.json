@@ -1,5 +1,9 @@
 {
     "title": "Etsusa Oohashi Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212594.jpg",
+        "alt": "etsusa-oohashi-series"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "41",

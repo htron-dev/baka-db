@@ -1,5 +1,9 @@
 {
     "title": "Saudade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169511.jpg",
+        "alt": "saudade"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

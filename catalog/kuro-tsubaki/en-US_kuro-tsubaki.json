@@ -1,5 +1,9 @@
 {
     "title": "Kuro Tsubaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38984.jpg",
+        "alt": "kuro-tsubaki"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "玄椿",

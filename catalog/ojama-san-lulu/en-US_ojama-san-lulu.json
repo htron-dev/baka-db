@@ -1,5 +1,9 @@
 {
     "title": "Ojama-san Lulu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138197.jpg",
+        "alt": "ojama-san-lulu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "おじゃまさんリュリュ",

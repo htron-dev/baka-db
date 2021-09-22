@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters Sun Moon-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239845.jpg",
+        "alt": "pocket-monsters-sun-moon-hen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "50",

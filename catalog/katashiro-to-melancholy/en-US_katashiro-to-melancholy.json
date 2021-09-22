@@ -1,5 +1,9 @@
 {
     "title": "Katashiro to Melancholy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209021.jpg",
+        "alt": "katashiro-to-melancholy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

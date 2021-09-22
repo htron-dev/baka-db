@@ -1,5 +1,9 @@
 {
     "title": "APPLE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22225.jpg",
+        "alt": "apple"
+    },
     "type": "manhwa",
     "tags": [
         "action",

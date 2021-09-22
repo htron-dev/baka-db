@@ -1,12 +1,16 @@
 {
     "title": "Heisei Inu Monogatari Bow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/28736.jpg",
+        "alt": "heisei-inu-monogatari-bow"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "平成イヌ物語バウ",
     "start_date": "1993-10-14",
     "end_date": "1993-10-14",
     "opening_song": "\"Dai Kirai! (大キライ!)\" by Lindberg",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Futari Kiri de Ikou yo (二人きりでいこうよ)\" by Lindberg (eps 1-30)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Meshi Agare Ai wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70113.jpg",
+        "alt": "meshi-agare-ai-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

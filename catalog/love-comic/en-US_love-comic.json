@@ -1,5 +1,9 @@
 {
     "title": "Love Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14614.jpg",
+        "alt": "love-comic"
+    },
     "type": "manhwa",
     "tags": [
         "comedy",

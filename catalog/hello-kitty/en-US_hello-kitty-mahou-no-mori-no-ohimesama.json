@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty: Mahou no Mori no Ohimesama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50227.jpg",
+        "alt": "hello-kitty-mahou-no-mori-no-ohimesama"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハローキティ魔法の森のお姫さま",

@@ -1,5 +1,9 @@
 {
     "title": "Koi ga Heta demo Ikitemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158531.jpg",
+        "alt": "koi-ga-heta-demo-ikitemasu"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "恋がヘタでも生きてます",

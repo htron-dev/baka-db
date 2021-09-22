@@ -1,9 +1,13 @@
 {
     "title": "Worldend:Debugger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146745.jpg",
+        "alt": "worldend-debugger"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",
-    "original_name": "WORLDEND",
+    "original_name": "WORLDEND:DEBUGGER",
     "start_date": "2014-07-28",
     "end_date": "2014-07-28",
     "tags": [

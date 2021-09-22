@@ -1,5 +1,9 @@
 {
     "title": "Sakura to Tomo ni Mau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200970.jpg",
+        "alt": "sakura-to-tomo-ni-mau"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "14",

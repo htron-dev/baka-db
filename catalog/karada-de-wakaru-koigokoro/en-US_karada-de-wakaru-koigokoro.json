@@ -1,5 +1,9 @@
 {
     "title": "Karada de Wakaru Koigokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7696.jpg",
+        "alt": "karada-de-wakaru-koigokoro"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "The Chocolate Panic Picture Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/81052.jpg",
+        "alt": "the-chocolate-panic-picture-show"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ザ・チョコレートパニック・ピクチャーショー",

@@ -1,5 +1,9 @@
 {
     "title": "Love x Wanko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166414.jpg",
+        "alt": "love-x-wanko"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "愛 × 野獣（らぶわんこ）",

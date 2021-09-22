@@ -1,5 +1,9 @@
 {
     "title": "Tantei Revolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230656.jpg",
+        "alt": "tantei-revolution"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "16",

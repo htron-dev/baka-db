@@ -1,5 +1,9 @@
 {
     "title": "Amai, Amai Kodou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80585.jpg",
+        "alt": "amai-amai-kodou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "甘い甘い鼓動",

@@ -1,5 +1,9 @@
 {
     "title": "Gang of Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192250.jpg",
+        "alt": "gang-of-yuusha"
+    },
     "type": "light-novel",
     "original_name": "ギャング・オブ・ユウシャ",
     "start_date": "2017-03-17",

@@ -1,5 +1,9 @@
 {
     "title": "Doujin New Age Heroes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178561.jpg",
+        "alt": "doujin-new-age-heroes"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

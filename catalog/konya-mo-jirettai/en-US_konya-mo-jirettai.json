@@ -1,5 +1,9 @@
 {
     "title": "Konya mo Jirettai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150344.jpg",
+        "alt": "konya-mo-jirettai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

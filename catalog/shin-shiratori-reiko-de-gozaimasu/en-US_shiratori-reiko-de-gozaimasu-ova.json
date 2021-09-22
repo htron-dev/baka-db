@@ -1,5 +1,9 @@
 {
     "title": "Shiratori Reiko de Gozaimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/83265.jpg",
+        "alt": "shiratori-reiko-de-gozaimasu"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "白鳥麗子でございます！",

@@ -1,5 +1,9 @@
 {
     "title": "Getsuyoubi kara Kataomoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166773.jpg",
+        "alt": "getsuyoubi-kara-kataomoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

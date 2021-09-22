@@ -1,5 +1,9 @@
 {
     "title": "Beyblade Burst Gachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1318/99806.jpg",
+        "alt": "beyblade-burst-gachi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ベイブレードバースト GT (ガチ)",

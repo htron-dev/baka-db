@@ -1,5 +1,9 @@
 {
     "title": "Junjou Yokubou Sweet Manual",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193219.jpg",
+        "alt": "junjou-yokubou-sweet-manual"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

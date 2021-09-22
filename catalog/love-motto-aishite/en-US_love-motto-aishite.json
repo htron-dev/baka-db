@@ -1,5 +1,9 @@
 {
     "title": "Love -Motto Aishite-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14899.jpg",
+        "alt": "love-motto-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

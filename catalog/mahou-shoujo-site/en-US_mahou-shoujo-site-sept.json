@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Site Sept",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211406.jpg",
+        "alt": "mahou-shoujo-site-sept"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

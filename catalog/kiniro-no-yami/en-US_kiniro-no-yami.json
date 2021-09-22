@@ -1,5 +1,9 @@
 {
     "title": "Kiniro no Yami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24290.jpg",
+        "alt": "kiniro-no-yami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

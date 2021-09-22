@@ -1,5 +1,9 @@
 {
     "title": "Ratchet &amp; Clank - Gagaga! Ginga no Gakeppuchi Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17662.jpg",
+        "alt": "ratchet-amp-clank-gagaga-ginga-no-gakeppuchi-densetsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

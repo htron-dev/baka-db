@@ -1,5 +1,9 @@
 {
     "title": "Umi no Teppen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53701.jpg",
+        "alt": "umi-no-teppen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

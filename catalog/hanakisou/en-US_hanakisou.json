@@ -1,5 +1,9 @@
 {
     "title": "Hanakisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26760.jpg",
+        "alt": "hanakisou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

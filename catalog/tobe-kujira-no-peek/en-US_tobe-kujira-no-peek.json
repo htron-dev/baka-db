@@ -1,5 +1,9 @@
 {
     "title": "Tobe! Kujira no Peek",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1761/103241.jpg",
+        "alt": "tobe-kujira-no-peek"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "とべ! くじらのピーク",

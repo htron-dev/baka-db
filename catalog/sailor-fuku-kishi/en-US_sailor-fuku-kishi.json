@@ -1,5 +1,9 @@
 {
     "title": "Sailor Fuku Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35387.jpg",
+        "alt": "sailor-fuku-kishi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "セーラー服騎士",

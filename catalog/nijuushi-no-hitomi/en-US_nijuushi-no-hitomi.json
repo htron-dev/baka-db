@@ -1,5 +1,9 @@
 {
     "title": "Nijuushi no Hitomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/53117.jpg",
+        "alt": "nijuushi-no-hitomi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "二十四の瞳",

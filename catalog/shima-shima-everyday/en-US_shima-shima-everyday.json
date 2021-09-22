@@ -1,5 +1,9 @@
 {
     "title": "Shima Shima Everyday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72051.jpg",
+        "alt": "shima-shima-everyday"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "しましまえぶりでぃ",

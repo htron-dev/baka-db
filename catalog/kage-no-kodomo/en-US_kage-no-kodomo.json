@@ -1,5 +1,9 @@
 {
     "title": "Kage no Kodomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/19128.jpg",
+        "alt": "kage-no-kodomo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "影の子供",

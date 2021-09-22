@@ -1,5 +1,9 @@
 {
     "title": "Nightmare Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52265.jpg",
+        "alt": "nightmare-maker"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "48",

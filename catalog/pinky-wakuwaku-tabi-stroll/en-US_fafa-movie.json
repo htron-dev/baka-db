@@ -1,5 +1,9 @@
 {
     "title": "Fafa Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/70665.jpg",
+        "alt": "fafa-movie"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ファーファムービー",

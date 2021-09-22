@@ -1,5 +1,9 @@
 {
     "title": "Evil or Live Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/89413.jpg",
+        "alt": "evil-or-live-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "イーブル オア ライブ 総集編",

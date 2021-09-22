@@ -1,5 +1,9 @@
 {
     "title": "Double Heroine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171279.jpg",
+        "alt": "double-heroine"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

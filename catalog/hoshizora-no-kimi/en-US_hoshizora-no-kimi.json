@@ -1,5 +1,9 @@
 {
     "title": "Hoshizora no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191094.jpg",
+        "alt": "hoshizora-no-kimi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

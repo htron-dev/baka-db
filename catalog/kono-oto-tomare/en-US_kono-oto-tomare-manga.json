@@ -1,5 +1,9 @@
 {
     "title": "Kono Oto Tomare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116653.jpg",
+        "alt": "kono-oto-tomare"
+    },
     "type": "manga",
     "original_name": "この音とまれ！",
     "start_date": "2012-08-04",

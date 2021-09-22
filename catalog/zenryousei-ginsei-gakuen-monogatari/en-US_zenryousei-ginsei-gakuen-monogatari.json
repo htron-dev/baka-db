@@ -1,5 +1,9 @@
 {
     "title": "Zenryousei Ginsei Gakuen Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152826.jpg",
+        "alt": "zenryousei-ginsei-gakuen-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

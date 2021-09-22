@@ -1,5 +1,9 @@
 {
     "title": "Amatsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75555.jpg",
+        "alt": "amatsuki"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "あまつき",

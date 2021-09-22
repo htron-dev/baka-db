@@ -1,5 +1,9 @@
 {
     "title": "Koi to Iu Na no Batsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231996.jpg",
+        "alt": "koi-to-iu-na-no-batsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋という名の罰",

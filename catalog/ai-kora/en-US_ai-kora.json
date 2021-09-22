@@ -1,5 +1,9 @@
 {
     "title": "Ai Kora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60629.jpg",
+        "alt": "ai-kora"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "120",

@@ -1,5 +1,9 @@
 {
     "title": "Aijin Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/68267.jpg",
+        "alt": "aijin-kankei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

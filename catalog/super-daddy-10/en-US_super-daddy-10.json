@@ -1,5 +1,9 @@
 {
     "title": "Super Daddy 10",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206861.jpg",
+        "alt": "super-daddy-10"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "23",

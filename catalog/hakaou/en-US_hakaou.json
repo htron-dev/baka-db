@@ -1,5 +1,9 @@
 {
     "title": "Hakaou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186793.jpg",
+        "alt": "hakaou"
+    },
     "type": "light-novel",
     "original_name": "墓王!",
     "start_date": "2016-12-09",

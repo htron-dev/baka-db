@@ -1,5 +1,9 @@
 {
     "title": "Keetai Kounago H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156348.jpg",
+        "alt": "keetai-kounago-h"
+    },
     "type": "manga",
     "chapters": "17",
     "original_name": "ケータイ小女子 H〈ヘブン〉",

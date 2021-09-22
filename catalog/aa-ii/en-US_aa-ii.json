@@ -1,5 +1,9 @@
 {
     "title": "Aa / ii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1578/96394.jpg",
+        "alt": "aa-ii"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ああ／良い",

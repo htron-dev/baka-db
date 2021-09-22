@@ -1,5 +1,9 @@
 {
     "title": "Basilis no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195157.jpg",
+        "alt": "basilis-no-musume"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

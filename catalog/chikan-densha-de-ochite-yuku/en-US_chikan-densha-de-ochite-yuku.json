@@ -1,5 +1,9 @@
 {
     "title": "Chikan Densha de Ochite Yuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193459.jpg",
+        "alt": "chikan-densha-de-ochite-yuku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

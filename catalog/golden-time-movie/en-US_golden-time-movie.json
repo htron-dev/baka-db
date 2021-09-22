@@ -1,5 +1,9 @@
 {
     "title": "Golden Time (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/89350.jpg",
+        "alt": "golden-time-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゴールデンタイム",

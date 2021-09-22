@@ -1,5 +1,9 @@
 {
     "title": "Sesshi 100℃ Binetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180711.jpg",
+        "alt": "sesshi-100-℃-binetsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "31",

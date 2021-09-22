@@ -1,5 +1,9 @@
 {
     "title": "Harmony",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/76993.jpg",
+        "alt": "harmony"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "<harmony/> ハーモニー",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Harmony_(2015_film"
+            "link": "https://en.wikipedia.org/wiki/Harmony_%282015_film%29"
         }
     ]
 }

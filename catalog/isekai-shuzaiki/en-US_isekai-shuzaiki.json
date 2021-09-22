@@ -1,5 +1,9 @@
 {
     "title": "Isekai Shuzaiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193909.jpg",
+        "alt": "isekai-shuzaiki"
+    },
     "type": "light-novel",
     "original_name": "異世界取材記",
     "start_date": "2017-03-18",

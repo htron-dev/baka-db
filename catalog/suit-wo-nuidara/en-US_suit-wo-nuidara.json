@@ -1,5 +1,9 @@
 {
     "title": "Suit wo Nuidara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136673.jpg",
+        "alt": "suit-wo-nuidara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

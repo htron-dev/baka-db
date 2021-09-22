@@ -1,5 +1,9 @@
 {
     "title": "Haitoku wa Netsuku Afuredasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5766.jpg",
+        "alt": "haitoku-wa-netsuku-afuredasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

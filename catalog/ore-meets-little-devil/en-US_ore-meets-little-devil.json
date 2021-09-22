@@ -1,5 +1,9 @@
 {
     "title": "Ore Meets Little Devil!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164249.jpg",
+        "alt": "ore-meets-little-devil"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

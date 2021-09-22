@@ -1,5 +1,9 @@
 {
     "title": "Ga-Rei: Tsuina no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/84895.jpg",
+        "alt": "ga-rei-tsuina-no-shou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

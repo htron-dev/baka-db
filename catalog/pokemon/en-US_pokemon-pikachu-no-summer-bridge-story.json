@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu no Summer Bridge Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/45528.jpg",
+        "alt": "pokemon-pikachu-no-summer-bridge-story"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ピカチュウのサマー・ブリッジ・ストーリー",

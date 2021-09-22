@@ -1,8 +1,12 @@
 {
     "title": "Tennis no Ouji-sama: Sonzoku Yama no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/4471.jpg",
+        "alt": "tennis-no-ouji-sama-sonzoku-yama-no-hi"
+    },
     "type": "ova",
     "episodes": "1",
-    "original_name": "テニスの王子",
+    "original_name": "テニスの王子: 存続山の日",
     "start_date": "2003-01-20",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

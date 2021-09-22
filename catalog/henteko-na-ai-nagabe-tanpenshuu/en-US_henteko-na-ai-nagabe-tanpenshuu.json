@@ -1,5 +1,9 @@
 {
     "title": "Henteko na Ai: Nagabe Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245633.jpg",
+        "alt": "henteko-na-ai-nagabe-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

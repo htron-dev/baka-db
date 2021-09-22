@@ -1,5 +1,9 @@
 {
     "title": "Kotone no Mahoroba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194463.jpg",
+        "alt": "kotone-no-mahoroba"
+    },
     "type": "manga",
     "original_name": "コトネのまほろば",
     "start_date": "2017-04-03",

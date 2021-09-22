@@ -1,5 +1,9 @@
 {
     "title": "Suteki Tantei Labyrinth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184444.jpg",
+        "alt": "suteki-tantei-labyrinth"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

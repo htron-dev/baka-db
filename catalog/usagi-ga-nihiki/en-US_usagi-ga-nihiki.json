@@ -1,5 +1,9 @@
 {
     "title": "Usagi ga Nihiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233434.jpg",
+        "alt": "usagi-ga-nihiki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

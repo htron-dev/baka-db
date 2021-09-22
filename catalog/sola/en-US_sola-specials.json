@@ -1,5 +1,9 @@
 {
     "title": "Sola Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/21665.jpg",
+        "alt": "sola-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "sola",

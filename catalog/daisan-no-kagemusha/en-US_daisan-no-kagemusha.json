@@ -1,5 +1,9 @@
 {
     "title": "Daisan no Kagemusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36928.jpg",
+        "alt": "daisan-no-kagemusha"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

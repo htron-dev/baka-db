@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Atom: Uchuu no Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/79711.jpg",
+        "alt": "tetsuwan-atom-uchuu-no-yuusha"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鉄腕アトム 宇宙の勇者",

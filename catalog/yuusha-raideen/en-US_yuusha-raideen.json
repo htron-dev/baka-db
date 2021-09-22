@@ -1,5 +1,9 @@
 {
     "title": "Yuusha Raideen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2260.jpg",
+        "alt": "yuusha-raideen"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "勇者ライディーン",

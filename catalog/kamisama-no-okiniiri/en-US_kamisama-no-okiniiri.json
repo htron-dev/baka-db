@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Okiniiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162362.jpg",
+        "alt": "kamisama-no-okiniiri"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "28",

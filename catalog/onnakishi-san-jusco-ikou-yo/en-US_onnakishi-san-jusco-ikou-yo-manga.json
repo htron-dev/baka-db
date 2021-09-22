@@ -1,5 +1,9 @@
 {
     "title": "Onnakishi-san, JUSCO Ikou yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171666.jpg",
+        "alt": "onnakishi-san-jusco-ikou-yo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

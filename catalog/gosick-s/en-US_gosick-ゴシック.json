@@ -1,5 +1,9 @@
 {
     "title": "GOSICK -ゴシック-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236519.jpg",
+        "alt": "gosick-ゴシック"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "GOSICK -ゴシック-",

@@ -1,5 +1,9 @@
 {
     "title": "Aurora no Ginyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166221.jpg",
+        "alt": "aurora-no-ginyoku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

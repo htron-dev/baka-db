@@ -1,5 +1,9 @@
 {
     "title": "Taimadou Gakuen 35 Shiken Shoutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174986.jpg",
+        "alt": "taimadou-gakuen-35-shiken-shoutai"
+    },
     "type": "light-novel",
     "volumes": "13",
     "chapters": "100",

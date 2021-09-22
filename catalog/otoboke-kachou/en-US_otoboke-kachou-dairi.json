@@ -1,5 +1,9 @@
 {
     "title": "Otoboke Kachou Dairi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197302.jpg",
+        "alt": "otoboke-kachou-dairi"
+    },
     "type": "manga",
     "original_name": "おとぼけ部長代理",
     "start_date": "2017-06-07",

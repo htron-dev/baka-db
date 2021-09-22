@@ -1,5 +1,9 @@
 {
     "title": "Zetsurin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179841.jpg",
+        "alt": "zetsurin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

@@ -1,5 +1,9 @@
 {
     "title": "Maku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/88832.jpg",
+        "alt": "maku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "幕",

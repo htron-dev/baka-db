@@ -1,5 +1,9 @@
 {
     "title": "Munou no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89683.jpg",
+        "alt": "munou-no-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Mou Chuunibyou demo Ii mon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165077.jpg",
+        "alt": "mou-chuunibyou-demo-ii-mon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "もう中二病でもいいもんっ!",

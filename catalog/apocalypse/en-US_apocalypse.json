@@ -1,5 +1,9 @@
 {
     "title": "Apocalypse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153019.jpg",
+        "alt": "apocalypse"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "apocalypse",

@@ -1,5 +1,9 @@
 {
     "title": "RideBack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/21745.jpg",
+        "alt": "ride-back"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ライドバック",

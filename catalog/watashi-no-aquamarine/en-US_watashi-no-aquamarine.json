@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Aquamarine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158106.jpg",
+        "alt": "watashi-no-aquamarine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

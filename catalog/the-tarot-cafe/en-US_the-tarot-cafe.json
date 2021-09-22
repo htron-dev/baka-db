@@ -1,5 +1,9 @@
 {
     "title": "The Tarot Café",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11515.jpg",
+        "alt": "the-tarot-cafe"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "18",

@@ -1,11 +1,15 @@
 {
     "title": "Fairy Tail x Rave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/58513.jpg",
+        "alt": "fairy-tail-x-rave"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "FAIRYTAIL×RAVE",
     "start_date": "2013-08-16",
-    "opening_song": "\"BLOW AWAY\" by Natsu (CV",
-    "ending_song": "\"Happy Tale\" by Lucy (CV",
+    "opening_song": "\"BLOW AWAY\" by Natsu (CV: Tetsuya Kakihara) & Gray (CV: Yuuichi Nakamura)",
+    "ending_song": "\"Happy Tale\" by Lucy (CV: Aya Hirano), Erza (CV: Sayaka Oohara) & Wendy (CV: Satomi Satou)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

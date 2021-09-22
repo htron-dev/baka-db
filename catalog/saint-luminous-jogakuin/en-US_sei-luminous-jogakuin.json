@@ -1,5 +1,9 @@
 {
     "title": "Sei Luminous Jogakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164145.jpg",
+        "alt": "sei-luminous-jogakuin"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "聖ルミナス女学院",

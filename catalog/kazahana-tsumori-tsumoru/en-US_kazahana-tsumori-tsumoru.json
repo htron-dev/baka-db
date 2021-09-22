@@ -1,5 +1,9 @@
 {
     "title": "Kazahana, Tsumori Tsumoru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118387.jpg",
+        "alt": "kazahana-tsumori-tsumoru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Giant Step",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199606.jpg",
+        "alt": "giant-step"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

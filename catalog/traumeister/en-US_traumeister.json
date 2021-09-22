@@ -1,5 +1,9 @@
 {
     "title": "Traumeister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/75551.jpg",
+        "alt": "traumeister"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

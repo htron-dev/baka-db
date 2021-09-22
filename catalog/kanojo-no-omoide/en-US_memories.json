@@ -1,5 +1,9 @@
 {
     "title": "Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/74781.jpg",
+        "alt": "memories"
+    },
     "type": "movie",
     "episodes": "3",
     "original_name": "MEMORIES（メモリーズ）",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Memories_(1995_film"
+            "link": "http://en.wikipedia.org/wiki/Memories_%281995_film%29"
         }
     ]
 }

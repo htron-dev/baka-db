@@ -1,5 +1,9 @@
 {
     "title": "1518!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154440.jpg",
+        "alt": "1518"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "53",

@@ -1,5 +1,9 @@
 {
     "title": "Tobi ni Koumori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233959.jpg",
+        "alt": "tobi-ni-koumori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

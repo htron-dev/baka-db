@@ -1,5 +1,9 @@
 {
     "title": "Osaru no Tairyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/60167.jpg",
+        "alt": "osaru-no-tairyou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "お猿の大漁",

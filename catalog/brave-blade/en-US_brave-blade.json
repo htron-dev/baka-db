@@ -1,5 +1,9 @@
 {
     "title": "Brave Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124169.jpg",
+        "alt": "brave-blade"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "ブレイブレイド",

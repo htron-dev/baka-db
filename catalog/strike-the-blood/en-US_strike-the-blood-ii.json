@@ -1,5 +1,9 @@
 {
     "title": "Strike the Blood II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1600/111675.jpg",
+        "alt": "strike-the-blood-ii"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "ストライク・ザ・ブラッド Ⅱ",

@@ -1,11 +1,15 @@
 {
     "title": "Shin Megami Tensei Devil Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1812/96501.jpg",
+        "alt": "shin-megami-tensei-devil-children"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "真・女神転生 デビチル",
     "start_date": "2000-10-07",
     "end_date": "2000-10-07",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Go-Round\" by Nao Itou",
     "ending_song": "#1 \"~Aurora Healing\" by PlantinA Forest",
     "rating": "PG - Children",
     "tags": [

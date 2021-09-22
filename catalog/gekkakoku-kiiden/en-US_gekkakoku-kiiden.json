@@ -1,5 +1,9 @@
 {
     "title": "Gekkakoku Kiiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220958.jpg",
+        "alt": "gekkakoku-kiiden"
+    },
     "type": "manga",
     "original_name": "月華国奇医伝",
     "start_date": "2018-01-24",

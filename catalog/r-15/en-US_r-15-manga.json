@@ -1,5 +1,9 @@
 {
     "title": "R-15",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38010.jpg",
+        "alt": "r-15"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "R-15",

@@ -1,5 +1,9 @@
 {
     "title": "Hayou no Tsurugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128323.jpg",
+        "alt": "hayou-no-tsurugi"
+    },
     "type": "light-novel",
     "original_name": "破妖の剣",
     "start_date": "1989-11-02",

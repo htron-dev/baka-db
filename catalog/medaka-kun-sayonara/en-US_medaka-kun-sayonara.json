@@ -1,5 +1,9 @@
 {
     "title": "Medaka-kun, Sayonara.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194477.jpg",
+        "alt": "medaka-kun-sayonara"
+    },
     "type": "manga",
     "chapters": "21",
     "original_name": "メダカくん、さよなら。",

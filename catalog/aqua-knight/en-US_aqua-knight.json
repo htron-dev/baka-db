@@ -1,5 +1,9 @@
 {
     "title": "Aqua Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/606.jpg",
+        "alt": "aqua-knight"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

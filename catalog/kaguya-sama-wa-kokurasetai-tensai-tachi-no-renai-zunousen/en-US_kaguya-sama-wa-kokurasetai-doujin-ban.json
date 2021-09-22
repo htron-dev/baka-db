@@ -1,5 +1,9 @@
 {
     "title": "Kaguya-sama wa Kokurasetai: Doujin-ban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215758.jpg",
+        "alt": "kaguya-sama-wa-kokurasetai-doujin-ban"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

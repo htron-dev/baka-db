@@ -1,5 +1,9 @@
 {
     "title": "Appleseed Saga Ex Machina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23677.jpg",
+        "alt": "appleseed-saga-ex-machina"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "エクスマキナ",

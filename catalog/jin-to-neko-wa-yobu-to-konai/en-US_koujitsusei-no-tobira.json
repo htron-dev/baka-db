@@ -1,5 +1,9 @@
 {
     "title": "Koujitsusei no Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168592.jpg",
+        "alt": "koujitsusei-no-tobira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

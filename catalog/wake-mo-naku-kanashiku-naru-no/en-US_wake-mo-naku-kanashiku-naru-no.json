@@ -1,5 +1,9 @@
 {
     "title": "Wake mo Naku Kanashiku naru no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149545.jpg",
+        "alt": "wake-mo-naku-kanashiku-naru-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

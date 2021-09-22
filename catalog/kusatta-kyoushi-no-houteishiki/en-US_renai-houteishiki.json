@@ -1,5 +1,9 @@
 {
     "title": "Renai Houteishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193455.jpg",
+        "alt": "renai-houteishiki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

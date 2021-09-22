@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Aikotoba wa Moe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82328.jpg",
+        "alt": "sekai-no-aikotoba-wa-moe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

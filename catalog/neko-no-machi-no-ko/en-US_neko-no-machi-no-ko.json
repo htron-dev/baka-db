@@ -1,5 +1,9 @@
 {
     "title": "Neko no Machi no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176449.jpg",
+        "alt": "neko-no-machi-no-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

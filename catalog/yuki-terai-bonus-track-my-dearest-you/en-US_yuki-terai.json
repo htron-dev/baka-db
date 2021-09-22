@@ -1,5 +1,9 @@
 {
     "title": "Yuki Terai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1037/112138.jpg",
+        "alt": "yuki-terai"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "テライユキ",

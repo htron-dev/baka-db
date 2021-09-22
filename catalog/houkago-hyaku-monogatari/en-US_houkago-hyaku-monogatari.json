@@ -1,5 +1,9 @@
 {
     "title": "Houkago Hyaku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164309.jpg",
+        "alt": "houkago-hyaku-monogatari"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "61",

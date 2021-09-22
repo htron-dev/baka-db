@@ -1,5 +1,9 @@
 {
     "title": "Shikaku no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198107.jpg",
+        "alt": "shikaku-no-kamisama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "資格の神様",

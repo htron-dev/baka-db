@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122785.jpg",
+        "alt": "yuki-no-taiyou"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ユキの太陽",

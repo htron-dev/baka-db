@@ -1,5 +1,9 @@
 {
     "title": "Kikansha Yaemon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/22650.jpg",
+        "alt": "kikansha-yaemon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "きかんしゃやえもん",

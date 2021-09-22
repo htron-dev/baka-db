@@ -1,5 +1,9 @@
 {
     "title": "Kyuushoku no Jikan desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240082.jpg",
+        "alt": "kyuushoku-no-jikan-desu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Shinryaku!? Ika Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/30120.jpg",
+        "alt": "shinryaku-ika-musume"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "侵略!?イカ娘",

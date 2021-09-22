@@ -1,5 +1,9 @@
 {
     "title": "Ling Feng Zhe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1851/98296.jpg",
+        "alt": "ling-feng-zhe"
+    },
     "type": "ona",
     "episodes": "7",
     "original_name": "领风者",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/The_Leader_(web_series"
+            "link": "https://en.wikipedia.org/wiki/The_Leader_%28web_series%29"
         }
     ]
 }

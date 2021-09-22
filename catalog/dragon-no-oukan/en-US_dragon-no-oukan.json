@@ -1,5 +1,9 @@
 {
     "title": "Dragon no Oukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172731.jpg",
+        "alt": "dragon-no-oukan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "P.S.Restart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/103641.jpg",
+        "alt": "p-s-restart"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "P.S.リスタート",

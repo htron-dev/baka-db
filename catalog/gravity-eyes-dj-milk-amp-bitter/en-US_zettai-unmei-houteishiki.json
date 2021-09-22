@@ -1,5 +1,9 @@
 {
     "title": "Zettai Unmei Houteishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1345.jpg",
+        "alt": "zettai-unmei-houteishiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

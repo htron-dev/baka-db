@@ -1,5 +1,9 @@
 {
     "title": "Tenshi ½ Houteishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210736.jpg",
+        "alt": "tenshi-houteishiki"
+    },
     "type": "manga",
     "original_name": "天使 ½ 方程式",
     "start_date": "2010-09-04",

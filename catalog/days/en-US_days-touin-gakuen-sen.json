@@ -1,5 +1,9 @@
 {
     "title": "Days: Touin Gakuen-sen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/88505.jpg",
+        "alt": "days-touin-gakuen-sen"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "DAYS 東院学園戦！",

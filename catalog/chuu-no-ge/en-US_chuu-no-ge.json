@@ -1,5 +1,9 @@
 {
     "title": "Chuu no Ge!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162579.jpg",
+        "alt": "chuu-no-ge"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "36",

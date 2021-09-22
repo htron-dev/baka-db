@@ -1,5 +1,9 @@
 {
     "title": "Sanzoku Diary SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198429.jpg",
+        "alt": "sanzoku-diary-ss"
+    },
     "type": "manga",
     "original_name": "山賊ダイアリー SS",
     "start_date": "2016-12-13",

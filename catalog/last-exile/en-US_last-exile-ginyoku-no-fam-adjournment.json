@@ -1,12 +1,16 @@
 {
     "title": "Last Exile: Ginyoku no Fam - Adjournment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/34925.jpg",
+        "alt": "last-exile-ginyoku-no-fam-adjournment"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ラストエグザイル-銀翼のファム-",
     "start_date": "2011-12-17",
     "end_date": "2011-12-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Buddy\" by Maaya Sakamoto",
+    "ending_song": "#1: \"Starboard\" by Hitomi Kuroishi",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

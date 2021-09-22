@@ -1,5 +1,9 @@
 {
     "title": "Sommelière",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166418.jpg",
+        "alt": "sommeliere"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "135",

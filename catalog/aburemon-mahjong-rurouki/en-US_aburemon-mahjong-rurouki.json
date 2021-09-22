@@ -1,5 +1,9 @@
 {
     "title": "Aburemon Mahjong Rurouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17802.jpg",
+        "alt": "aburemon-mahjong-rurouki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

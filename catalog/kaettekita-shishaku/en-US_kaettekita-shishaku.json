@@ -1,5 +1,9 @@
 {
     "title": "Kaettekita Shishaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229668.jpg",
+        "alt": "kaettekita-shishaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "帰ってきた子爵",

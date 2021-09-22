@@ -1,5 +1,9 @@
 {
     "title": "Grimoire no Keiyakusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164534.jpg",
+        "alt": "grimoire-no-keiyakusha"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "グリモワールの契約者",

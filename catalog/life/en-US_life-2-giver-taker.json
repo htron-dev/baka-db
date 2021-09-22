@@ -1,5 +1,9 @@
 {
     "title": "Life 2: Giver Taker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185222.jpg",
+        "alt": "life-2-giver-taker"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "26",

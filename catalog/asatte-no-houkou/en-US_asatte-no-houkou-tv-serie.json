@@ -1,5 +1,9 @@
 {
     "title": "Asatte no Houkou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/74962.jpg",
+        "alt": "asatte-no-houkou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あさっての方向。",

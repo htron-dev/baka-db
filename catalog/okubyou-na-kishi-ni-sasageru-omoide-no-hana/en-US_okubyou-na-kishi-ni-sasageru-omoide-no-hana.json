@@ -1,5 +1,9 @@
 {
     "title": "Okubyou na Kishi ni Sasageru Omoide no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178369.jpg",
+        "alt": "okubyou-na-kishi-ni-sasageru-omoide-no-hana"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

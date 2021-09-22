@@ -1,5 +1,9 @@
 {
     "title": "Bad Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225327.jpg",
+        "alt": "bad-friends"
+    },
     "type": "manhwa",
     "volumes": "1",
     "original_name": "나쁜 친구",

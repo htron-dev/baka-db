@@ -1,5 +1,9 @@
 {
     "title": "Ten to Mitsugi-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201942.jpg",
+        "alt": "ten-to-mitsugi-hime"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "30",

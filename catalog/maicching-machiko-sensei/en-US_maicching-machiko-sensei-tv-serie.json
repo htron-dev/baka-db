@@ -1,5 +1,9 @@
 {
     "title": "Maicching Machiko-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/60423.jpg",
+        "alt": "maicching-machiko-sensei"
+    },
     "type": "tv-serie",
     "episodes": "95",
     "original_name": "まいっちんぐマチコ先生",

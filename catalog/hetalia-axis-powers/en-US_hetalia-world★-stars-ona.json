@@ -1,5 +1,9 @@
 {
     "title": "Hetalia World★Stars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1698/111088.jpg",
+        "alt": "hetalia-world★-stars"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ヘタリア World★Stars",

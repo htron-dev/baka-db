@@ -1,5 +1,9 @@
 {
     "title": "Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224131.jpg",
+        "alt": "omiai-aite-wa-oshiego-tsuyoki-na-mondaiji"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Sorairo Lemon to Mayoi Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204849.jpg",
+        "alt": "sorairo-lemon-to-mayoi-neko"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

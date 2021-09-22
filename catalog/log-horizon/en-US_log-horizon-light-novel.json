@@ -1,5 +1,9 @@
 {
     "title": "Log Horizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105755.jpg",
+        "alt": "log-horizon"
+    },
     "type": "light-novel",
     "original_name": "ログ・ホライズン",
     "start_date": "2010-04-13",

@@ -1,5 +1,9 @@
 {
     "title": "Himawari Enogu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150399.jpg",
+        "alt": "himawari-enogu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

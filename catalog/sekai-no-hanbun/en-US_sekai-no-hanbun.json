@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Hanbun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180264.jpg",
+        "alt": "sekai-no-hanbun"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "世界の半分",

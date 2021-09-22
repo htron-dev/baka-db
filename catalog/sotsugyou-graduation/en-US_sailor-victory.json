@@ -1,12 +1,16 @@
 {
     "title": "Sailor Victory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/20063.jpg",
+        "alt": "sailor-victory"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "聖羅ヴィクトリー",
     "start_date": "1995-06-25",
     "end_date": "1995-06-25",
-    "opening_song": "\"Sailor V",
-    "ending_song": "\"In the Groove",
+    "opening_song": "\"Sailor V: Hanafubuki no Ran (聖羅 V~花吹雪の乱~)\" by Kanamaru Hinako, Shimakata Junko, Tsuru Hiromi, Hisakawa Aya, Touma Yumi",
+    "ending_song": "\"In the Groove: Hade ni Ikou!! (In The Groove ~ハデに行こう!!~)\" by Kanamaru Hinako, Shimakata Junko, Tsuru Hiromi, Hisakawa Aya, Touma Yumi",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

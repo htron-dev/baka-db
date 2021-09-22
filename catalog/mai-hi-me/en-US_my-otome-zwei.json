@@ -1,5 +1,9 @@
 {
     "title": "My Otome Zwei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40482.jpg",
+        "alt": "my-otome-zwei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

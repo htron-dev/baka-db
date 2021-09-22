@@ -1,12 +1,16 @@
 {
     "title": "Ginga Eiyuu Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/13225.jpg",
+        "alt": "ginga-eiyuu-densetsu"
+    },
     "type": "ova",
     "episodes": "110",
     "original_name": "銀河英雄伝説",
     "start_date": "1988-01-08",
     "end_date": "1988-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Skies of Love\" by Michiru Akiyoshi (eps 1-22,24-26)",
+    "ending_song": "#1: \"Hikari no Hashi wo koete\" by Kei Ogura (eps 1-5,7-13,16-17,19-21,24-26,84)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "military",

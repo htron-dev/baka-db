@@ -1,5 +1,9 @@
 {
     "title": "Mama wa Tenparist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166413.jpg",
+        "alt": "mama-wa-tenparist"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "53",

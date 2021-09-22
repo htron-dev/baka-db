@@ -1,5 +1,9 @@
 {
     "title": "Gutshot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152601.jpg",
+        "alt": "gutshot"
+    },
     "type": "manga",
     "original_name": "ガットショット",
     "start_date": "2014-08-19",

@@ -1,5 +1,9 @@
 {
     "title": "Imagine 29",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163748.jpg",
+        "alt": "imagine-29"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

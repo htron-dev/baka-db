@@ -1,5 +1,9 @@
 {
     "title": "Ijiwaru Nandakedo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74581.jpg",
+        "alt": "ijiwaru-nandakedo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Getter Robo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/56841.jpg",
+        "alt": "shin-getter-robo"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "新ゲッターロボ",

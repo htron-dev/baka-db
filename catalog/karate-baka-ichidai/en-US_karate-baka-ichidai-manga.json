@@ -1,5 +1,9 @@
 {
     "title": "Karate Baka Ichidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234992.jpg",
+        "alt": "karate-baka-ichidai"
+    },
     "type": "manga",
     "volumes": "29",
     "original_name": "空手バカ一代",

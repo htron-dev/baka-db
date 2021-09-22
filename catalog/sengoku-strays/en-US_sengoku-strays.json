@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Strays",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139721.jpg",
+        "alt": "sengoku-strays"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "79",

@@ -1,5 +1,9 @@
 {
     "title": "Confucius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1519/115315.jpg",
+        "alt": "confucius"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "孔子",

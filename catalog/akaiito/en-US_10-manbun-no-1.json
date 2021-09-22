@@ -1,5 +1,9 @@
 {
     "title": "10-manbun no 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186351.jpg",
+        "alt": "10-manbun-no-1"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "37",

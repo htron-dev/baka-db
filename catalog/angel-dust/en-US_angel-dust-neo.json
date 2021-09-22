@@ -1,5 +1,9 @@
 {
     "title": "Angel/Dust Neo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179774.jpg",
+        "alt": "angel-dust-neo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Otonari-san Like",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139267.jpg",
+        "alt": "otonari-san-like"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "オトナリサンライク",

@@ -1,5 +1,9 @@
 {
     "title": "All Job the World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200866.jpg",
+        "alt": "all-job-the-world"
+    },
     "type": "light-novel",
     "original_name": "オール・ジョブ・ザ・ワールド",
     "start_date": "2017-09-20",

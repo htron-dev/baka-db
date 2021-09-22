@@ -1,5 +1,9 @@
 {
     "title": "Norasco: Cinema Point Card-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/74576.jpg",
+        "alt": "norasco-cinema-point-card-hen"
+    },
     "type": "movie",
     "episodes": "10",
     "original_name": "野良スコ「シネマポイントカード」編",

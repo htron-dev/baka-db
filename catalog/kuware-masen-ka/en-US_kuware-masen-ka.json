@@ -1,5 +1,9 @@
 {
     "title": "Kuware Masen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240057.jpg",
+        "alt": "kuware-masen-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

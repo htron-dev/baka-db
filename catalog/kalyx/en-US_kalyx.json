@@ -1,5 +1,9 @@
 {
     "title": "Kalyx",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116145.jpg",
+        "alt": "kalyx"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

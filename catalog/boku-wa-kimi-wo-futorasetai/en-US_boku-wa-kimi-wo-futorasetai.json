@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Kimi wo Futorasetai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216189.jpg",
+        "alt": "boku-wa-kimi-wo-futorasetai"
+    },
     "type": "manga",
     "original_name": "僕は君を太らせたい!",
     "start_date": "2018-06-22",

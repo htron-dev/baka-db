@@ -1,5 +1,9 @@
 {
     "title": "Saru Lock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/56761.jpg",
+        "alt": "saru-lock"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "243",

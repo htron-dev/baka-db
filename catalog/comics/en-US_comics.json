@@ -1,5 +1,9 @@
 {
     "title": "Comics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72721.jpg",
+        "alt": "comics"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "コミックス",

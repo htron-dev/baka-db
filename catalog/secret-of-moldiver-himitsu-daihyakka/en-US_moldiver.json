@@ -1,5 +1,9 @@
 {
     "title": "Moldiver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/37735.jpg",
+        "alt": "moldiver"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "モルダイバー",

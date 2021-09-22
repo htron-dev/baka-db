@@ -1,5 +1,9 @@
 {
     "title": "Full Scale Summer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164705.jpg",
+        "alt": "full-scale-summer"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "フルスケール・サマー",

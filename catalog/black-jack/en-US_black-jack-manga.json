@@ -1,5 +1,9 @@
 {
     "title": "Black Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170232.jpg",
+        "alt": "black-jack"
+    },
     "type": "manga",
     "volumes": "25",
     "chapters": "243",

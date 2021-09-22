@@ -1,5 +1,9 @@
 {
     "title": "Koe Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179163.jpg",
+        "alt": "koe-koi"
+    },
     "type": "manga",
     "original_name": "こえ恋",
     "start_date": "2015-05-01",

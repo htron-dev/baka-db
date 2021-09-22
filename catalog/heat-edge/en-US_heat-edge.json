@@ -1,5 +1,9 @@
 {
     "title": "Heat Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28470.jpg",
+        "alt": "heat-edge"
+    },
     "type": "manga",
     "volumes": "3",
     "tags": [

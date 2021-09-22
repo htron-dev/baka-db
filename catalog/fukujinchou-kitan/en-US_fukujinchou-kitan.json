@@ -1,5 +1,9 @@
 {
     "title": "Fukujinchou Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230453.jpg",
+        "alt": "fukujinchou-kitan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

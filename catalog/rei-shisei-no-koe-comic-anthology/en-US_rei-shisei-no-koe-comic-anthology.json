@@ -1,5 +1,9 @@
 {
     "title": "Rei: Shisei no Koe - Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33007.jpg",
+        "alt": "rei-shisei-no-koe-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

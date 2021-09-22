@@ -1,5 +1,9 @@
 {
     "title": "Dol:Men X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208077.jpg",
+        "alt": "dol-men-x"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

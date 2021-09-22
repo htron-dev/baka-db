@@ -1,5 +1,9 @@
 {
     "title": "Natsu e no Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/3592.jpg",
+        "alt": "natsu-e-no-tobira"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "夏への扉",

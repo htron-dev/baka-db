@@ -1,5 +1,9 @@
 {
     "title": "Rikon Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166749.jpg",
+        "alt": "rikon-club"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "40",

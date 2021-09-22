@@ -1,5 +1,9 @@
 {
     "title": "Hello Harinezumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12081.jpg",
+        "alt": "hello-harinezumi"
+    },
     "type": "manga",
     "volumes": "24",
     "original_name": "ハロー張りネズミ",

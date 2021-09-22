@@ -1,5 +1,9 @@
 {
     "title": "Gendai Mahoutsukai no Okiniiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247642.jpg",
+        "alt": "gendai-mahoutsukai-no-okiniiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

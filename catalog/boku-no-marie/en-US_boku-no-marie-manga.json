@@ -1,5 +1,9 @@
 {
     "title": "Boku no Marie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/13801.jpg",
+        "alt": "boku-no-marie"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "111",

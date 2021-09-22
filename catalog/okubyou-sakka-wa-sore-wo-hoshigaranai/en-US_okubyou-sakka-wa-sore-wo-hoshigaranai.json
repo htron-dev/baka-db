@@ -1,5 +1,9 @@
 {
     "title": "Okubyou Sakka wa Sore wo Hoshigaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229714.jpg",
+        "alt": "okubyou-sakka-wa-sore-wo-hoshigaranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

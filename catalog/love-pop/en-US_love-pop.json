@@ -1,5 +1,9 @@
 {
     "title": "Love Pop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/100097.jpg",
+        "alt": "love-pop"
+    },
     "type": "manhwa",
     "volumes": "8",
     "original_name": "러브 팝",

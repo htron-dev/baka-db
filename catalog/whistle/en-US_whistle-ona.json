@@ -1,5 +1,9 @@
 {
     "title": "Whistle! (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83133.jpg",
+        "alt": "whistle-ona"
+    },
     "type": "ona",
     "original_name": "ホイッスル！",
     "start_date": "2016-12-17",

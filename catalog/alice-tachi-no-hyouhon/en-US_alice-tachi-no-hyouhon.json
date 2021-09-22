@@ -1,5 +1,9 @@
 {
     "title": "Alice-tachi no Hyouhon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216067.jpg",
+        "alt": "alice-tachi-no-hyouhon"
+    },
     "type": "manga",
     "original_name": "アリスたちの標本",
     "start_date": "2018-10-19",

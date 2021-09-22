@@ -1,5 +1,9 @@
 {
     "title": "Asobi Asobase Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1270/97437.jpg",
+        "alt": "asobi-asobase-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "あそびあそばせ",

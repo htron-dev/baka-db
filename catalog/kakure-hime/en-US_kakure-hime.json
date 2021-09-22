@@ -1,5 +1,9 @@
 {
     "title": "Kakure-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151912.jpg",
+        "alt": "kakure-hime"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "カクレヒメ",

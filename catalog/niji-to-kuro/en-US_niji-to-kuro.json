@@ -1,5 +1,9 @@
 {
     "title": "Niji to Kuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227432.jpg",
+        "alt": "niji-to-kuro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Dolls Don't Cry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79471.jpg",
+        "alt": "dolls-dont-cry"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ドールズドントクライ",

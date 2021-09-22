@@ -1,5 +1,9 @@
 {
     "title": "Persona x Tantei Naoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/68473.jpg",
+        "alt": "persona-x-tantei-naoto"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

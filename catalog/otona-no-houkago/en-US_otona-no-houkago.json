@@ -1,5 +1,9 @@
 {
     "title": "Otona no Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189201.jpg",
+        "alt": "otona-no-houkago"
+    },
     "type": "manga",
     "original_name": "おとなのほうかご",
     "start_date": "2016-05-20",

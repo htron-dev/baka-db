@@ -1,5 +1,9 @@
 {
     "title": "Renai Tripper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20078.jpg",
+        "alt": "renai-tripper"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam: Senkou no Hathaway",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148345.jpg",
+        "alt": "kidou-senshi-gundam-senkou-no-hathaway"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "55",

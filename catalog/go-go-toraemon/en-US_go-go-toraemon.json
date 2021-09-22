@@ -1,5 +1,9 @@
 {
     "title": "Go Go Toraemon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/60123.jpg",
+        "alt": "go-go-toraemon"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "GoGo 虎エ門",

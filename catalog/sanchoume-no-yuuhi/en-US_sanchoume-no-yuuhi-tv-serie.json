@@ -1,12 +1,16 @@
 {
     "title": "Sanchoume no Yuuhi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/56683.jpg",
+        "alt": "sanchoume-no-yuuhi"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "三丁目の夕日",
     "start_date": "1990-10-12",
     "end_date": "1990-10-12",
     "opening_song": "\"Koi Kakurenbo (恋かくれんぼ) \" by Tomita Yasuko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"What a Wonderful World\" by Mori Kumiko",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

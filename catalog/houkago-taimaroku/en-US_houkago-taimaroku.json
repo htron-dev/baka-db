@@ -1,5 +1,9 @@
 {
     "title": "Houkago Taimaroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161588.jpg",
+        "alt": "houkago-taimaroku"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "30",

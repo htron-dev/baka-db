@@ -1,5 +1,9 @@
 {
     "title": "Sword Gai The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/89759.jpg",
+        "alt": "sword-gai-the-animation"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ソードガイ The Animation",

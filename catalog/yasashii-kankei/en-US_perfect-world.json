@@ -1,5 +1,9 @@
 {
     "title": "Perfect World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2678.jpg",
+        "alt": "perfect-world"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "パーフェクトワールド",

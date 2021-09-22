@@ -1,5 +1,9 @@
 {
     "title": "Double Contract",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165520.jpg",
+        "alt": "double-contract"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "66",

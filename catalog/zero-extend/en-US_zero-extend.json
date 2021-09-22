@@ -1,5 +1,9 @@
 {
     "title": "Zero Extend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196070.jpg",
+        "alt": "zero-extend"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

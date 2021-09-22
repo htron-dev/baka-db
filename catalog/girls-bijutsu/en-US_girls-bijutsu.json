@@ -1,5 +1,9 @@
 {
     "title": "Girls Bijutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171703.jpg",
+        "alt": "girls-bijutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "40",

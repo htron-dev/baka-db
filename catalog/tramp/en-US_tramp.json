@@ -1,5 +1,9 @@
 {
     "title": "Tramp.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156671.jpg",
+        "alt": "tramp"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

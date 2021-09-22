@@ -1,5 +1,9 @@
 {
     "title": "M-shiki Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39836.jpg",
+        "alt": "m-shiki-princess"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "M 式プリンセス",

@@ -1,5 +1,9 @@
 {
     "title": "Little Little",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122523.jpg",
+        "alt": "little-little"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

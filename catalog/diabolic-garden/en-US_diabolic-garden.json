@@ -1,5 +1,9 @@
 {
     "title": "Diabolic Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195375.jpg",
+        "alt": "diabolic-garden"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

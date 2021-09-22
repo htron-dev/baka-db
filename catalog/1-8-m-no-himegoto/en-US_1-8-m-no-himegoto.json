@@ -1,5 +1,9 @@
 {
     "title": "1.8m² no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171947.jpg",
+        "alt": "1-8-m-no-himegoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

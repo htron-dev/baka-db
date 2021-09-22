@@ -1,12 +1,16 @@
 {
     "title": "Yuusha-Ou GaoGaiGar Final Grand Glorious Gathering",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/50385.jpg",
+        "alt": "yuusha-ou-gao-gai-gar-final-grand-glorious-gathering"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "勇者王ガオガイガー FINAL Grand Glorious Gathering",
     "start_date": "2005-04-11",
     "end_date": "2005-04-11",
     "opening_song": "\"Yuusha-Oh Tanjou! -Grand Glorious Gathering Version-\" by Masaaki Endoh & 3G 2005",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Lion Reine\" by Saeko Suzuki (eps 1-7, 11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

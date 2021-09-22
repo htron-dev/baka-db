@@ -1,5 +1,9 @@
 {
     "title": "Mezase!! Card Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34959.jpg",
+        "alt": "mezase-card-master"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

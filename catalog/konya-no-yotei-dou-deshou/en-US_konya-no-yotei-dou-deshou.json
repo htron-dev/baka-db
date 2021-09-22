@@ -1,5 +1,9 @@
 {
     "title": "Konya no Yotei, Dou Deshou?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184300.jpg",
+        "alt": "konya-no-yotei-dou-deshou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

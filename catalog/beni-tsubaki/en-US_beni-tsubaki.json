@@ -1,5 +1,9 @@
 {
     "title": "Beni Tsubaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235309.jpg",
+        "alt": "beni-tsubaki"
+    },
     "type": "manga",
     "original_name": "紅椿",
     "start_date": "2019-05-15",

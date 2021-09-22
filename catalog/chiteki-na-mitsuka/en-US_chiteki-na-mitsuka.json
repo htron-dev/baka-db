@@ -1,5 +1,9 @@
 {
     "title": "Chiteki na Mitsuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199145.jpg",
+        "alt": "chiteki-na-mitsuka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "知的な蜜華",

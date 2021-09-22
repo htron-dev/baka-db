@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Fushidara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195205.jpg",
+        "alt": "watashi-no-fushidara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

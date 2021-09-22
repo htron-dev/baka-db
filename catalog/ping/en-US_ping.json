@@ -1,5 +1,9 @@
 {
     "title": "Ping",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53241.jpg",
+        "alt": "ping"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "30",

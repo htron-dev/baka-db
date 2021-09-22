@@ -1,5 +1,9 @@
 {
     "title": "Onna no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31042.jpg",
+        "alt": "onna-no-kimochi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

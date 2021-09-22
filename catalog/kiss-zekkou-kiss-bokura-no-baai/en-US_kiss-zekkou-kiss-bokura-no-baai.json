@@ -1,5 +1,9 @@
 {
     "title": "Kiss, Zekkou, Kiss: Bokura no Baai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135551.jpg",
+        "alt": "kiss-zekkou-kiss-bokura-no-baai"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "48",

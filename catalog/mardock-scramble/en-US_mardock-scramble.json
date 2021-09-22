@@ -1,5 +1,9 @@
 {
     "title": "Mardock Scramble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196522.jpg",
+        "alt": "mardock-scramble"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "33",

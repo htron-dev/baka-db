@@ -1,5 +1,9 @@
 {
     "title": "Umi to Dolittle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158828.jpg",
+        "alt": "umi-to-dolittle"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Yebisu Celebrities 1st",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/83051.jpg",
+        "alt": "yebisu-celebrities-1st"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "YEBISU セレブリティーズ 1st",

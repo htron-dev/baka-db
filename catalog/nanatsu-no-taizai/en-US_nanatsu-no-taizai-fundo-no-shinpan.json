@@ -1,12 +1,16 @@
 {
     "title": "Nanatsu no Taizai: Fundo no Shinpan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1011/111551.jpg",
+        "alt": "nanatsu-no-taizai-fundo-no-shinpan"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "七つの大罪 憤怒の審判",
     "start_date": "2021-01-13",
     "end_date": "2021-01-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hikari Are (光あれ)\" by Akihito Okano (岡野昭仁) (from Porno Graffiti) (eps 1-12)",
+    "ending_song": "#1: \"time\" by SawanoHiroyuki[nZk]:ReoNa (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga"
+            "link": "https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29#Anime"
         }
     ]
 }

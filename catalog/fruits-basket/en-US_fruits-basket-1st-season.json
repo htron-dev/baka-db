@@ -1,12 +1,16 @@
 {
     "title": "Fruits Basket 1st Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1447/99827.jpg",
+        "alt": "fruits-basket-1st-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "フルーツバスケット 1st season",
     "start_date": "2019-04-06",
     "end_date": "2019-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Again\" by Beverly (eps 1-13)",
+    "ending_song": "#1: \"Lucky Ending\" by Vickeblanka (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Shakugan no Shana: Friagne & Marianne no Naze Nani Shana! Nandemo Shitsumonbako! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/69083.jpg",
+        "alt": "shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "フリアグネ&マリアンヌのなぜなにシャナ! なんでも質問箱! SP",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/灼眼のシャナ_(アニメ"
+            "link": "http://ja.wikipedia.org/wiki/灼眼のシャナ_%28アニメ%29"
         }
     ]
 }

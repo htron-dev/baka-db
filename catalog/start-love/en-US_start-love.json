@@ -1,5 +1,9 @@
 {
     "title": "Start Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9339.jpg",
+        "alt": "start-love"
+    },
     "type": "manhwa",
     "volumes": "9",
     "tags": [

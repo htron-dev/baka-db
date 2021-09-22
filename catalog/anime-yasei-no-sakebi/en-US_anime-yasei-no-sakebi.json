@@ -1,5 +1,9 @@
 {
     "title": "Anime Yasei no Sakebi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/56735.jpg",
+        "alt": "anime-yasei-no-sakebi"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "アニメ野性のさけび",

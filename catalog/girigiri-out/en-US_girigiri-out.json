@@ -1,5 +1,9 @@
 {
     "title": "Girigiri Out",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209760.jpg",
+        "alt": "girigiri-out"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "43",

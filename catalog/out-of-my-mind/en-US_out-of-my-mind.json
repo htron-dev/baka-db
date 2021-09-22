@@ -1,5 +1,9 @@
 {
     "title": "Out of My Mind",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1582/104381.jpg",
+        "alt": "out-of-my-mind"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Out of My Mind",

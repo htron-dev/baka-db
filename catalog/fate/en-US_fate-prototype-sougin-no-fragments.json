@@ -1,5 +1,9 @@
 {
     "title": "Fate/Prototype: Sougin no Fragments",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139339.jpg",
+        "alt": "fate-prototype-sougin-no-fragments"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "36",

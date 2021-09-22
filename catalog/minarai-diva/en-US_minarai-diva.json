@@ -1,12 +1,16 @@
 {
     "title": "Minarai Diva",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/64441.jpg",
+        "alt": "minarai-diva"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "みならいディーバ",
     "start_date": "2014-07-14",
     "end_date": "2014-07-14",
     "opening_song": "\"Run Diva Run\" by Minarai Diva",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Ponkotsu Princess (ぽんこつプリンセス)\" by Minarai Diva (ep 1)",
     "rating": "G - All Ages",
     "tags": [
         "music"

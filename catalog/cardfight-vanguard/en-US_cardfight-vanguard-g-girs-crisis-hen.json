@@ -1,5 +1,9 @@
 {
     "title": "Cardfight!! Vanguard G: GIRS Crisis-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76231.jpg",
+        "alt": "cardfight-vanguard-g-girs-crisis-hen"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "カードファイト!! ヴァンガード G 　ギアースクライシス編",

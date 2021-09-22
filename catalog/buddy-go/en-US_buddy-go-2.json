@@ -1,5 +1,9 @@
 {
     "title": "Buddy Go! 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/82610.jpg",
+        "alt": "buddy-go-2"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "バディゴ!",

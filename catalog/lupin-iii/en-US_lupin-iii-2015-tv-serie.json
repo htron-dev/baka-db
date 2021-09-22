@@ -1,5 +1,9 @@
 {
     "title": "Lupin III (2015)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75949.jpg",
+        "alt": "lupin-iii-2015"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ルパン三世",

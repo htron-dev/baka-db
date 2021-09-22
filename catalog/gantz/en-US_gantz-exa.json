@@ -1,5 +1,9 @@
 {
     "title": "GANTZ/EXA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39814.jpg",
+        "alt": "gantz-exa"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

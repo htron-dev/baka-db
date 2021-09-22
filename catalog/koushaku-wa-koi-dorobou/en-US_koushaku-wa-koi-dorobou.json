@@ -1,5 +1,9 @@
 {
     "title": "Koushaku wa Koi Dorobou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229666.jpg",
+        "alt": "koushaku-wa-koi-dorobou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "侯爵は恋泥棒",

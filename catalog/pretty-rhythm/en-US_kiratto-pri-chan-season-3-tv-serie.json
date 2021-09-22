@@ -1,12 +1,16 @@
 {
     "title": "Kiratto Pri☆chan Season 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
+        "alt": "kiratto-pri☆chan-season-3"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "キラッとプリ ☆ チャン シーズン 3",
     "start_date": "2020-04-05",
     "end_date": "2020-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Illuminage Land (イルミナージュ・ランド)\" by Run Girls, Run!",
+    "ending_song": "#1: \"A B C D Iine★Dance (A・B・C・D いいね ★ ダンス)\" by GO GO! MASCOTS #2: \"One Heart\" by Miracle StAr",
     "rating": "PG - Children",
     "tags": [
         "music",

@@ -1,5 +1,9 @@
 {
     "title": "Evil Heart: Kanketsuhen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154931.jpg",
+        "alt": "evil-heart-kanketsuhen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

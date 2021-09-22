@@ -1,5 +1,9 @@
 {
     "title": "Stay with Good Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245476.jpg",
+        "alt": "stay-with-good-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hina-chan Change",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223621.jpg",
+        "alt": "hina-chan-change"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

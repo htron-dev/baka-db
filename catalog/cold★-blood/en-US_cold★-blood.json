@@ -1,5 +1,9 @@
 {
     "title": "Cold★Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153071.jpg",
+        "alt": "cold★-blood"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "COLD★BLOOD",

@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Ofuro.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30742.jpg",
+        "alt": "hajimete-no-ofuro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

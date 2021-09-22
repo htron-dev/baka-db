@@ -1,5 +1,9 @@
 {
     "title": "Xevious",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/35941.jpg",
+        "alt": "xevious"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゼビウス",

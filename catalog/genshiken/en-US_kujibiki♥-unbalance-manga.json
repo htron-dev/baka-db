@@ -1,5 +1,9 @@
 {
     "title": "Kujibiki♥Unbalance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161679.jpg",
+        "alt": "kujibiki♥-unbalance"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

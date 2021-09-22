@@ -1,5 +1,9 @@
 {
     "title": "Pink Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113049.jpg",
+        "alt": "pink-lady"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "78",

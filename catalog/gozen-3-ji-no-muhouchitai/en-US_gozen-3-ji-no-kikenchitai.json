@@ -1,5 +1,9 @@
 {
     "title": "Gozen 3-ji no Kikenchitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143551.jpg",
+        "alt": "gozen-3-ji-no-kikenchitai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

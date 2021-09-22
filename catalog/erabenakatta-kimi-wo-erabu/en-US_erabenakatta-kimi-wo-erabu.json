@@ -1,5 +1,9 @@
 {
     "title": "Erabenakatta Kimi wo Erabu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232930.jpg",
+        "alt": "erabenakatta-kimi-wo-erabu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

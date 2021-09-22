@@ -1,5 +1,9 @@
 {
     "title": "Enyogu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1016/108617.jpg",
+        "alt": "enyogu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "えにょぐ",

@@ -1,5 +1,9 @@
 {
     "title": "Sen to Chihiro no Kamikakushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
+        "alt": "sen-to-chihiro-no-kamikakushi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "千と千尋の神隠し",

@@ -1,12 +1,16 @@
 {
     "title": "Pokonyan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/15707.jpg",
+        "alt": "pokonyan"
+    },
     "type": "tv-serie",
     "episodes": "170",
     "original_name": "ポコニャン！",
     "start_date": "1993-04-05",
     "end_date": "1993-04-05",
     "opening_song": "\"Sai wa Nagerareta (賽はなげられた)\" by Daiji MAN Brothers Band (大事 MAN ブラザーズバンド)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Oyaji to Hanasu (おやじと話す)\" by Daiji MAN Brothers Band (大事 MAN ブラザーズバンド) (eps 1-5, 13-23)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

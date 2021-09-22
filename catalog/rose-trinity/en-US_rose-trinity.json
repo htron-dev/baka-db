@@ -1,5 +1,9 @@
 {
     "title": "Rose Trinity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181727.jpg",
+        "alt": "rose-trinity"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

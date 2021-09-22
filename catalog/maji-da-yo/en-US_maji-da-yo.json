@@ -1,5 +1,9 @@
 {
     "title": "Maji da yo!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116477.jpg",
+        "alt": "maji-da-yo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Mirai Saijiki: Bio no Mokushiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110675.jpg",
+        "alt": "mirai-saijiki-bio-no-mokushiroku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

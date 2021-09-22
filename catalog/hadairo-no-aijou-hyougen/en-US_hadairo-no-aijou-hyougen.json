@@ -1,5 +1,9 @@
 {
     "title": "Hadairo no Aijou Hyougen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231479.jpg",
+        "alt": "hadairo-no-aijou-hyougen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

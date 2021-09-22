@@ -1,5 +1,9 @@
 {
     "title": "Watashi, Nichijou wa Heikinchi de tte Itta yo ne!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245725.jpg",
+        "alt": "watashi-nichijou-wa-heikinchi-de-tte-itta-yo-ne"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

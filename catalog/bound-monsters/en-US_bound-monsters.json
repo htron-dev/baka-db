@@ -1,5 +1,9 @@
 {
     "title": "Bound Monsters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150627.jpg",
+        "alt": "bound-monsters"
+    },
     "type": "manga",
     "chapters": "7",
     "original_name": "バウンドモンスターズ",

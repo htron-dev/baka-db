@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Inai Nichiyoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/52127.jpg",
+        "alt": "kamisama-no-inai-nichiyoubi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "神さまのいない日曜日",

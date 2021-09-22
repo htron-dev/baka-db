@@ -1,5 +1,9 @@
 {
     "title": "Shikanai Seitokai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194481.jpg",
+        "alt": "shikanai-seitokai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

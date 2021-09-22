@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Senkan Tiramisù Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1770/92820.jpg",
+        "alt": "uchuu-senkan-tiramisu-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "宇宙戦艦ティラミス",

@@ -1,5 +1,9 @@
 {
     "title": "Puru Pom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/84388.jpg",
+        "alt": "puru-pom"
+    },
     "type": "ona",
     "episodes": "9",
     "original_name": "ぷるぽん",

@@ -1,12 +1,16 @@
 {
     "title": "Hanasaku Iroha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1491/117229.jpg",
+        "alt": "hanasaku-iroha"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "花咲くいろは",
     "start_date": "2011-04-03",
     "end_date": "2011-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hana no Iro (ハナノイロ)\" by nano.RIPE (eps 2-13)",
+    "ending_song": "#1: \"Hana no Iro (ハナノイロ)\" by nano.RIPE (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

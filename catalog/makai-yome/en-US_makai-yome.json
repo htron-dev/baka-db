@@ -1,5 +1,9 @@
 {
     "title": "Makai Yome!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163050.jpg",
+        "alt": "makai-yome"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "16",

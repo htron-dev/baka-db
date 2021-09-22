@@ -1,9 +1,13 @@
 {
     "title": "Progress Eve: Ange Chronicle Side:Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162707.jpg",
+        "alt": "progress-eve-ange-chronicle-side-black"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",
-    "original_name": "プログレス・イヴ Ange Chronicle Side",
+    "original_name": "プログレス・イヴ Ange Chronicle Side:BLACK",
     "start_date": "2013-10-19",
     "tags": [
         "action",

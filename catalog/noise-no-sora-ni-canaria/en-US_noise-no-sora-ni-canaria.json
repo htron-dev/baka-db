@@ -1,5 +1,9 @@
 {
     "title": "Noise no Sora ni Canaria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236168.jpg",
+        "alt": "noise-no-sora-ni-canaria"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

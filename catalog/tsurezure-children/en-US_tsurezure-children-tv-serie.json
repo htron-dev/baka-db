@@ -1,5 +1,9 @@
 {
     "title": "Tsurezure Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/86676.jpg",
+        "alt": "tsurezure-children"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "徒然チルドレン",

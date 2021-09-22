@@ -1,5 +1,9 @@
 {
     "title": "Kaidan Tochuu no Big Noise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119165.jpg",
+        "alt": "kaidan-tochuu-no-big-noise"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "階段途中のビッグ・ノイズ",

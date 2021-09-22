@@ -1,5 +1,9 @@
 {
     "title": "Prison Lab",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173984.jpg",
+        "alt": "prison-lab"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "監獄実験〈プリズンラボ〉",

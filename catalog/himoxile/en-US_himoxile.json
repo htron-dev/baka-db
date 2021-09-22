@@ -1,5 +1,9 @@
 {
     "title": "Himoxile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162588.jpg",
+        "alt": "himoxile"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ヒモザイル",

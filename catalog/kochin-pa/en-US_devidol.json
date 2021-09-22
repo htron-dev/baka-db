@@ -1,5 +1,9 @@
 {
     "title": "Devidol!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1094/93923.jpg",
+        "alt": "devidol"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "でびどる！",

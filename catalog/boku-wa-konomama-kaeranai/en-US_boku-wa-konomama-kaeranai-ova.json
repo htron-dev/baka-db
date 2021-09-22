@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Konomama Kaeranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1216.jpg",
+        "alt": "boku-wa-konomama-kaeranai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ぼくはこのまま帰らない",

@@ -1,5 +1,9 @@
 {
     "title": "Saigo no Door wo Shimero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33045.jpg",
+        "alt": "saigo-no-door-wo-shimero"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

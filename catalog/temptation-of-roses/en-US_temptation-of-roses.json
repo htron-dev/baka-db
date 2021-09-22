@@ -1,5 +1,9 @@
 {
     "title": "Temptation of Roses",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25290.jpg",
+        "alt": "temptation-of-roses"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "7",

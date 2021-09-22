@@ -1,5 +1,9 @@
 {
     "title": "Denkou Chou Tokkyuu Hikarian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75836.jpg",
+        "alt": "denkou-chou-tokkyuu-hikarian"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "電光超特急ヒカリアン",

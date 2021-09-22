@@ -1,5 +1,9 @@
 {
     "title": "Super Bikkuriman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/15072.jpg",
+        "alt": "super-bikkuriman"
+    },
     "type": "tv-serie",
     "episodes": "44",
     "original_name": "スーパービックリマン",

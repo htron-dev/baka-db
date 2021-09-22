@@ -1,5 +1,9 @@
 {
     "title": "Fate/Grand Order: Dengeki Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173436.jpg",
+        "alt": "fate-grand-order-dengeki-comic-anthology"
+    },
     "type": "manga",
     "original_name": "Fate/Grand Order 電撃コミックアンソロジー",
     "start_date": "2016-02-26",

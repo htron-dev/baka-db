@@ -1,5 +1,9 @@
 {
     "title": "Kindan Berry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201192.jpg",
+        "alt": "kindan-berry"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "禁断ベリー",

@@ -1,5 +1,9 @@
 {
     "title": "Love Position",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7778.jpg",
+        "alt": "love-position"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ラヴポジション",

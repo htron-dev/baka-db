@@ -1,5 +1,9 @@
 {
     "title": "Xia Lan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/88305.jpg",
+        "alt": "xia-lan"
+    },
     "type": "tv-serie",
     "episodes": "156",
     "original_name": "侠岚",

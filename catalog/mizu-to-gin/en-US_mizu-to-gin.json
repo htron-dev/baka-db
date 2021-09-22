@@ -1,5 +1,9 @@
 {
     "title": "Mizu to Gin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89325.jpg",
+        "alt": "mizu-to-gin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

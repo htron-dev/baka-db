@@ -1,5 +1,9 @@
 {
     "title": "Happy Pretty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20595.jpg",
+        "alt": "happy-pretty"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

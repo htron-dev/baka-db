@@ -1,5 +1,9 @@
 {
     "title": "Taishou Synesthesia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240096.jpg",
+        "alt": "taishou-synesthesia"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

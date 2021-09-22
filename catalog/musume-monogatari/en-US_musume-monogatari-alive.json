@@ -1,5 +1,9 @@
 {
     "title": "Musume. Monogatari: ALIVE!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105503.jpg",
+        "alt": "musume-monogatari-alive"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "娘。物語 ALIVE!",

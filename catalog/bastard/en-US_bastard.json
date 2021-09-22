@@ -1,5 +1,9 @@
 {
     "title": "Bastard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205549.jpg",
+        "alt": "bastard"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "94",

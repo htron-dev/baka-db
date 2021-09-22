@@ -1,5 +1,9 @@
 {
     "title": "Kiss no Hanataba wo Kimi ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203202.jpg",
+        "alt": "kiss-no-hanataba-wo-kimi-ni"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

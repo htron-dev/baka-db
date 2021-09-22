@@ -1,5 +1,9 @@
 {
     "title": "Straight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236271.jpg",
+        "alt": "straight"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "STRAIGHT ストレート",

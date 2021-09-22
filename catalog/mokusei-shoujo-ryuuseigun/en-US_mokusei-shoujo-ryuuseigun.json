@@ -1,5 +1,9 @@
 {
     "title": "Mokusei Shoujo Ryuuseigun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242898.jpg",
+        "alt": "mokusei-shoujo-ryuuseigun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

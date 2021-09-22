@@ -1,5 +1,9 @@
 {
     "title": "Hajime no Ippo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/250313.jpg",
+        "alt": "hajime-no-ippo"
+    },
     "type": "manga",
     "original_name": "はじめの一歩",
     "start_date": "1989-09-27",

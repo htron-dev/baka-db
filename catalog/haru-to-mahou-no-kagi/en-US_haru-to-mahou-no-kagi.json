@@ -1,5 +1,9 @@
 {
     "title": "Haru to Mahou no Kagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174823.jpg",
+        "alt": "haru-to-mahou-no-kagi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

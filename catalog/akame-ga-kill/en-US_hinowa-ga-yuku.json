@@ -1,5 +1,9 @@
 {
     "title": "Hinowa ga Yuku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204816.jpg",
+        "alt": "hinowa-ga-yuku"
+    },
     "type": "manga",
     "original_name": "ヒノワが征く！",
     "start_date": "2017-06-24",

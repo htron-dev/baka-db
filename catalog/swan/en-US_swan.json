@@ -1,5 +1,9 @@
 {
     "title": "Swan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175476.jpg",
+        "alt": "swan"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "208",

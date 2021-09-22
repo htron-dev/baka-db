@@ -1,5 +1,9 @@
 {
     "title": "Koishite Daddy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/147585.jpg",
+        "alt": "koishite-daddy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

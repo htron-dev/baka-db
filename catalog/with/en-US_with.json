@@ -1,5 +1,9 @@
 {
     "title": "With!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/9560.jpg",
+        "alt": "with"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

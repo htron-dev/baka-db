@@ -1,5 +1,9 @@
 {
     "title": "Kaixin Hanzi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1577/115497.jpg",
+        "alt": "kaixin-hanzi"
+    },
     "type": "tv-serie",
     "episodes": "1000",
     "original_name": "开心汉字",

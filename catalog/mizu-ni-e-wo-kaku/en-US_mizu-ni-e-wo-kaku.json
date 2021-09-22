@@ -1,5 +1,9 @@
 {
     "title": "Mizu ni E wo Kaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46391.jpg",
+        "alt": "mizu-ni-e-wo-kaku"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "水に絵を描く",

@@ -1,5 +1,9 @@
 {
     "title": "Teekyuu 9",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86833.jpg",
+        "alt": "teekyuu-9"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てーきゅう 9 期",

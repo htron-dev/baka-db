@@ -1,5 +1,9 @@
 {
     "title": "Aku no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161454.jpg",
+        "alt": "aku-no-musume"
+    },
     "type": "manga",
     "original_name": "COMIC 悪ノ娘",
     "start_date": "2014-02-15",

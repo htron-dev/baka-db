@@ -1,5 +1,9 @@
 {
     "title": "Otome-teki Koi Kakumei★Love Revo!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126277.jpg",
+        "alt": "otome-teki-koi-kakumei★-love-revo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

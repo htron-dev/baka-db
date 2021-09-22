@@ -1,5 +1,9 @@
 {
     "title": "Ryuusei Gakuen no Lost Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160946.jpg",
+        "alt": "ryuusei-gakuen-no-lost-knight"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "22",

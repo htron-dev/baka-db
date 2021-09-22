@@ -1,5 +1,9 @@
 {
     "title": "Kiss shitai tte Nedattemiro yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224162.jpg",
+        "alt": "kiss-shitai-tte-nedattemiro-yo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

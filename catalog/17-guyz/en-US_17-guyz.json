@@ -1,5 +1,9 @@
 {
     "title": "17 Guyz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27095.jpg",
+        "alt": "17-guyz"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

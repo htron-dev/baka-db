@@ -1,5 +1,9 @@
 {
     "title": "Nage Yari no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6381.jpg",
+        "alt": "nage-yari-no-yoru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

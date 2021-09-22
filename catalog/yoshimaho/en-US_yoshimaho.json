@@ -1,5 +1,9 @@
 {
     "title": "Yoshimaho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1962/114761.jpg",
+        "alt": "yoshimaho"
+    },
     "type": "ona",
     "original_name": "よしまほ",
     "start_date": "2021-07-01",

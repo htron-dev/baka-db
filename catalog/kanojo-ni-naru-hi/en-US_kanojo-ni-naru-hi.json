@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ni Naru Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127733.jpg",
+        "alt": "kanojo-ni-naru-hi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

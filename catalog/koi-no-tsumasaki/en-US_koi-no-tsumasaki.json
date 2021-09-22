@@ -1,5 +1,9 @@
 {
     "title": "Koi no Tsumasaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58887.jpg",
+        "alt": "koi-no-tsumasaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

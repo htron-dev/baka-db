@@ -1,5 +1,9 @@
 {
     "title": "Shuuen no Kodoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189081.jpg",
+        "alt": "shuuen-no-kodoku"
+    },
     "type": "light-novel",
     "original_name": "終焉のコドク",
     "start_date": "2017-01-18",

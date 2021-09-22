@@ -1,5 +1,9 @@
 {
     "title": "Hade School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76939.jpg",
+        "alt": "hade-school"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "하데 스쿨！",

@@ -1,5 +1,9 @@
 {
     "title": "The Chronicle of Myo-Jin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167326.jpg",
+        "alt": "the-chronicle-of-myo-jin"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "36",

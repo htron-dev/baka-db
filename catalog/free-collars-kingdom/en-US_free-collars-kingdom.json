@@ -1,5 +1,9 @@
 {
     "title": "Free Collars Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/862.jpg",
+        "alt": "free-collars-kingdom"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

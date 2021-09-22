@@ -1,5 +1,9 @@
 {
     "title": "Beauty♥Bunny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143063.jpg",
+        "alt": "beauty♥-bunny"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

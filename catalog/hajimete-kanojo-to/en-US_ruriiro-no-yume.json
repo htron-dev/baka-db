@@ -1,5 +1,9 @@
 {
     "title": "Ruriiro no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27370.jpg",
+        "alt": "ruriiro-no-yume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

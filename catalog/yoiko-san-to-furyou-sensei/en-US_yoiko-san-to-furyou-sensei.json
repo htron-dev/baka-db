@@ -1,5 +1,9 @@
 {
     "title": "Yoiko-san to Furyou-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191384.jpg",
+        "alt": "yoiko-san-to-furyou-sensei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Nekokke: Otaru-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167298.jpg",
+        "alt": "itoshi-no-nekokke-otaru-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

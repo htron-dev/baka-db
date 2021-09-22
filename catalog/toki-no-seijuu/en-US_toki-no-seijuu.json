@@ -1,5 +1,9 @@
 {
     "title": "Toki no Seijuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6298.jpg",
+        "alt": "toki-no-seijuu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "刻の聖獣",

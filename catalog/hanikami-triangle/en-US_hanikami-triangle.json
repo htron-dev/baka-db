@@ -1,5 +1,9 @@
 {
     "title": "Hanikami Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126403.jpg",
+        "alt": "hanikami-triangle"
+    },
     "type": "light-novel",
     "volumes": "7",
     "original_name": "はにかみトライアングル",

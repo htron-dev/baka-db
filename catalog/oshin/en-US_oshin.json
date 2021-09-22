@@ -1,5 +1,9 @@
 {
     "title": "Oshin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30716.jpg",
+        "alt": "oshin"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "おしん",

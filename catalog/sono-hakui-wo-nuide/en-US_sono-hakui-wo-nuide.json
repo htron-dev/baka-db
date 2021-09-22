@@ -1,5 +1,9 @@
 {
     "title": "Sono Hakui wo Nuide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/25969.jpg",
+        "alt": "sono-hakui-wo-nuide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

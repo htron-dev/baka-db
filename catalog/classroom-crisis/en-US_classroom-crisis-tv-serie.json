@@ -1,12 +1,16 @@
 {
     "title": "Classroom☆Crisis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/74397.jpg",
+        "alt": "classroom☆-crisis"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "クラスルーム ☆ クライシス",
     "start_date": "2015-07-04",
     "end_date": "2015-07-04",
     "opening_song": "\"Cobalt (コバルト)\" by TrySail (eps 2-10, 11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Anemone (アネモネ)\" by ClariS (eps 2-10, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

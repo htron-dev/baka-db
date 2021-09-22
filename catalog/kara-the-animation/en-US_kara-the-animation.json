@@ -1,5 +1,9 @@
 {
     "title": "Kara The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75134.jpg",
+        "alt": "kara-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "5",
     "original_name": "KARA THE ANIMATION",

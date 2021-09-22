@@ -1,5 +1,9 @@
 {
     "title": "Daring Students' Association",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16123.jpg",
+        "alt": "daring-students-association"
+    },
     "type": "manhwa",
     "volumes": "2",
     "original_name": "위태위태 학생회",

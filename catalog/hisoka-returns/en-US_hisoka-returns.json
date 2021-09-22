@@ -1,5 +1,9 @@
 {
     "title": "Hisoka Returns!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113029.jpg",
+        "alt": "hisoka-returns"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "60",

@@ -1,5 +1,9 @@
 {
     "title": "Kyuuketsuki no Oshigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164324.jpg",
+        "alt": "kyuuketsuki-no-oshigoto"
+    },
     "type": "light-novel",
     "volumes": "7",
     "original_name": "吸血鬼のおしごと",

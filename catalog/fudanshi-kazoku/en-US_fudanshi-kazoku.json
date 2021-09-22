@@ -1,5 +1,9 @@
 {
     "title": "Fudanshi Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227005.jpg",
+        "alt": "fudanshi-kazoku"
+    },
     "type": "manga",
     "original_name": "腐男子家族",
     "start_date": "2019-01-12",

@@ -1,11 +1,15 @@
 {
     "title": "Sengoku Musou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/71770.jpg",
+        "alt": "sengoku-musou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "戦国無双",
     "start_date": "2015-01-12",
     "end_date": "2015-01-12",
-    "opening_song": "\"Sen",
+    "opening_song": "\"Sen: Ikusa (戦-ikusa)\" by Wagakki Band",
     "ending_song": "\"Nadeshiko Sakura (なでしこ桜)\" by Wagakki Band",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Samurai_Warriors_(anime"
+            "link": "https://en.wikipedia.org/wiki/Samurai_Warriors_%28anime%29"
         }
     ]
 }

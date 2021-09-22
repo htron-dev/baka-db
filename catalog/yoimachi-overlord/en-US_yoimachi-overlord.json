@@ -1,5 +1,9 @@
 {
     "title": "Yoimachi Overlord",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171684.jpg",
+        "alt": "yoimachi-overlord"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

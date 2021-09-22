@@ -1,5 +1,9 @@
 {
     "title": "A Diffusion Disease",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13074.jpg",
+        "alt": "a-diffusion-disease"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "拡散",

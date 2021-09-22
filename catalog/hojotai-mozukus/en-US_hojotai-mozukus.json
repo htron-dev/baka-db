@@ -1,5 +1,9 @@
 {
     "title": "Hojotai Mozukus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162926.jpg",
+        "alt": "hojotai-mozukus"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

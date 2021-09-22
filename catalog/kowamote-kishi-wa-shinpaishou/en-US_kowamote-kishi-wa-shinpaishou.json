@@ -1,5 +1,9 @@
 {
     "title": "Kowamote Kishi wa Shinpaishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180935.jpg",
+        "alt": "kowamote-kishi-wa-shinpaishou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

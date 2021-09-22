@@ -1,5 +1,9 @@
 {
     "title": "Pokemen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172306.jpg",
+        "alt": "pokemen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ポケメン！",

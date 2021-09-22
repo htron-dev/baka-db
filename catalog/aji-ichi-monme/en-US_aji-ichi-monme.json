@@ -1,5 +1,9 @@
 {
     "title": "Aji Ichi Monme",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173953.jpg",
+        "alt": "aji-ichi-monme"
+    },
     "type": "manga",
     "volumes": "33",
     "chapters": "314",

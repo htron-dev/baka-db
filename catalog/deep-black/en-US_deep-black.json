@@ -1,5 +1,9 @@
 {
     "title": "Deep Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11877.jpg",
+        "alt": "deep-black"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

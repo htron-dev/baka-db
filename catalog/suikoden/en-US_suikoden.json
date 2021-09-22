@@ -1,5 +1,9 @@
 {
     "title": "Suikoden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/65971.jpg",
+        "alt": "suikoden"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "40",

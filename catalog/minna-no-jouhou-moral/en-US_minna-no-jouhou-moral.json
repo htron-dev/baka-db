@@ -1,5 +1,9 @@
 {
     "title": "Minna no Jouhou Moral",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/87608.jpg",
+        "alt": "minna-no-jouhou-moral"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "みんなの情報モラル",

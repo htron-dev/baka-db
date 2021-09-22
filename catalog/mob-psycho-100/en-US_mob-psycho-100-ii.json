@@ -1,12 +1,16 @@
 {
     "title": "Mob Psycho 100 II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1918/96303.jpg",
+        "alt": "mob-psycho-100-ii"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "モブサイコ 100 II",
     "start_date": "2019-01-07",
     "end_date": "2019-01-07",
     "opening_song": "\"99.9\" by MOB CHOIR feat. sajou no hana",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gray (グレイ)\" by sajou no hana (eps 1, 7)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

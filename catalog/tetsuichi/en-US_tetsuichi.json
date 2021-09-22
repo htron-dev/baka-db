@@ -1,5 +1,9 @@
 {
     "title": "Tetsuichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180600.jpg",
+        "alt": "tetsuichi"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "73",

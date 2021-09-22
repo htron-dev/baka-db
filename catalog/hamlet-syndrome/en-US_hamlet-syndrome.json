@@ -1,5 +1,9 @@
 {
     "title": "Hamlet Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172040.jpg",
+        "alt": "hamlet-syndrome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

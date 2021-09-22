@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Hada wo Kowasu Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64587.jpg",
+        "alt": "kimi-no-hada-wo-kowasu-yoru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

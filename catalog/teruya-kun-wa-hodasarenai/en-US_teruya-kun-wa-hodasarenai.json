@@ -1,5 +1,9 @@
 {
     "title": "Teruya-kun wa Hodasarenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200095.jpg",
+        "alt": "teruya-kun-wa-hodasarenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

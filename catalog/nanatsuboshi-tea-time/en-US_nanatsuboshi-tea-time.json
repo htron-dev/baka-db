@@ -1,5 +1,9 @@
 {
     "title": "Nanatsuboshi Tea Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190611.jpg",
+        "alt": "nanatsuboshi-tea-time"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

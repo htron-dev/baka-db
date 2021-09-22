@@ -1,12 +1,16 @@
 {
     "title": "Btooom!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/40977.jpg",
+        "alt": "btooom"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "BTOOOM!",
     "start_date": "2012-10-04",
     "end_date": "2012-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"No pain, No game\" by Nano (eps 1-11)",
+    "ending_song": "#1: \"Aozora (アオゾラ)\" by May'n (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

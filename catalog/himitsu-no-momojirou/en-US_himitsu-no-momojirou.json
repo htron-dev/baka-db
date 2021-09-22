@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Momojirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181593.jpg",
+        "alt": "himitsu-no-momojirou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ひみつの桃次郎",

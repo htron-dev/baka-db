@@ -1,5 +1,9 @@
 {
     "title": "Oichii tte Yutte yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177222.jpg",
+        "alt": "oichii-tte-yutte-yo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

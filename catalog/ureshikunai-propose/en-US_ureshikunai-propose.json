@@ -1,5 +1,9 @@
 {
     "title": "Ureshikunai Propose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227375.jpg",
+        "alt": "ureshikunai-propose"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "嬉しくないプロポーズ",

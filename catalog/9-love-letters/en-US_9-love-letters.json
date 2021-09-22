@@ -1,5 +1,9 @@
 {
     "title": "9 Love Letters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35376.jpg",
+        "alt": "9-love-letters"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ナインラブレタース",

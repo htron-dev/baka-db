@@ -1,5 +1,9 @@
 {
     "title": "Rack: 13-gakari no Zankoku Kikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219623.jpg",
+        "alt": "rack-13-gakari-no-zankoku-kikai"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "66",

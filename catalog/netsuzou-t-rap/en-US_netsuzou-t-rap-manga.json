@@ -1,5 +1,9 @@
 {
     "title": "Netsuzou TRap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158981.jpg",
+        "alt": "netsuzou-t-rap"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

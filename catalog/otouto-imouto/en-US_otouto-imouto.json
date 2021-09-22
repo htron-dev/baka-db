@@ -1,5 +1,9 @@
 {
     "title": "Otouto Imouto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175302.jpg",
+        "alt": "otouto-imouto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

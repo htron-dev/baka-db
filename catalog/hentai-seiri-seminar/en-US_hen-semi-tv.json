@@ -1,5 +1,9 @@
 {
     "title": "HenSemi (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75839.jpg",
+        "alt": "hen-semi-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "変ゼミ",

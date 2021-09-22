@@ -1,5 +1,9 @@
 {
     "title": "Yume no Kayoiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154792.jpg",
+        "alt": "yume-no-kayoiji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Shaky Youth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25288.jpg",
+        "alt": "shaky-youth"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "9",

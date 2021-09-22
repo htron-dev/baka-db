@@ -1,5 +1,9 @@
 {
     "title": "Ring ni Kakero 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20286.jpg",
+        "alt": "ring-ni-kakero-2"
+    },
     "type": "manga",
     "volumes": "26",
     "original_name": "リングにかけろ 2",

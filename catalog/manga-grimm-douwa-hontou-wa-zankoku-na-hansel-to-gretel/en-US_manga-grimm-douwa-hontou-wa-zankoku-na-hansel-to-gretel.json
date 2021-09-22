@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Hontou wa Zankoku na Hansel to Gretel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40401.jpg",
+        "alt": "manga-grimm-douwa-hontou-wa-zankoku-na-hansel-to-gretel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

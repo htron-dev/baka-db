@@ -1,5 +1,9 @@
 {
     "title": "Sango to Ningyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221887.jpg",
+        "alt": "sango-to-ningyo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

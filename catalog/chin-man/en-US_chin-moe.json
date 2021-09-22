@@ -1,5 +1,9 @@
 {
     "title": "Chin-Moe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151289.jpg",
+        "alt": "chin-moe"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "珍萌～ちんもえ～",

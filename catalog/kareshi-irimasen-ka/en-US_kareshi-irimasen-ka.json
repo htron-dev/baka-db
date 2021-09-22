@@ -1,5 +1,9 @@
 {
     "title": "Kareshi Irimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5922.jpg",
+        "alt": "kareshi-irimasen-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "彼氏いりませんか?",

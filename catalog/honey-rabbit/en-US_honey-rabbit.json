@@ -1,5 +1,9 @@
 {
     "title": "Honey Rabbit!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134979.jpg",
+        "alt": "honey-rabbit"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

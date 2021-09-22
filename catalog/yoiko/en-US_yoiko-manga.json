@@ -1,5 +1,9 @@
 {
     "title": "Yoiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148331.jpg",
+        "alt": "yoiko"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "176",

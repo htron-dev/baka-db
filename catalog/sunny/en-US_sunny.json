@@ -1,5 +1,9 @@
 {
     "title": "Sunny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151417.jpg",
+        "alt": "sunny"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "37",

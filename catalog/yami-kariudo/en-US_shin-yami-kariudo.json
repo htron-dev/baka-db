@@ -1,5 +1,9 @@
 {
     "title": "Shin Yami Kariudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182685.jpg",
+        "alt": "shin-yami-kariudo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

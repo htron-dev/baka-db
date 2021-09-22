@@ -1,5 +1,9 @@
 {
     "title": "Gorillaman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/62419.jpg",
+        "alt": "gorillaman"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ゴリラーマン",

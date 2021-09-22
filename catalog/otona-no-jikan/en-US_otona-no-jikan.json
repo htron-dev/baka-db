@@ -1,5 +1,9 @@
 {
     "title": "Otona no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204443.jpg",
+        "alt": "otona-no-jikan"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

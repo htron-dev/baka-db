@@ -1,5 +1,9 @@
 {
     "title": "Angel Para Bellum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57489.jpg",
+        "alt": "angel-para-bellum"
+    },
     "type": "manga",
     "original_name": "エンジェルパラベラム",
     "start_date": "2010-08-24",

@@ -1,5 +1,9 @@
 {
     "title": "Kemono no You ni Daiteyaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163354.jpg",
+        "alt": "kemono-no-you-ni-daiteyaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

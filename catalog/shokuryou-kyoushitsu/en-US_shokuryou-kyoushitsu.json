@@ -1,5 +1,9 @@
 {
     "title": "Shokuryou Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205762.jpg",
+        "alt": "shokuryou-kyoushitsu"
+    },
     "type": "manga",
     "original_name": "喰猟教室",
     "start_date": "2017-06-20",

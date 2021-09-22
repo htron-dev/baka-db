@@ -1,12 +1,16 @@
 {
     "title": "Slam Dunk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/86890.jpg",
+        "alt": "slam-dunk"
+    },
     "type": "tv-serie",
     "episodes": "101",
     "original_name": "スラムダンク",
     "start_date": "1993-10-16",
     "end_date": "1993-10-16",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kimi ga Suki da to Sakebitai\" by BAAD (eps 1-61)",
+    "ending_song": "#1: \"Anata Dake Mitsumete'ru (あなただけ見つめてる)\" by Ooguro Maki (eps 1-24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

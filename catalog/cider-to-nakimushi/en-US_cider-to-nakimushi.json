@@ -1,5 +1,9 @@
 {
     "title": "Cider to Nakimushi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152294.jpg",
+        "alt": "cider-to-nakimushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

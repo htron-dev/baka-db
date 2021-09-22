@@ -1,5 +1,9 @@
 {
     "title": "World Is Continue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184618.jpg",
+        "alt": "world-is-continue"
+    },
     "type": "light-novel",
     "original_name": "ワールド・イズ・コンティニュー",
     "start_date": "2016-10-20",

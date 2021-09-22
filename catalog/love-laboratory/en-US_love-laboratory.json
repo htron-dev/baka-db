@@ -1,5 +1,9 @@
 {
     "title": "Love Laboratory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34536.jpg",
+        "alt": "love-laboratory"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

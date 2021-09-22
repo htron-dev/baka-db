@@ -1,5 +1,9 @@
 {
     "title": "Yawaraka Atom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/56203.jpg",
+        "alt": "yawaraka-atom"
+    },
     "type": "ona",
     "episodes": "7",
     "original_name": "やわらかアトム",

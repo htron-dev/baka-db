@@ -1,5 +1,9 @@
 {
     "title": "Ashi-Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149258.jpg",
+        "alt": "ashi-girl"
+    },
     "type": "manga",
     "original_name": "アシガール",
     "start_date": "2011-11-28",

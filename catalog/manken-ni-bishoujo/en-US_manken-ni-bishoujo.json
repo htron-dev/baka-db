@@ -1,5 +1,9 @@
 {
     "title": "Manken ni Bishoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236102.jpg",
+        "alt": "manken-ni-bishoujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

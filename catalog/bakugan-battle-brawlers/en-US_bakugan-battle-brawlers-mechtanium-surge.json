@@ -1,5 +1,9 @@
 {
     "title": "Bakugan Battle Brawlers: Mechtanium Surge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/82083.jpg",
+        "alt": "bakugan-battle-brawlers-mechtanium-surge"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "爆丸バトルブローラーズ Mechtanium Surge",

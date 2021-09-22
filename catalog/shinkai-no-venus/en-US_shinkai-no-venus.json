@@ -1,5 +1,9 @@
 {
     "title": "Shinkai No Venus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82104.jpg",
+        "alt": "shinkai-no-venus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

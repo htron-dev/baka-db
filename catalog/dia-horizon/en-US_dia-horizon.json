@@ -1,5 +1,9 @@
 {
     "title": "Dia Horizon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/87292.jpg",
+        "alt": "dia-horizon"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "ディア ホライゾン",

@@ -1,5 +1,9 @@
 {
     "title": "Honnouteki Touka Koukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10874.jpg",
+        "alt": "honnouteki-touka-koukan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "本能的等価交換",

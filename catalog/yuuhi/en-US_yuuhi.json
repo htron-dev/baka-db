@@ -1,5 +1,9 @@
 {
     "title": "Yuuhi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/214259.jpg",
+        "alt": "yuuhi"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "111",

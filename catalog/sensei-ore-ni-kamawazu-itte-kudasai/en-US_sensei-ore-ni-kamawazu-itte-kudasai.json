@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Ore ni Kamawazu Itte Kudasai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217763.jpg",
+        "alt": "sensei-ore-ni-kamawazu-itte-kudasai"
+    },
     "type": "manga",
     "original_name": "先生、俺にかまわずイッてください!!",
     "start_date": "2018-08-18",

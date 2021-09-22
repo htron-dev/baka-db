@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Juliet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61459.jpg",
+        "alt": "sayonara-juliet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

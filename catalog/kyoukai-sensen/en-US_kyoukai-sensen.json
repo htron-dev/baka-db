@@ -1,5 +1,9 @@
 {
     "title": "Kyoukai Sensen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15961.jpg",
+        "alt": "kyoukai-sensen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

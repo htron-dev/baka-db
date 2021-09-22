@@ -1,5 +1,9 @@
 {
     "title": "The Way This Boy Lives",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3754.jpg",
+        "alt": "the-way-this-boy-lives"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "16",

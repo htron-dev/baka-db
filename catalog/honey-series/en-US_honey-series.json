@@ -1,5 +1,9 @@
 {
     "title": "Honey Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150513.jpg",
+        "alt": "honey-series"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "Honey シリーズ",

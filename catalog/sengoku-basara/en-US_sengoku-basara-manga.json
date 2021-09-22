@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Basara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199916.jpg",
+        "alt": "sengoku-basara"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

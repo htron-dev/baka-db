@@ -1,5 +1,9 @@
 {
     "title": "Koukaku no Pandora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100773.jpg",
+        "alt": "koukaku-no-pandora"
+    },
     "type": "manga",
     "original_name": "紅殻のパンドラ",
     "start_date": "2012-10-10",

@@ -1,5 +1,9 @@
 {
     "title": "Manga Sarutobi Sasuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/57257.jpg",
+        "alt": "manga-sarutobi-sasuke"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "まんが猿飛佐助",

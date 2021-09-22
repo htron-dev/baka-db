@@ -1,5 +1,9 @@
 {
     "title": "Tanabata Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/84696.jpg",
+        "alt": "tanabata-monogatari"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "七夕ものがたり",

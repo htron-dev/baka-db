@@ -1,5 +1,9 @@
 {
     "title": "Fatal Fury: Legend of the Hungry Wolf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/10212.jpg",
+        "alt": "fatal-fury-legend-of-the-hungry-wolf"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "バトルファイターズ餓狼伝説",

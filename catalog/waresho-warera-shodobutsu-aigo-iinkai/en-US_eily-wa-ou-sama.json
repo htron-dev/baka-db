@@ -1,5 +1,9 @@
 {
     "title": "Eily wa Ou-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1069/103379.jpg",
+        "alt": "eily-wa-ou-sama"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "エイリは王さま!",

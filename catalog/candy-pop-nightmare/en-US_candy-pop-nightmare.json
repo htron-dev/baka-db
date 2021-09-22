@@ -1,5 +1,9 @@
 {
     "title": "Candy Pop Nightmare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181077.jpg",
+        "alt": "candy-pop-nightmare"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "96",

@@ -1,5 +1,9 @@
 {
     "title": "Onee Danshi, Hajimemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200582.jpg",
+        "alt": "onee-danshi-hajimemasu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "63",

@@ -1,5 +1,9 @@
 {
     "title": "Shiki Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/36543.jpg",
+        "alt": "shiki-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "屍鬼",

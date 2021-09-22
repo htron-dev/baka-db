@@ -1,5 +1,9 @@
 {
     "title": "Suki na Mono wa Suki dakara Shouganai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170892.jpg",
+        "alt": "suki-na-mono-wa-suki-dakara-shouganai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "好きなものは好きだからしょうがない!!",

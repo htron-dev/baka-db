@@ -1,5 +1,9 @@
 {
     "title": "Kindan no Yorokobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35700.jpg",
+        "alt": "kindan-no-yorokobi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "禁断の喜び",
@@ -12,7 +16,6 @@
         "Asada",
         "Okina (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

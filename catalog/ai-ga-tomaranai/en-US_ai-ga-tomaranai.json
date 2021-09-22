@@ -1,5 +1,9 @@
 {
     "title": "AI ga Tomaranai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54753.jpg",
+        "alt": "ai-ga-tomaranai"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "55",

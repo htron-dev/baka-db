@@ -1,5 +1,9 @@
 {
     "title": "Godzilla 1: Kaijuu Wakusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1847/93081.jpg",
+        "alt": "godzilla-1-kaijuu-wakusei"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "GODZILLA -怪獣惑星-",

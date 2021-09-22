@@ -1,12 +1,16 @@
 {
     "title": "H2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1480/105967.jpg",
+        "alt": "h-2"
+    },
     "type": "tv-serie",
     "episodes": "41",
     "original_name": "Ｈ２[エイチ・ツー]",
     "start_date": "1995-06-01",
     "end_date": "1995-06-01",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Niji no Grand Slam\" by Toshinobu Kubota (eps 1-22)",
+    "ending_song": "#01: \"Futari ni kaerô\" by Yui Nishiwaki (eps 1-22)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

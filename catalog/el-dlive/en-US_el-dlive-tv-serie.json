@@ -1,5 +1,9 @@
 {
     "title": "ēlDLIVE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/82348.jpg",
+        "alt": "el-dlive"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "エルドライブ 【ēlDLIVE】",

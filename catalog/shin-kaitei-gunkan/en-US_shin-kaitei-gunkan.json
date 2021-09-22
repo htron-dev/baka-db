@@ -1,5 +1,9 @@
 {
     "title": "Shin Kaitei Gunkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1327/92890.jpg",
+        "alt": "shin-kaitei-gunkan"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "新海底軍艦",

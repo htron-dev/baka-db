@@ -1,5 +1,9 @@
 {
     "title": "6th Bullets",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191978.jpg",
+        "alt": "6th-bullets"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

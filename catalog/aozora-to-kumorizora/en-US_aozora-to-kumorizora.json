@@ -1,5 +1,9 @@
 {
     "title": "Aozora to Kumorizora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211196.jpg",
+        "alt": "aozora-to-kumorizora"
+    },
     "type": "manga",
     "original_name": "あおぞらとくもりぞら",
     "start_date": "2016-08-12",

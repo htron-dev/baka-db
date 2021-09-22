@@ -1,5 +1,9 @@
 {
     "title": "Prometeo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171980.jpg",
+        "alt": "prometeo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

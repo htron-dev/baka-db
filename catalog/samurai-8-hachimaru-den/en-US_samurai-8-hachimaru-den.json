@@ -1,5 +1,9 @@
 {
     "title": "Samurai 8: Hachimaru Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224191.jpg",
+        "alt": "samurai-8-hachimaru-den"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

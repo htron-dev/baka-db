@@ -1,5 +1,9 @@
 {
     "title": "Sengaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30440.jpg",
+        "alt": "sengaku"
+    },
     "type": "manga",
     "original_name": "せんがく",
     "start_date": "2009-08-20",

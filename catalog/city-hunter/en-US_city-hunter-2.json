@@ -1,12 +1,16 @@
 {
     "title": "City Hunter 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/50523.jpg",
+        "alt": "city-hunter-2"
+    },
     "type": "tv-serie",
     "episodes": "63",
     "original_name": "シティーハンター 2",
     "start_date": "1988-04-02",
     "end_date": "1988-04-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Angel Night\" by PSYS (eps 1 - 26)",
+    "ending_song": "#1: \"Super Girl\" by Yasuyuki Okamura (eps 1-37)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

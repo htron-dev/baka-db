@@ -1,5 +1,9 @@
 {
     "title": "Tenju no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211053.jpg",
+        "alt": "tenju-no-kuni"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Sister-in-Law!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222982.jpg",
+        "alt": "sister-in-law"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

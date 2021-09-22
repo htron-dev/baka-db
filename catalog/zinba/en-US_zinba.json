@@ -1,5 +1,9 @@
 {
     "title": "Zinba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1613/110505.jpg",
+        "alt": "zinba"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "神魄",

@@ -1,8 +1,12 @@
 {
     "title": "Closers: Side Blacklambs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/78304.jpg",
+        "alt": "closers-side-blacklambs"
+    },
     "type": "ona",
     "episodes": "12",
-    "original_name": "클로저스",
+    "original_name": "클로저스 : SIDE BLACKLAMBS",
     "start_date": "2016-12-23",
     "opening_song": "“Close the World” by Chohee",
     "ending_song": "“Closer To Your Side” by Elika",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Closers_(video_game"
+            "link": "http://en.wikipedia.org/wiki/Closers_%28video_game%29"
         }
     ]
 }

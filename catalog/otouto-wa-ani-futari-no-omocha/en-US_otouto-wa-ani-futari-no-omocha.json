@@ -1,5 +1,9 @@
 {
     "title": "Otouto wa Ani Futari no Omocha.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142239.jpg",
+        "alt": "otouto-wa-ani-futari-no-omocha"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "弟は兄 2 人のオモチャ。",

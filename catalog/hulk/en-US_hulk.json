@@ -1,5 +1,9 @@
 {
     "title": "Hulk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150460.jpg",
+        "alt": "hulk"
+    },
     "type": "manga",
     "chapters": "23",
     "original_name": "ハルク",

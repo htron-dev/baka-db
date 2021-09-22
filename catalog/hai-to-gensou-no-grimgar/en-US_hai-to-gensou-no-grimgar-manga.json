@@ -1,5 +1,9 @@
 {
     "title": "Hai to Gensou no Grimgar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169852.jpg",
+        "alt": "hai-to-gensou-no-grimgar"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

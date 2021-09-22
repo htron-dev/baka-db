@@ -1,5 +1,9 @@
 {
     "title": "Bleach 4-koma: Komaburi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85903.jpg",
+        "alt": "bleach-4-koma-komaburi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

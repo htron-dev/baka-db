@@ -1,5 +1,9 @@
 {
     "title": "Ariel Deluxe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1004/94070.jpg",
+        "alt": "ariel-deluxe"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "DELUXE ARIEL (エリアル)",

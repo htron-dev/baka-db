@@ -1,5 +1,9 @@
 {
     "title": "Yume yori Suteki na",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/73341.jpg",
+        "alt": "yume-yori-suteki-na"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

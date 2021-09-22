@@ -1,5 +1,9 @@
 {
     "title": "Kanojo-teki na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172710.jpg",
+        "alt": "kanojo-teki-na-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Houkago Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171809.jpg",
+        "alt": "houkago-edge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

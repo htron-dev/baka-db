@@ -1,5 +1,9 @@
 {
     "title": "Marin X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/45124.jpg",
+        "alt": "marin-x"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "해저탐험대 마린 X",

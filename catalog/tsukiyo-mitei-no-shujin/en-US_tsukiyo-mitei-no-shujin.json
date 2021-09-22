@@ -1,5 +1,9 @@
 {
     "title": "Tsukiyo Mitei no Shujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23400.jpg",
+        "alt": "tsukiyo-mitei-no-shujin"
+    },
     "type": "manga",
     "original_name": "月夜見亭の主人",
     "tags": [

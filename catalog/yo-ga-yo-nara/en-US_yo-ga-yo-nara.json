@@ -1,5 +1,9 @@
 {
     "title": "Yo ga Yo nara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247755.jpg",
+        "alt": "yo-ga-yo-nara"
+    },
     "type": "manga",
     "original_name": "世が夜なら！",
     "start_date": "2020-06-24",

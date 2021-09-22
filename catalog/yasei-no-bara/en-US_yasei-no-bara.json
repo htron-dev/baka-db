@@ -1,5 +1,9 @@
 {
     "title": "Yasei no Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23205.jpg",
+        "alt": "yasei-no-bara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

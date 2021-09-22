@@ -1,5 +1,9 @@
 {
     "title": "Koiwazurai Spectacle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243639.jpg",
+        "alt": "koiwazurai-spectacle"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "恋患いスペクタクル",

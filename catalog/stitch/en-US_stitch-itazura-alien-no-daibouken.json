@@ -1,11 +1,15 @@
 {
     "title": "Stitch!: Itazura Alien no Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/17211.jpg",
+        "alt": "stitch-itazura-alien-no-daibouken"
+    },
     "type": "tv-serie",
     "episodes": "29",
     "original_name": "スティッチ！～いたずらエイリアンの大冒険～",
     "start_date": "2009-10-13",
     "end_date": "2009-10-13",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Smile\" by Kimaguren (eps 1-8)",
     "ending_song": "\"Stitch Eisa\" by LOVERSSOUL",
     "rating": "G - All Ages",
     "tags": [

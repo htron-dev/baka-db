@@ -1,5 +1,9 @@
 {
     "title": "Gundam Build Fighters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172282.jpg",
+        "alt": "gundam-build-fighters"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "18",

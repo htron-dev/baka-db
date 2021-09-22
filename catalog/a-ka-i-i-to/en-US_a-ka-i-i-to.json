@@ -1,5 +1,9 @@
 {
     "title": "A.ka.i.i.to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30483.jpg",
+        "alt": "a-ka-i-i-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

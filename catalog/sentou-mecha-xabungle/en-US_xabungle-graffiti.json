@@ -1,5 +1,9 @@
 {
     "title": "Xabungle Graffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1555/90528.jpg",
+        "alt": "xabungle-graffiti"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ザブングルグラフィティ",

@@ -1,5 +1,9 @@
 {
     "title": "Nerima Daikon Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16813.jpg",
+        "alt": "nerima-daikon-brothers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Love SOS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3753.jpg",
+        "alt": "love-sos"
+    },
     "type": "manhwa",
     "volumes": "10",
     "chapters": "60",

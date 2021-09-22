@@ -1,5 +1,9 @@
 {
     "title": "Shissou Sengen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233460.jpg",
+        "alt": "shissou-sengen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Rival Position demo Watakushi wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225507.jpg",
+        "alt": "rival-position-demo-watakushi-wa"
+    },
     "type": "manga",
     "chapters": "13",
     "original_name": "ライバルポジでもわたくしは",

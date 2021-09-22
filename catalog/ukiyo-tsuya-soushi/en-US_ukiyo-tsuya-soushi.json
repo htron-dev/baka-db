@@ -1,5 +1,9 @@
 {
     "title": "Ukiyo Tsuya Soushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23177.jpg",
+        "alt": "ukiyo-tsuya-soushi"
+    },
     "type": "manga",
     "original_name": "浮世艶草子",
     "tags": [

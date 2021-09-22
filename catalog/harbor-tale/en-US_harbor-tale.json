@@ -1,5 +1,9 @@
 {
     "title": "Harbor Tale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/69663.jpg",
+        "alt": "harbor-tale"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハーバーテイル",

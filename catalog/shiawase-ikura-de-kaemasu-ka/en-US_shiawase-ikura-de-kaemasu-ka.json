@@ -1,5 +1,9 @@
 {
     "title": "Shiawase Ikura de Kaemasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/43133.jpg",
+        "alt": "shiawase-ikura-de-kaemasu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

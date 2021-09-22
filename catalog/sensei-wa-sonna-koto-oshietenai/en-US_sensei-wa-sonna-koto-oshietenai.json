@@ -1,5 +1,9 @@
 {
     "title": "Sensei wa Sonna Koto Oshietenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233429.jpg",
+        "alt": "sensei-wa-sonna-koto-oshietenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

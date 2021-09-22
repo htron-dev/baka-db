@@ -1,5 +1,9 @@
 {
     "title": "Runway de Waratte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1544/104540.jpg",
+        "alt": "runway-de-waratte"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ランウェイで笑って",

@@ -1,5 +1,9 @@
 {
     "title": "Na Sa Er Ding",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/83526.jpg",
+        "alt": "na-sa-er-ding"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "那萨尔丁",

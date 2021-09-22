@@ -1,5 +1,9 @@
 {
     "title": "Taihen Yoku Dekimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165947.jpg",
+        "alt": "taihen-yoku-dekimashita"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

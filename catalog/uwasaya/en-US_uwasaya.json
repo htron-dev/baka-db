@@ -1,5 +1,9 @@
 {
     "title": "Uwasaya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171302.jpg",
+        "alt": "uwasaya"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "56",

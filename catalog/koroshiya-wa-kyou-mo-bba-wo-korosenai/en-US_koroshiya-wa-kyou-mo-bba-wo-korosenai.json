@@ -1,5 +1,9 @@
 {
     "title": "Koroshiya wa Kyou mo BBA wo Korosenai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236221.jpg",
+        "alt": "koroshiya-wa-kyou-mo-bba-wo-korosenai"
+    },
     "type": "manga",
     "original_name": "殺し屋は今日も BBA を殺せない。",
     "start_date": "2020-01-12",

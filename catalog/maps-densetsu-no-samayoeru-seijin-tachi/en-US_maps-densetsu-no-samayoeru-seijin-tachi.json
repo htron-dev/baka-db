@@ -1,5 +1,9 @@
 {
     "title": "MAPS: Densetsu no Samayoeru Seijin-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/47479.jpg",
+        "alt": "maps-densetsu-no-samayoeru-seijin-tachi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マップス 伝説のさまよえる星人たち",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Maps_(anime"
+            "link": "http://en.wikipedia.org/wiki/Maps_%28anime%29"
         }
     ]
 }

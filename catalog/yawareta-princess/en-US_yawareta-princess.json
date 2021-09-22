@@ -1,5 +1,9 @@
 {
     "title": "Yawareta Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40911.jpg",
+        "alt": "yawareta-princess"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "雇われたプリンセス",

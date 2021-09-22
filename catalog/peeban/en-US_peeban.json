@@ -1,5 +1,9 @@
 {
     "title": "Peeban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/81609.jpg",
+        "alt": "peeban"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ピーバン",

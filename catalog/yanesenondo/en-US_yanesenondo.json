@@ -1,5 +1,9 @@
 {
     "title": "Yanesenondo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/78360.jpg",
+        "alt": "yanesenondo"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "やねせんおんど",

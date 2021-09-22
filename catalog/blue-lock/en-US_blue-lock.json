@@ -1,5 +1,9 @@
 {
     "title": "Blue Lock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/213340.jpg",
+        "alt": "blue-lock"
+    },
     "type": "manga",
     "original_name": "ブルーロック",
     "start_date": "2018-08-01",

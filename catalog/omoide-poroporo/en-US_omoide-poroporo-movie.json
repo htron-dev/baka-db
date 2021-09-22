@@ -1,5 +1,9 @@
 {
     "title": "Omoide Poroporo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1967/112659.jpg",
+        "alt": "omoide-poroporo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おもひでぽろぽろ",

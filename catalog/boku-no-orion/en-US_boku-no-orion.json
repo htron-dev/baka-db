@@ -1,5 +1,9 @@
 {
     "title": "Boku no Orion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210311.jpg",
+        "alt": "boku-no-orion"
+    },
     "type": "manga",
     "original_name": "僕のオリオン",
     "start_date": "2018-02-15",

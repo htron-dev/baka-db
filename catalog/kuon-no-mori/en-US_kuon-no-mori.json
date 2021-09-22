@@ -1,5 +1,9 @@
 {
     "title": "Kuon no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186443.jpg",
+        "alt": "kuon-no-mori"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "43",

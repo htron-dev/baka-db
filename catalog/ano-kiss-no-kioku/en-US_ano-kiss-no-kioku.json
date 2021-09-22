@@ -1,5 +1,9 @@
 {
     "title": "Ano Kiss no Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247070.jpg",
+        "alt": "ano-kiss-no-kioku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あのキスの記憶",

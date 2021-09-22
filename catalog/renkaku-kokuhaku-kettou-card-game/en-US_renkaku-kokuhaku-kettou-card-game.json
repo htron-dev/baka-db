@@ -1,5 +1,9 @@
 {
     "title": "Renkaku: Kokuhaku Kettou Card Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122471.jpg",
+        "alt": "renkaku-kokuhaku-kettou-card-game"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "レンカク～告白決闘カードゲーム～",

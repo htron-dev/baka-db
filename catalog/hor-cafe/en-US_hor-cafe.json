@@ -1,5 +1,9 @@
 {
     "title": "H'or Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1452/98740.jpg",
+        "alt": "hor-cafe"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "H’or Cafe",

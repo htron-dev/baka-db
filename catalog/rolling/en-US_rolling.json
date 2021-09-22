@@ -1,5 +1,9 @@
 {
     "title": "Rolling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12149.jpg",
+        "alt": "rolling"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "롤링",

@@ -1,5 +1,9 @@
 {
     "title": "Nineko Gelée",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/81610.jpg",
+        "alt": "nineko-gelee"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "逃猫ジュレ",

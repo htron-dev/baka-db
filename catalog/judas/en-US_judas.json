@@ -1,5 +1,9 @@
 {
     "title": "Judas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178192.jpg",
+        "alt": "judas"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

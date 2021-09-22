@@ -1,5 +1,9 @@
 {
     "title": "Mashiro Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/88536.jpg",
+        "alt": "mashiro-witch"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ましろウィッチ",

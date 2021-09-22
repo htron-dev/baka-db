@@ -1,5 +1,9 @@
 {
     "title": "Flick &amp; Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176423.jpg",
+        "alt": "flick-amp-break"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

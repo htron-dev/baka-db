@@ -1,5 +1,9 @@
 {
     "title": "Neko Kan ga Hirotta no desu ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157400.jpg",
+        "alt": "neko-kan-ga-hirotta-no-desu-ga"
+    },
     "type": "manga",
     "original_name": "ネコ缶ひろったのですが",
     "start_date": "2013-09-27",

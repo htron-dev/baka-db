@@ -1,5 +1,9 @@
 {
     "title": "Boy General",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1354/100287.jpg",
+        "alt": "boy-general"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "소년장수",

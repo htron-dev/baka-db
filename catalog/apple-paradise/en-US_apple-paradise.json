@@ -1,5 +1,9 @@
 {
     "title": "Apple Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150474.jpg",
+        "alt": "apple-paradise"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

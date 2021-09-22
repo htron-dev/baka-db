@@ -1,5 +1,9 @@
 {
     "title": "Itsumo Kokoro ni Ken wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163282.jpg",
+        "alt": "itsumo-kokoro-ni-ken-wo"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "27",

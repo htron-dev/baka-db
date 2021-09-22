@@ -1,5 +1,9 @@
 {
     "title": "Gimmick!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248445.jpg",
+        "alt": "gimmick"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "89",

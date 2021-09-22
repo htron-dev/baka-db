@@ -1,5 +1,9 @@
 {
     "title": "Spy Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235215.jpg",
+        "alt": "spy-kyoushitsu"
+    },
     "type": "light-novel",
     "original_name": "スパイ教室",
     "start_date": "2020-01-18",

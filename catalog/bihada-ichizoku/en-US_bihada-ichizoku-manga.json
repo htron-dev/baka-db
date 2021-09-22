@@ -1,5 +1,9 @@
 {
     "title": "Bihada Ichizoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17307.jpg",
+        "alt": "bihada-ichizoku"
+    },
     "type": "manga",
     "original_name": "美肌一族",
     "start_date": "2008-11-20",

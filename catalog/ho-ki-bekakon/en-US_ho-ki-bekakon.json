@@ -1,5 +1,9 @@
 {
     "title": "Ho-ki-bekakon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216862.jpg",
+        "alt": "ho-ki-bekakon"
+    },
     "type": "manga",
     "original_name": "ホーキーベカコン",
     "start_date": "2017-11-30",

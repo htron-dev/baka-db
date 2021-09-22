@@ -1,5 +1,9 @@
 {
     "title": "Home Sweets Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200973.jpg",
+        "alt": "home-sweets-home"
+    },
     "type": "manga",
     "chapters": "30",
     "original_name": "ホームスイーツホーム",

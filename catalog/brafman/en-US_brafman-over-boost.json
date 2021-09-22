@@ -1,5 +1,9 @@
 {
     "title": "Brafman Over Boost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38487.jpg",
+        "alt": "brafman-over-boost"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ブラフマン OVER BOOST",

@@ -1,5 +1,9 @@
 {
     "title": "Akamehime no Choukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208220.jpg",
+        "alt": "akamehime-no-choukai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

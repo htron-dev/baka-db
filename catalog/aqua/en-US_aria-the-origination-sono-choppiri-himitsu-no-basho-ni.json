@@ -1,5 +1,9 @@
 {
     "title": "Aria the Origination: Sono Choppiri Himitsu no Basho ni...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/15053.jpg",
+        "alt": "aria-the-origination-sono-choppiri-himitsu-no-basho-ni"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "その ちょっぴり秘密の場所に…",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Aria_(manga"
+            "link": "http://en.wikipedia.org/wiki/Aria_%28manga%29#Anime"
         }
     ]
 }

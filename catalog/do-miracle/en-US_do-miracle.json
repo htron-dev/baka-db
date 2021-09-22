@@ -1,5 +1,9 @@
 {
     "title": "Do! Miracle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7639.jpg",
+        "alt": "do-miracle"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Do! ミラクル",

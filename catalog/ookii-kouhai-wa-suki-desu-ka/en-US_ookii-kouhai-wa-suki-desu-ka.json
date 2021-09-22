@@ -1,5 +1,9 @@
 {
     "title": "Ookii Kouhai wa Suki desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239372.jpg",
+        "alt": "ookii-kouhai-wa-suki-desu-ka"
+    },
     "type": "manga",
     "original_name": "おおきい後輩は好きですか？",
     "start_date": "2019-08-08",

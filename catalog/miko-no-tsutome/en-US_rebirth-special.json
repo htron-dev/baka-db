@@ -1,5 +1,9 @@
 {
     "title": "Rebirth Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1757/109072.jpg",
+        "alt": "rebirth-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "りばあす 特別編",

@@ -1,5 +1,9 @@
 {
     "title": "Jitsuroku! Shinwakai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45997.jpg",
+        "alt": "jitsuroku-shinwakai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Shokuinshitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23342.jpg",
+        "alt": "houkago-no-shokuinshitsu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "放課後の職員室",

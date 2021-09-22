@@ -1,5 +1,9 @@
 {
     "title": "Junketsu no Maria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136847.jpg",
+        "alt": "junketsu-no-maria"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

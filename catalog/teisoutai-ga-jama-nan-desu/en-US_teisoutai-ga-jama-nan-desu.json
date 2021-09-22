@@ -1,5 +1,9 @@
 {
     "title": "Teisoutai ga Jama nan desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197402.jpg",
+        "alt": "teisoutai-ga-jama-nan-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "貞操帯がジャマなんです",

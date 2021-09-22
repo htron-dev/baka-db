@@ -1,5 +1,9 @@
 {
     "title": "Seiri-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220809.jpg",
+        "alt": "seiri-chan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

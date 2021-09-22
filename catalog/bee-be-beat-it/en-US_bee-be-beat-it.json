@@ -1,5 +1,9 @@
 {
     "title": "Bee-be-beat it!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158524.jpg",
+        "alt": "bee-be-beat-it"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Promise Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225490.jpg",
+        "alt": "promise-cinderella"
+    },
     "type": "manga",
     "original_name": "プロミス・シンデレラ",
     "start_date": "2018-01-01",

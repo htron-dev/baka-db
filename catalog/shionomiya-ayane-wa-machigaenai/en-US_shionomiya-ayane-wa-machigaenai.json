@@ -1,5 +1,9 @@
 {
     "title": "Shionomiya Ayane wa Machigaenai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188940.jpg",
+        "alt": "shionomiya-ayane-wa-machigaenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

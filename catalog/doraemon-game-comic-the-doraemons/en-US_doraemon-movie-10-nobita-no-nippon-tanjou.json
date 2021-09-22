@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 10: Nobita no Nippon Tanjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72415.jpg",
+        "alt": "doraemon-movie-10-nobita-no-nippon-tanjou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太の日本誕生",

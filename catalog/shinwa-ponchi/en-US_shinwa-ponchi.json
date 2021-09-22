@@ -1,5 +1,9 @@
 {
     "title": "Shinwa Ponchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67621.jpg",
+        "alt": "shinwa-ponchi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

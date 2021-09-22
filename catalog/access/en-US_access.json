@@ -1,5 +1,9 @@
 {
     "title": "Access",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63813.jpg",
+        "alt": "access"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

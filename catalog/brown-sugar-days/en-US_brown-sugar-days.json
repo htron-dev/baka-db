@@ -1,5 +1,9 @@
 {
     "title": "Brown Sugar Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236473.jpg",
+        "alt": "brown-sugar-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

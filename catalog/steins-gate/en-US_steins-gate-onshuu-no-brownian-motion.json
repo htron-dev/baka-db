@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Onshuu no Brownian Motion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149165.jpg",
+        "alt": "steins-gate-onshuu-no-brownian-motion"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

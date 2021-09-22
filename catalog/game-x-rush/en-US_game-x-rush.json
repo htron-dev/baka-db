@@ -1,5 +1,9 @@
 {
     "title": "Game x Rush",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180650.jpg",
+        "alt": "game-x-rush"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

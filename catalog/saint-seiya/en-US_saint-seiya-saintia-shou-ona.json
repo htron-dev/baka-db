@@ -1,12 +1,16 @@
 {
     "title": "Saint Seiya: Saintia Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1022/93948.jpg",
+        "alt": "saint-seiya-saintia-shou"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "聖闘士星矢 セインティア翔",
     "start_date": "2018-12-10",
     "end_date": "2018-12-10",
     "opening_song": "\"The Beautiful Brave\" by Shouko (Aina Suzuki), Kyouko (Mao Ichimichi (M.A.O)), Saori Kido (Inori Minase), Mii (Megumi Nakajima)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hohoemi no Resonance (微笑みのレゾナンス)\" by Shouko (Aina Suzuki), Kyouko (Mao Ichimichi (M.A.O)) (eps 1-6, 8-10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

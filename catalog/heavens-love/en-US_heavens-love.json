@@ -1,5 +1,9 @@
 {
     "title": "Heaven's Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9363.jpg",
+        "alt": "heavens-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

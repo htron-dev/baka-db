@@ -1,5 +1,9 @@
 {
     "title": "Kaze ni Kike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124761.jpg",
+        "alt": "kaze-ni-kike"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "風に訊け",

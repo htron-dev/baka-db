@@ -1,5 +1,9 @@
 {
     "title": "Jimao Xin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1656/115514.jpg",
+        "alt": "jimao-xin"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "鸡毛信",

@@ -1,5 +1,9 @@
 {
     "title": "Cooking Papa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75853.jpg",
+        "alt": "cooking-papa"
+    },
     "type": "manga",
     "original_name": "クッキングパパ",
     "start_date": "1984-01-19",

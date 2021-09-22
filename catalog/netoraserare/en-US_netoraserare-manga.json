@@ -1,5 +1,9 @@
 {
     "title": "Netoraserare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139701.jpg",
+        "alt": "netoraserare"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

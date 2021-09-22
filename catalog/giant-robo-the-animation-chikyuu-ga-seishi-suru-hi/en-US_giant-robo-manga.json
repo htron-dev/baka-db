@@ -1,5 +1,9 @@
 {
     "title": "Giant Robo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/89947.jpg",
+        "alt": "giant-robo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "39",

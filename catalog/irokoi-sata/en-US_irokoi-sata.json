@@ -1,5 +1,9 @@
 {
     "title": "Irokoi Sata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74585.jpg",
+        "alt": "irokoi-sata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

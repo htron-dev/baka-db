@@ -1,5 +1,9 @@
 {
     "title": "Hizamazuite Ai wo Chikae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10948.jpg",
+        "alt": "hizamazuite-ai-wo-chikae"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,12 +1,16 @@
 {
     "title": "Kyou no 5 no 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/42631.jpg",
+        "alt": "kyou-no-5-no-2"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "今日の５の２",
     "start_date": "2006-03-24",
     "end_date": "2006-03-24",
     "opening_song": "\"Baby Love\" by Mai Kadowaki, Mamiko Noto & Mikako Takahashi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yakusoku\" by by Mai Kadowaki, Mamiko Noto & Mikako Takahashi",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Fuyu no Doubutsuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21934.jpg",
+        "alt": "fuyu-no-doubutsuen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

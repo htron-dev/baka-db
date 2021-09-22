@@ -1,5 +1,9 @@
 {
     "title": "Digimon Universe: Appli Monsters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195685.jpg",
+        "alt": "digimon-universe-appli-monsters"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

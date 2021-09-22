@@ -1,5 +1,9 @@
 {
     "title": "Nanji no Na wa Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152543.jpg",
+        "alt": "nanji-no-na-wa-ai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

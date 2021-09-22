@@ -1,5 +1,9 @@
 {
     "title": "Emiri ni Omakase♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7194.jpg",
+        "alt": "emiri-ni-omakase♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

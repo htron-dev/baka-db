@@ -1,5 +1,9 @@
 {
     "title": "Shoot!: Aratanaru Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149055.jpg",
+        "alt": "shoot-aratanaru-densetsu"
+    },
     "type": "manga",
     "volumes": "16",
     "original_name": "シュート! 〜新たなる伝説〜",

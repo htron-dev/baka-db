@@ -1,5 +1,9 @@
 {
     "title": "Detective Conan: The Magician of Starlight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88889.jpg",
+        "alt": "detective-conan-the-magician-of-starlight"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "名探偵コナン～星影の魔術師～",

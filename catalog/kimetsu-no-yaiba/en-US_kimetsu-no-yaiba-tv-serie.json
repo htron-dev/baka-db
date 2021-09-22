@@ -1,12 +1,16 @@
 {
     "title": "Kimetsu no Yaiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+        "alt": "kimetsu-no-yaiba"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "鬼滅の刃",
     "start_date": "2019-04-06",
     "end_date": "2019-04-06",
     "opening_song": "\"Gurenge (紅蓮華)\" by LiSA (eps 2-25)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gurenge (紅蓮華)\" by LiSA (eps 1, 26)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

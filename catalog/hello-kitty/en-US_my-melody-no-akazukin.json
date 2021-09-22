@@ -1,5 +1,9 @@
 {
     "title": "My Melody no Akazukin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/72894.jpg",
+        "alt": "my-melody-no-akazukin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マイメロディの赤ずきん",

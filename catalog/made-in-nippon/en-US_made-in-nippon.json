@@ -1,5 +1,9 @@
 {
     "title": "Made in Nippon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168487.jpg",
+        "alt": "made-in-nippon"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

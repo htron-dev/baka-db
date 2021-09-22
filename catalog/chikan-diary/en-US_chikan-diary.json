@@ -1,5 +1,9 @@
 {
     "title": "Chikan Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12375.jpg",
+        "alt": "chikan-diary"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

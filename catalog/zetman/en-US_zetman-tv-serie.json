@@ -1,5 +1,9 @@
 {
     "title": "Zetman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/35529.jpg",
+        "alt": "zetman"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ゼットマン",

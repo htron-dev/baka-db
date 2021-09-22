@@ -1,5 +1,9 @@
 {
     "title": "Yuuzutsu wa Ai ni Tokeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97367.jpg",
+        "alt": "yuuzutsu-wa-ai-ni-tokeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

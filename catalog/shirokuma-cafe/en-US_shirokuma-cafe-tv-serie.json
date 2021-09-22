@@ -1,12 +1,16 @@
 {
     "title": "Shirokuma Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75649.jpg",
+        "alt": "shirokuma-cafe"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "しろくまカフェ",
     "start_date": "2012-04-05",
     "end_date": "2012-04-05",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Boku ni Invitation (ボクにインビテーション)\" by JP (eps 1-26)",
+    "ending_song": "#01: \"Bamboo☆Scramble\" by Jun Fukuyama (eps 1-5)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

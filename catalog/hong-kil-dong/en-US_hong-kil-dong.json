@@ -1,5 +1,9 @@
 {
     "title": "Hong Kil-dong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/44660.jpg",
+        "alt": "hong-kil-dong"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "홍길동",

@@ -1,5 +1,9 @@
 {
     "title": "Gal Japon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149193.jpg",
+        "alt": "gal-japon"
+    },
     "type": "manga",
     "original_name": "ギャルジャポン",
     "start_date": "2010-07-13",

@@ -1,5 +1,9 @@
 {
     "title": "Shanai Renai Style",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22719.jpg",
+        "alt": "shanai-renai-style"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

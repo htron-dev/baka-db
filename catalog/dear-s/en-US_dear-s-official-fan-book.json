@@ -1,5 +1,9 @@
 {
     "title": "DearS Official Fan Book",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32575.jpg",
+        "alt": "dear-s-official-fan-book"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "28",

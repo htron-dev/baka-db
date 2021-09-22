@@ -1,5 +1,9 @@
 {
     "title": "Koko ga Uwasa no El Palacio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118669.jpg",
+        "alt": "koko-ga-uwasa-no-el-palacio"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "53",

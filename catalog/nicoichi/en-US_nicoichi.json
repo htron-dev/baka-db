@@ -1,5 +1,9 @@
 {
     "title": "Nicoichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/76705.jpg",
+        "alt": "nicoichi"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "120",

@@ -1,5 +1,9 @@
 {
     "title": "Getsuyoubi no Soratobu Orange.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186457.jpg",
+        "alt": "getsuyoubi-no-soratobu-orange"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

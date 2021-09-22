@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Boku ni Koi wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149559.jpg",
+        "alt": "kimi-ga-boku-ni-koi-wo"
+    },
     "type": "manga",
     "original_name": "君が僕に恋を",
     "start_date": "2014-02-28",

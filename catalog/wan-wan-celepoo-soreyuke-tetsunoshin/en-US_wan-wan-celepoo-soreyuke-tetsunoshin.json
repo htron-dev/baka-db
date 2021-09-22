@@ -1,12 +1,16 @@
 {
     "title": "Wan Wan Celepoo Soreyuke! Tetsunoshin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/7489.jpg",
+        "alt": "wan-wan-celepoo-soreyuke-tetsunoshin"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ワンワンセレプー それゆけ！徹之進",
     "start_date": "2006-01-07",
     "end_date": "2006-01-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"and yet\" by Suther Rand",
+    "ending_song": "#1: \"Life Gauge\" by mihimaru GT",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

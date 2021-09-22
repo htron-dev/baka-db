@@ -1,5 +1,9 @@
 {
     "title": "Yoroi no Himegimi-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177955.jpg",
+        "alt": "yoroi-no-himegimi-tachi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",

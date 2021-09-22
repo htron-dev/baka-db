@@ -1,5 +1,9 @@
 {
     "title": "Lucky Number 13",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/130149.jpg",
+        "alt": "lucky-number-13"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

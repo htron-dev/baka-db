@@ -1,12 +1,16 @@
 {
     "title": "Ballroom e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86739.jpg",
+        "alt": "ballroom-e-youkoso"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ボールルームへようこそ",
     "start_date": "2017-07-09",
     "end_date": "2017-07-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"10% roll, 10% romance\" by UNISON SQUARE GARDEN (eps 1-11)",
+    "ending_song": "#1: \"Maybe the next waltz\" by Mikako Komatsu (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

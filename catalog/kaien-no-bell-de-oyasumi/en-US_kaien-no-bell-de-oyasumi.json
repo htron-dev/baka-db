@@ -1,5 +1,9 @@
 {
     "title": "Kaien no Bell de Oyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217673.jpg",
+        "alt": "kaien-no-bell-de-oyasumi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

@@ -1,5 +1,9 @@
 {
     "title": "Evil Heroes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/250315.jpg",
+        "alt": "evil-heroes"
+    },
     "type": "manga",
     "original_name": "イビルヒーローズ",
     "start_date": "2021-05-27",

@@ -1,5 +1,9 @@
 {
     "title": "Flower of Destiny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19004.jpg",
+        "alt": "flower-of-destiny"
+    },
     "type": "manhwa",
     "original_name": "연화",
     "start_date": "2009-03-20",

@@ -1,5 +1,9 @@
 {
     "title": "Itsuka no Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158507.jpg",
+        "alt": "itsuka-no-haru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

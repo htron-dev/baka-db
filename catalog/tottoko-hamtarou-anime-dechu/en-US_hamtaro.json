@@ -1,5 +1,9 @@
 {
     "title": "Hamtaro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15875.jpg",
+        "alt": "hamtaro"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "とっとこハム太郎",

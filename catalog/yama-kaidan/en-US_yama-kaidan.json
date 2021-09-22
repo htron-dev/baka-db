@@ -1,5 +1,9 @@
 {
     "title": "Yama Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207629.jpg",
+        "alt": "yama-kaidan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Sounan Desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1741/102237.jpg",
+        "alt": "sounan-desu-ka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ソウナンですか?",

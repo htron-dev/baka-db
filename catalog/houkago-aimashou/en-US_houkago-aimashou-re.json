@@ -1,5 +1,9 @@
 {
     "title": "Houkago, Aimashou/Re.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239331.jpg",
+        "alt": "houkago-aimashou-re"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

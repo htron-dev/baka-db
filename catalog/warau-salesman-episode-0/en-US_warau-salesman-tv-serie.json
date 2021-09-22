@@ -1,5 +1,9 @@
 {
     "title": "Warau Salesman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/61389.jpg",
+        "alt": "warau-salesman"
+    },
     "type": "tv-serie",
     "episodes": "103",
     "original_name": "笑ゥせぇるすまん",

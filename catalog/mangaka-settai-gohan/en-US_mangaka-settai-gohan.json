@@ -1,5 +1,9 @@
 {
     "title": "Mangaka Settai Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205459.jpg",
+        "alt": "mangaka-settai-gohan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Animation!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/19405.jpg",
+        "alt": "animation"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "Animation!",

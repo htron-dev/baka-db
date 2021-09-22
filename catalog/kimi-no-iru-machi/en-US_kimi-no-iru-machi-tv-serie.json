@@ -1,12 +1,16 @@
 {
     "title": "Kimi no Iru Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/50685.jpg",
+        "alt": "kimi-no-iru-machi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "君のいる町",
     "start_date": "2013-07-13",
     "end_date": "2013-07-13",
     "opening_song": "\"Sentimental Love (センチメンタルラブ)\" by みみめめ MIMI (MimimemeMIMI) (AstroVoice)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi no Iru Machi (君のいる町)\" by Haruto Kirishima (CV: Yoshimasa Hosoya) (eps 1-6)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "slice-of-life",

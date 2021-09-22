@@ -1,5 +1,9 @@
 {
     "title": "Kuusou Spin Flower",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132647.jpg",
+        "alt": "kuusou-spin-flower"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

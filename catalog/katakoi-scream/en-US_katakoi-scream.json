@@ -1,5 +1,9 @@
 {
     "title": "Katakoi Scream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203574.jpg",
+        "alt": "katakoi-scream"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

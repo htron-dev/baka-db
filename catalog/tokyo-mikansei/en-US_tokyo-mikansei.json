@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Mikansei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1362/104122.jpg",
+        "alt": "tokyo-mikansei"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "tokyo 未完成",

@@ -1,5 +1,9 @@
 {
     "title": "Goman-hiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/72003.jpg",
+        "alt": "goman-hiki"
+    },
     "type": "movie",
     "episodes": "100",
     "original_name": "五万匹",

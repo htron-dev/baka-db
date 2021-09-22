@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Chakui de Toroketai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206593.jpg",
+        "alt": "kanojo-wa-chakui-de-toroketai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

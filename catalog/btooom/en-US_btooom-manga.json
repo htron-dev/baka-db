@@ -1,5 +1,9 @@
 {
     "title": "Btooom!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62199.jpg",
+        "alt": "btooom"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "125",

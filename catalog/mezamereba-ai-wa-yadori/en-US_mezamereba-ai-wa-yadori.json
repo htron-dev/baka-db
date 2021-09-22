@@ -1,5 +1,9 @@
 {
     "title": "Mezamereba Ai wa Yadori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247143.jpg",
+        "alt": "mezamereba-ai-wa-yadori"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "目覚めれば愛は宿り",

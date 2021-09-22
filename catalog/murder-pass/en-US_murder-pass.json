@@ -1,5 +1,9 @@
 {
     "title": "Murder Pass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180947.jpg",
+        "alt": "murder-pass"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

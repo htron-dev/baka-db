@@ -1,12 +1,16 @@
 {
     "title": "Gekkan Shoujo Nozaki-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/66083.jpg",
+        "alt": "gekkan-shoujo-nozaki-kun"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "月刊少女野崎くん",
     "start_date": "2014-07-07",
     "end_date": "2014-07-07",
     "opening_song": "\"Kimi ja Nakya Dame Mitai (君じゃなきゃダメみたい)\" by Masayoshi Ooishi (大石昌良)",
-    "ending_song": "\"Ura Omote Fortune (ウラオモテ・フォーチュン)\" by Chiyo Sakura (CV",
+    "ending_song": "\"Ura Omote Fortune (ウラオモテ・フォーチュン)\" by Chiyo Sakura (CV: Ari Ozawa) (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

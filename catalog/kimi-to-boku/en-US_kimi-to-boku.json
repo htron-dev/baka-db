@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/54461.jpg",
+        "alt": "kimi-to-boku"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "キミとボク",

@@ -1,5 +1,9 @@
 {
     "title": "Tsuiteru Yuusha-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167883.jpg",
+        "alt": "tsuiteru-yuusha-sama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

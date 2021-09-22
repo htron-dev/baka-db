@@ -1,5 +1,9 @@
 {
     "title": "Densetsu no Yuusha no Konkatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191354.jpg",
+        "alt": "densetsu-no-yuusha-no-konkatsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

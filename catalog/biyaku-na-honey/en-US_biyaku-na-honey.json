@@ -1,5 +1,9 @@
 {
     "title": "Biyaku na Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40536.jpg",
+        "alt": "biyaku-na-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

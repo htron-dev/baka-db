@@ -1,5 +1,9 @@
 {
     "title": "Alien Street",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187035.jpg",
+        "alt": "alien-street"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "45",

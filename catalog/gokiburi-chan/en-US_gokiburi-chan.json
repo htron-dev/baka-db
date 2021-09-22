@@ -1,5 +1,9 @@
 {
     "title": "Gokiburi-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1817/102767.jpg",
+        "alt": "gokiburi-chan"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "ゴキブリちゃん",

@@ -1,5 +1,9 @@
 {
     "title": "Hyoutan Suzume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/43351.jpg",
+        "alt": "hyoutan-suzume"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ひょうたんすずめ",

@@ -1,5 +1,9 @@
 {
     "title": "Shinju no Kusari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144313.jpg",
+        "alt": "shinju-no-kusari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

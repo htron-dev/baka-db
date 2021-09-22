@@ -1,9 +1,13 @@
 {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Koushiki Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230706.jpg",
+        "alt": "re-zero-kara-hajimeru-isekai-seikatsu-koushiki-anthology-comic"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",
-    "original_name": "Re",
+    "original_name": "Re:ゼロから始める異世界生活 公式アンソロジーコミック",
     "start_date": "2016-06-23",
     "end_date": "2016-06-23",
     "tags": [

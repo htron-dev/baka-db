@@ -1,5 +1,9 @@
 {
     "title": "Kaette kudasai! Akutsu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232084.jpg",
+        "alt": "kaette-kudasai-akutsu-san"
+    },
     "type": "manga",
     "original_name": "帰ってください！ 阿久津さん",
     "start_date": "2019-07-29",

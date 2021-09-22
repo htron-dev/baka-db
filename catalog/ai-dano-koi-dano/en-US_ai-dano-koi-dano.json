@@ -1,5 +1,9 @@
 {
     "title": "Ai dano Koi dano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182534.jpg",
+        "alt": "ai-dano-koi-dano"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

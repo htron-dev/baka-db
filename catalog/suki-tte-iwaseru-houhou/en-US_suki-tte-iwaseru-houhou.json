@@ -1,5 +1,9 @@
 {
     "title": "Suki tte Iwaseru Houhou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134893.jpg",
+        "alt": "suki-tte-iwaseru-houhou"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "好きって言わせる方法",

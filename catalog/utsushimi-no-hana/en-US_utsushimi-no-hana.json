@@ -1,5 +1,9 @@
 {
     "title": "Utsushimi no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17231.jpg",
+        "alt": "utsushimi-no-hana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

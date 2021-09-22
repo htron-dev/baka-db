@@ -1,12 +1,16 @@
 {
     "title": "Kimi ga Nozomu Eien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/10227.jpg",
+        "alt": "kimi-ga-nozomu-eien"
+    },
     "type": "tv-serie",
     "episodes": "14",
     "original_name": "君が望む永遠",
     "start_date": "2003-10-05",
     "end_date": "2003-10-05",
     "opening_song": "\"Precious Memories\" by Minami Kuribayashi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Rumbing Hearts\" by Minami Kuribayashi (ep 2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "drama",

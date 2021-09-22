@@ -1,5 +1,9 @@
 {
     "title": "Dragon Eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16764.jpg",
+        "alt": "dragon-eyes"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ドラゴンアイズ",

@@ -1,5 +1,9 @@
 {
     "title": "Tales of the Unusual",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229435.jpg",
+        "alt": "tales-of-the-unusual"
+    },
     "type": "manhwa",
     "original_name": "기기괴괴",
     "start_date": "2013-05-08",

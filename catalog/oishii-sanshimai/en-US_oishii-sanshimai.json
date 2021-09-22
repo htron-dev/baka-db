@@ -1,5 +1,9 @@
 {
     "title": "Oishii Sanshimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203688.jpg",
+        "alt": "oishii-sanshimai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Moonlight Mile 2nd Season: Touch Down",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/4265.jpg",
+        "alt": "moonlight-mile-2nd-season-touch-down"
+    },
     "type": "tv-serie",
     "episodes": "14",
     "original_name": "ムーンライトマイル 2nd シーズン -Touch down-",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Moonlight_Mile_(manga"
+            "link": "http://en.wikipedia.org/wiki/Moonlight_Mile_%28manga%29#Anime"
         }
     ]
 }

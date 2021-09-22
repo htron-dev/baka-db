@@ -1,5 +1,9 @@
 {
     "title": "Twin Signal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7076.jpg",
+        "alt": "twin-signal"
+    },
     "type": "manga",
     "volumes": "19",
     "original_name": "TWIN SIGNAL",

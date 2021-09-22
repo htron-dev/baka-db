@@ -1,5 +1,9 @@
 {
     "title": "Moshidora Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71637.jpg",
+        "alt": "moshidora-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "もしドラ 再び 総集編",

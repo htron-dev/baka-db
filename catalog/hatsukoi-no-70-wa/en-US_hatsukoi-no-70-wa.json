@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi no 70% wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64917.jpg",
+        "alt": "hatsukoi-no-70-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Shuudoushi Falco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31578.jpg",
+        "alt": "shuudoushi-falco"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "修道士ファルコ",

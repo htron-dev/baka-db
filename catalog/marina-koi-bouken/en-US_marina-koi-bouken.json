@@ -1,5 +1,9 @@
 {
     "title": "Marina Koi Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31652.jpg",
+        "alt": "marina-koi-bouken"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マリナ恋冒険",

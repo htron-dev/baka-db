@@ -1,5 +1,9 @@
 {
     "title": "Shima-shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21409.jpg",
+        "alt": "shima-shima"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

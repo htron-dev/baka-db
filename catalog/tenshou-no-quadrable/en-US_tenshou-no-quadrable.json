@@ -1,5 +1,9 @@
 {
     "title": "Tenshou no Quadrable",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201210.jpg",
+        "alt": "tenshou-no-quadrable"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

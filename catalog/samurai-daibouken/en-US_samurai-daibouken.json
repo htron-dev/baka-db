@@ -1,5 +1,9 @@
 {
     "title": "Samurai Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84343.jpg",
+        "alt": "samurai-daibouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Fourteen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/34143.jpg",
+        "alt": "fourteen"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "260",

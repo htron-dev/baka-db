@@ -1,5 +1,9 @@
 {
     "title": "Mutant Sabu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137847.jpg",
+        "alt": "mutant-sabu"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ミュータント・サブ",

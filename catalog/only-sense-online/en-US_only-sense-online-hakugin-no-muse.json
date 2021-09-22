@@ -1,5 +1,9 @@
 {
     "title": "Only Sense Online: Hakugin no Muse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187232.jpg",
+        "alt": "only-sense-online-hakugin-no-muse"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "16",

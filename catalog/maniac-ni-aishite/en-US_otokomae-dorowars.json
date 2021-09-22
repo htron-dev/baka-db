@@ -1,5 +1,9 @@
 {
     "title": "Otokomae Dorowars!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122085.jpg",
+        "alt": "otokomae-dorowars"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

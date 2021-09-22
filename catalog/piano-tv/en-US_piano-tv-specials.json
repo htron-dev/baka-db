@@ -1,5 +1,9 @@
 {
     "title": "Piano (TV) Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/60007.jpg",
+        "alt": "piano-tv-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "PIANO",

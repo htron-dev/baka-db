@@ -1,5 +1,9 @@
 {
     "title": "Busshimen! The Image Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45300.jpg",
+        "alt": "busshimen-the-image-maker"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

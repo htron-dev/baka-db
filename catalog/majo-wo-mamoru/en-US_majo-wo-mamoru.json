@@ -1,5 +1,9 @@
 {
     "title": "Majo wo Mamoru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195253.jpg",
+        "alt": "majo-wo-mamoru"
+    },
     "type": "manga",
     "original_name": "魔女をまもる。",
     "start_date": "2017-04-13",

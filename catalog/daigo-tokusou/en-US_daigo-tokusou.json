@@ -1,5 +1,9 @@
 {
     "title": "Daigo Tokusou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166193.jpg",
+        "alt": "daigo-tokusou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

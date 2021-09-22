@@ -1,5 +1,9 @@
 {
     "title": "Koto Koto: Chihiro no Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203197.jpg",
+        "alt": "koto-koto-chihiro-no-koto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

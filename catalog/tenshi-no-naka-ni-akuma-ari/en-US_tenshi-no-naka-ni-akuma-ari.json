@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Naka ni Akuma Ari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248.jpg",
+        "alt": "tenshi-no-naka-ni-akuma-ari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

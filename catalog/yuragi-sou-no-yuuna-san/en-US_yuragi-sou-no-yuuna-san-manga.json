@@ -1,5 +1,9 @@
 {
     "title": "Yuragi-sou no Yuuna-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179022.jpg",
+        "alt": "yuragi-sou-no-yuuna-san"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "214",

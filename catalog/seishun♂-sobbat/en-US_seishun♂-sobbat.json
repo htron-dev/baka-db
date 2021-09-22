@@ -1,5 +1,9 @@
 {
     "title": "Seishun♂Sobbat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167531.jpg",
+        "alt": "seishun♂-sobbat"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Laidbackers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1797/99165.jpg",
+        "alt": "laidbackers"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "LAIDBACKERS-レイドバッカーズ-",

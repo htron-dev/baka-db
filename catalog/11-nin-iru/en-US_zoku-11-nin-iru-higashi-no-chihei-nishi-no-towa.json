@@ -1,5 +1,9 @@
 {
     "title": "Zoku 11-nin Iru!: Higashi no Chihei, Nishi no Towa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116703.jpg",
+        "alt": "zoku-11-nin-iru-higashi-no-chihei-nishi-no-towa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

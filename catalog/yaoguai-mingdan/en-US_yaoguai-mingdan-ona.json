@@ -1,5 +1,9 @@
 {
     "title": "Yaoguai Mingdan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/69999.jpg",
+        "alt": "yaoguai-mingdan"
+    },
     "type": "ona",
     "episodes": "18",
     "original_name": "妖怪名单",

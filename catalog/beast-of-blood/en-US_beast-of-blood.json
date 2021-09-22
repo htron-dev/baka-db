@@ -1,5 +1,9 @@
 {
     "title": "Beast of Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238072.jpg",
+        "alt": "beast-of-blood"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

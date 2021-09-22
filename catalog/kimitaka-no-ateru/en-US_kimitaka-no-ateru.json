@@ -1,5 +1,9 @@
 {
     "title": "Kimitaka no Ateru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76279.jpg",
+        "alt": "kimitaka-no-ateru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

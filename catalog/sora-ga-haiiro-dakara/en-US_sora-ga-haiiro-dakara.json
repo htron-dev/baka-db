@@ -1,5 +1,9 @@
 {
     "title": "Sora ga Haiiro dakara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188879.jpg",
+        "alt": "sora-ga-haiiro-dakara"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "59",

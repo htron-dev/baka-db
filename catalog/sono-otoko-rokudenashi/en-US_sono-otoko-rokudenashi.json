@@ -1,5 +1,9 @@
 {
     "title": "Sono Otoko, Rokudenashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131365.jpg",
+        "alt": "sono-otoko-rokudenashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Yoake ni Furu,",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231420.jpg",
+        "alt": "yoake-ni-furu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

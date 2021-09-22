@@ -1,5 +1,9 @@
 {
     "title": "Tengujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7246.jpg",
+        "alt": "tengujin"
+    },
     "type": "manga",
     "original_name": "天狗神",
     "start_date": "2006-09-07",

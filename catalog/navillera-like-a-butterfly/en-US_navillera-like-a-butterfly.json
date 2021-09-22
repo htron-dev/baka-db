@@ -1,5 +1,9 @@
 {
     "title": "Navillera: Like a Butterfly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206101.jpg",
+        "alt": "navillera-like-a-butterfly"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "31",

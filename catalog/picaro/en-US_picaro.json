@@ -1,5 +1,9 @@
 {
     "title": "Picaro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184583.jpg",
+        "alt": "picaro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

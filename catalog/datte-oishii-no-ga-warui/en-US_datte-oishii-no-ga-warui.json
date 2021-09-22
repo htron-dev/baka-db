@@ -1,5 +1,9 @@
 {
     "title": "Datte, Oishii no ga Warui.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181621.jpg",
+        "alt": "datte-oishii-no-ga-warui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

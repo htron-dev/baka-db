@@ -1,5 +1,9 @@
 {
     "title": "Shounen no Ato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225232.jpg",
+        "alt": "shounen-no-ato"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

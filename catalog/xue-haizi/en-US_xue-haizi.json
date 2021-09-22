@@ -1,5 +1,9 @@
 {
     "title": "Xue Haizi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75394.jpg",
+        "alt": "xue-haizi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "雪孩子",

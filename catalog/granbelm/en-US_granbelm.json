@@ -1,12 +1,16 @@
 {
     "title": "Granbelm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1035/101330.jpg",
+        "alt": "granbelm"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "グランベルム",
     "start_date": "2019-07-06",
     "end_date": "2019-07-06",
     "opening_song": "\"Tsuki wo Ou Mayonaka (月を追う真夜中)\" by Eir Aoi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Negai (願い)\" by Uru (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "fantasy",

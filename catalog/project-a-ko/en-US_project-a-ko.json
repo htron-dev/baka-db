@@ -1,5 +1,9 @@
 {
     "title": "Project A-Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/58391.jpg",
+        "alt": "project-a-ko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "プロジェクトＡ子",

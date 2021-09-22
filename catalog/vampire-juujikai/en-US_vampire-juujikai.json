@@ -1,5 +1,9 @@
 {
     "title": "Vampire Juujikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145329.jpg",
+        "alt": "vampire-juujikai"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "44",

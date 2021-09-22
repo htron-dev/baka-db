@@ -1,5 +1,9 @@
 {
     "title": "Cinderalla-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1167.jpg",
+        "alt": "cinderalla-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "シンデラーラちゃん",

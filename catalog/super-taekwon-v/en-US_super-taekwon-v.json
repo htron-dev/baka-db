@@ -1,5 +1,9 @@
 {
     "title": "Super Taekwon V",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/44672.jpg",
+        "alt": "super-taekwon-v"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "슈퍼 태권 V",

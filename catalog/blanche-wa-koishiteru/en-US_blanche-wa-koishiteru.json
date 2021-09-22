@@ -1,5 +1,9 @@
 {
     "title": "Blanche wa Koishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153389.jpg",
+        "alt": "blanche-wa-koishiteru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ブランジェは恋してる",

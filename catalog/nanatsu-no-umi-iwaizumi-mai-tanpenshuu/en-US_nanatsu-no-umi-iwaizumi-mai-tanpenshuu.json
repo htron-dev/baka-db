@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Umi: Iwaizumi Mai Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241522.jpg",
+        "alt": "nanatsu-no-umi-iwaizumi-mai-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

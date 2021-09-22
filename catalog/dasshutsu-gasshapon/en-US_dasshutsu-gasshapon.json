@@ -1,5 +1,9 @@
 {
     "title": "Dasshutsu Gasshapon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76335.jpg",
+        "alt": "dasshutsu-gasshapon"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "脱出ガシャポン",

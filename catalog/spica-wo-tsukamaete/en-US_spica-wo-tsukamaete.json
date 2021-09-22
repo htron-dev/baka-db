@@ -1,5 +1,9 @@
 {
     "title": "Spica wo Tsukamaete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246789.jpg",
+        "alt": "spica-wo-tsukamaete"
+    },
     "type": "manga",
     "original_name": "スピカをつかまえて",
     "start_date": "2021-06-17",

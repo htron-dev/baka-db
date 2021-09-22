@@ -1,5 +1,9 @@
 {
     "title": "Kuushitsu Nashi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15922.jpg",
+        "alt": "kuushitsu-nashi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "空室なし！！",

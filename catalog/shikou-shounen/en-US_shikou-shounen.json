@@ -1,5 +1,9 @@
 {
     "title": "Shikou Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164513.jpg",
+        "alt": "shikou-shounen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

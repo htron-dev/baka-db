@@ -1,5 +1,9 @@
 {
     "title": "Oishii Study",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12371.jpg",
+        "alt": "oishii-study"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Kiyoku Tadashiku, Stalker Shimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205524.jpg",
+        "alt": "kiyoku-tadashiku-stalker-shimasu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Machigattemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177584.jpg",
+        "alt": "sensei-machigattemasu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

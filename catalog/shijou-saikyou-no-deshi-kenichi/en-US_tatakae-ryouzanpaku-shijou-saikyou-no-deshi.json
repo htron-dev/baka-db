@@ -1,5 +1,9 @@
 {
     "title": "Tatakae! Ryouzanpaku Shijou Saikyou no Deshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30037.jpg",
+        "alt": "tatakae-ryouzanpaku-shijou-saikyou-no-deshi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

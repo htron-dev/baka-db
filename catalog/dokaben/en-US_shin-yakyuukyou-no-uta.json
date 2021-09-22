@@ -1,5 +1,9 @@
 {
     "title": "Shin Yakyuukyou no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142679.jpg",
+        "alt": "shin-yakyuukyou-no-uta"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "82",

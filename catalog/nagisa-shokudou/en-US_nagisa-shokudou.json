@@ -1,5 +1,9 @@
 {
     "title": "Nagisa Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149054.jpg",
+        "alt": "nagisa-shokudou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "47",

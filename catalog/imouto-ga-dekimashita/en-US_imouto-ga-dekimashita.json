@@ -1,5 +1,9 @@
 {
     "title": "Imouto ga Dekimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165027.jpg",
+        "alt": "imouto-ga-dekimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

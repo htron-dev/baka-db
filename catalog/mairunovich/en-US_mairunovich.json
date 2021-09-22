@@ -1,5 +1,9 @@
 {
     "title": "Mairunovich",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121261.jpg",
+        "alt": "mairunovich"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "82",

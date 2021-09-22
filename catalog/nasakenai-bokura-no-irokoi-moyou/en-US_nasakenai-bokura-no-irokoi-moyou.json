@@ -1,5 +1,9 @@
 {
     "title": "Nasakenai Bokura no Irokoi Moyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199276.jpg",
+        "alt": "nasakenai-bokura-no-irokoi-moyou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "29",

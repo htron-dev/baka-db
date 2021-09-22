@@ -1,5 +1,9 @@
 {
     "title": "Crayon Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/71888.jpg",
+        "alt": "crayon-angel"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "CRAYON ANGEL",

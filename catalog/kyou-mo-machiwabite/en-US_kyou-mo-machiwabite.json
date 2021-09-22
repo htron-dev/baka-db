@@ -1,5 +1,9 @@
 {
     "title": "Kyou mo Machiwabite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27070.jpg",
+        "alt": "kyou-mo-machiwabite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "39",

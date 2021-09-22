@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5778.jpg",
+        "alt": "goshujinsama-to-watashi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "御主人様と私",

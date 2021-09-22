@@ -1,5 +1,9 @@
 {
     "title": "Nine no Keiyakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163113.jpg",
+        "alt": "nine-no-keiyakusho"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

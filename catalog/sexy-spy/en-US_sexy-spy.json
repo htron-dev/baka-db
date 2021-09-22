@@ -1,5 +1,9 @@
 {
     "title": "Sexy spy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26498.jpg",
+        "alt": "sexy-spy"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "섹시한 스파이",

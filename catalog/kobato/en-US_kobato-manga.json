@@ -1,5 +1,9 @@
 {
     "title": "Kobato.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154345.jpg",
+        "alt": "kobato"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "40",

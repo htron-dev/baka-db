@@ -1,12 +1,16 @@
 {
     "title": "Chameleon (OVA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/10924.jpg",
+        "alt": "chameleon-ova"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "カメレオン",
     "start_date": "1992-02-19",
     "end_date": "1992-02-19",
     "opening_song": "\"Koi no Bad Timing (恋のバッドタイミング)\" by Saburou Takada (ep 6)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Old Fashioned Approach\" by Mika Chiba (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

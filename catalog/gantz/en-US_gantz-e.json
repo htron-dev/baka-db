@@ -1,7 +1,11 @@
 {
     "title": "Gantz:E",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233450.jpg",
+        "alt": "gantz-e"
+    },
     "type": "manga",
-    "original_name": "GANTZ",
+    "original_name": "GANTZ:E",
     "start_date": "2020-01-09",
     "tags": [
         "action",

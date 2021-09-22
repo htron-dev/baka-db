@@ -1,5 +1,9 @@
 {
     "title": "Koukaku no Pandora: Pandoradio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1495/92705.jpg",
+        "alt": "koukaku-no-pandora-pandoradio"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "パンドラジオ",

@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam 00 - A Wakening of the Trailblazer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111843.jpg",
+        "alt": "mobile-suit-gundam-00-a-wakening-of-the-trailblazer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

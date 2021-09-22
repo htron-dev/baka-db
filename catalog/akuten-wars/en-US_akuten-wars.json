@@ -1,5 +1,9 @@
 {
     "title": "Akuten Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201573.jpg",
+        "alt": "akuten-wars"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "悪天ウォーズ",

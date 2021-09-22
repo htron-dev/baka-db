@@ -1,5 +1,9 @@
 {
     "title": "GJ8man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/82312.jpg",
+        "alt": "gj-8-man"
+    },
     "type": "ona",
     "original_name": "GJ8 マン",
     "start_date": "2016-10-08",

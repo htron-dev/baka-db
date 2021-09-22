@@ -1,5 +1,9 @@
 {
     "title": "Hitori de Shinitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247781.jpg",
+        "alt": "hitori-de-shinitai"
+    },
     "type": "manga",
     "original_name": "ひとりでしにたい",
     "start_date": "2019-07-22",

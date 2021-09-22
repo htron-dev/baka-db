@@ -1,5 +1,9 @@
 {
     "title": "Akita Land Gothic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234490.jpg",
+        "alt": "akita-land-gothic"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

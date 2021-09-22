@@ -1,5 +1,9 @@
 {
     "title": "Tales of Vesperia: Kokuu no Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159968.jpg",
+        "alt": "tales-of-vesperia-kokuu-no-kamen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

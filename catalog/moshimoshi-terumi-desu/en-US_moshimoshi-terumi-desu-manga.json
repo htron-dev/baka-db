@@ -1,5 +1,9 @@
 {
     "title": "Moshimoshi, Terumi desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206374.jpg",
+        "alt": "moshimoshi-terumi-desu"
+    },
     "type": "manga",
     "chapters": "90",
     "original_name": "もしもし、てるみです。",

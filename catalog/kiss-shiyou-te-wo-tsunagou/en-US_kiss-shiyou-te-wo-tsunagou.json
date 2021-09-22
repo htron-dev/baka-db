@@ -1,5 +1,9 @@
 {
     "title": "Kiss Shiyou Te wo Tsunagou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16810.jpg",
+        "alt": "kiss-shiyou-te-wo-tsunagou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

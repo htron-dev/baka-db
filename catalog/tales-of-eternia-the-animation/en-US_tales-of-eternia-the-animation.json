@@ -1,5 +1,9 @@
 {
     "title": "Tales of Eternia The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/42089.jpg",
+        "alt": "tales-of-eternia-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "テイルズ オブ エターニア THE ANIMATION",

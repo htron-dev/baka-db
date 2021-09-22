@@ -1,12 +1,16 @@
 {
     "title": "Radiant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1318/95345.jpg",
+        "alt": "radiant"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "ラディアン",
     "start_date": "2018-10-06",
     "end_date": "2018-10-06",
     "opening_song": "\"Utopia\" by 04 Limited Sazabys",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Radiant (ラディアン)\" by Polkadot Stingray (eps 1-16, 18-21)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Radiant_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Radiant_%28TV_series%29"
         }
     ]
 }

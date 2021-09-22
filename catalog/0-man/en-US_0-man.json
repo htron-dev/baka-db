@@ -1,5 +1,9 @@
 {
     "title": "0 Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237671.jpg",
+        "alt": "0-man"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "45",

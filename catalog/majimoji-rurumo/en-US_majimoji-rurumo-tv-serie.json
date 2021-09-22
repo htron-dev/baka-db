@@ -1,12 +1,16 @@
 {
     "title": "Majimoji Rurumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/64443.jpg",
+        "alt": "majimoji-rurumo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "まじもじるるも",
     "start_date": "2014-07-09",
     "end_date": "2014-07-09",
     "opening_song": "\"Seiippai, Tsutaetai! (せいいっぱい、伝えたい！)\" by Suzuko Mimori",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Futari no Chronostasis (ふたりのクロノスタシス)\" by Yurika Endou (eps 1-10, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

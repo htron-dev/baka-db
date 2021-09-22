@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu no Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36127.jpg",
+        "alt": "chikyuu-no-akuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143993.jpg",
+        "alt": "usotsuki-na-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

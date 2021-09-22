@@ -1,5 +1,9 @@
 {
     "title": "Kare wa S-kei Seitokaichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35235.jpg",
+        "alt": "kare-wa-s-kei-seitokaichou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

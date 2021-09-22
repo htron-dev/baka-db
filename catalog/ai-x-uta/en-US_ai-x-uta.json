@@ -1,5 +1,9 @@
 {
     "title": "Ai x Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184983.jpg",
+        "alt": "ai-x-uta"
+    },
     "type": "manga",
     "original_name": "天誅 × 神曲《アイウタ》",
     "start_date": "2016-06-16",

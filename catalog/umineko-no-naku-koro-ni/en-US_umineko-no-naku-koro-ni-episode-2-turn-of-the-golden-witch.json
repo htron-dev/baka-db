@@ -1,9 +1,13 @@
 {
     "title": "Umineko no Naku Koro ni - Episode 2: Turn of the Golden Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21284.jpg",
+        "alt": "umineko-no-naku-koro-ni-episode-2-turn-of-the-golden-witch"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",
-    "original_name": "うみねこのなく頃に - Episode 2",
+    "original_name": "うみねこのなく頃に - Episode 2: Turn of the Golden Witch",
     "start_date": "2009-07-22",
     "end_date": "2009-07-22",
     "tags": [

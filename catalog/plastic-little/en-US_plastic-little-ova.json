@@ -1,5 +1,9 @@
 {
     "title": "Plastic Little",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/2599.jpg",
+        "alt": "plastic-little"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "プラスチックリトル",

@@ -1,5 +1,9 @@
 {
     "title": "Ninja Ryuukenden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/69415.jpg",
+        "alt": "ninja-ryuukenden"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "忍者龍剣伝",

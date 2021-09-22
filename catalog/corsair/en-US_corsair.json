@@ -1,5 +1,9 @@
 {
     "title": "Corsair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/47043.jpg",
+        "alt": "corsair"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

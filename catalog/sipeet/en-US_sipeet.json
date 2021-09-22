@@ -1,5 +1,9 @@
 {
     "title": "Sipeet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238487.jpg",
+        "alt": "sipeet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

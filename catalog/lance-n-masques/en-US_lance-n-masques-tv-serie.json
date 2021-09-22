@@ -1,5 +1,9 @@
 {
     "title": "Lance N' Masques",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/76576.jpg",
+        "alt": "lance-n-masques"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ランス・アンド・マスクス",

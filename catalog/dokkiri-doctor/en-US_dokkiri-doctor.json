@@ -1,12 +1,16 @@
 {
     "title": "Dokkiri Doctor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/21169.jpg",
+        "alt": "dokkiri-doctor"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "どっきりドクター",
     "start_date": "1998-10-21",
     "end_date": "1998-10-21",
     "opening_song": "\"Nenai, Nenai, Nenai\" by The Castanets",
-    "ending_song": "#01",
+    "ending_song": "#01: \"I Wish\" by Electric Combat (Eps 01-19)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

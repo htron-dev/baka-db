@@ -1,5 +1,9 @@
 {
     "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
+        "alt": "neon-genesis-evangelion-the-end-of-evangelion"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION",

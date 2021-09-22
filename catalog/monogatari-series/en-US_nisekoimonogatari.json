@@ -1,5 +1,9 @@
 {
     "title": "Nisekoimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/73095.jpg",
+        "alt": "nisekoimonogatari"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ニセコイモノガタリ",

@@ -1,5 +1,9 @@
 {
     "title": "Suppli Extra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32783.jpg",
+        "alt": "suppli-extra"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

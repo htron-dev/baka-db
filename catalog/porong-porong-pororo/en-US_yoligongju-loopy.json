@@ -1,5 +1,9 @@
 {
     "title": "Yoligongju Loopy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/66635.jpg",
+        "alt": "yoligongju-loopy"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "요리공주 루피",

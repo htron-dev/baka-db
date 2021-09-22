@@ -1,5 +1,9 @@
 {
     "title": "The iDOLM@STER Live For You!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/39771.jpg",
+        "alt": "the-i-dolm-ster-live-for-you"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アイドルマスター ライブフォーユー!",

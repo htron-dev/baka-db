@@ -1,5 +1,9 @@
 {
     "title": "4 Cut Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204866.jpg",
+        "alt": "4-cut-hero"
+    },
     "type": "manhwa",
     "original_name": "4컷용사",
     "start_date": "2014-08-18",

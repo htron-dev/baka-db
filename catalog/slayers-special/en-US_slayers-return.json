@@ -1,5 +1,9 @@
 {
     "title": "Slayers Return",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/34997.jpg",
+        "alt": "slayers-return"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スレイヤーズ RETURN",

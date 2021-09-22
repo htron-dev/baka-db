@@ -1,5 +1,9 @@
 {
     "title": "raven;od",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59559.jpg",
+        "alt": "raven-od"
+    },
     "type": "manga",
     "original_name": "レイヴン;オーディ",
     "tags": [

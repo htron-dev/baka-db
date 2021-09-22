@@ -1,5 +1,9 @@
 {
     "title": "Hakuyou Ayakashi Gatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60113.jpg",
+        "alt": "hakuyou-ayakashi-gatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

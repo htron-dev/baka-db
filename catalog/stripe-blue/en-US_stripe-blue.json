@@ -1,5 +1,9 @@
 {
     "title": "Stripe Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6762.jpg",
+        "alt": "stripe-blue"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "ストライプ・ブルー",

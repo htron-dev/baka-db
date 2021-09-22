@@ -1,5 +1,9 @@
 {
     "title": "Highlander: The Search for Vengeance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/10219.jpg",
+        "alt": "highlander-the-search-for-vengeance"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハイランダー",

@@ -1,5 +1,9 @@
 {
     "title": "Yakusoku no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80043.jpg",
+        "alt": "yakusoku-no-ie"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "約束の家",

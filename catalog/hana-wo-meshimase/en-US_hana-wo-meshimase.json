@@ -1,5 +1,9 @@
 {
     "title": "Hana wo Meshimase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177903.jpg",
+        "alt": "hana-wo-meshimase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

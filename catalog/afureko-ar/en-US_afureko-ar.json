@@ -1,5 +1,9 @@
 {
     "title": "Afureko! AR",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86133.jpg",
+        "alt": "afureko-ar"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "あふれこ! AR",

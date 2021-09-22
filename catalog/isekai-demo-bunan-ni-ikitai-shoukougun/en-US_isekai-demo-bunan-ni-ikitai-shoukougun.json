@@ -1,5 +1,9 @@
 {
     "title": "Isekai demo Bunan ni Ikitai Shoukougun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221848.jpg",
+        "alt": "isekai-demo-bunan-ni-ikitai-shoukougun"
+    },
     "type": "manga",
     "original_name": "異世界でも無難に生きたい症候群",
     "start_date": "2019-02-28",

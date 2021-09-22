@@ -1,12 +1,16 @@
 {
     "title": "Otogizoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/16736.jpg",
+        "alt": "otogizoushi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "お伽草子",
     "start_date": "2004-07-07",
     "end_date": "2004-07-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Zen (漸-ZEN)\" by Attack Haus (eps 1-13)",
+    "ending_song": "#1: \"Hoshi ni Negai wo (☆ に願いを)\" by Chieko Kawabe (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

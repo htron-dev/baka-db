@@ -1,5 +1,9 @@
 {
     "title": "Shinyaku Seisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3337.jpg",
+        "alt": "shinyaku-seisho"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "128",

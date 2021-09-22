@@ -1,5 +1,9 @@
 {
     "title": "Buchou wa Onee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160091.jpg",
+        "alt": "buchou-wa-onee"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

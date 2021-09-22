@@ -1,5 +1,9 @@
 {
     "title": "Birthday Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/11253.jpg",
+        "alt": "birthday-boy"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "축생일",

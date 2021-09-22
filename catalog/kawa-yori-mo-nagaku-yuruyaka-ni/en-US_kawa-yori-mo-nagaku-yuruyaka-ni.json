@@ -1,5 +1,9 @@
 {
     "title": "Kawa yori mo Nagaku Yuruyaka ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155935.jpg",
+        "alt": "kawa-yori-mo-nagaku-yuruyaka-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

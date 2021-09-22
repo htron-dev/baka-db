@@ -1,5 +1,9 @@
 {
     "title": "Ougon no Tane wo Shirimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158707.jpg",
+        "alt": "ougon-no-tane-wo-shirimasen-ka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

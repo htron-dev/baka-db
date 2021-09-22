@@ -1,5 +1,9 @@
 {
     "title": "Hatarakanai Saibou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211408.jpg",
+        "alt": "hatarakanai-saibou"
+    },
     "type": "manga",
     "original_name": "はたらかない細胞",
     "start_date": "2017-07-26",

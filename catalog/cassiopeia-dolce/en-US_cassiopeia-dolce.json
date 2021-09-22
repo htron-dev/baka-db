@@ -1,5 +1,9 @@
 {
     "title": "Cassiopeia Dolce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/19095.jpg",
+        "alt": "cassiopeia-dolce"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "カシオペア・ドルチェ",

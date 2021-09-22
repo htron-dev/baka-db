@@ -1,5 +1,9 @@
 {
     "title": "Koizora: Setsunai Koimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14961.jpg",
+        "alt": "koizora-setsunai-koimonogatari"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "30",

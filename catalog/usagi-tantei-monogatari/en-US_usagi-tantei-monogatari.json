@@ -1,5 +1,9 @@
 {
     "title": "Usagi Tantei Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/107949.jpg",
+        "alt": "usagi-tantei-monogatari"
+    },
     "type": "manga",
     "original_name": "うさぎ探偵物語",
     "start_date": "2012-06-25",

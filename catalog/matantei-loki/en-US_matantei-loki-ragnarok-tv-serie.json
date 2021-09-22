@@ -1,5 +1,9 @@
 {
     "title": "Matantei Loki Ragnarok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75300.jpg",
+        "alt": "matantei-loki-ragnarok"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "魔探偵ロキ RAGNAROK",

@@ -1,5 +1,9 @@
 {
     "title": "Princess Sword!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122615.jpg",
+        "alt": "princess-sword"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "43",

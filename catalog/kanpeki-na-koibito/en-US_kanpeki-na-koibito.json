@@ -1,5 +1,9 @@
 {
     "title": "Kanpeki na Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/31088.jpg",
+        "alt": "kanpeki-na-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

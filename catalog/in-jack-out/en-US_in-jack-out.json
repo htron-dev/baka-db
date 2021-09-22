@@ -1,5 +1,9 @@
 {
     "title": "In Jack Out",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170697.jpg",
+        "alt": "in-jack-out"
+    },
     "type": "manga",
     "original_name": "in JACK out",
     "start_date": "2010-12-25",

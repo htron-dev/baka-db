@@ -1,5 +1,9 @@
 {
     "title": "Zetsumetsu Kigu-shun.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1173/98280.jpg",
+        "alt": "zetsumetsu-kigu-shun"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "ぜつめつきぐしゅんっ。",

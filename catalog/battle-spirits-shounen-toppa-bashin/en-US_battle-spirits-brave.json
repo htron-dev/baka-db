@@ -1,12 +1,16 @@
 {
     "title": "Battle Spirits: Brave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/72210.jpg",
+        "alt": "battle-spirits-brave"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "バトルスピリッツ ブレイヴ",
     "start_date": "2010-09-12",
     "end_date": "2010-09-12",
     "opening_song": "\"Free\" by Karasu",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Netsuretsu ANSWER (「熱烈 ANSWER)\" by Daisuke Ono (eps 1-49)",
     "rating": "PG - Children",
     "tags": [
         "game",

@@ -1,5 +1,9 @@
 {
     "title": "Tanaka-ke, Tensei suru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247486.jpg",
+        "alt": "tanaka-ke-tensei-suru"
+    },
     "type": "manga",
     "original_name": "田中家、転生する。",
     "start_date": "2020-06-27",

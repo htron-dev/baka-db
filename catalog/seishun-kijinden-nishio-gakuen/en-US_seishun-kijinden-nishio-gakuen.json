@@ -1,5 +1,9 @@
 {
     "title": "Seishun Kijinden! Nishio Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199140.jpg",
+        "alt": "seishun-kijinden-nishio-gakuen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

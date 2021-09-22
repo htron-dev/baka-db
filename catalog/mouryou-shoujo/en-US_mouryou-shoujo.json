@@ -1,5 +1,9 @@
 {
     "title": "Mouryou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211197.jpg",
+        "alt": "mouryou-shoujo"
+    },
     "type": "manga",
     "original_name": "魍魎少女",
     "start_date": "2018-01-25",

@@ -1,5 +1,9 @@
 {
     "title": "New Doboku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80195.jpg",
+        "alt": "new-doboku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "24",

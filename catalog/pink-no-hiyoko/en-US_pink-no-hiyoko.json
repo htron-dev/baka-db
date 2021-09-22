@@ -1,5 +1,9 @@
 {
     "title": "Pink no Hiyoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177437.jpg",
+        "alt": "pink-no-hiyoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

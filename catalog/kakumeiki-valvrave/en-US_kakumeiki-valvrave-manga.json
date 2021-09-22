@@ -1,5 +1,9 @@
 {
     "title": "Kakumeiki Valvrave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115041.jpg",
+        "alt": "kakumeiki-valvrave"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Kacchuu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140027.jpg",
+        "alt": "kacchuu-san"
+    },
     "type": "manga",
     "original_name": "甲冑さん",
     "start_date": "2013-08-15",

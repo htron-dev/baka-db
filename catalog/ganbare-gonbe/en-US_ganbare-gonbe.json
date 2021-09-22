@@ -1,5 +1,9 @@
 {
     "title": "Ganbare Gonbe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/53777.jpg",
+        "alt": "ganbare-gonbe"
+    },
     "type": "tv-serie",
     "episodes": "77",
     "original_name": "がんばれゴンベ",

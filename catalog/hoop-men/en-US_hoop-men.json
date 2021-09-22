@@ -1,5 +1,9 @@
 {
     "title": "Hoop Men",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178942.jpg",
+        "alt": "hoop-men"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

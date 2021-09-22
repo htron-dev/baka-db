@@ -1,5 +1,9 @@
 {
     "title": "Yurushite Kachou-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143529.jpg",
+        "alt": "yurushite-kachou-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ゆるして課長様！",

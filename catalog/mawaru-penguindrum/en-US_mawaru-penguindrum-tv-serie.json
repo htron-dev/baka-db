@@ -1,12 +1,16 @@
 {
     "title": "Mawaru Penguindrum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/30238.jpg",
+        "alt": "mawaru-penguindrum"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "輪るピングドラム",
     "start_date": "2011-07-08",
     "end_date": "2011-07-08",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Nornir (ノルニル)\" by Etsuko Yakushimaru Metro Orchestra (eps 1-14)",
+    "ending_song": "#01: \"DEAR FUTURE\" by coaltar of the deepers (eps 1-9, 11-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

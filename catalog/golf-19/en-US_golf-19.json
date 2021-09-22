@@ -1,5 +1,9 @@
 {
     "title": "Golf 19",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141071.jpg",
+        "alt": "golf-19"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

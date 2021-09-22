@@ -1,5 +1,9 @@
 {
     "title": "Juugo Dokidoki Project!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/140387.jpg",
+        "alt": "juugo-dokidoki-project"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "獣吾ドキドキプロジェクト!",

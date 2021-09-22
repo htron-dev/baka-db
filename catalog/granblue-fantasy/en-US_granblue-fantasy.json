@@ -1,5 +1,9 @@
 {
     "title": "Granblue Fantasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212636.jpg",
+        "alt": "granblue-fantasy"
+    },
     "type": "light-novel",
     "original_name": "グランブルーファンタジー",
     "start_date": "2014-12-26",

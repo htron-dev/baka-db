@@ -1,5 +1,9 @@
 {
     "title": "Polaris Bell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28920.jpg",
+        "alt": "polaris-bell"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ポラリスベル",

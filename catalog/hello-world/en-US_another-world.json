@@ -1,5 +1,9 @@
 {
     "title": "Another World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1804/113788.jpg",
+        "alt": "another-world"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "アナザー・ワールド",

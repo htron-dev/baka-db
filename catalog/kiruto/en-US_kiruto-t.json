@@ -1,5 +1,9 @@
 {
     "title": "Kiruto T",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164801.jpg",
+        "alt": "kiruto-t"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

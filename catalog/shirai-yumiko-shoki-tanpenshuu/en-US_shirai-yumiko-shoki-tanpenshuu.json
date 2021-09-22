@@ -1,5 +1,9 @@
 {
     "title": "Shirai Yumiko Shoki Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38023.jpg",
+        "alt": "shirai-yumiko-shoki-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "白井弓子初期短篇集",

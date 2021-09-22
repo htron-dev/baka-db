@@ -1,5 +1,9 @@
 {
     "title": "Encirclement Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226318.jpg",
+        "alt": "encirclement-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

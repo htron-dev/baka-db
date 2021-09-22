@@ -1,5 +1,9 @@
 {
     "title": "Cupid ni Rakurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236173.jpg",
+        "alt": "cupid-ni-rakurai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

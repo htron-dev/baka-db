@@ -1,5 +1,9 @@
 {
     "title": "Kakumeiki Valvrave: Uragiri no Rakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113789.jpg",
+        "alt": "kakumeiki-valvrave-uragiri-no-rakuin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

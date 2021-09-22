@@ -1,5 +1,9 @@
 {
     "title": "Taiyou wa Kimi ni Kagayaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5610.jpg",
+        "alt": "taiyou-wa-kimi-ni-kagayaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

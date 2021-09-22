@@ -1,5 +1,9 @@
 {
     "title": "Mizu no Marginal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163293.jpg",
+        "alt": "mizu-no-marginal"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

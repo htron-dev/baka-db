@@ -1,5 +1,9 @@
 {
     "title": "Tales of HR",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1637/93339.jpg",
+        "alt": "tales-of-hr"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "ているず おぶ HR",

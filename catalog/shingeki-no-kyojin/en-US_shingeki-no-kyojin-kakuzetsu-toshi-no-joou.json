@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin: Kakuzetsu Toshi no Joou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134205.jpg",
+        "alt": "shingeki-no-kyojin-kakuzetsu-toshi-no-joou"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "7",

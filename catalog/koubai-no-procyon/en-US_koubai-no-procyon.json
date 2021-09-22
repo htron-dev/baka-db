@@ -1,5 +1,9 @@
 {
     "title": "Koubai no Procyon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142023.jpg",
+        "alt": "koubai-no-procyon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

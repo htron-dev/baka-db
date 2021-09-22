@@ -1,5 +1,9 @@
 {
     "title": "Tales of Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/48841.jpg",
+        "alt": "tales-of-gekijou"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "ているず おぶ 劇場",

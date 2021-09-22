@@ -1,5 +1,9 @@
 {
     "title": "Re:LIVE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85593.jpg",
+        "alt": "re-live"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "リ：ライブ",

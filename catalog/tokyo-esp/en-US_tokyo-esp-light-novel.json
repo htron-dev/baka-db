@@ -1,5 +1,9 @@
 {
     "title": "Tokyo ESP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161345.jpg",
+        "alt": "tokyo-esp"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

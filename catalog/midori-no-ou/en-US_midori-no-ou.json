@@ -1,5 +1,9 @@
 {
     "title": "Midori no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/29189.jpg",
+        "alt": "midori-no-ou"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "62",

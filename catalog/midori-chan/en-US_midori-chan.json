@@ -1,5 +1,9 @@
 {
     "title": "Midori-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1943/92898.jpg",
+        "alt": "midori-chan"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "みどりちゃん",

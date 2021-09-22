@@ -1,12 +1,16 @@
 {
     "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/90089.jpg",
+        "alt": "nanatsu-no-taizai-imashime-no-fukkatsu"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "七つの大罪 戒めの復活",
     "start_date": "2018-01-13",
     "end_date": "2018-01-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Howling\" by FLOW x GRANRODEO (eps 2-12)",
+    "ending_song": "#1: \"Howling\" by FLOW x GRANRODEO (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA_(%E6%BC%AB%E7%94%BB"
+            "link": "https://ja.wikipedia.org/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA_%28%E6%BC%AB%E7%94%BB%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Dr. Typhoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/46205.jpg",
+        "alt": "dr-typhoon"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "Dr.(ドク)タイフーン",

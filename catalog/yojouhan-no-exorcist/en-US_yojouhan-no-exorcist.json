@@ -1,5 +1,9 @@
 {
     "title": "Yojouhan no Exorcist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222559.jpg",
+        "alt": "yojouhan-no-exorcist"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

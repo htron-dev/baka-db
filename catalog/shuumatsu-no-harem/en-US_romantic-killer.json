@@ -1,5 +1,9 @@
 {
     "title": "Romantic Killer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236232.jpg",
+        "alt": "romantic-killer"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

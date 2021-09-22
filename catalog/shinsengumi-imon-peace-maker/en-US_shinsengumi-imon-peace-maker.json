@@ -1,5 +1,9 @@
 {
     "title": "Shinsengumi Imon Peace Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120697.jpg",
+        "alt": "shinsengumi-imon-peace-maker"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

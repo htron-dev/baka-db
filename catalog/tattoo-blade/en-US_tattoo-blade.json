@@ -1,5 +1,9 @@
 {
     "title": "Tattoo Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184656.jpg",
+        "alt": "tattoo-blade"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "TATTOO BLADE",

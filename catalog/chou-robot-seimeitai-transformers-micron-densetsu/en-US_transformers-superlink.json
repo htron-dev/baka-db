@@ -1,5 +1,9 @@
 {
     "title": "Transformers Superlink",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73878.jpg",
+        "alt": "transformers-superlink"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "トランスフォーマー スーパーリンク",

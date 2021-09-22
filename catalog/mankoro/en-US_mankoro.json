@@ -1,5 +1,9 @@
 {
     "title": "Mankoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200274.jpg",
+        "alt": "mankoro"
+    },
     "type": "manga",
     "chapters": "20",
     "original_name": "漫殺-マンコロ-",

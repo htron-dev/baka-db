@@ -1,5 +1,9 @@
 {
     "title": "Mirai Nikki: Redial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/104119.jpg",
+        "alt": "mirai-nikki-redial"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

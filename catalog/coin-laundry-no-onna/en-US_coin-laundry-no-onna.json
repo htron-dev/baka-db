@@ -1,5 +1,9 @@
 {
     "title": "Coin Laundry no Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194919.jpg",
+        "alt": "coin-laundry-no-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

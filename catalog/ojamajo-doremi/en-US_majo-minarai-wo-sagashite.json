@@ -1,5 +1,9 @@
 {
     "title": "Majo Minarai wo Sagashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1937/110713.jpg",
+        "alt": "majo-minarai-wo-sagashite"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "魔女見習いをさがして",

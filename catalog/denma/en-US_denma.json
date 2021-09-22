@@ -1,5 +1,9 @@
 {
     "title": "Denma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174115.jpg",
+        "alt": "denma"
+    },
     "type": "manhwa",
     "original_name": "덴마",
     "start_date": "2010-01-08",

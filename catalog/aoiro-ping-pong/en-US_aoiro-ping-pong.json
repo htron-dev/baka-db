@@ -1,5 +1,9 @@
 {
     "title": "Aoiro Ping Pong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230184.jpg",
+        "alt": "aoiro-ping-pong"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

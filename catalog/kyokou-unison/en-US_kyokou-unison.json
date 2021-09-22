@@ -1,5 +1,9 @@
 {
     "title": "Kyokou Unison",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246503.jpg",
+        "alt": "kyokou-unison"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Hare Tokidoki Buta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/63889.jpg",
+        "alt": "hare-tokidoki-buta"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "はれときどきぶた (1988)",

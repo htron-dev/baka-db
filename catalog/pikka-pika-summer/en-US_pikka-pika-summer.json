@@ -1,5 +1,9 @@
 {
     "title": "PikkaPika Summer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/74913.jpg",
+        "alt": "pikka-pika-summer"
+    },
     "type": "tv-serie",
     "episodes": "31",
     "original_name": "ぴっかぴかサマー",

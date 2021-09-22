@@ -1,5 +1,9 @@
 {
     "title": "Hadashi no Gen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/10128.jpg",
+        "alt": "hadashi-no-gen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "はだしのゲン",

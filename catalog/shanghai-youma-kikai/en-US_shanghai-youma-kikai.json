@@ -1,5 +1,9 @@
 {
     "title": "Shanghai Youma Kikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1727.jpg",
+        "alt": "shanghai-youma-kikai"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "上海妖魔鬼怪",

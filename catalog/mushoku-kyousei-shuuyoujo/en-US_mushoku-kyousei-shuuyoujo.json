@@ -1,5 +1,9 @@
 {
     "title": "Mushoku Kyousei Shuuyoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187089.jpg",
+        "alt": "mushoku-kyousei-shuuyoujo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

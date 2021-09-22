@@ -1,5 +1,9 @@
 {
     "title": "Deko Boko Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/66749.jpg",
+        "alt": "deko-boko-friends"
+    },
     "type": "tv-serie",
     "episodes": "61",
     "original_name": "でこぼこフレンズ",

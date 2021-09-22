@@ -1,5 +1,9 @@
 {
     "title": "Mabeob Chunjamun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1701/100458.jpg",
+        "alt": "mabeob-chunjamun"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "마법천자문",

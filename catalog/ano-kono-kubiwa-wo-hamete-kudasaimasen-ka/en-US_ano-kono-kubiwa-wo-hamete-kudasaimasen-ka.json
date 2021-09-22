@@ -1,5 +1,9 @@
 {
     "title": "Ano, Kono Kubiwa wo Hamete Kudasaimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179130.jpg",
+        "alt": "ano-kono-kubiwa-wo-hamete-kudasaimasen-ka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

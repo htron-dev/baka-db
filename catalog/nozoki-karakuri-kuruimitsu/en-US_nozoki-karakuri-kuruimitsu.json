@@ -1,5 +1,9 @@
 {
     "title": "Nozoki Karakuri Kuruimitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40545.jpg",
+        "alt": "nozoki-karakuri-kuruimitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

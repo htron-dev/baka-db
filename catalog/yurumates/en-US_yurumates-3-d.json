@@ -1,5 +1,9 @@
 {
     "title": "Yurumates 3D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/36705.jpg",
+        "alt": "yurumates-3-d"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ゆるめいつ 3 でぃ",

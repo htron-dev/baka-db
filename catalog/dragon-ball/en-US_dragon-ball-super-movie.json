@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Super (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1433/116708.jpg",
+        "alt": "dragon-ball-super-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラゴンボール超 スーパーヒーロー",

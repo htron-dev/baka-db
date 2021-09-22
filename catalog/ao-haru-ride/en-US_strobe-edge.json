@@ -1,5 +1,9 @@
 {
     "title": "Strobe Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32966.jpg",
+        "alt": "strobe-edge"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "43",

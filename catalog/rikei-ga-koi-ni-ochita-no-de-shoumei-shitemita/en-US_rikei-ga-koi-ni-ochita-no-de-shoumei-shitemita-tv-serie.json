@@ -1,5 +1,9 @@
 {
     "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1432/103533.jpg",
+        "alt": "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "理系が恋に落ちたので証明してみた。",

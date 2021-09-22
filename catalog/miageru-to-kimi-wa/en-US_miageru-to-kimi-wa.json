@@ -1,5 +1,9 @@
 {
     "title": "Miageru to Kimi wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219457.jpg",
+        "alt": "miageru-to-kimi-wa"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

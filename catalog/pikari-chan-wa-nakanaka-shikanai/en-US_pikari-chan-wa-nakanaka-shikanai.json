@@ -1,5 +1,9 @@
 {
     "title": "Pikari-chan wa Nakanaka Shikanai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236256.jpg",
+        "alt": "pikari-chan-wa-nakanaka-shikanai"
+    },
     "type": "manga",
     "chapters": "15",
     "original_name": "ピカリちゃんはなかなかしなないっ!",

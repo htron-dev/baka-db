@@ -1,5 +1,9 @@
 {
     "title": "Sensei x Seito Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232855.jpg",
+        "alt": "sensei-x-seito-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Love Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24388.jpg",
+        "alt": "love-zero"
+    },
     "type": "manga",
     "start_date": "2008-12-20",
     "tags": [

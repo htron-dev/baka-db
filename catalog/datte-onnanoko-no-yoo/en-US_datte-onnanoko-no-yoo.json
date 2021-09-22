@@ -1,5 +1,9 @@
 {
     "title": "Datte Onnanoko no yoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152582.jpg",
+        "alt": "datte-onnanoko-no-yoo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

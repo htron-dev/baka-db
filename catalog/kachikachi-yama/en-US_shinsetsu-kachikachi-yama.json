@@ -1,5 +1,9 @@
 {
     "title": "Shinsetsu Kachikachi Yama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/77039.jpg",
+        "alt": "shinsetsu-kachikachi-yama"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "新説カチカチ山",

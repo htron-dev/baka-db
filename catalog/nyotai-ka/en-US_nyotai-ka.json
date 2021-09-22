@@ -1,5 +1,9 @@
 {
     "title": "Nyotai-ka.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51789.jpg",
+        "alt": "nyotai-ka"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "60",

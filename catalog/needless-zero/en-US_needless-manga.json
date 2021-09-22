@@ -1,5 +1,9 @@
 {
     "title": "Needless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/55177.jpg",
+        "alt": "needless"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "114",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Fortune Quest II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109621.jpg",
+        "alt": "shin-fortune-quest-ii"
+    },
     "type": "light-novel",
     "original_name": "新フォーチュン・クエスト II",
     "start_date": "2013-04-10",

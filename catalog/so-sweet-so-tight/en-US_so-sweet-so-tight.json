@@ -1,5 +1,9 @@
 {
     "title": "So Sweet So Tight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159641.jpg",
+        "alt": "so-sweet-so-tight"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

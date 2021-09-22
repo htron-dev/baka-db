@@ -1,5 +1,9 @@
 {
     "title": "Kyonshii Sennyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9928.jpg",
+        "alt": "kyonshii-sennyo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キョンシー仙女",

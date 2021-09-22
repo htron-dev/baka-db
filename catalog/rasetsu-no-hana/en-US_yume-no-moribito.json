@@ -1,5 +1,9 @@
 {
     "title": "Yume no Moribito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146693.jpg",
+        "alt": "yume-no-moribito"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

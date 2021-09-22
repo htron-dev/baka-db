@@ -1,5 +1,9 @@
 {
     "title": "Pochi no Shiawase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5066.jpg",
+        "alt": "pochi-no-shiawase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",
